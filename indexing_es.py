@@ -27,10 +27,9 @@ if __name__ == "__main__":
                 # row variable is a list that represents a row in csv
                 print(row)
                 article_json = {
-                    'id':         row[0],
                     'categories': categories(row[1]),
+                    'title_categories':  [],
                     'title':      row[2],
-                    'title_categories': [],
                     'author':     row[3],
                     'facicle':    row[4],
                     'year':       row[5],
@@ -38,4 +37,4 @@ if __name__ == "__main__":
                     'end_page':   row[7],
                     'pdf_link':   row[8]
                 }
-                es.index(index="racmyp_articles", document=article_json)
+                es.index(index="articles", id=row[0], document=article_json)

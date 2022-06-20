@@ -12,6 +12,7 @@ def title_analyzer(title):
     doc = nlp(str(title))
     list_categories = []
     # NOUN Chunks
+    print("NOUN Chunks")
     for word in doc.noun_chunks:
             #print(entity.text + ' - ' + entity.label_ + ' - ' + str(spacy.explain(entity.label_)))
         list_categories.append(word.text)
@@ -19,6 +20,8 @@ def title_analyzer(title):
         print(word.text, word.root.text, word.root.dep_,word.root.head.text)
 
     # TOKENS
+    print("TOKENS")
+
     for token in doc:
 
         if (token.tag_ == "NOUN"):
@@ -43,10 +46,12 @@ if __name__ == "__main__":
     for index, row in df.iterrows():
         title_categories = title_analyzer(row['title'])
 
-        #body_json = {
-        #    'categories': title_categories
-        #}
-        #es.update(index='racmyp_articles', id=row['id'], body=body_json)
+        body_json = {
+            'doc': {'title_categories': title_categories}
+        }
+
+        es.update(index='articles', id=row['id'], body=body_json)
+
 
 
     # put the original column names in a python list
