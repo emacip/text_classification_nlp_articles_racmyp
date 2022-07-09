@@ -29,6 +29,7 @@ if __name__ == "__main__":
                 article_json = {
                     'categories': categories(row[1]),
                     'title_categories':  [],
+                    'summarize_categories': [],
                     'title':      row[2],
                     'author':     row[3],
                     'facicle':    row[4],

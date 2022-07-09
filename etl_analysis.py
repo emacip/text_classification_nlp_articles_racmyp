@@ -32,7 +32,7 @@ def title_analyzer(title):
 
 
 
-#TODO check update ES index
+
 
 
 if __name__ == "__main__":
