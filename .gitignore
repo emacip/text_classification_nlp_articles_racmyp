@@ -1,3 +1,4 @@
 /articles_pdf
 /.idea
 venv/
+.ipynb_checkpoints/
