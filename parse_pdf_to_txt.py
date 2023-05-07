@@ -2,10 +2,9 @@ import pdftotext
 import os
 import shutil
 import pandas as pd
-from pdfrw import PdfReader, PdfWriter
 
 if __name__ == '__main__':
-    input_file = "racmyp_articles_1973.csv"
+    input_file = "racmyp_articles_all.csv"
     df = pd.read_csv(input_file, header=0)
     if os.path.exists("articles_txt"):
         shutil.rmtree("articles_txt")
