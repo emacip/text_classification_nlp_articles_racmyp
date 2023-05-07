@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     es = Elasticsearch()
 
-    with open('racmyp_articles_1973.csv', 'r') as articles:
+    with open('racmyp_articles_all.csv', 'r') as articles:
         # pass the file object to reader() to get the reader object
         csv_reader = reader(articles)
         header = next(csv_reader)

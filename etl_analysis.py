@@ -10,25 +10,37 @@ from elasticsearch import Elasticsearch
 def title_analyzer(title):
     nlp = spacy.load("es_core_news_sm")
     doc = nlp(str(title))
-    list_categories = []
-    # NOUN Chunks
-    print("NOUN Chunks")
-    for word in doc.noun_chunks:
-            #print(entity.text + ' - ' + entity.label_ + ' - ' + str(spacy.explain(entity.label_)))
-        list_categories.append(word.text)
-        #if (token.tag_ == "NOUN" ) :
-        print(word.text, word.root.text, word.root.dep_,word.root.head.text)
 
-    # TOKENS
-    print("TOKENS")
 
-    for token in doc:
+    print(title)
+    # Extract the noun phrases from the document
+    noun_phrases = []
+    for chunk in doc.noun_chunks:
+        if len(chunk) >= 1:
+            noun_phrases.append(chunk)
 
-        if (token.tag_ == "NOUN"):
-            #list_categories.append(token.text)
-            print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
-    #TODO Is it the best way to do it ?? prefer only NOUN??
-    return list_categories
+    # Extract the individual nouns from the noun phrases
+    nouns = []
+    for phrase in noun_phrases:
+        for token in phrase:
+            if len(token) > 2 and (token.pos_ == "NOUN" or token.pos_ == "PROPN"):
+                new_phrase = remove_stopwords(phrase.text, nlp)
+                if new_phrase != "":
+                    nouns.append(new_phrase)
+                    break
+
+    # Print the result
+    print(nouns)
+    return nouns
+
+
+def remove_stopwords(text, nlp):
+    if text.isupper():
+        text = text.lower()
+    doc = nlp(str(text))
+
+    tokens = [token.text for token in doc if not token.is_stop and not token.is_punct]
+    return " ".join(tokens)
 
 
 
@@ -36,8 +48,8 @@ def title_analyzer(title):
 
 
 if __name__ == "__main__":
-    corpus_path = r"articles_pdf"
-    input_file = "racmyp_articles_1973.csv"
+    #corpus_path = r"articles_pdf" #TODO ???? can we deleted?
+    input_file = "racmyp_articles_all.csv"
     es = Elasticsearch()
     # comma delimited is the default
     #df = pd.read_csv(input_file, header=0, converters={'category': literal_eval})
