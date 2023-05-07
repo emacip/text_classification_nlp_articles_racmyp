@@ -1,0 +1,728 @@
+MIDIENDO LA INTERNACIONALIZACIÓN
+ECONÓMICA CON PERSPECTIVA HISTORICA
+Por el A cadém ico de Número
+E xcm o. Sr. D. Jo sé María Serrano Sanz *
+
+Sr. Presidente, Sres. Académicos:
+Las relaciones económicas internacionales han experimentado una inten­
+sificación notoria en los últimos decenios, intensificación que acostumbra a carac­
+terizarse con el término “globalización”. A menudo esta globalización es vista como
+un fenómeno nuevo en la escena internacional, por más que algunos historiadores
+hayan insistido en que hubo otros tiempos dorados para el comercio y los movi­
+mientos de capitales entre países.
+Acaso uno de los problemas para que tengamos una mayor claridad
+sobre el perfil histórico de las relaciones económicas internacionales está en el
+propio término “globalización”, que se ha apoderado de la escena académica y
+hasta de los diccionarios. Hace sólo una decena de años no figuraba el término
+en el Diccionario de la Real Academia Española, donde únicamente aparecía el
+adjetivo “global” con el significado “tomado en su conjunto”. En cambio, ya en la
+última edición de la Academia aparece globalización con un significado estricta­
+mente referido al ámbito de la economía: “tendencia de los mercados y de las
+empresas a extenderse, alcanzando una dimensión mundial que sobrepasa las fron­
+teras nacionales”1.*1
+
+* Sesión del día 24 de octubre de 2006.
+1 Tampoco aparecía la palabra en el D iccion ario d e M aría M oliner y sí lo hace en el más reciente
+“Diccionario del español actual” de Seco, Andrés y Ramos.
+
+99
+
+
+
+En nuestra opinión, el término globalización aplicado a la economía inter­
+nacional tiene connotaciones que pueden resultar equívocas. Primero, porque
+desde una perspectiva espacial, parece un episodio que alcanza a todos los rinco­
+nes del planeta y, segundo, porque desde una óptica temporal, evoca novedad e
+irreversibilidad.
+Sin embargo, la intensificación de las relaciones comerciales y financieras
+a la que parecemos asistir está lejos de ser homogénea entre las distintas áreas del
+mundo. Es cierto que existen procesos de regionalización fuertes, apoyados en
+intensos lazos institucionales, como la Unión monetaria en Europa, que acaban por
+configurar espacios con una integración muy por encima del promedio mundial.
+Pero también hay áreas, como buena parte del África subsahariana, con vínculos
+económicos tan débiles entre sí y con el exterior que están más cerca de la exclu­
+sión que de esa pretendida globalización económica. De modo que una perspec­
+tiva espacial de la economía internacional nos ofrece un panorama complejo y una
+evolución que no es uniforme, como parece evocar el término globalización.
+Y esto tampoco es azar o capricho, pues hay explicaciones lógicas del
+fenómeno. Krugman ha hablado de la existencia de “áreas naturales de comercio”,
+aquéllas en las cuales se reducen al mínimo los costes de transacción que imponen
+la geografía o las diferencias de legislación, lengua o costumbres, permitiendo así
+maximizar las ganancias de bienestar derivadas del comercio. Un concepto parale­
+lo son las “áreas monetarias óptimas” de Mundell, en las cuales el beneficio para
+un grupo de países de compartir una moneda supera a los costes de renunciar a la
+soberanía monetaria, si el comercio y las transacciones financieras internas son una
+proporción elevada de las totales de cada país. Y hasta en términos de negociacio­
+nes internacionales se ha probado que los incentivos para participar en un proce­
+so con un conjunto reducido de países son más visibles y los costes de alcanzar
+acuerdos menores, que si se trata de negociaciones abiertas a todo el mundo.
+Y si la intensificación de las relaciones económicas no es homogénea en
+términos espaciales, tampoco es una novedad desde una perspectiva histórica y el
+aroma de irreversibilidad que desprende sólo es una quimera del historicismo. Esto
+lo vamos a tratar de justificar con más detalle a continuación, puesto que es el
+objeto de nuestra exposición de hoy. Pero déjenme concluir esta pequeña intro­
+ducción diciendo que, en lo que sigue, utilizaremos una expresión acaso menos
+solemne pero más concreta que globalización. Nos referiremos a la evolución en
+el último siglo y medio -e l periodo para el que tenemos datos más precisos- del
+grado de internacionalización en los mercados de bienes y capitales.
+La forma de medir la internacionalización varía entre atender a las canti­
+dades intercambiadas o al grado de aproximación de los precios. Si el volumen de
+los intercambios de bienes o activos financieros entre países crece por encima de
+
+100
+
+
+
+la renta se habla de una economía más internacionalizada. Si se mide con precios,
+se comparan las cotizaciones de bienes homogéneos, o bien, en el caso de los
+capitales se comparan los tipos de interés reales, y se toma la aproximación como
+una prueba de integración. Una vez establecido en cada caso el perfil de la inter­
+nacionalización a lo largo del último siglo y medio, repasaremos las causas de lo
+ocurrido. Será éste el momento de destacar el papel de las instituciones y de las
+ideas, como factores fundamentales en la creación unas veces y en la remoción
+otras, de estímulos y obstáculos a los intercambios internacionales. Terminaremos
+con unas breves reflexiones sobre la pretendida irreversibilidad, de éste o de cual­
+quier otro fenómeno histórico.
+
+Y empezamos con las medidas de integración en el mercado de bienes
+Comprobar si las cantidades de bienes intercambiadas en los mercados
+internacionales crecen más deprisa que la propia producción es aparentemente
+sencillo. De un lado disponemos de buenas series de renta para gran número de
+países, incluso de estimaciones fiables para el conjunto del mundo, y de otro, los
+datos de comercio exterior nunca han sido un problema. Como las aduanas han
+registrado puntualmente el comercio en numerosos países, las estadísticas de
+exportaciones e importaciones están disponibles para series largas y al poder cru­
+zar los datos de un país con los referidos al mismo en los demás, podemos defen­
+der su razonable fiabilidad. (Cierto es que para España, nuestro compañero
+Valentín Andrés Álvarez puso en cuarentena la fiabilidad de las estadísticas del
+comercio exterior, pero la historiografía más reciente ha comprobado ya que los
+sesgos no las invalidan, pues son los corrientes en series históricas).
+Hecha esta puntualización, recordaremos que el indicador más sencillo y
+con más capacidad informativa es la proporción del comercio exterior en relación
+con la renta. Pues bien, una estimación como la que aparece en el Gráfico 1 pro­
+porciona una idea bastante nítida del perfil que ha tenido la internacionalización
+en los mercados de bienes a lo largo de los dos últimos siglos. Hay una primera
+etapa de intensa internacionalización entre comienzos del XIX y 1913, momento
+en el cual se produce una brusca inversión. En vísperas de la crisis del 29 no se
+habían alcanzado todavía las proporciones de preguerra y en los años siguientes
+aún cayó más el comercio como resultado de la depresión y las políticas con que
+se pretendió combatir y, por supuesto, por efecto de la segunda guerra mundial.
+Desde entonces se inicia una nueva ola de internacionalización, que llega hasta
+hoy, aunque es preciso esperar a los setenta para que el comercio alcance sobre
+la renta los niveles de comienzos del XX. En España, por ejemplo, la proporción
+de 1913 no se alcanza hasta 1974.
+
+101
+
+
+
+G ráfico 1
+
+Comercio internacional como porcentaje del PIB
+
+1800
+
+1870
+
+1900
+
+1913
+
+1 929
+
+1938
+
+1950
+
+1973
+
+1992
+
+Fuente: Estevadeordal, Frantz and Taylor (2003).
+
+De modo que el perfil parece muy claro: hay dos grandes oleadas de
+internacionalización, separadas por otra de introversión con límites en ambas
+guerras mundiales. En cuanto a niveles, el grado de internacionalización es apa­
+rentemente más acusado en la actualidad. Y digo aparentemente porque existe
+un sesgo al alza en la medición más reciente debido al mayor peso relativo en
+el comercio actual de los productos semielaborados frente a los terminados. Lo
+que queremos decir es que al hacer la ratio exportación/renta mundial estamos
+poniendo en relación una variable producto con una variable de valor añadido.
+Esto significa que si un motor se exporta a España, y España a su vez exporta el
+coche que lo incorpora, el valor de ese motor estará doblemente contabilizado en
+las Estadísticas comerciales, sin que lo esté, por supuesto, en el agregado de renta
+mundial. Por consiguiente, cuanto mayor sea la importancia relativa del comercio
+de productos intermedios, mayor será el sesgo de exageración de la ratio, lo cual
+precisamente nos impide, dada la mayor presencia de bienes intermedios en el
+comercio del siglo XXI, declarar de forma categórica que el grado de internacio­
+nalización comercial ha superado hoy al de principios del siglo XX. En otras
+palabras, aunque la tendencia es indiscutible, no puede negarse que estamos
+viviendo una etapa de internacionalización, lo que no se está en condiciones de
+probar vía flujos comerciales es que el nivel de integración actual supere al del
+mítico 1913.
+
+102
+
+
+
+Una forma alternativa de proceder, de hecho la forma ideal, sería medir
+la integración a través de la aproximación de los precios de un mismo producto
+en diversos países. Porque la convergencia en precios es una prueba inequívoca
+de la integración de los mercados, entendiendo por integración la desaparición de
+barreras al intercambio. Pero en la práctica, examinar la convergencia en precios
+para un período histórico tan prolongado plantea graves problemas de informa­
+ción puesto que los bienes industriales, los principales bienes comerciados hoy,
+no se mantienen homogéneos a lo largo del tiempo y, en consecuencia, resulta
+difícil discernir qué parte de los diferenciales entre países son imputables a obstá­
+culos al comercio, esto es, a la ausencia de integración de mercados nacionales, y
+que parte está simplemente reflejando calidades distintas de un mismo bien. Para
+asegurarnos la comparabilidad a muy largo plazo, debe por el momento recurrirse a productos como los primarios. Así, los precios del trigo desde 1800 a 2000 en
+dos mercados nacionales, uno productor y otro consumidor (Gráfico 2) nos mues­
+tran un evidente acercamiento a lo largo del XIX, agotado tras la gran guerra.
+Desde entonces, aun con las clásicas fluctuaciones de los mercados agrícolas, la
+integración en promedio no ha mejorado, sino que -seguramente como conse­
+cuencia del proteccionismo agrícola del siglo X X - los precios se han hecho más
+divergentes. En otras palabras, el mercado de trigo está menos integrado a fines
+del siglo XX que a comienzos del mismo.
+
+G ráfico 2
+
+Diferencia entre los precios del trigo USA-Gran Bretaña
+(Media de 3 años en % del valor)
+
+Fuente: O'Rourke (2002).
+
+103
+
+
+
+Si se analizan mercados alternativos de productos primarios, las conclusio­
+nes son muy parecidas: fuerte acercamiento de los precios en el XIX y escasos avan­
+ces o leves retrocesos en el XX. Las informaciones sobre artículos manufacturados
+son fragmentarias y se refieren casi en exclusiva a los últimos decenios. En ellas sí
+parece claro el acercamiento de los precios y la integración de mercados, aunque,
+como se decía, nos faltarían aquí elementos de comparación con la etapa previa.
+
+Con todos estos matices, a pesar de que a veces se trata de indicios frag­
+mentarios o parciales, tanto la óptica de las cantidades como la de los precios,
+muestran dos grandes etapas de internacionalización en los mercados de bienes
+desde mediados del XEX, separadas por otra de introversión. Ahora bien, ¿Cuáles
+han sido las razones de ese comportamiento? ¿Qué fuerzas han empujado hacia la
+integración y cuáles al aislamiento?
+Tanto economistas como historiadores suelen distinguir dos factores expli­
+cativos fundamentales: los cambios en los costes de comerciar con otros países y
+las políticas económicas favorables o restrictivas para el comercio.
+Aunque los obstáculos puramente físicos y no políticos al comercio son
+múltiples, se acostumbra a simplificarlos tomando a los costes de transporte como
+los más representativos. Y dentro de ellos son los fletes marítimos los que centran
+la atención en el estudio del comercio internacional. Pues bien, a pesar de la com­
+plejidad de proceder a homogeneizarlos disponemos de índices de fletes en térmi­
+nos reales desde mediados del XIX hasta el presente (Gráfico 3)- El coste del trans­
+porte marítimo se redujo prácticamente a la mitad entre 1870 y 1913 al compás de
+la generalización de la navegación a vapor, innovaciones sidero-metalúrgicas y la
+apertura de Suez y Panamá. Las dos guerras, como es lógico, supusieron un con­
+siderable aumento de los fletes, debido al riesgo de la propia navegación, si bien
+lo que resulta más notable es la interrupción de la trayectoria descendente que se
+aprecia tras la segunda guerra mundial. Parece que los avances técnicos en la mari­
+na, de forma destacadísima la generalización de los contenedores -capaces de
+rebajar los anteriormente elevadísimos tiempos muertos en los puertos, de hasta
+2/3 de vida útil del barco-, no alcanzaron a compensar el aumento en el precio
+de los combustibles y sobre todo de la mano de obra, especialmente la utilizada
+en los puertos de países industriales en labores de estiba, así como las ineficien­
+cias acumuladas por los monopolios y las protecciones establecidas en los países
+en desarrollo. Por eso, en las estimaciones que se han hecho acerca de la influen­
+cia de los costes del transporte en el comercio internacional, aparece claro que
+fueron un factor decisivo en la expansión de fines del XIX y no lo han sido tanto
+en la actual etapa de internacionalización.
+
+104
+
+
+
+G ráfico 3
+
+índice de precios reales de los fletes marítimos
+(1884=1)
+
+1869
+
+1879
+
+1889
+
+1899
+
+1909
+
+1919
+
+1929
+
+1939
+
+1949
+
+1959
+
+1969
+
+1979
+
+1989
+
+1999
+
+Fuente: Hummels (1999); Mohammed and Williamson (2004).
+
+Ocurre precisamente lo contrario con el otro gran determinante, junto a
+los costes de transporte, del mayor o menor grado de integración de los mercados
+de bienes; nos referimos a las políticas comerciales. Es cierto que medir el grado
+de protección arancelaria y no arancelaria para períodos prolongados de tiempo
+•es más complejo de cuanto parece, pero disponemos de la suficiente información
+como para reconstruir la historia con cierto detalle. ¿Y qué nos dice esa historia?
+Pues nos dice que el siglo XIX comenzó en toda Europa con una políti­
+ca comercial heredada directamente del mercantilismo, con predominio de las pro­
+hibiciones sobre los aranceles altos. La iniciativa británica hacia un comercio más
+libre ejerció un liderazgo que a mediados de la centuria acabó por contagiar a la
+mayor parte del continente. En especial, tras la firma del tratado Cobden-Chevalier
+en 1860 y la posterior extensión de un sistema de acuerdos bilaterales que al incor­
+porar todos la cláusula de Nación más favorecida convertían en multilateral ese ori­
+ginario bilateralismo. Este proceso de liberalización toca fondo a finales de los
+setenta, cuando al compás de la crisis agrícola propiciada por el sustancial recor­
+te en los costes del transporte a que acabamos de referirnos, el recorte que per­
+mitió acercar a bajos precios las muy competitivas producciones extracontinenta­
+les, muchos países europeos sucumbieron a la tentación proteccionista. Se frenan
+entonces de forma generalizada los flujos con subidas de aranceles, aunque las
+
+105
+
+
+
+subidas fueron de distinto orden y más acusadas en la periferia, caso de España.
+Pero incluso en Gran Bretaña se vivió la tentación proteccionista, en forma de la
+campaña de Chamberlain en 1904, a favor de un sistema de preferencias imperiales.
+Y harto sabido es lo que vino después. El proteccionismo renace con
+fuerza tras la gran guerra, para en los años treinta, como dijera Schumpeter, hacer­
+se vigoroso con la depresión. Empiezan también entonces a usarse generalizadamente, además de aranceles, controles cuantitativos al comercio, una forma de
+protección menos visible pero más contundente, mantenida en la inmediata pos­
+guerra y aún más allá para ciertas producciones.
+Pero lo cierto, es que a pesar de esos retrocesos y otros producidos por
+la ideología de la industrialización sustitutiva de importaciones, muy generalizada
+en los cincuenta y sesenta en países atrasados, en los últimos decenios ha acaba­
+do por imponerse una nueva etapa de liberalización comercial. El éxito de algu­
+nos procesos de integración regional, léase Europa; el efecto demostración de los
+países que han optado por la estrategia de crecer vía exportación, Asia; la desapa­
+rición del bloque comunista del Este de Europa y, finalmente, el incentivo perma­
+nente de organismos multilaterales, el GATT antes, la Organización Mundial de
+Comercio ahora, todos ellos han sido factores impulsores en esa marcha hacia una
+mayor liberalización.
+Quedan restricciones al comercio, especialmente en productos agrícolas en
+los países desarrollados, pero la situación es incomparable con la de hace unos dece­
+nios. Por eso, cuando se contabiliza el papel relativo que los cambios en las princi­
+pales barreras al comercio han jugado en las dos grandes etapas de internacionaliza­
+ción, el consenso es unánime. A finales del XIX lo decisivo fue la rebaja en los costes
+de transporte y a finales del XX ha sido la liberalización de las políticas comerciales. •
+
+s¡s *
+
+*
+
+Pasemos a la internacionalización financiera. La internacionalización de los
+mercados de capitales, a menudo denominada globalización financiera, ha sido obje­
+to de creciente interés desde mediados de los ochenta entre los economistas. Y aquí
+la crisis y sucesivas recomposiciones del orden monetario internacional, la revolu­
+ción en los sistemas de comunicaciones, la progresiva liberalización de los movi­
+mientos de capitales no sólo a largo sino a corto plazo, las crisis financieras “globa­
+les” de los noventa, y finalmente la irrupción de los países denominados emergentes
+en la escena financiera internacional, han sido hitos de esa progresiva atención.
+También en este ámbito hay dificultades con la información disponible,
+si bien están desapareciendo a gran velocidad, sobre todo para los decenios
+
+106
+
+
+
+recientes. Aun así, disponemos de datos suficientes para echar la vista atrás y dibu­
+jar un perfil para el último siglo y medio. Como antes procedimos, empezamos por
+examinar los datos para luego considerar las razones que hay detrás de las dife­
+rentes tendencias.
+Al igual que al referirnos a los mercados de bienes, disponemos aquí de
+dos aproximaciones que proporcionan información complementaria. Podemos
+atender a las cantidades intercambiadas en los mercados o bien a la tendencia de
+los precios -e n este caso tipos de interés- a converger o diverger.
+Las cantidades intercambiadas en los mercados de capitales cabe analizarlas
+bajo dos prismas: el macroeconómico, es decir, atendiendo a los flujos de ahorro que
+circulan entre países, y el sectorial, examinando mercados de capitales concretos.
+La perspectiva macroeconómica, a su vez, ha sido objeto de dos trata­
+mientos diferentes: uno más descriptivo, que examina el tamaño de los saldos de
+la balanza por cuenta corriente de un grupo significativo de países, y otro, más
+elaborado, que analiza el ajuste de la correlación entre ahorro e inversión, el lla­
+mado test de Feldstein-Horioka. En ambos casos se trata, en última instancia, de
+comprobar si los flujos de financiación entre países aumentan o disminuyen en el
+tiempo. El supuesto de partida es que, en un mundo sin obstáculos, el ahorro
+busca las mejores oportunidades de inversión y, su movilidad, por consiguiente
+debería reflejarse en unos abultados saldos de las balanzas comentes, o en otros
+términos, reflejarse en una baja correlación entre ahorro e inversión nacional.
+Pues bien, para los recientes decenios los resultados están lejos de ser
+concluyentes; algunos estudios apoyan la existencia de esa movilidad internacional
+del ahorro, pero otros muestran una clara preferencia de los ahorradores y gesto­
+res del ahorro por los mercados autóctonos y hasta descubren la existencia de “esti­
+los nacionales”, con flujos de financiación muy estables desde unos países (Japón,
+Alemania y ahora también China) hacia otros (Estados Unidos y a otra escala
+España). Sin embargo, si adoptamos una perspectiva histórica, el diagnóstico es diá­
+fano: tanto los saldos de la balanza corriente como la correlación entre ahorro inter­
+no e inversión muestran una elevada movilidad de capitales hasta la primera guerra
+mundial, una reducción en los años de entreguerras, que incluso se acentúa tras la
+segunda posguerra, y una lenta recuperación a partir de los setenta (Gráficos 4 y 5).
+Cierto es que esta perspectiva macroeconómica tiene alguna limitación por­
+que en el supuesto de una integración perfecta de los mercados de capitales con
+unos rendimientos entre países muy parejos, el incentivo para ulteriores movilizacio­
+nes es mínimo y podría no haber grandes movimientos de capital, a pesar de la
+ausencia de obstáculos. De modo que conviene complementar el análisis macro con
+el de la evolución de los rendimientos, es decir, de los tipos de interés, y también,
+
+107
+
+
+
+Gráfico 4
+Saldos de cuenta corriente en proporción al PIB
+(Muestra de 1 2 países, 1870-1990)
+0,12
+1
+0,8
+
+0,6
+
+0,4
+0,2
+
+0
+1870- 18801879 1889
+
+18901899
+
+19001909
+
+19101919
+
+1920- 19301929 1939
+
+19401949
+
+19501959
+
+Fuente: Taylor (199©.
+
+Gráfico 5
+Correlación entre inversión y ahorro interior
+(Muestra de 1 2 países, 1870-1990)
+
+Fuente: Taylor (1996).
+
+108
+
+/
+
+1960- 19701969 1979
+
+19801989
+
+
+
+con una perspectiva más propia de los propios mercados financieros, conviene exa­
+minar la evolución de los activos de los diversos países en manos de extranjeros.
+Empezaremos por esto último, para así continuar con el análisis de can­
+tidades. Aquí el principal problema está en la información: conforme retrocedemos
+en el tiempo, debemos renunciar a representatividad. Las series históricas más pro­
+longadas de que se dispone, desde 1870 hasta hoy, son las del stock de capitales
+invertidos en el extranjero para un reducido, aunque significativo grupo de países.
+Se cuenta asimismo con multitud de informaciones fragmentarias, para períodos
+menores y grupos de países diversos y acerca de pasivos financieros o deuda
+pública en manos de extranjeros desde principios del siglo XX. En claro contras­
+te, cuando nos aproximamos al presente, la calidad y cantidad de la información
+aumenta espectacularmente; por ejemplo, desde este mismo año 2006 tenemos los
+flujos intercambiados por 145 países entre 1970 y 2004, organizada la información,
+además, por tipos de instrumentos financieros.
+¿Y qué nos dice toda esa información? Si tomamos la serie más prolonga­
+da en el tiempo, la de activos extranjeros en manos de nacionales en proporción
+al PIB para un grupo relevante de países, los resultados son congruentes con los
+obtenidos en el examen macro. En vísperas de la primera guerra se alcanza un ele­
+vado grado de internacionalización, que es drásticamente reducido en los años de
+entreguerras e incluso después de la segunda guerra, para comenzar una nueva
+expansión, lenta, a partir de los sesenta, vertiginosa tras los ochenta (Gráfico 6).
+
+G ráfico 6
+
+Activos de capital extranjero en proporción al PIB de una muestra representativa de países
+
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+0
+1820
+
+1840
+
+1860
+
+1880
+
+1990
+
+1920
+
+1940
+
+1960
+
+1980
+
+2000
+
+Fuente: Obstfe Id and Taylor (2003).
+
+109
+
+
+
+En cuanto al enfoque de los precios. En materia de tipos de interés dis­
+ponemos de una gran cantidad y variedad de series, que abarcan incluso perio­
+dos más prolongados de tiempo. Hemos seleccionado por su representatividad
+una serie, la de diferencias entre los tipos de interés reales a largo plazo de varios
+grupos de países que va de 1800 a 2000 (Gráfico 7). En el gráfico puede apreciar­
+se claramente una tendencia a la aproximación de los tipos de interés reales a
+largo plazo desde mediados del siglo XIX hasta las vísperas mismas de la gran
+guerra, y luego, un radical aumento de las diferencias, prolongado en la posgue­
+rra, acentuado en los treinta y aún más en los cuarenta, sin que los síntomas de
+convergencia reaparezcan antes de los sesenta. Es decir, una vez más, obtenemos
+el mismo perfil que en todas las restantes aproximaciones: dos etapas de interna­
+cionalización separadas por otra de introversión en los decenios centrales del
+siglo XX. Y lo que es todavía más importante, ninguna evidencia concluyente de
+que la actual etapa haya producido un grado de integración más elevado que la
+finalizada en 1913.
+***
+
+G ráfico 7
+
+Derivación estándar de tipos de interés reales a largo plazo para diversas muestras de países
+(Promedios de cinco años)
+
+1800
+SD3
+Fuente: Lothian (2006).
+
+110
+
+1850
+
+1900
+
+-------- SD5
+
+............ SD10
+
+1950
+--
+
+2000
+SD11
+
+
+
+En cuanto a las razones de que los flujos internacionales de capital hayan
+descrito tal trayectoria.
+De nuevo aparecen como posibles dos grandes explicaciones: de una
+parte razones internas de los mercados, en este caso de capitales, y de otra, la polí­
+tica económica. Entre las primeras cabe hablar de los costes de las comunicacio­
+nes, de las economías de escala como motor de la expansión, y eventualmente
+internacionalización, de ciertas empresas financieras, así como de las ganancias en
+eficiencia de algunas de ellas. Ciertamente, los cambios en las comunicaciones son
+muy importantes y hay acuerdo en señalar la aparición del telégrafo en 1844, los
+primeros cables submarinos en 1851, el teléfono a partir de 1876, o más reciente­
+mente las nuevas tecnologías de la información y las comunicaciones, como hitos
+decisivos en la integración de los mercados internacionales de capitales. Sin
+embargo, la introversión de los decenios centrales del XX no parece explicable en
+estos términos, por lo que todos los estudiosos coinciden en atribuir un papel
+determinante a la política económica en la evolución del grado de internacionali­
+zación de los mercados de capitales.
+Y en este frente, dos tipos de medidas aparecen como decisivas para
+explicar la mayor o menor movilidad internacional de capitales. Nos referimos a la
+regulación de los movimientos de capital y al régimen cambiario predominante, no
+sólo susceptible de facilitar o dificultar esos movimientos, sino capaz, sobre todo,
+de imponer servidumbres a la propia regulación.
+En cuanto a la regulación, hay que reconocer que medir la mayor o
+menor facilidad para mover capitales entre países a través del estudio de la nor­
+mativa legal plantea serias dificultades de cuantificación y por ende, de compara­
+ción. Para empezar, normas parecidas dan lugar a prácticas muy diferentes en paí­
+ses diversos. De modo que es más apropiado examinar la política económica a
+partir de los regímenes cambiarios y sus condicionantes, tal y como se ilustra en
+la “visión estilizada” del Gráfico 8.
+De su observación se deduce que la política de liberalización fue un fac­
+tor decisivo en la primera internacionalización contemporánea, aquélla que comen­
+zó a mediados del diecinueve. En el ámbito de los capitales la libertad era la norma
+básica e incluso se procuraron medidas que facilitaron el tráfico y la circulación.
+Entre ellas apareció muy pronto la idea de que una moneda internacional daba
+seguridad a los inversores, y que como tal, era un estímulo conveniente. Sobre la
+relevancia que entonces se otorgó al régimen cambiario es prueba fehaciente la
+creación de la Unión Monetaria Latina por parte de Francia y algunos otros paí­
+ses continentales en los sesenta del siglo XIX. Como también lo es, que el cho­
+que de la Unión Latina con el patrón oro adoptado desde comienzos del siglo por
+Gran Bretaña promoviera una Conferencia internacional -e n París, en 1867- con
+
+111
+
+
+
+G ráfico 8
+
+Una versión estilizada de la movilidad de los capitales en la historia contemporánea
+
+Fuente: Obstfeld and Taylor (2003).
+
+asistencia de numerosos países, incluida España, con el propósito de establecer un
+patrón único.
+Que el fiel de la balanza terminaría decantándose hacía el oro es de sobra
+conocido. Menos conocido es que se necesitó la confluencia de toda una serie de
+hechos históricos, entre los que no faltó el azar, para que el patrón aúreo se impu­
+siera definitivamente en los decenios siguientes. Nos referimos a hechos como la
+victoria de Alemania en la guerra francoprusiana, que constituyó un golpe decisi­
+vo al bimetalismo francés; el fracaso de los intereses plateros americanos en su
+país y en las conferencias internacionales promovidas en los setenta y ochenta; el
+triunfo del oro por el voto de calidad del presidente en la Comisión monetaria bri­
+tánica de 1887 y, en fin, el descubrimiento de los grandes yacimientos sudafrica­
+nos en los noventa. Pero con independencia del por qué, lo cierto .es que desde
+fines del XIX hasta agosto de 1914 transcurrieron los tiempos del patrón oro clá­
+sico, una época dorada para la libertad de circulación de capitales y la internacio­
+nalización financiera. No hubo en este ámbito -al contrario de lo que ocurrió en
+el comercial- tentaciones proteccionistas; por el contrario, de la gran depresión del
+XIX se salió incluso con un mayor grado de internacionalización.
+
+112
+
+
+
+Sólo al comenzar la gran guerra, suspendido temporalmente el patrón
+oro, se impusieron controles, de un modo que se creyó inicialmente efímero, sobre
+los movimientos de capital. Sin embargo, el conflicto se prolongó y su financiación
+introdujo severos condicionamientos para los contendientes, con reflejos heterogé­
+neos, no sólo en términos presupuestarios sino también monetarios. Y así, aunque
+la normalidad productiva, presupuestaria y monetaria fue retornando en los años
+veinte, las limitaciones a los movimientos de capitales persistieron con el argumen­
+to de evitar acciones especulativas y defender posiciones cambiarías. Cierto que
+cuando en 1925, de la mano de Winston Churchill, Gran Bretaña retornó al patrón
+oro, en este retorno, apoyado por la vuelta de Francia en 1928, pudo vislumbrarse
+una inflexión. El patrón parecía triunfar otra vez, y con él, las expectativas de liber­
+tad de movimientos. Pero en esta ocasión el éxito del oro resultó bien efímero:
+porque sus bases se habían vuelto muy inestables tal y como la crisis de 1929 se
+encargó de demostrar. En pocos años, Gran Bretaña primero y los demás después,
+lo abandonaron, volvió el miedo y con él unos controles cambiarlos, tan severos
+como lo fueran en tiempos de guerra. Los mercados de capitales se encerraron en
+límites nacionales y la integración financiera alcanzó mínimos durante los treinta y
+la inmediata segunda guerra mundial. Únicamente cuando la conclusión de ésta se
+adivinaba en el horizonte, volvió la preocupación por reorganizar el mundo de
+posguerra también en el ámbito monetario; ese fue el origen de la Conferencia de
+Bretton Woods, timón cambiado de los siguientes decenios.
+Pero si bien en la Conferencia se abogaba por la necesidad de restaurar
+la convertibilidad exterior de las monedas nacionales, nada se decía de terminar
+con las fuertes limitaciones a los movimientos de capital. ¿La razón? A resultas de
+la experiencia de la gran depresión, y también, cómo no, de los condicionantes
+políticos que implicaba el advenimiento de las masas, en palabras de Ortega, “al
+pleno poderío social”, se había, dado entrada en el sistema de objetivos de la polí­
+tica económica de los gobiernos al pleno empleo. Un objetivo al que se subordi­
+naba la política monetaria nacional.
+Se pensaba, por otra parte, que era conveniente para el comercio y las
+relaciones internacionales evitar conflictos cambiados como los ocurridos en la
+posguerra anterior, eliminando incertidumbres con tipos de cambio fijos. Lo impor­
+tante es que una vez priorizado el objetivo de pleno empleo y fijado el tipo de
+cambio, la única manera de poder instrumentar, cuando fuere necesario, una polí­
+tica monetaria diferenciada del exterior, estaba en controlar los movimientos de
+capital. Es el denominado por algunos autores trilema de política económica: se
+ha de decidir entre mantener tipos de cambio fijos o autonomía monetaria para
+procurar el pleno empleo, renunciando entonces a la libertad de movimientos
+internacionales de capital; o bien combinar la autonomía monetaria con la libertad
+de movimientos de capitales, renunciando entonces a tipos de cambio fijos. Se
+puede elegir cualquier combinación de dos objetivos, pero no perseguir los tres a
+
+113
+
+
+
+un tiempo. Bretton Woods, y sobre todo las sombras del trilema, han perseguido
+hasta los años ochenta a todos los gobiernos, que, en general, coincidieron en
+sacrificar los movimientos de capitales, preservando alguna combinación de tipos
+de cambio controlados con márgenes de política monetaria autónoma.
+Es el mundo que sucumbe ante la disolución del sistema de tipos fijos
+pero ajustables en los años setenta, el avance del escepticismo hacia la política
+monetaria activista y las corrientes a favor de nuevos impulsos liberalizadores en
+economía. Son las fuerzas que han transformado el ámbito financiero desde los
+años ochenta, permitiendo así aprovechar al máximo las posibilidades que las nue­
+vas tecnologías de la información y las comunicaciones dan a los intercambios
+internacionales de productos financieros. Por eso finalmente nos encontramos en
+otra etapa de intensa internacionalización.
+En cuanto a las opciones cambiarías de esta hora, el mundo aparece domi­
+nado por la que ha sido bautizada como “visión bipolar”, la respuesta presente al
+viejo trilema. Algunos países, como Estados Unidos o Japón prefieren la mezcla de
+tipos flotantes con libertad de circulación, mientras que otros, señaladamente los
+europeos, han escogido una combinación de tipo de cambio fijo con libertad de
+circulación de capitales. En cualquier caso, en esta segunda opción está implícita
+una inversión de prioridades en política monetaria: la vuelta al control de precios
+como objetivo fundamental. En otras palabras, podría decirse que la renuncia a la
+autonomía monetaria por consenso sobre el control de precios ha hecho compa­
+tibles en Europa la opción de cambio fijo sin sacrificio de movilidad de capitales.
+Resumiendo, los mercados de capitales, como los de bienes, atravesaron
+una etapa de intensa internacionalización a finales del XIX, interrumpida brusca­
+mente con la gran guerra y reanudada en las postrimerías del XX. En este caso, el
+determinante principal de las tres tendencias ha sido la política monetaria y cam­
+biaría, condicionante siempre decisivo de la regulación de los movimientos de
+capitales.
+***
+Y concluyo. En “Las consecuencias económicas de la paz” escribía John
+Maynard Keynes: “¡Que episodio tan extraordinario ha sido, en el progreso eco­
+nómico del hombre, la edad que acabó en agosto de 1914!”- Y tras explicar cómo
+en los albores del siglo XX el habitante de Londres podía adquirir productos de
+todo el mundo, invertir sus capitales en cualquier parte sin restricciones, com­
+prar oro y viajar tranquilamente por el planeta sin controles, terminaba: la “inter­
+nacionalización era casi completa en la práctica”. Puede que como visión peque
+de anglocéntrica, pero sin duda sirve para resaltar, con algo más de calidez que
+
+114
+
+
+
+lo hacen los fríos datos, el elevado grado de internacionalización económica alcan­
+zado a principios del siglo XX, en lo que podría considerase una primera etapa
+de internacionalizacíón.
+De la presente etapa de internacionalización de las economías diremos
+que es notable, pero también, que no constituye en absoluto, una novedad en tér­
+minos históricos, como se acaba de explicar con el conjunto de indicadores que
+hemos seleccionado. Es más, medida en promedio, en relación a los actuales nive­
+les de renta, apenas está alcanzando la altura que ya tuvo en 1914; probablemen­
+te esté un poco por encima en los mercados financieros y algo por debajo en los
+de bienes.
+Y si la globalización en términos económicos no es una novedad históri­
+ca, menos aún cabe pensarla como irreversible. En el libro citado, Keynes llamaba
+la atención sobre cómo el mismo habitante de Londres (cito) “consideraba tal esta­
+do de cosas como normal, cierto y permanente, a no ser para mejorar aún más y
+toda desviación de él, como aberración, escándalo y caso intolerable”. Seguramente
+unas ideas no muy diferentes de las que sostiene hoy la mayor parte de la opinión
+en los países occidentales. Y, sin embargo, aquel mundo fue barrido en ese dra­
+mático mes de incertidumbres y torpezas que resultó ser julio de 1914. Una lec­
+ción que pone en claro cómo la historia es siempre un proceso abierto sobre el
+que los intelectuales deberían actuar -hemos visto en varios pasajes la fuerza de
+las ideas cuando dominan la opinión- absteniéndose de hacer predicciones. En
+brillantes palabras de Popper, “En lugar de posar como profetas debemos conver­
+tirnos en forjadores de nuestro destino”.
+Muchas gracias
+
+115
+
+
+
+

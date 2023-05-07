@@ -1,0 +1,797 @@
+EL SECTOR PÚBLICO EN ECONOMÍAS
+DE MERCADO: ¿QUÉ HEMOS APRENDIDO
+A FINES DEL SIGLO XX?
+Por el A cad ém ico de N úm ero
+Excm o. Sr. D . Ju lio Segura Sánchez *
+
+1.
+
+INTRODUCCIÓN
+
+El objetivo de mi intervención es tratar de ofrecer una panorámica litera­
+ria de cómo han evolucionado a lo largo del siglo xx los fundamentos analíticos,
+los objetivos perseguidos y los instrumentos utilizados por el sector público en las
+economías de mercado, intentando enmarcar todo ello en la evolución de la eco­
+nomía real de nuestras sociedades.
+Me parece razonable adelantar que las conclusiones se encuentran muy
+alejadas de visiones extremas — sean criptoliberales o paleocolectivistas— , y se
+mueven en el campo más templado de ayudar a mejorar el funcionamiento de eco­
+nomías en que existen tanto fallos del mercado como fallos del sector público. Eco­
+nomías en las que, por tanto, hemos de optar por la mejor com binación posible
+entre sector público y mercado, tratando de que un mejor —no por ello mayor ni
+menor— sector público ayude a que exista un mejor mercado. Un mundo, al fin y
+a la postre, de óptimos de segundo orden en que se persigue minimizar las pérdi­
+das de eficiencia en la asignación de recursos manteniendo un grado de justicia dis­
+tributiva que se considera socialmente deseable.
+
+* Sesión del día 26 de octubre de 1999.
+
+37
+
+
+
+2.
+
+LOS FUNDAMENTOS MICROANALÍTICOS BÁSICOS
+
+Si el mundo fuera como el modelo de competencia perfecta (el ArrowDebreu), al que los profesores de análisis microeconómico dedicamos tanto tiem­
+po, los economistas no tendríamos empleo. Si no existiera poder de mercado, la
+información relevante para la toma de decisiones de los agentes fuera perfecta, se
+transmitiera íntegramente vía precios, y hubiera mercados para todos los bienes,
+períodos de tiempo y contingencias (estados de la naturaleza), los mercados, libres
+de toda injerencia, asignarían eficientemente los recursos. Estaríamos en el mundo
+ideal de los óptimos de primer orden.
+En estas condiciones, además, el arduo problema de la equidad tendría
+una fácil solución: bastaría con que el Gobierno determinara cuál es la distribución
+de la renta considerada deseable y la instrumentara mediante transferencias de tan­
+to alzado entre los ciudadanos, dejando que los mercados alcanzaran la nueva asig­
+nación —igualmente eficiente— que correspondiera a dicha distribución.
+La realidad es, sin embargo, algo más compleja, por dos tipos de motivos.
+El primero, que existen poder de mercado y fallos de mercado, y que la
+estructura de mercados es siempre incompleta. Unas pocas palabras sobre estos
+temas.
+El poder de mercado existe siempre que una o varias empresas tienen cier­
+ta capacidad de determinación de precios: la tendencia creciente a la concentra­
+ción, unida a factores tecnológicos, ha aumentado sensiblemente el número de
+industrias en las que hay pocas empresas con poder de mercado. Y el poder de
+mercado implica precios superiores a los competitivos y, por tanto, asignaciones
+ineficientes y pérdidas de bienestar social.
+Los fallos de mercado son situaciones en las que o bien no existen precios
+para determinados bienes (el caso de los efectos externos, como la contaminación,
+y de los bienes públicos, como la defensa) o, más relevante aún en nuestras eco­
+nomías, en las que la información que tienen los agentes es incompleta y/o está
+distribuida asimétricamente entre las personas. Podría pensarse que una solución
+negociada como la propuesta por Coase en 1960 resolvería el problema de los efec­
+tos externos, pero esto no es así ante problemas de información o de mercados
+incompletos.
+¿Qué pasa si la información es asimétrica? Que el equilibrio competitivo
+conduce a un precio superior y una calidad inferior a los óptimos. Y los casos de
+38
+
+
+
+información asimétrica son muy importantes: no sólo el ejemplo seminal del mer­
+cado de coches de segunda mano de Akerlof de 1970, sino, por ejem plo, los ser­
+vicios de la salud y la asistencia médica, que absorben entre el 6 y el 14 % del PIB
+de las economías occidentales.
+¿Qué ocurre si la información privada es relevante? Que aparecen dos
+tipos de fenómenos. Uno de selección adversa: quienes tienen mayor probabilidad
+de un futuro mejor se subaseguran y quienes la tienen menor se sobreaseguran,
+generando una cobertura ineficiente de riesgos. Otro de riesgo moral: los esfuerzos
+por prevenir sucesos negativos (conductas cuidadosas) y por reducir sus conse­
+cuencias (medidas de seguridad) son inferiores a los óptimos.
+Por último, si no existen mercados de contado y a futuro para todos los
+bienes, y para cualquier posible suceso o estado de la naturaleza, las propiedades
+de eficiencia de los mercados también se pierden. Y tanto por razones institucio­
+nales como por normas legales, usos sociales arraigados e im posibilidad de deter­
+minar probabilidades de que suceda un acontecimiento no pueden existir merca­
+dos completos en el mundo real.
+El segundo motivo que imposibilita un mundo de óptimos paretianos, con
+una distribución de la renta considerada socialmente equitativa, es que las transfe­
+rencias de tanto alzado son impracticables y manipulables. En efecto, las transfe­
+rencias deberían determinarse en función de características de los individuos rele­
+vantes a efectos redistributivos, como por ejemplo su productividad, el esfuerzo
+realizado, su cualificación, la calidad de su salud, etc. Sin embargo, estas caracte­
+rísticas no son observables: podemos conocer los ingresos laborales de un indivi­
+duo, pero no la descomposición de éstos entre productividad y esfuerzo; podemos
+conocer el nivel de estudios de una persona, pero no su cualificación real; se pue­
+de determinar la salud media de una sociedad, e incluso conocer su distribución,
+pero no su valor para cada individuo concreto.
+Siendo esto así, las transferencias de tanto alzado tendrán una de dos limi­
+taciones, y casi siempre ambas. Primera, que se determinarán en función de carac­
+terísticas observables pero poco relevantes: el ejemplo más inmediato, la edad.
+Segunda, que si se determinaran, como es frecuente, por características observables
+pero compuestas — como los ingresos (ingresos = salario X horas trabajadas)— ,
+son manipulables por los individuos. Si observo que el balance de beneficios netos
+que percibo del sector público depende del nivel de ingresos, puede ser benefi­
+cioso para mí alterarlos reduciendo mi esfuerzo.
+
+39
+
+
+
+Me permitirán que concluya, tras este apretado recorrido analítico, que
+existe una base inatacable para afirmar que es imposible vivir en un mundo de ópti­
+mos paredaños y que, por tanto, la existencia de un sector público es imprescindi­
+ble para lograr un funcionamiento no ya equitativo, sino eficiente, de nuestras eco­
+nomías.
+Pero también hemos aprendido — como tendremos ocasión de ver en
+seguida— que no cualquier sector público logra estos objetivos; que su actuación
+no está libre de fallos — en cierta medida isomorfos con los del mercado— , y que
+los instrumentos de intervención adecuados han cambiado significativamente en las
+últimas décadas.
+
+3. LAS RAZONES DE LA EXISTENCIA
+DEL SECTOR PÚBLICO ECONÓMICO
+Comenzaré por avanzar que la discusión sobre la justificación estricta­
+mente económica del sector público constituye un análisis limitado, porque la eco­
+nomía no puede aspirar a ser más que un marco de referencia en una discusión
+global sobre las funciones y el tamaño óptimo de dicho sector. Con seguridad, en
+sociedades democráticas, los aspectos sociales, políticos y jurídicos son de tanta
+importancia —y estoy seguro que alguno de ellos de mayor— que los económ icos.
+Piénsese simplemente en temas como la conservación de la naturaleza, la existen­
+cia de administraciones autónomas, las propuestas de constitucionalización del
+déficit nulo, o el equilibrio entre poderes, para comprender la parcialidad del enfo­
+que económ ico.
+Con estas limitaciones, cabe señalar que las propias razones a favor de la
+existencia de un sector público económico han cambiado sensiblemente en las últi­
+mas décadas. Hasta mediados los años setenta, se aducían tres razones fundamen­
+tales:
+1 ° El adecuado equilibrio entre la eficiencia, representada por el sector
+privado, y la equidad, garantizada por el sector público.
+2.
+° La existencia de bienes públicos cuya oferta óptima no puede ser
+determinada por el mercado.
+3.
+° La necesidad de un tamaño mínimo del sector público, por razones
+tanto de estabilización económica como de masa crítica necesaria para la realiza­
+ción de ciertas actividades.
+40
+
+
+
+Sin embargo, con el paso del tiempo, estas razones han devenido en poco
+relevantes. Es cierto que el equilibrio entre eficiencia y equidad — se defina esta
+última como se defina— requiere la existencia de un sector público, y que el mer­
+cado no es sensible a cuál sea la distribución de la renta; pero también lo es que
+la teoría de la elección pública nos ha enseñado que identificar equidad con sec­
+tor público y eficiencia con el privado es una sim plificación, porque el sector públi­
+co persigue en parte objetivos propios, endógenos, que incluso pueden operar en
+la dirección opuesta a la equidad, y el sector privado persigue el beneficio, que,
+salvo condiciones estrictamente competitivas, no es sinónimo de eficiencia.
+También es cierto que existen bienes públicos, pero los de carácter puro
+—de consumo no rival ni excluible— son muy escasos. La mayor parte de los bie­
+nes financiados y provistos por el sector público son de tipo mixto (v.gr.: educa­
+ción, sanidad, autopistas, algunos transportes), de forma que aun en el caso de que
+su financiación no se cuestionara, su provisión excluyente por parte de unidades
+productivas de titularidad pública es mucho más discutible.
+Por último, es cierto que ningún economista en sus cabales defiende la
+existencia de un sector público mínimo limitado a la oferta de bienes públicos
+puros (defensa, administración de justicia y representación exterior), pero no lo es
+menos que lo relevante del sector público no es su tamaño, sino qué hace y cómo
+lo hace. El ejemplo español de los años cincuenta y sesenta es claro: el porcentaje
+del PIB gestionado por el sector público era raquítico, pero la intervención extra­
+presupuestaria era enorme.
+Las justificaciones actuales más solventes del sector público provienen de
+su análisis como organización. Desde este punto de vista, el sector público pre­
+senta tres características que lo diferencian sustancialmente de la otra organización
+que asigna recursos, el mercado:
+1.
+acuerdos políticos.
+
+°
+
+La universalidad o pertenencia obligatoria, negociada mediante
+
+2.
+° La compulsión o capacidad de obligar y prohibir, que tiene un claro
+reflejo económ ico en la fiscalidad o en la regulación.
+3. °
+
+Su gestión por un gobierno emanado de un proceso electoral.
+
+Estas tres características diferenciadoras hacen que resulte imposible sos­
+tener que entre dos instituciones tan distintas como sector público y mercado una
+41
+
+
+
+de ellas pueda hacerlo todo mejor — o peor— que la otra, y además señalan como
+justificación más sólida del sector público económico aquellas actividades para las
+que la universalidad y la compulsión presentan ventajas. Existe un amplio acuerdo
+entre los economistas competentes de que éstas son:
+
+a) La corrección de fallos de mercado por información privada relevan­
+te o monopolio, donde el sector público puede mitigar los problemas de selección
+adversa y riesgo moral, así como reducir los costes de transacción o limitar las pér­
+didas de eficiencia derivadas del ejercicio de poder de mercado.
+b) La redistribución de la renta, que es un bien público, por lo que su
+oferta privada —la beneficencia— es ineficiente por defecto.
+La garantía de acceso de los ciudadanos a los bienes considerados
+preferentes por la sociedad, que en nuestras economías cabe identificar con la
+salud, la educación y la vivienda fundamentalmente.
+
+c)
+
+Pero es preciso señalar también que esas características privativas del sec­
+tor público — la universalidad, la compulsión y el gobierno emanado de un proce­
+so electoral— implican limitaciones a la acción pública: la imposibilidad de ofrecer
+compromisos exigibles —y por tanto creíbles— más allá del período de legislatu­
+ra; la limitación que supone que la compulsión se articule mediante acuerdos polí­
+ticos; los límites a la equidad que puede implicar el proceso de captura de rentas
+por parte de los regulados, y la inadecuada estructura de incentivos derivada de la
+falta de competencia dentro de la Administración pública.
+
+4.
+
+LOS INSTRUMENTOS DEL SECTOR PÚBLICO
+
+Para analizar la agenda de posibles instrumentos del sector público, lo
+mejor es volver a la tradición y recordar que ya Musgrave señalaba tres áreas de
+intervención pública: la estabilización económica, la asignación de recursos, y la
+distribución de la renta y la riqueza.
+
+a) Las políticas de estabilización económica
+Al término de la II Guerra Mundial, las ideas predominantes en el mundo
+económico eran las keynesianas. Existía un exceso importante de recursos ociosos,
+era preciso reconstruir economías muy poderosas seriamente dañadas por la con­
+42
+
+
+
+flagración y, en consecuencia, había un amplio campo para las políticas de deman­
+da. Al mismo tiempo, las instituciones financieras internacionales diseñadas tras la
+guerra, y sobre todas el FMI, aseguraban el control de la liquidez mundial, depen­
+diente de las reservas de oro y de los dólares en manos de no residentes, muy esca­
+sos por el superávit de la balanza de pagos estadounidense. El acceso a las facili­
+dades crediticias del FMI seguía reglas muy estrictas que, en lo sustancial,
+implicaban la imposición de planes de estabilización para acceder a las ayudas deri­
+vadas de un desequilibrio exterior no estructural de las economías nacionales. Y los
+propios recursos del FMI, aunque adecuados en cuantía para la época, se circuns­
+cribían a los derechos especiales de giro, de crecimiento potencial muy limitado.
+Por lo que respecta a la macroeconomía de la época, la estabilidad mos­
+trada por la demanda de consumo validaba la capacidad de las autoridades econó­
+micas para predecir con precisión el efecto de posibles medidas de política econó­
+mica, y ponía en el centro de éstas la política de gasto público, motor del
+crecimiento; la financiación mayoritaria presupuestaria con impuestos directos con
+tipos impositivos crecientes, y cierta despreocupación por los déficit públicos. Tam­
+bién la política monetaria era útil y debía ser activa, ya que la transmisión de la ofer­
+ta monetaria a los tipos de interés y de éstos a la inversión era suave y predecible.
+Todos los economistas sabían que, en este marco de política económ ica,
+la inflación tenía un buen caldo de cultivo, pero existía una relación de sustituibilidad entre inflación y paro — la famosa curva de Phillips— , de forma tal que, den­
+tro de límites razonables, al precio de una cierta tasa de inflación se podía obtener
+un mayor crecimiento real y una disminución de la tasa de paro.
+En contra de las simplificaciones interesadas y los maniqueísmos de quie­
+nes hablan con la lucidez de hacerlo cuatro décadas más tarde en un contexto dis­
+tinto, lo cierto es que el sistema funcionó de forma muy satisfactoria hasta entrada
+la década de los años setenta, es decir, más de un cuarto de siglo. En ese período,
+la tasa de crecimiento real de las economías occidentales fue muy elevada y la
+expansión del comercio mundial, espectacular, produciéndose un proceso de con­
+vergencia real entre las economías de la OCD E y entre éstas y las más atrasadas
+que ha invertido su signo en las tres últimas décadas del siglo. Además, se crearon
+sistemas de infraestructuras públicas y se consolidaron sistemas de protección
+social que limitaron el ámbito de la pobreza, generalizaron el acceso de los ciuda­
+danos a la salud y la educación y favorecieron la igualdad de oportunidades.
+¿Qué sucedió a partir de comienzos de la década de los años setenta? Yo
+destacaría tres fenómenos distintos que se superpusieron, y posiblemente se autoalimentaron. Expresados sintéticamente:
+43
+
+
+
+Curva de Phillips
+
+l.° La pérdida de la disciplina financiera internacional derivada de la ero­
+sión relativa de liderazgo económico de EE.UU. El desequilibrio creciente de las
+cuentas exteriores estadounidenses, iniciado con los déficit por cuenta de capital,
+amplificado por los gastos bélicos — provocados sobre todo por la guerra del Viet44
+
+
+
+nam— y finalmente disparado por el propio déficit comercial, hizo que los dólares
+en manos de no residentes pasasen de ser escasos a ser abundantes. Se perdió la
+relación fija oro-dólar, y la liquidez internacional comenzó a crecer a ritmos altos
+y, sobre todo, no controlables.
+2.° La crisis del crudo de 1973 —seguida de su repunte en 1979— , que
+constituyó el primer shock de oferta generalizado sufrido por las economías avan­
+zadas. Una perturbación que sólo podían absorber con rapidez mercados muy fle­
+xibles — dada la magnitud del cambio en los precios relativos— , que implicaba
+fuertes redistribuciones de la renta y pérdidas de riqueza real para los países no
+productores de crudo, y que afectó de forma asimétrica a éstos en función del gra­
+do de dependencia de cada economía respecto a las importaciones de crudo, y de
+la posibilidad de sustituir tecnologías intensivas en energía de origen fósil.
+3.
+° La acumulación de rigideces y la perturbación del sistema de incenti­
+vos de las economías avanzadas derivadas del desarrollo del sector público en las
+décadas precedentes. En lo esencial: pérdida de legitimidad social de los sistemas
+fiscales excesivamente progresivos, efectos de rebose derivados del crecimiento de
+los déficit públicos primarios; partidas del gasto público con una dinámica incrementalista autónoma; protección desigual y, para algunos colectivos, excesiva, e
+inadecuación de los instrumentos de política económica a la nueva realidad.
+Todo este cúmulo de circunstancias provocó una debilidad sostenida en
+las economías desarrolladas e hizo que las más rígidas de entre ellas — las europe­
+as, en contraste con la estadounidense— presentaran fenómenos de histéresis en el
+mercado de trabajo: en cada ciclo económico sucesivo, la tasa de paro de la recu­
+peración era cada vez más elevada. Esta debilidad llevó a plantearse la necesidad
+de reformar el enfoque predominante de las políticas de estabilización, en una línea
+apuntada una década atrás por la teoría económica —las expectativas racionales
+(ER) formuladas por Muth en 1963— y por cierta evidencia acumulada sobre la efi­
+cacia de la política monetaria discrecional aplicada hasta la fecha por los bancos
+centrales nacionales.
+La idea básica de la hipótesis de ER es muy sencilla: los modelos macroeconómicos que utilizan los gobiernos para calcular los efectos de una medida de
+política económica (variación del gasto público, modificaciones fiscales, alteracio­
+nes de los agregados monetarios, etc.) están estimados con la información sobre el
+comportamiento de consumidores y empresas en períodos anteriores a la toma de
+dicha medida. Cuando ésta se aplique, el conjunto de información a disposición de
+los agentes económicos habrá variado y será más completo, de forma que cabe
+45
+
+
+
+esperar que alteren sus comportamientos. Esto hace que los cálculos de los efectos
+de medidas con estos modelos sean menos precisos de lo deseable. Además, si los
+agentes van acumulando la sucesiva información contenida en las decisiones de
+política económ ica, tendrán cada vez mayor capacidad para adelantar dichas deci­
+siones y cubrirse anticipadamente de sus efectos, de forma que la capacidad de los
+gobiernos para «sorprender» a los agentes será cada vez menor.
+La evidencia acumulada sobre la política monetaria iba en dirección de
+señalar que la demanda de liquidez —de dinero en sentido amplio— era una fun­
+ción estable de los tipos de rendimiento de los activos, y del nivel de renta y rique­
+za de la economía.
+Ambas piezas permitían obtener algunas conclusiones relevantes.
+En primer lugar, no existía sustituibilidad entre inflación y paro: la curva
+de Phillips era rígida al nivel de la tasa de paro bautizada como «natural», es decir,
+de la máxima permitida por las fuerzas reales de la economía.
+En segundo lugar, los shocks derivados de una política monetaria expansi­
+va de demanda eran anticipados por los agentes, de forma que sus efectos reales
+eran modestos. La única forma de que los agentes no anticiparan estas perturbacio­
+nes era mediante una política monetaria aleatoria que nadie en su sano juicio podía
+defender. La inflación era un fenómeno estrictamente monetario a largo plazo.
+En tercer lugar, las autoridades económicas tenían un conocimiento defi­
+ciente de los posibles efectos de sus decisiones, y no conocían con precisión los
+canales a través de los cuales se transmitían las modificaciones de las variables bajo
+su control —ingreso y gasto público, su composición, la liquidez del sistema— a
+las variables objetivo finales: empleo y renta.
+La conclusión de todo esto era clara: el objetivo principal de la política de
+estabilización debía ser crear unas condiciones de estabilidad macroeconómica
+— inflación, déficit público, tipos de cambio y de interés— que favorecieran el cre­
+cimiento sostenido de la economía. Y esto, respecto a las políticas monetaria y fis­
+cal, implicaba:
+1 ° Que la política monetaria debía someterse a reglas estrictas y aban­
+donar toda discrecionalidad: la regla de oro era que el aumento de la liquidez del
+sistema fuera la suma de la tasa de crecimiento esperada del PIB y de la tasa de
+inflación compatible con ésta.
+46
+
+
+
+2 ° Que la política fiscal debía ser especialmente adversa a los déficit
+públicos, de forma que el ideal sería que a lo largo de un ciclo completo de acti­
+vidad, y por media, hubiera equilibrio presupuestario.
+Estos dos principios — el monetario, aplicado en la práctica por los ban­
+cos centrales, y el fiscal, incumplido con generosidad por los gobiernos— prota­
+gonizaron el cambio sustancial de la política de estabilización en las décadas de los
+años setenta y ochenta.
+La tendencia a la consolidación presupuestaria ha seguido siendo una
+constante de la política económica de los países avanzados en la década de los
+años noventa. Buen ejemplo de ello es la restricción del 3 % impuesta por la UEM,
+y la obligación de presentar y cumplir planes de estabilidad de los países pertene­
+cientes a la misma. Incluso se han llegado a proponer medidas que no se han plas­
+mado — en mi opinión, afortunadamente— en legislación concreta, tales como la
+elevación a rango de norma constitucional del déficit nulo — o de un cierto máxi­
+mo— , o la creación de comisiones de deuda pública independientes del ejecutivo
+que limitasen anualmente el endeudamiento global de los estados.
+La política monetaria ha sufrido cambios importantes en su definición y
+funcionamiento. Por una parte, se ha aceptado — con la notable excepción de
+EE.UU.— que el objetivo único de la política monetaria es la estabilidad de precios,
+y todos los bancos centrales de la UEM han adquirido estatuto de autonomía res­
+pecto a los gobiernos. Por otra parte, la idea dominante en las dos décadas prece­
+dentes de que la política monetaria debería seguir la regla áurea se ha flexibilizado, aceptándose que los bancos centrales deben regirse por una discrecionalidad
+reglada, equidistante entre la discrecionalidad total de las décadas de los años cin­
+cuenta y sesenta y la regla estricta de los setenta y ochenta. La razón es que el pro­
+ceso acelerado de innovación financiera y desintermediación ha conducido a la
+aparición de una amplia gama de nuevos activos financieros sustitutos muy cerca­
+nos del dinero, de forma tal que no existe un agregado monetario controlable por
+las autoridades nacionales que mantenga una relación estable con el nivel de acti­
+vidad real. En estas condiciones, no tiene sentido instrumentar la política moneta­
+ria a través de un objetivo intermedio —la masa monetaria— , porque ni su cuan­
+tía ni su com posición son controlables. Además, una regla rígida limita las
+posibilidades de reaccionar ante cambios imprevistos y frecuentes en mercados
+muy flexibles.
+Todo este cambio no es sino consecuencia del reconocimiento de que la
+versión extrema de la hipótesis de ER —la ineficacia de la política monetaria— sólo
+47
+
+
+
+es cierta en un mundo hipotético sin rigideces reales. Con precios rígidos en algu­
+nos mercados, que son inevitables, la política monetaria tiene efectos reales per­
+sistentes. Otra cosa es que sean mejor o peor predecibles y se sepa en mayor o en
+menor medida por qué canales de transmisión operan.
+Hoy día, los bancos centrales más solventes —incluido el BCE— utilizan
+una amplia batería de indicadores monetarios, reales y financieros para tomar deci­
+siones, persiguiendo unos objetivos expresados en términos de tasas de inflación.
+
+b)
+
+Las políticas de asignación de recursos
+
+El Estado interviene activamente en el proceso de asignación de recursos
+tanto por la vía presupuestaria (fiscalidad, financiación y, en su caso, provisión de
+ciertos bienes) como por la extrapresupuestaria (regulación de actividades, promo­
+ción de la competencia, legislación económica general).
+Las ideas centrales sobre las que ha pivotado el cambio en los objetivos y
+en la instrumentación de este tipo de políticas se pueden resumir con facilidad.
+1.
+a La aceptación, ya comentada, de que el objetivo principal de la polí­
+tica macroeconómica debe ser mantener unas condiciones de estabilidad globales,
+que faciliten el desarrollo de la actividad productiva y la capacidad de adaptación
+de las economías a situaciones muy volátiles, se encuentra en el centro de las lla­
+madas políticas de oferta que persiguen hacer más eficiente elfuncionam iento de los
+
+mercados.
+2.
+a La intervención pública, sobre todo la extrapresupuestaria, ha presta­
+do en el pasado una atención insuficiente al problema de la generación de incen­
+
+tivos incompatibles con el buen funcionam iento de los mercados.
+3.
+a El sector público ha sido, en general, optimista respecto a su capaci­
+dad para corregir cualesquiera fallos de mercado, minimizando los problemas deri­
+vados de la dificultad de acceso a la información que, con frecuencia, aquejan al
+sector público.
+4.
+a Es preciso diferenciar entre los aspectos de financiación pública de
+una actividad y la provisión pública de ésta. Incluso en los casos en que se acep­
+ta ampliamente la primera —v.gr.: sanidad, educación, vivienda, infraestructuras— ,
+la provisión pública pura debe revisarse.
+48
+
+
+
+El corolario lógico de estas evidencias es que resulta necesario revisar las
+políticas públicas de asignación de recursos en un marco de mercados más libera­
+lizados —muchos de ellos de ámbito mundial, y casi todos supranacionales— , en
+que las autoridades nacionales tienen menor capacidad para tomar decisiones autó­
+nomas al margen de aquéllos.
+Discutiré, dado el número y heterogeneidad de los temas, la interpretación
+y aplicación de las cuatro ideas formuladas sólo en tres puntos que han polarizado
+el debate de las dos últimas décadas tanto en el ámbito económico como en el polí­
+tico. En primer lugar, el tema de la provisión de bienes y, en particular, de la
+empresa pública industrial. En segundo lugar, los cambios en la regulación. Por últi­
+mo, la política de defensa de la competencia.
+Empecemos por la empresa pública. Existe un amplio acuerdo en que los
+argumentos que se emplearan en las décadas de los años cincuenta y sesenta para
+justificar la existencia de empresas públicas industriales han dejado de tener vali­
+dez. Ni la protección a la industria naciente, ni la política de sustitución de las
+importaciones, y menos aún la utilización de empresas públicas com o instrumento
+de políticas de empleo o de equilibrio territorial, son defendibles hoy día. Sólo el
+argumento de la existencia de monopolios naturales puede esgrimirse a favor de
+empresas de titularidad pública; pero aquéllos son cada vez más escasos, y los mis­
+mos objetivos admisibles que persigue la propiedad pública pueden alcanzarse,
+como veremos enseguida, con instrumentos menos costosos y más eficaces.
+También existe un acuerdo razonable en que, aparte de problemas de ges­
+tión y organización o de teoría de la agencia, derivados del tamaño y de la sepa­
+ración entre propiedad y control, que afectan por igual a empresas privadas y
+públicas grandes, estas últimas presentan el problema crucial de la escasa sensibi­
+lidad del propietario a la rentabilidad del capital invertido, mitigable con un esque­
+ma de propiedad mixta, pero insoluble en la práctica si el propietario público par­
+ticipa en la gestión, y no sólo en la propiedad. Y a esto se suma el problema de la
+imposibilidad práctica de quiebra, que favorece comportamientos poco eficientes
+de los trabajadores y gestores.
+En consecuencia, el proceso de privatización seguido, con mayor o menor
+intensidad, en las dos últimas décadas en las economías europeas se encuentra jus­
+tificado en sus principios. Obsérvese además que para obtener esta conclusión no
+es preciso recurrir a argumentos de carácter ideológico, como el llamado accionariado social, ni financiero, como el uso de los ingresos provenientes de la privati­
+zación para reducir el endeudamiento público o el déficit.
+49
+
+
+
+Sin embargo, como sucede siempre, los resultados prácticos del proceso
+son más heterogéneos y opinables (desde el éxito sin ambages de BA hasta los pro­
+blemas de Power Gen, por poner ejemplos británicos).
+Existe un único punto abierto a controversia que, aunque relevante, es
+marginal en el contexto de esta intervención y resulta aplicable solamente al caso
+de las public Utilities. Se trata de la conveniencia o no de que el Estado siga man­
+teniendo una cierta vinculación o control sobre la empresa privatizada, bien vía golden shares, bien vía participación mínima (del 5 ó 10% del capital). Existen buenas
+razones para defender dicho vínculo, pero en ese caso parece mejor optar por una
+participación muy moderada, con renuncia expresa a la gestión, que por una acción
+de oro, siempre arbitraria aunque su utilización esté tasada legalmente.
+Por tanto, la provisión de bienes y servicios industriales parece que ha
+desaparecido de la panoplia de instrumentos de las políticas públicas de asignación
+de recursos. No, sin embargo, la provisión de ciertos bienes preferentes, aunque en
+estos casos los modelos de provisión mixta parecen más deseables que los de pro­
+visión pública pura.
+He comenzado la discusión de la políticas públicas de asignación de recur­
+sos con el caso de la empresa pública industrial porque ello me permite ligar, sin
+solución de continuidad, con el tema de la política regulatoria.
+Hemos oído con alguna frecuencia en estos últimos años defender como
+panacea general y epítome de las políticas de oferta la receta «liberalizar, privatizar
+y desregular». Aceptando, con matices que no es ésta ocasión de discutir porque
+dependen de cada caso concreto, que son mejores los mercados liberalizados y las
+empresas privadas que las públicas, es sin embargo imposible defender con sol­
+vencia que tras liberalizar un mercado y privatizar su oferta haya que desregular.
+Por el contrario, la experiencia demuestra que hay que regular más, aunque mejor.
+Como argumento empírico, el caso británico de la electricidad ya mencio­
+nado (en que se ha cuadruplicado la actividad regulatoria) o el sistema sanitario
+estadounidense (en el cual los costes de transacción absorben el 3-4 % del PIB) son
+ejemplos incontestables.
+
+¿A qué se debe esto? A una razón muy simple: si se privatiza un mono­
+polio público — piénsese en telecomunicaciones, compañías aéreas o electricidad—
+, la estructura productiva del sector privatizado seguirá siendo monopolística, de
+forma que la desregulación conduce a que el resultado de la privatización sea trans­
+ferir rentas de un monopolio público a manos privadas y mantener las ineficiencias
+50
+
+
+
+que caracterizan al monopolio. Objetivos tales como la garantía del suministro, la
+calidad del servicio, la tarifa única para servicios básicos, la seguridad y un largo
+etcétera, no pueden lograrse sin regulación. Que una empresa privada que opera
+en un marco limitadamente competitivo no ejerza poder de mercado exige regula­
+ción. Y muchas empresas de p u b lic Utilities privatizadas actúan en contextos débil­
+mente competitivos. Por poner sólo algunos ejemplos: las empresas de generación
+eléctrica pueden protegerse frente a la competencia adquiriendo posiciones de con­
+trol en el gas, y las posibilidades de competencia externa están limitadas por la
+capacidad de interconexión; las aerolíneas europeas operan en un mundo con fuer­
+tes restricciones de capacidad aeroportuaria y ventajas de las antiguas compañías
+de bandera en los aeropuertos nacionales; la competencia en las telecom unicacio­
+nes depende crucialmente de la propiedad y capacidad de acceso a las redes pre­
+existentes.
+Pero posiblemente sea aún más convincente el ejemplo del sistema finan­
+ciero, la actividad más liberalizada y globalizada del planeta, donde el imperio de
+los mercados es total. La liberalización y los avances en la tecnología de la comu­
+nicación permitieron hace dos décadas que los mercados de capitales se convirtie­
+ran en mundiales, y que las transacciones se pudieran realizar en tiempo real y en
+cuantías antes inimaginables. Todo el mundo saludó esta evolución como positiva,
+al ser un elemento que permitiría una mayor eficiencia de los sistemas financieros.
+En efecto, este proceso trajo consigo la aparición de nuevos activos financieros que
+permitieron a las empresas acceder a formas de financiación más ajustadas a sus
+necesidades y mejoraron la cobertura de riesgos. Junto a estos aspectos muy posi­
+tivos, parte de la innovación financiera se dedicó a eludir regulaciones financieras
+y fiscales, y sobre todo los movimientos de capital a corto plazo de carácter espe­
+culativo adquirieron una cuantía y volatilidad incontrolables por las autoridades
+nacionales.
+Las propuestas que se hicieron en aquellos años para tratar de paliar estos
+efectos negativos fueron tildadas de intervencionistas —por ejemplo, el gravamen
+de Tobin— , y se sostuvo con fuerza la idea de que no debían limitarse de ningu­
+na forma los movimientos de capital. Hoy día, sin embargo, tras varios episodios
+que han puesto de manifiesto los riesgos sistémicos potenciales de algunos com­
+portamientos y la dificultad de valorar adecuadamente los riesgos de las institucio­
+nes financieras, se empiezan a discutir en organismos internacionales instrumentos
+para limitar y controlar los movimientos de capital a corto plazo desestabilizadores,
+y la búsqueda de una supervisión y regulación financieras de carácter supranacional es activa en los foros internacionales (BIS, FMI, BCE). Lo que ha dado en lla­
+marse un proceso de re-regulación financiera.
+51
+
+
+
+Por último, no es ocioso dar cuenta de que en unas décadas en que ha
+sido muy intensa la tendencia a replantearse las funciones, objetivos, instrumentos
+y políticas del sector público, en la línea de dar mayor cabida en los procesos de
+asignación a los mercados, y se han dedicado esfuerzos muy importantes a este fin,
+el área de investigación en análisis económico que más se ha expandido ha sido,
+precisamente, la de la teoría de la regulación.
+En consecuencia, por razones tanto teóricas como empíricas, la tendencia
+que se está produciendo en la práctica es hacia una reducción drástica de los sec­
+
+tores públicos empresariales y una ampliación del ámbito de las políticas de regula­
+ción.
+Por último, el proceso de concentración económica que se está dando en
+todo el mundo y en todos los sectores ha aumentado considerablemente el poder
+de mercado de muchas empresas, haciendo que la estructura empresarial de aqué­
+llos facilite los comportamientos colusivos y el ejercicio de poder de mercado. Con­
+viene aquí recordar que el mercado no presenta su propiedad más deseable — la
+eficiencia— salvo que sea compétitivo.
+En coherencia con la mayor importancia de los mercados como mecanis­
+mo de asignación, la política de defensa de la competencia ha pasado a ser fu n d a ­
+mental en todas las economías avanzadas. Política mucho más difícil de instru­
+mentar y evaluar ahora que hace algunas décadas, porque frente a las decisiones
+basadas en simples medidas de la concentración —el índice Herfindhal por ejem­
+plo— , es preciso ahora analizar las estrategias seguidas por las empresas, las carac­
+terísticas de la demanda, el ámbito relevante del mercado, las barreras a la entrada
+y a la salida en el sector, la tecnología productiva, el papel de la competencia
+potencial, y un largo etcétera. También es ilustrativo que la otra gran área de
+expansión del análisis microeconómico en las últimas décadas haya sido la econo­
+mía industrial.
+En resumen, las políticas públicas de asignación han sufrido un cambio
+muy significativo al perder toda relevancia la intervención directa del Estado en el
+ámbito productivo y ganar en importancia las políticas regulatoria y de defensa de
+la competencia. Sin embargo, estas últimas presentan características distintas a las
+de hace veinte años, en el sentido de que son mucho más sensibles a la alteración
+de los sistemas de incentivos, a la no creación de condiciones discriminatorias y a
+la motivación real del comportamiento de los agentes.
+
+52
+
+
+
+c)
+
+P o lític a s d e re d is trib u c ió n
+
+Discutiré los cambios experimentados por las políticas redistributivas dis­
+tinguiendo entre los ingresos y los gastos públicos.
+Desde la perspectiva de los ingresos, cabe resumir diciendo que la tensión
+entre eficiencia y equidad, claramente escorada a favor de una cierta concepción
+de la equidad hasta la década de los años ochenta, ha sufrido un doble vuelco sig­
+nificativo. Por una parte, se ha cuestionado el carácter redistribuidor efectivo de la
+fiscalidad tradicional; por otra, las consideraciones de eficiencia han ganado peso
+relativo.
+Las ideas tradicionales sobre la equidad en la imposición pueden resumir­
+se en dos: los impuestos directos son más equitativos que los indirectos, y el gra­
+vamen de la renta y riqueza individuales debe ser fuertemente progresivo. La con­
+junción de estas dos ideas condujo a una mayor participación relativa en los
+ingresos públicos de los impuestos directos, y a escalas de gravamen con muchos
+tipos marginales y crecientes.
+La tendencia de las reformas implementadas desde 1980 ha ido en la direc­
+ción de lo que los hacendistas han dado en llamar modelo extensivo, que, en lo
+esencial, cabe sintetizar en tres aspectos:
+1°
+
+Mayor peso relativo de los criterios de eficiencia.
+
+2 ° Recuperación de la equidad horizontal y menor relevancia de la equi­
+dad vertical.
+3.°
+
+Simplificación administrativa.
+
+Principios cuya plasmación práctica ha sido la reducción en el número de
+tramos (ejemplos extremos en la OCD E 1980-1996: Suecia de 18 a 2; España de 28
+a 16; Japón de 15 a 10; y por media de 13 a 5); las reducciones de los tipos mar­
+ginales máximos (ejemplos extremos OCDE 1980-1996; Suecia del 75 al 56%,
+Noruega del 65 al 42 %, Nueva Zelanda del 60 al 33 %, Reino Unido del 60 al 40 %;
+y por media del 60 al 49%); la reducción de tratamientos preferenciales e incenti­
+vos fiscales, y una ampliación de las bases imponibles y una potenciación del IVA
+que han permitido que todas estas modificaciones no afectarán al porcentaje de los
+ingresos tributarios respecto al PIB (ejemplo en la OCDE 1980-1996: Italia + 10,9 p .p .,
+España + 9,9 p .p ., Finlandia + 9,6 p .p., Portugal + 8,6 p .p ., Nueva Zelanda + 5,2 p .p .,
+53
+
+
+
+Japón + 3,1 p .p ., EE.UU. y Suecia + 1 p .p ., Reino Unido 0 p .p ., Noruega, - 1,2 p.p.:
+y por media + 3,8 p.p.).
+Ha habido en este período experiencias más avanzadas que, dentro del
+modelo comentado, han dualizado más la estructura impositiva (Suecia y Noruega),
+e incluso existen propuestas que se encuentran en fase de estudio más bien aca­
+démico, aunque su aplicación se aprecia como imposible, tales como el fía t tax o
+el USA tax.
+Estas reformas han simplificado la tributación, han mejorado la igualdad
+de trato entre iguales y han reducido los efectos distorsionadores de todo sistema
+fiscal. Pero también, con seguridad, han disminuido la diferencia relativa de trato
+entre distintos niveles de renta, aunque menos de lo que se deriva de la simple ins­
+pección de las escalas, habida cuenta de la ampliación de bases y del mayor gra­
+do de cumplimiento de las obligaciones fiscales.
+Siendo esto así, es claro que el peso de la tarea redistribuidora ha de des­
+plazarse a la esfera del gasto público. Y aquí la discusión se centra en los cuatro
+grupos de programas de gasto que tienen componentes redistributivos claros:
+• Programas de renta mínima o lucha contra la pobreza (pensiones míni­
+mas, no contributivas, salarios de inserción social, subsidio de desempleo, etc.),
+que son redistribuciones, en lo esencial, intrageneracionales.•
+• Sistemas públicos de pensiones (redistribuciones con componente inter­
+generacional).
+• Financiación de educación y sanidad universales.
+• Seguro de desempleo «contributivo».
+Ya he tratado aquí en otras ocasiones de estos programas (en el año 1993,
+sobre protección del desempleo; en 1994, sobre pensiones y sanidad, y en 1997,
+sobre protección en general y los sistemas de protección europeos), por lo que me
+limitaré a sintetizar las ideas que ya he expuesto, advirtiendo que en este tema el
+análisis económico permite defender posiciones que pertenecen a un abanico más
+amplio que en los temas anteriores (políticas de estabilización y de asignación de
+recursos). Ello no es debido a insuficiencias del análisis, sino al hecho de que el
+propio concepto de equidad, justicia o faim ess es opinable. Baste con pensar que
+puede opinarse que una distribución es tanto más justa cuanto menor es la disper54
+
+
+
+sión de los ingresos familiares o cuanto mejor tratado esté el individuo en peor
+situación de la sociedad, con independencia de la dispersión.
+Los problemas que, con carácter general, se han señalado, derivados del
+desarrollo de los sistemas de protección social europeos, han sido los siguientes:
+• Protección desigual.
+• Redistribución entre clases medias.
+• Generación de incentivos negativos sobre el empleo.
+• Incrementalismo del gasto en algunos programas.
+• Problemas de gestión pública en algunos programas.
+Los problemas de protección desigual se derivan del hecho de que, con
+frecuencia, la percepción de transferencias públicas depende de la previa partici­
+pación del beneficiario en el mercado de trabajo. Así puede suceder que los bene­
+ficios obtenidos por ayuda familiar o por una situación de inactividad laboral sean
+distintos dependiendo de que el perceptor haya o no estado previamente emplea­
+do. Obsérvese que si se supone que el grado de protección de quienes están
+empleados es adecuado, esta crítica mas bien apunta-hacia la necesidad de mejo­
+rar la protección de quienes no han accedido al mercado del trabajo. El tema cen­
+tral aquí no es el de los beneficios de origen contributivo, sino el de los programas
+de lucha contra la pobreza y la ayuda familiar, que ya traté en 1994.
+La segunda crítica es la relativa al cambio del tipo de redistribución de la
+renta. En sus orígenes, los sistemas protectores de tipo Beveridge transferían níti­
+damente renta de ricos a pobres por la doble vía de la garantía de una renta míni­
+ma y su financiación con sistemas fiscales muy progresivos en la imposición per­
+sonal. La ampliación del núcleo protector inicial, sobre todo a la financiación de
+bienes preferentes, ha conducido a que el grueso de la distribución se realice entre
+clases medias. Esto posiblemente nos resulta difícil de aceptar, pero no debería ser­
+lo más que la admisión ya comentada de que la imposición sobre la renta debe ser
+menos redistribuidora de lo que lo era hace dos décadas.
+En efecto, la razón por, la cual no se generan transferencias de renta ines­
+pecíficas y se deja a las familias que las gasten en lo que deseen es, aparte de las
+dificultades señaladas con las transferencias de tanto alzado, el fenómeno que
+Tobin bautizó como igualitarismo específico, que afecta a los bienes preferentes:
+en la medida en que las sociedades no acepten cierto grado de desigualdad expost,
+es necesaria la financiación pública del acceso a bienes específicos. Si esto es así,
+55
+
+
+
+es evidente que una parte de las transferencias globales será entre rentas medias,
+que perseguirán el objetivo de lograr dicho igualitarismo.
+La generación de incentivos negativos sobre la oferta de trabajo constituye
+un tema de mayor calado. La evidencia demuestra que la variable que más negati­
+vamente afecta a la probabilidad de salir de una situación de desempleo es la per­
+cepción de transferencias por parte del parado. De nuevo menciono propuestas ya
+comentadas en otras ocasiones: considerar en su conjunto la protección que brin­
+da la indemnización por despido y el seguro de desempleo, de forma que la pro­
+tección efectiva sea más generosa durante un período más breve; y permitir la con­
+tratación de trabajadores cuya productividad no permite que perciban el salario
+mínimo, completándose éste con fondos de protección del desempleo.
+El problema del incrementalismo es bien conocido: algunos programas, y
+paradigmáticamente la sanidad, muestran un ritmo de crecimiento real del gasto
+superior al del PIB. La posible solución es distinta para cada programa, pero en el
+caso de la sanidad parece razonable suponer que la garantía pública de acceso
+debe articularse mediante una póliza universal idéntica para todos los ciudadanos
+de un país concreto que sólo debe contemplar la cobertura de problemas básicos
+de salud; y que los gastos en medicamentos y tecnología sanitaria sean regulables
+con mayor eficiencia que en la actualidad, puesto que son los responsables de la
+mayor parte del aumento del gasto público sanitario en nuestro país.
+El último problema señalado es el de la gestión de programas complejos de
+gasto y provisión pública de bienes. La Administración pública no está, en general,
+bien preparada para gestionar actividades de prestación de servicios complejos
+— como la educación y la sanidad— , de forma tal que es preciso reformar los
+modos de gestión. La idea esencial es la introducción de competencia dentro de la
+Administración, y entre ésta y la oferta privada, de forma tal que la gestión de estos
+servicios pueda alcanzar cotas de eficiencia razonables, que resultan imposibles de
+lograr en la esfera del Derecho Administrativo.
+Como conclusión, no parece que exista evidencia que permita sostener
+que los porcentajes de PIB absorbidos por los programas protectores sean insoste­
+nibles en el futuro. Sobre todo en el caso de España, en el que dicha cifra se
+encuentra 4-5 p.p. del PIB por debajo de la media de la UEM. Lo que es preciso es
+racionalizar el gasto mejorando los niveles protectores; ser flexibles en el estudio
+de formas de cofinanciación —siempre que no desvirtúen el carácter redistributivo
+de los programas de gasto— , y mejorar la eficiencia de gestión de los programas.
+
+56
+
+
+
+Nada de esto es sencillo, pero la reorientación que defiendo podría sinte­
+tizarse diciendo que el Estado del bienestar no debería perseguir como objetivo
+garantizar e l sostenimiento de rentas a largo plazo, sino mejorar la igualdad real de
+oportunidades de los individuos antes de que entren en el mercado de trabajo. Esto
+permitiría reducir las desigualdades ex post entre las personas — una fuente de
+demandas justificables de protección— ; aumentar la productividad media de la eco­
+nomía, y también ser mucho más neutrales respecto al sistema de incentivos de una
+economía de mercado.
+
+5.
+
+COLOFÓN
+
+Todo lo expuesto ¿implica más Estado y menos mercado, o lo contrario?
+No sabría decirlo a priori, aunque la intuición me dicta que no traería consigo más
+Estado en el sentido de mayores absorciones de PIB por parte del gasto público.
+Pero lo que sí es seguro es que implicaría un mejor Estado y un mejor mercado.
+Un Estado que se preocupe más por las condiciones de estabilidad agregada, que
+garantice las condiciones de competencia y asegure que los beneficios de ésta se
+transmiten a los ciudadanos como consumidores; un Estado más neutral fiscalmen­
+te, que asegure a los individuos frente a riesgos no previsibles ni achacables a sus
+decisiones personales, que gestione con mayor eficiencia programas destinados a
+mejorar la igualdad de oportunidades y no de resultados finales, que siempre
+deben depender —si existe una apreciable igualdad de oportunidades— del
+esfuerzo y las decisiones individuales de cada ciudadano.
+
+57
+
+
+
+

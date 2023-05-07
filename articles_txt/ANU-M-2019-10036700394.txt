@@ -1,0 +1,936 @@
+CÓMO SUPERAR LA PANDEMIA 1
+ALGUNAS REFLEXIONES Y PROPUESTAS
+Ramón Tamames 2
+
+SUMARIO: INTRODUCCIÓN.—1. SANIDAD.—2. ECONOMÍA. Las mayores crisis económicas. Situación básica. Medidas ya adoptadas. Método a seguir:
+escenarios y presupuestos.—3. ESTADO DE BIENESTAR.—4. UNIÓN EUROPEA.
+SURE y MEDE. Fondo Europeo de Recuperación. El Banco Central Europeo. Otras
+posibles fuentes de financiación para la Reconstrucción Nacional.—5. FINAL.
+
+INTRODUCCIÓN
+Es difícil un análisis que pretenda ser global, y al mismo tiempo detallado,
+sobre los efectos económicos y sociales de la pandemia que estamos atravesando
+por el coronavirus. En ese sentido, en nuestra exposición seguimos la cuatricromía
+planteada en el Congreso de los Diputados con ocasión de constituirse la Comisión para la Reconstrucción Social y Económica, el 7 de mayo de 2020, integrada
+por 46 diputados, de diez diferentes grupos parlamentarios.
+El origen de la Comisión parlamentaria radica en el pacto que hubo entre el Presidente del Gobierno y el líder de la oposición a fines de abril de 2020.
+En la idea de proponer soluciones a cuatro grupos de problemas relacionados
+con la pandemia: Sanidad, Economía, estado de bienestar, y Unión Europea.
+
+1
+Este informe puede tener algunas erratas y errores. Para subsanarlos, se agradecerá a los lectores envíen sus observaciones al correo electrónico castecien@bitmailer.net, incluyendo posibles comentarios.
+La actualización del escrito es de 16 de junio de 2020, aunque posteriormente el autor ha presentado un informe más actualizado.
+2
+Técnico Comercial del Estado, Catedrático de Estructura Económica (UAM), Cátedra Jean Monnet de la UE, de la Real Academia de Ciencias Morales y Políticas.
+
+367
+
+
+
+En la idea inicial —un acuerdo entre Pedro Sánchez y Pablo Casado—, se discutió una quinta cuestión —sobre las consecuencias políticas de
+la pandemia—, pero esa porción no se incluyó en el acuerdo final. Seguramente por estimarse del lado del Gobierno que una comisión parlamentaria
+debe investigar soluciones; dejando aparte las consecuencias políticas, se supone, para debatirlas en el hemiciclo y no en Comisión. Lo cual no obsta para
+ver discutible la idea esbozada por Patxi López —Presidente de la Comisión
+de referencia— de que no debe pretenderse controlar al Gobierno desde esa
+Comisión; cuando, ciertamente, el control del Ejecutivo es una de las funciones básicas del Parlamento.
+Para estudiar la crisis de la pandemia, algunos países han creado una
+Comisión de Sabios, como es el caso de la Francia de Macron, que ha reunido
+para ello a 20 economistas, encabezados por Krugman y Tirole, ambos Premios
+Nobel, más Larry Summers, Blanchard y otros, para que en dos meses ofrezcan
+diagnóstico y recomendaciones. En analogía a lo que en 1928 se hizo en Inglaterra con la Comisión McMillan sobre la Gran Depresión (con John Maynard
+Keynes como protagonista) y en 1926 en España con la Comisión del Patrón
+Oro, presidida por Antonio Flores de Lemus.
+En el caso de Italia Vittorio Colao, un importante empresario, ex consejero delegado de Vodafone, fue seleccionado por el Presidente de la República para diseñar el Plan de Reconstrucción Nacional. Formó un grupo de trabajo
+de 17 expertos, que reunidos desde abril ya han presentado un informe de 126
+páginas con 102 medidas.
+Una propuesta de Comité de Sabios que hizo el autor del presente estudio en abril de 2020, semanas antes de materializarse la idea de Macron, cayó
+en el saco roto del Gobierno. También se vio incumplida mi aspiración de exponer este documento, en su primera versión en la mentada Comisión de Reconstrucción Nacional del Congreso de los Diputados. ¿Para qué escuchar? No
+hay mayor sordo que el que no quiere oír 3.
+La iniciativa más importante en el sentido apuntado fue la instrumentada por Antonio Garamendi, Presidente de la CEOE, quien subrayó que ya se han
+quedado en el camino más de 130.000 empresas, con 3,4 millones de empleos
+perdidos o suspendidos por los ERTEs. Garamendi convocó a un gran número
+de empresarios importantes, para a lo largo de una semana, exponer ideas y
+propuestas. El primer día se escucharon las siguientes menciones:
+– Juan Roig, Mercadona: “Hoy más que nunca merece la pena ser empresario”.
+
+3
+
+368
+
+Sí enviaré este informe a la web de la referida Comisión.
+
+
+
+– Pablo Isla, Inditex: “No hay que revertir las reformas eficaces que
+están funcionando”.
+– Ana Botín, Santander: “La prioridad es evitar una destrucción permanente de empresas, como en la anterior crisis”.
+– Ignacio Galán, Iberdrola: “Hay que adelantar a 2025 el Plan de Energía y Clima, para aumentar competitividad, y reducir dependencia
+energética del exterior”.
+– Antonio Garamendi, CEOE: “Son las empresas las que tienen que liderar el futuro y poner en marcha España”.
+En cualquier caso, y siguiendo las cuatro secciones mentadas, analizaremos la situación y los posibles ajustes a realizar.
+
+1. SANIDAD
+Desde el planteamiento que hacemos aquí, la Sanidad no puede tener
+un trato muy extenso, por corresponder, principalmente, a los expertos en epidemiología. Y más en concreto a quienes conocen —en la medida que ello es
+posible, con cualquier clase de incertidumbres—, los orígenes, evolución, y
+posible persistencia de la pandemia; menguando, gradualmente, pero no desapareciendo sin más 4.
+A ese respecto, está claro que, sin una visión adecuada de los términos
+de salud pública, y de su incidencia sobre la actividad económica y social, será
+difícil contar con un repertorio completo de recursos para resolver los problemas, a partir de las cinco fases, de cero a cuatro. Con lo cual se intenta sistematizar —en España, como análogamente se ha hecho, mejor o peor, en otros
+países—, el proceso de normalización, a partir de la invasión microbiana que
+tanto ha incidido en la sociedad española y su economía. En la previsión de
+que el aplanamiento de las curvas principales (muertes y personas en UCI)
+marcan una tendencia a la normalización, con otras variables a tener en cuenta,
+pero sin definirse un futuro nítido y cierto (véase gráfico ad hoc).
+De ahí que quepa recomendar a las autoridades, y primero de todo a
+la referida Comisión del Congreso de los Diputados, que haya una investigación
+
+4
+Según Margarita del Val, viróloga e inmunóloga, “hay más virus circulando ahora que antes del
+estado de alarma”. Una inquietud a tener en cuenta cuando se finalice la fase 4 en previsión de posibles rebotes del coronavirus. El País, 15.VI.2020.
+
+369
+
+
+
+completa desde el punto de vista sanitario de lo sucedido desde el principio
+hasta el presente. Con las consideraciones indispensables y sin escatimarse medios y experiencias, y teniendo en cuenta observaciones expertas; incluida la
+Organización Mundial de la Salud (OMS), a pesar de las críticas que ha recibido.
+Lógicamente, el tema se suscitó en el lado judicial, sobreseyéndose
+(por el momento) el posible enjuiciamiento de por qué el domingo 8 de marzo
+se autorizaron manifestaciones políticas masivas en toda España, que pudieron
+originar, muchos miles de contagios. Como igualmente, se plantea investigar el
+tema de las residencias de personas mayores, con su elevadísima mortalidad.
+Todo ello, para explicar cómo y por qué España se sitúa en la parte más alta
+(sólo después de Bélgica) en el número de fallecidos por millón de habitantes
+(véase cuadro 1: 580, sólo por debajo de Bélgica y Reino Unido.
+Hay que explicar también, en la Comisión en cuestión, o en otro lugar,
+por qué ese guarismo, tan elevado, cuando se suponía que el Sistema Nacional
+de Salud tenía tan estimadas prestaciones; pero con la percepción en la crisis,
+por ejemplo, se subraya que en Alemania hay ocho camas por cada 1.000 habitantes, y en España solo 3,8. Es cierto que han sido buenos los efectos del
+confinamiento en España: según la revista Nature, podrían haberse evitado
+450.000 muertes 5.
+Tampoco puede olvidarse, hemos aludido a ello, un posible repunte en
+el otoño, así como el problema de la vacuna, el único camino de regreso a la
+vida anterior contra el coronavirus. Pero la carrera científica para lograrla está
+llena de obstáculos, con meses aún para obtenerla de manera segura, de fabricarla a gran escala y distribuirla bien, porque ha de ser eficaz 6.
+
+Belén Tobalina, “El confinamiento ha evitado 450.000 muertes en España”, La Razón, 9.VI.2020.
+Manuel Ansede y Artur Galocha, “Los obstáculos de la carrera por la vacuna”, El País, 31.V.2020.
+España/EE. UU. de 1953. Pero las verdaderas ideas de cambio a la economía de mercado sin
+tanto intervencionismo estatal, solo se produjo a partir del Plan de Estabilización, al liberarse importaciones
+y exportaciones, la homologación de la peseta en el sistema de cambios oro/dólar del FMI, y la entrada en
+organismos internacionales, como el Banco Mundial, la OECE, etc.
+5
+6
+
+370
+
+
+
+371
+
+
+
+2. ECONOMÍA
+Antes de entrar en materia, según el título del presente estudio, me gustaría hacer una exposición de los momentos críticos de la economía española, o si
+se prefiere llamarlos límites de estructura, según la tesis de Ackerman, para situar
+la actual pandemia con sus consecuencias económicas, en el repertorio de lo que
+ha sido la evolución de la economía española desde el Plan de Estabilización
+1959/62, cuando pasamos de ser un país de estancamiento inflacionista autárquico, a convertirnos en una economía mucho más abierta, y con libre creación y
+desarrollo de las empresas. De esos episodios que van a continuación he participado en todos ellos personalmente —primero como Técnico Comercial del Estado, y después como Catedrático de Estructura Económica—, de una u otra forma.
+Cuadro 1. Los países más golpeados por el coronavirus
+1.º Estados Unidos
+
+109.176
+
+2.º Reino Unido
+
+39.728
+
+3.º Italia
+
+33.601
+
+4.º Brasil
+
+32.602
+
+5.º Francia
+
+29.021
+
+6.º España (1)
+
+27.128
+
+7.º México
+
+11.729
+
+8.º Bélgica
+
+9.548
+
+9.º Alemania
+
+8.701
+
+10.º Irán
+
+8.071
+
+Muertes por millón de habitantes
+1.º Bélgica
+
+824
+
+2.º Reino Unido
+
+585
+
+3.º España (2)
+
+580
+
+4.º Italia
+
+556
+
+5.º Francia
+
+445
+
+6.º Holanda
+
+350
+
+7.º Estados Unidos
+
+330
+
+8.º Canadá
+
+199
+
+9.º Brasil
+
+153
+
+10.º Perú
+
+149
+
+(1) España se colocaría en segunda posición si se contabilizan los datos del INE (43.945).
+(2) España estaría en la primera posición si se contabilizan los datos del INE (941).
+Fuente: Sergio Alonso, La Razón, 5.VI.2020.
+
+372
+
+
+
+Las mayores crisis económicas
+En el periodo previo al Plan de Estabilización, ya se introdujeron algunas reformas muy limitadas, en función de lo previsto en los Pactos
+A partir del año 62, una vez superada la recesión inducida por el Plan de
+Estabilización, con un fuerte volumen de emigración hacia la Europa transpirenaica, entramos en la década de mayor crecimiento de nuestra historia económica, con un 7,7 de expansión acumulativa anual de promedio, entre 1962 y 1973.
+Un desarrollo que permitió multiplicar por 2,5 el PIB de 1959.
+Otro hito importante de la política económica española fueron los Pactos de La Moncloa, fundamentalmente para moderar la inflación, pasando de un
+26 por 100 anual en 1977, al 19 en el 78, con amplias reformas para adaptar las
+instituciones económicas a la nueva Democracia.
+Otro momento decisivo se dio en 1986 con la adhesión plena a lo que
+hoy es la Unión Europea, con una transformación importante de la economía
+española. Empezando por el desarme del proteccionismo, y asumiendo la normativa comunitaria para un amplio mercado.
+El siguiente gran cambio acaeció entre 1996 y 98, en la preparación del
+ingreso de España, en el momento de su fundación, en la Unión Monetaria Europea y el nacimiento del euro. Con lo cual pasamos a situarnos en una cultura financiera de baja inflación, y de tipos de interés muy inferiores a los de la fase
+anterior; con una reforma importante del sector crediticio, que sin embargo no
+fue suficiente para arrostrar después la fuerte crisis de las cajas de ahorro.
+Cabría decir que la siguiente fase crítica de la economía española se
+produjo en 2000/2008, tras el rápido crecimiento basado en el ladrillo —como
+se dice coloquialmente—, esto es, la especulación inmobiliaria: una construcción de viviendas en España que llegó a ser mayor que la de Reino Unido,
+Francia y Alemania juntas. Lo que da idea de cómo fue configurándose las
+burbujas financiera y de la construcción, hasta que estallaron en la gran crisis
+del 2008, con la que se inició la Gran Recesión.
+Y cuando ya estábamos casi recuperados de la crisis de 2008/2013,
+llegó en 2020 el cisne negro de la pandemia, con graves consecuencias económicas y sociales.
+El largo confinamiento de tres meses, la crisis de demanda consiguiente,
+crearon un fuerte desempleo, mayor aún si se considera como tal a los trabajadores inactivos pero no parados que están en los ERTEs. Con las consecuencias
+económicas de una caída de los ingresos públicos, y el comienzo de una senda
+de elevación de la deuda pública, que del 98 por 100 del PIB podría superar
+
+373
+
+
+
+próximamente el 120. Y con una recesión para el 2020 que podría aproximarse
+al 20 por 100, sin que sea fácil prever una recuperación total antes del 2022 o 23.
+La evolución futura se discute por los economistas según el diagrama
+que podría seguir la evolución del PIB, como una V de rápida caída y fuerte recuperación; una V asimétrica (su segundo trazo más abierto), de más lenta revivencia; una casi L de estancamiento; o incluso una W de caída y rebote y otra vez
+lo mismo, en caso que la pandemia tenga recidivas en el próximo futuro 7.
+Nos encontramos así ante una situación completamente nueva, sin precedentes en la economía española, europea y mundial, que debemos afrontar
+con una nueva sistemática que todavía no está claramente definida. En ese
+sentido, en el presente Informe, se estudia la situación actual, y cómo puede
+salirse a una recuperación lo más rápida posible.
+El análisis económico que aquí hacemos se basa en una serie de macromagnitudes, comenzando por el más expresivo, el PIB, habiéndose calculado ya oficialmente que en el primer trimestre de 2020 se contrajo en un 5 por
+100, y no mejor en el segundo trimestre. Lo cual hace muy posible que la contracción total en el año 2020 sea del tenor de no menos del 15 o 20 por 100;
+por la implicación de sectores importantes muy duramente afectados por la
+falta de demanda, como la industria manufacturera (sobre todo automoción), la
+construcción, turismo, hostelería, transporte, y multitud de otros servicios. Con
+una expectativa de recuperación que va a depender, en gran parte, de la política económica que está aplicándose ya, y la que seguirá.
+Situación económica básica
+Entre las previsiones más relevantes hechas hasta mayo por el Gobierno
+de la Nación, se ha calculado que los ingresos públicos (incluida la Seguridad
+Social) se reducirán en 25.700 millones de euros, un 5,4 por 100 sobre 2019,
+cuando fueron de 471.000 millones de euros. Ello se debe a la falta de actividad
+de parte de la economía durante el confinamiento del estado de alarma.
+7
+La vicepresidenta Nadia Calviño observa un “cambio de tendencia” en la economía “desde que
+terminó la hibernación, con una cierta recuperación de la actividad y el empleo”. Con la “máxima cautela”, la
+ministra apuesta por una recuperación “con un perfil de V asimétrica, con una tasa de crecimiento importante el año próximo”. El BCE también cree que la economía europea ha tocado fondo y se encamina a un rebote. Las perspectivas para 2020, sin embargo, son lúgubres. J. Ariza y J. L. Pellicer, “Calviño observa un
+cambio de tendencia y prevé para 2021 un crecimiento ‘importante”, El País, 5. VI.2020. Inditex podría presentar la próxima semana las primeras pérdidas trimestrales de su historia desde que salió a Bolsa, en 2001.
+La empresa, que ya ha reabierto la mayoría de sus tiendas en el mundo, se enfrenta a una caída potencial de
+ingresos de entorno al 40 por 100 entre febrero y abril por el cierre del comercio en medio mundo, según el
+consenso de analistas de Bloomberg. La dura realidad se refleja en la industria, con crisis como la de automoción y pérdidas en Inditex, por primera vez. Víctor M. Osorio, “Los analistas anticipan las primeras pérdidas de Inditex”, Expansión, 4. VI.2020.
+
+374
+
+
+
+Por el contrario, está en curso una fuerte expansión del gasto público,
+siendo previsible, solamente en 2020, hasta en un 35 por 100 más del PIB estimado de 2019. En otras palabras, con un déficit de ingresos/pagos del 30 por
+100 (una cifra expresiva del daño para la Hacienda Pública), estamos ante una
+situación única en la historia económica de España, de fuerte paro, serio endeudamiento, amplio déficit público (de más de dos dígitos), todos ellos, datos más
+que preocupantes. Claro es que sin que tenga sentido compararla —como ya se
+hizo por algunos— con la Guerra Civil, cosa muy distinta. Porque entonces, la
+caída del PIB se estimó en un 40 por 100 de la renta nacional de cada uno de
+los tres años. Lo que se debió al cese de actividades económicas normales, centrándose todo en la acción bélica, para la destrucción sistemática de un bando
+contra el otro. Con gran lentitud de recuperación ulterior, por una serie de circunstancias políticas, de modo que el PIB por individuo activo de 1935 no se
+recuperó hasta 1951. Es decir, hubo una depresión de dieciséis años 8.
+La situación actual, es grave, pero históricamente mucho menos trágica. Hay una caída bruta del PIB, pero estamos en un ciclo de tres/cuatro años,
+y la recuperación se supone que comenzará ya en los últimos meses del propio 2020. Con la posibilidad de que tengamos un crecimiento de la renta en
+2021, sobre 2020, en torno al 6 o al 7 por 100. Lo que todavía no compensaría
+la caída de 2020. De modo que por desajustes, rigideces y complicaciones varias no estaremos en condiciones de total recuperación hasta el 2022 o el 2023.
+En esa perspectiva debe recordarse el concepto de histéresis, de velocidad de
+readaptación de todo el sistema económico. Por lo demás, tiene gran importancia para la evolución inmediata las medidas que se han tomado o van a
+adaptarse: un amplio recorrido.
+Medidas económicas ya adoptadas
+De las medidas adoptadas hasta ahora por las autoridades económicas,
+deben subrayarse varios temas, que hacemos con algunos comentarios:
+– Los créditos a empresas en general, y especialmente a pymes y autónomos, avalados por el ICO (entre el 60 y el 80 por 100), con una posible
+cifra total prevista de 100.000 millones de euros figuraron en el primero de los
+Reales Decretos Leyes dictados por el Gobierno. A este primer caso de apoyo
+no se le está dando la necesaria flexibilidad, ni se le han aplicando tipos de
+interés que no son los más bajo posible (2,5 por 100). Sería necesario, pues,
+cambiar esa situación, agilizando trámites, y abaratar el precio del dinero en
+una segunda fase, pensando sobre todo en pymes y autónomos, que en gran
+
+8
+Juan Velarde no se refiere a la guerra civil, pero sí a la primera guerra mundial; vista por John
+Maynard Keynes. En el artículo “¿Es la guerra?”, en La Razón, 31.V.2020.
+
+375
+
+
+
+parte han quedado marginados. Solamente con esos retoques se llegaría a colmar la cifra de créditos en los 100.000 millones previstos.
+– Tampoco se ha gestionado con suficiente diligencia el caso de los
+ERTEs, puesto que a muchos beneficiarios de los mismos aún no les llegaron las
+prestaciones en el mes de mayo. Y aunque con toda lógica se hayan ampliado
+los ERTEs al 30.VI.20, y este estudio llega al 31.XII.2020, se está creando un ambiente, según el cual, muchas empresas con ERTEs, tendrían que abonar ellas
+mismas las prestaciones en caso de no cumplir, rigurosamente, todas las prescripciones, a veces más que difíciles. Aparte de todo eso, es de esperar que el
+SEPE resuelva sus problemas de capacidad de gestión y con los bancos, para la
+mejor prestación de los pagos. También hay que prever cuánto paro puede originarse al final de los ERTEs por incapacidad de las empresas por mantener sus
+nóminas anteriores a la crisis. Existiendo la posibilidad de que hayan de prolongarse los ERTEs hasta septiembre como mínimo, como propone el Gobierno, o
+hasta el 31 de diciembre de 2020 como plantea la CEOE.
+– Aunque no haya medidas propiamente del Gobierno hasta ahora, ha
+de mencionarse que puede haber hasta 100.000 concursos de acreedores en
+marcha, de empresas e individualidades con graves dificultades, etc. Según lo
+calculado por varios despachos de abogados y economistas 9. Por lo cual podría
+atascarse la máquina judicial, para resolver todos esos supuestos en tiempo.
+Sobre todo, considerando que los concursos deben hacerse para intentar salvar
+empresas de la ruina, y no para llevarlos directamente a ella. Habría que potenciar mucho más los juzgados de lo Mercantil (solo 71 actualmente) y estimular
+mucho más el arbitraje bancos/acreedores. En ese sentido, la Confederación
+Española de Comercio ha confirmado el cierre de negocios que amenaza con
+vaciar el 20 por 100 de los locales que no han reabierto al aproximarse el final
+del estado de alarma 10.
+Transferencia por la Administración General del Estado (AGE) de
+16.000 millones de euros a las CC.AA. con criterios de distribución, aún no definitivos, para cubrir los elevados gastos sanitarios durante la pandemia.
+– No distribución de dividendo en las cuentas de las empresas a partir
+de 2020, regulación que aún debe detallarse.
+– Derogación de la reforma laboral de 2012, pactada por la coalición
+PSOE/UP con Bildu, y finalmente en suspenso por el aluvión de críticas recibidas. Debiendo recordarse que hasta ahora se han suprimi-
+
+9
+Por ejemplo, el despacho que dirige el economista y jurista Rubén García Quismondo, en declaraciones que hizo al programa La verdad desnuda de Capital Radio, en el mes de mayo.
+10
+María Hernández, El Mundo, 16.VI.2020.
+
+376
+
+
+
+do de esa Reforma el despido por absentismo, y se han prohibido los
+despidos: aunque queda realizable como improcedente, con 45 días
+por año trabajado. De hecho supone un encarecimiento el regular la
+nómina cualquier empresa. En definitiva, no solo hay que mantener
+la reforma laboral de 2012, sino aumentar la flexibilidad del mercado
+para afrontar la pandemia 11.
+– Se ha dejado que crezca sin límite, por ahora, el volumen de la deuda de la Seguridad Social para atender a los nuevos parados, y también para financiar los ERTEs. Lo que llevaría a frenar lo dedicado a
+pensiones (véase gráfico ad hoc).
+– Están en curso posibles medidas drásticas en Fiscalidad: impuesto
+sobre las grandes fortunas, con hasta 3,5 por 100 de leva de capitales a partir de 100 millones de euros. Sin que aún esté fijado el posible subidón de impuestos: IRPF, IVA y Sociedades, en la idea de
+recaudar hasta 20.000 millones de euros, en más 12. Adicionalmente
+se ve con preocupación la Tasa Google a las empresas tecnológicas
+extraponenciales 13.
+– El ingreso mínimo vital (IMV), pensado para un millón de familias
+y unos 2,5 millones de personas, con un coste previsto de 3.000
+millones de euros para 2020; con 461,50 euros por persona inicial, puede llegar a 1.015 euros al mes por familia de dos padres
+y dos hijos (ver cuadro 2) 14. Con no pocas advertencias de lo que
+el IMV pueda significar de “efecto llamada”, fraude, o desincentivo para la reintegración en el trabajo. Además, se ha puesto de
+relieve que el IMV podría acrecentar aún más la economía informal 15. La gestión de la IMV se confiere a los ayuntamientos, con
+todo su coste burocrático.
+Medidas sectoriales, aún no definidas para sectores concretos: turismo,
+automoción, compañías aéreas, sanidad, etc. Lo cual va a depender, en buena
+medida, del desarrollo de las ayudas UE. En esta línea de cuestiones ya se ha
+anunciado un programa para el sector automoción por 3.750 millones de euros,
+con ayudas para cambiar de coche entre 800 y 5.500 euros, permitiendo por un
+tiempo la adquisición de turismos diésel y gasolina, pero fomentando, sobre
+
+Tal como propone Íñigo Sagardoy de Simón en su artículo en El Mundo, el 15 de junio de 2020.
+L. Pérez y J. Junqueiro, “Calviño e Iglesias difieren en políticas fiscales”, El Mundo, 29.V.2020.
+13
+Emilio de Diego, “España va mal”, La Razón, 30.V.2020.
+14
+Interesantes las observaciones de The Economist sobre el tema, en el artículo “A more equal
+country?”, número de 6 de junio de 2020.
+15
+Inma Bermejo, “El ingreso mínimo, un refugio para la economía sumergida”, La Razón, 6.VI.2020.
+11
+12
+
+377
+
+
+
+todo, los automóviles eléctricos 16 17. También está anunciado un programa especial para el turismo, todavía sin especificar.
+
+– Facilidades para contratar obreros para la recolección de cosechas
+de primavera, que no han tenido el éxito esperado en la primera parte de la
+campaña17.
+Como ya se ha dicho, el recurso a la Deuda Pública será ingente (véase
+gráfico ad hoc). Y aunque el Tesoro Público ha logrado que el coste medio de la
+deuda española descienda del 2 por 100 por primera vez en la historia, bajando
+las últimas operaciones en el mercado, no puede darse por seguro que el dinero
+tan barato seguirá indefinidamente (véase gráfico siguiente) 18.
+
+Félix Cerezo, El Mundo, 16. VI.2020.
+María Martín, “El decreto del campo solo atrae a 2.000 temporeros”, El País, 20.V.2020.
+18
+Andrés Stumpf, “El coste medio de la deuda española baja por primera vez del 2 por 100”,
+Expansión, 9.VI.2020.
+16
+17
+
+378
+
+
+
+Método a seguir: escenarios y presupuestos
+A partir de una situación como la descrita, y de las medidas tomadas
+hasta ahora, hemos de plantearnos el método a seguir para apreciar globalmente los efectos de la pandemia, y por consiguiente aplicar los recursos de que
+dispongamos a las asignaciones a realizar. A ese respecto, en varios artículos
+anteriores míos, ya me he referido a la necesidad de establecer un Escenario
+Macro desde 2019 al 2022, con la evolución previsible, teniendo en cuenta la
+política económica de aquí a 2022, previendo las distintas variables de consumo, inversión, sector exterior, etc. La tarea es, por tanto, construir un cuadro
+más detallado que el que aquí presentamos, del PIB por clases de gasto, tomado de la Actualización del programa de estabilidad 2020 (cuadro 2), con referencia a los años 19 a 21.
+Ese cuadro del Ministerio de Economía según el gasto es insuficiente, en el sentido de que ese escenario debe completarse con el PIB por
+subsectores productivos de bienes y servicios: sector FAO, industrias principales (automóvil, bienes de equipo, etc.) y servicios, como transporte, hostelería y otras ramas, lo que implica el turismo. Cada una de las cuales tendrá un ritmo distinto de recuperación, así como necesitará medidas
+diferentes de apoyo. A tales efectos, incluimos muy preliminarmente el cua-
+
+379
+
+
+
+dro 3, si bien el escenario debe desglosarse mucho más, siguiendo el detalle
+de las Cuentas Nacionales.
+Cuadro 2. Escenario. Perspectivas macroeconómicas
+generales, PIB según gastos
+
+Índices de volumen encadenados.
+Año 2015 = 100, salvo indicación en contrario.
+
+380
+
+
+
+Cuadro 3. Escenario. PIB pm Oferta (precios corrientes) en 2019
+2019
+Producto interior bruto a precios de mercado
+AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA
+INDUSTRIA
+Industria. Industria manufacturera
+
+1.244.757
+33.454
+177.168
+137.718
+
+19
+
+Construcción
+
+72.823
+
+SERVICIOS
+
+844.636
+
+Servicios. Comercio, transporte y hostelería
+
+20
+
+268.392
+
+Servicios. Información y comunicaciones
+
+40.923
+
+Servicios. Actividades financieras y de seguros
+
+45.869
+
+Servicios. Actividades inmobiliarias
+
+130.829
+
+Servicios. Actividades profesionales, científicas y técnicas y otras
+
+102.748
+
+Servicios. Administración pública, educación y sanidad
+
+203.432
+
+OTROS CONCEPTOS
+Servicios. Actividades artísticas, recreativas y otros servicios
+
+52.443
+
+A desglosar conforme a mayor detalle de las cuentas nacionales para atender a los subsectores
+más problemáticos. Datos ajustados de estacionalidad y calendario.
+Unidades: Millones de euros.
+Fuente: Instituto Nacional de Estadística para sectores, y elaboración propia.
+
+19
+Aquí está el sector automoción, con pérdidas en 2020 que pueden ser del 50 por 100 sobre 2019.
+El 17 de junio está prevista la presentación de un plan por 3.500 millones de euros.
+20
+En esta sección está incluido el turismo que, por ejemplo, en 2020, según Exceltur perderá
+83.134 millones de euros, el 54 por 100 de lo que supuso (interior y exterior) en 2019. También hay previsión
+de un plan sectorial para la recuperación del turismo.
+
+381
+
+
+
+Cuadro 4. Presupuestos. Ingresos y gastos
+de las Administraciones Públicas en 2019
+
+382
+
+
+
+Cuadro 5. Presupuesto extraordinario para los años 2020-2022
+Recursos
+
+Aplicaciones extraordinarias
+por la crisis
+
+PROPIOS DE LA NACIÓN (cuadro 4).
+Ingresos impositivos.
+Otros ingresos.
+DE LA UNIÓN EUROPEA (nuevos).
+De Fondos Estructurales (Comisión,
+programa SURE).
+MEDE.
+Créditos del BCE.
+Créditos del BEI a largo plazo.
+
+Paro inmediato por cierre de
+empresas y cese de autónomos.
+Prestaciones por ERTES.
+Asistencia sanitaria (CC.AA.).
+Renta mínima vital.
+Otros gastos previsibles.
+
+RECURSOS PARA SECTOR PRIVADO, en
+función de:
+Mercado internacional de capitales, también
+deuda pública.
+Créditos a medio plazo (hasta 5 años).
+Créditos a largo plazo (desde 5 años en
+adelante).
+
+Sector privado.
+
+Total recursos.
+Fuente: elaboración propia.
+
+Por otro lado, todavía no se ha abordado la necesidad indispensable de
+relacionar los dos escenarios comentados (gasto y producción) con los presupuestos generales del Estado, que necesariamente habrán de irse fijando para
+2020/2022. Para lo cual habríamos de apartarnos ya del esquema actual presupuestario (incluso con la reforma constitucional, si es necesaria del Título VIII
+de la Constitución (arts. 128 a 136), para ir a un presupuesto extraordinario y
+deslizante de cuatro años (2020 a 2023).
+Esos presupuestos extraordinarios habrán de formalizarse lo antes
+posible, sin dejarlo todo para las calendas graecas, ni quedándose solo en
+un ejercicio anual, simplemente, porque estamos ante un ciclo de cuatro
+años; análogamente a cuando la Unión Europea planifica sus presupuestos
+por septenios.
+En la dirección indicada, en el cuadro 4 aparece un esquema de
+presupuesto global de las Administraciones Públicas para el 2019, que como
+en casos anteriores, habrá que proyectarlo para los años 20 a 22, si bien es
+cierto que los fondos de procedencia UE se irán concretando no con extrema rapidez, con un cierto lapso por los procedimientos comunitarios, incluido el Parlamento.
+
+383
+
+
+
+Incluyendo, eso es lo más nuevo, los inputs y outputs extraordinarios
+del proceso de financiación: de un lado, los recursos nacionales y procedentes del exterior (principalmente UE). En el lado izquierdo, deberán figurar las
+asignaciones previsibles, como consecuencia de la pandemia, del lado derecho (cuadro 5).
+Con unos presupuestos extraordinarios como los planteados, la Deuda
+Pública podría llegar al 120 por 100 del PIB, con un incremento de veinte puntos del mismo, equivalentes a no menos de 250.000 millones de euros, en una
+primera estimación, para los años 2020/2022 (véase el gráfico adjunto, sobre
+evolución de la deuda; nada menos que desde 1880).
+La magnitud de esa cifra, casi un cuarto de billón, da mucho que pensar.
+Pero en ningún caso puede pensarse que tras la crisis todo podrá resolverse con
+el amenazador hachazo fiscal sugerido desde la propia coalición PSOE/UP, que
+como ya hemos visto llegaría incluso a una leva de capitales en el momento
+más difícil para patrimonios y empresas.
+
+384
+
+
+
+385
+
+
+
+3. ESTADO DE BIENESTAR
+En una crisis como la que estamos atravesando, es preciso plantearse
+cuál es la función del Estado de Bienestar, con instituciones como pensiones
+para jubilados y otros colectivos, prestaciones de paro, subsidios temporales a
+determinados grupos de autónomos, e ingreso mínimo vital —sus baremos figuran en el cuadro 6— para los colectivos más vulnerables. Todo eso, manteniendo además los servicios públicos de siempre: educación, sanidad, dependencia, etc. Sin olvidar que el gasto social es, normalmente, más del 60 por 100
+de los presupuestos totales.
+Cuadro 6. Renta garantizada en los hogares en euros al año
+
+Pero además de todo eso, debemos hacer referencia a necesidades
+concretas e inmediatas. Como son las cantidades que las CC.AA. —que tienen
+transferida la Sanidad—, han gastado, por encima de sus ingresos convencionales, en atender las necesidades de la pandemia. Para lo cual la Administración
+General del Estado dispone ya de los 16.000 millones, antes aludidos, para
+distribuir entre las autonomías.
+
+386
+
+
+
+El problema del paro es el más enjundioso, y en esa dirección, los recursos dispuestos para 3,2 millones de parados en 2019 (18.000 millones de
+euros), se están incrementando de forma extraordinaria. No solo por el millón
+de parados de la primera acometida de la pandemia —que cabe atribuir en
+gran parte a empresas ya desaparecidas, y a autónomos con cese de actividad—, sino también a los que dejen de estar protegidos por los ERTE por no
+haber vuelto al trabajo: tal vez más de un millón.
+Las cifras de paro normal (Tasa Natural de Desempleo, TDT, o NAIRU,
+en inglés), por así decirlo (12 por 100 de la población activa), van a elevarse
+mucho, con un déficit dramático de la Seguridad Social.
+Obviamente, también hay que considerar que el estado de bienestar ha
+de tener unos límites, sobre todo si se recopila el número de ciudadanos que
+en 2020 van a vivir, en mayor o menor medida, de los Presupuestos Generales
+del Estado, incluyendo la Seguridad Social:
+Financiadas
+Funcionarios.
+Pensiones y otros subsidios (SS).
+
+Personas
+3.500.000
+10.000.000
+
+ERTEs (marzo-junio 2020).
+
+4.000.000
+
+Cobertura de paro.
+
+3.000.000
+
+Dependencia (aproximado).
+
+1.000.000
+
+Futura RMV.
+TOTAL.
+
+1.800.000
+23.300.000
+
+Aunque una parte de esos efectivos serán transitorios, la relación hoy por
+hoy de financiados con la población de España (47,3 millones), resulta ser 23,3/47,3
+= 49,26; virtualmente la mitad de los habitantes. Lo que con una población ocupada en estos momentos de 18,5 millones (incluidos cuatro millones de personas que
+están en los ERTEs), daría una relación ocupados/financiados: 18,5/23,3 = 0,79: no
+hay ni siquiera un ocupado por cada financiado. Y la relación ocupado/Seguridad
+Social, 18,5/10, se situaría en solo 1,8 ocupados (ERTEs incluidos) por financiar.
+Con todo ello, el déficit subirá, según el AIREF, al 14 por 100 del PIB 21.
+Ante esa situación verdaderamente dramática, hay que pensar cómo se
+flexibilizará todo para una rápida recuperación del empleo. Con lo cual, lejos
+de derogar lo que queda de la reforma laboral, hay que pensar si el nivel del
+SMI —ya casi situado al 60 por 100 del salario medio (1.060 euros/mes)—, será
+
+21
+
+19 ABC, 5.VI.2020.
+
+387
+
+
+
+posible mantenerlo. Y también hay que meditar sobre el sistema de indemnizaciones por despido (uno de los más altos del mundo). Y si el absentismo cabe
+frenarlo después de dejarlo libre.
+Hay, pues, toda una ingente tarea para llegar al promedio de paro de
+la UE (7,3 por 100 en abril).
+También hace falta un modelo político de población y un mayor dinamismo empresarial para lograr un país más activo y menos subsidiado, incluso
+con el grave deterioro del clientelismo electoral más que marcado. Del que ya
+había precedente en los viernes sociales del consejo de ministros en TVE, antes
+de la formación del último Gobierno de Sánchez.
+
+4. UNIÓN EUROPEA
+En la reunión virtual que tuvo a finales de abril el Eurogrupo no llegó
+a un acuerdo definitivo de la posible contribución de la Unión Europea (UE) a
+los procesos de recuperación de la pandemia.
+SURE y MEDE
+El llamado Programa SURE (esquema de ayudas al mantenimiento del
+empleo) de la Comisión Europea, sería financiado a base de constituir un fondo
+con transferencias de los Estados miembros, de 25.000 millones de euros, como
+garantía (¿mutualizada?) para emitir bonos hasta por 100.000 millones. Al objeto
+de aplicar esa cifra a los países de la Unión con más difícil problemática en
+términos de desempleo. En el caso de España, los recursos de esa procedencia
+podrían ser de no menos de 20.000 millones de euros, al haber sufrido mucho
+más que la media de los países de la UE en la pandemia.
+Por otro lado, la Comisión ha venido estudiando las posibilidades de
+los fondos del Mecanismo Europeo de Estabilidad (MEDE), llegando a la idea
+de que puede facilitarse a cada miembro del Eurogrupo hasta un 2 por 100 de
+su PIB. Lo cual, en el caso de España, situaría la cifra esperable en 24.000 millones de euros. En total, pues, de SURE y MEDE, habría unos 44.000 millones
+de euros. En el caso del MEDE se supone que los créditos serían a plazo de diez
+años y tipos de interés del 0,20 por 100.
+Naturalmente, la disponibilidad para España de esos recursos va a depender de lo que finalmente se acuerde dentro de la UE y de las solicitudes que presente España (se perdieron millones de mascarillas porque, simplemente, a alguien se le olvidó pedirlas). En ese sentido, no creo que los recursos MEDE tengan
+
+388
+
+
+
+ningún estigma de rescate inevitable contra el prestigio de un país: no hay ni
+hombres de negro ni troika, como sí sucedió en la crisis 2008/2013.
+El Fondo Europeo de Recuperación
+Ante las decisiones de la Comisión, el 15 de mayo, el Parlamento Europeo, por abrumadora mayoría, aprobó una durísima resolución en la que zarandeó a Von der Leyen y le exigió la presentación de un plan ambicioso y basado
+en dinero contante y sonante, no simplemente en movilización de inversiones
+privadas en relación con el Green Deal 22.
+Al lunes siguiente, el 18 de mayo, los vientos favorables llevaron a un
+acuerdo. Merkel y Macron, tras una nueva videoconferencia, con apoyo a un
+fondo europeo de hasta medio billón de euros, completamente destinado a subsidios. El acuerdo de París y Berlín fortaleció la posición de Von der Leyen, y
+el 27 de mayo logró ver aprobado el Plan de 750.000 millones es dinero contante
+y sonante: un Fondo de Recuperación por una cuantía de 750.000 millones. Medio billón de euros en transferencias, y 250.000 millones más en préstamos.
+Según los cálculos del propio equipo de Ursula von der Leyen, España
+podría recibir hasta 77.324 millones de euros en transferencias y 63.122 en préstamos, un total de 140.446 millones, el 11 por 100 del PIB, pero ante alegrías
+prematuras, se trata de una propuesta de la Comisión y, tiene que pasar por la
+criba de los jefes de Estado y de Gobierno, y el Parlamento Europeo para ver si
+lo aceptan con modificaciones 23.
+Lo señaló el propio Pedro Sánchez: “Excelente señal desde Bruselas,
+justo en la dirección indicada por Italia. Medio billón a fondo perdido y 250.000
+millones en préstamos son una cifra adecuada. Ahora, aceleremos en la negociación y liberemos pronto los recursos”.
+Los fondos del plan expuesto van ligados a reformas que la Unión Europea pida a los Estados. Para ello, les exigirá unos planes de recuperación que
+dejen claro en qué van a gastar los recursos, para comprobar que está en línea
+con lo establecido por la Comisión 24. Lo cual implica rapidez en las decisiones a
+tomar en España, puesto que Alemania “espera cerrar en julio el pacto para el
+22
+Bernardo de Miguel, “Las nueve semanas y media que dieron la vuelta al plan de la UE”, El
+País, 1.VI.2020
+23
+Pablo R. Suanzes, “Hasta 140.000 millones para España”, El Mundo, 28.V.2020.
+24
+Aparte de ello, tras la euforia al conocerse que la Comisión Europea pretende impulsar la recuperación europea por la crisis del Covid-19 con un fondo de 750.000 millones de euros, se encuentra que
+esa decisión puede afectar a la agricultura española, con una reducción de las partidas del 9,1 por 100 en el
+actual marco financiero de la Política Agraria Común (2014-2020). David Vigario, “Recorte al campo de 585
+millones anuales”, El Mundo, 29.V.2020.
+
+389
+
+
+
+Fondo Europeo de Recuperación” 25. Aparte de que el propio Presidente del Gobierno tendrá que aclarar el anuncio hecho el 15 de junio de que “España prevé
+150.000 millones de inversión pública frente a la crisis” 26.
+Lo que debe quedar muy claro, insistimos, para poder beneficiarse de
+ese flujo de fondos, es que el Gobierno de Pedro Sánchez debe enviar un plan
+de reformas e inversiones antes del 15 de octubre, con el borrador de presupuestos del año 2021 que exige el habitual procedimiento denominado Semestre Europeo. En ese documento, el Gobierno debe justificar qué inversiones
+quiere financiar a cargo del dinero europeo, cuál es la cantidad necesaria y un
+plan detallado de gastos y metas, incluido el impacto del plan en el crecimiento económico del país.
+Lógicamente, las inversiones y reformas deben ser acordes a las prioridades establecidas por Bruselas —digitalización y transición ecológica— y coherentes con las recomendaciones que el Ejecutivo comunitario lleva exigiendo
+a España una y otra vez en los últimos años: luchar contra la fragmentación y
+temporalidad del mercado laboral, sostenibilidad de las pensiones o la transparencia en las licitaciones.
+Además del programa SURE, del MEDE, y del Fondo Común, la Comisión Europea presentó el 29 de mayo de 2020 los diseños de dos propuestas
+incluidas en los planes de reactivación económica. Uno para avalar la financiación que necesiten las compañías que eran rentables antes de la crisis pero que
+la parálisis de la economía ha dejado prácticamente en la quiebra. Y otro, incluye la creación de un fondo específico de 15.000 millones de euros para invertir
+en compañías estratégicas que se han debilitado por la crisis del Covid-19 y que
+debido a esta posición de vulnerabilidad podrían caer en manos de potencias
+extraeuropeas. El organismo de la UE que se crearía ad hoc, podría comprar
+participaciones u ofrecer préstamos a empresas estratégicas en sectores como
+salud, industria espacial, defensa, tecnologías digitales y verdes 27. En ese sentido,
+está claro que “Bruselas planea rearmarse para frenar la entrada de empresas
+públicas chinas” 28.
+El Banco Central Europeo
+Si se considera que el SURE, MEDE y Fondo Europeo de Recuperación
+son insuficientes, por eso tiene tanta importancia el papel que desempeñe el
+
+Bernardo de Miguel, El País, 15.VI.2020.
+Carlos E. Cué, El País, 16.VI.2020.
+27
+Mirentxu Arroqui, “España deberá enviar un plan de reformas antes del 15 de octubre”, La
+Razón, 29. V.2020. También Juan Ramón Rayo, “No habrá dinero gratis de Europa”, La Razón, 28.V.2020.
+28
+Lluis Pellicer, El País, 16.VI.2020.
+25
+26
+
+390
+
+
+
+Banco Central Europeo (BCE), que después de una serie de dudas y contradicciones de su presidenta, la Sra. Lagarde, se ha situado —eso se dice…— en la
+misma actitud del anterior Presidente de la entidad, Mario Draghi, de “hacer
+todo lo necesario para ayudar a la recuperación”. Lo cual tiene mucha importancia para varias acciones:
+– Facilitar liquidez a los bancos, con el mecanismo coloquialmente
+conocido como el manguerazo; dando crédito con garantías que
+llegan incluso a los que tradicionalmente se llaman bonos basura por
+parte de las empresas.
+– Comprar bonos corporativos de grandes compañías, en el mercado secundario, tal como en 2018 hizo la FED en EE.UU., y Draghi
+en el BCE desde 2012. Una forma extraordinaria de financiar grandes empresas.
+– Comprar deuda pública de los Estados del Eurogrupo, también en el
+mercado secundario (principalmente a bancos y fondos de inversión), en contra de lo que plantea el Tribunal Constitucional de Alemania en su resolución del 5 de mayo de 2020, que estima improcedente esas adquisiciones. Un viejo contencioso, resuelto hace tiempo
+por el Tribunal de Justicia de la Unión Europea, y que ahora vuelve
+con la extraña insistencia de los alemanes, cuya oposición no va a
+tenerse en cuenta.
+Hasta marzo de 2020, el BCE contaba con que la economía comunitaria
+creciese un 0,8 por 100. Pero su Presidenta, Christine Lagarde, reconoció paladinamente, el 4 de junio, que la economía de la Eurozona perderá un 8,7 por
+100 de su PIB en 2020, una “contracción sin precedentes” en la economía del
+euro. También modificó la predicción del BCE sobre la evolución de la inflación, y si en marzo esperaba un IPC del 0,8 por 100 para este año, ahora revisa
+la previsión hasta un 0,3 por 100 en 2020, un 0,8 por 100 en 2021 y un 1,3 por
+100 en 2022. Uno de los principios más básicos de la macroeconomía es que
+cuando se inyecta dinero los precios suben, sin embargo, estos datos rompen
+con la lógica económica 29.
+Así las cosas, el BCE anunció el 4 de junio un incremento de su plan
+extraordinario de compras de deuda, como respuesta a la parálisis que ha causado la pandemia, de 600.000 millones de euros, llegando, pues, hasta un total
+de 1,35 billones. Este programa se extenderá además al menos hasta junio de 2021,
+en vez del 31.XII.2020.
+
+29
+Rosalía Sánchez, “El BCE inyecta otros 600.000 millones ante una ‘contracción sin precedentes”,
+ABC, 5.VI.2020.
+
+391
+
+
+
+5. FINAL
+A corto plazo, muchas inversiones verdes y muchos proyectos digitales
+ya podrían estar tecnológicamente maduros, pero necesitan del impulso empresarial decidido para presentarlos a la UE. Lo que en España puede tratarse con
+la CEOE, con sus expertos ya designados ad hoc, Fátima Bañez y Marcos Peña.
+Lo mismo que sucede con la Confederación Nacional de la Construcción (CNC)
+y entidades como Seopan, Anci, etc., y otras asociaciones de empresas, en el
+caso de infraestructuras y vivienda.
+En ningún caso debe olvidarse el papel fundamental del sector exterior
+(export-import) de bienes y servicios que tan bien funcionó entre 2014 y 2019
+para superar la crisis anterior 2018/2013.
+En ese sentido, el Estado, en un momento de crisis como la presente,
+tendría que hacer una declaración expresa de combinar sus propios esfuerzos
+—que se supone son de la Nación a la que representa y gobierna—, con los del
+sector privado de la Economía, según el modelo OCDE/UE en que estamos.
+Dando a los agentes económicos y sociales, empresarios y sindicatos, la importancia que deben tener a la hora de la recuperación.
+En ese planteamiento, hay que escuchar a la CEOE/Cepyme, a
+CC.OO., UGT y otras fuerzas sindicales. Y también a otras instituciones
+(¿para qué están las Reales Academias de Medicina, de Ciencias Morales y
+Políticas, etc., por ejemplo…?). Recordando que la cooperación públicoprivada (CPP) es esencial para una rápida recuperación. Lejos, pues, de lo que
+normalmente predica, por parte de algunos miembros del Gobierno de coalición PSOE/UP, con actitud claramente antisistema económico, buscando
+incluso nacionalizar empresas importantes. En una actitud trasnochada en
+los usos económicos del mundo globalizado, en el que ha de contarse con
+los empresarios, que son los que crean empleo en un marco de libre mercado sin burocracias ni dirigismo 30.
+Es lo que actualmente sucede cuando se oye que hay una sensación de abandono entre los empresarios, cuando la Comisión de Reconstrucción Social y Económica constituida en el Congreso de los Diputados
+parecía representar una buena oportunidad para aunar esfuerzos. Pero por
+el momento los asuntos económicos apenas han tenido cabida en este grupo de trabajo 31.
+
+Pedro Schwartz, “Si pudiera venir Erhard…”, Expansión, 4.VI.2020.
+Guillermo Ginés entrevista a Julián Núñez, “Hay una sensación de abandono entre los empresarios”, ABC Empresa, 14.VI.2020.
+30
+31
+
+392
+
+
+
+Como también hay que pensar a medio y largo plazo, porque en los
+próximos diez años pueden estar llenos de “oportunidades” para los grupos de
+infraestructuras. Sobre todo, por los compromisos medioambientales que marca
+la Agenda 2030, que obligará a reconducir la inversión en España. “La tercera
+potencia del mundo en ingresos por turismo no puede seguir siendo el país
+europeo con mayor número de sanciones ambientales abiertas por la calidad de
+nuestros sistemas de depuración y tratamiento de residuos”, explica el presidente de Seopan 32.
+Cualquier idea de nacionalización de empresas para ayudarlas, o el
+propósito de aprovechar para remunicipalizaciones inadecuadas, o convertir la
+Seguridad Social en una especie de asilo general para comprar votos, todo eso
+debería ser descartado. Con una declaración de principios, que ha de ser clara
+y pertinente por parte del Gobierno.
+Si no se aprovechan todas las fuerzas de la Economía y la Sociedad, los
+resultados finales de muchos esfuerzos no serán los mejores, y la crisis se prolongaría después más tiempo del indispensable.
+Y como síntesis de todo lo anterior, en lo que se refiere a recursos disponibles, hay que destacar la importancia de la Deuda Pública para las cuestiones estrictamente nacionales de España, así como el aporte europeo, que según
+lo que hemos ido viendo podría sintetizarse, en cuanto a instituciones y programas, de la forma siguiente:
+Millones €
+Programa SURE de la Comisión.
+
+20.000
+
+MEDE (2% del PIB de España).
+
+26.000
+
+Fondo Europeo de Recuperación (inversiones UE).
+
+77.324
+
+Préstamos del Fondo Europeo de Recuperación.
+
+63.122
+
+Total.
+
+186.446
+
+Aunque en esa cuenta se mezclan cantidades sin necesidad de devolución con otras que son préstamos, se da una idea de la inversión financiada por
+la UE de una manera u otra. A lo cual deben agregarse los 150.000 millones de
+inversiones públicas previstas, con un importe no menor de origen privado. La
+suma de todos esos conceptos daría una cifra de 486.446, que con las salvedades a hacer por una suma neta, dan una idea del esfuerzo a realizar en los
+próximos tres años y medio. Todo ello con una expansión de la deuda pública
+formidable, de no menos de 250.000 millones.
+
+32
+
+30 Ibídem.
+
+393
+
+
+
+Como si no fuera suficiente todo lo argumentado con anterioridad, la
+síntesis anterior justifica sobradamente nuestra propuesta de unos Presupuestos
+Generales del Estado (con los flujos privados de inversión que corresponda),
+en una proyección cuatrienal 2020-2023.
+Será de agradecer cualquier opinión que se quiera enviar al autor (correo electrónico castecien@bitmailer.net) sobre lo aquí expuesto. Con la disponibilidad del autor a contestar las observaciones que recibiere.
+Madrid, 16 de junio de 2020.
+
+394
+
+

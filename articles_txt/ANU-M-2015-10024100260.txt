@@ -1,0 +1,655 @@
+AUSTERIDAD Y DESIGUALDAD
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+1. LA NECESIDAD DEL DEBATE SOBRE DESIGUALDAD
+Los setecientos expertos mundiales que participaron en la elaboración
+del informe Global Risks 2014 durante el Foro Económico Mundial celebrado
+en Davos (Suiza) designaron la desigualdad en los ingresos como el asunto
+que mayor impacto pudiera tener sobre la economía mundial en la próxima
+década, por delante de los eventos climáticos extremos, el alto desempleo, las
+crisis fiscales y los riesgos geopolíticos. Cuando parece vislumbrarse la salida
+de la profunda crisis económica y financiera vivida en el mundo desarrollado,
+pocas preocupaciones son tan visibles como los niveles de desigualdad que la
+crisis deja atrás, que alcanzan en muchos países valores no conocidos desde
+finales de la Primera Guerra Mundial.
+A la actualidad de las preocupaciones sobre la desigualdad han contribuido, sin duda, algunos estudios aparecidos recientemente, como el libro de
+T. Piketty, Capital in the Twenty-first Century 1, sobre el que hizo una interesante y completa presentación nuestro compañero Julio Segura hace unas semanas, así como los libros de B. Milanovic: Worlds Apart y The Haves and the
+Have Nots, y del profesor de Chicago y actual gobernador del Banco de la
+Reserva de India, Raghuram Rajan: Las grietas del sistema, que aportan visiones bien diferentes sobre este fenómeno.
+
+* Sesión del día 24 de febrero de 2015
+1
+Conviene notar que distintas bases de datos permiten examinar diferentes aspectos de la desigualdad en la
+distribución de rentas. Piketty, utilizando declaraciones tributarias, está casi obligado a centrarse en la desigualdad por la
+parte alta de la distribución, mientras que la utilización de encuestas de renta o de consumo permite analizar toda la distribución, si bien con mayor confianza en los datos relativos a las rentas medias y bajas.
+
+241
+
+
+
+La desigualdad hace que los ciudadanos pierdan su fe en un sistema por
+el que se sienten injustamente tratados y cuyo estatus, en semejantes condiciones, no tienen ningún interés en mantener, con las consecuencias políticas que
+se están observando a lo largo de Europa; no es de extrañar que las agendas
+políticas estén comenzando a incorporar la elevada desigualdad como inquietud prioritaria. Además, un alto nivel de desigualdad tiene importantes efectos
+económicos, pues es un freno al crecimiento económico, a través de varios canales [Novales (2012)]: a) imperfecciones en los mercados de capitales que complican el acceso de la población a los medios económicos precisos para completar sus estudios o emprender iniciativas empresariales; b) cuando éstas se
+llevan a cabo, la deficiente calidad institucional que suele acompañar a un alto
+nivel de desigualdad, reflejada en malas políticas impositivas y regulatorias, dificulta la obtención de una rentabilidad privada a los frutos del esfuerzo y a la
+asunción de riesgos; c) un aumento excesivo de la brecha entre ricos y pobres
+puede incrementar las actividades ilegales, elevando el incumplimiento de contratos y erosionando la cohesión social, d) los costes de la inversión en seguridad y protección, generalmente más elevados en sociedades más desiguales,
+así como los posibles costes de actos de vandalismo y violencia, constituyen
+una carga social y económica que puede llegar a ser muy alta.
+Una elevada desigualdad constituye un freno al crecimiento económico, pero también condiciona la distribución de los nuevos recursos que con
+él se generan. Unas deficientes instituciones políticas y económicas facilitan el
+desvío de rentas por grupos afines al poder y entorpecen el progreso social de
+la población menos favorecida, limitando así la capacidad del crecimiento económico para reducir la pobreza.
+Por eso es que desde la óptica de la lucha contra la pobreza, los esfuerzos para disminuir la desigualdad permiten lograr lo que se conoce como un
+doble dividendo, puesto que un menor nivel de desigualdad permite alcanzar
+un mayor crecimiento pero también hace posible que éste tenga mayor capacidad de reducir la pobreza. En un trabajo reciente [Olinto et al. (2014)], investigadores del Banco Mundial muestran que las políticas dirigidas a mejorar la
+igualdad de oportunidades pueden ser incluso más eficaces respecto a la reducción de la pobreza que las políticas que tratan de estimular el crecimiento económico, por lo que debe ponerse mucho más énfasis en la búsqueda de la
+equidad que del crecimiento. Siempre priorizando la lucha contra la desigualdad de oportunidades frente a la lucha contra la desigualdad de resultados,
+con el objetivo de lograr el pleno desarrollo de las “capacidades” definidas por
+Sen (1999), (2009), y Nussbaum (2011), y entendida la igualdad de oportunidades en un triple plano: a) igualdad de acceso a la educación, b) igualdad en
+el acceso al crédito que permita desarrollar proyectos empresariales o financiar
+la acumulación de capital humano, c) igualdad en el tratamiento de todos los
+ciudadanos por parte de la Administración, con un cumplimiento anónimo de
+las normas.
+
+242
+
+
+
+Por sí solos, sus aspectos éticos y sus consecuencias económicas ya justificarían considerar la igualdad de oportunidades como un objetivo social prioritario. Pero existe además una creciente inquietud entre los investigadores en
+ciencias sociales acerca de la desigualdad como fuente de problemas y conflictos sociales y económicos de muy diverso cariz, desde problemas sanitarios a
+problemas educativos y de seguridad, suficientes para justificar la lucha contra
+la desigualdad. En su libro The Spirit Level, R. Wilkinson y K. Pickett aportan evidencia empírica a este respecto, argumentando que un mayor nivel de desigualdad dentro de un país está generalmente asociado con una mayor incidencia de
+enfermedades, peores resultados escolares, mayor violencia, menor esperanza
+de vida, mayor tasa de embarazos de adolescentes, mayor consumo de drogas,
+etc2. Estudios similares realizados recientemente para España acerca de las consecuencias médicas de la desigualdad sugieren resultados en la misma línea.
+En definitiva, dada su relevancia social, es de suma importancia comprender las causas que pueden subyacer a los altos niveles de desigualdad que
+observamos incluso en países que tradicionalmente mantenían una notable equidad en la distribución de la renta. En esta intervención voy a analizar dos de
+dichas causas en España: las políticas de austeridad puestas en práctica para salir
+de la crisis, y un tradicional intervencionismo estatal a favor de grandes empresas que operan en situaciones de competencia imperfecta3 en sus sectores.
+2. AUSTERIDAD: CENTRANDO EL DEBATE
+El aumento del paro y el descenso en la recaudación tributaria consiguientes a la crisis elevaron rápida y significativamente el nivel de deuda
+pública en muchos países. Los importantes rescates de instituciones financieras llevados a cabo en algunos países europeos, y en España en particular, pueden haber salvado el sistema financiero, pero también generaron un importante aumento del endeudamiento del sector público. La preocupación por el
+mismo justificó la aplicación de políticas de austeridad, basadas en una drástica reducción del déficit público como mejor estrategia para recuperar el crecimiento, contando con el apoyo de las instituciones financieras internacionales. Su pretendido objetivo consistía en lograr una recuperación de la confianza
+de los mercados, lo que conduciría a una mayor disponibilidad de crédito a un
+menor coste, facilitando las posibilidades de inversión y generando un mayor
+crecimiento y una significativa creación de empleo. La realidad es que en la
+2
+Si bien tal asociación, reflejada en un elevado coeficiente de correlación estadístico, no permite inferir relaciones causales, es sorprendente la cantidad de problemas de diversa naturaleza cuya incidencia es mayor en contextos de
+alta desigualdad.
+3
+Un mercado se dice que opera bajo competencia imperfecta cuando no se ajusta a la reglas de la competencia perfecta. En una industria o mercado en competencia perfecta, ningún productor individual puede influir sobre los precios, las barreras de entrada y salida son pequeñas, todos los productores ofrecen los mismos bienes, hay un alto número de
+productores y clientes y la información sobre el proceso de formación de precios es fácilmente accesible a cualquier persona.
+
+243
+
+
+
+mayoría de los países en que se aplicaron, las políticas de austeridad no han
+dado resultado y continúan generando un notable coste social.
+Estos resultados no son completamente inesperados: aun con las dificultades de establecer paralelismos en situaciones económicas acaecidas en
+distintos momentos del tiempo y en diferentes áreas geográficas, los programas
+de austeridad seguidos en Europa guardan un gran parecido con las políticas
+de ajuste impuestas en Latinoamérica, sudeste asiático y África subsahariana
+en los 1980s y 1990s y que resultaron un fracaso.
+Tras siete años de crisis, las dudas sobre la conveniencia de las políticas de austeridad se multiplican: el presidente Obama se refirió a la ausencia
+de resultados obtenidos en Europa tras la aplicación de políticas de austeridad
+sin sentido (“mindless austerity”) para justificar un presupuesto para EEUU en
+2015 con un aumento del gasto de un 6,4%. Su presupuesto introduce un
+impuesto especial sobre las familias más ricas, con el que espera redistribuir
+una cantidad importante en una campaña contra la desigualdad que favorezca
+a las familias que han pasado mayores dificultades durante la crisis, así como
+un impuesto sobre los 2 m.m. de US$ de beneficios estimados obtenidos en el
+extranjero por parte de las empresas estadounidenses, en particular de los sectores de tecnología y farmacéutico, que han estado trasladando sus ganancias
+a países con bajos impuestos.
+Especial repercusión tuvo, por su significación, el mea culpa entonado
+por el economista jefe del Fondo Monetario Internacional, Olivier Blanchard,
+en enero de 2013, reconociendo que el Fondo Monetario había subestimado el
+denominado multiplicador fiscal, que mide el impacto negativo que sobre el
+crecimiento de los países en dificultades puedan tener las políticas de austeridad. En una nueva estimación del FMI, se encontró que el multiplicador fiscal
+podía ser hasta tres veces superior al que se había utilizado para estimar el
+posible impacto de las políticas de austeridad inicialmente impuestas a Grecia.
+Con un multiplicador mayor, el recorte del gasto público podría frenar el crecimiento de modo tan notable, que aumentando el paro, requiriese un mayor
+gasto público, lo que precisaría introducir medidas de austeridad adicionales,
+entrando así en una espiral de difícil solución.
+Por tanto, el debate sobre la necesidad y conveniencia de aplicar políticas de austeridad está abierto, y creo que dicho debate debe tener en cuenta
+algunas consideraciones:
+1) la conveniencia de incorporar explícitamente la inevitable incertidumbre cuando se estima la magnitud de los efectos de una política económica.
+Tal incertidumbre tiene distintas causas, siendo una de ellas la posibilidad de
+que los efectos de política difieran significativamente entre periodos de recesión y periodos de crecimiento, como de hecho, mostraba el Fondo Monetario
+
+244
+
+
+
+Internacional en las conclusiones de la investigación que motivó las declaraciones de su economista jefe. Anunciar un impacto de determinada magnitud,
+como si se conociese con certeza, no hace sino contribuir a generar la impresión, cuando a posteriori se comprueba que el efecto ha sido, lógicamente,
+distinto del esperado, de que en Economía es imposible predecir nada,
+2) la Teoría Económica que enseñamos en las universidades muestra
+que cada país tiene un límite de endeudamiento sostenible diferente, por lo que
+los criterios exigibles en términos de un máximo déficit y de un techo para la
+ratio de deuda sobre PIB, deben ser específicos de cada país. Concretamente,
+deben depender de la capacidad de generar recursos con los que hacer frente
+a las obligaciones de pago que el país pueda contraer, lo que tendrá que ver
+con la evolución de su productividad, su crecimiento potencial, el incremento
+en los factores productivos, como el trabajo, y con su coste de financiación.
+Factores que pueden diferir notablemente entre países, por lo que diseñar políticas de austeridad con los mismos requisitos de exigencia para todos los países carece de justificación teórica,
+3) en tercer lugar, porque sin olvidar el riesgo de inestabilidad que
+entraña un nivel de Deuda pública de un volumen similar al Producto Interior
+Bruto, la economía española tiene un problema mucho mayor con su endeudamiento externo. Con los últimos datos disponibles (septiembre de 2014,
+Banco de España), la deuda externa española en términos brutos era de 162%
+del PIB, con un descenso pequeño (desapalancamiento) del 4% desde los máximos alcanzados en marzo de 20104. Es una cifra importante. La amortización de
+esta deuda requeriría un superávit externo robusto y continuado durante un
+periodo de tiempo suficientemente amplio. Las perspectivas al respecto no son
+muy halagüeñas, ni la tradición de nuestra economía permite ser muy optimista. La mejoría en nuestros intercambios comerciales durante 2013 elevó las
+expectativas acerca de nuestra capacidad competitiva en el exterior, lo que
+podría haber conducido a un saneamiento de las cuentas externas, pero pronto
+la tendencia ha cambiado de signo, al hilo de la incipiente recuperación económica, pues nuestras importaciones continúan siendo muy dependientes del
+exterior. Y esto en un contexto que es muy favorable debido al fuerte descenso
+que ha experimentado el precio del petróleo.
+Podría argumentarse que el acceso de nuestras empresas y también de
+las AAPP españolas a la financiación exterior ha mejorado sensiblemente en los
+últimos años como consecuencia de la mayor confianza que nuestro país
+
+4
+Las AAPP y las instituciones financieras y monetarias tenían un endeudamiento similar, en torno a un 44% del
+PIB, con un endeudamiento menor, 32% del PIB, de los otros sectores residentes, básicamente las empresas no financieras.
+Las empresas financieras y no financieras han hecho un importante esfuerzo de desapalancamiento, reduciendo las empresas financieras su deuda un 41% y las empresas no financieras un 33%, mientras que el endeudamiento externo de las AAPP
+está en máximos.
+
+245
+
+
+
+genera acerca de su futuro. Pero, aun considerando un coste reducido de financiación, del 3%, el coste anual de intereses estaría en torno a 50 m.m. de euros,
+casi un 5% del PIB. En definitiva, no parece razonable imponer una intensa restricción del gasto público sin mostrar igual preocupación por facilitar la reducción del endeudamiento externo.
+4) en cuarto lugar, porque la austeridad no es la única política posible.
+Para lograr el saneamiento a largo plazo de las cuentas públicas pudiera haber
+sido factible una menor exigencia de restricción, manteniendo ciertos niveles
+de déficit público durante unos años, siempre que hubiera podido emitirse
+Deuda a rentabilidades europeas, mediante los denominados eurobonos 5. Esto
+habría encarecido los costes de financiación del resto de los países, aunque se
+podría haber fijado un techo (por ejemplo, del 60% del PIB) a la deuda que
+cada país pudiera financiarse mediante la emisión de activos europeos,
+debiendo financiar el resto mediante un activo de deuda nacional. También
+hubiese ayudado una temprana implantación de la compra de deuda periférica
+por parte del BCE en mercados secundarios en una cuantía suficientemente
+importante, o la apertura de mecanismos de financiación para empresas,
+5) finalmente, una razón adicional para no hablar de políticas de austeridad en sentido genérico, es porque no hay una única política de austeridad
+que podamos tomar como referencia; la austeridad carece de significado concreto en Economía, refiriéndose simplemente a una gestión presupuestaria restrictiva por parte del sector público. Evidentemente, tal actuación siempre exigirá una contención del gasto y, posiblemente, un mayor esfuerzo recaudatorio.
+Pero ambas cosas son posibles de múltiples maneras: hay muchas partidas presupuestarias donde se puede recortar el gasto, como sanidad, educación,
+defensa, salarios de funcionarios, entre otras, de igual modo que hay diversas
+maneras de elevar la presión tributaria, y no tiene el mismo impacto social elevar los impuestos sobre la renta que los impuestos sobre el consumo, ni es
+igual elevar la tributación de las rentas salariales que la de las rentas de capital; tampoco tiene los mismos efectos aplicar austeridad drásticamente o hacerlo
+de modo gradual. Escoger entre estas opciones no es trivial, ni es neutral.
+
+5
+La dinámica del endeudamiento que enseñamos en las Universidades explica que para la evolución del endeudamiento de un país puede ser peor un escenario de alto coste de emisión de nueva Deuda en un contexto de déficit reducido, que permitir un déficit sostenido durante un cierto tiempo, si se emite la Deuda a un tipo reducido. Por supuesto, todo
+depende de los niveles de uno y otro, tipos de interés y déficit, así como del nivel de endeudamiento del que se parte y
+de la capacidad de crecimiento potencial de la economía. Pero la cuestión es que en la gestión del endeudamiento a largo
+plazo, como en cualquier otro asunto en Economía, existe un menú de opciones que es preciso considerar detenidamente.
+Es un error creer que pueden alcanzarse conclusiones de validez universal y, por tanto, que la solución de Política Económica está definida de modo único.
+
+246
+
+
+
+3. LA POLÍTICA ECONÓMICA
+DE LA AUSTERIDAD EN ESPAÑA
+Hechas estas matizaciones, es claro que una economía menos endeudada tenderá a crecer más al reducir el coste de servicio de su deuda, tanto por
+su menor volumen, como porque encontrará financiación a un coste menor lo
+que, por sí solo, justifica cierta prudencia en la ejecución del gasto público.
+Todo gobierno debe evitar, además, entrar en una dinámica temporal de la
+deuda pública que resulte insostenible. Pero también es totalmente razonable
+que un país se endeude para acometer aquellas actuaciones que permitan un
+mejor desarrollo de sus ciudadanos. Lo interesante es encontrar el punto de
+equilibrio en esta tensión, sabiendo que la denominada aritmética del endeudamiento, uno de los aspectos de Teoría Económica posiblemente menos sujetos a incertidumbre, establece las condiciones que deben cumplirse para que
+un determinado nivel de endeudamiento sea sostenible en el tiempo. Por consiguiente, no se trata tanto de discutir la conveniencia de una política de reducción de la Deuda, sino de diseñar el modo más adecuado de llevarla a cabo,
+así como el ritmo más conveniente de implantar dicha política.
+Es a través de las opciones que se escogen en relación con estas cuestiones como un gobierno define su línea política. Al optar por aplicar recortes
+presupuestarios en determinadas partidas de gasto, un gobierno no hace sino
+su tarea, pues gobernar implica, en definitiva, establecer prioridades. Pero
+resulta desconcertante que, al describir las opciones escogidas para la aplicación de una política de austeridad en España, nuestros gobernantes gusten de
+decir que no se han hecho recortes, sino reformas. Es, sin embargo, una afirmación difícil de mantener, entre otras cosas porque los recortes en algunas
+partidas de gasto social han sido importantes.
+Junto a Grecia, Chipre, Portugal, Hungría y Rumanía, España fue en
+2012 (último año para el que disponemos de datos en Eurostat) uno de los
+países de la Unión Europea (UE) donde más descendió el porcentaje del PIB
+destinado a la educación, un 6,8%, siendo el tercer año consecutivo de descenso, frente a un recorte de tan sólo el 1,1% a nivel comunitario6. España ocupaba el puesto 22 entre los 28 países de la UE en términos de este indicador.
+Un informe del Ministerio de Educación presentado el pasado mes de septiembre, cifraba en 210 millones de euros el descenso en el presupuesto de becas
+en los dos últimos cursos, un 13%, si bien se han introducido elementos de eficiencia en el diseño de estos programas. El gasto en sanidad, incluyendo prestaciones por invalidez, fue en 2012 inferior en un 14% a su nivel máximo de
+2009 (corrigiendo por inflación), mientras que el gasto en pensiones se encon-
+
+6
+El gasto en educación en España había descendido desde el 5,9% del PIB en 2009, al 4,5% del PIB en 2012.
+Education and Training Monitor, 2014, Comisión Europea, 2014.
+
+247
+
+
+
+traba en máximos, un 12% por encima de su nivel al inicio de la crisis en 2008.
+Con un gasto en protección social (pensiones, desempleo, vivienda) del 17,7%
+del PIB en los últimos datos disponibles de Eurostat, de 2012, España se sitúa
+en el puesto 13 de los 28 países de la UE ampliada, 2,2 puntos por debajo de
+la media de dicho grupo.
+También el presupuesto de Ayuda Oficial al Desarrollo acumula desde
+2008 un recorte del 70%, dos terceras partes del cual se han producido durante
+la actual legislatura, situándolo en 2014 en un 0,13% del PIB, muy lejos del
+objetivo del 0,7% y de la media de países donantes, que aportan un 0,30% de
+su PIB. Podemos añadir asimismo el descenso de un 70% en el presupuesto
+público asignado a instituciones como nuestra Real Academia de C. Morales y
+Políticas.
+Un recorte puede tener connotaciones transitorias, mientras que una
+reforma tiene naturaleza permanente. Por tanto, no cabe sino esperar que la
+afirmación de que se trata de reformas, y no recortes, resulte equivocada.
+Precisamente, por la naturaleza de los recortes que se han llevado a
+cabo, es llamativo que en este año intensamente electoral que ahora comienza,
+se anuncie una reforma fiscal que reducirá la imposición sobre la renta. En
+definitiva, la cohesión social de una sociedad se define en buena medida por
+su fiscalidad, tanto en el lado del ingreso —quién paga, cómo, cuánto— como
+del gasto -a qué se dedican esos recursos públicos. La reforma fiscal anunciada
+por el gobierno ha sido criticada por analistas porque la reducción de impuestos solo será significativa para rentas altas; muchos expertos fiscales coinciden
+con esta apreciación. Pero, además, es discutible si la aparición de un cierto
+margen presupuestario debe emplearse para reducir impuestos en vez de para
+reponer las partidas de gasto en educación, cultura, sanidad y servicios sociales a sus niveles previos a la introducción de recortes. Para hacernos una idea
+de la relevancia social de este tipo de decisiones, cabe observar que uno de
+cada tres niños en España vive en situación de pobreza7, y que el fondo constituido para luchar contra la pobreza infantil se ha dotado con 17 millones de
+euros, cifra irrisoria en comparación con el descenso recaudatorio que se reconoce a la reforma fiscal propuesta, que se ha estimado en 5 m.m. de euros, o
+con las cantidades aportadas para rescates financieros de empresas.
+Los profundos recortes en prestaciones sociales y en servicios públicos
+han debilitado los principales mecanismos que reducen la desigualdad y permiten un crecimiento equitativo. La austeridad ha puesto en serio peligro el
+modelo de protección social europeo, que ha sido ejemplo para muchos países en vías de desarrollo. Los más vulnerables socialmente han sido los más
+
+7
+
+248
+
+“Pobreza Infantil y Exclusión Social en Europa”, Save the Children.
+
+
+
+perjudicados por estos programas, teniendo que asumir el coste generado por
+los excesos del pasado. En un contexto de elevado paro, el recorte en protección social hace que la política de austeridad haya generado mayor desigualdad, lo que tiende a perpetuar las situaciones de debilidad económica, alargando en el tiempo el sufrimiento de los parados y de los más desfavorecidos
+socialmente. Los países europeos sufren niveles record de desempleo de largo
+plazo y juvenil, y toda una generación de jóvenes se enfrenta a años de desempleo. Según decrece el valor real de las rentas, especialmente en países que
+han llevado a cabo drásticos recortes del gasto, incluso los jóvenes que trabajan saben que serán más pobres que sus padres.
+Todo ello sin lograr un saneamiento fiscal, puesto que la ratio de
+Deuda pública sobre PIB no ha cesado de aumentar8, ni se aprecian todavía
+indicios sólidos de recuperación. España está sufriendo de modo especialmente
+dramático los efectos de la crisis en términos de destrucción de tejido productivo, elevado desempleo, pérdida de oportunidades para los jóvenes y desigualdad, pero las políticas de austeridad no han contribuido a mejorar la situación: en términos reales, nuestro Producto Interior Bruto per cápita se
+encuentra actualmente un 7% por debajo del nivel al inicio de la crisis. Los 600
+mil empleos creados a lo largo de 2014 se han firmado con salarios reales inferiores9, pues tanto el coste salarial total como el coste laboral bruto han descendido en torno a un 8% desde 2009, lo que contribuye a aumentar el nivel
+de desigualdad. Según la Encuesta de Población Activa del cuarto trimestre de
+2014, más de 1,7 millones de hogares tienen a todos sus miembros en paro, y
+casi 4 de cada 10 parados no recibe ninguna prestación. El nuevo subsidio de
+426 euros podrá ser percibido durante seis meses por unas 450 mil personas,
+un colectivo importante, pero que representa tan sólo una cuarta parte de los
+parados que no reciben actualmente subvención alguna.
+El índice de Gini de desigualdad nos situaba en 2013 como el cuarto
+país más desigual entre los 28 miembros de la UE, habiéndose elevado significativamente durante la crisis, al igual que ha sucedido con otros indicadores
+de desigualdad. Pero, según un informe de la OIT del pasado mes de diciembre, España es la economía desarrollada donde más ha aumentado la desigualdad durante la crisis, no solo por el paro, sino también por la caída de los salarios, que han generado una pérdida de poder adquisitivo del 17%. La Encuesta
+de Condiciones de Vida del Instituto Nacional de Estadística muestra que, aunque el porcentaje se ha reducido, más del 20% de la población estaba en 2013
+en situación de pobreza relativa (situación también denominada por Eurostat
+como riesgo de pobreza), siendo esta tasa del 26,7% entre los menores de 16
+8
+En 2009, la ratio era de 53% para el total de las AAPP y del 44% para el Estado. A finales de 2014, estos ratios
+son de 98% y 82%, respectivamente.
+9
+Según la encuesta trimestral de coste laboral, el coste salarial total descendió un 7% entre 2009 y 2014. Según
+la encuesta anual de salarios, el coste laboral bruto descendió un 8% entre 2009 y 2013.
+
+249
+
+
+
+años (17,7% en OCDE). En riesgo de pobreza o exclusión social10 se encontraba
+el 27,3% de la población, y el 31,9% de los menores de 16 años. Casi el 20%
+de las personas declaran llegar a fin de mes con mucha dificultad, por encima
+del 11% que hacía tal declaración en 2007. El 48,0% de los hogares manifiesta
+no poder salir de vacaciones una semana al año, frente al 36,2% en 2008, y casi
+el 10% no puede mantener la vivienda con una temperatura adecuada.
+4. LA POLÍTICA DE REGULACIÓN
+La percepción de que las políticas adoptadas no han hecho sino contribuir a agravar los efectos de la crisis es aún más dolorosa cuando tales políticas se superponen con un papel inapropiado de los gobiernos en su relación
+con las grandes empresas que operan en algunos mercados estratégicos; un
+incorrecto vínculo que ha sido tradicional causa de ineficiencia económica en
+España y una fuente adicional de redistribución de la renta, en beneficio de los
+grandes accionistas de dichas empresas y en perjuicio de quienes en última
+instancia financian tales actuaciones: sus clientes y los contribuyentes.
+Sectores estratégicos como la generación de electricidad, las comunicaciones, o el refino y distribución de carburantes, funcionan con un número
+reducido de operadores y, en algunos casos, con una empresa dominante.
+Incluso en el sistema financiero se ha producido una evidente concentración
+debido a la drástica reducción en el número de entidades, lo que puede afectar negativamente a la competencia. De hecho, cuando estos sectores se han
+liberalizado, abriéndose a la entrada de competidores del exterior, dicha
+entrada ha sido muy poco relevante o prácticamente inexistente. Así ha sucedido tanto en el sector financiero, donde la presencia de banca extranjera es
+reducida, como en el sector eléctrico. Especialmente notable es el sector eléctrico, cuyas empresas recibieron los denominados costes de transición a la competencia (CTC)11 que compensaban generosamente la inversión previa en
+infraestructuras. Pero, sorprendentemente, un proceso que resultó tan costoso
+
+10
+En riesgo de pobreza se hallan quien tienen ingresos inferiores al 60% de la mediana de los ingresos por unidad de consumo. En carencia material severa (con carencia en al menos cuatro conceptos de la lista): 1) No puede permitirse ir de vacaciones al menos una semana al año, 2) no puede permitirse una comida de carne, pollo o pescado al menos
+cada dos días, 3) no puede permitirse mantener la vivienda con una temperatura adecuada, 4) no tiene capacidad para afrontar gastos imprevistos (de 650 euros), 5) ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibos de gas, comunidad...) o en compras a plazos en los últimos 12 meses, 6) no puede permitirse disponer de un automóvil, 7) no puede permitirse disponer de teléfono, 8) no puede permitirse disponer de un televisor, 9) no
+puede permitirse disponer de una lavadora. Por último, se encuentran en situación de riesgo de exclusión social las personas sin empleo o con baja intensidad en el empleo (hogares en los que sus miembros en edad de trabajar lo hicieron menos
+del 20% del total de su potencial de trabajo durante el año de referencia).
+11
+Mediante el R.D. 1538/1987 [1] se reconocieron para cada una de las diferentes tecnologías de producción
+existentes en el momento unos gastos de inversión que debían recuperarse a largo plazo a través de la tarifa regulada. En
+total, se reconocieron unos costes de inversión para todas las centrales existentes de aproximadamente 56.700 millones de
+euros. Casi la mitad de ellos, 24.000 millones de euros, correspondía a costes de inversión de centrales nucleares, no por-
+
+250
+
+
+
+para los contribuyentes, pues se reconocieron unos costes de inversión de aproximadamente 56.700 millones de euros, no condujo a una mayor competencia,
+sino todo lo contrario.
+Lo que realmente sucede es que hay mercados que, por su naturaleza,
+pueden operar en régimen de competencia perfecta, lo cual hay que favorecer
+en tales casos, y otros mercados que, por sus costes de entrada o por otras
+razones, generan poder de mercado de las empresas que en ellos intervienen
+y que, en consecuencia, es necesario regular. Por eso llama la atención que
+algunas de las principales empresas españolas que tienen poder de mercado en
+sectores estratégicos, desarrollen sus actividades con un apoyo importante del
+Estado, difícilmente justificable desde el análisis económico.
+Cuando un gobierno detecta que una determinada actuación puede
+ser socialmente beneficiosa, pero que el sector privado no tiene incentivo en
+emprender, debe llevar a cabo un análisis coste-beneficio de las consecuencias
+de acometer dicha actuación. Si el análisis resulta favorable, puede llevarla a
+cabo por sus propios medios o recurriendo al sector privado, convocando los
+habituales concursos públicos. Esto aplica de igual modo a la construcción de
+parques, escuelas, hospitales, redes de comunicaciones, refinerías, o infraestructuras para la generación de energía. Si se decide convocar un concurso público,
+éste debe tener en cuenta dos aspectos de suma importancia: la primera, que
+el concurso sea totalmente transparente, y su diseño estimule al máximo la
+competencia entre los participantes, desincentivando la colusión que frecuentemente se observa entre las empresas interesadas, que buscan una cierta apropiación de las rentas de los contribuyentes en la forma de mejores condiciones en la licitación y un consiguiente mayor beneficio. La segunda, que el
+contrato debe diseñarse de modo que el riesgo de la operación quede distribuido entre ambas partes, sector público y sector privado, como corresponda
+a consideraciones como la naturaleza y la magnitud del riesgo a que se enfrenta
+quien gane el concurso, la estructura de costes de las empresas que concurren, los costes de financiación y las posibilidades de supervisión. Precisamente
+el Premio Nobel en Economía de 2014, el francés Jean Tirole, forma parte de
+
+que la potencia nuclear instalada fuese la mitad sino porque el coste unitario reconocido por kilovatio instalado fue muy
+superior al de las instalaciones de carbón o gas. El objetivo de los CTC era garantizar a las empresas generadoras la recuperación de la inversión realizada ahora que la nueva situación de competencia en el mercado de electricidad no garantizaba que dichas centrales vendieran toda su producción de energía como sí ocurría en el contexto del Marco Legal Estable.
+A finales de 2005 los CTC pendientes de cobro resultaban negativos, es decir, las empresas habían recibido más dinero por
+los precios fijados en el mercado que el que se había considerado necesario para garantizar la rentabilidad, es por ello que
+mediante el RD 7/2006 [4] se suprimen los CTC. Existe cierta controversia en relación a la cantidad total de dinero recibido
+por las empresas generadoras en concepto de CTC en parte porque gran parte de los CTC reconocidos a las empresas pasaron a formar parte del déficit de tarifa y no fueron retribuidos en los años correspondientes. Varios autores señalan cómo
+las empresas generadoras eléctricas recibieron 12.000 millones de euros (cantidad superior a los 8.400 que se habían establecido como límites) [5]. Al eliminarse los CTC en 2006, antes de cuando estaba previsto (2010), estos garantizaron la rentabilidad a las empresas que no podían perder por el cambio normativo mientras que, los beneficios extra obtenidos debido
+al mismo no fueron reembolsados [“Entiende el mercado Eléctrico”, El Observatorio Crítico de la Energía, octubre 2012].
+
+251
+
+
+
+un grupo de investigadores, que desde los años 1980s han desarrollado la Teoria de la Regulación Óptima, una rama de la Economía con una enorme importancia práctica.
+Jean Tirole recibió este galardón por una majestuosa labor investigadora en el desarrollo de diversas teorías relacionadas con el diseño de contratos óptimos en condiciones de incertidumbre, cuando los agentes que concurren disponen de diferente información, como sucede en las situaciones
+contractuales que he comentado en la relación entre sector público y privado
+[Tirole (1998), Tirole (1993)]. Lamentablemente, a pesar de haberse desarrollado hace ya 30 años, tan importante componente de la doctrina económica
+parece no haber llegado al sector oficial en España, donde tan escaso recurso
+se hace a los excelentes investigadores y docentes que pueblan nuestras universidades y que conocen y enseñan estas teorías. Este capital humano queda
+al margen de los organismos que se encargan de supervisar la competencia y
+diseñar la regulación de la economía, tan trascendentes para el bienestar social.
+En esencia, la Teoria de la Regulación Óptima propone que si el
+gobierno conociese la estructura de costes y la tecnología de las empresas, un
+contrato que estipule un precio, tarifa o subvención fija a la empresa ganadora
+de un concurso sería eficiente; bajo información incompleta del gobierno, el
+contrato debe tener un componente fijo y otro vinculado al coste final resultante, de modo que se incentive la reducción de costes por parte de la empresas, eliminando en lo posible lo que conocemos como riesgo moral. La distribución óptima del riesgo entre ambas partes dependerá de los factores que
+antes comenté: el tipo de riesgo asumido por la empresa y su magnitud, la
+estructura de costes, los costes de financiación y las posibilidades de supervisión. La realidad es que la práctica observada en España dista de la que se
+derivaría de la aplicación de estas teorías: los contratos son ineficientes en sentido económico, asumiendo el Estado una proporción excesiva del riesgo, que
+en algunos casos le lleva a actuar prácticamente como asegurador de la
+empresa, un diseño que generalmente conduce a un exceso de inversión y a
+una pérdida de bienestar social.
+Un caso paradigmático que suele utilizarse como ejemplo de libro de
+texto, es el de la construcción de autopistas y su gestión posterior. El Estado
+ha ayudado a las concesionarias de autopistas, bien con préstamos participativos, entrando en el capital de la empresa, con ayudas para compensar la bajísima demanda de tráfico, préstamos para pagar los sobrecostes de las expropiaciones, o bien otorgando la concesión de la autopista durante un largo
+período, con objeto de permitir amortizar sus inversiones. A estas hay que añadir otro tipo de ayudas: el seguro de cambio. El Estado facilita a las concesionarias las divisas que necesite para hacer frente a su deuda con acreedores
+extranjeros, una ayuda que el Ministerio de Fomento reconocía que, hasta 2008,
+se aproximaba a 5.000 millones de euros. Y cuando un grupo de concesiona-
+
+252
+
+
+
+rias se declara en quiebra por el desplome del tráfico y el sobrecoste de las
+expropiaciones, el Estado acude al rescate, asumiendo el Ministerio de Fomento
+la gestión de las autopistas, y proponiendo una reestructuración de deuda que,
+lógicamente, alarma a los inversores extranjeros.
+Una deficiente relación contractual aparece asimismo en la concesión
+de explotación de Castor, el almacén subterráneo de gas natural, así como en
+la precipitada decisión de fijar una indemnización de 1.530 m. de euros a la
+concesionaria, que en última instancia pagará el consumidor en la tarifa del
+gas durante 30 años. La indemnización se fijó porque el decreto que regulaba
+la concesión garantizaba que en caso de abandono del proyecto, el Estado
+compensaría a la empresa por el valor contable de las instalaciones afectas al
+almacenamiento subterráneo12 excepto en caso de dolo o negligencia imputable a la empresa concesionaria, adoptando así un papel asegurador difícil de
+justificar rigurosamente desde los principios de la regulación óptima.
+Otro ejemplo típico de mala regulación lo constituye el sistema de precios de la electricidad, que tan claramente ha descrito en alguna de sus intervenciones nuestro compañero Jaime Terceiro, basado en remunerar cada kilovatio de electricidad al precio del último kilovatio que se ha generado, lo que
+se conoce como la regla del coste marginal. Al asignar a algunas de las fuentes de generación más baratas, como las nucleares e hidroeléctricas, que utilizan además infraestructuras ya amortizadas, la misma remuneración que a otros
+sistemas de generación, como las fotovoltaicas o las centrales de ciclo combinado, se obtiene algo similar a una subvención a las primeras, con cargo al
+consumidor. Este esquema no tiene justificación desde la óptica de la Teoría
+Óptima de la Regulación a que antes me referí, según la cual, sería socialmente
+preferible remunerar con un precio igual al coste medio, y no al coste marginal de generación, o aproximar la remuneración recibida por el generador al
+coste de generación. En todo caso, haciendo una evaluación rigurosa del grado
+en que está justificado que el Estado compense la inversión en infraestructuras
+de las compañías generadoras.
+El déficit de tarifa, que ha ido engrosando con el tiempo y que algunas estimaciones (agencia Fitch) sitúan al cierre de 2014 en 26.800 millones de
+euros, cantidad aproximadamente equivalente al gasto anual en prestaciones
+por desempleo, y similar a la participación española en los rescates concedi-
+
+12
+En el artículo 34 de la Ley 34/1998 del Sector de Hidrocarburos se explica que: “las autorizaciones, permisos
+y concesiones se extinguirán por incumplimiento de las condiciones de su otorgamiento, caducidad al vencimiento de sus
+plazos o renuncia total o parcialmente del titular, una vez cumplidas las condiciones en que fueron otorgados, entre otras.”
+Según el decreto, “en caso de caducidad o extinción de la concesión, las instalaciones revertirán al Estado. En tal caso, y para
+asegurar la recuperación de la inversión realizada por los titulares, se compensará a la empresa concesionaria por el valor
+neto contable de las instalaciones afectas al almacenamiento subterráneo siempre que éstas continúen operativas. Lo anterior no será de aplicación en caso de dolo o negligencia imputable a la empresa concesionaria, en cuyo caso la compensación se limitará al valor residual de las instalaciones, sin perjuicio de otras responsabilidades de la empresa concesionaria.”
+
+253
+
+
+
+dos a Grecia, es otro ejemplo de una deficiente regulación. Bajo la apariencia
+de proteger al consumidor limitando el precio de la electricidad, se reconoce
+una compensación para las compañías eléctricas basada en una imputación
+muy discutible de sus costes de generación, trasladando a gobiernos y consumidores futuros la obligación de pagar la diferencia entre los costes de generación declarados por las empresas y el precio máximo fijado por el gobierno.
+Hay otras situaciones recientes no relativas a contextos regulatorios,
+pero que reflejan asimismo un intervencionismo injustificado del Estado a favor
+de grandes empresas. Un caso ciertamente sorprendente para el contribuyente
+se refiere al cobro, por parte de las compañías eléctricas, de unos 3 m.m. de
+euros en exceso de la tarifa establecida en concepto de costes de transición a
+la competencia, que el Ministerio de Industria nunca reclamó, aduciendo su
+prescripción.
+Otro ejemplo intervencionista se refiere al respaldo que el Estado se
+ofreció conceder a Bankia ante las numerosas reclamaciones que pudieran surgir por la salida a Bolsa de la entidad. Nuevamente, no existe justificación desde
+la Teoría Económica a este tipo de respaldo, que solo puede comprenderse
+como una protección de la cuenta de resultados de Bankia, que ha recibido 22
+m.m. de euros de los contribuyentes, con objeto de presentarla como una operación de éxito. Afortunadamente, en este caso, la división de opiniones entre
+los ministros afectados se ha resuelto en beneficio del contribuyente.
+La reciente aprobación del decreto que permitirá a algunas CCAA disponer de financiación a coste cero crea un agravio comparativo respecto de las
+CCAA que han actuado con rigor presupuestario, y un peligroso precedente, y
+traslada de nuevo al contribuyente el coste de una deficiente gestión política.
+Es evidente que ninguna de estas actuaciones induce los incentivos
+correctos; mucho menos si tales intervenciones se aplican con carácter retroactivo. Son todas ellas situaciones en las que los ciudadanos perciben que se actúa
+en beneficio de unos pocos; que las empresas dominantes en determinados sectores han capturado al regulador13; que la proximidad entre el poder político y
+el poder económico establece mecanismos de apropiación de rentas en su propio beneficio. Es fácil entonces interpretar que la proximidad entre el poder
+político y el poder empresarial, habitual en una sociedad desigual, establece
+mecanismos de apropiación de rentas en la forma que he descrito, ejemplo dramático de lo cual fue asimismo la gestión de algunas Cajas de Ahorro que posteriormente entraron en dificultades. Son ejemplos de lo que Enrique Fuentes
+13
+El fenómeno de captura del regulador se utiliza para describir la influencia de las empresas dominantes de
+un sector sobre la/s agencia/s gubernamental/es a cuyo control regulatorio y legal están sometidas. Su extensión puede variar
+desde el tráfico de influencias y el uso de información privilegiada hasta la prevaricación a favor de los intereses del actor
+dominante.
+
+254
+
+
+
+Quintana denominó capitalismo castizo en una intervención en esta Real Academia hace ahora veinte años y que, lamentablemente, parece continuar pleno
+de vigencia. Recortar impuestos cuando tan drásticos descensos se han introducido en el gasto social, cuando se amparan las actuaciones de grandes empresas asegurando sus riesgos o estableciendo un marco de actuación donde su
+beneficio está prácticamente asegurado, genera una gran desconfianza en una
+sociedad que está sufriendo los tremendos costes de la crisis.
+También contribuye a la pérdida de confianza de los ciudadanos observar que los reiterados anuncios de que estas actuaciones se llevarán a cabo sin
+coste alguno para el contribuyente, se ven contradichos por la realidad. El caso
+más relevante es, sin duda, el rescate del sistema financiero. La reestructuración
+de nuestro sistema financiero ha generado ya un importante coste, tanto
+público como privado. De los 61,4 m.m. de euros concedidos por los contribuyentes como ayudas a la solvencia de las entidades, Eurostat da por perdidos 43,4 m.m.. A través de los Esquemas de Protección de Activos, el Fondo
+de Garantía de Depósitos y el FROB han asegurado un importe de 36,6 m.m.
+de euros, de los que una parte serán finalmente pérdidas. Al igual que sucede
+con los aproximadamente 100 m.m. emitidos por las entidades financieras y
+por la Sareb durante la crisis y respaldados por avales del Estado, así como
+ocurre con las pérdidas que puedan aflorar tras la venta de las entidades todavía en manos del FROB. Finalmente, hay que añadir los 21 m.m. que la Asociación Española de Banca estima que ha perdido el sector financiero a través
+del Fondo de Garantía de Depósitos14.
+5. POLÍTICAS DE REDUCCIÓN DE LA DESIGUALDAD
+En esta situación ¿qué podemos hacer? Conseguir que España vuelva
+a alcanzar el grado de desarrollo que todos deseamos precisa recuperar la confianza interna y externa, evitando el tipo de situaciones que he venido describiendo. Para ello, considero especialmente urgentes las posibles actuaciones
+sobre el mercado laboral, sobre lo que querría hacer cuatro propuestas:
+a) Terminar con la dualidad entre trabajadores permanentes y temporales. La mayor facilidad de despido de los trabajadores temporales hace que
+la empresa carezca de incentivos para invertir en su formación. La temporalidad hace también que en periodos recesivos los ajustes se lleven a cabo
+mediante recortes de empleo. La tasa de temporalidad, del 24% a finales de
+2014 es todavía la más alta de Europa, aunque se haya reducido desde su nivel
+al inicio de la crisis, y la mayor parte del empleo que se está creando tiene
+carácter temporal.
+
+14
+
+“Vulnerabilidades tras el examen de la troika”, A. de Juan y J. Maudos, El Pais Negocios, 1 de diciembre de 2013.
+
+255
+
+
+
+b) El marco de relaciones laborales debe cambiar; no podemos continuar
+pensando que el empresario es un explotador y el trabajador un vago. De
+acuerdo con el Eurobarómetro de otoño 2014, cuatro de cada diez encuestados
+en España considera que la presencia de grandes empresas es perjudicial para
+el entorno económico y social. Por el contrario, la empresa debe verse como lo
+que es: una actividad productiva sujeta a resultados inciertos, sobre los que
+empresarios y trabajadores tienen un control parcial, y en la que los empresarios
+disponen de información incompleta acerca de la cualificación y habilidad del trabajador para el puesto para el que se le contrata. De acuerdo con la Teoría de
+la Regulación Óptima, el contrato eficiente debe distribuir el riesgo consiguiente
+entre ambas partes, para lo que sería generalmente adecuado que parte de la
+remuneración fuese contingente en resultados y posiblemente que los trabajadores participen en el diseño y organización de la producción, como es habitual en
+muchas empresas importantes en países que tenemos como referencia.
+c) No existen políticas activas de empleo y, lo que es peor, precisamente la formación de parados se ha visto salpicada por algunos de los más
+aberrantes casos de corrupción. Es preciso recuperar el prestigio de estos programas e incorporar la formación y reciclaje de trabajadores en paro al funcionamiento normal del mercado de trabajo, si bien posiblemente haya que mejorar el papel de las agencias privadas de empleo. Esto es central cuando tenemos
+2,7 millones de parados que hace más de un año que dejaron su último
+empleo, y cuando la mitad de los parados entre 16 y 24 años no ha pasado de
+la primera etapa de educación secundaria, o ni siquiera han llegado a ella.
+d) Necesitamos incorporar en nuestra cultura el concepto de Formación
+a lo Largo de la Vida Laboral, para lo que el sistema educativo, especialmente el
+universitario, debe jugar un papel central del que se haya muy distante. Es frecuente en otros países disponer de programas docentes ofrecidos a profesionales, estructurados en cursos de breve duración, susceptibles de agruparse modularmente, con relativa flexibilidad, para obtener distintas titulaciones. Estas
+actividades, generalmente desarrolladas al término de los horarios docentes habituales son, además, una fuente de financiación muy notable para las universidades en otros países. Por otra parte, se han hecho avances en la Formación Profesional, que alcanza ya al bachillerato en número de alumnos, y sabemos cuáles
+deben ser las líneas de avance hasta hacer que sea una alternativa perfectamente
+válida a los estudios universitarios. Este esfuerzo debe continuar.
+Otras actuaciones se refieren a reformas pendientes en el contexto
+europeo, y debemos llevarlas a cabo conjuntamente en ese entorno supranacional, al menos en nueve líneas:
+1. dar prioridad a un programa de estímulo económico, basado en
+inversiones reales, con un objetivo específico de creación de empleo,
+2. invertir en servicios públicos, garantizando la educación universal
+para todos los ciudadanos, protegiendo una atención sanitaria de cali-
+
+256
+
+
+
+3.
+
+4.
+5.
+6.
+
+7.
+
+8.
+
+dad para todos y desarrollando sistemas de protección social que permitan a los más vulnerables vivir con dignidad y salir de la pobreza,
+fortalecer la democracia institucional, promoviendo una mayor participación ciudadana en los procesos democráticos y una mayor transparencia y rendición de cuentas por parte del proceso político,
+mejorar la democracia en la gestión de las empresas, con mayor participación de los accionistas en la toma de decisiones,
+acabar con la economía sumergida, estimada en España en un 22%
+del PIB actual,
+mejorar la capacidad recaudatoria, luchando contra la evasión y la
+elusión fiscal. España no tiene tipos impositivos bajos, pero recauda
+poco. Se estima que el fraude fiscal en España asciende a 60 m.m. de
+euros, similar al presupuesto de salud del Estado, y muy superior al
+pago de intereses sobre la deuda pública, que está en torno a 36
+m.m. de euros. En España, los grandes grupos transnacionales aportan el 2% de la recaudación, y únicamente tributa el 3,5% de sus
+beneficios; los beneficios fiscales concedidos a las empresas representan 28 m.m. de euros, yendo a parar el 80% de dicha cantidad a las
+grandes empresas,
+aumentar la trasparencia en relación con las actividades de las empresas multinacionales, quienes deben proporcionar información relativa a ventas, producción, contribuciones fiscales, número de empleados y activos todos los países en que realizan sus actividades. El
+actual sistema impositivo para las multinacionales no es adecuado;
+muchas empresas pagan impuestos por debajo del tipo fijado por la
+ley tributaria del país correspondiente gracias a agujeros legales, o
+simplemente tributan en países donde los impuestos son más bajos,
+no donde llevan a cabo sus actividades. Las empresas españolas tampoco son ajenas a este hecho: en 2012, 467 sociedades domiciliadas
+en paraísos fiscales estaban participadas por 33 de las 35 empresas del
+Ibex o eran dependientes de ellas15,
+construir sistemas impositivos justos, con reformas impositivas progresivas, que posiblemente deban incluir un impuesto sobre la riqueza,
+mejorar la transparencia y el intercambio de información financiera
+entre países, acabar con la impunidad de los evasores fiscales, y cerrar
+los paraísos fiscales. Se estima que se pierde cada año en la UE alrededor de un billón de euros debido a evasión y elusión fiscal, el equivalente a 7 años de presupuesto de la UE. Recuperar esta cantidad
+permitiría evitar recortes del gasto y podría contribuir a reducir la
+desigualdad a través de políticas redistributivas,
+
+15
+“La responsabilidad social corporativa en las memorias anuales de las empresas del Ibex35”, Observatorio de
+Responsabilidad Social Corporativa, análisis del ejercicio 2012.
+
+257
+
+
+
+9. promover la integración de inmigrantes. No podemos permitirnos
+continuar con las tragedias en las fronteras europeas del Sur. Se
+estima que casi 5.000 inmigrantes perdieron la vida en 2014 tratando
+de encontrar una vida mejor para ellos y sus familias y, de ellos,
+3.224 se ahogaron en el Mediterráneo. La Organización Internacional para la Inmigración teme que el número de muertos en el mar
+aumente si la Unión Europea no es capaz de implantar una operación de rescate exhaustiva y bien equipada en el Mediterráneo.
+La crisis económica y financiera ha elevado los niveles de desigualdad
+en las economías desarrolladas a niveles no conocidos desde hacía casi un
+siglo, y ha afectado con especial dureza a España. Las políticas de austeridad
+implantadas en la periferia de Europa no han logrado su objetivo de reducción
+del endeudamiento público, y los recortes en gasto social en que se han basado
+han traído sufrimiento a los más vulnerables y han aumentado los niveles de
+desigualdad. Además, un inadecuado papel del Estado en su relación con grandes empresas que operan en algunos mercados estratégicos es, en España, una
+tradicional causa de ineficiencia económica y una fuente adicional de desigualdad que ha estado operando en el pasado reciente con especial significación.
+Recuperar una senda de progreso sostenido requiere: a) introducir importantes reformas aún pendientes, algunas de las cuales he tratado de apuntar, b) una
+política económica que estimule el crecimiento persiguiendo la igualdad de
+oportunidades, y c) un Estado que actúe bajo una regulación establecida con
+rigor. Para todo ello sería importante disponer de un proyecto del país que
+queremos para los 30 años; lamentablemente, ese es el debate que ha estado
+ausente a lo largo de esta dolorosa crisis.
+
+258
+
+
+
+BIBLIOGRAFÍA
+
+DE JUAN,
+
+A. y J. MAUDOS, 2013: “Vulnerabilidades tras el examen de la troika”, El Pais Negocios, 1
+de diciembre de 2013.
+
+LAFFONT, J.J. y J. TIROLE, 1993: A Theory of Incentives in Procurement.
+MILANOVIC, B., 2005: Worlds Apart, Princeton University Press.
+— 2012: The Haves and the Have Nots, Basic Books, Nueva York
+NOVALES, A., 2012: “La lucha contra la pobreza como objetivo de política económica”, Lección
+inaugural del curso 2012-2013, Universidad Complutense.
+NUSSBAUM, M.C., 2011: Creating capabilities: the human development approach, The Belknap
+Press of Harvard University Press.
+OLINTO, P., G. LARA, y J. SAAVEDRA, 2014: “Accelerating Poverty Reduction in a Less Poor World:
+The Roles of Growth and Inequality”, Policy Research Working Paper 6855, The World
+Bank, Poverty Reduction and Equity Unit.
+PIKETTY, T., 2014: Capital in the Twenty-first Century, Harvard University Press
+RAJAN, R., 2011: Las grietas del sistema, editorial Deusto, Bilbao
+SEN, A., 1999: Development as freedom, New York, Knopff.
+—, 2009: The idea of justice, Harvard University Press, Cambridge, MA.
+TIROLE, J., 1988: The Theory of Industrial Organization, MIT Press.
+WILKINSON, R. y K. PICKETT, 2011: The Spirit Level, Bloombsbury Pree, Nueva York.
+
+259
+
+
+
+

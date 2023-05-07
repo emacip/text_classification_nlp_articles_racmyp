@@ -1,0 +1,3163 @@
+ÉTICA EUROPEA Y ORIENTE
+Por el Académico de Número
+Excmo. Sr. D. Gonzalo Fernández de la Mora *
+
+INTRODUCCIÓN HISTÓRICA
+P reám b u lo
+
+El tema de la felicidad es esencial en la filosofía. Al inicio de su Carta a
+Meneceo, Epicuro afirma que -es necesario meditar sobre lo que procura la felici­
+dad»*1. Al comienzo de su Etica a Nicómaco, Aristóteles sostiene que «la felicidad es
+el fin de todos los actos»2. Tomás de Aquino interpreta éste y otros textos parale­
+los de modo libre: «como los hombres, sujetos a mudanzas en esta vida, no pue­
+den tener una felicidad perfecta y como el deseo de la naturaleza no es inútil, pue­
+de rectamente estimarse que la dicha perfecta está reservada al hombre después de
+esta vida»3. Toda la ética estoica es un arte de ser feliz. Define Séneca: «El sumo
+bien es la felicidad armónica del alma»4. Proclama Cicerón: «Todos estamos movi­
+dos por el vivo deseo de vivir felices» 5. Sentencia Juliano: «El fin de toda filosofía
+es la felicidad» 6.
+
+* S e s ió n d e l d ía 5 d e d ic ie m b r e d e 2 0 0 0 .
+
+1 E picuro , C a r t a a M e n e c e o 122, e n C . G arcía G ual y E. A costa , E p i c u r o , E t i c a , e d . b i l i n g ü e ,
+B a r c e l o n a , 1974, p á g . 89-
+
+2 A ristóteles , E t i c a a N i c ó m a c o 1 0 9 7 b , e d . b i l i n g ü e M . A r a u jo , M a d r id , 1 9 5 9 , p á g . 7 .
+3 C o m e n t a r i o a l a E t i c a a N i c ó m a c o , tr a d . e s p . B u e n o s A ir e s , 1 9 8 3 , 2 . a e d ., P a m p l o n a , 2 0 0 0 ,
+pág. 45.
+
+4 S éneca: D e v i t a b e a t a , 8 ; c i t o p o r la e d . b i l i n g ü e d e M . N isard e t a l . , O e u v r e s c o m p l e t e s ,
+P a r ís , 1 8 5 1 , p á g . 3 5 9 .
+
+5 C icerón , D e f i n i b u s , V , 2 9 , 8 6 , e d . J . M a r t h a , P a r ís , 1 9 2 9 , v o l. I I , p á g . 1 6 2 .
+6 J uliano, D i s c u r s o s IX , 1 3 , 1 9 3 , e d . b i l i n g ü e d e G . R o c h e f o r t , v o l . I I , P a r ís , 1 9 6 3 , p á g . l 6 l .
+
+163
+
+
+
+Y Agustín: «Los filósofos se han afanado por encontrar, como problema
+máximo, el medio de alcanzar la felicidad»7. Subraya Pascal: «El hombre quiere ser
+feliz, sólo quiere serlo, y no puede no desearlo»8. Afirma Kant: «Ser feliz es nece­
+sariamente el anhelo de todo ser racional» 9. Además de la vida individual, también
+la colectiva, y el objeto de la política se fija en la felicidad de los gobernados: la
+Declaración de Virginia reconoce como inherente a la ciudadanía el derecho a la
+felicidad10. También en Europa: «El fin de la sociedad es la felicidad común»11. Es
+una convicción universal.
+Todos los hombres ansian la felicidad. Las biografías de las personas y la
+Historia son el resultado del incesante esfuerzo humano por alcanzar la dicha. Esa
+constante tensión de nuestra especie se ha manifestado desde sus orígenes. La teo­
+ría y la práctica han oscilado entre dos extremos: la felicidad por el deseo, el pla­
+cer y la fruición; y la felicidad por la ascesis, la virtud y la renuncia. Entre los dos
+polos éticos se escalonan posiciones intermedias o mixtas.
+En tan fundamental debate, el estoicismo ocupa en Occidente un lugar
+destacado, aunque no exclusivo. Desde su fundación por Zenón de Citium en el
+siglo iv a. Je., siguiendo caminos abiertos por los cínicos en la centuria anterior
+y por remotas sabidurías orientales, hasta Marco Aurelio en el siglo n, la llama­
+da escuela del Pórtico atraviesa tres períodos, el antiguo, el medio y el imperial.
+Durante medio milenio, los pensadores se suceden. De la mayoría de ellos no
+se conservan sus libros, sólo las citas, rara vez directas, én obras de otros auto­
+res, frecuentemente adversos y tardíos. Además, no reina la unanimidad dentro
+de la escuela; hay notables discrepancias parciales. Con los fragmentos conser­
+vados y alguna obra cabal como las del último periodo, se ha reconstruido la
+física, la lógica, la metafísica, la cosmología, la teodicea y la ética de las princi­
+pales figuras de la escuela. Entre la diversidad aparece una constante moral: la
+felicidad por la renuncia. Este es el gran legado del estoicismo, uno de los más
+fecundos de la cultura antigua. De modo tácito o expreso, esa terapéutica del
+ánimo no ha cesado de gravitar sobre la civilización occidental. ¿Qué permane­
+ce válido de la milenaria y persistente fórmula, la dicha por la ascesis? A modo
+
+7 A gustín de H ipona , D e c i v i t a t e D e i , 1 9 ,1 , e d . b i l i n g ü e J . M o r a n , M a d r id , 1 9 6 5 , p á g . 4 5 3 .
+8 B las P ascal, P e n s é e s , e d . M a s s i s , P a r ís , 1 9 4 9 , p á g . 1 1 5 .
+9 K ant , K r i t i k d e r p r a k t i s c b e n V e m u n f t , 1 7 8 8 e n W e r k e , e d . B . C a s s i r e r , B e r l í n , 1 9 1 2 - 1 9 1 8 ,
+v o l. V , p á g . 1 9 .
+
+19
+
+-In heren t rights... obtain ing happiness», V i r g i n i a b i l í o f r ig h t s , a d o p t e d j u n e 1 2 , 1 7 7 6 , art. 1,
+
+en E. C. S m itii , T h e C o n s t i t u t i o n o f t h e U n i t e d S t a t e s , 1 1 .a ed ., 1 9 7 9 , pág. 2 1 .
+11 D é c l a r a t i o n d e s d r o i t s d e l ’h o m m e e t d u c i t o y e n , P a r ís , 2 4 - V I - 1 7 9 3 e n M . D uverger , C o n s t i t u t i o n s e t d o c u m e n t s p o l i t i q u e s , P a r ís , 1 9 5 7 , p á g . 2 8 .
+
+164
+
+
+
+de introducción, no se ofrece un exhaustivo panorama histórico, sólo ciertos
+hitos eminentes.
+
+O rien te
+
+1.
+El hinduísmo es el nombre moderno que se ha dado al conjunto de
+creencias y ritos de los hindúes. Los más antiguos textos, que se escalonan a par­
+tir del siglo xviii a. Je., son los Vedas, compuestos por cuatro grupos de escritos en
+sánscrito: los himnos, las glosas brahamánicas, las obras esotéricas y, finalmente,
+los tratados espirituales y filosóficos denominados Upanishads, que datan del
+siglo vi a. Je. 12. Cincuenta fueron traducidas de una versión persa al latín por
+Anquetil du Perron en 1801-1802; fue una revelación para los occidentales. Hay,
+pues, diferentes etapas y, dentro de ellas, distintas corrientes espirituales.
+De los dos centenares de Upanishads que se conservan, en su mayoría
+anónimas, la Kena prescribe: «encuentra el gozo en la renuncia»13; «sé dichoso sin
+experimentar el deseo de poseer»14; «la renuncia es el mejor amigo de uno mis­
+mo» 1516. En la Upanishad atribuida al asceta Svetasvatra se dice «ausencia de deseos
+es el primer efecto del yoga», «el brahamán imperturbable, liberado de todo lazo»,6.
+«En el hombre exento de deseos, todo dolor se desvanece»17 Son criterios que apa­
+recen como ejes morales del pensamiento hindú.
+El sabio mítico Prajapati exalta a «aquél que está por encima, como el asce­
+ta respecto de las cualidades sensibles, a aquel que es purificación y purificado,
+vacío, calmado,..., autónomo»18. «La sed interior..., la pasión..., el placer..., el odio
+a las sensaciones desagradables de los sentidos y el ansia de las agradables ... son
+cualidades propias del rajas», o sea, del aún sumido en la oscuridad19.
+«La renuncia a cuanto existe eso es yoga»20. «Perseverando en el yoga se
+alcanza la plena satisfacción, la resistencia a los vaivenes, y la quietud. Este, el más
+
+12 H a y , a d e m á s , U p a n i s h a d s p o s t v é d i c a s , r e d a c t a d a s e n t r e e l s i g l o i y e l x v i.
+’ 3 S . N ityahodanada, L e s U p a n i s h a d s , 3 .a ed ., P a r ís , 1997, pág. 58.
+
+I dem , o p . c i t . , p á g . 6 1 .
+15 I dem , o p . c i t . , pág. 74.
+16 W . A A . , L e s U p a n i s h a d s , t e x t o b i l i n g ü e d e la V I a la I X , 2 .a e d . P a r ís , 1 9 9 2 , p á g . 5 9 .
+
+17 I dem , o p . c i t . , p á g . 6 3 .
+18 « M a y tr a y a n i U p a n is h a d » e n L a c i e n c i a d e l b r a h a m á n . O n c e U p a n i s h a d a n t i g u a s , t r a d . e s p .
+d e A . A g u d y F. R u b lo , B a r c e lo n a , 2 0 0 0 , p á g . 2 6 5 .
+15 O p . c i t . , p á g s . 2 6 8 - 2 6 9 .
+20 O p . c i t . , pág. 282.
+
+165
+
+
+
+secreto de los misterios, no debe ser revelado a nadie que no sea hijo y alumno y
+que no esté pacificado..., su recompensa es la ruptura de las ataduras, quedar libre
+de ansiedad, no temer más ni de los otros ni de sí mismo, quedar libre de deseos,
+acceder a una felicidad imperecedera e inconmensurable»21. Esta limitación de la
+revelación a ciertos escogidos, inscrita en una sociedad estratificada, aparece en las
+Upanishads antiguas y en otras tradiciones sacerdotales de Oriente y, excepcional­
+mente en Grecia al modo de las iniciaciones de Eleusis. La clave de la felicidad
+como secreto. Ese elitismo no atenúa el carácter felicitado de la renuncia.
+En el gran poema hindú Mahabarata, compilado por Vyasa, uno de los
+capítulos más significativos es el Bhagavad-Gita, redactado en torno al siglo 11 a. Je.
+por autor desconocido. Esta es la lección vertebral: sabio es el hombre «que se libe­
+ra de todo deseo»22. «Los espíritus austeros, que se han librado del deseo y de la
+ira y se han dominado a sí mismos, están cerca de la felicidad»23; «es perfecto el
+que se mantiene impasible»24; «el indiferente e imperturbable..., es apto para la libe­
+ración» 25; «aquel cuya mente está desligada de todo, se ha dominado a sí mismo, y
+se ha liberado de deseos a través de la renuncia, ha alcanzado el estado perfecto»26.
+En el penúltimo versículo del poema, también se declara tal doctrina como el
+«supremo secreto»27 que sólo puede ser comunicado a los «más devotos»28.
+La moral hinduista preconiza el desprendimiento del mundo y la purifica­
+ción de la persona hasta alcanzar la beatitud en la unión con Dios; es una ética de
+liberación («mukti» en sánscrito) y de renuncia que lleva a un estadio final místico.
+«Casi todas las escuelas de filosofía hindú aceptan los principios de renunciación
+como los medios de alcanzar el más alto nivel. La renuncia a todas las cosas mun­
+danales se considera necesaria para la autorrealización»29.
+En esta terapia ascética como vía de la felicidad, coinciden las varias
+corrientes cuya fuente se remonta a los pueblos arios que aparecen en la India
+
+21 O p . c i t . , p á g . 2 8 4 .
+22 B h a g a v a d g i t a , I I , 5 5 , e d . b i l i n g ü e — e l s á n s c r i t o c o n c a r a c t e r e s l a t i n o s —
+
+p o r S. R a d h a -
+
+k r is n a n , L o n d r e s , 1 9 4 8 , p á g . 1 2 3 .
+23 O p . c i t . , V , 2 , e d . c i t ., p á g . 1 8 5 .
+24 O p . c i t . , V I, 3 2 , e d . c i t ., p á g . 2 0 5 .
+25 O p . c i t . , X I V , 2 3 y 2 6 , e d . c i t ., p á g . 3 2 4 .
+26 O p . c i t . , X V I I I , 4 9 , e d . c i t ., p á g . 3 7 8 .
+27 O p . c i t . , X V I I I , 7 5 , e d . c i t , p á g . 3 8 2 .
+28 O p . c i t . , X V I I I , 6 8 , e d . c i t , p á g . 3 7 9 .
+29 I. C . S harma, E t h i c a l p h i l o s o p b í e s o f I n d i a , L o n d r e s , 1 9 6 5 , p á g . 1 3 4 . S e g ú n R adhakrisnan,
+e l -d e s a s im ie n to n o e s in d ife r e n c ia -, T h e p r i n c i p a l U p a n i s h a d s , te x to b ilin g ü e d e 1 6 o b r a s , In tr o d u c tio n ,
+L o n d r e s , 1 9 5 2 , c i t o p o r l a 2 .a e d . 1 9 6 8 , p á g . 1 0 6 . S e g ú n M . E liade, e l d e s p r e c i o d e l a v i d a y d e l m u n d o
+n o a p a r e c e e n l o s m á s a n t i g u o s t e x t o s v é d i c o s , T e c h n i q u e s d u y o g a , 2 . a e d , P a r ís , 1 9 7 5 , p á g . 3 1 .
+
+166
+
+
+
+a principios del segundo milenio a. Je. De ahí arranca nuestra civilización occi­
+dental.
+2.
+El reformador Jin o Mahavira, que vivió en el siglo vi a. Je., fundó una
+forma de espiritualidad radicalmente ascética que actualmente cuenta con millones
+de seguidores. Casi contemporáneo fue Buda.
+La más antigua y completa colección de textos búdicos es la redactada, a
+partir del siglo v a. Je., en pali, una lengua del norte de la India, y relacionada con
+el sánscrito. Esa colección o canon pali, conservado por la secta meridional Theravada, está compuesta por tres grupos de escritos y, por eso, se denomina Tipitaca
+(literalmente, “tres cestos»)- El primero —Vinaya— trata de la disciplina de los mon­
+jes; el segundo —Sutta—, que es el más extenso, reúne los sermones o dichos de
+Buda, memorizados por sus discípulos; el tercero —Abhidhamma— contiene tra­
+tados filosóficos y de exégesis. Hay una edición bilingüe inglesa de la mayor par­
+te del canon pali, al que se da preferencia sobre las versiones en sánscrito, menos
+completas. Y hay varias colecciones antiguas de los dichos de Buda, o suttas, selec­
+cionados y ordenados con diferentes criterios. El mensaje ético esencial se contie­
+ne en el Sermón de las cuatro nobles verdades-, «1. El nacimiento, la vejez, la enfer­
+medad, la muerte, estar unido a lo que no se ama, estar separado de lo que se ama
+y no tener lo que se desea es sufrimiento. 2. La causa del sufrimiento es una sed,
+unida a una apasionada avidez que encuentra nuevos goces por doquier, es la sed
+de los placeres, de los sentidos, de existir, devenir y no existir, todo lo cual lleva a
+volver a existir y a devenir. 3- Para suprimir el sufrimiento hay que erradicar esa
+sed, abandonarla, liberarse y desligarse de ella. 4. La vía que conduce a la supre­
+sión del sufrimiento es la vista, el pensamiento, la palabra, la acción, los medios de
+existencia, el esfuerzo, la atención y la concentración justas»30. El término ideal de
+autovaciamiento de la persona es el nirvana que no suele identificarse con la ani­
+quilación o reducción a la nada.
+3- Lao Tse, sabio del siglo vi a. Je., fue el autor o compilador de un libro
+de sentencias titulado Tao Te King, el más antiguo tratado de filosofía china y uno de
+los grandes clásicos de Oriente. Sobre el significado del Tao hay dispares interpreta­
+ciones, en gran medida explicables por la ambigüedad y la polisemia de los ideo­
+gramas chinos y por la pluralidad de exégesis sapienciales desde planteamientos tan
+diversos como el confucionismo o el budismo. Pero en el libro de Lao Tse hay, ade­
+más de una brumosa metafísica, unos criterios políticos y, sobre todo, éticos.
+
+30
+
+W . Raiiula , L ’e n s e i g n e m e n t c lu B o u d d h a d ’a p r e s l e s t e x t e s p l u s a n c i e n s , tra c !, fr. 1 9 7 8 ,
+
+p á g s . 3 5 y s ig s . V id . M . E liade, H i s t o í r e d e s c r o y a n c e s , v o l . I I , c a p . 1 9 , p á g s . 9 2 y s i g s .
+
+167
+
+
+
+¿Cuál es la moral del Tao Te King, que ha impregnado hasta hoy tantas
+mentes orientales? Es la de la renuncia: «quien carece de concupiscencia ve su
+maravilla»31, «no ver lo codiciable para que el corazón no se alborote»32, «llegar al
+vacío extremo para tener quietud sólida»33, «permanecer quieto en medio del movi­
+miento duradero permitirá vivir en calma, y quien guarde esta sabiduría no desea­
+rá llenarse de cosas»34, «todos tienen, yo me obstino en aparecer harapiento»35,
+«menos egoísmo y poca ambición»36, «rico es el que sabe contentarse»3738, «sin ambi­
+ciones hay paz» 3S, «el que sabe contentarse no sufre agravio»39, «la suficiencia del
+que sabe contentarse es duradera»40, «porque soy sobrio puedo ser grande»41.
+Se ha negado que en el taoísmo haya una moral porque no se enuncian
+preceptos generales, reguladores de la convivencia. No es exacto; pero, si así fue­
+re, estaríamos ante una moral individualista. Este es, por lo menos, el caso del tao­
+ísmo: explica que el bien de cada cual no se logra estimulando, sino cercenando
+deseos, aconseja un modo de evitar el dolor y ejercer, como vía felicitaría,el domi­
+nio de sí mismo ante las tentaciones de una circunstancia de bienes reales, posi­
+bles o imposibles. Este sería el imperativo taoísta: En la medida en que no se desea,
+se es feliz. Tal precepto sería una antinomia si la felicidad consistiera en fruir obje­
+tos; pero la felicidad es, sobre todo, un equilibrio interior, una paz sostenida y no
+una carrera insaciable.
+Esta idea de la felicidad como restricción del deseo es anterior a Lao Tse
+y de remotos orígenes sapienciales; pero es en el Tao Te King donde se formula
+reiteradamente y, desde ese texto, penetra con fuerza y persistencia en la sensibi­
+lidad oriental y, luego, se manifiesta en la antigua Grecia, a través de los llamados
+cínicos.
+La práctica sistemática y masiva de la renuncia como forma de existencia
+está documentada en Oriente a lo largo de casi cuatro milenios.
+31 C it o p o r la e d i c i ó n b i l i n g ü e c o n t r a n s l i t e r a c i ó n f o n é t i c a d e C . E lorduy , L a g n o s i s t a o i s t a
+d e l •T a o T e K i n g - , O ñ a , 1 9 6 1 , p á g . 1 3 6 .
+
+32 I dem , o p . c i t . , p á g . 1 3 7 .
+33 I dem , o p . c i t . , p á g . 1 4 7 .
+33 I dem , o p . c i t ., p á g . 1 4 7 .
+35 I dem , o p . c i t . , p á g . 1 5 1 .
+36 I dem , o p . c i t . , p á g . 1 5 0 .
+37 I dem , o p . c i t . , p á g . 1 6 2 .
+38 I dem , o p . c i t . , p á g . 1 6 4 .
+39 I dem , o p . c i t . , p á g . 1 7 1 .
+
+40 I dem , o p . c i t ., pág. 172.
+41 I dem , o p . c i t ., p á g . 1 8 6 .
+
+168
+
+
+
+G r e c ia
+
+1. Antístenes (455-360 a. Je.), que era hijo de una esclava tracia, proba­
+blemente de ascendencia asiática, pertenecía a la generación siguiente a la de Lao
+Tse. No se conserva ninguno de sus numerosos escritos; pero sí referencias42 que
+permiten reconstruir su idea de la moral: “Nadie puede quitarnos la virtud» 43, que
+es “autosuficiencia»44. Ausencia de deseos y, por lo tanto, completa independencia
+de las circunstancias mundanales generalmente tentadoras u hostiles. En el límite,
+■■contentarse con lo que se tiene»45. «El sabio es autárquico»46. Pero la figura prototípica de la escuela cínica fue el extravagante Diógenes, en torno al cual se forjó
+una leyenda de problemática verosimilitud.
+2. Diógenes (400-325 a. Je.) nació en Sínope, ciudad ribereña del Helesponto y dominada un tiempo por los persas, que extendían su jurisdicción hasta la
+India búdica. Sus adversarios y el vulgo lo trivializaron y caricaturizaron, pero es
+uno de los más auténticos pensadores postsocráticos. No ha llegado hasta nosotros
+ninguna de sus obras4748. Llevó hasta el límite el discurso de Antístenes; predicaba
+un positivo ascetismo para alcanzar la libertad y la autosuficiencia. Escandalizó a
+muchos de sus contemporáneos al renunciar a lo que tantos apetecían, las cosas y
+los placeres. Su idea de la felicidad era la contraria a la hedonista de los cirenaicos.
+La columna vertebral de la ética estoica se apoya en los cínicos.
+Diógenes Laercio dedica a su homónimo de Sínope un capítulo de Vidas
+de filósofos ilustres. Le atribuye una concepción antropológica muy negativa: «el
+hombre es el más necio de los animales»4S, y «en una gran muchedumbre hay pocos
+que puedan ser llamados hombres»49; «tres veces hombre, tres veces desgraciado»50.
+Recomendaba a los jóvenes “Confiar en sí mismos»51. Pero su fórmula magistral anti­
+cipa la estoica: «oponer el valor al azar, la naturaleza a las convenciones, y la razón
+42 F r a g m e n t a , e d . F . D e e l e v a , M ilá n , 1 9 4 6 . M á s c o m p l e t a l a e d . G i a n n t o n i , S o c r a t i s e t s o c r a t i c o r u m r e l i q u i a e , N á p o l e s , 1 9 9 0 , v o l. I I , p á g s . 1 3 7 - 2 2 5 .
+
+43 D ecleva, o p . c i t . , fr. 7 1 , pág. 4 7 1 .
+44 D ecleva, o p . c i t . , fr. 7 0 , p á g . 4 7 .
+45 G lanntoni, o p . c i t . , vol. IV , pág. 39546 D ecleva, o p . c i t . , fr. 8 0 , p á g . 4 8 .
+47 G . G iannantoni r e c o g e 5 9 2 f r a g m e n t o s d e D i ó g e n e s e n o p . c i t , v o l. I I , p á g s . 2 2 7 - 5 0 9 . E n
+1 8 7 3 , R . H e r c h e r e d i t ó e l s i g n i f i c a t i v o e p i s t o l a r i o d e u n t a r d ío P s e u d o D i ó g e n e s .
+48 D iógenes Laercio , V i d a s d e f i l ó s o f o s i l u s t r e s , V I, 2 4 , c i t o p o r la e d . b i l i n g ü e d e R . D . H i c k s ,
+C a m b r id g e 1 9 2 5 , p á g . 2 6 .
+49 I dem , o p . c i t . , V I, 5 9 , e d . c i t ., p á g . 6 0 .
+
+50 I dem , o p . c i t . , VI, 4 7 , ed. cit., pág. 4 8 .
+51 I dem , o p , c i t , V I , 3 1 , e d . c i t ., p á g . 3 2 .
+
+169
+
+
+
+a la pasión»52. Su enseñanza es más una forma de vida que un sistema filosófico
+antiintelectualista, desconfía de las «reglas escritas y preconiza el ejercicio prácti­
+co» 53. Afirma que «el deseo de riquezas es la matriz de todos los males»54, y que «la
+fortaleza es vía de la virtud»55. «No hay que temer a las incomodidades»56, y proce­
+de «estar preparado para cualquier circunstancia»57. Postulaba «dos formas de aseesis, la espiritual y la corporal»58, y afirmaba que «nada en la vida puede triunfar sin
+la ascesis, que es capaz de vencerlo todo» 59. La clave es la renuncia: «hay más pla­
+cer en el menosprecio de los placeres que en ellos mismos»6o. Como escribía Séne­
+ca: «Si se dudase de la felicidad de Diógenes habría que dudar también de la de los
+dioses que no son desgraciados por no poseer ni predios, ni jardines, ni colonos,
+ni capitales»61. Este es el epitafio que se inscribió sobre la tumba de Diógenes: «La
+autosuficiencia es el más asequible modo de vivir»62.
+Según Long, «el cinismo no fue una escuela formal con un cuerpo de doc­
+trina codificado»63; pero resume así su ética: «1. La felicidad consiste en vivir de
+acuerdo con la naturaleza. 2. La felicidad está al alcance de cualquier persona dis­
+puesta a entregarse a una ejercitación física y mental adecuada. 3. La esencia de la
+felicidad es el autodominio, que se manifiesta en la capacidad para vivir felizmente,
+incluso en circunstancias sumamente adversas. 4. El autodominio es el equivalente
+de un carácter virtuoso, o lo uno implica lo otro. 5. La persona feliz, así entendida,
+es la única realmente sabia, soberana y libre. 6. Las cosas que convencionalmente
+se consideran necesarias para la felicidad, como la riqueza, la fama y el poder polí­
+tico, carecen de valor en la naturaleza. 7. Los principales impedimentos para la feli­
+cidad son los falsos juicios de valor, junto con los trastornos emocionales y el carác­
+ter vicioso que emana de esos juicios falsos»64.
+52 I dem , o p . c i t . , V I,
+
+3 8 , e d . c i t ., p á g . 4 0 .
+
+53 I dem , o p . c i t . , VI, 48 , ed. cit., pág. 50.
+
+54 I dem , o p . c i t . , V I , 5 0 e d . c i t ., p á g . 5 2 .
+55 I dem , o p . c i t . , V I , 5 4 , e d . c i t ., p á g . 5 4 .
+56 I dem , o p . c i t . , V I , 5 6 , e d . c i t ., p á g . 5 6 .
+57 I dem , o p . c i t . , V I , 6 4 , e d . c i t ., p á g . 6 4 .
+58 I dem , o p . c i t ., VI,
+
+70, ed. cit., pág. 70.
+
+59 I dem , o p . c i t . , V I, 7 1 , e d . c i t ., p á g . 7 2 . S in r a z o n e s c o n v i n c e n t e s , M . G oulet -C azé s u g i e r e
+q u e e s t e f r a g m e n t o y e l a n t e r i o r s o n i n t e r p o l a c i o n e s e s t o i c a s , L ’a s c é s e c y n i q u e , P a r ís , 1 9 8 6 , p á g . 2 1 8 .
+60 I dem , o p . c i t . , V I, 7 1 , e d . c i t ., p á g . 7 2 .
+61 S éneca, D e t r a n q u i l i t a t e a n i m i e n O e u v r e s c o m p l e t e s , e d . b i l i n g ü e d e M . N is a r d e t . a l , P a r ís ,
+1851, pág. 317.
+62 D iógenes Laercio , o p . c i t . , VI, 78, ed. cit., pág. 80.
+63 A . A . Long , «La t r a d i c i ó n s o c r á t i c a - , e n W . A A . , T h e c y n i c m o v e m e n t i n a n t i q u i t y a n d it s
+l e g a c y , 1 9 9 6 ; c i t o p o r l a tr a d . e s p . M a d r id , 2 0 0 0 , p á g . 6 2 .
+64 Lo n g , o p . c i t . , p á g . 3 7 .
+
+170
+
+
+
+Onesicrito de Astipalea (375-300 a. Je.) fue piloto de la nave de Alejandro
+durante su retorno de la India (326-325 a. Je.). Discípulo de Diógenes el cínico, a
+su paso por Taxila en el alto Indo, fue enviado por su rey a visitar a los brahamanes Caíanos y Manganisa con quienes dialogó a través de intérpretes y les atribu­
+yó ideas cínicas como la supresión del placer y del dolor. Escribió una novelada
+biografía del monarca macedonio, utilizada por Estrabón y hoy perdida, en la que
+presentaba al monarca como un filósofo cínico. Aunque este autor sirvió más a la
+leyenda que a la historia alejandrina, es muy reveladora su temprana denuncia de
+relaciones entre la ética griega y las sabidurías orientales65.
+. En los cínicos está la fuente próxima del estoicismo. Su fundador, Zenón,
+que era de piel oscura, nació en Chipre, isla un día alternativamente ocupada por
+fenicios, asirios, persas y egipcios hasta los tiempos de Augusto, tierra, pues, pro­
+fundamente orientalizada. A Zenón, a quien su maestro Crates de Tebas llamaba “el
+fenicio», le sucedieron Cleantes, nacido en Assos, fortaleza asiática dominada por
+lidios y persas y, luego, Crisipo que era otro asiático, nacido en Solos de Cilicia,
+territorio vasallo de Asiria y de Persia, discutido entre Seléucidas y Tolomeos y que
+no llegó a helenizarse plenamente. Un viento de Oriente agitó, pues, las túnicas de
+los cínicos y estoicos primeros.
+3.
+Aristóteles (384-322 a. Je.), nacido en Macedonia, llamada a unificar
+políticamente a los griegos, se avecindó en Atenas cuando contaba sólo diecisiete
+años. Por su magnitud y variedad temática y estilística es difícil aceptar que los
+escritos que se le atribuyen sean la obra de un sólo hombre. Pertenecía a una fami­
+lia de naturalistas , acomodada, y ligada al palacio real. Maestro del insaciable Ale­
+jandro, fue procesado por impiedad, pero logró huir a la isla de Eubea, exilio en
+el que murió pocos meses después, condenado en rebeldía 66. Dedicó muchas pági­
+nas, no siempre concluyentes, a la felicidad, pero sin inclinarse hacia la receta cíni­
+ca. Su talante no era, de lejos, ni místico, ni ascético. Aparece aquí no tanto a cau­
+
+65 L o s f r a g m e n t o s e n F . J acoby , D i e F r a g m e n t e d e s g r í e c h i s c h e n H i s t o n k e r , B e r l í n , 1 9 2 3 - 1 9 5 8 ,
+c . 1 3 4 , I I B , p á g s . 7 2 3 - 7 3 6 , y I I C , p á g s . 4 6 8 - 4 8 0 . G. G iannantoni o f r e c e t r e s f r a g m e n t o s e n S o c r a t i s e t
+s o c r a t i c o r u m r e l i q u i a e , Ñ a p ó le s , 1 9 9 0 , v o l. II, p á g s . 5 1 1 - 5 1 2 . E n la In tr o d u c c ió n a s u r e v e la d o r a tr a d u c ­
+c i ó n d e la s U p a n i s h a c l s , A n q u e t i l D u p e r r o n s e ñ a l ó p a r a l e l i s m o s e n t r e e l p e n s a m i e n t o h i n d ú y e l g r i e g o
+
+(A nquetil D uperron , O u p n e k ’h a t , i d e s t , s e c r e t u m t e g e n d u m , P a r ís , 1 8 0 1 , v o l. I, p á g . X I , y n o t a e n
+p á g . 4 0 7 ) . S e g ú n C h . Lassen Q n d i s c h e A l t e r t u m s k u n d e , 1 8 5 2 , v o l. I I , p á g s . 6 9 6 , 7 0 5 y 7 0 8 ) , e l p e n s a ­
+m i e n t o h in d ú t u v o u n g r a n i n f l u jo s o b r e e l g r i e g o . Y
+
+F . S a y r e a fir m a q u e D ió g e n e s , a tr a v é s d e lo s
+
+c o m e r c i a n t e s q u e e n S i n o p e v e n í a n d e la I n d ia , f u e m u y i n f l u i d o p o r d o c t r i n a s h i n d ú e s ( F . S ayre , D i ó ­
+g e n e s d e S i n o p e , 1 9 3 8 , p á g . 4 0 ) . A m b o s c i t a d o s p o r P . P édech , H i s t o r i e n s c o m p a g n o n s d ’A l e x a n d r e , P a r ís ,
+1984, pág. 106.
+
+66 I ngemar D üring , A r i s t ó t e l e s , H e i d e l b e r g , 1 9 6 6 , p á g s . 2 - 5 2 .
+
+171
+
+
+
+sa de una expresa inserción en la tradición de renuncia, cuanto por la inevitabilidad de su inmensa figura en cualquier rastreo histórico.
+La moral aristotélica es más deductiva que inductiva, y su orientación es
+eudemonista. Repite con insistencia-, «ser feliz es lo mismo que obrar bien»6768; «La
+felicidad consiste en la virtud» ®; «es feliz la vida según la virtud»69; «la felicidad es
+una actividad conforme a la virtud»70. Pero hay una virtud superior a las demás.
+Aristóteles, en la línea aristocratizante de Platón, va más lejos: si lo propio y casi
+divino del hombre es la inteligencia, la virtud más excelente es la sabiduría, por lo
+que la perfecta felicidad es «la vida teorética o contemplativa»71, que es «la biena­
+venturada actividad de los dioses»72.
+Un leve punto de contacto con la terapia de los deseos es que el estagirita enumera entre las virtudes morales la «sofrosyne» o temperancia, la cual mueve
+a «reducir el número de apetitos, a moderarlos, y a oponerse a los no razonables»73.
+No es la renuncia para equilibrar deseos y posesiones, sino la evitación del desen­
+freno o desmedida puesto que la virtud es entendida como «término medio»74, si
+bien «no puede haber término medio en ningún exceso»75, obligada restricción
+empírica que complica el esquema deductivo. En la misma dirección, exalta una
+especie de autarquía: «el contemplativo no necesita cosas exteriores que incluso
+pueden llegar a obstaculizar su vida teorética»7S7; pero no es renuncia, sino acci­
+dental consecuencia del aislamiento. Y la tópica y un tanto narcisista exaltación del
+filosofar como dicha suprema y «fruición de placeres maravillosos»11.
+Al final, encarando ya su inmediata Política, Aristóteles se manifiesta poco
+confiado en la receta eudemonista, y reconoce que «a la mayoría de los hombres,
+entregados a sus pasiones, no se les reforma por el razonamiento»78, sino median­
+te «leyes que castiguen»79. Para las masas prevalecería una especie de paradójica
+felicidad coactiva: la satisfactoria virtud por imperativo del legislador.
+67 A ristóteles, E t i c a a N i c o m a c o , e d . b i l i n g ü e d e M . A r a u jo , M a d r id , 1 9 5 9 , 1 0 9 5 a 1 9 , p á g . 3 .
+68 I dem , o p . c i t ., 1098a 31, pág. 10.
+69 I dem , o p . c i t . , 1177a 2, pág. 165.
+70 I dem , o p . c i t . , 11 17 a 12, pág. 165.
+71 I dem , o p . c i t ., 1 1 7 7 a 1 6 , pág. 1 6 5 ; t a m b i é n 1 1 7 7 b 2 5 , pág. 1 6 6 , y 1 1 7 8 b 3 3 , pág. 1 6 6 8 .
+72 I dem , o p . c i t . , 1 1 7 8 b 9 , pág. 1 6 8 .
+73 I dem , o p . c i t . , 1 11 9b 12, pág. 50.
+74 I dem , o p . c i t . , 1 1 0 7 a 7 , p á g . 2 6 .
+
+75 I dem , o p . c i t ., 11 07 b 25, pág. 27.
+76 I dem , o p . c i t ., 1 1 7 8 b 3 - 5 , p á g . 1 6 8 .
+77 I dem , o p . c i t . , 1 1 7 7 a 2 5 , p á g . 1 6 7 .
+
+78 I dem , o p . c i t . , 11 79 b 16, pág. 170.
+79 I dem , o p . c i t ., 1180a 3, pág. 171.
+
+172
+
+
+
+El postulado fundamental de equiparar virtud con felicidad no ha cesado
+de repetirse; pero es más la form ulación de un ideal que la descripción de una rea­
+lidad psicológica experim entable. Excepto en la cuestión de la trascendencia, los
+exegetas suelen asumir con literalidad las sentencias del m aestro 80.
+
+Tomás de Aquino radicaliza a su maestro y le atribuye estas dos conclu­
+siones: «la felicidad consiste en la consideración de la verdad»81 y «el que huelga
+(permanece ocioso) para la consideración de verdad es sumamente feliz, tanto
+como puede serlo un hombre en esta vida»82. 4. Zenón de Citium (335-263 a. Je)
+es el padre del estoicismo. No se conserva ninguno de sus numerosos tratados, úni­
+camente fragmentos. Suya es la sentencia, luego sistemáticamente reiterada por sus
+discípulos: «sólo los sabios, aunque pobres, son ricos»83. «La pasión es un movi­
+miento del alma contra la naturaleza y contrario a la recta razón»84, por lo que «debe
+ser destruida y extirpada del ánimo del sabio» 8586.La principal de las pasiones es «el
+deseo»8S; «el placer es indiferente»878, o sea, ni malo ni bueno en sí mismo8S.
+5.
+Epicuro (342 a. Je.-271) suele ser situado en los antípodas de la aseesis puesto que su precepto fundamental era que «el placer es el principio y el fin
+de la vida feliz; al placer, efectivamente, reconocemos como el bien primero y con­
+natural a nosotros»89. ¿Qué entendía por placer? ¿Acaso el sensual? La idea epicúrea
+del placer era más bien negativa: «no sufrir dolor en el cuerpo, ni turbación en el
+alma» 90.
+Incluso desde los antípodas del cinismo y del estoicismo, el valor felicita­
+do de la renuncia es manifiesto: «ni todo placer es elegible, ni todo dolor es un mal;
+
+80 J . V ander , L e b o n h e u r p r i n c i p e e t f i n d e l a m o r a l e a r i s t o t é l i c i e n n e , P a r ís , 1 9 6 5 , p á g s . 1 0 0 y
+s ig s .; J . V igo , E l c o n c e p t o d e f e l i c i d a d e n A r i s t ó t e l e s , S a n t i a g o d e C h ile , 1 9 9 7 , p á g s . 7 6 y s i g s .; J . Leonard e s
+m á s c r ít i c o y d e n u n c i a u n c i e r t o h e d o n i s m o in ic ia l, L e b o n h e u r e b e z A r i s t o t e , B r u s e l a s , 1 9 4 8 , p á g s . 2 8 y 6 4 .
+
+81 T omás de A quino , C o m e n t a r i o a l a E t i c a d e N i c o m a c o , tr a d . e s p . A. M a l l e a , 2 . a e d . P a m ­
+p lo n a , 2 0 0 0 , p á g . 4 1 1 .
+
+82 I dem , o p . c i t . , p á g . 4 1 3 .
+83 J . von A rnim , S t o i c o r u m v e t e r u m f r a g m e n t a , S t u t t g a r t , 1 9 6 8 , fr. 2 2 0 , v o l . I, p á g . 5 3 .
+84 O p . c i t . , fr. 2 0 5 , v o l . I , p á g . 5 0 .
+85 O p . c i t . , fr. 2 0 7 , v o l . I , p á g . 5 1 .
+86 O p . c i t . , l o e . c i t ..
+87 O p . c i t . , fr. 1 9 5 , v o l. I, p á g . 4 8 .
+88 A . G raeser, q u e s o m e t e a c r í t i c a l o s p r o b l e m a s d e e x é g e s i s , n o p o n e e n c u e s t i ó n l a i m p a ­
+s i b ilid a d , Z e n o n v o n K i t i o n . P o s i t i o n e n u n d P r o b l e m e , B e r l í n , 1 9 7 5 , p á g s . 1 7 7 y s ig s .
+
+89 E picuro , C a r t a a M e n e c e o , t e x t o b i l i n g ü e e n C . G a r c í a G u a l y E . A c o s t a , E t i c a d e E p i c u r o ,
+1974, pág. 95.
+
+90 I dem , C a r t a , 1 2 9 , e d . c i t ., p á g . 9 4 .
+
+173
+
+
+
+conviene juzgar todas estas cosas con cálculo-91. «El sabio frente a la necesidad sabe
+más dar que tomar, este es su tesoro de autarquía»92. "No depender de las cosas
+externas»93. “El que no tiene frugalidad sufre poco más o menos que quien sobre­
+pasa los límites con inmoderación»94. «Nada es suficiente si lo suficiente es poco»95.
+«Ante los deseos ilimitados, la mayor riqueza es pobreza» 96
+Distinto del de Aristipo es el hedonismo de Epicuro, que no era un mero
+sensualismo; hay dosis de calculadora renuncia. Por eso escribía Séneca que «el pla­
+cer de Epicuro es sobrio y moderado»97, y San Jerónimo que en las obras de Epi­
+curo había «hierbas y fruta»98.
+6. Aristón, natural de la isla de Quios, sometida a los persas por Ciro, fue
+el más influyente de los filósofos en la Atenas de mediados del siglo m a. Je. Este
+fue su mensaje moral: «El sabio debe tratar de vivir en la más absoluta indiferencia
+acerca de cuanto no sea la virtud o el vicio»99.
+7. Cleantes (331-232 a Je.), sucedió a Zenón al frente de la escuela. «El
+sabio —aconsejaba— debe conservar siempre el alma perfecta» 10°, o sea, no alte­
+rada por pasiones. Y su discípulo Sfero (265-221 a. Je.), un escita nacido en la cuen­
+ca del Boristenes al sur de los Cárpatos, proclamaba como «ley suprema hacer fren­
+te a los eventos» 101.
+Teles de Megara es un cínico tardío del siglo iii a.Jc., tenido, sin bastante
+fundamento, por un repetidor del cáustico y también cínico Bion de Boristine. La
+receta felictiaria de Teles es «vivir contento con lo presente sin desear lo que no se
+tiene», en suma, «situarse por encima de toda clase de deseos» 1llla.
+91 I dem , o p . c i t ., ed. cit., pág. 96.
+92 I dem , o p . c i t ., ed. cit., pág. 126.
+93 I dem , M á x i m a s 39, ed. cit., pág. 117.
+94 I dem , E x h o r t a c i o n e s , 6 3 , e d . c i t ., p á g . 6 3 .
+95 I dem , o p . c i t . , ed . cit., 6 8 , pág. 130.
+96 I dem , F r a g m e n t o s , 1 1 , ed . cit., pág. 1 4 4 .
+
+97 S éneca, D e v i t a b e a t a , X I I , e d . c i t ., p á g . 3 6 1 .
+98 S an J erónimo , A d v e r s a s J o v i n i a n u m
+
+I I , 2 , c i t a d o p o r E . B igone e n s u p o l é m i c o l i b r o L ’A -
+
+r i s t o t e l e s p e r d u t o e l a f o r m a z i o n e f i l o s ó f i c a d i E p i c u r o , 2 . a e d ., 1 9 7 3 , v o l . I I , p á g . 2 2 0 . F r e n t e a l a t e s i s d e
+B i g o n e , v id . A . J annone, «La p o l é m i q u e d 'E p i c u r e c o n t r e A r is to te » , e n A c t e s d u V I I I C o n g r é s d e l ’A s s o c i a t i o n G u i l l a u m e B u d é , P a r ís , 1 9 6 8 , p á g s . 3 4 5 - 3 4 6 .
+99 A rnim, o p . c i t . , fr. 35 1, vol. I, pág. 79.
+1011 O p . c i t . , fr, 56 8, vol. I , pág. 129.
+101 O p . c i t . , f r . 2 8 5 , v o l. I I I , p á g . 7 0 .
+ion
+
+e c | c l á s i Ca e s la d e O . H e n s e , 1 8 8 9 ; h a y tr a d . fr. d e A . J . F e s t u g i é r e , 1 8 7 8 ; c i t o p o r la e d .
+
+t r ilin g ü e d e P . P . F uentes , L e s d i a t n b e s d e T e le s , e d . V r in , P a r ís , 1 9 9 8 , n . 3 8 , p á g . 3 6 8 , y n . 4 4 , p á g . 3 7 0 .
+
+174
+
+
+
+8.
+Crisipo (277-205 a Je.) escribió más de un centenar de tratados de los
+que no se conserva ninguno, aunque sí 777 fragmentos morales. Es el pensador
+mejor conocido de la Stoa antigua, muy citado en Roma, sobre todo por Cicerón.
+■■Quien es constante es imperturbable; el imperturbable carece de tristeza y es
+feliz»102. El sabio es «indiferente a la vida y a la muerte, a la gloria y a la ignominia,
+al placer y al dolor, a la riqueza y a la pobreza, a la salud y a la enfermedad»103,
+«ha de despreciar todo lo humano excepto la sabiduría», los mundanales son «patro­
+nos durísimos»104. «El hombre se conforma consigo mismo no en cuanto viviente,
+sino en cuanto racional» 105. «Las pasiones son movimientos del ánimo contra la
+naturaleza porque no siguen a la razón» lo6, la primera es «el deseo»107, que es «una
+tendencia irracional»108 «que hay que eliminar en sí misma»109. Procede «dominar el
+propio ánimo»1101y «erradicar» las pasiones in, porque «toda pasión es reprensi­
+ble»112. «El sabio debe ser imperturbable porque no puede caer en las pasiones»11314;
+«el supremo bien es la ataraxia o imperturbabilidad del ánimo, esto es, no temer ni
+desear»u4. Para extirpar las pasiones hay que mantener «una buena tensión del áni­
+mo» 115, «ejercitarlo»116 y «tener la razón como guía.... para dominar impulsos e ins­
+tintos» 11718. «Soporta y no te lamentes»11S. El sabio es «austero»119.
+La ética estoica consiste en vivir según la razón, extirpando las pasiones
+hasta alcanzar la impasibilidad o apatía. El ideal estoico del sabio es el hombre que
+se basta a sí mismo, impávido ante los avatares de la fortuna. La felicidad como
+resistencia y abstención. En el arquetipo humano de la primera Stoa resuena el de
+Lao Tse.
+
+102 O p . c i t . , fr. 5 8 , v o l . I I I, p á g . 1 4 .
+103 O p . c i t . , f r . 7 0 , v o l . I I I , p á g . 1 7 1 .
+104 O p .
+
+c i t . , fr. 6 0 0 , v o l . I I I , p á g . 1 5 6 .
+
+105 O p .
+
+c i t . , fr. 1 8 4 , v o l . I I I , p á g . 4 4 .
+
+106 O p .
+
+c i t . , fr. 3 7 7 , v o l . I I I , p á g . 9 2 , y fr. 3 9 1 .
+
+107 O p .
+
+c i t . , fr. 3 7 8 , l o e . c it.
+
+108 O p . c i t . , fr . 4 6 4 , v o l . I I I, p á g . 1 1 6 .
+109 O p . c i t . , fr. 4 8 8 , v o l . I I I, p á g . 1 3 3 .
+110 O p . c i t . , fr. 5 7 3 , v o l . I I I , p á g . 1 5 2 .
+111 O p . c i t . , fr. 4 4 3 , v o l . I I I , p á g . 1 0 8 .
+112 O p . c i t . , fr. 4 4 6 , v o l . I I I, p á g . 1 0 9 .
+113 O p . c i t . , fr. 4 4 8 , v o l . I I I. p á g . 1 0 9 .
+114 O p . c i t . , fr . 4 4 9 , v o l . I I I. p á g . 1 0 9 .
+115 O p . c i t . , fr. 4 7 3 , v o l . I I I , p á g . 1 2 3 .
+116 O p . c i t . , fr. 4 9 0 , v o l . I I I, p á g . 1 3 3 .
+117 O p . c i t . , fr. 4 7 6 , v o l . I I I, p á g . 1 2 7 .
+118 O p . c i t . , fr. 4 7 8 , v o l . I I I , p á g . 1 2 9 .
+119 O p . c i t . , fr. 6 3 7 , 6 3 8 y 6 3 9 . v o l . I I I , p á g . 1 6 2 . S o b r e l a c o m p a t i b i l i d a d d e l s i s t e m a d e C r i­
+s i p o y s u i d e a d e l s a b i o , v i d J . B . G ould , T h e p h i l o s o p b y o / C h r y s i p u s , L e i d e n , 1 9 7 1 , p á g s . 1 7 2 - 1 7 6 .
+
+175
+
+
+
+R om a
+
+1. Panecio (185-112 a. Je.) fue un estoico heterodoxo, literariamente muy
+superior a los anteriores, que dudaba de la posibilidad de alcanzar la imperturba­
+bilidad. Alumno de Diógenes y nacido en la isla de Rodas, era llamado el babilo­
+nio porque nació en Seleuceia en la cuenca del Tigris, gran urbe influida por la cul­
+tura mesopotámica. El mensaje ascético sigue procediendo de Oriente. Sus
+perdidos escritos fueron ampliamente utilizados por Plutarco y, sobre todo, por
+Cicerón 12°, en quien algunos han visto poco más que un glosador. «La conclusión
+que se impone es que allí donde Cicerón no especifica que expone sus propias
+ideas, podemos ver no una traducción, sino un desarrollo y amplificación de ideas
+de Panecio»120121. La ética de Panecio no está dirigida al sabio, sino al hombre medio
+y es menos maximalista que la de Crisipo, por ejemplo. El contenido del desapa­
+recido tratado de Panecio Sobre lo conveniente se encuentra en los dos primeros
+libros de Los deberes ciceronianos.
+Para van Straaten cuanto sabem os de la ética de Panecio se reco ge en los
+fragmentos 96 a 117, trece de los cuales proceden del gran orador ro m a n o 122. En
+lo esencial, la posición del filósofo responde a la de la escuela. No es, com o han
+pretendido algunos exégetas, un heterodoxo, sino un estoico ortodoxo en moral.
+Panecio, que niega incompatibilidad entre lo honesto y lo ú til123, recom ienda «des­
+precio de las cosas exteriores, no admirar, ni desear, ni buscar nada excep to la
+honestidad y el decoro, sin ced er ni a los hom bres, ni a las pasiones, ni a la fortu­
+na» 124. «Hay que estar libre de toda pasión del ánimo, del deseo, del temor, de la
+pena, del placer, y de la cólera para que la tranquilidad se instale en el alm a»125.
+«En el conjunto de la vida hay que evitar las pasiones, es decir, los movimientos
+desordenados del ánim o que no obed ecen a la razón»126. «La razón está hech a para
+ordenar, y el apetito para obedecer» 127. ¿Exterminio y apatía, o sólo dom inio de las
+
+120 L o s f r a g m e n t o s h a n s i d o e d i t a d o s p r im e r o p o r H . N . F owler , P a n a e t i i f r a g m e n t a , 1 8 8 5 y ,
+l u e g o , p o r M . van Straaten , P a n e t i u s , 1 9 4 6 .
+
+121 B. N. T atakis , P a n e t i u s d e R h o d e s , París, 1931, pág. 50.
+122 V id . M . van S traaten , P a n e t i u s , s a v ie , s e s é c r i t s , e t s a d o c t r i n e a v e c u n e é d i t i o n d e s f r a g m e n t s , A m s t e r d a m , 1 9 4 6 , p á g s ., 3 5 4 - 3 6 6 . H a y u n a e d i c i ó n s e p a r a d a d e l o s f r a g m e n t o s , P a n a e t i i I i b o d i i
+f r a g m e n t a , L e id e n , 1 9 5 2 , i d é n t i c a a la a n t e r i o r , s a l v o e l P r a e f a t i o f e c h a d o e n 1 9 5 1 .
+123 O p . c i t . , fr. 1 0 0 , p á g . 3 5 7 y fr. 1 0 2 , p á g s . 3 5 7 - 3 5 8 .
+124 O p . c i t . , fr. 1 0 6 , p á g . 3 6 0 .
+
+125 C icerón , D e O f f i c i s I, 2 0 , 6 9 , e d . W . M ille r , C a m b r i d g e , 1 9 1 3 , p á g . 7 0 .
+126 I dem , o p . c i t ., I, 3 8 , 1 3 6 , e d . c i t ., p á g . 1 3 8 .
+127 Straaten , o p . c i t . , fr. 107, pág. 363.
+
+176
+
+
+
+pasiones? El especialista más calificado concluye: «Un abandono de la apatía estoi­
+ca por Panecio es inverosímil»128.
+2.
+Posidonio (135-51 a. Je.), un sirio de Apamea, sede de una satrapía
+seléucida, fue discípulo de Panecio en Atenas. Sus numerosos tratados sobre mate­
+rias muy diversas se han perdido, y sólo se conservan sentencias, muchas a través
+del médico Galeno 129. Los debates sobre los fragmentos que le deben ser atribui­
+dos y sobre su interpretación han difuminado el perfil del gran polígrafo griego l3°.
+Según Posidonio, hay en el alma tres elementos: el deseo, la ira y la razón. Y
+el ideal del sabio no es erradicar las pasiones hasta lograr la absoluta imperturbabili­
+dad, sino dominarlas con la razón; no anular el deseo, sino domesticarlo, encauzarlo.
+«Lo que arruina al hombre no viene del exterior sino de su propio áni­
+mo»131. Las pasiones no son errores de juicio, como afirmaba el antiguo estoicismo,
+son «tendencias innatas»132, como lo demuestran los niños133*. «El hombre no es ori­
+ginalmente bueno»m . «Los instintos irracionales deben absoluta obediencia al logos
+y es condenable cualquier insubordinación de las pasiones que privan al hombre
+de su autodeterminación moral» 135. La moral es, en parte «dietética y terapéutica»136,
+«una técnica de domesticación»137, «una disciplina racional»138. La renuncia no es
+total en Posidonio y llega sólo hasta donde prescriba la razón en unas circunstan­
+cias dadas. El sabio «no es el eremita en el desierto»139*; debe ser activo y «cooperar
+a la realización de la verdad y del orden» H0. Es un ascetismo práctico, aunque, en
+el límite, sea «místico»141.
+128 Straaten, o p . c i t . , p á g . 1 8 9 .
+129 L a p r im e r a c o l e c c i ó n d e t e x t o s , m u y d i s c u t i d a , e s la d e J . B ake , P o s i d o n i i R o d i l r e l i q u a e
+d o c t r í n e l e , 1 8 1 0 ; m á s c o m p l e t a s l a s d e L. E delstein y I. G . K id d , P o s i d o n i u s . T h e f r a g m e n t s , 1 9 7 2 , y d e
+W . T heiler, P o s i d o n i u s . D i e F r a g m e n t e , 1 9 8 2 .
+130 U n r e s u m e n d e l d e b a t e e n M . Laefranque, P o s i d o n i u s d ' A p a m é , 1 9 6 4 , p á g s . 1 - 4 4 . E s t a
+a u to r a p r e s e n ta u n a e x é g e s is e m p ir is ta y h e te r o d o x a — p a r c ia lm e n te e n f r e n ta d a c o n C ris ip o —
+
+d e l e s to i­
+
+c o , fin a lm e n te a fin c a d o e n R o d a s.
+131 M . P ohlenz , D i e S t o a . G e s c h i c h t e e i n e r g e i s t i g e n B e w e g u n g , 1 9 4 8 - 1 9 4 9 ; c i t o p o r la t r a d . it.
+r e v is a d a , F l o r e n c i a , 1 9 5 7 , v o l. I, p á g . 4 8 6 .
+
+132 Laefranque, o p . c i t . , p á g . 4 4 0 .
+133 O p . c i t . , p á g s . 4 0 8 y 4 1 3 , a p o y á n d o s e e n u n t e x t o d e G a l e n o .
+133 Laffranque , o p . c i t . , p á g . 5 6 9 .
+135 P ohlenz , o p . c i t . , v o l . I, p á g . 4 8 7 .
+136 Laffranque , o p . c i t . , p á g s . 3 9 2 y 4 8 5 .
+137 O p . c i t . , p á g . 3 9 8 .
+138 O p . c i t . , p á g . 4 7 0 .
+139 O p . c i t . , p á g . 4 8 3 .
+130 P ohlenz , o p . c i t . , p á g . 4 0 0 .
+141 E . B réiiier , H i s t o r i a d e l a f i l o s o f í a , tr a d . e s p . B u e n o s A ir e s , 1 9 4 4 , v o l . I, p á g s . 3 9 2 - 3 9 3 .
+
+177
+
+
+
+Posidonio trata de compaginar el ideal estoico de la impasibilidad con la
+realidad experimentable de que las pasiones son connaturales al hombre y no siem­
+pre negativas, son incluso benéficas si las controla la razón. Esta fórmula mitigada
+de la imperturbabilidad, transformada en autodominio racional, es la que prevale­
+cerá en la moral occidental, aunque no en la pura mística.
+3- Filón de Alejandría (30 a.Jc.-40) fue un judío practicante, apologista de
+su religión y deudor de varias escuelas filosóficas griegas, que cayó en un sirícretismo oscuro y apenas coherente. Se conservan 37 de sus tratados, en su mayoría
+de exégesis bíblica.
+En su vejez, escribió un tratado, La vida contemplativa, donde, quizás apo­
+yándose en un monacato real, el de los «terapéutridas» de quienes no hay otra noti­
+cia, presentó su imagen ideal del sabio judío, «libre de las lamentables enfermeda­
+des que son los placeres, los deseos, las penas, los temores, las concupiscencias y
+la gran multitud de otras pasiones»142, «libres del tumulto de los sentidos y de los
+objetos sensibles, retirados a su propio consejo y a su fuero interior»143. Hacían voto
+perpetuo de pobreza, castidad y obediencia, aislados del mundo, practicando «una
+regla que lleva a la completa felicidad»144. En resumen «el autodominio»145.
+Según Zeller «el influjo del estoicismo en su ética es inequívoco»146, entre
+otras muchas razones, porque afirmó el deber de «desarraigar los apetitos y afectos
+hasta la total apatía»147148. Windelband llegó a escribir que «se muestra totalmente
+estoico en ética ... estoico de estricta observancia, incluso respecto a la impasibili­
+dad» 14s. En suma, para el neoplatónico hebreo, «las pasiones son la raíz de todo
+mal, especialmente los apetitos sensibles, los cuales deben ser encadenados por la
+razón, y la apatía es ensalzada como lo más excelente»149150. El estoicismo moral de
+Filón ha suscitado frágiles argumentaciones sobre la influencia del Pórtico en los
+más tardíos libros veterotestamentarios y en las epístolas paulinas ,5°.
+
+142 F ilón, D e v i t a c o n t e m p l a t i v a 2 ; c i t o p o r la e d i c i ó n b i l i n g ü e d e P . M iq u e l , P a r ís , 1 9 7 3 , p á g . 8 1 .
+143 I dem , o p . c i t . , p á g . 9 7 .
+144 I dem , o p . c i t . , 10, pág. 85.
+145 I dem , o p . c i t . , p á g . 1 0 3 .
+146 Z eller, o p . c i t . , v o l . I I I , 2 , p á g . 4 5 1 .
+147 I dem , o p . c i t . , p á g . 4 5 2 .
+148 W . W indeluand, G e s c h i c h t e d e r A n t i k e n P h i l o s o p b i e , 3 . a e d ., 1 9 1 3 ; c i t o p o r la t r a d . e s p .
+B u e n o s A ir e s , 1 9 5 5 , p á g . 1 8 5 .
+149 P . B artii , D i e S t o a , 4 . a e d . 1 9 2 1 ; c i t o p o r la tr a d . e s p . 1 9 3 0 , p á g . 2 7 1 ; e n l a 6 . a e d . a l e m a ­
+n a r e v is a d a p o r A . G o e d e c k e m e y e r , 1 9 4 6 , s e r e ite r a e l a n á lis is , p á g s . 2 5 9 y s ig s .
+
+150 B arth, o p . c i t . , 1 9 4 6 , p á g s . 2 5 3 y 2 6 6 .
+
+178
+
+
+
+4.
+El primero que, en su biografía de Zenón, intentó una caracterización
+general del estoicismo antiguo fue Diógenes Laercio en su citado libro Vidas y opi­
+niones de ilustres filósofos, escrito al filo del siglo m sobre la base de fuentes, en su
+mayoría, indirectas. Allí presenta como principio fundamental estoico que «el auto­
+dominio es una voluntad a seguir la recta razón y que los placeres no pueden tor­
+cer»151, es el instrumento contra las pasiones, definidas como «movimientos irracio­
+nales del alma»152. Una de las pasiones es «el deseo, tendencia irracional al que se
+subordina la necesidad»153. El «ansia de placer es una enfermedad psíquica»154. «El
+sabio carece de pasiones porque no se deja arrastrar»155, «está por encima de
+todo»156.
+5. Cicerón (106-44 a Je.), un ecléctico de difícil clasificación 157, dedicó
+una parte de su libro Sobre los fines de los bienes y de los males a exponer el con­
+junto de la ética estoica, apoyado en un trabajo perdido, y en fuentes más directas
+que las de sus predecesores. Aunque no lo proclamó, Cicerón debe al estoicismo
+una buena parte de su ideal moral. «El alma del sabio —escribía— no es movida
+por el deseo, ni arrastrada por el placer»158, «es libre porque no es esclavo de sus
+deseos» 159; «si el placer y el deseo no se encuentran en el sabio su alma estará siem­
+pre en calma» 16°; «el remedio es mostrar que las pasiones son en sí mismas vicio­
+sas» 161 y «hay que desarraigarlas totalmente»l62, «hay que suprimir el deseo»l63.
+6. Plutarco de Queronea (46-120), pensador asistemático, escasamente
+original y estudioso del Pórtico, escribió varios tratados polémicos como Contra­
+dicciones de los estoicos, Los estoicos se expresan de modo más paradójico que los
+poetas, o Nociones comunes contra los estoicos, y en su extensa obra164 abundan las
+151 D iógenes L a e r c i o , o p . c i t . , V I I , 9 3 .
+152 O p .
+
+c it ., V II, 1 1 0 .
+
+153 O p .
+
+c it ., V il, 1 1 3 .
+
+153
+
+O p . c it ., V II, 1 1 5 .
+
+155 O p .
+
+c it ., V II, 1 1 7 .
+
+156 O p .
+
+c it ., V II, 1 2 8 .
+
+157 C o l is h e x p o n e l o s d i v e r s o s i n t e n t o s d e i n c l u i r a C i c e r ó n e n u n a e s c u e l a y d e n e g a r l e la
+c o n d i c i ó n d e f i l ó s o f o o r i g in a l . M .L . C olish , T h e s t o i c t r a d i t i o n f r o m A n t i q u i t y t o t b e e a r l y M i d d l e A g e s , 2 .a
+e d ., L e id e n , 1 9 9 0 , p á g s . 6 5 - 7 9 .
+158 C icerón , A c a d é m i c a , I, 44 , 5.
+159 I dem , D e f i n i b u s , I I I , 7 4 .
+160 I d e m , Q u a e s t i o n e s T u s c u l a n o r u m , IV , 4 , 8 .
+161 I dem , o p . c i t . , IV , 2 8 , 6 0 .
+162 I dem , o p . c i t . , IV , 3 8 , 8 3 .
+163 I dem , o p . c i t . , IV, 2 9 , 6 2 .
+163
+
+E n e l C a t á l o g o a t r i b u i d o a s u f a m i l i a r L a m p r i a s , p e r o m u y p o s t e r i o r , p u b l i c a d o p o r B er -
+
+nardakis e n s u e d i c i ó n d e M o r a l i a , T e u b n e r , L e i p z i g , 1 8 8 8 - 1 8 9 6 , v o l . V I I , p á g s . 4 7 3 y s i g s ., s e r e g i s ­
+
+179
+
+
+
+objeciones, reservas y aún sátiras contra la lógica, la metafísica, la cosmología y la
+teodicea estoicas. Se ha discutido si sus ideas morales estuvieron influidas por el
+estoicismo a causa de que Plutarco incurre en flagrantes contradicciones literales y
+da lugar a interpretaciones opuestas. Zeller, al que siguen muchos historiadores,
+escribe: «La concepción de la vida en Plutarco es, en lo esencial, la platónico-aris­
+totélica, a la que levemente se une —como en Antioco y Cicerón— un estoicismo
+suavizado. Y no faltan expresiones suyas que podrían pertenecer igualmente a un
+Epicteto o un Marco Aurelio. Nos recuerda que la felicidad y el contento deben
+venir de dentro, no de fuera, puesto que las cosas externas no se hallan en nues­
+tro poder, pero sí el uso que de ellas hacemos; que los males de la vida en su
+mayor parte dependen sólo de nuestra opinión; que el sabio y virtuoso es, en lo
+fundamental, independiente del exterior, que lleva en sí mismo las condiciones
+esenciales para la felicidad... Además, como los estoicos, admite que el suicidio
+puede ser el último recurso ante la desgracia»165. D. Babut escribió un erudito libro
+para intentar explicar las palmarias contradicciones textuales y demostrar que «las
+ideas morales de Plutarco son inconciliables con los principios de la ética estoi­
+ca» l66. En cualquier caso, la ética estoica aparece asumida en numerosas ocasiones.
+«Todas las pasiones —escribe— son enfermedades del alma»167. «Lo mejor
+es extirpar las pasiones malsanas, destruirlas hasta la raíz»168. «La virtud humana, en
+la medida en que reduce el deseo al mínimo, se aproxima a la perfección divina»l69.
+«No hay más que un modo de ser puro y de alcanzar una moralidad plena, llegar
+a bastarse a sí mismo y no tener ningún otro deseo» 17°.
+Plutarco atribuye a Cleantes esta tesis: «Cuando la razón se emplea en per­
+severar es el autodominio; cuando se aplica a soportar es el coraje; cuando se refie­
+re al mérito es la justicia; cuando conduce a elegir o a evitar es la temperancia»171.
+Babut reconoce: «La tesis en De genio Socratis, que refleja el pensamiento
+del autor, se resume en una franca aprobación del ascetismo, fundada sobre la idea
+de que todos los bienes corporales o exteriores representan un peligro para el alma,
+
+tr a n 2 7 7 tr a ta d o s , m u c h o s p e r d id o s o a p ó c r ifo s . A u n q u e p o s t e r io r , s e le a tr ib u y ó e l in te r e s a n te S o b r e
+la a s c e sis.
+165 E . Z eller, D i e P b i l o s o p b i e d e r C r i e c b e n , v o l . I I I , 2 , L e i p z i g , 1 9 0 3 , p á g s . 2 0 2 - 2 0 3 -
+
+m
+
+B abut , D a n i e l , P l u t a r q u e e t l e s t o i c i s m e , P a r ís , 1 9 6 9 , p á g . 3 6 2 .
+
+167 P lutarco , D e s u p e r s t i t i o n e , 1 6 5 C .
+168 I dem , P r a e c e p t a r e i p u b l i c a e g e r e n d a e , 8 0 0 B.
+169 I dem , C o m p a r a d o A r i s t o p b a n i s e t M e n a n d r i , 4 , 2 .
+170 I dem , C o n v i v i u m s e p t e m s a p i e n t i u m , tr a d . fr. D e f r a d a s , P a r ís , 1 9 5 4 , p á g . 1 5 9 .
+171 O p . c i t . , p á g . 9 3 .
+
+180
+
+
+
+incluso cuando fueron adquiridos sin inm oralidad»172. La presencia de la moral
+estoica en Plutarco es evidente, sobre todo, en escritos com o La contención d e la
+ira o Vida d e Catón el Viejo. A pesar de un antiestoicism o filosófico, a v eces viru­
+lento y casi obsesivo, a pesar de las objeciones con frecuencia m ediocres y descontextualizadas, el postulado de la felicidad com o im perturbabilidad y renuncia
+está muy presente en la obra del fecundo escritor de Q ueronea.
+
+7.
+Nuestro173*Séneca (4 a.Jc.-65) que se proclamaba estoico, aunque no
+siempre ortodoxo, es el más egregio portavoz de la escuela en Roma y, a la pos­
+tre, en Occidente. Su antropología no es narcisista: "ningún animal es más intra­
+table que el hombre, ninguno ha de ser llevado con más arte, ninguno exige
+mayor indulgencia»173 y se ha «corrompido»175, ha perdido la «inocencia primiti­
+va» 176 al término de una «edad de oro» 177\ Además de muy crítica, su antropolo­
+gía es elitista y, por tanto, despectiva hacia el vulgo: «el peor argumento es la ple­
+be» 178179, «el pueblo en modo alguno es un buen guía» m , «el favor del pueblo sólo
+se adquiere con malas artes»180. El arquetipo es el sabio, que no es el impasible,
+sino el que se autodomina: «señor de sí mismo»18', «poderosísimo el dueño de sí
+mismo»182, «todos sus bienes los lleva consigo»183184,«confía en sí mismo»1fMy «el bien
+está en su ánimo»185.
+
+172 B abut , o p . c i t . , p á g . 3 4 6 .
+173 E l p r im e r e d i t o r e s p a ñ o l d e l a s o b r a s d e S é n e c a e n l a t ín f u e F e r n a n d o N ú ñ e z d e G u z m á n ,
+q u e f i r m a b a c o m o F e r n a n d o P i n c i a n o , V e n e c i a , 1 5 3 6 . L a p r im e r a t r a d u c c i ó n e s p a ñ o l a , d e A lfonso de
+
+Cartagena, C i n c o l i b r o s d e S é n e c a , S e v i l l a , 1 4 9 1 , i n c l u y e s ó l o a l g u n o s t r a t a d o s . E s t a m b i é n e l c a s o d e la
+t r a d u c c i ó n d e P . F ernández Navarrete , S i e t e l i b r o s d e S é n e c a , M a d r id , 1 6 2 7 . P edro D íaz de T oledo p u b l i ­
+c ó u n o s P r o v e r b i o s d e S é n e c a , Z a m o r a , 1 4 8 2 , r e ite r a d a m e n t e r e im p r e s o s . U n a p r im e r a tr a d u c c ió n d e
+E p í s t o l a s , Z a r a g o z a , 1 4 9 6 . L o s s i e t e l i b r o s d e b e n e f i c i o s f u e r o n v e r t i d o s p o r G . R u iz M o n t i a n o , B a r c e l o n a ,
+l 6 0 6 . La o b r a c o m p le ta d e S é n e c a n o e n c o n tr ó u n tra d u c to r h a s ta q u e L o re n z o R ib e r a s u m ió , c o n g ra n
+m é r ito , e s a re s p o n s a b ilid a d e n 1 9 4 3 .
+
+173 S éneca, D e c l e m e n t i a , I, 1 7 , c i t o p o r l a e d i c i ó n b i l i n g ü e d e M . N isard e t . a l . , O e u i / r e s
+c o m p l e t e s , P a r ís , 1 8 5 1 , p á g . 3 4 2 .
+
+175 I dem , E p i s t u l a e a d L u c i l i u m X C , ed. cit, pág. 738.
+176 I dem , D e c l e m e n t i a 1 ,2 , e d . c i t ., p á g . 3 4 8 .
+177 I dem , E p i s t u l a e X C , e d . c i t ., p á g . 7 3 9 .
+178 I dem , D e v i t a I I , e d . c i t ., p á g . 3 5 4 .
+179 I dem , E p i s t u l a e X C I X , e d . c i t ., p á g . 7 9 1 .
+180 I dem , o p . c i t . , X X I X , e d . c i t ., p á g . 5 7 9 .
+181 I dem , D e c o n s t a n t i a , X , ed. cit., pág. 272.
+182 I dem , E p i s t u l a e X C , e d . c i t ., p á g . 7 4 4 .
+183 I dem , o p . c i t . , V , e d . c i t ., p á g . 2 6 9 ; t a m b i é n o p . c i t . , I X , e d . c i t ., p á g . 5 3 8 .
+184 I dem , o p . c i t . , X X X I , e d . c i t ., p á g . 5 8 2 .
+185 I dem , o p . c i t . , X L V , e d . c i t ., p á g . 6 0 0 .
+
+181
+
+
+
+¿Cuál es la finalidad del autodominio? Administrar racionalmente las ape­
+tencias. «Hay que situarse por encima de todo deseo»ls6, «se puede decir feliz el que
+no desea»1S7. Esta negación del apetito no puede ejercerse sobre lo necesario, tam­
+poco debe hacerse sobre lo honesto; pero sí sobre todo lo que no depende de
+nosotros mismos, sino del azar o de la «fortuna»1SS. «Hay que alejarse de lo fortui­
+to» 1867189, «derrotar al azar» 19°, «resistir y soportar al azar»191192,«reducirse a un espacio tan
+estrecho que los golpes de la fortuna caigan en el vacío»m . En suma, «no hay que
+someterse a nada»193, mantenerse «por encima de todas las cosas»194195y «por encima
+de todo accidente» m . Hay que vencer a las circunstancias y, además «a la natura­
+leza humana» 196.
+La vía del deseo no conoce límites: por sí mismo «nunca se atempera»197,
+«la avidez tiende al infinito»198, «ninguna concupiscencia se detiene en límites»199, «se
+tiene mucho y se desea más» 20°, y de ahí resulta que «la concupiscencia conduce al
+dolor»201 y torna insatisfecho porque «es pobre el que desea más» 202.
+«Todos los hombres quieren vivir felices» 203. Ese objetivo requiere «com­
+batir sin pausa» 204 para «desprenderse de todo lo exterior y encontrar en sí mismo
+la dicha» 205. «El gozo duradero está dentro de uno mismo» 206, no en lo que depen­
+de del azar que «no tiene otro valor que el que nosotros le damos» 207. En síntesis,
+
+186 I dem , D e v i t a b e a t a V , e d . c i t ., p á g . 3 5 6 .
+187 I dem , o p . c i t . , l o e . c i t ., e d . c i t ., p á g . 3 5 6 .
+188 I dem , E p i s t u l a e , X V , e d . c i t ., p á g . 5 5 1 .
+189 I dem , D e t r a n q u i l i t a t e a n i m i , VIII, ed. cit., pág. 3 1 7 .
+190 I dem , E p i s t u l a e , L X X V I I I , ed. cit., pág. 688.
+191 I dem , o p . c i t . , X V I , e d . c i t ., p á g . 5 5 2 .
+
+192 I dem , D e t r a n q u i l i t a t e I X , e d . c i t ., p á g . 3 1 8 .
+193 I dem , E p i s t u l a e , C X X I V , e d . c i t ., p á g . 8 5 7 .
+194 I dem , o p . c i t . , X X I I I , e d . c i t . , p á g . 5 6 6 .
+195 I dem , o p . c i t . , e d . c i t ., p á g . 6 4 2 .
+196 I dem , D e b r e v i t a t e v i t a e XIV, ed. cit., pág. 2 9 3 197 I dem , D e c l e m e n t i a 1 ,2 , e d . c i t ., p á g . 3 3 0 .
+198 I dem , E p i s t u l a e , L X X V I , e d . c i t . , p á g . 6 8 0 .
+199 I dem , o p . c i t ., X C V , e d . c i t ., p á g . 7 7 5 .
+200 I dem , o p . c i t . , C X V I I I , p á g . 8 5 0 .
+201 I dem , o p . c i t . , C X X I , e d . c i t ., p á g . 8 5 6 .
+202 I dem , o p . c i t . , I I , e d . c i t ., p á g . 5 2 7 .
+203 I dem , D e v i t a b e a t a , 1 , e d . c i t ., p á g . 3 5 3 .
+204 I dem , E p i s t u l a e X X X V I I , e d . c i t ., p á g . 5 8 9 .
+205 I dem , D e c o n s t a n t i a 1 9 , e d . c i t ., p á g . 2 7 9 .
+206 I dem , E p i s t u l a e , L X V II , e d . c i t ., p á g . 6 6 5 .
+207 I dem , o p . c i t ., L X X X I , e d . c i t ., p á g . 8 6 9 .
+
+182
+
+
+
+devaluemos lo que no depende de nosotros hasta «menospreciarlo» 208 y conside­
+rarlo «no deseable» 209.
+En Séneca la renuncia al mundo no es total, y se reduce a las cosas exte­
+riores y azarosas cuyo control escapa a la voluntad del sabio y que, como la rique­
+za, los honores o el poder, suelen apetecer los que no han alcanzado la sabiduría.
+La vía senequista de la felicidad no es volcarse, voraz, sobre el mundo, sino, aus­
+tero, ensimismarse.
+Contra el tópico ensayístico, la recepción de Séneca en España fue menos
+rigurosa y menos profunda que en otros países de Europa 21°.
+8.
+Epicteto (55-113), un esclavo asiático, luego liberto y establecido en Gre­
+cia, no escribió nada. Parte de sus enseñanzas, con frecuencia en forma de diálogos,
+se han conservado gracias a la recopilación, desordenada y reiterativa, que hizo su
+discípulo Arriano211. Epicteto, que elogia a los cínicos, se vincula con el estoicismo
+antiguo. Toda su doctrina arranca de la distinción entre nuestro yo racional y sobera­
+no que depende de nosotros mismos y, por otro lado, las cosas exteriores, como la
+riqueza o el poder, que no dependen de nuestra voluntad, sino del azar o del próji­
+mo. «Es libre el hombre que no desea nada que le sea ajeno, es decir, que no depen­
+da de él ni tenerlo ni no tenerlo»212. De ahí la receta: «No desees nada que dependa
+de otro»213214.Incluso hay que ir más lejos: «despreciar todo lo que no depende de uno
+mismo»2M. El precepto llega a radicalizarse: «prescinde del deseo»215, «no se logra la
+libertad por la satisfacción de los deseos, sino por su destrucción»216. En resumen, «se
+debe extirpar totalmente el deseo y orientar las aversiones hacia lo que depende de
+uno mismo hasta ser indiferente al cuerpo, la fortuna, la fama, los cargos...»217218; «sólo
+hay una vía para la felicidad, renunciar a lo que no depende de nosotros»21S.
+208 I dem , o p . c i t . , E X II, e d . c i t ., p á g . 6 3 3 -
+
+209 I dem , o p . c i t . , C X X X I V , e d . c i t ., p á g . 8 6 9 .
+210 K . A . B lüher, S e n e c a i n S p a n i e n , 1 9 6 9 , p á g s . 8 1 y 3 0 9 .
+211 D e l o s q u i z á s d o c e l i b r o s c o n f e c c i o n a d o s p o r A r r i a n o , s ó l o c u a t r o h a n l l e g a d o h a s t a n o s o ­
+t r o s . E l r e s u m i d o M a n u a l d e E p i c t e t o s e i m p r i m i ó e n S a l a m a n c a e n 1 5 5 5 ; la p r i m e r a t r a d u c c i ó n a l e s p a ­
+ñ o l f u e la d e F . S á n c h e z d e la s R o z a s , S a l a m a n c a , 1 6 0 0 , v a r i a s v e c e s r e e d i t a d a ; l a t e r c e r a la d e Q u e v e d o , M a d r id , 1 6 3 5 ; e t c .
+
+212 E picteto , E n t r e t i e n s , IV , 1 , 1 2 9 ; c i t o p o r l a e d . b i l i n g ü e d e J . S o u i l h é , P a r ís , 1 9 6 3 , v o l . IV ,
+pág. 24.
+213 I dem , o p . c i t . , IV , 10, 6, ed. cit., vol. IV , pág. 77.
+214 I dem , o p . c i t . , I I I , 2 4 , 1 0 , e d . c i t ., v o l. I I I , p á g . 9 5 .
+215 I dem , o p . c i t . , I I I, 9 , 2 2 e d . c i t ., v o l . I I I , p á g . 3 7 .
+216 I dem , o p . c i t . , IV, 1, 175, ed . cit., vol. IV, pág. 32.
+217 I dem , o p . c i t . , IV , 4 , 3 3 , e d . c i t ., v o l . IV , p á g . 4 2 .
+218 I dem , o p . c i t . , IV , 4 , 3 9 , e d . c i t ., v o l . IV , p á g . 4 3 .
+
+183
+
+
+
+¿Qué hacer? «Si quieres algo bueno, extraelo de ti mismo»219, «consagra tus
+fuerzas al cuidado de tu interior» 22°, «la materia sobre la que debo trabajar es mi
+pensamiento» 221, «no os perdáis en el exterior» 222, «lo único que se te ha donado
+es el poder de convencerte a tí mismo» 223, «el sabio es el hombre que se posee a sí
+mismo»224.
+Este control del deseo es «un ejercicio intenso y continuo» 225, «un largo
+combate» 226, al final del cual se alcanza «la serenidad y la impasibilidad» 227, «exenta
+de turbación» 228, « la conformidad del espíritu con la naturaleza, la ataraxia» 229, «la
+ausencia de tristeza, de temor y de turbación, en una palabra, la libertad» 23°, «la feli­
+cidad y la imperturbabilidad»231. En resumen, «hay que trabajar la facultad que usa
+las representaciones mentales para adquirir la impasibilidad» 232 y «cada mañana al
+despertarse, preguntarse ¿qué me falta por hacer respecto a la impasibilidad y la
+ataraxia?» 233.
+El vocablo clave de Epicteto es «libertad» como liberación de deseos y
+pasiones, y como estrategia de la felicidad. La renuncia es un bien en sí mismo para
+la dicha en este mundo.
+9- El emperador Marco Aurelio (121-180), de familia hispana, legó un
+libro caótico y a veces oscuro, más religioso que filosófico, escrito bajo su tienda
+de campaña en la frontera del Danubio. Su visión de la existencia es muy negati­
+va-. «las cosas humanas son efímeras y sin valor»233, «todo es mezquino, inestable y
+en trance de desvanecerse» 235, «todo es trivial y pasajero» 236, «las cosas humanas son
+219 I d e m ,
+op­
+220 I d e m ,
+op221 I d e m ,
+op222 I d e m ,
+op.
+223 I d e m , o p .
+
+c it ., I, 2 9 , e d . c i t ., v o l. I p á g . 1 0 5 .
+c i t ., III, 1 5 , 1 3 , e d . c i t ., v o l. I I I, p á g . 5 4 .
+c i t ., I I I , 2 2 . 2 0 , e d . c i t ., v o l . I I I , p á g . 7 2 .
+c it ., III, 2 2 , 3 8 , e d . c i t ., v o l. I I I , p á g . 7 5 .
+
+c i t ., IV , 6 ,6 , e d . c i t ., v o l. IV , p á g . 5 3 224 I d e m ,
+o p . c i t ., I I , :2 1 , 9 , e d . c i t ., v o l. II, p á g . 9 3 .
+2 2 5 I d e m , o p . c i t ., I I I, 1 2 , 8 , e d . c i t ., v o l . I I I, p á g . 4 4 .
+2 2 6 I d e m , o p . c i t ., III,
+2 4 , 3 4 , e d . c i t ., v o l. I I I, p á g . 9 9 .
+2 2 7 I d e m , o p . c i t ., I, 4 , 1 , e d . c i t ., v o l . I, p á g . 1 7 , t a m b i é n v o l . I, p á g . 2 0 .
+228 I d e m ,
+o p . c i t ., II, 1 7 , 3 1 , e d . c i t ., v o l . I I , p á g . 7 3 .
+2 2 9 I d e m , o p . c it .,
+III, 9 , 1 8 , e d . c i t ., v o l. I I I, p á g . 3 6 .
+2 3 0 I d e m , o p . c i t .,
+IV , 3 , 7 , e d . c i t ., v o l. IV , p á g . 3 5 .
+231 I d e m , O p . c i t .
+8 , 3 0 , e d . c i t ., v o l. IV , p á g . 7 1 .
+
+, iv,
+
+2 3 2 I d e m , o p . c i t .,
+IV , 1 0 , 1 3 , e d . c i t ., v o l. IV , p á g . 7 8 .
+2 3 3 I d e m , o p . c i t .,
+IV , 6 , 3 4 , e d . c i t ., v o l . IV , p á g . 5 8 .
+234
+M a r c o A u r e l io , P e n s é e s IV , 4 9 , e d . b i l i n g ü e A . I. T r a n n o y , P a r ís , 1 9 5 3
+2 3 5 I d e m , o p . c i t ., V I, 3 6 , e d . c i t . , p á g . 6 2 .
+2 3 6 I d e m , o p . c i t ., V II , 1 , e d . c i t ., p á g . 6 8 .
+
+184
+
+
+
+humo y nada» 237, «la existencia es una guerra, un exilio»23S. La nota positiva es que
+tanta pequeñez y miseria se inserta en una «armonía» cósmica 239 Adaptarse a tal
+armonía es «vivir según la naturaleza» 24°, expresión del Pórtico que no cesa de repe­
+tir.
+¿Cómo se vive según la naturaleza? «No presentar ni siquiera la apariencia
+de sentir una pasión»241, «no turbarse» 242, «poseer un alma equilibrada» 243 hasta
+lograr la «impasibilidad frente a cualquier acontecimiento exterior» 244, la «indiferen­
+cia ante las cosas indiferentes» 245. «Cuanto más impasible, más fuerte» 246.
+¿Cómo se logra la imperturbabilidad del ánimo? Hay que «moderar los de­
+seos» 247, «no dejarse vencer por los sentidos o los instintos» 248, «no tener deseo» 249,
+«no desear nada» 250, «anular los apetitos»251. Y ¿esa operación por qué es posible? «Por­
+que toda turbación viene de una opinión interior» 252 y porque se es «dueño de una
+facultad interior» 253 que permite «el dominio de sí mismo» 254. «Esa potencia interior
+carece de deseo a menos de crearlo» 255. En suma, la clave es «recluirse en sí mis­
+mo» 25S, «recogerse dentro de uno mismo porque la razón se basta a sí misma» 257.
+Murió de peste al frente de sus legiones en lo que sería Viena, después de
+mostrar a sus oficiales su imperturbabilidad, la felicidad de resignarse ante la natu­
+raleza y no desear.
+237 I d e m ,
+238 I d e m ,
+239 I d e m ,
+240 I d e m ,
+
+241
+
+Id em ,
+
+242 I d e m ,
+243 I d e m ,
+244 I d e m ,
+245 I d e m ,
+246 I d e m ,
+247 I d e m ,
+248 I d e m ,
+249 I d e m ,
+250 I d e m ,
+2 51
+
+Id e m ,
+
+252 I d e m ,
+253 I d e m ,
+2 54 I d e m ,
+255 I d e m ,
+256
+Id em ,
+257 I d e m ,
+
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+op.
+
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+
+X , 1 1 , e d . c i t ., p á g . 1 1 8 .
+I I , 1 7 , e d . c i t ., p á g . 1 6 .
+V , 8 , e d . c i t ., p á g . 4 4 .
+I , 9 , e d . c i t ., p á g . 3I, 9 , e d . c i t ., p á g . 3 .
+IV , 2 6 , e d . c i t ., p á g . 3 3 .
+I, 1 6 , e d . c i t ., p á g . 7 .
+IX , 3 1 , e d . c i t ., p á g . 1 0 4 .
+X I , 1 6 , e d . c i t ., p á g . 1 2 8 .
+X I , 1 9 , e d . c i t ., p á g . 1 3 0 .
+V , 5 , e d . c i t ., p á g . 4 2 .
+V II , 5 6 , e d . c i t ., p á g . 7 8 .
+V III, 2 9 , e d , c it, p á g . 8 8 .
+I X , 4 0 , e d . c i t ., p á g . 1 0 6 .
+I X , 9 9 , e d . c i t ., p á g . 9 9 .
+IV , 1 0 , e d . c i t ., p á g . 2 8 .
+I X , 7 , e d . c i t ., p á g .9 9 .
+I, 1 5 , e d . c i t ., p á g . 4 .
+V II , 1 6 , e d . c i t ., p á g . 7 1 .
+IV , 3 , e d . c i t ., p á g . 2 7 .
+V I I , 2 8 , e d . c i t ., p á g . 7 3 .
+
+185
+
+
+
+10. Galeno de Pérgamo (1 2 9 -1 9 9 ), el máximo médico romano y autor de
+una extensa obra que compila el saber terapéutico de la antigüedad (en la edición
+de Kühn, las Opera omnia, 1 8 3 1 -1 8 3 3 , ocupan veinte volúmenes), escribió un
+ecléctico tratado filosófico Diagnóstico y tratamiento de las enfermedades del alma,
+donde a pesar de su teoría materialista del psiquismo y de sus observaciones con­
+tra los estoicos, adopta una moral de renuncia no muy alejada de la del emperador
+Marco Aurelio que lo reclamó como médico para su campaña germana.
+
+El ideal es el -control de sí mismo» 258 y la autosuficiencia» 259. Para ello hay
+que «extirpar las pasiones» 260 que son la parte irracional del alma y, sobre todo, el
+deseo. «El insaciable es siempre un pobre puesto que sus anhelos son ilimitados»261.
+«La insaciabilidad es la pasión más vil del alma» 262 porque convierte a la persona
+en «esclava» 2632
+. Esa disciplina del ánimo requiere esfuerzo y tiempo 2M. En suma,
+4
+6
+«nuestra única posibilidad de ponernos al abrigo de la desgracia es evitar la insa­
+ciabilidad y bastarse a sí mismo» 265.
+Deudor de Platón y de Aristóteles, y opuesto a la doctrina estoica de las
+pasiones como error, también el pragmático Galeno insiste en la tradición de evi­
+tar el dolor y aproximarse a la felicidad mediante la limitación de los apetitos.
+Plotino (2 0 4 -2 6 9 ), nacido en Egipto y viajero hasta Mesopotamia para
+conocer la filosofía persa y la hindú, elaboró un sistema, lastrado de contradiccio­
+nes radicales, que era una teología tendente a convertirse en religión. El fin del
+hombre —«la materia del cuerpo es algo nuestro» 266— es alcanzar la felicidad
+mediante la unión mística con Dios. El discípulo, recopilador y biógrafo del filóso­
+fo cuenta que el maestro alcanzó cuatro veces el éxtasis 267268.El primer paso para lle­
+gar a esa unión divinal es la catarsis o purificación: «alejarse de la ciencia y de sus
+objetos, abandonar cualquier contemplación incluso la de lo bello»26s, «ausente de
+11.
+
+258 G aleno , D i a g n ó s t i c o y t r a t a m i e n t o d e l a s e n f e r m e d a d e s d e l a l m a , c i t o p o r la t r a d . fr. d e
+V . B a r r a s L ' á m e e t s e s p a s s i o n s , P a r ís , 1 9 9 5 , p á g . 2 5 .
+
+I dem , o p . c i t . , p á g . 3 7 y 3 8 .
+I dem , o p . c i t . , p á g . 2 7 .
+I dem , o p . c i t . , p á g . 3 7 .
+I dem , o p . c i t . , p á g . 3 8 .
+263 I dem , o p . c i t . , p á g . 3 9
+264 I dem , o p . c i t . , p á g . 4 1
+265 I dem , o p . c i t . , pág. 38.
+266 P lotino , E n n é a d e s I I , 4 , c i t o p o r l a e d . b i l i n g ü e d e E . B r é h i e r , P a r ís , 1 9 6 0 , v o l . I I , p á g . 5 9 .
+267 P orfirio , V i d a d e P l o t i n o , 2 3 ; v o l . I, p á g . 2 7 .
+268 P lotino , E n n é a d e s , v o l. V I, 1 , p á g . 1 7 6 .
+
+186
+
+
+
+todo» 269, «aislarse y apartarse de todo» 27°, «retirarse del mundo exterior y volverse
+hacia el interior» 271, «recogerse en uno mismo» 272, «permanecer completamente
+inmóvil» 273. «La purificación consiste en aislar el alma y en no dejarla que se una a
+otras cosas..., la razón ha de suprimir las pasiones para recobrar la impasibilidad»274,
+«aislarse de los deseos, liberarse de las pasiones» 275, «purificación de deseos irra­
+cionales, sentimientos violentos y otras pasiones» 276.
+El protagonista del ascenso hacia la feliz unión con Dios es el sabio, «el
+hombre que sólo necesita de sí mismo para ser dichoso» 277, «el que extirpa toda
+debilidad y no se deja impresionar por los acontecimientos»27S, «aquel a quien la
+virtud hace inquebrantable e impasible, incluso ante los sucesos indeseados» 279, y
+está «siempre sereno» 280.
+Desde planteamientos místicos, seguramente de inspiración oriental281,
+muy alejados del clasicismo griego, el egipcio helenizado llega a la universal con­
+clusión práctica: a la felicidad por la ascesis.
+12. En el cristianismo, la renuncia al mundo es llevada al límite por el
+egipcio Antonio (251-356) fundador del anacoretismo, y el también egipcio Pacomio (286-346) fundador del cenobitismo. Se les atribuye breves epistolarios. Quizás
+el más famoso solitario fuese Simón el estilita, muerto el año 459- Estos modelos
+tienen precedentes evangélicos como Juan Bautista, y veterotestamentarios como
+Elias, o ciertos esenios, que según Hipólito de Roma influyeron en los estoicos
+(.Elenchos IX-27); pero no son creaciones judeocristianas, sino orientales. El mona­
+quisino hindú y el budista tienen una densa tradición milenaria, y no son estrateg ia s p a r a h a c e r m é r ito s p r e m ia d o s e n e l m á s a llá , s in o , f r e c u e n te m e n te , f in e s e n sí
+
+269 I d
+270 I d
+271 I d
+
+em
+
+, o p . c i t ., v o l. V I , p á g . 1 7 7 .
+
+e m
+
+, o p . c i t . , l o e . c i t ..
+
+e m
+
+, o p . c i t . , v o l . V I, p á g . 1 8 1 .
+
+2 7 2 I d e m , o p . c i t . , v o l . I, p á g . 1 0 0 .
+
+273 I d
+274 I d
+275 I d
+276 I d
+277 I d
+
+em
+
+, o p . c it ., v o l. V I, p á g . 1 8 7 .
+
+em
+
+, o p . c i t ., v o l . I I I , p á g . 1 0 1 .
+
+em
+
+, o p . c i t ., v o l. I , p á g . 1 0 1 .
+
+em
+
+, o p . c i t ., v o l . IV , p á g . 2 0 6 .
+
+em
+
+, o p . c it ., v o l. I, p á g . 7 4 .
+
+278 I d
+279 I d
+
+e m
+
+, o p . c it ., v o l. I, p á g . 7 9 .
+
+e m
+
+, o p . c i t . , v o l . I, p á g . 7 9 .
+
+280 I d
+
+em
+
+, o p . c i t . , v o l . I, p á g . 8 2 .
+
+281 E s lo q u e B
+
+r é h ie r
+
+d e n o m i n a « o r ie n t a lis m o - , e n P l o t i n , P a r ís , 1 9 2 3 ; c i t o p o r la 4 . a e d . 1 9 9 9 ,
+
+p á g s . 1 0 6 y s ig s .
+
+187
+
+
+
+mismos, la ascesis como vía para la tranquilidad del ánimo en este mundo 282. Y en
+Grecia aparecen los iniciados órficos y los pitagóricos.
+
+P a trís tic a
+
+1. Uno de los primeros apologistas griegos fue Taciano, que declaró
+haber nacido en Asiría (probablemente más allá del Eufrates) y «haber profesado la
+filosofía bárbara» 283. Se convirtió al cristianismo hacia el año 172 y escribió un
+lamentable Discurso contra los griegos donde, entre improperios, ni siquiera per­
+donaba a Aristóteles o a Zenón 284. Afortunadamente, tal invectiva sería desoída por
+los Padres de la Iglesia y, a la cabeza de ellos, Clemente de Alejandría.
+2. Un contemporáneo como Justino, muerto el 165, se nutrió de estoi­
+cismo. Se pregunta Justino por la situación de los nacidos antes de Cristo y res­
+ponde: «los que han vivido conforme a la razón son cristianos y viven sin miedo,
+imperturbables» 285; eran, pues, cuasi cristianos sin saberlo. Así se salvaba una par­
+te del pensamiento griego y, expresamente, la ética estoica.
+3. El cartaginés Tertuliano (155-221), convertido y ordenado sacerdote en
+Roma, fue un buen conocedor del estoicismo como lo demuestra la exposición que
+hace de la teoría del alma en Zenón, Cleantes y Crisipo 286287. El apologista cristiano
+Minucio Félix, fallecido hacia el 250, en su bello diálogo Octavio, sistematiza las
+opiniones de los estoicos sobre la naturaleza de Dios2S7.
+4. La Escuela de Alejandría fue creada por Atenágoras de Atenas; pero su
+primer docente fue Pantaneo, un filósofo estoico convertido al cristianismo y falle­
+cido hacia el año 200288, que sería maestro del ateniense Clemente de Alejandría,
+
+282 S o b r e
+
+la
+
+d is p u ta d a
+
+c u e s tió n
+
+de
+
+lo s
+
+a n te c e d e n te s
+
+del
+
+m o n a q u is in o
+
+c r is tia n o ,
+
+e s c r ib e
+
+C o l o m b á s , «S an P a c o m i o , e l g r a n p a d r e d e l c e n o b i t i s m o , e s t a b a c o m p l e t a m e n t e l l e n o d e la s a b i d u r í a d e l
+a n t i g u o E g i p t o . E s p o s i b l e q u e e l m o n a c a t o d e la I n d ia a p o r t a r a a l g u n o s e l e m e n t o s a la f o r m a c i ó n d e l
+m o n a c a t o c r i s t i a n o e n S iria * (C olombás , M . G arcía, E l m o n a c a t o p r i m i t i v o , 2 . a e d ., M a d r id , 1 9 9 8 , p á g . 2 1 ) .
+V id . S . S chiwietz , D a s m o r g e n l á n d i s c h e M ó n c b t u m , 1 9 1 3 , e s p e c i a l m e n t e v o l . I, 4 4 , t a m b i é n K . S . F rank,
+A s k e s e u n d M ó n s c h t u m i n d e r a l t e n K i r c h e , 1 9 7 5 . P a r a l o s e s e n i o s , F. G arcía y J . T rebolle , L o s h o m b r e s
+d e Q u m rá n , 1993.
+
+283 T aciano, D i s c u r s o c o n t r a l o s g r i e g o s , 4 2 . a e d ., D . R u iz B u e n o , M a d r id , 1 9 5 4 , p á g . 6 2 8 .
+284 I dem , o p . c i t . , 2 y 3 , e d . c i t ., p á g s . 5 7 4 y s ig s .
+285 J ustino , A p o l o g í a I , 4 6 , 3 y 4 , e d . D . R u iz B u e n o , M a d r id , 1 9 5 4 , p á g . 2 3 3 .
+
+286 T ertuliano, D e a n i m a , c i t a d o p o r S p a n n e u t , o p . c i t , p á g s . 3 5 - 3 6 .
+287 F élix M inucio , O c t a v i a s , X IX , 1 0 - 1 3 ; t r a d u c c i ó n e s p a ñ o l a d e S . d e D o m i n g o , M a d r id , 1 9 4 6 .
+288 C harles B ig , T h e c h r i s t i a n p l a t o n i s t s o f A l e x a n d r i a , O x f o r d , 1 9 1 3 , p á g . 7 2 .
+
+188
+
+
+
+también converso y muerto hacia el año 214. Clemente y Orígenes (185-253), hijo
+de conversos, serían »los fundadores de la filosofía cristiana» 289. Clemente es una
+figura clave para determinar la influencia del estoicismo en el cristianismo 29°, que
+fue decisiva.
+Clemente cita 115 veces a los estoicos291, y von Arnim recoge treinta de
+sus fragmentos 292. La fuente pagana principal de Clemente son los estoicos griegos.
+Clemente «ha leído en los libros de Antipater la autarquía de la virtud, y otros dog­
+mas estoicos, y ha encontrado en Cleantes, citado largamente, la moral del despre­
+cio a la opinión» 293. Pero lo fundamental es la determinación del soberano bien,
+que es la naturaleza, o sea, Dios. Este es el texto clementino: «Zenón entiende que
+el fin es vivir según la virtud; Cleantes vivir conforme a la naturaleza; Diógenes ser
+razonable, lo que se reduce a la naturaleza; ... Panecio vivir según las tendencias
+que nos ha dado la naturaleza; Posidonio contemplar la verdad y el orden del Uni­
+verso» 294.
+El libro II de Stromata es básicamente un tratado estoico, como lo revelan
+los títulos propuestos por un editor 295 para ciertos capítulos: «Todo conviene al fiel
+semejante al sabio estoico», o «Contra el placer».
+Clemente recomienda «realizar la apatía, producida por la amputación de
+todo deseo» 296. Afirma que «las pasiones son un movimiento contra la naturaleza e
+insumiso a la razón» 297, y enumera las cuatro virtudes clásicas de los estoicos,
+expresadas con los mismos términos helénicos. Sobre el menosprecio del mundo,
+prescrito por los estoicos, es menos tajante que otros apologistas cristianos como
+Justino, Atenágoras o Taciano: «Hay que usar con prudencia de los bienes que dan
+lugar a las pasiones, como la riqueza» 298; es una renunciación atenuada.
+289 W erner J aeger , C r i s t i a n i s m o p r i m i t i v o , tr a d . e s p . , M é x i c o , 1 9 6 5 , p á g . 7 1 .
+290 E l a s p e c t o m o r a l h a s i d o e s t u d i a d o p o r J . S telzenberger , D i e B e z i e h u n g e n d e r f r ü b c b r i s t l i c b e n S i t t e n l e h r e z u r E t h i k d e r S t o a , M u n i c h 1 9 3 3 ; l o s o t r o s a s p e c t o s h a n s i d o t r a t a d o s p o r M . S panneut,
+L e s t o i c i s m e d e s P e r e s d e l ’E g l i s e , P a r ís , 1 9 3 7 ; v id . la a b u n d a n t e b i b l i o g r a f í a e n e s t e ú l t i m o , p á g s . 4 5 y
+s ig s .
+
+291 O . Staelin, D i e S t r o m a t a , M u n i c h , 1 9 3 6 - 1 9 3 8 , v o l . I, p á g . 1 7 .
+292 V on A rnim, o p . c i t . , v o l . II.
+293 S panneut, o p . c i t . , pág. 99.
+293 C lemente de A lejandría, S t r o m a t a , II, 1 2 9 , 1 - 7 .
+295 A . M enat, E t u d e s s u r l e s S t r o m a t e s , P a r ís , 1 9 6 6 , p á g s . 2 7 6 - 2 7 9 .
+296 I d e m , S t r o m a t a V I, 7 4 . 1.
+297 I dem , o p . c i t 11, 6 1 , 2.
+
+298 I dem , o p . c i t . , I I , 1 0 9 , 4 .
+
+189
+
+
+
+-Para permanecer sin pasiones ni deseos hay que adherirse a nuestros dog­
+mas» había afirmado Justino, el palestino converso fallecido en 165 2"; pero Cle­
+mente no es tan rotundo defensor de la apatía y trata de compatibilizarla con la
+caridad. Eleva la cuestión a un nivel teológico: la apatía es una virtud divina y, por
+tanto, deseable 29300. Para Clemente hay que vivir según la naturaleza, según el logos,
+y según Dios, tres expresiones para él equivalentes301.
+En el Pedagogo, Clemente copia, sin citarlo, al estoico romano Musonio Rufo
+(30-101), maestro de Epicteto 302. En los títulos de tratados estoicos a que se refiere
+Clemente no hay ningún error 3°3. La doctrina es rotundamente estoica. «El logos cura
+nuestras pasiones» 304. «Las pasiones son enfermedades del alma» 305. «Las pasiones
+deben ser eliminadas sajándolas»3o6. «Somos enfermos aquejados de nuestros vergon­
+zosos deseos, de nuestras condenables intemperancias y de todos los demás desór­
+denes de nuestras pasiones»307. «El logos conduce a la moderación»308. «Admiro a quie­
+nes han optado por una vida austera» 309. «La moderación es un hábito que no gusta
+de lo superfluo, admite sólo lo que basta para llevar una vida conforme a la razón» 31°.
+Como reconoce Pohlenz, «el primer libro de El pedagogo concluye con una
+síntesis que explícitamente se remite a las definiciones estoicas, y pone en la base
+del propio discurso ideas y términos estoicos»311. Efectivamente, prescribe la «autar­
+quía» 312, repite la clasificación estoica de las pasiones313, y se remite a los estoicos
+sobre lo «conveniente o debido»314. «La moderación admite sólo lo que basta para
+llevar una vida conforme a la razón»315. Sólo en Elpedagogo, Clemente cita 20 veces
+a Crisipo, 12 a Epicteto, 1 a Marco Aurelio, 39 a Musonio, y 1 a Zenón.
+299 II A p o l o g í a , 5 7 , 2 ; tr a d . e s p . d e H . T a b e n , M a d r id , 1 9 4 3 .
+300 I dem , S t r o m a t a . 6, 71 y sigs.
+301 I dem , o p . c i t IV , 1 6 3 , 3 .
+302 S panneut
+
+exp on e
+
+lo s
+
+c o n v in c e n te s
+
+p a r a le lis m o s
+
+lite r a le s
+
+p á g s. 1 9 7 -1 1 2 .
+303 S panneut, o p . c i t . , pág. 117.
+
+304 C lemente de A lejandría, E l p e d a g o g o , 1 .1 ,2 ; t a m b i é n I, 5 1 ,1 .
+305 I dem , o p . c i t . , I. 3 ,3 .
+306 I dem , o p . c i t . , I, 6 4 , 4 .
+34,7 I dem , o p . c i t . , I, 8 3 , 2 .
+308 I dem , o p . c i t . , I, 99, 2.
+309 I dem , o p . c i t . , II 20, 2.
+310 I dem , o p . c i t . , I I I , 5 5 , 4 .
+311 M . P ohlenz, o p . c i t . , v o l I I , p á g . 3 0 5 .
+312 E l p e d a g o g o , tr a d . e s p . , M a d r id , 1 9 9 4 , v o l. I, p á g . 2 6 6 .
+3,3 O p . c i t . , pág. 272.
+314 O p . c i t . , p á g . 2 7 4 .
+315 O p . c i t . , p á g . 5 9 5 .
+
+190
+
+a
+
+dos
+
+c o lu m n a s ,
+
+op.
+
+c it .,
+
+
+
+5. L. A. Cornuto, un bizantino del siglo n, escribió un resumen de Teolo­
+gía griega según el Pórtico. Queremón era un egipcio que encontraba precedentes
+del estoicismo en las tradiciones sacerdotales de su patria. Ambos fueron leídos por
+Orígenes (185-253)3l6, que haría del vocablo estoico »ascesis» una noción esencial.
+En el diálogo Teofrasto del bizantino Eneas de Gaza, del siglo vi, hay un
+intento de conciliar la ética cristiana con la estoica317.
+6. Ambrosio de Milán (339-397) escribe De Officiis ministrorum, que es
+una cristianización de la obra de Cicerón, y el estoizante tratado De Iacob et vita
+beata, influido por un opúsculo de Filón. El ejemplar Jacob es invulnerable a las
+vicisitudes de la vida y mantiene la apatía en toda circunstancia. El sabio »abunda
+de sí mismo y gobierna sus deseos hasta el punto de no desear nada exterior»318.
+En una Carta a Simpliciano, afirma que «el principal carácter del sabio es la ecua­
+nimidad, así como no dejarse afectar ni por la buena ni por la mala fortuna para
+poseer la tranquilidad del ánimo». La virtud principal es la temperancia, y las pasio­
+nes deben ser dominadas por la razón319.
+7. Agustín de Hipona (354-430), un africano romanizado, abandonó Cartago para trasladarse a Roma cuando contaba treinta años y entró en contacto con
+el pensamiento griego, sobre todo el neoplatónico que configuraría su talante inte­
+lectual. Sin embargo, se vio fuertemente influido por la ética estoica que constituía
+una especie de dominante moral en la concepción clásica. Ese influjo, intenso en
+la primera época agustiniana, se mantiene siempre, aunque cristianizado. En Roma
+empezó a escribir su tratado De libero arbitrio. Allí afirma que la concupiscencia
+(libido o cupiditas) «es el amor desordenado de aquellas cosas que podemos per­
+der contra nuestra voluntad» 320 y en ese deseo está «el origen de todas las malda­
+des»321. De donde se deduce el ideal estoico de no desear nada más que lo que
+depende de nosotros, no de las circunstancias.
+«La vida superior y más pura consiste en la ciencia... que se adquiere por
+la razón» 322. Es la razón la que debe «dominar todos los demás elementos de que
+316 J . D anielou , O r í g e n e s , t r a d . e s p . , B u e n o s A ir e s , 1 9 5 8 , p á g . 1 1 2 .
+317 B . T atakis , L a f i l o s o f í a b i z a n t i n a , trad. esp . 1 9 5 2 , pág. 4 2 .
+318 E p í s t o l a s , 3 8 , 8 , e n P a t r o l o g í a l a t i n a , c i t , p o r S p a n n e u t , p á g . 1 7 5 .
+
+319 C olish , o p . c i t . , v o l . I I , p á g s . 5 4 - 5 7 .
+320 AGUSTfN, D e l i b e r o a r b i t r i o I . 5 , 1 2 .
+
+321 I dem , o p . c i t . , 1 ,4 ,9 .
+322 I dem , o p . c i t . , 1 ,8 ,1 7 .
+
+191
+
+
+
+consta el hombre- 323324,y -todos los movimientos del alma»i24. Quien así se compor­
+ta es «el sabio» 325, «el que ha subyugado todas sus pasiones» 326, -aquel que con áni­
+mo igual y tranquilo soporta la carencia de las cosas que no está en nuestra mano
+retener» 327. «Las riquezas, los honores, los placeres corporales... son cosas abyectí­
+simas» 328 y «quien es esclavo de sus pasiones es castigado con las penas de la
+vida» 329; lo contrario, que es el autodominio del sabio, produce felicidad, la «vida
+beata» 330.
+Agustín no se opone a la apatía estoica o total ausencia de pasiones; pero
+entiende que no se alcanza en este mundo y que sólo la consiguen los bienaven­
+turados en presencia de Dios 331. De ahí sus críticas y aún sus refutaciones de la
+cosmología estoica.
+A lo largo de la dilatada obra agustiniana se percibe el influjo del Pórtico;
+pero en ningún otro lugar tanto como en el libro primero de uno de sus más impor­
+tantes textos filosóficos, el citado De libero arbitrio-, ese libro es un tratado estoico 332.
+A los 33 años, Agustín retorna al catolicismo materno. Desde entonces, su
+filosofía evoluciona hacia la integración con los dogmas: la voluntad humana no es
+autárquica y requiere la gracia divina para alcanzar la virtud, y la apatía plena sólo
+la lograrán los bienaventurados en una existencia ultraterrena 33334.
+8.
+Hay una continuidad en la defensa de la apatía desde el estoicismo anti­
+guo hasta Máximo Confesor, muerto el año 662, a través de Cipriano de Cartago,
+Tertuliano, Juan Casiano, Clemente de Alejandría, Orígenes, Metodio y otros. La
+tendencia cristiana es concebir la imperturbabilidad como un proceso cuya meta
+sólo se alcanza con la bienaventuranza. Con o sin trascendencia, en este punto
+esencial, la deuda patrística con el Pórtico es notoria33"1.
+
+323 I dem , o p . c i t ., 1,8.18.
+
+324 I dem , o p . c i t . , 1,9,19.
+325 I dem , o p . c i t . , 1,9,19.
+326 I dem , o p . c i t ., 1,9,19.
+327 I dem , o p . c i t . , 1,13,27.
+328 I dem , o p . c i t . , 1,12,26.
+329 I dem , o p . c i t . , I, tit. 12.
+330 I dem , o p . c i t ., 13,29.
+331 S . C uesta , E l e q u i l i b r i o p a s i o n a l e n l a d o c t r i n a e s t o i c a y e n l a d e S a n A g u s t í n , Madrid,
+
+1945, pág. 281.
+332 Vid. J . O rOz , - S é n e c a y S a n A g u s tín » , e n A u g u s t i n u s , n ú m . 10. 1965, p á g s . 2 9 5 -3 2 6 .
+333 M. L. C o u sh , T h e s t o i c t r a d i t i o n , 2.a ed ., 1990, vol. II, págs. 2 21-225.
+334 S telzenherger, o p . c i t . , págs. 265-276.
+
+192
+
+
+
+En suma, «los Padres de la Iglesia han saqueado concienzudamente el sis­
+tema estoico» 335; «la influencia del estoicismo sobre la moral teórica es esencial... las
+ideas de los Padres de la Iglesia muy frecuentemente proceden del antiguo estoi­
+cismo esencial» 336. «Los moralistas cristianos tienen una gran deuda con el estoicis­
+mo...Clemente de Alejandría es el que ha recibido la mayor influencia del Pórti­
+co»337. Generalizando, concluye Pohlenz: «la teología estoica tuvo para los cristianos
+una importancia superior a la de ciertos libros de la Biblia»338; «sin el encuentro con
+el estoicismo todo el desarrollo doctrinal del cristianismo primitivo resultaría inex­
+plicable» 339340.
+Pero las fuentes, que no estaban en el canon bíblico, eran más lejanas.
+Como reconoce Clemente: «En realidad, cuanto sobre la naturaleza expresaron los
+antiguos griegos también fue dicho por los filósofos de fuera de Grecia como los
+brahamanes de la India»5/1(1. E insiste: «los sabios más antiguos de Grecia eran bár­
+baros y fueron educados por bárbaros»341, es decir, asiáticos.
+
+M edievo
+
+1.
+Boecio (480-524), vinculado, como Séneca, a la soberanía y, luego,
+condenado a muerte, tradujo los tratados aristotélicos de lógica y, en prisión, escri­
+bió su diálogo Consolación de la filosofía, obra escasamente original y cuya segun­
+da mitad es sofística y paradójica; pero el libro segundo es un tratado estoico. Apa­
+recen citados Zenón y Séneca y, en general, la escuela del Pórtico. Su consigna es
+«poner el destino a los pies y mantenerse invicto ante la fortuna»342, y «soportar con
+ánimo cuanto dependa de la fortuna» 343. «¿Cómo se puede arrebatar su sosiego
+—se pregunta— a una mente identificada con la firme razón?» 344; hay que «bastarse
+uno a sí mismo» 345y «arrojar del fondo del alma todo deseo de bienes perecederos» 346.
+
+335 S panneut, o p . c i t . , pág. 121.
+336 I dem , o p . c i t . , p á g . 3 5 7 .
+337 I dem , o p . c i t . , p á g . 2 6 6 .
+338 P ohlenz, o p . c i t . , vol. I I , pág. 398.
+339 I dem , o p . c i t . , v o l . I I , p á g . 3 9 7 .
+340 C lemente de A lejandría, S t r o m a t a I, 72, 5 .
+341 I dem , o p . c i t . , 1, 66, 1.
+342 B o ecio , D e c o n s o l a t i o n e p h i l o s o p h i a e I, 4 , 2 - 3 , c i t o p o r la e d . b i l i n g ü e d e S . T . T e s t e r , C a m ­
+b r id g e , 1 9 2 8 , p á g . 1 4 4 .
+343 I dem , o p . c i t . , I I , 1 , 4 7 , e d . c i t ., p á g . 1 7 8 .
+344 I dem , o p . c i t . , II, 6, 2 5 5 , ed. cit., pág. 2 1 0 .
+345 I dem , o p . c i t . , I I I , 2 , 5 8 , e d . c i t ., p á g . 2 3 6 .
+346 I dem , o p . c i t . , I, 4 , 1 3 9 , e d . c i t ., p á g . 1 5 6 .
+
+193
+
+
+
+Considera que las pasiones nacen de «opiniones falsas» y'7; son «enfermedades del
+ánimo»M8. A diferencia de los estoicos, que piensan en la felicidad terrestre, Boe­
+cio la sitúa en los cielos 3478349, gozando el alma del sumo bien divino y «convirtiéndo­
+se el hombre feliz en un dios» 35°. La cosmovisión de Boecio es ecléctica; pero el
+sustrato ético es claramente estoico. Aunque algunos entienden que fue cristiano,
+en la Consolación, escrita casi al pie del cadalso, no hay la menor referencia dog­
+mática: allí su Dios es el de la teodicea racional, entre aristotélico y neoplatónico.
+2.
+Martín de Braga (516-580) escribió una glosa del tratado De ira de
+Séneca, y un opúsculo, Formula vitae honestae, dedicada a Miro, coronado rey de
+los suevos en el año 570, que circuló, ya como un supuesto tratado De quattuor
+virtutibus, atribuido a Séneca, ya como obra de Martín de Braga. Se conservan cen­
+tenares de manuscritos de los siglos ix al xv, lo que demuestra el extraordinario
+interés que suscitó dentro y, sobre todo, fuera de España351.
+Comienza declarando que escribe sólo «desde los preceptos naturales de
+la inteligencia humana» 352 y que, por tanto, se dirige a clérigos y a laicos. Reco­
+mienda «vivir según la recta razón» 353354, «ser siempre uno mismo»3M, «firme en la
+adversidad» 355, e «inconmovible» 356. El método es «constreñir los deseos» 357. Esta es
+la sentencia capital: «si practicas la continencia, cuando la alcances, tu mismo serás
+feliz; considerar que se tiene bastante es como haber nacido rico» 358.
+Sin acudir a paralelismos textuales y remitiéndose a un perdido tratado
+senequista, se acusa a Martín de Braga de extractar al cordobés y de incurrir en «pla­
+gio»359. El influjo del Pórtico es evidente; pero la exposición es original y alguna de
+347 I dem , o p . c i t . , I, 6, 58, ed . cit., pág. 170.
+348 I dem , o p . c i t . , IV, 4, 151, ed . cit., pág. 350.
+349 I dem , o p . c i t . , II, 7, 84 , ed. cit., pág. 220.
+350 I dem , o p . c i t . , III, 10, 89, ed. cit., pág. 280; tam bién pág. 304.
+351 S e i m p r i m i ó p o r p r im e r a v e z e n L o n d r e s e l a ñ o 1 5 1 6 , y n u e s t r o E. F lórez l o i n c l u y ó e n
+s u E s p a ñ a S a g r a d a , 1 7 5 9 , v o l. X V .
+
+352 Martin de B raga, F o r m u l a v i t a e h o n e s t a e , c i t o p o r la e d . c r í t i c a d e C . W . B arlow , M a r t i n i E . B r a c a r e n s i s o p e r a o m n i a , N ew H a v e n , 1 9 5 0 , p á g s. 2 3 7 , 3 0 -3 1 353 I dem , o p . c i t . , págs. 2 3 8 , 1-2.
+
+354 I dem , o p . c i t . , p á g . 2 41 , 59.
+355 I dem , o p . c i t . , p á g . 2 4 5 , 6 5 .
+356 I dem , o p . c i t . , p á g . 2 4 9 , 1 0 .
+357 I dem , o p . c i t . , pág. 242, 2.
+358 I dem , o p . c i t . , pág. 242, 3-5.
+359 J . S T E i Z E N B E R G E R , D i e B e z i e b u n g e n d e r f r ü b c b r i s t l i c b e n S i t t e n l e h r e z u r E t h i k d e r S t o a , 1 9 3 3 ,
+
+pág. 502.
+
+194
+
+
+
+las sentencias en su formulación bracarense es de sobria belleza. El Obispo asume
+el precepto milenario: el autodominio y la renuncia como vía hacia la felicidad.
+3. El bizantino Juan Clímaco (579-649), eremita en el Sinaí, es autor de la
+Escala del paraíso o Escala espiritual, uno de los tratados ascéticos más leídos en
+la cristiandad, sobre todo, en Oriente. Se dirige principalmente al monacato, a los
+que denomina «atletas del espíritu», y recomienda «impasibilidad o liberación de las
+pasiones». El penúltimo escalón del ascenso hacia la perfección es esa «impasibili­
+dad» a la que se consagran las postreras páginas de la obra 360. Para Tatakis es «como
+un eco del pensamiento estoico y cínico», y concluye «No se ha apreciado sufi­
+cientemente hasta qué punto los cristianos de Oriente se han provisto del rico arse­
+nal de los estoicos. Quizás no sería temerario creer que la desaparición de los estoi­
+cos se debió, en gran parte, al hecho de que fueron suplantados por los
+cristianos»361.
+4. San Simeón (949-1010) es la figura más eminente de la ascética bizan­
+tina y el renovador del misticismo medieval. Exiliado de Constantinopla, murió en
+olor de santidad. Escritor fecundo 362, construye su pensamiento moral sobre la apa­
+tía o imperturbabilidad del ánimo, y a ese estado se llega mediante el menosprecio
+del mundo y el control del deseo. Yerra «el que ama y desea alguna cosa, es decir,
+el que se halla de alguna manera atado en su corazón a algún ser terreno» 3633645. La
+impasibilidad, como paso previo a la contemplación, hace feliz en este mundo pues
+permite «que se viva sobre la tierra como si se estuviera en el cielo»363.
+Aunque ya Juan Clímaco (579-649) había situado la impasibilidad en el
+penúltimo paso de su Escala del cielo 365, el desarrollo de Simeón determina la ascé­
+tica cristiana de modo decisivo: a la felicidad terrenal y celeste por la renuncia.
+
+360 El t e x t o g r i e g o e n P a t r o l o g í a g r a e c a d e M igne, v o l . L X X X V I I I , P a r ís , 1 8 6 4 . L a p r i m e r a t r a ­
+d u c c i ó n a l e s p a ñ o l e s d e 1 5 0 4 , la m á s r e i m p r e s a e s la d e L u is d e G r a n a d a d e 1 5 6 8 . D e l a v e i n t e n a d e
+e d i c i o n e s h i s p a n a s c i t o p o r la ú l t i m a c o n la v e r s i ó n d i r e c t a d e T . H . M a r t in , M a d r id , 1 9 9 8 , p á g s . 3 6 , 1 4 1
+y 2 5 1 -2 5 4 .
+
+361 T atakis , o p . c i t . , págs. 6 2 y 6 7 .
+362 S u o b r a e s t á r e c o g i d a e n la P a t r o l o g í a g r a e c a , 1 8 5 7 - 1 8 6 6 , d e M igne . H a y tr a d . fr. d e C a p í ­
+t u l o s t e o l ó g i c o s , P a r ís , 1 9 5 7 ; C a t e q u e s i s , 3 v o l s ., P a r ís , 1 9 6 3 - 1 9 6 5 ; T r a t a d o s t e o l ó g i c o s , P a r ís , 1 9 6 6 ; T r a t a ­
+d o s é t i c o s , 2 v o l s . P a r ís , 1 9 6 6 - 1 9 6 7 , e H i m n o s , 2 v o l s ., P a r ís , 1 9 6 9 -
+
+363 S imeón, C a t e q u e s i s , V, 7 9 3 - 7 9 7 , c i t a d o p o r F. M . F ernández J iménez, E l h u m a n i s m o b i z a n ­
+t i n o e n S a n S i m e ó n , M a d r id , 1 9 9 9 , p á g . 1 4 1 .
+
+364 F ernández-J iménez, o p . c i t . , p á g . 1 5 9 365 H a y tr a d . it. 1 9 1 2 , e in g l. 1 9 5 9 .
+
+195
+
+
+
+5. Ibn Fatik reunió, a mediados del siglo xi, una antología en árabe de
+sentencias de filósofos —cínicos y estoicos entre otros—, que Alfonso el Sabio hizo
+traducir con el título Bocados de oro 366367*90,vertida al latín a finales del siglo x iii con el
+título Líber philosopborum moralium antiquorum, ampliamente utilizada hasta el
+siglo xvi. La receta moral hegemónica era el autodominio y la renuncia.
+Cecaumano, un bizantino ilustre del siglo x ii , escribió un libro de con­
+sejos morales, El estratégico367, donde recomienda la -imperturbabilidad- 368.
+6.
+
+Guillermo de Conches (1080-1145) escribe Moralium dogma pbilosophorum369 que analiza el estoicismo según Cicerón y Séneca; en la primera parte expo­
+ne el concepto estoico de la felicidad, y en la segunda formuló su propia síntesis
+de la moral estoica. Y comentó a Boecio.
+Barlam (1290-1348), maestro de Petrarca, escribe Ethica secundum stoicos.
+7. Salomón Ibn Gabirol (1021-1059), el Avicebrón de los latinos, judío de
+Córdoba más eximio aún como poeta que como filósofo 37°, escribió en árabe un
+aforístico tratado de ética, Selección de perlas donde reitera la lección universal: -La
+verdadera perfección del hombre consiste en renunciar a los placeres y concupis­
+cencias. La distinción se manifiesta en la selección o rechazo de las cosas, y no te
+creas sabio si no dominas las pasiones. Quien sigue los dictados de la razón obra­
+rá y se comportará rectamente, y quien va tras sus pasiones se extravía y perece»371.
+Estos preceptos no son puros imperativos, sino también recetas de dicha: «Feliz el
+que controla sus pasiones» 372. Las sentencias que clasifica Ibn Gabirol son de muy
+diverso origen —bíblico, hindú, persa, griego y latino— pero en este caso es prin­
+cipalmente deudor de la tradición helenística.
+8. El dominico alemán Eckehart (1260-1327) fue un teólogo y un místi­
+co, autor, en paralelo con Boecio, de un tratado Del consuelo, escrito hacia 1314.
+
+366 H a y u n a n u e v a e d i c i ó n d e C o m b a c h , B o n n , 1 9 7 1 .
+367 E d i t a d o p o r W a s s i l e w s k y e n 1 8 9 6 .
+36,1 B . T atakis , F i l o s o f í a b i z a n t i n a , t r a d . e s p . 1 9 5 2 , p á g . 1 5 7 .
+369 I m p r e s o e n 1 6 0 4 .
+370 S u o b r a f u n d a m e n t a l F u e n t e d e l a v i d a f u e t r a d u c i d a d e l á r a b e a l la t í n p o r D o m i n i c o G u n d is a lv o y J u a n H i s p a n o , y d e é s t e a l e s p a ñ o l p o r F . d e C a s t r o , 2 v o l s . M a d r id , 1 9 0 1 c o n e r u d i t o e s t u d i o
+in tr o d u c to r io d e 7 0 p á g s . ; r e v is a d a p o r C . d e l V a lle , B a r c e lo n a , 1 9 8 7 .
+
+371 I bn G abirol , S e l e c c i ó n d e p e r l a s , XV, 1 8 3 - 1 8 5 , trad. esp . d e G. M aeso, B a rce lo n a , 1 9 7 7 .
+372 I dem , o p . c i t . , X V , 1 8 6 .
+
+196
+
+
+
+Allí cita con reiteración al «maestro pagano Séneca» 373374.también lo cita en el impor­
+tante sermón Vom edlen Menschen373, En un contexto teocéntrico y casi panteísta,
+con precedentes neoplatónicos, el maestro germano hace suyos preceptos estoicos.
+■•Cuando el justo tiene todo lo finito a sus pies de modo que rio pueda influirle, lá
+contrariedad y la injusticia no podrán alcanzarle..., debe desprenderse de sí mismo
+y de toda criatura» 375; «permanece en paz e inalterable de modo que no le afectará
+ninguna peripecia» 376; «inalterablemente consolado y alegre frente a todo y en todo
+momento» 377; «formado para la negación de sí mismo» 378, «habrás de arrojar y des­
+prenderte de todo lo finito; como decía Agustín, vacíate» 379; «no tener nada, estar
+vacío.... liberarse de las criaturas» 380; «hay que renunciar a la voluntad natural y a sí
+mismo»381, y evoca el pasaje evangélico «Quien quiera venir conmigo renuncie a sí
+mismo» 382. Para el místico alemán, tal vaciamiento de egoísmo, de pasiones y de
+vínculos mundanales era para llenarse de Dios y, en cierto modo, fundirse en El.
+Eckehart tuvo problemas con la Inquisición romana y hubo de abjurar de sus hete­
+rodoxias. El papa Juan XXII condenó veintiocho proposiciones del dominico, dos
+años después de su muerte; la décima decía así: «Debemos transformarnos com­
+pletamente en Dios como el pan en el sacramento de la eucaristía». Eckehart inser­
+taba los mensajes estoicos en una teodicea neoplatonizante. La renuncia era para
+una felicidad trascendental, divinal.
+9.
+El príncipe don Juan Manuel (1282-1349) sobrino de Alfonso X y nie­
+to de Fernando III, llegó a ser regente en tiempos de Alfonso XI. Fechó en 1370 la
+terminación de su libro El Conde Lucanor, impreso por primera vez en 1575. Es una
+colección de apólogos y sentencias de orígenes diversos jamás citados por el autor.
+Recoge los valores morales de su tiempo cristiano y señorial. En el Libro del caba­
+llero asume el postulado estoico: «los que obran y viven según razón y naturaleza
+hacen servicio a Dios y pro a sí mismos, y aprovechan al mundo» 383. «El que más
+373 E ckehart, D a s B u c b v o m T r a s t e e n S c b r i f t e n , J e n a , 1 9 3 8 , p á g s . 2 1 4 y 2 3 8 .
+374 I dem , S c b r i f t e n , pág. 240.
+375 I dem , D a s B u c b , pág. 210.
+376 I dem , o p . c i t . , pág. 221.
+377 I dem , o p . c i t . , pág. 215.
+378 I dem , o p . c i t . , pág. 214.
+379 I dem , o p . c i t . , pág. 218.
+380 I dem , o p . c i t . , pág. 218.
+381 I dem , o p . c i t . , p á g . 2 2 8 .
+382 M a t , 16, 24.
+383 J uan M anuel, L i b r o d e l c a b a l l e r o y d e l e s c u d e r o e n B i b l i o t e c a d e A u t o r e s E s p a ñ o l e s , R iv a d e n e y r a , v o l. LI, 1860, p á g . 29 2, c i t a d o p o r A . B enito y D urán, F i l o s o f í a d e l I n f a n t e d o n J u a n M a n u e l ,
+A lic a n t e , 1972, p á g . 507. V id t a m b i é n J . M. C astro y Calvo , E l a r t e d e g o b e r n a r e n l a s o b r a s d e d o n j u á n
+M a n u e l , B a r c e l o n a , 1945
+
+197
+
+
+
+sigue —escribe— la voluntad que la razón trae el alma y el cuerpo en gran peli­
+gro» m . «Más vale seso que ventura, que riqueza, ni linaje» 384385386.«Quiere lo que se pue­
+de hacer»38S. «El mejor pedazo que hay en el hombre es el corazón, y ese mismo
+es el peor» 387. «El seso, la mesura y la razón juzgan las cosas» 388. «Quien se duele
+mucho de la cosa perdida que no se puede cobrar, y desmaya por la ocasión de la
+que no pudo huir, no hace buen seso» 389. «Cuanto el hombre ha más de razón, es
+más hombre» 390. Es el autodominio del logos sobre las pasiones como estrategia
+para la felicidad. Tal doctrina contrasta con el hedonismo de contemporáneos como
+el picaro Arcipreste de Hita, muerto antes de 1350, o el sensual Boccacio, nacido
+en 1313.
+10.
+Juan Tauler (1300-1361), fue un fraile dominico que no escribió nada;
+pero del que se conservan sermones391 y a quien, desde mediados del xvi, se atri­
+buyeron más textos, incluso libros, alguno de gran difusión y de muy dudosa auten­
+ticidad como Instituciones divinas 392. La influencia del místico germano fue pode­
+rosa en toda Europa, especialmente en España 393. Los fragmentos aquí aducidos
+proceden de los sermones que la crítica considera auténticos.
+En la tradición neoplatónica, afirma Tauler que «será feliz quien descubra,
+reconozca y contemple a Dios»394. ¿Cómo se avanza hacia tal ultimidad dichosa? A
+través del «olvido y la ignorancia total de lo creado» 395, y también de uno mismo.
+«Cuanto más desnudo esté de imágenes, cuanto más se interiorice»396 cada perso­
+na, más se aproximará a la felicidad plena. «El hombre perfecto debería olvidar
+todo, dejar de someterse a los sentidos, y recoger las potencias dentro de sí mis­
+384 J uan M anuel, E l C o n d e L u c a n o r , c i t o p o r la e d . d e E . J u l i a q u e t r a n s c r i b e e l c ó d i c e 4 . 2 3 6
+d e l a B i b l i o t e c a N a c i o n a l , m a n u s c r i t o d e l s i g l o x v , M a d r id , 1 9 3 3 , p á g . 3 2 9 .
+
+385 Idem,
+
+o p . c it .,
+
+386 I dem , o p . c i t . ,
+
+pág. 330.
+pág. 253.
+
+387 I dem , o p . c i t . , p á g . 3 3 4 .
+388 I dem , o p . c i t . , p á g . 3 3 4 .
+389 I dem , o p . c i t . , p á g . 3 4 1 .
+390 I dem , o p . c i t . , p á g . 3 4 1 .
+391 L a e d i c i ó n p r í n c i p e d e 1 4 9 8 i n c l u y e 8 4 s e r m o n e s .
+392 L o s T r a t a d o s d e v i d a e s p i r i t u a l y la s I n s t i t u c i o n e s s e v e r t i e r o n a l e s p a ñ o l e n 1 5 5 1 , a p a r ­
+tir d e l a t r a d u c c i ó n l a t i n a q u e d a t a d e 1 5 4 8 .
+393 T . H . M a r t ín a f i r m a q u e e l T a u l e r l a t i n o d e b i ó s e r c o n o c i d o p o r L u is d e G r a n a d a y S a n
+J u a n d e l a C r u z , e n t r e o t r o s ( « E s t u d io p r e l i m i n a r - a s u tr a d . e s p . d e O b r a s d e T a u l e r , M a d r id , 1 9 8 4 ) . .
+394 S e r m ó n 5
+
+s e g ú n la e d . d e V. F. V e it e r , D i e P r e d i g t e n
+
+T . H . M a r t ín c i t a d a , p á g . 2 3 8 .
+395 S e r m ó n 2 , t r a d . c i t ., p á g . 2 2 4 .
+396 T r a d . c i t ., p á g . 2 2 5 .
+
+198
+
+T a u le r s , B e rlín ,
+
+1910; t r a d . e s p .
+
+
+
+mo» 397398*. Es un proceso de depuración íntima y de renuncia que se dirige hacia el
+desasimiento total del mundo; pero que no lo exige como punto de partida39!i. La
+formulación tauleriana, análoga a la de Plotino, es una quintaesencia de la mística
+universal; pero no deja de entrañar un sentido terreno, puesto que, de hecho, impli­
+ca parciales felicidades intermedias en el progrediente camino de la perfección
+final, meta asequible a muy pocos.
+11. Francisco Petrarca (1304-1374), el gran poeta del humanismo, se
+enfrentó con el problema de la felicidad en sus tratados, De remediis utriusque fo r­
+túnete 3", De comtemptu mundi, De vita solitaria 40°, y De vera sapientia, impresos
+por primera vez 1471, 1472, 1472 y 1485, respectivamente.
+Petrarca, agustinista que no conocía la lengua griega, recibió el legado clá­
+sico, sobre todo a través de Cicerón401, gran transmisor del estoicismo. Los histo­
+riadores del pensamiento se han fijado preferentemente en el antiaverroísmo de
+Petrarca 402. En De remediis dialogan, primero, la alegría, la esperanza y la razón, y,
+luego, la razón y la pena; son meditaciones estoicas para inmunizarse ante los aza­
+res de la fortuna y el dolor de vivir. De contemptu es un diálogo con Agustín de
+Hipona donde asume la ascesis estoica, superada por la mística cristiana. La felici­
+dad no se encuentra en el mundo.
+12. En la línea del estoicismo cristianizado de Petrarca se sitúan Lino
+Coluccio Salutati (1331-1406) con su De saeculo et religione, y Lionardo Bruni
+(1370-1444), moralista y gobernante, quien en su manual Isagogicon moralis disci­
+plina compara la ética epicúrea con la aristotélica y la estoica para inclinarse a favor
+
+397 T r a d . c i t ., p á g . 2 2 4 .
+398 O t r o g r a n m í s t i c o c o n t e m p o r á n e o , J u a n v a n R u u s b r o e c ( 1 2 9 3 - 1 3 8 1 ) a d m i t i ó u n a i n i c i a l v ía
+c o r p o r a l y s e n s i b l e d e a p r o x i m a r s e a D i o s , «el r e i n o c r e a d o y a d o r n a d o p a r a u t il i d a d d e l o s h o m b r e s ,
+p a r a q u e e l h o m b r e l o c o n t e m p l e - ( J . van R uusbroec , L i b r o d e l R e i n o , 4 , e n O b r a s , t r a d . e s p . d e T . H . M a r ­
+t í n , M a d r id , 1 9 8 5 , p á g . 2 0 0 ) .
+399 T r a d u c i d o a l e s p a ñ o l p o r D . d e G u m i e l , V a l l a d o l i d , 1 5 1 0 , s e i s v e c e s e d i t a d o e n s ó l o q u i n ­
+ce añ os.
+41)0 T r a d u c i d o a l e s p a ñ o l p o r L. P e ñ a , M e d i n a d e l C a m p o , 1 5 5 3 .
+401 A p a r e c e c i t a d o c o n r e i t e r a c i ó n — t a m b i é n S é n e c a —
+
+e n su p o lé m ic o D e s u i ip s iu s e t m u l-
+
+t o r u m i g n o r a n d o ; c i t o p o r la tr a d . in g . d e H . N a c h o d e n W . A A ., T h e r e n n a i s s a n c e p h i l o s o p h y q f m a n ,
+C h i c a g o , 1 9 4 8 , 2 .a e d . , 1 9 6 5 , p á g s . 4 7 - 1 3 3 ; l a c i t a d e S é n e c a e n p á g . 1 3 0 .
+402 G . T offanin , E l s e c o l o s e n z a R o m a . S t o r i a d e l l ’U m a n e s i s m o , tr a d . e s p . B u e n o s A i r e s , 1 9 5 3 ,
+p á g s . 2 0 6 y s ig s . S e d e b e a W . D i l t h e y e l p o s i c i o n a m i e n t o d e P e t r a r c a e n la a n t r o p o l o g í a e s t o i c a y lo
+d e fin e c o m o
+
+« f iló s o f o
+
+d e l a v id a - ( v i d . D ilthey , W e l t a n s c h a u u n g e n
+
+R e n a is s a n c e u n d R e fo r m
+
+en
+
+C e s . S c b r i f t e n , v o l . II, 1 9 1 4 ; c i t o
+
+u n d A n a ly s e d e r M e n s c h e n s e it
+
+p o r la tr a d . e s p . B u e n o s A ir e s , 1 9 4 4 ,
+
+p á g s. 3 0 -3 3 ).
+
+199
+
+
+
+de la última. .Pero ya ha aparecido un renacentista típico, Lorenzo Valla (14051457), que en De voluptate 403, entre el escándalo y la popularidad, se enfrenta con
+la tradición moral y exalta el hedonismo. Es la corriente epicúrea, nunca extinta del
+todo 404.
+13- El flamenco Tomás de Kempis (1380-1471) reaccionó expresamente
+contra la mística especulativa de, por ejemplo, su coterráneo Ruusbroec, y cultivó
+una ascética práctica. Autor prolífico 405, se le atribuye un tratado anónimo, que no
+ha cesado de ser meditado por los cristianos, Imitación de Cristo, impreso por vez
+primera en 1470. Aunque es dudoso que todo el texto se deba a la misma pluma,
+especialmente el libro primero arraiga firmemente en el estoicismo. Sólo los títulos
+de algunos capítulos son ya reveladores «Desprecio de todas las vanidades del mun­
+do- 4o6. «El modo de adquirir la paz» 407, o «Cómo se han de resistir las pasiones»40S.
+Estas son las tesis vertebrales: «La suprema sabiduría consiste en aspirar al reino de
+los cielos por medio del desprecio del mundo»409; «resistir a las pasiones y no entre­
+gándose a ellas es como se halla la verdadera paz» 41°; «como varones fuertes pro­
+curamos permanecer firmes en el combate»411; hay que arrancar las pasiones «de
+raíz»412, y cita el ejemplo de los que «no deseaban cosa alguna de este mundo»413.
+En suma, no desear, según la vertebral consigna de Zenón.
+
+M od ern id ad
+
+1. Zwinglio (1484-1525) en su tratado Deprovidentia sigue al estoicismo.
+Calvino (1509-1564) comentó el De clementia de Séneca. También Melanchton
+(1497-1560) glosó el De officis ciceroniano y escribió Refutado stoicae necessitatis.
+A Justo Lipsio (1547-1606) se debe De constantia, (1548), traducido al español
+
+403 H a y t r a d . i t ., Ñ a p ó l e s , 1 9 0 8 .
+404 V id . G .
+
+Radetti, V
+
+e p i c u r e is m o n e l p e n s i e r o u m a n is t ic o d e l Q u a t t r o c e n t o e n «G ran d e a n to ­
+
+l o g í a f ilo s ó f ic a » , M i l á n , 1 9 6 4 .
+405 H a y v e r s i ó n e s p a ñ o l a d e v a r i o s d e s u s l i b r o s , O b r a s d e l v e n e r a b l e K e m p i s t r a d u c i d a s d e l
+i d i o m a l a t i n o a l c a s t e l l a n o , 3 v o l s ., V a l l a d o l i d , 1 7 8 8 .
+406 C it o p o r la t r a d u c c i ó n d e J . P o n s — f u n d a d a e n la s c l á s i c a s d e L u is d e G r a n a d a , 1 6 4 2 , y
+d e J . E . N ie r e m b e rg , 1 6 5 0 —
+
+407 I dem,
+408 I dem,
+409 I dem,
+410 I dem,
+411 Idem,
+412 Idem,
+413 I dem,
+
+200
+
+I m i t a c i ó n d e C r is t o , e d . C a s u lle r a s , B a r c e lo n a , 1 9 4 7 , p á g . 7 .
+
+o p . c i t .,
+
+pág-
+
+18.
+
+o p . c i t .,
+
+pág-
+
+21.
+8.
+
+o p . c i t .,
+
+pág-
+
+o p . c i t .,
+
+pág-
+
+14.
+
+o p . c i t .,
+
+pág-
+
+19.
+
+o p . c i t .,
+
+pág- 2 2 .
+pág- 26 .
+
+o p . c i t .,
+
+
+
+(Sevilla, l6l6), inspirado en Séneca, Manuductio ad stoicamphilosophiam (1604) y
+Physiologia stoicorum (lólO). C. Scioppius (1576-1654) escribe Elementa philosophiae stoicae moralis; Salmasius (1588-1653) In Enchiridium Epicteti-, y T. Gataker
+(1574-1654) De disciplina stoicaiU.
+2. Juan Luis Vives (1492-1540), escritor fecundísimo, es autor de un
+extenso tratado, Concordia y discordia en el género humano (1539) cuyo libro cuar­
+to es un tratado estoico, cristianizado por la virtud de la caridad y la promesa de la
+bienaventuranza. Séneca aparece citado desde el principio con reiteración41415 así
+como Epicteto416. Uno de los catorce capítulos, que es una glosa del Pórtico, se titu­
+la "Dignidad y deber del sabio»m . Se inicia con una radical condena de las pasio­
+nes: «No hay en absoluto pasión alguna que, traída a juicio ante la razón no apa­
+rezca verdaderamente deforme y abominable»41S418.Y con menosprecio del mundo:
+«los bienes por los que los mortales nos perecemos son en su mayor parte delez­
+nables y vanos»419, la enumeración se inicia con las .riquezas para continuar con la
+nobleza, los honores y el poder. En consecuencia, «es necesario apartar el sabio de
+las pasiones»420. El sabio debe -«vivir según la naturaleza»421 y «rescatado y libre de
+las tiránicas pasiones, enfermedades morales»422 para alcanzar «la tranquilidad, la
+paz y el equilibrio» 423, «por encima de los movimientos y alteraciones» 424. En esa
+desnudez, el sabio es, en cierto modo, como Dios a quien «nadie puede quitar lo
+suyo», y «nada penetra en aquel recinto suyo que altere su serenidad» 425. Y acuña
+una sentencia, digna del mejor Séneca: «Pauper agens, non carens», o sea, no es
+pobreza carecer, sino desear 426. Como el erudito Clemente de Alejandría, Vives no
+sólo se remite a los «sabios de Grecia», que había exaltado como «los más grandes
+ingenios de todo tiempo» 427, sino también «a los de aquellas naciones llamadas bár­
+414 V id . F . U eiíekweg , G r u n d r i s s d e r G e s c h i c h t e d e l P h i l o s o p h i e , 1 2 .a e d ., B e r l í n , 1 9 2 4 , v o l . I I I,
+p á g . 1 0 9 , y L. Z anta, L a r e n a i s s a n c e d u s t o i c i s m e a u x v i s i é c l e , 1 9 1 4 .
+4,5 V ives , « C o n c o r d i a
+
+y
+
+d is c o r d ia » , e n
+
+O b r a s c o m p le ta s,
+
+tr a d .
+
+esp .
+
+M a d r id ,
+
+1948,
+
+v o l.
+
+II,
+
+p á g s. 1 9 6 , 2 0 4 , 2 0 7 , 2 3 5 , etc.
+
+416 I dem , o p . c i t . , v o l . I I , p á g . 2 1 7 .
+417 I dem , o p . c i t . , págs. 224-2 28 .
+418 I dem , o p . c i t . , p á g . 2 0 2 .
+419 I dem , o p . c i t . , pág. 207.
+420 I dem , o p . c i t . , p á g . 2 0 9 .
+421 I dem , o p . c i t . , pág. 211.
+422 I dem , o p . c i t . , p á g . 2 5 .
+423 I dem , o p . c i t . , p á g . 2 2 5 .
+424 I dem , o p . c i t . , pág. 226.
+425 I dem , o p . c i t . , p á g . 2 2 6 .
+426 I dem , « E s c o lt a d e l a lm a » , 1 5 2 4 , e n O b r a s C o m p l e t a s , v o l . I , p á g . 1 1 8 1 .
+427 I dem , « P e d a g o g í a p u e r il» , 1 5 2 3 , e n O b r a s C o m p l e t a s , v o l . I I , p á g . 3 3 4 .
+
+201
+
+
+
+baras como Egipto, Etiopía, Caldea, Persia o la India»/|2a. Era, pues, consciente de
+que la idea del sabio, autodisciplinado e inalterable, venía de lejos.
+3- Melchor Cano (1509-1560) sucedió a Francisco de Vitoria en su cáte­
+dra de la Universidad de Salamanca, asistió al Concilio de Trento y fundó la teolo­
+gía positiva con su obra De locis theologicis (1563) Su Tratado de la victoria de sí
+mismo (1550), adaptación renovada de un libro toscano429, afronta el tema capital
+de la ascética. El punto de partida antropológico es el dualismo: «el hombre com­
+puesto de carne y espíritu..., de sensualidad y razón»430. A su vez, «en la parte sen­
+sitiva hay dos potencias, irascible y concupiscible»431, que son como «dos caballos
+desbocados» 432. La sensualidad «por ser ciega es justo que sea adiestrada» 433 por la
+razón. La vida resulta permanente lucha del hombre para que sus «naturales y fla­
+cas inclinaciones» 434 « no pasen la raya de la razón» 435. El desenlace ideal de ese
+combate es la victoria sobre sí mismo. El camino es «sojuzgar nuestras pasiones» 436,
+«haciendo fuerza a la naturaleza» 437; «contenerse en los términos de la necesidad y
+refrenar todo deleite demasiado»438, «soportar cualquier cosa adversa» 439 y, en defi­
+nitiva, «negarse a sí mismo» 440.
+El sentido del ascetismo cristiano es trascendental porque su premio es
+ultraterreno; pero en algunos espirituales como Cano tiene, además, un secundario
+efecto felicitario en este mundo: «el espíritu mantenido está lleno de interior con­
+solación» 441 y «quien sojuzga su propio querer vive siempre en alegría» 442. Porque
+cuando «no se pone límite ni término en el desear» 443 resulta que «lo alcanzado no
+4 2 8 I d e m , o p . c it ., pág. 231.
+429 E s c r i b e m o d e s t a m e n t e C a n o e n e l p r ó l o g o , « m e m o v í a t o m a r l a f a t i g a d e a l g u n o s d í a s e n
+e s c r i b i r e s t e t r a t a d o s a c a n d o l o m e jo r d e la l e n g u a it a l i a n a - ( o p . cit . , e d . A . d e C a s t r o , v o l . 65 d e B A E ,
+
+M adrid, 1922, pág. 304i1.
+4 3 0 I dem , op. c it ., lo e . c it .
+4 3 1 I dem , o p . c it ., lo e . c it .
+4 3 2 I dem , o p . c it ., lo e . c it .
+4 3 3 I dem , op. c it ., loe. cit.
+4 3 4 I dem , op. c it .,
+
+pág. 321.
+
+4 3 5 I dem , op. c it ., pág. 307.
+4 3 6 I dem , o p . c it .,
+pág. 305.
+4 3 7 I dem , o p . c it ., pág. 313.
+4 3 8 I dem , op. c it ., loe. cit.
+4 3 9 I dem , op. c it .,
+pág. 311.
+4 4 0 I dem , o p . c it .,
+pág. 304.
+4 41 I dem , op. c it .,
+pág. 306.
+442
+
+I dem , o p . c it ., pág. 311.
+
+4 4 3 I dem , o p . c it ., pág. 314.
+
+202
+
+
+
+hace alegres a sus posesores»444, «el apetito de riquezas no se apaga con tenerlas»445.
+En suma, vencernos a nosotros mismos nos permite «contentarnos» 446. Reaparece la
+milenaria lección que sobrenada dogmas y sistemas.
+4. Teresa de Jesús (1515-1582) escribió dos redacciones de su libro
+Camino de perfección que no se imprimió hasta 1583, poco después de su muerte.
+El vocablo clave no es renuncia, sino «desasimiento», es decir, despego del mundo.
+«Vengamos al desasimiento que hemos de tener porque en esto está el todo..., no
+se nos dando nada por todo lo criado» 447. Mas no basta menospreciar lo exterior o
+«desasirse de todo lo criado»448, hemos de «desasimos de nosotras mismas» 449. Todos
+los libros de Teresa, escritos a instancias de otras personas, estaban dirigidos a sus
+hermanas carmelitas. ¿Pensaba sólo en ellas cuando recomendaba «descuidarnos
+hemos de las cosas del mundo»?450 ¿Concebía la renuncia como exclusiva del mona­
+cato? Hay un texto de la versión vallisoletana que parece general: «No digo que
+todos los que la tuvieran (la merced de la oración) por fuerza estén desasidos del
+todo del mundo, al menos querría que entiendan lo que les falta y se humillen, y
+procuren irse desasiendo del todo»451. A todos los cristianos se recomienda, pues,
+la renuncia; pero ¿y al resto del género humano? Los no creyentes no eran los des­
+tinatarios de los avisos teresianos; pero no hay razón suficiente para considerarlos
+tácitamente excluidos. No se desfigura el espíritu de la mística fundadora, interpre­
+tando el desasimiento con alcance universal.
+5. Diego de Estella (1524-1578) es el más leído de los espirituales espa­
+ñoles. En su obra capital, el Libro de la vanidad del mundo (1547), a lo largo de
+más de mil páginas y asimilando múltiples fuentes, desarrolla hasta el agotamiento
+el versículo veterotestamentario «Vanidad de vanidades y todo vanidad» 452. La lite­
+ratura ascética nunca ha llevado tan lejos el menosprecio del mundo. El fin último
+es la bienaventuranza celestial; pero el severo franciscano sostiene, desde el prin­
+cipio y en numerosos pasajes, que la renuncia también es felicitaría en esta vida.
+«Corta tus desordenados apetitos, quita de tí los vanos deseos, lanza fuera la codi­
+
+444 I dem , o p . c i t . , p á g . 1 1 4 .
+445 I dem , o p . c i t . , pág. 315.
+446 I dem , o p . c i t . , pág. 314.
+447 T eresa de J esús , « C a m in o d e p e r f e c c i ó n » , e n O b r a s c o m p l e t a s , e d . E . d e l a M a d r e d e D i o s
+y O . S te g g in c , 1 9 6 2 , p á g . 2 1 0 .
+
+448 I dem , L i b r o d e l a s F u n d a c i o n e s , e d . c i t ., p á g . 5 0 7 .
+449 I dem , o p . c i t . , pág. 214.
+450 I dem , C a m i n o , p á g . 2 8 1 .
+451 I dem , o p . c i t . , pág. 281.
+452 E c c l . 1 2 , 8 .
+
+203
+
+
+
+cia de este mundo, y vivirás pacífico y contento. Ninguno te podrá turbar, ninguna
+cosa te dará pena, gozarás de la suavidad del espíritu, y tendrás paraíso encima de
+la tierra» 453. Y en otro lugar reitera: «La virtud trae consigo el bien anexo, y recrea
+al que obra»454. Autonegarse no es únicamente apostar por el más allá; hay un doble
+premio: felicidad trasmundana y dicha terrenal.
+6.
+Luis de León (1527-1591) arranca de una concepción negativa del
+hombre, no por su naturaleza originaria, sino como consecuencia de una culpa adá­
+nica. De «esto se sigue, luego, soltar la rienda de los deseos y coger el fruto de esta
+vida sin orden» 455; «viven y se encienden en nosotros los deseos bestiales de la vida
+sensible 456; «los apetitos del cuerpo y sus sentidos se salieron del servicio de la
+razón»457; en suma, el «desconcierto e inclinación para el mal que los hombres gene­
+ralmente tenemos» 458. El humanista poeta hace suya la imagen griega: el hombre es
+un carro tirado por dos corceles —concupiscencia y cólera— y conducido por la
+razón; «el mal sin rienda se desbarata» 459.
+La noción clave ya no es la apatía, sino la «paz», entendida como «el bien
+de todas las cosas» 460 y «cuanto se hace es buscarla»461. La manifestación personal
+de esa paz es «vivir concertada y pacíficamente consigo mismo» 462. Ese «ánimo bien
+concertado dentro de sí vive sin alboroto y tiene siempre en la mano la rienda de
+sus pasiones» 463. ¿Cómo lograr esa hegemonía de la razón? Luis de León se refiere
+a «los filósofos antiguos y los que por su sola industria quisieron alcanzar la vir­
+tud»464 y, concretamente, reprocha a «la filosofía de los estoicos... la poquedad de
+su idea de la virtud» 465. Hace suya la opinión de Epicteto: hay las cosas que depen­
+den de nosotros y las que dependen de la fortuna y, en consecuencia, «has de tener
+453 D iego de E stella , L i b r o d e l a v a n i d a d d e l m u n d o , S a l a m a n c a , 1 5 4 7 , I, 2 ; c i t o p o r la v i g é ­
+s i m o s e x t a y p e n ú l t i m a e d i c i ó n e s p a ñ o l a , B a r c e l o n a , 1 8 8 3 , v o l . I, p á g . 1 3 - D e e s t e o b r a , t r a d u c i d a a
+n u m e r o s a s le n g u a s , h a y , p o r e je m p lo , tr e s d e c e n a s d e e d ic io n e s e n ita lia n o .
+454 I dem , o p . c i t . , v o l . I I , p á g . 2 8 9 455 L u is de León , « E x p o s i c i ó n d e l l i b r o d e J o b - , 1 5 , 2 8 e n O b r a s c o m p l e t a s , 4 ." e d ., 1 9 5 7 , v o l.
+II, p á g . 2 7 5 .
+
+456 I dem , «Los n o m b res d e Cristo-, en O b r a s c o m p l e t a s , ed. cit., vol. I, pág. 5 4 0 .
+457 I dem , o p . c i t ., v o l . I, p á g . 5 4 0 .
+458 I dem , o p . c i t ., l o e . c i t .
+459 I dem , E x p o s i c i ó n , v o l . I I , p á g . 4 9 1 .
+460 I dem , o p . c i t . , pág. 6 l4 .
+461 I dem , o p . c i t . , l o e . c i t .
+462 I dem , o p . c i t . , p á g . 6 1 7 .
+463 I dem , o p . c i t ., p á g . 6 2 2 .
+464 I dem , o p . c i t . , p á g . 4 9 4 .
+465 I dem , o p . c i t . , v o l . I, p á g . 5 9 2 .
+
+204
+
+
+
+por tuyo lo que de veras lo es, y lo ajeno por ajeno..., y nadie te podrá hacer fuer­
+za jamás”466. también alude al remedio propuesto por «filósofos indios y muchos
+sabios de los bárbaros»467, o sea, ayunos y templanza. Y reconoce que «en un pecho
+que no pone límite a sus deseos y antojos, un Perú o un océano de oro que entre
+se desagua luego y se consume»468.
+Y hace una bella descripción del sabio feliz469 que se resume en esta pro­
+posición: «como no apetece desordenadamente ninguno de los bienes de fuera, no
+puede venir fuera ni entrarle en su casa sin su voluntad cosa ninguna que le dañe
+o enoje, sino, cerrado dentro de si y bastecido y contento con el bien de Dios que
+tiene en sí mismo» 47°.
+La fórmula clásica es el control de los deseos por la razón; pero Luis de
+León, por su formación agustiniana y acaso por temor a ser acusado de pelagianismo, afirma que eso es imposible porque «no se es señor enteramente ni pode­
+roso de sí»471 porque está «la naturaleza...dañada» 472. Y se separa de la tradición éti­
+ca racional para revisarla con una nota dogmática: «sin la gracia no hay paz» 473;
+pero, la gracia es un don «movedizo», y unas «criaturas la tienen» 474 y otras no. Ade­
+más de la cuestión de la justicia divina, se plantea la del determinismo, o sea, la
+paradoja, que tanto preocupó a los estoicos, de la providencia y el libre albedrío.
+La conclusión que se desprendería de la argumentación racional y empírica de la
+moral, se trunca por una polémica. La gracia sería para los elegidos 475, apelación
+dogmática que excluiría de la paz feliz a una parte de la Humanidad e implicaría
+una cierta predestinación.
+7.
+El canónigo parisiense Pedro Charrán (1541-1603), amigo de Mon­
+taigne, moralista inexactamente tenido por escéptico, escribió, entre otros libros, De
+la sabiduría (1601), que fue prohibido por Roma. Ecléctico y antiescolástico, ape­
+nas heterodoxo. Uno de los autores más citados es Séneca, el libro II está impreg­
+
+466 I dem , o p . c i t . , vol. I, pág. 4 7 8 .
+
+i67 Idem ,
+
+o p . c i t . , vol. I. pág. 6 2 4 .
+
+468 I dem , E x p o s i c i ó n , p á g . 2 7 5 .
+
+469 I dem , o p . c i t . , v o l . I , p á g . 6 3 2 .
+470 I dem , o p . c i t . , v o l . I, p á g s . 6 3 5 - 6 3 6 .
+471 I dem , o p . c i t . , v o l . I I . p á g . 3 4 3 472 I dem , L o s n o m b r e s d e C r i s t o , ed. cit., vol. I, pág. 5 4 0 .
+473 I dem , o p . c i t . , v o l . I, p á g . 6 2 7 .
+474 I dem , o p . c i t . , v o l . I , p á g . 4 3 2 .
+475 I C o r , 1 2 1 1 , G a l . 1 , 6 - 5 y R o m . 1 1 ,5 , o p a r a l o s b a u t i z a d o s , I C o r . 1 2 ,4 . V id . e l a r t í c u l o d e
+K . Rahner, « G r a c ia - e n S a c r a m e n t u m m u n d i , t r a d . e s p . B a r c e l o n a , 1 9 7 2 - 1 9 7 6 , v o l . I I I , c o i s . 3 1 9 - 3 3 4 .
+
+205
+
+
+
+nado de estoicismo. -De las pasiones y afectos —escribe— hay que despojarse y
+preservarse hasta quedar libre y puro como una hoja en blanco»476478Y reitera el ide­
+al del Pórtico: «Resolución y firmeza del alma por la que se ve y afronta los suce­
+sos sin perturbarse, se los acomete y combate, es una impasibilidad fuerte»471 para
+«vivir de acuerdo con la naturaleza»m , o sea, «con la razón universal»479. «El que no
+desea nada, por más que no tenga nada, equivale a ser y es tan rico como el que
+goza de todo»480. «Detengamos el curso de nuestros deseos»481. El eruditísimo Charrón no cita a Crisipo, pero es un heredero de su legado moral.
+8. La literatura mística y ascética española es ingente 482. Así, desde el
+medieval Diálogo de vita beata de Juan de Lucena, pasando por Introductio ad
+sapientiam (1524) de J. L. Vives o Victoria del mundo (1557) de A. de Orozco, etc.
+Sólo libros de menosprecio del mundo entre 1500 y 1576, aparecen 21 títulos 483. La
+presencia de ideas estoicas en la ascética española es constante.
+9. Juan de la Cruz (1542-1591) no fue un filósofo, sino un místico poeta,
+que nunca declaró visiones o revelaciones. Hombre de un sólo libro, la Biblia 484,
+se limitó a narrar sus propias vivencias. Entendía que la felicidad era la contem­
+plación y, en el límite, la unión con Dios. ¿Cuál era el camino que mostraba como
+testigo de sí mismo y director de conciencias? La vía mística está descrita, sobre
+todo, en las primeras de sus grandes obras Subida al monte Carmelo, y Noche oscu­
+ra, escritas en Granada entre los años 1578 y 1585, y publicadas postumamente
+como Obras espirituales el año 1618, según copias contemporáneas. Esa vía del
+alma es «la privación y purgación de todos sus apetitos sensuales acerca de todas
+
+476 C i t o p o r la t r a d . d e E . F abernig , D e l a s a b i d u r í a , B u e n o s A ir e s , 1 9 4 8 , p á g . 2 5 8 .
+
+477 I dem , o p . c i t ., p á g s . 2 6 0 - 2 6 1 .
+478 I dem , o p . c i t . , p á g . 2 7 7 .
+475 I dem , o p . c i t . , p á g . T i l .
+
+480 I dem , o p . c i t ., p á g . 3 1 1 .
+481 I dem , o p . c i t . , pág. 312.
+482 U n a v i s i ó n d e c o n ju n t o e n « A u to r e s e s p i r i t u a l e s e s p a ñ o l e s e n la E d a d M e d i a - y « A u to r e s
+e s p i r i t u a l e s e s p a ñ o l e s ( 1 5 0 0 - 1 5 7 0 ) - , a m b o s t r a b a jo s d e I saIas R odríguez e n R e p e r t o r i o d e h i s t o r i a d e l a s
+c i e n c i a s e c l e s i á s t i c a s e n E s p a ñ a , S a l a m a n c a , v o l. I, 1 9 6 7 , p á g s . 1 7 5 - 3 5 1 , y v o l . I I I , 1 9 7 1 , p á g s . 4 0 7 - 6 2 5 .
+L a F u n d a c ió n U n i v e r s i t a r i a E s p a ñ o l a h a s t a 1 9 9 8 h a b í a r e e d i t a d o 4 5 l i b r o s d e e s p i r i t u a l e s e s p a ñ o l e s c o n
+in tr o d u c c io n e s c r ític a s , a d e m á s d e u n a A n t o l o g í a d e l a l i t e r a t u r a e s p i r i t u a l e s p a ñ o l a , 4 v o ls . 1 9 8 3 - 1 9 8 6 .
+
+483 R odríguez , o p . c i t . , v o l. I I I, p á g . 4 2 3 .
+484 E n t o d a l a o b r a c o n s e r v a d a h a y c a s i u n m i l l a r d e c i t a s b í b l i c a s , p e r o s ó l o m e n c i o n a c u a ­
+t r o v e c e s a l f a l s o D i o n i s i o A r e o p a g i t a , c u a t r o a A g u s t ín d e H i p o n a , t r e s a T o m á s d e A q u i n o y G r e g o r i o
+M a g n o , d o s a B u e n a v e n t u r a y B o e c i o , y u n a a B e r n a r d o . V id . H . S ansón , E l e s p í r i t u h u m a n o s e g ú n S a n
+J u a n d e l a C r u z , 1 9 6 2 , p á g s . 1 9 - 2 1 , y C risógono de J esús , « V id a d e S a n J u a n d e la C r u z -, e n O b r a s c o m ­
+p l e t a s , 5 . a e d ., 1 9 6 4 , p á g s . 3 4 6 - 3 4 7 .
+
+206
+
+
+
+las cosas exteriores del mundo y de las que eran deleitables a su carne, y también
+de los gustos de su voluntad-485. Esta negación es «como noche para todos los sen­
+tidos- 486, «privación del gusto en el apetito de todas las cosas» 487, «lo que deja al
+alma libre y vacía- 488. Su recomendación es «no querer nada» 489. Aunque este despojamiento total es un camino para la contemplación divina, es también un fin en
+sí mismo porque «los apetitos... cansan, atormentan, oscurecen, ensucian y enfla­
+quecen» 49°. Cada uno de estos verbos es glosado, el primero, por ejemplo, con una
+metáfora: «cansa y fatígase el alma que desea cumplir sus apetitos porque es como
+el que teniendo hambre abre la boca para hartarse de viento y se seca más» 491. Y
+así sucesivamente. La meta de la unión divina exige un proceso que culmina des­
+pués de la muerte: «en este camino siempre se ha de caminar para llegar, lo cual
+es siempre ir quitando quereres» 492.
+La renuncia que para alcanzar la felicidad terrena y ultraterrena propone
+el místico es absoluta, es un total vaciamiento de deseos, de afectos y de sensa­
+ciones. La vía de la dicha suprema se quintaesencia en un verso «has de negarte del
+todo en todo» 493 hasta llegar a la «desnudez» del alma 494.
+10.
+Guillermo de Vair (1556-1621), político y soldado, escribió tres trata­
+dos bastante reiterativos: La santa filosofía (1584), La filosofía moral de los estoicos
+(1585) y De la constancia (1597), que es una glosa del ensayo de J. Lipsio con el
+mismo título, además de una traducción de Epicteto y de oradores clásicos. Estos
+textos piadosos se publicaron como anónimos hasta que su autor los reunió, salvo
+el último, en un volumen (1600) con su nombre. Fue el moralista seglar más ree­
+ditado de la primera mitad del siglo x v ii 495.
+El planteamiento es más religioso que filosófico. Afirma que «las pasiones
+son perversas... y nos alejan de la recta razón»496; pero para «odiar las cosas bajas
+485 J uan de la C ruz , O b r a s c o m p l e t a s , ed. crítica L. del Sacram en to, 5.a ed ., 1946, pág. 367.
+
+486 I dem , o p . c i t . , pág. 368.
+487 I dem , o p . c i t . , pág. 369.
+488 I d e m , o p . c i t . , p á g . 3 7 0 .
+
+489 I dem , o p . c i t . , pág. 391.
+490 I dem , o p . c i t . , pág. 376.
+491 I dem , o p . c i t . , pág. 378.
+492 I dem , o p . c i t . , pág. 387.
+493 I dem , o p . c i t . , pág. 391 494 I dem , o p . c i t . , loe. cit.
+495 G . M ichaut en u m era las su cesiv as im presion es en su ed ició n D e l a s a i n t e P b i l o s o p b i e ,
+
+1946, págs. 116-122.
+496 G . du V air , D e l a S a i n t e P b i l o s o p b i e , e d . M i c h a u t , P a r ís , 1 9 4 6 , p á g . 1 5 .
+
+207
+
+
+
+y mundanas se requiere el amor a las cosas divinas o sabiduría» 497498. «El fin y la feli­
+cidad es contemplar a Dios»49S, «ver su faz luminosa» 4". El tratado, muy retórico,
+donde cita a Filón, sería una meditación espiritual si, además, no incluyera una
+argumentación terrenal. La extirpación de los vicios y el ejercicio de las virtudes
+—temperancia, clemencia, moderación, coraje, liberalidad, justicia, meditación y
+oración— también «en este bajo mundo... proporciona un contento superior a todos
+los demás mundanales» 500. No es sólo la evitación de dolor, típicamente estoica, es
+una dicha positiva por la práctica de la virtud: «es un gran placer obrar bien y no
+hay voluptuosidad mayor en el mundo que el contento que experimentamos en
+nuestra conciencia por una bella y noble acción»501502. Ni siquiera en su exposición
+de la doctrina estoica, postula la apatía, aunque en una carta de l606 escribe a un
+amigo: «No veo otro puerto para mí que la búsqueda de la insensibilidad estoica»
+502. En suma, por la ascesis hacia el contento mundano y hacia la bienaventuranza
+ultraterrena.
+11.
+Francisco de Quevedo (1580-1645), que en sus obras en prosa cita
+93 veces a Séneca, 47 a Epictero, 4 a Crisipo y 3 a Antipatro, Oleantes y Zenón,
+escribió, con el título La cuna y la sepultura (1630), un importante tratado que,
+según la aprobación eclesiástica de J.E. Nieremberg, «representa los sentimientos
+estoicos...Parece que Epicteto se nos ha vuelto español, que Crisipo claro, que
+Zenón tratable, que Antipatro breve, que Oleantes vivo, que Séneca cristiano» 503.
+Además, tradujo diez epístolas de Séneca y escribió unas breves Apostillas (1632)
+sobre su ejemplar de las obras completas del cordobés. En la línea de algún
+padre de la Iglesia, Quevedo sostuvo que parte de la doctrina estoica era «hurto
+literal» del libro bíblico de Job 504, tema abordado en su obra La constancia y
+paciencia del Santo Job (1641) y, antes, en su precedente Themanites redivivus
+in Job.
+Quevedo hace suya la doctrina clásica: «No es dichoso aquel a quien la
+fortuna no puede dar más, sino aquel a quien no puede quitar nada» 505. El peligro
+497 I dem , o p . c i t ., p á g s . 1 6 - 1 7 .
+498 I dem , o p . c i t ., pág. 20.
+499 I dem , o p . c i t . , p á g . 5 7 .
+500 I dem , o p . c i t . , p á g . 4 9 .
+501 I dem , o p . c i t . , p á g . 5 0 .
+502 I dem , L e t t r e s i n é d i t e s , 1 8 7 3 , c i t a d o p o r S panneut, P e r m a n e n c e d u s t o i c i s m e , 1 9 7 3 , p á g . 2 4 7 .
+503 Q uevedo , «La c u n a y l a s e p u ltu r a » , e n O b r a s c o m p l e t a s . P r o s a , e d . A s t r a n a , 3 . a e d . , M a d r id ,
+1945, pág. 1060.
+
+504 I dem , o p . c i t ., pág. 1063.
+505 I dem , o p . c i t . , p á g . 1 0 7 1 .
+
+208
+
+
+
+son las propias pasiones: «tu mayor miseria no es sino que entre todos los anima­
+les tu sólo naciste contra tí mismo»506 «¿Por qué no tasas tus deseos?» 507508, «reprime
+los deseos»50S. «Dichoso serás y sabio habrás sido si cuando la muerte venga no te
+quitare sino la vida solamente» 509. Así interpretaba la ataraxia o imperturbabilidad:
+«No sintiendo nada de lo que no está en tu mano o sucede no por tu culpa sean y
+las hagas como si no las hubiese, y tengas en paz tu ánimo» 51°. En suma, «contén­
+tate con lo que tuvieres»511.
+12.
+Nieremberg (1595-1658) es uno de los más cultos espirituales espa­
+ñoles de la Contrarreforma. En su obra, vasta y desigual, destacan, De arte voluntatis (1631) traducida al francés en 1657 y al italiano en 1669, De la diferencia entre
+lo temporal y eterno. Crisol de desengaño (1640), numerosas veces reeditada en
+español, italiano, francés, inglés y alemán, y también Dictámenes (1642), una selec­
+ción de sentencias del autor que en la traducción francesa de 1671 lleva el subtí­
+tulo «Máximes stoiciennes». La visión del mundo es muy negativa. «El mundo con
+sus engaños nos ciega para que no veamos las cosas como son»512, «las cosas de la
+tierra, justamente con ser tan viles inconstantes y perecederas, son engañosas y
+están llenas de peligros»513514,«valle de lágrimas»513, «embeleco»515, «nonada»516, «un tea­
+tro de miserias en cuanto a lo natural y, en cuanto a lo moral, un monstruo de cul­
+pas» 517. No es menos negativa la caracterización de la vida humana: «mucho exce­
+den en número los males de esta vida a los bienes»518, «tal es la vida humana que
+ningún alma si se la dieran a escoger, entrara en ella»519, la vida «no es toda ella
+sino un montón de miserias» 52°. El libro tercero de esta obra es un tratado de
+menosprecio del mundo 521. Consecuentemente, la interpretación del hombre es
+
+506 I dem , o p . c i t . , p á g . 1 0 6 5 .
+507 I dem , o p . c i t . , pág. 1060.
+508 I dem , o p . c i t . , p á g . 1 0 7 1 .
+509 I dem , o p . c i t . , pág. 1072.
+510 I dem , o p . c i t . , p á g . 1 0 7 5 .
+
+511 I dem , o p . c i t . , p á g . 1 0 7 9 512 J uan E usebio N ieremberg , D e l a d i f e r e n c i a e n t r e l o t e m p o r a l y e t e r n o , e d . R i v a d e n e y r a ,
+v o l. 1 0 4 , M a d r id , 1 9 5 7 , p á g . 9 9 .
+513 I dem , o p . c i t . , p á g . 1 5 5 .
+514 I dem , E p i s t o l a r i o , e d . N . A l o n s o C o r t é s , M a d r id , 1 9 1 5 , p á g . 1 4 7 .
+515 I dem , o p . c i t . , pág. 33.
+516 I dem , o p . c i t . , pág. 28.
+517 I d e m , « P r o d ig io d e a m o r d iv in o » , e n O b r a s C o m p l e t a s , 1 6 5 1 , v o l . I I I, p á g . 1 2 0 .
+5,8 I d e m , « E p ís to la s » , e n O b r a s C o m p l e t a s , v o l . I I I, p á g . 1 0 9 .
+519 I dem , « P r o d ig io » , e n O b r a s C o m p l e t a s , v o l . I I I, p á g . 2 0 9 .
+520 I dem , « D i f e r e n c i a :, e d . c i t ., p á g . 1 3 9 .
+521 I dem , o p . c i t . , p á g s . 1 1 2 - 1 6 3 .
+
+209
+
+
+
+casi una diatriba, «un vaso de estiércol» 522, «el modo natural de ser hombre es
+sufrir» 523.
+¿Cuál es la solución? «Para vencer al mundo ha de preceder otra victo­
+ria, que es la de sí mismo» 524, «procurar un alma que esté indiferente para cual­
+quier cosa» 525, «no ha de parar esta despropiación de sí» 526 «todo lo temporal has
+de despreciarlo por sí» 527, «caminemos por deseo para llegar a no desear» 528,
+«¿qué mayor felicidad que no tener ya que desear?» 529, «¿qué es la felicidad? la
+absoluta falta de deseos» 530; en suma, «echar grillos a nuestros apetitos y anto­
+jos»531 porque «miseria es faltar lo que se desea y desear lo que ha de faltar» 532.
+«La virtud se contenta con sí sola, aún en medio de las mayores tormentas no
+está descontenta. No digo en esto último de la perfección evangélica, sino un
+principio de la filosofía estoica» 533534. Las fuentes principales de Nieremberg, ade­
+más de la patrística con Agustín citado 574 veces, son Séneca 150, Filón 57, Pla­
+tón 55, Epicteto 20, Plotino 12; pero también Ignacio de Loyola a quien, según
+H. Didier «plagia» en ocasiones aunque lo subsuma en el estoicismo y el neo­
+platonismo 5M.
+Nieremberg, cuya inmensa erudición era, en gran parte, indirecta 535, se
+interesó mucho por los pueblos americanos recién descubiertos y, como los neoplatónicos, por las filosofías egipcia, persa, tibetana e hindú. Se refiere a los brahamanes 536 y, en su excéntrico libro Historia Naturae, dedica capítulos a los tibe522 I dem , « E p ís to la s » , e n O b r a s C o m p l e t a s , v o l . I I I , p á g . 1 7 1 ; e s u n a c i t a d e S a n B e r n a r d o , r e i ­
+te ra d a e n D i f e r e n c i a , p á g . 1 5 1 .
+523 I dem , D e a r t e v o l u n t a t i s , 1 6 1 3 , II, 1 1 , p á g . 1 2 4 .
+524 I dem , E p i s t o l a r i o , e d . c i t ., p á g . 3 9 .
+
+525 I dem , V i d a d i v i n a e n e d . R i v a d e n e y r a 1 0 3 , p á g . 5 7 .
+526 I dem , o p . c i t . , pág. 50.
+527 I dem , D i f e r e n c i a , p á g . 2 4 6 .
+528 I dem , « D ic t á m e n e s » , e n O b r a s C o m p l e t a s , v o l . I I I , p á g . 1 7 9 .
+529 I dem , E p í s t o l a s , e d . 1 9 4 5 , p á g . 1 2 9 .
+530 I dem , D e a r t e v o l u n t a t i s , 6 , 2 5 , p á g . 4 9 2 .
+531 I dem , « O b r a s y d ía s » , e n O b r a s C o m p l e t a s , v o l . I I I , p á g . 1 8 .
+532 I dem , E p i s t o l a r i o , p á g . 1 6 2 .
+533 I dem , E p i s t o l a r i o , p á g . 1 9 0 . E n s u g r a n t r a t a d o d e a s c é t i c a , i n t e r c a l a u n c a p í t u l o c o n t e s t i ­
+m o n io s d e S ó c r a te s , E p ic u ro , S é n e c a y o tro s , V id a d i v i n a , e n e d . R iv a d e n e y ra , v o l. 1 0 3 , p á g s . 2 6 -3 0 .
+534 H ughes D idier , V i d a y p e n s a m i e n t o d e J u a n E . N i e r e m b e r g , tr a d . e s p . M a d r id , 1 9 7 6 , p á g s .
+1 2 7 - 1 3 7 ; l o s in v e n t a r i o s d e c i t a s e n p á g s . 5 2 1 y s ig s .
+535 M. de la B igne , M a g n a b i b l i o t h e c a v e t e r u m p a t r u m a n t i q u o r u m s c r i p t o r u m e c c l e s i a s t i c o r u m , 1 6 1 8 - 1 6 2 2 , X V v o ls .
+536 I dem , «Epístolas», en O b r a s C o m p l e t a s , vol. III, pág. 124.
+
+210
+
+
+
+taños y amerindios 537. Como en los estoicos y neoplatónicos, la huella de Oriente,
+más entrevista que textual, es difícil de preterir.
+13- Descartes (1596-1650), que apenas se ocupó de moral, escribió Les
+passions de l’áme (1649), su última obra, de orientación empírica, que comienza
+con menosprecio de dos antiguos que han enseñado tan poco y tan poco creíble»538
+acerca de las pasiones, lo que demuestra muy poco conocimiento de los estoicos.
+En una carta de 1645, comentó a Séneca; pero superficialmente. Su extravagante
+teoría de que «el alma reside en una pequeña glándula que está en el medio del
+cerebro» 539, le lleva a sostener que «no es bueno despojarse enteramente de las
+pasiones como antaño hicieron los cínicos»540. Incluso afirma que tal extirpación es
+imposible: «las pasiones no pueden ser ni directamente excitadas, ni suprimidas por
+un acto de nuestra voluntad»541. No obstante, se niega a abandonarse a las pasio­
+nes «que ponen al alma en el más deplorable estado posible» 542, y encuentra una
+solución indirecta que permite que «hasta las almas más débiles puedan lograr un
+dominio absoluto de sus pasiones» 543. Esa vía indirecta es «representarse cosas con­
+trarias a las pasiones» para contrarrestarlas 544, en suma, encauzarlas. Perdido en sus
+elucubraciones sobre los «espíritus» materiales y la glándula pineal, al fin, Descartes
+retorna, no sin cierta contradicción, a la doctrina estoica: «es bueno lo que respon­
+de a un conocimiento verdadero y es malo lo fundado en un error» 545; «no debe­
+mos estimar como posibles las cosas que no dependen de nosotros, y que creemos
+que dependen de la fortuna» 546; «mientras nuestra alma se contente con su interior,
+todas las turbaciones que vengan del exterior no podrán hacerle daño» 547; «hay que
+extender nuestro deseo sólo a lo que únicamente depende de nosotros» 548. En defi­
+nitiva, Descartes, más allá de su psicofisiología, reconoce la renuncia a lo externo
+como vía de la felicidad.
+
+537 I dem , H i s t o r i a N a t u r a e , V III, 17, 140.
+
+538 D escartes, L e s p a s s i o n s d e l ' á m e a r t . 1 ; c i t o p o r l a e d . d e O e u v r e s d e J . S i m ó n , P a r ís , s . a . ,
+pág. 523.
+
+539 I dem , L e s p a s s i o n s , a r t . 3 3 , p á g s . 5 3 8 - 5 3 9 .
+540 I dem , o p . c i t . , a r t . 2 0 6 , p á g . 6 1 3 .
+541 I dem , o p . c i t . , a r t . 4 5 , p á g . 5 4 3 .
+542 I dem , o p . c i t . , a r t . 4 8 , p á g . 5 4 6 .
+543 I dem , o p . c i t . , a r t . 5 0 , p á g . 5 4 8 .
+544 I dem , o p . c i t . , a r t . 4 5 , p á g . 5 4 3 .
+545 I dem , o p . c i t . , a r t . 1 4 4 , p á g . 5 8 6 .
+546 I dem , o p . c i t . , a r t . 1 4 5 , p á g . 5 8 7 .
+547 I dem , o p . c i t . , a r t . 1 4 7 , p á g . 5 8 9 .
+548 I dem , o p . c i t . , a r t . 1 4 6 , p á g . 5 8 7 .
+
+211
+
+
+
+14. Gracián (1602-1658) es el intelectual español del barroco con mayor
+proyección internacional 549. Su visión del mundo y del hombre se hace más nega­
+tiva con los años. La primera parte de El Criticón (1659), título muy revelador, es
+antropológicamente demoledora. “Cada uno es un lobo para el otro, si ya no es
+peor el ser hombre» 550, “Si los hombres no son fieras es porque son más fieros»551.
+Su concepción se quintaesencia en dos sentencias lapidarias: “el mundo es un
+cero» 552 y el hombre «es tierra, es polvo y nieto de la nada» 553. ¿Existe un camino
+para acercarse a la felicidad? Aunque sacerdote, la aproximación de Gracián al tema
+no es trascendentalista, sino terrenal, en la línea de Séneca a quien elogia altamen­
+te y cita medio centenar de veces, más que a ningún otro autor profano. La clave es
+el autodominio: «no hay mayor señorío que el de sí mismo, de sus afectos» 554. Pero
+la respuesta cabal se encuentra en una página publicada una década antes de morir:
+«Estoy tan lejos de decir que consiste la felicidad en tenerlo todo, que antes digo que
+en tener nada, desear nada y despreciarlo todo. Esta es la única felicidad, la de los
+discretos y sabios» 555, “toda la felicidad humana consiste en tener prudencia, y la des­
+ventura en no tenerla» 556. La prudencia como desasimiento del mundo. Así se alcan­
+za el ideal: “Bástese a sí mismo el sabio. El era todas sus cosas y llevándose a sí lo
+llevaba todo» 557. Más allá del evasivo ingenio, del consejo mundano y de la denun­
+cia desengañadora, el mensaje moral de Gracián es la felicidad por la renuncia.
+15. Pascal (1623-1662), más eminente por su obra científica que por la filo­
+sófica, tenía a Epicteto como una lectura predilecta 558. Su concepción del hombre es
+muy negativa. Rechaza las pasiones: «Quisiera llevar al hombre a desear librarse de
+las pasiones» 559. «Cuando nuestra pasión nos mueve a algo, olvidamos nuestro
+deber» 560. «Cuando se desobedece a la razón se es infeliz»561. La clave de la infelici­
+549 U n a l i s t a d e l a s n u m e r o s a s t r a d u c c i o n e s — S c h o p e n h a u e r v e r t i ó e l O r á c u l o a l a l e m á n —
+e n E . C orrea C alderón , B a l t a s a r G r a c i á n , 2 . a e d ., M a d r id , 1 9 7 0 , p á g s . 3 2 3 - 3 6 1 .
+
+550 G racián, E l C r i t i c ó n e n O b r a s c o m p l e t a s , M a d r id , 1 9 4 4 , p á g . 4 4 5 .
+551 I dem , o p . c i t . , pág. 446.
+552 I dem , O r á c u l o m a n u a l , 1 6 5 7 , C C X I , e d . c i t ., p á g . 4 0 2 .
+553 I dem , A r t e y a g u d e z a d e i n g e n i o , 1 6 4 8 , X X X I X , e d . c i t ., p á g . 2 1 3 .
+554 I dem , O r á c u l o . V III, ed. cit., pág. 350.
+555 I dem , E l C r i t i c ó n , 3,9 , ed. cit., pág. 704.
+556 I dem , o p . c i t . , pág. 795.
+557 I dem , O r á c u l o , C X X X V I I , e d . c i t ., p á g . 3 8 6 .
+558 Su c o lab o ra d o r y testigo, M. R icher , red actó una C o n v e r s a c i ó n d e P a s c a l y M . d e S a c i s o b r e
+E p i c t e t o y M o n t a i g n e , celeb ra d a e n 1655 y p u blicad a postu m am ente e n 1728, y citó c o n reiteració n a los
+
+esto ico s en sus P e n s a m i e n t o s s o b r e l a r e l i g i ó n c r i s t i a n a , 1669.
+559 P ascal, P e r n e e s , c i t o p o r la e d . c r í t i c a d e H . M a s s i s , P a r ís , 1 9 4 9 , p á g . 1 5 1 .
+5611 I dem , o p . c i t . , pág. 93.
+561 I dem , o p . c i t . , pág. 145.
+
+212
+
+
+
+dad es el deseo: «la naturaleza nos hace siempre desgraciados en cualquier estado
+porque nuestros deseos nos presentan una situación venturosa..., pero cuando llega­
+mos a ese estado no seremos felices porque otros deseos han surgido» 562. La receta
+tiene resonancia antigua: «No hay que buscar el bien en el azar y en las cosas exte­
+riores»563. «No dejarse arrastrar, permanecer inmóviles, y firmes» 564. Dentro de la ambi­
+güedad pascaliana, que recuerda a los inconclusivos diálogos platónicos, el mensaje
+es la aceptación de la caída condición humana, el autodominio y el control del deseo.
+16.
+Feijoo (1676-1764) tan fecundo y tan leído 565 declaraba: «yo escribo de
+todo» 566; pero mostró más interés por las ciencias naturales que por la ética. En filo­
+sofía, aunque ecléctico e influenciado por franceses casi contemporáneos, fue de for­
+mación aristotélica. Elogió a Séneca: «de la Filosofía Moral profana, si se aparta a un
+lado a Aristóteles, cuanto hay de estimable en el mundo está en los escritos del gran­
+de estoico cordobés L.A. Séneca» 567. Pero, independientemente de algunas citas de
+interés marginal, el influjo de Séneca en el pensamiento de Feijoo es mínimo, quizás
+porque no estimaba al estoicismo. Rechaza la apatía: «los estoicos que en la oficina de
+la virtud pretendían transformar a los hombres en mármoles». Y, haciéndose eco de la
+acusación tacitista, reactualizada en la Italia del Renacimiento, acusa: «Séneca, aquel
+grande honor de la escuela estoica, al mismo tiempo que estaba opulentísimo, predi­
+caba en alto grito a favor de la pobreza» 568. Hace suyo el dicterio «fariseos del paga­
+nismo» 569 e inicuamente remacha: «los estoicos, sin excluir a Séneca, eran unos hipocritones» 57°. Su distancia del Pórtico le lleva a ignorarlo cuando aborda el tema de la
+muerte o el del suicidio571. Y en la línea antitópica que gustaba de cultivar, hace una
+defensa de Epicuro 572. El enciclopédico crítico quiere aparecer como antiestoico.
+op. cit., pág. 90.
+op. cit., p ág. 174.
+564 I dem , op. cit., p á g . 1 3 7 .
+562 I dem ,
+563 I dem ,
+
+565 U n i n v e n t a r i o d e s u s p u b l i c a c i o n e s y r e i m p r e s i o n e s e n J . A. P érez R ioja ,
+
+actualidad d e Feijoo,
+
+Proyección y
+
+1 9 6 5 , p á g s . 2 8 5 - 3 0 5 . C a si ta n le íd o c o m o F e ijo o fu e , lu e g o , e l p r o lífic o f iló s o f o p o r ­
+
+t u g u é s T eodoro de A lmeida ( 1 7 2 2 - 1 8 0 3 ) , a u t o r d e u n a e x t e n s a n o v e l a c o n la t e s i s d e l a u t o d o m i n i o d e l
+d e s e o , t it u la d a
+
+FJ hombre fe liz independiente del mundo y d e la fortuna o arte d e vivir contento,
+
+tr a d u ­
+
+c i d a p o r p r im e r a v e z a l e s p a ñ o l e n 1 7 8 5 y r e e d i t a d a m á s d e v e i n t e v e c e s .
+566 B e n i t o J e r ó n i m o F e i j o o ,
+
+Theatro crítico universal,
+
+9 v o l s ., 1 7 2 6 - 1 7 4 0 , v o l . IV , P r ó l o g o ; c i t o
+
+p o r la 8 . a e d . d e J . I b a r r a , v o l . I, 1 7 7 8 , v o l . I I 1 7 7 7 , v o l . I I I 1 7 7 7 , v o l . I V 1 7 6 9 , v o l . V 1 7 7 8 , v o l . V I 1 7 7 3 ,
+v o l V II . 1 7 7 8 , y v o l. V I I I 1 7 7 9 ; e l t e x t o e n v o l. IV , e d . c i t ., P r ó l o g o , p á g . X X X I X .
+
+op. cit., , v o l . IV , p á g . 3 8 0 .
+op. cit., v o l . V I , p á g . 1 0 7 .
+569 I dem , op. cit., loe. cit.
+570 I d e m , op. cit., v o l . V I , p á g . 1 0 8 .
+571 Idem , op. cit., vol. VI, págs. 56 y sigs., y págs. 83 y sigs.
+572 I dem , op. cit., v o l . V I , p á g s . 1 0 1 y s i g s . E r a e l t e m a d e l o s d o s p o l é m i c o s l i b r o s
+sendi, De vita, moribus etplacitis Epicuri, 1 6 3 0 , y Syntagma philosophiae Epicuri, 1 6 4 9 .
+567 F eijo o ,
+
+568 I dem ,
+
+d e P . G as-
+
+213
+
+
+
+El punto de partida es un rotundo pesimismo antropológico, característico
+de la teología del pecado original; pero su argumentación es racional, incluso con
+referencias a la copernicana refutación del geocentrismo. Feijoo reitera en su últi­
+ma obra que el hombre es «un nada, o casi nada, prope nihil»573.
+Cuando en su discurso de mayor sustancia ética aborda el problema de la
+felicidad, hace suya la definición de Bacon: «felices juzgo a aquellos cuyo género
+de vida es proporcionado al propio género»57457, lo que implica una razonada subjetivación de la dicha. Sin embargo, dentro del relativismo personal, Feijoo descubre
+una ley estadística: «la naturaleza dejada a su genio, se contenta con poco; pero si
+la hacen melindre se forma en ella una dama descontentadiza, que todo lo apete-
+
+El empirismo metódico de Feijoo le revela la importancia del deseo, e
+inmediatamente reconoce la verdad de la vieja lección moral: «Hay genios flexibles
+que se acomodan a toda fortuna... Nada los quebranta..., están contentos en cual­
+quier estado. Tienen la rueda del ánimo concéntrica con la de la fortuna... Consi­
+go llevan la fortuna de cualquier modo que rueden. No puede negarse que de estos
+genios hay pocos; pero se debe confesar que estos son los verdaderamente feli­
+ces» 576. No es, pues, hipocresía, es disciplina del deseo para adaptarlo a las posibi­
+lidades reales, la felicidad por «la estrecha moderación» 577, en suma, por la actitud
+opuesta a la de quien «todo lo apetece». Desde la experiencia pura, Feijoo, tan agre­
+sivo con el Pórtico, reanuda la tradición de las más antiguas sabidurías orientales,
+el bienestar desde dentro.
+17.
+Kant (1724-1804) es el moralista del inmortal imperativo categórico y,
+en sus obras metafísicas, formula reservas al estoicismo, una vez injustamente cali­
+ficado de «fanatismo moral» 578; pero cuando desciende a la experiencia ética con­
+creta, en su tardía Antropología desde el punto de vista pragmático (1798), acepta la
+terapia de la renuncia: «Estar sometido a las emociones y a las pasiones es una
+enfermedad del alma puesto que las dos excluyen el dominio de la razón... La
+escuela estoica ha hecho un principio moral justo y sublime del principio de la apa­
+tía, según el cual el sabio no debe ser jamás turbado, ni siquiera por la compasión
+
+573 I dem , C a r t a s e r u d i t a s y c u r i o s a s , 1 7 4 2 - 1 7 6 0 ; c i t o p o r l a e d . d e 1 7 7 0 , v o l . V , p á g . 3 0 .
+574 I dem , o p . c i t . , vol. I, pág. 71.
+575 I dem , o p . c i t . , vol. I, pág. 64.
+576 I dem , o p . c i t . , v o l . I, p á g . 7 4 .
+577 I dem , o p . c i t ., vol. I, pág. 69.
+578 K ant , K r i t i k d e r r e i n e n V e m u n f t , 1 .a p a r t e , 1 , l . er c a p . c h 3-
+
+214
+
+
+
+hacia las desgracias de su mejor amigo... Cuando la naturaleza ha gratificado a un
+alma con suficiente fortaleza... la apatía es una flema dichosa en el sentido moral.
+No se es por eso un sabio; pero la naturaleza otorga a algunos ese favor de poder
+serlo más fácilmente que otros» 579. Permanece, sin embargo, el ideal de la imper­
+turbabilidad como forma de evitar la desdicha.
+18.
+Fichte (1762-1814), como un paso más en su defensa contra la acu­
+sación de ateísmo que le obligó a renunciar a su cátedra de Jena en 1799, y en táci­
+ta polémica con el libro de Schelling Philosophie und Religión (1804), publicó en
+1806 sus once lecciones berlinesas de vulgarización, entre teosóficas y místicas, con
+el título Instrucción para una vida dichosa. Aunque reitera que su pensamiento
+coincide con el cristiano del evangelio joánico 58°, tal pretensión es infundada. Se
+confiesa protestante581, pero su cosmogonía resulta panteísta 582, su cristología “Sui
+generis» 583, su versión de la eucaristía misticismo 584, y su idea de la bienaventuran­
+za celestial casi ectoplasmática 585.
+Para Fichte hay una «vida aparente» que es un «no ser»5S6, «desgracia» 587,
+«imperfección»58S, «miseria e infortunio» 589, «amor a lo que se nos aparece como
+mundo» 590, «amor a lo contingente»591, y «dispersión en lo diverso y vario» 592. Esa
+vida aparente es desdichada porque «ningún bien terrestre es capaz de dar la feli­
+cidad» 593, «nada de lo que hay bajo la luna y el sol satisface»594. En cambio, una
+«vida verdadera» es «inefablemente dichosa» 595, «beatitud» 596, «captar al Uno y Eter­
+
+579 Kant ,
+
+Kants Werke,
+
+Anthropologie in pragmatischer Hinsicbt
+
+1 7 9 8 , I I I , 7 3 - 7 5 ; c i t o p o r l a e d . B . C assirer ,
+
+B e r lín , 1 9 2 2 , v o l. V II, p á g s . 1 4 1 -1 4 3 .
+
+580 J o h a n n G o t t l i e b F i c h t e ,
+
+Anweisung zum seligen Leben,
+
+1806 en
+
+Werke e d .
+
+I.H . F i c h t e , 1 8 3 4 -
+
+1 8 4 6 , v o l. V , p á g s . 4 1 2 , 4 1 3 , 4 2 4 , 4 7 6 , 4 8 4 , 4 9 0 , 4 9 2 , e t c . U tiliz o la r e e d i c i ó n f o t o m e c á n i c a d e B e r l í n , 1 9 7 1 .
+
+581 Idem, op. cit.,
+582 I dem, op. cit.,
+583 Idem,
+op­ cit.,
+584 I dem, op. cit.,
+585 Idem,
+cit.,
+
+op­
+
+586 Idem, op. cit.,
+587 I dem,
+op­ cit.,
+588 Idem, op. cit.,
+589 I dem,
+590 I dem,
+
+op. cit.,
+op. cit.,
+591 Idem,
+op­ cit.,
+
+592 I dem, op. cit.,
+593 Idem, op. cit.,
+594 I dem, op. cit.,
+595 Idem,
+596 Idem,
+
+op. cit.,
+op. cit.,
+
+pág. 4 24.
+págs . 4 6 9 y 479.
+págs . 569
+
+y s ig s .
+
+Pág- 4 8 8 .
+pág- 5 1 5 .
+Pág- 4 0 5 .
+Pág- 4 0 9 .
+Pág- 5 3 8 .
+Pág- 4 0 6 .
+pág- 4 0 6 .
+Pág- 5 0 6 .
+Pág- 4 1 2 .
+Pág. 409.
+Pág- 4 0 8 .
+Pág- 4 4 4 .
+Pág- 4 0 9 .
+
+215
+
+
+
+no con amor» 597598, «unión con Dios en cuanto Uno y Absoluto»59S, «convencernos ínti­
+mamente de nuestra propia nada y de nuestra existencia únicamente en Dios y para
+Dios»5", «no querer ni desear otra cosa que Dios» 600.
+Para lograr esa unión hay que realizar «la retracción sobre sí mismo»601, «el
+antiguo yo se aniquila en la existencia divina» 602, «el esfuerzo de recoger el alma
+para que retorne sobre sí misma» 603 y para que «se recoja en un silencio solitario
+donde nada la turbe» 604. «La beatitud no puede ser descrita, sólo experimentada» 605,
+y «no se confunde con el bienestar material» 606 Ese doble proceso de interioriza­
+ción y desprendimiento, y de posterior proyección y amor divino no es exclusivo
+del sabio, sino que, contra el elitismo antiguo, es accesible a «todos los hombres»607,
+y sólo se puede realizar mediante el «pensamiento»60S.
+Según Fíchte, tal ensimismamiento dichoso de unión con Dios no coinci­
+de con la apatía estoica que considera «puramente negativa» 609, «frialdad, desinterés
+e insensibilidad ante los placeres de la vida»6l0. Sin embargo, Fichte, como los estoi­
+cos, recomienda «tomar las cosas como vienen»6n, rechaza lo «pasajero y perece­
+dero» 6l2, y condena los «gozos» y «placeres materiales»6l3.
+Hacia la felicidad terrenal y ultraterrena614 por la renuncia a uno mismo
+hasta la unión amorosa en Dios. Una tradición milenaria, anterior a Plotino, resue­
+na en este precepto del postrer idealismo fichteano, no exento de contradicciones.
+
+op .
+op .
+599 I dem , op .
+600 I dem , op .
+597 I dem ,
+
+598 I dem ,
+
+cit. ,
+cit. ,
+cit. ,
+cit.,
+
+pág. 447.
+p ág. 4 6 l.
+pág. 448.
+pág. 475.
+
+601 « S e l b s t c o n t r a c t i o n » ( ídem ,
+
+®2 I dem ,
+
+op . cit.,
+
+op . cit. ,
+
+p ág . 4 9 4 ).
+
+pág. 518
+
+603 « S a m m lu n g d e s G e m ü t h e s u n d E i n k e h r d e s s e l b e n in s i c h s e l b e r - ( ídem ,
+
+604 I dem, op . cit. ,
+605 Idem, op . cit.,
+606 I dem, op . cit.,
+607 I dem,
+608 Idem,
+609 I dem,
+610 I dem,
+611 Idem,
+612 I dem,
+613 Idem,
+614 I dem,
+
+216
+
+op .
+op .
+op .
+op .
+op .
+op .
+op .
+op .
+
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+cit.,
+
+pág. 415.
+pág. 549
+p ág. 519.
+pág. 419.
+pág. 410.
+pág. 505.
+p ág s. 523 y 528.
+p ág. 522.
+pág. 412.
+p ág s. 4 9 9 , 5 0 0 y 528.
+pág. 408.
+
+op . cit.,
+
+p ág . 4 1 3 ).
+
+
+
+19.
+Schopenhauer (1788-1860), que conoció el hinduismo a través de
+la traducción latina que ofreció Anquetil du Perron de las Upanishads (1802), «el
+más rico presente que debemos al siglo actual»615, afirmó que su «filosofía estu­
+vo libre de toda influencia budista»616. No debe, pues, atribuirse tal origen a su
+fundamental tesis de que «el dolor es la forma de manifestarse la vida»6l7. Una
+interpretación tan negativa de la existencia humana nace de su filosofía voluntarista. Es, en cambio, expreso el influjo de la moral estoica618 como «dietética
+espiritual»619.
+El punto de partida es que «la voluntad es lo primero y originario» 62°, «la
+esencia íntima de todo, la llamada cosa en sí»621. Esa voluntad, que se manifiesta
+en todo lo real y especialmente en el hombre, es insaciable: «sus deseos son ilimi­
+tados, sus pretensiones inagotables, y la satisfacción de cualquier apetito engendra
+otro nuevo» 622. Tal condición hace que «la vida no admita una verdadera felici­
+dad» 623624.Este es el círculo trágico de la existencia: «todo deseo nace de una necesi­
+dad, de una carencia, de un dolor y, en consecuencia, la satisfacción sólo es un
+sufrimiento evitado y no una adquirida felicidad positiva»62A.
+La cuestión práctica es la de si cabe atenuar el dolor. En el límite, la fór­
+mula ideal sería «la eutanasia de la voluntad» 625, o sea, «la negación del deseo de
+vivir» que, según Schopenhauer, es la vía propuesta por el «brahamanismo, el budis­
+mo y el verdadero cristianismo» 626 Lo que los moralistas denominan el «summun
+bonum» sería «la negación del querer, la auténtica aniquilación de toda voluntad,
+ese estado único donde todo deseo se detiene y se encuentra el único contento no
+transitorio» 627. Es el momento en que «la voluntad se desase de la vida, ve con
+horror los placeres que son afirmación de la vida y, entonces, el hombre llega a un
+615 S chopenhauer, D i e W e lt a i s W i l l e u n d V o r s t e l l u n g 1 8 1 8 , 4 . a e d . r e v . 1 8 7 3 , IV , 6 3 ; c i t o p o r
+S á m t l i c h e W e r k e , B e r lín , e d . W e ic h e r t , v o l. II , p á g . 4 0 0 .
+616 I d e m , o p . c i t . , S u p l ., 1 7 , e d . c i t ., v o l . I I I, p á g . 1 7 4 .
+
+617 I dem , o p . c i t . , IV , 5 7 , ed. cit., vol. I I , pág. 3 5 8 .
+6,8 I dem , o p . c i t . , IV , 5 7 , e d . c i t ., v o l .I I , p á g . 3 5 9 , y S u p l . 1 6 , y s i g s . e d . c i t ., v o l .I I I , p á g s . 1 5 3
+y s ig s .
+619 I d e m , o p . c i t . , l o e . c i t ., e d . c i t ., v o l . I I I , p á g . 1 6 4 .
+
+620 I dem , o p . c i t . , IV , 5 5 , e d . c i t ., v o l . I I , p á g . 3 3 4 .
+621 I dem , o p . c i t . , S u p l . 1 8 , e d . c i t ., v o l . I I I, p á g . 2 0 4 .
+622 I dem ,
+
+o p . c i t . , S u p l . 4 6 , e d . c i t ., v o l . I I I - I V , p á g . 5 9 2 .
+
+623 I dem ,
+
+o p .c it .,
+
+IV , 5 9 , e d . c i t ., v o l. I I , p á g . 3 6 6 .
+
+624 I dem ,
+
+o p .c it .,
+
+IV , 6 7 , e d . c i t ., v o l . I I , p á g . 4 2 2 .
+
+625 I dem ,
+
+o p . c i t . , S u p l . 4 9 , e d . c i t ., v o l . I I I - I V , p á g . 6 5 9 .
+
+626 I dem ,
+
+o p . c i t . , S u p l . 4 6 , e d . c i t ., v o l . I I I - I V , p á g . 6 0 4 .
+
+627 I dem , o p . c i t . , IV , 6 5 , e d . c i t ., v o l .I I I - I V , p á g . 4 0 8 .
+
+217
+
+
+
+estadio de abnegación voluntaria, de resignación, de paz verdadera y de absoluta
+detención del querer»62S.
+¿Cómo es posible que la voluntad se niegue totalmente a sí misma en una
+especie de suicidio psicológico? Esta antinomia la resuelve Schopenhauer con una
+fórmula muy problemática: «la negación de la voluntad se alcanza cuando un cono­
+cimiento pleno de su esencia actúa como sedante de la volición» 629. Pero, en tal
+caso, el conocimiento racional sería capaz de anular a la voluntad, situación paradógica para quien, como Schopenhauer, no cesa de repetir que el entendimiento y
+la razón dependen servilmente de la voluntad.
+En el camino hacia el sumo bien de la autonegación de la voluntad y de
+los deseos, Schopenhauer recomienda el ascetismo como «renuncia a los placeres,
+búsqueda del sufrimiento, una especie de penitencia voluntaria, de autopunición
+para llegar a la mortificación de la voluntad» 63°. Una vez más, aparece la ascesis
+como la vía hacia la meta felicitaria.
+20.
+Scheler (1874-1928), que frente al racionalismo y al formalismo fun­
+da su ética en la intuición sentimental y el apriorismo emotivo, establece como pos­
+tulado fundamental la existencia de una jerarquía de valores; en primer lugar, los
+religiosos y, a continuación, los espirituales, los vitales y, finalmente, los sensoria­
+les como el placer631 . La búsqueda del placer o valores de goces es «señal de insa­
+tisfacción respecto a los valores superiores» 632. El hedonismo es, pues, una deri­
+vación descendente: «Siempre que el hombre está insatisfecho en un estrato más
+central y profundo de su ser, tiende a situarse en la postura de sustituir ese estado
+de disgusto por una orientación hacia el placer, o sea, hacia el estrato periférico de
+los sentimientos más fáciles de provocar» 633.
+La disposición jerárquica de los valores impone la subordinación de unos
+a otros porque a mayor elevación, más felicidad: «La profundidad de la satisfacción
+crece con la elección del valor más alto, y la profundidad de la insatisfacción
+aumenta al elegir un valor más bajo» 63L No, como en el pseudoascetismo resenti-6289301*
+
+628 I dem , o p . c i t . , I V , 6 8 , e d . c i t ., v o l . I I , p á g s . 4 2 5 - 4 2 6 .
+629 I dem , o p . c i t . , IV ; 6 8 , e d . c i t ., v o l . I I , p á g . 4 2 0 .
+630 I dem , o p . c i t ., IV , 6 8 , e d . c i t .,
+631 M a x S c h e l e r ,
+
+D er
+
+W e r k e -, B e r n a , 1 9 5 4 , v o l. II, p á g s . 1 2 5 -1 3 0 .
+
+632 I dem , o p . c i t . , p á g . 3 6 8 .
+633 I dem , o p . c i t . , p á g . 3 5 7 .
+633 I dem , o p . c i t . , p á g . 3 6 8 .
+
+218
+
+v o l. I I , p á g . 4 3 9 .
+
+F o r m a lis m o s in
+
+d e r E t h i h u n d d i e m a t e r i a l e W e r t e t b ik , e n « G e s a m m e lt
+
+
+
+do, negar valor a lo que no se posee, sino posponer lo inferior a lo superior, o sea,
+el “ascetismo moral auténtico» 635.
+Aunque Scheler no propugna la apatía estoica, ni el nihilismo budista, ni
+siquiera la cristiana aceptación del dolor636, propone, con el Pórtico, -un progresi­
+vo desprendimiento de lo que dentro de nosotros no pertenece a nuestro ser per­
+sonal» 637638. Esta es su doble receta: «anular todo padecimiento —desde el más sim­
+ple dolor corporal hasta la más honda pena de la persona— tanto desde fuera por
+la modificación del estímulo que lo produce, como desde dentro por el arte de la
+paciencia»63S. Es una renuncia a obstinarse en luchar por la fruición.
+Por todo ello Scheler califica su teoría de «ascética» 639.
+21.
+Santiago Ramírez (1891-1967) es la figura más destacada de la teolo­
+gía tomista española del siglo xx. Una de sus obras capitales es un monumental tra­
+tado sobre la felicidad, De hominis beatitudine (1942-1947), donde hace el balan­
+ce de casi un milenio de reflexión teológica acerca del fin del hombre. Su definición
+de la felicidad no es formal, sino material: «plenitud de bienes»640 o «suma de todos
+los bienes»641 Esa plenitud no se alcanza con riquezas materiales 642, ni con la adqui­
+sición de honores 643, ni con la conquista de poder644, ni con la conservación de la
+salud 645, ni con el placer de los sentidos 646, ni con la delectación en bienes espiri­
+tuales 647648,ni siquiera con bienes naturales del alma como la virtud64s, en suma, con
+ningún bien creado 649. De donde se deduce que la plena felicidad es inalcanzable
+en este mundo. Y Ramírez asume la tesis neoplatónica y escolástica de que la feli­
+cidad objetiva del hombre consiste únicamente en Dios650. Se trata de un juicio ana­
+op. cit.,
+op. cit.,
+I dem , op. cit.,
+
+635 I dem ,
+
+pág. 246.
+
+636 I dem ,
+
+pág. 358.
+
+637
+
+pág. 359.
+
+638 I dem , «El p o r v e n i r d e l h o m b r e - , e n
+
+Metafísica de la libertad,
+
+tr a d . e s p . B u e n o s A ir e s , 1 9 6 0 ,
+
+pág. 125.
+639 I dem ,
+
+Der Formalismus in der Etbib, p á g . 2 6 5 .
+De hominis beatitudine, 2 . a
+op. cit., v o l . I , p á g . 3 0 6 .
+op. cit., v o l . I I , p á g . 7 1
+op. cit., v o l . I I , p á g . 1 1 5 .
+op. cit., v o l . I I , p á g . 7 4 .
+op. cit., v o l . I I , p á g . 1 6 7 .
+op. cit., vol. I I , pág. 222.
+op. cit., v o l . I I , p á g . 2 2 5 .
+op. cit., v o l . I, p á g . 2 7 5 .
+op. cit., vol. I, pág. 312.
+op. cit., v o l . I I , p á g . 3 4 7 .
+
+640 S a n t i a g o R a m í r e z ,
+641 I dem ,
+642 I dem ,
+643 I dem ,
+644 I dem ,
+645 I d e m ,
+646 I dem ,
+647 I dem ,
+648 I dem ,
+
+649 I dem ,
+650 I dem ,
+
+e d ., M a d r id , 1 9 7 2 , v o l. I I , p á g . 2 5 .
+
+219
+
+
+
+lítico: si Dios es el sumo bien, la felicidad como logro del sumo bien tiene su obje­
+to en Dios. De esta concepción trascendental se sigue que la vía de la felicidad no
+es la entrega a la obtención de bienes terrenales, sino de méritos para la biena­
+venturanza eterna. Obviamente, esos méritos requieren autodominio del ánimo y
+cultivo de la virtud.
+El carácter rectilíneo del razonamiento impide a Ramírez examinar la bús­
+queda de vivencias más o menos felices en este mundo, eventualidad que no nie­
+ga y que, lógicamente, habría de ser compatible con el merecimiento de la pleni­
+tud de bienes o sumo bien divino en el más allá. Supuesta la inmortalidad del alma,
+para el teólogo la vía felicitaría es religiosa tanto desde la perspectiva dogmática
+como desde la racional. Si, aunque fuera sólo metódicamente, se prescinde de la
+existencia de Dios y de la inmortalidad personal, quedarían las gratificaciones pura­
+mente vitales de cuyo logro no se ocupa Ramírez, salvo para señalar su relativa
+insignificancia. Su pesimismo mundanal se supera con la esperanza ultraterrena. Es
+la ascesis, no para estas felicidades, sino para la eviterna.
+
+C o n clu sió n
+
+Nuestra especie apareció sobre la Tierra hace unos treinta y cinco mil
+años, un período casi inapreciable para la edad del planeta, e infinitesimal con rela­
+ción a la del Universo. Pese a la relativa brevedad de la memoria de lo pensado,
+que apenas se remonta a los últimos cinco mil años , a lo largo de ese lapso, no
+cesa de manifestarse la convicción de que el autodominio es la vía menos azarosa
+hacia la felicidad. Esa idea se puede datar en Oriente hace cuatro milenios, y nun­
+ca se ha extinguido. En culturas, lenguas y circunstancias muy diferentes y distan­
+tes, formulada desde concepciones filosóficas incluso contradictorias, la ascesis es
+una constante moral del animal racional, o sea, del homo sapiens sapiens.
+Antístines era tracio, hijo de una esclava asiática. Diógenes era de Sinope,
+en el Helesponto persa. Zenón era un fenicio. Aristón nació en Quios, conquista­
+da por Ciro. Oleantes era de Assos, fortaleza persa. Crisipo vio la luz en Salos, la
+Cilicia médica. Panecio era babilónico, Posidonio sirio, y Filón egipcio. Epicteto era
+un esclavo asiático, Galeno, de Pérgamo, Plotino, de Egipto. Durante once años de
+guerras, los medos invadieron Grecia y llegaron a ocupar Atenas. Fueron millares
+los que, como Onesicrito, alcanzaron con Alejandro la India y regresaron a la Hélade, enriquecidos con vivencias orientales. Asia Menor era una encrucijada cultural.
+La europeidad, como los arios, viene del Este.
+
+220
+
+
+
+No se puede desechar la probable hipótesis de que los griegos recibieran
+la sabiduría Oriental y la incorporarán a la civilización occidental. Lo señaló Cle­
+mente de Alejandría. Sólo hay indicios, no pruebas, de que se trate de una lección
+remota y siempre viva, de una tradición transmitida desde que hay noticia del filo­
+sofar. Pero si no fuera así, es decir, si la práctica del autodominio hubiera apareci­
+do de modo independiente en Oriente y en Occidente, tal coincidencia demostra­
+ría que se trata de una convicción universal y, por lo tanto, propia de la especie
+humana. Sería el segundo principio de la ética, después del imperativo “Haz el bien
+y evita el mal». La negación de la subordinación helénica no aminoraría, sino que
+incrementaría la racionalidad del sustancial principio, hegemonónico sobre cual­
+quier accidente del discurrir humano en el espacio y en el tiempo.
+
+221
+
+
+
+

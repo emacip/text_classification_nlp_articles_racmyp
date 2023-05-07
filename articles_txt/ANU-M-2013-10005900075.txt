@@ -1,0 +1,617 @@
+POBREZA: EVOLUCIÓN, DISTRIBUCIÓN
+GEOGRÁFICA Y EFECTOS DE LA CRISIS
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+“Poverty is a denial of choices and opportunities, a
+violation of human dignity. It means lack of basic
+capacity to participate effectively in society”
+Naciones Unidas,
+Human Development Report, 1997.
+
+En las décadas previas a la actual crisis económica y financiera, las estadísticas disponibles reflejaron en algunas áreas geográficas un notable descenso
+en el número de personas que viven en situación de pobreza. A pesar de ello,
+las cifras de pobreza son aún difícilmente tolerables y, para ahondar en el problema, es previsible que la crisis económica traiga un agravamiento de la situación en muchos países. Esta intervención reflexiona sobre la positiva evolución
+de la pobreza con anterioridad a la crisis económica, su distribución geográfica,
+los potenciales efectos de la crisis y los nuevos retos en la lucha contra la
+pobreza.
+1. POBREZA: CONCEPTOS Y MEDIDA
+El número de pobres en un país se estima mediante encuestas realizadas a hogares, no preguntando a individuos, pues muchos ciudadanos no perciben renta directamente, sino sólo a través de los perceptores de renta del
+hogar. Se tiene en cuenta que determinados gastos no son proporcionales al
+
+* Sesión del día 30 de octubre de 2012.
+
+59
+
+
+
+número de personas que componen el hogar y se utilizan “escalas de equivalencia” que corrigen por la edad de sus integrantes, puesto que los niños no tienen las mismas necesidades de gasto que los adultos.
+Las medidas de pobreza se basan con frecuencia en observaciones de
+consumo, en vez de hacerlo sobre datos de renta. Esto se debe, en parte, a que
+se dispone con mayor frecuencia de información sobre el consumo que sobre
+la renta. Se considera, además, que el nivel de consumo es un indicador de
+bienestar más fiable que la renta, que está más expuesta a fluctuaciones temporales1. La mayor estabilidad del consumo hace que los niveles de desigualdad
+estimados de este modo sean generalmente inferiores a los niveles estimados a
+partir de datos de renta.
+Una dificultad con las encuestas de hogares es que los más ricos puedan proporcionar una información que subestime su nivel de renta o de consumo. Asimismo, que un mayor porcentaje de respuestas en blanco proceda de
+este colectivo, reduciendo con ello su representación y produciendo una minusvaloración de la evidencia de desigualdad. Para corregir este efecto, se ha aplicado en ocasiones un ajuste mediante la ratio entre la renta per cápita que se
+registra en la Contabilidad Nacional, y la que se obtenga en la encuesta de hogares. Pero, al no ser la diferencia entre ambos indicadores neutral respecto del
+modo en que se distribuye la renta, no debe aplicarse tal factor de escala. Sobre
+el uso de la Contabilidad Nacional en la estimación de la pobreza, las encuestas
+de hogares tienen la ventaja de incluir información sobre el consumo de bienes
+de producción propia, mientras que la imputación del gasto llevado a cabo en
+los servicios que se proporcionan por parte del sector público es un problema.
+La dificultad de realizar este tipo de encuestas, por su coste y su complicada logística, y la necesidad de contar con instituciones capaces de gestionar
+sus resultados estadísticos, hace que no podamos encontrar datos comparables
+internacionalmente acerca de la incidencia de la pobreza en un amplio número
+de países sino desde hace poco tiempo. Antes de disponer de encuestas de hogares realizadas con metodología homogénea, la incidencia de la pobreza se calculaba a partir de la renta del país, haciendo determinados supuestos sobre la
+estructura de la distribución de renta, pero es claro que tales cálculos envuelven
+un grado notable de subjetividad que relativiza su valor científico.
+Repasemos algunos conceptos básicos: conviene distinguir entre Pobreza
+Absoluta y Pobreza Relativa, pues su incidencia e implicaciones son bien diferentes, aunque no siempre queda claro en noticias o en debates de qué concepto
+se está tratando.
+
+1
+La Teoría de la Renta Permanente en las decisiones de consumo explica también que la renta sea más volátil
+que el consumo.
+
+60
+
+
+
+Entendemos por Pobreza Absoluta una situación en la que la renta de la
+familia está por debajo de un cierto umbral, que el Banco Mundial suele fijar en
+1,25 dólares o 2 dólares por día, traducidos a moneda y precios locales. La Pobreza
+Absoluta trata de medir la disponibilidad de los recursos suficientes para satisfacer
+las necesidades mínimas de subsistencia. Se trata de un umbral común a todos los
+países, si bien traducido a la divisa correspondiente y adaptado teniendo en cuenta
+los precios de los bienes de primera necesidad en cada país. La Pobreza Relativa
+se produce cuando la renta se encuentra por debajo de un determinado porcentaje de la renta mediana nacional, habitualmente el 50% ó 60% de la misma.
+Pobreza y Desigualdad son conceptos diferentes. Un país puede tener
+una alta incidencia de pobreza absoluta sin tener apenas desigualdad; por el
+contrario, la incidencia de pobreza relativa requiere cierto nivel de desigualdad.
+La incidencia de la pobreza absoluta depende del nivel de renta per cápita del
+país y del grado de distribución de la renta; la pobreza relativa es independiente
+del nivel de renta per cápita, mientras que está estrechamente relacionado con
+el nivel de desigualdad.
+La intensidad de la pobreza puede analizarse mediante la denominada
+Brecha de Pobreza (Poverty gap), que mide para cada persona la distancia entre
+su renta y el umbral de pobreza que se tome como referencia. De este modo, se
+mide no sólo cuantas personas se hallan en situación de pobreza, sino por cuánto
+están en dicha condición.
+En 1976, A. Sen introdujo la noción de que la pobreza debía entenderse
+como un concepto multidimensional, proponiendo un indicador que agrega el
+número de pobres, el Poverty gap, y el nivel de desigualdad entre los pobres,
+medido por el índice de Gini aplicado a este colectivo. Más generalmente, se ha
+avanzado recientemente en la consideración de un índice multidimensional de
+pobreza (el Multidimensional Poverty Index, que ha sustituido al Human Poverty
+Index), que considera como pobreza las situaciones en las que se produce más
+de un 30% de privación en un amplio conjunto de indicadores relacionados con
+la salud, la educación y las posibles carencias materiales, correspondiendo con
+lo que Naciones Unidas considera las tres dimensiones básicas del desarrollo:
+“una larga y saludable vida, un alto nivel de conocimiento, y un estándar de
+vida decente” 2.
+2
+En cada uno de estos tres epígrafes se consideran varios indicadores, y la puntuación alcanzada en cada uno
+de ellos se pondera adecuadamente. Detalladamente, los indicadores utilizados son: 1) Indicadores de Salud (cada indicador
+pondera 1/6): 1.a) Mortalidad infantil: Si ha fallecido algún niño en la familia, y 1.b) Nutrición: Si algún adulto o niño está
+desnutrido; 2. Indicadores de Educación (cada indicador pondera 1/6): 2.a) Años de escolarización: Si ningún miembro de
+la familia ha completado 5 años, y 2.b) Asistencia a la escuela infantil: Si algún niño carece de escuela durante los 8 primeros años; 3) Indicadores de estándar de vida (cada indicador pondera 1/18): 3.a) Electricidad en la vivienda: Si no hay electricidad, 3.b) Agua potable accesible que no satisface los estándares recogidos en los Millennium Development Goals (MDG)
+o cuya obtención requiere caminar más de treinta minutos, 3.c) Cuarto de baño: Si no satisface los estándares de los MDG,
+o si es compartido, 3.d) Suelo de vivienda: Si es de arena o barro, 3.e) Combustible para cocina: si se cocina con madera,
+carbón o estiércol, 3.f) Activos-riqueza: Si no se posee más de uno de los siguientes: radio, tv, teléfono, bicicleta, moto o refrigerador, y no se posee coche o camioneta. Estos indicadores se utilizan asimismo en el cálculo del Human Development
+Index, elaborado por el programa de Desarrollo de Naciones Unidas.
+
+61
+
+
+
+2. ESTIMACIÓN Y PREDICCIONES DE POBREZA
+Estimar la incidencia de la pobreza en el mundo no es sencillo. El
+número de pobres no es fácil de estimar por la complejidad de obtener datos de
+pobreza a nivel nacional, la dificultad en hacerlos comparables a nivel internacional, y el hecho de que los datos oficiales de pobreza se generan infrecuentemente y con retraso, pudiendo estar ya obsoletos cuando se hacen públicos3.
+En términos de pobreza absoluta, las últimas estimaciones oficiales disponibles, realizadas para el Banco Mundial por Chen y Ravallion (2012), muestran que una de cada cinco personas vivía en 2008 con menos de 1,25 dólares
+por día, y dos de cada cinco personas vivía con menos de 2 dólares por día. En
+la OCDE, con 1.200 millones de personas, no hay incidencia registrada de
+pobreza absoluta, pero hay situaciones claras de desigualdad y pobreza relativa.
+Para poner estas cifras en perspectiva temporal, la información disponible más fiable hace referencia a que en 1970, casi un 40% de la población mundial (1.470 millones de personas) vivía bajo la línea de pobreza de 1 dólar por
+día; en 1980 la tasa de pobreza continuaba en un 40%; en 1990, la tasa de
+pobreza se había reducido al 30%, pero debido al crecimiento poblacional, el
+número de pobres era prácticamente el mismo que 20 años antes. Por el contrario, una evolución muy favorable en la segunda mitad de la década de los
+noventa4 permitió que, a nivel de toda la población mundial, la incidencia de la
+pobreza absoluta5 descendiese entre 1981 y 2008 en casi treinta puntos, del 52%
+al 22%6. La reducción de la tasa de pobreza ha sido especialmente drástica en
+China, pasando del 84% al 13%, lo que explica la mitad del descenso registrado
+en la tasa de pobreza global7.
+La reducción en 650 millones del número de personas que viven con
+menos de 1,25 dólares por día en el mundo, desde 1.940 millones en 1981 a
+1.290 millones de personas en 2008 es un éxito incuestionable. La principal
+causa estriba en el robusto crecimiento de las economías durante el periodo
+1980-2000, en torno al 3,5% por año, similar al crecimiento de su población. El
+ritmo de crecimiento de estas economías no hizo sino acelerarse desde el inicio del milenio, y en el periodo 2005-2010 este grupo de países, globalmente
+
+3
+De hecho, cuando se hacen públicos pueden estar ya obsoletos: por ejemplo, la reunión de septiembre de 2010
+para evaluar el logro de los Objetivos del Milenio en materia de pobreza se celebró con datos de 2005, el año de la cumbre
+previa.
+4
+Human Development Report (2005), Bigsten y Levin (2000).
+5
+Esta vez respecto del umbral de 1,25 US dólares por día.
+6
+Nielsen (2009) proporciona estimaciones de las tendencias en pobreza global desde 1970, y concluye que la
+pobreza relativa también ha disminuido significativamente, aunque observa que al mismo tiempo se ha producido un empeoramiento de las condiciones de vida de un colectivo formado por hasta mil millones de los ciudadanos más pobres del
+mundo.
+7
+Excluyendo China, la tasa de pobreza respecto del umbral de 1,25 dólares por día en el periodo 1981-2008 se
+redujo quince puntos, del 40% al 25%, frente a los treinta puntos de caída cuando se incluye China.
+
+62
+
+
+
+considerados, crecieron un 50% en términos reales. Concretamente, desde 2003
+los países en desarrollo han crecido más de un 6%, excepto en 2009, en el punto
+álgido de la Gran Recesión, de la que cual han rebotado más rápidamente que
+el resto de los países. Su tasa de crecimiento se aproxima de nuevo al 6% y se
+espera que perdure en este nivel [Chandry y Gertz (2011)], especialmente en las
+economías superpobladas de China e India.
+Tan importante descenso en pobreza presenta, sin embargo, una excesiva concentración y una apreciable heterogeneidad geográfica. El descenso en
+el número de personas que viven en China con menos de 1,25 US dólares por
+día entre 1981 y 2008 se estima en 660 millones de personas, prácticamente
+igual al descenso experimentado a nivel mundial, lo que significa que en el
+resto de los países el número de pobres no ha disminuido.
+El descenso en pobreza ha sido más pronunciado en las dos regiones
+con una tasa inicial más elevada: Asia del Este y Pacífico, donde la tasa de
+pobreza ha descendido del 77% en 1981 al 14% en 2008, y en Asia del Sur, donde
+ha bajado del 61% al 36%. Por contra, la reducción en las tasas de pobreza ha
+sido mucho menor en Europa del Este, América Latina y Caribe, Oriente medio
+y norte de África y, especialmente, en África subsahariana [Chen y Ravallion
+(2012)], si bien en esta región, el porcentaje de población que vivía con menos
+de 1,25 dólares por día, se situó en 2008 por primera vez por debajo del 50% 8.
+El drástico descenso reciente en el número de pobres se debe, sin duda,
+a que países que albergan un importante contingente de población bajo el umbral
+de pobreza, como China, India, Bangladesh, Tanzania, Etiopía, Vietnam, Uganda,
+Mozambique y Uzbequistán están experimentando crecimientos muy notables9.
+Los denominados cuatro tigres: Hong Kong, Singapur, Corea del Sur y Taiwan,
+que asombraron al mundo con su enorme éxito de crecimiento en los años
+sesenta y ochenta, apenas tuvieron impacto sobre la pobreza mundial, debido a
+su relativamente reducida población. Lo mismo sucede con Botsuana, Cabo
+Verde, Mauricio, Seychelles, o las Comoras, asimismo historias de éxito económico, cuya población total es inferior a 5 millones de personas. Tampoco pueden tener incidencia sobre la pobreza países con mucha población pero con un
+reducido número de pobres, como Rusia o Irán, que crecieron rápidamente a
+comienzos de este siglo. Los países que mayor incidencia pueden tener sobre el
+número de pobres son: India (con una población de 1.233 millones), Bangladesh
+(169 millones), Vietnam (89 millones) y Etiopía (87 millones), para los que se
+espera un fuerte crecimiento.
+8
+En Asia Oriental y Pacífico, así como en Oriente Medio y Norte de África, el número de personas viviendo en
+situación de pobreza se ha reducido a la mitad. Por el contrario, en Latinamérica y Caribe, Europa del Este y en África subSahariana, la evolución no ha sido gradual, registrándose un incremento en la tasa de pobreza, así como en el número de
+pobres durante los últimos veinte años del siglo XX, para descender a partir de 2002.
+9
+Bangladesh, Etiopía, Pakistán, Vietnam, Indonesia y Brasil han visto a decenas de millones de sus ciudadanos
+escapar de la pobreza, y otros países como Nigeria, Sudáfrica, Mozambique, Ghana y Tanzania los siguen de cerca.
+
+63
+
+
+
+¿Qué cabe esperar para las próximas décadas? Las predicciones disponibles10 contemplan una horquilla entre 600 y 900 millones de personas viviendo
+bajo la línea de pobreza del 1,25 dólares por día en 2015, lo que supondría una
+reducción casi a la mitad del número de personas que estaban en dicha situación
+en 2005. Tales predicciones utilizan datos de encuestas de hogares de 119 países, que cubren el 95% del mundo en desarrollo, para generar estimaciones actuales y predicciones de evolución futura de la pobreza. Lo hacen utilizando predicciones de evolución del consumo y suponiendo que la distribución de la renta
+no varíe durante el periodo.
+India y China serían responsables de casi las tres cuartas partes del descenso en el número de pobres previsto para el periodo 2005-2015. En un trabajo
+para la Brookings Institution, Chandy y Gertz (2011) predicen que la tasa de
+pobreza en China, que ha experimentado en las últimas décadas el fuerte descenso ya mencionado11 descenderá otros 15,6 puntos porcentuales en el período
+2005-2015 hasta su casi desaparición, si el número de pobres desciende en otros
+203 millones. Para India, Chandy y Gertz prevén un descenso en la tasa de
+pobreza aún más importante en desde el 41,6% al 7,0% que, aunque llamativo,
+es similar al que vivió China en el periodo 1993-2005 12. En India, el número de
+pobres experimentaría en el período 2005-2015 un descenso igual al del resto de
+los países juntos13. Como consecuencia, si desde 1999 India es el país que albergaba más pobres, esta característica podría corresponder en 2015 a Nigeria.
+Pero los procesos de reducción de pobreza en China e India son diferentes: en China se produjo una migración masiva del medio rural al medio
+urbano, con un desplazamiento de la agricultura al sector manufacturero y la
+consiguiente mejora de productividad, elevación de salarios y aumento de la
+desigualdad. La geografía económica de India no es tan dicotómica como la de
+China, y el incremento de productividad ha tenido lugar a lo largo de sus veintiocho estados, al emular sus procesos productivos industriales el dinamismo de
+su sector de servicios de tecnologías de la información. India ha experimentado
+menor deterioro en desigualdad que China, pero los más desfavorecidos tienen
+en aquél país menor movilidad, y ello dificulta la reducción de pobreza.
+El escenario de evolución futura de la pobreza que he descrito implica asimismo un cambio en la concentración de la pobreza en el mundo: la proporción
+de pobreza global residente en Asia podría descender de 2/3 a 1/3 en 2015 14, mientras que la de África podría elevarse de un 28% a un 60% 15. Por tanto, la pobreza
+
+Chandy y G. Gertz (2011) y Banco Mundial (2010).
+Por ejemplo, descendiendo su tasa de pobreza desde 28,4% a 15,9% en sólo tres años (2002-2005).
+Período en el cual su tasa de pobreza descendió en 37,8 puntos porcentuales, de acuerdo con sus estimaciones.
+13
+Según tales previsiones, descendería en 360 millones de personas.
+14
+Según las previsiones de Chandy y Gertz.
+15
+Según Chen y Ravallion (2007), en 1984, el 44% de las personas por debajo de la línea de 1 dólar por día vivían
+en Asia oriental, el 35% en Asia del sur, y el 16% en África sub-Sahariana. Estos autores prevén un menor incremento en el
+porcentaje de pobres que vivirán en África sub-Sahariana.
+10
+11
+12
+
+64
+
+
+
+será crecientemente un problema africano, a pesar del progreso que están haciendo
+algunos países de este continente. Disminuirá asimismo la concentración de la
+pobreza: en 2005, la mitad de los pobres vivían en sólo dos países, China e India,
+mientras que en 2015, vivirán en cinco (India, Nigeria, República Democrática del
+Congo, Indonesia y Bangladesh). Tres de cada cuatro pobres vivían en 2005 en
+cinco países16, mientras que en 2015 lo harán en quince. Estudiar la pobreza exigirá en el futuro analizar un amplio conjunto de países.
+El primero de los Objetivos del Milenio especificados a comienzos del
+presente siglo: “Reducir la tasa de pobreza 17 global de 1990 a la mitad en 2015”,
+implicaba alcanzar una tasa de pobreza del 14,3% en 2015. La realidad es que
+cuando se establecieron los Objetivos del Milenio en el año 2000, la tasa de
+pobreza ya se había reducido desde el 28,6% inicial de 1990 al 19,0%, por lo que
+el objetivo de reducción de la pobreza ya se había cumplido en sus dos terceras partes, por lo que su cumplimiento no es excesivamente sorprendente.
+De hecho, según el Banco Mundial18, el primer Objetivo del Milenio se
+alcanzó ya en 2010, a pesar de la crisis económica, si bien el progreso ha sido
+muy desigual entre las diferentes regiones. Africa sub-Sahariana es la única
+región que no cumplirá este objetivo. La previsiones para 2015 se encuentran
+entre una tasa de pobreza del 10% para Chandy y Gertz (2011), y del 15% según
+el Banco Mundial19, valores en todo caso muy inferiores a los registrados históricamente, si bien esta tendencia refleja en gran medida, el intenso crecimiento
+de Asia oriental y, en particular, China.
+El posible cumplimiento del primer Objetivo del Milenio ha venido
+acompañado de otros logros en los países en desarrollo: en el último medio
+siglo, la mortalidad infantil global ha descendido más del 50%, el porcentaje de
+niños en escuela primaria aumentó, desde menos del 50% en 1950 a casi el 90%
+actualmente, y se ha logrado una evidente mejoría en muchos países en desarrollo en relación con la igualdad de género, en acceso a la justicia y en el logro
+de derechos civiles y políticos. Sin embargo, la renta de países ricos y pobres
+divergió en dicho periodo, aumentando la desigualdad entre países, y la pobreza
+mejoró menos que otros indicadores de bienestar.
+
+Añadiendo a China e India: Nigeria, Bangladesh e Indonesia.
+Definida en este caso como el número de personas viviendo con menos de 1 dólar por día.
+18
+Chen y Ravallion (2012). Ver también la página Web “Poverty reduction and equity”, del Banco Mundial.
+19
+Estos informes difieren en el tratamiento dado a las estimaciones y previsiones para China e India, lo que hace
+que las diferencias entre sus escenarios pueden ser importantes.
+16
+17
+
+65
+
+
+
+3. EL IMPACTO DE LA CRISIS ECONÓMICA
+Y FINANCIERA SOBRE LA POBREZA
+Aun con una distribución bastante irregular de las mejorías en la situación de pobreza, y con una excesiva concentración geográfica de los descensos
+en el número de pobres, el escenario futuro de evolución de pobreza se presentaba relativamente prometedor cuando llegó la crisis.
+En el caso particular de España, la crisis nos está afectando con toda su
+crudeza, básicamente por los errores cometidos en las décadas anteriores, aunque las políticas de ajuste que se están aplicando no están ayudando a minimizar el impacto.
+Según la última encuesta de Población Activa, más de 1,7 millones de
+hogares españoles tienen a todos sus miembros en paro. Las prestaciones y los
+subsidios de desempleo juegan un papel importante en reducir el impacto negativo de la crisis, pero sólo dos tercios de las personas registradas en las oficinas
+de empleo como parados reciben alguna prestación del Estado; 626 mil parados
+no perciben ingreso alguno. El incremento del paro ha empeorado notablemente
+la situación de los hogares a partir de 2008, especialmente cuando los sustentadores principales quedan en paro, lo que está generando notables cambios en la
+composición de los grupos de renta baja.
+Al finalizar la primera década de este siglo, un 20,6% de la población
+española tenía una renta inferior al 60% de la renta mediana, frente al promedio
+de 17,7% para toda la OCDE20. Nueve países (Méjico, Israel, Chile, Estados Unidos, Turquía, Japón, Corea y Australia) tenían mayor incidencia de pobreza relativa que España; Estonia y Corea tenían la misma tasa de pobreza que España,
+mientras que los restantes veintitrés países tenían una tasa de pobreza relativa
+inferior a la española21. España tenía en ese momento la tercera brecha de pobreza
+más elevada de la OCDE, tras Méjico y Corea22. La última Encuesta de Condiciones de Vida del INE, publicada hace unos días, con resultados provisionales para
+2012, estima que más de una de cada cinco personas tiene una renta por debajo
+del 60% de la renta mediana y, por tanto, se encuentra en situación de pobreza
+relativa en España23.
+20
+Un 14,0% de la población española tenía una renta inferior al 50% de la renta mediana, frente al promedio de
+11,0% para toda la OCDE.
+21
+Fuente: http://stats.oecd.org/Index.aspx?DatasetCode=POVERTY. Los datos citados son después de impuestos
+y transferencias. Sin contar estas partidas, el porcentaje de personas con renta inferior al 50% de la renta mediana era del 27,2%
+en España, frente al 26,3% de media en la OCDE. El ranking de países es en este caso muy distinto al mencionado, pero no es
+la medida relevante para analizar la pobreza.
+22
+La brecha de pobreza española era superada por la de Méjico y Corea, si consideramos el umbral del 60% de
+la mediana de renta.
+23
+En 1996 la tasa de pobreza relativa era del 18,5% y durante el período 2004-2008 permaneció estable en el
+rango 19,6%-19,9%. Por tanto, el reciente incremento de dos puntos es notable, si bien conviene matizar que si se imputa una
+renta implícita en los casos de propiedad de vivienda, la situación mejora sensiblemente. Otros indicadores de privación material pueden consultarse en http://epp.eurostat.ec.europa.eu/portal/page/portal/income_social_inclusion_living_conditions/
+data/main_tables.
+
+66
+
+
+
+El incremento que se está produciendo en pobreza relativa en España no
+es sino reflejo de una creciente desigualdad, consecuencia en buena parte del dramático aumento del paro. Eurostat ha publicado recientemente información
+acerca de dos indicadores de desigualdad en 2011: uno es el índice de Gini,
+medida habitual de desigualdad interna a un país; en España, este índice ha experimentado un significativo aumento desde 31,3 en 2008, al inicio de la crisis, a 34,0
+en 2011. Es éste el valor más alto del índice desde que se inició el registro, en
+1995, y queda muy por encima de los niveles del índice países del entorno europeo. El segundo indicador es el ratio 80/20, que contabiliza la relación entre la
+renta del 20% de las personas con mayores ingresos, y el 20% de las personas de
+menores ingresos, que se ha elevado en España, a niveles de 7,5, desde un 5,6
+en 2008. En aquel momento estábamos en la proximidad de la media europea,
+pero en la actualidad este indicador de desigualdad se ha alejado de la misma.
+A nivel global, la crisis económica ha sido muy intensa, pero de corta
+duración. Tras un crecimiento medio en torno al 4,5% anual desde comienzos
+de siglo, la economía mundial amortiguó su crecimiento en 2008, para caer en
+algo más de medio punto porcentual en 2009, el peor resultado desde el final
+de la segunda guerra mundial. Las economías emergentes y en desarrollo han
+recuperado desde entonces un crecimiento robusto, los países desarrollados
+muestran cierta debilidad, y la eurozona tiene serias dificultades para crecer
+como consecuencia de la añadida crisis de deuda soberana.
+Los efectos de la crisis tardaron en manifestarse en países en desarrollo, pero están apareciendo en toda su crudeza, eliminando empresas y empleos
+y amenazando los ingresos de muchas familias. Hay tres canales principales de
+incidencia: a) una reducción del comercio internacional, la principal fuente de
+crecimiento robusto en muchos países emergentes, siendo los países exportadores de petróleo los más afectados. Al caer las exportaciones más rápidamente
+que las importaciones, se deteriora la balanza por cuenta corriente, y aumentan
+las necesidades de financiación externa; b) un descenso en las entradas de capital, con menos remesas de emigrantes e inferiores ingresos por turismo. La consiguiente reducción en las reservas de divisas pone en peligro la capacidad de
+importar alimentos, material sanitario y algunos inputs precisos para la producción agrícola, como maquinaria o abonos, c) un deterioro del presupuesto
+público, especialmente en los países con menor diversificación en sus ingresos,
+que suelen ser los países exportadores de petróleo.
+Esto sucede en un contexto en que la escasez de liquidez en los mercados internacionales dificulta la financiación, no sólo de las cuentas públicas,
+sino también de las decisiones de comercio e inversión del sector privado. Como
+consecuencia, muchos proyectos de inversión públicos y privados en países en
+desarrollo se han retrasado e incluso cancelado, con la consecuencia última de
+un retroceso en el ritmo de crecimiento económico y un descenso en la renta
+de muchos hogares.
+
+67
+
+
+
+Chen y Ravallion (2009) estimaban que hasta finales de 2010 la crisis
+añadiría 70 millones de personas a aquellos que viven por debajo de 1,25 dólares por día, y 90 millones a los que viven con menos de 2 dólares por día. Aunque importante, este deterioro no es comparable a los cientos de millones que
+han salido de la pobreza en los últimos diez años, pero se añade a los 130-155
+millones de personas que se estima que cayeron en situación de pobreza por el
+incremento de precios de alimentos y combustible de 2007-2008. Lo que ya es
+claramente perceptible es que la tendencia descendente que venía experimentando la tasa de pobreza en países en desarrollo y emergentes antes de la crisis
+se ha moderado significativamente.
+Un estudio de Naciones Unidas estimaba que, además de agravar la
+situación de pobreza de millones de personas, la crisis elevará la mortalidad
+infantil entre 2009 y 2015 en un rango entre 200 y 400 mil niños cada año, en
+buena parte por problemas de desnutrición (1,4 a 2,8 millones para el período).
+Otros efectos son de la mayor relevancia social, aunque no fácilmente cuantificables: las familias pueden decidir sacar a sus hijos de la escuela para ponerles
+a trabajar, truncando su educación y limitando así sus posibilidades de desarrollo socioeconómico. La crisis trae, además, un descenso en los ingresos familiares, lo que conducirá a un menor gasto en salud, un aumento en el número de
+horas de trabajo, un mayor endeudamiento, la venta de algunos bienes familiares para comprar comida, mayor emigración, mayor desigualdad social y, posiblemente, mayor desigualdad de género.
+4. ¿CUÁLES SON LOS NUEVOS RETOS EN LA LUCHA
+CONTRA LA POBREZA?
+La lucha contra la pobreza reviste dos tipos de actuaciones: a nivel de
+programas públicos o privados de ayuda al desarrollo, y a nivel de diseño de
+política económica de los países. Analicémoslos sucesivamente.
+La orientación y diseño de las políticas de desarrollo y los programas de
+ayuda al desarrollo deben variar significativamente para adaptarse a los profundos cambios sociales que se están produciendo por la incidencia de la crisis.
+Un primer cambio viene motivado por la concentración geográfica de la
+pobreza, así como por el avance económico de muchos países que han pasado
+del grupo de renta baja al grupo de renta media, en la clasificación que cada año
+establece el Banco Mundial. Ambos efectos dan lugar a lo que se conoce como
+“la nueva geografía de la pobreza”, que sugiere que dos áreas deban aparecer
+como prioritarias a medio plazo para las agencias de desarrollo: el África subSahariana y los Estados “frágiles” o “vulnerables”.
+Desde 2002, el número de pobres en África ha descendido en sólo 1,1%,
+frente al descenso global del 21,3%, lo que explica que se espere que para 2015,
+
+68
+
+
+
+la concentración en África de personas viviendo bajo el umbral de pobreza se
+intensifique notablemente. Esto es lo que hace totalmente necesario que las
+agencias públicas de desarrollo cumplan sus compromisos con este continente.
+África ya fue reconocida como una prioridad hace tiempo, pero los acuerdos
+alcanzados en diferentes cumbres de países sobre ayudas económicas para este
+continente se incumplen sistemáticamente24.
+El grupo de estados frágiles o vulnerables, tal como los identifica el
+Fund for Peace 25, albergaba en 2005 un 20% de la población pobre, proporción
+que está aumentando rápidamente. Ningún estado frágil ha logrado todavía ninguno de los Objetivos del Milenio, y muchos son muy importantes por razones
+geoestratégicas, dado su potencial para albergar focos de terrorismo. Lamentablemente, no existe consenso acerca de qué intervenciones son adecuadas en estados vulnerables, cuáles tienen mayor probabilidad de éxito, cómo deben ponerse
+en práctica tales actuaciones en las desfavorables condiciones en las que se trabaja en dichos países, o qué tipo de programas y proyectos deben financiarse en
+cada caso.
+La mayoría de los pobres ya no viven en países de renta baja. Tres cuartas partes de ellos (72%) viven en países de renta media, mientras que hace veinte
+años un 93% vivía en países de renta baja; la mayoría lo hace en países estables,
+no frágiles, y se espera que esta tendencia continúe. Cinco países de renta media:
+Pakistán, Indonesia, Nigeria, India y China albergan dos terceras partes de los
+pobres (850 millones de personas).
+Estos profundos cambios hacen que el paradigma relativo a que las bolsas de pobreza se albergan en países de renta baja y regímenes estables debe
+abandonarse, pues ahora tenemos importantes bolsas de pobreza en países de
+renta media y, en algunos casos, con regímenes frágiles.
+La nueva situación plantea nuevos retos: los países de renta media no
+sufren las mismas restricciones financieras que los países pobres, y la ayuda financiera a sus gobiernos está menos justificada. En países de renta media con regímenes estables, los donantes pueden concentrarse en dar soporte a los esfuerzos del gobierno; pero en estados con una deficiente gobernanza los donantes
+tienen dificultades para encontrar socios fiables, y se encuentran en la difícil posición de tener que convencer al gobierno de cambiar su dirección a través de
+reformas políticas y económicas; sus mayores retos son entonces políticos, no
+técnicos.
+
+24
+Sólo once mil de los veinticinco mil millones de dólares prometidos en la cumbre del G-8 de Gleneagles en
+2005 para el continente africano fueron realmente entregados.
+25
+Aquellos países que el Fund for Peace califica en estado de “Alerta”, de acuerdo con el índice calculado por
+esta institución. Las clases posibles son: Alert, Warning, Moderate and Sustainable. La clasificación de un Estado como “frágil” es objeto de profundo debate [véase Sumner (2010)].
+
+69
+
+
+
+Que un importante proporción de población pobre se halle en países
+de renta media debe llevar a cambiar la estrategia de AOD, que debe dejar de
+concebirse como ayuda a países, para pasar a ser ayuda a personas. Una interpretación de estos cambios es que la pobreza está pasando de ser un problema
+de distribución internacional a ser un problema de distribución nacional. La
+gobernanza interna de cada país, la estructura de los sistemas impositivos y las
+políticas de redistribución nacionales deben pasar a ser de máxima importancia
+en el diseño de la AOD.
+Otro cambio significativo proviene de un impacto diferencial de la crisis en distintas capas sociales, tanto en países no desarrollados como en países
+desarrollados: en las zonas rurales de países en desarrollo, la pérdida de renta se
+debe principalmente al descenso en remesas y a una menor renta agrícola. En
+zonas urbanas los efectos pueden ser mayores, por la pérdida de puestos de trabajo. Aparece así una clase de “nuevos pobres”, urbanos y más cualificados que
+los “pobres tradicionales”, y más activos económicamente. En algunos países
+desarrollados, incluido España, ha aparecido un importante contingente de
+pobreza relativa, con una generación que queda prematuramente fuera del mercado de trabajo sin cobertura de desempleo, y una generación de jóvenes que
+no pueden acceder al mismo, con serio riesgo de ver frustradas todas sus esperanzas de desarrollo personal y profesional. Tanto en un caso como en el otro,
+no sería adecuado extender las redes de cobertura de los pobres crónicos a los
+nuevos pobres, sino que es preciso diseñar otro tipo de intervenciones, dirigidas a subsanar este tipo de vulnerabilidades, lo que abre sin duda nuevos retos
+a las agencias de desarrollo.
+Este nuevo contexto de la pobreza, más heterogéneo, suscita nuevas
+preguntas: ¿En qué medida difieren entre países la incidencia, la naturaleza y las
+causas de la pobreza? ¿Por qué es alta todavía la pobreza en algunos países de
+renta media? ¿Por qué ha conducido el crecimiento a que algunos países de
+renta baja pasen al grupo de países de renta media manteniendo una elevada
+pobreza y sin registrar apenas cambio social? ¿Es más importante centrarse en
+la desigualdad que en la inmediata reducción de la pobreza? ¿Difiere la distribución de la pobreza educativa entre países de renta media y baja de la distribución de la pobreza monetaria y de la pobreza nutricional y, si es así, por qué
+lo hace? Son todas estas cuestiones que hemos de saber responder si queremos
+diseñar políticas de desarrollo realmente eficaces.
+La segunda línea de actuación en la lucha contra la pobreza se materializa a través de la política económica de los gobiernos. Puesto que el notable descenso registrado en pobreza en los últimos años está claramente relacionado con el crecimiento de los principales países superpoblados, cabe
+preguntarse en qué grado el crecimiento económico por sí sólo pueda garantizar tan positivo efecto, así como si existen determinadas condiciones que puedan limitar su efecto en la lucha contra la pobreza. Es incuestionable que el cre-
+
+70
+
+
+
+cimiento contribuye a reducir la pobreza26, pero el ritmo de crecimiento de una
+economía [F. Borguignon (2003)] explica sólo una cuarta parte de los descensos
+observados en el número de pobres. Las recientes investigaciones apuntan a
+tres factores que influyen sobre la capacidad del crecimiento para reducir la
+pobreza: el nivel de renta del que se parte27, el grado de desigualdad en la distribución de la renta y la calidad de las instituciones políticas y económicas.
+Diferencias en estos factores explican la heterogeneidad de las experiencias de crecimiento y de reducción de pobreza observadas: unos países
+experimentan rachas de crecimiento elevado sin apenas reducción de pobreza
+(Botsuana), mientras otros han conseguido descensos en pobreza con un crecimiento limitado (Ghana). Por otra parte, una cierta correlación entre nivel de
+renta y calidad institucional hace que los países pobres requieran generalmente
+mayor crecimiento de la renta y mayores descensos en desigualdad para disminuir sus niveles de pobreza, por lo que pueden precisar ayuda externa para
+lograr tal objetivo.
+El crecimiento por sí sólo no es suficiente, y toda estrategia de reducción de la pobreza basada en estimular el crecimiento económico ha de prestar
+atención a sus posibles efectos sobre la desigualdad porque, como tuve oportunidad de comentar en una intervención anterior, la desigualdad limita las posibilidades de crecimiento de un país y disminuye su capacidad para reducir la
+pobreza. Ya expuse entonces que un elemento especialmente importante en la
+lucha contra la pobreza es la igualdad de oportunidades, entendida en un triple aspecto: igualdad de acceso a la educación, igualdad de acceso a los mercados de crédito, e igualdad en el tratamiento de la Administración, con una aplicación anónima de las normas, evitando todo clientelismo político.
+En cuanto a los resultados logrados hasta el momento, no cabe la complacencia. Aun con el notable descenso en pobreza registrado antes de la crisis,
+una de cada cinco personas, casi 1.300 millones personas, vivía en 2008 con
+menos de 1,25 dólares por día; un 43% de la población mundial, casi 2.500 millones de personas, vivía con menos de 2 dólares por día. Incluso a este ritmo, alrededor de mil millones de personas vivirán con menos de 1,25 US dólares por día
+en 2015. La mayoría de los 650 millones de personas que han dejado de ser
+pobres entre 1981 y 2008, son todavía pobres bajo los estándares de los países
+de renta media. El progreso alcanzado en reducir el número de personas que
+viven con menos de 2 US dólares por día ha sido mucho menor. Además, el
+26
+Chen y Ravallion (1997) estimaron que un 1% de incremento en renta o en el gasto en consumo en la población total reduce la proporción de personas viviendo por debajo del umbral de pobreza en un 3%. Otras estimaciones [Attacking Poverty, World Development Report 2000/2001, Bourguignon (2003) y Ferreira y Ravallion (2009)] estiman un efecto más
+próximo al 2%. Estos resultados han sido recientemente discutidos por Ram (2011), quien estima elasticidades muy inferiores, especialmente en las regiones más desfavorecidas, que no dejan margen a utilizar el crecimiento como herramienta básica
+en la lucha contra la pobreza.
+27
+A. K. Fosu (2011), UNU-WIDER (2001), capítulo 1.
+
+71
+
+
+
+número de personas con ingresos entre 1,25 dólares y 2 dólares por día casi se
+ha doblado en los últimos 30 años28, y un porcentaje importante apenas sobrepasa el umbral de 1,25 dólares por día, haciendo que demasiadas personas permanezcan todavía pobres y vulnerables en todas las regiones del mundo.
+Según el último informe de la FAO29 publicado hace unos días, en los
+últimos veinte años ha disminuido el porcentaje de personas en riesgo de desnutrición, desde el 18,6% de la población mundial al 12,5%, y del 23,2% al 14,9%
+de la población de los países en desarrollo, lo que acerca el cumplimiento del
+primer Objetivo de Desarrollo del Milenio30. Prácticamente todo el descenso se
+produjo antes de 2007, inicio de la actual crisis económica. Aún con tal descenso, casi 870 millones de personas, una octava parte de la población mundial,
+sufre desnutrición crónica. En palabras de la FAO, resulta intolerable, en el
+mundo de hoy, con oportunidades económicas y técnicas sin precedente, que
+más de 100 millones de niños menores de cinco años tengan falta de peso y,
+como consecuencia, no puedan desarrollar todo su potencial humano y socioeconómico, y que la desnutrición infantil provoque la muerte de más de 2,5
+millones de niños cada año.
+Algunos de los países que habían hecho claros progresos antes de la crisis hacia el cumplimiento del primer objetivo del Milenio, pueden ver peligrar
+este logro. La ayuda internacional al desarrollo podría aliviar tales dificultades,
+pero su avance se ha visto asimismo frenado; concretamente, el compromiso de
+la UE de alcanzar una contribución en AOD del 0,56% del PIB en 2010 no se
+cumplió.
+También el Banco Mundial, al percibir un elevado grado de exposición31
+de la mayoría de los países emergentes a los efectos de la actual crisis, apremió
+al inicio de la misma a la concesión de subvenciones o créditos a bajos tipo de
+interés. De hecho, en enero de 2009, el entonces presidente de la organización,
+R. Zoellick, sugirió la creación de un Fondo de Vulnerabilidad al que cada país
+desarrollado contribuyese con el 0,7% del importe del paquete de estímulo
+doméstico que hubiese aplicado para contrarrestar los efectos de la crisis. Se pretendía financiar con dicho Fondo infraestructura, programas de microcréditos y
+pequeños negocios pero, lamentablemente, esta sugerencia tampoco tuvo éxito.
+El propio diseño que debe revestir la Ayuda Oficial al Desarrollo está
+siendo objeto de debate, y existen argumentos para no continuar con la pretensión de conceder donaciones a los gobiernos, ni siquiera acompañadas de requi-
+
+De 650 a 1.200 millones de personas
+Food and Agriculture Organization, United Nations
+30
+http://www.fao.org/publications/sofi/en/
+31
+Existe una metodología desarrollada para caracterizar los países que están en mayor riesgo (The Global Economic Crisis: Assessing Vulnerability with a Poverty Lens).
+28
+29
+
+72
+
+
+
+sitos de condicionalidad. Como alternativa, se propone avanzar en la ejecución
+de iniciativas propiciadas por los gobiernos, en las que los empresarios de los
+países receptores estén involucrados, y que persigan facilitar la mejora de la
+productividad y acceder al crédito necesario para financiar las inversiones requeridas. Simultáneamente, deben eliminarse las barreras que dificultan seriamente
+la entrada de los productores de países en desarrollo en los mercados internacionales de bienes, especialmente en el sector agrícola.
+Es preciso establecer compromisos acerca de objetivos de desarrollo
+específicos, como se hace en otras áreas, como el cambio climático, celebrando
+reuniones que evalúen el grado de progreso en el cumplimiento de dichas
+metas. En este sentido, los Objetivos del Milenio trazados al inicio de este siglo
+fueron una excelente referencia acerca de la dirección en que debían mejorar
+las condiciones de vida en los países pobres. Temo, sin embargo, que tanto en
+lo relativo al desarrollo como en otros ámbitos, el mundo desarrollado sea
+mucho más eficaz en establecer objetivos que en cumplir sus compromisos.
+“Between now and 2015, we must make sure
+that promises made become promises kept.
+The consequences of doing otherwise are
+profound: death, illness and despair, needless
+suffering, lost opportunities for millions upon
+millions of people.”
+— UN Secretary-General Ban Ki-moon
+(The Millennium Development Goals Report, 2010)
+
+73
+
+
+
+REFERENCIAS BIBLIOGRÁFICAS
+BOURGUIGNON, F., 2003, “The growth elasticity of poverty reduction”, en Inequality and Growth:
+Theory and policy implications, editado por T. Eicher y S. J. Turnovsky.
+CHANDY, L., y G. GERTZ, 2011, Poverty in numbers: The changing state of global poverty. Poverty
+from 2005 to 2015, Global Economy and Development Program at Brookings Institution, Global Views Policy, Brief 2011-01, Washington DC.
+CHEN, S. y M. RAVALLION, 2007, Absolute poverty measures for the developing world, 1981-2004,
+World Bank Policy Research Working Paper 4211.
+— 2007, The impact of the global financial crisis on the world’s poorest, World Bank Development
+Research Group. http://www.voxeu.org/index.php?q=node/3520.
+— 2010, “The developing world is poorer than we thought, but no less successful in the fight
+against poverty”, The Quarterly Journal of Economics, 125 (4):1577-1625.
+— 2012, Global poverty update, Banco Mundial, manuscrito, febrero 2012.
+COLLIER, P., 2007, The Bottom Billion, Oxford University Press.
+DEVELOPMENT RESEARCH GROUP, 2008, Lessons from World Bank research on financial crises, Policy
+Research Working Paper 4779, World Bank.
+FERREIRA, F. H.G., y M. RAVALLION, 2009, “Poverty and inequality: The global context”, capítulo 24
+en The Oxford Handbook of Income Inequality.
+FÖRSTER, M., y M.M. D'ERCOLE, 2005, Income distribution and poverty in OECD countries in the
+second half of the 1990s, OECD Social, Employment and Migration Working Papers, nº.
+22.
+FOSU, A.K., 2011, Growth, inequality, and poverty reduction in developing countries: recent global
+evidence, OECD Development Centre working paper.
+NIELSEN, 2000, Global relative poverty, IMF Working Paper 09/93.
+OECD, 2011a, Growing Income Inequality in OECD countries: What Drives it and How Can Policy Tackle it?, presentado en el Forum Tackling Inequality, París, Mayo 2011.
+— 2011b, Society at a Glance 2011: OECD Social Indicators, OCDE, Paris.
+— 2008, Growing unequal? Income Distribution and Poverty in OECD countries, Directorate for
+Employment, Labor and Social Affairs.
+RAM, R., 2011, Growth elasticity of poverty: direct estimates from recent data, Applied Economics,
+43:19, 2433-2440.
+M. RAVALLION y S. CHEN, 1997, What can new survey data tell us about recent changes in distribution and poverty, World Bank Economic Review, 11/2: 357-82.
+SEN, A., 1976, “Poverty: an ordinal approach to measurement”, Econometrica, 44,2, 219-231.
+SUMNER, A., 2010, Global poverty and the new bottom billion: what if three-quarters of the world’s
+poor live in middle-income countries?, Institute of Development Studies.
+UNITED NATIONS, 2009, Global Monitoring Report.
+— 2001, Inequality, growth and poverty in an era of liberalization and globalization, UNU-WIDER
+y UNDP, Oxford University Press.
+
+74
+
+
+
+WORLD BANK, 2010, Global Monitoring Report 2010: The MDGs after the crisis, Washington, DC.
+— 2001, World Development Report 2000/2001: Attacking Poverty, Washington, DC.
+— 2005, World Development Report 2006: Equity and Development, Washington, DC.
+
+75
+
+

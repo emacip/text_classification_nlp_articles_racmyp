@@ -1,0 +1,592 @@
+LA POLÍTICA DE DEFENSA DE LA COMPETENCIA
+EN PERSPECTIVA HISTÓRICA Y ANALÍTICA
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez *
+
+Las intervenciones de nuestros compañeros de la Sección de Economía
+que me han precedido indican con claridad el acuerdo mayoritario a que los eco­
+nomistas han llegado en las dos últimas décadas respecto a las funciones y efica­
+cia de los distintos tipos e instrumentos de política económica.
+Las dos primeras intervenciones se han dedicado a las dos grandes ramas
+de las políticas de demanda: la monetaria y la fiscal. A partir de aquí, el énfasis se
+ha desplazado hacia las llamadas políticas de oferta. Esto refleja el consenso ya
+mencionado entre los profesionales de la economía, que podría sintetizarse en el
+siguiente tetrálogo:
+1) Los objetivos macroeconómicos de cualquier economía son alcanzar
+las mayores tasas sostenibles de crecimiento del PIB y del empleo.
+2) Los valores de equilibrio tendencial, a largo plazo, de estas variables
+dependen de la cantidad y calidad de los factores productivos utilizados, del rit­
+mo al que se introducen las mejoras tecnológicas (productividad), de la eficiencia
+con que asignan recursos los mercados y del mantenimiento de los equilibrios
+agregados.
+3) De los factores mencionados, las políticas de demanda deben velar
+por el mantenimiento de los equilibrios agregados que son, básicamente, la estabi­
+* Sesión del día 14 de mayo de 2002.
+
+493
+
+
+
+lidad de precios y el equilibrio presupuestario a lo largo del ciclo. Los márgenes de
+discrecionalidad de las políticas de demanda son limitados, aunque el funciona­
+miento de los estabilizadores automáticos en la política fiscal y la consideración de
+factores no puramente financieros en la toma de decisiones de política monetaria
+otorgan una cierta holgura cíclica a las políticas de demanda. Además, la composi­
+ción del gasto público tiene efectos sobre la evolución de las variables de oferta
+significativas.
+4)
+Todos los demás factores determinantes de los valores de equilibrio a
+largo plazo del PIB y del empleo son factores de oferta. Por tanto las políticas de
+oferta son fundamentales en el logro de los objetivos y, en ellas, los márgenes de
+discrecionalidad son mucho mayores, por lo que su definición, objetivos e instru­
+mentación están más abiertos a polémica.
+Dentro de las políticas de oferta pueden distinguirse a su vez, a efectos
+expositivos, tres grupos. El primero persigue la mejora en la calidad de los factores
+productivos, e incluye las políticas educativas, de formación y cualificación (para el
+trabajo) y las políticas de I+D y tecnológicas (para el capital). El segundo grupo de
+políticas de oferta persigue mejorar el funcionamiento de los mercados e incluye
+las reformas laborales, la supervisión y regulación de los mercados financieros y la
+política de defensa de la competencia (PDC). El tercero, cajón de sastre, incluye
+otros factores relevantes tales como las formas de organización y gobierno de las
+empresas y la flexibilización del marco legal para facilitar los procesos de creación
+y desaparición de empresas (v. gr.: derecho concursal, simplificación de trámites
+administrativos y un largo etcétera).
+Esta intervención tiene como objetivo discutir una política de oferta con­
+creta, la de defensa de la competencia, tratando situarla en una perspectiva histó­
+rica y analítica, y de ofrecer un estado de la cuestión sobre los temas centrales de
+los que se ocupa: fusiones, comportamientos colusivos y excluyentes, prácticas pre­
+datorias y barreras a la entrada de nuevos competidores. Para ello la intervención
+se articula de la siguiente forma: en el primer apartado trataré de justificar breve­
+mente la necesidad de una PDC y relatar sucintamente sus orígenes a fines del
+siglo xix en Estados Unidos. En el segundo apartado resumiré los tres enfoques ana­
+líticos dominantes que han sustentado la PDC y qué tipo de prescripciones propo­
+nen respecto a los problemas centrales de la competencia. Tras esto seleccionaré
+tres temas -—fusiones, restricciones verticales y colusiones tácitas— y trataré de des­
+cribir cómo ha evolucionado lo que sabemos de las mismas en las últimas décadas.
+En el cuarto apartado discutiré los aspectos organizativos e institucionales de la
+PDC y terminaré con unas conclusiones tentativas. A lo largo de toda la exposición
+utilizaré con frecuencia ejemplos de la PDC estadounidense y europea.
+494
+
+
+
+JUSTIFICACIÓN Y ORÍGENES DE LA PDC
+
+Los sistemas económicos en que vivimos son lo que en análisis económi­
+co se denominan economías capitalistas con propiedad privada, una de cuyas
+características es que asignan los recursos por mecanismos descentralizados y anó­
+nimos que, en condiciones ideales, transmiten toda la información relevante para
+los individuos (consumidores, empresas y sector público) vía precios, es decir, por
+medio de mercados.
+Los partidarios de posiciones libertarias á la Nozik, en las que se consi­
+dera como un derecho fundamental de los individuos —al mismo nivel que la liber­
+tad de expresión, asociación, residencia, etc.— la libertad de intercambio, sosten­
+drán que los mercados son justificables per se, sin necesidad de discutir sobre su
+capacidad para generar efectos positivos sobre el bienestar. No obstante, es difícil
+pensar que las personas valoren más el derecho abstracto a la libertad de inter­
+cambiar que el bienestar individual y, en todo caso, una posición libertaria vacía de
+contenido toda discusión sobre mecanismos de intercambio y, por tanto, una par­
+te importante de la literatura sobre cómo mejorar la eficiencia de una economía.
+Adoptaré por tanto aquí una posición más modesta, que es el enfoque sos­
+tenido unánimemente por los economistas de todos los colores: dado que los mer­
+cados son instrumentos de asignación de recursos, su validación social ha de des­
+cansar en la capacidad que tengan para mejorar el bienestar de los individuos.
+Las propiedades de eficiencia de los mercados competitivos no son mecá­
+nicamente traducibles en términos de bienestar social. En primer lugar, la eficien­
+cia asignativa es un criterio limitado de bienestar social e individual, porque igno­
+ra toda referencia a criterios de equidad y justicia, sea cual sea el contenido que
+demos a estos términos. En segundo lugar, sabemos poco sobre cómo asignan los
+mercados cuando no se encuentran en equilibrio. Por último, tampoco sabemos
+mucho —aunque algo más— sobre el grado de eficiencia de los mercados en pre­
+sencia de efectos externos y bienes no puramente privados.
+Pese a estas limitaciones, la discusión transitará por caminos más estre­
+chos, suponiendo que los mercados competitivos asignan de forma eficiente en el
+sentido de que maximizan la suma del excedente de los consumidores y los bene­
+ficios de las em presas1 y que este hecho constituye, en sí mismo, un criterio sufi­
+ciente de validación social de los mercados.
+1
+Obsérvese que esta definición de eficiencia implica que se valora socialmente lo mismo un
+euro de excedente en manos de los consumidores que un euro de beneficio en manos de los empre-
+
+495
+
+
+
+Esta moderada visión de las propiedades positivas —convertidas abrupta­
+mente en normativas— de los mercados competitivos, que sostengo sin ruborizar­
+me, constituye la base de la PDC.
+En síntesis: puesto que los mercados son mecanismos de asignación cuya
+única propiedad relevante es la eficiencia en la asignación de los recursos, es obli­
+gación de toda política pública responsable velar por que no seproduzcan prácticas
+restrictivas de la competencia derivadas del ejercicio de poder de mercado p o r par­
+te de las empresas y este es el objetivo de la PDC. Y esta justificación señala también
+las preguntas relevantes: ¿cuáles son los criterios para sostener que existe ejercicio
+de poder de mercado?, ¿qué tipo de prácticas empresariales cabe considerar anti­
+competitivas?
+Evidentemente la PDC no tuvo en sus orígenes una justificación analítica
+tan tersa, porque a fines del siglo xrx casi nada de lo que hemos discutido hasta
+aquí formaba parte del acervo profesional de los economistas y porque las leyes,
+afortunadamente, tratan de resolver los problemas del momento y recogen, al
+menos en parte, la valoración que la sociedad hace de los mismos. La Ley Sherman
+(1890), primera ley antimonopolio del mundo, se gestó en un contexto económico
+muy preciso que merece la pena recordar porque permite entender el punto de
+partida de las modernas PDC y los cambios que las mismas han experimentado res­
+pecto a lo que cabría considerar su texto constituyente.
+La ola de concentraciones en la siderurgia estadounidense, la generalización
+de los acuerdos de cartelización en la industria manufacturera, el tamaño alcanzado
+por los bancos de la costa Este de Estados Unidos, el rápido aumento de las tarifas
+ferroviarias en un claro ejercicio de poder de mercado y la actividad monopolística
+de la Standard Oil Company (Rockefeller), crearon un sentimiento generalizado con­
+tra las grandes concentraciones y fusiones que, además, se suponía eran las respon­
+sables de las penurias crecientes de los otrora acomodados granjeros del Oeste. En
+este contexto social y económico, políticos tan poco proclives a la intervención
+pública como los senadores estadounidenses, consideraron que la concentración de
+poder económico era un peligro real para el futuro no sólo de la economía sino, lo
+que es mucho más significativo, para la propia supervivencia de la democracia.
+sarios y que, por tanto, implica una función de bienestar social muy conservadora de tipo utilitarista.
+Bajo este criterio, como es bien sabido, un monopolista discriminador de primer grado es tan eficiente
+como un mercado competitivo, pese a que la diferencia entre ambas estructuras de mercado es que en
+el caso de discriminación la empresa se apropia del excedente total de los consumidores en forma de
+beneficios sobrecompetitivos.
+
+496
+
+
+
+La Ley Sherman es, básicamente, una legislación antitrust, especialmente
+suspicaz contra los acuerdos de cartelización y las fusiones, que en su aplicación
+por los Tribunales ordinarios, el Departamento de Justicia y la Federal Trade Commission, fija hasta la II Guerra Mundial dos principios fundamentales:
+1) Todo acuerdo de cartel que segmente mercados es ilegal per se sin
+necesidad de demostración o aplicación de una rule ofreason [Addyston Pipe & Ste­
+el Co. v. United States, 1899).
+2) El Gobierno Federal tiene competencia para forzar la fragmentación
+de los activos de una empresa [Northern Securities Co. v. United States, 1904]2.
+En aplicación de estos principios, se produjeron desintegraciones de
+empresas muy importantes como fueron las de la Standard Oil Co., la American
+Tobacco Co. y la Com Products Refining Co. todas ellas en 1911. Aunque en 1920
+el Gobierno Federal fracasó en su intento de fraccionar la U.S. Steel Corporation, a
+la fecha de 1939 no quedaban sectores industriales relevantes con empresas cuya
+cuota de mercado excediera el 50 % del mercado interior.
+Estos principios tenían escaso apoyo analítico, por no decir que carecían
+totalmente del mismo —aunque ello no implique que fueran erróneos— y más bien
+reflejaban un estado de opinión pública en contra de la excesiva concentración de
+poder económico. Es a partir de la década de los años treinta del pasado siglo cuan­
+do se comienzan a sentar las bases analíticas de la PDC.
+
+FUNDAMENTOS ANALÍTICOS Y ENFOQUES DE LA PDC
+
+Desde sus inicios, ha habido tres enfoques de la economía industrial y, por
+lo tanto, tres posiciones diferenciadas en cuanto a los criterios a seguir en cada caso
+por la PDC que en la literatura se conocen como el paradigma estructura-conduc­
+ta-resultados (ECR), la escuela de Chicago y la nueva economía industrial (NEI). Los
+resumiré muy brevemente.
+El enfoque ECR parte de la base de que existe una relación de causalidad
+unidireccional entre sus tres componentes: las variables que definen la estructura
+de un mercado (número de empresas, distribución de tamaños, concentración, elas­
+ticidad de la demanda, diferenciación, etc.) determinan la posibilidad de que las
+
+2 Que retiene en la actualidad como demuestran los avatares del caso Microsoft.
+
+497
+
+
+
+empresas sigan o no conductas competitivas. Por su parte, los comportamientos
+competitivos están asociados a niveles de resultados (beneficios, valor capital, etc.)
+normales, mientras que los estratégicos dan lugar a mayores resultados. En conse­
+cuencia, las variables que definen la estructura de mercado determinan los resulta­
+dos de las empresas.
+¿Cuál es la base analítica o el modelo de referencia?: el modelo de oligopolio en que las empresas se mueven entre una situación de lucha (identificada con
+el equilibrio de Cournot) y una colusiva (identificable con el monopolio). En ambos
+casos se produce una asignación ineficiente, aunque un equilibrio de Cournot no
+implica prácticas restrictivas de la competencia, y el tema central es si las empresas
+instaladas siguen o no conductas encaminadas a generar barreras a la entrada de
+nuevos competidores tales como la segmentación del mercado vía proliferación, o
+la sobreinversión en capacidad, o los acuerdos verticales restrictivos.
+¿Qué base empírica tiene el paradigma ECR? La contrastación de una sis­
+temática y elevada correlación positiva entre concentración y beneficios: en gene­
+ral, la concentración y la elasticidad de la demanda explican más del 90% de la
+variación de los beneficios.
+¿Qué implica este enfoque para la PDC? Que si, por ejemplo, nos encon­
+tramos con un mercado en que la concentración es elevada, la demanda del pro­
+ducto muy rígida y la diferenciación elevada, las empresas tendrán resultados
+extraordinarios en el sentido de sobrecompetitivos. Por tanto, los organismos encar­
+gados de la PDC deberán determinar los valores relevantes de las variables de
+estructura y, en función de los mismos, determinar si existe o no base para incoar
+un expediente por prácticas restrictivas de la competencia.
+El enfoque de Chicago parte de la premisa de que el ejercicio de poder de
+mercado por parte de las empresas salvo que se deba a la existencia de barreras
+naturales (suministro de bauxita para la producción de aluminio, o idioma para el
+ejercicio de la abogacía en otro país) es un fenómeno temporal. Si existen altos
+beneficios en una actividad, éstos atraerán nuevo capital que expandirá la oferta y
+debilitará el poder de mercado de las empresas ya instaladas. En consecuencia, la
+duración observada en el ejercicio de poder de mercado solo puede deberse a la
+intervención pública que genera rentas de situación a las empresas instaladas.
+
+¿Cuál es la base analítica o modelo de referencia de Chicago?: el modelo
+de competencia perfecta y no el de oligopolio o monopolio. En el fondo, incluso
+un monopolista tiene que hacer frente a la amenaza de potenciales competidores
+498
+
+
+
+que irrumpan en el mercado, de forma que no podrá explotar en exceso su poder
+de mercado, porque en términos dinámicos éste es siempre muy moderado.
+¿Cuál es la base empírica de que sustenta la posición de Chicago? Esta es
+una pregunta irrelevante para sus defensores, porque para ellos la contrastación
+empírica no juega papel alguno en la validación o refutación de proposiciones
+sobre el tipo de comportamiento seguido por las empresas: si observamos una
+situación duradera de ejercicio de poder de mercado y no encontramos una expli­
+cación en términos de comportamiento competitivo ni de intervención pública distorsionadora, es porque existen errores de medición de las variables o porque no
+somos suficientemente competentes para encontrar la explicación.
+Es de observar que esta posición implica un acto de fe en la competencia
+que, por constituir una creencia, acoraza a Chicago ante cualquier discusión sobre
+datos. No obstante, de forma paradójica, esta posición ha obligado a afinar mucho
+las interpretaciones al uso de la evidencia. Por ejemplo, la correlación positiva entre
+resultados y concentración, puede no deberse a comportamientos colusivos de las
+empresas, sino a un proceso de selección natural procompetitivo en que sólo han
+sobrevivido aquellas empresas más eficientes. Por ejemplo, para valorar si la dife­
+renciación de producto es excesiva hay que tener en cuenta los beneficios que la
+diferenciación genera a los nuevos consumidores marginales.
+¿Qué implica el enfoque de Chicago para la PDC? En el límite, que nunca
+existen casos perseguibles por los tribunales competentes en términos de prácticas
+restrictivas de la competencia. En la realidad, que hay que ser muy cuidadoso con
+la evidencia y que siempre es beneficioso dedicar tiempo a encontrar explicacio­
+nes plausibles en términos de comportamientos competitivos antes de pasar a
+explicar resultados en términos de prácticas restrictivas de la competencia.
+La NEI, nacida en la década de los años setenta del siglo xx, retoma la idea
+originaria del paradigma ECR pero lo enriquece considerablemente al postular que
+la relación de causalidad entre sus tres componentes no es unidireccional. Es cier­
+to que la estructura de los mercados es relevante para explicar la presencia o no
+de estrategias no competitivas y que éstas están asociadas a beneficios extraordi­
+narios. Pero también lo es que unos elevados resultados permiten financiar modi­
+ficaciones en la estructura del mercado tanto estratégicas (inversión en exceso de
+capacidad, publicidad) como competitivas (innovaciones tecnológicas, mejoras en
+gestión de suministros e inventarios).
+
+¿Cuál es la base analítica o el modelo de referencia de la NEI? Es, por
+supuesto, el modelo de oligopolio, pero el énfasis del mismo se desplaza de la
+499
+
+
+
+estructura de mercado a la conducta seguida por las empresas instaladas. Esto sig­
+nifica un avance analítico considerable, pero a un coste no despreciable: el análi­
+sis del comportamiento ha de hacerse en términos de teoría de juegos de estrate­
+gia y este poderoso instrumental presenta con frecuencia resultados múltiples entre
+los que no es posible decidirse a priori.
+¿Cuál es la base empírica de la NEI? La contrastación empírica de las pro­
+posiciones vuelve a jugar un papel crucial, por lo que afortunadamente nos volve­
+mos a situar en el terreno del conocimiento científico positivo, pero ahora no bas­
+ta con disponer de datos agregados de unas pocas variables como concentración y
+beneficios, sino que es preciso disponer de paneles de datos que permitan seguir
+en el tiempo a las empresas individuales. Y los paneles con caros, han empezado
+a construirse hace relativamente poco tiempo y los problemas de diseño, manteni­
+miento de la muestra, imputación de las no respuestas, etc. son importantes.
+¿Cuál es la consecuencia del enfoque de la NEI para la PDC? Que lo esen­
+cial es evaluar el tipo de comportamiento seguido por las empresas que actúan en
+mercados donde se observa ejercicio de poder de mercado. Pero que hay que ser
+muy cuidadoso con las conclusiones: para cada caso se dispone de varios modelos
+que generan interpretaciones distintas en términos de las estrategias seguidas por
+las empresas y cuál de ellos se elija dependerá de la adecuación de sus hipótesis
+básicas con los rasgos estilizados del mercado. Como diría irónicamente un noto­
+rio partidario del enfoque de Chicago, es discutible si la nueva PDC ha generado
+beneficios sociales y cuál es su distribución, pero sin lugar a dudas ha generado
+cuantiosos beneficios privados para los economistas y abogados expertos en temas
+de competencia.
+
+U N A BREVE SELECCIÓN DE TEMAS
+Fusiones
+
+Constituyen el caso paradigmático de la PDC en sus etapas iniciales y, en
+particular, las fusiones horizontales entre empresas de un mismo sector o que actú­
+an en el mismo mercado. La tradición inicial, tanto europea como estadounidense,
+se basaba en una aplicación mecánica del paradigma ECR: cuando el grado de con­
+centración generado por la fusión rebasaba un cierto límite, la fusión era prohibi­
+da, suponiendo que la concentración estaba correlacionada positiva y altamente
+con el ejercicio de poder de mercado. En particular se utilizaba un índice de con500
+
+
+
+centración de Herfindahl (H) 3 y cuando la fusión implicaba que el mismo rebasa­
+ra el valor crítico de 1.800 se abría una investigación de oficio que, en general, ter­
+minaba con la prohibición. Dos ejemplos numéricos permiten señalar lo discutible
+de esta regla mecánica:
+1) Considerando todas las empresas del mismo tamaño, un oligopolio de
+6 empresas tiene un H = 1.666; pero un oligopolio de 5 empresas lo tiene de
+H = 2.000.
+2) Considerando una industria formada por 7 empresas de las que cada
+una de las 5 pequeñas tienen una cuota de mercado del 10%, otra tiene una cuo­
+ta del 20% y otra del 30%, presenta un H = 1.700. Pero basta con que se fusionen
+dos de las empresas pequeñas para que H salte a 2.000.
+¿Cuáles han sido las principales novedades que han conducido a la apli­
+cación de criterios más flexibles y realistas? En lo esencial, el grado de concentra­
+ción alcanzado con la fusión sigue siendo un valor de referencia esencial, pero su
+cálculo se ha visto matizado en dos aspectos relevantes.
+El primero, la definición de mercado relevante. Cuando se trata de bienes
+estandarizados que carecen de sustitutos próximos —como el acero o la energía
+eléctrica— la definición de mercado relevante es fácil. Si no existen trabas al comer­
+cio internacional, el mercado relevante del acero es el mundial. En el caso de la
+energía eléctrica el mercado es el que permiten las interconexiones de la red de
+alta tensión. Sin embargo, con bienes que tienen sustitutos cercanos el problema es
+más complejo. Por ejemplo, el mercado relevante para una fusión entre comercializadores de plátanos ¿es el de plátanos o el de frutas? En el primer caso, será fácil
+alcanzar valores elevados de la concentración, en el segundo mucho más difícil.
+El segundo, el análisis más preciso de las características de la demanda.
+Si observamos el mercado de fabricación de reactores para aviación comercial de
+120 plazas en adelante, hace 10 años existían tres empresas en el mundo (Boeing,
+McDouglas y Airbus) que implicaban un valor aproximado de H = 3-500, siendo el
+mercado relevante, sin lugar a dudas, el mundial. Tras la fusión (autorizada en Esta­
+dos Unidos) de las dos primeras, el índice explotó hasta sobrepasar el valor 5.000.
+¿Era sensata la decisión? En términos del valor de H fue un sacrilegio, pero no reba­
+jó en un ápice la fuerte competencia existente en la industria.
+3
+Definido como la suma de los cuadrados de las cuotas de mercado de todas las empresas
+que lo abastecen (multiplicado por 10.000).
+
+501
+
+
+
+En efecto, la demanda de este producto tiene la característica de produ­
+cirse de form a discontinua y en cuantías muy grandes. Cuando una o más líneas
+aéreas importantes anuncian su plan de renovación de la flota, surge una deman­
+da muy fuerte que puede venir tras un período de demanda prácticamente nula de
+un lustro. Intentar conseguir el contrato implica unos elevados costes de diseño,
+prototipos, etc. de las compañías fabricantes que, en caso de no tener éxito, han
+de ser financiados a fondo perdido y pueden suponer la desaparición de la empre­
+sa. No es de extrañar que, en estas condiciones, la competencia entre las dos
+empresas supervivientes en la actualidad sea feroz... aunque H > 5.000.
+Pese a las cautelas señaladas en el tratamiento de las fusiones horizonta­
+les, las dos desintegraciones verticales más importantes de la historia de la PDC se
+han producido en pleno triunfo (relativo), de las ideas de Chicago la primera de
+ellas (la Bell Co. en 1982 al comienzo de la era Reagan) y en un ambiente también
+más tolerante la segunda ( Microsoft al final de la era Clinton).
+En comparación con lo estricto de las posiciones de los circuitos federales
+estadounidenses, llama la atención la permisividad relativa de las autoridades de
+PDC europeas autorizando, por ejemplo, la join t venture entre Silicon Carbide,
+Saint Gobain y Wacker-Chemie en 1996, o las EMI-Time Warner y Microsoft-Telewest en el año 2000. Es difícil no pensar que, tras estas decisiones, se encuentre la
+idea de que Europa necesita empresas de mayor tamaño para competir con las
+compañías de Estados Unidos, pero la PDC debería esencialmente velar por la efi­
+ciencia y el bienestar de los consumidores y no caer en la tentación de atender a
+consideraciones supuestamente estratégicas.
+Conductas colusivas
+
+A efectos de la exposición, resulta útil diferenciar entre acuerdos expresos
+y tácitos entre las empresas.
+Los acuerdos expresos, de cartel, entre oligopolistas no sólo están prohi­
+bidos explícitamente por la ley, sino que exigen un intercambio de información y
+una disciplina que es difícil de mantener de forma duradera y, como es sabido des­
+de hace mucho tiempo, tanto más difícil cuanto mayor es el número de empresas,
+mayores las diferencias entre sus estructuras de costes, más discontinuas las deman­
+das, etc. Por lo tanto cabe suponer que no son frecuentes4 y que, en todo caso, lo
+4
+Aunque existen ejemplos que constituyen casi novelas policíacas respecto a la forma en
+que las empresas cartelizadas se intercambian información.
+
+502
+
+
+
+relevante es tratar de detectar si existe «demasiado» intercambio de información
+entre las empresas que no es justificable mas que como mecanismo de vigilancia
+recíproca. Por ejemplo, patronales de sector que publiquen información periódica
+y detallada sobre precios de venta, o acuerdos de restricción geográfica a la comer­
+cialización de productos, o que prohíban los descuentos, constituyen en principio
+prácticas bajo sospecha.
+En este tema la NEI ha hecho aportaciones valiosas que han permitido
+analizar con mayor rigor la evidencia observada. Por ejemplo, en situaciones en
+que la observación del precio es borrosa5, la observación de bruscos movimientos
+de precios alternados (al alza y a la baja) que no se encuentran justificados por des­
+plazamientos de la demanda o de los costes, puede responder al mantenimiento
+eficaz de una disciplina de cartel en vez de, como se hacía antes, interpretarlos en
+términos de un cartel que ha de hacer frente a la amenaza periódica de nuevos
+competidores —a los que trata de impedírseles la entrada bajando precios— y que,
+por tanto, ejerce un modesto poder de mercado.
+No obstante, el tema más interesante es el de las colusiones tácitas, es
+decir, situaciones en las que, sin intercambio de información, la estructura del mer­
+cado y la ventaja de alguna empresa conducen a la aceptación mutua de facto de
+que una empresa actúe como líder fijando, por ejemplo, precios que son seguidos
+por las restantes compañías.
+La posición de Chicago respecto a las colusiones en general y las tácitas
+en particular, ha sido siempre muy reticente. Si una empresa tiene ventajas de cos­
+tes que la convierten en líder, ¿por qué no utiliza dichas ventajas para expulsar a
+sus competidores del mercado y se aviene a compartirlo con ellos? Además, en este
+caso, la expulsión de competidores se debería a ventajas de eficiencia (menores
+costes) que no justificarían su caracterización como prácticas anticompetitivas.
+De nuevo en este caso las aportaciones de la NEI han sido relevantes. Es
+cierto que si las ventajas de una empresa son de costes y suficientemente grandes,
+el modelo de empresa líder carece de sentido. Pero si las ventajas se refieren a la
+mejor previsión de la demanda o de los costes el caso cambia. Por ejemplo, en un
+duopolio en que una empresa conoce la realización exacta de la demanda y la otra
+5
+Es decir, viene afectada por una perturbación aleatoria que hace que las desviaciones del
+precio al que cada empresa puede vender en cada período de tiempo respecto al considerado «normal»
+no se sepa si son atribuibles a un shock de demanda o a la ruptura del hipotético acuerdo de cartelización.
+
+503
+
+
+
+tiene que estimarla por sus valores esperados, la segunda puede obtener mayores
+beneficios si acepta voluntariamente el precio fijado por la otra, aunque sepa que,
+bajo ciertas circunstancias, no es el que la conduciría a la maximización de benefi­
+cio. También en el caso de mejor previsión de costes (gestión de inventarios, sumi­
+nistros, previsiones climatológicas, etc.) de una de las empresas, se puede produ­
+cir este resultado.
+La conclusión fundamental en esta área de PDC es que es crucial obser­
+var el comportamiento temporal de los precios, tratando de establecer relaciones
+de causalidad temporales y que existen técnicas de estimación que permitan deter­
+minar si puede sostenerse la hipótesis de comportamiento colusivo o no en activi­
+dades muy relevantes como la comercialización de carburantes o de fertilizantes y
+un largo etcétera.
+
+Restricciones verticales
+
+Este es, posiblemente, el área más compleja de PDC y donde se han pro­
+ducido cambios más significativos en las últimas décadas. Ello es así porque la
+variedad de restricciones verticales y su propia interpretación es muy compleja.
+Sin ánimo exhaustivo, algunas de las restricciones más frecuentes son-,
+0
+
+El vendedor fija un precio de venta del comercializador.
+
+ii)
+
+El vendedor limita el mercado geográfico del comercializador.
+
+iii)
+vendedor.
+
+El comercializador se compromete a tener como único proveedor al
+
+iv) El vendedor exige que el comercializador compre su línea completa
+de productos.
+y las dificultades de interpretación obvias. Por una parte es cierto que (i)-(iv) impli­
+can restricciones impuestas por el vendedor al comprador, pero todos los contra­
+tos de compra-venta se caracterizan por poner condiciones. Y, lo que es más sus­
+tantivo desde el punto de vista de la PDC, las restricciones pueden perseguir el
+aumento del poder de mercado, pero también pueden tratar de eliminar efectos
+externos negativos de los monopolios sucesivos, o mejorar la información y los ser­
+vicios posventa de los productos.
+504
+
+
+
+En este campo, las normas iniciales, hasta finales de la década de los años
+setenta del siglo xx, fueron mecánicas y extremadamente severas. En lo esencial,
+cualquier acuerdo vertical restrictivo que implicara a un vendedor con más del 10%
+de cuota de mercado y a un comprador con más del 6 %, era perseguible per se y
+conducía a la desintegración vertical del acuerdo.
+La década de los años ochenta y parte de la de los noventa del pasado
+siglo supuso un triunfo relativo de las posiciones de Chicago basado en tres argu­
+mentos fundamentales. En primer lugar, los efectos de la discriminación sobre el
+bienestar son ambiguos, de forma que la regla per se debe sustituirse, cuando
+menos, por una rule o f reason. En segundo lugar, el poder de mercado no aumen­
+ta con la integración vertical en caso de que los bienes se utilicen en proporciones
+fijas. Por último, la fijación del precio final de venta incentiva los servicios posven­
+ta y mejora la información de los consumidores (el caso que justificaría paradig­
+máticamente el régimen de concesionarios de automóviles de una única marca).
+Como resultado global, se adoptó una posición bastante tolerante respecto a casi
+todos los tipos de restricciones verticales.
+A partir de mediados de la pasada década el péndulo volvió a oscilar, pro­
+duciéndose lo que se ha llamado una contrarrevolución en el tema de las restric­
+ciones verticales, aunque sin llegar a la aplicación de reglas per se de la primera
+época. El desarrollo de modelos más precisos de la NEI ha permitido disponer de
+instrumentos para calcular los efectos de la discriminación y muchas prácticas res­
+trictivas verticales sobre el bienestar; además, si las proporciones en que se usan
+los componentes son variables, las retricciones verticales aumentan el poder de
+mercado del vendedor.
+
+ASPECTOS ORGANIZATIVOS E INSTITUCIONALES
+
+Existe una diferencia radical entre la organización institucional de la PDC
+en Estados Unidos y en Europa. En Estados Unidos no existen TDC y son los jue­
+ces ordinarios los que deciden sobre estos temas —con ciertas excepciones en los
+recursos y apelaciones ante tribunales del circuito federal— . En Europa, muy mayoritariamente, existen TDC que son comisiones especializadas cuyas sentencias son
+recurribles por la vía contencioso administrativa y que, con frecuencia, requieren el
+acuerdo del poder ejecutivo para ejecutar las sanciones propuestas.
+Por otra parte, en Estados Unidos, además de las denuncias de los afecta­
+dos, tanto el Departamento de Justicia como el de Comercio, a través de dos agen­
+505
+
+
+
+cias especializadas distintas, pueden iniciar procesos de oficio en caso de sospe­
+char prácticas restrictivas.
+No tiene, en consecuencia, sentido tratar de trasponer el modelo estadou­
+nidense a Europa, entre otros motivos aún más evidentes, porque, con indepen­
+dencia de cuáles sean las virtudes y los defectos relativos del sistema anglosajón,
+el coste de su implantación en términos de ignorancia inicial de los jueces sobre
+los aspectos técnicos es enorme, mientras que sus potenciales beneficios tardan
+tiempo en manifestarse.
+Por lo tanto me moveré en el marco del sistema español, cuyas caracte­
+rísticas relevantes desde mi punto de vista son:
+
+1.
+a El gobierno nombra a los miembros del TDC por un período de tiem­
+po que es renovable.
+2.
+a El Ministerio de Economía tiene un Servicio de DC que determina la
+apertura de investigaciones de oficio.
+
+3.
+a Las sanciones propuestas por el TDC lo son al Ministerio de Econo­
+mía que es quien decide imponerlas o no.
+Creo que el sistema telegrafiado es manifiestamente mejorable. El punto
+de partida de toda PDC es la independencia de los órganos jurisdiccionales respec­
+to del poder ejecutivo por razones que no es preciso explicar en esta institución.
+Aceptando el modelo europeo y que, por tanto, el gobierno nombra a los miem­
+bros del TDC debería:
+i)
+Nombrarse por períodos más largos (10 años) y no renovables. La no
+renovación es condición necesaria, aunque no suficiente, para poder ser indepen­
+diente. Y esto se lo dice a Vds. un consejero ejecutivo del BE que ha sido renova­
+do por un segundo y último plazo recientemente por el gobierno.
+íi) Instrumentar algún tipo de control público de los nombramientos
+semejante al del nombramiento de altos cargos del gobierno federal de Estados
+Unidos.i)
+iii)
+pendencia.
+506
+
+Buscar un perfil profesional y una posición que garanticen la inde­
+
+
+
+En segundo lugar, la independencia exige que el TDC sea autónomo res­
+pecto al gobierno y ello implica que:
+i) El TDC y sus servicios técnicos (que sería deseable absorbieran al Ser­
+vicio de DC) deberían imponer sanciones sin tener que ser refrendadas o no por el
+Ministerio de Economía, que serían recurribles por la vía contenciosa.
+ii) El TDC debería tener capacidad reglada para suspender cautelarmente decisiones del gobierno por debajo de cierto rango legal en caso de dictaminar
+que violan principios de competencia.
+iii) El TDC debería asumir todas las competencias en materia de DC que
+retienen parcialmente las Comisiones Reguladoras (energía, transporte, telecomuni­
+caciones) y tener potestad para suspender cautelarmente decisiones de las mismas.
+Por último, respecto a la existencia o no de una Ley de defensa de la com­
+petencia, permítanme que adopte una posición muy empírica. Supongo que es
+necesario algún texto legal que defina lo que se consideran prácticas restrictivas de
+la competencia, pero tratar de hacer un listado exhaustivo de las distintas formas
+que pueden adoptar dichas prácticas me parece un intento de poner puertas al
+campo. Una ley de DC debe tratar de dar cobertura jurídica a la posibilidad de san­
+cionar prácticas encaminadas a restringir la competencia porque disminuyen el bie­
+nestar social y generan rentas de posición no ganadas, pero no debe tratar de ser
+un código penal de DC.
+A veces creo que mi posición sobre los temas institucionales de PDC, que
+acabo de manifestarles, es algo utópica. Por una parte, porque todos los partidos
+políticos suscriben la independencia del TDC y de las Comisiones Reguladores res­
+pecto del poder ejecutivo cuando están en la oposición, pero se olvidan en cuan­
+to forman gobierno. En este sentido mi posición no se diferencia mucho de quie­
+nes defienden que no debería existir, al menos, el Canal 1 de TVE. Pero, además,
+pienso que lo que propongo trata de obtener las ventajas de los sistemas anglosa­
+jones sin incurrir en sus costes y este intento, por parte de un economista, quizá
+les pueda resultar algo infantil. Pero me permitirán que defienda estas ideas en la
+esperanza de que, dada la distancia entre la situación actual y la utopía, insistir
+sobre estos temas quizá permita en el futuro recortarla algo.
+Nada más y muchas gracias por su atención.
+
+507
+
+
+
+

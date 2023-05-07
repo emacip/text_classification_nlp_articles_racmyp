@@ -1,0 +1,408 @@
+LO SIMULADO Y LO DISIMULADO
+EN LA MOTIVACIÓN DE LAS SENTENCIAS
+Por el Académico de Número
+Excmo. Sr. D. Alejandro Nieto García*
+
+El presente trabajo supone un paso más en el largo proceso de elaboración de una teoría de las resoluciones judiciales que inicié hace ya
+muchos años —y precisamente en un estudio de homenaje a nuestro compañero Jesús González Pérez— que sistematicé más tarde en un amplio
+volumen titulado “El arbitrio judicial” y que he continuado después en otras
+publicaciones posteriores. La reflexión humana no tiene nunca un punto
+final y mientras el autor viva seguirá madurando su pensamiento, perfilando
+sus ideas, matizándolas y aun rectificándolas en su caso: tanto más cuanto
+más importantes sean (o crea que son) y sobre todo cuando inciden en el
+paradigma científico y práctico en uso, como sucede con esta cuestión. Hago
+esta advertencia previa para justificar la inevitable presencia de ciertas citas
+ya expresadas en exposiciones anteriores, que ahora resulta conveniente
+aludir para mejor inteligencia del sistema que a continuación se expone.
+Debiendo añadir además y por otra parte que, aunque el contenido de esta
+intervención desarrolla una cuestión del llamado Derecho Judicial, no va
+dirigido a juristas especializados puesto que a todos los ciudadanos interesa
+desde el momento en que todos nos vemos afectados, tarde o temprano, de
+una manera o de otra, por las resoluciones de los jueces.
+
+* Sesión del día 17 de abril de 2012.
+
+507
+
+
+
+I
+Simplificando mucho las cosas y a efectos de la presente disertación
+las sentencias contienen una parte dispositiva o fallo, que resuelve el conflicto que se ha debatido y una motivación articulada en Fundamentos Jurídicos (antes llamados “considerandos”) en la que se justifica en términos
+legales la decisión adoptada. Lo importante es el fallo; mientras que la motivación es un elemento accidental sólo generalizado en Europa bien avanzado el siglo XIX puesto que antes de ordinario los jueces no motivaban sus
+resoluciones, aunque así se practicaba por excepción en la Rota Romana y
+en los tribunales de los reinos de Aragón y Mallorca. Famosa es a este respecto la Real Cédula de 25.6.1768 en la que se decía que “para evitar los perjuicios que resultan con la práctica que se observa en la Audiencia de
+Mallorca de motivar las sentencias, dando lugar a cavilaciones de los litigantes, consumiendo mucho tiempo con la extensión de las sentencias (…)
+mando cese dicha práctica ateniéndose a las palabras decisorias”.
+En la actualidad es inimaginable, sin embargo, una resolución
+pública no motivada y así se exige no sólo para las sentencias sino para las
+resoluciones administrativas. Ahora bien, el aplauso casi unánime de los
+autores y abogados no debe hacernos olvidar que esta exigencia produce
+ciertamente no pocas “cavilaciones entre los litigantes”, que se traducen en
+nubes de recursos para enjuiciar si la motivación es correcta y suficiente y
+en caso negativo solicitar en apelación la revocación de la sentencia. Pero
+más importante aún es que se trata, en mi opinión, de un requisito inútil,
+dado que el mismo fallo puede confirmarse, o repetirse, sin más trabajo que
+el de rectificar la motivación que se ha anulado. Como esto es bien sabido
+—singularmente por los abogados que aquí encuentran una copiosa mina
+de pleitos— no voy a detenerme ahora en ello sino en un aspecto mucho
+más profundo, a saber: que la motivación y el fallo no son por lo común
+congruentes entre sí y que aquélla es una simple cobertura formal de éste,
+una “ficción” (en palabras de Ysay), una declaración “simulada” en la que
+lo que se dice es, por tanto, algo fingido o simulado (para cumplir el trámite)
+mientras que la verdad se silencia, oculta y “disimula” prudentemente. Así
+lo han denunciado desde siempre, aunque con poco éxito, los críticos más
+autorizados. Valga por todos la cita de Bendix: “los motivos son disculpas,
+ocultaciones, engaños o autoengaños puesto que siempre hay motivos bastantes y sobrantes tanto para hacer como para no hacer”.
+En la realidad lo que importa al juez y a las partes es la decisión del
+conflicto o fallo. Luego viene el trámite formal de la motivación en la que
+el juez calla lo que no le conviene decir y explica prolijamente lo que le
+viene bien, tal como ya advirtió el maestro Hostiense en el siglo XIII: “si cautus sit iudex, nullam causam exprimetur” (si el juez es prudente no debe
+
+508
+
+
+
+manifestar nunca la causa de su decisión) y repitió el juez lord Manfield
+seiscientos años más tarde aconsejando a sus colegas que “no se aventurasen nunca a exponer las razones de sus sentencias porque serán probablemente malas aunque la decisión sea justa”.
+Ahora la cuestión queda planteada en los siguientes términos: la ley
+obliga al juez a motivar su decisión y así lo hace indefectiblemente. Al analista corresponde entonces examinar cuáles han sido las verdaderas causas
+que han llevado al juez a tomar su decisión y comparar sus resultados con lo
+que el juez ha escrito, para verificar si ha sido sincero y, en su caso, qué es
+lo que ha ocultado o disimulado en su confesión expresa. Se trata, en definitiva, de determinar hasta qué punto podemos fiarnos del texto de la sentencia; y ya adelanto que no mucho, porque de ordinario el juez ni quiere ni está
+en condiciones de motivar sinceramente las razones de su decisión.
+II
+Empecemos entonces por lo primero: ¿Cómo se las arregla el juez
+para dar con la solución de un conflicto? ¿De qué medios dispone? La verdad
+es que no hay un camino sino muchos y variados para llegar a la decisión,
+aunque haya que adivinarlos dado que los jueces —salvo excepciones muy
+raras como las del juez francés Magnaud y el norteamericano Cardozzo— son
+reacios a manifestar como actúan y a razonar sobre ello. Veamos en cualquier
+caso el procedimiento intelectual más extendido.
+En la jurisprudencia española actual sigue vigente, y con la categoría de dogma intocable, el principio (obsoleto ya en el resto del mundo) de
+que la sentencia se articula sobre un silogismo de subsunción, cuya premisa
+mayor es la norma abstracta aplicable y la premisa menor el supuesto de
+hecho examinado, deduciéndose el fallo mediante la subsunción del hecho
+en la norma. Por ejemplo, considerando que el art. 1902 del código civil
+dispone que “el que causa daño a otra mediante culpa o negligencia está
+obligado a indemnizar el caño causado”, y considerando que A. ha producido por negligencia un daño a B., la conclusión es que A. debe indemnizar a B. el daño producido. Nada más fácil a primera vista, puesto que el
+manejo de este silogismo se enseñaba antes en lógica a los niños de trece
+años y hoy está al alcance de un programa informático elemental. Lo que
+sucede, sin embargo, es que la sentencia es infinitamente más complicaba,
+pues las dificultades aparecen antes de armar el silogismo, es decir, a la hora
+de determinar si A. fue el autor del daño, si actuó con negligencia, si estaba
+legitimado para producirlo y en qué medida participó B. en la acción. Esto
+son los problemas y no los del silogismo y es inconcuso que con un método
+lógico no puede adquirir el juez los datos que necesita para resolver.
+
+509
+
+
+
+Por otra parte, la teoría del silogismo es moderna ya que se prescribió por primera vez en una Cédula del reino de Nápoles de 1774; y es significativo que su elaboración y formulación no se deba a la experiencia de
+los jueces sino a la influencia de políticos (Tanuci), ilustrados (Beccaria),
+filósofos (Stuart Mill) y hasta matemáticos (Boutmy). Ya he advertido, con
+todo, que —sin perjuicio de la reverencia rutinaria que actualmente le siguen
+conservando ciertos jueces y profesores españoles— se encuentra en descrédito total. Lo que no obsta a que ocasionalmente continúe utilizándose.
+En su consecuencia podemos afirmar ya que unas sentencias se dictan sencillamente por razonamientos de lógica clásica a través de un silogismo de
+subsunción y que tales razonamientos suelen manifestarse de manera
+expresa en la sentencia constituyendo el núcleo de la motivación.
+III
+La sinceridad de la sentencia tiene que superar, no obstante, la
+prueba de la piedra de toque de la independencia judicial porque es evidente que, en los supuestos en que no exista, el juez se verá obligado a
+ocultar los motivos reales de su decisión y tendrá que inventarse algunos
+otros mínimamente plausibles. Ahora bien ¿puede ponerse en duda la independencia judicial que la constitución tan enfáticamente proclama? Porque
+aquí todos la predican, pocos la practican y casi nadie cree en ella; salvo los
+jueces quienes, eso sí, la profesan con orgullo y se ofenden cuando se pone
+en duda esta calidad. Entre nosotros tenemos a jueces tan ilustres como
+Manuel Jiménez de Parga y Juan Antonio Carrillo (cuyas terminantes opiniones he oído en este lugar) y a otro ex juez constitucional, Miguel Herrero
+de Miñón (que no se ha pronunciado, que yo sepa, al respecto). El juez “es”
+imparcial —nos han dicho ellos— y no simplemente “debe serlo”, porque
+así lo proclama la Constitución y lo exige su conciencia personal.
+Y sin embargo yo me he atrevido a sostener públicamente lo contrario. Audacia que han compartido hombres tan eminentes como Federico
+II de Prusia y en España Azaña y Alfonso Guerra. Dicho sea en términos más
+precisos: en mi opinión la independencia judicial absoluta, tal como generalmente se entiende, es imposible porque el ser humano tiene condicionado —no determinado— gravemente su albedrío y juzga inevitablemente,
+sea consciente de ello o no, por las circunstancias de su origen familiar, su
+entorno social y su educación. Aunque tengan la mejor voluntad del mundo,
+los jueces ven y resuelven de distinta manera cuando pertenecen a una
+minoría étnica, a una religión, a una clase social y según hayan estudiado
+en una universidad de la Iglesia o en un ateneo libertario. Mas siendo esto
+así, a nadie se le ocurre expresar en su sentencia la verdadera y profunda
+causa de su decisión. Así es la naturaleza de las cosas y no se les puede
+
+510
+
+
+
+reprochar; pero hay que tener conciencia de ello y los abogados bien lo
+saben y se cuidan de poner sus asuntos en buenas manos, puesto que conocen a los jueces “inclinados” a favor o en contra del aborto o de los intereses de los trabajadores o de la Hacienda Pública.
+Lo importante, con todo, no es este condicionamiento personal (que
+además es autocontrolable, si se quiere) sino el que incide en la esfera política, que es el más perverso. Por mucho que los jueces afirmen que son
+políticamente independientes (y algunos llegan a creérselo sinceramente),
+nadie les toma en serio: las encuestas populares son a tal efecto contundentes. Y sobre todo son los políticos quienes por dependientes les tienen y así
+les tratan. La práctica de la designación de las Altas Magistraturas —según
+se informa diariamente en la prensa— demuestra que los políticos quieren
+tener jueces a ellos sujetos y que los jueces están dispuestos a aceptar esta
+servidumbre a cambio de una prebenda. Entre el Partido y el juez se celebra a ojos del público un chalaneo de feria o en términos más elegantes un
+pacto fáustico: el Partido le entrega el cargo y el juez le vende (o alquila,
+quizá) su conciencia. Pero no insisto más porque la situación es sabida de
+todos y conste que las vergonzosas historias que los medios relatan, son
+versiones tibias de lo que en la realidad sucede aunque no sea de conocimiento público.
+Insisto en que mi opinión personal aquí poco cuenta porque lo que
+estoy invocando es la opinión pública dominante y, más todavía, el comportamiento generalizado, no exclusivo, de los políticos que practican una estrategia sistemática y manifiesta de corrupción y, por otra parte, de los jueces que
+—salvo excepciones tanto más nobles cuanto que son más raras— se apresuran y con mucho gusto a dejarse corromper a través de un pacto de entregas recíprocas igualmente reprobables. Pero volviendo a lo que en este lugar
+importa, lo que parece incuestionable es que el juez dependiente —el que
+obra al dictado de sus convicciones culturales o de los intereses de un partido— nunca podrá consignar este hecho en la motivación de su sentencia.
+IV
+Con lo que hasta ahora hemos visto tenemos que no todas las sentencias son elaboradas de la misma forma sino que existen diversos métodos que en una primera aproximación puede agruparse de la siguiente
+manera: unas son dictadas de acuerdo con el procedimiento estricto de la
+subsunción legal; otras lo son mediante el empleo directo del sentido jurídico común (que algunos denominan sentimiento de justicia), otras por
+influencia de los prejuicios culturales y sociales del juez; y otras, en fin,
+como consecuencia de presiones políticas (sin olvidar, claro es, las desvia-
+
+511
+
+
+
+ciones delictivas). Un repertorio heterogéneo, como se ve, que se difumina
+por la circunstancia de que todas ellas tienen una fundamentación formal
+que nos coloca en un nivel distinto de análisis centrado sobre el elemento
+más ilustrativo de todas las resoluciones judiciales: su obligada motivación.
+Sabemos, en suma, cuáles son los estímulos más usuales que provocan el
+fallo. Ahora nos toca comprobar hasta qué punto los manifiesta sinceramente el juez en la motivación de las sentencias.
+Porque es el caso que cada sentencia, por imperativo legal, debe
+estar de forma expresa jurídicamente motivada y esta motivación en lugar
+de aclarar las cosas, las confunde como consecuencia de una desviación
+fatal: lo que se considera como una descripción causal induce a engaño
+dado que con frecuencia en realidad no es tal sino una explicación justificativa a posteriori. Veámoslo.
+La Constitución y la ley exigen que las sentencias sean “motivadas”,
+cierto; pero ¿qué se quiere decir con esto? Porque la motivación es un concepto ambiguo que admite dos variantes.
+a) La primera es la explicación (o motivación psicológica) que consiste en la descripción de las causas que han conducido al fallo,
+que es su efecto. En cuanto que la sentencia es el resultado de un
+proceso anímico se refiere necesariamente a una actividad mental
+y responde en definitiva a la pregunta del “porqué” se ha adoptado la decisión. Se mueve en el contexto del descubrimiento y
+alude a una causa, o cadena causal, anterior al efecto. El juez ha
+fallado de una manera determinada porque es la que considera
+justa o porque entiende que es la más ajustada a la ley o porque
+así se lo ha aconsejado el sentido común o porque le han pagado
+para hacerlo o porque el Partido, al que debe el cargo, se lo ha
+indicado.
+b) La segunda es la justificación (o motivación jurídica), que no se
+refiere a las causas que han provocado el fallo sino a las bases
+legales en que se apoya. Responde a la pregunta de porqué se
+ha debido tomar la decisión o, si se quiere y es lo mismo, del
+porqué una decisión es legalmente correcta. En el ejemplo anterior: porque así lo determina el art. 1902 del código civil.
+A veces coinciden ambas explicaciones. Cuando el juez ha tomado
+su decisión por consideraciones legales, entonces la ley es la causa y al
+tiempo vale también como justificación del fallo. Pero en otros casos —los
+más frecuentes— no sucede así. El juez, como no puede confesar que ha
+decidido por sus pulsiones racistas, convicciones religiosas o soborno, tiende
+
+512
+
+
+
+inevitablemente a ocultar (“disimular” en la terminología técnica) las causas
+reales y en su lugar debe inventarse, es decir, “simular” una justificación legal,
+ficticia, pretendidamente objetiva para cubrirse a posteriori. Esto es algo que
+saben bien los abogados y los propios jueces, aunque son raros los que se
+atreven a confesarlo públicamente. Por decirlo con palabras de autoridades,
+para un teórico y juez tan experimentado como Wildhagen, ya en 1912: “lo
+primero y más importante que hay que hacer es adoptar la decisión; luego
+vendrán las justificaciones, que serán tan abundantes como las zarzamoras”;
+y para el ya citado Ysay, “la justificación es una ilusión; el juez no manifiesta
+los motivos reales de la formación de la resolución sino que escribe como si
+ésta se hubiera derivado la ley”. Para el maestro italiano Calamandrei, la motivación es en el peor de los casos “un expediente de hipocresía formal establecido para otorgar un disfraz lógico a la voluntad nacida de otros móviles”.
+En suma: una argumentación simulada con la que se sustituye a la verdadera
+causa que se oculta o disimula. He aquí, en suma, el secreto de Arlequín, que
+todos conocen y casi todos callan por la cuenta que les tiene.
+La discordancia entre la motivación causal y la motivación justificativa se entiende perfectamente en muchos casos porque ¿qué juez se va a
+atrever a decir la verdad confesando que ha absuelto porque era consciente
+de que una condena ponía en peligro su propia vida por las eventuales
+represalias de los amigos del imputado o por la esperanza de que éstos le
+premiaran con una buen destino fuera de la Magistratura? Esto se oculta
+siempre y en su lugar se buscan justificaciones estrictamente jurídicas que
+un juez culto encuentra sin dificultades.
+El lego, creyendo ingenuamente que la ley da siempre soluciones
+precisas, podrá sorprenderse al oir que pueden encontrarse justificaciones
+para todo y que lo misma sirvan para condenar que para absolver. Pero los
+profesionales del Derecho sabemos que esto es así y que nada hay tan sencillo como encontrar dos respuestas para la misma pregunta, dos soluciones
+para el mismo conflicto. Es más, el juez ni siquiera tiene que ir lejos para
+buscarlas puesto que el demandante y el demandado le han ofrecido a lo
+largo del proceso argumentos contrarios suficientes para que pueda escoger
+el que mejor le cuadre. Menguado jurista sería un juez que no fuese capaz
+de argumentar su fallo, cualquiera que sea; como torpe sería un abogado
+que no fuere capaz de alegar razones para defender a su cliente. Esta es la
+primera regla del Derecho: para todos los casos siempre hay dos (o más)
+salidas posibles, hasta tal punto que resulta prácticamente imposible lograr
+unanimidad y en los libros aparecen indefectiblemente enfrentadas dos teorías opuestas y dos ristras de sentencias contrarias. El juez del caso concreto
+no tiene más trabajo que el de escoger la que le interese.
+
+513
+
+
+
+V
+A la vista de lo que antecede cabe preguntase qué es lo que en el
+fondo importa: si la causa psicológica personal que ha llevado al juez a
+tomar la decisión o la motivación explícita con la que adorna sus sentencias.
+Al hombre de la calle lo que le preocupan son las causas reales del
+fallo y, en consecuencia, sin llegar siquiera a leer las resoluciones, denuncia
+los impulsos religiosos que han movido a un juez a condenar a una abortista
+o las presiones sociales que le han movido a absolver a un banquero o el
+escándalo de que en un órgano colegiado las opiniones de los votantes (salvo
+excepciones) coincidan exactamente con los intereses del Partido que les
+han nombrado. El jurista, por el contrario, aunque sabe mejor que el lego lo
+que de verdad hay detrás de los papeles, está obligado a leer todo porque
+tal es su oficio. Y esto último es en cualquier caso lo que debe hacerse en
+un trabajo como el presente en el que se quiere determinar cómo se las arregla el juez para cortar un traje legal a la medida de su decisión previamente
+tomada (y en el supuesto, huelga recordarlo, en que la motivación jurídica y
+la causal no coincidan). En otras palabras: ¿cómo puede justificarse —motivarse— a posteriori una sentencia cualquiera que sea el contenido de ésta?
+A) El primer camino es el de la hermenéutica en el sentido tradicional
+de “método de interpretación de las normas”, bien conocido por los romanos y sistematizado por Savigny en sus famosos cuatro cánones y recogido
+finalmente en nuestro código civil. De acuerdo con esto las leyes pueden ser
+interpretadas o entendidas de diversas maneras: según su sentido literal, de
+conformidad con su contexto histórico o con su finalidad y también atendiendo las circunstancias sociales del momento en que deben ser aplicadas.
+Pues bien, según se siga un canon u otro las consecuencias pueden
+ser distintas: si, por ejemplo, su sentido literal favorece al demandante y su
+contexto actual favorece al demandado, ¿por cuál inclinarse entonces? ¿Por
+el azar o el gusto del juez? De hecho el juez adopta con su propio criterio la
+solución A. y luego la justifica invocando el canon hermenéutico literal; de
+la misma manera que si se hubiese inclinado previamente por la solución B.
+hubiera acudido al canon del contexto social. En cualquier caso la situación
+es la misma: una decisión previa justificada a posteriori con una argumentación técnica impecable al alcance de un estudiante de tercer curso de licenciatura. Aunque aquí salta a la vista que se ha hecho una trampa retórica
+desde el momento en que se ofrece como causa lo que en realidad es justificación a posteriori.
+B) En los últimos años el canon más habitualmente utilizado es el de
+“autoridad”, cuyo manejo es muy sencillo. Teniendo en cuenta que el con-
+
+514
+
+
+
+flicto debatido ofrece, como mínimo, dos soluciones (la del demandante y la
+del demandado) y teniendo en cuenta que cada una de ellas ha sido aceptada ya por el Tribunal Supremo en ristras interminables de sentencias, el
+juez puede fundamentar su solución propia en la autoridad de las docenas
+de sentencias que ya han seguido la misma opinión y sin necesidad de añadir argumentos propios al sentirse apoyado por la autoridad del Tribunal
+Supremo; y por supuesto silenciando la jurisprudencia contraria y sin necesidad de entrar en la valoración de las tesis contrapuestas porque con la invocación de la autoridad basta. Nada más fácil, como se ver, para justificar lo que
+haga falta. Y tan es así que estadísticamente esta es la motivación más usual,
+prolongando incesantemente las consabidas líneas jurisprudenciales contradictorias.
+C) Si la plasticidad de las normas favorece, según acaba de verse,
+la manipulación hermenéutica y la imaginación de motivaciones justificativas ad hoc, la inserción progresivamente creciente de “principios” ha aumentado correlativamente esta predisposición. Porque es el caso que hoy se ha
+impuesto arrolladoramente el uso de principios, hasta tal punto que el Ordenamiento Jurídico no está ya estructurado tanto en reglas (mandatos o prohibiciones concretas con advertencia de las consecuencias también concretas de su incumplimiento) sino por principios que operan como simples
+inspiradores de comportamientos. El procedimiento administrativo, por
+ejemplo, debe desarrollarse con arreglo a los principios de rapidez y eficacia, lo que da al juez un enorme margen de apreciación a la hora de valorar la validez de un determinado trámite. Porque la eficacia puede valer
+tanto para anularle como para conservarle.
+Mas no se trata aquí sólo de esto. Mayor importancia tiene que con
+los principios se abren de par en par las puertas a los juicios de valor con
+la consecuencia de que las conductas ya no se enjuician por su adecuación
+o inadecuación a lo establecido en la ley sino por la valoración personal que
+de ellas hace el juez. Pensemos en el supuesto, harto popularizado, de informaciones de prensa que afectan a la vida personal de un “famoso”. Aquí
+entran en juego el principio (y el derecho) de la libre información y el principio (y el derecho) de la privacidad, el honor e incluso el de la dignidad.
+Conflicto que se resuelve de acuerdo con el criterio rigurosamente subjetivo
+del juez a la hora de valorar estos principios encontrados y por eso existen
+tantas sentencias que condenan al periodista por violar el principio de privacidad de la víctima y otras tantas que le absuelven en defensa del principio de libertad de expresión.
+Desde Heck (y aun antes) sabemos que la vida es un continuo conflicto de intereses y que el Derecho está para resolverlos. Lo cual intenta
+hacer la ley estableciendo una jerarquía de intereses individuales y sociales;
+
+515
+
+
+
+pero quien en definitiva resuelve no es la ley sino el juez estableciendo por
+su parte cuál es el que va a prevalecer en el caso concreto: si el del propietario o el del okupa, si el del empleador o el del empleado, si el del banco
+prestamista o el del deudor hipotecario.
+D) Junto a los cánones hermenéutico, de autoridad y de valores
+que acaban de ser examinados, no puede pasarse por alto el canon factual,
+que pone el énfasis más que en la inteligencia de la ley aplicable, en los
+hechos conflictivos, puesto que considera que la determinación de los
+hechos es la primera tarea del juez de tal manera que, una vez precisados
+éstos, el fallo viene por sí sólo, poco menos que automáticamente. Tal era
+la tradición de la jurisprudencia europea, hoy casi abandonada ciertamente
+salvo en los procesos penales, pero que algunos jueces norteamericanos
+(como Frank) siguen conservando con tenacidad y apasionamiento.
+VI
+En cada uno de los anteriores niveles hemos comprobado hasta qué
+punto cuenta un juez que conoce su oficio con medios aparentemente objetivos para justificar una decisión previamente tomada. Pero a fé que no
+hemos hecho más que empezar porque el proceso de “distanciamiento del
+imperio de la ley” se está acelerando a ojos vistas aunque sigan respetándose formalmente los signos de respeto. La jurisprudencia alemana de intereses consiguió mantener la vinculación del juez a la ley; lo que ya no hizo
+la Escuela del Derecho libre, que se atrevió a prescindir de fórmulas hipócritas y de dejar a un lado las argumentaciones simuladas. Lo que ahora está
+más de moda, sin embargo, son las fórmulas anglosajonas de la razonabilidad et alia, que se han colocado sin duda alguna más allá de la ley, aunque naturalmente sin reconocerlo de manera expresa, como se hace siempre en los oficios jurídicos.
+El lector ocasional de la última jurisprudencia española se queda
+asombrado por la enorme cantidad de sentencias que vienen motivadas por
+juicios metalegales, como son los de racionalidad, razonabilidad, proporcionalidad y sus contrarios, que se han tomado del Derecho anglosajón y
+que permiten ahorrarse las disquisiciones escrupulosamente legalistas de la
+tradición europea continental.
+Como sucede que en el ámbito del common law el Ordenamiento
+Jurídico escrito ni es ni pretende ser exhaustivo, los jueces han tenido siempre un margen de decisión comparativamente amplio y poseen en todo caso
+una gran fuerza imaginativa y creadora. Pues bien, desde tales posiciones
+han sentenciado desde siempre —aunque ahora con más frecuencia que
+
+516
+
+
+
+nunca— manejando esos conceptos de irracionalidad et alia, a que acaba de
+aludirse. Y aunque es forzoso reconocer que los meritorios esfuerzos de lord
+Green y lord Diplock (y demás teóricos) no han logrado aclarar el alcance
+de tales conceptos, que para los juristas españoles siguen siendo indescifrables, ante el pasmo de abogados, litigantes y justiciables, en la actualidad se
+pronuncian en España anualmente centenares de sentencias que se motivan
+con la simple declaración de que lo enjuiciado es irracional o irrazonable o
+desproporcionado o arbitrario; que, a decir verdad, es la fórmula más cómoda
+de justificar una sentencia sin argumentos legales y desde luego más allá de
+la ley. Porque para declarar que un acto o conducta es irracional no hace falta
+haber estudiado leyes ni gastar mucha tinta y cerebro en sutilezas. Con lo cual
+volvemos, en suma, al sentido común del buen juez Magnaud o a la Escuela
+del Derecho libre de Friburgo o, ni más ni menos, a la justicia del cadí.
+VII
+La presente exposición —en la que por conocidas razones de
+tiempo se ha renunciado deliberadamente a la exhaustividad y más aún a
+la erudición— puede cerrarse con las siguientes conclusiones.
+Primera.– La sentencia, como todo acto humano, es el resultado de
+la conjunción de varias concausas, sean intelectuales, emocionales o intuitivas, que condicionan o predisponen su contenido (aunque el autor no sea
+siempre consciente de ellas), dejando un margen mayor o menor al arbitrio
+(albedrío en la terminología clásica) del juez.
+Segunda.– Del análisis casuístico de las sentencias se deduce que
+éstas son dictadas por causas variadas que pueden sistematizarse en los
+siguientes grupos: A) A unos fallos se llega a través de un silogismo de subsunción del caso concreto en la norma general. B) En otros casos el fallo
+sigue la opinión de una línea jurisprudencial anterior por entender que es
+la dominante o la más moderna. Ambas variantes se insertan en procesos
+intelectuales estrictamente jurídicos; mas no así las siguientes, que desbordan el ámbito de lo jurídico y no reposan en un proceso intelectual sino que
+reflejan situaciones de intuición, sentimiento o pasión. C) En algunos casos,
+en efecto, la decisión se toma condicionada directamente (aunque no determinada) por las circunstancias personales y sociales del juez, que operan
+como pre-juicios: inspirado en estas circunstancias y con el respaldo de su
+experiencia profesional el juez forma un juicio intuitivo de tipo gestáltico
+(“pálpito”, “hunch”, “Gefühl”) que se expresa, más o menos controladamente, en el fallo. D) En otros casos, en fin, el fallo es resultado de presiones personales que se ejercen sobre el juez desde el campo político y social
+o incluso mediante un delito (cohecho).
+
+517
+
+
+
+Tercera.– Los supuestos a) y b) se reputan jurídicamente correctos.
+Los de la letra c) son consecuencia inevitable de la naturaleza humana. Y los
+de la letra d) por inadmisibles se tienen; pero en la actualidad su frecuencia es escandalosa y más todavía la impunidad de su práctica manifiesta diaria e inútilmente denunciada.
+Cuarta.– Aunque no existe una estadística sobre la práctica cuantitativa de estas variantes, puede adelantarse a título aproximativo lo siguiente:
+La causa a), que es la más tradicional, se encuentra actualmente en manifiesta recesión. La causa b), por su evidente comodidad de uso, es probablemente la más seguida. La causa c) es globalmente la de aparición más frecuente. La causa d) ha adquirido en los últimos años una importancia
+realmente preocupante.
+Quinta.– Detectar estas causas para poder encajar cada sentencia
+concreta en uno de los grupos descritos, no resulta sencillo para quienes no
+conocen bien los entresijos de la vida judicial, debido a que el juez oculta
+deliberadamente las verdades causas que le han llevado a tomar la decisión
+(la llamada motivación causal o explicativa) y en su lugar redacta una motivación justificativa, ficticia o simulada, con la que a posteriori razona o cubre
+(o intenta cubrir) la decisión previamente tomada por otras causas que
+obviamente no se atreve a manifestar. La distinción entre estas dos motivaciones es por tanto un elemento imprescindible de análisis.
+Sexta.– El juez, a la hora de “simular” una motivación justificativa de
+su decisión, se sirve de varias técnicas. Si la causa real ha sido legal (supuestos a. y b.) no hace falta simular ni inventar nada porque coinciden las motivaciones causal y justificativa. En los demás supuestos la justificación se basa
+ordinariamente o bien (i) en un razonamiento hermenéutico aparentemente
+técnico pero de planteamiento radicalmente falso; o bien (ii) en la invocación de una autoridad que se presume irrebatible; o bien (iii) en la invocación de principios ilimitadamente elásticos; o bien (iiii) en el empleo de juicios de valor rigurosamente subjetivos y que suelen concretarse en la
+jerarquización personal de los intereses en conflicto; o bien, en fin, ( iiiii) en
+afirmaciones categóricas metajurídicas de naturaleza extralegal, que en la
+actualidad se han puesto de moda sobre todo en los más altos Tribunales.
+Séptima.– Las tesis anteriores están condenadas por la doctrina jurídica oficial y en España no es académicamente correcto hablar de ellas; pero
+son perfectamente conocidas por otras disciplinas (como la sociología, la
+psicología y la retórica) y en el extranjero, donde ya no producen escándalo,
+son objeto de análisis teóricos y prácticos de todo tipo.
+
+518
+
+

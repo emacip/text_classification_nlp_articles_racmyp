@@ -1,0 +1,564 @@
+C R E C IM IE N T O D E L S E C T O R P Ú B L IC O
+C O N E S P E C IA L R E F E R E N C IA A L G A S T O
+E N E D U C A C IÓ N
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+El análisis de la dimensión del sector público y su continua tenden­
+cia al crecimiento está relacionado con problemas económicos de gran entidad,
+tales como la distribución de la riqueza, la eficiencia económica y la delimitación
+entre lo público y lo privado.
+Empezaré mi exposición haciendo algunas consideraciones acerca
+de las razones que justifican la existencia de un ámbito de actuación propio del
+sector público. Seguidamente, analizaré los criterios utilizados para su caracteri­
+zación.
+La segunda parte de mi intervención estará dedicada a cuestiones
+cuantitativas acerca del gasto público y su relación con el producto interior bru­
+to, poniendo de manifiesto las dificultades implícitas en la contrastación empíri­
+ca de las teorías sobre el crecimiento del sector público.
+Finalizaré analizando la intervención pública en el sistema educati­
+vo, materia por la que siento una manifiesta predilección, tanto por mi propia ex­
+periencia docente, como por considerar que representa un aspecto crucial del de­
+sarrollo y progreso social.
+
+* Resumen de la intervención en la sesión del día 12 de noviembre de 1996 corres­
+pondiente al discurso de recepción
+
+631
+
+
+
+JUSTIFICACIÓN Y CARACTERIZACIÓN
+DEL SECTOR PÚBLICO
+Para interpretar el crecimiento del sector público es importante re­
+visar las razones que, en el marco de una sociedad moderna, justifican la exis­
+tencia de un ámbito público de actuación. Cabe enmarcar esta cuestión entre dos
+modelos opuestos: el de la sociedad liberal y el de la sociedad totalitaria.
+Entre estos dos planteamientos pueden situarse todos los modelos
+posibles para delimitar y administrar la frontera de lo público y lo privado. Así,
+está generalmente aceptada la necesidad de un sector no privado, entendido co­
+mo el gestor de las acciones colectivas de la sociedad; de un entramado institu­
+cional para hacerlas viables; y aceptados están, también, límites a la libertad in­
+dividual que implican, por su propia existencia, un cierto grado de coacción. El
+alcance que pueda tener esta coacción conforma los distintos ordenamientos so­
+ciales. El equilibrio se produce en función de cómo valora la sociedad la eficacia
+relativa del mercado y de la intervención pública. Es éste un equilibrio dinámi­
+co, que no estático, propio de las democracias liberales. Entendiendo por demo­
+cracia la existencia de sufragio universal, y por liberal la. ausencia de coacción,
+definida como la situación en la que «las acciones de uno están al servicio del de­
+seo de otro».
+Aceptada la necesidad de un ámbito público de actuación y asu­
+miendo que coexiste con un núcleo de decisiones que corresponden a los indi­
+viduos, surge la cuestión de cómo articular ambas esferas en el marco de una so­
+ciedad moderna.
+La teoría establece que, en condiciones de competencia perfecta, la
+asignación de recursos resultante del juego de la oferta y la demanda resulta óp­
+tima. Debe tenerse en cuenta, sin embargo, que alcanzar esta asignación depen­
+de del cumplimiento de una amplia lista de supuestos acerca del ordenamiento
+institucional, depende, también, de las características de los productos y merca­
+dos y del comportamiento de los agentes. Además, los resultados de optimalidad
+y eficiencia no aluden, en ningún momento, a consideraciones como equidad,
+justicia o, incluso, supervivencia de los agentes.
+Los argumentos en favor de la intervención pública se desarrollan a
+partir de un análisis crítico de este referente teórico, y pueden clasificarse en tres
+grandes grupos.
+
+632
+
+
+
+En primer lugar, los mercados no siempre son capaces de alcanzar
+las asignaciones eficientes de recursos que predice la teoría.
+En segundo lugar, aunque todos los mercados funcionen eficiente­
+mente, las economías experimentan auges y recesiones que generan oscilaciones
+económicas y aumentos de incertidumbre no deseables.
+Por último, la asignación de recursos resultante del mercado no tie­
+ne por qué coincidir con la preferida por los agentes sociales y por la mayoría de
+los ciudadanos. La discrepancia entre la «solución política» y la «solución de mer­
+cado» explica en algunos casos, e intenta justificar en otros, la actividad redistri­
+butiva de los poderes públicos.
+Estos argumentos, en favor de la intervención pública, son a menu­
+do contestados con otros en sentido contrario.
+A los fallos del mercado pueden contraponerse los fallos del gobierno
+o del no mercado. Esto es, la ineficiencia en la que se incurre por situar deter­
+minadas decisiones en el ámbito público. No se trata de elegir entre un mercado
+imperfecto y un sector público perfecto, sino entre distintas combinaciones po­
+sibles de dos sistemas imperfectos de asignación de recursos.
+Así, problemas no sólo de controlabilidad sino también de observabilidad de los agregados económicos han conducido a experiencias no satisfac­
+torias en las políticas anticíclicas.
+Ocurre, con frecuencia, que los incentivos que genera la interven­
+ción pública inducen comportamientos en los agentes económicos distintos, y en
+ocasiones opuestos, a los deseados.
+Por otra parte, para incrementar la equidad social es necesario que
+el gobierno tome de unos para dar a otros. No hay ningún criterio para hacer es­
+to de forma objetiva. El teorema de imposibilidad de Arrow deja pocas posibili­
+dades abiertas a la existencia de tal criterio de evaluación social.
+Veamos algunas de las causas que generan distorsiones en la de­
+manda y en la oferta de bienes y servicios públicos.
+El debate político sobrevalora socialmente a las personas e institu­
+ciones que resaltan los fallos del mercado, que a la vez que proponen solucio­
+nes públicas tienden a descontar los costes futuros a tasas irreales y, simultánea­
+
+633
+
+
+
+mente, tienden a sobrevalorar los beneficios presentes. Este talante es el que
+Feldstein denomina «la miopía inherente al proceso político», dado que no re­
+compensa ni penaliza a los políticos por las consecuencias a largo plazo de las
+decisiones que toman.
+Otra de las causas del sobredimensionamiento de la demanda de es­
+te tipo de bienes y servicios públicos procede de la no coincidencia entre las per­
+sonas o instituciones que reciben los beneficios y aquellas otras, distintas de las
+anteriores, que soportan los costes y proporcionan su financiación.
+La medida de la producción pública suele ser ambigua y difícil de
+valorar, tanto en cantidad como en calidad. No es habitual que existan mercados
+competitivos en los que los consumidores pueden valorar este tipo de productos.
+Además, la relación entre los factores de producción y el producto
+final es desconocida o conocida con notable ambigüedad. Así, es difícil saber
+cuántas unidades de defensa nacional consumimos, qué valor monetario tiene es­
+te consumo o si la combinación de factores que concurren en su producción es
+la adecuada.
+La teoría económica y la evidencia empírica pueden dar algunas pau­
+tas para asignar actividades dentro o fuera del mercado. No obstante, es difícil
+hacer afirmaciones de carácter general en esta materia. En efecto, aquellas que
+son válidas para un país y un período de tiempo dado, pueden no serlo para otros,
+ya que, en general, dependen de sus ordenamientos constitucionales y de su ni­
+vel de desarrollo económico y social.
+Otra dificultad presente en la elección entre el mercado y el no mer­
+cado es la delimitación de éste. Cabe considerar cinco formas de caracterizar la
+actividad del sector público, que se corresponden con otras tantas maneras de
+medir su tamaño. Así, puede medirse en función del gasto que administra; de los
+factores productivos que utiliza; de su patrimonio; del control que ejerce sobre
+el sector privado, y de su producción.
+Según el primer criterio, el tamaño del sector público se mide a tra­
+vés del gasto que realizan las instituciones que lo integran, tanto en bienes y ser­
+vicios como en transferencias de rentas y capital. En España, el gasto público ha
+pasado de representar una cifra inferior al 18 % del producto interior bruto en
+1964 a otra próxima al 50% en 1995. Consecuentemente, el tamaño del sector pú­
+blico español casi se ha triplicado en este período de tiempo.
+
+634
+
+
+
+El segundo criterio identifica la actividad del sector público con el
+volumen de factores productivos que utiliza: trabajo, capital, materias primas y
+otros recursos materiales.
+El indicador más utilizado es el cociente del empleo público sobre
+el empleo total. En España, este cociente ha crecido desde un 11% correspon­
+diente a 1976 hasta un 18 % en 1995. El principal inconveniente de este criterio
+es que ignora las transferencias de renta. Para evitar este problema, deben con­
+siderarse, además de los empleados públicos, los beneficiarios de prestaciones
+sociales. Utilizando este indicador se concluye de nuevo que el tamaño del sec­
+tor público ha aumentado extraordinariamente, ya que este porcentaje crece en
+España desde un 29 % en 1976 hasta un 52% en 1995. Estas cifras ponen de ma­
+nifiesto que a partir del año 1992 son más los españoles que perciben rentas del
+gobierno que aquellos otros que perciben rentas del sector privado.
+Una tercera forma de medir el tamaño del sector público se centra
+en su patrimonio. En muchos casos, su grado de control sobre la economía su­
+pera con creces al que le otorgan sus derechos formales de propiedad y, como
+consecuencia, la medición del sector público de acuerdo con este criterio no es
+sencilla, ya que, además, contempla bienes para los que no existen precios de
+mercado.
+En todo caso, esta dificultad es el mejor aliado del hábito presente en
+la elaboración de los documentos presupuestarios públicos que, a diferencia de los
+estados contables del sector privado, omiten sistemáticamente la información so­
+bre variación de sus activos y pasivos y, por tanto, del neto patrimonial público.
+En cuarto lugar, el alcance del sector público puede establecerse en
+función de su capacidad para influir en las decisiones del sector privado. Un in­
+dicador indirecto para medir este tipo de actividad es el número de disposicio­
+nes legales vigentes.
+A partir de la información disponible se pueden obtener algunas con­
+clusiones sobre el afán regulador del gobierno y su evolución. Así, mientras en
+el año 1968 se publicaron en el Boletín Oficial del Estado 1.600 disposiciones, en
+1995 este número se ha multiplicado por cuatro. Esto ha dado lugar a que desde
+el año 1968 el número total de disposiciones legales promulgadas en España se
+haya incrementado, aproximadamente, en 94.000.
+Medir los efectos económicos de toda esta legislación es una tarea
+compleja. En un trabajo reciente del Instituto Tecnológico de Rochester, se esti­
+
+635
+
+
+
+ma que en 1995 el coste en el que ha incurrido el sector privado de la economía
+americana para poder cumplir las regulaciones vigentes ha sido, aproximada­
+mente, la mitad del presupuesto federal de gastos.
+En resumen, existen diversas formas de caracterizar la actividad del
+sector público. El enfoque del gasto es el de mayor aceptación, tanto en los tra­
+bajos empíricos como en los teóricos, y es el que hemos utilizado.
+
+CRECIMIENTO DEL GASTO PÚBLICO
+El pensamiento económico clásico limitó la actividad estatal al te­
+rreno militar, al legislativo-judicial y al de ciertas obras públicas. Este panorama
+cambió radicalmente entre los años treinta y setenta de nuestro siglo, en los que
+tuvo lugar un crecimiento económico sin precedentes y un espectacular aumen­
+to del gasto publico.
+De la precaución en el uso de los capitales públicos se pasó a la
+aceptación generalizada de que en casi cualquier gasto tenía un impacto favora­
+ble la actividad económica, que los poderes públicos disponían de instrumentos
+eficaces para gobernar la evolución de las magnitudes agregadas, y que si la so­
+ciedad deseaba mantener el empleo en épocas recesivas, y aumentarlo en el lar­
+go plazo, debía confiar al gobierno considerables recursos. Estos planteamientos
+dieron pie a un crecimiento sin precedentes del gasto.
+Las consideraciones electoralistas de los gobernantes han tenido un
+papel determinante en la expansión del ámbito público. Una reducción del gas­
+to tiene un coste elevado en términos políticos, que se traduce en la pérdida de
+apoyo electoral de los beneficiarios de ese gasto.
+La dificultad estriba en que en tiempos de bonanza suelen desapa­
+recer los incentivos políticos para promover las reformas necesarias. Así por ejem­
+plo, los mayores ingresos fiscales y los menores costes del subsidio de desem­
+pleo asociados al período expansivo, suelen hacer olvidar los permanentes
+problemas de competitividad asociados a niveles de gasto público altos y a mer­
+cados laborales muy rígidos.
+
+636
+
+
+
+La impotencia demostrada por los gobiernos de cualquier signo pa­
+ra reducir el gasto nos trae hasta nuestros días, en los que se han generado fuer­
+tes resistencias al aumento de la presión fiscal, sin que la demanda de gasto se
+haya contenido en la misma proporción. Las consecuencias son fuertes déficit
+presupuestarios y emisiones a gran escala de deuda pública. Los criterios de con­
+vergencia constituyen el primer intento multilateral de poner límites a unos cre­
+cimientos excesivos.
+Existen múltiples teorías que intentan explicar el proceso histórico
+de crecimiento del sector público. Pueden agruparse en: E xplicacion es eco n ó m i­
+cas, que son aquellas que utilizan variables tales como el crecimiento de la acti­
+vidad económica, cambios en los precios relativos o la estructura del sistema im­
+positivo; y E x p licacion es p olítica s, que consideran la incidencia del proceso
+democrático sobre las decisiones del gobierno.
+Resumir la evidencia empírica sobre la contrastación de estas teo­
+rías es una tarea que excede con creces los límites que he fijado a mi exposi­
+ción. Sin embargo, conviene revisar brevemente algunos aspectos comunes a
+todas ellas.
+De forma esquemática, cabe decir que muchos de estos trabajos em­
+píricos están afectados por alguno de los siguientes problemas: l.°) definición
+imprecisa y no observabilidad de las variables relevantes y, como consecuencia,
+utilización de versiones aproximadas de las teorías que se pretenden contrastar;
+2.°) limitaciones en las muestras disponibles y problemas de agregación; 3.°) uso
+inadecuado de datos de sección cruzada; 4.°) tratamientos econométricos erró­
+neos; y 5.°) omisión de variables y presencia de valores atípicos.
+Las técnicas econométricas que hemos utilizado evitan, en gran par­
+te, este tipo de problemas, y con ellas hemos llevado a cabo un ejercicio de con­
+trastación empírica de la ley de Wagner, entendiendo por ésta la existencia de re­
+lación causal unidireccional del producto interior bruto (PIB) a gasto público. Para
+ello hemos analizado las relaciones dinámicas entre estas variables para 24 países
+de la OCDE, empleando una muestra correspondiente al período 1964-1992.
+Las conclusiones obtenidas sobre la posible existencia de relaciones
+dinámicas entre gasto público y PIB son las siguientes. De los 24 países estudia­
+dos, en dos de ellos se detecta una relación causal bidireccional entre ambas va­
+riables. En tres países existe algún efecto del gasto público sobre el PIB. En nue­
+ve el PIB influye sobre el gasto público. En otros tres se aprecia una relación entre
+gasto público y PIB que, al ser contemporánea, no puede imputarse a un senti­
+
+637
+
+
+
+do u otro de causalidad. Y, finalmente, en cuatro países no existe relación cau­
+sal entre gasto público y PIB.
+A partir de los resultados anteriores, podemos extraer la conclusión
+de que es difícil hacer afirmaciones de carácter general respecto al cumplimien­
+to de la ley de Wagner.
+Estos resultados están, posiblemente, condicionados por la limitada
+cobertura temporal y el alto nivel de agregación de las series temporales utiliza­
+das. Y desde luego, también lo están, por ordenamientos institucionales muy di­
+ferentes en los países que hemos considerado.
+Cuando se analiza la intervención del gobierno en una determinada
+actividad, no basta con justificarla teóricamente. Se hace preciso cuantificar si los
+recursos asignados a esa actividad son o no suficientes. Para ello resulta habitual
+recurrir a una comparación con otros países.
+Esta comparación se lleva a cabo valorando la actividad pública a tra­
+vés del gasto que se dedica a ella, dividiendo esta cifra por el PIB, y comparando
+los valores del cociente resultante para una muestra de países. Estos cocientes sue­
+len ordenarse de mayor a menor, con el propósito de extraer conclusiones a par­
+tir del puesto que ocupa un país en este ranking y de la diferencia entre su co­
+rrespondiente cociente y el cociente medio del grupo. Las conclusiones que se
+obtienen son del siguiente tipo: es necesario aumentar el valor del gasto con ob­
+jeto de aproximarse a los niveles medios en el grupo de países considerados.
+En el caso concreto del tamaño del sector público, estas conclusio­
+nes pueden criticarse desde distintos puntos de vista.
+Por ejemplo, la simple consideración de la desviación estándar del
+valor medio introduce serias dudas acerca de que un determinado cociente de
+gasto público sobre PIB sea estadísticamente distinto de ese valor medio.
+Además, considerar que a un mayor gasto público le debe corres­
+ponder un mayor PIB, o viceversa, supone proponer implícitamente una deter­
+minada relación causal entre ambas variables, hipótesis que está en contradicción
+con los resultados empíricos que acabamos de comentar.
+Por último, calcular el cociente de gasto público sobre PIB equiva­
+le, en términos econométricos, a estimar para cada país una recta de regresión
+con cero grados de libertad.
+
+638
+
+
+
+Especificando y estimando adecuadamente los modelos econométricos entre gasto público y PIB se puede afirmar que en ningún año del periodo
+considerado, 1964-1995, el gasto público en España ha estado, respecto al PIB,
+fuera de la configuración lineal correspondiente a los países de la OCDE. Y esto
+es así, no sólo en el año 1995, cuando el gasto público representa casi el 50 %
+del PIB, sino que también lo era en 1964 cuando suponía solamente el 18 %.
+El resultado anterior cuestiona la validez de las afirmaciones que du­
+rante las últimas décadas se han venido haciendo, de manera reiterada, sobre el
+tamaño del sector público en España. Las conclusiones derivadas de este análisis
+pueden ser generalizables a otras situaciones tales como las que hacen referen­
+cia al gasto público en sanidad, en infraestructuras o en investigación y desarrollo.
+Afirmaciones de esta naturaleza han conducido y aún hoy conducen,
+en el caso de España, a propuestas de aumento del gasto público, con el propó­
+sito, se dice, de equipararnos a la media de los países de nuestro entorno. Como
+hemos visto nunca se hacen sobre la base de un examen solvente de la informa­
+ción disponible.
+
+CONSIDERACIONES SOBRE EL SISTEMA EDUCATIVO
+Gran parte de las dificultades implícitas en el debate de lo público
+tienen su origen en el alto nivel de agregación de las magnitudes utilizadas. El
+resto de mi exposición la dedicaré específicamente al análisis de la intervención
+pública en el sistema educativo.
+La educación está considerada como un derecho y así se recoge en
+el artículo 27 de nuestra Constitución. Con frecuencia este derecho induce a pen­
+sar que su carácter obligatorio y gratuito, en los niveles básicos, debe mantener
+la enseñanza al margen de consideraciones de tipo económico. Sin embargo, tam­
+bién la provisión de derechos básicos utiliza recursos escasos. Por ello es im­
+portante analizar no sólo cuántos recursos se asignan a la satisfacción de estos
+derechos, sino también la eficiencia de su proceso de financiación y producción.
+Analizar problemas de eficiencia en el sector educativo requiere al­
+gunas consideraciones previas respecto a los costes en los que se incurre y los
+
+639
+
+
+
+beneficios que proporciona. Siendo cierto que los costes en la gestión pública
+son más fáciles de medir que los beneficios, no lo es menos que, sistemática­
+mente, se infravaloran. Veamos algunas de las razones de la infravaloración de
+las cifras de gasto público en educación.
+Desde el punto de vista del análisis económico, la consideración ade­
+cuada del coste de un recurso del proceso educativo vendrá dada por su coste
+de oportunidad, es decir, su valor en el mejor uso alternativo del mismo.
+En este contexto hay que señalar la falta de rigor en la política de
+amortizaciones de los activos fijos del sistema escolar público. Además de vul­
+nerar los principios económicos y contables más elementales, esta manera de pro­
+ceder induce una estrategia de gasto que lleva a la obsolescencia de la infraes­
+tructura educativa. Asimismo, y como consecuencia, el gasto público en educación
+se infravalora en un 20%, aproximadamente.
+En los niveles no obligatorios de educación hay que considerar no
+solamente el coste explícito sino también el coste de oportunidad de los indivi­
+duos que, mientras la reciben, dejan de realizar otras actividades que les pro­
+porcionarían una determinada renta. Este coste es especialmente relevante en los
+países en los que este tipo de enseñanzas, por ejemplo las universitarias, están
+sobredimensionadas.
+La mayor parte de los costes educativos corresponden a gastos de
+personal y en ellos, con frecuencia, no se incorporan adecuadamente los costes
+derivados de las prestaciones sociales. No me refiero aquí, exclusivamente, al dé­
+ficit implícito en los actuales sistemas de reparto, sino a aspectos tan importan­
+tes como que en los costes de personal no se incluyen los correspondientes a las
+clases pasivas del personal funcionario docente y no docente.
+Una característica común a la mayoría de los países es el importante
+papel que el gobierno desempeña en el sistema educativo. Parece lógico pregun­
+tarse a qué se debe esta situación y qué argumentos se emplean para justificarla.
+Desde la publicación del informe Coleman, en 1966, surgieron un
+amplio conjunto de investigaciones sobre la producción y eficiencia de los cen­
+tros educativos. Los trabajos iniciales llegaban a una conclusión sorprendente: só­
+lo entre un 5 y un 10 % de la varianza en los resultados académicos se puede atri­
+buir a los recursos educativos utilizados en los centros de enseñanza. La varianza
+restante se explica fundamentalmente por el contexto socio-familiar y por las ap­
+titudes del alumno. Estos resultados han sido analizados, una y otra vez, llegán-
+
+640
+
+
+
+dose a conclusiones análogas. Es decir, a variables controlables en los centros
+educativos sólo puede atribuírsele, en media, el 10% de la varianza de los resul­
+tados académicos.
+A nuestro juicio, la conclusión fundamental que puede obtenerse de
+los numerosos trabajos publicados es la enorme dificultad que entraña determi­
+nar una función de producción del proceso educativo.
+De la evidencia empírica disponible se desprende que la participa­
+ción predominante del sector público en la producción de servicios educativos
+no está justificada por motivos de economías de escala. Posiblemente sea más
+cierto afirmar que existen deseconomías derivadas de la coordinación de múlti­
+ples actividades y del crecimiento de la burocracia que lleva implícita.
+Otro tipo de fallo del mercado que podría justificar la intervención
+sería el carácter público de los bienes educativos. La consideración de un deter­
+minado bien como público depende de las condiciones del mercado concreto y
+del nivel de desarrollo tecnológico. En todo caso, el consumo de educación no
+posee ninguna de sus características.
+La educación tiene, sin embargo, las características de bien prefe­
+rente. En efecto, es una idea generalmente aceptada que la educación propor­
+ciona beneficios sociales más allá de los inherentes a los sujetos que la reciben,
+es decir, genera externalidades positivas.
+Pese a que resulten difíciles de medir, la consideración de externa­
+lidades positivas es, junto con los problemas de información, el motivo econó­
+mico fundamental para que el gobierno intervenga en el sistema educativo.
+
+La situación de información no perfecta conduce a ineficiencias que
+se pueden traducir en consumos educativos inferiores o superiores a los desea­
+bles, siendo la situación más probable la de bajo consumo. Este tipo de inefi­
+ciencias las aborda el gobierno por medio de regulaciones. Así se justifica, en su
+caso, la obligatoriedad de la enseñanza básica y la definición de estándares edu­
+cativos junto a sistemas de inspección que obligan a su cumplimiento.
+En resumen, desde el punto de vista económico son dos las razones
+para la intervención pública en el sistema educativo: la presencia de externali­
+dades y los problemas de información. De ellas se deduce la necesidad de fi­
+nanciación y regulación, pero no de producción pública. Analicemos, a conti­
+nuación, las posibles razones de la intervención pública bajo criterios de equidad.
+
+641
+
+
+
+Sin lugar a dudas, el denominador común en los análisis del sistema
+educativo es la idea de igualdad de oportunidades. En efecto, un objetivo social
+unánimemente aceptado es asegurar la igualdad de oportunidades a todos los ciu­
+dadanos en materia educativa.
+Se dice que dos individuos tienen igualdad de oportunidades edu­
+cativas si partiendo ambos de iguales preferencias reciben la misma educación,
+independientemente de sus atributos de carácter discriminatorio tales como cla­
+se social, sexo, raza o renta familiar.
+Un elemento relevante de la definición anterior es la expresión
+«misma educación» y, por consiguiente, poder hacer explícito qué entendemos
+por ella. Puesto que la igualdad de oportunidades no equivale a la igualdad de
+resultados, aunque con frecuencia tienden a confundirse, el término «misma
+educación» debe hacer referencia a los recursos utilizados y no al resultado
+obtenido.
+Sin embargo, los intentos para determinar empíricamente una fun­
+ción de producción del proceso educativo no son, como hemos señalado, en ab­
+soluto satisfactorios. Dicho de otra manera, los mismos recursos pueden generar
+distintos resultados. Como consecuencia, en la definición de igualdad de opor­
+tunidades habría que fijar no sólo los «mismos recursos» sino también la «misma
+forma» de utilizarlos, empresa harto difícil.
+En ausencia de este conocimiento, no es razonable justificar la pro­
+ducción pública de servicios educativos con el propósito de facilitar la «misma
+educación» que haga operativa la igualdad de oportunidades.
+No obstante, está plenamente justificada la intervención pública en
+el sistema educativo con objeto de facilitar financiación que asegure el acceso de
+todos los ciudadanos a la enseñanza obligatoria y que, además, garantice ayuda
+económica a aquellos que accedan a niveles superiores y no tengan recursos eco­
+nómicos suficientes.
+Esta financiación que hemos derivado en términos cualitativos es di­
+fícilmente cuantificable debido, entre otras razones, a que la valoración de los
+beneficios sociales que se desprenden de las externalidades positivas entraña di­
+ficultades insalvables. Con frecuencia, los criterios de cuantificación del gasto pú­
+blico en educación se fijan por medio de comparaciones con otros países que,
+por determinadas causas, se consideran como una referencia adecuada. Sin em­
+bargo, esta dificultad no se soslaya con procedimientos de esta naturaleza.
+
+642
+
+
+
+Por ejemplo, en el caso de España, el cociente de gasto público en
+educación sobre PIB era del 4,3 % en 1992, mientras que la media de la OCDE
+era del 5,3 % . La consecuencia que se obtendría de esta comparación trivial es
+que el gobierno debería aumentar su inversión anual en educación en una cifra
+del orden del 1% del PIB con objeto de alcanzar el nivel medio correspondiente
+a los países de nuestro entorno.
+Como ya hemos puesto de manifiesto en las comparaciones del ta­
+maño del sector público que utilizan cocientes de esta naturaleza, la conclusión
+así alcanzada es errónea, y lo es por las mismas razones que entonces hemos
+aducido.
+Del análisis realizado y de la evidencia empírica disponible a la que
+hemos hecho referencia se obtienen dos conclusiones de índole distinta, que son,
+a nuestro entender, relevantes.
+En primer lugar, no es posible demostrar, con carácter general, a par­
+tir de la información estadística disponible relación causal entre gasto dedicado
+a educación y PIB. Probablemente, la única conclusión que puede establecerse
+es la ambigüedad de la relación entre educación y crecimiento económico. Esta
+ambigüedad hace referencia tanto a la intensidad como a la dirección de la rela­
+ción causal. A partir de ciertos niveles de renta, posiblemente la dirección de cau­
+salidad más frecuente es la que discurre de crecimiento económico a gasto en
+educación, de tal manera que se valida la hipótesis de que la educación es un
+bien superior, es decir, a medida que la renta aumenta, el gasto en educación re­
+presenta una parte mayor de ella. Cabe pensar, dado el enorme incremento ha­
+bido en los niveles de renta que la legislación intervencionista puede haber in­
+fravalorado el papel del mercado en el sistema educativo. Poco más puede
+afirmarse, con rigor, excepto que ningún país ha experimentado un crecimiento
+económico sustancial hasta que una parte relevante de su población accedió a
+los niveles básicos de educación. Esta proporción de la población se ha estima­
+do en una cifra próxima al 40 %.
+En segundo lugar, con el nivel de agregación implícito en la defini­
+ción del gasto en educación, no puede afirmarse con generalidad y rigor econométrico, que en la última década el gasto en educación en España ha estado fue­
+ra de las pautas de los países de nuestro entorno, y esto es así aun sin tener en
+cuenta la infravaloración en las cifras de gasto a la que hemos hecho referencia.
+Las conclusiones anteriores permiten afirmar que en el debate edu­
+cativo, y posiblemente en otros ámbitos de la actividad pública, se ha puesto de­
+
+643
+
+
+
+masiado énfasis en propuestas de aumento de gasto en detrimento de aquellas
+otras tendentes a mejorar la eficiencia en la producción y financiación de los co­
+rrespondientes servicios. Es necesario establecer mecanismos de competencia más
+allá de la pura rutina implícita en la aceptación de costes públicos históricos y en
+la petición de incrementos presupuestarios.
+Demostrada la suficiencia del gasto público en educación en Espa­
+ña, el problema relevante es la asignación específica de recursos a los diferen­
+tes niveles educativos. En este contexto, cabe señalar que en la mayor parte de
+los países que hemos analizado, y especialmente en España, los procedimientos
+actuales de financiación de la enseñanza superior suponen, simple y llanamen­
+te, una transferencia neta de renta desde las familias con menos capacidad eco­
+nómica a las familias con mayor capacidad. Las verdaderas barreras de entrada
+a la universidad están mucho antes de llegar a ella. Pese a lo cual se sigue, cre­
+emos que equivocadamente, expandiendo el sistema universitario con criterios
+tales como fijar, con carácter general, tasas académicas varias veces inferiores al
+coste real. Es este un proceso en el que aparentemente todos ganan, pero que
+en realidad viola principios elementales de igualdad de oportunidades y de ca­
+lidad de la enseñanza. En aras de la eficiencia y equidad del sistema es necesa­
+ria una reasignación de los recursos públicos dedicados a los distintos niveles
+educativos.
+Puesto que la producción se desarrolla en un entorno no competiti­
+vo, no existen incentivos para controlar los costes y la calidad de los resultados
+educativos. Por ejemplo, se abren nuevas escuelas y se cierran las viejas en res­
+puesta, simplemente, a cambios demográficos, no en función de los resultados
+que obtienen. Tampoco existen mecanismos claros que permitan mejorar la pro­
+ductividad de los responsables docentes y administrativos. Los salarios se fijan,
+fundamentalmente, en función de la antigüedad. No es éste el entorno más pro­
+picio para incorporar nuevas tecnologías y desarrollar nuevos procedimientos.
+Difícilmente cabe pensar en actividad alguna que haya quedado tan estancada
+como la educativa. En líneas generales el proceso no ha cambiado en los últimos
+doscientos años y se caracteriza por un aula cerrada con un grupo de alumnos
+que enfrente tienen un profesor. Como mucho, el debate se ha centrado en ana­
+lizar el impacto sobre los resultados académicos del número de alumnos por pro­
+fesor en cada aula.
+El problema que hoy se suscita es cómo canalizar, en la práctica, la
+necesaria financiación y regulación pública de la enseñanza, con objeto de in­
+crementar la productividad y de facilitar la elección de centro. Como en otros ám­
+bitos del sector público una posible solución es introducir competencia por me­
+
+644
+
+
+
+dio de la producción privada, situación compatible con que el gobierno manten­
+ga su autoridad reguladora y con la producción pública de parte de la oferta
+educativa.
+En efecto, en algunos casos no cabe la producción privada, bien por­
+que no va a tener lugar, o bien, porque puede dar lugar a monopolios privados
+locales. La existencia de este tipo de situaciones singulares suele emplearse co­
+mo razón suficiente para generalizar la producción pública, aun en circunstan­
+cias en las que, como hemos visto, no se justifica, ni por razones de eficiencia ni
+por razones de equidad. Es necesaria la producción pública de enseñanza en al­
+gunos lugares y en algunas situaciones, pero es conveniente, también, hacer ex­
+plícitos los costes de esta necesidad, que no deben encubrir posibles ineficien­
+cias de la producción pública en otras situaciones.
+Creemos que este es un tipo de debate con una fuerte componente
+ideológica, y que, a menudo, la vehemencia que incorpora oculta la falta de rigor,
+tanto desde el punto de vista teórico como empírico con la que se lleva a cabo.
+En resumen, existen beneficios potenciales muy amplios que justifi­
+can introducir competencia en la producción de servicios educativos, proceso
+que, por otra parte, no está exento de costes. Sin embargo, el equilibrio desea­
+ble entre equidad y eficiencia se ha traducido, a nuestro juicio, en una produc­
+ción pública excesiva, sin que existan razones económicas y sociales que la jus­
+tifiquen. Para avanzar en esta dirección es imprescindible cubrir previamente las
+importantes lagunas de información, que hoy existen, sobre el sistema educativo
+y dotar de la máxima transparencia a los mecanismos de financiación tanto de la
+enseñanza pública como de la enseñanza privada.
+
+645
+
+

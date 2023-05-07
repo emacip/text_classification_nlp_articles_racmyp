@@ -1,0 +1,366 @@
+EL PROBLEMA DE LA DISTRIBUCIÓN EN ECONOMÍAS
+AVANZADAS: A PROPÓSITO DEL LIBRO DE PIKETTY
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez*
+
+El estado generalizado de descontento con los economistas ha dado
+lugar a una saludable búsqueda de nuevos factores de los que depende el crecimiento económico más allá de los bien conocidos (dotación de factores productivos, calidad de los factores, progreso técnico, etc.).
+Sucedió hace dos años con el Why Nations Fail. The Origins of Power,
+Prosperity and Poverty de Daron Acemoglu y James A. Robinson y ha sucedido hace pocos meses con el libro del economista francés Thomas Pikkety
+Capital in the Twenty-First Century. No por casualidad, ambos se ocupan, desde
+perspectivas distintas, de la relación entre el crecimiento y los problemas de
+tipo institucional y social; y también ambos toman en su análisis una perspectiva histórica de largo plazo.
+La estructura de la exposición será la siguiente. En primer lugar repasaré cómo se ha tratado el tema de la distribución de la renta y la desigualdad en la literatura económica teórica para poder tener una perspectiva global de lo que el análisis de Piketty representa de novedad. La segunda parte
+la dedicaré a una exposición del trabajo del economista francés. La tercera
+versará sobre algunas críticas que ha recibido hasta este momento y mi posición respecto a las mismas. Por último, haré una evaluación personal del trabajo y de los problemas que señala para el futuro de las economías desarrolladas.
+
+* Sesión del día 10 de junio de 2014.
+
+111
+
+
+
+EL ESTUDIO DE LA DISTRIBUCIÓN DE LA RENTA
+Y LA RIQUEZA EN EL ANÁLISIS ECONÓMICO
+Los temas del crecimiento económico y la distribución de la renta han
+ido de la mano en el análisis económico. El considerado padre de la economía
+moderna, Adam Smith, ya dedicó una parte importante del Libro I de su
+Riqueza de las Naciones a analizar la formación de los precios en función de
+sus componentes: salarios (cap. 8) determinados por su nivel de subsistencia,
+beneficios (cap. 9) determinados por la escasez del capital y renta de la tierra
+(cap. 11) renta residual de monopolio que no afecta a los precios siendo un
+subproducto de ellos.
+Pero es con David Ricardo con quien la distribución de la renta se convierte en la variable clave para explicar el crecimiento económico: éste solo
+puede darse gracias a la acumulación de capital que permite emplear más trabajo y compensar los rendimientos decrecientes de la tierra. Solo el empresario
+puede ahorrar porque los trabajadores tienen un salario a nivel de subsistencia
+y los terratenientes dedican sus rentas al consumo improductivo, no teniendo
+incentivos a ahorrar. En estas condiciones, y en ausencia de mejoras tecnológicas, la economía alcanzará antes o después un estado estacionario porque el
+PIB será absorbido íntegramente por los salarios y la renta de la tierra por lo que
+no habrá inversión neta.
+Obsérvese que la preocupación del análisis económico por la distribución es una preocupación por la distribución funcional, no por la distribución
+personal ni por la distribución geográfica de la renta y la riqueza, que se han
+encontrado casi siempre fuera del núcleo central de problemas tratados por la
+teoría económica1.
+En efecto, la defensa del capitalismo, el mercado y el comercio libre
+se ha basado fundamentalmente en argumentos de eficacia. Pasar de una situación con altas barreras arancelarias y restricciones cuantitativas al comercio
+internacional a otra de libertad comercial implicaba que todos los países ganaban, siendo irrelevante qué países ganaban más y cuáles menos. El mercado
+asigna de forma más eficiente los recursos que sistemas rígidamente planificados y una mayor eficiencia implica mayor renta nacional, siendo secundario
+quienes —personas, regiones— ganaban más y cuales menos con el paso de
+un sistema a otro. En ambos casos se trata de juegos de suma positiva que permiten mejorar a todos, por lo que la distribución de las mejoras, es decir, las
+posiciones relativas de las personas, resultaba un tema de interés secundario.
+
+1
+No obstante, desde el punto de vista estadístico, los temas de distribución personal si han sido objeto de estudio a través de encuestas de ingresos, datos fiscales, etc. Y analíticamente, en economía del bienestar, el tema de la desigualdad en la distribución personal también ha sido analizado en la discusión sobre criterios de justicia y equidad (Sen,
+Rawls, Atkinson).
+
+112
+
+
+
+Esto queda patente en lo que ha sido el paradigma de la investigación microeconómica dominante durante la mayor parte del s. XX: la teoría
+del equilibrio general. En un equilibrio general competitivo la distribución
+de la renta resultante es un subproducto de los precios de eficiencia y de la
+distribución inicial de factores productivos, que se considera un dato. Un
+equilibrio competitivo es una asignación de recursos eficiente, pero asignaciones eficientes hay muchas y se diferencian, precisamente, por la distinta
+distribución de la renta y riqueza. Puede, por tanto, haber equilibrios de mercado en que la distribución de la renta sea tal que el 10% más rico de la
+población tenga el 90% de los ingresos o solo el 20% de la renta y el análisis económico no se ha ocupado especialmente de estas diferencias.
+Existe un motivo adicional, de carácter más técnico, para este olvido
+de la distribución personal. El convencimiento de que las comparaciones de
+bienestar interpersonales son imposibles es casi un dogma de la economía
+desde los tiempos de Pareto. Si ello es así, es imposible valorar desde el
+punto de vista científico-económico una distribución personal de la renta
+dada o, entre dos distribuciones distintas, decidir que una es mejor que la
+otra.
+Esto es así, pero ello no quiere decir que la distribución personal de
+la renta no sea un tema relevante, porque desde el punto de vista social lo
+es y porque nadie duda que traspasar ciertos grados de desigualdad plantea
+problemas de legitimidad, cohesión social y justicia en cualquier sociedad,
+aunque no haya acuerdo respecto al grado límite de desigualdad ni a la forma
+idónea de medirlo2
+LA APORTACIÓN DE PIKETTY
+El voluminoso Capital in the Twenty-First Century, a cuya elaboración
+el autor ha dedicado 15 años de trabajo, tiene una estructura canónica desde
+el punto de vista de la investigación. La primera parte presenta lo que cabría
+llamar el modelo utilizado. La segunda parte es un ambicioso y documentado análisis empírico de la evolución de la distribución personal de la
+riqueza y la renta, centrado fundamentalmente en cinco economías avanzadas: EEUU, Reino Unido, Francia, Alemania y Suecia. La tercera parte contiene
+una discusión de las implicaciones de la distribución desde el punto de vista
+de la justicia, una predicción sobre la evolución futura de la desigualdad y
+una propuesta para reducirla.
+
+2
+
+¿El índice de Gini?, ¿la varianza de la distribución?, ¿la posición del individuo en peor situación?
+
+113
+
+
+
+1. ¿Qué determina la relación riqueza/renta?
+Para medir la importancia del capital en una economía Piketty utiliza la
+proporción entre la riqueza (W) o el capital (K) y la renta nacional (Y)3. Para que
+esta proporción se mantenga constante en el tiempo es claro que capital y renta
+deben variar en la misma proporción. Puesto que el aumento del capital es su
+tasa de rentabilidad neta (r), siendo g la tasa de variación de la renta nacional:
+
+g Si g=r la relación W/Y se mantendrá constante
+g Si g < [>] r entonces W/Y crecerá [disminuirá]
+En caso de desequilibrios, la velocidad a la que crece o decrece la relación W/Y depende del valor de la tasa de ahorro. Considerando el caso de r>g,
+cuanto mayor sea la tasa de ahorro, más deprisa crecerá la importancia del capital respecto a la renta. Hasta aquí, solo se trata de aritmética macroeconómica.
+Lo relevante para determinar la evolución de la importancia del capital respecto a la renta es, por lo tanto, comparar la tasa de crecimiento y la de
+rendimiento del capital.
+La tasa de crecimiento, entre 1970 y 2010, en los ocho países más ricos
+se ha situado por media por debajo del 2%. Pueden existir circunstancias excepcionales, y de hecho así ha ocurrido, que den lugar a tasas de crecimiento
+mayores durante un cierto periodo de tiempo. Tras la II Guerra Mundial varios
+países europeos crecieron algunos años a tasas cercanas al 4%. Pero la tendencia media para largos periodos de tiempo en países avanzados nunca ha alcanzado el 2%.
+Por lo que respecta a la rentabilidad del capital (una media ponderada
+de los rendimientos de tipos de capital muy distintos)4 se ha mantenido en
+niveles del 4-5% con una notable estabilidad.
+En consecuencia, el rendimiento del capital ha excedido por media
+consistentemente a la tasa de crecimiento en las economías avanzadas.
+Es evidente que aunque el crecimiento de la economía sea menor
+que la rentabilidad del capital, la relación riqueza/renta no puede crecer indefinidamente. ¿Cuál podría ser el máximo alcanzable por la relación riqueza/renta?
+
+3
+
+Piketty considera indistintamente los conceptos de capital y riqueza, pero esto no es relevante para todo lo
+
+4
+
+Por ejemplo, capital financiero y capital inmobiliario, con tasas de rendimiento superiores en el primer caso.
+
+que sigue.
+
+114
+
+
+
+Para el periodo analizado por Piketty, este máximo ha llegado a alcanzar valores cercanos a 7 en Francia, Reino Unido y Alemania a lo largo del dilatado periodo 1700-1910. Entre 1910 y 1950 la depresión y las dos guerras mundiales hicieron caer la relación riqueza/renta hasta 2,5 en el Reino Unido, 2 en
+Alemania y 3 en Francia. A partir de 1980 la riqueza va ganando más peso en
+ambos países hasta situar la proporción en 5 en el Reino Unido, 6 en Francia y
+4 en Alemania. Por su parte, en los EEUU desde 1770 hasta 1910 la proporción
+se mantuvo en torno a 3, subiendo hasta 5 antes de la I Guerra Mundial para caer
+hasta 4 tras la II Guerra Mundial y alcanzar un valor de cercano a 5 en 2010.
+Como conclusión telegráfica, en las economías más avanzadas estudiadas, la relación riqueza/renta se incrementó desde 1950 hasta alcanzar en la
+primera década de este siglo valores semejantes a los de finales del s. XIX.
+Con todas las cautelas que hay que tomar las predicciones a largo
+plazo, una proyección razonable según Piketty es que en la segunda mitad del
+s. XXI el crecimiento tenderá a situarse en torno al 1,5% anual y, aceptando que
+la tasa de ahorro se mantendrá por media en el 10% y utilizando las predicciones demográficas existentes, dado que la rentabilidad del capital superará el
+1,5%, la importancia del capital respecto a la renta seguirá aumentando. Aunque nada impide que en este proceso la relación riqueza/renta llegara a superar el valor de 7, Piketty prudentemente supone que el máximo alcanzable por
+esta relación no superará dicho valor, que es el máximo histórico conocido.
+Resumiendo, a fines de este siglo una predicción razonable podría ser
+que la relación entre riqueza y renta en los países avanzados volviera a alcanzar los niveles observados a principios del siglo XX en Francia y Reino Unido
+y, quizá, un valor algo inferior en los EEUU.
+La aportación fundamental de Piketty se produce a partir de este punto
+y es la integración de la distribución funcional y personal de la riqueza y la
+renta en el análisis del crecimiento.
+Una economía con una alta relación riqueza/renta podría, en teoría,
+presentar grados modestos de desigualdad en la distribución, pero ello no es
+así porque la riqueza se encuentra distribuida de forma muy desigual en las
+economías avanzadas. Unos pocos datos bastarán para comprobarlo. En las
+economías menos desiguales (las escandinavas y, en concreto, Suecia) en las
+décadas de los años 70 y 80 del s. XX —el periodo de menor desigualdad— el
+10% más rico poseía más del 50% de la riqueza nacional. En la actualidad, en
+las economías europeas más ricas este 10% posee algo más del 60% de la
+riqueza total y, lo que es más llamativo, el 50% más pobre no alcanza el 10%
+de dicha riqueza. Esta desigualdad se agudiza en los EEUU donde, con datos
+actuales de la Reserva Federal para 2010-2011, el 10% más rico posee el 72%
+de la riqueza nacional y el 50% más pobre solo el 2%.
+
+115
+
+
+
+El origen de esta desigualdad reside en parte en las rentas de trabajo
+y, de forma substantiva, en las de capital. Respecto a las primeras, en los países europeos de desigualdad media —Francia y Alemania— el 10% superior
+recibe cerca del 35% de las rentas de trabajo totales y el 50% inferior otro 30%,
+cifras que para el caso de Suecia se reducen en la zona alta al 20% y alcanzan el 35% en la mitad más desfavorecida. En los EEUU las diferencias se
+agudizan ya que el 10% más alto percibe el 35% de las rentas salariales totales y la mitad inferior de la población solo el 25%. Esto explica por qué el 50%
+de la población en estos países prácticamente no tiene participación alguna
+en la riqueza total.
+La riqueza del 10% de la población que percibe las rentas de trabajo
+más elevadas se distribuye aproximadamente por mitades entre la propiedad
+inmobiliaria y los activos financieros. Pero a medida que la riqueza poseída
+crece, el peso relativo de la riqueza financiera aumenta hasta representar el
+90% de la riqueza total para el primer percentil de ingresos de trabajo. Puesto
+que la rentabilidad de los activos financieros es superior a la de los activos
+inmobiliarios y se obtienen rendimientos más altos de carteras mayores, la tendencia a la concentración de riqueza entre los perceptores de ingresos de trabajo más ricos es clara.
+La otra fuente de riqueza proviene de la herencia que, por definición,
+se encuentra altamente concentrada en los perceptores más ricos.
+La conclusión es obvia: el funcionamiento de las economías capitalistas más desarrolladas genera una dinámica que tiende a concentrar la
+riqueza en los inicialmente más ricos, aumentando la desigualdad de forma
+continua.
+2. La medición de la distribución de la riqueza y la renta
+La parte central del libro de Piketty es un colosal esfuerzo por medir
+la evolución de la distribución de la riqueza en los países mencionados a lo
+largo del dilatado periodo entre 1700 y 2010.
+Por no cansar con muchas cifras, si nos situamos en 2010 nos encontramos con un panorama distributivo similar al existente antes de la IGM:
+Por lo que se refiere a la distribución de la riqueza:
+1º. En los EEUU el 1% de más ricos posee el 35% de la riqueza total y
+la decila superior absorbe el 70%. Las decilas entre el 10%. y el 40% —lo que
+cabría identificar con la clase media— posee el 25% de la riqueza total y el
+60% más pobre solo el 5%.
+
+116
+
+
+
+2º. En Europa la desigualdad es elevada pero algo menor: el 1% más
+rico posee en 25% de la riqueza (10 puntos porcentuales menos que en EEUU)
+y la clase media el 35% (10 puntos más).
+Y, recuérdese, la distribución de las rentas de este capital es aún más
+desigual porque los rendimientos de las carteras grandes son mayores que los
+de las pequeñas y porque la parte que representa la propiedad inmobiliaria en
+las clases medias y bajas es muy superior en porcentaje que representan en el
+top 10%.
+Por lo que respecta a las rentas del trabajo:
+1º. En EEUU el 1% superior percibe el 12% de las rentas de trabajo, las
+clases medias el 40% y el 60% de más pobres ingresan el 25% de dichas rentas.
+2º. En Europa la distribución es bastante similar aunque la primera
+decila de perceptores absorbe un porcentaje algo inferior al de los EEUU y el
+grupo más desfavorecido algo más del 25%.
+En lo relativo a las rentas del trabajo, la tendencia más notoria es el
+fuerte aumento de la participación del 1% más favorecido, lo que se debe a la
+explosión de los emolumentos de los directivos, y que implica un fenómeno
+nuevo no existente en las últimas décadas de la Belle Époque de alta desigualdad. Un tercio del aumento de la desigualdad se debe a las rentas de capital,
+pero dos tercios tiene su origen en los supersalarios de los directivos: en EEUU
+desde 1970 el aumento de los salarios medios ha sido muy modesto, pero para
+el 1% de perceptores de salarios más altos la subida ha sido del 165% y para
+el 0,1% del ¡362%!
+Y una tendencia preocupante: el crecimiento del peso relativo de la
+riqueza heredada respecto a la ganada implica una menor meritocracia, una de
+las claras ventajas del capitalismo. Las sociedades más avanzadas parecen, por
+tanto, encaminarse hacia un tipo de capitalismo patrimonial. ¿Por qué es preocupante esto?: porque en pañabras de Piketty “la igualdad de derechos de
+todos los ciudadanos contrasta agudamente con la desigualdad real de las condiciones de vida y para superar esta contradicción es vital asegurarnos de que
+las desigualdades sociales derivan de principios universales y racionales más
+que de contingencias arbitrarias”.
+ALGUNAS CRÍTICAS A PIKETTY
+Como cabía esperar, el libro ha sido objeto de un fuerte debate en el
+que los think tank y la prensa conservadora estadounidenses han salido en
+tromba al ataque, algo que no había ocurrido antes de la traducción del libro
+
+117
+
+
+
+al inglés, seguramente porque en Europa estamos más acostumbrados a hablar
+de desigualdad y de las limitaciones del sistema económico.
+Una crítica, en particular, desvela el carácter de cruzada del ataque. El
+conservador Financial Times encargó a su redactor jefe Chris Giles la revisión
+del trabajo empírico de Piketty. Las conclusiones de Giles eran aparentemente
+demoledoras: errores numéricos en el cálculo de la concentración de la riqueza,
+errores de transcripción en los datos suecos, ajustes erróneos en el caso francés, uso de medias no ponderadas para representar a Europa y mezcla de fuentes (encuestas de cross section y datos sobre impuestos) en opinión de Giles
+con el objetivo de elegir las más convenientes en cada caso para demostrar
+una desigualdad creciente.
+La extensa y detallada contestación de Piketty ha desmontado la crítica.
+Sin entrar en detalles técnicos, las diferencias entre los recálculos de Giles y los
+datos de Piketty no son significativas en absoluto en los casos de Francia y
+Suecia. En el caso de EEUU las diferencias se centran en las últimas dos décadas y la crítica fundamental se refiere al Reino Unido en que para 2010 Giles
+considera que el top 10% concentra el 44% de la riqueza mientras que Piketty
+estima la cifra del 71%, con lo que la tendencia a una concentración creciente
+de la riqueza se convierte en una tendencia a la desconcentración y una mayor
+igualdad.
+La razón es muy simple: Giles considera que hasta 1980 deben usarse
+los datos provenientes de la liquidación de impuestos y que, a partir de 1980
+son más fiables las encuestas de ingresos. Esto constituye un error técnico
+rechazado por todos los expertos, que es fácil entender. Los datos fiscales describen mal la renta y riqueza reales de las decilas más pobres porque no pagan
+impuestos pero —en función del grado de evasión fiscal— describen bien los
+datos de los más ricos. Por el contrario, las encuestas (de contestación voluntaria) describen mejor las familias con rentas bajas y subestiman claramente las
+rentas muy altas (los millonarios no contestan a estas encuestas). Todos los
+investigadores hacen ajustes para moderar estos sesgos de las encuestas, pero
+Giles decide, sin justificación alguna, utilizar hasta 1980 datos en que los ricos
+están bien descritos y, a partir de 1980, datos en que los ricos están infrarrepresentados y con sesgos a la baja. Es decir, utiliza en cada periodo la fuente
+sesgada en la dirección de lo que le interesa demostrar: ¡¡el comportamiento del
+que veladamente acusaba a Piketty!!
+Otras críticas, son más directamente ideológicas y parten del error de
+pensar que Piketty propone o augura el final del capitalismo, algo que el pensamiento conservador vislumbra ante cualquier crítica al funcionamiento del
+sistema. Por ejemplo, Kenneth Rogoff señala que las décadas recientes de,
+según Piketty, aumento de la desigualdad, han sido las más igualitarias de la
+historia a nivel internacional, citando un excelente trabajo de Agnus Deaton, lo
+
+118
+
+
+
+que, según Rogoff, demuestra el éxito del capitalismo. Esto es cierto, pero se
+trata de una crítica desenfocada: Piketty analiza la desigualdad en la distribución en economías avanzadas y su obra no es un alegato anti-sistema contra el
+capitalismo5.
+Otros ataques se basan en que el análisis de la desigualdad personal en
+la distribución de la renta y la riqueza tiene poco interés. Por ejemplo, el American Enterprise Institute —un think tank conservador muy importante en
+EEUU— señala que los problemas de movilidad y pobreza son más importantes
+que los de desigualdad y que lo relevante no es la desigualdad sino la remoción
+de los obstáculos para que los pobres dejen de serlo. Nadie duda de que estos
+temas son muy importantes, pero ello nada tiene que ver con que la desigualdad no sea relevante en unas sociedades ricas que han alcanzado niveles de
+desigualdad muy elevados y que generan grave descontento social. Y ello es así
+porque en buen medida la gente evalúa su posición en relación a la de los demás
+y acepta las desigualdades fruto del mérito pero no las simplemente heredadas.
+Por último, otras críticas, se centran en las recomendaciones de política económica de Piketty para hacer frente al problema analizado: su propuesta de impuesto progresivo sobre la riqueza o el capital para fortunas muy
+elevadas. Por ejemplo J. Schiller considera que sería más eficaz diseñar un
+seguro de desigualdad. Pero en este tema no entraré porque solo quería discutir el análisis de Piketty y sus aportaciones al mejor conocimiento de la realidad y de algunos problemas del futuro de las economías desarrolladas.
+UNA EVALUACIÓN GENERAL
+En el grueso de las críticas que ha provocado el trabajo de Piketty en
+los EEUU subyace el temor de que se trata de un ataque a la línea de flotación
+del capitalismo.
+Esto no puede inferirse de la lectura del libro que, en ningún momento,
+aboga por un cambio de sistema económico, sino que señala problemas de
+futuro del mismo y posibles soluciones. Como nota marginal, conviene recordar que el autor no es un economista anti-sistema ni alguien que ignore el análisis económico de frontera: profesor por el MIT, el tema de su investigación le
+condujo a aceptar un puesto en la Sorbona parisina. Otra cosa, posiblemente
+imperdonable para sus críticos más conservadores a cuyos ojos esto le hace sospechoso, es que haya sido asesor de Hollande y, por tanto, sea un ciudadano
+de izquierdas.
+
+5
+Cabe recordar que una parte substancial de esa mejora en la desigualdad mundial se debe al desarrollo chino
+que poco tiene que ver con el sistema capitalista.
+
+119
+
+
+
+Por usar sus propias palabras en la página 2 de su contestación a C.
+Giles: “Dejo bien claro que no creo que r > g sea la única fuerza que determina
+la dinámica de la desigualdad en la distribución de la riqueza. Hay muchas
+otras fuerzas importantes que podrían en principio conducir la desigualdad en
+otras direcciones. El mensaje principal que se deriva de mi libro no es que
+siempre exista una tendencia determinística hacia el aumento continuo de la
+desigualdad (no lo creo); el mensaje principal es que necesitamos mayor transparencia democrática sobre la dinámica de la riqueza para ser capaces de ajustar nuestras instituciones y políticas a lo que observemos”. No es el texto de
+revolucionario, sino de reformista.
+¿Son las hipótesis de Piketty sobre la evolución de la desigualdad en
+el siglo XXI realistas? Es un escenario de entre los posibles, pero resulta bastante bastante factible. ¿Qué variables podrían modificar la conclusión sobre
+crecimiento de la desigualdad? Fundamentalmente tres:
+1º. Una tasa de ahorro distinta del 10%: cualquier tasa menor [mayor]
+disminuiría [aumentaría] la relación riqueza/renta y por tanto la desigualdad en
+la distribución de ambas. No obstante, este 10% se ha mantenido casi constante durante muchas décadas y no parece una hipótesis irrazonable.
+2º. La evolución del empleo: un peor [mejor] comportamiento del
+empleo disminuiría [aumentaría] las rentas salariales y la tasa de crecimiento,
+agudizando [reduciendo] la desigualdad. Creo que en este tema cabe tener poca
+esperanza, los cambios más intensos en el proceso de sustitución de trabajo por
+capital (robótica y software) están por llegar y con ellos el empleo se concentrará en los trabajadores muy cualificados y versátiles y en los servicios con
+entrega física de salarios muy bajos.
+3º. La evolución demográfica. Piketty utiliza las proyecciones estándar
+de los organismos internacionales especializados por lo que supone un escenario central no sesgado.
+La otra forma de modificar la distribución es con medidas fiscales que
+graven las fortunas y rentas —fundamentalmente del top 1%— y gasto de carácter redistribuidor, pero ese es otro debate.
+En conclusión, desde el punto de vista de la aportación académica,
+Piketty ha señalado y documentado de forma muy sólida un problema al que
+se enfrentan las economías capitalistas más avanzadas: una concentración personal de la riqueza y la renta creciente y una desigualdad en su distribución de
+magnitud desconocida desde principios del s. XX.
+Una excesiva concentración, aparte consideraciones éticas y de justicia, plantea algunos problemas importantes tanto económicos como políticos.
+
+120
+
+
+
+Uno, la disminución del valor del mérito y el peso creciente de la riqueza no
+ganada, lo que implica una mayor influencia en la toma de decisiones políticas y económicas de quienes no han demostrado merecerlo. Otro, la deslegitimación del propio sistema y su mayor inestabilidad y, por tanto, fragilidad.
+Estos son problemas sobre los que tiene sentido reflexionar y discutir
+las decisiones políticas y el marco institucional que mejor permitirían conjurar
+estos peligros. Sería un servicio impagable para la mejora de la democracia y
+de nuestros sistemas económicos. Por ello resultaría deseable que preconcepciones ideológicas y miopías cuyo único objetivo es mantener un estatus personal y familiar excesivamente privilegiado no consiguieran abortar este debate.
+Este es, en mi opinión, el mensaje fundamental y el gran valor de la aportación
+de Piketty.
+
+121
+
+
+
+

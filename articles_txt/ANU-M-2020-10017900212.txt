@@ -1,0 +1,1294 @@
+CLIMA Y PANDEMIA: LAS FINANZAS,
+ENTRE DOS EMERGENCIAS
+Por el Académico de Número
+Excmo. Sr. D. José Manuel González-Páramo*
+
+INTRODUCCIÓN
+El cambio climático es una amenaza existencial. Es, en toda regla, un
+desafío para la vida y el sustento de la humanidad y para la biodiversidad en el
+planeta. Es una emergencia frente a la que es urgente reaccionar. La buena noticia es que, como dice Wallace-Wells, «saber que somos los causantes del calentamiento global debería ser motivo de alivio, no causa de desánimo, por
+incomprensiblemente enormes y complicados que nos parezcan los procesos
+que lo han propiciado. Saber que somos nosotros mismos los responsables de
+todos sus crueles efectos debería ser algo que nos espolease, y no solo de una
+manera malsana. Al fin y al cabo, el calentamiento global es una creación humana. Y el reverso positivo de nuestro sentimiento de culpa inmediato es que
+seguimos teniendo las riendas de la situación» 1. La mala nueva, sin embargo, es
+que aún no estamos haciendo lo necesario, como si la naturaleza negociase y
+pudiésemos esperar.
+No es la primera vez que en esta Academia se aborda el asunto del
+cambio climático 2. Si hace más de un año me atreví a elegir este tema fue por
+
+Madrid, 26 de enero de 2021.
+D. Wallace-Wells (2019), El planeta inhóspito. La vida después del calentamiento, Debate, Penguin Random House, Barcelona, Parte I.
+2
+Hasta en cinco ocasiones Terceiro ha disertado sobre el mismo. Vid: J. Terceiro (2008), «Economía del cambio climático», Anales de la RACMYP, 85 (https://www.racmyp.es/docs/anales/A85-28.pdf; (2010),
+*
+
+1
+
+179
+
+
+
+dos razones. Primera, la constatación de que las cosas no han ido a mejor, y el
+compromiso intelectual exige actualizar e insistir en lo que ya no puede llamarse «cambio» sino «emergencia», pese al menguante pero corrosivo negacionismo
+y a la deletérea complacencia. Y segunda, pretendía explicar que en esta ocasión el mundo financiero no es parte del problema, como en la crisis de hace
+una década, pero aún no es de lleno parte de la solución. A fines del pasado
+invierno, a estas dos se añadió una tercera razón para abordar esta grave materia: la irrupción en nuestras vidas de la pandemia del Covid-19, la primera crisis
+global de sostenibilidad del siglo xxi, una emergencia sanitaria que ha expuesto
+nuestra fragilidad como especie y que ha iluminado también otras dimensiones
+de la emergencia climática. A explorar y analizar la intersección de estos tres
+asuntos —la emergencia climática, la pandemia del Covid-19 y las finanzas sostenibles— dedicaré esta intervención.
+
+1. EMERGENCIA CLIMÁTICA: UNA ACTUALIZACIÓN
+En 1992, un grupo de 1.700 científicos, que incluía a la mayoría de los
+premios Nobel en ciencias vivos, publicó una declaración de emergencia dirigida a la humanidad. Los firmantes, liderados por Henry W. Kendall 3, revisaban
+diferentes indicadores del choque al ralentí que se está produciendo entre
+nuestra especie y el mundo natural, y urgían cambios fundamentales para evitar
+sus consecuencias de destrucción y miseria. En 2017, vigésimo quinto aniversario de la declaración, este mismo grupo aumentado hasta más de 15.000 científicos de 184 países, firmaban una segunda alerta al constatar la falta de progreso —a excepción de la estabilización de la capa de ozono estratosférica— y el
+alarmante curso de las emisiones de gases de efecto invernadero (GEI), la deforestación y el aumento de las temperaturas 4.
+No es este el lugar para glosar el detalle de lo que sabemos con un
+grado elevado de confianza, gracias a la acumulación de evidencia científica
+contrastada por pares y de nuevas observaciones. Pero a fin de proporcionar
+
+«Crisis económica y energética», Anales de la RACMYP, 87 (https://www.racmyp.es/docs/anales/A85-28.pdf);
+(2012), «Crecimiento y energía en la economía española», Anales de la RACMYP, 89 (https://www.racmyp.es/
+docs/anales/terceiro_-_anales_89_2012.pdf); (2013), «Cambio climático y reforma eléctrica», anales de la RACMYP, 91(https://www.racmyp.es/docs/anales/a91-7.pdf); y (2020), «Transición energética», Anales de la RACMYP, 96 (https://www.racmyp.es/docs/anales/a96-12.pdf). y en muchas más nos ha ofrecido sus explicaciones en libros y artículos sobre la materia. Véase, en particular: J. Terceiro (2009), Economía del Cambio
+Climático, Taurus, Madrid, 2.ª edición.
+3
+World Scientists’ Warning to Humanity (https://www.ucsusa.org/resources/1992-world-scientists-warning-humanity).
+4
+William J. Ripple, Christopher Wolf, Thomas M. Newsome, Mauro Galetti, Mohammed Alamgir,
+Eileen Crist, Mahmoud I. Mahmoud, William F. Laurance, 15,364 scientist signatories from 184 countries, «World
+Scientists’ Warning to Humanity: A Second Notice», BioScience, Volume 67, Issue 12, December 2017,
+pp. 1026-1028.
+
+180
+
+
+
+algo de contexto, deben apuntarse sucintamente los tres grupos de argumentos
+y actitudes en los que debe fundarse cualquier respuesta a la emergencia climática. Primero, reconocer que la intensidad, la extensión y la aceleración del
+cambio climático no tienen precedentes. Segundo, admitir, sin ningún género
+de duda, que, a diferencia de los ciclos climáticos de los últimos 650.000 años,
+el actual es esencialmente antropogénico. Y tercero, aceptar que sus consecuencias económicas y sociales, por no mencionar la pérdida de biodiversidad,
+pueden ser devastadoras.
+Para sustanciar la intensidad y, en muchos casos, la aceleración del
+cambio basta con dar un vistazo a los datos que publican organizaciones respetables como el Grupo Intergubernamental de Expertos sobre Cambio Climático
+(IPCC) 5, la Organización de Naciones Unidas 6, la Organización Meteorológica
+Mundial (WMO) 7 o la NASA 8, por citar solo cuatro. La temperatura promedio de
+la superficie del planeta ha aumentado aproximadamente 1,2 °C desde el nivel
+preindustrial (media 1850-1900). La mayor parte del calentamiento se ha producido en los últimos 40 años. Los seis años más cálidos de los que existe registro
+—ocho en Europa— se han producido en la década 2011-2020, a su vez la más
+cálida desde que se tienen mediciones. La temperatura global media de 2020 ha
+sido la segunda más elevada hasta la fecha, solo precedida de 2016, aún el más
+caluroso de los anales, pese a que las diferencias son mínimas. Varios meses de
+2020, incluido noviembre, han sido los más calurosos de los que existe constancia. Según Copernicus, en Europa 2020 ha sido el más cálido de la historia
+de los registros 9. Y de cara al futuro cercano, la OMM estima que hay una probabilidad del 20 por 100 de que en 2024 superemos transitoriamente los 1,5 °C
+respecto la era preindustrial, que es el ambicioso objetivo del Acuerdo de París.
+Los océanos han absorbido buena parte de este aumento de calor. Los
+100 metros más superficiales del océano muestran un calentamiento de 0,33
+grados Celsius desde 1969. El calentamiento, junto a la acidificación debida a la
+absorción de CO2, ponen en grave riesgo los ecosistemas marinos. Las capas de
+
+5
+IPCC (2018), «Summary for Policymakers». In: Global Warming of 1.5°C. An IPCC Special Report
+on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable
+development, and efforts to eradicate poverty [Masson-Delmotte, V., P. Zhai, H.-O. Pörtner, D. Roberts, J.
+Skea, P. R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J. B. R. Matthews, Y. Chen,
+X. Zhou, M. I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, and T. Waterfield (eds.)]. (https://www.ipcc.ch/site/
+assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf).
+6
+UNEP (2019), Emissions Gap Report 2019, United Nations Environment Program (UNEP), Nairobi (https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y).
+7
+WMO (2020), «2020 on track to be one of three warmest years on record» (https://public.wmo.
+int/en/media/press-release/2020-track-be-one-of-three-warmest-years-record).
+8
+NASA (2020), «Climate change: How do we know» (https://climate.nasa.gov/evidence/).
+9
+Copernicus (2021), «2020 warmest year on record for Europe; globally, 2020 ties with 2016 for
+warmest year recorded», 8 de enero (https://climate.copernicus.eu/2020-warmest-year-record-europe-globally-2020-ties-2016-warmest-year-recorded).
+
+181
+
+
+
+hielo de Groenlandia y la Antártida han disminuido sus masas. Datos del Experimento sobre Clima y Recuperación de la Gravedad, de la NASA, muestran que
+Groenlandia perdió un promedio de 279.000 millones de toneladas de hielo por
+año desde 1996 a 2020, mientras que la Antártida perdió aproximadamente
+148.000 millones de toneladas, batiéndose cada año un récord. En el océano
+Ártico esta situación ha motivado que tanto la extensión como el espesor del
+hielo marino se hayan reducido rápidamente durante las últimas décadas, alcanzándose en julio y octubre de 2020 el mínimo de los 42 años de registro de
+los satélites. Ello, unido al retroceso de los glaciares en todas partes del mundo,
+como en los Alpes, el Himalaya y los Andes, ha redundado en una aceleración
+de la subida del nivel de las aguas oceánicas, de 2,5 milímetros al año en 1990
+a 3,4 en la actualidad. Si en el siglo xx el nivel de las aguas creció 20 centímetros, con la actual aceleración puede esperarse que el siglo xxi vea más que
+triplicarse esta cifra, hasta los 65 centímetros.
+Todo lo anterior ha venido asociado a un número elevado y creciente
+de eventos climáticos extremos o catastróficos, como las olas de calor, los récords de temperatura en múltiples zonas del mundo, las inundaciones, las sequías, los incendios, y los ciclones, los huracanes y las tormentas tropicales. Se
+trata de síntomas difíciles de obviar, y a su vez causas de enormes pérdidas,
+como reflejan las cifras récord de pérdidas de las aseguradoras 10, o impactos
+sobre el bienestar, como reflejan los 10 millones de desplazados por desastres
+meteorológicos durante la primera mitad de 2020 11.
+El argumento que subyace al reconocimiento de la emergencia climática reside en las causas del cambio climático. A diferencia de los seis ciclos climáticos registrados en los últimos 650.000 años, en los que el cambio del clima
+se debió en su mayor parte a pequeñas variaciones en la órbita de la Tierra que
+determinaron alteraciones en la energía solar recibida, el actual ciclo, que comienza hace 11.700 años, es, con muy elevada probabilidad científica —más de
+un 95 por 100— el resultado de la actividad humana desde mediados del siglo xx. Es a partir de 1950 cuando las emisiones de CO2, el principal GEI, superan las 300 partes por millón (ppm), el más alto registrado en 800.000 años, y
+sigue en aumento. Su carácter acumulativo queda claro con la experiencia del
+Covid-19: en 2020 el Global Carbon Project 12 estima que las emisiones globales
+de CO2 han caído en 2,4 gigatoneladas (GtCO2), un 7 por 100 respecto de 2019,
+cifra solo alcanzada en 1945, pero la cantidad acumulada en la atmósfera no ha
+
+10
+Swiss Re Institute (2020), «2020 catastrophe losses: Fifth costliest year on record» (https://www.
+swissre.com/media/news-releases/nr-20201215-sigma-full-year-2020-preliminary-natcat-loss-estimates.html).
+11
+Internal Displacement Monitoring Centre (2020), «Internal displacement 2020: Mid-year update»,
+IDMC, Norwegian Refugee Council (https://www.internal-displacement.org/sites/default/files/publications/
+documents/2020%20Mid-year%20update.pdf).
+12
+Carbon Brief (2020), diciembre, (https://www.carbonbrief.org/global-carbon-project-coronavirus-causes-record-fall-in-fossil-fuel-emissions-in-2020).
+
+182
+
+
+
+dejado de crecer, hasta las 413 ppm en media mensual. Baste como referencia
+que la última vez que la atmósfera de la Tierra contenía 400 partes por millón
+de CO2 se estima que fue hace unos entre 3 y 5 millones de años, cuando la
+temperatura media global de la superficie era de 2 a 3 grados más cálida que
+hoy, las capas de hielo en Groenlandia y la Antártida Occidental se derritieron
+y partes del hielo de la Antártida Oriental se cayeron, todo lo cual causó un
+aumento del nivel global del mar de 10 a 20 metros en comparación con el
+actual. Según el análisis de atribución de eventos extremos de Carbon Brief 13,
+el 69 por 100 del total ha sido hecho más probable o severo por la acción humana. Y otra referencia puede ser útil: necesitaríamos reducciones anuales de
+emisiones de más de 2 GtCO2 para limitar el crecimiento de las temperaturas
+por debajo de 2 °C, o al ritmo porcentual que hemos registrado en 2020 para
+alcanzar 1,5 °C en 2030 ¡sin confinamientos!
+No hay, pues, razones para la complacencia. Simplemente hemos frenado algo el ritmo de crecimiento de la acumulación de GEI. Sin esfuerzos
+decididos, las proyecciones a futuro no son halagüeñas. Unos pocos países son
+los responsables de la mayor parte de las emisiones de GEI que están creciendo
+a nivel mundial. Los cuatro principales emisores (China, EU28, India y los Estados Unidos de América) aportan más del 55 por 100 de las emisiones totales en
+la última década. Si añadiéramos el resto de los miembros del G20 este porcentaje ascendería cerca del 80 por 100. China emite más de una cuarta parte (26%)
+del total global, y, a pesar de contribuir significativamente a la desaceleración
+de las emisiones globales de 2014 a 2016, las emisiones en el país ahora están
+aumentando nuevamente, y en 2020 solo disminuyeron un 1,7 por 100. Con
+razón se quejaba en diciembre de 2020 el secretario general de Naciones Unidas: «Cinco años después de (la Cumbre de) París —afirmaba Guterres—, todavía no vamos en la buena dirección. Los compromisos de París eran insuficientes, y aún esos no se están cumpliendo 14». En efecto, según Naciones Unidas 15,
+una continuación de las políticas actuales conduciría a un aumento de la temperatura media global de, al menos, 3,5 °C para 2100.
+Al reconocimiento de la evidencia del cambio climático, y de su naturaleza esencialmente antropogénica, es necesario añadir argumentos sobre sus
+probables impactos económicos para urgir a la acción. Algunos comienzan a ser
+obvios, y se reflejan parcialmente en las enormes y crecientes indemnizaciones
+afrontadas por las aseguradoras, o en las pérdidas de vidas humanas y de me13
+R. Pidcock, R. Pearce y R. McSweeney (2020), «Mapped: How climate change affects extreme
+weather around the world» (https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world).
+14
+K. Oroschakoff (2020), «UN chief complains that ‘far from enough’ is being done on climate’,
+POLITICO, 12 de diciembre (https://www.politico.eu/article/un-chief-complains-that-far-from-enough-beingdone-on-climate/).
+15
+UNEP (2019), «Emissions Gap Report 2019», op. cit. (https://www.unenvironment.org/resources/emissions-gap-report-2019).
+
+183
+
+
+
+dios de producción como consecuencia de los eventos climáticos extremos o el
+empeoramiento de las condiciones de salud. Pero cuando nos preguntamos
+sobre qué impactos macroeconómicos tendrían estos incrementos en la temperatura global del planeta en la economía, la respuesta debe basarse en modelos
+y escenarios nada fáciles de construir. Aunque la atención de los economistas
+al cambio climático no es nueva, ciertamente ha sido relativamente escasa en
+comparación con otras áreas del análisis económico. A medida que se han ido
+evaluando con más certidumbre los efectos de la actividad humana sobre el
+cambio climático, también se ha ido refinando la estimación de su coste económico. El aumento y variabilidad del clima, sobre todo de la temperatura y las
+condiciones meteorológicas extremas, afectan a la producción agrícola, a la
+industria, a la productividad del trabajo, al capital productivo e inmobiliario, a
+la salud y la difusión de enfermedades e, incluso, a la esperanza de vida y tasas
+de mortalidad de las personas. Tal y como resumen recientemente Doménech
+y Andrés 16, que evalúan diversos estudios sobre los efectos en la tasa de crecimiento del PIB per cápita del calentamiento para 174 países, limitar el aumento
+de las temperaturas en línea con el Acuerdo de París (2015) situaría este coste
+entre un 0,6 por ciento y un 1,6 por 100 del PIB per capita. En el escenario más
+desfavorable, en el que las temperaturas aumenten 4 °C en 2100 y el tiempo
+medio de adaptación fuese de 4 décadas, el coste en términos de PIB per cápita sería prácticamente equivalente al 10 por 100 de media global y alcanzaría el
+14,3 por 100 en Estados Unidos.
+Estas cifras, más o menos impactantes, probablemente estén sesgadas
+a la baja, según sostiene Stern 17, pues no se consideran ni retroalimentación, ni
+eventos extremos (sequías, inundaciones, olas de calor y frío, huracanes o debilitamiento significativo de los sumideros marinos de CO2). En su opinión, en
+los escenarios más adversos la pérdida de PIB podría alcanzar el 20 por 100.
+Todo ello tiene el potencial de generar conflictos sociales y migraciones, dependiendo de la capacidad de las sociedades para adaptarse a los cambios climáticos, y afectar a la estabilidad política y financiera, generándose costes adicionales. Unos costes que crecerían más que proporcionalmente con la
+temperatura, en lo que Wallace-Wells ha denominado con acierto el «interés
+compuesto de la catástrofe medioambiental» 18. Reconocen los investigadores
+que, dada la incertidumbre existente y la complejidad de los canales a través de
+los que opera, resulta difícil resumir en una función de daño económico los
+costes de cambio climático. Extrapolar a una situación completamente nueva y
+disruptiva hace sospechar que los cálculos que dejan fuera fenómenos como el
+aumento de la frecuencia y gravedad de las inundaciones, o el impacto sobre
+
+16
+J. Andrés y R. Doménech (2020), «Cambio Climático y Crecimiento Económico», Revista de Geoeconomía, en prensa.
+17
+D. I. Stern (2004), «The rise and fall of the environmental Kuznets curve», World Development,
+32(8), pp. 1419-1439.
+18
+D. Wallace-Wells (2019), op. cit., Parte I.
+
+184
+
+
+
+la vida de más de un 5 por 100 de la población al subir el nivel del mar, o la
+liberación masiva de metano al derretirse el permafrost 19, puedan estar siendo
+demasiado optimistas.
+
+2. EL NEGACIONISMO Y OTROS OBSTÁCULOS A LA ACCIÓN
+CLIMÁTICA
+Ante la acumulación de evidencia factual y análisis científicos sobre el
+cambio climático y sus consecuencias, cabe preguntarse cómo hemos tardado
+tanto en referirnos a él con el tono de alarma que se asocia a una declaración
+de emergencia. A este respecto, cabe apuntar tres grupos de motivos. Primero,
+el negacionismo en sus variadísimas formas. Abundan los ejemplos de negacionismo interesado, impulsado por grupos de interés económico, que se han
+servido de teorías conspirativas, de opiniones no validadas por pares, de falsos
+expertos, de la supuesta falta de fiabilidad plena de los modelos climáticos de
+predicción, de falacias lógicas (por ejemplo, la afirmación de que «el clima ha
+venido cambiando por causas naturales durante milenios», ocultando que en el
+período preindustrial el cambio climático no fue antropogénico en ninguna
+medida significativa), o de observaciones aisladas y poco contrastadas (por
+ejemplo, sobre la actividad solar, las diferentes mediciones de la temperatura
+terrestre, o los efectos positivos que cabe encontrar en algunos casos), todo ello
+para convencer al público y a los medios de que no hay base para la toma urgente de decisiones que el consenso científico reclama 20. Hay otras dos posibles explicaciones del negacionismo conectadas entre sí: la psicológica y la
+ideológica. En el primer grupo, Jylhä (2017) destaca la complejidad y la falta de
+completa certidumbre de los fenómenos climáticos, que lleva a algunos individuos a malinterpretar la evidencia y a posicionarse en función de la experiencia
+personal, y los sentimientos de miedo, ansiedad, culpa o impotencia, que algunos individuos pueden tratar de afrontar evitando pensar en el cambio climático o negándolo 21. La ideología política, por su parte, ha sido identificada por el
+metaanálisis como uno de los factores más significativos para explicar el negacionismo, por encima del conocimiento climático 22. El autoposicionamiento
+conservador, más proclive a la defensa del statu quo y menos a la aceptación
+
+19
+C. Welch (2020), «El rápido derretimiento del permafrost del Ártico nos afecta a todos», National
+Geographic, 5 de noviembre (https://www.nationalgeographic.es/medio-ambiente/2019/08/rapido-derretimiento-permafrost-artico-nos-afecta-todos).
+20
+Una buena revisión de esta tipología puede encontrarse en H. Washington (2011); «The five
+types of climate change denial argument», en H. Washington y J. Cook Eds.): Climate change denial, Routledge, Londres, pp. 43-70.
+21
+K. M. Jylhä (2017), «Denial versus reality of climate change», en D. DellaSala y M. Goldstein
+(eds.): Encyclopedia of the Anthropocene, vol. 2, Elsevier, pp. 487-492.
+22
+M. J. Hornsey, E. A. Harris, P. G. Bain y K. S. Fielding (2016), «Meta-analyses of the determinants
+and outcomes of belief in climate change», Nature Climate Change, 6, pp. 622-626.
+
+185
+
+
+
+de las implicaciones del consenso científico que exigen cambios económicos y
+sociales radicales, aparece como una variable muy significativa para explicar la
+baja o nula importancia atribuida a la amenaza climática, particularmente en los
+países anglosajones, como puede comprobarse en la encuesta de actitudes globales de verano de 2020 del Pew Research Center 23 y en la literatura académica 24. Combatir el negacionismo con éxito debe considerar sus motivaciones
+básicas. Si la confrontación científica, las obligaciones de transparencia y los
+límites de financiación podrían hacer alguna mella en el negacionismo que
+responde a intereses económicos, todo ello muestra poca utilidad cuando se
+trata de la psicología o la ideología. En estos casos, probablemente puedan
+moverse las motivaciones y las actitudes, siquiera marginalmente, con argumentos más de índole moral (así, «preservar el entorno es una deuda con las generaciones futuras») o apaciguador del miedo al cambio («proteger el medio ambiente preserva el estilo de vida tradicional»).
+Un segundo obstáculo al reconocimiento de la emergencia viene de lo
+que en 2015 Mark Carney, entonces gobernador del Banco de Inglaterra, vino
+en llamar la «tragedia del horizonte». Dice gráficamente Carney 25: «No necesitamos un ejército de actuarios para decirnos que los impactos catastróficos del
+cambio climático serán sentidos más allá de los horizontes tradicionales de la
+mayoría de los actores, imponiendo un coste a las futuras generaciones que la
+generación actual carece de incentivos directos a afrontar». El horizonte de la
+política monetaria alcanza los 2 o 3 años; el ciclo político electoral se suele situar entre los 4 y los 5 años; el ciclo medio de los negocios que define el horizonte de la política fiscal podría abarcar de 6 a 8 años; y los ciclos macrofinancieros que concentran la atención de las autoridades responsables de la
+estabilidad financiera, unos 10 años. Y puesto que los riesgos son una función
+de las emisiones acumuladas, una vez que los riesgos se hagan evidentes dentro del horizonte de decisión, será ya demasiado tarde.
+Este es un problema típico que entra en la categoría de lo que Michelle
+Wucker denomina «rinocerontes grises» 26: fenómenos de probabilidad alta, con
+consecuencias potencialmente devastadoras, pero cuyos contornos y efectos
+parecen manifestarse solo gradualmente, de manera que nadie se siente direc23
+Pew Research Center (2020), «Those on ideological left show greater concern about global climate change», Summer 2020 Global Attitudes Survey, Q13a (https://www.pewresearch.org/facttank/2020/10/16/many-globally-are-as-concerned-about-climate-change-as-about-the-spread-of-infectious-diseases/ft_2020-10-16_climatechange_04/).
+24
+Véase, por ejemplo, Tom W. Smith, Jibum Kim & Jaesok Son (2017) «Public Attitudes toward
+Climate Change and Other Environmental Issues across Countries», International Journal of Sociology, 47:1,
+pp. 62-80 (http://dx.doi.org/10.1080/00207659.2017.1264837).
+25
+M. Carney (2015), «Breaking the tragedy of the horizon», City Dinner, Lloyd’s of London, septiembre (https://www.bankofengland.co.uk/speech/2015/breaking-the-tragedy-of-the-horizon-climate-change-and-financial-stability).
+26
+M. Wucker (2016), The Grey Rhino: How to recognize and act on the obvious dangers that we
+ignore, St Martin’s Press, Nueva York.
+
+186
+
+
+
+tamente concernido. A la misma categoría pertenecen las pandemias globales,
+los ciberataques masivos, crisis financieras como la del 2008, determinadas
+disrupciones tecnológicas o ciertos conflictos, como la Segunda Guerra Mundial (a diferencia de la Primera, que fue un auténtico «cisne negro», en la terminología de Nassim Taleb 27, por difícil o imposible de prever, pero de efectos de
+enorme severidad). Sabemos que el riesgo está ahí, pero hay un incentivo a
+pensar que está lejos, que hay tiempo ante otras urgencias, y que, al cabo, nuestra capacidad individual para tener un impacto significativo es pequeña. En el
+caso del cambio climático, las cosas de complican por tratarse de una externalidad global en el espacio y en el tiempo, esto es, que afecta a zonas geográficas
+distintas de las emisoras y a generaciones futuras que no pueden decidir.
+No hay fórmulas magistrales para poner fin a la tragedia del horizonte,
+aunque si pueden identificarse tres ingredientes imprescindibles: información,
+liderazgo y oportunidad. Los sesgos cognitivos que subyacen a la falta de acción tendrían menos influencia si dispusiéramos de información clara, fiable y
+comparable de cuáles son los impactos de la actividad económica de empresas
+y gobiernos en el clima, y a qué riesgos nos exponemos en cada escenario. Así,
+Mark Carney, desde la presidencia del Financial Stability Board, ha liderado la
+ampliación de los estándares de información en el terreno financiero. Como
+acertadamente enfatiza Rebecca Henderson, los cambios en las reglas contables
+forzando la inclusión de información sobre desempeño en dimensiones ESG
+(Environmental, Social and Governance) pueden cambiar el comportamiento
+de las empresas de manera muy significativa, al liberarlas en alguna medida de
+la esclavitud de los resultados financieros de corto plazo 28. El liderazgo, por su
+parte, es siempre esencial en los cambios profundos que requieren de amplia
+movilización social. El mismo Financial Times, la referencia financiera por antonomasia, reaccionaba al discurso de 2015 con un recordatorio del mandato
+del Banco de Inglaterra, sin perjuicio de reconocer el mérito de sus argumentos 29. Y en este punto comenzó a romperse con nitidez la tragedia del horizonte en el mundo financiero. Y junto a la información y el liderazgo, la oportunidad. En procesos complejos y en apariencia graduales, no es fácil crear la
+sensación de emergencia que proporciona respaldo a la acción. Lamentablemente, la intensificación de eventos climáticos extremos de la última década
+
+27
+28
+
+N. N. Taleb (2007), The Black Swan, Random House, Nueva York.
+R. Henderson (2020), Reimagining capitalism in a world on fire, Public Affairs, Hachette, Nueva
+
+York.
+29
+FT View (2015), «Carney’s warning on carbon’s financial risks», Financial Times, 30 de septiembre: «The Bank of England’s mission is expressed in one succinct phrase: «maintaining monetary and financial
+stability». The brevity of this remit is well surpassed by the powers it confers on the BoE. Governor Mark
+Carney sits atop not just the Monetary Policy Committee but the Prudential Regulation Authority, which oversees 1,700 institutions, and the Financial Policy Committee, charged with preventing the financial system
+imploding, again. One might have thought this enough, without Mr Carney also having to glance nervously
+at the weather forecast. But the threat of global warming is growing into the potential financial risk that it is
+the BoE’s job to contain». (https://www.ft.com/content/7be03478-676c-11e5-a57f-21b88f7d973f).
+
+187
+
+
+
+está ofreciendo ocasiones abundantes para la acción radical. Pero probablemente no haya habido ventana de oportunidad mejor para cambiar radicalmente el estado de cosas que la ofrecida por la presente pandemia del Covid-19,
+asunto en el que ahondaré en el próximo epígrafe.
+Junto al negacionismo y a la tragedia del horizonte, la última traba relevante a la actuación decidida reside en la complacencia o el conformismo.
+Por ejemplo, a su firma el Protocolo de Kioto de 1997 cubría el 65 por ciento
+de las emisiones mundiales de GEI. Pero quince años después solo alcanzaba
+al 15 por ciento, pues Estados Unidos no ratificó el tratado, y Canadá, Rusia y
+Japón se retiraron. Al cumplirse veinte años de su aprobación, con todo el activismo y todos los cambios legislativos introducidos, el mundo había generado
+más emisiones que en los veinte años anteriores. Y la Unión Europea, que podría presumir de primero de la clase, al haber reducido sus emisiones continuamente desde comienzos de los 80 —y un 23 por 100 desde la entrada en vigor
+del protocolo—, debería atemperar su orgullo si se tiene en cuenta que sus
+emisiones acumuladas desde mediados del siglo xviii hasta el Acuerdo de París
+de 2015 fueron 72 GtCO2, solo por detrás de las 103 GtCO2 de los EE. UU. 30 y
+por delante de las 48 GtCO2 de China. Como los norteamericanos, la UE tiene
+una especial responsabilidad histórica que no se salda con su moderada contribución de casi el 9 por 100 de las emisiones globales, pues se estima que el CO2
+se mantiene en la atmósfera al menos tres siglos.
+El acuerdo de París (COP, Conferencia de las Partes, núm. 21) mejoró
+al de Kioto en varias dimensiones, al comprometer a todas las naciones, fijar
+objetivos nominalmente más ambiciosos en aumento de la temperatura —«esfuerzos» para limitar el calentamiento global a 1,5 °C a mediados de siglo— e
+incluir indicaciones de ayuda financiera a los países emergentes, hoy responsables de la mayor parte de las emisiones. A la vez que EE. UU. anunciaba su
+abandono del acuerdo en 2017, tras la elección de Trump, y que se hacía evidente que los $100 mil millones anuales para países emergentes fueron un
+brindis al sol, un número creciente de naciones se ha ido comprometiendo con
+objetivos de emisiones netas cero en 2050, aunque han sido pocos los que han
+anunciado estrategias concretas. Sin embargo, de acuerdo con Naciones Unidas, 31 para cumplir con el objetivo de mantener el calentamiento en 2 o 1,5 °C,
+la reducción de emisiones en 2030 debería ser de entre 15 y 32 GtCO2 por encima de los compromisos incondicionales de los firmantes. En otro caso, estamos abocados a un aumento de temperatura de 3,2 °C a fin de siglo con una
+probabilidad del 66 por 100. De nuevo, como afirmaba Guterres, ni los compromisos son suficientemente ambiciosos, ni los resultados están a la altura de los
+30
+K. Mathiesen y A. Busquets (2021), «The moral case for the European Green Deal», POLITICO,
+European edition, 2 de enero (https://www.politico.eu/article/european-green-deal-policy-guide-exporting-climate-change-trade-cop26-methane/).
+31
+UNEP (2019), op. cit., Executive summary.
+
+188
+
+
+
+objetivos, pese a toda la «fanfarria verde». La COP 26 de Glasgow, a celebrar en
+noviembre de 2021 ofrecerá una nueva oportunidad de enfrentarse a un horizonte en el que, en los mejores escenarios, normalizaremos los eventos climáticos extremos —ciudades inundadas, sequías devastadoras, olas de calor, huracanes o monzones— simplemente como «mal tiempo» 32.
+Es preciso reconocer que los acuerdos internacionales de esta naturaleza encuentran siempre dificultades, al descansar en la soberanía nacional y,
+por tanto, en la voluntad de cumplimiento de los países. La desconexión del
+carbón es exigente y costosa, los grupos de interés nacionales y transnacionales
+tienen muchos incentivos a invertir fondos en retrasar lo inevitable, y siempre
+hay argumentos de equidad en los que pueden escudarse los recién llegados a
+la industrialización y la afluencia —digamos, China— para ser más laxos en sus
+emisiones. A ello ha de sumarse el efecto corrosivo del ascenso de los populismos, en una doble dimensión: el desprecio que propenden a manifestar hacia
+la ciencia y su agresivo unilateralismo. Uno de los lemas de la campaña electoral de Trump en 2016 fue que «la ciencia del cambio climático es una farsa» 33,
+y, tan recientemente como en diciembre de 2020, al desvelarse los intentos de
+censura de informes climáticos de la Environmental Protection Agency, el presidente se despachó con un «no creo que la ciencia sepa» 34. Puro negacionismo
+ideológico, con devastador impacto ejemplarizante. Y en al ámbito de la cooperación internacional, la década pasada nos ha dejado un problema climático
+que Urpelainen ha calificado como «endemoniado» 35: es un enorme reto social
+que requiere confianza en la ciencia, negociación efectiva sobre el reparto de
+cargas y esfuerzos, un compromiso con reglas internacionales vigentes en periodos largos de tiempo, y una rápida adaptación al cambio.
+Es un reto endemoniado, pero no necesariamente insuperable, si tenemos en cuenta tres elementos. Primero, la sensibilización acelerada de la sociedad civil y los agentes de mercado, incluido el sector de las finanzas. Segundo,
+
+D. Wallace-Wells (2019), op. cit.
+Federal News Service (2016), Transcript of Donald Trump’s Dec. 30 2015 speech in Hilton
+Head, S. C.: «(…) So Obama’s talking about all of this with the global warming and the — a lot of it’s a hoax,
+it’s a hoax. I mean, it’s a money-making industry, OK? It’s a hoax, a lot of it. And look, I want clean air and I
+want clean water. That’s my global — I want clean, clean crystal water and I want clean air. And we can do
+that, but we don’t have to destroy our businesses, we don’t have to destroy our —And by the way, China isn’t
+abiding by anything. They’re buying all of our coal; we can’t use coal anymore essentially. They’re buying our
+coal and they’re using it. Now when you talk about the planet, it’s so big out there — we’re here, they’re
+there, it’s like they’re our next door neighbor, right, in terms of the universe. Miss Universe, by the way, I made
+a great deal when I sold — oh did I get rich» (https://www.kansascity.com/news/local/news-columns-blogs/
+the-buzz/article55604115.html#storylink=cpy).
+34
+Inside Climate News (2020), «The Resistance: In the President’s Relentless War on Climate Science, They Fought Back», 27 de diciembre (https://insideclimatenews.org/news/27122020/trump-climate-science-epa-wheeler-biden/).
+35
+J. Urpelainen (2020), «Global climate and energy policy after the Covid-19 pandemic», en H. Brands
+y F. J. Gavin (eds.): Covid-19 and world order: The future of conflict, competition and cooperation, cap. 7, Johns
+Hopkins University Press, Baltimore.
+32
+
+33
+
+189
+
+
+
+los procesos políticos que han llevado a liderar cambios de actitud y diligencia
+frente al cambio climático, marcadamente en el caso de la UE y, posiblemente,
+los EE. UU. tras la victoria de Biden. Y tercero, el formidable y probablemente
+duradero impacto de la pandemia del Covid-19 sobre gobiernos y mercados.
+
+3. DE LA EMERGENCIA CLIMÁTICA A LA EMERGENCIA PANDÉMICA:
+¿LA REACCIÓN, AL FIN?
+La avalancha de evidencias y estimaciones del impacto de la disrupción
+climática está contribuyendo en los últimos pocos años a generar en la ciudadanía y sus líderes la sensibilización y los incentivos imprescindibles para actuar conforme la emergencia exige. La primera declaración pública de emergencia climática fue aprobada por la ciudad de Darebin, en Melbourne, el 5 de
+diciembre de 2016. A esta la siguieron Hoboken, en Nueva Jersey, y Berkeley,
+en California. La moción europea inaugural la adoptó la ciudad de Bristol, en el
+Reino Unido, en noviembre de 2018, a las que sucedieron centenares de instituciones locales, seguidas de las asambleas de Escocia y Gales, el parlamento
+británico en mayo de 2019, y multitud de gobiernos locales y nacionales —incluidos muchos españoles— a partir de entonces. El Papa Francisco hizo lo
+propio en junio de 2019, una red de más de 7.000 instituciones de educación
+superior de seis continentes en julio de 2019, y la Unión Europea —en representación de todas las naciones que la integran— en noviembre de 2019. España, por su parte, declaró formalmente la emergencia climática en enero de
+2020, a la vez que se anunciaban 30 líneas de acción prioritarias, entre las que
+se incluyeron la Ley de Cambio Climático y Transición Energética, el Plan Nacional de Adaptación al Cambio Climático 2021-2030, el Plan Nacional Integrado de Energía y Clima 2021-2030, y los Planes de Transición Justa para las regiones y colectivos más afectados 36.
+A diciembre de 2020, 1.850 gobiernos locales y nacionales de 44 países,
+que en conjunto representan casi 1.000 millones de personas, han aprobado
+mociones de emergencia climática. Una declaración de emergencia climática 37
+implica que el gobierno que la realiza admite que el cambio climático existe, y
+que las medidas adoptadas hasta el momento son insuficientes para frenar su
+impacto y evitar una situación crítica que ponga en riesgo las vidas y el sustento de las personas. Aunque pueden realizarse a distintos niveles, a la moción
+
+36
+Gobierno de España (2020), Acuerdo del Consejo de Ministros por el que se aprueba la declaración del gobierno ante la emergencia climática y ambiental, enero (https: //www.miteco.gob.es/es/prensa/
+declaracionemergenciaclimatica_tcm30-506551.pdf).
+37
+The Climate Mobilization (2020), «What is a climate emergency declaration?» (https:// www.
+theclimatemobilization.org/climate-emergency/).
+
+190
+
+
+
+formal se le unen compromisos públicos sobre objetivos y acciones para detener el calentamiento global causado por la actividad humana.
+Por fin parece que las autoridades, las compañías y los inversores están
+jugando un papel más comprometido en este nuevo entorno. Sin embargo, hay
+que reconocer que este cambio de actitud es en gran medida, más que endógeno, una respuesta a un proceso acelerado de sensibilización de la población
+ante la amenaza del cambio climático. Las nuevas generaciones piensan que el
+cambio climático y la desigualdad se encuentran entre los problemas más preocupantes. El Global Shapers Annual Survey del World Economic Forum
+de 2020, sitúa cinco dimensiones distintas del cambio climático —temperaturas
+extremas, pérdida de biodiversidad, fracaso de la acción climática, desastres
+naturales y desastres medioambientales causados por el hombre— como los
+más probables a largo plazo, y cuatro de ellos son vistos como los de mayor
+impacto, por delante de las armas de destrucción masiva, las enfermedades
+infecciosas o los ciberataques 38. La evaluación de riesgos globales que hace
+el WEF coincide en líneas generales con las percepciones de los líderes más
+jóvenes. Es interesante destacar que este influyente foro no comienza a dar relevancia a ninguna dimensión medioambiental hasta 2011.
+Al aumentar su impacto con el paso del tiempo, quienes se enfrentarían a las peores consecuencias serían los niños y los jóvenes de hoy. Pero lejos
+de ser víctimas pasivas, y no solo a través de la élite de los Global Shapers, los
+jóvenes de todo el mundo han empezado a manifestarse a una escala nunca
+vista. Un caso bien publicitado es Greta Thunberg. En 2018, esta niña de 16
+años entonces, nacida en Suecia, puso en marcha una movilización global de
+niños en edad escolar que exigían mayores medidas de los gobiernos para luchar contra el cambio climático. Ahora, millones están participando en marchas
+y manifestaciones para demostrar su respaldo a esta causa.
+La sensibilización ha alcanzado de lleno a la población en general.
+Como pone de manifiesto la encuesta de actitudes globales del Pew Research
+Center del verano de 2020 39, una media del 70 por 100 de los encuestados
+en 14 países desarrollados consideran al cambio climático como una grave
+amenaza, porcentajes que van de un máximo en España, Francia e Italia, con el
+83 por 100, hasta el 59 por 100 en Australia, por debajo del 62 por 100 de los
+EE. UU. Desde 2013 a 2020, el porcentaje de severamente concernidos ha aumentado desde 29 puntos en Francia o 19 en España e Italia, hasta los 13 de
+Alemania y Canadá. En los EE. UU. la sensibilización ha crecido 17 puntos,
+sobre todo debido a las percepciones del electorado demócrata (26 puntos,
+
+38
+World Economic Forum (2020), Global Risks Report, 15.ª edición, World Economic Forum, Ginebra (http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf).
+39
+Pew Research Center (2020), op. cit.
+
+191
+
+
+
+hasta el 85 por 100), aunque los votantes republicanos también han registrado
+un aumento en su preocupación, pese a un tradicional escepticismo (8 puntos,
+hasta el 31 por 100). Estas tendencias se reproducen, aún más marcadas, en
+otras encuestas recientes, como la realizada por GlobeScan para 27 países en
+junio de 2020 40.
+Las autoridades globales y nacionales han tratado de responder a esta
+sensibilización y liderar la acción con iniciativas estratégicas de alineamiento de
+actuaciones públicas y del mundo corporativo. Así, de forma destacada, en el
+año 2000 y a propuesta de Kofi Annan, los países miembros de las Naciones
+Unidas acordaron establecer el UN Global Compact o Pacto Global, con el fin
+de promover una transformación del sector privado hacia la responsabilidad y
+la sostenibilidad. Se enunciaron diez principios en los ámbitos medioambiental,
+sociolaboral, de derechos humanos y de gobernanza, a los que se han sumado
+hasta el presente 12.354 compañías y 158 países. En el marco de este pacto, en
+2015 se aprobaron los 17 Objetivos de Desarrollo Sostenible (SDG) y un nuevo
+acuerdo mundial sobre dos pilares: la Agenda 2030 —que abarca el conjunto
+de los SDG con objetivos específicos, también en materia de clima— y el Acuerdo de París, que se ratificaría unos meses más tarde. Todo un proceso bienintencionado y necesario, pero no a salvo de incumplimientos, como hemos
+visto anteriormente.
+Con anterioridad se celebró en 1992 la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que sentaba las bases del principal
+tratado internacional sobre la materia. Su principal organismo de decisión es la
+Conferencia anual de las Partes (conocida por sus siglas COP), en la que pueden participan autoridades, representantes de empresas, organizaciones internacionales, grupos de interés y asociaciones tienen estatuto de observador.
+El primer acuerdo sobre el clima con ambición global se alcanzó en
+Compromiso de Kioto en 1997 para el periodo 2008-2020. Sin embargo, como
+ya ha quedado indicado, su escasa cobertura y otros aspectos de su contenido
+forzaron su sustitución por otro enfoque más efectivo. El compromiso real de
+acción se adoptó en la Conferencia sobre el Clima de París (COP21), de diciembre de 2015, que establece un marco global para evitar un cambio climático
+peligroso manteniendo el calentamiento global por debajo de los 2 °C y prosiguiendo los esfuerzos para limitarlo a 1,5 °C. Podemos decir que el Acuerdo de
+París es el primer acuerdo con ambición de tener alcance universal y vinculante sobre el cambio climático. España, la Unión Europea y el resto de sus estados
+miembros se encuentran entre las cerca de 190 Partes del Acuerdo de París. La
+UE ratificó formalmente el Acuerdo el 5 de octubre de 2016, lo que permitió
+
+40
+GlobeScan (2020), «Climate change. A GlobeScan insight», GlobeScan Radar, junio (https://
+globescan.com/wp-content/uploads/2020/09/GlobeScan_2020Radar_Insight_Climate.pdf).
+
+192
+
+
+
+que entrara en vigor el 4 de noviembre de 2016. El Acuerdo de París fue refrendado y detallado tres años más tarde en el conocido como Paquete de Katowice 41, adoptado en la Conferencia de las Naciones Unidas sobre el Clima (COP24)
+en diciembre de 2018, que recoge normas, directrices y procedimientos comunes detallados que ponen en práctica el Acuerdo de París. Abarca todos los
+ámbitos clave, incluidos la transparencia, la financiación, la mitigación y la
+adaptación, y ofrece flexibilidad a las Partes que la necesitan a la luz de sus
+capacidades, al tiempo que les permite aplicar e informar sobre sus compromisos de manera transparente, completa, comparable y coherente.
+Con todas las críticas de las que estas iniciativas son merecedoras, han
+tenido el mérito de catalizar la acción climática en los sectores empresarial y
+financiero, que de manera creciente están sujetos a reportar su actividad, su
+gestión y sus riesgos en función de su impacto en los Objetivos de Desarrollo
+Sostenible (ODS) y, en la terminología del mundo inversor, los criterios ESG.
+Así, las empresas firmantes deben anualmente remitir un «comunicado de progreso» reportando los avances en aplicación de los diez principios del UN Compact de acuerdo con formularios estándar, que se hacen públicos en la página
+web de Naciones Unidas, así como también la lista de compañías expulsadas
+por incumplir. En este intento de hacer los criterios ESG parte inextricable en la
+forma de hacer negocios y acelerar el proceso, influyentes plataformas empresariales —como la US Business Roundtable 42— han afirmado públicamente el
+compromiso de las compañías con las comunidades, sus clientes, proveedores
+y empleados, y, por supuesto, sus accionistas. De manera gradual, está emergiendo un consenso acerca de que los criterios ESG, más que simple y onerosa
+responsabilidad social corporativa, son fuente directa de creación de valor, a
+través de varios canales: crecimiento de las ventas, reducción de costes, aumento de la productividad, optimización de las inversiones y mejor alineamiento
+regulatorio 43. Y existe evidencia bastante robusta procedente del meta-análisis
+que respalda un impacto positivo de las actividades ESG en la rentabilidad de
+las empresas 44.
+Dejando para más adelante la referencia específica al ámbito y el papel de las finanzas en la sostenibilidad medioambiental, ¿cuál es el compromi-
+
+41
+United Nations Climate Change (2018), Katowice Climate Package (https://unfccc.int/process-and-meetings/the-paris-agreement/paris-agreement-work-programme/katowice-climate-package).
+42
+US Business Roundtable (2019), «Statement on the purpose of the corporation» (https://www.
+businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans).
+43
+W. Henisz, T. Kollery R. Nuttall (2019), «Five ways ESG creates value», McKinsey Quarterly, 14
+de noviembre (https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/
+five-ways-that-esg-creates-value).
+44
+G. Friede, T. Busch y A. Bassen (2015), «ESG and financial performance: aggregated evidence
+from more than 2000 empirical studies», Journal of Sustainable Finance & Investment, 5:4, 210-233, DOI:
+10.1080/20430795.2015.1118917.
+
+193
+
+
+
+so con los objetivos de París de los principales actores de la geopolítica? Comenzando por lo más cercano, Europa ha ido dando pasos para convertir en
+hechos el Acuerdo de París y mantener su liderazgo global en la acción climática. En diciembre de 2019, la Comisión presentó el Pacto Verde Europeo (European Green Deal) 45 como palanca para aplicar los compromisos de París, la
+Agenda 2030 y los Objetivos de Desarrollo Sostenible de las Naciones Unidas.
+El Pacto Verde Europeo es nuestra hoja de ruta para dotar a la Unión Europea
+de una economía sostenible. La realización de este objetivo exigirá afrontar los
+retos climáticos y medioambientales asegurando una transición justa e integradora para todos. En concreto, el Pacto Verde Europeo establece una hoja de
+ruta con acciones para impulsar un uso eficiente de los recursos mediante el
+paso a una economía limpia y circular, y proteger la biodiversidad y reducir la
+contaminación.
+El Pacto describe las inversiones necesarias, y explica cómo garantizar
+una transición justa e integradora. Los instrumentos disponibles serán, entre
+otros: los derechos de emisión transferibles (ETS), que pese a sus limitaciones
+en cobertura, que será ampliada para cubrir edificaciones y transporte, han logrado reducir las emisiones un 30 por 100 desde 2005; el mecanismo de ajuste
+por CO2 en frontera; posiblemente una carga impositiva adicional sobre las
+emisiones; el Mecanismo para la Transición Justa, dotado de 100 mil millones
+destinados a la inversión pública y privada, la recapacitación profesional y las
+PYMEs; y, finalmente, los fondos de 1,8 billones de euros del presupuesto de la
+UE para 2021-2027, que por primera vez contienen la regla general «no dañar el
+clima» y un componente específico de 750 mil millones —denominado Next
+Generation EU 46— dedicado en un 30 por 100 a la lucha contra el cambio climático. Como objetivo más ambicioso, el compromiso anunciado es que la
+Unión Europea sea climáticamente neutra —esto es, que genere emisiones netas cero de GEI— en 2050, con un objetivo intermedio de reducción de las
+emisiones netas de al menos el 55 por 100 en 2030. Para alcanzar este objetivo,
+será necesario actuar en todos los sectores de nuestra economía. Así, habrá que
+invertir en tecnologías respetuosas con el medio ambiente; apoyar a la industria
+para que innove; desplegar sistemas de transporte público y privado más limpios, más baratos y sanos; descarbonizar el sector de la energía; garantizar que
+los edificios sean más eficientes desde el punto de vista energético; y, entre
+otras cosas, colaborar con socios internacionales para mejorar las normas
+medioambientales mundiales.
+
+45
+Comisión Europea (2019), El Pacto Verde Europeo, 11 de diciembre (https://ec.europa.eu/info/
+strategy/priorities-2019-2024/european-green-deal_en).
+46
+General Secretariat of the Council (2020), «Proposal for a Regulation of the European Parliament
+and of the Council establishing a Recovery and Resilience Facility - Confirmation of the final compromise text
+with a view to agreement», 21 de diciembre, (https://data.consilium.europa.eu/doc/document/ST-14310-2020INIT/en/pdf).
+
+194
+
+
+
+Por distintas circunstancias, esta «tarea endemoniada» de la cooperación
+internacional efectiva puede estar hoy más al alcance que lo hubiese estado
+hace un año. La UE apenas contribuye hoy al 9 por 100 de las emisiones netas
+de CO2. Pero su peso efectivo en acción climática es mucho mayor, debido al
+tamaño de sus mercados y a su capacidad regulatoria, entre otros elementos de
+lo que Anu Bradford llama el «efecto Bruselas» 47. No obstante, cambiar con rapidez las cosas requiere forjar una alianza de peso crítico. Hace apenas una
+semana tomó posesión de su cargo de presidente de los EE. UU. Joseph Biden,
+y en ese mismo día firmó una orden ejecutiva que anulaba la decisión Trump
+de 2017 y solicitaba reincorporar a los EE. UU. al Acuerdo de París en febrero
+de 2021. Su programa electoral contiene una previsión de 2 billones de dólares
+para asegurar unas emisiones netas cero de la red eléctrica en 2035 y la neutralidad climática de la economía en 2050. Desde el comienzo de su mandato,
+podrá hacer uso de los 40 mil millones de fondos no utilizados del Departamento de Energía de Trump, que no necesitan de aprobación del Congreso,
+aplicables a infraestructuras de transporte, edificios y baterías. Todas estas iniciativas convergen con las europeas, aunque pueden identificarse dos particularmente críticas para la cooperación: el diseño coordinado del mecanismo de
+ajuste por CO2 en frontera, y el desarrollo de programas de reforestación y
+costosas tecnologías de captura y almacenamiento de CO2, sin cuya contribución no parece alcanzable la neutralidad climática 48. Y en cuanto a China, de
+manera sorpresiva Xi Jinping anunció en la Asamblea General de Naciones
+Unidas en septiembre de 2020 que su país ahora planea alcanzar el máximo de
+emisiones antes de 2030 y la neutralidad climática en 2060 49. Si este alineamiento pudiera trasladarse al G20, que representa más de tres cuartas partes de las
+emisiones, el panorama podría haber cambiado de una forma muy esperanzadora en pocos meses.
+A la emergencia climática, en el 2020 se ha añadido otra perturbación
+disruptiva, la emergencia pandémica del Covid-19, cuyo primer caso reconoció
+oficialmente la Organización Mundial de la Salud el 9 de enero. Anunciada por
+los científicos desde hace décadas y por creadores de opinión como Bill Gates
+repetidamente 50, ha sorprendido a gobiernos y sistemas sanitarios de todo el
+mundo sin la preparación adecuada en cuanto a infraestructuras hospitalarias,
+tratamientos y vacunas. Nos ha llevado prácticamente un año, varias oleadas de
+
+47
+A. Bradford (2020), The Brussels Effect. How the European Union rules the world, Oxford University Press, Nueva York.
+48
+S. Tagliapetra (2020), 2020 can be a climate breakthrough, but Biden and Europe need to talk,
+Bruegel, noviembre (https://www.bruegel.org/2020/11/2021-can-be-a-climate-breakthrough-but-biden-andeurope-need-to-talk/).
+49
+«China’s Xi pledges to ax carbon emissions by 2060», POLITICO, (https://www.politico.com/
+news/2020/09/24/china-carbon-emissions-420967).
+50
+R. Marantz Henig (2020), «Experts warned of a pandemic decades ago», National Geographic, julio
+(https://www.nationalgeographic.com/science/2020/04/experts-warned-pandemic-decades-ago-why-not-ready-for-coronavirus/).
+
+195
+
+
+
+contagios, casi 100 millones de casos y más de 2 millones de muertos, distancia
+social, confinamientos, desempleo y destrucción de tejido empresarial, para
+empezar a ver algo de luz tras la autorización de varias vacunas y la mejora en
+los tratamientos. El impacto sobre nuestras vidas está siendo vasto en todas sus
+dimensiones, y algunos de sus efectos tardaremos tiempo en apreciarlos. Se
+trata de uno de esos grandes shocks que provocan cambios profundos y aceleran tendencias sociales, tecnológicas y económicas 51. ¿Qué puede decirse acerca del efecto de la emergencia pandémica sobre la acción contra el cambio
+climático?
+Ambos tipos de eventos son muy diferentes en cuanto a la naturaleza
+del riesgo —de contagio en un caso, y de acumulación de GEI en el otro— y a
+la percepción de ese riesgo, que es inmediata y discernible en el caso de la
+pandemia, pero solo gradual y dispersa en el caso del calentamiento. Por eso,
+la respuesta ante la emergencia ha sido distinta, urgente en el primer caso y más
+morosa en el segundo.
+Sin embargo, las semejanzas son muchas, y en ellas se están apalancando los intentos de acelerar la acción climática. La pandemia ha sido calificada como la «primera crisis global de sostenibilidad del siglo xxi»: un shock físico,
+la transmisión global del virus, nos ha hecho como pocas veces conscientes de
+la fragilidad humana ante cambios en el medio, y ha excitado nuestras sensibilidades hacia la idea de «sostenibilidad» de nuestro entorno físico y natural, de
+forma que las vidas y el sustento no estén amenazados permanentemente. Por
+otra parte, ambas emergencias habrían podido beneficiarse de una adecuada
+planificación de haberse escuchado a la ciencia tiempo atrás. La conciencia de
+que el retraso en la acción aumenta los costes de hacer frente a la emergencia
+pandémica y reduce nuestras opciones es directamente aplicable a la emergencia climática. Consecuencia de ese retraso es que para cumplir con la agenda
+de París habremos de reducir anualmente las emisiones en más del 7 por 100,
+y cada año adicional de inacción empeorará las opciones 52. Una tercera similitud entre ambas emergencias es la desigualdad de sus efectos, pues su impacto
+en tasas de fatalidad es significativamente mayor en individuos y países con
+menores niveles de renta, como enfatizan Banerjee y Duflo 53. Y, por limitarnos
+a las similitudes más importantes, ambas crisis se reflejan en externalidades
+sistémicas y globales, y requieren, por tanto, una respuesta eficiente basada en
+la cooperación internacional, y no en meras soluciones locales.
+51
+J. Markard y D. Rosembloom (2020), «A tale of two crises: COVID-19 and climate», Sustainability:
+Science, Practice and Policy, vol. 16, núm. 1, pp. 53-60 (https://www.tandfonline.com/doi/full/10.1080/1548
+7733.2020.17656799).
+52
+N. Watts y otros (2020), «The 2020 report of The Lancet Countdown on health and climate
+change: Responding to converging crises», The Lancet, www.thelancet.com, December 2, 2020 (https://doi.
+org/10.1016/S0140-6736(20)32290-X).
+53
+A. V. Banerjee y E. Duflo (2020), Buena economía para tiempos difíciles, Taurus-Penguin Random House, Barcelona, cap. 6.
+
+196
+
+
+
+Cuando a comienzos de 2020 la pandemia comenzó a hacer estragos
+sanitarios y económicos, las primeras reacciones de los gobiernos y las empresas llevaron a temer un paso atrás en la acción climática. Ante la urgencia de la
+situación, los gobiernos pusieron en marcha ambiciosos programas fiscales,
+monetarios y de garantías que, en la mayoría de los casos, como destaca el Informe 2021 del Climate Change Performance Index (CCPI), no incluían condiciones asociadas a la reducción de emisiones, y en algunos incluso vinieron a
+suponer un rescate de industrias de altas emisiones y una relajación de las regulaciones 54. Por otra parte, el FMI alertó sobre el patrón identificado en crisis
+anteriores, en los que las dificultades financieras tuvieron como consecuencia
+una caída de la contribución de las empresas a la transición energética 55. Incluso en el caso de las compañías más comprometidas con los objetivos ESG, hay
+evidencia de que en las prioridades han variado hacia menos «E» y más «S» (en
+concreto, bienestar de los empleados), particularmente entre compañías americanas 56. Las emisiones de bonos ESG cayó por primera vez desde 2016, debido
+en parte a unas emisiones de bonos verdes menos dinámicas 57. El descenso de
+los precios del petróleo no fue una ayuda, en un contexto en el que las emisiones cayeron drástica pero temporalmente, suscitando en algunos medios cierta
+sensación de complacencia, que ya hemos visto totalmente injustificada, pues
+el CO2 acumulado en partes por millón no ha dejado de aumentar. Y para empeorar las cosas, fuimos plenamente conscientes del vacío en el liderazgo y la
+coordinación internacionales en la respuesta a la crisis.
+Pese a estos indicios preocupantes, con el transcurso de los meses se
+han ido acumulando datos y argumentos que respaldan el optimismo sobre un
+salto adelante en la acción contra el cambio climático. La pandemia parece haber puesto el foco de todos los agentes en la oportunidad de utilizar la recuperación como una palanca para evitar una segunda crisis de sostenibilidad en el
+siglo xxi. Esta nueva sensibilidad se aprecia bien en encuestas como las de Pew
+Research Center, en las que los ciudadanos ponen a ambas emergencias en pie
+de igualdad 58. Las personas han mostrado una enorme capacidad para adaptar
+sus hábitos —teletrabajo, utilización de canales digitales para el comercio y
+otras necesidades de la vida diaria, menos uso del transporte en las actividades
+de ocio, etcétera— en formas menos dañinas para el medio ambiente, y muchas
+
+54
+CCPI (2021), Climate Change Performance Index 2012: results (https://ccpi.org/download/
+the-climate-change-performance-index-2021/).
+55
+Fondo Monetario Internacional (2020), «Firm’s environmental performance and the Covid-19
+crisis», Global Financial Stability Report, octubre, pp. 87-96 (https://www.imf.org/en/Publications/GFSR/Issues/2020/10/13/global-financial-stability-report-october-2020).
+56
+Flow Deutsche Bank (2020), «How ESG grew up through the pandemic» (https://cib.db.com/
+insights-and-initiatives/flow/macro-and-markets/how-esg-grew-up-through-the-pandemic.htm)
+57
+MSCI (2020), «2021 ESG trends to watch» (https://www.msci.com/documents/10199/a7a02609aeef-a6a3-1968-4000f1c8d559).
+58
+Pew Research Center (2020), op. cit.
+
+197
+
+
+
+de ellas planean mantenerlos en el futuro 59. Asimismo, ha aumentado la demanda de cooperación internacional —algo que la CoP de Glasgow de noviembre
+de 2021 deberá confirmar— y ha disminuido la oposición a las tareas de coordinación y prevención por parte de los gobiernos. Las compañías están reforzando sus estándares de sostenibilidad, de grado o forzadas por las crecientes
+demandas de información por parte de inversores, clientes y gobiernos. Muchas
+de estas empresas están revisando a fondo sus cadenas de aprovisionamiento
+para minimizar el riesgo de disrupción, y esto se plasma en menores costes de
+transporte. Los bajos tipos de interés facilitan las inversiones sostenibles de gobiernos y empresas, y los precios de mercado comienzan a castigar los riesgos
+climáticos y a premiar las inversiones sostenibles. La apreciación por la ciencia
+y sus recomendaciones ha crecido, particularmente con la aceleración del despliegue de tratamientos y la puesta a punto de vacunas efectivas. Los gobiernos
+de la mayoría de los países han mostrado una gran capacidad de movilizar inmensas sumas de fondos, y han diseñado planes de recuperación con ingredientes verdes variados: incentivos a la movilidad verde, eficiencia energética
+en edificios o tecnologías de bajas emisiones, revisión de los subsidios y la fiscalidad de los combustibles fósiles, entre otros 60.
+Pero estos cambios de hábitos, actitudes y procesos por si solos no
+bastan. Que el logro del objetivo de emisiones netas cero en 2050 deje de ser
+una quimera es una tarea hercúlea, que necesita descansar sobre cinco pilares
+para: 1) una coordinación internacional genuina y efectiva; 2) unos programas
+de inversión verde, apoyados en subsidios y regulaciones en el para el sector
+privado, dirigidos a las energías renovables, infraestructuras de transporte, eficiencia energética en edificios y desarrollo tecnológico, en particular para la
+captura y el almacenamiento de CO2; 3) unos precios del CO2 que aumenten
+progresiva y significativamente, hasta doblarse en la próxima década y como
+mínimo triplicarse en 2050 61, mediante combinaciones de derechos de emisión,
+impuestos y reducción de subsidios; 4) unos programas de compensación a los
+hogares y trabajadores más vulnerables; y 5) una condiciones financieras favorables y, sobre todo, efectivamente sostenibles. A este último asunto dedicaré lo
+que resta de exposición.
+
+59
+D. Chinn y otros (2020), «Navigating the post-Covid-19 era: A strategic framework for European
+recovery», McKinsey, junio (https://www.mckinsey.com/industries/public-and-social-sector/our-insights/navigating-the-post-covid-19-era-a-strategic-framework-for-european-recovery)
+60
+CCPI (2021), op. cit.
+61
+Fondo Monetario Internacional (2020), «Mitigating climate change. Growth and distribution-friendly strategies», World Economic Outlook, octubre, pp. 85-113 (https://www.imf.org/en/Publications/
+WEO/Issues/2020/09/30/world-economic-outlook-october-2020#Chapter%203).
+
+198
+
+
+
+4. FINANZAS SOSTENIBLES (I): LOS RETOS Y LOS RIESGOS
+DEL CAMBIO CLIMÁTICO
+En sus orígenes modernos, la economía fue considerada dentro de las
+ciencias morales, de lo que da testimonio la denominación de esta Real Academia. Pero en tiempos recientes, sobre todo a partir de la gran crisis financiera
+de la década pasada, el término «finanzas éticas» ha devenido en un oxímoron
+para muchos. Sin entrar en la discusión de los motivos, la idea de hacer del financiero un negocio sostenible, más allá de la simple rentabilidad económica,
+es más reciente. Mientras la mayoría del sector dedicaba una parte relativamente modesta de sus recursos a la llamada «responsabilidad social corporativa»,
+pocas entidades entendían su actividad como un negocio responsable en su
+integridad, en su relación con los clientes, los proveedores, las autoridades, los
+accionistas, la sociedad y el medioambiente.
+Desde comienzos de siglo, coincidiendo con la firma del Global Compact de las Naciones Unidas, se ha ido produciendo un realineamiento de las
+expectativas acerca del papel de las empresas en la sociedad, movimiento al que
+los sectores bancario, asegurador y de inversión no han sido ajenos, pues se
+cuentan entre los firmantes del pacto desde 2000. Con posterioridad, la iniciativa financiera de Naciones Unidas, UNEP FI, una veintena de bancos, aseguradoras y fondos de pensiones globales publicaron en 2011 una declaración de
+compromiso con los objetivos de desarrollo sostenible. Previamente Naciones
+Unidas había lanzado en 2006 sus Principles for Responsible Investment (PRI),
+que comprometen a sus firmantes a incorporar y promover los criterios ESG en
+sus decisiones de inversión, así como a obligaciones de rendición de cuentas.
+Pero no fue hasta 2015 cuando se eliminó uno de los principales obstáculos, o
+excusas, a la adopción generalizada de objetivos de sostenibilidad, con la publicación del informe sobre «Responsabilidad fiduciaria en el siglo xxi», respaldado por el UN Global Compact, la red Principles for Responsible Investment y
+UNEP FI 62. Concluía este informe: «Abstenerse de considerar todos los determinantes de valor a largo plazo, incluidos los temas ESG, es un fracaso del deber
+fiduciario». Las reservas de consultores, abogados y responsables de control
+quedaban barridas de un plumazo. A partir de entonces, la lista de bancos firmantes de los compromisos de alineamiento de los Principles for Responsible
+Banking de UNEP FI 63 ha superado los 200, que representan activos de unos 53
+billones de dólares, el 40 por 100 de la banca global, y el número de gestores
+de activos firmantes de los Principles for Responsible Investment ya rebasa los
+2700, con activos bajo gestión de 103 billones de dólares.
+
+62
+PRI (2015), Fiduciary duty in the 21st century (cofirmado por UNEP FI y UN Global Compact)
+(https://www.unpri.org/download?ac=1378).
+63
+Principles for Responsible Banking website: https://www.unepfi.org/banking/bankingprinciples/.
+
+199
+
+
+
+Para alinear todas estas iniciativas, así como para facilitar que el mercado determine precios y asigne capital de acuerdo con el riesgo climático, y
+evitar la «fanfarria verde» también conocida como greenwashing, son necesarias
+dos cosas al menos. Primera, una taxonomía de actividades más o menos conectadas con metas ambientales. Y segunda, transparencia de las métricas y
+objetivos de las compañías en este ámbito. Para gestionar hay que medir y hacerlo bien. Todos los esfuerzos para mejorar la medición de exposiciones y la
+transparencia tienen pleno sentido en el marco de la redefinición del propósito
+de las entidades financieras, que debería liberarlas de la obsesión por los resultados de corto plazo 64.
+En el frente de la taxonomía, no existe hoy un estándar globalmente
+aceptado, pero la convergencia de diferentes taxonomías está avanzando deprisa después de que la Unión Europea, líder global en acción y finanzas climáticas, haya aprobado en junio de 2020 su clasificación homogénea y comparable
+de los riesgos y actividades desde el punto de vista climático 65. Y en cuanto a
+la transparencia o disclosure, el Financial Stability Board creó en 2015 un grupo
+de trabajo permanente, presidido por Michael Bloomberg, la Task Force on
+Climate-Related Financial Disclosures (TCFD). Su mandato era desarrollar estándares consistentes y voluntarios para la publicación de riesgos vinculados al
+clima para ser usados por compañías, bancos e inversores al ofrecer información a los accionistas y otros grupos de interés. Actualmente, casi 1500 compañías han firmado este compromiso, la mitad de las cuales son instituciones financieras, un 60 por 100 de las de relevancia 66. El carácter planetario del cambio
+climático y la importancia de los negocios globales de las grandes compañías
+llamadas a involucrarse en su mitigación harían deseable un pronto compromiso del G20, las instituciones contables mundiales y la red de bancos centrales,
+a fin de acelerar la convergencia de las taxonomías y los estándares de publicación de información 67.
+En el sector financiero, intensamente regulado tradicionalmente, la posición de los reguladores y supervisores en una cierta materia, sean la transformación digital o la sostenibilidad, es siempre esencial. Y no es injusto afirmar
+que en este terreno han sido morosos. El discurso mencionado de Mark Carney,
+64
+R. Henderson (2020), op. cit. Es interesante en este terreno las iniciativas de la Harvard Business School sobre la elaboración de «Impact-weighted accounts» (https://www.hbs.edu/impact-weighted-accounts/Pages/default.aspx), así como la consulta pública de la fundación IFRS sobre el desarrollo de
+estándares globales de sostenibilidad para completar el reporte financiero (https://www.ifrs.org/news-andevents/2020/09/ifrs-foundation-trustees-consult-on-global-approach-to-sustainability-reporting/).
+65
+EU Commission (2020), «EU taxonomy for sustainable activities», (https://ec.europa.eu/info/
+business-economy-euro/banking-and-finance/sustainable-finance/eu-taxonomy-sustainable-activities_en).
+66
+Ernst & Young, UNEP FI e Institute of International Finance (2020): TCFD Report Playbook (https://www.iif.com/Portals/0/Files/content/Regulatory/09_28_2020_tcfd_playbook.pdf).
+67
+A. Portilla, S. Gibbs y K. Rismanchi (2020), «Sustainable finance policy & regulation: The case for
+greater international alignment», marzo (https://www.iif.com/Publications/ID/3782/Sustainable-Finance-Policy-Regulation-The-Case-for-Greater-International-Alignment).
+
+200
+
+
+
+hoy representante especial del Secretario General de las Naciones Unidas para
+la Acción Climática y las Finanzas, marca un antes y un después en la actitud
+de las autoridades financieras, víctimas de la «tragedia del horizonte» que él
+mismo señalase. Conscientes de la necesidad de contribuir, dentro de su mandato, a metas climáticas, en 2017 se crea la Red de Bancos Centrales y Supervisores para Reverdecer el Sistema Financiero (NGFS). Esta coalición tiene dos
+objetivos principales: contribuir al desarrollo de un marco analítico para la
+gestión de los riesgos del cambio climático y del medioambiente; y, contribuir
+a la transición hacia una economía sostenible según los objetivos del Acuerdo
+de París. Está compuesta por 183 miembros y 13 observadores. Entre los primeros, cabe destacar al Banco Central Europeo, a la Autoridad Bancaria Europea,
+al Banco de España, y, desde diciembre de 2020, la Reserva Federal de los EE.
+UU. De los segundos, hay que mencionar al Banco Internacional de Pagos y al
+Banco Mundial 68.
+La reticencia de los bancos centrales a liderar la sostenibilidad en el
+ámbito financiero se debe a varias razones. Por una parte, el liderazgo en la
+política contra el cambio climático —precio del carbón, inversiones verdes, etcétera— corresponde a los gobiernos. Por otra, la relación de los eventos climáticos con su mandato de estabilidad de precios es compleja y poco predecible 69.
+Al mismo tiempo, sin embargo, se han ido persuadiendo de que tienen la capacidad de contribuir a las políticas del gobierno, tanto acompañando y promoviendo sus iniciativas contra el cambio climático, como introduciendo la sostenibilidad en la gestión de sus operaciones. Así, recientemente el BCE ha
+revelado que está incorporando criterios de responsabilidad ambiental en su
+cartera de fondos propios 70, y Christine Lagarde ha anunciado que desde enero
+2021 el BCE abandonará su tradicional posición de neutralidad frente al mercado para modular sus compras de bonos y su política de colateral considerando
+indicadores de sostenibilidad 71.
+A mayor abundamiento, desde hace años los bancos centrales tienen
+una responsabilidad relevante en el mantenimiento y la promoción de la estabilidad financiera, y muchos de ellos son también autoridades prudenciales. Sus
+mandatos incluyen la vigilancia y la mitigación de riesgos macro y microprudenciales. Y en este ámbito, su responsabilidad es inexcusable. El discurso de
+Carney de 2015 ofrecía una clasificación de riesgos climáticos de relevancia fiNGFS website: https://www.ngfs.net/en/about-us/governance/origin-and-purpose.
+P. Bolton y otros (2020), The Green Swan: Central banking and financial stability in the age of
+climate change, Bank for International Settlements-Banque de France, enero, p. 49 (https://www.bis.org/
+publ/othp31.pdf).
+70
+I. Schnabel (2020), «When markets fail – the need for collective action in tackling climate change» (speech) (https://www.ecb.europa.eu/press/key/date/2020/html/ecb.sp200928_1~268b0b672f.en.html).
+71
+C. Lagarde (2021), «Climate change and central banking», 25 de enero (https://www.ecb.europa.
+eu/press/key/date/2021/html/ecb.sp210125~f87e826ca5.en.html).
+68
+69
+
+201
+
+
+
+nanciera que, a grandes rasgos, ha sido adoptada por las autoridades supervisoras 72.
+Los riesgos asociados al cambio climático con potencial de causar costes económicos y pérdidas financieras se clasifican en dos grandes categorías:
+los riesgos físicos, que surgen a consecuencia de eventos climáticos y geológicos y de cambios en el equilibrio de los ecosistemas, y los riesgos de transición,
+que son aquellos vinculados con la transición a una economía baja en carbono.
+Los riesgos físicos pueden ser de tipo gradual (así, la subida del nivel del mar
+o la desertificación) o manifestarse de forma abrupta (como tormentas o sequías), y en cualquier caso conllevan un daño físico a los activos de las empresas, disrupciones en la cadena de suministro o aumento de los gastos necesarios para afrontarlos. Los impactos físicos no son solo riesgos para el futuro,
+sino que su mera expectativa ya afecta a la economía y al sistema financiero.
+Sirva como ejemplo de riesgo físico el caso de la compañía PG&E, principal
+proveedor eléctrico del estado de California, considerado por muchos como el
+primer caso de quiebra directamente originada por los efectos del cambio climático. Tras los devastadores fuegos que asolaron California en otoño de 2018,
+la eléctrica tuvo que declararse oficialmente en bancarrota, como consecuencia
+de los terribles daños sufridos en su infraestructura y a obligaciones millonarias
+por el papel desempeñado por su sistema eléctrico como causante de los incendios. Según el consenso general, las condiciones de sequía y calor extremos
+fueron determinantes en el origen, la expansión y gravedad de los fuegos. Otra
+ilustración la ofrecen las pérdidas de la industria aseguradora mundial, que en
+2020 ha afrontado el quinto peor año en los últimos cincuenta a causa de las
+catástrofes naturales —esencialmente tormentas, huracanes, tornados e incendios). Los 82 mil millones de pérdidas aseguradas representan solo el 40 por
+100 de los casi 210 mil millones de pérdidas totales estimadas a nivel global 73.
+En los años venideros es muy probable que estos riesgos físicos traigan consigo
+eventos perturbadores de segunda ronda, como migraciones masivas, inestabilidad política y conflictos, todo lo cual se añadiría de a los costes del cambio
+climático.
+¿Cómo se transmiten estos riesgos a la economía y a la estabilidad financiera? Como hemos visto, una parte importante de las pérdidas causadas
+por eventos climáticos está asegurada. Su impacto afecta a las compañías de
+seguros directamente, a través de indemnizaciones más altas, y a sus clientes
+indirectamente, a través de primas más elevadas. Si las pérdidas no están aseguradas, la carga recae sobre los hogares, las empresas y, en última instancia,
+sobre los presupuestos de los gobiernos. Una reducción en la capacidad de
+P. Bolton y otros (2020), The Green Swan, o.cit, pp. 17-46.
+Swiss Re Institute (2021), «Record hurricane season and major wildfires – The natural disaster
+figures for 2020» (https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2021/2020-natural-disasters-balance.html#1105489295).
+72
+73
+
+202
+
+
+
+pago de la deuda de los prestatarios o una caída en el valor de las garantías
+pueden aumentar los riesgos crediticios para los bancos, los fondos de inversión y otros prestamistas. Y todo ello se reflejaría en los mercados financieros,
+afectando a los inversores y a los propietarios de los activos, y con ello a la
+economía en su conjunto, pues quedaría dañada la capacidad de financiación
+cuando resulta más necesaria.
+Respecto de los riesgos de transición, estos se asocian a los efectos
+inciertos de una descarbonización rápida, incluyendo los cambios en las políticas medioambientales, los impactos reputacionales, las innovaciones tecnológicas y los cambios en las preferencias de los mercados y en las normas sociales.
+Estas políticas podrían afectar severamente a las empresas, bien porque impacten a sus ventas y sus costes operativos o de inversión, o bien porque afecten
+al valor de los activos en los que han invertido. Los riesgos de transición son
+particularmente importantes para las empresas cuyas actividades conllevan un
+gran uso de recursos y altas emisiones de GEI en sus cadenas de valor. Particularmente serio es el problema de los activos bloqueados o varados, es decir,
+aquellos a los que una transición rápida dejaría sin valor. De acuerdo con estimaciones solventes, el objetivo de limitar el aumento de temperaturas a 1,5 °C
+exige dejar de extraer el 84 por 100 de las reservas conocidas de petróleo,
+carbón y gas, lo que supone una pérdida de valor de casi 900 mil millones de
+dólares a las 13 mayores compañías petroleras del mundo, lo que representa
+casi un 40 de su valor actual 74. Teniendo en cuenta la situación de emergencia
+climática, que viene a acelerar los cambios regulatorios, tecnológicos y de actitudes respecto de los GEI, estos costes afectarán a todos los sectores —en especial, a los consumidores más intensos de combustibles fósiles, como la aviación y la producción de cemento o acero—, con pérdidas estimadas que podrían
+alcanzar los 18 billones de dólares 75.
+A fin de evitar que estos riesgos puedan afectar seriamente a la viabilidad de las entidades financieras y a la estabilidad del sistema en su conjunto,
+las obligaciones de transparencia en las exposiciones y la aplicación de una
+buena taxonomía de actividades según su impacto o su riesgo climático son
+imprescindibles, pero insuficientes. A los bancos centrales y los supervisores se
+les plantean dos tareas, que habrán de acometer con cierta urgencia. La primera es desarrollar nuevas herramientas analíticas para integrar escenarios climáticos alternativos en las pruebas de estrés a las que las entidades se deben someter. Se trata, nada menos, que de incorporar a la complejidad de las pruebas
+de resistencia tradicionales dos elementos de incertidumbre: los eventos climá-
+
+74
+Lex in Depth (2020), «The 900 billion cost of ‘stranded energy assets’», Financial Times, 4 de
+febrero (https://www.ft.com/content/95efca74-4299-11ea-a43a-c4b328d9061c).
+75
+IRENA (2017), «Stranded assets and renewables: how the energy transition affects the value of
+energy reserves, buildings and capital stock», International Renewable Energy Agency (IRENA), Abu Dhabi
+(www.irena.org/remap).
+
+203
+
+
+
+ticos y su impacto en los balances y el negocio, y el ritmo de respuesta —rápida, lenta o ausente— de las autoridades al cambio climático 76. Y la segunda
+tarea, estrechamente relacionada con la anterior, es asegurar que las entidades
+entienden los riesgos climáticos y los integran adecuadamente en la estrategia,
+los objetivos, los marcos de gestión del riesgo, la actividad crediticia y la continuidad de negocio. Asimismo, los supervisores deben vigilar que los riesgos se
+reporten internamente de manera que puedan ser gestionados, especialmente
+de cara a las pruebas de resistencia y la gestión de la liquidez, y posteriormente las exposiciones puedan ser publicadas bajo el Pilar 3 de la supervisión. Estas
+expectativas de las autoridades, que el BCE ha publicado en detalle en noviembre de 2020 77, condicionarán el diálogo supervisor bajo el Pilar 2. Respecto de
+los requerimientos de capital bajo el Pilar 1, hay una discusión sobre si debieran
+de introducirse cargas de capital adicionales por las «exposiciones marrones» o
+rebajas de capital por las verdes. Los supervisores tienen natural tendencia a
+penalizar lo «marrón», pero dudas sobre la virtualidad de incentivar lo verde.
+Dado que rebajar el capital exigido merma la capacidad de resistencia de una
+entidad, debe contarse con evidencia sólida de que las inversiones verdes reducen significativamente la probabilidad de impago. Aunque esta evidencia se
+está empezando a acumular, por ejemplo, en el caso de las hipotecas verdes 78,
+es necesario contrastarla. La Comisión Europea, ligeramente favorable a la incentivación verde, ha solicitado de la Autoridad Bancaria Europea que informe
+al respecto. Los nuevos elementos del marco regulatorio están en plena discusión mientras pronuncio estas palabras.
+
+5. FINANZAS SOSTENIBLES (II): LAS OPORTUNIDADES,
+CON ESPECIAL REFERENCIA A EUROPA
+Afrontar con éxito la emergencia climática —ya se indicaba antes— requiere del alineamiento de muchos factores. El primero, un cambio radical de
+actitudes y hábitos respecto del clima, sin el cual la batalla está perdida. Segun-
+
+76
+Véase, por ejemplo, A. Enría (2020), «ECB Banking Supervision’s approach to climate risks»,
+junio (https://www.bankingsupervision.europa.eu/press/speeches/date/2020/html/ssm.sp200617~74d8539eda.en.html) y Bank of England (2019), «The 2021 biennial exploratory scenario on the financial risks from
+climate change», Discussion Paper, diciembre (https://www.bankofengland.co.uk/-/media/boe/files/paper/2019/the-2021-biennial-exploratory-scenario-on-the-financial-risks-from-climate-change.pdf?la=en&hash=73D06B913C73472D0DF21F18DB71C2F454148C80).
+77
+European Central Bank-Banking Supervision (2020), Guide on climate-related and environmental risks. Supervisory expectations related to risk management and disclosure (https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.202011finalguideonclimate-relatedandenvironmentalrisks~58213f6564.
+en.pdf).
+78
+M. Billio, M. Costola, S. Fumarola, I. Hristova, L. Pelizzon, F. Portioli, M. Riedel, D. Vergari (2020),
+«Final report on correlation analysis between energy efficiency and risk (D5.7)», Energy Efficiency Data Protocol and Portal, agosto (https://eedapp.energyefficientmortgages.eu/wp-content/uploads/2020/08/EeDaPP_
+D57_27Aug20-1.pdf).
+
+204
+
+
+
+do, el protagonismo de las autoridades, que deben gestionar significativos aumentos de los precios del CO2 —hay que recordar aquí a los «chalecos amarillos» y otros movimientos de protesta similares— y medidas de transición, así
+como regulaciones de todo tipo y programas de inversión pública verde. En
+tercer lugar, tenemos el mundo empresarial, especialmente en los sectores que
+más generan o consumen GEI: sin un cambio de valores, actitudes y procesos,
+así como cuantiosas inversiones en activos y tecnologías sostenibles, la superación de la emergencia es imposible. Y, por último, es imprescindible que el
+mundo de las finanzas esté a la altura del reto de la sostenibilidad. Con unos
+activos totales que multiplican por cuatro los 15 billones que ha alcanzado el
+PIB de la Unión Europea —30 billones la banca, 18 los fondos de inversión, 9
+el sector de seguros y 3 los fondos de pensiones—, cabe exigir una respuesta
+diligente de las instituciones financieras al servicio de la sostenibilidad.
+Es difícil de exagerar lo que el sector financiero puede hacer para catalizar el cambio. Primero, en su función principal como financiador de la economía, tiene la oportunidad de orientar los flujos financieros conforme a criterios de responsabilidad y sostenibilidad, teniendo en cuenta en su gestión
+integral los riesgos climáticos. Segundo, como sector profundamente imbricado
+en el tejido económico, tiene la posibilidad de promover con los grupos de
+interés con los que se relaciona —clientes, proveedores, competidores, empleados, etcétera— los objetivos de la lucha contra el cambio climático, e incluso
+ofrecerles orientación acerca de cómo contribuir a los mismos. Y, por último,
+puede gestionar su propia huella medioambiental, mucho menor que la de
+otros sectores industriales y de servicios, pero que en todo caso requiere ejemplaridad y vigilancia.
+Para calibrar el orden de magnitud de la necesidad de inversión y financiación privadas en Europa, veamos algunas cifras. De acuerdo con las estimaciones de la Comisión en el documento del Pacto Verde 79, la necesidad de
+inversión adicional en la década 2021-2030 asciende a 260 miles de millones de
+euros, cifra que Bruegel eleva a 300 miles de millones para tener en cuenta la
+mayor ambición de los objetivos de reducción de las emisiones en un 55 por
+100, esto es, un total de 3 billones en la próxima década 80. El Plan de Inversiones del Pacto Verde 81 prevé la movilización de fondos de algo más de 1 billón 82
+de euros hasta 2030, a los que habría que sumar el 30 por 100 de los 750 mil
+millones del paquete Next Generation EU, dedicados a metas climáticas. En
+Comisión Europea (2019), op. cit., p. 18.
+G. Claeys, S. Tagliapetra y Bruegel (2020), «A trillion reasons to scrutinize the Green Deal Investment Plan», Blog Post, 15 de diciembre
+(https://www.bruegel.org/2020/01/a-trillion-reasons-to-scrutinise-the-green-deal-investment-plan/).
+81
+Comisión Europea (2020), «European Green Deal Investment Plan», 14 de enero (https://eurlex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020DC0021&from=EN).
+82
+Se utiliza la unidad de medida del billón español (con doce ceros), equivalente al trillón
+anglosajón.
+79
+
+80
+
+205
+
+
+
+total, cerca de 1,4 billones. De estos, sin embargo, solo aproximadamente la
+mitad son fondos presupuestarios de la UE; el resto proviene de cofinanciaciones aportadas por los países, del Banco Europeo de Inversiones y de fondos
+privados canalizados tanto por el BEI como a través de los mecanismos de
+apalancamiento del programa InvestEU. En suma, más del 75 por 100 de las
+necesidades de inversión adicional hasta 2030 deberá tener origen en financiación privada.
+A mayor abundamiento, la inversión adicional es solo una pequeña
+parte de las inversiones totales que se habrán de producir. De acuerdo con
+estimaciones de McKinsey 83, en las tres décadas que van hasta 2050 Europa,
+además de las inversiones adicionales, que la consultora estima en unos 5 billones- habrá de reorientar 23 billones de euros de inversión a proyectos limpios
+que de otra forma se materializarían en tecnologías intensivas en carbón, esto
+es, unos 800 miles de millones de euros anuales, que en un 80 por 100 corresponderán a inversión privada. Entre la inversión así redirigida y la adicional, la
+medida de la oportunidad para las finanzas sostenibles son los más de 20 billones que habrá que dedicar a financiar inversiones en renovación del transporte
+(más de un 40 por 100 del total), de los edificios (30 por 100), las infraestructuras (15 por 100), la generación de energía (10 por 100), la agricultura y la industria. Unas inversiones que —se estima— eliminarán 6 millones de empleos,
+pero crearán 11 millones, con el apoyo de los fondos del Mecanismo de Transición Justa.
+Bien por genuina convicción, o bien haciendo de la necesidad virtud,
+las finanzas tienen ante sí la oportunidad de ponerse al servicio de la sostenibilidad. Más allá de los compromisos asociados a la firma de los Principios de
+Inversión Responsable, así como los correspondientes a cada sector de la industria financiera —en particular, los que atañen a la banca responsable, los seguros y los fondos de pensiones sostenibles—, en Europa tenemos los mandatos y
+acciones del Action Plan on Sustainable Finance de la Comisión 84 (taxonomía,
+estándares para bonos y otra financiación verde, obligaciones de transparencia,
+etcétera) y unos criterios de supervisión de las entidades financieras y de los
+mercados cada vez más exigentes e intrusivos. A todo ello se añade una demanda creciente por parte de gestoras de patrimonios y de los principales fondos
+de inversión del mundo.
+
+83
+P. D’Aprile y otros (2020), Net-Zero Europe. Decarbonization pathways and socioeconomic implications, McKinsey, noviembre (https://www.mckinsey.com/business-functions/sustainability/our-insights/
+how-the-european-union-could-achieve-net-zero-emissions-at-net-zero-cost).
+84
+Comisión UE (2018), «Action plan: Financing sustainable growth», marzo (https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0097&from=EN); y Comisión UE (2020), «Renewed
+sustainable finance strategy and implementation of the action plan on financing sustainable growth», Agosto
+(https://ec.europa.eu/info/publications/sustainable-finance-renewed-strategy_en).
+
+206
+
+
+
+El papel de estos fondos en la aceleración de la convergencia hacia
+unas finanzas sostenibles es de especial relevancia. El ejemplo más notorio de
+esta realidad lo ofrece Larry Fink, fundador y consejero delegado de BlackRock,
+la mayor gestora de fondos a nivel mundial, con 8,7 billones de dólares en activos bajo gestión, y principal accionista de la banca española (5,9 por 100 de
+BBVA, 5,4 por 100 de Santander, 4,2 de Bankia, 3,7 por 100 de Bankinter, o por
+3,3 por 100 de Sabadell), y con participaciones por encima del 3 por 100 en la
+mayoría de las compañías del Ibex. Fink ha señalado al cambio climático como
+eje central de la estrategia de inversión de la entidad, razón por la que ha anunciado que dejará de invertir en proyectos o empresas que presenten bajos estándares de sostenibilidad. De la misma forma, se ha comprometido a votar en
+contra de las propuestas de los consejos de empresas que no avancen en la
+implementación de prácticas para luchar contra el cambio climático y en la divulgación de información sobre la sostenibilidad de su gobernanza y su gestión 85. En 2020 BlackRock se integró en la plataforma de fondos por la sostenibilidad Climate Action 100+ 86, una iniciativa de casi 550 inversores con 52
+billones de activos bajo gestión, lo que representa más del 60 por 100 del PIB
+mundial. Respaldada por el Enviado Especial para el Clima de Naciones Unidas,
+Mark Carney, esta plataforma elabora y publica 65 indicadores relativos a 160
+grandes compañías de sectores muy contaminantes, a fin de monitorizar el progreso o su ausencia, y condicionar así las recomendaciones de inversión y de
+voto en juntas de accionistas. Y en este mismo sentido, el número de fondos
+sostenibles aumenta anualmente a tasas de dos dígitos, los índices de sostenibilidad de las compañías 87 se han convertido en una guía para los inversores y
+los volúmenes gestionados no dejan de crecer, especialmente en Europa, con
+un aumento de más del 50 por 100 en las emisiones de bonos verdes entre 2018
+y 2020, hasta unos 120 miles de millones de euros 88.
+
+85
+En su carta anual a los clientes de 2021, Fink afirma: «We expect the issuers we invest in on our
+clients’ behalf to be adequately managing the global transition towards a net zero economy. While many
+companies are energetically preparing for this evolution, others that are not adequately prepared present a
+risk to our clients’ portfolios. As part of our heightened scrutiny framework for embedding sustainability risk
+into our active investment process, and using our full set of risk management tools, we will be establishing a
+«focus universe» of holdings that present a particularly significant climate-related risk, due to: high carbon
+intensity today; insufficient preparation for the net zero transition; ow reception to our investment stewardship engagement. Where we do not see progress in this area, and in particular where we see a lack of alignment combined with a lack of engagement, we will not only use our vote against management for our index
+portfolio-held shares, we will also flag these holdings for potential exit in our discretionary active portfolios
+because we believe they would present a risk to our clients’ returns. Conversely, we believe companies that
+distinguish themselves in terms of their emissions trajectory, transition preparedness and governance will
+often represent an opportunity for our clients. Ver L. Fink (2021); «Net zero: A fiduciary approach», 26 de
+enero (https://www.blackrock.com/corporate/investor-relations/blackrock-client-letter).
+86
+Climate Action 100+ (2021), 2020 Progress report, enero (https://www.climateaction100.org/
+wp-content/uploads/2020/12/CA100-Progress-Report.pdf).
+87
+BBVA (2019), «Para qué sirve un índice de sostenibilidad», noviembre (https://www.bbva.com/
+es/para-que-sirve-un-indice-de-sostenibilidad/).
+88
+M. Belloni, M. Giuzio, S. Kördel, P. Radulova, D. Salakhova y F. Wi (2020), «The performance and
+resilience of green finance instruments: ESG funds and green bonds», ECB, Financial Stability Review, noviembre (https://www.ecb.europa.eu/pub/pdf/fsr/ecb.fsr202011~b7be9ae1f1.en.pdf).
+
+207
+
+
+
+Tras algunos años de publicidad casi libre de actividades o productos
+supuestamente verdes, se ha ido conformando entre algunos observadores una
+cierta actitud de escepticismo, que hay que celebrar, pues fuerza a la transparencia y la verificación —hoy disciplinados por las taxonomías de actividades—, además de demandar evidencias de impacto y promover la innovación.
+Es cierto que la publicidad verde sin fundamento se está haciendo cada vez más
+costosa. No solo son las taxonomías, las obligaciones de transparencia, el escrutinio de los supervisores, o la reputación que puede perderse ante la clientela
+o las asociaciones de la industria comprometidas con la sostenibilidad. Son los
+ingentes volúmenes de fondos, que crecen cada año, y que buscan proporcionar a los inversores, pequeños y grandes, seguridad sobre el destino verde de
+su inversión. La emergencia climática no es solo origen de riesgos y demandas
+de responsabilidad social. Es también fuente de oportunidades.
+Estas son las buenas noticias. Pero hay tres observaciones relevantes
+que dibujan un panorama menos optimista. La primera tiene que ver con el
+ritmo. Si empezamos tarde, hemos de avanzar más deprisa. El progreso es apreciable, pero no lo suficientemente rápido. Por una parte, la sensibilización de
+las empresas europeas todavía no es suficiente: solo el 45 por 100 invierte en
+medidas relacionadas con el clima 89. Por otra, con todo su dinamismo, las emisiones de bonos verdes son todavía poco más del 4 por 100 del total. Representan apenas el 40 por 100 de la inversión verde adicional necesaria para cumplir
+con los objetivos en 2030, y una porción aún inferior si se tiene en cuenta la
+inversión total. En alguna medida esto se debe a que los mercados todavía no
+internalizan suficientemente las externalidades negativas de las energías sucias.
+Así, aunque ciertos índices de bolsa que reflejan carteras verdes se han comportado mejor que el promedio durante la pandemia 90, este no es todavía el caso
+de los bonos verdes, que todavía presentan frecuentemente diferenciales positivos frente a bonos convencionales, en vez de negativos, en parte debido a una
+menor liquidez, así como a la pobreza de los ratings medioambientales, que se
+basan aún en datos poco granulares y estandarizados 91. Avanzar demasiado
+despacio aumenta los riesgos de transición, pues en algún momento estos forzarían a las autoridades a aumentar de forma súbita los precios del carbón, con
+efectos muy severos sobre el crédito, la solvencia y el PIB que el BCE ha estudiado con detalle 92.
+
+89
+European Investment Bank (2021), «Building a smart and green Europe in the Covid-19 era»,
+European Investment Bank Investment Report, 2020/2021, p. 176 (https://www.eib.org/attachments/efs/economic_investment_report_2020_2021_en.pdf).
+90
+Fondo Monetario Internacional (2020), «Firm’s…», op. cit. Véase, asimismo, P. Bolton y M. Kacperczyk (2020), «Do Investors Care about Carbon Risk?», National Bureau of Economic Research, NBER,
+Working Paper 26968 (http://www.nber.org/papers/w26968).
+91
+I. Schnabel (2020), op. cit.
+92
+ESRB (2020), «Positively green: Measuring climate change risks to financial stability», ECB, junio
+(https://www.esrb.europa.eu/pub/pdf/reports/esrb.report200608_on_Positively_green_Measuring_climate_
+change_risks_to_financial_stability~d903a83690.en.pdf?c5d033aa3c648ca0623f5a2306931e26).
+
+208
+
+
+
+La segunda observación se relaciona con la fungibilidad y otras posibles debilidades de la financiación verde 93. Todavía no hay evidencia consistente de que los bonos verdes se hayan traducido en emisiones significativamente
+menores a nivel de compañía, y en los casos de las empresas productoras y
+distribuidoras de energía las mayores emisoras se comportan peor que las que
+no usan bonos verdes, según estudios del BIS para una muestra de más de 5000
+empresas de 42 países 94. Una posible causa es que la financiación es fungible:
+un bono verde puede estar financiando un proyecto que se hubiera realizado
+de todas formas, e incluso cabe que no se vea acompañado de mejoras ambientales si la compañía acomete simultáneamente otras inversiones marrones 95. En
+la actualidad en Europa está en fase avanzada la discusión sobre los requisitos
+para etiquetar como verdes —el llamado «ecolabel»— a depósitos a plazo y de
+ahorro, así como fondos y derivados, y también establecer principios de bonos
+y préstamos verdes basados en la taxonomía, el uso de los fondos y el escrutinio por terceros independientes 96. Una crítica común al diseño de estos productos es que, aparte de no condicionarse claramente a planes de eliminación de
+actividades marrones, no queda asegurado que las compañías beneficiarias
+contribuyan a la reducción de emisiones 97. Así, mientras rigen los Green Bond
+Standards de la asociación ICMA para bonos y los Green Loan Principles de
+LMA 98, la información que proporcionan el marchamo verde de los productos
+financieros y los correspondientes ratings no ofrecen al inversor garantía de
+compromiso con el objetivo de reducción de emisiones. Sólo un marco general
+de alineamiento con este objetivo, transparente y auditado, y un rating a nivel
+de compañía 99, y no solo de productos o proyectos singulares, ofrecerían la
+información complementaria necesaria.
+La tercera observación subraya la insoslayable necesidad de intervención pública, pues sin ella el mejor escenario de las finanzas sostenibles sería
+93
+Sobre la fungibilidad y otras debilidades actuales de la financiación verde, véase: J. Terceiro
+(2019), «Transición energética y sistema financiero», Banco de España, Revista de Estabilidad Financiera,
+núm. 37, septiembre, pp. 72-75.
+94
+T. Ehlers, B. Mojon y F. Packer (2020), «Green bonds and carbon emissions: Exploring the case
+for a rating system at the firm level», BIS Quarterly Review, pp. 31-47 (https://www.bis.org/publ/qtrpdf/r_
+qt2009c.pdf).
+95
+Loomis & Sayles (2020), «Beyond the label: An assessment of the Green Bond Label», Research &
+Perspectives, marzo (https://www.im.natixis.com/en-hk/resources/beyond-the-label-an-assessment-of-thegreen-bond-market).
+96
+KPMG (2020), «Delivering sustainable finance», The New Reality Publication Series, septiembre
+(https://assets.kpmg/content/dam/kpmg/xx/pdf/2020/09/delivering-sustainable-finance.pdf).
+97
+Reclaim Finance (2020), «Ecolabel for financial products: Lower ambitions open the door to
+greenwashing», diciembre (https://reclaimfinance.org/site/en/2020/12/09/ecolabel-for-financial-products/).
+98
+P. Lee (2020), «Green bonds and green loans: Implementing EU green bond standard, green loan
+principles, and sustainability linked fund principles», Lexology, diciembre (https://www.philiplee.ie/greenbonds-and-green-loans-implementing-the-eu-green-bond-standard-green-loan-principles-and-sustainabilitylinked-loan-principles/).
+99
+Existe evidencia de que las mejoras en la transparencia según estándares TCFD repercuten
+positivamente en las valoraciones bursátiles de compañías industriales europeas. Vid. European Investment
+Bank (2021), op. cit., p. 218.
+
+209
+
+
+
+incapaz de financiar las inversiones necesarias para unas emisiones netas cero
+en 2050. La cuestión es simple: la mitad de los proyectos de inversión necesarios, de acuerdo con las estimaciones de McKinsey 100, carecen de viabilidad
+económico-financiera, es decir, no generan los retornos privados que compensen la inversión. Es el caso de la inmensa mayoría de inversiones en eficiencia
+energética de edificios, dos tercios de las inversiones en transporte y más de la
+mitad de las inversiones en generación y distribución de energía. El problema
+es más agudo en la década de 2020 a 2030, en la que los precios de las energías
+alternativas todavía no habrán descendido como probablemente lo hagan más
+adelante. Y esto apunta a una primera intervención: mientras los precios del
+carbón sean los actuales, en torno a 30 euros por tonelada de CO2 en el mercado, o 25 euros en los certificados de emisiones, no compensará hacer muchas
+inversiones en energías limpias. Se estima que con precios de 50 euros el 75 por
+100 de las inversiones sería viable, y con un precio de 100 euros lo sería el 85
+por 100. Pero los precios del carbón no resolverían todos los problemas, puesto que hay inversiones que carecen de una corriente de ingresos previsible, o
+que son demasiado inciertos para el desembolso inicial. Las inversiones en la
+red eléctrica o en sistemas de captura y almacenamiento de CO2 son dos ejemplos. En estos casos la inversión pública directa puede ser la solución. En otros,
+serán necesarios esquemas de participación público-privada, garantías de primeras pérdidas, préstamos concesionales o préstamos con garantías, o subsidios en algunos casos, como puede ser el de las hipotecas verdes. Por abundantes que sean los fondos privados disponibles para hacer frente a la emergencia
+climática, sin una combinación de medidas sobre precios del carbón, inversión
+pública verde e incentivos al sector privado, la pretensión de alcanzar los objetivos de la Agenda 2030 y Net-Zero EU en 2050 se antojan pura fantasía.
+
+A MODO DE CODA
+Abría mi intervención afirmando que el cambio climático es una amenaza existencial. Los hechos y la evidencia más recientes no hacen sino confirmarlo. Impedir que las temperaturas aumenten por encima de 1,5 °C requiere
+una reducción anual de emisiones de CO2 del 7,6 por 100 durante los próximos
+30 años, una cifra similar a la que hemos visto solamente durante la pandemia
+y en el último año de la Segunda Guerra Mundial. Según Naciones Unidas 101,
+de haberse empezado a hacerlo en 2010, las reducciones necesarias hubieran
+sido solo del 3,3 por 100. ¿Es posible afrontar el reto en el tiempo que nos queda? Según Pinker, podemos ser «(…) condicionalmente optimistas. Tenemos
+ciertas formas factibles de prevenir los daños y disponemos de los medios para
+
+100
+101
+
+210
+
+P. D’Aprile y otros (2020), op. cit., pp. 172-176.
+UNEP (2019), op. cit., p. XX.
+
+
+
+descubrir más. Los problemas son solubles, lo cual no significa que vayan a
+resolverse por sí solos, sino que podemos solucionarlos si mantenemos las
+fuerzas benevolentes de la modernidad que nos han permitido resolver problemas hasta ahora, entre las que se incluyen la prosperidad social, los mercados
+sabiamente regulados, la gobernanza internacional y las inversiones en ciencia
+y tecnología» 102.
+Que la afirmación de este eminente defensor de la Ilustración no se
+quede en una proclama panglossiana depende todavía de nosotros. De que
+decidamos colectivamente poner freno, en lugar de ser espectadores pasivos, a
+esta colisión a cámara lenta entre el hombre y la naturaleza. Es imprescindible
+actuar de forma inmediata como una emergencia exige. La pandemia ha demostrado nuestra enorme capacidad de adaptar hábitos y procesos, de movilizar enormes sumas de dinero y de acelerar la innovación ante una crisis de
+sostenibilidad. Y en nuestro caso, la acción frente a la emergencia climática
+demanda: una coordinación internacional decidida; unos agresivos programas
+de inversión verde, apoyados en subsidios y regulaciones para el sector privado, dirigidos a las energías renovables, infraestructuras de transporte, eficiencia
+energética en edificios y desarrollo tecnológico, en particular para la captura y
+el almacenamiento de CO2; unos precios del CO2 que aumenten progresiva y
+significativamente, hasta doblarse en la próxima década y como mínimo triplicarse en 2050, mediante combinaciones de derechos de emisión, impuestos y
+reducción de subsidios; unos programas de compensación a los hogares y trabajadores más vulnerables; y unas condiciones financieras favorables y, sobre
+todo, efectivamente sostenibles. Porque la naturaleza, ni negocia, ni espera.
+
+102
+
+S. Pinker (2018), En defensa de la Ilustración, Espasa Libros, Barcelona, cap. 10.
+
+211
+
+
+
+

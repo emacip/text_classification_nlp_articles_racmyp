@@ -1,0 +1,614 @@
+D E LA F U N C IÓ N D E L O S D E R E C H O S
+FUNDAM ENTALES
+Por el A cadém ico de Número
+Excm o. Sr. D. G regorio P eces-B arba Martínez*
+
+I.
+
+INTRODUCCIÓN
+
+Los análisis del Derecho en la cultura jurídica moderna han sido cons­
+truidos fundamentalmente desde un punto de vista estructural. Kelsen es el ejem­
+plo más claro de esta posición. Pero no se puede establecer esta tesis en lo que
+respecta a las investigaciones sobre los derechos humanos. Quizá debido al ori­
+gen pactista de las doctrinas de los derechos humanos, sobre todo en la escuela
+del Derecho natural racionalista, los enfoques más frecuentes han estudiado los
+derechos humanos en sus fines y, por lo tanto, en sus funciones, si, al menos «pri­
+ma facie», se identifican fines y funciones.
+Evitando todos los problemas teóricos que plantea el concepto de
+función utilizado en las matemáticas, en la lógica o en la lingüística o en otras
+ciencias, hay que limitarse al significado utilizado en los estudios jurídicos de te­
+oría y de sociología del Derecho, como el conjunto de tareas que desempeñan
+los derechos fundamentales en la sociedad, y también dentro del sistema jurídi­
+co. Si el análisis estructural nos permite saber qué son y cómo son los derechos,
+el análisis funcional nos permite saber para qué sirven1. Las aclaraciones que se
+
+* Sesión del día 11 de febrero de 1997.
+1 Ver la voz -Fonctions du Droit» en el D iction n aire en cy clo p éd iq u e d e th éo rie et d e
+s o cio lo g ie d u droit, publicado bajo la dirección de André-Jean Arnaud, y redactada
+por Vincenzo Ferrari, Librairie Générale de Droit et de Jurisprudence y Story Scien-
+
+537
+
+
+
+podrían desprender de este punto de vista podrían ser unos instrumentos útiles
+para comprender, en su caso, el significado común de los derechos fundamenta­
+les enunciados y protegidos por los distintos Estados.
+Las funciones de los derechos fundamentales son exteriores al sis­
+tema jurídico o interiores a este. Ello supone que podemos estudiarlos desde el
+punto de vista externo o interno, en relación con la sociedad humana o con los
+otros sectores del Derecho que forman el Ordenamiento jurídico. En el primer ca­
+so, reflexionamos sobre la acción de los derechos fundamentales como parte del
+Derecho, sobre la organización de la vida social y sobre el lugar que la persona
+ocupa en la sociedad. En el segundo, los consideramos como un subsistema den­
+tro del sistema jurídico, y estudiamos para qué sirven, cuál es su cometido den­
+tro del conjunto de reglas y de instituciones que forman el Derecho.
+Para terminar esta introducción general, hay que decir que en estos
+enfoques nos situamos dentro de la moralidad pública (tradicionalmente llama­
+da, después de Aristóteles, justicia), que razona sobre el conjunto de fines y de
+objetivos que el Derecho debe realizar para acercar una sociedad a la idea de jus­
+ticia. Para cumplir estos objetivos, hay que tener en cuenta toda la tradición mo­
+ral, jurídica y política que constituye el patrimonio de la cultura europea moder­
+na, a partir del Renacimiento, con los grandes valores de la libertad, la igualdad,
+la solidaridad o la fraternidad, y de la seguridad, construidas sobre la idea inicial
+de la dignidad humana en una sociedad en la que el hombre es el centro del mun­
+do — antropocentrismo— y está centrado sobre el mundo — secularización— . Sin
+duda, las ideas que de ahí se derivan no se explican en el contexto de una cul­
+tura política y jurídica distinta, sino en el marco de una cultura organizada en un
+Estado liberal, social y democrático de Derecho. No son ideas originales, pero
+tratan de interpretar y de prolongar una simiente producida por la contribución
+de una inmensa pluralidad de aportaciones de la razón humana en la historia.
+
+II.
+
+LA FUNCIÓN DE LOS DERECHOS EN LA SOCIEDAD
+
+La función principal de los derechos fundamentales en la sociedad
+moderna es orientar la organización de la sociedad, y principalmente del Derecho,
+
+tia, París. Bruselas, 1988, pp. l ó l a 163. Vid. también Norberto Bobbio,
+tura alia fu n z io n e, Edizioni di Comunitá, Milán, 1977.
+
+538
+
+Delta Strut-
+
+
+
+como sistema de organización social, de acuerdo con la dignidad de la persona,
+para que pueda realizar los contenidos que identifican esta dignidad. A partir del
+mundo clásico, pero sobre todo después del Renacimiento, en los trabajos de Pico
+de la Mirándola, Angelo Poliziano, Pietro Pomponazzi, Luis Vives, Giordano Bru­
+no y otros que les siguieron, los elementos de esta dignidad son la capacidad de
+elección, de razonar y de construir conceptos generales, de comunicar y de dialo­
+gar, y por fin de decidir sobre sus fines últimos, sobre su moralidad y sobre su idea
+de salvación. Los derechos fundamentales contribuyen, por tanto, a que cada per­
+sona pueda realizar plenamente estos signos de su condición humana.
+La importancia de esta función reside en su idoneidad para identifi­
+car el concepto «derechos humanos» y para recoger todas las dimensiones de su
+contenido. La moralidad pública que denominamos «derechos humanos» actúa en
+la perspectiva ética como una pretensión moral y, si se incorpora al Derecho po­
+sitivo, como un derecho fundamental. Por lo tanto, se puede hablar de la función
+de los derechos humanos como moralidad, y de su función como derechos. En
+el primer caso, tienen una labor crítica respecto al Derecho positivo que no los
+reconoce, y tratan de positivizarse, de transformarse, en Derecho positivo de los
+derechos fundamentales. En el segundo caso, son una norma jurídica.
+En la tradición liberal, los derechos se han identificado más bien des­
+de un punto de vista estructural y no tanto funcional, lo cual no ha permitido in­
+corporar al concepto de derechos fundamentales los derechos económicos, so­
+ciales y culturales. En efecto, se ha considerado la forma de los derechos
+individuales, civiles y políticos2 como el criterio para identificar los derechos co­
+
+2 Los derechos individuales y civiles son la primera generación histórica, resultante
+de las revoluciones liberales, inglesa, americana y francesa. Dentro de esta gene­
+ración se reconoció el principio de soberanía de la nación — del pueblo, diría yo—
+pero no los derechos políticos. La lucha por el sufragio universal y por el recono­
+cimiento del derecho de asociación, condición para que los asalariados se incor­
+poraran a la participación política, ocupó en gran parte el siglo xix, y la mayor par­
+te del tiempo contra los sectores liberales partidarios de los derechos individuales
+y civiles, que se oponían a la generalización de los derechos políticos. La propia
+idea de Constant de los derechos de los antiguos y de los derechos de los moder­
+nos es un signo de esta gran batalla histórica. Finalmente, el esfuerzo intelectual
+de los sectores liberales progresistas y socialistas, y la lucha de los trabajadores, lo­
+gró progresivamente esta generalización de los derechos políticos. El hecho de que
+hoy, a finales del siglo xx, se consideren al mismo nivel los derechos individuales,
+civiles y políticos, no permite clasificarlos dentro de la misma generación. Como se
+trata de un criterio de clasificación histórico, es evidente que, desde ese punto de
+vista, pertenecen a dos generaciones distintas.
+
+539
+
+
+
+mo tales. Los puntos de referencia han sido fundamentalmente dos: la idea de uni­
+versalidad, en el punto de partida, de los titulares de los derechos y la relación de
+igualdad como identidad de las condiciones. En efecto, para los derechos indivi­
+duales, civiles y políticos, las diferencias de raza, religión, ideología, sexo, y cual­
+quier otra condición social, no son tenidas en cuenta para establecer un trato de­
+sigual. En este sentido, todos son titulares «ab initio» de los derechos. Se trata de
+la idea de universalidad y del principio de no-discriminación. Los derechos eco­
+nómicos, sociales y culturales, como el derecho a la educación, a la protección de
+la salud, a la vivienda o a la seguridad social, se concibieron en su origen para sa­
+tisfacer necesidades fundamentales de aquellas personas que no podían resolver­
+las por sí mismas. Las diferencias son, pues, necesarias para establecer esos dere­
+chos. La condición de su existencia es precisamente una situación de necesidad,
+que no es generalizable ni igual en todos los ciudadanos. Los criterios de univer­
+salidad «ab initio- y de igualdad como identidad de las condiciones son en este ca­
+so imposibles, y se sustituyen por la búsqueda de la igualdad a partir de la dife­
+rencia, y por la universalidad como fin y no como punto de partida. El gran debate
+sobre el Estado social, a causa del rechazo de los sectores conservadores del li­
+beralismo (que defienden el Estado reducido) al apoyo de los poderes públicos
+para satisfacer las necesidades, pasa obligatoriamente por cuestionar los derechos
+económicos, sociales y culturales y la función promocional del Derecho.
+Si, al contrario, el criterio para establecer el concepto y el conteni­
+do de los derechos humanos es el que señalamos al reflexionar sobre su función
+en la sociedad, los derechos económicos, sociales y culturales son derechos fun­
+damentales en el sentido pleno del término, pues pretenden establecer unas con­
+diciones mínimas de homogeneidad para situar a todas las personas en una con­
+dición suficiente que les permita gozar de los demás derechos. No debemos olvidar
+las enseñanzas que aporta una visión histórica de conjunto. La lucha por los de­
+rechos políticos y por los derechos económicos, sociales y culturales fue llevada
+por los mismos sectores sociales e intelectuales, y sus adversarios defendieron la
+exclusividad de los derechos individuales y civiles. Una explicación de las cau­
+sas de la aparición de los fascismos en los años veinte y treinta, con defensores
+prestigiosos de esta explicación como Hermann Heller, Harold Laski o Fernando
+de los Ríos en España, los presenta en parte como una defensa de la burguesía
+frente a esta ola de homogeneidad social impulsada por sectores intelectuales y
+por los partidos obreros. En todo caso, al menos en determinados países, los pun­
+tos de vista liberales fueron abandonados por un sector de sus defensores habi­
+tuales, a causa de este auge de los derechos económicos, sociales y culturales.
+Defender que la función de los derechos humanos consiste en esta­
+blecer una organización social que pueda ayudar a todas las personas a alcanzar
+
+540
+
+
+
+el nivel más alto posible de humanización en cada momento histórico, abre el
+concepto de derechos humanos y permite una visión amplia. Cada grupo de de­
+rechos aborda esta tarea en función de sus posibilidades. El punto de partida de
+los derechos económicos, sociales y culturales es la desigual distribución de la ri­
+queza y de la propiedad que impide a un gran número de personas satisfacer por
+sí mismas sus necesidades, y esta situación puede impedirles también alcanzar el
+nivel mínimo de humanidad, para gozar de los demás derechos. La libertad y la
+igualdad serían puramente formales, si un gran número de personas no pudiera
+decidir libremente y no pudiera escoger su moralidad privada. Según esta fun­
+ción, los derechos no sirven sólo para protegerse de los maleficios del poder, sino
+también para obtener beneficios de él.
+Se debe señalar igualmente que esta función supone una idea de los
+derechos fundamentales capaz de influir en la organización de la vida social en el
+sentido indicado, lo cual demuestra la actualidad del análisis de autores de la es­
+cuela racionalista protestante, como Pufendorf, que subrayaban la idea de efica­
+cia, es decir, la necesidad de superar el enfoque moralista para llegar al enfoque
+jurídico. La moralidad de los derechos determina el fin, señala la dirección, sirve
+de guía de lo que se debe hacer, pero sólo la positivación de los derechos per­
+mite alcanzar efectivamente los objetivos de modificación de la realidad. Para es­
+ta función resulta, por tanto, insuficiente hablar de derechos morales, moral rights,
+y hay que hablar de derechos jurídicos, legal rights, aunque esta perspectiva sea
+lingüísticamente complicada en idiomas como el francés, el español o el italiano,
+ya que se utiliza la misma palabra para designar los aspectos subjetivo y objetivo
+del Derecho. En un trabajo reciente sobre la paz perpetua, en el bicentenario de
+la pequeña obra de Kant, Habermas coincidirá con este punto de vista, y señala­
+rá que la justificación moral de los derechos es una cosa y otra diferente su con­
+cepto, que tiene una ineludible dimensión jurídica. Así, dirá que la fundamentación moral de los derechos, como justificación de los mismos, no los priva «...de
+su cualidad jurídica y no los transforma en normas morales. Las normas jurídicas,
+entendidas en el sentido moderno del Derecho positivo, conservan su forma jurí­
+dica sea cual sea el tipo de razones que permita fundar su pretensión de legitimi­
+dad. En efecto, deben su carácter a su estructura y no a su contenido...»3.
+Este problema, que nos limitamos a enunciar, evoca un tema que es
+hoy central, y que es el de los bienes económicos insuficientes, es decir, el pro­
+
+3 Vid Kants Idee des Ewigen Friedens aus dem historischen Abstand von 200 Jahren.
+Suhrkamp Verlag. Franckfurt 1996. Edición francesa consultada *La paix perpetuelle...* Editions du Cerf. París 1996.
+
+541
+
+
+
+blema de la limitación de los medios para llevar a cabo las tareas que derivan del
+ejercicio de determinados derechos, sobre todo en el grupo de los derechos eco­
+nómicos, sociales y culturales. En este sentido, resultan especialmente apropia­
+das las reflexiones de David Hume en la sección sobre la Justicia en su Encues­
+ta sobre la Moral. El punto de vista funcional demuestra cómo no basta tener una
+pretensión moral justificada, ni que esta sea susceptible de incorporarse desde el
+punto de vista teórico a un derecho subjetivo, a una libertad, a una potestad ju­
+rídica o a una inmunidad, que son las formas que pueden adoptar los derechos
+humanos en el Derecho positivo, sino que también es necesario que sea posible
+la eficacia social.
+Cuando la jurisprudencia o la doctrina se acercan a esta idea del con­
+tenido esencial de los derechos, presente en los sistemas constitucionales ale­
+manes y españoles, y trata de establecer su significado, lo identifican con su es­
+tructura, con la idea de naturaleza jurídica, pero también con esa función en la
+sociedad cuando hacen referencia a los intereses jurídicamente protegidos (en
+nuestro caso, el desarrollo de la propia condición humana).
+
+n i.
+
+LA FUNCIÓN DE LOS DERECHOS EN EL SISTEMA
+JURÍDICO
+
+Los derechos fundamentales desempeñan dos funciones dentro del
+sistema jurídico: por una parte, desde el punto de vista objetivo, son un subsis­
+tema, y forman, junto con los valores y los principios, la regla fundamental ma­
+terial para identificar las demás reglas del Ordenamiento jurídico. En esta prime­
+ra función, los principios de organización y de interpretación y los derechos
+fundamentales tienen la misma finalidad. Por otra parte, desde el punto de vista
+subjetivo, los derechos fundamentales traducen, en reglas de Derecho, preten­
+siones morales justificadas de los individuos y de los grupos, bajo la forma de de­
+rechos subjetivos, de libertades, de potestades jurídicas y de inmunidades. La sen­
+tencia del Tribunal Constitucional español 11/1981 de 8 de abril, en su fundamento
+jurídico n.Q5, coincide con esta idea, al hablar del doble carácter de los derechos
+fundamentales: -En primer lugar (...) son derechos subjetivos, derechos de los in­
+dividuos. Al mismo tiempo son elementos esenciales del orden jurídico objetivo
+de la comunidad nacional, cuando esta se configura como el marco de una for­
+ma de vida en común humana, justa y pacífica».
+
+542
+
+
+
+En cierto sentido, estas dos funciones corresponden, desde la teoría de
+la justicia, con todos los matices que hay que hacer en estos casos, y en la perspec­
+tiva de la cultura jurídica europea del final del siglo XX, a las representadas por el
+Derecho natural clásico, y por el Derecho natural moderno racionalista y protestan­
+te. Si nos situamos en el punto de vista de la historia de los derechos humanos, la
+función primera es la función subjetiva, como derechos naturales. Con la aparición
+y el desarrollo del movimiento constitucional, se añadirá una función objetiva de los
+derechos humanos como constitución material, producida por el legislador extraor­
+dinario «ratione materiae», en la terminología de Cari Schmitt. En esta perspectiva, la
+dimensión objetiva de los derechos humanos, como subsistema dentro del sistema
+jurídico, supera la dicotomía «regla/sistema», añadiendo como «tertium genus» este
+subsistema que lo acerca a la idea de institución de Santi Romano, de Hauriou, de
+Délos y de otros. Ambas dimensiones son necesarias y se apoyan mutuamente. Se
+trata de un fenómeno de interpenetración, en la terminología de Renard.
+
+A)
+
+Función objetiva: los derechos fundamentales como
+Constitución material
+
+Bajo esta perspectiva, los derechos forman parte de la norma fun­
+damental de todo sistema jurídico para identificar las normas que pertenecen al
+Ordenamiento jurídico. En el enfoque estructural del positivismo clásico, en Kelsen, por ejemplo, la validez de estas reglas se identificaba únicamente a través de
+criterios formales4. Se trataba de la respuesta a dos preguntas: «¿quién manda?»
+(órgano competente de producción de las reglas), «¿cómo se manda?» (procedi­
+miento establecido para la producción de cada tipo de reglas, constitución, ley,
+reglamento, sentencia judicial, etc). Con el constitucionalismo y el proceso de positivación, los derechos humanos permiten responder a la pregunta «¿qué se man­
+da?», señalando los contornos necesarios de las normas, los límites de las normas
+jerárquicamente inferiores para poder considerarlas válidas y pertenecientes al
+sistema. Junto con la norma formal, órgano competente y procedimiento prees­
+tablecido, aquellos constituyen con los principios y los valores superiores del ar­
+tículo 1.1 de la Constitución española de 1978, la norma material fundamental del
+sistema que permite establecer el contenido posible y los límites de todas las de­
+más reglas. Representan la decisión constitucional básica que permite producir,
+aplicar e interpretar las normas, según ese sistema axiológico que establece unas
+orientaciones y que sirve de guía para el legislador, el ejecutivo y el juez.
+
+4 Vid. la reciente obra de Juan A. García Amado -Kelsen y la norma fundamental».
+Marcial Pons. Madrid 1996.
+
+543
+
+
+
+En la tradición constitucional europea, esta función aparece de una
+forma más explícita en la propia Constitución (es el caso del artículo 1.1 de la
+Constitución española) o será construida por la jurisprudencia de los Tribunales
+constitucionales (en el caso alemán, por ejemplo). Una futura Constitución eu­
+ropea debería, en cualquier caso, incorporar una Declaración de derechos que,
+junto con los principios y los valores superiores del sistema jurídico, cumpliera
+esta función.
+Las consecuencias de estas afirmaciones son las siguientes:
+1) La competencia para interpretar y desarrollar esos derechos y
+esos principios corresponde al legislador, en el marco de la Constitución, con la
+garantía de los Tribunales constitucionales. Puesto que la mayoría de las veces se
+trata de modelos abiertos, abstractos y formados por conceptos jurídicos inde­
+terminados, la determinación exige reglas complementarias que los prolonguen.
+Como la competencia para su producción corresponde al soberano, y muy a me­
+nudo al poder constituyente, las decisiones centrales de interpretación corres­
+ponden al legislativo. Es necesario señalar firmemente este criterio, pues vivimos,
+en la cultura jurídica, una época de judicialismo. Dentro de esta dimensión obje­
+tiva, los derechos actúan como guía y límite para el poder jurídico del Parlamento,
+en esa zona de claridad reservada a la relación Constitución-Legislación. Esta­
+blecer una relación directa entre la Constitución y el juez, aunque se trate del juez
+constitucional, como lo hace, por ejemplo, Ronald Dworkin, sin esta precisión
+sobre la competencia del Parlamento, ofrece a los jueces unas ventajas que no
+son propias de nuestra cultura jurídica.
+2) La preeminencia de los jueces se produce en los casos de pe­
+numbra y de oscuridad, ante las lagunas, en defecto de reglas, en caso de anti­
+nomia o de contradicción entre dos reglas, o cuando el legislador va más allá de
+los límites de la libre decisión que supone siempre la zona de libre acción del
+Parlamento. Aquí ya no estamos ante una opción de carácter político entre va­
+rias opciones posibles dentro del marco de la Constitución, sino ante un razo­
+namiento jurídico que, en último caso, corresponde al Tribunal constitucional.
+En esta operación, el Tribunal debe determinar claramente los límites de su ac­
+ción, sin introducirse en el espacio de interpretación política que corresponde
+al legislativo.
+3) En su dimensión más general de provisión de criterios interpre­
+tativos, los derechos fundamentales son utilizados por todos los operadores jurí­
+dicos que aplican el Derecho. Son la guía de toda creación normativa y el límite
+de esta.
+
+544
+
+
+
+Finalmente, hay que señalar que la tradición europea de la moder­
+nidad supone la tolerancia, el pluralismo y la neutralidad del Estado y, por lo tan­
+to, que esta moralidad objetiva no presenta contenidos normativos obligatorios
+que supongan una intención de sustituir la iniciativa personal para alcanzar la li­
+bre elección de la moralidad individual. Ninguna concepción del bien y de la sal­
+vación, de una Iglesia o de una escuela filosófica puede pretender; en nuestro
+contexto cultural, obtener ventajas para constituirse en el núcleo de la razón pú­
+blica. La moralidad pública no puede pretender invadir la moralidad privada de
+un individuo, lo cual es una práctica de los Estados totalitarios (toda la salvación
+depende del Estado), pero la moralidad privada de una iglesia o de una concep­
+ción científica o filosófica tampoco puede convertirse en el núcleo de la morali­
+dad pública, ni tratar a todos los ciudadanos como creyentes. En el equilibrio en­
+tre la moralidad pública, incorporada al Derecho, como principios y derechos, y
+la moralidad privada que supone una concepción del bien y de la salvación, re­
+side la diferencia entre las sociedades democráticas y las sociedades cerradas, to­
+talitarias o confesionales. Sólo cuando la moralidad pública, bajo la forma de re­
+gla jurídica, establece una obligación general, que podría afectar a la moralidad
+privada, a la conciencia del individuo, se autoriza en las’ sociedades democráti­
+cas avanzadas la objeción de conciencia, que es un derecho fundamental ligado
+a la libertad ideológica o de conciencia. Es un límite a la obediencia al Derecho,
+establecido por una regla de derecho, que protege la conciencia, pero que no es
+consecuencia de la decisión de la conciencia sino del legislador constituyente,
+ordinario, o del Tribunal constitucional. Abandonar la decisión a la conciencia
+podría suponer un regreso al estado de naturaleza donde se produciría lo que de­
+nuncia Montesquieu: nadie sería libre si la decisión sobre la obediencia se deja­
+ra a la libre opción del sujeto.
+
+B)
+
+La función subjetiva: los derechos fundamentales
+com o derechos subjetivos, com o potestades jurídicas
+y com o inmunidades
+
+Esta es la función a través de la cual se conocen propiamente los de­
+rechos humanos que, históricamente, se concibieron como derechos naturales y,
+más tarde, como pretensiones morales jurídicamente reconocidas. Normalmente,
+esta función se ejerce a partir de tres dimensiones que constituyen su función de
+protección de la persona, de participación y de promoción. Excepcionalmente,
+en casos extremos, cuando una regla de Derecho impide la libre elección de la
+moralidad privada, encontramos una cuarta función de los derechos como di­
+senso frente al «consenso» mayoritario, para garantizar la conciencia individual
+frente al cumplimiento de obligaciones impuestas por la mayoría. Las tres pri­
+
+545
+
+
+
+meras dimensiones de esta función subjetiva van en el sentido del consenso mayoritario para hacer posible la autonomía y la independencia moral, mientras que
+la cuarta se enfrenta a ese consenso, con la misma finalidad.
+Los grandes valores y los principios que, como raíz moral, están de­
+trás de la función subjetiva, son la libertad, la igualdad, la fraternidad o la soli­
+daridad y la seguridad. Uno de los grandes debates actuales y, sin duda también
+futuros, es probablemente el de la integridad de ese depósito de moralidad y del
+desarrollo unitario y conjunto de todas esas dimensiones. La defensa en Europa
+de este punto de vista, en el que me sitúo, supone la reivindicación del Estado
+social. Los argumentos para excluir la función de promoción es la última etapa
+de la lucha por un Estado reducido, que no se ocupe de las necesidades indivi­
+duales y de su satisfacción. Si se considera la función de los derechos humanos
+en el conjunto de la sociedad, estas funciones subjetivas son necesarias para la
+concreción de una forma de organización social, que haga posible el libre de­
+sarrollo de la condición humana. La función de protección establece espacios
+exentos en los que los titulares pueden actuar libremente y sin interferencias pa­
+ra ejercitar la libertad de elección. La función de participación nace de los ins­
+trumentos como el sufragio universal, para hacer posible la intervención indivi­
+dual en la formación de la voluntad pública y en el funcionamiento de los
+servicios públicos. Esta función representa el «status activae civitatis» en la céle­
+bre fórmula de Jellinek, y significa que el poder político, en una democracia, no
+es ajeno ni externo — heteronomía— a los ciudadanos, sino que se compone fun­
+damentalmente de la voluntad de estos — autonomía— . Así, el poder político
+que acepta esta moralidad de los derechos humanos, que acepta convertirla en
+moralidad pública con la participación de los ciudadanos en los órganos de pro­
+ducción jurídica, en moralidad jurídica — derechos fundamentales— , no es un
+poder separado, sino sometido a las reglas morales, políticas y jurídicas nacidas
+con la intervención directa o indirecta de los ciudadanos que utilizan los dere­
+chos integrantes de esta función.
+La función de promoción proviene de determinadas situaciones de
+la persona que impiden el desarrollo de su condición y que no pueden resol­
+verse por el único esfuerzo de aquella. Esta incapacidad exige el apoyo de los
+poderes públicos, para suplir y sustituir la acción de los interesados. Los valo­
+res de igualdad y de solidaridad son el fundamento de esta postura, con una lar­
+ga tradición en Europa, que considera que no sólo las condiciones de absten­
+ción y de participación, sino también las de promoción, forman parte del bien
+común de la sociedad política. Estos problemas de las necesidades, cuya satis­
+facción es necesaria para alcanzar la condición humana, no son problemas pri­
+vados que cada cual deba resolver, sino que se sitúan dentro de la función sub­
+
+546
+
+
+
+jetiva de los derechos fundamentales, creando pretensiones jurídicas con obli­
+gaciones correlativas de los poderes públicos o de los particulares, en el marco
+de las posibilidades económicas y de los medios de los que se pueda disponer.
+Finalmente, la función de disenso protege a aquellos que divergen de los crite­
+rios de la mayoría, cuando las reglas jurídicas que se derivan de estos atentan
+gravemente contra su conciencia individual y hacer), peligrar su moralidad pri­
+vada. En la historia de los derechos humanos, esta situación es la última etapa
+de institucionalización de la resistencia frente al poder, iniciada por la aplica­
+ción de determinados derechos individuales como la libertad de pensamiento,
+de expresión y de conciencia.
+Con la función de protección, los derechos tratan de impedir las
+conductas que invaden y que no son deseadas por los sujetos de los derechos;
+con las funciones de participación y de promoción, los derechos se interesan
+por los comportamientos socialmente deseables, haciéndolos necesarios, rea­
+lizables y ventajosos. La función de disenso no se interesa por las conductas
+deseables, ni por las no deseadas, sino únicamente por aquellas que, apoya­
+das por la mayoría, puedan afectar a las opciones individuales impidiendo el
+desarrollo de la condición humana. Si consideramos estas funciones desde
+el punto de vista de las ideologías, la primera tiene un fundamento liberal; la
+segunda, democrático; la tercera, socialista y la última, de nuevo liberal. El ma­
+tiz que distingue el fundamento liberal de la función de protección de la de di­
+senso es que, en la primera, se protege la no interferencia para todos, a partir
+del consenso sobre la autonomía individual, sin tener en cuenta las conductas
+que se separan, mientras que en la función de disenso se defiende la no in­
+terferencia para una minoría, pues sólo se consideran aquellas conductas que
+se separan del consenso, cuando lo hacen invocando razones morales impor­
+tantes, consideradas suficientes por el Derecho.
+Si analizamos esta función subjetiva en su conjunto, en relación al
+poder, podemos decir que los derechos sirven para limitar el poder, para evi­
+tar sus maleficios; en segundo lugar, para contribuir a su formulación y, final­
+mente, para obtener el apoyo y los beneficios de sus prestaciones y de sus ser­
+vicios. Si los consideramos en relación a la sociedad civil, sirven para defender
+a sus miembros del poder, de ellos mismos, para ser eficaces y superar el esta­
+do de naturaleza, para comunicar y establecer vínculos entre la sociedad civil
+y el poder, frente a las actitudes de un poder separado de la sociedad (publificación totalitaria de la vida) o de una sociedad civil que no considera el poder
+(privatización anarquista de la vida). En este sentido, representan uno de los
+signos de identidad de una sociedad democrática, frente a las posiciones tota­
+litarias y anarquistas.
+
+547
+
+
+
+C)
+
+Los titulares y las form as de organización
+de los derechos en la función subjetiva
+
+Para completar el análisis de la función subjetiva de los derechos, hay
+que ocuparse de los destinatarios de estos derechos, de los titulares que pueden ejer­
+citarlos, así como de la forma bajo la cual pueden ponerlos en práctica, como dere­
+chos subjetivos, como libertades, como potestades jurídicas y como inmunidades.
+
+a)
+
+Los titulares d e los derechos
+
+En una primera aproximación, podemos hablar de los derechos del
+hombre abstracto y de los derechos del hombre concreto. Los primeros son los de­
+rechos clásicos, tal y como aparecieron en la historia como derechos del hombre
+y del ciudadano. Eran los derechos del «homo iuridicus». Constituían la única cate­
+goría de derechos hasta que, en el siglo xix y sobre todo en el xx, se empezó a con­
+siderar los derechos del hombre concreto, del hombre situado. Estos comprenden
+los derechos de determinados grupos de personas identificados por unas condi­
+ciones físicas, culturales y sociales. En este segundo grupo se pueden considerar
+los derechos de los presos, de los niños, de los ancianos, de los disminuidos físi­
+cos y psíquicos, de los consumidores, de los usuarios de los servicios públicos, etc.
+Estos derechos se atribuyen a estos grupos de personas porque se encuentran, por
+diferentes razones, en situación de inferioridad respecto al destinatario genérico
+«hombre o ciudadano» y necesitan una protección especial para alcanzar el nivel
+general. Las razones de esta diferencia pueden ser culturales (la mujer), de edad
+(como los niños y los ancianos), de condición física (como los disminuidos físicos)
+o de situación en la sociedad (como los consumidores, los usuarios de un servicio
+público o los presos). En esos casos, está justificado un trato especial que especi­
+fique las diferencias y organice una regulación ad hoc para esos casos.
+Desde otra perspectiva, se pueden distinguir los derechos de los gru­
+pos y de las colectividades, los derechos individuales que también pueden ser de
+los grupos y de las colectividades y los derechos de los individuos, que no se
+pueden extender a los grupos y a las colectividades.
+Entre los primeros, se puede señalar la libertad religiosa y de culto
+reconocida a las Iglesias, el derecho de los sindicatos a formar confederaciones,
+a fundar organizaciones sindicales internacionales y a afiliarse a ellas. En este gru­
+po contemplamos las dimensiones corporativas, que son esenciales, si se com­
+prende que en una sociedad democrática moderna es insostenible la idea de una
+relación sin intermediarios entre el individuo y el Estado, defendida por un indi­
+
+548
+
+
+
+vidualismo extremo (en este punto, J. J. Rousseau). La persona se realiza también
+en los grupos y es precisamente la importancia de estos en la sociedad demo­
+crática lo que indica la tarea central del pluralismo, que siempre se refiere a los
+grupos y no a las personas individuales.
+Si contemplamos los derechos individuales que se pueden atribuir a
+los grupos, podemos señalar el derecho al honor, la inviolabilidad del domicilio
+y de la correspondencia, la libertad de residencia, la libertad de enseñanza o el
+derecho a la jurisdicción, entre otros.
+Finalmente encontramos derechos que sólo se pueden atribuir a per­
+sonas individuales, como la libertad de conciencia, el derecho al sufragio en las
+elecciones políticas, o el derecho a la asistencia letrada en los procesos penales.
+Dentro de esta reflexión hay que señalar que las analogías entre los
+derechos de la persona situada y los privilegios de la Edad Media son sólo apa­
+rentes. Mientras que los privilegios medievales tenían como función preservar y
+mantener las desigualdades existentes y proteger a determinados colectivos, fa­
+vorecidos por un trato desigual, la función de los derechos de la persona situa­
+da es, al contrario, alcanzar una igualdad que no existe en el momento en que
+los derechos son atribuidos a sus titulares. Se trata de dos filosofías completa­
+mente opuestas. Podemos atribuir a esos derechos de la persona concreta las ca­
+tegorías de generalidad y de abstracción propias de los derechos modernos, pues
+todas las personas que se encuentran en esa situación son titulares del derecho
+correspondiente. Respecto a la universalidad que se predica como característica
+de los derechos clásicos, también se puede defender para estos derechos de la
+persona concreta y situada. En este caso, aparece como una universalidad para
+el futuro, como una verdad prematura y, en ese sentido, se habla de una univer­
+salidad como fin, situada en el punto de llegada. Nos encontramos ante la dife­
+rencia entre la universalidad como dato previo y la universalidad como objetivo.
+
+b)
+
+Las fo r m a s d e org a n iza ción d e los derechos en la fu n c ió n
+subjetiva
+
+Hemos señalado en varias ocasiones a lo largo de esta comunicación
+que los derechos se presentan como derechos subjetivos, libertades, potestades
+jurídicas e inmunidades.
+Un derecho fundamental es un derecho subjetivo cuando, frente al
+titular del derecho — sujeto activo— , aparece un sujeto identificado, con una obli­
+
+549
+
+
+
+gación jurídica consecuencia de ese derecho — sujeto pasivo— . Se dice que A es
+titular de un derecho subjetivo cuando puede exigir X de B, o cuando B tiene
+obligación X ante A. Los derechos situados en la función de promoción son siem­
+pre derechos subjetivos. También el derecho a asistencia letrada. En todos esos
+casos, el derecho tiene como correlativo un deber o una obligación.
+Un derecho fundamental es una libertad si su titular A es libre frente a
+B de hacer o no hacer X. Ello equivale a decir que B no tiene un derecho subjetivo
+a que A haga o no haga X. Una libertad siempre tiene como correlativo un no dere­
+cho de la otra parte de la relación; no tenemos el derecho a que el otro se obligue a
+no interferir en nuestro núcleo de libertad, sino que nadie tiene derecho a interferirnos. En ese caso, la otra parte no es un titular concreto e identificable, sino genéri­
+co las libertades se sitúan en la función de protección. Las libertades son, por tanto,
+derechos fundamentales «erga omnes» y aquellos que no son titulares o, mejor dicho,
+aquellos que no necesitan ponerlo en acción, no tienen derecho a impedirlo.
+Un derecho fundamental es una potestad jurídica cuando su titular
+A puede obligar y producir efectos jurídicos frente a B, a través del acto X. Esto
+se produce si B está sujeto a A, es decir, si la situación jurídica de B es afectada
+por el acto X de A. En ese caso, el correlativo es una «no inmunidad» o un vín­
+culo jurídico o sujeción. Los ejemplos más típicos de un derecho fundamental co­
+mo potestad jurídica son el derecho a la jurisdicción o el derecho a la participa­
+ción política porque, en esos casos, los correlativos del poder jurídico, los jueces,
+o las otras partes en un proceso, o los poderes públicos en el caso del derecho
+a la participación, no pueden impedir los efectos de este ejercicio.
+Un derecho fundamental es una inmunidad cuando su titular está
+exento, es libre, ante los efectos del acto X de B, es decir, cuando éste es in­
+competente para modificar a través de ese acto la situación jurídica del titular.
+Los derechos situados en la función de disenso, la objeción de conciencia, se re­
+alizan como inmunidades. El correlativo de la inmunidad es la incompetencia, es
+decir, la ausencia de poder jurídico para exigir una conducta o una abstención.
+
+IV.
+
+CONCLUSIÓN
+
+El punto de vista de las funciones, que nos permite saber para qué
+sirven los derechos fundamentales, bajo las perspectivas que acabamos de anali­
+
+550
+
+
+
+zar, ayuda a medir la homogeneidad del legado europeo, en materia constitu­
+cional, en esta dimensión dogmática, constituida por el contenido material de las
+Constituciones. Se trata de un esquema que se puede utilizar para el estudio com­
+parado de las Constituciones y para extraer los elementos comunes que se pue­
+den encontrar en ellas.
+En ningún caso, puede el patrimonio constitucional europeo limi­
+tarse a ese nivel de comparación y los elementos comunes deben servir para el
+gran esfuerzo ético, político y jurídico de construir una parte dogmática (princi­
+pios valores, y derechos fundamentales) de una futura Constitución europea.
+
+551
+
+
+
+

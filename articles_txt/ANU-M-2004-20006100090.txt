@@ -1,0 +1,1700 @@
+EL MARCO CONCEPTUAL DEL DEFICIT PUBLICO
+Por el Académico de Número
+Excmo. Sr. D. José Barea Tejeiro *
+
+El tema que voy a desarrollar creo que es de mucha actualidad, pero polé­
+mico, precisamente por no existir acuerdo sobre su marco conceptual; por ello lo
+he elegido para una discusión serena dentro del ámbito académico. Las cuestiones
+que abordaré son las siguientes:
+• El concepto de déficit público (necesidad de financiación) en el SEC-95.
+• Los principios contables como instrumento para medir el déficit.
+• Sombras y dudas sobre la aplicación correcta de los principios del SEC95 a determinadas operaciones.
+• La inflación, un atajo para equilibrar el Presupuesto.
+• Ahorro público versus capacidad de financiación como indicador de
+cuentas públicas saneadas.
+• Reinventando el Pacto de Estabilidad: déficit cíclicamente ajustado.
+• La experiencia española del déficit cíclico entre 1850 y 2000.
+
+* Sesión del día 1 de junio de 2004.
+
+61
+
+
+
+1.
+
+CONCEPTO DE DÉFICIT PÚBLICO (NECESIDAD DE FINANCIACIÓN)
+EN EL SISTEMA EUROPEO DE CUENTAS
+NACIONALES Y REGIONALES
+
+El déficit puede ser considerado en razón del ámbito institucional, del cri­
+terio de imputación temporal de las transacciones y de las operaciones que deben
+ser tenidas en cuenta para su cálculo.
+Del cruce de estos criterios resultan un sinfín de conceptos de déficit, por
+lo que es necesario fijar la clase de déficit que vamos a utilizar en nuestro análisis.
+El concepto de déficit al que vamos a referirnos es el de «capacidad o
+necesidad de financiación» del Sistema Europeo de Cuentas Nacionales y Regio­
+nales.
+Con relación al conjunto de la nación, el SEC establece que «la capacidad
+o necesidad de financiación muestra el importe neto de los recursos que la nación
+pone a disposición del resto del mundo, o que el resto del mundo proporciona a
+la nación. La capacidad (+) o la necesidad (-) de financiación del total de la eco­
+nomía es igual, pero de signo opuesto a la necesidad (-) o capacidad (+) de finan­
+ciación del resto del mundo. La capacidad o necesidad de financiación de la nación
+es igual a la suma de las capacidades o necesidades de financiación de los dife­
+rentes sectores de la economía nacional.
+El concepto de público que utilizaremos al hablar del déficit se refiere al
+del sector Administraciones Públicas, que de acuerdo con el SEC incluye «todas las
+unidades institucionales que son otros productores no de mercado cuya producción
+se destina al consumo individual o colectivo, que se financian principalmente
+mediante pagos obligatorios efectuados por unidades pertenecientes a otros secto­
+res y/o que efectúan operaciones de redistribución de la renta y de la riqueza
+nacional».
+Este concepto de déficit público es el que se utiliza igualmente en el Tra­
+tado de la Unión Europea. En efecto, el artículo 2 del Protocolo sobre el procedi­
+miento aplicable en caso de déficit excesivo anejo al Tratado de la Unión estable­
+ce, a los efectos del artículo 104 C del Tratado, que se entenderá por:
+— «Déficit, el volumen de endeudamiento neto con arreglo a la definición
+del Sistema Europeo de Cuentas Económicas Integradas (SEC-79, hoy SEC-95).
+
+62
+
+
+
+— "Público, lo perteneciente al Gobierno general, es decir, al Gobierno
+central, al Gobierno regional o local y a los fondos de la Seguridad Social con
+exclusión de las operaciones de carácter comercial, tal como se definen en el Sis­
+tema Europeo de Cuentas Económicas Integradas (hoy SEC-95)».
+Para el SEC el endeudamiento neto equivale a la diferencia entre las varia­
+ciones netas de activos y pasivos financieros que, en principio, es equivalente al
+saldo de la cuenta de adquisiciones de activos no financieros, esto es: la necesidad
+de financiación. La delimitación que del concepto de «público» hace el Tratado de
+la Unión Europea coincide con la definición que del Sector de Administraciones
+Públicas efectúa el SEC. Por tanto, la referencia del artículo 104 C del Tratado de la
+Unión Europea a «déficit públicos» se corresponde con la definición de «necesidad
+de financiación» de las Administraciones Públicas en el Sistema Europeo de Cuen­
+tas Económicas Integradas (1979) y dél Sistema Europeo de Cuentas Nacionales y
+Regionales (1995).
+El Tratado de la Unión Económica y Monetaria Europea ha establecido un
+reparto de competencias entre los diferentes responsables de la política económi­
+ca. La política monetaria está a cargo del Banco Central Europeo, y la política fis­
+cal ha quedado en manos de los Gobiernos de cada Estado miembro, si bien some­
+tida a reglas y procedimientos de actuación bien definidos. Debido a esta
+organización de la política fiscal se dice que la Unión Monetaria Europea no es una
+zona monetaria óptima, como lo es Estados Unidos, donde el gasto del Gobierno
+Central supone el 30 por 100 del PIB; en la Unión dicho porcentaje es sólo del 1,27
+por 100 del PIB comunitario y, por tanto, sin posibilidad de realizar una política
+estabilizadora.
+El marco europeo de la política fiscal está en el artículo 104 del Texto
+consolidado de la Unión, que establece la obligación de los Estados miembros de
+evitar los déficit excesivos, y en el artículo 103, que señala que ni la Comunidad
+ni los Estados miembros asumirán o responderán de las deudas que haya incurri­
+do algún Estado miembro, con lo que se garantiza que si un país decide aplicar
+una política fiscal no saneada, el incremento de la prima de riesgo resultante reca­
+erá exclusivamente sobre la deuda del citado país, no afectando a la deuda del
+resto de los países. El Protocolo sobre el procedimiento aplicable en caso de défi­
+cit excesivo, que fue incorporado como Anexo al Tratado constitutivo de la Comu­
+nidad Europea, constituye la piedra fundamental del marco fiscal de la Unión
+Monetaria Europea, encomendando a la Comisión Europea la función de supervi­
+sar los avances presupuestarios y el stock de deuda del sector público de los Esta­
+dos miembros. Se considera déficit excesivo cuando supera el 3 por 100 del PIB
+a precios de mercado.
+63
+
+
+
+Ante el temor de Alemania de que el Procedimiento de Déficit Excesivo
+no fuera suficiente para disciplinar de forma eficaz las políticas fiscales dentro de
+la UME, dicho país propuso un Pacto de Estabilidad que fue aprobado por el Con­
+sejo Europeo como «Pacto de Estabilidad y Crecimiento», que está compuesto por
+la siguiente normativa: a ) Resolución del Consejo, sobré el Pacto de Estabilidad y
+Crecimiento efectuada en Amsterdam el 17 de junio de 1997; b j Reglamento
+1.466/1997 relativo al reforzamiento de la supervisión de las políticas presupuesta­
+rias y a la supervisión y coordinación de las políticas económicas; y c ) Reglamen­
+to 1.467/1997 relativo a la aceleración y clarificación del Procedimiento dé Déficit
+Excesivo. Por dicho Pacto los Estados miembros se comprometen a conseguir situa­
+ciones presupuestarias próximas al equilibrio o con ligero superávit.
+
+2.
+
+LOS PRINCIPIOS CONTABLES COMO INSTRUMENTO
+PARA MEDIR EL DÉFICIT
+
+El sistema de Cuentas Nacionales de Naciones Unidas de 1970 (SCN) no
+contenía un apartado expreso dedicado a los principios contables del SCN, sino
+que aparecen enunciados al tratar determinados tipos de operaciones.
+El Sistema Europeo de Cuentas Económicas Integradas (SEC-79) dedicó el
+Capítulo VII, bajo la denominación de reglas de contabilización, a recoger el con­
+junto de principios y convenios contables del SEC, que condicionan la contabiliza­
+ción de las transacciones realizadas por los diferentes agentes económicos del país
+y, por tanto, la información económica suministrada y los resultados que pueden
+obtenerse del análisis de la actividad de dichos agentes económicos.
+El SEC constituye un conjunto coherente y detallado de cuentas y cuadros,
+cuyo fin es dar una visión sistemática, comparable y lo más completa posible, de
+la actividad económica de cada país miembro, siendo tarea esencial de todo siste­
+ma de Contabilidad Nacional dar una representación del circuito económico que
+sea clara y adaptada a las necesidades del análisis de la previsión y de la política
+económicos.
+Lo mismo que en la contabilidad de empresas y en la contabilidad públi­
+ca, los principios contables del SEC constituyen el mecanismo capaz de expresar la
+realidad económica de las transacciones realizadas en cada nación, haciendo posi­
+ble que de su aplicación sistemática (y de la regulación de las cuentas y cuadros
+del SEC) resulte la imagen fiel de la actividad económica de cada país comunitario.
+
+64
+
+
+
+Los principios contables o reglas contables como las denomina el SEC-95,
+son los siguientes:
+— valoración de las operaciones;
+— momento del registro de las operaciones;
+— consolidación y cálculo del neto;
+— cuentas, saldos contables y agregados.
+En el sector empresarial los principios contables tienen por objeto alcan­
+zar la imagen fiel de la actividad económica de la empresa, en el Plan General de
+Contabilidad 1 se dice que la imagen fiel es el corolario de aplicar sistemática y
+regularmente los principios contables, entendiendo éstos como el mecanismo capaz
+de expresar la realidad económica de las transacciones realizadas y en el Plan
+General de Contabilidad Pública se dice que la aplicación de los principios conta­
+bles deberá conducir a que las cuentas anuales, formuladas con claridad, expresen
+la imagen fiel del Patrimonio, de la situación financiera, de la ejecución del Presu­
+puesto y de los resultados de la entidad, resultando, por tanto, que considera los
+principios contables como el mecanismo capaz de expresar la realidad económica
+de las transacciones realizadas.
+Esta opinión no es sin embargo totalmente compartida por la doctrina. En
+el campo de la contabilidad de la empresa, para el Profesor CEA12 los principios de
+contabilidad generalmente aceptados son un instrumento que no puede antepo­
+nerse al objetivo de que se respete la naturaleza económico-financiera de los
+hechos empresariales, y en el campo de la Contabilidad Nacional el Profesor Barea
+(1993) puso de manifiesto que en el ejercicio de 1992 hubo un conjunto de opera­
+ciones en la Administración Central, a los que se aplicaron principios contables del
+SEC-79 que no respetaban la naturaleza económica de las operaciones, y que por
+tanto influyeron en la cuantificación del déficit público en razón de los principios
+contables aplicados. Las clases de operaciones fueron las siguientes:
+a ) gastos realizados en ejercicios anteriores, que no estaban contabiliza­
+dos, que se afloraron en el ejercicio 1992;
+b)
+tabilizados;
+
+gastos del ejercicio 1992, que por diversas causas no aparecían con­
+
+1 AECA, Documento núm. 1 de Principios Contables.
+2 «Sobre el deber ser y el ser de los Principios de Contabilidad generalmente aceptados», en
+Lecturas so b re P rin cipios C ontables, monográfico AECA, núm. 13.
+
+65
+
+
+
+c)
+
+ingresos derivados de la privatización de empresas públicas;
+
+d ) ingresos derivados de la intervención del Banco de España en los
+mercados monetarios para sostener la peseta;
+d)
+
+intereses de la deuda pública que afectaban a distintos períodos con­
+
+tables.
+Por Decisiones de EUROSTAT posteriores a 1992, han quedado aclaradas
+todas estas cuestiones, coincidiendo con la interpretación que yo había dado a tales
+hechos económicos (Barea, 1993).
+Con posterioridad a la entrada en vigor en 1999 del Sistema Europeo de
+Cuentas Nacionales y Regionales (SEC-95) ha sido publicado por EUROSTAT el
+Manual del SEC-95, sobre el déficit público y la deuda pública (2.a edición, 2002)
+que aclara muchas de las cuestiones que he venido planteando en diversos artícu­
+los, sobre la determinación correcta del déficit público, que paso a analizar a con­
+tinuación.
+
+3.
+SOMBRAS Y DUDAS SOBRE LA APLICACIÓN CORRECTA
+DE LOS PRINCIPIOS DEL SEC-95 A DETERMINADAS OPERACIONES
+
+Samuelson muy gráficamente ha escrito:«Supongo qu e es Vd. un p olítico
+tipo. Le fru stran los déficit. Éstos lim itan el gasto qu e sus votantes m erecen. H ay u na
+p resión constante p a r a au m en tar los impuestos. Su trabajo no es n ad a divertido.
+¿Qué h a ce Vd.? Innova. R ecurre a regulaciones, avales pú blicos, em presas gu bern a­
+m entales cread as p a r a la ocasión, cu alqu ier m ecanism o qu e p erm ita g astar fren te a
+los en loqu ecedores con fin es d el presupuesto oficial-. Las operaciones que a continua­
+ción analizo caen dentro de este campo de «la innovación», también denominada
+contabilidad creativa, pues a mi juicio su contabilidad no se ajusta a los principios
+del Sistema Europeo de Cuentas Nacionales y Regionales (SEC 1995) o al Manual del
+SEC-95 sobre el déficit público y la deuda pública (Eurostat, 2.a edición, 2002).
+
+a)
+A p ortacion es de cap ital al G estor d e In fraestru ctu ras
+F erro v ia ria s (G IF) y Sociedades E statales p a ra la co n stru cció n
+y e x p lo ta ció n de o b ras h id ráu licas
+
+A partir de 1997 se ha producido la huida del Presupuesto en la financia­
+ción de determinadas infraestructuras públicas, cambiando el criterio de contabilización hasta entonces utilizado. En efecto, para la construcción del AVE la Red
+66
+
+
+
+Nacional de Ferrocarriles Españoles (RENFE) y para la construcción y explotación
+de obras hidráulicas por las Confederaciones Hidrográficas, los citados Organismos
+recibieron del Presupuesto del Estado ayudas a la inversión (transferencias de capi­
+tal); dicha forma de financiación tuvo incidencia en el déficit público del Estado.
+En el año 1997 se creó el Ente Público Gestor de Infraestructuras Ferroviarias (GIF)
+al que se ha encomendado la realización de las nuevas infraestructuras de Alta
+Velocidad. Desde entonces el Presupuesto del Estado efectúa al GIF aportaciones
+de capital, contabilizadas como adquisición de activos financieros, y por tanto sin
+incidencia en el déficit público, al tratarse de una operación financiera, y para la
+construcción y explotación de obras hidráulicas se han ido creando Sociedades
+Estatales, incluyendo el Presupuesto del Estado dotaciones para financiar la adqui­
+sición por el Estado de acciones de las citadas Sociedades Estatales y por tanto sin
+que afecte al déficit público, por tratarse también de una operación financiera.
+Siguiendo el camino emprendido, el Gobierno aprobó la creación de la
+Sociedad Pública para la realización de las infraestructuras del trasvase del Ebro,
+estimándose que realizará inversiones por casi un billón de pesetas durante cinco
+años, que siguiendo el sistema empleado desde 1998 para financiar las infraestruc­
+turas hidráulicas, no producirá efecto sobre el déficit público. Igualmente y para la
+realización del Plan de Regadíos por un importe de 836.000 millones de pesetas
+hasta 2008, se constituirán 17 sociedades públicas que serán financiadas a través de
+aportaciones de activos financieros públicos,y por tanto sin incidencia en el déficit
+público. El Gobierno descubrió la piedra filosofal para realizar gastos en infraes­
+tructuras financiadas a través de aportaciones de activos financieros del Estado, sin
+incidencia en el déficit público.
+Puede esgrimirse que en el año 1997 la financiación del GIF a través de
+aportaciones financieras del Estado fue aprobada por Eurostat; pero dicho argu­
+mento queda invalidado en la actualidad ya que lo fue en virtud de Sistema Euro­
+peo de Contabilidad de 1975, que desde 1999 ha sido sustituido por el Sistema
+Europeo de Cuentas Nacionales y Regionales SEC-95.
+En efecto, un criterio esencial para el SEC-95 es la finalidad de la actua­
+ción de la Administración Pública cuando proporciona fondos a una sociedad
+pública (Manual del SEC-95 sobre el déficit público y la deuda pública. Eurostat,
+
+2002):1
+1. Que lo haga con fines de política pública, es decir, para lograr objeti­
+vos de política social o colectiva para los que puede no disponer de capital priva­
+do y sin esperar rentas de la propiedad del activo financiero que pueda recibir. La
+67
+
+
+
+Administración no espera obtener dividendos y la mayoría de estas empresas no
+los pagan sino que su finalidad es mejorar la situación económica y satisfacer nece­
+sidades sociales (infraestructuras públicas, empleo, etc.).
+2. Que al proporcionar capital social a la sociedad, la finalidad de la
+Administración pública es actuar como un accionista que espera recibir dividendos
+más altos a cambio de su inversión; la sociedad tiene un amplio grado de libertad
+sobre la forma de utilizarlos, y lá Administración pública espera un rendimiento de
+su inversión similar al que podría obtener adquiriendo acciones cotizadas en el
+mercado.
+Según se desprende del Informe Económico y Financiero unido a los Pre­
+supuestos Generales del Estado para 2002, las aportaciones del Estado están inclui­
+das en la política pública de infraestructuras para lograr objetivos de política social
+o colectiva, es decir, se trata de una gestión de activos con fines de política públi­
+ca, y cuando esto sucede el SEC-95 considera que tales aportaciones deben consi­
+derarse como ayudas a la inversión (transferencias de capital) con efecto sobre el
+déficit público y no como adquisiciones de activos financieros. La transparencia
+presupuestaria exige una contabilización adecuada de estas operaciones.
+Tampoco puede alegarse que las citadas Sociedades puedan obtener
+ingresos en su día que Cubran el 50 por 100 de sus costes de producción y por tan­
+to deben ser incluidas en el Sector sociedades, sin tener por tanto incidencia en el
+déficit público, ya que de haberse considerado que tal norma era de aplicación a
+todas las infraestructuras públicas, no se hubiera tenido que regular, como lo ha
+hecho el citado Manual, los supuestos en que la Administración Pública aporta fon­
+dos a una Sociedad pública, determinando que si lo hace con fines de política
+pública, es decir, para lograr objetivos de política social o colectiva (infraestructu­
+ras públicas, empleo, etc.) y no para adquirir activos rentables, las aportaciones
+deben considerarse como ayudas a la inversión y por tanto con efecto sobre el défi­
+cit público. Parece que a la propia Administración le surge dudas sobre si las apor­
+taciones de capital contabilizadas como activos financieros tienen influencia en el
+déficit público, ya que la Ley de Acompañamiento de los Presupuestos 2004 dis­
+pone que deberán ser informadas preceptivamente por la Secretaría de Estado de
+Presupuestos y Gastos para ver si tienen efecto sobre el cumplimiento del objetivo
+de estabilidad presupuestaria. En el cuadro núm. 1 se detallan las cantidades apor­
+tadas por los Presupuestos del Estado como activos financieros al GIF y a Socieda­
+des Públicas para la construcción y explotación de obras hidráulicas.
+
+68
+
+
+
+b)
+
+Holdings p ú b licos en cargad os d e la re e stru ctu ra ció n d el s e c to r
+p ú b lico e m p resarial ap lican d o a ta l fin alid ad lo s in g reso s
+p ro ced en tes d e las p rivatizacion es de sus em p resas
+
+En 1995 se dispuso la desaparición del Instituto Nacional de Industria (INI)
+y del Instituto Nacional de Hidrocarburos (INH) y la creación de la SEPI, de la
+Agencia Industrial del Estado (AIE), que recogería las empresas deficitarias y de
+TÉNEO. Con el objetivo de simplificar, modernizar y ahorrar costes TÉNEO desa­
+parece y traspasa su balance a SEPI, y en 1997 para completar el proceso de racio­
+nalización, las empresas de la AIE pasan a SEPI, disponiendo el Real Decreto-Ley
+15/1997 que ni SEPI ni sus sociedades participadas podrían recibir aportaciones de
+ningún tipo con cargo a los Presupuestos Generales del Estado, que SEPI dispon­
+dría de autonomía financiera para realizar cuantas actuaciones resulten necesarias
+en sus empresas a cuyo efecto se dotará de unos fondos propios suficientes, pro­
+venientes de los ingresos derivados de sus operaciones de todo orden, entre ellos
+los de privatizaciones.
+Desde la aprobación del Programa de Modernización del Sector público
+empresarial en junio de 1996, SEPI ha obtenido unos ingresos propios por enaje­
+naciones de 2,8 billones de pesetas hasta 31 de diciembre de 1999 (excluyendo la
+venta de las filiales de sus empresas), que han sido destinados al saneamiento y
+consolidación de sus empresas.
+De lo que llevamos expuesto resulta que el holding público SEPI no mue­
+ve los fondos entre las empresas del grupo como parte de una estrategia empresa­
+rial para el grupo, del mismo modo que lo haría una sociedad privada, sino que su
+función es reestructurar y cambiar la propiedad de las empresas públicas a través
+de privatizaciones, canalizando los fondos de una a otra, redistribuyendo la renta
+y el patrimonio. La función principal de SEPI es organizar la privatización en las
+mejores condiciones posibles, destinando los ingresos obtenidos de la venta de
+acciones a otras empresas públicas, propiedad o no de SEPI, a través de ayudas,
+préstamos o aportaciones de capital.
+Para el SEC-95 estos proyectos de reorganización del Sector público
+empresarial, que implican gestionar activos y redistribuir la renta y el patrimonio,
+es una aplicación directa de una estrategia macroeconómica de la Administración
+Central, que utiliza un intermediario, en el caso español SEPI, para una gestión de
+activos con fines de política pública, es decir, para lograr objetivos de política social
+o colectiva, que se realiza en nombre de la Administración pública. Por tanto el
+SEC-95 establece que cuando la mayor parte de la actividad de un holding público
+69
+
+
+
+consiste en actuar con fines de política pública (privatizar, ayudar a empresas públi­
+cas), en nombre de la Administración pública, el holding público debe integrarse
+en el Sector Administraciones Públicas, independientemente de su personalidad
+jurídica.
+Con base en la publicación de SEPI, Industria p ú b lica: b a la n ce 1996-2000
+hemos elaborado los datos que a continuación figuran correspondientes a los des­
+tinos concretos de los fondos obtenidos de las privatizaciones:
+
+M iles m illones
+
+•
+
+C a n ce la ció n d e u d a INI ...........................................................................................
+
+476
+
+• E x te rn a liz a ció n d e d eu d as l a b o r a l e s ...............................................................
+
+314
+
+• L iqu idación ca rg a s d e an tigu as c a b e c e ra s s id e r ú r g ic a s .......................
+
+308
+
+• D esarro llo te c n o ló g ic o .............................................................................................
+
+130
+
+• S osten im ien to m inería p ú b lica ...........................................................................
+
+390
+
+• F o n d o s p ro p io s d e SEPI .........................................................................................
+
+821
+
+• P a g o s d e d iv id en d o s e im p u esto s al E stad o ..............................................
+
+170
+
+• A d q u isición d e a c c io n e s .........................................................................................
+
+14 0
+
+T o ta l....................................................................... ............................................
+
+2.749
+
+De acuerdo con el SEC-95 SEPI debe ser integrada en el Estado a efecto
+de contabilizár sus operaciones en las Cuentas económicas de las Administraciones
+Públicas, con incidencia por tanto en el déficit público, aunque jurídicamente esté
+considerada como Sociedad estatal.
+Los 2,8 billones de pesetas obtenidos por SEPI de las privatizaciones se
+contabilizarían en la cuenta financiera del Estado y por tanto no tendrían efecto
+sobre el déficit público.
+Los gastos serían contabilizados en el Estado en la forma siguiente:
+— La cancelación de las deudas del INI por 476.000 millones aparecería
+en la cuenta financiera y por tanto sin incidencia en el déficit.
+— La adquisición de acciones en interés de sus participadas y de la estra­
+tegia global de SEPI importante 140.000 millones de pesetas aparecería en la cuen­
+ta de capital como ayuda a la inversión, incidiendo por tanto en el déficit público.
+70
+
+
+
+— Los pagos por dividendos e impuestos al Estado por 170.000 millones,
+al tratarse de una operación dentro del mismo subsector no deben contabilizarse,
+por tanto en el supuesto de que el Estado los hubiera contabilizado como un ingre­
+so de rentas de la propiedad el pago de SEPI se contabilizará como negativo en la
+misma rúbrica anulando el ingreso. Si el ingreso en el Estado disminuyó el déficit,
+el pago de SEPI lo aumentará.
+— Los pagos por extemalización de los compromisos laborales asumidos
+en los planes de reconversión de los sectores en crisis durante la década de los
+ochenta y la primera mitad de los años noventa, que en el período analizado
+ascienden a 314.000 millones de pesetas, se contabilizarán en la cuenta de renta,
+aumentando el déficit en dicho importe.
+— La aportación de 308.000 millones de pesetas al proceso de la liquida­
+ción de las antiguas cabeceras siderúrgicas se contabilizarían bien en la cuenta de
+renta, bien en la cuenta de capital, según la naturaleza de la aportación, con inci­
+dencia en el déficit público.
+— La inversión de 130.000 millones de pesetas en desarrollo tecnológico
+de las empresas de SEPI se contabilizarían en la cuenta de capital con incidencia
+por tanto sobre el déficit.
+— El sostenimiento de la minería pública, en cumplimiento de los acuer­
+dos entre el Ministerio de Industria y los Sindicatos, ha supuesto un coste de
+390.000 millones de pesetas, que se contabilizarían como subvenciones en la cuen­
+ta de explotación, con incidencia por tanto en el déficit público.
+— Los 821.000 millones de pesetas destinados a la constitución de un
+volumen de fondos propios de SEPI para el mantenimiento futuro de su autonomía
+financiera, sin dependencia de los Presupuestos del Estado, representa el importe
+no gastado por SEPI de los fondos obtenidos de privatizaciones y aparecerán en la
+cuenta financiera en la rúbrica «efectivo y depósitos», sin incidencia por tanto en el
+déficit público.
+Como conclusión de lo expuesto podríamos decir que en el supuesto de
+aplicarse los criterios del SEC-95 a SEPI se hubiera producido un aumento de la
+necesidad de financiación del Estado durante el período 1996-1999 de 1.452 mil
+millones de pesetas que representa el 0,42 por 100 del PIB del mismo período de
+tiempo.
+En el cuadro núm. 1 se detallan los gastos de la SEPI de los años 2001 y
+2002, qué de acuerdo con el Manual del SEC-95 tienen efecto sobre el déficit públi­
+co sin que se hayan tenido en cuenta en el cálculo del mismo. Asimismo se ha efec­
+71
+
+
+
+tuado una estimación para los años 2003 y 2004, teniendo en cuenta lo sucedido
+en el período 1996-2002.
+
+c)
+
+D eudas de las em p resas p ú b licas avaladas
+p o r las A d m in istracion es p ú b licas
+
+Dice el Manual del SEC-95 sobre el déficit público y la deuda pública que
+en varios Estados miembros de la Unión Europea, las Administraciones públicas
+avalan las deudas de determinadas empresas públicas. Ello permite que éstas acce­
+dan a recursos financieros con costes más ventajosos y, además, garantiza el éxito
+del préstamo: el acreedor está seguro que, en caso de dificultades, el Estado inter­
+vendrá inmediatamente para hacerse cargo del pasivo. El aval del Estado puede
+concederse a una empresa con ocasión de un préstamo concreto, o englobar todos
+los préstamos, por disposición legal o por disposiciones estatutarias específicas de
+la empresa. Esto ha venido sucediendo en España con RTVE, cuya deuda, total­
+mente avalada por el Estado, ascendió a finales del pasado año a 7.000 millones de
+euros, y cuyo déficit para el presente año se estima rondará los 700 millones de
+euros. Dada esta situación, y que existían serias dudas que RTVE cubra con sus
+ingresos de mercado el 50 por 100 de sus costes de producción, por decisión de
+Eurostat, RTVE ha sido considerada como organismo administrativo, y en el pasa­
+do año se ha integrado en el Estado, a efecto del cálculo del déficit y la deuda. En
+el cuadro núm. 1 aparecen detallados los déficit de RTVE del período 2001-2004.
+
+d)
+
+In fraestru ctu ras p ú b licas fin an ciad as y exp lo tad as
+p o r e l S ecto r Sociedades
+
+El Manual del SEC-95 que hemos citado, distinguía a efectos de determi­
+nar la incidencia en la deuda y en el déficit público, en el caso de que existieran
+pagos públicos, entre arrendamiento operativo y arrendamiento financiero, basado
+en el análisis de ocho factores. Tal norma ha sido derogada por una nueva Deci­
+sión de Eürostat de febrero del corriente año, relativa al Tratamiento contable en
+las Cuentas nacionales de los contratos suscritos por unidades públicas en el mar­
+co de partenariado con unidades privadas; la nueva Decisión aglutina todas las fór­
+mulas de financiación de las infraestructuras públicas dentro de ese marco, inclui­
+das las concesiones. La nueva Decisión utiliza un nuevo planteamiento extensible
+a todas las fórmulas, basado fundamentalmente en la verificación de dos condicio­
+nes referidas a quién, entidad pública u operador privado, asume los riesgos de
+construcción y disponibilidad/demanda.
+72
+
+
+
+En España la financiación de infraestructuras públicas y su posterior explo­
+tación por el sector privado ha sido utilizada por el Estado, y principalmente por
+los Entes Territoriales (Comunidades Autónomas y Ayuntamientos) para evitar sus
+efectos sobre el déficit y la deuda, desconociéndose realmente si la contabilización
+en las cuentas nacionales se ha efectuado de acuerdo con el SEC-95 y su Manual,
+ya que existe una falta absoluta de transparencia en tales operaciones. En el cua­
+dro núm. 1 aparecen las cantidades aportadas por el Estado como préstamos par­
+ticípateos o concesionarios de obras públicas (carreteras y ferrocarriles).
+En el Estado, la Oficina del Presupuesto del Presidente del Gobierno,
+teniendo en cuenta lo establecido en el Plan de Convergencia actualizado y en el
+SEC, elevó al Presidente del Gobierno propuesta del techo máximo para 1997 de
+créditos presupuestarios no financieros del Estado que no debería rebasarse para
+que España cumpliera el criterio de déficit público establecido en el Tratado e
+Maastricht para ingresar en la Unión Monetaria; dicho techo ascendía a 18.099,2
+millones de pesetas, que suponía un aumento sobre el Presupuesto base de 1996
+de 307,3 millones de pesetas, el 1,7 por 100 en términos monetarios (disminución
+en términos reales). Ello supuso una reducción de créditos de inversiones del
+Estado de 147.000 millones de pesetas con respecto a los de 1996, baja de un 15
+por 100.
+Para no provocar tan fuerte caída en la demanda pública de inversión, que
+tiene un gran efecto multiplicador sobre el conjunto de la economía, el Gobierno
+en el Proyecto de Ley de Medidas Fiscales, Administrativas y de Orden Social para
+1997 arbitró, a propuesta de la Oficina del Presupuesto, los mecanismos adecuados
+para conseguir que a través de financiación privada la inversión en infraestructuras
+mantuviera el nivel de ejercicios anteriores. En este sistema, conocido como méto­
+do alemán, la Administración concierta con una empresa la construcción y la finan­
+ciación de una infraestructura pública (activo fijo) en un plazo determinado: duran­
+te el período de construcción de la inversión (formación bruta de capital fijo) la
+Administración no adquiere más compromiso que el recibir, al finalizar el plazo
+convenido, la construcción totalmente terminada y en condiciones de funciona­
+miento adecuado. Cuando tal hecho sucede, se entrega al Estado (procedimiento
+de llave en mano) que en este momento adquiere la propiedad del activo y se obli­
+ga a pagar el importe convenido.
+Dada la falta de claridad del SEC-79 en cuanto al momento de registro de
+los contratos de obra bajo la modalidad de abono total del precio, EUROSTAT, por
+Decisión de febrero de 1997, determinó que la Administración contabilizaría el acti­
+vo recibido en el momento en que se produce el traspaso de propiedad de la infra­
+73
+
+
+
+estructura, como formación bruta de capital fijo, y es en ese momento cuando se
+produce la incidencia sobre el déficit público; los créditos comerciales que el cons­
+tructor conceda a la Administración para el pago de la construcción no tendrá efec­
+to sobre la deuda pública en la forma definida por el Reglamento del Consejo
+núm. 3-605/1993, adelantando así lo establecido en el SEC-95 que entraría en vigor
+en 1999- Resultaba así que lo establecido en el artículo 147 de la Ley 13/1996 de
+Medidas Fiscales, Administrativas y de Orden Social, cumplía los requisitos exigidos
+por la Decisión de EUROSTAT de febrero de 1997.
+Sin embargo en el desarrollo que del citado artículo 147 se hizo por Real
+Decreto 704/1997, de 16 de mayo, se cambió, en contra de la opinión de la Ofici­
+na del Presupuesto, el criterio del devengo puro establecido en la Ley, en el senti­
+do de que cuando se acuerde el pago fraccionado en distintas anualidades (con un
+máximo de diez), los compromisos se refieran a los ejercicios en que se fracciona
+el pago. Tal forma de proceder minusvalora el déficit público real, enmascarando
+la verdadera situación de las finanzas públicas.
+He buscado en toda la información presupuestaria que se acompaña a los
+Presupuestos, los ajustes derivados de la utilización del método alemán que son
+necesarios realizar en los resultados presupuestarios para obtener el déficit en con­
+tabilidad nacional. El Presupuesto no se caracteriza precisamente por su transpa­
+rencia. Por ello se desconoce si realmente se están contabilizando en Cuentas
+nacionales tales operaciones de acuerdo con el SEC-95 o se están siguiendo los cri­
+terios de contabilidad pública; en este último caso el déficit no refleja la situación
+real de las finanzas públicas.
+
+4)
+P réstam os p a ra fin a n cia r el P ro g ram a de m o d ern izació n
+d e las Fu erzas A rm adas y p ro y ecto s tecn o ló g ico s in d u striales,
+p rin cip alm en te de c a rá c te r m ilitar
+
+En el año 2001 se consignó en el Ministerio de Defensa dotaciones para
+conceder préstamos para financiar los programas especiales de desarrollo para la
+construcción de: fragatas F100, aviones de combate F200 y carros de combate Leopard 2E.
+En los años 2001-2005 se consignaron dentro del Ministerio de Ciencia y
+Tecnología dotaciones en el Capítulo 8 para conceder préstamos para financiar pro­
+gramas de I+D de la defensa. Dado que casi todos los gastos de este apartado son
+gastos militares realizados por empresas públicas, tales operaciones deben ser con­
+74
+
+
+
+sideradas de acuerdo con el SEC como inversiones militares, por tanto con inci­
+dencia en el déficit. En el cuadro núm. 1 aparecen detalladas las cuantías de estas
+dotaciones.
+En conjunto las operaciones analizadas, en cuanto han podido ser cuantificadas, representaron los siguientes porcentajes del PIB: 2001 (1,3 por 100), 2002
+(0,8 por 100), 2003 (0,89 por 100) y 2004 (0,91 por 100), casi un punto de PIB como
+media del período.
+
+4.
+
+LA INFLACIÓN, UN ATAJO PARA EQUILIBRAR EL PRESUPUESTO
+
+El Banco Central Europeo (BCE 2003) en el artículo «La relación entre la
+política monetaria y las políticas fiscales de la zona del euro», dice que «un banco
+central independiente como el BCE, sometido a la prohibición de monetizar los
+déficit públicos, puede garantizar con firmeza a los agentes privados y a los mer­
+cados que los gobiernos no podrán recurrir a la inflación para cubrir sus desequi­
+librios presupuestarios». Creemos que esto es cierto cuando los Gobiernos utilicen
+la política presupuestaria para corregir los diferenciales de inflación que pueda
+tener alguno de ellos con respecto al objetivo de estabilidad de precios señalado
+por el BCE. Cuando la utilización de la política presupuestaria no es la correcta,
+creemos que la inflación diferencial de un país puede servirle para cubrir su dese­
+quilibrio presupuestario. En España ha sucedido tal supuesto, como expondremos
+a continuación.
+Dado que la protección social representa el 60 por 100 del gasto no finan­
+ciero de las Administraciones Públicas y tiene un crecimiento autónomo superior al
+3 por 100 en términos reales, y existe la decisión política de no reducirla, las pre­
+visiones de crecimiento del PIB se efectúan de forma optimista para que el con­
+junto de los gastos tenga cabida dentro del Presupuesto con equilibrio presupues­
+tario.
+Cuando por caer el ciclo el crecimiento del PIB es menor que el previsto,
+caen los ingresos, y para mantener el equilibrio sería necesario reducir el gasto
+público, lo que no se hace porque afectaría a la protección social. Al no efectuar­
+se tal reducción, la demanda total de la economía excede los recursos disponibles
+y el equilibrio se logra a través de la inflación, es decir, con un crecimiento del PIB
+en términos monetarios análogo al previsto, pero menor en términos reales. Sin
+embargo, como los impuestos son función del PIB monetario, el menor crecimien­
+to de la economía en términos reales se compensan con el mayor crecimiento del
+75
+
+
+
+deflactor, y los ingresos no se resentirán. En definitiva se cambia mantener el nivel
+de ingresos públicos por una mayor inflación, que cubre el desequilibrio presu­
+puestario. Con la financiación del gasto a través de la inflación, los Gobiernos cuen­
+tan con un medio sencillo de acomodar las demandas existentes, sin efectuar ajus­
+tes en los gastos que provocarían conflictos.
+El cuadro núm. 2 del Anexo muestra para el período 1999-2003 las tasas
+de crecimiento del PIB (a precios constantes y corrientes) y de los deflactores del
+PIB, que sirvieron de base para la elaboración de los Presupuestos Generales del
+Estado, y las que realmente sucedieron. En todos los años se observa que la tasa
+de crecimiento del deflactor del PIB fue superior a la estimación que sirvió de base
+para elaborar el Presupuesto, siendo la principal causa de que la tasa de creci­
+miento del PIB a precios corrientes sea superior a la prevista, lo que permitió cum­
+plir el Plan de Estabilidad, dado que los impuestos son función el PIB monetario.
+Sin embargo, la inflación constituye el peor de los impuestos que puede
+utilizarse para equilibrar un presupuesto, ya que desde el punto de vista de la equi­
+dad es el más regresivo, y por otra parte, a medio plazo hace perder competitividad a los países que la padecen, generando un paro creciente. La inflación provo­
+ca que los ahorradores y prestamistas tomen medidas de precaución, que reducirá
+el volumen disponible de fondos que podría asignarse al sector privado producti­
+vo. Por último provocaría distorsión en la asignación de recursos a la producción
+así como en la composición de la demanda, cambios que generarían ineficiencias.
+Por todo ello considero que el diferencial de inflación con respecto a la
+previsión del BCE debería ser tenida en cuenta, junto al déficit y la deuda, para juz­
+gar el saneamiento de las finanzas públicas de los Estados miembros.
+
+5.
+
+AHORRO PÚBLICO VERSUS CAPACIDAD DE FINANCIACIÓN,
+COMO INDICADOR DE CUENTAS PÚBLICAS SANEADAS
+
+En los Acuerdos de Maastricht, la Unión Monetaria (UME) quedó diseña­
+da como un área de estabilidad, a cuyo efecto se establecieron condiciones estric­
+tas para que los Estados miembros pudieran incorporarse a la UME. La convergen­
+cia hacia la senda de estabilidad quedó confiada a la voluntad y a las decisiones de
+cada Estado miembro, si bien sometida a la supervisión de los organismos comu­
+nitarios. La condicionalidad para el acceso se concretó en la satisfacción de una
+serie de criterios entre los cuales se encontraba el que las finanzas públicas debían
+encontrarse en una situación sostenible, lo que se demuestra si el déficit y la deu­
+76
+
+
+
+da pública no superan el 3 y el 60 por 100, respectivamente, de su Producto Inte­
+rior Bruto.
+La idea básica que se tuvo en cuenta para proponer reglas de obligado
+cumplimiento sobre el tamaño del déficit y de la deuda pública ha sido que un país
+que esté en una senda de crecimiento continuo del déficit y de la deuda pública
+puede crear efectos externos negativos sobre el resto de la UME, bien obligando a
+otros países a seguir políticas más deflacionistas de optar por estabilizar sus vatios
+deuda pública/PIB, bien presionando al BCE para que rebaje su política monetaria.
+Las consecuencias de la política fiscal diseñada en el Tratado de la Unión
+es que la totalidad de los gastos no financieros de los países miembros se cubran
+con el rendimiento de los impuestos corrientes y sobre el capital, lo que daría lugar
+a un incremento neto del patrimonio de los entes públicos, dejando que los recur­
+sos disponibles del mercado de capitales se dirijan a financiar las inversiones del
+sector empresarial.
+Podría pensarse que no es función del sector público tender a incremen­
+tar su patrimonio neto a costa de las generaciones presentes, ya que parte del mis­
+mo va a ser utilizado por generaciones futuras que deben contribuir a financiarlo.
+Se dice que en el sector empresarial su objetivo es mantener el patrimonio neto,
+no aumentarlo, y por tanto cuando tiene que realizar inversiones reales acude a los
+mercados de capitales para financiarlo; éste debería ser también el objetivo del sec­
+tor público. Si esta propuesta tuviera aceptación, el ahorro público debería sustituir
+a la capacidad de financiación, como indicador de unas cuentas públicas saneadas,
+pudiendo el sector público acudir a los mercados de capitales para financiar parte
+de su inversión para conseguir el pleno empleo de los recursos y promover el desa­
+rrollo futuro, sin que por ello se considerara que sus cuentas no están saneadas.
+Los Gobiernos de algunos Estados miembros se han olvidado de efectuar
+las reformas estructurales para hacer sus economías más flexibles y más competiti­
+vas, entre ellas la reforma del gasto público, que le hubiera dado un mayor mar­
+gen de maniobra temporal para absorber la caída del ciclo, sin traspasar el límite
+del 3 por 100 de déficit. Esto no lo han realizado y han colocado a sus economías
+y a la UME en una situación muy grave, al practicar una política keynesiana para
+reactivar la demanda interna. Sin embargo, empíricamente ha quedado demostrado
+que los fuertes déficit públicos de Japón y los incrementos de deuda no han servi­
+do para sacar a la economía japonesa durante diez años del encefalograma plano
+en cuanto a crecimiento.
+
+77
+
+
+
+Como dice el Profesor J. Shiller (2003), de hecho los déficit presupues­
+tarios actuales reflejan problemas de largo plazo que no son los que contempla
+la teoría keynesiana, de modo que las discusiones acerca de los déficit se debe­
+rían replantear en términos de problemas intergeneracionales. Como consecuen­
+cia de los déficit, la deuda de un país aumenta y traslada la carga financiera a
+las futuras generaciones, lo que produce un cambio de riqueza de una genera­
+ción a otra, que los políticos no quieren poner de manifiesto. Prefieren que las
+generaciones presentes, que son las que le votan, cobren sus pensiones, reciban
+la sanidad gratuitamente y puedan disfrutar de otros servicios gratuitos, impo­
+niendo cargas a futuras generaciones a través de los déficit, cuya financiación se
+efectuará con impuestos que pagarán aquéllos. Junto a los déficit actuales, pre­
+ocupa fuertemente a la Comisión Europea las obligaciones que se deriven del
+fuerte envejecimiento de la población, con el consiguiente efecto sobre las pen­
+siones públicas, la sanidad y los servicios sociales. La cuantía de estas obliga­
+ciones adquiere montos escalofriantes: para España, la deuda implícita del siste­
+ma de reparto de pensiones públicas es, en valor actual, más del doble de la
+deuda explícita de las Administraciones Públicas, sin tener en cuenta las obliga­
+ciones derivadas del aumento de la prestación sanitaria gratuita, que se derivan
+del envejecimiento de la población, que en valor actualizado supone el 50 por
+100 de la deuda explícita del conjunto de las Administraciones Públicas. En con­
+junto hay obligaciones comprometidas por pensiones y sanidad, que en valor
+actualizado suponen más del triple de la deuda explícita de las Administraciones
+Públicas.
+Por ello el Pacto de Estabilidad y Crecimiento pretende que los Estados
+miembros de la Unión Monetaria dispongan de un margen suficiente para hacer
+frente a las futuras obligaciones de la protección social, derivadas del envejeci­
+miento de la población. Europa lo tiene ya y se va a aumentar a consecuencia de
+cumplir sesenta y cinco años la generación del «baby boom», que disparará el cre­
+cimiento del gasto público y del déficit público si no se adoptan las medidas ade­
+cuadas, entre ellas la disponibilidad de un margen de maniobra para no rebasar el
+3 por 100 del déficit sobre el PIB.
+Dejemos por tanto el Pacto de Estabilidad tal y como está, que no sólo tie­
+ne en cuenta el presente, sino el futuro, y que los Estados miembros realicen las
+reformas estructurales necesarias para liberalizar sus economías y eliminen las rigi­
+deces, ineficiencias y falta de equidad que las intervenciones públicas han ido
+generando en sus economías.
+
+78
+
+
+
+6.
+
+REINVENTANDO EL PACTO DE ESTABILIDAD:
+DÉFICIT CfCUCAMENTE AJUSTADO
+
+La combinación de las políticas monetarias y fiscal para controlar el ciclo
+ha sido siempre objeto de atención tanto por los políticos como por los economis­
+tas, aunque las relaciones entre una y otra no siempre han sido concebidas de idén­
+tica forma.
+Hasta la década de los setenta se consideraba que las dos políticas eran
+instrumentos que debían utilizarse para controlar la demanda agregada así como
+impulsar el crecimiento económico. Sin embargo se consideraba que la política fis­
+cal, por ser el instrumento más potente, debería ser utilizado preferentemente, aun­
+que la política monetaria podría ayudar a incrementar de forma permanente la pro­
+ducción, asumiendo si fuera necesario una inflación superior a la conveniente,
+cambiando inflación por crecimiento.
+La política de sostenimiento déla demanda agregada a través de una polí­
+tica presupuestaria expansiva y de una política monetaria de acompañamiento fra­
+casó, como lo demuestra la alta tasa de inflación, el desempleo creciente y la caí­
+da de la actividad económica durante la década de los setenta.
+Desde hace unos años se piensa que es necesario asignar exclusivamente
+cada una de las políticas (monetaria y fiscal) a los objetivos que pueda alcanzar. Se
+aplica a este campo la teoría de Musgrave de las funciones múltiples del Presu­
+puesto.
+En el artículo publicado en BCE (2003) se dice: «El adecuado diseño de los
+marcos institucionales de las políticas monetaria y fiscal es uno de los mecanismos
+utilizados por la sociedad para protegerse a sí misma frente a la inflación perma­
+nente y a los problemas macroeconómicos causados por una política monetaria dis­
+crecional y unas finanzas públicas desordenadas».
+La política monetaria debería tener a su cargo conseguir la estabilidad de
+precios, base de la eficiencia de la economía de mercado, ya que estimula el fun­
+cionamiento adecuado del mecanismo de determinación de los precios relativos.
+Utilizar la política monetaria para cambiar la senda de crecimiento a largo plazo de
+la economía daría lugar a ineficiencias.
+En cuanto a la política fiscal, se considera que la utilización de una políti­
+ca fiscal anticíclica para encauzar la actividad económica a corto plazo es limitada,
+79
+
+
+
+de gran incertidumbre respecto a su incidencia en la economía, con riesgo de que
+la carga financiera de la deuda crezca de un ciclo a otro, con signo hacia el déficit
+a consecuencia de que los políticos preferirán financiar el gasto a través de la deu­
+da por el menor coste político que ello representa, trasladando a generaciones futu­
+ras la verdadera financiación del gasto. En los sistemas de pensiones gestionados
+por el sistema de reparto, el envejecimiento déla población da lugar a un incre­
+mento de la deuda implícita con análogos efectos. El crecimiento descontrolado de
+la deuda daría lugar a la expulsión del sector privado, con reducción a medio pla­
+zo del crecimiento económico.
+Dentro de la UME, todos los países pertenecientes a la misma han disfru­
+tado de los beneficios derivados de una política monetaria única: la estabilidad de
+precios, la estabilidad del tipo de cambio del euro frente a otras monedas, y la esta­
+bilidad de los mercados financieros y del sector bancario. Son los «bienes de clubderivados de la Unión Monetaria. Sin embargo, como las políticas económicas están
+a cargo de cada Estado miembro, pueden crear externalidades positivas o negati­
+vas sobre esos «bienes de club» y, a través de los mismos, sobre el crecimiento eco­
+nómico. Es en este contexto donde vamos a analizar los efectos que sobre el cre­
+cimiento de los países de la zona euro puede tener el abandono del Pacto de
+Estabilidad y Crecimiento por incumplimiento de los condicionantes que el mismo
+impone a las políticas fiscales de los Estados miembros.
+Cuando se aprobó el Pacto de Estabilidad y Crecimiento se puso de mani­
+fiesto por distintos economistas (José y Maite Barea, 1998) que «hasta que se con­
+siguiera alcanzar el equilibrio de las cuentas públicas, el Pacto de Estabilidad com­
+portaba los siguientes riesgos:
+• los derivados de que el período de expansión fuera más corto de lo pre­
+visto, lo que daría lugar a una política fiscal procíclica si se pretendiera continuar
+con la consolidación fiscal, que acentuaría la intensidad de la recesión;
+• los derivados de la falta de realización de reducciones en el déficit
+estructural por no acometerse las reformas estructurales, con las siguientes conse­
+cuencias:
+— en período de recesión, la política fiscal tendría un carácter procíclico,
+ya que al encontrarse el déficit cercano al 3 por 100 se intentaría efectuar reformas
+estructurales para reducir el déficit de dicha naturaleza, que tendería a ampliar la
+recesión del ciclo;
+
+80
+
+
+
+— en período de expansión, la insuficiente reducción del déficit estructu­
+ral daría lugar a una política fiscal que entraría en colisión con el objetivo de esta­
+bilidad del BCE;
+• los derivados de una política fiscal procíclica, que puede llevar a un
+escenario de consolidación fiscal basado en subida de impuestos y en recortes de
+la inversión en infraestructuras con efectos negativos sobre el crecimiento a largo
+plazo».
+Cinco países de la zona euro (Alemania, Francia, Italia, Portugal y Holan­
+da) han dejado de cumplir el Pacto de Estabilidad y Crecimiento en cuanto que no
+han alcanzado el equilibrio de las Cuentas Públicas, y de ellos cuatro (Alemania,
+Francia, Italia y Portugal) han rebasado el 3 por 100 del PIB como límite máximo
+de déficit, incumpliendo así un Tratado Internacional.
+El incumplimiento por algún país de la zona euro de la restricción presu­
+puestaria intertemporal que liga a largo plazo la suma actualizada del gasto no
+financiero estimado con la suma actualizada de los ingresos no financieros estima­
+dos de forma que la primera no exceda a la segunda, tendrá efectos negativos sobre
+el crecimiento de dicho país, ya que la prima de riesgo que tal comportamiento
+conlleva se trasladará a través del tipo de interés exclusivamente sobre la deuda del
+citado país, en virtud de la cláusula de no bail-ou t del artículo 130 del Tratado cons­
+titutivo de la Unión. El aumento de la prima de riesgo, y por tanto de los intereses
+de la deuda pública, dará lugar a la elevación del déficit público y de la deuda
+pública necesaria para financiarla, produciendo un desplazamiento de la inversión
+privada en el país que incumpla el Pacto de Estabilidad. Cuando los déficit son altos
+y no sostenibles, la sociedad percibirá un riesgo creciente de inestabilidad finan­
+ciera, perdiendo los precios eficacia como factor relativo de las decisiones de inver­
+sión.
+Las consecuencias de una política fiscal laxa afectará no sólo al país de la
+zona euro que la practica, sino también, por contagio, al resto de los países de la
+Unión Monetaria, al influir en los mercados de capitales, y por tanto en la credibi­
+lidad del país. El problema se ha agudizado en la UME, ya que, como hemos dicho,
+el Pacto de Estabilidad y Crecimiento no se está cumpliendo por cinco países, que
+representan el 78 por 100 del PIB de la zona euro, con lo cual los objetivos que
+dichos países pretenden alcanzar son contrarios al objetivo de la estabilidad de pre­
+cios y de defensa del valor de la moneda del Banco Central Europeo. La lucha de
+dichos países por conseguir un crecimiento de su producción a través de una polí­
+tica fiscal expansiva, que a cuatro de ellos les ha llevado a sobrepasar el techo del
+81
+
+
+
+3 por 100 de déficit señalado en el Tratado de la Unión Económica y Monetaria,
+cambiando déficit y deuda por crecimiento, puede tener un relativo éxito a corto
+plazo, pero a medio y largó plazo han puesto en peligro la sostenibilidad de sus
+finanzas y por tanto el crecimiento no sólo de dichos países, sino de toda la Unión
+Monetaria por el efecto contagio que se produce.
+Para evitar los efectos distorsionadores de un cómputo año a año del déficit/superávit, que obligaría a los países a realizar, en ocasiones, una política presu­
+puestaria procíclica, se ha propuesto que el cálculo del déficit/superávit se efectúe
+teniendo en cuenta el ámbito temporal del ciclo, y que el equilibrio de las cuentas
+se consiguiera en el período del ciclo y no año a año, es decir, un déficit cíclica­
+mente ajustado.
+El principal inconveniente que tiene esta propuesta es que de antemano
+no se conoce cuál va a ser la duración temporal del ciclo, y por tanto a cuánto debe
+ascender la actuación expansiva de la política presupuestaria, de forma que en la
+posterior fase alcista del ciclo se produzca una contracción del gasto público que
+compense los déficit de la fase de declive del ciclo. Por otra parte, y como hemos
+dicho con anterioridad, existe evidencia empírica que la política de sostenimiento
+de la demanda agregada a través de una política fiscal expansiva fracasó a nivel
+mundial, como lo demuestra la alta tasa de inflación, el desempleo creciente y la
+caída de la actividad económica durante la década de los setenta; los déficit públi­
+cos de Japón generaron una deuda pública del 140 por 100 del PIB, sin producir
+ninguna reactivación. Además, como ya hemos dicho, se considera que la utiliza­
+ción de una política fiscal anticíclica para encauzar la actividad económica a corto
+plazo es limitada, de gran incertidumbre respecto a su incidencia en la economía,
+con riesgo de que la carga financiera de la deuda crezca de un ciclo a otro, con
+signo hacia el déficit a consecuencia de que los políticos preferirán financiar el gas­
+to a través de la deuda, por el menor coste político que ello representa, trasladan­
+do a generaciones futuras la verdadera financiación del gasto.
+Sin embargo la política de déficit cero con carácter permanente o inclusi­
+ve de un ligero superávit que propugna el Pacto de Estabilidad y Crecimiento y
+nuestra Ley General de Estabilidad Presupuestaria, no tiene razón de ser desde un
+punto de vista económico. En España tal precepto tiene su razón de ser en las
+Comunidades Autónomas y en las Corporaciones Locales, ya que no corresponde
+a las mismas la función de estabilización de la economía, pero no en el Estado a
+quien corresponde dicha función, de acuerdo con la organización adoptada en la
+Unión Monetaria, donde el Presupuesto de la Unión sólo representa el 1,27 por 100
+del PIB comunitario y la política monetaria está centralizada en el BCE. Transfor­
+82
+
+
+
+mar el déficit cero en un objetivo permanente sería un error, pues el Estado ten­
+dría que recortar el gasto público o aumentar los impuestos para equilibrar el Pre­
+supuesto; la política presupuestaria tendría un carácter procíclico, lo que conduci­
+ría al país a un ajuste largo en el tiempo para salir de la recesión, con efectos
+negativos sobre el crecimiento a largo plazo. Por ello el Tratado de la Unión y el
+Pacto de Estabilidad admiten que, en casos excepcionales y de forma temporal, el
+objetivo de situaciones próximas al equilibrio, o con superávit, pueda transformar­
+se en déficit que no debe superar el 3 por 100 del PIB. Tal déficit no sería conse­
+cuencia de una política fiscal expansiva querida por el Gobierno, sino por la entra­
+da en funcionamiento de los estabilizadores automáticos; igualmente en caso de
+tensiones de demanda, que están influyendo en el nivel de precios, el objetivo pre­
+supuestarios debe transformarse en fuerte superávit cuando se considere necesario
+para estabilizar la economía y contener la inflación. Es ésta la verdadera interpre­
+tación que debe darse al Tratado de la Unión y al Pacto de Estabilidad y Creci­
+miento, sin que por tanto haya necesidad de cambiarlo.
+
+7.
+
+LA EXPERIENCIA ESPAÑOLA DEL DÉFICIT
+CÍCLICO ENTRE 1 8 5 0 Y 2 0 0 0
+
+El Estudio realizado por el Profesor Prados de la Escosura (E lprogreso eco ­
+n óm ico d e España. 1850-2000, Fundación BBVA, 2003) me ha permitido disponer
+de las tasas de crecimiento anual del PIB del período 1850-2000 armonizadas con
+los actuales criterios de contabilidad nacional, así como de las tasas de variación de
+dicha magnitud para los diferentes ciclos. Las tasas de crecimiento responden a
+tasas medias de variación anual para períodos delimitados por años en que se
+alcanzan máximos cíclicos de la actividad económica, lo que permite, a juicio del
+autor, mantener la consistencia de los resultados obtenidos, puesto que se compa­
+ran dos momentos en los que la capacidad productiva se encuentra plenamente uti­
+lizada.
+La publicación del Instituto de Estudios Fiscales D atos básicos p a r a la H is­
+toria F in an ciera d e E spaña 1850-1975, vol. II, La d eu d a p ú b lica (1976) cuyo estu­
+dio fue realizado cuando nuestro actual Presidente estuvo de Director del citado
+Instituto, nos ha permitido conocer la deuda pública viva en los años iniciales y
+finales de los ciclos a que nos hemos referido en el párrafo anterior, datos que han
+sido completados para años posteriores a 1975 con la publicación del Banco de
+España Las C uentas F in an cieras d e la E conom ía Española.
+Con dicha información he elaborado el cuadro núm. 3, obteniendo la con­
+clusión de que en todos los ciclos la deuda pública que financia el déficit ha
+83
+
+
+
+aumentado, excepto en dos de ellos: 1983-1992 y 1901-1913, en los cuales la deu­
+da viva a final del ciclo es menor que la existencia a su comienzo. Resulta por tan­
+to que de los 18 ciclos que se dieron en el período 1850-2000 sólo en dos de ellos
+la deuda pública tuvo una reducción con respecto a la existente al comenzar el
+ciclo. En el conjunto del período analizado la deuda pública viva al comienzo del
+período era de 3-633,52 millones de pesetas, y al finalizar el mismo de 6 l.375.860
+millones de pesetas, lo que supone que la deuda en circulación se ha multiplicado
+casi por 17.000. De lo expuesto se deduce que no existe evidencia empírica para
+España de que se haya cumplido la teoría del déficit cíclicamente ajustado en el
+siglo y medio analizado, con excepción de los dos períodos de que se ha hecho
+mención.
+Sin embargo, hay que hacer notar que en el período 1985-2000 las Admi­
+nistraciones Públicas se endeudaron en casi 22 billones de pesetas por encima del
+endeudamiento necesario para la financiación del déficit (cuadro núm. 4), es decir,
+como media casi un billón y medio de pesetas anuales (2 por 100 de la media del
+PIB del período), para adquirir activos financieros derivados principalmente de
+aportaciones a sociedades públicas o entes públicos considerados empresariales,
+pero como hemos puesto de manifiesto en el apartado 3, «Sombras y d u d as sobre
+la ap licación correcta d e los prin cip ios d el SEC-95 a determ in adas op eracion es»,
+deben integrarse en el Presupuesto a efectos de determinación del déficit público.
+
+BIBLIOGRAFÍA
+B a r e a , J . ( 1 9 9 3 ) , «El déficit p ú b lico e n 1992%
+
+—
+
+(1 9 9 3 ),
+
+"Los
+
+p ro b le m a s
+
+de
+
+la
+
+Cuadernos de Información Económica,
+d e te rm in a ció n
+
+d el
+
+d éficit
+
+p ú b lico *,
+
+núm . 71.
+
+Revista
+
+n úm . 3 /1 9 9 3 , IEE.
+—
+
+( 1 9 9 4 ), «Reflexiones so b re c ó m o red u cir el déficit público*,
+
+ñola,
+—
+
+n úm . 2,
+
+( 1 9 9 5 ),
+
+H acienda Pública Espa­
+
+Homenaje al Profesor Fuentes Quintana.
+
+"El d eseq u ilib rio d el S ecto r público»,
+
+Papeles de Economía Española,
+
+n úm . 62.
+—
+
+( 1 9 9 5 ), “Los agu jero s d el P resupuesto»,
+
+Cuadernos de Información Económica,
+
+n úm . 100.
+—
+
+( 1 9 9 5 ), “El P ro y e cto d e Ley G en eral P resu p u estaria y la Estabilidad d e la E c o n o ­
+mía»,
+
+Cuadernos de Información Económica,
+
+( 1 9 9 6 ),
+
+n úm . 104.
+
+Disciplina presupuestaria e integración de España en la Unión Monetaria,
+
+Real A cadem ia d e C iencias M orales y Políticas.
+
+84
+
+
+
+( 1 9 9 6 ), -C o m en tarios al RD -Ley 1 2 /1 9 9 6 , d e 2 6 d e julio»,
+
+Cuadernos de Informa­
+
+ción Económica.
+—
+
+( 1 9 9 9 ) , “El en raizam ien to d el d éficit e n la p olítica p resu p u estaria españ ola»,
+
+Pape­
+
+les de la Academia de Ciencias Morales y Políticas.
+—
+
+( 2 0 0 0 ) , “El d éficit p ú b lico c o m o h eren cia n egativa: ¿h em os a p ren d id o a co n tro la r­
+lo?,
+
+—
+
+Papeles de la Academia de Ciencias Morales y Políticas.
+
+( 2 0 0 3 ) , «El P a cto d e E stabilidad y C recim ien to y la p o lítica d e con v erg en cia», en
+
+Economía y economistas españoles,
+
+C o le cció n dirigida p o r el p ro fe so r F u en tes
+
+Q u in tan a, vo l. VIII, C írculo d e L ecto res
+—
+
+( 2 0 0 3 ) , “Los p elig ro s p ara el crecim ien to e c o n ó m ic o d e a b a n d o n a r el P a cto d e E sta­
+bilidad Presupuestaria», Instituto d e E stu d io s E co n ó m ic o s (IE E ),
+
+Revista,
+
+n ú m s. 2 y
+
+3.
+
+Barea, J ., y Barea, M. ( 1 9 9 8 ), Después de Maastricht ¿qué?, E n cu e n tro P u b licacio n es.
+BCE (2002),
+
+Funcionamiento de los estabilizadores fiscales automáticos en la zona euro,
+
+B o letín m ensual, febrero.
+
+Comisión Europea ( 1 9 9 5 ) , T e ch n ical N ote, "The C o m m ission Services m e th o d fo r th e cy clical
+ad justm en t o f g o v e rn m e n t b u d g et balances»,
+
+European Economy,
+
+EUROSTAT ( 1 9 9 5 ) ,
+
+Sistema Europeo de Cuentas Nacionales y Regionales.
+
+EUROSTAT (2002),
+
+Manual SEC-95 sobre el déficit y la deuda pública.
+
+núm . 60.
+
+Feito, J . L. ( 2 0 0 2 ) , La política anticíclica dentro del euro, C írcu lo d e E m p resario s.
+Fuentes Q uintana, E. ( 1 9 9 6 ), Déficitpúblico d éla dem ocracia española, U niversidad d e Alca­
+lá d e H enares.
+
+Fuentes Q uintana, E ., y Barea, J . ( 1 9 9 7 ), «Déficit p ú b lico e n la d em o cracia», Papeles de Eco­
+
+nomía Española,
+
+n úm . 6 8 /6 9 .
+
+González Páramo, J. M. (2001), Costes y beneficios de la disciplina fiscal: la Ley de Estabili­
+
+dad Presupuestaria en perspectiva,
+
+Instituto d e E stu d io s Fiscales.
+
+Raymond, J . L. ( 1 9 9 7 ) , >El c a rá c te r estru ctu ral d el déficit presup uestario», Papeles de Econo­
+
+mía Española,
+
+n úm . 6 8 /6 9 .
+
+Shiller, J . ( 2 0 0 3 ) , «Los riesg o s reales d e lo s déficit», Expansión, 13 d e ag o sto .
+—
+
+Tratado de la Unión Europea (te x to
+
+co n so lid ad o ).
+
+85
+
+
+
+co
+
+as
+
+901,52
+
+1.202,02
+
+1.268,00
+
+1.352,28
+
+2001 ...............................
+
+2002 ..............................
+
+2003 ..............................
+
+2004 ...............................
+
+275,90
+
+247,00
+
+247,32
+
+282,48
+
+obras hidráulicas
+
+construc. y explot.
+
+al G IF
+
+.
+
+de Socied. Púb. para
+
+. —_
+
+Aportaciones
+
+Adquisición acciones
+
+3.000,00
+
+3.000,00
+
+1.272,00
+
+4.712,00
+
+j EPI
+
+623,08
+
+648,12
+
+688,82
+
+638,38
+
+Klvb
+
+.
+
+,
+
+755,00
+
+240,00
+
+352,80
+
+192,32
+
+obras públicas
+
+concesionarios de
+
+,
+
+participativos a
+
+Préstamos
+
+1.161,25
+
+1.241,81
+
+1.989,67
+
+1.794,87
+
+Fuerzas Armadas
+
+modernización de
+
+financiar programa
+
+Prestamos para
+
+Operaciones no incluidas en el déficit público, por no aplicación correcta del SEC-95
+(En millones de euros)
+
+Cuadro 1
+
+ANEXOS
+
+7.167,51
+
+6.644,93
+
+5.752,63
+
+8.520,87
+
+^
+
+0,91
+
+0,89
+
+0,83
+
+1,31
+
+% p ¡¡¡
+
+
+
+oo
+
+1999
+2000
+2001
+2002
+2003
+
+......................................
+......................................
+......................................
+......................................
+......................................
+
+PIB
+
+2,1
+2,0
+2,3
+2,9
+2,8
+
+Deflactor
+
+a precios constantes
+
+Estimación presupuestos
+
+Tasa crecimiento PIB
+
+3,8
+3,7
+3,6
+2,9
+3,0
+
+Cuadro 2
+
+6,0
+5,8
+5,9
+5,9
+5,8
+
+a precios corrientes
+
+Tasa crecimiento PIB
+
+4,2
+4,2
+2,7
+2,0
+2,4
+
+a precios constantes
+
+2,7
+3,5
+4,2
+4,4
+4,2
+
+P IB
+
+Deflactor
+
+7,0
+7,8
+6,9
+6,5
+6,7
+
+a precios corrientes
+
+Tasa crecimiento PIB
+
+Resultados cuentas económicas
+
+Tasa crecimiento PIB
+
+Tasas de crecimiento y deflactores del PIB
+
+
+
+Cuadro 3
+
+Tasa de crecimiento del PIB en el ciclo y variación de la deuda en el mismo período
+(En millones de pesetas)
+Período
+
+Deuda viva
+
+Tasa de
+
+del
+
+crecimiento
+
+ciclo
+
+del PIB
+
+Variación
+
+(1 )
+
+(2 )
+
+Comienzo ciclo
+
+Final ciclo
+
+d éla
+deuda
+
+1855-1866 ......................
+
+1,04
+
+3.633,53
+
+4.592,68
+
+959,13
+
+1866-1873 ..........................
+
+3,40
+
+4.592,68
+
+5.684,53
+
+1.091,85
+
+1873-1883 ......................
+
+1,20
+
+5.684,53
+
+7.454,50
+
+1.769,97
+
+1883-1992 ......................
+
+0,81
+
+7.454,50
+
+7.175,78
+
+- 278,72
+
+12.363,04
+
+6.187,26
+
+10.371,59
+
+- 2.991,45
+
+1892-1901 ......................
+
+1,25
+
+7.175,78
+
+1901-1913 ......................
+
+1,34
+
+13.363,04
+
+1913-1920 ......................
+
+1,49
+
+10.371,59
+
+13.056,22
+
+2.684,63
+
+1920-1929 ......................
+
+3,54
+
+13.056,22
+
+20.085,18
+
+7.028,96
+
+1929-1935 ......................
+
+- 0,02
+
+20.085,18
+
+24.760,43
+
+4.675,25
+
+1935-1944 ......................
+
+- 0 ,5 5
+
+24.760,43
+
+56.129,58
+
+31.369,15
+
+1944-1952 ......................
+
+2,37
+
+56.129,58
+
+97.726,77
+
+41.597,19
+
+1952-1958 ......................
+
+4,35
+
+97.726,77
+
+174.601,46
+
+76.874,69
+
+1958-1964 ......................
+
+6,88
+
+174.601,46
+
+225.803,04
+
+51.201,58
+
+1964-1974 ......................
+
+6,94
+
+225.803,04
+
+673.767,91
+
+447.964,87
+
+1974-1978 ......................
+
+3,71
+
+673.767,91
+
+1.282.500,00
+
+608.732,09
+
+1978-1986 ......................
+
+1,89
+
+1.282.500,00
+
+12.489.800,00
+
+11.207.300,00
+
+1986-1992 ......................
+
+4,21
+
+12.489.800,00
+
+28.703.255,00
+
+16.213.455,00
+
+1992-2000 ......................
+
+2,93
+
+28.703.255,00
+
+61.375.860,00
+
+32.672.605,00
+
+Fundación BBVA, 2003.
+IEF, 1976.
+Cuentas Financieras de la Economía de España, Banco de España.
+
+Fuente: El Progreso Económico de España, 1850-2000,
+
+Datos básicos para la Historia Financiera de España, 1850-1975,
+
+88
+
+
+
+Cuadro 4
+
+Déficit y variación neta de pasivos
+(En millones de pesetas)
+F in a n c ia c ió n
+
+A ño
+
+1985 ...............................
+1986 ...............................
+1987 ...............................
+1988 ..............................
+1989 ..............................
+1990 ..............................
+1991 ..............................
+1992 ..............................
+
+D éfic it p ú b lic o
+0 )
+
+V ariació n n eta d e
+
+E x ceso d e p a siv o s
+
+p a siv o s fin a n c ie r o s
+
+fin a n c ie r o s s o b re
+
+(2 )
+
+d é fic it (3 ) ( 3 - 2 - 1 )
+
+1.949.477
+
+2.886.086
+
+1.943.409
+1.127.146
+
+2.385.871
+1.860.661
+2.414.792
+
+1.322.115
+1.655.541
+2.169.008
+2.465.508
+
+3.131.551
+3.900.088
+3.032.551
+3.925.878
+
+2.450.367
+4.276.120
+4.138.020
+4.834.678
+
+7.715.485
+4.727.026
+5.898.051
+
+1997 ..............................
+1998 ..............................
+
+2.820.555
+2.609.432
+2.244.880
+
+5.663.759
+3.008.259
+3.482.792
+
+1999 ..............................
+2000 ..............................
+
+1.090.159
+343.920
+
+2.716.083
+2.269.671
+
+1993 ..............................
+1994 ..................... .........
+1995 ..............................
+1996 ..............................
+
+936.609
+442.462
+733.515
+1.092.677
+1.476.010
+1.731.080
+567.043
+1.475.511
+3.439.365
+589.006
+1.063.373
+2.843.204
+398.827
+1.237.912
+1.625.924
+: 1.925.751
+
+Banco de España.
+Intervención General dé la Administración del Estado.
+
+F u en te: C u en tas F in a n c ie ra s d e la E co n o m ía E sp añ ola,
+C u en tas d e la s A d m in istra cio n es P ú b lica s,
+
+89
+
+
+
+

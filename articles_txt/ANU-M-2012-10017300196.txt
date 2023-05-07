@@ -1,0 +1,759 @@
+PERSPECTIVISMO TEXTUAL Y PRINCIPIO
+DE RELATIVIDAD SISTÉMICA EN LA TEORIA
+COMUNICACIONAL DEL DERECHO
+Por el Académico de Número
+Excmo. Sr. D. Gregorio Robles Morchón*
+
+1. CONOCIMIENTO Y PERSPECTIVA
+La explicación más divertida de lo que es el perspectivismo propio
+de las ciencias la leí hace años en un libro de teoría económica. Me refiero
+a la obra de Kenneth E. Boulding titulada Análisis económico. Dice así: “Es
+un ‘hecho’ que Oliverio Cromwell tenía una verruga en la nariz. Pero ¿qué
+es lo que constituye ese supuesto ‘hecho’? Para el químico, es un cierto conglomerado de átomos y moléculas. Para el físico, es una masa confusa de
+electrones excitables cuya reacción no se puede predecir. Para el biólogo,
+es cierta impropiedad en el comportamiento de las células. Para el psicólogo, puede ser clave que sirva para interpretar el carácter de Cromwell y
+un hecho de importancia excepcional. El historiador puede considerarla
+como un detalle insignificante o un importante factor causal, según siga la
+interpretación económica o la psicológica de la historia. Para el economista,
+la verruga puede tener una importancia despreciable, a menos que Cromwell estuviese dispuesto a pagar una buena suma por su extirpación. ¿Qué
+es entonces el ‘hecho’ respecto a la verruga? Puede ser cualquiera o todos
+los que hemos expuesto, según el tipo especial de interpretación en que se
+coloque”1.
+
+* Sesión del día 15 de noviembre de 2011.
+1
+Kenneth E. Boulding, Análisis económico, 8ª edición, traducción de Juan A. Bramtot, revisión y nota preliminar de Miguel Paredes, Editorial Revista de Occidente, Madrid 1963, pp. 9-10.
+
+173
+
+
+
+Dos comentarios me sugiere este párrafo. El primero es que Boulding, como la mayor parte de los economistas, al menos de la época en que
+él escribe2, se olvida del derecho y de la ciencia de los juristas. Si no los
+hubiera omitido es muy probable que habría sugerido algo así como que
+para estos últimos la verruga de Cromwell forma una parte, aunque no sustancial, de su cuerpo (esto es, de los llamados “bienes de la personalidad”)
+y es susceptible de extirpación, para lo cual requeriría contratar los servicios
+de un cirujano, con lo que se demuestra que la perspectiva económica a la
+que se refiere es difícil de comprender cabalmente si no se la une a la jurídica. El segundo comentario me lleva al punto que quiero destacar en este
+ensayo, esto es, al perspectivismo de las interpretaciones de un mismo
+hecho. Aunque el párrafo de Boulding subraya lo que puede denominarse
+perspectivismo científico, pues va pasando revista a los diversos significados
+que un mismo hecho adquiere desde los respectivos ángulos de las diversas ciencias, no cabe duda de que las perspectivas desde las que contemplamos la realidad no se pueden reducir tan sólo a las perspectivas científicas, sino que afectan a toda forma de conocimiento.
+“Perspectivismo” es un término que en España puso en boga nuestro filósofo máximo: José Ortega y Gasset. Se trata de un concepto que afecta
+al conocimiento en cualquiera de sus manifestaciones, de aplicaciones múltiples y del cual tenemos experiencias en la vida cotidiana. Toda percepción
+de aquello que nos rodea tiene lugar desde un determinado prisma o perspectiva. Ésta, la perspectiva, es una especie de vínculo invisible que se establece entre quien ve y lo que ve, entre quien entiende y lo que entiende,
+entre el sujeto cognoscente y el objeto que conoce. El ser humano está incapacitado para ver o comprender la realidad total. O, mejor dicho, carece de
+una perspectiva que le permita acceder a ese conocimiento simultáneamente
+completo. La percepción sensorial es, por su propia naturaleza, unilateral:
+siempre que miramos lo hacemos desde algún lado, desde algún lugar,
+desde una situación, desde unas coordenadas. El conocimiento humano es
+perspectivista. Conocemos en escorzo, al igual que el pintor pinta su cuadro en escorzo, respetando una cierta perspectiva.
+Ortega y Gasset, en una famosa conferencia3, explicó esta idea del
+perspectivismo con gran plasticidad escénica. Tras aludir a la escena en que
+Eva enseña una manzana a Adán, señalando la diversa perspectiva de los
+
+2
+En los últimos decenios, por el contrario, los economistas han dedicado una atención especial a los
+aspectos institucionales y organizativos de la economía. Véanse, como una muestra de esta tendencia, los libros de
+Thráinn Eggertsson, El comportamiento económico y las instituciones, traducción al español de Consuelo Varela Ortega,
+Alianza Editorial, Madrid, 1995; de R.H. Coase, The Firm, the Market and the Law, The University of Chicago Press, Chicago and London, 1988; así como las numerosas obras dedicadas al análisis económico del derecho.
+3
+José Ortega y Gasset, El hombre y la gente, en Obras Completas 7, Alianza Editorial, Madrid, 1983, pp. 117 s.
+
+174
+
+
+
+dos padres de la humanidad, se supone que con una manzana en la mano
+exclamó ante el público asistente algo parecido a esto: “La manzana que
+ustedes ven no es la misma que veo yo, y sin embargo se trata de la misma
+manzana”.
+El psiquiatra Luis Martín-Santos, en su novela Tiempo de silencio,
+dedicó un pasaje a ridiculizar la puesta en escena orteguiana4. Era una
+época en que, desde la izquierda política, estaba de moda poner en solfa
+—muy injustamente, por cierto— las enseñanzas de nuestro gran filósofo.
+Probablemente Ortega escenificó algo teatralmente el perspectivismo, pero
+no cabe haber duda de que ninguno de los asistentes a su conferencia se
+olvidaría durante el resto de su vida de la verdad que transmitía aquella
+representación.
+Esa verdad es que el conocimiento nunca proporciona una percepción sensorial o intelectual de la realidad toda, sino que por su naturaleza
+es perspectivista. Siempre accedemos a la realidad desde una perspectiva.
+Así sucede paradigmáticamente en las ciencias, las cuales se construyen
+desde acendradas perspectivas llamadas métodos, cada uno de los cuales no
+es sino un instrumento afinado para aproximarse al conocimiento de una
+materia.
+El gesto de Ortega va, sin embargo, un poco más allá. Nos llama la
+atención sobre la idea de que, además de la manzana que veía el público y
+de la “otra” manzana que veía él mismo, desde la diversa perspectiva de
+cada cual, estaba la manzana en sí misma. Venía a decir: la manzana existe,
+es algo objetivo, no depende de ustedes ni de mí, ni ustedes ni yo podemos
+verla en su integridad, sino que tenemos que conformarnos con ver una de
+sus caras, dando la otra por “com-presente”. Algo similar sucede con nuestro satélite, la Luna; vemos tan sólo una de sus caras, ya que la otra la mantiene oculta, a pesar de lo cual nadie duda de que exista.
+Estas enseñanzas son muy importantes y no siempre se asimilan
+hasta el fondo. Suponen, por una parte, la aceptación de que existe una
+realidad objetiva. Pero, por otra, implican que los humanos no podemos
+conocerla en su plenitud y, por decirlo así, de un solo golpe. Tenemos que
+asumir que nuestro conocimiento es siempre limitado por ser perspectivista.
+Sólo conocemos en perspectiva. La perspectiva es nuestro límite y al mismo
+tiempo nuestra única posibilidad de conocimiento. Cada ciencia, y asimismo
+cada teoría, implican la adopción de una perspectiva sobre una materia
+determinada que se transforma en objeto.
+
+4
+
+Luis Martín-Santos, Tiempo de silencio, Editorial Seix Barral, Barcelona, 1961, p. 133.
+
+175
+
+
+
+La teoría comunicacional del derecho, como cualquier otra concepción, es asimismo perspectivista. Contempla su materia —el fenómeno jurídico— desde una perspectiva determinada: la comunicación humana.
+2. EL PERSPECTIVISMO TEXTUAL
+Hasta aquí me he referido únicamente a lo que puede denominarse
+perspectivismo epistemológico o, más en general, cognoscitivo, que es el
+que caracteriza a nuestra mente y al conocimiento que tenemos de las cosas.
+Ahora me voy a referir a otro tipo de perspectivismo, el que es propio de
+determinadas construcciones culturales. Así, por ejemplo, una religión
+implica una manera de entender la realidad, ya que supone una perspectiva
+desde la que se va dando respuesta a múltiples problemas, tales como el
+sentido de la vida, el puesto del hombre en el cosmos, e incluso el origen
+de este último. Algo similar es predicable de las ideologías. Cada ideología
+es una manera de organizar mentalmente el mundo que nos rodea, sobre
+todo el social y el político, para así poder entenderlo. No ve de igual modo
+la misma realidad económica un ejecutivo de mentalidad liberal que un sindicalista de ideología socialdemócrata. Asimismo las lenguas son construcciones perspectivistas que sirven, si no para dar sentido al mundo, sí para
+nombrar sus diversos componentes. Ahora bien, no sólo sucede que cada
+lengua emplea unos términos diferentes para referirse a las cosas; también
+es verdad que esos términos están cargados de elementos simbólicos, que
+son usados casi siempre por los hablantes de manera inconsciente, pero
+que no por ello dejan de ser relevantes.
+Pues bien, los textos también tienen su propia perspectiva. La llamaremos perspectiva textual.
+Para explicar lo que es la perspectiva textual permítaseme detenerme un momento en mi afición, en lo que la gente suele llamar hobby: la
+novela. Todo novelista, al escribir una obra, sabe que un componente esencial de la misma es el narrador. Es muy diferente escribir una novela con un
+narrador omnisciente, para el que no existe secreto alguno pues es capaz de
+penetrar hasta los más recónditos pensamientos y deseos de sus personajes,
+que limitarse mediante un narrador que sólo puede saber aspectos determinados, por ejemplo, acciones o conductas meramente externas. De similar
+manera, si el narrador cuenta su historia en primera persona (por ejemplo,
+si la novela comienza así: “Aquella mañana lucía un sol deslumbrante. Toby,
+al verme, vino hacia mí, veloz y ladrando lleno de contento.”), no cabe duda
+de que la novela nos dará una visión de las cosas diferente a la que nos proporcionaría un narrador que fuera amigo del protagonista, y mucho más
+aún si quien narra es un enemigo de este último.
+
+176
+
+
+
+El narrador contempla en escorzo la realidad narrada, igual que el
+pintor contempla la suya. Lo mismo sucede con otros tipos de textos, como
+por ejemplo los textos históricos. El historiador ha de ser consciente de
+que, persiguiendo la verdad de lo acaecido en tiempos pasados, no podrá
+desasirse de su “pre-comprensión”5, la cual constituye como una especie de
+atalaya desde la que contempla la evolución de la sociedad que investiga.
+Como es natural, los juristas no escapamos a esa regla general del
+conocimiento humano. Si actuamos como abogados defensores de nuestro
+cliente sabemos que nuestra perspectiva no puede ser la misma que la del
+fiscal. Si nos sentamos a una mesa para celebrar una negociación “a cara
+de perro” (como se suele decir), somos bien conscientes de que actuamos
+en representación de una determinada empresa y de unos intereses concretos, y que debemos enfocar las cosas desde ese ángulo6. El juez, por su
+parte, tiene el deber de hacer justicia, esto implica que ha de colocarse en
+la perspectiva del ordenamiento jurídico al que sirve, para lo cual es condición ineludible haber asimilado hasta el fondo los caracteres de dicha
+perspectiva.
+Aquí es justamente donde me quiero detener un momento para
+explicar la idea de que todo ordenamiento jurídico constituye una perspectiva textual desde la que se contempla y se enjuicia el mundo jurídico. Esta
+tesis, que podemos llamar “perspectivista”, va unida a otras dos tesis no
+menos importantes en el marco de la teoría comunicacional del derecho:
+la tesis nominalista y la tesis de la pluralidad de ordenamientos jurídicos (o,
+como explicaré después, de ámbitos jurídicos). Para comprender cabalmente la tesis perspectivista es preciso aclarar antes las dos últimamente
+mencionadas que, en realidad, forman dos caras de una misma moneda.
+
+5
+El concepto de “pre-comprensión” (Vorverständnis) es uno de los conceptos que han recibido mayor
+atención por parte de la filosofía hermenéutica. Véase, como más representativa, la obra de Hans-Georg Gadamer,
+Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik, J.C.B. Mohr (Paul Siebeck), Tübingen, 1990. En
+las páginas 272-273, este autor se refiere a las “opiniones previas con las que leemos los textos y que constituyen nuestra pre-comprensión” (Vormeinungen, mit denen wir Texten lesen und die unser Vorverständnis ausmachen). El concepto
+de “pre-comprensión” está íntimamente ligado al de “prejuicio” (Vorurteil), esto es, al “juicio previo” con el que, queramos o no, nos acercamos a las cosas. Para Gadamer, es preciso una rehabilitación del concepto de “prejuicios”, ya que
+constituyen “condiciones del comprender” (Vorurteile als Bedingungen des Verstehens). Cfr. op.cit., pp. 281 y ss.
+6
+Toda estrategia implica, en efecto, la adopción de una perspectiva. Interesante a este respecto es el libro
+de Thomas C. Schelling, The Strategy of Conflict, Harvard University, Cambridge (Mass.), London (England), 1960; 2ª
+edición (“With a new Preface by the author”), 1980. Aunque esta obra se centra en los conflictos propios de las relaciones internacionales, contiene relevantes aspectos de una teoría general de la estrategia y de la negociación (“Bargaining”) en situaciones de tensión o conflicto.
+
+177
+
+
+
+3. LA TESIS NOMINALISTA
+Es habitual que los libros de derecho, ya sean de teoría o filosofía del
+derecho o de cualquiera de las disciplinas dogmáticas, comiencen su exposición con una definición del derecho más o menos bien fundamentada. Suelen proporcionar una breve fórmula en la que se pretende definir el concepto
+universal del derecho. No digo que no sea legítimo e incluso conveniente
+poner al lector en un cierto marco conceptual mediante una noción aproximativa o introductoria para la exposición posterior de la materia jurídica de
+que se trate. Lo que parece destinado al fracaso es el intento de dar con una
+definición del concepto universal del derecho, por la sencilla razón de que,
+como decía Federico de Castro y Bravo, sobre tal cuestión se han escrito ríos
+de tinta pero no se ha llegado a un resultado que satisfaga a todos7. Esta postura, que puede ser calificada de escéptica, se encuentra formulada también
+en una de las obras de filosofía más importantes de la historia, en la Crítica
+de la razón pura, de Immanuel Kant, cuando éste afirma con cierta ironía:
+“Todavía buscan los juristas una definición para su concepto del derecho”8.
+Por su parte, Herbert Hart escribió un libro que se ha hecho famoso y que se
+titula precisamente El concepto de derecho, sin que en él pueda encontrarse
+una definición de dicho concepto y ni siquiera pretenda su autor tal cosa9.
+La complejidad del fenómeno jurídico es tal que se resiste a verse
+ajustado a una mera fórmula, a lo que es una definición, en la cual se dé
+cuenta de todos los elementos necesarios y suficientes de lo definido. Hay
+realidades que escapan a esa posibilidad de ser definidas en fórmulas escuetas. Con el derecho sucede así, de igual forma que con el arte, la cultura, la
+7
+Federico de Castro y Bravo, Compendio de Derecho Civil, Instituto de Estudios Políticos, Madrid, 1968,
+p. 13. La cita completa es así: “La pregunta ¿qué es el derecho? se dice que ha hecho correr ríos de tinta y que, a pesar
+de ello, todavía se espera la respuesta que a todos satisfaga.” No obstante, De Castro proporciona su propia definición,
+aunque la limita al “derecho positivo”: “la reglamentación organizadora de una comunidad, legitimada por su armonía
+con el derecho natural.” (Federico de Castro y Bravo, Derecho Civil de España. Parte General I, Instituto de Estudios
+Políticos, Madrid, 1955, p. 32). Definición claramente incompleta pues remite al derecho natural, que a su vez precisaría de otra definición.
+8
+“Noch suchen die Juristen eine Definition zu ihrem Begriffe vom Recht”, en Immanuel Kant, Kritik der
+reinen Vernunft 2, Werkausgabe, Band IV, hrsg. von Wilhelm Weischedel, Suhrkamp Taschenbuch Wissenschaft, Frankfurt am Main, 3ª edición, 1977, p. 625, en nota a pie de página. Sin embargo, Kant también contribuye al acervo de las
+definiciones del derecho. La suya se encuentra en su Die Methaphysik der Sitten, Werkausgabe cit., Band VIII: “El derecho es, por tanto, el conjunto de condiciones bajo las cuales se pueden conciliar conjuntamente el arbitrio de cada uno
+con el arbitrio de los demás, según una ley general de libertad” (“Das Recht ist also der Inbegriff der Bedingungen, unter
+denen die Willkür des einen mit der Willkür der andern nach einem allgemeinen Gesetze der Freiheit zusammen vereinigt werden kann”). Obsérvese que esta definición se adapta sólo a un tipo de sociedad en la que dominen los valores liberales, por lo que no puede ser considerada una definición universal del derecho.
+9
+Este autor declara expresamente que el propósito de su libro “no es proporcionar una definición del derecho”, sino “hacer progresar a la teoría del derecho suministrando un análisis mejor de la estructura característica de un
+sistema jurídico estatal así como una compresión más perfilada de las semejanzas y diferencias entre el derecho, la coerción y la moral, considerados como tipos de fenómenos sociales” (“its purpose is not to provide a definition of law (…);
+it is to advance legal theory by providing an improved analysis of the distinctive structure of a municipal legal system
+and a better understanding of the resemblances and differences between law, coercion, and morality, as types of social
+phenomena.” (H.L.A. Hart, The Concept of Law, 2ª edición, Oxford University Press, 1994, p. 17.
+
+178
+
+
+
+sociedad o cualesquiera otras “grandes palabras”. El ontologismo filosófico
+se empeña en descubrir la “esencia” de las cosas para definirlas de una vez
+por todas, pero no siempre es posible esa operación demiúrgica.
+Ante la imposibilidad práctica de esa tarea, la teoría comunicacional, consecuente con el escepticismo en materia de definiciones de las grandes palabras, adopta una posición pragmática y se pregunta, no qué sea el
+derecho, sino a qué cosas llamamos derecho. Se trata, pues, no de definir
+el derecho sino de “mostrarlo”.
+Creo que en este asunto no hay disparidad entre el uso del lenguaje
+ordinario (esto es, del propio de la gente en general) y el uso del lenguaje
+de los juristas (los profesionales del derecho —en su sentido más amplio,
+integrante tanto de los teóricos como de los prácticos—). Al derecho pertenecen realidades tan variadas como la constitución y las leyes, las actuaciones judiciales y policiales, los contratos y los testamentos, las prisiones y las
+multas de tráfico, los matrimonios, los divorcios y las adopciones, los convenios colectivos y las huelgas, los contratos internacionales y las guerras…
+¿Cómo poner orden en este caos de fenómenos, todos los cuales tienen que ver con el derecho, no como algo meramente externo sino realmente formando parte de él? Ésta es precisamente la tarea de la teoría del
+derecho en general, y de la teoría comunicacional del derecho en particular.
+Para esta última no existe el derecho propiamente, sino los ámbitos
+jurídicos, en plural: el ámbito jurídico brasileño, el español, el colombiano,
+el chino…; y además de estos ámbitos jurídicos nacionales, están otros, como
+el ámbito jurídico internacional, el comunitario (de la Unión Europea), el
+canónico (de la Iglesia católica), etc.
+“Derecho”, en efecto, es una palabra, un nomen designativo de una
+realidad plural y multiforme. Cuando decimos “el derecho” estamos empleando una fórmula lingüística simplificadora que cumple la función de sintetizar con esa palabra un conjunto de fenómenos variopinto. El derecho, como
+tal, no tiene existencia real sino que es un nombre que usamos para referirnos a la pluralidad de ámbitos jurídicos que han existido en el pasado, existen en el presente y presumiblemente existirán en el futuro. Los que en verdad tienen existencia son los ámbitos jurídicos, concepto que se relaciona
+estrechamente con el de ordenamientos jurídicos y cuyo significado elemental explicaré al final de este trabajo.
+El sentido de la tesis nominalista es justamente éste. No es posible,
+para la teoría comunicacional, una definición esencialista u ontologista del
+derecho, y eso la distingue netamente tanto de la teoría del derecho natu-
+
+179
+
+
+
+ral como del positivismo jurídico10. Pues ambas se plantean como prioritaria la cuestión de que es el derecho, bien es cierto que para contestarla de
+manera contradictoria; pues mientras que para la primera la “cosa” derecho
+es una idea (llámese justicia, derecho natural, derecho correcto, o de cualquier otra forma), para el segundo el derecho es una realidad “puesta” en
+la existencia social de los humanos (sea esa realidad “puesta” las leyes, las
+normas, las actitudes o los hechos sociales). A pesar de las divergencias en
+cuanto a la respuesta, al iusnaturalismo y al positivismo jurídico les une la
+pregunta por la esencia o el ser del derecho.
+Si se quiere formular de un modo más atenuado (o sutil, según como
+se entienda) la tesis nominalista puede afirmarse que el derecho existe en sus
+realidades plurales que son los ámbitos jurídicos. De cualquier modo, la renuncia a dar una definición auténtica (y no una mera noción aproximativa) del
+derecho está plenamente justificada o, en cualquier caso, es comprensible.
+Encontramos aquí un cierto parangón con la dicotomía lenguaje y
+lengua. El lenguaje no tiene existencia propia, sino que es también un nombre para designar al conjunto de las lenguas que han existido, existen o
+existirán. Es posible ampliar el marco de aplicación del término “lenguaje”
+y extenderlo no sólo a las lenguas sino a cualquier sistema de signos (p.ej.,
+el morse, o el braillie)11. De ese modo, con la palabra “lenguaje” nos estaremos refiriendo a todos los conjuntos de signos (especialmente a las lenguas)
+que sirven a los humanos para comunicarse.
+Asimismo también se da una similitud con los juegos. El juego en
+realidad no tiene existencia autónoma, propia, sino que es un nomen designativo de todos los juegos existentes. Cuando decimos “el juego” no nos referimos a ningún juego en concreto sino a todos en general, es una manera de
+simplificar la complejidad gracias a las posibilidades que ofrece nuestra capacidad de poner nombres.
+Claro que, si hablamos del derecho, del lenguaje y del juego, se
+debe a que todos los ámbitos jurídicos, todas las lenguas y todos los juegos,
+respectivamente, tienen algo en común. No hay duda de que el español y
+el chino son lenguas muy diferentes, pero algo deben de tener en común
+cuando un español puede aprender chino y un chino puede aprender español. Esa estructura profunda de toda modalidad concreta del lenguaje se
+
+10
+Para la crítica del ontologismo jurídico y la justificación de un nuevo programa de investigación superador de los esquemas de la teoría del derecho natural y del positivismo jurídico, véase mi Introducción a la teoría del
+derecho (Sexta edición revisada y actualizada por el autor), Editorial Debate, Barcelona, 2003.
+11
+Ludwig Wittgenstein, Philosophische Grammatik, hrgs. von Rush Rhees, Suhrkamp Taschenbuch Verlag,
+2ª edición, 1978, p. 27: “ ‘Sprache’, das sind die Sprachen.- Die Sprachen sind Systeme”.
+
+180
+
+
+
+asemeja a la estructura profunda de los juegos y también a la de los ámbitos jurídicos. Tarea de la teoría del derecho es descubrirla y analizarla.
+En el derecho la tesis nominalista nos conduce directamente a la
+idea de la pluralidad de ordenamientos jurídicos y, por tanto, de sistemas y
+ámbitos jurídicos. En efecto, si “derecho” es un nombre que sirve para designar al conjunto de ordenamientos jurídicos (y también, en consecuencia, de
+ámbitos y sistemas jurídicos) estamos presuponiendo la tesis pluralista.
+4. LA PLURALIDAD DE ORDENAMIENTOS JURÍDICOS
+Sin embargo, no debe creerse que la tesis pluralista haya predominado en el seno de la filosofía jurídica. Tanto en el iusnaturalismo como en
+el positivismo jurídico encontramos serios defensores de la posición contraria: el monismo jurídico.
+Por lo general, las teorías iusnaturalistas son monistas, ya que consideran el mundo jurídico como un cosmos organizado de acuerdo a leyes
+de diversos tipos pero que están concatenadas entre sí conforme a un
+esquema coherente. Para las doctrinas del derecho natural, el derecho es una
+realidad unitaria, aunque compleja, que se manifiesta en dos momentos básicos diferentes pero unidos ontológicamente. El primero de esos momentos
+corresponde a lo que se ha llamado, desde los estoicos, derecho o ley natural; y el segundo corresponde a lo que es habitual denominar derecho positivo. Aunque el fenómeno jurídico se despliega en estas dos dimensiones,
+no constituyen dos realidades contrapuestas o contrarias sino que, muy al
+contrario, una de ellas es consecuencia de la otra.
+Podemos imaginar la idea iusnaturalista al modo de una gran construcción catedralicia, cuya bóveda estaría formada por las normas del derecho natural, esto es, por principios básicos de carácter ético-jurídico, a cuyo
+amparo y como prolongación de dichos principios se encuentran los derechos positivos de los Estados, que vendrían a ser así como las columnas de
+la catedral que unen la bóveda con el suelo. Esas columnas, si bien diferentes entre sí y asimismo distintas de la bóveda que las cobija, forman parte
+de una misma realidad unitaria, de un conjunto ordenado. La visión del
+derecho natural es unitaria y responde a una concepción armoniosa tanto
+del universo como de la realidad humana.
+Ahora bien, esa visión armoniosa y unitaria no es patrimonio exclusivo de la teoría del derecho natural, sino que es también suscrita por algunas
+tendencias dentro del positivismo jurídico. Así, la Escuela de Viena, en su versión kelseniana, defiende la concepción monista, unitaria del derecho, con el
+
+181
+
+
+
+matiz —no menor, desde luego— de que la “bóveda” del edificio está constituida ahora no por el derecho natural, sino por el derecho internacional.
+Para ser más exactos, Kelsen sostiene que, desde un punto de vista
+lógico, son posibles dos modalidades de construcción unitaria: la estatalista
+y la internacionalista. Lo que no es posible, también desde la perspectiva
+lógica, es mantener una posición dualista o pluralista.
+El monismo, sostiene este autor, puede ser estatalista; tal sucede
+cuando se contempla el mundo jurídico desde la perspectiva del propio ordenamiento jurídico estatal. El derecho en su conjunto sería ese mismo ordenamiento y aquellos otros que el primero reconociera como válidos; bien entendido que el fundamento de la validez de estos últimos estaría justamente en
+el ordenamiento estatal originario. Esta manera de ver el derecho, según Kelsen, es propia de posiciones políticas imperialistas. Desde el punto de vista
+político podrá ser criticable, pero desde el punto de vista de la construcción
+jurídica es lógicamente impecable. La otra alternativa de una construcción
+coherente del derecho es la internacionalista, para la cual el ordenamiento
+jurídico originario es el derecho internacional, del que derivan su validez el
+resto de los ordenamientos jurídicos, entre los cuales se encuentran los estatales. Esta posición es tan lógica como la postura estatalista pero, a diferencia
+de esta última, es —desde el punto de vista ideológico— propia de concepciones políticas pacifistas. En ambas concepciones habría un solo derecho,
+esto es, en sentido propio habría un solo ordenamiento jurídico, organizado
+desde la perspectiva bien del derecho estatal bien del derecho internacional.
+El fundamento epistemológico de la concepción monista en cualquiera de
+estas dos manifestaciones posibles es el postulado básico del positivismo: la
+unidad de la ciencia. Si hay una ciencia jurídica tiene que haber un objeto y
+un método. El método no puede ser otro que el jurídico o normativo. El objeto
+uno es el derecho; lo cual equivale a afirmar que el objeto es el orden jurídico12.
+Desde la teoría comunicacional del derecho se defiende la postura
+pluralista13. No existe un solo ordenamiento jurídico en el mundo, sino múltiples. Se enlaza de esta manera con las concepciones formuladas ya a comienzos del siglo XX por Triepel14 y Anzilotti15, pero sobre todo por Santi Romano16,
+
+12
+Estas tesis las defiende Kelsen a partir de su obra Das Problem der Souveränität und die Theorie des
+Völkerechts. Beitrag zu einer reinen Rechtslehre, 1ª edición, 1920, 2ª edición, 1928; Scientia Verlag Aalen, 1981.
+13
+Robles, Pluralismo jurídico y relaciones intersistémicas. Ensayo de teoría comunicacional del derecho,
+Editorial Thomson-Civitas, Cizur Menor (Navarra), 2007.
+14
+Heinrich Triepel, Völkerrecht und Landesrecht, Verlag von C.L. Hirschfeld, Leipzig, 1899; reimpresión,
+Scientia Antiquariat, Aalen, 1958.
+15
+Dionisio Anzilotti, Il diritto internazionale nei giudici interni, Zanichelli, Bolonia, 1905.
+16
+Santi Romano, L’ordinamento giuridico (1918), El ordenamiento jurídico, traducción al español de Sebastián Martín-Retortillo y Lorenzo Martín-Retortillo, estudio preliminar de Sebastián Martín-Retortillo, Instituto de Estudios
+Políticos, Madrid, 1963.
+
+182
+
+
+
+ya que mientras que los dos primeros autores se centran en la dualidad existente entre el derecho estatal y el derecho internacional, el último hace de la
+pluralidad ordinamental el centro de su interés.
+El punto débil de la teoría de Romano es que multiplica exageradamente el número de ordenamientos jurídicos, hasta el punto de atribuir la
+existencia de ordenamiento jurídico a todos los grupos sociales, incluidos
+aquellos que hacen del delito su actividad principal (como es el caso de la
+mafia y de las organizaciones parecidas a ella).
+La determinación de cuáles sean los ordenamientos jurídicos es un
+asunto convencional, pues cada autor puede llamar “ordenamiento jurídico”
+a lo que le plazca, siempre que fundamente su postura. En mi opinión, este
+problema no tiene una solución unívoca y mucho menos absoluta, pero una
+vía para encontrarla puede ser —atendiendo a uno de los postulados básicos
+de la teoría comunicacional del derecho— acudir al análisis del lenguaje de
+los juristas. Entonces el problema de cuáles son los ordenamientos jurídicos
+en un momento histórico determinado se contestará respondiendo a esta otra
+pregunta: ¿por lo general, a qué llaman los juristas “ordenamiento jurídico”?
+Me parece incontrovertible el hecho de que la generalidad de los
+juristas denominan “ordenamiento jurídico” al derecho de los Estados, al
+derecho internacional, al derecho de la Unión Europea y otras organizaciones similares, al derecho de la Iglesia católica y de otras confesiones religiosas, etc.; pero no aplican ese nombre a las normas internas de organizaciones delictivas, ni lo reducen exclusivamente al derecho del Estado17.
+5. EL PRINCIPIO DE RELATIVIDAD EN EL DERECHO
+La tesis pluralista conduce al principio de relatividad en el derecho,
+a tenor del cual cada ordenamiento jurídico constituye una perspectiva
+desde la cual se contempla y se enjuicia el mundo jurídico.
+Si todos los textos conllevan una perspectiva, así sucede con cualquier ordenamiento jurídico. A diferencia de una novela, que es un texto
+narrativo, un ordenamiento jurídico es un texto de tipo decisional-institucional-regulativo. Su función inmanente consiste en organizar una determinada
+sociedad y asimismo dirigir, dentro de ella, las acciones de los individuos.
+Todo ordenamiento es una totalidad textual compuesta por textos parciales;
+
+17
+Mi critica a la tesis de Romano (y a la de Eugen Ehrlich, similar a la de Romano, aunque no atribuye carácter jurídico a las organizaciones delictivas) puede verse en Pluralismo jurídico y relaciones intersistémicas, citado.
+
+183
+
+
+
+éstos sólo adquieren su pleno sentido en relación con la totalidad y, por
+otra parte, dicha totalidad no puede comprenderse sin referencia constante
+a los textos concretos que la forman. Es una característica de todos los ordenamientos el que no sólo regulan aspectos, por decirlo así, sociales, esencialmente las acciones humanas, sino que su función pragmática comprende
+igualmente otros aspectos, tales como la regulación de sus propios componentes y la regulación de sus propias relaciones con otros ordenamientos
+jurídicos. Detengámonos brevemente a analizar estas ideas.
+Primera idea: todo ordenamiento jurídico constituye una perspectiva textual desde la que es posible calificar y enjuiciar todo el mundo jurídico.
+Cuando decimos “todo el mundo jurídico” se está expresando exactamente eso, no sólo el mundo jurídico “hacia adentro” del ordenamiento
+de que se trate. Con ello se da a entender que un ordenamiento jurídico es
+una perspectiva que nos sirve para “ver” y “calificar” cualquier realidad potencialmente jurídica, y asimismo para “valorarla” (o “enjuiciarla”). Qué sea realidad jurídica, y qué no lo sea, dependerá del ordenamiento concreto desde
+el cual se “mire”. Puede afirmarse que efectuar esa separación entre “lo jurídico” y “lo no jurídico” es el primer acto de calificación, el acto sustancial y
+previo a cualquier otro, que es posible realizar desde la perspectiva de un
+ordenamiento jurídico determinado.
+Echemos mano de un ejemplo para aclarar este aparente juego de
+palabras. Supongamos que una persona mata a otra en territorio español.
+Ese acto habrá tenido lugar en el ámbito interno territorial del ordenamiento
+español. Independientemente de la nacionalidad de ambas personas (del
+ofensor y de la víctima), nuestro ordenamiento considera dicho acto como
+calificable y enjuiciable por las autoridades españolas, ya que aplica directamente el principio de territorialidad en materia penal. Pero supongamos que
+un neozelandés mata a otro neozelandés en Nueva Zelanda. Entonces nuestro ordenamiento decide que tal acto no le compete. Podrá calificarlo como
+un “supuesto” delito de homicidio o asesinato (por ejemplo, en el supuesto
+de que el ofensor haya huido de su país y aparezca en territorio español, solicitando Nueva Zelanda la extradición), pero para declarar a continuación
+que el supuesto acto delictivo no es objeto de su jurisdicción por lo que, en
+consecuencia, se abstiene de pronunciarse sobre el mismo.
+Podemos ver, entonces, cómo un mismo tipo de acto es, en un caso,
+objeto de calificación y enjuiciamiento, mientras que, en el segundo caso, se
+produce una abstención que equivale, en definitiva, a dejar que el acto sea
+calificable y enjuiciable por otro ordenamiento jurídico, por el ordenamiento
+neozelandés. ¿Por qué razón esto es así? La respuesta es sencilla: porque el
+
+184
+
+
+
+propio ordenamiento jurídico lo tiene establecido de ese modo. Ha decidido
+que se hará cargo de unos actos pero no de otros. Esto último equivale a
+dejar el enjuiciamiento de esos actos a la competencia de otras autoridades.
+No es que el acto del segundo supuesto (cuando el delito se ha cometido en
+Nueva Zelanda) le sea indiferente al ordenamiento español sino que, por
+razones de diverso tipo, ha decidido ceder su competencia a otro ordenamiento jurídico, el neozelandés. Pero no la cederá si resulta que una de las
+personas involucradas en el crimen es un español. En este tercer caso, aunque el crimen se haya cometido en las antípodas, el ordenamiento jurídico
+puede declararse competente para calificar y enjuiciar dicho acto, y entonces habrá que ver cómo se resuelve el “conflicto” de competencias con las
+autoridades neozelandesas, las cuales probablemente se consideren competentes para llevar a la cárcel al culpable, independientemente de cuál sea su
+nacionalidad.
+Con este sencillo ejemplo pretendo transmitir una idea aparentemente
+compleja pero que en verdad es muy simple: todo ordenamiento jurídico organiza la realidad y la valora aplicando su propia textualidad, sus propias normas. Y esta tarea la lleva a cabo respecto de todos los elementos (autoridades, competencias, procedimientos, actos, etc.) que considere jurídicamente
+relevantes. Esto es lo que significa la tesis de que cada ordenamiento jurídico
+constituye una perspectiva desde la cual es posible calificar y enjuiciar todos
+esos elementos jurídicamente relevantes. Ya la determinación de lo que, para
+un ordenamiento jurídico, es jurídicamente relevante implica una calificación,
+la cual a su vez es consecuencia de una decisión. Por ejemplo, cuando el
+legislador decide calificar jurídicamente como relevantes tales o cuales actos,
+suponiendo implícitamente irrelevantes (para el derecho) los demás.
+Segunda idea: cada ordenamiento jurídico se autorregula generando
+sus propios elementos. En este aspecto puede afirmarse que todo ordenamiento es una perspectiva que se construye a sí misma. Es una perspectiva
+autopoiética (el término “autopoiesis” lo puso en boga el sociólogo alemán
+Niklas Luhmann, pero para los juristas se trata de un concepto viejo).
+El carácter perspectivista del ordenamiento no sólo supone que se
+vea la realidad en escorzo, a través del texto ordinamental. Significa asimismo
+que el ordenamiento se ve a sí mismo y decide desarrollarse como perspectiva a golpe de decisión de una determinada manera y no de otra. Ya la decisión constituyente, al generar la constitución, establece las bases fundamentales de dicha perspectiva, que habrá de ir completándose constructivamente
+paso a paso en los diversos escalones de la producción textual. Si se me permite emplear un lenguaje antropomórfico, diré que todo ordenamiento jurídico se ve a sí mismo de una determinada manera, lo cual implica un perspectivismo interno.
+
+185
+
+
+
+Tercera idea: junto a esa perspectiva ad intra, el ordenamiento conlleva también necesariamente, como ya ha quedado apuntado, una perspectiva ad extra (perspectivismo externo).
+El perspectivismo externo implica, entre otras cosas, que todo ordenamiento jurídico regula sus propias relaciones con el resto de los ordenamientos jurídicos existentes en el mundo. Ésta es una verdad general, aplicable a todos los ordenamientos. Dependiendo de cómo se contemple a sí
+mismo, esto es, de su perspectiva interna, el ordenamiento enfocará sus relaciones externas (las interordinamentales) de un modo u otro. Si, por ejemplo, un Estado adopta la perspectiva interna de que su derecho no es producto exclusivo de las decisiones de sus propias autoridades, sino que
+depende en buena medida del derecho internacional, es obvio que la construcción de sus relaciones con otros ordenamientos será muy diferente a la
+que pueda llevar a cabo otro Estado que tenga una concepción más autosuficiente de sí mismo. Puede afirmarse, por tanto, que la perspectiva interna
+y la perspectiva externa de un ordenamiento jurídico muestran necesariamente una gran coherencia entre sí. Desde el punto de vista de la teoría del
+derecho lo único que puede afirmarse a este respecto es que la construcción
+de ambas perspectivas depende exclusivamente de cada ordenamiento jurídico. Al igual que el novelista decide la perspectiva del narrador, cada ordenamiento, a través de sus decisiones (tanto de la extrasistémica o constituyente, como de las intrasistémicas o constituidas), decide el sentido de su
+perspectiva, en el aspecto interno y en el externo. Esto explica que la convivencia entre ordenamientos está bien lejos de ser plenamente pacífica pues,
+al depender del enfoque de cada uno y al ser los enfoques diferentes entre
+sí, conviven casi siempre en tensión, cuando no en declarado conflicto.
+Cuarta idea: todo ordenamiento conlleva o implica una perspectiva interna y externa, pero muchas veces no la declara. Ahora bien, el sistema hace explícito lo implícito. Por eso puede afirmarse que la perspectiva
+sistémica es la perspectiva explícita (interna y externa).
+¿Qué papel cumple la dogmática jurídica en este asunto del perpectivismo interno y externo de todo ordenamiento jurídico? La dogmática tiene
+como cometido construir el sistema jurídico que refleje lo mejor posible los
+contenidos de significado del texto ordinamental. El texto del sistema es el
+resultado de esa labor. Como totalidad textual que es, el sistema ha de adoptar también una perspectiva interna y externa, que, como es lógico, no
+puede ser otra que la del ordenamiento al que refleja y sirve. En este problema, que podemos denominar el problema de la construcción sistémica
+de la perspectiva ordinamental, la dogmática ha de proceder como lo hace
+siempre: siendo fiel a la idiosincrasia del ordenamiento construirá la perspectiva sistémica con los elementos que el ordenamiento le proporciona y
+
+186
+
+
+
+con aquellos otros que no le suministra claramente pero que están implícitos en él.
+Un ejemplo manifiesto de esta construcción sistémica lo tenemos
+en el modo en que se ha articulado la relación entre el derecho de la Unión
+Europea y el derecho de los Estados miembros. En este punto los Tratados
+fundacionales guardaban un absoluto silencio, y ha sido la labor conjunta
+de la doctrina comunitarista y de la jurisprudencia del Tribunal de Luxemburgo (esto es, de la “doctrina común” o “doctrina dominante”) la que ha
+permitido dar coherencia a la relación entre el ordenamiento comunitario y
+los ordenamientos estatales, haciendo explícito lo que estaba implícito. En
+este caso podemos decir que la perspectiva sistémica representa la perspectiva explícita, mientras que la ordinamental (de la UE) era una perspectiva
+implícita, ya que no venía expresada en sus textos fundacionales.
+Quinta idea: de acuerdo con lo expuesto, el planteamiento de una
+cuestión jurídica, sea la que sea, sólo tiene sentido desde el ángulo de un
+ordenamiento (sistema) jurídico determinado.
+Me refiero, obviamente, a las cuestiones jurídicas propiamente dichas,
+no a las cuestiones teórico-jurídicas. Estas últimas tienen que ver con el derecho posible, designación ésta que funge como referente nominal de los ordenamientos jurídicos que han existido, que existen y que existirán. Ahora bien,
+hay que distinguir con nitidez entre una cuestión teórico-jurídica (por ejemplo, ¿qué estructura tiene una norma procedimental?, o ¿qué relación existe
+entre ordenamiento y sistema?) y una cuestión meramente jurídica (como, por
+ejemplo, ¿qué puede hacer Cayo si Ticio no le paga el alquiler?, o ¿qué derechos me corresponden como usufructuario de unas acciones de una sociedad
+anónima?). Aquellas son preguntas que afectan a todos los ordenamientos;
+éstas, por el contrario, sólo se pueden contestar a la luz de un ordenamiento
+jurídico determinado, desde esa perspectiva concreta. Las cuestiones meramente jurídicas no tienen una respuesta abstracta o general, esto es, válida
+para cualquier ordenamiento, sino que son relativas a un ordenamiento determinado. Diremos, por ejemplo: “según el ordenamiento jurídico español, si
+Ticio no paga a Cayo el alquiler que le debe, la ley de arrendamientos urbanos prevé tal y tal cosa”, o “según la ley española que regula las sociedades
+anónimas, los derechos del usufructuario de acciones son éstos y aquellos”.
+En razón a lo expuesto, la primera pregunta que es preciso hacerse
+ante una cuestión meramente jurídica será ésta: ¿qué ordenamiento jurídico
+es el aplicable? Dicho con otras palabras: ¿desde qué perspectiva ordinamental/sistémica hemos de enfocar la cuestión que se nos plantea? Ocurre
+en la vida diaria que a los operadores jurídicos se les suele olvidar esta verdad, probablemente por ser tan evidente.
+
+187
+
+
+
+Con todo lo dicho me parece que queda bastante nítida la tesis de
+que cada ordenamiento jurídico constituye una perspectiva en el mundo del
+derecho; lo cual viene a ser lo mismo que afirmar el principio de relatividad
+de todo lo jurídico.
+Cualquier cuestión práctica de carácter jurídico que se plantee tendrá respuestas diferentes atendiendo al ordenamiento desde el cual se considere la mencionada cuestión. Algo similar sucede con los conceptos jurídicos. Junto a los conceptos formales o universales, propios de la teoría del
+derecho (tales como los de decisión jurídica, institución jurídica, norma jurídica, procedimiento jurídico, acto jurídico, sanción jurídica, y otros, de los
+que se encarga la parte que en el marco de la teoría comunicacional hemos
+denominado “teoría formal del derecho”), están los conceptos jurídicos que
+un ordenamiento determinado maneja o presupone. Se trata, en este segundo
+caso, de conceptos que no pueden ser calificados de “universales”, sino que,
+por su pertenencia —en principio exclusiva— a un ordenamiento jurídico,
+son propios de éste y no de otros ordenamientos. Es cierto que ordenamientos próximos culturalmente entre sí, y con mayor razón los que pertenecen
+a la misma “familia” (como, p. ej., los que forman parte de lo que se suele llamar “derecho europeo continental”), y precisamente por esa proximidad de
+tradiciones culturales y también estrictamente jurídicas, suelen manejar conceptos muy similares; pero aún así, es preciso considerarlos, para evitar equívocos, como conceptos vinculados a ordenamientos concretos. El derecho
+comparado es una disciplina que sirve para estudiar esos rasgos comunes y
+asimismo las diferencias que caracterizan a unos ordenamientos respecto de
+otros. Se trata de una disciplina que presupone el tratamiento dogmático
+(esto es, el tradicional de ciencia de los juristas) de cada ordenamiento que
+compara, y supone el esfuerzo de poner en contacto los respectivos sistemas
+para cumplir su tarea comparatista. Esto nos lleva directamente a relacionar
+tres nociones que hemos manejado en este trabajo: ordenamiento, sistema y
+ámbito.
+6. ORDENAMIENTO JURÍDICO, SISTEMA JURÍDICO,
+ÁMBITO JURÍDICO
+La complejidad del derecho no se reduce a la que es propia de los
+ordenamientos jurídicos, sino que se amplía considerablemente si se tienen
+en cuenta el sistema y el ámbito. A continuación trataré de explicar con la
+máxima brevedad estos conceptos así como su relación recíproca.
+Hemos dicho que todo ordenamiento jurídico constituye una totalidad textual compuesta por textos parciales: la constitución, las leyes, los reglamentos, las sentencias de los jueces, etc. Todos estos textos son resultado de
+
+188
+
+
+
+procesos de decisión comunicacional de diverso género: así a la constitución
+le precede el proceso constituyente, a la ley el proceso legislativo, a la sentencia el proceso judicial, etc. Independientemente de las peculiaridades de
+cada uno, todos ellos se caracterizan por ser procesos de comunicación entre
+los agentes que intervienen en ellos: partidos políticos y demás grupos sociales en el primer caso, facciones de la cámara parlamentaria en el segundo,
+abogados, fiscales y jueces en el tercero… Todos estos procesos de comunicación se caracterizan por que desembocan en la creación de nuevos textos
+normativos, cuyo conjunto, como digo, conforma el todo textual que es un
+ordenamiento. Se trata, obviamente, de un todo textual dinámico que se
+genera cada día a golpe de decisión, y respecto del cual es posible su investigación estática (o sincrónica) y asimismo dinámica (o diacrónica).
+Parece fuera de duda que cualquiera de esos textos mencionados
+(constitución, leyes, sentencias) y otros que supongan la creación textual
+normativa forman, tomados en su conjunto, la totalidad textual que es el
+ordenamiento. La constitución, por tanto, es ordenamiento jurídico, y asimismo las leyes, las sentencias, los reglamentos, los convenios colectivos e
+incluso los contratos (ya que, como dice el Código civil español18, los contratos tienen fuerza de ley entre las partes contratantes, esto es, son ley para
+estas últimas)19.
+La realidad textual del ordenamiento jurídico es, pues, la realidad
+comunicacional primaria. Quiero decir con ello que sin ordenamiento jurídico no es posible pensar nada que tenga sentido jurídico. El ordenamiento
+es, pues, el necesario punto de partida de cualquier análisis en el campo del
+derecho. Ahora bien, afirmar que el derecho se agota en el ordenamiento o
+en la pluralidad de los ordenamientos, es desenfocar el verdadero alcance
+de “lo jurídico”.
+Todo ordenamiento jurídico, por muy primitivo y elemental que sea,
+implica la existencia de un ámbito jurídico, esto es, de un “espacio virtual”
+(que puede coincidir con un espacio geográfico o no; lo más frecuente es
+que el espacio geográfico constituya un elemento básico para determinar el
+“espacio virtual”, si bien casi nunca es el único criterio).
+Todos aquellos procesos de comunicación y todas aquellas acciones que tienen lugar en relación con el ordenamiento, pero que no pueden
+ser calificados de textos ordinamentales, forman parte de ese “espacio vir18
+Artículo 1.091 del Código civil español: “Las obligaciones que nacen de los contratos tienen fuerza de
+Ley entre las partes contratantes, y deben cumplirse al tenor de los mismos”.
+19
+Esta enumeración es enunciativa y tiene carácter de ejemplo, de ninguna manera se la puede considerar exhaustiva.
+
+189
+
+
+
+tual” que es el ámbito, pero no forman parte del ordenamiento jurídico.
+Ejemplos: los debates que se producen en un proceso constituyente, los
+debates parlamentarios, las controversias entre las partes dentro del proceso, los dictámenes periciales, los informes realizados por juristas sobre
+cualquier asunto que se les plantee, los escritos de los abogados relativos a
+los procesos como: las demandas, las contestaciones a las demandas etc., los
+escritos de los jueces que no sean las sentencias, las negociaciones entre los
+representantes de dos empresas para cerrar un acuerdo, las conversaciones
+entre particulares para convenir las cláusulas de un contrato, etc. Además de
+estos actos comunicativos entre diversos agentes, también forman parte del
+ámbito aquellos actos que no son genuinamente comunicativos, pero que
+tienen carácter de jurídicos, como pueden ser la ocupación de una res nullius o la comisión de un delito. Obviamente, no se puede afirmar que ocupar una res nullius o cometer un delito formen parte del ordenamiento,
+pero sí que pertenecen a un ámbito jurídico determinado. En términos
+comunicacionales, tanto los actos comunicativos con sentido jurídico como
+los actos y omisiones que no son clasificables como genuinamente comunicativos pero que también tienen significado jurídico, adquieren ese sentido porque se los “lee” desde la perspectiva textual de un ordenamiento
+jurídico determinado; y en consecuencia puede afirmarse que pertenecen al
+ámbito jurídico propio de aquel ordenamiento.
+Cada ordenamiento conlleva un ámbito, que es su propio “espacio
+virtual”, dentro del cual tienen lugar todos los procesos comunicativos (incluidas las acciones de todo género) que tienen que ver con el ordenamiento en
+cuestión. Esta distinción entre ordenamiento y ámbito es aplicable tanto al
+derecho primitivo como al propio de las sociedades dotadas de un alto nivel
+de civilización. No es posible pensar un ordenamiento jurídico sin considerar asimismo el ámbito que le acompaña como una consecuencia natural de
+su propia existencia. Si hay ordenamiento, hay necesariamente ámbito. Éste
+constituye una expresión necesaria y consustancial del ordenamiento en su
+relación con el mundo humano que le rodea y se concreta en todos aquellos actos y procesos comunicativos que tienen lugar en relación con el ordenamiento jurídico de que se trate. Por tanto, el principio de relatividad de lo
+jurídico también se aplica a la relación entre ordenamiento y ámbito. No
+existe un ámbito jurídico universal, aunque en el futuro sí pueda existir: es
+posible que eso suceda si en el mundo se llega a consolidar un solo ordenamiento jurídico.
+Las cosas son algo diferentes en el caso del sistema jurídico. Producto de la labor de los juristas teóricos, y más en concreto de los juristas
+dogmáticos o “científicos del derecho” —llamados en otros tiempos “jurisprudentes”—, el sistema jurídico requiere un elevado nivel cultural. No todas
+las sociedades que han existido en la historia han conocido el desarrollo de
+
+190
+
+
+
+sistemas jurídicos, aunque todas ellas hayan tenido su propio ordenamiento
+y su propio ámbito. El sistema supone la existencia de una clase profesional, los juristas, dedicada no sólo a aplicar el derecho sino también a conocerlo con criterios científicos, lo que conlleva su presentación en una totalidad textual que refleje la propia del ordenamiento pero al mismo tiempo
+la complete y la perfeccione. Un sistema jurídico constituye, en definitiva,
+la mejor versión de un ordenamiento jurídico.
+Si el ordenamiento jurídico está formado por los textos constitucionales, los textos legales como los de los códigos y las leyes especiales, los
+textos en los que se recogen los convenios colectivos, los textos de las sentencias de los jueces, etc., el sistema jurídico está compuesto por los textos
+doctrinales: tratados de las diversas ramas (de derecho constitucional, de
+derecho civil, de derecho administrativo, de derecho penal, de derecho laboral, de derecho procesal, etc.), esto es, por textos que organizan, explican,
+depuran, conceptualizan y completan los textos que componen el ordenamiento.
+En el derecho moderno el eje comunicacional básico viene dado
+por la dualidad “ordenamiento / sistema” (ORD / SIS). Entre ambos se establece una relación compleja de comunicación que puede sintetizarse en
+que, por una parte, el sistema completa el ordenamiento y lo perfecciona,
+y por otra, en que el ordenamiento incorpora en fases sucesivas los hallazgos y correcciones del sistema. Se trata de una relación de comunicación que
+puede ser descrita simbólicamente como una “espiral hermenéutica” que
+avanza dinámicamente al compás de los tiempos. No obstante, de los dos
+elementos el punto de partida absolutamente necesario es el ordenamiento:
+sin éste no hay sistema, aunque es posible (y la historia así lo demuestra)
+que sin sistema sí puede haber ordenamiento; tal es el caso de los derechos
+primitivos. Esto es una verdad en términos generales; pero deja de serlo si
+nos referimos al derecho moderno, es decir, al derecho propio de sociedades con un alto nivel cultural. En este tipo de sociedades es impensable que
+su ordenamiento no vaya acompañado de un sistema doctrinal sofisticado;
+tanto más sofisticado cuanto mayor sea el grado de civilización.
+Ahora bien, la idea de sistema implica una cierta simplificación de
+la realidad de las cosas. Si el ordenamiento lo encontramos inequívocamente
+en determinados textos, no planteando problemas especiales la identificación de los mismos, en lo relativo al sistema la situación es diferente. Los distintos autores suelen mantener posiciones diferentes en el seno de la dogmática jurídica, lo que a unos les parece de una forma se les antoja a otros
+de otra. En la ciencia de los juristas las opiniones son divergentes (no sólo
+en ella, pasa lo mismo en todas las ciencias sociales). Es éste un hecho que
+salta a la vista y que no necesita de otra demostración que darse un recor-
+
+191
+
+
+
+rido por los tratados de las distintas materias jurídicas. ¿Tenemos entonces
+derecho a hablar, por ejemplo, de un sistema jurídico español, reflejo del
+ordenamiento jurídico vigente? Hay, como digo, cierta simplificación. Consiste en afirmar la idea de un sistema aun a pesar de las divergencias doctrinales entre los autores. Sin embargo, no todas las opiniones tienen el
+mismo peso. Unas tienen mayor influencia que otras en el desarrollo de la
+jurisprudencia de los tribunales, gracias a lo cual podemos averiguar si efectivamente ante un problema interpretativo concreto estamos ante una opinión unánime de los autores o ante una opinión dominante o si, por el contrario, aún no existe en ese punto concreto una opinión suficientemente
+consolidada que merezca la denominación de unánime o de dominante. La
+idea de un sistema tiene, pues, algo de ficticia20 y constituye una aproximación pragmática a la realidad, pues sirve para explicarnos cómo funcionan
+los mecanismos comunicacionales en el derecho. Por lo demás, todas las
+ciencias utilizan ficciones constructivas para entender la complejidad de lo
+real. El carácter ficticio de la idea de un sistema no impide que se reconozca su absoluta necesidad y su evidente presencia en el funcionamiento
+real del derecho moderno. En efecto, cuando se razona jurídicamente se
+parte de la idea de que tal sistema jurídico, producto de la labor dogmática,
+tiene auténtica existencia.
+7. CONCLUSIÓN
+A tenor de lo expuesto, debemos añadir ahora que el principio de
+relatividad del que hemos hablado se extiende al sistema y al ámbito. Esta
+verdad se desprende por sí misma de modo natural si se tienen en cuenta
+las relaciones entre los componentes de esa tríada conceptual. El sistema es
+relativo al ordenamiento jurídico que refleja y perfecciona, es la emanación
+doctrinal de éste. En el derecho moderno el texto sistémico se erige en la
+perspectiva jurídica por excelencia; dicha perspectiva es la propia del ordenamiento pero más perfilada en cuanto que en ella se recogen todos los
+aspectos del derecho vigente en un ámbito, y no sólo los expresamente formulados por los textos jurídicos ordinamentales. Cuando queremos saber la
+solución de un problema jurídico concreto acudimos al sistema, porque es
+en éste donde hallaremos la perspectiva del ordenamiento expuesta de modo
+explícito y con mayor amplitud e información. Por esta razón, es más apropiado hablar de relatividad sistémica que de relatividad ordinamental.
+
+20
+Recuérdese el libro de Hans Vaihinger sobre las ficciones en el pensamiento: Die Philosophie des Als Ob.
+System der theoretischen, praktischen und religiösen Fiktionen der Menschen auf Grund eines idealistischen Positivismus, Felix Meiner, Hamburg, 1922. Hay traducción italiana de Franco Voltaggio, Ubaldini Editore, Roma, 1967. Esta obra
+es una versión divulgativa de una edición mayor titulada Die Philosophie des Als Ob, publicada por el editor Félix Meiner, Leipzig, 1911.
+
+192
+
+
+
+En torno al eje comunicacional “ordenamiento / sistema” (ORD/SIS)
+y en relación con él se producen todos los procesos comunicativos y todas
+las acciones con sentido jurídico que se dan dentro de un ámbito determinado. Dichos procesos y dichas acciones son relativos al eje dual ORD/SIS,
+ya que sólo son inteligibles si se los contempla (se los “lee”, se los interpreta,
+se los comprende) desde esa perspectiva, que en definitiva es la perspectiva sistémica 21.
+
+21
+Para mayor amplitud sobre la relación entre ordenamiento jurídico, sistema jurídico y ámbito jurídico,
+me permito remitir al lector a mis libros Comunicación, lenguaje y derecho. Algunos aspectos de la teoría comunicacional del derecho, Real Academia de Ciencias Morales y Políticas, Madrid, 2010, passim; y Teoría del derecho. Fundamentos de teoría comunicacional del derecho, volumen I, tercera edición, Cizur Menor (Navarra), 2010, en especial los
+epígrafes V a IX, XV a XVII, LXVI, y XCII a XCVI.
+
+193
+
+
+
+BIBLIOGRAFÍA
+ANZILOTTI, DIONISIO, Il diritto internazionale nei giudici interni, Ed. Zanichelli, Bologna, 1905.
+BOULDING, KENNETH E., Análisis Económico, octava edición, traducción de Juan A. Bramtot,
+revisión y nota preliminar de Miguel Paredes, Editorial Revista de Occidente,
+Madrid, 1963.
+COASE, R.H., The Firm, the Market and the Law, The University of Chicago Press, Chicago and
+London, 1988.
+DE CASTRO Y BRAVO, FEDERICO, Compendio de Derecho Civil, Instituto de Estudios Políticos,
+Madrid, 1968.
+—, Derecho Civil de España. Parte General I, Instituto de Estudios Políticos, Madrid, 1955.
+EGGERTSSON, THRÁINN, El Comportamiento Económico y las Instituciones, traducción al español de Consuelo Varela Ortega. Alianza Editorial, Madrid, 1995.
+GADAMER, HANS-GEORG, Wahrheit und Methode. Grunzüge einer philosophischen Hermeneutik, primera edición 1960, sexta edición: J.C.B. Mohr (Paul Siebeck), Tübingen,
+1990.
+HART, H.L.A., The Concept of Law, segunda edición, Oxford University Press, 1994.
+KANT, IMMANUEL, Kritik der reinen Vernunft 2, Werkausgabe, Band IV, hrsg von Wilhelm Weischedel, Suhrkamp Taschenbuch Wissenschaft, Frankfurt am Main, tercera edición,
+1977.
+—, Die Methaphysik der Sitten, Werkausgabe, Band VIII, hgrs von Wilhelm Weischedel, Suhrkamp Taschenbuch Wissenschaft, Frankfurt am Main, tercera edición, 1977.
+KELSEN, HANS, Das Problem der Souveränität und die Theorie des Völkerrechts. Beitrag zu
+einer reinen Rechtslehre, primera edición 1920, segunda edición 1928; Scientia Verlag Aalen, 1981.
+MARTÍN-SANTOS, LUIS, Tiempo de Silencio, Editorial Seix Barral, Barcelona, 1961.
+ORTEGA Y GASSET, JOSÉ, El Hombre y la Gente, en Obras Completas 7, Alianza Editorial, Madrid,
+1983.
+ROBLES, GREGORIO, Introducción a la Teoría del Derecho, primera edición 1988, sexta edición,
+Editorial Debate, Barcelona, 2003.
+—, Pluralismo jurídico y relaciones intersistémicas. Ensayo de Teoría comunicacional del
+Derecho, Editorial Thomson-Civitas, Cizur Menor (Navarra), 2007.
+—, Comunicación, Lenguaje y Derecho. Algunos aspectos de la Teoría comunicacional del
+Derecho (Discurso de Recepción), Real Academia de Ciencias Morales y Políticas,
+Madrid, 2010.
+—, Teoría del Derecho. Fundamentos de Teoría comunicacional del Derecho, volumen I, tercera edición, Cizur Menor (Navarra), 2010.
+ROMANO, SANTI, L’ordinamento giuridico (1918), El ordenamiento jurídico, traducción al español de Sebastián Martín-Retortillo y Lorenzo Martín-Retortillo, estudio preliminar de
+Sebastián Martín-Retortillo, Instituto de Estudios Políticos, Madrid, 1963.
+SCHELLING, THOMAS C., The Strategy of Conflict, Harvard University, Cambridge (Mass.), London (England), 1960; segunda edición (“With a new Preface by the author”), 1980.
+
+194
+
+
+
+TRIEPEL, HEINRICH, Völkerrecht und Landesrecht, Verlag von C.L. Hirschfeld, Leipzig, 1899;
+reimpr. Scientia Antiquariat Aalen, 1958.
+VAIHINGER, HANS, Die Philosophie des Als-Ob. System der theoretischen, praktischen und
+religiösen Fiktionen der Menschen auf Grund eines idealistischen Positivismus, Felix
+Meiner, Hamburg, 1922.
+WITTGENSTEIN, LUDWIG, Philosophische Grammatik, hrsg von Rush Rhees, Suhrkamp Taschenbuch Verlag, Frankfurt am Main, segunda edición, 1978.
+
+195
+
+
+
+

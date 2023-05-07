@@ -1,0 +1,652 @@
+LA EDUCACIÓN PARA LA CIUDADANIA
+(Reflexiones para la valoración jurídica y ética
+de una nueva asignatura en el sistema escolar español)
+Por el A cadém ico de Número
+Em m o. y Rvdmo. Sr. Cardenal-Arzobispo de Madrid
+D. Antonio Ma R ouco Varela *
+
+I. EL ESTADO DE LA CUESTIÓN
+“Educación para la ciudadanía” es el nombre que la Ley Orgánica 2/2006,
+de 3 de mayo, de Educación (LOE)*1 da a una nueva materia de enseñanza obliga­
+toria, introducida en los currículos de la Educación Primaria, Secundaria y Bachi­
+llerato. El Preámbulo considera como “una de las novedades de la Ley”, en lo que
+se refiere al currículo, el “situar la preocupación por la educación para la ciudada­
+nía en un lugar muy destacado del conjunto de las actividades educativas y en la
+introducción de nuevos contenidos referidos a esta educación que, con diferen­
+tes denominaciones, de acuerdo con la naturaleza de los contenidos y las edades
+de los alumnos, se impartirá en algunos cursos de la educación primaria, secun­
+daria obligatoria y en bachillerato. Su finalidad consiste en ofrecer a todos los ciu­
+dadanos .un espacio de reflexión, análisis y estudio acerca de las características
+fundamentales y el funcionamiento de un régimen democrático, de los principios
+y derechos establecidos en la Constitución española y en los Tratados y en las
+declaraciones universales de los derechos humanos, a sí com o de los valores com u­
+nes qu e constituyen el sustrato de la ciu d ad an ía dem ocrática en un contexto glo­
+bal". Los principios, objetivos y contenidos de “la Educación para la Ciudadanía”,
+así como la contribución de esta nueva materia escolar a lo que el lenguaje ñor-
+
+* Sesión del día 29 de mayo de 2007.
+1 BOE nQ106 de 4 de mayo.
+
+375
+
+
+
+mativo llama “la adquisición de competencias básicas” y los criterios de su evalua­
+ción son minuciosamente desarrollados y regulados por los Reales Decretos del
+8/XII/06 para la Educación Primaria y de 5/1/07 para la Secundaria. No se ha publi­
+cado todavía el relativo a la materia en el Bachillerato, que en la Ley recibe una
+denominación ligeramente variada: “Filosofía y Ciudadanía”2.
+El anuncio de la nueva asignatura y el conocimiento más detallado de sus
+presupuestos doctrinales y de sus características pedagógicas y didácticas, después
+de la publicación de los Reales Decretos de aplicación, han suscitado un vivo
+debate en la opinión pública, trascendiendo los límites de la discusión académica
+y del análisis científico. El interés por la nueva asignatura y la preocupación des­
+pertada en amplios y significativos sectores de la sociedad española por su intro­
+ducción en el sistema educativo con carácter obligatorio van en aumento.
+La Conferencia Episcopal Española se hacía eco de esta inquietud, percep­
+tible sobre todo en los ambientes de las organizaciones católicas de padres de fami­
+lia y de padres de alumnos, en su Instrucción Pastoral “Orientaciones Morales ante
+la situación actual de España” del 23 de noviembre de 2006 dentro del contexto de
+la constatación de que algunos sectores de la sociedad pretenden... “acelerar la
+implantación del laicismo y del relativismo moral como única mentalidad compa­
+tible con la democracia”. En este sentido apunta, según el documento de la CEE,
+“el anunciado programa de la nueva asignatura, con carácter obligatorio, denomi­
+nada ‘Educación para la Ciudadanía’, con el riesgo de una inaceptable intromisión
+del Estado en la educación moral de los alumnos, cuya responsabilidad primera
+corresponde a la familia y a la escuela”3. Pocos meses más tarde, el 28 de febrero
+de 2007, la Comisión Permanente, conocidos ya los Decretos de desarrollo de la
+asignatura, insistía en la valoración negativa de la Asamblea Plenaria al calificarla
+de “una formación estatal y obligatoria de la conciencia”, en la que se “impone el
+relativismo moral y la ideología de género”, argumentando sus objeciones y extra­
+yendo la siguiente conclusión: “esta ‘E d u ca c ió n p a ra la C iu d a d an ía’ de la LOE es
+inaceptable en la forma y en el fondo: en la forma, porque impone legalmente a
+todos una antropología que sólo algunos comparten y, en el fondo, porque sus
+contenidos son perjudiciales para el desarrollo integral de la persona”4.
+Crítica fuerte, la de la CEE, que también va a ser discutida, por su parte,
+fogosamente en los medios de comunicación social y contestada en el debate cul­
+tural y político.
+
+2 LOE. Art. 34.6.
+3 LXXXVIII Asamblea Plenaria de la CEE, “O rientaciones M orales a n te la situ ación a c tu a l d e E spañ a”.
+Instrucción Pastoral, Madrid, 23-XI-06, 18.
+4 Conferencia Episcopal Española. CCIV Comisión Permanente, Madrid 28 de febrero de 2007, 11 y 12.
+
+37 6
+
+
+
+Se impone, pues, en primer lugar, un análisis jurídico-positivo de lo que
+se dispone en la ley y en su desarrollo normativo, una valoración crítica desde la
+perspectiva jurídica del marco constitucional y, finalmente, una valoración ética o
+moral de la misma a la luz de la reflexión filosófico-teológica. Sin embargo, antes
+de entrar en el estudio de la cuestión, conviene advertir que las recomendaciones
+y resoluciones de los organismo europeos -Consejo de Europa y la Comunidad
+Europea, sobre todo-, relativas a la implantación de “la Educación de la Ciudada­
+nía” en el mapa escolar europeo, no nos eximen del estudio crítico de la legisla­
+ción española, puesto que el pluralismo de fórmulas adoptadas por los distintos
+países de la Unión Europea para la concepción pedagógica de esta materia es
+amplio y complejo. En el informe de Eurydice -La Red europea de información en
+educación- sobre “la educación para la ciudadanía en el contexto escolar euro­
+peo”, editado por el Ministerio de Educación y Ciencia de España en 2006, se reco­
+nocía que, “en general, todos los países europeos están de acuerdo en la necesi­
+dad de incluir, de un modo u otro, la educación para la ciudadanía en el currículo
+escolar oficial. No obstante, su definición y organ ización varía considerablem ente
+de un país a otro y parece ser que aún no existe un enfoque general que predo­
+mine sobre los demás y que haya sido adoptado por la mayoría de los países...
+Puede ofertarse como m ateria independiente (con frecuencia obligatoria), integra­
+da en materias tradicionales (como historia, estudios sociales, geografía o filosofía)
+o concebida como un tem a transversal”5.
+
+n . LOS RASGOS NORMATIVOS DE LA NUEVA ASIGNATURA
+“EDUCACIÓN PARA LA CIUDADANÍA”
+EN EL ACTUAL SISTEMA ESCOLAR ESPAÑOL
+Destaca, en p rim er lugar, su carácter d e u n a asignatura obligatoria.
+Podría habérsela concebido muy bien como optativa, en relación, por ejemplo,
+con la clase de Religión y Moral Católica (y de las otras confesiones religiosas reco­
+nocidas por el Estado Español), que se define en la Ley Orgánica de Educación y
+en su desarrollo normativo como optativa. La consideración, de la que la hace
+objeto la Disposición Adicional Secundaria 1 como “área o materia” “de oferta obli­
+gatoria para los centros y de carácter voluntario para los alumnos”, queda reduci­
+da, sin embargo, en los Reales Decretos de Primaria y Secundaria a la obligación
+de los centros docentes públicos -y privados sin “ideario” propio- de disponer “las
+medidas organizativas para que los alumnos y las alumnas cuyos padres o tutores
+no hayan optado por que cursen enseñanzas de religión reciban la debida aten­
+
+5
+E urydice , La E d u cación p a r a la C iu d a d a n ía en el contexto esco la r europeo, Ministerio de Educación y
+Ciencia. Secretaría General de Educación. Madrid, 2006, 59-
+
+377
+
+
+
+ción educativa”6. Se prefiere, por lo tanto, establecer “la Educación para la Ciu­
+dadanía” como asignatura obligatoria en la Primaria, “en uno de los cursos del ter­
+cer ciclo de la etapa” (LOE, Art. 18.3), mientras que para la Educación Secundaria
+se prescribe que “en uno de los tres primeros cursos todos los alumnos cursarán
+la materia de educación para la ciudadanía y los derechos humanos en la que se
+prestará especial atención a la igualdad entre hombres y mujeres”, y que, bajo la
+denominación de “Educación ético-cívica”, se incluya entre las materias obligato­
+rias del cuarto curso (LOE, 24.3 y 25.1)7. El legislador pretende disipar las posibles
+objeciones en torno a la posible contradicción pedagógica y didáctica entre la
+nueva asignatura y la existencia del área de Religión y Moral con la siguiente
+advertencia que figura en el Preámbulo de la LOE: “Esta educación (para la Ciuda­
+danía) cuyos contenidos no pueden considerarse en ningún caso alternativo o sus­
+titutorio de la enseñanza religiosa, no entrará en contradicción con la práctica
+democrática...”. Del examen del perfil global de la ley se deducirá claramente otra
+conclusión jurídica, como veremos más adelante.
+Es evidente, por otra parte, —a la vista de la legislación europea compa­
+rada-, que el objetivo educativo pretendido y buscado por “la Educación para la
+Ciudadanía” podría haberse alcanzado como una materia integrada en otras de
+contenido similares o como un tema de educación transversal proyectado de tal
+modo que sus principios influyesen en la concepción de todo el currículo y en la
+pedagogía general de los centros. También en este punto el Preámbulo de la LOE
+se muestra precavido ante la previsible argumentación favorable a una concepción
+de la materia que fuese en esta línea: “Esta educación... no entra en contradicción
+con la práctica democrática que debe inspirar el conjunto de la vida escolar y que
+ha de desarrollarse como parte de la educación en valores con carácter transver­
+sal a todas las actividades escolares”8.
+La E du cación p a r a la C iu d a d an ía representa, adem ás, u n a n ov ed ad
+en la historia d e la legislación escolar esp añ oh . El legislador lo reconoce y
+declara con no disimulada satisfacción política: “En lo que se refiere al currículo,
+u n a d e las novedades d e la Ley consiste en situar la preocupación por la educa­
+ción para la ciudadanía en un lugar muy destacado del conjunto de las activida­
+des educativas y en la introducción de unos nuevos contenidos referidos a esta
+
+6 Real Decreto 1513/2006 de 7 de diciembre por el que se establecen las enseñanzas mínimas de la
+Educación primaria, (BOE, n2 293) Disposición Adicional Primera, 3. En términos equivalentes, abriéndose a la circuns­
+tancia de que puedan ser los mismos alumnos los que hagan la opción, se expresa el Real Decreto de Secundaria,
+Disposición Adicional 3 (BOE, n2 5).
+7 En Bachillerato, bajo la denominación de “Filosofía y ciudadanía” se establece también en el currículo
+como obligatoria (BOE, Art. 34, 6). No se ha publicado hasta el momento del Real Decreto que lo desarrolla.
+8 Ley Orgánica de la Educación (LOE) 41. La Educación para la Ciudadanía..., Eurydice, 17.
+
+378
+
+
+
+educación”9. Todo lo que pudiera señalarse como posible antecedente en el pasa­
+do educativo español de los dos últimos siglos -educación para la urbanidad y
+buena conducta, formación del espíritu nacional... etc.- está muy lejos de repre­
+sentar un modelo pedagógico similar o una figura jurídica equiparable.
+La configuración d e la nueva m ateria “E d u ca c ió n p a ra la C iu d a d an ía”,
+en definitiva, se presenta en la ley y en la orden ación norm ativa qu e la desarrolla
+y aplica no sólo ni principalm ente com o un instrumento pedagógico a l servicio de
+u n a cultura o ed u cación política y cívica, sino, sobre todo, com o u n a asignatura
+independiente y obligatoria dirigida a in cu lcar u n a edu cación en actitudes y valo­
+res éticos tanto en el p la n o de las relaciones sociales com o en el del p rop io com por­
+tamiento personal, basa d a en u n a explícita antropología. Es decir, se concibe y
+programa como una teoría o doctrina sobre el ser y el deber ser del hombre en su
+doble dimensión personal y social. En los presupuestos teóricos que la sustentan,
+los conceptos de ciudadano responsable y de ciudadanía democrática prevalecen
+sobre los de persona y de su responsabilidad moral intransferible, cuando no los
+absorben axiológicamente en su valor y como valor último.
+No tendría por qué haber sido así según la lógica jurídica de lo dispues­
+to en la LOE. El cuadro de principios y fines de la educación relacionados con los
+aspectos centrales de la personalidad humana y moral del alumno, en la forma que
+se explican en su Preámbulo y se explicitan en su articulado, bien pudieran no
+haber sido enfocados y encauzados obligatoriamente a través de una asignatura
+independiente, como es “la Educación para la Ciudadanía”. Puesto que el princi­
+pio de “la transmisión de aquellos valores que favorecen la libertad personal, la
+responsabilidad, la ciudadanía democrática, la solidaridad, la tolerancia, la igual­
+dad, el respeto y la justicia, que constituyen la base de la vida en común” y el fin
+del “pleno desarrollo de la personalidad y de las capacidades afectivas del alum­
+nado, la formación en el respeto de los derechos fundamentales y de la igualdad
+afectiva entre hombres y mujeres, el reconocimiento de la diversidad afectivosexual, así como la valoración crítica de las desigualdades, que permita superar los
+comportamientos sexistas...” se explican en el Preámbulo y se fijan en los artícu­
+los correspondientes a la regulación de las enseñanzas primarias, secundarias y
+bachillerato en el cuerpo de la ley como apartados separados de la definición y
+ordenación de los principios generales y de los objetivos de la educación para la
+ciudadanía, en los que se propone “el ejercicio de la tolerancia y de la libertad
+dentro de los principios democráticos de convivencia y la prevención de conflic­
+tos y la resolución pacífica de los mismos y se insiste en la preparación del alum­
+
+9 LOE, Preámbulo, Edición Ministerio de Educación y Ciencia. Secretaría General de Educación, 2006;
+pág. 40.
+
+379
+
+
+
+nado para el ejercicio de la ciudadanía y para la participación en la vida econó­
+mica, social y cultural, con actitud crítica y responsable”10. Sin embargo, no se ha
+procedido así en los Reales Decretos que explicitan normativa y vincularmente el
+sistema escolar. Al contrario, desarrollan, de hecho, académica, pedagógica y didác­
+ticamente ambos principios y objetivos a través de una fórmula curricular de la
+asignatura “Educación para la Ciudadanía” que los ensambla teóricamente y los
+tematiza conjunta y orgánicamente.
+a ) Se p u ed e com probar lo dicho, prim eram ente, a través del análisis de
+la regulación detallada de la E du cación p a r a la C iu dadan ía en el Á rea de
+E du cación Prim aria.
+En la exposición resumida de sus objetivos y contenidos se reconoce sin
+ambages que se parte “de lo personal y del entorno más próximo: la identidad, las
+emociones, el bienestar y la autonomía personales, los derechos y responsabilida­
+des individuales, la igualdad de derechos y las diferencias. De la identidad y las
+relaciones personales se pasa a la convivencia, la participación, la vida en común
+en los grupos próximos. Finalmente, se abordan la convivencia social que esta­
+blece la Constitución y los derechos y las responsabilidades colectivas. Por tanto,
+el recorrido va de lo individual a lo social”. En estricta consecuencia con esta defi­
+nición programática de objetivos y contenidos se concretan éstos en tres Bloques
+-1 . Individuos y relaciones interpersonales y sociales; 2. La vida en comunidad; 3Vivir en sociedad-, mientras que los objetivos se expresan en una serie de propó­
+sitos o fines, ocho, que van desde “desarrollar la autoestima, la afectividad y la
+autonomía personal en sus relaciones con los demás...” (1), “desarrollar habilida­
+des emocionales, comunicativas y sociales para actuar con autonomía en la vida
+cotidiana y participar activamente en las relaciones de grupo, mostrando actitu­
+des generosas y constructivas” (2), hasta “conocer, asumir y valorar los p rin cip a­
+les derechos y obligaciones qu e se derivan de la Declaración de los Derechos
+Humanos, de la Convención sobre los Derechos del Niño y de la Constitución
+española” (5), y “conocer los mecanismos fundamentales de funcionamiento de las
+sociedades democráticas y valorar el papel de la administración...” (6), sin olvidar
+el objetivo de “identificar y rechazar situaciones de injusticia y de discriminación,
+mostrar sensibilidad por las necesidades de las personas y grupos más desfavore­
+cidos y desarrollar comportamientos solidarios y contrarios a la violencia” (7) y “el
+de tomar conciencia de la situación del medio ambiente” (8).
+
+10
+Cf. Ley Orgánica de Educación (LOE) pág. 37. Compárense, por ejemplo, al respecto, el Art. 1 c), k) e
+i), y el Art. 2.1, desde apartado a) hasta el e) con el apartado k). Vid. también Art. 17 de a) a e), k) y m), junto con
+Art. 18.3; así como el Art. 23 a), c), d) y k), con el Art. 24.3; y Art. 32.1 y Art. 33, b) y c) con Art. 33, a).
+
+380
+
+
+
+El criterio pedagógico seguido de integración sistemática de aspectos éticopersonales y ético-sociales con elementos de educación político-jurídica y propia­
+mente cívica se puede verificar también, sin forzar en lo más mínimo la literalidad
+de los textos, cuando se precisa la contribución del área al desarrollo de las llama­
+das “competencias básicas”, se explicitan los tres bloques de temas que comprende
+la asignatura y los criterios de su evaluación. Llama la atención, por ejemplo, que
+en la determinación del criterio de evaluación 5 se incluya expresamente una alu­
+sión a la llamada “teoría del género”. Dice así: “reconocer y rechazar situaciones de
+discriminación, marginación e injusticia e identificar los factores sociales, económi­
+cos, de origen de género o de cualquier otro tipo que las provocan”11.
+b) En el R eal D ecreto de E du cación Secundaría se acen tú a aú n m ás la
+perspectiva d e la concepción sistem ática de la E du cación p a r a la C iudadan ía
+com o u n a m ateria de integración d e elementos teóricos y prácticos d e antropolo­
+gía, ética general, individual y social, con u n a p arte conclusiva de carácter p osi­
+tivo sobre el ordenam iento ju rídico y las reglas de convivencia cívica y p olítica que
+d e él se derivan.
+Se presenta “la Educación para la Ciudadanía” en el Real Decreto de
+Secundaria, apoyándose en interpretaciones discutibles del Art. 27.2 de la Consti­
+tución Española y de conocidas recomendaciones europeas e internacionales, con
+un objetivo central que vale tanto para su variante de primero a tercer curso como
+para la de cuarto curso y que es formulado del modo siguiente: “favorecer el desa­
+rrollo d e person as libres e íntegras a través de la consolidación de la autoestima, la
+dignidad personal, la libertad y la responsabilidad y la formación de futuros ciu­
+dadanos con criterios propios, respetuosos, participativos y solidarios, que conoz­
+can sus derechos, asuman sus deberes y desarrollen hábitos cívicos para que pue­
+dan ejercer la ciudadanía de forma eficaz y responsable”. Para conseguir este
+objetivo de compleja y variada composición humana, ética y jurídica, se ha de pro­
+fundizar, según el Real Decreto, “en los principios de ética personal y social”, y se
+habrán de incluir “entre otros contenidos, los relativos a las relaciones humanas y
+a la educación afectivo-emocional, los derechos y deberes y libertades que garan­
+tizan los regímenes democráticos, las teorías éticas y los derechos humanos como
+referencia universal para la conducta humana, los relativos a la superación de con­
+flictos, la igualdad entre hombres y mujeres, las características de las sociedades
+actuales, la tolerancia y la aceptación de las minorías y de las culturas diversas”.
+Estos principios, y los contenidos que los pormenorizan, se habrán de ofrecer en
+la asignatura “Educación para la Ciudadanía” de manera abierta con el fin de que
+
+11 Real Decreto de Educación Primaria, BOE 8-12-06, Anexo 2, 43080-43082, especialmente 43082.
+
+381
+
+
+
+se posibilite a los alumnos y alumnas que “construyan un pensamiento y proyec­
+to de vida propios”, tratando de ayudarles a “construirse una conciencia moral y
+cívica, acorde con las sociedades democráticas, plurales, complejas y cambiantes en
+las que vivimos”.
+Obedeciendo a estos principios y finalidades pedagógicas, se dispone
+que la nueva asignatura se divida en la etapa de la Enseñanza Secundaria en dos
+materias: “la E du cación p a r a la ciu d ad an ía y los derechos hu m anos que se impar­
+te en uno de los tres primeros cursos y la E du cación ético-cívica de cuarto curso.
+Ambas se estructurarán en varios bloques que van desde lo más personal y lo más
+próximo a lo global y más general”, con un conjunto de contenidos comunes “que
+llevan a la adquisición de procedimientos, habilidades sociales y actitudes básicas
+para el desarrollo de una buena convivencia y de la ciudadanía democrática”, pro­
+fundizando y consolidando la formación recibida en la etapa de Primaria. También
+será común a ambas materias de secundaria “partir de la reflexión sobre la perso­
+na y las relaciones interpersonales”, así como procurar “el conocimiento y la refle­
+xión sobre los derechos humanos”, aunque -añade el texto legal- “desde la p ers­
+pectiva de su carácter histórico, favoreciendo que el alumnado valore que no están
+garantizados por la existencia de una Declaración, sino que es posible su amplia­
+ción o su retroceso según el contexto”. También coincidirán las dos partes de la
+nueva disciplina en estudiar “las características y los problemas fundamentales de
+las sociedades y del mundo global del siglo XXI”. La Educación para la Ciudadanía
+abordará entre el primer y tercer curso, “el conocim iento de la realid ad desde el
+ap ren d izaje de lo social, centrándose la E du cación ético-cívica en la rejlexión
+ética qu e com ien za en las relaciones afectivas con el entorno m ás próxim o p a r a
+contribuir, a través de los dilem as morales, a la construcción de u n a con cien cia
+m oral cívica”. Desde esa perspectiva metodológica se plantea, a continuación, en
+el Real Decreto el desarrollo temático de los llamados “bloques de contenidos” de
+ambas materias con sus correspondientes objetivos pedagógicos, explicando, ade­
+más, su contribución a “la adquisición de las competencias básicas”. Todo ello a
+través de una exposición larga, farragosa y reiterativa, que incide e insiste una y
+otra vez en los mismos elementos antropológicos y éticos que configuran la asig­
+natura como un instrumento pedagógico de más amplio alcance que lo que signi­
+fica y contiene una formación específicamente cívica y político-jurídica.
+La fija ción de los objetivos -¡trece en total!-, que se presentan com o com u­
+nes a las dos partes d e la materia, delata esta característica de una asignatura orga­
+n izad a com o u n a doctrina sobre el hom bre y los principios y valores éticos que han
+d e presidir su conducta en todos los ám bitos de la vida, limitándose a a ñ ad ir a m odo
+d e una inform ación conclusiva p a r a el alum no un capítulo sobre el orden políticoju rídico de España, visto en el contexto de los organismos internacionales. Con esta
+nueva asignatura obligatoria en la etapa de la Educación Secundaria se confiesa
+expresamente la pretensión de conseguir de los alumnos, desde el “reconocer la con­
+
+382
+
+
+
+dición humana en su dimensión individual y social, aceptando la propia identidad”
+y “desarrollar y expresar los sentimientos y las emociones, así como las habilidades
+comunicativas y sociales”, hasta “conocer y apreciar los principios que fundamentan
+los sistemas democráticos y el funcionamiento del Estado Español y de la Unión
+Europea, tomando conciencia del patrimonio común y de la diversidad social y cul­
+tural”; pasando por “reconocer los derechos de las mujeres, valorar la diferencia de
+sexos y la igualdad de derechos entre ellos y rechazar los estereotipos y prejuicios
+que impongan discriminación entre hombres y mujeres”, y, luego, por “identificar la
+pluralidad de las sociedades actuales... rechazando las situaciones de injusticia y las
+discriminaciones existentes por razón de sexo, origen, creencias, diferencias socia­
+les, orientación afectivo-sexual o de cualquier otro tipo, como una vulneración de la
+dignidad humana y causa perturbadora de la convivencia”. Se ha de tratar, finalmen­
+te, de “identificar y analizar las principales teorías éticas, reconocer los principales
+conflictos sociales y morales del mundo actual y desarrollar una actitud crítica entre
+los modelos que se trasmiten a través de los medios de comunicación”12.
+La regulación detallada del contenido temático de am bas materias y d e sus
+criterios d e evaluación, que sigue a la exposición de los criterios y objetivos generales
+que las configuran, confirma la conclusión anterior. Así, en los temas del Bloque 2
+de “la Educación para la Ciudadanía y los derechos humanos”, dedicado a las “rela­
+ciones interpersonales y participación”, se incluye, entre otros temas a primera vista
+doctrinalmente menos problemáticos, el de los “afectos y emociones” y el de “la
+valoración crítica de la división social y sexual del trabajo y de los prejuicios socia­
+les racistas, xenófobos, antisemitas, sexistas y homófobos”; y, entre “los criterios de
+evaluación”, se propone como primero: “identificar y rechazar, a partir del análisis
+de hechos reales o figurados, las situaciones de discriminación hacia personas de
+diferente origen, género, ideología, religión, orientación afectivo-sexual y otras, res­
+petando las diferencias personales y mostrando autonomía de criterio”. En la regu­
+lación temática de los contenidos y de los Criterios de evaluación de “la Educación
+ético-cívica” ocurre comprensiblemente lo mismo. En el Bloque 3 de los contenidos
+se plantea en directo la cuestión de las teorías éticas y los derechos humanos, mien­
+tras que el segundo Criterio de evaluación de la asignatura se define por la capaci­
+dad de “diferenciar los rasgos básicos que caracterizan la dimensión moral de las
+personas (las normas, la jerarquía de valores, las costumbres, etc.) y los principales
+problemas morales”, a la vez que el quinto trata de verificar la capacidad de “com­
+prender y expresar el significado histórico y filosófico de la democracia como forma
+de convivencia social y política”, admitiendo que “mediante este criterio se trata de
+comprobar si se comprende el pluralismo político y moral...”13.
+
+12 BOE 8.1.07. Real Decreto de Educación Secundaria, Anexo 2, 715-718.
+15 BOE 8.1.07. Decreto de Educación Secundaria, Anexo 2, 718-720.
+
+383
+
+
+
+c) Conclusión
+¿Qué resulta jurídicam ente, en orden a la caracterización legal de la
+nueva m ateria “la E du cación p a r a la C iu d a d an ía”, del análisis sistemático de la
+Ley (LOE), qu e la im pone com o obligatoria en el sistem a escolar español y d e los
+Reales Decretos qu e la desarrollan norm ativam ente? La respuesta nos parece evi­
+dente: el carácter de una materia escolar concebida en su orientación, estructura y
+desarrollo académico y pedagógico como una teoría general sobre el hombre y los
+principios éticos que han de modelar su existencia y regir su conducta individual
+y social; ciertamente, no de forma exhaustiva en la doctrina que ha de ser apren­
+dida intelectualmente, asimilada y practicada en la vida; ni tampoco exhaustiva en
+su temática; pero sí, de forma condicionante substancial de la educación integral
+de los alumnos. Teoría que se presenta en el fondo, inequívocamente, como una
+doctrina en la que se excluye sistemáticamente toda referencia a la dimensión tras­
+cendente del hombre y de la sociedad y a la correspondiente perspectiva explícita
+filosófico-teológica para su completa comprensión y explicación. No puede llamar
+la atención, que al tratarse de una materia obligatoria, surja inmediata y explicable­
+mente la sospecha de su posible manipulación teórica y práctica como “ideología”
+y, por consiguiente, la pregunta por su valor o legitimidad jurídica y ética.
+
+m . VALORACIÓN JURÍDICA DE “LA EDUCACIÓN PARA LA CIUDADANÍA”
+La nueva asignatura “Educación para la Ciudadanía”, obligatoria para
+todos los alumnos de las etapas de Primaria, Secundaria Obligatoria y Bachillerato,
+en la forma en que es regulada por la Ley Orgánica de Educación y, sobre todo,
+por los Reales Decretos que la desarrollan14, se enfrenta con obstáculos constitu­
+cionales a nuestro juicio insalvables: el del derecho a la libertad de enseñanza y el
+de la libertad ideológica, religiosa y de culto de los individuos y comunidades, tal
+como se recogen y consagran en la Constitución y como fueron interpretados por
+la jurisprudencia del Tribunal Constitucional.
+El Art. 27 de la Constitución establece con meridiana claridad a quién per­
+tenece el derecho fundamental de la formación religiosa y moral de los menores
+de edad. Recordemos el tenor literal de su parágrafo 3: “Los poderes públicos
+garantizan el derecho que asiste a los padres para que sus hijos reciban la forma­
+ción religiosa y moral que esté de acuerdo con sus convicciones”. Parece obvia
+una primera conclusión interpretativa del mismo respecto al problema que nos
+ocupa: el Estado no puede introducir como obligatoria en la Educación Infantil,
+
+14 Falta todavía al día de la fecha, la aprobación y publicación del referido a Bachillerato.
+
+384
+
+
+
+Primaria, Secundaria y Bachillerato una asignatura cuyos principios inspiradores,
+objetivos pedagógicos y contenidos, junto con los criterios correspondientes de
+evaluación, vayan dirigidos teórica y prácticamente a la formación moral de los.
+alumnos; acentúese o no la moral social sobre la individual y otorgúesele o no
+mayor o menor espacio lectivo y didáctico a la primera que a la segunda; y menos
+aún puede permitirse el Estado sub-introducir a través de los presupuestos antro­
+pológicos explícitos e implícitos de dicha asignatura una concepción del hombre,
+de la vida y del mundo que equivalga a una doctrina o ideología obligatoria que
+venga de hecho a competir con la formación religiosa elegida libremente o a
+suplantarla subrepticiamente. La conclusión es válida naturalmente tanto para la
+escuela pública como para la privada o de iniciativa social, “concierte” ésta con la
+Administración del Estado las condiciones organizativas, pedagógicas y financieras
+de su funcionamiento o no lo haga. La sentencia del Tribunal Constitucional de 27
+de junio de 1985. llegaba incluso a definir el carácter propio de los centros docen­
+tes públicos como neutral ideológicamente en todos los aspectos de su actividad
+docente, pues “deben ser ideológicamente neutros... y esta neutralidad ideológica
+es una característica necesaria de cada uno de los puestos docentes (profesores)
+integrados en el Centro”, lo “que no impide la organización en los centros públi­
+cos de enseñanzas de seguimiento libre para hacer posible el derecho de los
+padres a elegir para sus hijos la formación religiosa y moral de acuerdo con sus
+convicciones”. Y, por supuesto, todavía resultaría más impensable constitucional­
+mente querer imponer a los padres veladamente, de cualquier modo y por cual­
+quier vía del derecho o la práxis administrativa, una dirección determinada en la
+elección de la formación moral -bien sea la moral personal, bien sea la moral
+social- y/o religiosa (o ideológica) de sus hijos. La lectura más simple y más lite­
+ral del Art. 16 lo prohibiría tajantemente.
+El derecho de los padres garantizado por el Art. 27.3 de la Constitución
+quedaría restringido, además, si se impone una materia escolar de esas característi­
+cas, por razones jurídicas específicas propias en el caso de las Escuelas no estata­
+les, sin excluir a las concertadas, puesto que el derecho al “ideario” o “carácter pro­
+pio” de esos centros es explicitado y fundamentado por el Tribunal Constitucional
+sobre la base de la interdependencia intrínseca del mismo y de la oferta por parte
+de sus titulares de una determinada concepción y visión del hombre y de la vida
+que posibilite a los padres de los alumnos ejercer libremente el derecho a deter­
+minar la formación religiosa y moral de sus hijos no sólo a través de la clase de
+religión y moral elegida, sino también a través y en el marco general de todas las
+actividades educativas del Centro. Tanto la sentencia de 13 de febrero de 1981
+como la de 27 de junio de 1985 dejan claro que el carácter propio del centro
+“forma parte de la libertad de creación de centros docentes que equivale a la posi­
+bilidad de dotar a éstos (los centros privados) de un carácter y orientación pro­
+pios”, sin que pueda ser sometido a ninguna autorización previa por parte de la
+Administración, puesto que procediendo de otro modo vulneraría “el derecho a la
+
+385
+
+
+
+libertad y a la creación de centros docentes, en cuanto de dichos preceptos nace
+el derecho del titular a establecer el carácter propio, sin que pueda admitirse la
+injerencia de una autoridad administrativa”15.
+No parece pues que quepa duda razonable: la imposición legal de una
+asignatura obligatoria de formación antropológica y moral con carácter general para
+todos los alumnos, significaría el no cumplimiento del Art. 27 de la Constitución
+Española en combinación con su Art. 16. Chocaría con el derecho a la libertad de
+enseñanza de los padres y, subsidiariamente, de los titulares de los centros docen­
+tes en puntos concretos regulados claramente por el texto constitucional y explicitados nítidamente por la jurisprudencia del Tribunal Constitucional.
+¿Con qué tipo de argumentaciones jurídicas podría pretenderse obviar
+estos obstáculos constitucionales, resultantes de una interpretación inequívoca de
+nuestra Constitución? ¿Con el recurso a la terminología legal? ¿No significan lo
+mismo los términos “ética” y “moral”? En cualquier diccionario especializado en
+estas ciencias se encontraría la afirmación científica de que histórica y semántica­
+mente significan substancialmente lo mismo y, por consiguiente, también referidos
+a la realidad objetiva del hombre y de la sociedad. Apenas se podría imaginar un
+intérprete metodológicamente riguroso del derecho que quisiera recurrir a la argu­
+cia hermenéutica de negar a los padres el derecho a “la formación ética” e “ideo­
+lógica” de sus hijos, y atribuírselo al Estado, utilizando el argumento de que lo que
+se les reconoce en la Constitución es un derecho con contenido distinto, a saber,
+el de determinar la formación religiosa y moral de sus hijos de acuerdo con sus
+convicciones, no la formación ética, bien sea individual, bien sea social (Art. 27.3
+de la Constitución). ¿Es que se trataría de dos realidades objetivas y subjetivamen­
+te distintas: la ética y la moral, la formación religiosa y una posible formación
+humana y civil, agnóstica, que abstrae, en la mejor de las hipótesis, de una posi­
+ble dimensión trascendente? Evidentemente, no.
+¿O se podría, quizá, justificar jurídicamente “la Educación para la Ciuda­
+danía”, tal como ha quedado diseñada legalmente, con la apelación al parágrafo 2
+del Art. 27 de la Constitución que dice: “La educación tendrá por objeto el pleno
+desarrollo de la personalidad humana en el respeto a los principios democráticos
+de convivencia y a los derechos fundamentales”? ¿Sería pues constitucionalmente
+viable una concepción de dicha asignatura en función del conocimiento y asimi­
+lación ¡práctica de lo que significa la personalidad humana y de lo que implica su
+pleno desarrollo? Una respuesta jurídica positiva a esta pregunta ignoraría una tesis
+
+15
+Vid. A ntonio M. R ouco Várela, E l d erech o a la E du cación y sus titulares ¿De nuevo en la incertidum ­
+bre histórica?, Madrid 2007, 21-23 (Publicaciones de la Facultad de Teología “San Dámaso”. Colección Subsidia 20).
+
+386
+
+
+
+pre-política evidente para cualquiera teoría del Estado, mínimamente sana: el Estado
+no es ni la fuente de donde surge el ser del hombre ni la instancia última para defi­
+nir su personalidad y, consiguientemente, para determinar los elementos y aspec­
+tos que configuran su pleno desarrollo. Si se pretendiese erigir tal postulado, como
+supuesto doctrinal intrínseco del ordenamiento jurídico, dejaría completamente
+vacío de contenido el derecho a la libertad de enseñanza de los padres y de las ins­
+tancias o instituciones sociales llamadas a intervenir en el proceso educativo; y, se
+establecería, sobre todo, una insuperable contradicción doctrinal y existencial con
+los derechos de libertad ideológica, religiosa y de culto que garantiza el Art. 16 de
+la Constitución. Tampoco podría deducirse la competencia del Estado para estable­
+cer una enseñanza obligatoria de una materia antropológica y ética en el sistema
+educativo del Artículo 1.1 de la Constitución según el cual “España se constituye en
+un Estado social y democrático de Derecho, que propugna como valores superio­
+res de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo
+político”, y/o del 10.1: “La dignidad de la persona, los derechos inviolables que le
+son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los dere­
+chos de los demás son fundamento del orden político y de la paz social”; a no ser
+a costa de sus Artículos 16 y 27.1, 3.5, 6, 7 y 9, en virtud de las mismas razones de
+lógica jurídica interna, que subyacen al orden constitucional establecido conforme
+a los propios principios del Estado social y democrático de Derecho que lo legiti­
+man, y que presupone como sus realidades fundamentales y fundantes —previas a
+su ordenamiento constitucional positivo- la sociedad o comunidad política sobre la
+que descansa y lo sustenta no sólo física sino también cultural y moralmente. ¿A qué
+quedaría reducida, de otro modo, en la práctica la categoría del pueblo como titu­
+lar de la soberanía política? La distinción funcional entre sociedad y Estado resulta,
+además, vital para la existencia y mantenimiento de una auténtica configuración
+democrática del Estado y de su organización constitucional.
+Nos encontramos una vez más en España, a propósito de la propuesta de
+una “Educación para la Ciudadanía”, convertida en asignatura obligatoria para todos
+los escolares españoles de acuerdo con la legislación recientemente aprobada, con
+la gran cuestión de la relación entre los principios y fuentes éticas, prepolíticas,
+del Estado libre democrático y social de derecho, que le son previas, más aún, con­
+dicionantes de su legitimidad, y la forma de concebir y realizar en su ordenamien­
+to jurídico positivo, su misión y función y, consiguientemente, su autoridad de cara
+a la comunidad política, la sociedad y el bien común. Nadie dudaría de la legiti­
+midad de su competencia y poder jurídico para obligar a los ciudadanos, desde los
+primeros pasos de su itinerario formativo, a que conocieran, aprendieran y supie­
+ran valorar la estructura jurídica-política de la sociedad y comunidad política con­
+creta a la que pertenecen -sean cual sean los lazos históricos que los unen a ella-,
+poniendo incluso un énfasis formativo especial en el conocimiento y dominio del
+contenido de la Declaración Universal de los Derechos Humanos y, como sería- en
+el caso de España, de los Tratados y acuerdos internacionales sobre las mismas
+
+387
+
+
+
+materias (Art. 10.7 de la Constitución). Pero de ahí, del plano de la formación jurídico-cívica, basada en el conocimiento teórico -y práctico del ordenamiento jurídi­
+co positivo, pretender pasar a la dimensión de la formación doctrinal sobre el
+hombre y a los principios y normas ético-morales que han de presidir y regir su
+conducta y “su sitio en la vida”, significaría propugnar una concepción ideológica
+del Estado -en nuestro caso, laicista-radical-, que nos retrotraería a períodos de la
+historia política de la Europa del siglo XX y que habríamos de suponer definitiva­
+mente superados, y, lo que es más grave, abriría paso a una realización injusta del
+orden político-constitucional.
+
+IV. VALORACIÓN ÉTICA DE “LA EDUCACIÓN PARA LA CIUDADANÍA”
+Entre las críticas manifestadas en relación con la implantación de la nueva
+asignatura “Educación para la Ciudadanía” por distintas organizaciones e instituciones
+sociales aparecen con frecuencia alusiones a algunos contenidos concretos de su pro­
+grama. Se apunta, por ejemplo, a que se pretende imponer por esta nueva materia
+escolar la educación -teórica y práctica- en la llamada “teoría de género” para expli­
+car debidamente -según se dice, a la altura de los tiempos-, una dimensión con un
+significado tan constituyente para el ser humano y para las realidades sociales prima­
+rias como es la sexualidad. Se señala, también, la omisión de una expresa referencia
+al matrimonio y a la familia como temas de la nueva asignatura. Para unos, se trata
+de una “buena señal” pedagógica -se deja así abierto el programa para un tratamien­
+to libre del tema- y, para otros, de una mala -se impondría disimuladamente, dadas
+las referencias explícitas que aparecen en los Reales Decretos que lo desarrollan, la
+implantación obligatoria en “la escuela” de “esa teoría” o “ideología” “del género”-.
+Lo más importante, sin embargo, desde el punto de la valoración ética de
+“la Educación para la Ciudadanía” en la versión legal que conocemos, no son esos
+aspectos concretos de la programación que preocupan tanto a padres y a educa­
+dores, cuanto la existencia misma de la asignatura en la forma legal en que se ha
+planteado, es decir, dado su carácter obligatorio para todos los alumnos y, por con­
+siguiente, para todos los centros. Porque, como hemos visto en los apartados ante­
+riores de nuestra reflexión, así planteada, se convierte en un problema fundamen­
+tal de auto-concepción del Estado; de cuya gravedad ética no se puede dudar ni
+por razones bien conocidas de filosofía del Estado y del Derecho, admitidas umver­
+salmente después de la II Guerra Mundial en los contextos más diversos y plura­
+les de las corrientes filosóficas contemporáneas, ni, además, por las terribles expe­
+riencias históricas vividas con los totalitarismos políticos de la época16.
+
+16
+Cf. A n ton io M. R ouco Varela, Los Fu ndam en tos d e los D erechos H um anos. Una cuestión urgente, Real
+Academia de Ciencias Morales y Políticas. Madrid 2001.
+
+388
+
+
+
+La historia de las ideas políticas y la historia de los hechos políticos ense­
+ñan al unísono que, cuando el Estado se propone y quiere actuar y actúa como
+educador de la sociedad y de la nación y no digamos como educador del hombre,
+se coloca en la peligrosa pendiente jurídico-política de caer en la tentación de un
+totalitarismo radical, más o menos encubierto.
+La materia “Educación para la Ciudadanía” tiene ciertamente salidas jurí­
+dicas y éticas en el contexto del ordenamiento constitucional español: la de su
+configuración pedagógica como una enseñanza y formación cívico-jurídica en el
+sentido más específico y metodológicamente serio de la expresión, con un conte­
+nido central, el del conocimiento del ordenamiento jurídico del Estado; o la de ser
+propuesta como una asignatura opcional respecto a otras de contenidos e inten­
+ciones pedagógicas semejantes, muy especialmente en relación con la enseñanza
+de la religión y de la moral que puedan elegir los padres a tenor de las ofertas
+ofrecidas de acuerdo con la legislación vigente; por ejemplo, en relación con la
+formación en la religión y moral católica, preferida por casi un 80% de las familias
+españolas17.
+Una cuestión de viva actualidad y de un interés doctrinal indudable, al
+menos para los católicos, es el de los recursos jurídicos posibles, incluso desde el
+punto de vista de la legalidad positiva, a los que pudiesen acudir legítimamente
+en primer lugar los padres de familias y padres de alumnos de cara a un eventual
+cuestionamiento de la asignatura. Se apunta a la objeción de conciencia, reco­
+mendada con cada vez mayor insistencia por expertos y profesionales de la edu­
+cación bien conocidos socialmente y por algunas organizaciones de esos mismos
+padres. No nos queda ni espacio ni tiempo para abordar detenidamente este pro­
+blema dentro del marco sistemático de estas primeras reflexiones jurídico-éticas.
+Problemas especialmente graves para los centros no estatales con ideario propio,
+sobre todo para las escuelas católicas. La incidencia del derecho canónico en la
+forma y modo de resolver la cuestión dentro de las escuelas de la Iglesia, o con
+ideario católico reconocido canónicamente, salta a la vista.
+En cualquier caso, a tenor de la jurisprudencia constitucional y jurídicointernacional comparada, no puede negarse a los padres de familia y a los alum­
+nos mayores de edad el recurso legítimo a la objeción de conciencia.
+
+17
+Porque es evidente que otro efecto negativo de la imposición de “la Educación para la Ciudadanía”,
+como asignatura obligatoria, es el de competencia pedagógica y didáctica -¿desleal?-, cuando no “doctrinal”, con la
+clase de religión y moral católica y, muy. probablemente, con la de las otras “confesiones” y “religiones” reconocidas
+por el Estado Español. La una, “Educación para la Ciudadanía”, obligatoria; la otra, Religión y Moral, optativa y sin
+alternativas académicamente dignas de tal nombre.
+
+389
+
+
+
+

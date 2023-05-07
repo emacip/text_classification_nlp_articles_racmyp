@@ -1,0 +1,1235 @@
+Desigualdad, brecha de género y cuotas
+Real Academia de Ciencias Morales y Políticas
+Jaime Terceiro Lomba
+
+27 de octubre de 2020.
+Este trabajo tiene un doble propósito. El primero es analizar algunos
+aspectos relacionados con la desigualdad y con la distribución del crecimiento
+económico, habido en las últimas décadas, entre los distintos estratos de renta
+de la población mundial. Resaltaré la importancia que tiene utilizar en los análisis empíricos de esta naturaleza la información derivada de los registros públicos. Dentro de la dificultad de caracterizar un concepto tan multidimensional
+como el de la igualdad de oportunidades, que pueda ser utilizado en la práctica, prestaré especial atención a una de sus dimensiones más observables, que
+es la de la movilidad social. Utilizaré dos métricas distintas para caracterizar la
+movilidad social y, a continuación, verificaré empíricamente la relación entre
+cada una de ellas y la desigualdad, medida a través del índice de Gini.
+El segundo de los dos objetivos de este escrito es el examen, desde el
+planteamiento de la igualdad de oportunidades, del notorio problema de la brecha de género. Se entiende por brecha de género la diferencia entre una métrica
+—o indicador— masculina y una femenina correspondiente a una determinada
+actividad relacionada con su bienestar y desarrollo humano. Puede entonces
+hacer referencia, entre otras, a una actividad relacionada con la salud, la educación, la economía y la política. Aquí me centraré, básicamente, en la brecha salarial de género en los países de la Unión Europea (UE). En el transcurso de la
+exposición analizaré las causas de tal tipo de brechas, así como alguna de las
+medidas que se suelen aceptar para su cierre. Terminaré tratando con más detenimiento aquella que más se ha generalizado en los países desarrollados, que es
+la imposición de cuotas. Diferenciaré claramente entre los criterios de igualdad
+de oportunidades y los meritocráticos haciendo, a continuación, especial referencia a los resultados obtenidos al aplicarse en los consejos de administración
+de las empresas.
+
+23
+
+
+
+DESIGUALDAD, CRECIMIENTO Y SU DISTRIBUCIÓN
+Hace ya catorce años [véase Terceiro (2006)] que expuse algunas de
+estas cuestiones sobre desigualdad en mi intervención en este Pleno. Por tal
+motivo, no trataré en esta ocasión temas que creo importantes, pero que ya
+abordé entonces. Entre ellos cabe citar los criterios y métricas para cuantificar
+la desigualdad, las diferencias entre pobreza y desigualdad y, en fin, algunos
+aspectos de la relación entre crecimiento económico y desigualdad. En todo
+caso, y como es lógico, algunas de las ideas que expondré aquí son una prolongación de las ya expuestas entonces. También quiero señalar que nuestro
+compañero Alfonso Novales ha abordado con el rigor y la claridad que le caracterizan, al menos en tres ocasiones, diferentes aspectos de tal problema en
+el Pleno de esta Real Academia.
+Ya en 1948 se incorporaron en la Declaración Universal de los Derechos Humanos los derechos sociales como aquellos que facilitan a los ciudadanos la autonomía, igualdad y libertad que les permitan el acceso a los
+bienes necesarios para una vida digna. Pese a la claridad de este propósito,
+así formalmente enunciado, la dificultad estriba en definir políticas eficaces
+para llevar a la práctica estos preceptos de igualdad y libertad en los actuales
+modelos del estado de bienestar, ya que la idea de igualdad es compleja y
+multidimensional.
+El debate se establece entre aquellos que piensan que la desigualdad,
+además de injusta y socialmente destructiva, acarrea serios problemas desde el
+punto de vista del desarrollo económico y entre aquellos otros que creen que
+los estados de bienestar, tal y como hoy están desplegados, anulan los incentivos de los ciudadanos de rentas bajas para progresar y distorsionan los de los
+emprendedores que, al fin y al cabo, son quienes generan riqueza. Por esta
+razón, estos últimos piensan que la desigualdad es un resultado inevitable y
+natural de este proceso y que, como mucho, es inocua.
+Ahora bien —y como en alguna otra ocasión ya he señalado—, aun
+reconociendo que el problema de los incentivos es un aspecto central de la
+teoría económica moderna, lo cierto es que con el transcurso de los años el
+resultado de las investigaciones, tanto teóricas como empíricas, ha ido cambiando los supuestos y prejuicios sobre la relación entre desigualdad y crecimiento
+económico. No obstante, como con frecuencia sucede en las ciencias sociales,
+no es posible hacer afirmaciones rotundas que sean válidas para cualquier país
+con independencia de su nivel de desarrollo económico y de la calidad de sus
+instituciones. Sin duda, el crecimiento económico tiene siempre efectos sobre
+los niveles de desigualdad, pero su signo y su magnitud dependen de las características específicas de tal crecimiento y, desde luego, del tipo de instituciones
+económicas, políticas y sociales de la realidad en que tiene lugar. Por consiguiente, la dicotomía que, a menudo con insistencia y con carácter general, se
+
+24
+
+
+
+establece entre las políticas económicas que promueven el crecimiento y las
+que promueven la igualdad es falsa y, con frecuencia, interesada.
+Una consideración previa al entrar en este debate es reconocer que lo
+relevante debe ser analizar la forma en que están distribuidas las oportunidades, más que la forma en que están distribuidos los resultados. En efecto, conceptualmente la desigualdad puede considerarse desde dos puntos de vista
+distintos. La visión ex post constata que la desigualdad en los niveles de riqueza,
+de renta o de consumo ha sido —y sigue siendo— una evidencia empírica tanto dentro de las fronteras nacionales como entre los diferentes países. La visión
+ex ante considera la distribución de aquellas circunstancias que los individuos
+heredan o a las que involuntariamente tienen que hacer frente, y que condicionan de manera determinante sus logros personales y profesionales. Con el
+planteamiento ex post se llega a la que se conoce como desigualdad de resultados. El planteamiento ex ante conduce a la desigualdad de oportunidades.
+Por ello, lo importante es analizar el origen de estas desigualdades de
+resultados. Cuando tienen su génesis en la desigualdad de oportunidades debería haber motivos para una seria preocupación. No solo por ir en contra de
+principios básicos y generalmente aceptados, como los que se enuncian, por
+ejemplo, en la Declaración Universal de los Derechos Humanos, sino también
+por razones de eficiencia económica. En efecto, puesto que el talento potencial
+está distribuido entre todos los estratos socioeconómicos, es claro que propiciar
+una mayor igualdad de oportunidades, obviamente también desde el punto de
+vista de género y raza, facilita que las capacidades y los talentos se asignen a
+aquellas actividades en las que se tienen ventajas competitivas. Se generan así
+las condiciones adecuadas para que los individuos utilicen dichas ventajas, lo
+cual, como es bien sabido, resulta necesario para el buen funcionamiento de las
+economías de mercado. Pero, además, la desigualdad de oportunidades viene
+acompañada con frecuencia de llamativas disparidades de influencia y poder
+entre personas de distinto género, raza o condición social, por lo que tienen
+una cierta inercia a que se perpetúen.
+Una diferencia clave entre estos dos conceptos de desigualdad es su
+caracterización o su medida. Es bien sabido que los problemas de medir las
+magnitudes económicas y sociales son recurrentes no solo desde un punto de
+vista teórico, sino también empírico, y así sucede con la idea de bienestar. Definiremos la renta como el flujo que se deriva de un determinado stock de riqueza. La riqueza individual cabe agruparla en tres categorías: la riqueza física
+—representada por bienes de esta naturaleza—, la riqueza financiera y el capital humano, que tiene a su vez dos orígenes diferenciados: uno el derivado de
+las inversiones realizadas previamente en educación y aprendizaje y otro el
+derivado del talento natural. Un ejemplo obvio de talento natural es Mozart, a
+quien difícilmente podremos emular por mucha educación o entrenamiento
+previo que recibamos, pero también se entienden como tal, en sentido más
+
+25
+
+
+
+amplio, las condiciones físicas y la salud. Estos diferentes tipos de riqueza producen flujos de renta; en particular, el capital humano en el tiempo asignado al
+trabajo genera la correspondiente retribución monetaria, mientras que en el
+dedicado al ocio produce la satisfacción y el placer que obtenemos de cierto
+tipo de actividades, lo que es difícilmente mensurable en términos monetarios.
+Así pues, una correcta definición de renta debería incorporar sus dos
+componentes: la monetaria y la no monetaria. Definida de esta forma, es una
+medida del consumo potencial del individuo, es decir, de su capacidad de consumir bienes, incluido el ocio. Sin embargo, a la hora de diferenciar ambas
+componentes aparecen ya indudables dificultades. En primer lugar, la imposibilidad de medir la renta no monetaria. Además, el hecho de que no exista relación sistemática alguna entre la renta monetaria y la no monetaria hace que
+utilizar solamente la renta monetaria —camino que en la práctica estamos obligados a seguir— como el valor que representa la renta total sea solo una aproximación a la realidad. De hecho, al emplear —como haremos a lo largo de este
+trabajo— rentas y valores monetarios, las desigualdades pueden estar sobreestimadas o subestimadas por diversas razones. Por ejemplo, dos individuos con
+gustos y preferencias diferentes pueden hacer elecciones desiguales en cuanto
+a su tiempo de trabajo y de ocio. Además, la distinción entre las actividades de
+ocio y las de trabajo no está claramente establecida para todos los individuos y
+situaciones; así, estudiar o seguir formándose a lo largo de la vida profesional
+puede ser ocio en algunos casos y trabajo en otros, ya que a medio y largo
+plazo pueden devenir en actividades productivas. Por otra parte, estos dos mismos individuos pueden estar en distintas etapas de su vida, por ejemplo en el
+período de aprendizaje, en su madurez profesional o en su etapa de jubilación.
+En consecuencia, y por las dificultades ya señaladas, en adelante me
+referiré, exclusivamente, a rentas monetarias. Pero aun así el problema de medición de la desigualdad dista mucho de estar resuelto. Desde luego, durante
+las últimas décadas se ha acumulado un conjunto muy amplio de métricas para
+cuantificar la desigualdad de resultados, tanto a partir de encuestas como de
+datos procedentes de los registros administrativos públicos y, en algunos casos,
+de instituciones privadas. Esta información permite hacer, entre otras, afirmaciones tales como que la desigualdad de resultados, en un determinado país, ha
+aumentado durante la última década, o que la desigualdad de resultados en ese
+país, en un año dado, es mayor que en otro. Sin embargo, no se tiene el mismo
+soporte de información para poder hacer comparaciones análogas en el caso
+de la desigualdad de oportunidades, entre otras razones —como veremos—,
+porque esta característica no es observable en todas sus dimensiones y, por
+tanto, es difícilmente mensurable.
+Los tremendos avances habidos en las técnicas para tratar, almacenar y
+transmitir datos, junto con su creciente accesibilidad, han convertido la economía básicamente en una ciencia empírica, en la que las fronteras con otras
+
+26
+
+
+
+ciencias sociales se están diluyendo con los citados avances. La actual investigación empírica en economía utiliza con frecuencia, y de forma complementaria, datos procedentes de encuestas y de registros administrativos y, en algunos
+casos, de ciertos ensayos con sus asociados grupos experimentales y de control.
+En mi opinión, hoy es muy difícil hacer aportaciones serias en este cruce de
+ciencias sociales sin una formación sólida y actualizada en técnicas de computación, manejo de bases datos y métodos econométricos. Como con frecuencia
+este no es el caso, abunda la falta de rigor en tal tipo de análisis, lo que se
+traduce en enfáticas afirmaciones sin una base empírica seria o, en el mejor de
+los casos, en simples lugares comunes.
+En la cuestión que nos ocupa desde el punto de vista de la realidad
+española, la Encuesta Financiera de las Familias (EFF), que se publica desde el
+año 2002, proporciona información acerca de las condiciones financieras de las
+familias, es decir, sobre sus niveles de riqueza, ingresos y gastos. Combinar esta
+información con la contenida en las bases de datos administrativos de la renta
+es la estrategia adecuada para abordar análisis de desigualdad. Es obvia la ventaja del empleo de datos administrativos, ya que son de mayor calidad que los
+derivados de las encuestas y, además, el tamaño de la muestra es la población
+objeto de análisis. También por sus propias características tienen una dimensión longitudinal, lo que permite hacer inferencias dinámicas sobre los individuos o unidades objeto del análisis.
+Parece claro que las diferencias que se pueden llegar a obtener utilizando uno u otro tipo de datos pueden llegar a ser cuantitativamente importantes, y, en algunos casos, también pueden ser cualitativamente muy dispares.
+Puesto que el problema de la desigualdad, como ya he señalado, es complejo
+no cabe describirlo con un par de indicadores o por un simple gráfico. Ahora
+bien, aun intentándolo hacer de esta manera hay algunos caminos más provechosos e ilustrativos que otros. Veamos un ejemplo en el que en un caso se
+utilizan solo datos de encuestas, y en el otro las encuestas se complementan
+con información macroeconómica de las cuentas nacionales, así como con
+información microeconómica derivada de las rentas de los individuos.
+Probablemente el resultado más conocido, de los publicados la última
+década, sobre la evolución de la desigualdad de resultados a nivel global es el
+que se conoce en la literatura como la curva del elefante. Tiene su origen en un
+trabajo del Banco Mundial del año 2013, publicado años más tarde por sus autores en Lakner y Milanovic (2016a) [véase la fig. 1]. En este gráfico se representa el crecimiento de la renta, en el período de 20 años que media desde la
+caída del muro de Berlín en 1988 hasta el año 2008, para los distintos estratos
+de la población mundial, ordenados de menores ingresos a mayores ingresos
+en sus correspondientes percentiles. En efecto, la curva así representada recuerda al perfil de un elefante, que con la recreación realizada por Caroline Freund
+(2016) se pone más visualmente de manifiesto.
+
+27
+
+
+
+Lo primero que se hace visible en el gráfico es el enorme éxito económico que miles de millones de personas, una gran parte de la población mundial,
+han vivido en esos 20 años. Pero dentro de este éxito global destacan ante todo
+dos grupos ganadores: la clase media global, aquellos que están entre el percentil
+del 20 % y del 60 % —que corresponde en mayor medida a ciudadanos de China,
+de India y del África subsahariana— y los extremadamente ricos, en general, concentrados en América del Norte y Europa. Frente a estos dos grandes grupos contrasta, singularmente, el de aquellos individuos situados en lo que en el gráfico es
+el cuello del elefante, es decir, los comprendidos entre el percentil del 80 % y del
+90 %, que han visto sus rentas estancadas en esos 20 años. Existe un cierto debate
+en la literatura académica, sobre la caracterización de los ciudadanos de ese grupo. Lakner y Milanovic afirman que corresponden a las rentas medias y parte de
+las rentas bajas de los países desarrollados de Europa y de EE. UU. Mientras que
+otros autores sostienen que tal situación se ha originado por el estancamiento de
+Japón y el derrumbe económico de los países de la antigua Unión Soviética, [véase Corlett (2016) y Freund (2016)]. En su contestación a estas críticas Lakner y
+Milanovic (2016b) se reafirman en sus observaciones originales.
+FIGURA 1
+
+«Curva del elefante» 1988-2008
+
+Fuente: Gráfico de Lakner, C. y B. Milanovic (2016); silueta del elefante añadida por Caroline
+Freund (2016).
+
+28
+
+
+
+La información utilizada por Lakner y Milanovic se basa, en exclusiva,
+en datos de casi 600 encuestas del Banco Mundial recogidas para 5 años diferentes, previamente ajustadas por el poder de paridad de compra a dólares
+del año 2005. Años más tarde, Alvaredo y otros (2018a y 2018b), entre los que
+está el acreditado economista Piketty, actualizaron la curva del elefante en dos
+sentidos. La extendieron en el tiempo hacia atrás hasta 1980 y hacia adelante
+hasta el año 2016, y además utilizaron información adicional para tratar de
+reconciliar el resultado de las encuestas con las cuentas nacionales y con los
+registros administrativos de la renta de los países considerados en el análisis.
+Obsérvese que este nuevo período, 1980 a 2016, incluye acontecimientos económicos muy relevantes, tales como la crisis financiera última y el subsiguiente período de recuperación, así como la totalidad de la década de los 80, en
+la que China consolidó su gran despegue económico. Además, los criterios
+con los que se elaboraron los niveles de renta difieren en uno y otro trabajo:
+en el primero las encuestas preguntaban, simplemente, acerca de los niveles
+de ingresos o de consumo, y se utilizaron de manera indistinta; en el segundo, se parte de las rentas nacionales que se distribuyen entre los distintos
+percentiles.
+En este segundo trabajo se genera otro gráfico, véase la fig. 2, que cambia el perfil del anterior, como consecuencia de un mejor cálculo de las rentas
+y de haber alargado el periodo de tiempo considerado. El perfil resultante de
+esta nueva curva prolonga el cuello del elefante y también la trompa, que, la
+sitúa en una posición prácticamente vertical. Obsérvese, también, el sustancial
+aumento que aparece en el incremento de las rentas, consecuencia, en gran
+medida, de la mayor precisión en su estimación. Este efecto, es singularmente
+relevante en las rentas más altas comprendidas en el último percentil, ya que
+como es bien notorio estas rentas están significativamente infravaloradas en los
+resultados de las encuestas. Nótese el cambio de escala que los autores introdujeron en el último percentil para poner así mejor de manifiesto los incrementos de renta habidos dentro de él.
+
+29
+
+
+
+FIGURA 2
+
+«Curva del elefante» de desigualdad y crecimiento global 1980-2016
+
+Fuente: Alvaredo y otros (2018a), figura 2; y Alvaredo y otros (2018b), figura E4.
+
+Sin duda, los resultados para este nuevo período de 36 años cambian
+cuantitativamente, pero no cualitativamente, las conclusiones del trabajo original de Lakner y Milanovic. El incremento habido en las rentas entre el percentil del 70 % y del 90 % sigue siendo el menor de todos, y en él están situados los ciudadanos de rentas bajas y medias de los países desarrollados,
+volviendo a ubicar a este colectivo como el que se ha beneficiado en menor
+medida de los avances económicos habidos en este período de 36 años a
+partir de1980.
+También de la fig. 2 se deduce el desorbitado crecimiento que, en el
+período analizado, tuvieron las rentas de las élites mundiales, que alcanza hasta el 240 %, y que es cinco veces superior al que tuvo el conjunto de las rentas
+medias y bajas de los países desarrollados. En fin, son otras muchas las conclusiones que de este análisis se pueden derivar, por ejemplo, que el 50 % más
+pobre de la población mundial capturó el 12 % del crecimiento global y el 1 %
+más rico se benefició del 27 % del crecimiento total.
+
+30
+
+
+
+Estos gráficos muestran que la apertura de mercados y el proceso de
+globalización produjeron un progreso y generación de riqueza sin precedentes,
+pero también parece evidente que amplios sectores de la población no solo no
+se beneficiaron de ella, sino que, en términos relativos, sufrieron una pérdida
+de bienestar. Muchos analistas atribuyen el aumento de los populismos en los
+países desarrollados a la situación, que afecta a sus clases bajas y medias, de
+escaso crecimiento de sus rentas en términos absolutos y a su deterioro en términos relativos. Ello conduce, con frecuencia, a una enmienda a la totalidad del
+proceso de globalización por haber dejado atrás a estos sectores, sin reparar en
+los extraordinarios beneficios que reportó al resto. Los populismos proponen,
+entonces, que es a esta gente a la que hay que devolver las rentas y los trabajos
+que la globalización se ha llevado, como si este hecho fuera exclusivamente
+una consecuencia inevitable del proceso de globalización, olvidándose de que
+la racionalidad de las políticas concretas y la calidad de las instituciones de
+estos países, también juegan un papel determinante para impedir que amplios
+segmentos de las clases medias se queden rezagados. Alejar a estas amplias
+capas de población de los países desarrollados de esta situación requiere políticas que conduzcan a un fortalecimiento del estado de bienestar, así como
+estrategias redistributivas más eficientes, en un marco de una economía más
+flexible e innovadora.
+Justin Sandefur (2018), utilizando la misma información que la empleada por Alvaredo y otros (2018b), ha construido la curva para el mismo período
+de 20 años —de 1988 a 2008—, que el considerado en el trabajo de Lakner y
+Milanovic. El resultado es la fig. 3 que, como vemos, tiene una forma distinta a
+la de estos autores. La imaginación la lleva a asemejarse más al legendario animal del lago Ness, familiarmente conocido como Nessie. Por consiguiente, con
+estos nuevos datos, el elefante se ha convertido en Nessie. Pese a tal transformación, este resultado vuelve a confirmar que los que más han perdido en
+términos relativos son los segmentos de población comprendidos entre el percentil del 70 % y del 90 %, en los que están incluidos las rentas medias y bajas
+de los países desarrollados.
+
+31
+
+
+
+FIGURA 3
+
+Nueva «curva del elefante» 1988-2008: el «monstruo del lago Ness». Reproducción de la
+curva del elefante de Alvaredo y otros (2018b) con su información para 1988-2008
+
+Fuente: Sandefur (2018).
+Nota: Reproducción de la figura E4 del World Inequality Report 2018 limitada al periodo 1988-2008.
+
+Pero lo que también, y sobre todo, me interesa resaltar al comentar las
+discrepancias cuantitativas entre estos dos trabajos, tan pioneros en el análisis
+y evolución de la desigualdad a nivel global, es que, más allá de posibles diferencias metodológicas, la causa fundamental de estas discrepancias es la calidad de la información que utiliza el más reciente de los citados trabajos, ya
+que está derivada no solo de encuestas, sino también de fuentes de información de registros administrativos. Como ya ha quedado dicho, esta es hoy una
+tendencia muy sobresaliente en los trabajos de economía empírica y, especialmente, debe serlo también en aquellos relacionados con la desigualdad. La
+importancia de incorporar estas fuentes de información estadística es incuestionable.
+En el panorama de la investigación académica actual se vislumbran,
+en cuanto al análisis de la desigualdad, dos grandes líneas de trabajo, y ambas
+utilizan información procedente de registros administrativos. La que se centra
+básicamente en la desigualdad de riqueza e ingresos en la línea de los trabajos de Piketty (2014 y 2020), y la relacionada con la desigualdad intergeneracional, en la que destacan los pioneros trabajos de Raj Chetty y otros (2014a
+y 2014b).
+
+32
+
+
+
+Valga lo dicho hasta aquí como ejemplo representativo tanto de los
+avances que se han hecho en la caracterización de la desigualdad de resultados
+como en las fuentes de información estadística que se utilizan para su análisis
+que, como hemos señalado, no está exenta de dificultades. Volvamos ahora a la
+caracterización de la igualdad de oportunidades, que es un problema todavía
+sustancialmente más complejo.
+
+DESIGUALDAD Y MOVILIDAD SOCIAL
+Con el transcurso de los años se ha afianzado la idea de que al reconocimiento explícito de la igualdad de derechos civiles y políticos que conlleva
+que «todos los hombres son, por naturaleza, libres e iguales», es necesario añadirle los indispensables derechos económicos y sociales o derechos de la igualdad, que hagan posible en la práctica la realización de las libertades. Este reconocimiento se ha plasmado en el que conocemos como estado de bienestar,
+término que quedó así acuñado después de la Segunda Guerra Mundial.
+La filosofía política contemporánea ha tratado exhaustivamente el problema de la igualdad de oportunidades, en especial desde la segunda mitad del
+siglo pasado. Quizá las dos visiones contrapuestas más originales en este debate
+son la representada por Nozick (1974) en su Anarquía, Estado y Utopía y la elaborada por Rawls (1971) en su Teoría de la Justicia. El primero, como defensor,
+exclusivamente, de los derechos naturales y un Estado mínimo; el segundo, como
+defensor de un Estado con una significativa capacidad de distribución, que considera obligada en toda economía de mercado. Otros autores que hicieron contribuciones relevantes en esta materia son Dworkin (1981), Roemer (1998) y Sen
+(1980), los dos últimos desde una aproximación económica más que filosófica.
+En concreto, Amartya Sen piensa que la propuesta de Rawls es insuficiente, pues
+considera que los bienes y los recursos ayudan a la igualdad de oportunidades,
+pero afirma que no bastan si faltan las capacidades para usarlos.
+El propósito de mi intervención no es, en absoluto, contribuir al debate normativo sobre la definición de igualdad de oportunidades, ni siquiera pretendo evaluar las distintas aproximaciones al problema de los citados autores.
+Aunque lo pretendiera, no me sentiría capacitado para ello. Mi propósito es
+esencialmente más práctico, en la línea del trabajo de Bourguignon (2018), y
+del más reciente del World Economic Forum, [véase WEF (2020)].
+Caracterizando la desigualdad de oportunidades como la desigualdad
+en «las circunstancias que están más allá del control de los individuos», se presenta la dificultad de que nunca será posible observar las diferencias entre los
+individuos a través de todas las circunstancias que puedan configurar el éxito
+económico o social y que sean independientes de su voluntad. En efecto, el
+
+33
+
+
+
+hecho de que la voluntad del individuo pueda ser una circunstancia introduce
+una circularidad en esta definición que presenta dificultades evidentes. Ello es
+debido a que algunas de aquellas circunstancias que no están bajo el control de
+los individuos y el propio esfuerzo y voluntad que estos desarrollan en su actividad están causalmente relacionadas entre sí de una forma relativamente compleja, que es la que conduce a los resultados que al final se alcanzan.
+Con todo, esta dificultad no surge con carácter general. Por ejemplo,
+existe un amplio consenso sobre que el entorno social y económico en el que
+nace y se educa un individuo, su género, su condición étnica o su lugar de
+nacimiento son características que están más allá de su control. Si las razones
+de la diferencia en los resultados obtenidos por los individuos tienen su origen
+en alguna de estas circunstancias, puede hablarse de falta de igualdad de oportunidades, y estaríamos en una situación de inequidad. No así si estas diferencias derivan con claridad de su propio esfuerzo y de decisiones personales de
+las que son exclusivamente responsables. Por lo demás, si la desigualdad tiene
+su origen en circunstancias aleatorias, lo que llamamos suerte, la sociedad podrá arbitrar mecanismos compensatorios para estas situaciones, pero ellas no
+pueden ser atribuibles a una falta de igualdad de oportunidades.
+En todo caso, como es obvio, sigue sin poderse contestar satisfactoriamente a preguntas tales como ¿dónde pueden establecerse las fronteras entre
+las circunstancias que conducen a una determinada capacidad natural?; ¿qué
+parte se debe al esfuerzo y qué otra parte es innata y, por consiguiente, exógena? Así, cuando se habla de desigualdad de oportunidades, en un extremo están
+las capacidades naturales que han sido heredadas y, en el otro, el entorno económico y social en el que el individuo ha nacido. Entre ambos hay todavía
+mucho espacio para el debate.
+Por consiguiente, y desde la aproximación práctica a la que he aludido,
+aquí me referiré solo a una de las dimensiones que caracteriza la igualdad de
+oportunidades, que es la relacionada con la movilidad social, [véase Bourguignon (2018)]. Numerosos son los trabajos que en los últimos años se han llevado a cabo para estudiar los problemas referentes a la movilidad social. Aquí
+tomaré, básicamente, como referencia los recogidos en OCDE (2018) y en Narayan y otros (2018) publicado por el Banco Mundial.
+Con frecuencia, en el análisis de la desigualdad se tiende a creer que
+los pobres y los ricos, los segmentos de menor y de mayor renta, lo son año
+tras año y generación tras generación. Y esto no es así. La movilidad intergeneracional económica, entendida como el cambio de individuos y familias a distintos estratos de renta a lo largo del tiempo, es significativa y tiene lugar en
+todas las sociedades. Existe una abundante y actualizada evidencia empírica
+sobre los niveles de movilidad social en los países desarrollados. Alguna de esta
+evidencia no concuerda bien con muchas de las ideas generalmente aceptadas
+
+34
+
+
+
+en el mundo de la política y de la economía. Por ejemplo, con los trabajos disponibles puede afirmarse que, entre los países industrializados, EE. UU. y el
+Reino Unido están en el grupo de menores niveles de movilidad social y los
+países nórdicos entre aquellos con mayores niveles.
+Aquí cabría recordar al autor de la tan repetida expresión «el sueño
+americano», James Truslow Adams, quien la acuñó en las páginas finales de su
+libro The Epic of America [véase Adams (1931)]. Sobre la base de este sueño la
+sociedad americana no veía nada malo en convivir con elevados niveles de
+desigualdad, siempre y cuando hubiera una fuerte movilidad social. Pero ya no
+es el caso, y esta retórica del ascenso social sobre la base de una cierta igualdad
+de oportunidades ha dejado de estar soportada por la evidencia empírica.
+Diversos son los autores que a partir del trabajo pionero de Corak
+(2013) intentaron relacionar empíricamente la desigualdad de resultados con la
+desigualdad de oportunidades utilizando una de sus dimensiones más observables y por consiguiente medibles como es la movilidad social. Concretamente,
+en el trabajo de Corak se usa como métrica de la desigualdad de resultados el
+índice de Gini, y como métrica de la movilidad social, la elasticidad de la renta
+intergeneracional. Como es bien sabido, el índice de Gini es un indicador cuyos
+valores están comprendidos entre 0 y 1. El valor de 0 corresponde a la situación
+de absoluta igualdad y el valor de 1 al de absoluta desigualdad, es decir, al hipotético caso de que una familia o un individuo tiene la totalidad de la renta.
+Es la medida de desigualdad más utilizada, a pesar de que presenta algunas limitaciones a las que ya me referí en mi citado trabajo [véase Terceiro (2006)].
+La elasticidad de la renta intergeneracional también es una variable que toma
+valores comprendidos entre 0 y 1, y estima qué parte de la renta de los padres
+persiste en los hijos cuando estos llegan a adultos.
+La representación gráfica de esta relación se conoce, en la literatura,
+como la curva del Gran Gatsby (CGG). Hace referencia al protagonista de la famosa novela de F. Scott Fitzgerald; el término fue acuñado por el que fue profesor
+de la Universidad de Princeton, Alan B. Krueger, en 2012, cuando era el responsable de la oficina económica del presidente de EE. UU. Varias son las interpretaciones que pueden justificar el nombre dado a esta relación, ya que el protagonista de la novela, Jay Gatsby, podría ser un ejemplo de movilidad social. Pero
+quizás sea suficiente recordar su famoso primer párrafo, cuando el padre del
+narrador le dice a su hijo: «Siempre que sientas deseos de criticar a alguien […],
+recuerda que no a todo el mundo se le han dado tantas facilidades como a ti».
+En la práctica, esta relación, entre desigualdad y movilidad social, se
+sintetiza en la recta de la fig. 4. En ella he ampliado y actualizado la información
+muestral utilizada por Corak (2013), incluyendo los valores de España y de
+cuatro países más del G20 (China, India, Sudáfrica y Brasil). También utilicé la
+información de la cohorte de padres del año 1970 y la del índice de Gini como
+
+35
+
+
+
+una media de los correspondientes a los años de 1990 a 1995. Al estimar los
+parámetros de la recta de regresión se han tenido en cuenta los valores atípicos
+que son influyentes, que corresponden a Sudáfrica y Brasil.
+FIGURA 4
+
+Curva del Gran Gatsby (CGG)
+
+Fuentes: Elaboración propia a partir de los datos de elasticidad de la renta intergeneracional de
+la cohorte de 1970, tomada de la Base de Datos Global de Movilidad Intergeneracional (GDIM),
+WB (2018), y del índice de Gini tomado de la Base de Datos de Desigualdad de Ingresos Mundiales Estandarizada (SWIID), versión 8.3 may-2020, Solt (2020).Nota: ReproduccióndelafiguraE4del WorldInequalityReport2018limitadaalperiodo1988-2008.
+Nota: Índice de Gini medio de 1990-1995.
+
+Con el propósito de desarrollar una métrica de movilidad social que fuera más allá de la proporción de la renta de los padres que se transmite a los hijos,
+el Foro Económico Mundial [véase WEF (2020)], ha desarrollado un índice de
+movilidad social a partir de cinco dimensiones básicas de la movilidad social. Estas
+cinco dimensiones las caracteriza por lo que considera como 10 pilares básicos.
+Son los siguientes: «Salud», «Educación» (acceso, calidad y equidad y formación
+continua), «Tecnología» (acceso), «Trabajo» (oportunidades, salario justo y condiciones) y «Protección e Instituciones inclusivas» (protección social e instituciones in-
+
+36
+
+
+
+clusivas). El índice se calcula como una media de la puntuación asignada a estos
+10 pilares básicos. La escala de valores del índice agregado está comprendida
+entre 0 y 100, correspondiendo el valor 100 a la situación de mayor movilidad. Este
+índice ha sido elaborado para los 82 países más representativos de la economía
+global, combinando las estadísticas oficiales disponibles en las organizaciones internacionales con el resultado de las encuestas a ejecutivos relevantes de estos
+países. En la fig. 5 se presenta un ejercicio análogo al anterior de la CGG, pero esta
+vez utilizando el índice de movilidad social del WEF en lugar de la elasticidad de
+la renta intergeneracional. En este caso he ampliado la muestra de países considerados en el trabajo del WEF (2020) a todo el G20, la UE y a Noruega, y también
+aquí he tenido en cuenta los valores atípicos que son influyentes, que corresponden a Sudáfrica, Arabia Saudí y Eslovaquia. En esencia, estos dos ejercicios ponen
+de manifiesto que la relación entre desigualdad y movilidad social, utilizando uno
+u otro indicador, se mantiene y es muy significativa y robusta.
+FIGURA 5
+
+Índice Global de Movilidad Social vs Índice de Gini
+
+Fuentes: Elaboración propia a partir de los datos del índice Global de Movilidad Social de WEF
+(2020) y del índice de Gini tomado de la Base de Datos de Desigualdad de Ingresos Mundiales
+Estandarizada (SWIID), versión 8.3 may-2020, Solt (2020).
+Nota: Datos de Gini de 2018 o, en su defecto, del último año disponible para cada país.
+
+37
+
+
+
+Una vez más, hay que señalar claramente, por una parte, lo que este
+tipo de resultados nos permite afirmar y, por otra, advertir del riesgo de obtener
+de ellos conclusiones que pareciendo intuitivamente razonables son erróneas
+desde la raíz. Así, se puede afirmar, que cuanto más desigual es una sociedad
+menos movilidad social hay en ella. Pero, por ejemplo, de estas relaciones no
+puede concluirse que una disminución de la desigualdad en un país garantice,
+por sí misma, una mayor movilidad social, ya que esta significativa correlación
+no implica relación causal alguna. El problema, obvio es decirlo, no consiste en
+privar de oportunidades a quien las tiene, sino en ofrecérselas a quien carece
+de ellas. Es necesario recordarlo, ya que, en esta materia, como en tantas otras
+los populismos igualitarios que nos rodean pueden causar estragos. No es tarea
+fácil, ni de resultados inmediatos, definir políticas públicas que aumenten la
+igualdad de oportunidades. Es mucho más fácil legislar precipitadamente sin
+tener en cuenta los efectos no deseados ni previstos que tal forma de proceder
+conlleva.
+Desde luego, caracterizar la posible relación causal entre indicadores
+de igualdad de resultados y de igualdad de oportunidades es una condición
+necesaria para definir cualquier política pública sensata, pero requiere bastante
+más que constatar su simple correlación. Sin embargo, la simple correlación es
+de ayuda cuando lo único que se pretende es predecir una de las variables
+conociendo el valor de la otra. De tal manera, que la robusta relación que existe entre estos dos tipos de métricas permite afirmar que, cuando el nivel de
+desigualdad en un país es grande, el nivel en la igualdad de oportunidades de
+sus ciudadanos es bajo. Habría que esperar que, dada esta tozuda evidencia
+empírica, el debate político y económico se ensanchara a consideraciones bien
+fundadas sobre la igualdad de oportunidades, y que necesariamente obligaran
+a abrir el debate sobre las tremendas desigualdades de renta en los países desarrollados. De tal manera que se dejara de lado la simpleza, tantas veces repetida, de que en materia de desigualdad de lo único que hay que preocuparse
+es de abordar exclusivamente los problemas de pobreza en términos absolutos,
+es decir, la pobreza extrema.
+Como ya en otra ocasión he señalado, el incremento de la movilidad
+social tiene como corolario que las élites económicas, sociales y políticas sean
+más diversas, mudables y transparentes. Como consecuencia, el indudable poder que en toda sociedad ejercen sus élites sobre las instituciones, responderá
+mejor a la pluralidad y a las preferencias del conjunto de la sociedad cuando
+exista un nivel razonable de movilidad social en términos absolutos y relativos.
+Evitaríamos así, en palabras del profesor Daron Acemoglu (2012), la consolidación de élites extractivas, caracterizadas por disponer de un sistema de captura de rentas que permite, sin crear nueva riqueza, detraer rentas del conjunto de los ciudadanos en beneficio propio. En contraposición, son las élites
+inclusivas las que se caracterizan por comportamientos equitativos, eficientes
+
+38
+
+
+
+y transparentes, y las que crean el círculo virtuoso de incrementar la movilidad
+social.
+Está suficientemente acreditado que, en entornos de baja calidad institucional, la falta de movilidad social tiende a situar en los niveles de renta más
+altos la capacidad de influir en el marco que regula la actividad económica. Es
+esta una situación propicia para el proceso de extracción de rentas que genera
+la llamada economía clientelar, y que tienen ejemplos muy señalados en la economía española de las últimas décadas. Consiste en la utilización de la capacidad normativa y de gasto de las distintas Administraciones (local, autonómica y
+estatal) en beneficio de una o varias personas, empresas o grupos de interés, y
+en perjuicio de terceros, que generalmente son los ciudadanos. En mi intervención de hace cuatro años [Terceiro (2016)], puse algunos ejemplos significativos
+al respecto.
+Obsérvese que en todo lo dicho hasta aquí respecto a la movilidad
+social no hemos hecho referencia alguna al género, y es indudable que todavía
+existen patrones muy distintos para la movilidad social de hombres y de mujeres. De hecho, políticas que mejoran la movilidad tanto relativa como absoluta
+de los hombres no necesariamente tienen los mismos efectos para las mujeres,
+y viceversa. Con carácter general puede afirmarse que tanto una como otra es
+menor en las mujeres que en los hombres. Por esta razón, en la segunda parte
+de este trabajo nos vamos a centrar en aspectos más concretos relacionados con
+la brecha de género y el impacto que sobre ella puede tener una real igualdad
+de oportunidades.
+
+DESIGUALDAD DE GÉNERO Y BRECHA SALARIAL
+Según el manual de las Naciones Unidas, las estadísticas de género son
+«estadísticas que reflejan adecuadamente las diferencias y desigualdades en la
+situación de mujeres y hombres en todas las áreas de la vida».
+El Instituto Europeo de la Igualdad de Género de la Unión Europea, UE
+(2019a) publica datos desglosados por sexo, con el propósito de definir y evaluar las políticas puestas en práctica para cerrar las brechas de género. Existen
+datos que permiten comparar la situación y el desempeño de mujeres y hombres a través de indicadores socioeconómicos clave, tales como los logros educativos, la participación en el mercado laboral, resultados referentes a la salud
+o al acceso a puestos de toma de decisiones en la política y en la empresa.
+Los últimos datos disponibles respecto a la brecha salarial han sido
+publicados en el año 2019 [véase UE (2019c)], aunque la mayor parte de ellos
+hacen referencia a los valores correspondientes al año 2018. Antes de comentar
+
+39
+
+
+
+estos resultados, es conveniente precisar algunos conceptos; especialmente,
+caracterizar y diferenciar lo que se conoce como brecha salarial bruta y brecha
+salarial ajustada. En ambos casos, el gap o brecha salarial se expresa, habitualmente, como porcentaje de los salarios que reciben los hombres.
+La brecha salarial de género bruta es la diferencia en los ingresos brutos por hora promedio entre hombres y mujeres. Se basa en los salarios pagados directamente a los empleados antes de deducir el impuesto sobre la renta
+y las contribuciones a la seguridad social. Solo las empresas de diez o más
+empleados se tienen en cuenta en la información disponible. Calculada de esta
+manera, la brecha salarial de género no tiene en cuenta los varios y diferentes
+factores que pueden influir significativamente en estos valores. Por ejemplo, la
+educación, las horas trabajadas, el tipo de trabajo, las interrupciones en la actividad laboral o las interrupciones en la carrera profesional. Cuando se tienen
+en cuenta tales efectos se habla de brecha salarial ajustada.
+Sea como fuere, lo que los datos de la brecha salarial bruta muestran
+es que en toda la UE las mujeres generalmente ganan menos que los hombres.
+La situación cabe resumirla de la siguiente forma: el gap salarial bruto en el
+conjunto de la UE es del 16 % y apenas ha cambiado en la última década; sin
+embargo, hay grandes diferencias entre países. Por ejemplo, la brecha es del 3,5
+% en Rumanía y del 25,6 % en Estonia. Países tales como Bélgica, Italia, Luxemburgo, Polonia, Eslovenia y Rumanía son los que tienen una brecha menor,
+siempre inferior al 10 %. El valor correspondiente a España para el año 2017 es
+de 14 % y aquellos superiores al 20 % corresponden a los siguientes países:
+Chequia, Alemania, Estonia y Reino Unido.
+Presentados los valores del gap salarial bruto de esta forma, y viendo
+que Rumanía tiene un valor tan pequeño como del 3,5 % y que Alemania y el
+Reino Unido tienen, respectivamente, un 21 % y un 20,9 %, cabe preguntarse si
+esta brecha salarial es una medida aceptable de la igualdad de género en un
+determinado país. La contestación es que esta brecha salarial, así definida, no
+lo es. Y varias son las razones.
+Una brecha pequeña puede ser consecuencia de una baja participación en el mercado de trabajo. En efecto, los datos ponen de manifiesto que
+en los Estados miembros de la UE las mujeres con edades comprendidas entre
+20 y 64 años tienen tasas de participación en el mercado de trabajo inferiores
+a las de los hombres. Por ejemplo, en Rumanía, con una brecha tan baja como
+la del 3,5 %, la tasa de empleo de las mujeres es del 60,6 % y la de los hombres
+del 78,9 %. Sin embargo, en países como Alemania, con brechas salariales más
+altas, en este caso del 21 %, la tasa de empleo de las mujeres es del 75,8 %
+frente al 83,9 % de los hombres.
+
+40
+
+
+
+En otros países las pequeñas brechas salariales pueden estar justificadas por los niveles educativos de las mujeres. Otra vez un ejemplo relevante es
+Rumanía, en donde las mujeres con un alto nivel de formación tienen una tasa
+de empleo del 86,4 %, que es muy superior a la tasa de empleo del 32,0 % que
+tienen las mujeres con niveles educativos bajos. La consecuencia directa de esta
+situación es que este pequeño porcentaje de mujeres empleadas con altos niveles de formación y, por consiguiente, con altos salarios hace que el valor medio
+de los salarios de las mujeres que trabajan esté más próximo al de los hombres.
+Por otra parte, estos valores tan bajos de la brecha ocultan, en algunos países,
+la realidad de que las mujeres con niveles de formación bajos están excluidas
+del mercado laboral.
+Otra situación que dificulta este tipo de comparaciones es que, en términos agregados en los países de la UE las mujeres trabajan en actividades remuneradas 34 horas a la semana frente a las 40 horas que trabajan los hombres.
+La excepción a esta regla son los 7 países siguientes: Bulgaria, Chequia, Grecia,
+Croacia, Hungría, Polonia y Rumanía.
+También, y excepto en Bulgaria y Chequia, en todos los países de la
+UE las mujeres dedican más tiempo de forma no remunerada a labores domésticas que los hombres. Aunque la dispersión es grande. Así, en Italia, Chipre,
+Malta y Polonia las mujeres dedican más de 3 horas diarias a este tipo de actividades y en Francia, Finlandia y Suecia menos de 2 horas al día. En este contexto, también hay que resaltar que el 15 % de las mujeres entre 15 y 64 años
+están inactivas en el mercado laboral simplemente porque están dedicadas a
+labores de cuidado de personas familiares dependientes.
+Otra consideración fundamental, sobre la que volveré con más detenimiento, es que la actividad remunerada de las mujeres en el mercado de trabajo se ve seriamente afecta por la maternidad. En términos agregados, cabe señalar que la tasa de empleo media de las mujeres que son madres de hijos
+menores de 6 años es del 65,4 %, comparada con la del 91,5 % de los padres.
+Por último, el trabajo a tiempo parcial también afecta muy sensiblemente a los valores de la brecha salarial, ya que la diferencia entre los países
+de la UE es grande. Así, las mujeres que en los países del Este de Europa (Bulgaria, Croacia, Lituania, Letonia, Hungría, Polonia, Rumanía y Eslovaquia) trabajan a tiempo parcial no exceden del 10 %, mientras que, en países como Bélgica, Alemania, Holanda, Austria y Reino Unido, alcanzan el 40 %.
+De las observaciones anteriores se desprende que el indicador de brecha salarial, así definido, no es el instrumento adecuado para caracterizar las
+diferencias que se deban exclusivamente al género de la persona asalariada, es
+decir, que se pueda utilizar como un indicador indirecto de discriminación en
+el mercado de trabajo por razón de sexo. Podría considerarse como un indica-
+
+41
+
+
+
+dor de igualdad, pero no de equidad, entendida, en este caso, como la situación
+en la se recibe la misma retribución por el mismo trabajo.
+Por este motivo, se define la que se conoce como brecha salarial ajustada, que, como he comentado, tiene en cuenta las características socioeconómicas de los colectivos de hombres y mujeres y de las particularidades de los
+puestos de trabajo que ocupan. Indudablemente el cálculo de la brecha salarial
+ajustada no es tan simple como el de la brecha salarial bruta, ya que, en teoría,
+requiere la utilización de muchas variables que no son directamente observables y, además, su estimación presenta dificultades econométricas no menores.
+No es el propósito de este trabajo discutir con el rigor que sería necesario la fiabilidad y limitación de la información utilizada y la validez de los
+resultados econométricos obtenidos. Simplemente, haré algunos comentarios
+sobre los resultados que creo de mayor utilidad para esta exposición, obtenidos
+del reciente trabajo de Boll y Lagemann (2019) para los países de UE. Además,
+y en cuanto al planteamiento metodológico para calcular la brecha salarial ajustada, cabe consultar el documento elaborado por el Grupo de Trabajo para las
+Estadísticas de Mercado Laboral (LAMAS, por sus siglas en inglés) de Eurostat
+[véase EC (2017)].
+La panorámica general que ofrece para los países de la UE el trabajo
+de Boll y Lagemann, utiliza la encuesta de la estructura de salarios correspondiente al año 2014 —SES, por sus siglas en inglés— y datos a los que han tenido acceso en el Eurostat Safe Centre. En el análisis incorporan 25 países de la
+UE y Noruega, pero excluyen por falta de información a Dinamarca, Irlanda y
+Austria. Estos autores dividen el gap salarial en dos partes: la explicada y la no
+explicada; esta última es la brecha salarial ajustada. La parte explicada la atribuyen a un conjunto de características observables y medibles para hombres y
+mujeres en el mercado de trabajo. Las variables explicativas que utilizan son las
+siguientes: horas de trabajo, tamaño de la empresa, sector de actividad de la
+empresa, control público, edad, antigüedad, contrato temporal, educación y
+tipo de empleo.
+Pues bien, en términos agregados, el resultado es el siguiente: el gap
+salarial sin ajustar es el 14,2 % y su valor ajustado, teniendo en cuenta las variables citadas, es del 9,4 %. Este valor ajustado es el que compara los salarios de
+hombres y mujeres que, de acuerdo con las variables citadas, tienen características similares. Nótese que el gap no ajustado, del 14,2 %, es inferior al oficialmente publicado para el año 2014 por Eurostat, que es del 16,6 %. Los autores
+atribuyen esta diferencia a las distintas fuentes de información utilizadas.
+En todo caso, más allá de otras consideraciones que se puedan hacer,
+este resultado, para los países de la UE, pone de manifiesto que una gran parte
+del gap salarial, concretamente las dos terceras partes, no tiene justificación in-
+
+42
+
+
+
+mediata alguna, al menos desde el análisis al que hemos hecho referencia, y que
+hay que señalar que es representativo de los estudios más recientes sobre este
+problema. Además, con la excepción de Bélgica, para ninguno de los países de
+la UE esta parte no explicada de la brecha salarial es menor que el 5 %. Ahora
+bien, tal y como señalan estos autores, esta diferencia no debe identificarse de
+manera directa con una medida de la discriminación entre hombres y mujeres.
+Tanto la parte explicada como la no explicada del gap salarial merecen un análisis más detenido. Por ejemplo, entre las variables incluidas para explicar el gap
+salarial no pueden estar aquellas que no son observables y que podrían tener
+una importancia significativa. Entre ellas suelen citarse la experiencia concreta
+en el puesto de trabajo, las preferencias personales o incluso la capacidad de
+negociación de las mujeres frente a los hombres. Sobre esta última volveré más
+adelante. Por otro lado, aquella parte de la brecha que es explicada por el modelo econométrico no está necesariamente exenta de algún tipo de discriminación. En muchos casos las mujeres y los hombres encaran el acceso a determinados puestos de trabajo desde situaciones muy desiguales. En un principio, por
+consiguiente, tanto la parte explicada como la parte no explicada pueden contener algún nivel de discriminación. También un aspecto relevante en este tipo
+de análisis es tener en cuenta el carácter dinámico de la brecha salarial, es decir,
+su evolución a lo largo del tiempo y, en concreto, si ya existe al entrar en el
+mercado de trabajo o se genera una vez en él. Vayamos, pues, a revisar los resultados que la literatura académica proporciona al respecto.
+Para ello nos vamos a apoyar en el exhaustivo trabajo llevado a cabo
+por el profesor Neumark (2018), que recoge la investigación académica más
+acreditada hasta la fecha en que se publicó en el Journal of Economic Literature. Una primera afirmación que hace Neumark es reconocer la dificultad de
+demostrar que la existencia de brechas salariales de género responde a criterios
+discriminatorios, dada la dispar variedad de características no observables que
+existen en el mundo real. Puesto que es evidente la existencia de la brecha, en
+la literatura académica se han diseñado y evaluado una serie de experimentos
+que la hacen explícita. La mayoría de estos experimentos se centran básicamente en el proceso de contratación, y no en las decisiones que determinan los
+salarios o las promociones profesionales.
+En esta clase de análisis se distinguen dos tipos de discriminación que
+tienen implicaciones muy diferentes. La primera tipología es aquella que parte
+de un prejuicio y que conforma la decisión de preferir contratar un hombre a
+una mujer, independientemente de que la mujer tenga una productividad esperada mayor o menor que la del hombre. Puede llamarse machismo, de
+acuerdo con la segunda acepción que la Real Academia Española da a este
+término en su Diccionario: «Forma de sexismo caracterizada por la prevalencia
+del varón». La segunda tipología es la que se conoce como discriminación
+estadística, que tiene lugar cuando el empleador usa un explícito estereotipo
+acerca de las características de un determinado grupo y considera que cual-
+
+43
+
+
+
+quier persona que pertenece a él sigue la misma pauta; por ejemplo, respecto
+a su productividad, a su capacidad para negociar o a su aversión al riesgo.
+Distinguir entre ambos tipos de discriminación es relevante, ya que implican
+políticas distintas. La primera de ellas requiere la puesta en práctica de políticas que eleven sustancialmente el coste de este tipo de discriminación —preferir la contratación de personas menos productivas— y ello a pesar de que
+cabría esperar que en mercados competitivos tendería a desaparecer. La segunda, por el contrario, requiere medidas que proporcionen mayor información sobre los candidatos al puesto de trabajo. Cabría recordar aquí, como
+señala Wittgenstein, que los estereotipos son una forma primitiva de razonar y
+que, además, son una suerte de economía del pensamiento cuando no se dispone de tiempo o de conocimiento sobre la persona. Fue Gary Becker (1971)
+el que por primera vez, en su libro Economía de la discriminación, distinguió
+entre ambos tipos de discriminación.
+Sin embargo, discernir entre uno y otro tipo, tal y como reconoce Neumark, no es sencillo, ya que en los trabajos experimentales se requiere hacer
+hipótesis muy relevantes, difícilmente contrastables estadísticamente, acerca
+del conocimiento que tiene el empleador sobre el candidato y cuándo lo ha
+adquirido. En todo caso, es obvia la necesidad de definir las políticas adecuadas encaminadas a reducir, y en último término eliminar, ambos tipos de discriminación.
+Ahora bien, hay que tener presente la frecuencia con la que determinadas políticas, aparentemente bienintencionadas, pueden conducir a resultados no deseados. Un ejemplo, ya clásico, a la hora de contratar es la norma
+dictada en EE. UU. que prohíbe al empleador tener conocimiento de los antecedentes penales de los candidatos hasta una fase muy avanzada en el proceso
+de selección. La consecuencia de esta norma ha sido la reducción de las oportunidades de empleo a los jóvenes y poco cualificados trabajadores de raza
+negra que nunca tuvieron antecedentes penales.
+La literatura académica ha analizado el problema de caracterizar algunos comportamientos diferenciadores entre hombres y mujeres con el propósito de justificar, total o parcialmente, sus diferentes evoluciones salariales.
+Entre ellos cabe destacar la tan manejada hipótesis de que el talante y estilo
+negociador de las mujeres es una de las causas, si no la principal, de esta situación. Variados, y con diferentes grados de calidad, son los trabajos publicados que han abordado este asunto, desde hace ya hace algunos años. Una
+revisión de estos resultados está recogida en Stuhlmacher y Walters (2006). La
+conclusión básica que se obtiene del conjunto es que, en efecto, se pueden
+singularizar algunas diferencias en el modo de negociar de hombres y de mujeres, pero, desde luego, sus diferencias cuantitativas no explican parte alguna
+significativa de la brecha salarial. Varios de estos resultados confirman que las
+mujeres son más aversas al riesgo y, posiblemente, esta característica, tan do-
+
+44
+
+
+
+cumentada empíricamente, es la que indujo a pensar que como negociadoras
+podrían alcanzar peores resultados, pero no es el caso. En este contexto, y no
+directamente relacionado con el problema que aquí nos ocupa, cabe destacar
+la evidencia empírica que confirma que esta mayor aversión hacia el riesgo de
+las mujeres hace de ellas mejores gestoras de los activos financieros y también
+disponer de una mejor capacidad para discriminar con más acierto en el proceso de concesión de créditos. Tanto en un caso como en otro, la sobreconfianza de los gestores masculinos conduce a una menor rentabilidad de los
+activos y a una mayor tasa de créditos impagados [véase, por ejemplo, García
+Montalvo y otros (2019)].
+Hay que recordar que todo tipo de métricas, y en especial aquellas
+relacionadas con la brecha salarial, deben ser juzgadas no solo por sus valores
+en un momento determinado, sino también por su evolución temporal y sus
+efectos reales a medio y largo plazo. Por ejemplo, una forma directa de disminuir el gap salarial bruto es la subcontratación fuera de la empresa de las actividades que tienen las remuneraciones salariales más bajas. También una simple evaluación de las métricas puede ir en detrimento de la incorporación de
+mujeres recién graduadas en áreas que tradicionalmente ellas no ocupan. Conocida es la situación, que se da en la práctica, derivada de la tardía, y aún no
+satisfactoria, incorporación de la mujer a materias científicas, tecnológicas, de
+ingeniería y matemáticas, conocidas por STEM, en sus siglas en ingles. Como es
+bien sabido, estas son las actividades profesionales que, con carácter general,
+están mejor retribuidas en el mundo empresarial de hoy. Pues bien, una posible
+consecuencia de que empresas de fuerte contenido en STEM sean obligadas a
+hacer pública la brecha salarial ajustada a tal tipo de formación es la contratación de hombres recién graduados en lugar de mujeres, ya que tal estrategia
+reduce el gap salarial a corto plazo y, como consecuencia, dificulta la incorporación, a medio y largo plazo, de mujeres a puestos de responsabilidad altos.
+En estos casos siempre hay que tener en cuenta la llamada ley de Campbell
+(1979) que dice que cuanto más se utiliza un determinado indicador cuantitativo, mayor es la probabilidad de que se distorsione la propia métrica y el proceso social que pretende evaluar.
+Una reciente línea de investigación muy solvente analiza cuál es el impacto de la maternidad en la trayectoria profesional de las mujeres y, más específicamente, en la brecha salarial. El resultado esencial que este tipo de trabajos
+proporciona, para muy diversos países, es el siguiente. La maternidad es la
+causa principal de la falta de igualdad efectiva, entre hombres y mujeres, en el
+mercado laboral. De tal manera que se puede afirmar que cuando se incorporan al mercado de trabajo con un capital humano análogo, las diferencias salariales no son estadísticamente significativas. Sin embargo, una vez en él, y ya
+próxima a la maternidad, las trayectorias profesionales y, como consecuencia,
+las retribuciones salariales empiezan a divergir. Para la situación española, véase, por ejemplo, De la Rica (2016) y también Hernández de Cos (2019). Como
+
+45
+
+
+
+puede comprobarse en la fig. 6, tomada de este último trabajo, la brecha salarial
+debida a la maternidad alcanza en España el 30 %.
+También en los recientes trabajos de Kleven y otros (2019a y 2019b),
+en los que se analiza este problema para Suecia, Dinamarca, Austria, Alemania,
+Reino Unido y EE. UU., se verifica un comportamiento común a todos ellos, que
+consiste en que antes del nacimiento del primer hijo la evolución salarial del
+hombre y la mujer son muy similares; sin embargo, a partir del nacimiento del
+primer hijo, incluso meses antes, la trayectoria salarial de la mujer declina y la
+del hombre permanece básicamente inalterada. Diez años más tarde el nivel
+salarial de la mujer no se ha recuperado y la brecha salarial se ha consolidado.
+FIGURA 6
+
+Penalización por maternidad en los ingresos en España
+
+Fuentes: Hernández de Cos (2019).
+Nota: Elaborado a partir de datos de la Muestra Continua de Vidas Laborales (MCVL).
+
+A pesar de este patrón común a los países analizados, existen apreciables diferencias cuantitativas entre unos y otros. En primer lugar, el tamaño de
+la brecha con el transcurso de los años, entre cinco y diez, difiere sustancialmente entre países. Los países escandinavos tienen una brecha, durante ese
+período de tiempo, de entre el 21 % de Dinamarca y el 26 % de Suecia, mientras
+que en los países anglosajones se sitúa entre el 31 % de EE. UU. y el 44 % del
+
+46
+
+
+
+Reino Unido, en Austria se sitúa en el 51 % y en Alemania en el 61 %. Además,
+el comportamiento de la brecha salarial en el período transitorio posterior al
+nacimiento del primer hijo también varía significativamente entre los países
+analizados. Estos autores, Kleven y otros (2019b), al igual que la extensa literatura que existe al respecto, atribuyen estas variaciones iniciales a la distinta legislación de los países en materia de permisos parentales y a los diferentes usos
+que padres y madres hacen de ellos.
+En resumen, después de la maternidad, y cuando permanecen en el
+mercado laboral, la trayectoria laboral de las mujeres se estanca en responsabilidades que conllevan una menor retribución. Esta es la causa más relevante de
+la baja proporción de mujeres en puestos directivos y de toma de decisiones en
+el ámbito empresarial.
+Son muchos los trabajos que indagan en el origen último de esta indeseable situación, que lo es no solo desde el punto de vista de la equidad, sino
+también de la eficiencia económica, ya que deja de asignarse adecuadamente
+la mitad del talento y capital humano de la población. Hay que recordar que ya
+en 2013 la mitad de los graduados de las universidades europeas eran mujeres.
+Candidatas naturales para evitar o minorar la explicación de esta brecha son, desde luego, una política pública adecuada en lo que hace referencia
+a los permisos parentales, la escolarización de los niños a partir del año de vida
+y, sobre todo en España, una legislación laboral que se lleve mejor con la vida
+familiar, especialmente en materia de horarios y presencia física en los lugares
+de trabajo.
+Dicho lo anterior, la extensa y rigurosa evidencia empírica acumulada
+sobre este problema señala que el factor determinante en este proceso de brecha
+salarial y, en el fondo, de falta real de igualdad de oportunidades de hombres y
+mujeres, son los entornos familiares y culturales que condicionan una determinada división del trabajo en el ámbito familiar. Esta situación determina las circunstancias en las que la mujer define sus preferencias familiares y profesionales.
+Estamos, una vez más, en presencia de la dimensión informal del problema. Sabemos bien, siguiendo a North (1990), que las instituciones son las
+reglas de juego que establecen las relaciones políticas, económicas y sociales.
+Se caracterizan por su dimensión formal, es decir, el conjunto de normas legales
+creadas tanto por el Gobierno como por la iniciativa privada, así como por su
+dimensión informal, representada por los sistemas de valores y convenciones
+sociales que rigen y condicionan el comportamiento de los ciudadanos. Las
+reglas formales pueden cambiar en un corto plazo de tiempo como resultado
+de decisiones políticas o económicas, pero por sí solas no garantizan su cumplimiento. Esta situación hace que, en la práctica, exista una visible divergencia
+entre la norma y la realidad. Y este es el caso. Así se pone de manifiesto en el
+
+47
+
+
+
+antedicho trabajo, de Kleven y otros (2019b), en el que se verifica, para los
+distintos países analizados, la estrecha correlación que existe entre sus brechas
+salariales a largo plazo y el conjunto de instituciones informales que condicionan la actividad de la mujer en su entorno familiar y profesional. Es claro que
+esta relación no implica causalidad, pero en ausencia de otras variables explicativas que pudieran considerarse, es consistente con el primordial papel que
+juegan la tradición y los valores sociales.
+Parece, entonces, claro que un avance real y efectivo hacia una verdadera igualdad de oportunidades laborales solo se alcanzará cuando este tipo de
+reglas informales cambien y la sociedad asuma de manera natural una gestión
+en común e igualitaria en el entorno familiar entre hombres y mujeres. Cabe
+insistir, otra vez, en que el simple cambio en las reglas formales no conduce a
+esta situación.
+No obstante, existe una firme creencia de que imponer cuotas, que
+simplemente equivale al establecimiento de una regla formal, es la solución
+adecuada para resolver esta inadmisible situación de falta de igualdad de oportunidades, que es la que conduce a una infrarrepresentación de las mujeres en
+los espacios de responsabilidad de las empresas. Sin embargo, la evidencia
+empírica de los países pioneros en propuestas de esta naturaleza indica que los
+resultados alcanzados con la imposición de cuotas no siempre son los deseables. Veamos.
+CUOTAS Y SUS RESULTADOS
+La propuesta más generalizada para abordar el problema de la falta de
+equidad de la distribución de las responsabilidades de la mujer en el mundo
+empresarial defiende imponer cuotas en el seno de los consejos de administración de las empresas. Se piensa que establecer las cuotas —incluso de forma
+temporal— hasta restaurar el equilibrio es condición suficiente para solucionar
+el problema.
+Esta decisión se toma en el convencimiento de que tal como nos enseña
+la economía del comportamiento un nudge o pequeño empujón [véase Thaler
+(2008)] es suficiente para, después de un período transitorio, obtener la deseable
+equidad en el desempeño de hombres y mujeres en el entorno empresarial.
+La Comisión Europea ya sugirió en el año 2010 que se legislara al respecto, y dos años más tarde propuso una directiva con el objetivo de alcanzar
+el 40 % de mujeres en los consejos de administración de las empresas cotizadas.
+De acuerdo con la última información disponible [véase UE (2019b)], los países
+que han promulgado normas fijando valores para la proporción de mujeres en
+los consejos de administración que son de obligado cumplimiento, son los si-
+
+48
+
+
+
+guientes: Bélgica (33 %), Alemania (30 %), Francia (40 %), Austria (30 %), Italia
+(33 %) y Portugal (33 %). Por otra parte, Dinamarca, Irlanda, Grecia, Luxemburgo,
+Holanda, Polonia, Eslovenia, Finlandia, Suecia, Reino Unido y España tienen fórmulas que, simplemente, recomiendan en sus códigos de gobierno determinados
+valores, pero que no son de obligado cumplimiento. El resto de los países de la
+UE no han tomado decisiones concretas en esta materia. Esta situación ha conducido a que, en los países que han implantado la obligatoriedad, la cuota media
+de participación de mujeres en los consejos es del 35 %, mientras que en aquellos
+que solamente se recomienda llegar a determinados umbrales es del 27%.
+El argumento más utilizado en contra de fijar cuotas para los consejos
+de administración es el criterio de la meritocracia. Es decir, se debe elegir para
+una determinada responsabilidad, incluyendo los nombramientos en el consejo,
+a aquella persona que reúna los mayores méritos para el puesto, independientemente de su sexo y, cabe añadir también, de su raza. Está claro, que la imposición de cuotas no es compatible con el criterio de la meritocracia; lo que ya
+no está tan claro es si antes del establecimiento de cuotas la elección de los
+hombres para los puestos de los consejos se guiaba siempre por este criterio.
+En todo caso, en mi opinión, esta no es la forma adecuada de abordar el problema de la verdadera equidad de género en el mundo de la empresa.
+Lo que es verdaderamente relevante es conseguir el mismo conjunto
+de oportunidades para el hombre y la mujer desde el comienzo de su vida laboral y, desde luego también, en el periodo previo de formación y de acumulación de capital humano. Por esta razón, es importante distinguir entre la idea
+de meritocracia y la de igualdad de oportunidades, a la que me referí extensamente en la primera parte de este trabajo.
+La meritocracia es una noción a menudo asociada con la igualdad de
+oportunidades, y este es un llamativo error. Probablemente uno de los autores
+que caracterizaron mejor y de una manera más didáctica esta diferencia es Roemer, en su contribución a un volumen publicado por la OCDE [véase Paes de
+Barros y otros (2009)].
+La meritocracia otorga puestos de responsabilidad de acuerdo con las
+capacidades personales, la habilidad y el esfuerzo. Roemer propone una clara
+distinción entre la meritocracia y la igualdad de oportunidades. Así, la igualdad
+de oportunidades implica nivelar el campo de juego antes de que la prueba o
+competición tenga lugar, mientras que la meritocracia conlleva que una vez que
+la prueba empieza no puede haber discriminación alguna entre los participantes, y la selección se hace, exclusivamente, teniendo en cuenta la capacidad e
+idoneidad para el puesto en cuestión.
+La idea de un «campo de juego nivelado» es equivalente a igualar las
+oportunidades en el período de formación, para que todos los individuos ten-
+
+49
+
+
+
+gan la posibilidad de adquirir las habilidades necesarias para el desarrollo de su
+actividad futura. La igualdad de oportunidades se centra en la equidad en la
+distribución de los recursos sociales. Por el contrario, la meritocracia se enfoca
+en los resultados sociales producidos. Pero la sociedad debe equilibrar la equidad hacia aquellos que compiten por los recursos con el bienestar social general. Como afirma Atkinson (1983), «distintas ideas de justicia conducen a distintos puntos de vista sobre la desigualdad». Las varias caracterizaciones de justicia
+proporcionan diferentes definiciones de la función de bienestar social y, dada
+esta función, los economistas simplemente podemos juzgar y comparar una
+determinada distribución o situación de desigualdad respecto a aquella que es
+considerada como óptima. Sin embargo, el problema estriba en que la función
+de bienestar no es observable y, por tanto, difícilmente medible desde el punto
+de vista empírico.
+En todo caso, la igualdad de oportunidades no puede implicar dedicar
+una cantidad infinita, ni siquiera excesiva, de recursos para que todo individuo
+pueda adquirir el conocimiento y la destreza necesarios para desempeñar cualquier posición que elija. Indudablemente, asignar los recursos adecuados para
+garantizar la igualdad de oportunidades y promover, a la vez, procedimientos
+meritocráticos que generen estos recursos requeriría disponer de una función
+general de bienestar social. A falta de un inequívoco criterio para definirla en la
+práctica, parece razonable acordar reglas básicas de otra naturaleza, como seguidamente veremos.
+En el proceso de formación y capacitación de las personas para responsabilidades y trabajos futuros hay que utilizar el principio de igualdad de
+oportunidades. Por el contrario, a la hora elegir candidatos para trabajos y responsabilidades concretas hay que utilizar criterios meritocráticos. Nadie recomendaría la igualdad de oportunidades para elegir cirujano para sus hijos. En
+ese caso, la gente se atiene a la meritocracia. Valga, también, el ejemplo de
+selección de candidatos para equipos profesionales de baloncesto. Puesto que
+la altura es una circunstancia importante, y exógena al individuo, para formar
+parte de un equipo profesional de baloncesto, nadie recomendaría la igualdad
+de oportunidades para el proceso de selección de sus jugadores. En ninguno
+de estos casos es aconsejable seleccionar personas solo de acuerdo con su esfuerzo, ya que está claro que en ambos ejemplos debe prevalecer el bienestar
+de los pacientes y el de los aficionados al baloncesto.
+En las últimas décadas el criterio meritocrático ha arraigado con fuerza
+en los países desarrollados, y en este proceso se ha equiparado con frecuencia,
+erróneamente o interesadamente, a la igualdad de oportunidades, lo que ha supuesto una barrera difícilmente superable en la vida laboral de muchas mujeres.
+Pues bien, dejando claro lo anterior, es necesario reparar en el hecho
+de que, por ejemplo, fijar cuotas en los consejos de administración es en el
+
+50
+
+
+
+mejor de los casos un ejercicio de meritocracia, entre el reducido conjunto de
+mujeres que son potencialmente candidatas, sin que previamente se haya establecido una verdadera igualdad de oportunidades entre hombres y mujeres
+para el desarrollo de sus vidas laborables dentro de esas empresas.
+La situación anterior la ponen claramente de manifiesto los datos recogidos en el documento de la Comisión Europea EC (2019). Mientras que en las
+empresas del STOXX Europe 600 —conjunto de las 600 principales compañías
+por capitalización bursátil europeas— el 33 % de los miembros de sus consejos
+de administración son mujeres, solamente el 16 % de los puestos ejecutivos de
+segundo y de tercer nivel están ocupados por mujeres.
+Podría pensarse que la simple presencia de más mujeres en el seno de
+los consejos induciría un cambio en esta situación tan paradójica e indeseable.
+Existe ya una abundante literatura empírica que trata de verificar este y otros
+supuestos. Aquí nos referiremos a la relativa a Dinamarca y a Noruega. El motivo es que como se sabe estos países lideran cualquier clasificación sobre la
+igualdad de oportunidades, sea cual sea la métrica que se utilice en ella. Además, en Dinamarca las cuotas no son obligatorias y en Noruega sí lo son.
+En cuanto a Dinamarca, tomaremos como referencia el trabajo de Smith y Parrotta (2018), y lo hacemos puesto que la profesora Nina Smith es una
+reputada académica en el análisis de estos problemas. Además de profesora en
+la Universidad de Aarhus en Dinamarca es investigadora principal del IZA, que
+es uno de los centros de Economía laboral más prestigiosos de Europa.
+En este trabajo se analizan todas las empresas danesas privadas y/o
+cotizadas con más de 50 empleados durante el período 1998-2010. El análisis
+trata de verificar tres importantes hipótesis implícitas en la decisión de fijar o
+recomendar cuotas en los consejos de administración. La primera es la que denominan efecto del liderazgo femenino, es decir, si el hecho de que una mujer
+ocupe el puesto de máxima responsabilidad en la empresa supone una mayor
+presencia de mujeres en los consejos. La segunda es la hipótesis del tokenismo,
+si se me permite la utilización de este anglicismo, término que podríamos traducir por florerismo y que hace referencia a la práctica de efectuar determinadas
+concesiones, en este caso cuotas, hacia un determinado colectivo, y que terminan teniendo una influencia escasa o nula en la modificación del statu quo. Por
+último, la tercera hipótesis es la de que la presencia de mujeres en altos puestos
+ejecutivos incrementa el número de potenciales candidatas a los consejos.
+Los resultados de este análisis son los siguientes: los consejos presididos por mujeres tienden a tener un número menor de mujeres en ellos; se
+confirma la hipótesis del tokenismo, es decir, cuando en un consejo hay ya alguna mujer se tiende a no incrementar su número; y por último, la tercera hipótesis se confirma solo parcialmente.
+
+51
+
+
+
+Como ya se ha señalado, el país pionero en la implantación de cuotas
+obligatorias es Noruega, que en el año 2003 exigió a las empresas cotizadas
+tener en el año 2008 un 40 % de mujeres en sus consejos de administración. La
+evaluación más rigurosa de los resultados de esta norma respecto al propósito
+de alcanzar una igualdad real de hombres y mujeres en el ámbito empresarial
+la han llevado a cabo la profesora Marianne Bertrand y sus coautoras (2019).
+No es mi propósito alargar este ya extenso texto con los exhaustivos resultados
+que presentan. Simplemente recogeré de manera literal el último párrafo de sus
+conclusiones. Dice así: «Siete años después de que se alcanzara en su totalidad
+el objetivo propuesto de presencia del 40 % de mujeres, llegamos a la conclusión de que tuvo un impacto muy poco perceptible en el conjunto de las mujeres dentro de la empresa, más allá de su efecto directo en aquellas que se
+incorporaron a los consejos». A una conclusión análoga llegan Cathrine Seierstad y Morten Huse (2017), cuando afirman que «Verificamos que la ley fue efectiva, ya que los consejos de administración tienen ahora una mayor igualdad de
+género. Sin embargo, no está claro que esta mayor diversidad de género se
+haya trasladado más allá del consejo y al resto de la empresa».
+La conclusión común a estos trabajos es que la forma adecuada de
+garantizar la diversidad de género es empezar a hacerlo en los primeros pasos
+y niveles de la vida laboral, aunque, como es obvio, esta es una tarea que requiere más recursos, atención y tiempo que simplemente implantar cuotas en
+el escalón más alto de la pirámide empresarial.
+Es una lástima que en las estadísticas de género relativas a la actividad
+empresarial que publica la UE no se proporcione una información más detallada de la participación de hombres y mujeres en los distintos niveles de responsabilidad en las empresas, adicional a la que hemos mencionado para el
+STOXX Europe 600. Sin embargo, esta información sí está disponible para las
+empresas del Standard & Poor’s 500, que engloba las 500 de mayor capitalización bursátil que cotizan en las bolsas NYSE o NASDAQ, y comprende en
+torno al 80% de toda la capitalización de mercado en EE. UU. [véase Catalyst
+(2020a)]. La fig. 7 muestra en forma de pirámide esta jerarquía de responsabilidades y salarios. Es evidente que la situación de igualdad laboral de género
+se alcanzaría cuando la forma piramidal se transformara, aproximadamente, en
+rectangular. Por eso destaca tanto en la fig. 7 que la representación de las mujeres en los consejos del 26 % se acople tal mal, y en forma de tapadera, a la
+estructura real de la jerarquía en las empresas. Podría pensarse que se quisiera
+ocultar la forma en la se genera esta desigualdad en los niveles inferiores. Por
+ello, es necesario evitar esta situación propiciando la «buena práctica» de analizar con rigor los momentos críticos en los que las trayectorias profesionales
+de las mujeres conducen a esta indeseable situación. Indudablemente las causas no son generalizables para cualquier país, empresa y sector de actividad,
+pero, en cualquier caso, debería ser ineludible el ejercicio de transparencia de
+hacerlas públicas.
+
+52
+
+
+
+Como ya se ha señalado, la única información disponible para las empresas del STOXX Europe 600 es que solo el 16 % de los puestos ejecutivos de
+segundo y de tercer nivel están ocupados por mujeres, lo que, a la vista de los
+valores numéricos de la fig. 7 sugiere que la jerarquía laboral y salarial para las
+empresas europeas no debe diferir mucho de esta estructura en forma de pirámide. Si así es, en este caso llama en especial la atención lo discordante de la
+exigencia del 40 % para las empresas cotizadas en la UE, que sería el objetivo
+a ser alcanzado cuando toda la estructura fuera, aproximadamente, rectangular.
+Puesto que la situación dista mucho de este ideal, y dado que faltan los incentivos para crear una verdadera igualdad de oportunidades, el proceder con la
+imposición de cuotas es, simplemente, y con el símil gráfico que estamos discutiendo, empezar la casa por el tejado. Como hemos visto, los trabajos académicos citados que evalúan los resultados de esta forma de proceder aconsejan
+empezar la casa por los cimientos.
+FIGURA 7
+
+Distribución en %, por categorías y niveles salariales, de las mujeres en las empresas
+del Standard & Poor’s 500
+
+Fuentes: Catalyst (2020a), Spencer Stuart (2020) y UE (2019b).
+
+53
+
+
+
+Podría pensarse que esta forma de actuar, limitándose a fijar determinadas cuotas en favor de la igualdad de género —sin conseguir ir a la verdadera causa del problema— termina siendo inocua. Pero en realidad no lo es, ya
+que acaba siendo indiscutiblemente nociva, puesto que oculta la verdadera raíz
+del problema y, como consecuencia, retrasa su deseable y pronta solución. Eso
+sí, son una especie de cortina de humo que las hace políticamente correctas,
+pero que son simples ejercicios de tokenismo o, si me permiten, de cuota postureo. Por otra parte, en todo código de gobierno corporativo de las empresas
+de la UE está incluida, de una u otra manera, la idea de diversidad de género a
+través del establecimiento de cuotas, pero bien sabemos que, en la gran mayoría de los casos, su cumplimiento en esta materia es un mero ejercicio de rellenar formularios (box-ticker).
+También, y desafortunadamente, se han publicado varios trabajos que
+intentaban demostrar empíricamente que incorporar mujeres a los consejos de
+administración mejoraba la gobernanza y la calidad de los resultados de las
+empresas. Y lo cierto es que todavía circulan y se les da validez a trabajos de
+esta naturaleza que a pesar de su pésima calidad econométrica tienen un gran
+impacto en los medios empresariales. Están llenos de respuestas, pero carecen
+de resultados válidos. Sin embargo, como bien afirma la profesora Katherine
+Klein de la Universidad de Pennsylvania, «los trabajos más rigurosos, revisados
+por pares, muestran que las empresas no tienen un mejor desempeño cuando
+las mujeres tienen un puesto en su consejo de administración. Tampoco lo tienen peor» [véase Klein(2017)].
+Parece evidente que es demasiado pronto para establecer relaciones
+causales estables entre métricas de los estados financieros y la participación de
+mujeres en los consejos de administración de las empresas, tal como señala la
+profesora Nina Smith (2018). Con el tamaño de las muestras disponibles es
+realmente difícil contestar con rigor a una pregunta de esta naturaleza. Es complejo especificar un modelo que incluya todas las variables relevantes. Varios
+trabajos muestran una correlación positiva entre el porcentaje de mujeres en un
+consejo y el desempeño de la empresa, pero esta correlación no prueba la causalidad ni proporciona evidencia de su dirección. Puede que no sea la presencia de mujeres lo que mejora los resultados de la empresa, sino que sean las
+empresas mejor gestionadas las que procuran tener en sus consejos miembros
+más diversos en sus conocimientos, raza y género.
+Incluso la actual presidenta del Banco Central Europeo, cuando era
+Directora Gerente del FMI, no pudo soslayar hacer suyas este tipo de falsas
+razones cuando afirmó: «Añadir una mujer más en el consejo de administración de una empresa, manteniendo constante el número total de sus miembros, aumenta su rentabilidad (ROE) de 8 a 13 puntos básicos» [véase (IMF
+(2019)].
+
+54
+
+
+
+Es una equivocada política de escaparate buscar razones espurias para
+justificar la incorporación de las mujeres a los consejos de administración. No
+hay peor estrategia para defender acertados fines y propósitos que hacerlo con
+argumentos equivocados y falsa evidencia empírica.
+Las verdaderas razones para buscar por todos los medios una real
+igualdad de oportunidades entre hombres y mujeres son bien sencillas. Porque
+es una obvia cuestión de equidad y, además, porque no se puede dejar de incorporar a la actividad empresarial, en todos los niveles y no solo en el consejo, la mitad del capital humano del que dispone la sociedad, que corresponde
+a las mujeres.
+
+NOTA FINAL
+Esta ponencia debería haber sido leída en el Pleno de esta Real Academia del 17 de marzo. Las sesiones regulares se suspendieron el martes anterior.
+Afortunadamente hemos podido reanudarlas el pasado martes 20 de octubre.
+El mundo ha vivido cambios radicales en estos meses, y los seguirá
+viviendo en los años próximos como consecuencia de la pandemia del COVID-19. Dada la nueva e inesperada situación, me he preguntado si lo aquí
+escrito había perdido actualidad. Ustedes juzgarán la solvencia del texto, pero
+lo que creo firmemente es que el problema que aquí abordo tiene, si cabe,
+mayor importancia en el nuevo e incierto escenario que tenemos delante.
+Estoy más convencido que nunca de la importancia de reforzar la educación y la sanidad para hacerlas llegar a los colectivos más vulnerables, a los
+que por otra parte hay que asegurarle un digno nivel de ingresos. En otras
+palabras, hay que proporcionar una razonable igualdad de oportunidades a
+todos los ciudadanos. Realmente esta crisis ha actuado como un elocuente espejo y, al cabo, amplificador de la desigualdad. Y se da la paradoja de que gran
+parte de los trabajadores que en el momento álgido de la pandemia se calificaron como «trabajadores esenciales» están en el último quintil de la distribución
+de la renta en los países de la UE. Y claro que han sido, y son esenciales, ya
+que sin su esfuerzo, trabajo y riesgo, no solo la economía, sino también la vida,
+se hubieran parado. No estoy tan seguro de que los efectos fueran los mismos
+si quienes hubieran interrumpido su actividad fueran la mayor parte de aquellos que están en el quintil superior de la distribución de la renta.
+Como señala Richard Horton (2020), director de la revista The Lancet,
+la crisis económica que avanza hacia nosotros no se superará ni con un fármaco ni con una vacuna. Se necesita una visión más amplia, que abarque la educación, el empleo, la vivienda, la alimentación y el medio ambiente. Horton nos
+
+55
+
+
+
+dice que más que ante una pandemia, estamos ante una sindemia. Este término
+lo acuñó el antropólogo médico Merrill Singer (2009), y hace referencia a la
+aproximación integral que se necesita para abordar la superposición de elementos biológicos, económicos y sociales en la expansión de determinadas
+enfermedades.
+
+REFERENCIAS
+Acemoglu, D., y J. A. Robinson, Why Nations Fail: The Origins of Power, Prosperity, and Poverty,
+Crown Publishers, New York, 2012.
+Adams, J. T., The Epic of America. Little, Brown and Co., Boston, 1931
+Alvaredo, F., L. Chancel, T. Piketty, E. Sáez y G. Zucman, «The Elephant Curve of Global Inequality
+and Growth», AEA Papers and Proceedings, vol. 108, mayo de 2018 (2018a), pp. 103-108.
+Consultado en octubre de 2020 en http://gabriel-zucman.eu/files/ACPSZ2018.pdf.
+— World Inequality Report 2018, World Inequality Lab, París, 2018 (2018b). Consultado en octubre de 2020 en https://wir2018.wid.world/files/download/wir2018-full-report-english.
+pdf.
+Atkinson, A., The Economics of Inequality, 2.ª edición, Oxford University Press, Oxford, 1983.
+Becker, G., The Economics of Discrimination, 2.ª edición, The University of Chicago Press, 1971.
+Bertrand, M., S. E. Black, S. Jensen, y A. Lleras-Muney, «Breaking the Glass Ceiling? The Effect of
+Board Quotas on Female Labour Market Outcomes in Norway», The Review of Economic Studies, vol. 86, núm. 1, enero de 2019, pp. 191-239. Consultado en octubre de
+2020 en https://doi.org/10.1093/restud/rdy032.
+Boll, C. y A. Lagemann, «The Gender Pay Gap in EU Countries-New Evidence Based on EU-SES
+2014 Data», Intereconomics, vol. 54, 2019, pp. 101-105. Consultado en octubre de 2020
+en https://doi.org/10.1007/s10272-019-0802-7.
+Bourguignon, F., «Inequality of opportunity», en Stiglitz, J., J. Fitoussi y M. Durand (eds.), For Good
+Measure: Advancing Research on Well-being Metrics Beyond GDP, OECD Publishing,
+Paris, 2018. Consultado en octubre de 2020 en https://doi.org/10.1787/97892643072787-en.
+Campbell, D. T., «Assessing the impact of planned social change», Evaluation and Program Planning, vol. 2, núm. 1, 1979, pp. 67-90.
+Catalyst, Pyramid: Women in S&P 500 Companies, 15 de enero de 2020 (2020a). Consultado en
+octubre de 2020 en https://www.catalyst.org/research/women-in-sp-500-companies/.
+— S&P 500 Pyramid: Methodology, 15 de enero de 2020 (2020b). Consultado en octubre de 2020
+en https://www.catalyst.org/research/sp-500-pyramid-methodology/.
+Chetty, R., N. Hendren, P. Kline, E. Sáez y N. Turner, «Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility», American Economic Review Papers
+and Proceedings, vol. 104, núm. 5, mayo de 2014 (2014a), pp. 141-147. Consultado en
+
+56
+
+
+
+octubre de 2020 en https://eml.berkeley.edu/~saez/chettyetalAERPP2014.pdf y en
+http://dx.doi.org/10.1257/aer.104.5.141.
+Chetty, R., N. Hendren, P. Kline y E. Sáez, «Where is the Land of Opportunity? The Geography of
+Intergenerational Mobility in the United States», The Quarterly Journal of Economics,
+vol. 129, núm. 4, noviembre de 2014 (2014b), pp. 1553-1623. Consultado en octubre de
+2020 en https://doi.org/10.1093/qje/qju022.
+Corak, M., «Income Inequality, Equality of Opportunity, and Intergenerational Mobility», Journal
+of Economic Perspectives, vol. 27, núm. 3, 2013, pp. 79-102. Consultado en octubre de
+2020 en https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.3.79.
+Corlett, A., Examining an elephant. Globalisation and the lower middle class of the rich world,
+septiembre 2016. Consultado en octubre de 2020 en https://www.resolutionfoundation.org/app/uploads/2016/09/Examining-an-elephant.pdf.
+De
+
+la
+
+Rica, S., Las brechas de género en el mercado laboral español y su evolución a lo largo
+del ciclo de vida, Conferencia en la Fundación Ramón Areces, 2016. Consultado en
+octubre de 2020 en http://sgfm.elcorteingles.es/SGFM/FRA/recursos/doc/Revista/2071658699_51201713839.pdf.
+
+Dworkin, R., «What is equality?» Part 1: Equality of Welfare y Part 2: Equality of Resources, Philosophy and Public Affairs, vol. 10, 1981, pp. 185-246 y pp. 283-345.
+EC [European Commission], Adjusted gender pay gap, Meeting of the Board of the European Directors of Social Statistics, Luxemburgo, 4-5 de diciembre de 2017. Consultado en octubre de 2020 en https://circabc.europa.eu/sd/a/b919f002-6ebb-4cbd-90c8-c0d128f55459/
+DSSB-2017-Dec-%203%20Adjusted%20gender%20pay%20gap.pdf.
+— European Women on Boards Gender Diversity Index 2019, 2019. Consultado en octubre de
+2020
+en
+https://europeanwomenonboards.eu/wp-content/uploads/2019/11/
+EWoB-GDI-final-report_20200108-incl.-EU-disclaimer.pdf.
+Freund, C., Deconstructing Branko Milanovic’s «Elephant Chart»: Does It Show What Everyone
+Thinks? Peterson Institute for International Economics, 30 de noviembre de 2016. Consultado en octubre de 2020 en https://www.piie.com/blogs/realtime-economic-issues-watch/deconstructing-branko-milanovics-elephant-chart-does-it-show.
+García Montalvo, J., y M. Reynal-Querol, Gender and Credit Risk: A View from the Loan Officer’s
+Desk, marzo de 2019. Consultado en octubre de 2020 en http://jgmontalvo.com/wp/
+GENDER_AND_CREDIT_RISK.pdf.
+Hernández
+
+de Cos, P., Status of Women’s Financial Inclusion in Spain. Lecture in Women’s Financial Inclusion Workshop, Council on Foreign Relations, 12 de abril de 2019. Consultado
+en octubre de 2020 en https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/Intervenciones Publicas/Gobernador/Arc/hdc120419en.pdf.
+
+Horton, R., «Offline: COVID-19 is not a pandemic», The Lancet, vol. 396, 26 de septiembre de
+2020. Consultado en octubre de 2020 en https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2932000-6).
+IMF [International Monetary Fund], «Women and Growth», Finance and Development, marzo de
+2019. Consultado en octubre de 2020 en https://www.imf.org/external/pubs/ft/fandd/2019/03/pdf/fd0319.pdf.
+
+57
+
+
+
+Klein, K., Does Gender Diversity on Boards Really Boost Company Performance? University of
+Pennsylvania, 18 de mayo de 2017. Consultado en octubre de 2020 en https://knowledge.wharton.upenn.edu/article/will-gender-diversity-boards-really-boost-company-performance/.
+Kleven, H., C. Landais, J. Posch, A. Steinhauer y J. Zweimüller, «Child Penalties across Countries:
+Evidence and Explanations», NBER Working Paper núm. 25524, National Bureau of Economic Research, febrero de 2019 (2019a). Consultado en octubre de 2020 en https://
+www.nber.org/papers/w25524.
+— Child Penalties across Countries: Evidence and Explanations», AEA Papers and Proceedings,
+vol. 109, mayo de 2019 (2019b), pp. 122-126. Consultado en octubre de 2020 en https://
+doi.org/10.1257/pandp.20191078.
+Lakner, C., y B. Milanovic, «Global Income Distribution From the Fall of the Berlin Wall to the Great
+Recession», The World Bank Economic Review, vol. 30, núm. 2, 2016 (2016a), pp. 203232.
+— Response to Adam Corlett’s «Examining an elephant: globalisation and the lower middle class
+of the rich world», septiembre de 2016 (2016b). Consultado en octubre de 2020 en https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/LIS%20Center/
+elephant_debate-4,-reformatted.pdf.
+Narayan, A., R. Van der Weide, A. Cojocaru, C. Lakner, S. Redaelli, D. G. Mahler, R. G. N. Ramasubbaiah y S. Thewissen, Fair Progress?: Economic Mobility Across Generations Around the
+World, Equity and Development, World Bank, Washington, DC, 2018. Consultado en
+octubre de 2020 en https://openknowledge.worldbank.org/handle/10986/28428.
+Neumark, D., «Experimental Research on Labor Market Discrimination», Journal of Economic Literature, American Economic Association, vol. 56, núm. 3, septiembre 2018, pp. 799-866.
+Consultado en octubre de 2020 enhttps://pubs.aeaweb.org/doi/pdfplus/10.1257/
+jel.20161309.
+North, D. C., Institutions, Institutional Change and Economic Performance, Cambridge University Press, Cambridge, 1990.
+Nozick, R., Anarchy, State, and Utopia, Basil Blackwell, Oxford, 1974.
+OCDE [Organización para la Cooperación y el Desarrollo Económicos], A Broken Social Elevator?
+How to Promote Social Mobility, OECD Publishing, París, 2018. Consultado en octubre
+de 2020 en https://doi.org/10.1787/9789264301085-en.
+Paes
+
+de
+
+Barros, R., F. H. G. Ferreira, J. R. Molinas Vega y J. Saavedra Chanduvi, Measuring Inequality of Opportunities in Latin America and the Caribbean, Palgrave Macmillan y The
+World Bank, 2009. Consultado en octubre de 2020 en http://documents1.worldbank.
+org/curated/en/219971468045038979/pdf/468270PUB0Meas101OFFICIAL0USE0ONLY1.pdf.
+
+Piketty, T., Capital in the Twenty-First Century, The Belknap Press of Harvard University Press,
+Cambridge, Massachusetts, 2014. Consultado en octubre de 2020 en https://dowbor.
+org/blog/wp-content/uploads/2014/06/14Thomas-Piketty.pdf.
+— Capital and Ideology, Harvard University Press, 2020.
+
+58
+
+
+
+Rawls, J. A., A Theory of Justice, Harvard University Press, Cambridge, 1971.
+Roemer, J. E., Equality of Opportunity, Harvard University Press, Cambridge, 1998. Sandefur, J.,
+«Chart of the Week #1: Is the Elephant Graph Flattening Out?», Center for Global Development, 4 de enero de 2018. Consultado en octubre de 2020 en https://www.cgdev.
+org/blog/chart-week-1-elephant-graph-flattening-out.
+Seierstad, C., y M. Huse, «Gender Quotas on Corporate Boards in Norway: Ten Years Later and
+Lessons Learned», en Seierstad C., P. Gabaldon y H. Mensi-Klarbach (eds.), Gender Diversity in the Boardroom, Palgrave Macmillan, Cham, 2017. Consultado en octubre de
+2020 en https://doi.org/10.1007/978-3-319-56142-4_2.
+Sen, A. K., «Equality of What?», The Tanner Lectures on Human Values, vol. 1, S. McMurrin (ed.),
+Cambridge University Press, Cambridge, 1980, pp. 197-220.
+Singer, M., Introduction to Syndemics: A Critical Systems Approach to Public and Community
+Health, John Wiley & Sons, New Jersey, 2009.
+Smith, N., «Gender quotas on boards of directors», IZA World of Labor 2018: 7v2, diciembre de
+2018. Consultado en octubre de 2020 en https://wol.iza.org/uploads/articles/461/pdfs/
+gender-quotas-on-boards-of-directors.pdf?v=1.
+Smith, N., y P. Parrotta, «Why so Few Women on Boards of Directors? Empirical Evidence from
+Danish Companies in 1998-2010», Journal of Business Ethics, vol. 147, 2018, pp. 445467. Consultado en octubre de 2020 enhttps://link.springer.com/article/10.1007/
+s10551-015-2974-9.
+Solt, F., The Standardized World Income Inequality Database (SWIID), versión 8.3, mayo 2020,
+Harvard Dataverse. Consultado en octubre de 2020 en https://dataverse.harvard.edu/
+dataset.xhtml?persistentId=doi:10.7910/DV N/LM4OWF).
+Spencer Stuart, S&P 500 Board Trends 2019, 2020. Consultado en octubre de 2020 en https://
+www.spencerstuart.com/research-and-insight/sp-500-board-trends-2019-ssbi.
+Stuhlmacher, A. F., y A. E. Walters, «Gender differences in negotiation outcome: a meta-analysis»,
+Personnel Psychology, vol. 52, núm. 3, 7 de diciembre de 2006. Consultado en octubre
+de 2020 en https://doi.org/10.1111/j.1744-6570.1999.tb00175.x.
+Terceiro, J., «Sobre la desigualdad», Anales de la Real Academia de Ciencias Morales y Políticas,
+núm. 83, 2006, pp. 105-124.
+— «Desigualdad y economía clientelar», Anales de la Real Academia de Ciencias Morales y Políticas, núm. 93, 2016, pp. 287-309.
+Thaler, R. H., y C. R. Sunstein, Nudge: Improving Decisions about Health, Wealth, and Happiness.
+Yale University Press, 2008.
+UE [Unión Europea] (European Institute for Gender Equality), 2019a, https://eige.europa.eu/.
+UE [Unión Europea], Legislative quotas can be strong drivers for gender balance in boardrooms,
+28 de junio de 2019 (2019b). Consultado en octubre de 2020 en https://eige.europa.eu/
+gender-statistics/dgs/data-talks/legislative-quotas-can-be-strong-drivers-gender-balance-boardrooms.
+
+59
+
+
+
+— What lies behind the gender pay gap? 31 de octubre de 2019 (2019c). Consultado en octubre
+de 2020 en https://eige.europa.eu/gender-statistics/dgs/data-talks/what-lies-behindgender-pay-gap.
+UN [United Nations], Gender Statistics Manual. Integrating a gender perspective into statistics,
+United Nations Statistics Division,2013.
+WB [World Bank], GDIM. 2018, Global Database on Intergenerational Mobility, Development
+Research Group, World Bank. Washington, D. C., World Bank Group. Consultado en
+octubre de 2020 en https://www.worldbank.org/en/topic/poverty/brief/what-is-the-global-database-on-intergenerational-mobility-gdim.
+WEF [World Economic Forum], The Global Social Mobility Report 2020 Equality, Opportunity and
+a New Economic Imperative, enero de 2020. Consultado en octubre de 2020 en http://
+www3.weforum.org/docs/Global_Social_Mobility_Report.pdf.
+
+60
+
+

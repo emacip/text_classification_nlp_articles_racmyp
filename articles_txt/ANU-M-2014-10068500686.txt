@@ -1,0 +1,53 @@
+TERCIARIZACIÓN Y EVOLUCIÓN DE
+LA PRODUCTIVIDAD EN LAS REGIONES EUROPEAS
+EL PAPEL DEL CAMBIO ESTRUCTURAL
+Y DE OTROS FACTORES EXPLICATIVOS
+Por el Académico Correspondiente
+Juan Ramón Cuadrado Roura*
+
+La productividad y su evolución en el tiempo figuran en cualquier
+manual de Economía como uno de los factores que determina el crecimiento
+ecoómico. La mejora de esta variable se vincula a un buen número de factores, entre los cuales siempre figuran los cambios estructurales que registran los
+sistemas productivos, lo que comporta la transferencia de factor trabajo y de
+otros recursos desde los sectores menos productivos a los más productivos.
+La constante expansión que han registrado las actividades de servicios
+en las economías más avanzadas y la baja productividad que siempre se atribuyó a este sector en su conjunto, sirvieron de base para señalar que su aumento
+de peso en las economías daba lugar a tasas de crecimiento que acabarían siendo
+más reducidas. Esta tesis ha sido refutada, al menos en parte, por las aportaciones de algunos autores realizadas en los últimos años, que ponen de relieve que
+dentro del heterogéneo conjunto de ramas de actividad que encierra el sector servicios hay varias cuya productividad es elevada y que, en algunos casos —transportes, comunicaciones, finanzas, distribución y otros servicios a empresas—,
+igualan y superan la productividad de las manufacturas.
+Este artículo, que sigue la estela de otros ya publicados, trata de aportar evidencia empírica sobre el hecho de que la productividad de los servicios
+no es un obstáculo, ni es tan negativa para el crecimiento económico, como se
+ha sostenido convencionalmente. El trabajo se enfoca desde la perspectiva de
+las regiones, tomando como referencia 241 regiones europeas pertenecientes
+a dieciocho países de la UE. La hipótesis de partida es comprobar si existe o
+no una relación positiva entre la evolución de la productividad laboral en su
+* El texto completo de este discurso puede consultarse en la página web de esta Real Academia.
+
+685
+
+
+
+conjunto y el crecimiento de los servicios en las regiones europeas que se
+toman como referencia. A efectos del análisis se adopta una aproximación
+metodológica basada en tres sucesivos estadios. En el primero se aplica una
+modalidad de la técnica shift-share que persigue estudiar el impacto de los
+cambios estructurales —particularmente dentro de las actividades de servicios—
+en el crecimiento de la productividad del trabajo. En segundo lugar se explora
+la posible existencia de efectos de contigüidad espacial entre las regiones
+mediante el uso de técnicas de análisis espacial. Y, por último, se estima un
+modelo econométrico orientado a analizar las relaciones entre el crecimiento
+regional de los servicios y el crecimiento de la productividad, teniendo en
+cuenta diversas variables explicativas, incluidos los efectos de la contigüidad.
+El artículo se cierra con unas notas finales donde se subraya que el
+análisis realizado ha permitido refrendar las hipótesis de partida, aunque el
+tema admite la realización de nuevos análisis. El resultado más destacable es
+que existen relaciones positivas entre el aumento del peso de los servicios y el
+comportamiento de la productividad al examinar el caso de las regiones europeas y que su explicación radica en varios frentes, donde destacan las mejoras
+de la productividad dentro de los propios subsectores o ramas de servicios, los
+efectos de las regiones vecinas y la influencia de algunos factores específicos
+que se introducen en el modelo econométrico utilizado.
+
+686
+
+

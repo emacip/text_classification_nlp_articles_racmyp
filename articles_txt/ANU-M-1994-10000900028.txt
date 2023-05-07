@@ -1,0 +1,877 @@
+ORDENADORES, ROBOTS Y PERSONAS:
+HACIA UNA TEORÍA GENERAL
+DE LOS SISTEMAS INTELIGENTES
+
+por el Académico de Número
+Excmo. Sr. D. Mariano Y ela G ranizo*
+
+EL PROBLEMA
+El título que antecede y otros similares abundan en la actual bibliografía psi­
+cológica y en las hoy llamadas filosofías, ciencias y tecnologías del conocimien­
+to. No son publicaciones de poca monta. A alguno de sus autores se le ha con­
+cedido el Premio Nobel. Incluso se ha tomado en serio el incorrecto, pero incisivo,
+silogismo que cita irónicamente Johnson-Laird (1988, p. 385)
+El hombre es un animal (Darwin).
+El animal es una máquina (Descartes).
+Luego: El hombre es una máquina (La Mettrie).
+Bien. El problema es incitante. Trataré de aclararlo. El hecho es que la inteli­
+gencia es en nuestros días, como, por lo demás, ha solido ser siempre, un tema
+capital en psicología. Capital, disputado y controvertido. En él se cumple deplo­
+rablemente el aforismo de Heráclito «pólemos patér pánton»: la guerra es el pa­
+dre de todas las cosas.
+Efectivamente, las grandes enciclopedias y compilaciones de las teorías de la
+inteligencia prueban sobre todo su diversidad, sus disparidades y sus oposicio­
+nes. Véanse, por ejemplo, el volumen sobre In teligencia del Jo u rn a l o f E du ca-
+
+* Sesión del día 17 de mayo de 1994.
+
+9
+
+
+
+tion al Psychology (1921), las obras dirigidas por Resnick (1976), por de Montpellier (1977) o por Sternberg y Detterman (1986), el H an d book o f H um an Intellig en ce (1982) dirigido por Sternberg y los sucesivos A dvances in the Psychology
+o f H um an Intelligence (1982, 1985, 1986, 1988) que viene dirigiendo el mismo
+autor, la multiplicidad de enfoques que presenta y discute Aebli en los dos to­
+mos de su D enken: D as Ordnen des Tuns (1980, 1981), o, en fin, la copiosa y he­
+terogénea multitud de interpretaciones que recogen Carroll (1993), sobre las ap­
+titudes cognitivas, Holyoak y Spellman, en su reciente revisión en la A n n u al
+Review o f Psychology (1993) y Demetriou y Efklides (eds., 1994) en la obra co­
+lectiva sobre pensamiento, inteligencia, razonamiento y mente.
+Esta abundante y ubicua polémica tiene su cara y su cruz. Su cruz es la desa­
+zón y desconcierto que produce la inabarcable variedad de teorías discrepantes,
+esa constante «diaphonía tón doxón» que ha sembrado de aporías el camino de
+la filosofía y de perplejidades el curso de la ciencia. Su cara: la misma abundan­
+cia y riqueza de esfuerzos, que expresa el carácter multilateral de la inteligencia
+y reclama y justifica, para su estudio, muy diferentes perspectivas, enfoques, me­
+todologías y técnicas empíricas, experimentales, fenomenológicas, hermenéuti­
+cas, filosóficas y teológicas.
+Tal vez ninguna teoría sobre la inteligencia pueda ser completa y definitiva.
+La inteligencia que concibe una teoría para explicar la inteligencia tiene que abar­
+carla, dominarla y, en algún sentido, superarla, ser más poderosa y compleja que
+ella. Lo cual exige otra teoría superior para explicar y comprender esa más alta
+inteligencia. Y así, sine term ino.
+Así lo han declarado muchos en nuestros días, como Popper y Johnson-Laird
+y así vienen reconociéndolo lo más eminentes pensadores. Recuérdese que, para
+Platón, el filósofo que hacía uso pertinente de su inteligencia, de su lógos y su
+noüs, era un metaxú, un ser de alguna manera divino o, al menos, intermedio en­
+tre el hombre común que ignora su ignorancia y el dios que no inquiere porque
+ya sabe. Para Aristóteles, de modo semejante, la inteligencia que ilumina y hace
+inteligida la especie inteligible es aid íos k a i athánatos, es decir, eterna e inmor­
+tal. Tomás de Aquino reitera que lo más propio de la inteligencia humana es el es­
+fuerzo penoso del razonamiento; la pura intelección es algo más bien divino.
+Parece que, en el estudio de la inteligencia, se puede avanzar, pero no con­
+cluir. Es uno de tantos temas en cuya indagación el hombre no termina nunca su
+trabajo: lo interrumpe.
+Hoy, el tema sigue siendo central y controvertido. Sobre él confluyen ina­
+mistosamente numerosas ciencias y metodologías. Yo voy a limitarme a conside­
+rar, si no exclusiva, al menos predominantemente, las indagaciones y resultados
+de la ciencia psicológica, la que somete sus asertos, hipótesis y teorías a la com­
+probación empírica y, en lo posible, experimental.
+10
+
+
+
+En este ámbito científico, la inteligencia sigue ocupando un lugar central. Es
+considerada en tres perspectivas principales: la gen eral, que indaga sus compo­
+nentes, estructura y funcionamiento; la d iferen cial, que estudia las diversas apti­
+tudes en que la inteligencia se configura, y la g en ética que se ocupa del origen,
+la evolución biológica y el desarrollo cultural de la inteligencia.
+Sobre la estructura diferencial, he resumido mis investigaciones en tres volú­
+menes: P sicología d e las Aptitudes (1956), Estudios sobre In teligencia y lengu aje
+(ed., 1987 a) y Pensam iento e Inteligencia (ed. en colaboración con Martínez Arias,
+1991).
+La perspectiva genética la he examinado en varios estudios (1981 a y b, 1982,
+1987 b).
+Hoy quisiera compendiar la perspectiva general.
+
+LA ESTRUCTURA GENERAL DE LA INTELIGENCIA.
+INTELIGENCIA Y SISTEMA COGNITIVO
+El m odelo de com putación sim bólica
+La perspectiva general de la inteligencia es considerada principal y predomi­
+nantemente en nuestros días por la llamada p sicolog ía cognitiva. Comprende es­
+ta psicología muy diversos enfoques, pero todos comparten dos características re­
+presentativas. La primera es que todos se proponen la recu peración d e la m ente
+( The rediscovery o f the mind, Searle, 1991). La segunda es que esta recuperación
+se intenta conseguir p o r la vía d el ord en a d o r (The Computer a n d the mind, Johnson-Laird, 1988).
+La psicología de las últimas décadas ha replanteado la cuestión de la inteli­
+gencia. La ha situado en un plano m ental. La investigación específica de la in­
+teligencia no consiste en examinar los componentes físicos, por lo demás in­
+negables, de la conducta inteligente. No es lo propio y distintivo de la teoría de
+la inteligencia la consideración de los estímulos, en tanto que energías físicas,
+ni de las respuestas, como movimientos musculares. Ese era, se dice, el objeti­
+vo de la p sico lo g ía condu ctista, predominante hasta mediados de nuestro siglo,
+al menos en la psicología anglosajona, de influjo imperante en la psicología
+mundial.
+Frente al llamado paradigma conductista E-R (Estímulo-Respuesta), se alza,
+hacia la mitad del siglo, la revolución cognitivista, que restaura, con nuevas es­
+trategias de investigación, la psicología del conocimiento, la mente y la concien­
+cia, nunca, es verdad, del todo interrumpida en Europa, desde Külpe y la Gestalttheorie a Bartlett, Michotte, Piaget o Vigotsky.
+11
+
+
+
+Lo decisivo para el psicólogo que estudia la conducta del hombre no son los
+estímulos iniciales y las respuestas finales, sino lo que acontece entre medias, la
+elaboración mental de una acción significativa, como respuesta a una situación
+que significa algo para el sujeto.
+El acontecimiento inaugural más saliente del nuevo estilo psicológico fue el
+Congreso celebrado en el MIT (Massachusetts Institute of Technology), en 1956,
+sobre la Teoría d e la In form ación . En ese año aparecen The logic theory m ach i­
+ne, de Newell y Simón; Three m odels oflan gu age, de Chomsky; The m agical num her seven, p lu s o r m inus two, de George Miller, y Study ofth in kin g , de Bruner,
+Goodnow y Austin. En ese mismo año John McCarthy acuña la expresión inteli­
+g en cia artificial, que hará rápida fortuna. En la década anterior se había desa­
+rrollado la investigación cibernética (Wiener, 1948), la teoría de la comunicación
+(Shanon y Weaver, 1949) y las nociones sobre las «asambleas neuronales», de Hebb
+(1949)- En los años siguientes se multiplican las contribuciones fundacionales del
+nuevo paradigma. En 1957 publica Chomsky sus Syntactic Structures; en 1958,
+von Neumann The Computer a n d the brain ; en 1960, Miller, Galanter y Pribram
+su P lans a n d the structure o f behavior, y el mismo Hebb, The A m erican revolution, su discurso presidencial a la American Psychological Association, en el que
+intenta justificar el estudio del conocimiento, la conciencia y la mente desde el
+enfoque conductista.
+El impulso inicial de esta nueva orientación se debe a un matemático genial:
+Alan Turing. En 1950 propone su célebre G edankenversuch o experimento ima­
+ginario: Supongamos que en un habitación hay una persona y una máquina, y en
+otra, un investigador. El investigador formula preguntas y problemas que un men­
+sajero entrega, en la otra habitación, a la persona y a la máquina, de los que re­
+coge las respuestas y se las lleva al investigador. Si éste no puede distinguir en­
+tre las respuestas de la máquina y de la persona, ¿con qué derecho podemos decir
+que la persona piensa y la máquina no?. En realidad el problema para Turing no
+estriba en si una u otra piensa, sino en si las soluciones que ambas producen son
+indistinguibles. Si lo son, ambas exhiben conductas inteligentes.
+Pero ¿es concebible una máquina que pueda imitar el comportamiento inteli­
+gente de una persona? La respuesta es sí. La había adelantado el propio Turing
+en su trabajo de 1936 Ow com pu table num bers. En él demuestra, fundado en la
+lógica matemática y en la teoría de la computación, y dentro de las limitaciones
+del teorema de Gódel, que es matemáticamente plausible una máquina de esta­
+dos finitos dotada de una cinta de longitud ilimitada sobre la que pueda realizar,
+según instrucciones precisas, las cinco operaciones de moverla hacia la derecha
+o la izquierda, de escribir un «1» o un «0», y de pararse. Una máquina de este tipo
+puede, en principio, realizar, en código binario, todas las funciones recursivas,
+es decir, resolver todos los problemas que tengan solución y contestar a todas las
+cuestiones que puedan ser definidas lógica y algorítmicamente.
+12
+
+
+
+Pronto otros científicos construyen máquinas computadoras concretas. Johan
+von Neumann es el primero en idear y construir un ordenador regido por los prin­
+cipios de la máquina universal y abstracta de Turing: cálculo serial de relaciones
+entre símbolos, representados mediante un código binario.
+Está claro que lo que puede hacer un ordenador viene limitado por su m ate­
+rial o h ardw are. Lo que efectivamente hace, sin embargo, cuando se pone en
+marcha, depende exclusivamente de su program a, log ical o softw are, es decir, de
+los datos que se le suministran y las instrucciones que se le dan, sin que para des­
+cribir y explicar esta actividad haga falta considerar los componentes físicos, los
+cables, enchufes o chips, que puedan constituir la máquina concreta.
+La psicología cognitiva se monta así sobre la m etáfora d el orden ador. La men­
+te es al organismo como el programa al ordenador. El organismo humano pone
+límites a lo que el hombre puede hacer. Lo que el hombre efectivamente hace es,
+sin embargo, lo que organiza y dispone su programa mental. Eso es lo que tiene
+que indagar el psicólogo cognitivo.
+Durante las décadas de los años sesenta, setenta y parte de los ochenta, has­
+ta hoy, predomina la psicología cognitiva que acepta, más o menos literalmente,
+la metáfora del ordenador. Sus máximos artífices, defensores y promotores son
+Fodor y Pylyshyn (Fodor, 1968, 1975, 1981, 1983, 1988; Fodor y Pylyshyn, 1988;
+Pylyshyn, 1984). Sus obras representan la más rigurosa expresión del que pode­
+mos llamar paradigma C-S, o de com pu tación d e sím bolos. Como el ordenador
+computa relaciones sintácticas entre representaciones codificadas, la mente hu­
+mana recibe información, la codifica en forma de símbolos representativos (perceptos, conceptos, proposiciones, esquemas), establece cómputos sintácticos o
+de relaciones entre estos símbolos, los registra y conserva, los recupera cuando
+los necesita, los somete a diversas transformaciones mediante múltiples estrate­
+gias y, finalmente, por medio de ellos, dirige y evalúa la acción.
+La mente actúa como un ordenador serial o secuencial. Sus componentes son
+símbolos que representan información sobre las entidades a que se refieren, se­
+gún diversos códigos. En el fondo, los códigos definen los símbolos como clases
+de equivalencia de señales físicas, que, por eso, por su carácter físico, pueden te­
+ner eficacia causal en la actividad del organismo; la cual, a su vez, resulta del tra­
+tamiento o «procesamiento» sintáctico de estas clases de equivalencia, mediante
+la aplicación sucesiva de reglas precisas sobre los símbolos y sus conjuntos.
+Con mayor flexibilidad y mesura, el gran representante de este paradigma,
+creador de múltiples programas concretos e indagador con ellos de muy diver­
+sos campos de la psicología, es Herber A. Simón, profesor de psicología y cien­
+cias cognitivas y premio Nobel en Economía por sus trabajos sobre teoría y mé­
+todos de toma de decisiones en la conducta administrativa y económica de las
+organizaciones. Una sucinta y sustanciosa panorámica de sus publicaciones y una
+13
+
+
+
+fina interpretación crítica de los aspectos psicológicos de su obra puede encon­
+trarse en Mayor (1993).
+Distingue Simón (1980, 1981; Simón y Kaplan, 1989; Ericsson y Simón, 1984)
+entre cien cia cognitiva y p sicolo g ía cognitiva. Aquélla tiene como objeto elabo­
+rar una «teoría general de los sistemas inteligentes», naturales y artificiales. Com­
+prende la inteligencia artificial, la robótica, los sistemas de solución general de
+problemas y los sistemas expertos específicos, los sistemas hombre-maquina, la
+interpretación de la competencia lingüística, la simulación de escenarios y expe­
+rimentos en todas las ciencias y la búsqueda de las invariantes comunes a todos
+los sistemas inteligentes. La psicología cognitiva tiene por objeto simular los pro­
+cesos mentales de la conducta humana, para explicarla y comprenderla.
+Respecto a la ciencia cognitiva, Simón propone las siguientes invariantes, ca­
+racterísticas de todos los sistemas inteligentes.
+Primera. F lexibilidad. Todos son sistemas flexibles, que tratan de responder
+a las diferentes y continuamente cambiantes exigencias del medio. Los sistemas
+naturales, para adaptar el organismo a las demandas del ambiente y éste a las ne­
+cesidades del organismo. Los sistemas artificiales, para responder a las demandas
+de la tarea o problema planteado, con los datos e instrucciones de que disponen.
+Segunda. Sim bolism o. Todos los sistemas inteligentes tienen como compo­
+nentes principales a los símbolos, entendidos como representaciones.
+Tercera. F isicidad. Los sistemas inteligentes sustentan los símbolos en fun­
+damentos físicos, por ejemplo, orgánicos o electrónicos.
+Cuarta. In form atividad. Según la ingeniosa y justa denominación de George
+Miller (1984), los sistemas inteligentes son inform ávoros: se alimentan de infor­
+mación tanto interna como externa, que codifican y simbolizan. Los naturales, a
+partir de la percepción sensorial y la recuperación de procesos y datos de la me­
+moria; los artificiales, a partir de la base de datos y reglas del programa, presen­
+tes en cada momento o recuperados de sus variadas memorias. Cada vez de for­
+ma más amplia, los sistemas artificiales, sobre todo en la robótica, utilizan para
+captar información la actividad de sensores y la retroalimentación de mecanismos
+efectores.
+Quinta. O peratividad. Todos los sistemas inteligentes operan con símbolos y,
+mediante la computación de relaciones entre ellos, planean y dirigen la ejecución
+de las respuestas.
+Sexta. C om pu tabilidad serial. Todos emplean básicamente los mismos pro­
+cesos operativos con los símbolos. El proceso de computación es fundamental­
+mente serial y sucesivo y, en escasa medida, simultáneo y paralelo. Ello se debe
+a los límites de la memoria de trabajo, que, por ejemplo en el hombre, solo pue­
+de abarcar unas 7 + 2 unidades significativas o chunks.
+14
+
+
+
+Séptima. B ú squ eda heurística. La principal invariante respecto a las deman­
+das de la tarea que hay que emprender o al problema que hay que resolver es la
+búsqueda heurística (the heuristic search). Una vez especificada la tarea y el es­
+pacio del problema, con su situación actual y su situación final o solución, el sis­
+tema busca y tantea vías que acerquen la una a la otra, usando información con­
+servada en la memoria y extrayendo nuevas indicaciones que puedan guiar la
+búsqueda, en el medio interno o externo. Esta búsqueda puede ser estrictamen­
+te algorítmica y lógica, cuando un procedimiento computacional determinado
+conduce con seguridad a la solución de la tarea o problema o, lo que es más fre­
+cuente, mixta algorítmico-heurística, en la que se emplea un cálculo lógico-ma­
+temático, pero acompañado de una búsqueda tanteante, que evita la explosión
+combinatoria que se produciría si se exploraran exhaustivamente todas las alter­
+nativas posibles, como acontece, por ejemplo, en el juego del ajedrez.
+En los últimos años se progresa a ritmo acelerado en la invención de técnicas
+de inteligencia artificial, tanto en el análisis de estrategias generales para formu­
+lar cuestiones y plantear problemas, como en el estudio de sistemas de produc­
+ción y de elección d e m edios y fin es, para contestarlas y resolverlos. Se avanza
+asimismo en la investigación de la inteligencia natural medíante la sim ulación,
+en programas de ordenador, de la conducta inteligente del hombre y de su ca­
+pacidad de aprendizaje.
+En el futuro, piensa Simón, la indagación habrá de dedicar más esfuerzo e in­
+genio para simular fielmente los sistemas inteligentes humanos y, sobre todo, las
+reorganizaciones de los sistemas cognitivos debidas a recursos e innovaciones so­
+ciales y culturales. Cada vez está más claro que el funcionamiento de los siste­
+mas inteligentes humanos depende indudablemente de capacidades y limitacio­
+nes fisiológicas, pero, sobre todo y más profundamente, de condiciones culturales
+y sociales.
+La ciencia cognitiva debe coordinar los objetivos descriptivos y los n orm ati­
+vos, es decir, la descripción, cada vez más precisa, de los procesos noegenéticos,
+que conducen a la ampliación del conocimiento, y la especificación rigurosa de
+las reglas lógicas, que conducen al razonamiento correcto. La meta final, según
+Simón, es la optim ización norm ativa, en la que los sistemas artificiales aprendan
+el funcionamiento flexible e innovador de los sistemas naturales y los naturales
+aprendan la precisión lógica de los artificiales.
+La investigación de los sistemas inteligentes naturales y, principalmente del
+hombre, es, como dije, el objeto de la psicología cognitiva. No se interesa ésta
+directamente por los procesos generales que contribuyen a la solución de tareas
+y problemas, sino por los que efectivamente acontecen en la mente humana.
+Para avanzar hacia su objetivo, la psicología cognitiva debe dar, en sus in­
+vestigaciones, tres pasos sucesivos: la hipótesis, la sim u la c ió n y la verificación .
+15
+
+
+
+La hipótesis. Ante una tarea o problema, el psicólogo cognitivo formula una
+hipótesis acerca de los componentes, procesos y estrategias que utiliza la mente
+humana. Concreta finalmente esa hipótesis en forma de programa de ordenador.
+La simulación. El investigador pone en funcionamiento el programa en un or­
+denador y comprueba si el ordenador soluciona o no el problema. Si lo hace,
+queda empíricamente demostrado que el programa y, en consecuencia, la hipó­
+tesis, son válidos.
+La verificación. Consiste en comprobar si el programa, además de solucionar
+el problema, lo hace como el sujeto humano.
+Mediante diseños experimentales complejos, en los que suelen figurar como
+variables dependientes los errores y las latencias, se comparan paso a paso las
+operaciones del ordenador con los protocolos verbales obtenidos de los sujetos,
+que hablan mientras piensan en voz alta (the thinking a lo u d technique). Se in­
+fiere así, con cierto grado contrastable de probabilidad, si los datos a que el su­
+jeto atiende, las relaciones que percibe, las operaciones que hace, los símbolos
+que codifica y maneja y las estrategias, submetas y metas que consigue corres­
+ponden, o no, a los componentes y pasos del programa del ordenador.
+La conclusión final de la psicología cognitiva clásica que se ajusta al paradig­
+ma de computación de símbolos es que el organismo humano y, más particular­
+mente, el cerebro, al igual que el ordenador, son casos especiales de la máquina
+de Turing, funcionalmente equivalentes a ella. Operan sobre unos componentes
+simbólicos y discretos, mediante ciertos principios sintácticos. El que difieran en
+su soporte físico es irrelevante. La metáfora del ordenador se ajusta literalmente
+a la estructura y el funcionamiento de la mente.
+Los datos, resultados empíricos y argumentos de los psicólogos cognitivos
+constituyen un fuerte apoyo a la tesis de este paradigma. Incluso Simón, en 1990,
+llega a afirmar: «La hipótesis del sistema físico simbólico ha sido comprobada tan
+ampliamente en los últimos 30 años que puede considerarse ya como completa­
+mente aceptada» (Holyoak y Spellman, 1993, p. 206).
+Sin embargo, hay que añadir enseguida que la tesis adolece de considerables
+deficiencias y limitaciones. Creo que las principales son las siguientes (vid. A n u a­
+rio d e Psicología, 1993; Johnson-Laird, 1988; Marina, 1993; Riviére, 1991; Rumelhart et al., 1986, con la competente introducción a la versión española de García
+Madruga, 1992).
+Primera. La máquina de Turing dispone de una cinta (una memoria) ilimita­
+da. Los ordenadores digitales, que son sus realizaciones físicas, van utilizando
+memorias de trabajo cada vez más amplias. La velocidad de procesamiento de los
+ordenadores va acercándose a los nano y picosegundos. Sin embargo, la atención
+consciente humana no puede ejercerse más que sobre un pequeño número de
+unidades o «chunks», de 5 a 9, como queda dicho. Y la rapidez de los impulsos
+16
+
+
+
+nerviosos se mide en centésimas o milésimas de segundo. No hay, pues, tiempo
+material para que el organismo humano pueda realizar secuencialmente, uno des­
+pués de otro, los cómputos y procesos que la teoría cognitiva clásica reclama. Es
+preciso admitir procesamientos distribuidos en paralelo, que se realicen sin gas­
+tar recursos de atención consciente.
+Segunda. La mente humana, a diferencia de la máquina de Turing, es capaz
+de tratar con eficacia información incompleta y degradada. Si se habla, por ejem­
+plo, de un artista de Hollywood que fue un eminente erudito y llegó a ser Presi­
+dente de la mayor potencia mundial, se comprende que se habla de Reagan, aun­
+que se dude o niegue su afirmada erudición.
+Tercera. El procesamiento de la información no solo es, en buena parte, pa­
+ralelo, sino, además, interactivo. En la comprensión de frases, el significado de
+las primeras palabras suele depender de la comprensión de las últimas. Es ver­
+dad que en la comprensión y en la producción del lenguaje operan procesos su­
+cesivos y secuenciales, pero los análisis léxicos, sintácticos y semánticos actúan
+en parte de forma simultánea.
+Cuarta. El paradigma de la computación serial de símbolos discretos mediante
+la aplicación de reglas estrictas supone un sistema mental rígido y poco adapta­
+ble, como reconoce Simón, a las cambiantes demandas de las tareas. Difícilmente
+puede dar razón de procesos tan patentes y ubicuos como los de aprendizaje y
+desarrollo, realizados, en gran parte, por tanteos, avances y retrocesos. No es ex­
+traño que los defensores del paradigma cognitivo clásico, como Fodor o Pylyshyn,
+propendan a admitir el predominio en la estructura mental básica de compo­
+nentes y estrategias innatas, con características referencias, desde los primeros
+trabajos de Chomsky, al innatismo de Descartes.
+En realidad este tipo de explicaciones cognitivas se refieren más a la com pe­
+ten cia (com peten ce) que a la ejecu ción (perform an ce), es decir, más a la arqui­
+tectura supuestamente subyacente al sistema de conocimiento y de lenguaje que
+a la concreta adquisición y desarrollo del mismo. Lo que provoca problemas a
+veces insolubles en las ciencias empíricas del lenguaje y el pensamiento, como
+la psicología.
+Sexta. El sistema de computación simbólica, en la medida en que sea acepta­
+ble, constituirá, a lo sumo, una nueva y poderosa lógica formal del conocimien­
+to, más bien que una explicación psicológica del mismo.
+Séptima. Y tal vez, a mi juicio, la principal. En este sistema, los componentes
+conscientes corren el riesgo de ser interpretados como epifenómenos subjetiva­
+mente importantes, pero causalmente ineficientes. Serían producto de la compu­
+tación, y no tendrían ningún papel en la cadena causal de la conducta. La efecti­
+va causalidad se debe a la sintaxis de las clases de equivalencia de las señales
+físicas, que determinan la significación o semántica de los símbolos. Ahora bien,
+17
+
+
+
+hay razones de peso, como veremos, para admitir que la semántica de los sím­
+bolos mentales no se reduce a las relaciones sintácticas entre ellos y que la di­
+mensión consciente desempeña un papel no solo eficiente sino primordial en el
+dinamismo mental de la inteligencia humana.
+Estas y otras dificultades y objeciones han originado un nuevo enfoque de la
+psicología cognitiva, que empieza a predominar en la última década. Es el lla­
+mado paradigma PDP: p rocesam ien to distribuido en p a ra lelo o conexionism o.
+Procuraré sintetizar sus características y logros, así como, a mi parecer, sus
+particulares insuficiencias.
+El paradigm a PDP
+Las limitaciones de la psicología cognitiva clásica provienen de tomar al pie
+de la letra la metáfora del ordenador, según el modelo universal de la máquina
+de Turing. Tal orientación puede, en principio, fundamentar una poderosa tec­
+nología de la inteligencia artifical, como en efecto va haciendo. No parece segu­
+ro que pueda avanzar en el conocimiento de la psicología de los procesos inte­
+ligentes reales, pues éstos acontecen en seres vivos, en los que la acción inteligente
+se desarrolla sobre un soporte biológico concreto, que no se puede desatender,
+so pena de caer en las limitaciones supradichas.
+Surgen, por eso, en los últimos años, múltiples intentos de sustituir el mode­
+lo de Turing por otro nuevo en el que el procesamiento de la información se rea­
+liza por redes complejas de unidades interconectadas, con propiedades similares
+de activación e inhibición a las conocidas de las neuronas y que operan simultá­
+nea y paralelamente, de forma aproximada y redundante.
+Estos nuevos modelos constan de unidades de entrada, de salida e interme­
+dias, conectadas entre sí, que actúan cuando reciben impulsos por encima de su
+umbral y disparan o inhiben la actividad de otras unidades. Cada unidad com­
+puta una parte de muchos símbolos y mensajes y cada símbolo y mensaje está
+procesado por múltiples unidades.
+En cada momento, la red tiene un cierto grado de activ ación general y una
+fu e r z a d e con exión entre sus unidades. La distribucióon de conexiones corres­
+ponde al conocimiento del sistema en un momento dado. La configuración de ac­
+tivaciones corresponde al tratamiento de la nueva información. La multiplicidad
+de procesamiento de los diversos componentes de cada información y, finalmente,
+de cada símbolo significativo, permite el aprendizaje paulatino o rápido, la com­
+prensión de información deficiente y la transformación del patrón general de co­
+nexiones y activaciones en nuevas estructuras de equilibrio complejo, según las
+leyes termodinámicas de Boltzmann y el dinamismo de las estructuras disipativas
+de Prigogine.
+18
+
+
+
+En términos más sencillos, el modelo conexionista se aproxima a la teoría de
+la a d a p ta ció n inteligente de Piaget. Mediante el influjo que ejerce el patrón de
+conexiones existente sobre la información que llega, se explica la asim ilación de
+las demandas de la tarea a los esquemas previos del sujeto. Mediante el nuevo
+patrón de activaciones que provoca la nueva información, se explica el proceso
+de aco m o d a c ió n de los esquemas del sujeto a las demandas de la tarea. El re­
+sultado final puede corresponder a la ad a p tació n progresiva de la conducta in­
+teligente del sujeto a las exigencias del medio y a la modificaión del medio por
+el sujeto, para responder a sus demandas y proyectos.
+Los símbolos conscientes se consideran en este enfoque como propiedades
+emergentes de los estados globales de equilibrio de la red de unidades. Explican,
+con algún mayor rigor experimental y matemático (según las leyes y ecuaciones
+que gobiernan las redes y las dirigen hacia estados globables estacionarios), el
+fenómeno de la “reestructuración» y la experiencia de la «comprensión súbita»,
+que describió la escuela de la Gestalt, la A ba! Erlebnis, de Karl Bühler, o el diá­
+logo interno consigo mismo que han examinado tantas teorías psicológicas, co­
+mo las clásicas del verbum m entís y la más reciente de Vigotsky sobre los titu­
+beos mentales.
+Muchos de los resultados funcionales que procuran los mecanismos cons­
+truidos y regidos según este modelo, se asemejan a fenómenos capitales verifi­
+cados por la psicología experimental, como los ya mencionados del aprendizaje
+lento y con errores y tanteos, la comprensión de información degradada, la inte­
+lección de textos y la solución de problemas que requieren la interacción simul­
+tánea de procesos distribuidos, paralelos e interactivos, y la elaboración por el
+sujeto de categorías borrosas.
+Los modelos PDP se apoyan en numerosos antecedentes tanto neurológicos
+como computacionales. Neurólogos como Jackson, en el siglo xix y Luria, en el
+xx, demostraron la localización distribuida y múltiple de las funciones cognitivas,
+y Lashley, no hace mucho, descubrió la considerable equipotencialidad de gran­
+des zonas de la corteza cerebral. Mi primer trabajo experimental demostró el des­
+plazamiento de la percepción de la dirección del sonido desde las zonas tempo­
+rales a otros centros vicariantes,cuando se impide o perturba la actividad de los
+anteriores (Neff, Diamond y Yela, 1956).
+En realidad, la revolución cognitiva se inició con investigaciones concretas que
+se apoyaban en hipótesis de tipo distribuido y paralelo, como los trabajos de McCulloch y Pitts (1943), los ensayos del perceptron, de Rosenblatt (1962) y los in­
+tentos del logogen, de Morton (1969). La investigación inicial de McCulloch y Pitts
+demostró que las redes neuronales pueden calcular propiedades lógicas y dar cuen­
+ta del poder computacional del cerebro. Por ejemplo, una «neurona artificial» co­
+nectada con otras dos y con un umbral de excitación que sólo se supera si recibe
+excitación de cualquiera de ellas o de ambas, computa la «disyunción no exclu19
+
+
+
+yente» del cálculo de proposiciones («o p o g o ambas»)- Si el umbral requiere la
+suma de las excitaciones de las dos, computa la «conjunción» ( p y q ).
+El desarrollo directo y sistemático del nuevo enfoque PDP se inicia con los
+estudios de Hinton y Anderson (1981) y se expone con amplitud en la obra co­
+lectiva de Rumelhart, McClelland y el PDP Research Group (1986), traducida par­
+cialmente al español en 1992 y, como advertí, con una esclarecedora introduc­
+ción de García Madruga.
+Una exposición crítica de los diversos modelos computacionales y sus limita­
+ciones se expone en el espléndido ensayo de Marina (1993) y en la obra, más ate­
+nida a los datos experimentales y a la terminología computacional, de Riviére
+(199D, así como en los comentarios a la misma que varios psicólogos españoles
+ofrecemos en el número 56, de 1993, del A n u ario d e P sicología de la Universi­
+dad de Barcelona.
+En realidad, sin embargo, el paradigma PDP, en sus muy diversas formula­
+ciones, no parece que pueda, de momento, sustituir por entero al de computa­
+ción de símbolos. La mayor parte de la copiosísima y creciente bibliografía sobre
+la psicología cognitiva se atiene hoy al enfoque general del procesam ien to d e la
+in form ación , y recurre, cuando parece pertinente a uno u otro paradigma, o,
+cuando es preciso, prescinde de los dos.
+La razón es que también el modelo PDP adolece de profundas insuficiencias
+y limitaciones. Las sintetizaré en las siguientes.
+Primera. El modelo de redes de unidades abstractas interconectadas y los con­
+cretos mecanismos construidos según sus principios, distan todavía mucho del
+cerebro real. La elaboración de modelos conexionistas es muy reciente y está en
+continua transformación y crecimiento. Es pronto para decidir. Como señala Ma­
+nuel de Vega en su Visita a l p a ís d e Turing (1993), hace falta rellenar de conte­
+nido psicológico y fisiológico los modelos conexionistas, que están todavía lejos
+de corresponder a las propiedades conocidas del funcionamiento cerebral.
+Segunda. La actividad mental tiene obvias características seriales manifesta­
+das por la computación de símbolos enteros en muchos procesos de memoria,
+lenguaje, razonamiento y solución de problemas, que exhiben una clara estruc­
+tura temporal, no explicada por el procesamiento distribuido y paralelo.
+Tercera. El número de unidades intermedias es decisivo para el funciona­
+miento de los modelos PDP, pero no responde a ninguna ley sistemática derivable de la teoría. Cada micromodelo conexionista lo define a d hoc.
+Cuarta. No está claro, en estos modelos, cómo acontece la codificación de en­
+trada, es decir, cuáles son los micro-rasgos subsimbólicos que es necesario procesar.
+Quinta. El procesamiento mental es sistem ático. Por ejemplo, si se puede co­
+rrectamente pensar y decir «Pedro ama a Lola», es necesario que también sea po­
+20
+
+
+
+sible y computacional y gramaticalmente hacedero decir y pensar que «Lola ama
+a Pedro». El paradigma PDP no explica esta sistematicidad.
+Sexta. Los modelos PDP no dan cuenta del aprendizaje en un solo ensayo,
+que es perfectamente explicado por la comprensión consciente de las relaciones
+entre símbolos discretos. Por ejemplo, basta que se comprenda que un número
+primo es todo aquel que solo es divisible por sí mimso y por la unidad para que
+se haya aprendido de una vez para siempre lo que es un número primo. Basta
+que me informen de que todos los números de teléfono van a empezar por 5, pa­
+ra que, en adelante, sin tanteos ni procesamientos de microsignos, lo compren­
+da y retenga.
+Séptima. Los modelos PDP no dan cuenta del control metacognitivo (Mayor et
+al., 1993), es decir, del influjo que en los procesos de inteligencia tiene la com­
+prensión de las actividades inteligentes, de las que el sujeto puede ser conscien­
+te y, por eso, ser capaz, al menos en parte, de indagar, modificar y acaso mejorar.
+Octava. Estos modelos no explican por qué se retiene lo aprendido y no de­
+saparece en los nuevos patrones de activación y conexión, si bien son más idó­
+neos para dar razón de las múltiples vías y pistas que a veces se siguen para re­
+cuperar de la memoria un conocimiento que se resiste a ser recordado.
+Novena. La objeción principal es que estos modelos postulan, sin explicarla,
+la emergencia de símbolos conscientes, efecto resultante de la actividad neural y
+que podrían interpretarse como simples epifenómenos de la conducta inteligen­
+te. Ahora bien, el que los símbolos conscientes emerjan de la actividad neural,
+no implica necesariamente que carezcan de eficacia causal, como veremos.
+El paradigm a g en eral del p rocesam ien to de la in form ación
+Por todo lo dicho, no parece que el paradigma PDP pueda sustituir sin resi­
+duo al modelo C-S o de computación de símbolos. Más bien, si acaso, podrá com­
+plementarlo. Es lo que piensan la mayoría de los psicólogos cognitivos que ac­
+tualmente realizan investigaciones empíricas y experimentales sobre la estructura
+y funcionamiento de la inteligencia. Tal vez el psicólogo más sistemático y re­
+presentativo de este enfoque ecléctico sea Philip Johnson-Laird, del que merece
+especial atención su obra The Com puter a n d theM ind, de 1988.
+Parece claro que la inteligencia, como sistema cognitivo, opera en ciertas fa­
+ses, sobre todo en las iniciales de la acción, mediante procesos paralelos, auto­
+máticos e inconscientes. Estos procesos, sin embargo, contienen aspectos inter­
+pretativos, que confieren significación al contenido procesado y lo preparan para
+que, finalmente, se articule en forma de símbolos conoscientes. Se ha compro­
+bado, por ejemplo, en los experimentos dicóticos, que la información que se re­
+cibe por el oído no atendido influye inconscientemente en el significado de la in­
+21
+
+
+
+formación captada por el oído atendido. Más simplemente, es lo que acontece en
+una fiesta. En ella hay un fondo de ruidos y palabras al que no atendemos, mien­
+tras fijamos quizás nuestra atención en el diálogo con un amigo. Basta, sin em­
+bargo, que en algún lugar se mencione nuestro nombre para que inmediatamen­
+te desplacemos hacia ese lugar nuestra atención. Hasta entonces no lo atendíamos,
+pero de alguna manera era considerado, si bien de forma automática e incons­
+ciente, por nuestra actividad cognitiva. Esta lo estimaba carente de interés y, por
+eso, no lo atendía, pero, ahora, súbitamente, se percata del cambio ocurrido en
+esa zona no atendida, lo interpreta como interesante y dirige hacia él la atención.
+Todo parece indicar que hay operaciones y componentes mentales significativos,
+sin que de ellos tengamos conciencia plena o incluso carezcamos completamen­
+te de ella. La acción inteligente completa requiere, sin embargo, el tratamiento
+consciente de símbolos, como cuando atendemos deliberadamente a la signifi­
+cación del diálogo con el amigo o a la conversación en la que, de pronto, ha so­
+nado nuestro nombre.
+Una de las propiedades características de la acción inteligente es que en ella,
+además de otros posibles componentes y procesos automáticos e inconscientes,
+acontece una relación mental entre un objeto o situación que significa algo para
+un sujeto y un sujeto para el que ese algo es significado. Esa relación significati­
+va, aunque se incluya en una imprescindible actividad física y abarque aspectos
+interpretativos automáticos, es de carácter intencional; es decir, manifiesta la pre­
+sencia de un objeto, no en su realidad física, sino en tanto que ob-jectum ; es de­
+cir, en tanto que sale al encuentro del sujeto, como término de un conocimiento
+en el acto mental de percibirlo, recordarlo, concebirlo o entenderlo. Esa relación
+intencional es lo que llamamos conciencia, la cual incluye la existencia de sím­
+bolos semánticos o significativos en el procesamiento mental.
+El uso del término -símbolo» es multívoco en la literatura cognitiva. Su apli­
+cación es a veces incorrecta. Todas las computaciones sintácticas entre los com­
+ponentes llamados «símbolos» son incapaces de producir un símbolo auténtico.
+Símbolo es algo que representa otra cosa. Esa referencia representativa es lo que
+constituye su semántica. Un símbolo sin referencia semántica no es propiamente
+un símbolo. Los partidarios de la metáfora del ordenador o del cerebro, preten­
+den reducir la semántica a sintaxis. A mi entender, no lo consiguen. Cometen, co­
+mo dice Johnson-Laird, la sym bolic fa lla c y . Las relaciones y transformaciones sin­
+tácticas, formales, lógicas o matemáticas, cambian un conjunto de elementos en
+otro, pero no le confieren significación simbólica. Es como si, para entender un
+texto escrito en un idioma desconocido, se nos presenta traducido a otro que tam­
+poco entendemos. Sigue sin significar nada para nosotros.
+El símbolo tiene una intrínseca referencia a algo distinto de él. Si no, no es
+un símbolo, sino una mera señal. En el ordenador tipo Turing o en la maqui­
+na tipo Boltzmann, el valor referente lo suministra el código impuesto por el
+22
+
+
+
+inventor del programa. En el sistema inteligente humano la referencia de los
+símbolos mentales al objeto que representan constituye su intrínseca inten­
+cionalidad.
+La cual se manifiesta de muy distinta manera. Por ejemplo, como intención.
+Para comprender una frase no basta comprender sus componentes gramaticales
+y la unidad significativa que en ellos se sustenta; es preciso, además, compren­
+der la intención del que la dice. La expresión «¿puede usted abrir la puerta?», no
+suele reclamar la contestación «sí puedo», suele más bien significar el ruego de
+que se abra. Son los componentes de los actos del lenguaje que Austin ha lla­
+mado ilocutivos los que modulan el significado final y pragmático de las frases.
+Lo hacen por muy variados medios perilinguísticos, como la entonación, el ges­
+to o la agregación de sintagmas consabidos, como «por favor». Determinan que la
+frase signifique ruego, pregunta, orden, súplica, consejo, etc.
+Los resultados funcionales de las acciones inteligentes pueden ser simulados
+por autómatas diversos, como ordenadores o robots. Y los técnicos de sistemas
+de inteligencia artificial lo van logrando cada vez con mayor rigor y amplitud. La
+«intención», por ejemplo, en el sentido que queda dicho, puede controlarse en
+una convesación entre robots, siempre que se programe exacta y explícitamen­
+te. Un robot estará programado para decir: «¿Puedo hacerle una pregunta?». El otro
+responderá: «Sí». El primero dirá entonces: «¿Puede usted abrir la puerta?». A lo
+que el segundo contestará correctamente: «Sí». O bien, si el programa dicta que
+el robot diga: «¿Puedo hacerle un ruego?», y el otro contesta que «Sí», al recibir el
+segundo mensaje «¿Puede usted abrir la puerta?», el otro responderá, no con una
+palabra, sino abriendo efectivamente la dichosa puerta.
+Según los datos que van aportando la psiconeurología y las ciencias cognitivas, no parece imposible que se consiga simular todos o ca si todos los resultados
+a que llega la conducta inteligente humana. Si, como se va logrando, se progra­
+man en un autómata sistemas operativos en una jerarquía en la que los superio­
+res puedan poner en marcha a los inferiores y éstos ejecutar, bajo la vigilancia de
+aquéllos, los procesos para los que están programados y de los que los sistemas
+superiores no tienen noticia ni habilidad para realizarlos, aunque sí para poner­
+los en marcha, evaluar su rendimiento y pararlos, entonces se conseguirá simu­
+lar muchos de los resultados que en el hombre logra la operación de la autorre­
+gulación y la autoconciencia. Si se suministra al autómata un «modelo del mundo»
+suficientemente rico y preciso, y los sensores y efectores adecuados, se puede si­
+mular la formación de proyectos realizables en ese mundo y la elección de rutas
+y formas de actuación que imiten la elección libre.
+Disponemos ya de autómatas que consiguen muchos de esos resultados,
+como demostrar ciertos teoremas matemáticos con mayor parsimonia y elegan­
+cia que Whitehead y Russell, acertar más pronto y mejor que un especialista el
+diagnóstico de una patología o elegir y emplear las herramientas apropiadas
+23
+
+
+
+más eficazmente que un obrero. Claro que eso no quiere decir, como señala
+Johnson-Laird, que el autómata entienda lo que hace ni más ni meior que la
+molécula de ADN, que dirige la formación del organismo, entiende la ciencia
+genética.
+Los diversos enfoques de las ciencias y psicologías cognitivas han supuesto
+un gigantesco avance en la indagación de la estructura formal del conocimiento,
+en la construción de sistemas inteligentes artificiales y en la inauguración de una
+fase nueva e inédita en la metodología científica, a saber, la posibilidad de si­
+mular experimentos y fenómenos que hasta ahora eran irrealizables o inobser­
+vables. Abren asimismo nuevas y fecundas vías para el estudio de la mente y la
+inteligencia humanas.
+No dejan, sin embargo, de ofrecer dificultades y limitaciones. Para terminar,
+yo las compendiaría en las siguientes.
+Primera. Las metáforas del ordenador, del cerebro y del procesamiento de la
+información, son eso: metáforas. Han resultado extraordinariamente fecundas, pe­
+ro si se toman al pie de la letra conducen, como advirtió Alejandro Luria, a reduccionismos, paralogismos y falacias.
+Segunda. Hay dos tipos de intencionalidad: la extrínseca y la intrínseca. La
+extrínseca es la que impone el programador a los datos que introduce en su pro­
+grama, según el codigo convenido. Es una intencionalidad simulada. La intrínse­
+ca consiste en la referencia de los símbolos mentales del sistema cognitivo hu­
+mano a los objetos que representan. Es una intencionalidad auténtica.
+Tercera. Existe otra acepción del término intencionalidad, que alude a la in­
+tención o propósito. Ambos pueden simularse, hasta límites crecientes cuya am­
+plitud no sabemos precisar, en los sistemas automáticos de computación. Pero en
+el caso del hombre, a diferencia de lo que sucede en los autómatas, las inten­
+ciones y los propósitos hunden sus raíces en las metas que adopta el sujeto, se­
+gún sus motivaiones y sentimientos, profundamente modulados por su realidad
+psicosomática y la sociedad y cultura en la que nace y vive.
+Cuarta. En los ordenadores y robots hay la posibilidad, todavía apenas ac­
+tualizada, pero prometedora, de incrementar los procesos de aprendizaje. En
+los sistemas inteligentes naturales no solo es obvia la importancia del aprendi­
+zaje, sino el hecho más decisivo de la constante modulación del software por
+el hardware y viceversa. No solo los patrones de activación y conexión que se
+producen en las sinapsis neuronales facilitan nuevas vías de transmisión de im­
+pulsos, nuevas actualizaciones de genes y proteínas, una mayor abundancia de
+botones sinapticos y una transformación de las tasas de neurotransmisores, si­
+no que todos estos fenómenos alteran, perfeccionándolo o perturbándolo, el
+programa de procesamiento mental. Este, a su vez, modifica la estructura de las
+redes neuronales. Así, a diferencia de los autómatas computadores, se estable­
+24
+
+
+
+ce en el hombre una intermodulación permanente entre las bases somáticas y
+las dimensiones mentales de su comportamiento, ambos componentes, el men­
+tal y el somático, integrados en la estructura psicoorgánica unitaria de toda la
+actividad humana.
+Quinta. Los sistemas de inteligencia artificial son, en el mejor de los casos, solucionadores de problemas. Lo más característico del sistema inteligente humano
+es que es también creador e inventor de cuestiones, preguntas y problemas, co­
+mo muestra con rigor e ingenio José Antonio Marina en su ensayo Teoría d e la
+inteligen cia crea d ora (1993): la inteligencia humana es una especie de compu­
+tador automático en el que ha irrumpido la conciencia intencional, el proyecto y
+la libertad. El problema capital que es capaz de formular, aunque tal vez no de
+resolver, consiste en hacerse cuestión de sí mismo. Q uaestio m ih ifa c tu s sum, es­
+cribió San Agustín.
+Sexta. La inteligencia humana no solo requiere, según argumentan muchos
+psicólogos cognitivos, como Johnson-Laird, un sistema operativo central, que ori­
+gine el concepto de un yo propio, sino que descubre en ese sí mismo dos face­
+tas ausentes de los autómatas: la soledad y la intersubjetividad. El yo cognoscente
+y proyectante se descubre en soledad frente a todo lo conocido y cognoscible,
+ante todo lo proyectado y proyectable: De un lado, el yo que piensa y proyecta;
+de otro, toda la realidad efectiva o presunta.
+Por otra parte, el yo se percibe habitado por múltiples voces, como sutilmente
+describe Riviere en su artículo «Las multitudes de la mente» (1993). En nuestra
+mente, la de cada uno, resuenan, desde su irremediable soledad, las voces in­
+contables de sus prójimos y la de los usos, costumbres e interpretaciones que le
+brindan o imponen los anónimos forjadores de la sociedad y cultura en las que
+piensa y decide.
+Séptima. El sistema inteligente humano, a diferencia del artificial, no solo pue­
+de formular y resolver cuestiones y problemas; puede también aparentar razones,
+manifestar respuestas astutas o falaces, proponerse la búsqueda de la ironía, lo
+insensato y el absurdo, intentar hacer patente, por el lenguaje poético y la obra
+de arte, lo que hay de latente en la realidad.
+Octava. Finalmente, creo que la razón fundamental para rechazar la identifi­
+cación de los sistemas inteligentes artificiales y humanos es que la conducta in­
+teligente del hombre manifiesta, como su propiedad más distintiva, lo que he lla­
+mado m etacon ducta. Toda conducta es respuesta a una situación. La conducta
+humana es, además, respuesta a y d e su respuesta; es decir, puede ser y, en par­
+te, tiene que ser, conducta sobre su propia conducta (Yela, 1992). El hombre se
+manifiesta, así, en alguna medida, responsable de su conducta. Lo cual confiere
+a la persona una d ig n id a d que la distingue de todas las máquinas que puedan si­
+mular o superar los resultados de su actividad inteligente (Yela, 1987 c).
+25
+
+
+
+BIBLIOGRAFIA
+Aebli, H. (1980-1981). Denken: Das Ordnen des Tuns. Dos volúmenes. Sttutgart: Klett-Cotta.
+Anuario de P sicología (1993), núm . 56 . Universidad de Barcelona.
+B runer, J. S., G oodnow , J. J. y Austin , G. A. (1956). A Study o f Thinking. New York:
+
+Wiley.
+Carroll, J. B. (1993). Human cognitive abilities. Cambridge: Cambridge University Press.
+Chomsky, N. (1956). Three models of the description of language. IRE Transactions on In­
+
+formation Theory, 3, 113-12g.
+Chomsky, N. (1957). Syntactic Structures. The Hague: Mouton. (Estructuras sintácticas
+
+1974 . Madrid: Siglo XXI)
+D emetriou, A. y Efklides, A. (1994) . Intelligence, Mind and Reasoning. Amsterdam: North
+
+Holland.
+E ricsson, K.A. y Simón, H.A. (1984). Protocol Analysis. Cambridge: Cambridge University
+
+Press.
+F odor , J . (1968). Psychological explanation: An introduction to the Philosophy o f Psy-
+
+chology. N. Y.: Random House. (La explicación psicológica. 1980, Madrid: Cátedra).
+F odor , J. (1975). The language o f thought. N. Y.: Harper and Row. (El lenguaje del p en ­
+
+samiento. 1984. Madrid: Alianza).
+F odor , J . (1981). Representations. Cambridge: The MIT Press .
+F odor , J. (1983). The modularity o f mind. Cambridge: MIT Bradford Books. (La modula-
+
+ridad de la mente, 1986, Madrid: Morata)
+F odor , J . (1988). Psychosemantics. The Problem o f meaning in the Phylosophy o f mind.
+
+Cambridge: The MIT Press.
+F odor , J. y Pylyshyn, Z.W. (1988). Connectionism and cognitive architecture: a critical
+
+analysis. Cognition, 28, 3-71.
+He b b , D.O. (1949). The organizaron ofbehavior. N. Y.: Wiley.
+He b b , D.O. (1960) The American revolution. American Psychologist, 15, 735-745.
+H inton, G.A. y Anderson, J. A. tl981). Parallel models o f associative memory. Hillsdale, N.
+
+J.: LEA.
+Holyoax, K.J. y Spellman, B.A. (1993). Thinking. Ann. Review of Psychol., 44, 265-315.
+J ohnson-Laird , P. N. (1988). The C om pu ter a n d th e m in d : a n in tr o d u c tio n to co g n itiv e
+S cien ce. Cambridge: Harvard Univ. Press. (El o r d e n a d o r y la m en te, 1990, Barcelona.
+
+Paidós.
+J ournal of E ducational P sychology. Intelligence and its measurement: A symposium, 1921,
+
+núm. 12.
+Marina, J.A. (1993) Teoría de la inteligencia creadora. Barcelona: Anagrama.
+Martínez Arias, R. y Y ela, M. (eds., 1991). Pensamiento e Inteligencia. Vol. 5 del Tratado
+
+de Psicología General de Mayor, J. y Pinillos, J. L. (eds.). Madrid: Alhambra.
+Mayor , J. (1993). El solucionador general de problemas de H. A. Simón. En Quiñones, E.,
+
+Tortosa, F. y Carpintero, H. Historia de la Psicología. Textos y Comentarios. 574-582.
+Madrid: Tecnos.
+26
+
+
+
+Mayor , J., Suengas, A. y G onzález Marques, J. (1993). Estructuras metacognitivas. Madrid:
+Síntesis.
+Mc Culloch, W. y Pitts , W (1943). A logical calculus o f ideas inm anent in nervous activity.
+
+BullMatbemat. Biophysics, 5, 115-155.
+Miller, G. A., (1956). The magical num ber seven, plus or minus two; some limits on our
+
+capacity forProcessing information. Psycbological Rev. 63, 81-97.
+Miller, G. A. (1984). Informávoros. En Machlup, F. y Mansfield, V. (eds.) The study o f in­
+
+formation: interdisciplinary messages. N. Y.: Wiley
+Miller, G.A., G alanter, E. y P ribram, K.H. (1960). Plans and the structure o f behavior. N.
+
+Y.: Holt. (Planesy la estructura de la conducta, 1983. Madrid: Debate).
+Montpellier, G. de (1977). Q u’est-ceque Tintelligence?. Bruxelles: Academie Royale de Bel-
+
+gique.
+Morton , J. (1969). Interaction of information in word recognition. Psycbological Rev., 76,
+
+165-178.
+Neff , W.D., D iamond, J.F. y Y ela, M. (1956). Role ofthe auditory cortex in discrimination
+
+requiring localization o f sound in space. J .o f Neurophysiology, 19, 500-512.
+Neumann, J. von (1958). The Computer a n d the b ra in . New Haven: Yale University Press.
+Newell, A. y Simón, H.A. (1956). The logic theory machine. IRE Transactions on Informa­
+
+tion Theory, 3, 61-79Pylyshyn , Z.W. (1984). Computation and cognition. Toward a foundation o f cognitive
+
+Science. Cambridge: MIT Press. (Computación y conocimiento. 1988. Madrid: Debate).
+Resnick, L. B. (Ed. 1976). The nature o f intelligence. Hillsdale, N.
+
+LEA.
+
+Riviere, A. (1991). Objetos con mente. Madrid: Alianza.
+Riviere, A. (1993). Las multitudes de la mente. Anuario de Psicología, 56, 112-144.
+Rosenblatt, F. (1962). Principies o f Neurodynamics. N. Y.: Spartan.
+Rumelhart,D.E., McClelland, J.L. y PDP Research G roup. (1986). Parallel Distributed Pro­
+
+cessing. Explorations in the microstructure o f cognition. Cambridge: The IMT Press.
+(Introducción al Procesamiento Distribuido en Paralelo. 1992. Madrid: Alianza).
+S earle, J.R. (1992). The rediscovery ofthe mind. Cambridge: MIT Press.
+S hannon , C.E. y W eaver , W. (1949). The mathematical theory o f communication. Urbana:
+
+Univ. of Illinois Press.
+S imón, H.A. (1980). Cognitive Science: The newest Science o f the artificial. Cognitive Scien­
+
+ce, 4, 33-46.
+S imón, H.A. (1981). Studying hum an intelligence by creating artificial intelligence. Ame­
+
+rican Scientist, 69, 3, 300-309.
+Simón, H.A. y Kaplan, C.A. (1989). Foundations o f cognitive Science. En POSNER, M.L. (ed.)
+
+Foundations o f cognitive Science. Cambridge: The MIT Press.
+Sternberg , R.J. y D etterman, D. K. (eds., 1986). What is intelligence,. Contemporary view-
+
+points on its nature a nd definition. Norwood: Ablex (¿Qué es la inteligencia?, 1988,
+Madrid: Pirámide).
+SternberG, R.J. (ed., 1982, 1988). Handbook o f hum an intelligence. Cambridge: Cambrid­
+
+ge Univ. Press.
+27
+
+
+
+Sternberg, R.J. (1982-1988). Advances in the psychology o f human Intelligence. Hillsdale,
+
+N.J.: LEA. Vol. 1, 1982; 2, 1985; 3, 1986; 4, 1988.
+T uring, A.M. (1936). On computable numbers. Proceeding oftheLondonMathematlcalSo-
+
+ciety, 42, 230-265.
+T uring, A.M. (1950). Computing machinery and intelligence. Mind, 59, 433-460. Reedita­
+
+do en Anderson, A.R. (ed.), 1984. Controversia sobre mentes y máquinas. Barcelona:
+Tusquets.
+V ega, M. de (1993). Visita al país de Turing. ¿Un viaje de ida y vuelta?.Anuario de Psico­
+
+logía, 56, 102-106.
+W iener, N. (1948). Cybernetics. N.Y.: Wiley.
+Y ela, M. (1956). Psicología de las aptitudes. Madrid: Gredos.
+Y ela, M. (1981 a). Ambiente, herencia y conducta. En Jiménez Burillo, F. (ed.) Psicología
+
+y Medio. Madrid: MOPU. 69-104.
+Y ela, M. (1981 b). El progreso de la inteligencia: Evolución biológica y desarrollo cultu­
+ral. Anales de la Real Academia de Ciencias Morales y Políticas, 33, 58, 29-60.
+Y ela, M. (1982). Inteligencia, estructuras ontogenéticas y dimensiones factoriales. Rev. de
+
+Psicol. Gral. y Aplicada, 37, 215-227.
+Y ela, M. (ed. 1987 a). Estudios sobre inteligencia y lenguaje. Madrid: Pirámide.
+Y ela, M. (1987 b). Sobre las raíces de la conducta humana. Temas de Psicología IV. Sala­
+
+manca: Univ. Pontificia de Salamanca.
+Y ela, M. (1987 c). Reflexiones de un psicólogo sobre el sentido de la conducta humana. Sa­
+
+lamanca: Univ. Pontificia de Salamanca.
+Y ela, M. (1992). Conducta animal y metaconducta humana. I Congreso Internacional: El
+
+hombre y los animales de compañía. Barcelona: Fundación Purina. 17-35.
+
+28
+
+

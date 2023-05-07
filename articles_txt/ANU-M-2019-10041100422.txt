@@ -1,0 +1,464 @@
+ALGUNAS CONSIDERACIONES
+SOBRE LA PROBLEMÁTICA RELACIÓN
+ENTRE CEREBRO Y LIBERTAD
+Por el Académico de Número
+Excmo. Sr. D. Juan Arana Cañedo-Argüelles* 2
+
+Resumen: El tenor del discurso científico es poco propicio para justificar la idea de libertad, porque esta implica autonomía, mientras que lo
+que en definitiva busca la ciencia es heteronomía. Las disciplinas humanísticas están acostumbradas a sobrellevar este inconveniente, que no apareció
+en el horizonte de las ciencias naturales hasta que focalizaron su atención en
+la biología humana y más concretamente en el funcionamiento del cerebro.
+Sin embargo, la evolución reciente del frente más avanzado de la investigación abre perspectivas para evitar que entren en conflicto las nociones de
+necesidad y azar que las ciencias emplean con un sentido relevante de libertad humana.
+
+1. INTRODUCCIÓN. LIBERTAD Y CIENCIAS HUMANAS
+El tema de mi exposición no es inédito y sería presuntuoso prometerles que va a contener muchas novedades. No obstante, lo he elegido en
+primer lugar como recuerdo a nuestro querido compañero Mariano Álvarez,
+cuyo discurso de ingreso pronunciado en esta Academia el año 2007 versaba
+sobre: “El problema de la libertad ante la nueva escisión de la cultura”13. Con
+
+Sesión del día 28 de mayo de 2019.
+Mariano Álvarez Gómez, El problema de la libertad ante la nueva escisión de la cultura, Madrid,
+Real Academia de Ciencias Morales y Políticas, 2007.
+*
+
+1
+
+411
+
+
+
+aquel título apuntaba al segundo motivo que en estos momentos me anima.
+Se trata, en efecto, de abordar el asunto desde una perspectiva interdisciplinar, lo cual es obligado si se quiere profundizar en una cuestión que afecta
+tanto a la globalidad como a la intimidad de lo humano. Nuestra libertad es
+algo más que la desbocada pretensión de algunos entusiastas: constituye
+nada menos que la principal condición de posibilidad tanto de la ética como
+de la política. Seguramente por ello la mayor parte de las ciencias humanas,
+las que los alemanes denominaban antaño Kulturwissenshaften, presuponen
+la existencia de un elemento irreductible de autonomía en nuestro comportamiento, aunque esté mezclado de modo inextricable con toda una red de
+condicionamientos. Cabría decir que la psicología, la sociología, la historia y
+la economía, son ciencias en la medida que el hombre no es libre, ya que su
+cometido es desvelar las leyes que gobiernan su mente y comportamiento;
+pero al mismo tiempo son humanas en la medida que sí lo es, ya que la
+principal utilidad de conocer dichas leyes consiste precisamente en ponerlas
+al servicio de los supremos intereses de la especie, o sea: someterlas a nuestra
+libertad. En consecuencia, las disciplinas que cultivamos en esta casa encierran
+una paradoja, puesto que sus objetivos próximos están orientados a rebajar
+nuestras pretensiones de ser libres por completo, mientras que sus propósitos
+últimos consisten, muy al contrario, en ayudarnos a ser algo más libres de lo
+que éramos. Esta ambivalencia explica tal vez por qué los estudiosos del mundo físico consideran que nuestras ciencias son blandas y las suyas duras. Ellos,
+en efecto, no se ven afectados por un conflicto equiparable: exprimen al máximo la componente determinista de los objetos que estudian, y conceptúan la
+parte restante como mero azar, noción mucho menos perturbadora que la de
+libertad para cualquier investigador que se precie. ¿Por qué? Porque, como ya
+he comentado, el trabajo del científico consiste en buscar leyes. Durante mucho
+tiempo las leyes más codiciadas eran deterministas, incompatibles con la presencia en el objeto estudiado tanto de libertad como de azar. No obstante, a lo
+largo del siglo xix se produjo lo que Ian Hacking ha denominado la domesticación del azar 2, que sirvió para amalgamar la necesidad con el azar por medio
+de nociones tales como “leyes de los grandes números”, “dispersiones estocásticas”, o “proyecciones estadísticas”. La necesidad pura y el azar irreductible
+—o, como lo llama Mandelbot, “salvaje” 3— se han reconciliado por medio de
+la probabilidad, de manera que en la óptica de la ciencia actual las leyes de la
+naturaleza son en general leyes probabilistas, constituyendo las deterministas
+tan sólo un poco frecuente caso límite de aquéllas.
+
+2
+3
+
+pp. 14-20.
+
+412
+
+Ian Hacking, La domesticación del azar, Barcelona, Gedisa, 1991.
+Benoit Mandelbrot, «Del azar benigno al azar salvaje», Investigación y Ciencia, diciembre 1996,
+
+
+
+2. AZAR, NECESIDAD Y LIBERTAD
+Así pues, las ciencias de la naturaleza, sedicentemente duras, se han
+reconciliado con la presencia de ese azar atenuado que emerge cuando se considera una población de casos homólogos. Por supuesto, las ciencias sociales ya
+lo hicieron antes incluso que ellas. En otros trabajos he propuesto que tal azar
+atenuado o benigno no es sino una versión negativa de la idea de necesidad 4,
+puesto que equivale a prohibir —y por tanto a excluir necesariamente— grandes desviaciones de las probabilidades preasignadas a los casos que se van a
+registrar cuando el tamaño de la muestra es suficientemente grande.
+Podemos, en definitiva, extraer la conclusión de que no hay excesiva
+dificultad para conciliar la necesidad con el azar. De hecho, tanto las ciencias
+de la naturaleza como las del hombre lo hacen en su práctica cotidiana.
+A menudo se afirma que también hay compatibilidad entre el azar y la
+libertad. Si tal fuera el caso, el azar articularía la reconciliación de todos los factores considerados, y con su ayuda podríamos resolver la mayor parte de los
+conflictos teóricos que nos atenazan. Por desgracia, la solución no es tan simple.
+Vimos que para armonizar necesidad y azar hubo que redefinir el azar como una
+necesidad negativa que no afecta a los casos aislados, sino a agrupaciones estadísticamente representativas de ellos. Eso es lo que en definitiva hicieron Laplace,
+Poisson, Bayes, Galton, Boltzmann, Poincaré, etc. Sin entrar en detalles, cabría
+decir que necesidad y azar son compatibles a pesar de haber otorgado un sentido
+epistemológicamente fructífero tanto a un concepto como a otro. Sin embargo, la
+armonización de azar y libertad pasa por una trivialización de ambas nociones
+que las inutiliza para cualquier propósito teórico serio. En efecto: la libertad que
+auspicia el azar es tan solo la arbitraria determinación del caso aislado, siempre
+que no tenga lugar un efecto de contagio que arruine la estadística. Hasta el más
+tiránico gobernante puede otorgar libertad a sus súbditos en asuntos fútiles, o
+incluso en temas importantes siempre que sus efectos no sobrepasen un estrecho
+círculo. En determinada época, las autoridades de cierto país daban permiso a los
+ciudadanos para que se hicieran socios del club de fútbol que se les antojara e
+incluso les permitían hablar mal del gobierno en reuniones privadas con escasa
+concurrencia. Pero una libertad que merezca la pena no admite que la tutelen en
+la cuna, ni tampoco que se coarte su ulterior desarrollo. O lo que es igual: ni su
+origen es arbitrario, ni su despliegue inocuo. Por consiguiente, en principio la libertad ciertamente es compatible con el azar, pero cuando se profundiza en sus
+presupuestos y consecuencias ya no lo es tanto. De poco sirve entonces ese azar
+“benigno” que tan útiles servicios presta a la ciencia actuando como complemento de la necesidad positivamente determinista.
+
+4
+Juan Arana, Los sótanos del Universo. La determinación natural y sus mecanismos ocultos, Madrid, Editorial Biblioteca Nueva, 2012, pp. 146-148.
+
+413
+
+
+
+Desde otro punto de vista, anoto que ni siquiera hay incompatibilidad
+entre libertad y necesidad. Incluso sería legítimo decir que existe cierta afinidad
+entre ellas, porque la libertad introduce un elemento de determinación y nada
+tiene que ver con la indecisión o con echar la moneda al aire. Pero la necesidad
+de la decisión libre tiene, digámoslo así, nombre y apellidos; en cambio, la necesidad de la ley natural (tanto la determinista como la probabilista) es anónima;
+puede y debe ser expropiada al sujeto afectado. No soy libre para acelerarme a
+9,81 metros por segundo al cuadrado si me despeño desde un risco. Tampoco
+es de recibo que se me impute el impulso que me llevó a cometer una maldad,
+si provino de un exceso o defecto de cierta molécula en mi cerebro. Puede que
+ese cerebro sea mío, pero no lo son las acciones que genera cuando la bioquímica o cualquier otro tipo de protocolo legal consiguen explicarlas.
+
+3. CEREBRO VERSUS LIBERTAD
+El ejemplo que acabo de utilizar nos acerca a la clave del asunto. ¿Qué
+tienen que ver los cerebros con la libertad que reivindica para sí el homo sapiens? En principio parece que muy poco. Más bien se diría que cerebro y libertad disputan un protagonismo que, si recae en aquél, conllevaría la pérdida de
+ésta. ¿No resulta lógico negar que haya genuina libertad en seres cuyos pensamientos y decisiones dependen por completo de cómo funcionan sus cerebros?
+Si así fuera, no todas las ciencias naturales estarían libres de la paradoja que tan
+a menudo se plantea en las ciencias humanas. Recordemos una vez más cómo
+surge: cualquier ciencia se propone conocer los secretos del objeto que estudia,
+conocimiento que otorga poder sobre dicho objeto, siempre por supuesto que
+esté dentro de su radio de acción. Añado esta cláusula porque, por ejemplo, el
+desvelamiento de los misterios de la galaxia de Andrómeda, situada a un millón
+de años luz de nosotros, difícilmente nos permitiría conquistarla, ya que no hay
+forma de llegar hasta allí. En cambio, si el comportamiento de los agentes económicos estuviera regido por leyes inexorables, el habitante del planeta Tierra
+que consiguiera descubrirlas estaría en condiciones de controlar el proceso, con
+lo cual desbarataría la vigencia de tales leyes. Como observó Nicolás Gómez
+Dávila en uno de sus escolios: “Si existiesen leyes de la historia, su descubrimiento las abrogaría” 5. El único modo de desactivar este sinsentido es mantener
+incomunicados los sujetos que elaboran una investigación y aquellos sobre los
+que versa. En una ciencia natural típica el objeto investigado es objeto y nada
+más, pero en ciencias humanas (y en las naturales que nos tocan más de cerca)
+resulta que también es sujeto; digamos para aclarar los términos: “sujeto investigado”, que a veces además se comunica —cuando no se identifica— con el
+
+5
+
+1977, p. 196.
+
+414
+
+Nicolás Gómez Dávila, Escolios a un texto implícito II, Bogotá, Instituto Colombiano de Cultura,
+
+
+
+“sujeto investigador”. En una sesión académica reciente pregunté sobre este
+punto al profesor Díaz Nicolás y me confirmó que, en efecto, los que elaboran
+estadísticas procuran que los que contestan a las encuestas no se contaminen
+con el conocimiento que ayudan a generar. Lo cual es muy razonable, pero impide que la Humanidad, así con mayúsculas, pueda aprovechar a fondo los resultados de la ciencia sociológica; siempre tendrá que ser sólo una parte de ella
+la que consiga sacar tajada de verdades significativas acerca de otra parte.
+
+4. LAS CIENCIAS DURAS ANTE LA PARADOJA DE LA LIBERTAD
+Los científicos naturales con frecuencia se despreocupan de cuestiones
+así, considerándolas caldo de cabeza de filósofos o típicas preocupaciones de
+adolescentes inmaduros. Pero, muy al contrario, habría que responder que las
+ciencias “duras” no atisbaron la importancia del asunto mientras eran jóvenes y
+todavía les quedaba mucho terreno virgen por explorar. En cambio, de un tiempo
+acá los especialistas se preguntan si no estaremos cerca del fin de la ciencia 6. Los
+premios Nobel fantasean con teorías finales y cosas por el estilo 7. En esa tesitura,
+la naturaleza misma como un todo tendría que entrar a formar parte del objeto
+de la ciencia, y en tal caso ¿formaríamos parte de ella nosotros mismos? Si se
+responde que “sí”, la libertad se evaporaría y quedaríamos para siempre encerrados en las cárceles de cuerpos y cerebros completamente “naturalizados”. De
+optar por el “no”, la incongruencia de convertirnos al mismo tiempo en sujetos y
+objetos del conocimiento renacería con toda su crudeza dentro de las fronteras
+de las ciencias más rígidas. Las neurociencias constituyen el frente avanzado de
+ellas, y sus portavoces ya han sacado y expuesto ante el público consecuencias
+perturbadoras. Mariano Álvarez recogía en su discurso 8 el caso reciente de dos
+destacados especialistas alemanes, Gerhard Roth y Wolfgang Singer, que cuestionaron en los medios la legitimidad de juzgar y castigar a los delincuentes, lo cual
+obligó al presidente de la Sociedad Europea de Psiquiatría, Hennig Sass, a intervenir para desautorizarles 9. La historia no era nueva: ya en el siglo xviii el rey
+Federico Guillermo desterró al filósofo Christian Wolff cuando se le notificó que
+la filosofía determinista de aquel desautorizaba tomar cualquier medida punitiva
+contra los desertores del ejército prusiano 10. La tesis de que, en el fondo, fondo,
+no existe en el hombre nada que merezca de verdad ser llamado “libre”, conduce
+sin remedio a la doctrina del fatalismo, la cual ha sido coherentemente asumida
+6
+John Horgan, El fin de la ciencia. Los límites del conocimiento en el declive de la era científica,
+Barcelona, Paidós, 1998.
+7
+Steven Weinberg, Dreams of a Final Theory, New York, Vintage Books, 1994.
+8
+Mariano Álvarez Gómez, El problema de la libertad…, p. 23 y ss.
+9
+Christiane Gelitz, “No cabe una predicción fiable del acto criminal”, Mente y Cerebro, 43, 2010,
+pp. 41-43.
+10
+Leonhard Euler, Lettres à une princesse d’Allemagne, LXXXIV, Leonhardi Euler Opera omnia,
+Basel, Birkhäuser, III, 11, pp. 189-190.
+
+415
+
+
+
+por varias religiones y sistemas filosóficos. Pero no es habitual entre los científicos, aunque siempre hay algunos que han pechado con todas sus consecuencias.
+Albert Einstein 11 y Alan Turing 12 constituyen casos representativos. Pero es más
+frecuente que el hombre de ciencia lo sea también de acción, de manera que a
+veces saca la conclusión opuesta. Y no precisamente por la decisión heroica de
+identificar la libertad con el conocimiento de la necesidad, como propugnó antaño la filosofía estoica o la spinoziana. Muy al contrario, hay científicos deterministas para quienes el desvelamiento de las fuerzas ocultas que rigen nuestra
+conducta es el medio apropiado para acceder a la “auténtica” libertad. Un ejemplo paradigmático de esto lo ofrece el psicólogo conductista Burris Frederic Skinner, quien no ve ningún problema en declarar:
+Lo que necesitamos es una tecnología de la conducta. Podríamos solucionar
+nuestros problemas con la rapidez suficiente si pudiéramos ajustar, por ejemplo, el crecimiento de la población mundial con la misma exactitud con que
+determinamos el curso de una aeronave; o si pudiéramos mejorar la agricultura y la industria con el mismo grado de seguridad con que aceleramos partículas de alta energía... 13
+
+Quizá se piense que Skinner esquiva la aporía distinguiendo entre lo
+individual y lo colectivo: los grandes grupos humanos estarían tan determinados como las bolas de un juego de billar, mientras que el estudioso del comportamiento y el político que se deja instruir por él se situarían en un plano
+diferente. Tal solución sería desde luego incompatible con cualquier concepción democrática de la política; pero lo cierto es que este autor ni siquiera
+piensa en subterfugios de esta clase, sino que, en un “más difícil todavía”, trasmuta la ciencia de necesitante en liberadora, no parpadeando siquiera ante la
+incoherencia de hacer de ella una pescadilla que se muerde la cola:
+Si el hombre no tiene libertad de elección, si no es capaz de iniciar acción
+alguna que altere el río causal de su conducta, es como si no tuviera control
+sobre su destino. […] El hecho, sin embargo, es que los hombres controlan
+tanto su historia genética como su historia ambiental y en este sentido se controlan a sí mismos. La ciencia y la tecnología se ocupan de cambiar el mundo
+donde viven los hombres y los cambios que se hacen se deben a sus efectos
+sobre la conducta humana. Lejos de estar en un callejón sin salida, hemos
+llegado al estadio en que el hombre es capaz de determinar su futuro con un
+orden de efectividad enteramente nuevo 14.
+
+11
+Juan Arana, “Ética y panteísmo en la vida y obra de Albert Einstein”, en: Juan Arana (Editor),
+La filosofía de los científicos, Sevilla, Thémata, vol. 14, 1995, pp. 181-196.
+12
+Paul Strathern, Turing y el ordenador, Madrid, Siglo XXI, 1999, pp. 76-77.
+13
+Burris Frederic Skinner, Más allá de la libertad y la dignidad, Barcelona, Fontanella, 1973, p. 11.
+14
+Burris Frederic Skinner, “El hombre”, en: Registro acumulativo. Selección de la obra de Skinner
+realizada por el propio autor, Barcelona, Fontanella, 1975, p. 63.
+
+416
+
+
+
+La ventaja de Skinner es que, debido a su ingenuidad, pone en primer
+plano una aporía que muchos otros se empeñan en barrer debajo de la alfombra: Si fuésemos libres de verdad no podríamos conocernos científicamente a
+nosotros mismos por completo; mas, si no lo fuésemos, tampoco, porque dicho
+conocimiento nos liberaría en sentido fuerte y ello supondría incurrir en contradicción. El dilema parece insoluble.
+
+5. LA ALTERNATIVA DUALISTA
+¿Qué hacer entonces? ¿Condenarnos al agnosticismo respecto a nosotros mismos? Entre los fundadores de la ciencia moderna René Descartes fue
+sin duda alguna quien poseía mayor envergadura filosófica, y para no tirar la
+toalla definitivamente en un asunto tan capital reintrodujo, o más bien reinventó, el dualismo ontológico, de acuerdo con el cual convivirían dentro de cada
+hombre y mujer dos entidades o sustancias separadas, una de ellas sometida
+por completo a las leyes de la mecánica y otra dotada de genuina libertad. Esta
+propuesta ha tenido la rara virtud de concitar el rechazo categórico de casi
+todos. En efecto, hay que tener mucho coraje —Karl Popper ha sido uno de
+los pocos en mostrarlo— para asumir una propuesta tan controvertida. Antonio Damasio, distinguido neurocientífico, ha elegido el título “El error de Descartes” para el popular libro que resume su pensamiento 15. Algunos enemigos
+de la religión no muy duchos en cultura filosófica confunden ese dualismo con
+la doctrina cristiana acerca del alma y el cuerpo, la cual poco tiene que ver con
+el asunto, porque los que la formulan suelen presentar cuerpo y alma respectivamente como materia y forma del hombre concebido como sustancia única.
+Dejando a un lado los groseros malentendidos y abusivas simplificaciones que
+pavimentan este capítulo de la historia del pensamiento, lo cierto es que la
+“solución” cartesiana no era en el fondo tan mala. La lástima es que, en efecto,
+resultó falsa. Pero tuvo el mérito de definir con precisión el campo en el que
+la naciente ciencia concentró su esfuerzo clarificador y supo conjurar por mucho tiempo el peligro de un monismo irracionalista que durante el Renacimiento estuvo a punto de poner toda la cultura de Occidente en manos del
+hermetismo, la alquimia, la magia, la cábala y el vitalismo 16. Otro mérito no
+despreciable de su dualismo es haber conseguido mantener alejado el sujeto
+cognoscente del objeto conocido, al menos hasta que la Interpretación de Copenhague de la mecánica cuántica lo volvió a meter dentro de una ecuación
+física, en este caso la de Schrödinger 17.
+
+15
+
+Antonio Damasio, El error de Descartes. La emoción, la razón y el cerebro humano, Barcelona,
+
+Crítica, 2009.
+Frances A. Yates, Giordano Bruno y la tradición hermética, Barcelona, Ariel, 1983.
+P. C. W. Davies; J. R. Brown, El espíritu en el átomo. Una discusión sobre los misterios de la física cuántica, Madrid, Alianza, 1989.
+16
+
+17
+
+417
+
+
+
+6. UNA VÍA “SEMIKANTIANA”
+Desestimemos pues, a pesar de todo y —por lo que a mí se refiere,
+con cierto pesar— la propuesta cartesiana. Tampoco creo que la aristotélica
+sea del todo satisfactoria, por razones que no voy a explicar en este momento,
+y mucho menos la platónica. ¿Hay otras opciones? Cómo no: el monismo naturalista, versión puesta al día del viejo materialismo; pero arrastra entre otros
+el inconveniente de meterse sin remedio en el callejón sin salida antes descrito. ¿Qué nos queda entonces, antes de darnos por vencidos? A mi juicio merecería la pena seguir explorando una vía que me atrevo a llamar “semikantiana”.
+Es kantiana, porque sustituye el dualismo ontológico de Descartes por un
+dualismo cognitivo. O sea: no distingue entre la “cosa” corpórea y la “cosa”
+mental, sino entre la “apariencia” de las cosas y su “realidad oculta”. La libertad
+quedaría ubicada en esa dimensión inaccesible al conocer. El saber riguroso lo
+sería del mundo fenoménico y por eso no encontraría en sus pesquisas otra
+cosa que necesidad.
+Ahora bien, la fórmula que defiendo sólo es kantiana a medias, porque
+—voy a decirlo con brusquedad— el filósofo alemán acertó tanto en el tema de
+la libertad como se equivocó en el de la naturaleza. Su error se debió a que
+estaba demasiado fascinado por los éxitos de la física newtoniana, interpretados
+además con la clave del racionalismo wolffiano 18. No veía en el mundo de los
+fenómenos otra cosa que necesidad causal, recogida en la ciencia natural por
+la presunta existencia dentro de ella de juicios sintéticos a priori, juicios que a
+la hora de la verdad no han aparecido por ninguna parte. Por consiguiente, el
+mundo de los fenómenos está mucho menos férreamente entrelazado de lo que
+creyeron Kant y, en seguimiento suyo, Schopenhauer y tantos otros. Si las apariencias mundanas no están sometidas de un modo tan excluyente a la versión
+física del principio de razón suficiente, entonces es innecesario mantener por
+completo escondida la libertad, como juzgó imprescindible el fundador del
+idealismo crítico 19. Diciéndolo de modo metafórico, la libertad podría estar discretamente asomada en algunas ventanas de la fachada visible del universo. Su
+presencia sería entonces detectable, y no habría que relegarla a mero postulado
+de la razón práctica. Detectable sí, pero ¿a través de qué instrumento? Directamente, el de la introspección, que tanto juego ha dado de sí desde Agustín de
+Hipona para acá. Cierto es que, como sostiene Kant, no podemos “construir” los
+conceptos de la experiencia interna, ni por tanto formular juicios apodícticos
+acerca de ella. Pero, en contra de lo que él pretendía, tampoco existen juicios
+de ese tipo que se impongan a la experiencia externa, lo cual significa que ya
+no dependemos obligatoriamente de ella para teorizar el mundo fenoménico.
+
+Juan Arana, “Kant y las tres físicas”, Reflexión, núm. 1, 1990, pp. 41-56.
+Juan Arana, Los filósofos y la libertad. Necesidad natural y autonomía de la libertad, Madrid,
+Síntesis, 2005, pp. 105130.
+18
+
+19
+
+418
+
+
+
+Así se abre la posibilidad de que la libertad insinúe tímidamente su presencia
+dentro del mundo sensible, como voy a esbozar de modo sucinto para concluir
+la presente intervención.
+
+7. CEREBRO Y ACTIVIDAD MENTAL
+El cerebro es la parte del cuerpo humano más directamente relacionada con la vida mental. Sin embargo, y otra vez de acuerdo con Kant, no debiéramos confundir su dimensión fenoménica o aparente, con la realidad que denotamos a partir de lo que “vemos de” y “averiguamos acerca de” ella. Expresado
+grosso modo, no es lo mismo el “cerebro aparente” que “el cerebro real”. Lo que
+sobre el cerebro nos puede decir el anatomista y el fisiólogo no agota ni mucho
+menos lo que en sí mismo el cerebro sea. Tampoco lo que acerca de sus partes
+enseñan el bioquímico, el químico o el físico. Ahora bien, y contra Kant, eso que
+acabo de llamar “cerebro aparente” tampoco se resuelve en una simple acumulación de relaciones causales deterministas. No lo hace según lo que ahora mismo sabemos —esto es evidente—, pero tampoco tiene por qué hacerlo en el
+más lejano porvenir. Ahí está la raíz de la “rectificación” que debe imponerse a
+Kant: él encierra la libertad en una inalcanzable “cosa en sí” que en modo alguno repercute en el “cerebro aparente”, porque supone que éste último se encuentra sometido por completo a la necesidad natural. Sin embargo, la ciencia
+postkantiana ha encontrado que nada en este mundo se pliega del todo a la
+“necesidad natural”, de manera que tampoco es obligado pensar que el cerebro
+“aparente” sea refractario e incompatible con la noción de libertad.
+¿Qué dice la ciencia contemporánea sobre el cerebro? Enseña que contiene varias decenas de miles de millones de neuronas, amén de muchas otras
+células que les sirven de soporte y protección. Cada neurona tiene una estructura muy ramificada y puede establecer miles de conexiones con otras neuronas.
+Su actividad más característica es generar, a un ritmo que puede llegar a cientos
+de veces por segundo, pulsos eléctricos que viajan a lo largo del eje principal de
+su anatomía y dependen del tránsito selectivo de iones sodio, calcio y potasio
+hacia y desde el medio intercelular. En cada conexión —o sinapsis— estos pulsos dan lugar a procesos químicos que activan o inhiben descargas semejantes
+en las neuronas vecinas. Todo ello no dejaría de ser un juego intrascendente,
+aunque energéticamente costoso, si no fuera porque desde las terminales sensitivas se introducen en el sistema muchos pulsos codificados que contienen información, los cuales estimulan la actividad cerebral y suscitan como respuesta
+nuevas descargas coordinadas que se envían a todos los tejidos a través de la
+médula espinal y controlan el comportamiento del organismo.
+Así llegamos al punto crucial de la discusión: ¿Qué tiene que ver
+todo ese vaivén con la libertad? Física, química y bioquímica explican gran
+
+419
+
+
+
+parte de los procesos que acabo de resumir. La fisiología animal y humana
+aclara mucho de lo que resta, a lo cual hay que añadir la dilucidación aportada por la neurociencia y la psicología. ¿Queda algún hueco disponible
+después de este reparto de competencias? Conviene tener en cuenta que hay
+muchas redundancias en lo que enseñan unas ciencias y otras; pero, sobre
+todo, no me parece que la pregunta esté bien planteada si queremos dilucidar lo que de verdad importa. El caso considerado no es como el dominó,
+cuyas fichas tienen que ser repartidas por completo antes de empezar a jugar. Tiene más parecido con la preparación de un guiso, al que siempre se
+puede añadir un nuevo condimento para darle un gusto diferente. Por lo que
+a mí concierne, el conjunto de ciencias que se ocupan del encéfalo podría
+dar cuenta del 99,99 % de la función cerebral sin afectar para nada a la presencia o no de libertad en el hombre. Otra cosa sería si consiguiera llegar al
+100 %, pero ya hemos visto que tal eventualidad está descartada en el horizonte de la ciencia presente, así como de la previsible. El determinismo físico
+completo, con el que muchos investigadores soñaron más o menos desde
+Laplace a principios del siglo xix hasta Einstein a mitad del XX, ya no seduce
+a la comunidad científica 20. En cualquier proceso queda siempre un último
+resto de determinación que se asigna al azar en todas sus formas, muy en
+particular al azar termodinámico, “ruido de fondo” sobre el que destacan las
+leyes de la naturaleza, concebidas casi en exclusiva de modo probabilista.
+Las indeterminaciones que contempla la mecánica cuántica son aún más irreductibles que las fluctuaciones termodinámicas, pero también demasiado minúsculas cuando contemplamos el comportamiento de miles de millones de
+átomos. Por eso muchos neurocientíficos de hoy, tan negacionistas de cualquier sentido fuerte de libertad como solían serlo los físicos de ayer, piensan
+que, aunque haya indeterminaciones en el cerebro, no le sirven de nada a la
+libertad 21. Como afirma Daniel Dennett, portavoz autorizado del naturalismo
+contemporáneo:
+La mayoría de biólogos piensa que en el cerebro los efectos cuánticos se cancelan, que no hay razón para pensar que se explotan de alguna forma. Por
+supuesto que existen; hay efectos cuánticos en nuestro coche, nuestro reloj y
+nuestro ordenador. Pero la mayoría de cosas —la mayoría de objetos macroscópicos— son, como si dijéramos, indiferentes a los efectos cuánticos. No los
+amplifican, no giran alrededor de ellos 22.
+
+20
+Juan Arana, “Los múltiples rostros del determinismo”, en: Claudia E. Vanney, Olimpia Lombardi
+(eds.), Fronteras del determinismo científico. Filosofía y ciencias en diálogo, Madrid, Biblioteca Nueva, 2015,
+pp. 23-39.
+21
+“La mecánica cuántica ha sido el refugio de los defensores de la existencia de la libertad, con
+el argumento de que en la microfísica no existe el determinismo. Pero como explicaremos después, la indeterminación es aún peor, porque deja la libertad al azar.” Francisco J. Rubia, El fantasma de la libertad. Datos
+de la revolución neurocientífica, Barcelona, Crítica, 2009, p. 13.
+22
+Daniel Dennett, en: John Brockman (ed.), La tercera cultura. Más allá de la revolución científica, Barcelona, Tusquets, 1996, p. 235.
+
+420
+
+
+
+8. LIBERTAD, MECÁNICA CUÁNTICA Y TEORÍAS DE LA COMPLEJIDAD
+Cancelarse o no cancelarse: he ahí la cuestión. Los fundadores de la
+mecánica cuántica idearon el principio de correspondencia para explicar por
+qué el indeterminismo de las transiciones cuánticas no emerge en el mundo
+macroscópico, aunque hay circunstancias especiales en que sí lo hace, como de
+modo paradigmático revela el ejemplo del gato de Schrödinger. Resulta llamativo que una buena parte de aquellos pioneros sostuviera que en biología la
+amplificación de los efectos cuánticos es bastante frecuente. Así pensaban Niels
+Bohr 23 y en especial Pascual Jordan, quien dedicó un libro al Secreto de la vida
+orgánica, donde afirmaba cosas como la siguiente:
+…el organismo vivo posee una estructura que recuerda la de un amplificador,
+en el sentido de que debe existir un comando gracias al cual los actos microfísicos aislados dirigen las reacciones del organismo 24.
+
+Es hora de ir concluyendo y no puedo detallar los pormenores del litigio. Diría que para resolverlo habría que constatar, en primer lugar, si realmente hay eventos imprevisibles en las funciones del cerebro que subyacen a las
+acciones que presumimos libres y, en segundo término, si existen indicios plausibles de que dichos eventos se amplifiquen en lugar de disolverse en la turbulencia termodinámica. Sobre la primera cuestión podemos ser muy categóricos:
+la apertura y cierre de los canales iónicos en las membranas celulares, la ruptura de las vesículas sinápticas y otros muchos aspectos de la actividad electroquímica neuronal, se resuelven en definitiva en transiciones cuánticas. Todo el
+mundo reconoce esto, ahora bien: ¿se amplifican? Tampoco resulta difícil reconocerlo. El procedimiento por el que el cerebro evita que su actividad se vuelva caótica (un poco como le ocurre al corazón cuando entra en fibrilación)
+consiste en propiciar el disparo coordinado de agrupaciones que comprenden
+millones de neuronas, cuyas descargas se acompasan al unísono durante periodos variables. Son las denominadas “asambleas de neuronas” 25. La neurociencia
+no ha conseguido aún desentrañar los más íntimos secretos del mecanismo que
+las produce y es más que plausible que nunca lo conseguirá del todo, porque
+en su origen hay “cuellos de botella” que apuntan claramente a singularidades
+irrepetibles. Francis Crick, destacado exponente del materialismo mental lo reconoce abiertamente:
+Para las neuronas, es probable que el mecanismo sea del tipo “el ganador se lo
+lleva todo” (como en una elección presidencial), es decir: muchas neuronas compiten entre sí pero solo gana una (o unas pocas), lo cual quiere decir que se
+Niels Bohr, Física atómica y conocimiento humano, Madrid, Aguilar, 1964, pp. 116 y ss.
+Pascual Jordan, La physique et le secret de la vie organique, Paris, Albin Michel, 1959, p. 128.
+25
+Christof Koch; Susan Greenfield, “¿Cómo surge la conciencia?”, Investigación y Ciencia, Diciembre 2007, p. 57.
+23
+24
+
+421
+
+
+
+dispara más vigorosamente o de una determinada forma mientras que las demás
+se ven obligadas a dispararse más despacio o a no dispararse 26.
+
+Visto desde una perspectiva más amplia, el caso presenta los típicos
+rasgos de los sistemas dinámicos complejos con alta sensibilidad a las condiciones iniciales. Así se produciría una curiosa simbiosis, hasta el momento poco
+estudiada, entre las dos grandes corrientes de pensamiento científico de vanguardia que han echado por tierra los viejos paradigmas de la ciencia decimonónica. Ya había alertado sobre esta inevitable interacción Murray Gell-Mann 27,
+el creador de la teoría de los quarks. De este modo, mientras la mecánica cuántica abriría una brecha en el muro de la causalidad física, otras teorías independientes, como las del caos determinista, ensancharían la fisura. Por supuesto,
+todo ello no da lugar ni mucho menos a una “física de la libertad”, empeño que
+desde mi punto de vista carece de sentido 28. Precisamente el error de Henri
+Bergson y otros filósofos consistió en hablar de “energía espiritual” y cosas parecidas 29, expresiones tan incongruentes como decir “hierro de madera”. La libertad no precisa de una justificación “científica” ni revestirse de disfraces prestados por la ciencia natural; lo único que reclama de sus defensores es que
+reduzcan a proporciones justas las pretensiones explicativas de los científicos y
+las osadas generalizaciones de los filósofos naturalistas.
+
+26
+Francis Crick, La búsqueda científica del alma. Una revolucionaria hipótesis para el siglo xxi,
+Madrid, Debate, 1995, p. 295.
+27
+“Pero la cuestión comienza a aclararse gracias al trabajo de diversos físicos teóricos, entre ellos
+Todd Brun, uno de mis discípulos. Sus resultados parecen indicar que, para muchos propósitos, es útil contemplar el caos como un mecanismo que amplifica a escala macroscópica la indeterminación inherente a la
+mecánica cuántica.” Murray GellMann, El quark y el jaguar. Aventuras en lo simple y lo complejo, Barcelona,
+Tusquets, 1998, p. 43.
+28
+Juan Arana, “La imposible física de la libertad.” en: Thémata, 32, 2004, pp. 253-264.
+29
+Juan Arana, Los filósofos y la libertad…, pp. 145-162.
+
+422
+
+

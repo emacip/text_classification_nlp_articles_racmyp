@@ -1,0 +1,310 @@
+LA CRISIS Y LA NUEVA AGENDA REGULADORA
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez*
+
+La crisis financiera iniciada hace tres años, la más intensa que ha experimentado la economía mundial desde la de 1929, ha provocado una profunda revisión crítica del funcionamiento del sistema financiero mundial —de los mercados, los agentes y las autoridades— y ha generado un intenso debate internacional político y
+económico, que ha cristalizado en una amplia agenda reformadora de la regulación
+financiera mundial. Existen muchos debates parciales aún abiertos y de iniciativas
+que aún no han cuajado y que no se sabe aún cómo terminaran plasmándose en la
+práctica. También se ha constatado desde el principio una actividad importante de
+los grupos de presión económica radicalmente contrarios al trasfondo de la nueva
+regulación que, en lo esencial, se basa en el principio, constatado en la crisis, de que
+la combinación de mercado y autorregulación no garantiza, en contra de lo sostenido por los neoliberales, ni la eficiencia ni la deseabilidad social del funcionamiento
+en el caso de los mercados financieros.
+No garantiza la eficiencia porque ésta requeriría información completa y,
+sobre todo, simétrica. Esto quiere decir, en términos menos técnicos, que el comprador de un activo financiero complejo —v.gr: una cesta de activos heterogéneos de
+difícil valoración o de cualquier producto estructurado— debe tener sobre el mismo
+exactamente igual información que el emisor del activo. Información que abarca
+numerosos aspectos: solvencia del emisor, grado de subordinación del activo, liquidez real del mismo, tipo de garantía si existe y un largo etcétera. Es decir, debe disponer de la información necesaria para hacer una estimación precisa y competente
+de la distribución de probabilidad de las ganancias derivadas de la adquisición del
+
+* Sesión del día 12 de abril de 2011.
+
+331
+
+
+
+activo. Como es obvio, incluso para cualquiera que haya comprado una acción de
+una gran compañía, esto no ocurre. O, por ejemplo, resulta imposible que un banco
+que concede un crédito a una nueva empresa conozca la situación y perspectivas de
+ésta tan bien como ella misma. Por tanto, los mercados financieros con información
+asimétrica —es decir, la inmensa mayoría de los relevantes— dan lugar a asignaciones ineficientes.
+Pero, además, es que aunque fuera posible un funcionamiento eficiente de
+los mercados financieros, ni siquiera esto aseguraría que sus resultados fueran deseables desde el punto de vista social. La dilatada e intensa crisis financiera que sufrimos desde hace ya más de tres años es un buen ejemplo de ello: el funcionamiento
+de los mercados financieros puede dar lugar a un resultado que implique elevados
+costes sociales porque el grado de inestabilidad que incorpore genere un elevado
+riesgo sistémico que, de materializarse, exija destinar cuantiosos recursos tanto privados como públicos a su solución.
+La crisis financiera actual ha cursado con dos características cuya intensidad
+no había sido experimentada en crisis anteriores, desde la de 1929: el efecto dominó
+y la sequía de muchos mercados financieros.
+El efecto dominó viene provocado por el hecho de que los activos emitidos por una entidad de crédito, una institución de inversión colectiva o cualquier
+empresa que preste servicios de inversión, son adquiridos por otras instituciones
+financieras, de forma que la pérdida de valor de un activo puede generar una cadena
+de pérdidas que termine afectando a la solvencia de empresas no expuestas de forma
+directa al riesgo de los activos. Esto ha sido así siempre, y lo seguirá siendo, pero la
+intensidad del contagio de la crisis actual se ha debido, esencialmente, al crecimiento
+exponencial de la técnica de titulización de activos, consistente en el empaquetamiento de activos diversos —tanto financieros como inmobiliarios— y la emisión de
+bonos sobre los paquetes con un doble resultado peligroso desde el punto de vista
+de la estabilidad.
+El primero que los paquetes de activos titulizados iban siendo progresivamente más complejos y difíciles de valorar. Esto, por una parte, hacía que el valor
+de los bonos emitidos fuera determinado por agencias especializadas que, como es
+bien sabido, hicieron mal su trabajo, sobrevalorando con carácter general las titulizaciones. Lo que, a su vez, trajo consigo dos efectos negativos. El primero, que los
+precios no cumplían su papel de indicadores correctos del valor de los bonos. El
+segundo, que al ser activos muy complejos, fueron adquiridos mayoritariamente por
+instituciones con el objeto de mantenerlos hasta su vencimiento, es decir, se adquirían para mantener a largo plazo en las carteras de los adquirentes, de forma que la
+liquidez de dichos activos era muy reducida.
+
+332
+
+
+
+El segundo aspecto favorecedor de la inestabilidad fue que las titulizaciones generaron grados de apalancamiento muy elevados, lo que hacía que el potencial efecto de contagio en caso de crisis fuera muy alto y creciente, como puso de
+manifiesto el estallido de la crisis iniciado en un parte modesta del mercado hipotecario estadounidense.
+La segunda característica privativa de la crisis ha sido que desde su
+comienzo trajo consigo la práctica desaparición de algunos mercados financieros.
+Inicialmente los mercados Interbancarios que, pese a las cuantiosas inyecciones de
+liquidez de los principales bancos centrales del mundo, tardaron muchos trimestres
+en recuperar una cierta normalidad. Pero, más grave aún, la sequía de los mercados
+de renta fija privada, que prácticamente desaparecieron y, tres años más tarde, aún
+no han recuperado la normalidad.
+La sequía de ciertos mercados no es sino la manifestación de la desconfianza
+de los agentes que en ellos operan respecto a su correcto funcionamiento y la falta
+de confianza en los mercados apunta hacia la insuficiente transparencia de los mismos, llegando a asegurarse con cierta ironía, que en los mercados de productos estructurados antes de la crisis los emisores vendían activos cuyo valor desconocían a compradores que no sabían lo que adquirían. Y parece claro que la falta de transparencia
+ha sido la causa principal de la sequía de los mercados, ya que los que han mantenido un comportamiento normal, en el sentido de seguir funcionando y realizando
+transacciones, han sido los más transparentes —renta variable y deuda pública— y
+los desaparecidos han sido los más opacos —renta fija privada y titulizaciones.
+De entre los numerosos temas objeto de debate regulatorio he elegido
+cinco. Los dos primeros son de carácter más general porque se refieren uno al papel
+de la transparencia en la mejora del sistema financiero y el otro a la estabilidad financiera. Los tres últimos son algo más específicos pero, en todo caso, de gran importancia para que no vuelvan a repetirse crisis como la actual.
+El primer tema es la importancia de la mejora de la transparencia del sistema
+financiero en su conjunto. Como ya he comentado, la falta de transparencia ha sido
+una causa importante de la crisis actual y trataré el tema a través de tres ejemplos.
+El primero, muy relevante desde la perspectiva de los inversores minoritarios no cualificados, es la emisión de productos financieros complejos. La Directiva
+de Folletos regula los contenidos básicos de la información que el emisor debe poner
+a disposición del mercado cuando trata de colocar un instrumento financiero en el
+mismo. Pero, con frecuencia, el folleto no es un instrumento útil para informar al
+potencial inversor, porque dado su tamaño el no cualificado no lo lee, lo mismo que
+sucede con el folleto reducido que, pese a su nombre, sigue siendo muy voluminoso.
+Con frecuencia la cantidad de información que se pide parece más bien diseñada con
+
+333
+
+
+
+el objetivo de liberar de responsabilidades a los emisores y supervisores que de
+informar eficazmente al inversor no cualificado. La tendencia razonable debería ser
+la confección de folletos mínimos (trípticos) en que aparecieran solo las características básicas del instrumento —valoración de experto, liquidez, aseguramiento, condiciones de amortización, en su caso convertibilidad, etc.— acompañadas de ejemplos de posible rentabilidad, al menos en dos escenarios extremos, y de los riesgos
+fundamentales del emisor ordenados por su probabilidad de ocurrencia. Menos información, menores costes para el emisor, pero más seleccionada y comprensible. Las
+carencias podrían, en su caso, solventarse con advertencias del supervisor en el propio tríptico.
+El segundo ejemplo es el de la valoración de activos complejos o de emisiones de empresas financieras nuevas, un tema especialmente relevante en la actualidad en España con la creación de Sistemas Institucionales de Protección (SIPs), las
+llamadas fusiones frías, por parte de muchas Cajas de Ahorros, que implican la aparición de un banco.
+¿Cómo determinar el valor de un SIP para su salida a bolsa? El procedimiento normal de cualquier salida a bolsa basado en informes de expertos independientes no es de recibo en este caso, porque dada la dificultad de valorar a valor
+razonable los activos y pasivos transferidos por las Cajas al nuevo banco, dos informes bien elaborados pueden dar resultados muy distintos que, además, podrían no
+coincidir con el comportamiento de los títulos en los inicios de su cotización, con el
+consiguiente riesgo de que los inversores pierdan una parte relevante de su inversión en el mismo estreno de su cotización. Por ello es imprescindible la existencia
+de un tramo cuantioso —en valor y número— de suscriptores institucionales que
+fijen un precio mediante puja competitiva. Solo después de ello deberían entrar los
+inversores no profesionales que contarían con la información que da un precio
+pagado por inversores profesionales que arriesgan su dinero.
+El último ejemplo de posibles mejoras en la transparencia es el de la negociación de renta fija y over the counter (OTC). Uno de los mayores problemas del sistema financiero es el enorme crecimiento que han experimentado las transacciones
+que no se realizan a través de sistemas multilaterales de negociación con cámaras de
+contrapartida central que minimizan los riesgos de contraparte, los distribuyen mejor
+y aseguran el perfeccionamiento de las operaciones. Las operaciones OTC son simples contratos bilaterales sin garantía de cumplimiento de tipo alguno y sobre los que
+las autoridades carecen de información, pese a que representan más de las tres cuartas partes de la negociación de activos financieros privados. Junto a esto, la gran
+mayoría de las transacciones de renta fija privada son opacas porque se negocian en
+sistemas que dan información, en el mejor de los casos, agregada y a posteriori, de
+las transacciones que, con frecuencia, solo ponen a disposición de los participantes.
+
+334
+
+
+
+Es obvio que en tanto no se exijan a las transacciones de renta fija las mismas condiciones de pre y postransparencia que las de la renta variable —las bolsas—
+y la deuda pública —anotaciones en cuenta— y se logren estandardizar y negociar
+en mercados regulados la mayor parte de lo que ahora es objeto de negociación
+OTC, será imposible que las autoridades puedan tratar siquiera de acotar riesgo sistémico que proviene de los sistemas de registro, compensación y liquidación.
+Esto no es mas que la mitad de la historia de la coexistencia de un subsistema financiero regulado, que opera bajo reglas públicas y con mecanismos de
+garantía, con otro que escapa a toda regulación. No solo se trata de las transacciones de instrumentos financieros, sino de la proliferación de sociedades que no han
+sido objeto de supervisión y regulación alguna o solo muy débil: bancos de inversión, agencias de calificación crediticia, hedge funds y un largo etcétera. Esto ha
+generado un sistema bancario en la sombra que se encuentra en el epicentro de la
+crisis y sobre el que las posibilidades no ya de una regulación sensata sino tan
+siquiera de obtener información sobre lo que hace, son mínimas.
+El segundo gran tema en el que las visiones tradicionales han sufrido un
+brusco cambio es el del nuevo enfoque de la estabilidad financiera y el riesgo
+sistémico. Hasta el estallido de la crisis la relación entre ambas se consideraba muy
+simple: el riesgo sistémico provenía de la posibilidad de que una o más entidades
+pudieran quebrar y contagiar al resto del sistema, bien por el efecto dominó, bien
+por un pánico bancario generalizado. Para hacer frente a esta eventualidad se consideraba suficiente que las entidades contaran con un determinado porcentaje
+mínimo de recursos propios (capital más reservas), que es el enfoque propiciado en
+los sucesivos acuerdos de Basilea, y que los depósitos de los clientes estuvieran
+garantizados públicamente hasta una determinada cuantía. Lo primero permitiría
+hacer frente a fallidos, morosidad y pérdidas de valor de los activos y lo segundo evitaría pánicos bancarios.
+Este enfoque funcionó satisfactoriamente desde Basilea I hasta la crisis,
+pero en el desarrollo de la misma mostró su clara insuficiencia. Una aparente insuficiencia no fue tal pese a que, en un determinado momento, los gobiernos de la UE
+decidieron ampliar la cobertura de los fondos de garantía de depósitos bancarios
+hasta los 100.000 €. Se trató de una medida encaminada a restaurar la confianza aunque, en mi opinión innecesaria y con posibles efectos negativos a largo plazo dada
+su irreversibilidad. En algunos casos fue acompañada, inexplicablemente, del
+aumento de la cobertura máxima de los fondos de garantía de inversores que cubren
+una contingencia totalmente distinta, de origen penal.
+Pero sí se manifestaron dos insuficiencias importantes del enfoque descrito
+del riesgo sistémico y la estabilidad financiera: una en el ámbito de los instrumentos preventivos y otra en el de las causas últimas de una crisis sistémica.
+
+335
+
+
+
+Como he señalado, el instrumento preventivo fundamental ha sido y es el
+capital. Basilea había exigido tradicionalmente el 8% de capital —a los efectos de esta
+exposición no entraré en aspectos muy técnicos sobre la diferencia entre capital,
+core capital y tier 1— y la reforma actual va en la línea de diferenciar los requerimientos de capital por tipos de activos y su exposición al riesgo, es decir, en la línea
+de calcular requerimientos sobre los activos ponderados por riesgo. Inicialmente se
+perseguía —por presiones de la industria— que los nuevos requerimientos no fueran en su conjunto superiores al 8%, pero el desarrollo de la crisis ha conducido a
+romper en algunos casos dicha barrera. Adicionalmente, se discute la posibilidad de
+exigir niveles relativos determinados de liquidez, algo así como garantizar que las
+entidades disponen de la liquidez suficiente para hacer frente a sus compromisos en
+caso de no poder acceder a los mercados durante un periodo de, por ejemplo, un
+trimestre.
+Todo esto va en la buena línea y podría complementarse con algún tipo de
+modificación relativa a las provisiones ya que, aunque las mismas no formen parte
+del capital, sí mejoran la posibilidad de hacer frente a pérdidas. La idea sería aceptar que las provisiones se pudieran constituir no solo para cubrir pérdidas incurridas,
+sino también las previsibles (v.gr: cartera inmobiliaria, bonos de titulización, etc.). Y
+también cabría pensar el algún aspecto regulatorio que afectara a la cuantía de los
+dividendos pagados por las sociedades cotizadas, ya que los mismos implican una
+descapitalización neta de la empresa que los abona ya que, de no hacerlo, incrementarían las reservas que sí son tier 1.
+Las modificaciones creo, como he comentado, que van en la buena línea,
+pero son insuficientes, por la sencilla razón de que no existe nivel de capital alguno
+—salvo el 100%— que garantice la solvencia ante cualquier crisis por larga e intensa
+que sea. Una buena muestra de ello son las entidades de crédito españolas (léase
+cajas de ahorros), poco expuestas a la crisis en sus inicios al no contar en sus balances con activos tóxicos (subprime estadounidenses, bonos basura…), pero que han
+aflorado problemas potenciales de solvencia cuando la crisis ha terminado provocando un aumento generalizado de la morosidad crediticia no solo, aunque sí principalmente, hipotecaria.
+Esto apunta al hecho de que, contrariamente a la visión tradicional de la
+estabilidad como un problema exclusivo de solvencia, que las entidades modelan
+como un shock externo provocado por fenómenos ajenos a su propio comportamiento, la crisis ha puesto de manifiesto la existencia de un importante componente
+endógeno y de comportamiento en la generación de crisis sistémicas.
+En efecto, resulta evidente que los departamentos de gestión de riesgos de
+las entidades han funcionado defectuosamente, asumiendo riesgos excesivos en gran
+medida por desconocimiento de los mismos. Por ejemplo, los modelos utilizados se
+
+336
+
+
+
+nutrían con información correspondiente a un largo periodo precedente de anormalmente baja volatilidad financiera, con lo que subestimaban los riesgos. Pero también hubo comportamientos derivados de una fuerte competencia que, al reducir
+los márgenes, obligaba a ampliar la base del negocio como forma de mantener los
+niveles de beneficios de ejercicios anteriores, lo que condujo a disminuir los estándares de concesión de crédito utilizados hasta ese momento. Otro ejemplo: si los
+incentivos a los gestores hubieran estado menos alineados con el corto plazo, se
+podrían haber evitado decisiones que perjudicaron a accionistas y trabajadores. Por
+ejemplo, si ciertos conflictos de interés internos de las entidades se hubieran enfrentado satisfactoriamente, la desconfianza de los clientes en el sistema habría sido muy
+inferior. Por ejemplo, si los departamentos de cumplimiento normativo y de auditoría hubieran sido más diligentes, algunas de las características con que cursó la crisis no habrían tenido lugar.
+En resumen, la supervisión del cumplimiento de los requisitos de organización interna y del comportamiento de los agentes en los mercados constituye un
+elemento de prevención de las crisis tan importante como la vigilancia de la calidad
+crediticia y la garantía de que las entidades tienen suficiente capital y liquidez para
+hacer frente a situaciones adversas imprevistas.
+El tercer tema sobre el que haré algunos comentarios es el de la innovación
+financiera, cuyo protagonismo en la crisis es indudable y objeto de intensa polémica.
+Quizá la forma más sintética de señalar la importancia de la innovación financiera
+sea con el dato de que hace dos décadas el volumen de activos financieros en circulación en el mundo representaba el 70% del PIB mundial y antes del comienzo de
+la crisis se situaba en el 350% de dicha magnitud.
+No es preciso señalar las virtudes de la innovación que, al diversificar los
+activos financieros, ha permitido coberturas de riesgo mucho más precisas para las
+empresas y ha aumentado el abanico de activos adquiribles para los inversores tanto
+institucionales como no profesionales. Pero no cualquier innovación financiera es
+necesariamente deseable, porque solo en el mundo financiero se ha aceptado acríticamente la innovación como sinónimo de eficacia. En el mundo de la energía, los
+transportes, la sanidad, la alimentación o la industria química no se considera que
+una innovación es positiva hasta que supera numerosos controles de calidad y un
+análisis coste-beneficio riguroso.
+Una parte no desdeñable de la innovación financiera no ha perseguido
+mejorar la cobertura de riesgos o diseñar instrumentos que cubrieran necesidades
+específicas de financiación, sino que ha sido implementada para evadir la regulación
+de capital. Sin necesidad de poner ejemplos muy complejos, la titulización ofrece un
+buen ejemplo de ello. Se suponía que uno de los atractivos de la misma era una
+mejor distribución de riesgos ya que quien titulizaba activos, sacaba el riesgo de los
+
+337
+
+
+
+mismos de su balance. La crisis ha demostrado, a un alto coste, que ello no es así.
+¿Lo sabían los titulizadores? Sin lugar a dudas, eran conscientes que en una situación
+de crisis sistémica los emisores primeros tendrían que hacer frente al riesgo. Es posible que dieran poca probabilidad a una crisis sistémica, pero lo que en cualquier caso
+hacia atractivas a las titulizaciones para sus emisores era disminuir el consumo de
+recursos propios derivado de la cartera de activos, con lo que se podía superar legalmente la máxima exposición al riesgo permitida sin titulización por los acuerdos de
+capital de Basilea. Aunque a costa de ello se hiciera al sistema mucho más vulnerable a una posible crisis.
+En resumen, sería deseable, en modo alguno que se prohíba la innovación
+financiera, pero sí que solo se admitan aquellas innovaciones que no incorporen un
+aumento del riesgo sistémico lo que exige, como mínimo, que se coticen en sistemas multilaterales regulados que tengan una aceptable pre y postransparencia y proporcionen una adecuada liquidez.
+El cuarto tema que comentaré será el de la inadecuada solución a los conflictos de interés que tan frecuentes son en el mundo financiero. Lo trataré con dos
+ejemplos, uno relevante para el correcto funcionamiento de los mecanismos de determinación de precios y otro importante desde la perspectiva de la protección de los
+inversores no profesionales.
+El primero es el caso de las agencias de calificación crediticia (rating). Estas
+agencias —no reguladas hasta fechas muy recientes— tienen una enorme influencia
+sobre la cotización de todos los valores, tanto de renta variable como fija, al calificar la solvencia del emisor, requisito exigido en muchos casos por la regulación
+vigente para poder salir al mercado, emitir determinado tipo de activos, actuar como
+garante, etc. Existe un acuerdo generalizado de que dichas agencias han sido un factor importante en el desarrollo de la crisis al conceder con facilidad la calificación
+máxima a activos entre los que se encontraban las titulizaciones de hipotecas basura.
+Pero lo grave no es que las agencias hayan hecho mal su trabajo, sino que sin una
+regulación adecuada es imposible que lo hagan bien y no introduzcan sesgos en los
+mercados. Por una parte porque se trata de un sector oligopolizado en el que las tres
+primeras empresas controlan totalmente el mercado de calificaciones. Pero, más
+importante aún, por el conflicto de interés básico a que se encuentran sometidas las
+agencias en su trabajo, porque no solo califican a los emisores sino que, simultáneamente, ofrecen servicios de consultoría, diseño y colocación de emisiones y un
+largo etcétera a las empresas que califican y, también, emiten informes al mercado
+sobre las mismas. Y su cuenta de resultados depende mucho más de estas últimas
+actividades que de la calificación.
+Afortunadamente se ha iniciado hace escasos meses una cierta supervisión
+de las agencias, en el caso de la UE a través de la nueva autoridad europea de mer-
+
+338
+
+
+
+cados de valores (ESMA), en lo que se refiere a los modelos que utilizan, la información que introducen y los criterios para determinar el cambio de las calificaciones, pero aún es pronto para evaluar la eficacia de este cambio.
+El segundo ejemplo de conflicto de interés es más relevante desde el punto
+de vista de la protección del inversor no cualificado y se refiere a la comercialización por una entidad de crédito de sus propias emisiones entre su clientela.
+En las condiciones actuales, en que el recurso a los mercados de capital es
+muy costoso, es obvio el incentivo de las entidades que desean mejorar su capitalización a colocar activos que computen como capital —esencialmente acciones, pero
+también productos más complejos como cuotas participativas, acciones preferentes
+o bonos convertibles— entre su propia clientela.
+Aunque la obligación de hacer tests de conveniencia y/o idoneidad a los
+posibles inversores y la diferencia nítida entre actividades de comercialización y asesoramiento financiero limita la posibilidad de prácticas inadecuadas, no debe olvidarse el hecho de que la clientela de las entidades de crédito es una clientela en
+cierto grado cautiva. Por ello es imprescindible reforzar la supervisión de la comercialización en estos casos y exigir una transparencia total en las emisiones, recurriendo cuando ello sea necesario a la inserción de advertencias del organismo supervisor en el folleto y tríptico de la emisión.
+Mientras que el tipo de conflictos de interés ejemplificados por las agencias
+de rating y la comercialización de las emisiones entre la propia clientela no se solucionen, o al menos mitiguen considerablemente, será imposible que los mercados
+financieros mejoren su eficiencia y que los inversores recuperen la confianza en
+ellos. Y ello requiere regulación en nuevas áreas, porque la autorregulación es imposible que funcione en presencia de conflictos de interés. ¿Por qué va a asumir una
+empresa una pérdida de resultados por seguir las indicaciones de un código de no
+obligado cumplimiento, máxime en situación de crisis?
+El último tema sobre el que desearía hacer alguna reflexión es el de la insuficiente cooperación internacional y el inadecuado marco político-institucional para
+evitar el arbitraje regulador y supervisor.
+Es una obviedad que la crisis es mundial y que, por tanto, solo pueden ser
+abordada con eficacia por autoridades supranacionales con capacidad para imponer
+obligaciones y resoluciones a los estados miembros. La crisis no ha sido un ejemplo
+de tal tipo de iniciativas, aunque haya mejorado en buena medida la coordinación
+entre las economías nacionales a través de numerosos foros (Naciones Unidas, G20,
+Foro de Estabilidad Financiera, Comité de Supervisores Bancarios de Basilea, etc.).
+En particular, la UE ha mostrado defectos de coordinación significativos y una fuerte
+
+339
+
+
+
+resistencia a aceptar la existencia de autoridades supervisoras financieras supranacionales con capacidad para dictar normas técnicas de obligado cumplimiento y arbitrar los conflictos entre estados miembros.
+Recientemente, como resultado del informe Laroisière, las cosas han empezado a mejorar a nivel europeo. Los tres comités de nivel 3 Lamfalussy —bancos,
+seguros y valores— se han convertido desde el primero de enero de este año en
+Autoridades Europeas de los tres sectores. No todas han empezado su andadura
+con igual ímpetu. La autoridad bancaria ha optado por un perfil muy bajo, lo que
+limitará su eficacia, posiblemente porque el BCE no desea en absoluto una autoridad supervisora bancaria europea ya que él no ha podido conseguir dicho estatus
+por el que ha batallado con fuerza. Por el contrario, la autoridad de valores —la
+ESMA— ha nacido con un perfil mucho más alto profesionalmente, encargándose
+de la supervisión de aquellos temas cuya competencia no residía en los estados
+miembros —lo que habría obligado a modificar el Tratado de la Unión— como es
+el caso de la supervisión de las agencias de rating. Espero poder decirles el próximo año que el camino iniciado ha seguido recorriéndose, que la autonomía que
+la ESMA logre alcanzar respecto a la Comisión Europea es satisfactoria y que se ha
+hecho acreedor de un grado de persuasión moral suficiente para arbitrar con éxito
+entre estados miembros y haberse ganado la capacidad de dictar normas técnicas
+de obligado cumplimiento evitando así el arbitraje supervisor.
+Nada más y muchas gracias por su atención.
+
+340
+
+

@@ -1,0 +1,596 @@
+SOBRE EL PRINCIPIO DE NO-CONTRADICCIÓN:
+LA FORMULACIÓN ARISTOTÉLICA Y SU VIGENCIA
+EN NICOLÁS DE CUSA Y HEGEL
+Por el Académico de Número
+Excmo. Sr. D. Mariano Álvarez Gómez*
+
+1. MATIZACIONES PREVIAS
+Antes de comenzar mi exposición, quisiera puntualizar lo siguiente:
+1. Vengo hablando del principio de no-contradicción —y no, como es
+habitual, del principio de contradicción— desde que me incorporé a la docencia de Metafísica. Entiendo que esto es lo correcto gramaticalmente, puesto que
+el principio implica que ni las cosas están en contradicción consigo mismas ni
+nosotros, si queremos conocer, nos podemos contradecir, esto es, no podemos
+aplicar un predicado que contradice el concepto del sujeto. Otra cosa es que
+nos contradigamos con frecuencia, pero eso no tiene que ver con el principio,
+sino que ocurre al margen del principio o a pesar del mismo. Al revisar los
+textos de Ortega y Gasset sobre este tema, he comprobado que en ocasiones
+él habla también del principio de no-contradicción.
+2. Este principio no tiene nada que ver con el principio de contradicción en la praxis judicial, donde significa el derecho de defensa que se le reconoce jurídicamente al ciudadano, es decir, de poder contradecir al demandante
+o al acusador presentando las alegaciones o pruebas que considere pertinentes. En este caso la expresión “principio de contradicción” es sin duda gramaticalmente correcta, porque responde a lo que se quiere significar con ella.
+Agradezco esta aclaración a Santiago Muñoz Machado, nuestro compañero,
+quien además puso a mi disposición un texto en el que se expone el principio
+de contradicción en el sentido indicado, y cuatro sentencias del Tribunal Constitucional en las que también aparece la referencia a dicho principio.
+
+* Sesión del día 18 de marzo de 2014
+
+445
+
+
+
+3. Al releer textos de filósofos sobre el principio de no-contradicción
+me ha llamado la atención el tono grave —solemne, incluso— en que a veces
+se expresan. Muy especialmente Aristóteles. En los dos primeros capítulos del
+libro IV de la Metafísica expone el concepto principal —el de ουσια (sustancia)—, pasa en el tercero a hablar de los axiomas o de los principios, y después de centrar el tema bajo diversos aspectos y llegar a la conclusión de que,
+así como es propio de la filosofía primera contemplar el ente en canto ente, a
+ella también le compete tratar de “los más firmes principios de todas las cosas”,
+y de entre estos hay que conocer el principio más firme, que ha de tener en
+cuenta quien quiera conocer cualquier cosa. Y entonces se dispone ya a formularlo: “Cuál sea este principio, vamos a decirlo ahora”1.
+Kant se expresa con toda contundencia. El principio, que él formula de
+forma muy similar a la de Aristóteles, es conditio sine qua non de todo conocimiento2. En Heidegger nos encontramos con algo bien llamativo. Interpretando a Aristóteles, pero apropiándose su contenido, nos dice: “Con afirmaciones contradictorias, que con toda tranquilidad puede enunciar sobre una
+misma cosa, el hombre abandona su esencia y se sitúa en lo inesencial al anular la referencia al ente en cuanto tal.
+Esta caída en lo inesencial de sí mismo tiene su carácter inhóspito en
+el hecho de que siempre aparece como inofensivo, de que los negocios y las
+diversiones continúan igual que antes, de que en general no tiene demasiada
+importancia qué y cómo se piensa, hasta que un día la catástrofe está ahí, un
+día que tal vez necesita siglos para hacer su aparición surgiendo de la noche
+de una creciente ausencia de pensamiento”3.
+¿En qué pensaba Heidegger al escribir esto en el semestre de verano
+de 1939? ¿en el destino de los pueblos en general, en el de Alemania, en el de
+la Historia de la Filosofía? ¿o en todas esas cosas?
+4. La razón de elegir este tema es que me propongo hacer ver que, en
+contra de lo que con frecuencia se piensa, ni el Cusano ni Hegel contravienen
+el principio de no-contradicción.
+5. Comienzo refiriéndome a Aristóteles, porque lo formuló al parecer
+de la forma más profunda y precisa hasta la fecha.
+
+1
+2
+3
+
+446
+
+Aristóteles, Met. IV, 3, 1005b 12 y 19.
+I. Kant, Crítica de la razón pura, A151.
+M. Heidegger, Nietzsche, Neske, Pfullingen 1964, I 603.
+
+
+
+2. LA FORMULACIÓN DE ARISTÓTELES
+Y LA CRÍTICA KANTIANA
+Según Aristóteles, quien quiera conocer lo que algo es —la ousía o la
+sustancia— tiene que admitir lo que él llama el más firme de los principios, que
+formula de la forma siguiente: “Es imposible que un mismo atributo se dé y no
+se dé simultáneamente en el mismo sujeto y en un mismo sentido” (según la
+traducción de V. García Yebra). De una forma más ajustada al original: “es
+imposible que lo mismo se dé y no se dé en lo mismo simultáneamente y según
+lo mismo”. Y de una forma menos precisa y tal vez más trasparente, la formulación podría quedar así expresada: “es imposible que lo mismo sea y no sea
+lo mismo simultáneamente bajo el mismo aspecto”4.
+Es conveniente, por lo que se verá más adelante, tener aquí presentes
+los reparos de Kant a tal formulación. Kant entiende por principio de contradicción (Satz des Widerspruchs) aquél según el cual “a ninguna cosa le corresponde un predicado que la contradiga”5. De un modo bien simple formula pues
+Kant el principio de contradicción: “a ninguna cosa le corresponde un predicado que la contradiga”. Al margen de que Kant, que cuida tanto la precisión
+del lenguaje, no repara en que está incluyendo lo definido en la definición,
+hace a continuación la doble consideración siguiente: que el principio es por
+una parte “un criterio universal, aunque meramente negativo, de toda verdad”
+y por tanto que la contradicción “anula y elimina por completo” aquellos presuntos conocimientos en que se dé la contradicción en el sentido indicado. Sin
+embargo, en algunas verdades, en concreto, en las formuladas en los juicios
+analíticos, es decir, en aquellos en los que el predicado solo enuncia lo contenido del concepto del sujeto, tiene el principio una aplicación positiva, tanto
+si el juicio analítico es negativo como si es positivo, puesto que, con relación
+a lo primero, “siempre será negado con razón lo contrario de aquello que se
+halla incluido como concepto en el conocimiento del objeto que es pensado
+en él” y, con relación a lo segundo, “tenemos que afirmar necesariamente el
+concepto mismo del objeto, ya que lo opuesto de tal concepto estaría en contradicción con el objeto”6. Con otras palabras, hay que afirmar lo que implica
+el concepto mismo del objeto, todo lo que se deriva de él analíticamente. A
+Kant, pues, le interesa dejar sentado que “el principio de contradicción es principio universal y plenamente suficiente de todo conocimiento analítico” —y
+que es además conditio sine qua non del conocimiento sintético, es decir, de
+los conocimientos de experiencia. Sin embargo, este principio no es “la base
+que determina su verdad”. Y concluye del modo siguiente: “Dado que tenemos
+que ver solo con la parte sintética de nuestro conocimiento, tendremos siempre el cuidado de no ir nunca en contra de este inviolable principio, pero jamás
+4
+5
+6
+
+Met. IV, 3, 1005b, 19-20.
+Crítica de la razón pura, A151.
+L. c.
+
+447
+
+
+
+podemos esperar de él luz alguna en lo que a la verdad de tal clase de conocimiento se refiere”7.
+Aparte de esto, que supuesta la distinción entre juicios analíticos y sintéticos es aceptable sin más, expresa Kant una dificultad de fondo a la fórmula
+que viene siendo tradicionalmente aceptada y que sin duda responde a la formulación de Aristóteles: “es imposible que algo sea y no sea simultáneamente”.
+La introducción de esta referencia temporal es inadecuada, según Kant, porque
+el principio de contradicción, cuya formulación correcta —tal como queda indicado más arriba— es “a ninguna cosa le corresponde un predicado que la contradiga”, es “un principio meramente lógico” que en cuanto tal no debe restringir sus pretensiones (de validez) a relaciones temporales. En este punto hay una
+diferencia clara entre Aristóteles y Kant, diferencia que conviene dilucidar, porque de ello va a depender la forma en que nos posicionemos ante Hegel. Volvamos pues a la fórmula de Aristóteles: “es imposible que algo sea y no sea lo
+mismo simultáneamente bajo el mismo aspecto”8 y veamos brevemente lo que
+de esa fórmula se desprende mediante un simple análisis.
+En su formulación incorpora la simultaneidad temporal y la identidad
+de aspecto, exigiendo que tanto aquella como esta se mantengan las mismas.
+Esto permite, sin salirnos de la formulación citada, hacer alguna diferenciación
+a partir de la fórmula: “es imposible que algo sea y no sea lo mismo simultáneamente bajo el mismo aspecto”. Si imposible es lo que se ha indicado, ¿qué
+es lo posible?.
+Es posible que algo sea y no sea lo que es en tiempos distintos. Kant
+critica que en el principio de contradicción se introduzca la referencia al
+tiempo, porque en tal caso “el principio queda afectado por la condición del
+tiempo”. Lo cual quiere decir que “el principio, en tanto que es un principio
+meramente lógico no debe en modo alguno limitar sus aserciones a circunstancias temporales, siendo por ello tal fórmula completamente contraria a la intención del mismo principio”9.
+Por mor de la precisión, conviene matizar que ni en la intención de
+Aristóteles ni en lo que se podría considerar como la intención inmanente a la
+fórmula por él utilizada está el restringir la validez del principio a seres temporales. La intención de Aristóteles es formular un principio que sea válido para
+el ente en cuanto ente, dentro del cual existen infinidad de seres particulares
+afectados, no extrínseca, sino intrínsecamente por la dimensión temporal.
+
+7
+8
+9
+
+448
+
+O. c., A152.
+Met. IV, 1005b 19-20.
+Crítica de la razón pura, A152.
+
+
+
+El mismo Kant reconoce que la referencia a lo temporal es ineludible
+en el lenguaje, ya que “una persona joven no puede ser simultáneamente vieja,
+pero puede ser joven en un tiempo y no joven, es decir, vieja, en otro tiempo”10.
+Por una parte niega Kant, como hemos visto, que a estos casos se pueda aplicar un principio lógico. A raíz seguida, sin embargo, viene a reconocer que la
+referencia temporal es ineludible en determinados casos. “Si digo que una persona inculta no es culta, debo añadir la condición de simultaneidad, ya que
+quien es inculto en un momento puede ser culto en otro momento”11. Da la
+impresión de que eso de ser joven o anciano, de ser culto o inculto, no afecta
+a la condición o a la índole del sujeto, de una persona humana. El prejuicio de
+Kant es que el principio de contradicción es o debe ser válido para proposiciones analíticas, es decir, para enunciados en los que el predicado esté
+incluido en el sujeto. Por eso dice a continuación: “Si afirmo, en cambio, ‘ninguna persona inculta es culta’ tenemos una proposición analítica, ya que la
+propiedad de la incultura forma parte del sujeto; con ello cobra una inmediata
+claridad la proposición negativa a partir del principio de contradicción, sin
+necesidad de añadir la condición de simultaneidad”12.
+A esto habría que añadir sin embargo que ser culto o ser inculto tiene
+que ver siempre con el modo de ser una persona real. Es obvio que si digo:
+“ninguna persona inculta es culta” no necesito añadir la referencia temporal,
+puesto que la estoy excluyendo; pero si digo que “alguien inculto no es culto”
+la estoy incluyendo implícitamente, ya que en otro momento puede ser culto.
+Pero el problema de fondo no es cómo concibamos la relación de un predicado
+a un sujeto, de forma que la ajustemos a una proposición analítica: “nadie inculto
+es culto”, o a una proposición sintética o de experiencia: “alguien inculto no es
+culto”. El problema de fondo es la índole del sujeto de la proposición en general, en este caso lo que representa el predicado para el sujeto. Es decir, cuál es
+el referente de la proposición. De esto se ocupa Aristóteles con todo el rigor
+deseable; en cambio Kant no lo alude siquiera, al menos en este contexto.
+3. EL REFERENTE DEL PRINCIPIO
+DE NO-CONTRADICCIÓN
+Por lo general, se admite que la formulación primera del principio de
+no-contradicción se encuentra en Aristóteles. Pero en los últimos tiempos, coincidiendo más o menos con el origen de la lógica formal, el principio ha quedado reducido a una expresión del tipo “si p no –p”. Que esto sea así tiene que
+ver sin duda con la complicada y nunca predecible historia del pensamiento.
+
+10
+11
+12
+
+L. c.
+O. c. A 153.
+O. c., A 153.
+
+449
+
+
+
+Una vez que el fenómeno se ha consumado, se podrán aducir razones que lo
+expliquen.
+El caso de Heidegger sí debe mencionarse aquí por lo llamativo y sorprendente. Heidegger es un extraordinario conocedor de Aristóteles. No solo
+llega a la filosofía —según propia confesión— por la lectura, estando todavía
+en el Gymnasium, del libro de Brentano titulado Sobre el significado múltiple
+del ente según Aristóteles; es que durante toda su vida fue un lector asiduo y
+un profundo comentador de la obra de Aristóteles. Por eso sorprende su actitud cuando en el ciclo de conferencias de Bremen, de 1957, Grundsätze des
+Denkens (Principios fundamentales del pensamiento), al referirse implícitamente al principio de no-contradicción, se limite a formularlo así: “A no igual
+a no A”, y a dar con ello por aclarado su significado, para pasar inmediatamente a reflexionar sobre si la expresión utilizada por él, “principios fundamentales del pensamiento” ha de entenderse en el sentido del genitivo objetivo —
+los principios afectan y determinan al pensamiento— o en el sentido del
+genitivo subjetivo —con lo cual la actividad del pensamiento estaría, al revés,
+determinando el significado y alcance de los principios. Es decir, Heidegger
+inicia con ello una forma peculiar —la suya propia— de entender los principios del pensamiento.13
+Esto es por supuesto legítimo y responde a su modo propio de concebir el sentido de la filosofía. Pero si se quiere comprender cómo el principio
+de no-contradicción se ha mantenido vigente hasta nuestros días, considero
+necesario tener en cuenta el contexto en que el principio aparece formulado y
+las consecuencias que ello tiene para la actividad tanto teórica como práctica.
+De eso me ocupé hace años y por tanto no me voy a detener ahora en ello14.
+Quisiera, sin embargo, indicar algunos aspectos que siguen siendo válidos, en
+el sentido al menos de que el principio no descansa en el vacío, sino que tiene
+que tener un punto de apoyo firme y como consecuencia un referente para
+poder tener vigencia para toda clase de cosas y objetos.
+Por de pronto, Aristóteles formula el principio de no-contradicción en
+el libro IV de la Metafísica, que dentro de su brevedad es un tratado completo
+sobre el concepto de filosofía primera —el nombre que él da a lo que más
+tarde se llamará “metafísica”— y que es, dice Aristóteles, “una ciencia que contempla el ente en cuanto ente y lo que le corresponde de suyo”15.
+Esta ciencia universal es posible porque su objeto común, el ente, “se
+dice ciertamente en muchos sentidos, pero en orden a una sola cosa y a una
+M. Heidegger, Grundsätze des Denkens, Gesamtausgabe 79, V. Klostermann, Frankfurt 1994, 90s.
+M. Álvarez Gómez, “La firmeza del principio de no-contradicción según Aristóteles”, en José Mª Hernánde
+Díaz (coord..), Cuestiones actuales de Filosofía y Pedagogía, Hespérides, Salamanca 2001, 17-32.
+15
+Met. IV, 1, 1003 a 21-22.
+13
+14
+
+450
+
+
+
+cierta naturaleza única, y no equívocamente”16. Poco más adelante concreta
+esto mismo diciendo: “el ente (en común) se dice en muchos sentidos, pero
+todo ente (concreto) se dice en orden a un solo principio” (προσ μιαυ αρϕην)17.
+Ese principio único es la sustancia, como cabe traducir el término ουσια Este es
+el principio único con capacidad para estructurar y dar sentido a todo lo demás.
+La forma en que Aristóteles se expresa no disimula el entusiasmo de
+quien se encuentra de pronto ante un gran hallazgo. A continuación del texto
+antes citado afirma: “Unas cosas, en efecto, se dicen entes porque son sustancias, otras porque son afecciones de la sustancia; otras porque son camino
+hacia la sustancia, o corrupciones, o privaciones, o cualidades de la sustancia,
+o porque producen o generan la sustancia o las cosas que se dicen en orden
+a la sustancia, o porque son negaciones de alguna de estas cosas o de la sustancia. Por eso decimos también que el no-ente es no-ente”18. En definitiva, la
+sustancia es lo que posee consistencia para ser por sí mismo, lo que además
+en razón de esa consistencia está dotado de permanencia, suficiente al menos,
+y lo que confiere permanencia a las cosas que no la tienen por sí mismas y por
+eso se llaman accidentes. La sustancia es lo que cabe considerar como referente del principio de no-contradicción, en tanto que los axiomas en general
+—y con carácter prioritario el principio de no-contradicción— tienen su raíz en
+el ente mismo, del que son una expresión, y deben ser considerados por tanto
+por la misma ciencia. Se puede incluso decir que el principio de no-contradicción cae dentro de lo que es el objeto de la filosofía y que es al mismo tiempo
+condición de posibilidad de la misma y, por extensión, de toda otra ciencia.
+La validez de los axiomas no se circunscribe a ningún género particular, puesto que se aplican a todos los entes. Esto es posible y necesario a la vez
+porque todos los entes tienen en común el ser entes. La razón pues de que los
+axiomas —con el principio de no-contradicción a la cabeza— sean aplicables
+a todos los entes es que “son propios del ente en cuanto ente”, porque es éste
+el que hace que las cosas sean consideradas como entes. Y decir que los axiomas son propios del ente en cuanto ente implica afirmar que son propios de
+la sustancia, que es el ente en sentido primario. Esto se refuerza con lo que leemos luego. La consideración de los axiomas por parte de los “físicos” es comprensible, —dice Aristóteles— “pues creían ser los únicos que especulaban
+acerca de toda la naturaleza y acerca del ente”. Pero esto es insuficiente,
+teniendo en cuenta que la naturaleza solo es “un género determinado del ente”
+y sobre todo porque por encima del ámbito de la naturaleza se encuentra “la
+sustancia primera” sin la cual la verdadera universalidad no es auténticamente
+real19. En la consideración de los axiomas queda pues implicada tanto la dimen-
+
+16
+17
+18
+19
+
+Met.
+Met.
+Met.
+Met.
+
+IV,
+IV,
+IV,
+IV,
+
+2,
+2,
+2,
+3,
+
+1003 a 33-34.
+1003 b 5-7.
+1003 b 7-10.
+1005a 30ss.
+
+451
+
+
+
+sión ontológica como la dimensión teológica. Se comprende así que Aristóteles identifique la filosofía primera con la teología.
+Cabe decir que la radicación del principio de no-contradicción en la
+sustancia es la condición para que aquel tenga sentido, es decir, sea aplicable
+a todas las cosas, ya que todo o bien es sustancia o bien dice relación a la sustancia. Incluso la negación de la sustancia o de lo que tiene relación a la misma
+se expresa mediante el ser, es decir, mediante la afirmación de que “el no-ente
+es no-ente”20. Y como consecuencia de lo anterior cabe decir también que la
+radicación del principio en la sustancia es condición de la realidad de aquel.
+En conclusión, el principio de no contradicción tiene como referente
+el ente mismo, el ser de las cosas. Ello quiere decir no simplemente que nos
+referimos a las cosas, sino que el principio de no-contradicción brota de las
+cosas como una especie de imperativo categórico de las mismas. El término
+“imposible” que aparece en la formulación no es superfluo, como pretende
+Kant. Las cosas no se contradicen, porque es imposible que se contradigan. Es
+como una ley férrea que salvaguarda su ser en tanto que son y que hace que
+la realidad misma en razón de su carácter sustancial siga existiendo a pesar de
+la infinidad de cosas que desaparecen.
+Consecuentemente, el principio de no-contradicción no tiene un carácter puramente formal, reducible a la fórmula: “si p no –p”, o A no es no A (A no
+igual a no A). Aristóteles fue el gran maestro de la Lógica y por ello sabe de su
+alcance y también de sus limitaciones. El filósofo debe conocer también “los
+principios silogísticos”21 para poder razonar sobre cualquier “género”. Pero esto
+no es suficiente, porque la filosofía primera, cuyo objeto no es género, es decir,
+no se restringe a un ámbito determinado de la realidad, tiene un principio propio, el que estamos llamando de no-contradicción. Este principio implica una
+“previa elección de vida” (του βιου προαιπεσισ)22, la que consiste en decidirse
+por el conocimiento de lo verdadero y su distinción de lo aparente.
+4. NICOLÁS DE CUSA
+Y LA “COINCIDENTIA OPPOSITORUM”
+En la carta al Cardenal Julianus Cesarini, con la que acompaña el envío
+de su recién terminada obra De docta ignorantia, Nicolás de Cusa afirma: “todo
+el esfuerzo de nuestro entendimiento debe estar centrado en estas profundas
+ideas (de la verdad de Dios) para que se eleve a aquella simplicidad en la que
+los contradictorios coinciden”. La novedad está naturalmente en la coinciden20
+21
+22
+
+452
+
+Met. IV, 2, 1003b, 5ss.
+Met. IV, 3, 1005 b, 5-8.
+Met. IV, 2, 1004b, 24-25.
+
+
+
+cia de opuestos, y más concretamente de contradictorios, no en el concepto de
+simplicidad. Y sin embargo es esta simplicidad la que debe hacer comprensible aquella coincidencia.
+Dicho concepto de simplicidad no es nuevo. Con él abre Tomás de
+Aquino el tratado sobre Dios, una vez demostrada su existencia. A lo largo de
+los ocho artículos, de que consta esta cuestión, va haciendo ver que Dios es
+completamente simple porque excluye toda composición. Pero no se nos dice
+en qué consiste la simplicidad misma. Solo en el artículo cuarto, en que se
+afirma que “su esencia es su ser”, parece apuntarse en esa dirección. Y ni
+siquiera esa identidad está pensada en sí misma, sino que es solo afirmada por
+contraposición a lo que está compuesto de potencia y acto. Ocurre algo similar con el concepto de infinitud de Dios, sin duda afirmado también por Tomás
+de Aquino, pero igualmente no pensado en sí mismo, sino resuelto en otro
+concepto, el de “forma subsistente”.
+Lo que intenta el Cusano es pensar lo que implica el concepto de simplicidad, como hará también con el de infinitud. El presupuesto de que se parte
+es que Dios es lo máximo, lo que no puede ser más grande, pero no por comparación con ninguna otra cosa, sino en sí mismo, lo máximo en perfección.
+Este máximo absoluto es todo lo que son las cosas, naturalmente según el
+modo de ser de Dios mismo, y en él existen todas las cosas. Pero además, en
+razón de que es absoluto y por ello infinito, no se le opone nada y por tanto
+“coincide con él simultáneamente también lo mínimo”23.
+Son pocas las palabras que emplea el Cusano para decir esto mismo. Dos
+capítulos más adelante, escribe: “lo que es lo máximo absolutamente es completamente en acto, por ser todo lo que puede ser. Y como no puede ser más
+grande, por la misma razón no puede ser más pequeño, por ser todo lo que
+puede ser. Ahora bien, lo mínimo es aquello en comparación con lo cual nada
+puede ser más pequeño. Y como lo máximo es de la misma índole, es manifiesto
+que lo mínimo coincide con lo máximo”24. Al parecer esto era evidente para el
+Cusano y no sé de ningún texto en su obra que añada algo más, aunque sí
+extraiga de ahí muchas consecuencias. Esa coincidencia de opuestos o contradictorios provocó un rechazo total por parte de J. Wenck, el rector de Heidelberg,
+lo que contribuyó a que la obra del Cusano fuera ignorada durante siglos.
+Tal vez se pueda comprender esta coincidentia oppositorum si se tiene
+en cuenta: 1) que lo que es absolutamente simple no puede ser ni más grande
+ni más pequeño, pues si se hace más grande no era lo más simple ni lo más
+perfecto y si se hace más pequeño tampoco; 2) lo máximo y lo mínimo son
+
+23
+24
+
+N. de Cusa, De doct. Ign., I, 2, n. 5.
+O. c., I, 4, n. 11.
+
+453
+
+
+
+conceptos de que nos servimos para expresar lo más simple. La coincidencia
+de ambos no es, en tanto que son conceptos, identidad, sino implicación mutua
+o circular: lo máximo en perfección radica en lo más simple —o mínimo— y
+lo más simple es el fundamento de lo máximo en perfección. En ese sentido,
+tenemos no una contraposición real, sino una dualidad de aspectos y el principio de no-contradicción se salvaguarda. En un breve texto de su De venatione
+sapientiae, el Cusano se manifiesta de forma tal que la aceptación del principio por su parte es inequívoca:
+Quien ve la nieve afirma que es blanca. Contradecir esto es un sinsentido. Igualmente quienquiera que llevado de su entendimiento dice
+que algo es verdadero, no puede negar que es verdadero25.
+La conclusión es —cabe añadir— que si el entendimiento conoce que
+en Dios los opuestos coinciden, no puede negar que eso es verdad.
+5. EL SENTIDO DE LA CONTRADICCIÓN EN HEGEL
+Es comúnmente admitido que Hegel no reconoce el principio de nocontradicción. Lo que no es tan claro es el significado de la contradicción y si
+su concepción es compatible con la forma clásica de entender el principio, tal
+como lo hemos explicado tomando como referencia la concepción de Aristóteles. Adelanto que, aunque pudiera parecer sorprendente, Hegel es en esto,
+como en otras muchas cosas, un continuador de Aristóteles, bien que teniendo
+en cuenta las novedades introducidas por la cultura en general, tanto la científica como la filosófica.
+Quisiera hacer en primer lugar una referencia al papel del entendimiento. Hasta ahora se ha hablado siempre en relación con Hegel de Vernunft
+(razón), y apenas nada de Verstand (entendimiento). Por sorprendente que
+pueda parecer, la investigación sobre el significado del mismo y de sus implicaciones se está empezando a hacer ahora26.
+En un escrito muy importante de su primera época: Diferencia entre
+los sistemas de filosofía de Fichte y Schelling, Hegel fija así su posición. En la
+lucha que Hegel plantea entre el entendimiento y la razón, la ley suprema del
+entendimiento es el principio de contradicción en su afirmación simple, lo que
+significa que entre una determinación y su opuesta —por ejemplo, entre subjetividad y objetividad— no hay conciliación posible. Por eso, los productos del
+25
+Nicolás de Cusa, De venatione sapientiae, en: Opera omnia XII, edic. de R. Klibansky y J. G. Senger, Hamburgo 1982, c. 15, n. 42, p. 42s.
+26
+Cf. Mª C. Paredes Martín, “El papel del entendimiento en la realidad humana”, en I. Falgueras et. Al (eds.),
+Yo y tiempo. La antropología filosófica de G.W.F. Hegel, I, Málaga 2010, 129-145; idem., “La transformación hegeliana del
+entendimiento”, en Mª C. Paredes Martín (ed.), Metafísica y experiencia, Salamanca, 2012, 251-272.
+
+454
+
+
+
+entendimiento son opuestos absolutos y eso es la expresión de que la contradicción es la ley del entendimiento. A partir de esto, Hegel sostiene que el
+entendimiento tiene que superarse a sí mismo y para ello tiene que ponerse en
+contradicción consigo mismo.
+Cuando Hegel habla de la contradicción simple del entendimiento,
+analiza la proposición más sencilla: A = A. Esto es lo que el entendimiento
+piensa como principio de identidad, pero para Hegel la identidad más elemental encierra una relación entre igualdad y desigualdad, es decir, en A = A está
+también A = B, que es una proposición contradictoria. La relación entre A = A
+y A = B es una relación antinómica entre proposiciones contradictorias que no
+se resuelve analíticamente, sino admitiendo la contradicción del entendimiento
+en el seno de la igualdad, y también en el de la desigualdad. Por eso, el pensamiento racional tiene que superar la posición del entendimiento.
+En resumen, el entendimiento se atiene al principio de contradicción
+como “techo del pensamiento” y lo que afirma Hegel es que pensar la contradicción como proposición que contiene la igualdad —o la identidad— y la desigualdad —la no identidad—, dando paso a la antinomia, es la vía para pensar
+racionalmente cualquier tipo de antinomia. Esto lo defendió en su 1ª Tesis de
+Habilitación:
+Contradictio est regula veri, non contradictio, falsi 27.
+En su época de madurez se expresa de forma inequívoca, cuando
+afirma, a propósito de Kant que la antinomia no solo está en cuatro objetos (los
+objetos de la metafísica), sino en todos los objetos.
+Lo característico de lo que Hegel llama “abstracto” o “propio del entendimiento” se sintetiza en la explicación que da en sus Lecciones: “la actividad del
+entendimiento —dice—- consiste en conferir universalidad a sus contenidos”.
+Esto tiene su justificación tanto en la teoría como en la praxis. El conocimiento
+solo puede proceder fijando bien el significado de los conceptos y estableciendo
+sus diferencias. Del entendimiento y del principio de identidad no se puede
+prescindir en ningún tipo de conocimiento. Por ejemplo, el concepto de Estado
+tiene su determinación propia, la de ser “la realidad efectiva de la idea ética”, que
+luego tendrá que especificarse mediante la correspondiente distinción entre los
+diferentes contenidos concretos. Hegel trabajó según ese criterio hasta el final.
+Sin embargo, la identidad no es suficiente; o mejor, no es suficiente por
+unilateral el principio de identidad que se atiene a la fórmula A = A o lo que
+es su expresión negativa: A no puede ser al mismo tiempo A y no A. La identidad, no obstante, entendida no de forma puramente formal o abstracta sino
+de forma concreta no excluye la diferencia, sino que la incluye. La conciencia de
+27
+
+G.W.F. Hegel, Jenaer Schriften 1801-1807, Werke in zwanzig Bänden, 2, Suhrkamp, Frankfurt 1970, 533.
+
+455
+
+
+
+la identidad consigo sí mismo incluye la diferencia respecto de la naturaleza,
+de los demás seres, incluso de los semejantes.
+El paso a la diferencia (Unterschied) no cabe ni tiene sentido desde la
+identidad puramente formal, pero viene exigida desde la identidad concreta.
+Ahora bien, esta diferencia presenta dos aspectos distintos. Existe en primer
+lugar “la diferencia inmediata”, según la cual las cosas diferentes son “para sí”,
+indiferentes respecto de cualquier relación con las demás. Esta diferencia inmediata es diversidad (Verschiedenheit). Según eso, cada cosa está como clausurada en sí y en este sentido puede hablarse del principio de la diversidad, de
+que todo es diverso. Este principio, lejos de contradecir al principio de identidad, es expresión del mismo. Si cada cosa es idéntica consigo misma es diversa
+de las demás. Cabe sin embargo establecer comparaciones entre cosas diversas y así es como han surgido ciencias como la anatomía comparada o la investigación filológica comparada.
+Tal comparación se lleva a cabo teniendo como referente la igualdad y
+la desigualdad. Esto implica ya que las cosas diversas no lo son por completo,
+sino que la diferencia tiene, además de la diversidad, una dimensión más profunda, que es su segundo aspecto, lo que Hegel llama “la diferencia determinada (der bestimmte Unterschied), esto es, la diferencia esencial, que no se queda
+en diferenciaciones extrínsecas, sino que expresa el fondo de las cosas diferentes. Según esta diferencia, lo que caracteriza a las cosas es la “contraposición”
+(Entgegensetzung) recíproca. Cada cosa está contrapuesta a lo otro, pero esto
+otro no es algo extrínseco, puesto que cada cosa está esencialmente relacionada
+a lo otro, que por tanto no es solamente otro, sino su otro. Es lo que implica un
+nuevo principio, el de la diferencia: el de que “todo es un algo esencialmente
+diferente”, según lo cual lo que las cosas son positivamente y lo negativo de las
+mismas están condicionados esencialmente y existen solo en cuanto que se relacionan recíprocamente entre sí28.
+El filósofo Hegel, al intentar explicar lo que llama diferencia determinada, con una terminología bastante abstracta y dura, sin duda tiene ante la
+vista algo bien concreto, que a la vez que de ejemplo puede servir de aclaración. En una de sus Lecciones, refiriéndose a esto mismo, afirma que estamos
+en una relación esencial con el aire, el agua, los animales y otras cosas; que la
+naturaleza inorgánica es necesaria para la orgánica; o que la naturaleza no es
+sin el espíritu, ni el espíritu, sin la naturaleza29.
+Hegel considera que el principio de que “todo es algo esencialmente
+diferente”, al que llama también “el principio de la oposición”, contradice de
+28
+G.W.F. Hegel, Enzyklopädie der philosophischen Wissenschaften im Grundrisse, Werke 8, Suhrkamp, Frankfurt 1970 §119 Zus. 1, 245.
+29
+O. c., §119 Zus. 1, 246.
+
+456
+
+
+
+la forma más explícita al principio de la identidad y al parecer es así, pues el
+principio de identidad afirma que cada cosa es idéntica consigo misma, en
+tanto que según este principio de la diferencia cada cosa es en tanto que tiene
+incorporado en sí lo otro de sí 30.
+No obstante, se puede salvar el principio de no-contradicción, en
+cuanto que tenemos que ver con dos aspectos diferentes: la relación de la esencia consigo misma y su relación con lo otro, de forma que una y otra coexisten y se postulan mutuamente. Más radical se muestra Hegel cuando, queriendo
+aclarar el significado de aquel principio, recurre al concepto de finitud: “Todo
+lo que de algún modo es, es algo concreto y con ello algo diferente y contrapuesto en sí mismo. La finitud de las cosas consiste entonces en que el ser
+determinado inmediato no corresponde a lo que es en sí”31. Es decir, la esencia de las cosas las fuerza a superar su inmediatez y a entrar así en contradicción consigo mismas. Unas líneas más adelante afirma Hegel: “Lo que en términos generales mueve al mundo es la contradicción y es ridículo decir que la
+contradicción no se puede pensar”32.
+Aparecen aquí los conceptos de movimiento y de finitud que nos retrotraen a un apartado del II Libro de la Ciencia de la Lógica, titulado “La contradicción” (Der Widerspruch), en el que ambos conceptos son más explícitos33.
+Al referirnos a la formulación aristotélica, vimos que ésta es aplicable a cosas
+en movimiento. Con la modernidad este concepto adquiere un significado
+mucho más profundo y Hegel lo incorpora de lleno. Desde esa perspectiva, es
+preciso ver lo que dice sobre la contradicción bajo uno de sus aspectos esenciales. Es una intensificación de lo que afirma Aristóteles, pero no es incompatible con lo dicho por él.
+Sintetizando al máximo lo expuesto en el mencionado apartado, retengamos pues dos conceptos: el de movimiento (Bewegung) —al que va unido
+el de automovimiento (Selbstbewegung) y el de vitalidad (Lebendigkeit)— y en
+segundo lugar el concepto de finitud (Endlichkeit) que entronca más bien con
+la concepción cristiana. Respecto del primero de estos conceptos, entiende
+Hegel que el movimiento, puesto que toda la realidad está afectada intrínseca
+y esencialmente por él, solo se explica mediante la contradicción. Las formulaciones son variadas y redundantes. Me limitaré por tanto a las que considero
+más expresivas. “Todas las cosas son en sí mismas contradictorias y justamente
+en el sentido de que este principio, frente a los demás (es decir, los de la identidad, la diversidad y la contraposición) expresaría la verdad y la esencia de las
+
+30
+31
+32
+33
+
+§119 Zus. 1, 243.
+§119 Zus. 2, p. 246 y s.
+§119 Zus. 2, p. 247
+cf. G.W.F. Hegel, Wissenschaft der Logik II, Meiner, Hamburg 1966, p. 48 y ss.
+
+457
+
+
+
+cosas”34. Concretando más esto mismo, afirma más adelante que la contradicción es “la raíz de todo movimiento y vitalidad; solo en tanto que algo tiene una
+contradicción en sí mismo se mueve, tiene impulso (Trieb) y actividad
+(Tätigkeit)”35.
+Aparte de esto, quiero referirme a dos indicaciones que aclaran en
+buena medida el alcance y el horizonte de lo que está diciendo. Por una parte,
+ya “el movimiento externo y sensorial mismo —el que tenía muy en cuenta
+Aristóteles— es su ser [de lo negativo] determinado inmediato”36, es decir, la
+prueba de la contradicción en ese nivel de lo inmediato. Y continúa: “algo solo
+se mueve no en cuanto que está aquí en este ahora y allí en otro ahora, sino
+en cuanto que en uno y el mismo ahora está y no está aquí, en cuanto que en
+este aquí simultáneamente está y no está”37. ¿Hay contradicción aquí, en el sentido que esta palabra tiene para Aristóteles? Entiendo que no la hay en modo
+alguno. Esto tiene que ver con una acentuación máxima de la movilidad. Pero
+en el fondo está en la misma línea que Aristóteles, que definió el movimiento
+como “acto del ente en potencia en cuanto que está en potencia”38.
+Por otra parte, el texto siguiente clarifica más todavía la posición de
+Hegel:
+De igual manera el automovimiento interno, que es el automovimiento
+en sentido propio, el impulso en términos generales (Apetito o nisus de
+la mónada, la entelequia de la esencia absolutamente simple) no es otra
+cosa sino el hecho de que algo es en sí mismo y es además la carencia,
+lo negativo de sí mismo en uno y el mismo aspecto39.
+¿Dónde está aquí la contradicción? En ninguna parte y menos si se
+toma como testigos a Leibniz y a Aristóteles por este orden. Lo que está en
+juego es la actividad que descansa en sí misma. ¿Qué queda entonces del énfasis de Hegel en la contradicción? No la contradicción misma, que es inexistente, sino otras dos cosas: por una parte, la forma intensa y profunda de hacer
+filosofía, la fuerza creativa del mismo lenguaje. Baste el ejemplo siguiente: “La
+razón pensante, sin embargo —a diferencia de la reflexión rica en ocurrencias—, agudiza, por así decirlo, la diferencia opaca de lo diverso, la mera multiplicidad de la representación para convertirla en la diferencia esencial, es
+decir, en la oposición. Solo si son llevadas a la cima de la contradicción las
+cosas múltiples se vuelven activas y vivientes unas frente a otras y adquieren
+
+34
+35
+36
+37
+38
+39
+
+458
+
+O. c., II, p. 58.
+L. c.
+O. c., II, 59.
+L. c.
+Aristóteles, Física III, 2, 1, 201 a 10.
+W.L. II, 59.
+
+
+
+en la contradicción la negatividad, que es la pulsación inmanente del automovimiento y de la vitalidad”40.
+La segunda cosa a que quería referirme es importante también. Se trata
+de la aplicación de esa oposición —que Hegel llama contradicción— a las cosas
+finitas en relación con la demostración de la existencia de Dios. Desde los seres
+finitos y contingentes se puede concluir que existe un ser absolutamente necesario, pero no tomando aquellos como un fundamento (Grund) desde el que
+se llega a Dios, pues en tal caso se invierte el sentido de la demostración y se
+convierte a lo finito en razón de lo absoluto: “porque lo finito existe, existe lo
+absoluto”. Se trata de algo muy distinto: de ver los seres finitos como lo que
+son: contingentes, “un ser caedizo” (fallendes) y contradictorio en sí mismo”.
+Solo desde ahí se puede concluir en un ser absolutamente necesario. Porque
+los seres finitos presentan esa realidad “quebrada” (gebrochen) e inconsistente,
+porque “lo finito es la oposición contradictoria en sí misma, porque propiamente no es, existe lo absoluto”. De forma que Hegel concluye con una de sus
+frases lapidarias: “el no-ser de lo finito es el ser de lo absoluto”41.
+6. A MODO DE CONCLUSIÓN
+La reducción del principio de no-contradicción a una expresión del
+tipo: “si p, no -p” ha traído como consecuencia que concepciones como la de
+Nicolás de Cusa o la de Hegel hayan sido declaradas como falsas e inaceptables. Sin embargo, si se tiene en cuenta que dicho principio brota de las cosas
+mismas, en tanto que ley y a la vez expresión de su auténtica realidad, se comprende que las ideas de los autores mencionados son coherentes con la forma
+en que el principio fue concebido y elaborado por Aristóteles, quien profundizó como pocos en la índole del pensamiento y sus normas.
+
+40
+41
+
+O. c., II, 61.
+O. c., II, 62.
+
+459
+
+
+
+

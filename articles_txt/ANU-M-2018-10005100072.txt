@@ -1,0 +1,898 @@
+CAM BIO TECN O LÓ G ICO , EM PLEO
+Y SISTEM A ED UCATIVO
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+Cari Sagan’s (1980, p. 218):
+“Jfyou wish to
+make an apple pie from scratch, you must
+first invent the universe.”
+
+1. EL ACTUAL PROGRESO TECNOLÓGICO
+
+Estamos asistiendo a un profundo cambio tecnológico. A lo largo de
+cada día efectuamos con toda naturalidad un conjunto de gestos que nos per­
+miten ejecutar tareas que hace pocos años nos hubieran parecido increíbles.
+Parece que la capacidad del ser humano para asimilar innovaciones es enorme
+y que nuestra memoria es frágil. Cuando oí por primera vez a Steve Jobs decir
+en una conferencia que pronto llevaríamos el correo electrónico en el terminal
+telefónico no pude comprenderlo. Más increíble todavía me pareció el anun­
+cio de que recibiríamos prensa y televisión en un aparato que llevamos tan
+cómodamente con nosotros. La realidad es que tenemos en nuestro móvil más
+capacidad de almacenamiento y en nuestro PC portátil más capacidad de cál­
+culo que las que había en los grandes ordenadores de los años 1980.
+Móviles y portátiles nos permiten celebrar teleconferencias gratuita­
+mente con cualquier país. Intercambiamos mensajes de correo electrónico por
+
+* S e sió n d el día 7 d e n o v iem b re d e 2017
+
+51
+
+
+
+distintos medios basados en Internet, de manera gratuita, con todos los rinco­
+nes del mundo; apagamos y encendemos calefacciones y luces, subimos y baja­
+mos persianas en nuestras casas cuando nosotros estamos en cualquier rincón
+del mundo. Accedemos desde nuestro despacho a muchísima más información
+académica que cuando teníamos que invertir tiempo en visitar personalmente
+las bibliotecas universitarias para leer revistas y publicaciones. Nuestros propios
+trabajos de investigación entran en redes que los distribuyen por las distintas
+asociaciones de investigadores en el mismo momento en que los damos por ter­
+minados, adelantando en casi dos años su difusión y ampliándola considera­
+blemente.
+Compramos libros y música que se transmiten en formato digital y que
+disfrutamos a través de ordenador o aparatos electrónicos diseñados a tal fin
+(IPad, lector electrónico de libros). Vemos cine y competiciones deportivas en
+la televisión de nuestra casa a través de Internet. Gestionamos nuestras cuen­
+tas corrientes desde casa, sin necesidad de pasar por la oficina bancada. Pode­
+mos formarnos recibiendo cursos Online lo cual, por otra parte, facilita la lle­
+gada de la formación a rincones que carecen de centros formativos. Las
+aplicaciones a la salud, facilitando el diagnóstico de enfermedades y su trata­
+miento, e incluso realizando intervenciones quirúrgicas, crecen continuamente.
+Estos avances técnicos están cambiando nuestras vidas desde los años
+70 del pasado siglo, y su pleno desarrollo, lejos de haberse completado, todavía
+ha de generar innovaciones que hoy son impensables. Y, sin embargo, hablamos
+ya de una Cuarta Revolución Industrial, concepto introducido por Klaus Schwab,
+fundador y Chairman Ejecutivo del World Economic Forum para denominar un
+conjunto de notables progresos alcanzados en un número de campos tecnológi­
+cos: robótica, inteligencia artificial, aprendizaje automático ( machine learning),
+nanotecnologia, computación cuántica, la biotecnología, el Internet de las cosas,
+la realidad virtual, el desarrollo de nuevos materiales, la impresión 3D y los vehí­
+culos autónomos. Sólo la relación de los mismos ya sugiere que estamos ante un
+proceso de transformación de profundas implicaciones que cambiará el modo en
+que vivimos, trabajamos y nos relacionamos. Todos ellos tienen un gran poten­
+cial para conectar a miles de millones de personas a través de internet y mejorar
+con ello la eficiencia de empresas y organizaciones1.
+Cuando todavía una de cada seis personas vive sin electricidad y más
+de la mitad de la población mundial no tiene acceso a Internet, la velocidad con
+la que se introducen actualmente nuevas tecnologías, no tiene precedentes en
+la historia. Hace tan sólo 10 años, Apple lanzó al mercado el iPhone, el primer1
+
+1 La Prim era R ev o lu ció n Industrial, la q u e a so ciam o s a la m áqu in a d e v ap o r y e l d esarrollo del
+ferrocarril (1 7 6 0 1840), y c o n ep icen tro e n Inglaterra, tardó 120 a ñ o s e n llegar a to d o e l m un do; ah o ra lo s cam ­
+b io s so n g lo b ales e inm ediatos. D esp u és d e la Segu nd a R evolu ción Industrial (sig lo X IX y p rin cipios d el X X )
+
+52
+
+
+
+SmartPhone, y hoy hay 2.000 millones de teléfonos inteligentes en el mundo,
+convirtiéndose, en muchos casos, en elemento esencial del trabajo, y contribu­
+yendo a aumentar la productividad.
+En el núcleo de esta nueva revolución tecnológica encontramos nuevo
+software y sofisticados algoritmos que alimentados con suficiente información
+sobre las decisiones que las personas han tomado en distintos contextos, pue­
+den aprender a tomar decisiones por sí solos. También encontramos redes de
+datos y de sistemas que cada vez están más integradas y conectadas entre sí y
+con el usuario, hoy convertido también en producto y dispuesto a ceder sus
+datos y su intimidad a cambio de mejorar el servicio que recibe. Con la revolu­
+ción digital estamos viendo que campos como la economía y las finanzas van
+de la mano con la psicología; la biología y las ciencias de la salud se integran
+con la estadística y la genética para desarrollar nuevos productos sanitarios y tra­
+tamientos médicos hasta hace poco impensables incluso para los escritores de
+ciencia ficción y que generan en algunos casos conflictos éticos nada triviales.
+Estamos en un momento de transición hacia una revolución tecnoló­
+gica que va a afectar a todos los sectores: salud, servicios legales, sistema finan­
+ciero, transporte, comercio, y las transiciones son dolorosas y están repletas de
+incertidumbre. Su impacto sobre el empleo y sobre los valores imperantes en
+la sociedad no es trivial y representa un gran reto tanto para el sector público
+como para la sociedad civil. El reto para la sociedad es integrar las nuevas tec­
+nologías disruptivas de una manera inclusiva, de modo que todo el mundo
+pueda tener acceso a las mismas2.
+Las predicciones sobre el imparable avance de las nuevas tecnologías
+no son compartidas por todos. Según Robert Gordon, un conocido economista
+de Northwestern U., el periodo de mayor avance tecnológico no sería la computarización de finales del siglo XX y comienzos del XXI, sino los cien años
+transcurridos desde los primeros 1870 hasta los primeros 1970. Durante ese
+período, denominado de “Gran Innovación” se descubrió la electricidad y se
+desarrolló un conjunto de aparatos eléctricos, el motor de combustión interna,
+que revolucionó el transporte, una gran mejoría en condiciones sanitarias
+debido al agua corriente, fontanería y calefacción central, la tecnología que
+permitió el desarrollo de muchos productos farmacéuticos, los plásticos y otros
+productos químicos; y la introducción de la tecnología del entretenimiento y las
+comunicaciones (cine, TV). Desde entonces el cambio tecnológico estaría fre­
+nándose al ser cada vez más evidentes las dificultades que tiene la humanidad
+
+fu e po sib le p o r la llegada d e la electricidad y la cad en a d e m on taje. La tercera, co m ien za e n la d écad a d e 1960
+y la co n o cem o s co m o la revolución inform ática q u e hizo posible el desarrollo d e los sem iconductoresy los orde­
+n ad ores p erson ales (7 0 s-8 0 s) y, finalm ente, la llegad a d e In tern et e n la d écad a d e los 90s.
+2 Vivir en tiem pos d e la cu arta R evolución In du strial, Luis T orras, W orld E co n o m ic Forum .
+
+53
+
+
+
+para descubrir innovaciones relevantes. El crecimiento anual de la renta per
+cápita en EEUU se aceleró hasta alcanzar un 2,5% en media entre 1950 y la cri­
+sis del petróleo de 1973- En las cuatro décadas siguientes, el crecimiento se ha
+reducido una tercera parte, y nunca se volvieron a alcanzar tasas de crecimiento
+por encima del 4%; una ralentización similar se ha producido en el resto del
+mundo desarrollado, aunque no de modo tan claro.
+2 . CAMBIOS EN HÁBITOS SOCIALES
+
+Sea un cambio tecnológico limitado o uno en franca expansión, es
+indudable que genera un beneficio social, aunque no está exento de costes. Las
+agencias de viaje, las tiendas de discos, las librerías que conocíamos están en
+desaparición y, con ellas, la aportación cultural que en muchos casos represen­
+taban. También sus competidores iniciales, las grandes superficies, ven ahora
+como su negocio se desplaza a proveedores Online, que están dando señales
+de querer convertirse en la gran superficie global y online del futuro.
+Los cambios tecnológicos generan cambios en los hábitos sociales,
+muchos de los cuales han sido espoleados por lo que se ha dado en llamar la
+economía colaborativa. Muchos jóvenes se plantean que no necesitan tener un
+coche, lo que necesitan es movilidad, lo que explica que servicios de coche
+compartido estén teniendo tanto éxito. De hecho, grandes fabricantes de coches
+están comenzando a considerar estrategias adaptadas a un escenario futuro en
+el que posiblemente solo una pequeña parte de su producción vaya destinada
+a ser propiedad de particulares, y están creando sus propias compañías de
+coches compartidos.
+También hay cambios en la concepción de empresa, tanto en su estruc­
+tura como en sus modos de financiación. The “big three” companies in Silicon
+Valley in 2014 had the same revenues as the big three Detroit car companies in
+1990, three times the market capitalization, and one-tenth the workers. Airbnb
+no tiene ninguna casa de su propiedad, pero su actividad consiste en alquilar
+alojamiento. Uber no tiene coches de su propiedad, pero su negocio consiste
+en vender trayectos en coche. Son compañías importantes, con un valor entre
+30 y 50 m.m. de dólares pero con un inmovilizado material muy reducido, por
+lo que sus necesidades de financiación son asimismo pequeñas e incurren en
+un reducido riesgo financiero. Estas empresas pueden operar ahora gracias a
+que andamos por la calle con una enorme capacidad de intercambio de infor­
+mación en nuestro bolsillo, que igual nos permite encontrar donde está apar­
+cado un coche compartido, que hacer una reserva en un restaurante, o sacar
+entradas para el cine o teatro. Su plantilla está formada en gran parte por traba­
+jadores autónomos, quienes aportan la mayor parte del capital físico de la
+empresa, por lo que el riesgo acerca de la evolución del negocio es asumido en
+buena parte precisamente por los trabajadores, no por la propia empresa.
+54
+
+
+
+Las nuevas tecnologías permiten también a las empresas tener acceso
+a vías de financiación que antes no existían ( crowdfunding). Hacen posible
+que emprendedores modestos puedan encontrar financiación para sus proyec­
+tos, sin que quien aporta fondos tenga que asumir un coste elevado ni un riesgo
+importante sobre los resultados que puedan derivarse del proyecto empresa­
+rial en el que invierte. Facilitan unas posibilidades de inversión al margen de
+los mercados financieros, que están llamadas a ser muy significativas en el
+futuro.
+La economía digital, y la economía colaborativa en particular, muestran
+otro de los grandes cambios sociales, la relación entre trabajadores y empresa.
+Las nuevas plataformas permiten organizar la actividad económica de modo
+muy diferente, haciendo que lo que antes realizaba el trabajador full-time, ahora
+lo haga un grupo de empresarios individuales y trabajadores contratados a
+demanda para la realización de proyectos específicos. En el futuro un porcen­
+taje significativo de trabajadores tendrá relaciones con la empresa mediante con­
+tratos de corto plazo, para la realización de proyectos concretos y de tipo freelance, una tendencia que parece irreversible.
+3 . LA PREOCUPACIÓN PO R EL DESEMPLEO:
+VISIONES ALTERNATIVAS
+
+Al surgir en un momento en que las economías desarrolladas están
+estancadas en un contexto de baja productividad, el cambio tecnológico genera
+esperanzas de que el acceso a nuevas tecnologías mejore la productividad, y
+con ella el empleo, la renta y el bienestar. Desde este punto de vista, el pro­
+greso tecnológico no puede sino traer beneficios a la sociedad, generando acti­
+vidades productivas nuevas que puedan acoger a los trabajadores que resulten
+excedentes debido a la incorporación de ordenadores y robots en las activida­
+des productivas tradicionales.
+Existe también una visión opuesta: los notables avances en computa­
+ción y en robótica permiten automatizar muchas actividades productivas con
+mucho menor recurso a la mano de obra humana, sin que ello rebaje necesa­
+riamente ni la calidad del producto ni la seguridad del mismo. Apreciando la
+dificultad de reubicar trabajadores en otras actividades, Brynjolfsson y McAfee
+sugirieron en su libro de 2014 que estamos ante una “Second Machine A gé’: Los
+robots van siendo cada vez más baratos, a la vez que más capaces de realizar
+tareas crecientemente complejas. Esto hará que, en el futuro, las empresas man­
+tengan trabajadores solo en la medida en que realicen tareas que los robots no
+puedan realizar, o que las lleven a cabo con un ahorro de costes frente a la
+introducción de robots y ordenadores: La consecuencia serán tasas de desem­
+pleo persistentemente elevadas, constituidas por un importante contingente de
+desempleados difícilmente empleables [“Nunca ha habido un tiempo peor para
+55
+
+
+
+ser un trabajador con las capacidades estándar, porque los robots las van a
+adquirir rápidam ente, Second Machine Age, Brynjolfsson y McAfee].
+La preocupación por el desempleo tecnológico no es nueva. A lo largo
+de la historia, los procesos de destrucción creativa que han seguido a las inno­
+vaciones tecnológicas han creado mucha riqueza, pero también conflictos no
+deseados. Decía Schumpeter (1962) que no es la ausencia de ideas innovado­
+ras lo que fija los límites al desarrollo económico, sino la existencia de podero­
+sos intereses económicos y sociales que promueven el status quo tecnológico
+(en líneas similares se pronunció Mokyr (1998)). Acemoglu y Robinson citan el
+caso de W. Lee, inventor de la máquina para tejer medias en 1589. Quizá el
+levantamiento más conocido en contra del progreso tecnológico es el del movi­
+miento Luddita3 entre 1811 y 1816, cuando un grupo de artesanos ingleses pro­
+testaron contra la automatización de la producción textil por la destrucción de
+empleo que implicaba, llamando a la destrucción de máquinas. De esta expe­
+riencia aprendimos, entre otras cosas, que la imposición de restricciones a la
+incorporación de tecnología en un intento de evitar la pérdida de empleos
+resulta contraproducente en el largo plazo.
+La preocupación acerca de la sustitución de trabajadores por máquinas
+data de siglos atrás, pero se ha repetido durante las últimas 3 ó 4 décadas.
+ÍTimeC1964), bajo presidente Johnson], En 1978 Der Spiegel titulaba: “La revo­
+lución de los ordenadores: el progreso crea desempleo". El argumento era que
+la generalización del uso de ordenadores difería de innovaciones tecnológicas
+previas, puesto que eliminaba puestos de trabajo en sectores automatizables,
+pero no contribuía a crear un número suficiente de nuevos empleos en la fabri­
+cación de ordenadores o en otras áreas de la economía. El artículo también
+citaba la predicción de un líder sindical acerca de que en el año 2000 una
+mayoría de empleos habría sido sustituidos por ordenadores.
+La realidad es que el progreso tecnológico y la automatización que
+han tenido lugar a lo largo de los dos últimos siglos no han dejado obsoleto al
+trabajo humano. El porcentaje de población empleada creció a lo largo del
+siglo 20 a pesar de la notable incorporación de la mujer al mercado de trabajo
+y se ha mantenido bastante estable. Aunque la tasa de paro fluctúa con el ciclo
+económico, no hay ningún indicio de existencia de una tendencia de largo
+plazo al alza. Tampoco el desempleo ha experimentado una tendencia alcista
+a lo largo del tiempo, pues los trabajadores han encontrado nueva oportunida­
+des de empleo en industrias como la asistencia sanitaria, las finanzas, o las acti­
+vidades de ocio y entretenimiento, cuyo aumento en términos relativos como
+porcentaje del empleo total hubiera sido difícil anticipar hace unas décadas.
+
+3 El m o v im ien to tie n e la d en o m in a ció n d e L u ddite e n in g lés, p o r su líd er N ed Ludd.
+
+56
+
+
+
+La evidencia empírica muestra que, en el largo plazo, las ganancias de
+productividad no han generado un descenso en la demanda de bienes y servi­
+cios. Al contrario, el consumo de los hogares ha crecido con en paralelo con
+la renta. Podríamos vivir ahora como en 1915 trabajando 17 semanas al año,
+pero preferimos trabajar más. Es cierto que en países de renta alta se trabaja
+menos, pero en ellos el consumo y el ocio parecen ser complementarios.
+Que no haya habido efectos sobre el empleo no significa que no haya
+habido una importante recomposición sectorial del trabajo: en 1900, todavía
+un 41% de la mano de obra en EEUU trabajaba en la agricultura; en 2000, dicha
+proporción se había reducido a un 2%, debido, fundamentalmente, a un amplio
+rango de tecnologías, incluyendo la maquinaria automatizada, a pesar de lo
+cual, la producción agrícola es ahora mucho mayor. La producción en masa de
+automóviles redujo drásticamente la demanda de herreros y operarios mecáni­
+cos, del mismo modo que las sucesivas oleadas de equipamiento para mover
+tierra y herramientas potentes desplazaron mano de obra de la construcción.
+Los ordenadores hacen hoy buena parte del lento trabajo administrativo que
+antes se hacía sobre papel, con una dramática ganancia en almacenamiento,
+corrección de errores y localización de datos. En este tipo de actividades se ha
+producido un drástico descenso de empleo que se ha desplazado a otros sec­
+tores, en algunos casos nuevos: salud, ...
+La negativa visión del impacto de las nuevas tecnologías sobre el
+empleo se basa en buena parte en la errónea percepción de que la cantidad de
+trabajo en la economía está dada. Si así fuese, el uso creciente de máquinas
+necesariamente reduciría el empleo disponible para los seres humanos. Esta
+es una falacia que ignora dos canales a través de las cuales las nuevas tecno­
+logías pueden crear empleo: 1) una nueva tecnología está frecuentemente aso­
+ciada a la aparición de nuevas industrias y ocupaciones. Las nuevas tecnologías
+crean trabajos que requieren una mayor capacitación que los que destruyen,
+tanto si es para el mantenimiento de un robot en sustitución de las tareas que
+éste ha asumido, o para interpretar el output de un algoritmo analítico en vez
+de hacer los cálculos que ahora hace realiza un ordenador, 2) se genera un
+estímulo que opera a través de cambios en los precios y en el gasto en con­
+sumo. Por ejemplo, la producción en masa en la industria textil generó un nota­
+ble descenso en el precio de la ropa, que permitió a los consumidores com­
+prar la misma cantidad de ropa a un precio menor, con un ahorro que pudieron
+canalizar hacia la compra de otros bienes y servicios. A su vez, al aumentar la
+demanda de esos otros bienes y servicios genera un incremento en producción
+y empleo en otros sectores de la economía, especialmente en aquellos que no
+están directamente expuestos a la nueva tecnología que ahorra en trabajo.
+Además de estos canales de generación de empleo, conviene tener en
+cuenta que la automatización puede elevar el valor de las tareas que los traba­
+jadores proporcionan de manera no sustituible. La mayoría de los procesos pro­
+57
+
+
+
+ductivos descansan en un conjunto de inputs de naturaleza múltiple, que requie­
+ren en determinadas dosis: trabajo, capital, inteligencia, creatividad, maestría
+técnica, intuición e inspiración. Todos ellos juegan un papel esencial, de modo
+que ganancias en productividad en alguna tarea incrementa el valor económico
+de las restantes tareas, que continúan siendo necesarias. Suele proponerse como
+ejemplo que hace años sacábamos dinero del banco acudiendo a la oficina y
+pidiéndolo al cajero. Hoy los cajeros automáticos hacen el trabajo. ¿Significa eso
+que ha descendido el empleo en la atención al público bancario? Al contrario,
+en países como EEUU hay muchos más empleados en oficinas bancarias que
+cuando se introdujeron los cajeros automáticos en los 90, solo que llevan a cabo
+servicios de mayor valor añadido, vendiendo otros productos financieros y asesoramiento a los clientes.
+Es habitual sobreestimar el efecto negativo de la sustitución de trabajo
+humano por máquinas, ignorando estos efectos colaterales que pueden ser muy
+positivos, y que pueden compensar en buena parte el desplazamiento de traba­
+jadores producido por la introducción de innovaciones tecnológicas.
+En experiencias pasadas de cambio tecnológico el balance final del
+efecto sobre el empleo ha sido positivo, pero se argumenta con frecuencia que
+esta vez es diferente, y que un poder de computación mucho mayor que nunca,
+junto con la potencia de la inteligencia artificial para la resolución de problemas
+y el desarrollo técnico de la robótica generan un contexto mucho más favora­
+ble para la sustitución del trabajo humano por ordenadores y robots. En el
+pasado las máquinas nos asistían, nos ayudaban, pero esta vez es diferente,
+ahora contamos con máquinas “inteligentes” a las que podemos confiar la toma
+de decisiones. Es posible que el ritmo al que descubrimos formas de economi­
+zar en el uso de trabajo sea más rápido que el de encontrar nuevos usos para
+el trabajo (Keynes 1933) y que el desempleo aumente más que en episodios
+anteriores de cambio tecnológico.
+Hasta ahora, el trabajo humano ha prevalecido por su capacidad para
+adoptar y adquirir nuevas capacidades mediante la educación [Goldin y Katz
+(2008)], pero según la computarización entra en dominios más cognitivos, la
+prevalencia del trabajador humano se puede hacer cada vez más difícil. En esta
+línea, Beaudry et al. (2013) documentan un descenso en la demanda de traba­
+jadores de ato nivel educativo en los últimos años, a la vez que se ha ido pro­
+duciendo una mayor oferta de los mismos. Cuando esto sucede, los trabajado­
+res altamente capacitados descienden en la escala ocupacional, ocupando
+empleos que antes desarrollaban trabajadores de menor capacitación, y despla­
+zando a estos más hacia abajo o incluso echándoles de la fuerza laboral. Lo cual
+genera dudas tanto acerca de la capacidad de la raza humana de ganar la carrera
+contra la tecnología por medio de la educación, y desencadena una preocupa­
+ción acerca de cuál pueda ser el nivel de desempleo tecnológico al que nos
+enfrentemos en el futuro, según el progreso vaya elevando la rotación de tra­
+bajadores y con ello, el desempleo estructural.
+58
+
+
+
+Ahora bien, si tan grave es la amenaza sobre los puestos de trabajo
+actualmente existentes ¿no debería sorprendernos que la automatización no
+haya eliminado el empleo para la gran mayoría de trabajadores? Para respon­
+der a esta pregunta es preciso examinar más detalladamente la estructura y
+características del empleo.
+4 . DOS MODELOS:
+SK ILL-B A SED TECH NO LO GICAL C H A N G E (SBTC)
+FRENTE A TA SK -BIA SED TECH NO LO GICAL C H A N G E (TBTC )
+
+La tecnología manufacturera del siglo XIX desplazó trabajos de cierto
+nivel de capacitación, sustituyendo talleres de artesanos por fábricas, mediante
+una simplificación y estandarización de las tareas que estos llevaban a cabo.
+Pero no es hasta finales del XEX cuando se observa la complementariedad entre
+capital productivo y competencias profesionales, como se apreció al sustituir
+el vapor y la energía hidráulica por energía eléctrica. A partir de la electrifica­
+ción, hemos asistido a una carrera entre educación y tecnología. En la primera
+mitad del siglo XX, el movimiento que en EEUU se propuso implantar con
+carácter universal la educación a nivel de high-school coincidió con el momento
+en que la segunda revolución industrial llega a las oficinas. Esto hizo que el
+mayor número de graduados medios se encontrara con un recorte en la prima
+salarial que recibían las ocupaciones administrativas respecto de las de pro­
+ducción (fábrica) entre 1915 y 1980, debido a que la oferta de trabajadores con
+un grado medio creció todavía más rápidamente que su demanda. Desde 1980,
+tanto la brecha salarial a favor de los trabajadores de mayor nivel educativo
+como la desigualdad salarial han aumentado significativamente en un número
+de países, debido a la heterogénea complementariedad entre capacidades pro­
+fesionales y tecnología.
+Precisamente los ordenadores pasaron a ser un tema relevante en los
+años 90 al observarse que la brecha salarial entre trabajadores con educación
+universitaria y aquellos con un nivel educativo inferior había aumentado rápi­
+damente en la década previa en EEUU y también en otros países desarrollados.
+Una explicación que se hizo popular era que se estaba produciendo un pro­
+greso técnico que era intensivo en mano de obra cualificada: la introducción
+de nuevas tecnologías y de máquinas aumenta la productividad de todos los tra­
+bajadores, pero dicha ganancia es mayor para los trabajadores más educados,
+lo que hace que las empresas aumenten su demanda de los mismos al ser más
+productivos, elevando sus salarios.
+Mediante un detallado estudio de campo Autor, Levy y Murnane (2003)
+concluyeron que los ordenadores no tienen un impacto diferencial sobre tra­
+bajadores en función de su nivel educativo, sino que más bien influye sobre el
+contenido de las tareas que los trabajadores desempeñan en sus distintas ocu­
+59
+
+
+
+paciones, lo que les llevó a formular una teoría más refinada acerca de dicho
+impacto, conocida como progreso técnico basado en tareas.
+De acuerdo con esta teoría, los ordenadores ejecutan perfectamente
+tareas que siguen una rutina bien pre - definida, fácilmente programable. Estas
+“tareas rutinarias” forman parte a menudo del trabajo productivo de carácter
+repetitivo: por ejemplo, las líneas de producción y montaje de coches requie­
+ren que se repitan exactamente los mismos pasos, con un mínimo margen para
+el error si queremos asegurar una alta calidad del producto y una fácil sustitu­
+ción de los componentes cuando se estropeen. Los robots son mucho mejores
+que los humanos en ejecutar ese trabajo repetitivo con alta precisión. Las
+“tareas rutinarias” aparecen también en ocupaciones administrativas que se ocu­
+pan del proceso de datos, o del almacenamiento, extracción y transmisión de
+datos. Cuando tales tareas se realizan de acuerdo con unas reglas claramente
+especificadas pueden ser ejecutadas por un ordenador, lo que explica que los
+ordenadores realicen actualmente muchas tareas que hace solo treinta años
+eran realizadas por contables, administrativos o secretarias.
+Pero aun siendo a menudo mejores que los humanos para tareas ruti­
+narias, los ordenadores tienen importantes limitaciones en la ejecución de otro
+tipo de tareas. Las máquinas que siguen un programa pre - especificado no
+generan ideas nuevas ni innovaciones, y no reaccionan fácilmente a imprevis­
+tos, porque el número de contingencias que pueden incluirse en un programa
+informático es siempre limitado. Además, carecen de buenos interfaces para tra­
+tar con personas y objetos, son limitados en la comunicación verbal con huma­
+nos, y tienen dificultades en el reconocimiento y manejo de objetos, tareas
+todas ellas que requieren versatilidad y adaptación al entorno. El progreso téc­
+nico basado en tareas cataloga las tareas que implican intuición, creatividad,
+capacidad para resolver problemas, dotes de persuasión, etc., como “tareas
+abstractas”. Estas dependen de la habilidad humana para reaccionar ante nue­
+vos desarrollos y problemas y deducir nuevas ideas y soluciones. Son ocupa­
+ciones que habitualmente recaen en directivos, ingenieros, médicos, investiga­
+dores, que requieren un alto nivel de habilidad cognitiva. Los ordenadores no
+son buenos sustitutos del trabajo humano en estas tareas, pero pueden ser bue­
+nos complementos: muchas tareas abstractas pasan a ser más productivas
+cuando los ordenadores permiten un almacenamiento, procesamiento y trans­
+misión de datos más rápido y barato. A modo de ejemplo, el efecto de la intro­
+ducción del ordenador personal sobre la productividad de los investigadores
+en los últimos 30 años ha sido enorme.
+El tercer grupo de tareas en TBTC es el de “tareas manuales”, caracte­
+rizadas por una combinación de habilidades relacionadas con movimientos
+relativamente complejos, reconocimiento visual y comunicación verbal. Apare­
+cen en servicios de atención personal, frecuentemente de bajo nivel de capa­
+
+60
+
+
+
+citación, como en camareros, cuidadores de niños, peluqueros, pero también
+en determinado tipo de transporte y en trabajos de reparación y construcción.
+Los trabajadores en estas ocupaciones requieren una formación educativa
+media, puesto que se trata de tareas que se basan en habilidades básicas como
+la comunicación verbal, el reconocimiento de personas y objetos, y el manejo
+y movimiento de determinados objetos con las manos. Los ordenadores tienen
+escaso impacto directo sobre este tipo de trabajos, que no son fácilmente automatizables, y que no se benefician substancialmente de una interacción con
+ordenadores en el lugar de trabajo. Comparados con los humanos, los robots
+suelen ser muy limitados en su adaptabilidad física y no pueden coger o lim­
+piar muchos tipos de objetos. Por ejemplo, al limpiar una habitación un robot
+no es capaz de distinguir entre una caja de pizza y un joyero ¿debe tirarse a la
+basura una de ellas y no la otra? Este es el tipo de trabajos manuales que son
+difícilmente automatizables.
+Por tanto, esta teoría nos sugiere pensar que los trabajos están com­
+puestos por muchas tareas, y mientras la automatización y la computarización
+pueden sustituir algunas de ellas, la interacción entre tecnología y empleo va
+mucho más allá de una mera sustitución de personas por ordenadores y robots.
+Hemos de pensar acerca del rango de tareas involucradas en cada trabajo, y del
+modo en que el trabajo humano puede complementar a la nueva tecnología.
+Otra consideración es que los trabajadores humanos ejecutan a menudo un
+conjunto de tareas más diverso que aquellas que un ordenador o un robot pue­
+den sustituir. El conductor de un camión de transporte no solo conduce; super­
+visa e incluso realiza tareas de carga y descarga, y se encarga de las tareas
+administrativas relacionadas. Frecuentemente, un trabajo puede disociarse en
+un conjunto de tareas algunas de las cuales son automatizables, pero no otras,
+como sucede con un cajero de banco, aunque no siempre es factible. Un ejem­
+plo más extremo es el del piloto de aerolínea, que es no sustituible porque
+debe estar en condiciones de reaccionar ante muchos tipos de imprevistos.
+5 . POLARIZACIÓN DEL EM PLEO Y LOS SALARIOS
+
+Autor y Dorn (2013) observaron que en la segunda mitad del siglo XX,
+el empleo evolucionó de acuerdo con las predicciones de la TBTC4. En las ocu­
+paciones profesionales y de gestión y dirección, que son “tareas abstractas”, así
+como en servicios de baja capacitación, ricos en “tareas manuales”, el empleo
+ha aumentado desde los 80; simultáneamente, ha descendido en trabajos inten­
+sivos en tareas rutinarias, como suelen ser algunos de los trabajos minería, agri­
+cultura, construcción y transporte. Conclusiones similares emergen del análisis
+de Katz y Margo (2014) al examinar los cambios registrados en el número de
+4 A utor (2 0 1 5 ) o b serv a resultados sim ilares en tre 1 9 8 0 y 2012.
+
+61
+
+
+
+trabajadores empleados en siete categorías ocupacionales básicas5, ordenadas
+desde salarios bajos a altos durante dos periodos: 1940-1980 y 1980-2010. Estos
+autores muestran un comportamiento muy diferenciado del empleo en ambos
+periodos, como consecuencia de la predominancia de fuerzas distintas, según
+sea la oferta relativa de trabajadores con educación media o sin ella, la afilia­
+ción sindical, el grado de offshoring, la globalización de las cadenas de produc­
+ción, etc..). Estas observaciones empíricas son plenamente consistentes con la
+teoría.
+La TBTC implica efectos diferenciados de la computarización sobre
+ocupaciones que utilizan diferentes tareas, pero tiene también efectos indirec­
+tos sobre la desigualdad entre trabajadores con distinto nivel educativo o dis­
+tinto nivel de renta. Esto se debe a que, como han señalado Goos y Manning
+(2007), las ocupaciones rutinarias en líneas de producción y en tareas adminis­
+trativas, que son fácilmente automatizables, tienden a estar agrupadas hacia el
+centro de la distribución de salarios, por lo que la polarización del empleo
+entre trabajos manuales y abstractos tiende a generar mayor desigualdad en la
+distribución de salarios. Goos, Maning y de Salomón (2009) muestran que la
+evidencia de polarización salarial se observa en muchos países a pesar de las
+sustanciales diferencias que presentan los países analizados, entre los que se
+encuentra España, en términos de estructura productiva, regulación laboral y
+en pautas de crecimiento: en los 16 paises europeos que consideran, además
+de EEUU, el porcentaje del empleo con salarios intermedios ha descendido,
+mientras que el empleo con salarios bajos o elevados ha aumentado.
+Que la polarización del empleo genere una polarización salarial
+depende de tres fuerzas mitigantes: el grado de complementariedad de los tra­
+bajadores con las nuevas tecnologías, la elasticidad de la demanda, y la evolu­
+ción de la oferta de trabajo [Autor (2015)]. Un análisis de estas fuerzas explica
+el fuerte crecimiento salarial observado generalmente en tareas abstractas6, a
+diferencia de lo que sucede en trabajos intensivos en tareas manuales, en los
+que las elasticidades respecto de la renta y los precios son moderadas, y la
+oferta de trabajadores es amplia. Por tanto, no es evidente que la polarización
+de empleos conduzca a una polarización salarial, aunque casi inevitablemente
+generará mayor desigualdad.
+
+5 O cu p a cio n e s a g ríco las, serv icio s, o p era rio s, artesan os, co m ercia les, gestores/ m an agers, p ro fesio n ales/ técn ico s.
+6 A lta co m p lem en taried ad , alta elasticid ad d e d em an da, red ucid a oferta d e trab ajad ores altam en te
+ca p a cita d o s.
+
+62
+
+
+
+6 . SUSTITUCIÓN DE TRABAJADORES HUMANOS
+POR MÁQUINAS
+
+¿Cuál es la magnitud de la sustitución de trabajadores humanos por
+máquinas? Entre los trabajos de investigación recientes que han estimado la
+posible destrucción de empleo debida a la gradual automatización de algunas
+tareas, quizá el más reconocido es el trabajo de Frey y Osborne (2013), quie­
+nes consideran 703 ocupaciones diferentes en Estados Unidos (tomadas de la
+base de datos 0*NET) a cada una de las cuales atribuyen una probabilidad de
+automatización basada en los avances tecnológicos esperados7. Concluyen que
+el 33% del empleo actual se realiza en tareas que tienen una reducida proba­
+bilidad de ser automatizadas, el 19% del empleo se encuentra en tareas de pro­
+babilidad media, y el 47% del empleo en tareas de probabilidad alta. Sorpren­
+dentemente, existe bastante consistencia con los resultados alcanzados por
+otros estudios sobre la previsible evolución del empleo en la OCDE. También
+McKinsey estima que, con la tecnología actual, aproximadamente la mitad de
+las tareas que desarrollamos las personas pueden automatizarse.
+No puede sorprender que la predicción acerca de la posible automati­
+zación de casi la mitad del empleo actual se haya convertido rápidamente en
+una referencia muy repetida en prensa y en páginas Web. Son cifras impactan­
+tes y, sin duda, hay que tenerlas en cuenta, si bien el tipo de análisis que las
+genera no está exento de limitaciones, puesto que: a) no establece un marco
+temporal a lo largo del cual pueda tener lugar el proceso de automatización, b)
+no considera que el hecho de que una tecnología pueda reemplazar a un tra­
+bajador no significa que ello vaya a producirse, pues depende de la evolución
+del coste relativo de trabajadores y máquinas, así como de aspectos legales, c)
+considera la destrucción de empleo en términos brutos, no netos, puesto que,
+como ya comenté, la automatización no impide la creación de nuevos empleos
+asociados a las nuevas tecnologías, o mediante la expansión del empleo en
+tareas no automatizables.
+Pero lo que, a mi juicio, es quizá aún más interesante del análisis de
+Frey y Osborne, es la estimación de que solo 5% de los empleos se pueden
+automatizar por completo. Esto significa que, de modo creciente, todos los
+empleos se van a ver afectados, e irán cambiando, en algunos casos de modo
+dramático, según las máquinas, la inteligencia artificial y los algoritmos de
+aprendizaje automático vayan asumiendo tareas. Las personas nos iremos
+haciendo complementarios con el trabajo que realizan las máquinas, y apare­
+cerán muchos trabajos que explotarán todas las nuevas oportunidades que
+ofrece la tecnología. Simultáneamente, también cambiará de manera sustancial
+el modo en que organizamos el trabajo, lo que nos irá alejando del empleo a
+tiempo completo y de la vinculación a una determinada empresa.
+7
+U tilizand o u n a m eto d o lo g ía sim ilar a B lin d er (2 0 0 9 ) q u ie n co n clu y ó q u e en tre 22% y 29% de
+lo s trab ajo s realizado s e n EEU U era n su scep tib les d e se r transferidos a otro s p aíses.
+
+63
+
+
+
+7.
+RETOS PARA LA POLÍTICA ECONÓMICA:
+CRECIM IENTO, EM PLEABILIDAD, DESIGUALDAD
+
+¿Cómo decidimos cual es el ritmo óptimo de desarrollo y adopción de
+tecnologías? Una automatización rápida dejará sin trabajo a más perso­
+nas, pero el hecho es que necesitamos las máquinas para continuar creciendo
+al ritmo necesario para alcanzar los niveles de prosperidad y bienestar desea­
+dos. Pero la automatización desplaza trabajo humano y el reto para la política
+económica será resolver el problema de reubicación masiva de trabajadores.
+Esta es una de las cosas que no supimos hacer con la globalización,
+que resultó muy provechosa para el crecimiento económico y para los consu­
+midores, quienes se beneficiaron de productos más baratos. Pero no nos ocu­
+pamos apropiadamente de los trabajadores que quedaron sin empleo o que
+tuvieron que desplazarse a otra parte del mundo. No podemos permitirnos que
+aparezca una clase de trabajadores que ni tienen empleo ni son empleables. Si
+los trabajadores no tienen una cierta confianza acerca de su renta futura ¿cómo
+van a comprar un coche o una casa? ¿cómo van a tener una cierta garantía de
+que sus hijos accedan a los niveles de educación que deseen?
+Crecimiento y empleabilidad se beneficiarán si avanzamos en la reduc­
+ción de las barreras a la creación de empleo, a la inversión y al crecimiento de
+las empresas, facilitando la financiación de actividades de emprendimiento, y
+vinculando los beneficios al trabajador más que al puesto de trabajo. En parti­
+cular, España continúa apareciendo en mala posición en los rankings interna­
+cionales sobre los costes y trámites administrativos para la apertura de empre­
+sas, lo cual debiéramos mejorar definitivamente. La transformación tecnológica
+del sector público debería cumplir la promesa tantas veces anunciada de dis­
+poner de una ventanilla única en la que, además, las distancias instancias de
+la Administración compartan la información de que disponen, simplificando
+todo tipo de trámites.
+Fiscalidad: Es preciso avanzar hacia una estructura fiscal eficiente que
+elimine deducciones fiscales y permita aproximar el tipo impositivo efectivo al
+tipo estipulado legalmente. El objetivo es disponer de un sistema redistributivo
+que ofrezca protección social sin perjudicar al empleo ni sea un freno a la
+inversión. Contra algunas propuestas, no parece que tenga sentido frenar el
+progreso con impuestos sobre el uso de inteligencia artificial, la utilización de
+big data o con impuestos sobre la automatización pues ¿cómo definiríamos
+qué es un robot? El reto consiste en diseñar formas para repartir equitativa­
+mente la riqueza, no en frenar su creación8.
+
+8 E lfu tu ro d el em pleo, D omenech et al., (2 0 1 7 ), BBVA R esearch .
+
+64
+
+
+
+Políticas de empleo: Conviene mejorar la eficacia de las políticas acti­
+vas y pasivas de empleo, en un intento de aumentar la empleabilidad, reducir
+la duración de los períodos de paro y mejorar la cobertura de las prestaciones
+de desempleo. El proceso de emparejamiento entre vacantes y desempleo
+puede ser más eficaz si se basa en una plataforma pública que utilice big data
+de forma inteligente y aproveche economías de escala, permitiendo anticipar
+las necesidades de las empresas y confiando la formación de trabajadores a
+centros de calidad. Harris y Krueger (2015) han hecho propuestas interesantes
+para modernizar las regulaciones laborales para el siglo XXI atendiendo a las
+necesidades de un profesional autónomo y de los nuevos intermediarios en el
+mercado de trabajo.
+Desigualdad: El cambio tecnológico tiende a generar desigualdad entre
+trabajadores de distintas capacidades, entre empresas, entre regiones y entre
+países. Desigualdad entre empresas, pues se produce una importante brecha
+entre las empresas líderes en su campo, que saben cómo utilizar las nuevas tec­
+nologías y mejorar su productividad, y muchas otras empresas, más pequeñas
+y más jóvenes, que van a tener dificultades en alcanzar dicha capacidad por­
+que necesitan el personal con la adecuada capacitación, la gestión apropiada,
+los medios de financiación.
+En países donde existe una estructura sectorial diferenciada por regio­
+nes, el cambio tecnológico puede incidir de modo muy distinto, generando
+desigualdad entre regiones. La preocupación por la pérdida del empleo será
+entonces muy diferente entre regiones, y este temor puede generar también una
+polarización política, como parece haber sido el caso en la última elección pre­
+sidencial estadounidense.
+Tampoco todos los países tienen la misma capacidad de computarización ni automatización: los países más avanzados encarnarán los cambios tec­
+nológicos con mayor rapidez, pero los expertos destacan que son las econo­
+mías emergentes las que podrán sacarle un mayor beneficio. Tengamos en
+cuenta que en África sub-sahariana hay más personas con teléfono que con
+acceso a agua potable (Hawking, 2016).
+Cómo facilitar la búsqueda de empleo en un contexto de continuo y
+rápido progreso tecnológico y evitar el aumento de desigualdad que pueda
+desencadenar a distintos niveles son dos difíciles retos que se suman a las
+tareas de la política económica8
+8 . EDUCACIÓN
+
+Es habitual que los estudios que analizan el impacto del cambio tec­
+nológico sobre el empleo finalicen apelando al importante papel que el sistema
+educativo debe desempeñar en el nuevo contexto laboral. Pero no se sugieren
+65
+
+
+
+reformas específicas, sino que se apela a la necesidad de un proceso conti­
+nuado de formación y actualización de conocimientos que el sistema educativo
+deberá facilitar de algún modo.
+Los ordenadores y la automatización están transformando la composi­
+ción ocupacional del mercado laboral y ello hace que los jóvenes tomen parte
+hoy en el sistema educativo en un contexto de gran incertidumbre, por tres
+razones. Primero, porque muchos de ellos se enfrentarán a trabajos que no
+podemos ni imaginar ahora, y tendrán contacto con tecnologías que no hemos
+soñado. Segundo, inquietud acerca de las posibilidades de encontrar un empleo
+del que han visto disfrutar a las generaciones previas, porque las economías
+desarrolladas no están mostrando una gran capacidad de generar nuevos
+empleos. Tercero, porque no es sencillo saber en qué tipo de capacidades vale
+la pena invertir pensando en que resulten útiles durante los próximos 30 años.
+Quizá la contrapartida sea que en el futuro sean menos importante los conte­
+nidos que se aprenden que las capacidades que se adquieran.
+La polarización del empleo que antes describí es especialmente pro­
+nunciada entre los jóvenes, que se concentran desproporcionadamente en tra­
+bajos de alta y de baja remuneración salarial. La mayor disponibilidad de
+empleos en servicios de baja capacitación ofrece oportunidades laborales a tra­
+bajadores con poca educación formal, pero los trabajadores que se van a bene­
+ficiar más del cambio tecnológico serán aquellos en ocupaciones profesiona­
+les y de gestión, de salarios altos, cuya productividad ha aumentado gracias a
+la tecnología computacional. Parecería entonces que una política adecuada
+seria proporcionar mayor escolarización para ayudar a las cohortes de jóvenes
+trabajadores a triunfar en el mercado laboral. Después de todo, el aumento en
+la brecha salarial entre trabajadores con y sin educación universitaria sugiere
+que el crecimiento en la oferta de personas altamente cualificadas ha sido infe­
+rior al crecimiento que ha experimentado su demanda.
+Pero una mayor escolarización no debería ser la única respuesta. Tam­
+bién debe mejorar la percepción social de los empleos en el sector de servicios
+de atención al público, así como la calidad de los mismos, porque es un área
+que va a atraer buena parte del empleo.
+En cuanto a contenidos educativos, los ordenadores y la automatiza­
+ción han cambiado y continuarán cambiando la demanda de tareas laborales,
+y la educación debería construir habilidades en aquellas tareas en las que las
+capacidades humanas permanecen superiores a las de las máquinas, y no en
+aquellas dimensiones en las que las máquinas tienen ventaja. ¿En que serán
+mejor las personas que los robots y los ordenadores? En tareas que requieran
+capacidades creativas, analíticas, humanas, la capacidad para conectar con
+otros, la capacidad de persuasión, la capacidad de comunicar con otros y de
+transmitir información: tareas de percepción y manipulación, tareas que requie­
+66
+
+
+
+ran inteligencia creativa, y tareas que precisen inteligencia social. Esto significa
+que si bien las carreras técnicas (STEM)9 proporcionan conocimientos que pare­
+cen adecuados para el cambio tecnológico, no son las únicas.
+Estas perspectivas laborales también significan que la respuesta al cam­
+bio tecnológico no es simplemente más educación, sino una educación diferente.
+La inversión en capital humano debe estar en el centro de toda estrategia de
+largo plazo que pretende generar las capacidades que sean complementarias del
+cambio tecnológico. Da la impresión de que esta vez habrá que pensar deteni­
+damente sobre la estructura adecuada de cursos y titulaciones, y sobre los con­
+tenidos pero, sobre todo, parece que deberán cambiar significativamente la
+manera en que se enseña y el modo en que se aprende. El aprender a aprender
+seguramente sea más necesario que nunca en el futuro.
+En el mundo de la empresa una mayor atención a la interacción indi­
+vidualizada con los clientes, así como a las tareas de innovación y a la resolu­
+ción de problemas puede proporcionar una perspectiva favorable para algunas
+de las ocupaciones en el rango intermedio de salarios, cuyo número está dis­
+minuyendo al ser automatizadas. Los trabajos productivos y administrativos que
+integran estas capacidades no pueden sustituirse tan fácilmente por ordenado­
+res: un vendedor que aconseja a sus clientes de manera experta tiene interés
+para la empresa incluso en un contexto de automatización de las ventas, al
+contrario de lo que sucede con el vendedor que se limita a despachar los pro­
+ductos que le solicitan.
+El mundo laboral no va a ser estático. La continuada introducción de
+nuevas técnicas generará nuevos trabajos y requerirá el aprendizaje de nuevas
+capacidades y la obtención de nuevas credenciales. Para los jóvenes actuales,
+lo único claro es que van a necesitar continuar aprendiendo a lo largo de toda
+su vida. La idea de que recibimos una formación cuando somos jóvenes para
+trabajar durante 40 o 50 años con ese bagaje educativo se ha terminado. Las
+políticas activas de empleo basadas en sistemas de formación que actualizan a
+los trabajadores para su inserción en actividades productivas diferentes de las
+que fueron desplazados no han funcionado en el pasado, y es una lástima,
+porque van a ser muy necesarias en el futuro.
+La manera de impartir la docencia va a cambiar drásticamente. Los cen­
+tros universitarios internacionales más prestigiosos están incorporando aulas
+de telepresencia, donde el profesor puede ver monitores de todos los alumnos
+a la vez que todos los alumnos le ven a él, y en las que los alumnos pueden
+interaccionar entre ellos a pesar de estar físicamente separados. Sin duda que
+
+’ Science, technology, en gin eering, m athem atics.
+
+67
+
+
+
+algo se pierde son el contacto humano; pero generalmente ésta no es la única
+forma de interacción, sino solo un apoyo a otro tipo de sesiones. Por otra parte,
+hemos de valorar las posibilidades que la enseñanza Online ofrece para permi­
+tir acceder a niveles educativos de excelencia o en temas avanzados a pobla­
+ciones que de otro modo lo tendrían completamente imposible, aun cuando la
+distancia impida otra forma de interacción.
+Un formato educativo diferente está incorporado en las plataformas de
+cursos online ya existentes. Presentan una oferta de cursos a todos los niveles,
+incluyendo los técnicamente más avanzados, segmentados en módulos de
+breve duración (en torno a 3 meses) que se pueden agrupar para lograr una
+titulación. Están impartidos por profesores de las mejores universidades del
+mundo, con un calendario estricto, que permiten acceder desde casa a conte­
+nidos con una enorme facilidad, pudiendo conseguir una titulación en dichas
+universidades, además a un precio realmente reducido. No se aprecia donde
+pueda estar el límite a este tipo de tecnologías docentes, y la pregunta para nos­
+otros es ¿cómo vamos a competir con esta oferta educativa?
+Un director de consultoría de ingeniería me manifestaba recientemente
+que no tendría inconveniente en contratar una persona que teniendo una titu­
+lación de base en un centro técnico, hubiera aprendido las especialidades
+requeridas para el puesto de trabajo en este tipo de plataformas de cursos
+online. Además, muchas empresas manifiestan valorar cada vez más una for­
+mación de base transversal, con incidencia en los aspectos creativos, de comu­
+nicación, de coordinación de equipos y de resolución de problemas a los que
+antes hice referencia, que pueden permitir, como sucedió hace unos años, que
+los dos mejores gestores de carteras de renta variable en UK fuesen ambos
+licenciados en lingüística.
+La duda estriba en saber si las sociedades desarrolladas están en con­
+diciones de incorporar este tipo de cambios con suficiente rapidez y mante­
+niendo la adaptabilidad a las innovaciones que vayan surgiendo.
+RESUMEN
+
+Con el progreso tecnológico muchos de los trabajos de cadenas pro­
+ductivas, así como los trabajos administrativos que se especializan en tareas
+fácilmente automatizables, se pierden de modo irreversible. Pero, más que des­
+aparecer por completo, el empleo se desplaza desde los sectores que sufren en
+mayor medida la automatización hacia otros sectores que experimentan menor
+progreso técnico, así como a sectores emergentes que aparecen en relación
+con la nueva tecnología. Por tanto, es equívoco contabilizar únicamente la sus­
+titución de personas por máquinas ignorando el desarrollo de nuevas tareas,
+nuevos trabajos y nuevas áreas de actividad productiva.
+68
+
+
+
+El análisis de las tareas desempeñadas en los distintos puestos de tra­
+bajo anticipa una polarización en el mercado de trabajo. Así se confirma en
+muchos países desarrollados desde los años 70 del pasado siglo, que vienen
+creando empleo significativamente en ocupaciones de gestión y de tipo profe­
+sional, que precisan liderazgo, creatividad, y la capacidad de resolver proble­
+mas y situaciones complejas que puedan presentarse. Generalmente requieren
+una cualificación educativa alta. También se crea empleo en servicios que com­
+binan tareas de reconocimiento visual, comunicación verbal o habilidades rela­
+cionadas con movimientos no sistemáticos y difíciles de programar. Por el con­
+trario, los trabajos basadas en tareas rutinarias apenas crean empleo y continúan
+perdiendo empleos debido a la automatización.
+Probablemente, la polarización del empleo observada en las últimas
+décadas tenga un límite. La complementariedad entre personas y ordenadores
+y robots creará nuevas tareas que sean ejercidas por los mismos trabajadores
+que ven parte de su actividad sustituida por máquinas. Parece natural pensar
+que en el futuro puedan prevalecer una amplia gama de trabajos de capacita­
+ción media que combinen habilidades profesionales de carácter técnico con
+aquellas tareas en que los humanos tenemos ventaja: interacción personal, fle­
+xibilidad, adaptabilidad y resolución de problemas. Tareas para las que un
+sólido programa educativo de formación vocacional/profesional puede prepa­
+rar. Muchas de estas tareas además, están intrínsecamente relacionadas entre sí,
+y no podrían desgajarse para ser asignadas a máquinas sin una pérdida de cali­
+dad en su realización.
+En todo caso, para conocer el impacto final del progreso tecnológico
+sobre el empleo no pueden confrontarse las estimaciones de destrucción frente
+a creación de puestos de trabajo, porque las capacidades requeridas a los tra­
+bajadores que desempeñan unos y otros no son las mismas. Por eso será pre­
+ciso disponer de un sistema educativo flexible y capaz de incorporar rápida­
+mente la enseñanza de las capacidades que precise el desempeño de las tareas
+asociadas a las nuevas tecnologías.
+El problema tiene, por tanto, dos caras: por un lado, debiéramos cen­
+trarnos en identificar las tareas y trabajos en que con mayor probabilidad los
+trabajadores humanos se verán desplazados por máquinas. Investigaciones
+como las desarrolladas por los profesores Frey y Osborne son muy útiles a este
+respecto. Por otro, querríamos anticipar las nuevas capacidades que puedan
+aparecer, pero esto es prácticamente imposible y la sociedad deberá prepa­
+rarse para ajustarse con la mayor rapidez a las necesidades laborales que pue­
+dan surgir.
+Aun no estando inequívocamente relacionadas, la polarización del
+empleo tiende a generar polarización salarial, de modo que aunque el cambio
+tecnológico pueda tener un efecto final relativamente pequeño sobre el empleo
+69
+
+
+
+total, contribuye a una mayor desigualdad laboral. También se genera desigual­
+dad entre regiones que tienen una tipología diferente de la actividad produc­
+tiva, y entre países que tienen diferente grado de acceso al progreso tecnoló­
+gico; el rápido y profundo cambio tecnológico que se avecina puede dejar
+definitivamente descolgados a muchos países, con las consiguientes implicacio­
+nes sobre los procesos migratorios. En definitiva si, como algunos creen, la
+automatización modificará la composición del empleo más que reducir su volu­
+men, la política económica no necesitará preocuparse por un desempleo
+masivo. En vez de eso, los retos surgirán de los notables cambios en el tipo de
+habilidades que las empresas demanden de los trabajadores y en el aumento
+de la desigualdad económica entre ellos.
+
+70
+
+
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+Autor, D., F. Levy y R. Murnane. 2003. The Skill Contení of Recent Technological Change: An
+Empirical Exploration. Quarterly Journal o f Economics, 118(4):1279-1333.
+Autor, D. y D. Dorn. 2013. The Growth of Low-Skill Service Jobs and the Polarization of the US
+Labor Market. American Economic Review, 103(5):1553-1597.
+Autor, D., D. Dorn y G. Hanson. 2013. The Geography of Trade and Technology Shocks in the
+United States. American Economic Review Papers and Proceedings, 103(3):220-225.
+B aumol, W. J. 1967. “Macroeconomics of Unbalanced Growth: The Anatomy of Urban Crisis.”
+American Economic Review 57(3):415-26.
+B eaudry, P., Green, D.A. y Sand, B.M. (2013). The great reversal in the demand for skill andcognitive tasks. Tech. Rep., NBER Working Paper, na. 18901, National Bureau of Economic
+Research.
+B under, A.S. (2009). How many US jobs might be offshorable? World Economics, vol. 10, no. 2:41.
+B owen, Harold R. (Chairman). 1966. Report o f the National Commission on Technology, Automation, and Economic Progress: Volumel. Washington: U.S. Government Printing Office.
+B rynjolfsson, E., y A. McAfee. 2014. The SecondM achine Age: Work, Progress, andProsperity in
+a Time ofBrilliant Technologies. New York and London: W.W. Norton & Company
+Frey, C.B. y M.A. O sborne, 2013, The Future o f Employment: How Susceptible are Jobs toCompu
+terization?, University of Oxford, Martin School, manuscript.
+Goldin, C. y L. F. Katz. 2008. The Race Between Education and Technology. Cambridge MA: Belknap Press.
+Goos, M. y Manning, A. (2007). Lousy and lovely jobs: The rising polarization of work in Britain.
+The Review o f Economics and Statistics, vol. 89, na 1:118-133.
+Goos, M., Manning, A. y Salomons, A. (2009). Job polarization in Europe. The American Economic
+Review, vol. 99, na. 2:58-63.
+Harris, S.D. y A.B.Krueger, 2015, A proposal for Modemizing Labor Laws for Twenty First Century
+Work: The “Independent Worker”, The Hamilton Project, Discussion paper 2015-10.
+Hawking, S., 2016, This is the most dangerous Time for our Planet, The Guardian, 1 diciembre 2016
+Katz, L.F. y Margo, R.A. (2013). Technical change and the relative demand for skilled labor: The
+united States in historical perspective. Tech. Rep., NBER Working Paper, na. 18752, Natio­
+nal Bureau of Economic Research.
+Keynes, J.M. (1933). Economic possibilities for our grandchildren (1930). Essays in persuasión,
+:358-73.
+Mokyr, J. (1998). The political economy of technological change. Technological revolutions in
+
+Europe.39-64Schumpeter, J.A. (1962). Capitalism, socialism and democracy. Harper & Row, New York.
+
+71
+
+
+
+

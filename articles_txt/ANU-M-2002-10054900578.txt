@@ -1,0 +1,2303 @@
+PRODUCTIVIDAD DE LA ECONOMIA ESPAÑOLA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba *
+
+INTRODUCCIÓN
+
+La evolución de la productividad está en la base del crecimiento y bie­
+nestar económico, ya que, a largo plazo, determina el crecimiento de la renta per
+cápita. Es, también, un factor determinante en la atenuación de los conflictos socia­
+les derivados de las demandas sobre la distribución de rentas. Sabemos que el cre­
+cimiento de la productividad y el crecimiento de los salarios reales están estrecha­
+mente relacionados. Por consiguiente, productividades decrecientes, sostenidas en
+el tiempo, tienden a aumentar la conflictividad social, ya que no permiten incre­
+mentos salariales compatibles con el control de precios y la competitividad de la
+economía. Así pues, los valores de la productividad y de sus tasas de variación son
+indicadores económicos de la máxima relevancia. Al análisis de este tipo de indi­
+cadores para la economía española en su conjunto, y en relación con los países de
+la Unión Europea (UE), está dedicado este trabajo.
+La Comisión Europea, de acuerdo con el artículo 99(2) del Tratado, ha
+publicado, el pasado 24 de abril, el documento periódico de recomendaciones para
+cada uno de sus países miembros. Entre los aspectos más preocupantes que seña­
+la el Informe para la economía española cabe destacar la baja productividad en la
+que está inmersa. También el reciente informé de la OCDE, Economic Outlook No.
+71, de fecha 25 de abril, destaca la necesidad de «aumentar la productividad de la
+economía española que en los últimos años ha sido decreciente».
+* Se sió n d el d ía 28 d e m ayo d e 2002.
+
+549
+
+
+
+En efecto, durante el último lustro la productividad de la economía espa­
+ñola ha tenido tasas de crecimiento muy bajas, lo que ha conducido al deterioro
+del diferencial con el resto de países de la UE. Por ejemplo, de acuerdo con los
+datos publicados por la Dirección General para Asuntos Económicos y Financieros
+de la Comisión Europea, recogidos en la Tabla 2, y a los que más tarde haremos
+referencia con detenimiento, el nivel de la productividad del trabajo de la econo­
+mía española era el año 1995 el 94,1% de la media del conjunto de los países de
+la UE, y seis años más tarde, el año 2001, era el 91,7 %. Es decir, en seis años hemos
+perdido 2,4 puntos porcentuales. Estas son la cifras referentes a lo que los econo­
+mistas llamamos productividad del trabajo (PT).
+Pero en la jerga económica se utiliza también otra definición de producti­
+vidad, que, como veremos, tiene algunas ventajas sobre la anterior, es la producti­
+vidad total de los factores. Pues bien, para la productividad total de los factores
+(PTF) los valores respecto a la UE, correspondientes a 1995 y a 2001, son, respec­
+tivamente, 100% y 97,4%. Es decir, en los seis últimos años hemos perdido 2,6 pun­
+tos porcentuales.
+Cabe preguntarse, si diferencias numéricas tan pequeñas, pérdidas del
+2,4% y 2,6%, en nuestros niveles de productividad respecto a la UE, son significa­
+tivas y, sobre todo, de seguir las cosas así qué efecto pueden tener a medio y lar­
+go plazo.
+A título de ejemplo, alguna aritmética sobre la base de los incrementos
+habidos de la productividad en los quinquenios 1990-1995 y 1995-2000 en la eco­
+nomía española, puede ilustrarnos en la respuesta. De acuerdo con los datos de la
+Tabla 3, en el primero de ellos, 1990-1995, el incremento de la productividad del
+trabajo fue del 2%, y en el segundo, 1995-2000, del 0,9%. La primera cifra indica­
+ría que la renta per cápita se duplicaría en 35 años y la segunda que se necesitarí­
+an 78 años, es decir, más del doble para alcanzar el mismo nivel de renta per cápi­
+ta. Y parece que el problema se sigue agravando. Por ejemplo, si consideramos la
+cifra recientemente publicada correspondiente al año 2001 de 0,4% se requerirían
+175 años para duplicar la renta per cápita.
+Aparentemente la diferencia del 1,1 % habida entre las productividades de
+los períodos 1990-1995 y 1995-2000, parece tan pequeña y los horizontes de tiem­
+po involucrados tan largos, que esta situación no ofrece grandes incentivos para ser
+tratada en el debate de política económica, que suele centrarse preferentemente en
+otros aspectos que incorporan cifras más visibles y recompensas a más corto pla­
+zo, tales como las cifras de desempleo y las dificultades asociadas a los auges y
+550
+
+
+
+recesiones de la actividad económica. Se olvida, con frecuencia, que la sostenibilidad de los niveles de bienestar económico no tiene mucho que ver con situacio­
+nes de pleno empleo, y sí mucho con los niveles y tasas de crecimiento de la pro­
+ductividad.
+La primera parte de este trabajo estará dedicada a revisar las definiciones
+de la productividad. Se hará especial énfasis en las limitaciones inherentes a su
+cálculo, desde un punto de vista teórico y práctico. Los indicadores que se utiliza­
+rán son la productividad total del trabajo y la productividad total de los factores. Se
+analizaran la evolución de estos indicadores, en niveles y tasas de variación, para
+la economía española y en su relación con los países de la UE.
+A continuación comentaremos brevemente las aproximaciones alternativas
+a la que se utiliza, y que se apoya en la conocida como contabilización del creci­
+miento neoclásico. Así, se analizarán las ventajas e inconvenientes de la modelización econométrica del problema, y las extensiones que incorporan las teorías del
+crecimiento endógeno.
+Como paso previo a la interpretación de las series de datos haremos algu­
+nas observaciones sobre la necesidad de diferenciar las componentes cíclicas y tendenciales de su evolución.
+
+DEFINICIONES, CÁLCULO Y LIMITACIONES
+
+Aparentemente, la productividad es un concepto de fácil e intuitiva defi­
+nición. En efecto, es la relación o cociente entre el output de un proceso y los
+inputs necesarios en su producción. Sin embargo, y como veremos esta sencilla
+definición no está exenta de dificultades. Algunas de estas dificultades están rela­
+cionadas con los desarrollos tecnológicos que en los últimos años han tenido un
+papel muy relevante. Así, el análisis del impacto de las tecnologías de la informa­
+ción y comunicación (Tic) en la productividad requiere la utilización de índices de
+precios y de calidades que sean internacionalmente comparables.
+Varias son las definiciones de productividad, pero fundamentalmente pue­
+den clasificarse en dos grupos: productividad de un solo factor o productividad de
+varios factores. Las primeras relacionan el producto con un solo factor, por ejem­
+plo trabajo o capital, y las segundas con un conjunto de factores. Cabe también otra
+clasificación, particularmente relevante en los análisis sectoriales, dependiendo de
+que se considere el producto bruto en relación a uno o varios factores, o bien el
+551
+
+
+
+valor añadido en relación a uno o varios factores. En análisis sectoriales las dife­
+rencias pueden ser muy relevantes como consecuencia de un proceso de doble
+contabilización de factores intermedios. Por ejemplo, los procesos de sustitución o
+subcontratación de factores primarios, trabajo y capital, por factores intermedios
+dan lugar a productividades mayores cuando se considera la producción en lugar
+del valor añadido, y por el contrario serán tanto menores cuanto mayor sea la pro­
+ducción propia que sustituya factores intermedios. Dicho en otros términos, serán
+sensibles al grado de integración vertical de la empresa o sector analizado.
+Aunque los análisis sectoriales son del mayor interés, en lo que sigue, tan­
+to en la exposición como en los datos a los que haremos referencia, nos limitare­
+mos a la economía en su conjunto: de España y del agregado, incluyendo España,
+de los países de la UE.
+Con diferencia el indicador más utilizado es el de la productividad del tra­
+bajo (PT), definida como el producto por unidad de trabajo. Vendrá dada por:
+P T = PIB/L,
+
+en donde PIB es el producto y L el empleo. Puesto que en la mayor parte de nues­
+tro análisis haremos referencia a las tasas de variación y no a los niveles de las
+variables, de la definición anterior, tomando previamente logaritmos y derivando,
+obtenemos:
+p t = pib - l,
+
+en donde la variables en letras minúsculas representan las tasas de variación de las
+variables en letras mayúsculas. Así pues, la tasa de variación de la productividad
+del trabajo es igual a la diferencia de las tasas de variación del producto y del
+empleo.
+Para la interpretación correcta de los datos es interesante analizar la rela­
+ción, que se recoge en la primera parte de las Tablas 1 a 4, entre el producto per
+cápita iPIBc ) y la productividad del trabajo mediante la siguiente descomposición:
+PIBc = (L)/(Población 16 a 64 años)
+x (Población 16 a 64 años)/(Población total) x ( PT)
+
+El primero de los términos es la tasa de empleo y el segundo es un tér­
+mino estrictamente demográfico. Prescindiendo de factores demográficos, e inter­
+552
+
+
+
+pretando la relación anterior en tasas de variación, tomando previamente logarit­
+mos y diferenciando, vemos que la tasa de variación del PIBc es la suma de la tasa
+de variación de la tasa empleo y de la tasa de variación de la productividad.
+De los datos de las Tablas 3 y 4 podemos obtener ya algunas conclusio­
+nes. Por ejemplo, en el año 2001 el aumento del PIBc ha sido del 1,9%, y a ello ha
+contribuido la tasa de empleo con el 1,5% y de la productividad con sólo el 0,4%.
+Es decir, ambos factores han tenido un efecto positivo, pero el primero de ellos ha
+sido casi cuatro veces superior. Por otra parte, y en relación con la UE el último
+año, 2001, se ha acortado el diferencial del PIBc en 0,5%, contribuyendo la tasa de
+empleo en el 0,6%, el factor demográfico en el 0,1 y la productividad en el - 0,2%.
+Es decir, la productividad ha tenido un efecto negativo en el proceso de conver­
+gencia.
+Consideremos los valores medios de los últimos seis años correspondien­
+tes al período de 1995 a 2001. De los datos de la Tabla 3 se deduce que el PIBc
+aumentó el 3,4%, del que el 2,6% es debido al aumento de la tasa de empleo y
+solo el 0,8% al aumento de la productividad. Para el mismo período de los últimos
+seis años, y a partir de los datos de la Tabla 4, se puede calcular un recorte del
+diferencial del PIBc respecto a la UE del 1,15%, del que a la tasa de empleo ha
+correspondido el 1,5%, al factor demográfico el 0,1% y a la productividad del tra­
+bajo el - 0,45 %. Es decir, la pérdida de productividad de la economía española está
+retardando considerablemente el proceso de convergencia real. El proceso de con­
+vergencia se ha sustentado exclusivamente en la creación de empleo, que por otra
+parte ha eclipsado el paralelo deterioro de la productividad del trabajo.
+Se pueden también analizar los indicadores de productividad desde un
+punto de vista más teórico, para lo que es necesario recurrir a la formulación de
+funciones de producción dentro de la llamada aproximación neoclásica al proble­
+ma. Si así lo hacemos, puede demostrarse que es bajo ciertos y en algunos casos
+muy restrictivos supuestos, la tasa de variación de la productividad del trabajo pue­
+de descomponerse en dos sumandos. El primero es la tasa de variación de la rela­
+ción capital/trabajo ponderado por la participación del capital en la renta nacional,
+y el segundo es la tasa de variación de la productividad total de los factores. Es
+decir, se verificará la relación:
+p t = w ( k - l) + ptf,
+
+en donde w es la participación de las rentas no salariales en la renta nacional.
+553
+
+
+
+La tasa de variación de la productividad total de los factores es un mejor
+indicador que la tasa de variación de la productividad del trabajo ya que recoge las
+variaciones de la capacidad productiva no directamente derivadas de un aumento
+en la utilización de los factores productivos primarios: capital y trabajo. Sin embar­
+go, su cálculo esta lleno de dificultades prácticas y teóricas, las primeras originadas
+en la información estadística disponible, y las segundas en las hipótesis implícitas
+en los modelos de función de producción que se utilizan.
+En todo caso hay que resaltar que el cálculo de la p tf se hace a partir de
+la relación anterior, de tal manera que:
+p tf = p t - w (k —l),
+
+es decir, se calcula como el residuo que resulta de sustraer de la tasa de variación
+de la productividad del trabajo la tasa de variación ponderada del cociente de capi­
+tal y trabajo. Se conoce también como residuo de Solow, en reconocimiento del
+premio Nobel Robert Solow, que fue quien introdujo el concepto. En otras casos
+se habla también de productividad multifactorial. Todos ellos son sinónimos.
+Nótese, a partir de la expresión anterior, que si el capital no es importan­
+te, es decir, el factor de ponderación tu no es significativo las tasas de variación de
+la productividad del trabajo y de la productividad total de los factores son prácti­
+camente iguales. Lo mismo sucede si la relación capital por unidad de trabajo per­
+manece constante. Por el contrario, si el factor capital es relevante y la dotación de
+capital por unidad de trabajo no permanece constante, la evolución de las tasas de
+variación de ambos indicadores de productividad, del trabajo y total de los facto­
+res, es muy distinta.
+Así, pues, la p tf se calcula como un residuo y, por consiguiente, además
+de recoger lo que en su definición se pretende, y que básicamente coincide con el
+progreso tecnológico, también se recogen, entre otros efectos, errores en la medi­
+ción de los factores productivos, errores de especificación y variables omitidas en
+la función de producción. Entre los errores de especificación cabe mencionar espe­
+cialmente las variaciones en la calidad de los factores, tanto del trabajo como del
+capital.
+Esta situación dista de ser satisfactoria, ya que la p tf no es una variable
+observable y, por tanto, no es directamente medible, puesto que se calcula como
+la tasa de variación del producto no directamente atribuible a la suma ponderada
+de las tasas de variación de los factores productivos, representa, por así decirlo, una
+554
+
+
+
+medida de nuestra ignorancia. Es, sin embargo, consistente con la idea de que
+variaciones de la productividad total de los factores equivalen a un desplazamien­
+to de la función de producción.
+Pero aun no siendo estrictamente un indicador de progreso técnico, es un
+indicador muy útil y de uso generalizado. En todo caso, esta aproximación neoclá­
+sica solamente cuantifica las variaciones de los cambios técnicos, pero nada dice
+acerca de las causas de estas variaciones, ya que la productividad total de los fac­
+tores aparece como una variable exógena en el modelo. La teoría del crecimiento
+endógeno, a la que brevemente nos referiremos más tarde, relaja este supuesto.
+Es importante volver, otra vez, a la descomposición de la tasa de variación
+de la productividad del trabajo (pt) en sus dos componentes la tasa de variación de
+capital por empleado (w-l) ponderada por w, y la productividad total de los facto­
+res. Aunque un aumento de la tasa de variación de capital por empleado es dese­
+able, también es importante analizar el significado que tiene a largo plazo. En efec­
+to, en la medida en la que esta tasa aumenta, también lo hace la productividad del
+trabajo, pero este proceso es viable hasta un determinado punto, que no compor­
+te valores excesivamente bajos de la proporción de renta dedicada al consumo, a
+partir del cual no cabe esperar incrementos significativos de la relación capital por
+empleado. Cierto es, sin embargo, que los aumentos de la productividad de la eco­
+nomía de EE.UU. se han visto alentados en la segunda mitad de la década de los
+noventa por inversiones masivas próximas a sus máximos históricos, y este aumen­
+to ha tenido lugar con una significativa caída del precio de los bienes de capital.
+Si el aumento de la productividad del trabajo se debe fundamentalmente
+a la inversión en capital, en la medida que el coste de los bienes de capital, y par­
+ticularmente de los relacionados con las Tic, siga disminuyendo la productividad
+seguirá aumentando. Si por el contrario, el progreso tecnológico en las Tic se desa­
+celerara, las tasas de variación de la productividad del trabajo se verían negativa­
+mente afectadas por dos hechos: la productividad total de los factores disminuiría
+y el ritmo de inversión en capital también caería. Fue Gordon Moore, uno de los
+fundadores de Intel, quien afirmó al principio de la década de los setenta, que la
+capacidad de los microprocesadores de silicio se duplicaría cada 18 meses, y así,
+aproximadamente, ha sucedido. Por eso se habla hoy de la Ley de Moore.
+Existe un cierto consenso en el mundo científico sobre que la validez de
+la ley de Moore se extenderá una década mas, y que la capacidad de memoria de
+los discos duros se duplicará, cada año, los próximos cinco años. Los profesores
+Varían y Lyman estiman que hoy se están generando 250 megabytes de informa­
+555
+
+
+
+ción por persona y año, lo que equivale a 250 libros por persona. Mucha de esta
+información es irrelevante pero mucha otra es extraordinariamente útil. El reto con­
+siste en separar la relevante de la irrelevante y que las personas adecuadas tengan
+acceso a ella. Si el talento se asigna a las labores en las que es más necesario, la
+difusión de las Tic en los distintos sectores de la economía producirá incrementos
+significativos de la productividad.
+Para el cálculo de la p tf se requiere la estimación del stock de capital, que
+generalmente utiliza el método del inventario permanente, que es la metodología
+recomendada por el Sistema Europeo de Cuentas (SEC-95). Para ello se utilizan los
+correspondientes datos de inversión y tasas de depreciación, partiendo de estima­
+ciones del stock de capital inicial adecuadas. Básicamente consiste en la acumula­
+ción de las inversiones realizadas convenientemente depreciadas y actualizadas.
+Puesto que en la práctica el producto representa una gran heterogeneidad
+de bienes y servicios, es necesaria la utilización de números índices con objeto de
+poder agregarlos. Como es bien sabido el resultado de la agregación depende de
+las fórmulas utilizadas. Además, el rápido desarrollo de los productos relacionados
+con las Tic ha hecho de mayor actualidad, si cabe, dos viejos problemas en el cálcu­
+lo de índices de precios: el cambio de calidad en los productos que ya existen, y
+el tratamiento que se le debe dar a los nuevos productos. Decidir cuando un pro­
+ducto es realmente nuevo, y cuando es una variación de uno que ya existe, no es
+tarea fácil.
+Sin embargo, éste no es un problema reciente, por ejemplo William Nordhaus ha calculado que el precio de la luz desde 1800 hasta hoy, debidamente ajus­
+tado por factores de calidad, se ha dividido por 4000. El tremendo descenso relati­
+vo en el precio de los productos y servicios relacionados con las Tic que ha tenido
+lugar en los últimos años es aun mucho mayor si se ajusta con el aumento de cali­
+dad. Así, las cifras para la economía de EE.UU. señalan que durante la década de
+los noventa ha habido un incremento en el gasto anual en Tic del 14%, sin embar­
+go, esta cifra corregida proporciona una tasa superior al 40% anual. Es claro, que
+estos valores dependen crucialmente de los supuestos que se hagan de evolución
+de precios y calidad de productos.
+En cuanto a la medición del factor trabajo, Z, sin lugar a dudas el proce­
+dimiento más adecuado es la utilización del número de horas trabajadas, ajustadas
+convenientemente a la calidad o nivel de formación. La más sencilla, aunque la
+menos recomendable, es utilizar simplemente el número de empleados. La utiliza­
+ción del número equivalente de empleados a tiempo completo es otro criterio posi­
+556
+
+
+
+ble y más adecuado. Por definición, esta variable es igual al número total de horas
+trabajadas dividido por el número de horas que en media corresponde a los traba­
+jos a tiempo completo. Es decir, en el criterio de número de empleados equivalente
+a tiempo completo las personas a tiempo parcial se ponderan menos que las per­
+sonas a tiempo completo. Por consiguiente este criterio evita el sesgo que se pro­
+duce a medida que la proporción de empleados a tiempo parcial aumenta, que,
+como es bien sabido, es un proceso en auge en los países de la UE. No evita, sin
+embargo, el sesgo derivado de la disminución del número de horas que supone un
+trabajo a tiempo completo, como consecuencia de cambios en la legislación o de
+convenios colectivos.
+Las diferencias en los valores de la productividad, tanto en niveles como
+en tasas de variación, que se obtienen utilizando uno u otro criterio no son meno­
+res. En efecto, en el año 2000, y de acuerdo con estadísticas de la OCDE, el núme­
+ro de empleados a tiempo parcial en el conjunto de los países de la UE represen­
+taba el 16% del total, mientras que en España representaba solamente el 7% del
+total, y dentro de los países de la UE las diferencias son muy notables, por ejem­
+plo, en Holanda esta cifra asciende al 32 %.
+En la información de la que disponemos, en la Tablas 1 a 4, se utiliza el
+criterio menos adecuado, es decir, el número de empleados de acuerdo con las
+series de Contabilidad Nacional. La observación anterior pone inmediatamente de
+manifiesto que los valores de la productividad del trabajo de la economía españo­
+la en relación con la UE que aquí estamos manejando, y que se recogen en las
+Tablas, están claramente sobrevalorados en comparación con los valores que se
+obtendrían con otras definiciones más adecuadas. Como consecuencia inmediata
+estarán también sobrevalorados los correspondientes valores de la productividad
+total de los factores.
+Obsérvese que hasta ahora hemos hecho referencia al cálculo de las tasas
+de variación de los diversos indicadores de productividad, nada hemos dicho res­
+pecto al cálculo de sus niveles, que aparecen en las Tablas 1 y 2. Sin embargo, el
+análisis de los niveles es importante a la hora de explicar los procesos de creci­
+miento y convergencia económica. Existe un amplia evidencia empírica que
+demuestra que los niveles de los que se parte son una variable muy relevante y
+condicionante de evoluciones futuras.
+La definición y posteriores comparaciones internacionales de los niveles
+de productividad requiere información comparable sobre el producto, sobre los fac­
+tores trabajo y capital y sobre la paridad de poder de compra (PPQ). La homoge557
+
+
+
+neización de las variables con la paridad del poder de compra asegura que una
+determinada cesta de productos puede comprarse en todos los países de la UE por
+la misma cantidad de Euros. Obviamente, en el contexto de nuestro análisis se cum­
+ple que un euro es igual a una unidad de PPC, y que para la UE en su conjunto el
+valor de PPC es la unidad. La OCDE publica regularmente datos de paridad de
+poder de compra en un programa conjunto con Eurostat.
+La revista The Economist ha estado publicando desde 1986 un poco sofis­
+ticado indicador del PPC, que llama índice Big Mac, y que se calcula reduciendo la
+cesta de productos a una hamburguesa de McDonald’s, que se produce y vende,
+básicamente con los mismos procedimientos, en 120 países. Pese a su sencillez, e
+incluso trivialidad, ha proporcionado resultados comparables a otros procedimien­
+tos estadísticamente mucho más sofisticados. En particular, predijo adecuadamente
+la sobrevaloración del Euro respecto al dólar, cuando se introdujo en enero de
+1999, siendo entonces opinión generalizada de los economistas la contraria. La últi­
+ma vez que The Economist ha actualizado este índice fue en su número de finales
+del pasado mes de abril.
+
+APROXIM ACIÓN ECONOMÉTRICA
+
+Como hemos señalado una de las limitaciones básicas del análisis anterior
+es la especificación de la función de producción y las hipótesis que esta definición
+entraña. Una estrategia alternativa es dejar que los datos de producción y de fac­
+tores productivos hablen por si mismos, sin encorsetarlos en modelos fijados de
+antemano. Es mas, procediendo de esta manera tenemos la posibilidad de contras­
+tar empíricamente la validez total o parcial de determinadas hipótesis y especifica­
+ciones funcionales. La literatura disponible de este tipo de análisis econométricos
+es muy amplia y creciente. No me voy a referir a ella aquí.
+No obstante, es importante señalar que respecto a la aproximación de la
+llamada contabilización del crecimiento neoclásico los análisis econométricos pre­
+sentan algunas desventajas. Con frecuencia, los resultados obtenidos son muy sen­
+sibles, o poco robustos en terminología econométrica, a los datos tanto longitudi­
+nales como espaciales. Ademas, los tamaños relativamente cortos de las series
+temporales a menudo exigen, con el propósito de aumentar los grados de libertad
+y, por tanto, la fiabilidad de las estimaciones, la incorporación de algunas hipóte­
+sis que suponen finalmente algún tipo de restricción entre los parámetros a estimar.
+Por otra parte, la publicación y difusión periódica, por las Instituciones
+558
+
+
+
+Públicas correspondientes, de las series de datos generadas por medio de comple­
+jos modelos econométricos, es poco práctica y poco transparente. Y ello es así por
+varias razones. Es necesario volver a estimar los correspondientes modelos que
+generan las series temporales de productividad a medida que se disponen de datos
+más recientes. Esta nueva estimación es una tarea difícilmente abordable, ya que
+los programas utilizados distan mucho de estar bien documentados. Además, los
+algoritmos utilizados son fundamentalmente material de investigación, muy difícil
+de ser transmitido a una amplia base de usuarios, y sobre el que no suele haber un
+consenso general en el mundo académico.
+Sin embargo, este tipo de análisis son instrumentos de investigación
+imprescindibles para estudios concretos y, desde luego, son un material comple­
+mentario muy importante a la aproximación alternativa, y que aquí hemos descrito.
+
+SOBRE LA INTERPRETACIÓN DE LOS DATOS
+
+Con lo dicho hasta aquí hemos tratado de clarificar cuáles son los con­
+ceptos que están detrás de los indicadores de productividad, qué es lo que real­
+mente están midiendo y cuáles son las posibles fuentes de los errores en los que
+podemos incurrir.
+Los datos utilizados, y que acompañan este trabajo, se han incorporado,
+por primera vez, en mayo del año pasado, en la dirección del Banco de España en
+la Red: www.bde.es, en la Síntesis de Indicadores, bajo el epígrafe Convergencia
+Real España-UE. Los ficheros con las series temporales se han actualizado, por últi­
+ma vez, en enero del 2002, lo que permite incorporar, para gran parte de las varia­
+bles, información correspondiente al año 2001. Estos ficheros recogen datos anua­
+les para el período 1960 a 2001.
+Como en todo análisis cuantitativo no parece muy prudente hacer com­
+paraciones sobre la base de datos aislados, y en nuestro caso especialmente, ya que
+muchas de estas comparaciones, tanto cuando son favorables como cuando no lo
+son, pueden estar distorsionadas por la presencia de ciclos económicos. Dicho en
+otros términos: una golondrina no hace primavera.
+En efecto, las fluctuaciones del producto y empleo características de los
+ciclos económicos pueden enmascarar problemas estructurales en la fases expansi­
+vas que se ponen crudamente de manifiesto en la llegada de la siguiente recesión,
+y no debe olvidarse que siempre hay una siguiente recesión. Ésta sí es una regula­
+559
+
+
+
+ridad empírica indiscutible. Por consiguiente, es necesario diferenciar los compor­
+tamientos cíclicos de los tendenciales, y esto no es, desde luego, un problema esta­
+dístico y econométrico menor.
+Es importante distinguir entre crecimiento de la capacidad productiva de
+una economía y las fluctuaciones habidas en la utilización de esa capacidad, dicho
+de otro modo entre la tendencia y el ciclo. Una imagen gráfica, aunque rudimen­
+taria, puede ayudarnos a profundizar en estos conceptos. Asimilemos el funciona­
+miento de la economía al de una máquina que puede funcionar a distintas veloci­
+dades. La producción de la máquina puede incrementarse aumentando la velocidad
+a la que trabaja, sin embargo, esta forma de incrementar su producción viene limi­
+tada por el riesgo de sobrecalentamiento. Es posible, a corto plazo, aumentar la
+producción de una economía utilizando más las capacidades de las que dispone,
+sobre todo si se parte de niveles altos de infrautilización. Sin embargo, a largo pla­
+zo la única forma de aumentar sostenidamente la producción es aumentar la capa­
+cidad de la máquina, es decir, poder aumentar su producción a una velocidad dada.
+En términos económicos esta es la diferencia entre el crecimiento debido
+a la capacidad productiva que ya existe, o el debido a un aumento de esta capaci­
+dad productiva. Este aumento de la capacidad productiva es el que está relaciona­
+do con los incrementos de productividad.
+Con frecuencia, para evitar la distorsión debida a los efectos cíclicos, los
+datos se presentan en valores medios correspondientes a intervalos de tiempo
+superiores a un año. Las agregaciones más utilizadas son los valores medios de cin­
+co y de diez años. En la información de las Tablas 3 y 4 correspondientes a los
+valores de España y su diferencial con la UE se presentan medias de cinco años.
+Esta es una estrategia que dista mucho de ser satisfactoria, ya que no es la mejor
+de las maneras de abordar el problema de fondo, que es aislar la componente cícli­
+ca de la tendencial. Por otra parte y sobre información numérica y gráfica de esta
+naturaleza se hacen, con frecuencia, afirmaciones respecto al carácter procíclico o
+anticíclico de determinados indicadores, sin reparar que estos procesos de agrega­
+ción temporal, o alisamiento en términos econométricos, poco tienen que ver con
+la duración de los ciclos.
+Por ejemplo, de acuerdo con el National Bureau of Economic Research
+una economía entra en recesión si registra una tasa de variación negativa del PIB
+dos trimestres consecutivos, la recesión termina cuando se producen al menos dos
+trimestres con tasas positivas. De acuerdo con esta definición la evolución cíclica
+de la economía española se ha caracterizado en los últimos años por la siguiente
+560
+
+
+
+secuencia: una recesión de 4 trimestres (1980.4-1981.3), una expansión de 42 tri­
+mestres (1981.4-1992.1), una recesión de 6 trimestres (1992.2-1993-4) y finalmente
+la expansión actual de 33 trimestres hasta la fecha (desde 1994.1). Poco tiene que
+ver esta estructura temporal con los criterios de agregación, de cinco o diez años,
+que se utilizan con'los indicadores de productividad, para intentar alcanzar alguna
+conclusión respecto a su carácter cíclico o anticíclico.
+Hasta ahora hemos comentado parcialmente algunos de los datos, en rela­
+ción con los indicadores de productividad, que aparecen en las Tablas 1 a 4. Con
+objeto de obtener una imagen de su evolución temporal, se representan, por gru­
+pos de 2, en las Figuras 1 a 20, los valores anuales correspondientes a las variables
+recogidas en los epígrafes I y II de las Tablas 1 a 4. Las Figuras I hacen referencia
+a los valores de las variables, trazo continuo, y a sus tasas de variación, en barras,
+correspondientes a España. Las Figuras II hacen referencia a la relación de la varia­
+bles España/UE, en trazo continuo, y a sus tasas de variación, en barras.
+Aunque de todas ellas cabe extraer conclusiones interesantes, con objeto
+de no alargar estos comentarios, nos limitaremos a resaltar los hechos relevantes
+que ponen de manifiesto las Figuras 6, 8 y 10, sobre todo a partir de 1986, año de
+nuestra integración en la UE. Las cifras de 1973 a 1985 reflejan los ajustes en la tasa
+de empleo originados a partir de la crisis de 1973, como consecuencia de la prio­
+ridad de las decisiones políticas sobre las económicas durante el proceso de tran­
+sición a la democracia.
+Obsérvese, en la Figura 6, el comportamiento análogo de la evolución de
+la relación de las tasas de empleo de España respecto a la UE, en los períodos 19851991 y 1994-2001. Una fotografía distinta se tiene si consideramos la relación de las
+tasas de paro. La razón está en el diferente comportamiento del factor demográfi­
+co y en la creciente incorporación de las mujeres al mercado laboral, de tal mane­
+ra que, en el primero de los períodos, de cada diez empleos netos que se crearon
+siete atendían a nuevas incorporaciones al mercado de trabajo y solo tres restaban
+al stock de parados. Por el contrario, en el segundo período, 1994 a 2001, esta asig­
+nación se invierte, ya que siete se destinan a la reducción del desempleo y solo tres
+a las nuevas incorporaciones.
+
+CRECIMIENTO ENDÓGENO Y ECONOM ÍA DE LAS IDEAS
+
+Hasta ahora, hemos visto, por medio de la formulación neoclásica, que el
+desarrollo económico tiene como componente principal la PTF, pero al conside­
+561
+
+
+
+rarla como variable exógena no identifica ni explica cuáles son sus causas últimas.
+Estamos en la situación, algunas veces descrita, en la que se encuentran un quími­
+co, un físico y un economista en una isla solitaria intentando abrir una lata de con­
+servas. El diálogo entre ellos es el siguiente. Calentemos la lata con fuego hasta que
+llegue a explotar, sugiere el químico. No, no, dice el físico, lancemos la lata desde
+lo alto de un árbol contra las rocas. Tercia, entonces, el economista: para empezar,
+supongamos que tenemos un abrelatas...
+Pues bien, esta vieja y conocida historia ilustra como los economistas, con
+frecuencia, utilizamos determinadas hipótesis para poder abordar los problemas
+que nos planteamos. Las teorías del crecimiento endógeno, evitan la hipótesis del
+abrelatas, y tratan de ver cuales son las causas últimas del desarrollo tecnológico,
+considerándolo, en el proceso de modelización, como una variable endógena.
+Se hace explícito, entonces, un sector tecnológico como generador de
+conocimientos aplicables a la producción de bienes y servicios. Una característica
+del progreso técnico es la ausencia de rivalidad. Es decir, una vez que un bien en
+el sector de generación de conocimientos es producido por alguien, con elevados
+costes fijos de I &D, pude ser utilizado simultáneamente por otros. La producción
+de bienes de esta naturaleza se caracteriza por rendimientos a escala crecientes. El
+coste medio de producción es siempre superior al coste marginal, lo que nos obli­
+ga a alejarnos de la hipótesis de competencia perfecta. Como quiera que bienes de
+esta naturaleza solo se producen una vez, el coste de su producción debe afron­
+tarse también una sola vez, y está estrechamente ligado al esfuerzo de investiga­
+ción y desarrollo. La única razón por la que se pueden tener incentivos para afron­
+tar costes de esta naturaleza, es que el innovador pueda fijar un precio superior a
+su coste marginal y tener la posibilidad de realizar un beneficio.
+Los desarrollos tecnológicos generan beneficios que el innovador no pue­
+de apropiarse, ya que es difícil evitar su utilización por terceros. Decimos, en esta
+situación, que estos bienes son parcialmente excluibles. En todo caso, los incenti­
+vos para el desarrollo de nuevas ideas y productos dependen de la expectativa de
+beneficios que sus autores puedan obtener, y no de los beneficios de otros o de la
+sociedad en su conjunto. Siempre, desde luego, ha existido la figura del inventor
+loco o desinteresado, que ha innovado por placer, o porque algún mecenas, direc­
+ta o indirectamente, lo ha financiado. Hay que resaltar, no obstante, que cuando
+ésta era la figura que prevalecía, la producción de ideas era insignificante, respec­
+to a la situación que hoy predomina, que es la de empresas que afrontan los cos­
+tes de investigación y desarrollo con ánimo de lucro.
+562
+
+
+
+El premio Nobel de 1993, Douglas North, sostiene la tesis de que la revo­
+lución industrial, iniciada en Inglaterra en la década de 1760 está en el origen de
+un proceso de desarrollo económico caracterizado por unas tasas de crecimiento
+desconocidas hasta entonces, y ello ha sido posible, entre otras causas, a que fue
+entonces cuando se crearon las Instituciones que permiten garantizar los derechos
+de propiedad intelectual. También entonces se fortaleció el derecho de los acree­
+dores, a partir de la creación del Banco de Inglaterra en 1688, que estuvo en el ori­
+gen del desarrollo de un sistema financiero que contribuyó a la financiación del for­
+midable esfuerzo inversor de la segunda mitad del siglo xv iii .
+Es importante resaltar que el grado de exclusividad no solo depende de
+las características de la innovación concreta, sino también de los sistemas legales
+que la amparan. Los sistemas de patentes tratan de incentivar el proceso de inno­
+vación, y el carácter temporal que tienen las patentes en la mayor parte de los paí­
+ses desarrollados, intenta alcanzar un compromiso entre los incentivos al innova­
+dor y los riesgos de generar situaciones de monopolio.
+Los nuevos modelos de la teoría de crecimiento han clarificado muchos
+aspectos del proceso de inversión en I&D. No obstante, habiendo puesto en evi­
+dencia los fallos del mercado, no es obvio, a partir de ellos, cual debe ser exacta­
+mente el tipo de intervención del gobierno que propicie el adecuado marco insti­
+tucional y de incentivos.
+Bajo el epígrafe III de Indicadores complementarios aparecen en la Tablas
+1 a 4, indicadores de gasto en investigación y desarrollo y de patentes junto con
+ratios de su autosuficiencia y difusión. Las cifras se comentan por sí solas.
+Pero más allá de las cifras, lo que si aparece como evidente, en el caso de
+la economía española, es también un regular funcionamiento de los responsables
+públicos de su gestión. Por ejemplo, los datos de la ejecución presupuestaria de los
+programas que configuraron el Plan Nacional de I&D correspondientes al año 2001
+muestran que solamente se ha podido gastar el 30% de la cifra presupuestada, 300
+millones de euros. Se ha dejado de invertir el 70%, y no por falta de proyectos, sino
+por demoras e ineficiencias en la tramitación que han hecho imposible cumplir los
+plazos previstos.
+
+CONCLUSIONES
+
+La economía española tiene un problema que de persistir, sin lugar a
+dudas, condicionará su crecimiento futuro. Este problema es la baja tasa de creci­
+563
+
+
+
+miento de su productividad. En relación con los países de la UE, el diferencial de
+tasas de variación de la productividad del trabajo se ha mantenido sistemáticamen­
+te en valores negativos en los últimos siete años, y las tasas de variación de la pro­
+ductividad total de los factores se han mantenido también sistemáticamente en valo­
+res negativos durante los últimos catorce años.
+Esta preocupante situación, ha quedado enmascarada por el proceso de
+convergencia, medido en términos de PIBc, que ha tenido lugar desde nuestro
+ingreso en la UE en 1986. Hay que resaltar, que este recorte de las diferencias de
+bienestar con la UE se ha producido, básicamente, por la mayor intensidad en la
+creación de empleo de la economía española, con una contribución de la pobla­
+ción en edad de trabajar significativa hasta el año 1996, y prácticamente nula des­
+de entonces, que es cuando se ha empezado a reflejar la muy significativa caída
+de la tasa de natalidad que tuvo lugar en los primeros años de la década de los
+ochenta. La contribución de la productividad ha sido siempre, y desde entonces,
+negativa.
+A diferencia del período 1985-1991 en el que también hubo una evolución
+del empleo prácticamente idéntica a la del período 1994-2001, tal y como pone de
+manifiesto la Figura 6, en estos últimos siete años la moderación salarial ha sido,
+además, un elemento determinante. Podría suceder que el efecto de este incre­
+mento del empleo se quedara simplemente en un «efecto nivel», que aún siendo
+una prioridad política y social de primer orden, no debemos confundir con un
+«efecto crecimiento», que sería el derivado de una mayor tasa de crecimiento de la
+productividad, y que sí tendría efectos permanentes sobre la estabilidad y competitividad de nuestra economía.
+En cuanto a problemas de carácter general, que afectan a la interpretación
+de los indicadores de productividad y a su utilización en comparaciones sectoria­
+les e internacionales, posiblemente sea necesario esperar unos años, previo un refi­
+namiento de lo procedimientos y datos utilizados, para resolver algunas cuestiones
+hoy pendientes y sometidas a fuertes debates académicos. Será entonces, cuando
+podamos responder, con menos ambigüedad, a cuáles han sido realmente los
+incrementos de productividad, qué parte de ellos se debe a efectos cíclicos y qué
+otra parte a efectos tendenciales. Cómo se ha distribuido este crecimiento entre los
+distintos sectores de la economía en su conjunto, cuánto debe ser atribuido al
+impacto de las Tic, y cuáles pueden ser las tasas sostenibles de estos crecimientos.
+
+564
+
+
+
+ESPAÑA
+
+núm.
+
+1
+
+2,3
+-
+
+2,1
+
+-
+
+-
+
+-
+
+-
+
+57,1
+35,2
+“
+
+6,1
+63,3
+64,5
+14,9
+
+1965
+
+-
+
+:
+-
+
+41,0
+30,6
+
+4,3
+64,3
+65,2
+10,2
+
+1960
+
+23,4
+21,2
+2,2
+4,6
+2,3
+
+-
+
+23,0
+2 0,7
+2,2
+5,1
+4,0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+79,1
+59,1
+”
+
+2 4,8
+
+62,8
+
+9,6
+62,1
+
+1975
+
+-
+
+:
+-
+
+68,5
+45,0
+
+7,8
+62,3
+64,4
+19,5
+
+1970
+
+19,4
+17,8
+1,6
+4 ,9
+1,5
+0,4
+1,1
+0,0
+10,6
+
+-
+
+-
+
+0,5
+0,1
+0,4
+55,9
+19,0
+0,8
+18,1
+14,9
+3,2
+5,2
+0,6
+1,8
+0,5
+1,4
+0,0
+19,9
+
+-
+
+_
+-
+
+92,2
+95,1
+
+10,5
+64 ,7
+47 ,6
+34,1
+
+1985
+
+8 5,0
+78,5
+
+10,0
+62,9
+54,3
+29,4
+
+1980
+
+0,8
+0,2
+0,6
+58,2
+4,6
+2,0
+24,4
+19,6
+4 ,7
+8,4
+0 ,8
+2,5
+0 ,7
+1,8
+0,0
+14,9
+
+97,0
+97 ,8
+66,6
+4,3
+28,1
+3,1
+
+12,9
+66,5
+53,7
+36,2
+
+1990
+
+0 ,8
+0,2
+0 ,7
+53,0
+3,6
+4 ,9
+0,0
+22,0
+18,3
+3,7
+8,1
+0,9
+2 ,8
+0 ,8
+2,1
+0,0
+20,9
+
+100,0
+118,2
+8 1,8
+6,4
+32,3
+4,2
+
+13,8
+68,1
+50,8
+39,9
+
+1995
+
+0,9
+0,2
+0,7
+57 ,7
+2,5
+9,3
+0,1
+24,6
+21,5
+3,2
+7 ,8
+1,0
+2,9
+0 ,8
+2,1
+0,0
+13,2
+
+103,1
+122,1
+84 ,0
+6,2
+35,1
+4,5
+
+16,5
+68,1
+58,1
+41 ,7
+
+Penúltimo
+dato
+disponible
+
+0,9
+0,1
+0,7
+58,5
+2,0
+12,5
+0,1
+24,9
+21,7
+3,2
+8,5
+1,0
+2,9
+0 ,8
+2,1
+0,0
+12,2
+
+102,9
+124,2
+83,7
+6,2
+36,3
+4,6
+
+68,1
+58,9
+41,9
+
+16,8
+
+Último
+dato
+disponible
+
+2000
+2000
+2000
+1998
+1998
+1998
+2000
+2001
+2001
+2001
+2001
+1998
+1997
+1997
+1997
+1997
+2001
+
+2001
+2001
+1999
+1999
+1999
+1999
+
+2001
+2001
+2001
+2001
+
+Año
+ultimo
+dato
+
+Fuen te:
+
+Eurostat, Ameco, FUNCAS (Programa de Estudios Europeos), OCDE y Banco de España.
+
+(a) El agregado de la UE incluye España. Todas las variables monetarias están medidas a precios constantes y en miles de PPC en euros (paridad del poder de compra) del año tomado como base (año
+1995), excepto la capitalización en valores capital-riesgo que está medida a precios corrientes. En la mayor parte de los indicadores presentados los dos últimos datos son provisionales e incorporan pre­
+visiones. (b) Ocupados (serie de Contabilidad Nacinal) sobre población de 16 a 64 años, (c) PIB Sobre ocupados (serie de Contabilidad Nacional), (d) Productividad total de los factores: se caaícula como
+diferencia entre la tasa de variación del PIB y la de los factores de producción. Esta última se estima como la media de las tasas de variación del empleo y del stock de capital, ponderadas por los pesos
+de la remuneración de estos factores en la renta. El stock de capital se calcula por el método del inventariado perpetuo considerando como inversión la FBCF del total de la economía y como depre­
+dación el consumo de capital fijo (series de Eurostat). (e) Stock de capital físico privado: calculado considerando como inversión la FBCF privada menos los gastos en I+D. Stock de capital público: cal­
+culado considerando como inversión la FBCF pública menos los gastos en I+D públicos. Stock de capital tecnológico: calculado considerando como inversión el gasto en I+D y la importación de tecno­
+logía. Stock de capital humano: medido como el porcentaje de la población en edad de trabajar con estudios universitarios equivalentes, corregidos de calidad (series de FUNCAS).
+
+III. In d icadores com plem entarios
+G a s to e n I+ D /P IB ( % ) .............................................................................
+G a s to e n I+ D p ú b lic o /P IB ( % ) ...............................................................
+G a s to e n I+ D p riv a d o /P IB (% ) ...............................................................
+P ate n te s so lic ita d a s p o r re sid e n te s/P o b lació n (u n id ad e s p o r m illó n )
+R atio d e au to su fic ie n c ia (% ) ( f ) ..............................................................
+P atio d e d ifu sió n ( % ) ( g ) ........................................................................
+In v ersió n e n v alo re s cap ital r ie sg o /P IB (% ) ( h ) ...................................
+F o rm ac ió n b ru ta d e cap ital fijo /P IB ( % ) ................................................
+F B C F p riv a d a/P IB (% ) .........................................................................
+F B C F p ú b lic a /P IB ( % ) .........................................................................
+F B C F c o n stru c c ió n n o resid en cial/P IB ( % ) .......................................
+G a s to p ú b lic o e n e d u c a c ió n /P o b . 16-64 (m ile s d e PPC e n e u r o s) ....
+G a sto so c ia l to tal p o r h ab itan te (m iles d e PPC e n e u r o s) ..................
+G a sto e n sa n id a d p o r h abítate (m iles d e PPC e n e u r o s ) ................
+G a sto e n p re sta cio n e s so c ia le s p o r h ab . (m iles d e PPC e n e u ro s) ...
+G a sto p ú b lic o e n v iv ien d a p o r h ab . (m ile s d e PPC en e u r o s) ......
+T a s a d e p a r o ( % ) ......................................................................................
+
+II. P roductividad total de losfa c to re sy stocks de cap ital
+P ro d u ctiv id ad total d e lo s tactores (ín d ice 1995 = 100) (c ) ...................
+S to c k d e c a p ita l to ta l/e m p le o (m ile s d e PPC e n e u ro s) ( d ) ...............
+Stock d e capital productivo privado/em pleo (m iles de PPC en euros) (e)....
+S to c k d e c a p ita l te c n o ló g ic o /P IB (% ) ( e ) ...............................................
+S to c k d e c a p ita l h u m a n o /P o b lac ió n d e 16-64 a ñ o s (% ) ( e ) ................
+S to c k d e c a p ita l p ú b lic o /p o b la c ió n (m iles d e PPC e n e u r o s) ( e ) .....
+
+I. P IB p e r cáp ita y com ponentes
+P IB p e r c a p ita (m ile s d e P P G e n e u ro s) ...............................................
+P o b la c ió n d e 16-64 a ñ o s/p o b la c ió n total ( % ) ......................................
+T a s a d e e m p le o (% ) ( b ) ..........................................................................
+P ro d u ctiv id ad d e l trab ajo (m iles d e PPC e n e u ro s p o r o c u p a d o s) (c )...
+
+1.
+
+T abla
+
+Síntesis de indicadores económicos de convergencia real España-UE: niveles. España
+
+
+
+c\
+C\
+
+\s\
+
+RELACIÓN ESPAÑA/UE (UE = 100)
+
+núm .
+
+2
+
+”
+
+”
+
+-
+
+106,5
+
+-
+
+95,2
+103,8
+53,1
+63,0
+-
+
+-
+
+125,3
+
+93,8
+
+-
+
+-
+
+-
+
+102,8
+111,6
+59,5
+78,4
+103,0
+
+-
+
+-
+
+-
+
+-
+
+—
+
+102,0
+68,2
+“
+
+81,0
+98,3
+93,7
+87,9
+
+1975
+
+-
+
+61,2
+
+94,3
+63,1
+
+74,0
+98,7
+94,6
+79,3
+
+1970
+
+90,8
+
+70,1
+98,7
+93,8
+75,8
+
+1965
+
+-
+
+—
+
+-
+
+75,6
+65,0
+
+60,1
+99,1
+93,4
+65,0
+
+1960
+
+91,6
+98,5
+50,9
+83 ,0
+53,7
+53,8
+54,3
+4,0
+190,6
+
+-
+
+-
+
+-
+
+-
+
+-
+
+:
+-
+
+101,4
+7 9,3
+
+7 3,8
+97,5
+82,4
+9 1,8
+
+1980
+
+112,6
+102,6
+54,7
+54,4
+52,4
+56,4
+3,4
+200,9
+
+92,0
+
+29 ,7
+39,1
+27 ,8
+22,6
+84 ,6
+30,6
+95,1
+
+“
+
+104,9
+84 ,9
+
+72,3
+96 ,8
+77,1
+96 ,9
+
+1985
+
+44 ,8
+56,6
+42,4
+24,5
+37,1
+4 0 ,8
+114,1
+106,6
+161,3
+140,4
+6 6,0
+64,5
+67,2
+6 4,7
+19,9
+195,9
+
+102,5
+82 ,9
+74.2
+33.3
+62 ,9
+50,5
+
+77,3
+99,1
+83 ,0
+94,0
+
+1990
+
+4 7 ,7
+52 ,9
+46,6
+21,0
+34,2
+52,6
+70 ,3
+111,9
+107,1
+143,4
+152,2
+70,1
+62,4
+64 ,9
+63,1
+11,0
+202,8
+
+100,0
+88 ,8
+79 ,7
+43 ,0
+66 ,9
+63,4
+
+78 ,0
+101,7
+81 ,5
+94,1
+
+1995
+
+166,8
+
+65,2
+63 ,6
+9,7
+
+62,8
+
+49,7
+57,3
+4 8,3
+21,4
+35,2
+6 4,7
+73,6
+115,3
+113,2
+131,3
+147,7
+70,9
+
+9 7,7
+87,6
+78,3
+41,1
+70,3
+66,5
+
+83,1
+101,9
+88,7
+9 1,9
+
+Penúltimo
+dato
+disponible
+
+49 ,3
+57,0
+48,1
+20,9
+34,4
+68 ,5
+60,1
+117,5
+115,9
+130,1
+155,5
+70,6
+63 ,5
+66,1
+64 ,2
+9,9
+164,4
+
+97 ,4
+88 ,0
+77 ,3
+40 ,8
+71 ,7
+67,5
+
+83 ,5
+102,0
+89 ,2
+9 1 ,7
+
+íMimo
+dato
+disponible
+
+2000
+2000
+2000
+1998
+1998
+1998
+2000
+2001
+2001
+2001
+2001
+1998
+1997
+1997
+1997
+1997
+2001
+
+2001
+2001
+1999
+1999
+1999
+1999
+
+2001
+2001
+2001
+2001
+
+Año
+último
+dato
+
+Fuen te:
+
+Eurostat, Ameco, FUNCAS (Programa de Estudios Europeos), OCDE y Banco de España.
+
+(a) El agregado de la UE incluye España. Todas las variables monetarias están medidas a precios constantes y en miles de PPC en euros (paridad del poder de compra) del año tomado como base (año
+1995), excepto la capitalización en valores capital-riesgo que está medida a precios corrientes. En la mayor paite de los indicadores presentados los dos últimos datos son provisionales e incorporan pre­
+visiones. (b) Ocupados (serie de Contabilidad Nadnal) sobre población de 16 a 64 años, (c) PIB Sobre ocupados (serie de Contabilidad Nacional), (d) Productividad total ae los factores: se caakula como
+diferencia entre la tasa de variación del PIB y la de los factores de producción, Esta última se estima como la media de las tasas de variación del empleo y del stock de capital, ponderadas por los pesos
+de la remuneración de estos factores en la renta. El stock de capital se calcula por el método del inventariado perpetuo considerando como inversión la FBCF del total de la economía y como depre­
+ciación el consumo de capital fijo (series de Eurostat). (e) Stock de capital físico privado: calculado considerando como inversión la FBCF privada menos los gastos en I+D. Stock de capital público: cal­
+culado considerando como inversión la FBCF pública menos los gastos en I+D públicos. Stock de capital tecnológico: calculado considerando como inversión el gasto en I+D y la importación de tecno­
+logía. Stock de capital humano: medido como el porcentaje de la población en edad de trabajar con estudios universitarios equivalentes, corregidos de calidad (series de FUNCAS).
+
+III. In d icadores com plem entarios
+G a sto e n I + D /P IB ( % ) ..............................................................................
+G a sto e n I+ D p ú b lic o /P IB ( % ) ...............................................................
+G a sto e n I+ D p r iv a d o /P IB (% ) ...............................................................
+P aten te s so lic itad as p o r re sid e n te s/P o b la c ió n (u n id ad e s p o r m illón )
+R atio d e a u to su fic ie n c ia (% ) ( f ) ..............................................................
+Ratio d e d ifu sió n (% ) ( g ) .........................................................................
+In v ersió n e n v a lo r e s c a p ita l r ie sg o /P IB (% ) ( h ) ...................................
+F o rm ació n b ru ta d e c a p ita l fijo /P IB ( % ) ...............................................
+FB C F p riv a d a/P IB (% ) ..........................................................................
+FB C F p ú b lic a /P IB (% ) ..........................................................................
+FB C F c o n stru c c ió n n o re sid e n c ia l/P IB ( % ) .......................................
+G a sto p ú b lic o e n e d u c a c ió n /P o b . 16-64 (m iles d e PPC e n e u r o s) ....
+G a sto so c ia l to tal p o r h a b ita n te (m ile s d e PPC en e u r o s ) .................
+G a sto e n sa n id a d p o r h a b ítate (m ile s d e PPC en e u ro s) ...............
+G a sto e n p re sta cio n e s so c ia le s p o r h ab. (m iles d e PPC e n e u ro s) ...
+G a sto p ú b lic o e n v iv ie n d a p o r h a b . (m iles d e PPC e n e u ro s) ......
+T a sa d e p a r o ( % ) ......................................................................................
+
+II. P roductividad to tal de los factores y stocks de capital
+P rodu ctividad total d e lo s facto res (ín d ice 1995 - 100) (c ) ...................
+Sto ck d e c a p ita l to ta l/e m p le o (m ile s d e PPC e n e u ro s) (d ) ..............
+Stock d e capital productivo privado/em pleo (m iles de PPC en euros) (e)....
+Sto ck d e c a p ita l te c n o ló g ic o /P IB (% ) ( e ) ..............................................
+Sto ck d e c a p ita l h u m a n o /P o b la c ió n d e 16-64 a ñ o s (% ) ( e ) ...............
+Sto ck d e c a p ita l p ú b lic o /p o b la c ió n (m ile s d e PPC e n e u ro s) (e ) .....
+
+I. PIB per cáp ita y com ponentes
+PIB p e r c a p ita (m ile s d e P P G e n e u r o s) ..............................................
+P o b lació n d e 16-64 a ñ o s /p o b la c ió n to tal ( % ) ......................................
+T a sa d e e m p le o (% ) ( b ) ...........................................................................
+P rod u ctivid ad d e l trab ajo (m ile s d e PPC en eu ro s p o r o c u p a d o s) (c )...
+
+2.
+
+T abla
+
+Síntesis de indicadores económicos de convergencia real España-UE: relación de niveles España/UE
+
+
+
+ESPAÑA
+
+núm .
+
+3
+
+0,1
+
+1,7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3,7
+5,0
+“
+
+5,1
+- 0 ,3
+- 0 ,0
+5,5
+
+19651970
+
+-
+
+-
+
+"
+
+6,8
+2,8
+-
+
+7,3
+- 0 ,3
+- 0 ,2
+7,9
+
+19601965
+
+-
+
+21,2
+
+-
+
+11,6
+
+- 1 ,4
+- 3 ,6
+15,6
+1,4
+_
+4,0
+1,4
+4,8
+15,9
+13,5
+
+-
+
+~
+- 3 ,4
+- 3 ,0
+- 7 ,0
+- 0 ,9
+
+1,6
+3,9
+“
+
+0,9
+0,6
+- 2 ,6
+3,0
+
+19801985
+
+1,5
+5,8
+“
+
+0,8
+0,3
+- 2 ,9
+3,5
+
+19751980
+
+'
+- 0 ,4
+- 0 ,5
+0,1
+2,0
+_
+-
+
+-
+
+2,9
+5,6
+“
+
+4,3
+- 0 ,1
+- 0 ,5
+4,9
+
+19701975
+
+10,5
+7,8
+11,4
+0,8
+- 2 4 ,0
+19,5
+6,2
+5,7
+8,1
+10,1
+6,4
+6,1
+8,5
+5,2
+4 7,3
+- 5 ,6
+
+'
+
+-
+
+1,0
+0,5
+“
+
+4,3
+0,6
+2,5
+1,2
+
+19851990
+
+1,1
+- 1 ,6
+1,8
+- 1 ,8
+- 5 ,7
+19,0
+- 2 ,0
+- 1 ,4
+- 4 ,7
+- 0 ,7
+3,9
+2,8
+2,2
+3,1
+- 5 ,1
+6,9
+
+0,6
+3,9
+4.2
+8 .3
+2,8
+6 ,3
+
+1,3
+0,5
+- 1 ,1
+2,0
+
+19901995
+
+- 8 ,7
+
+-
+
+1,6
+- 0 ,8
+2,1
+34,0
+2,3
+3,3
+- 3 ,2
+- 0 ,6
+-
+
+-
+
+0,6
+0,6
+
+3,7
+0 ,0
+2,7
+0,9
+
+19952000
+
+1,9
+0,3
+2,3
+3,4
+- 1 7 ,5
+36,9
+50,9
+2,3
+3,0
+- 1 ,8
+4,5
+2,4
+1,0
+1,9
+0,7
+- 5 ,0
+- 1 1 ,0
+
+2,9
+2,5
+
+0,3
+1,0
+0 ,8
+
+3,3
+- 0 ,1
+2,6
+0,7
+
+tres
+años
+
+Últimos
+
+- 2 ,1
+- 4 ,3
+- 1 ,7
+1,4
+- 2 0 ,5
+34,6
+31,4
+1,0
+1,0
+1,1
+7,9
+2,7
+1,4
+2,1
+1,1
+5,2
+- 7 ,9
+
+3,4
+2,7
+
+- 0 ,2
+1,7
+- 0 ,3
+
+1,9
+- 0 ,0
+1,4
+0,4
+
+íntimo
+año
+
+2000
+2000
+2000
+1998
+1998
+1998
+2000
+2001
+2001
+2001
+2001
+1998
+1997
+1997
+1997
+1997
+2001
+
+2001
+2001
+1999
+1999
+1999
+1999
+
+2001
+2001
+2001
+2001
+
+Año
+
+último
+dato
+
+(a) El agregado de la UE incluye España. Todas las variables monetarias están medidas a precios constantes y en miles de PPC en euros (paridad del poder de compra) del año tomado como base (año
+1995), excepto la capitalización en valores capital-riesgo aue está medida a precios corrientes. En la mayor parte de los indicadores presentados los dos últimos datos son provisionales e incorporan pre­
+visiones. (b) Ocupados (serie de Contabilidad Nacinal) sobre población de 16 a 64 años, (c) PIB Sobre ocupados (serie de Contabilidad Nacional), (d) Productividad total de los factores: se caalcula como
+diferencia entre la tasa de variación del PIB y la de los factores de producción. Esta última se estima como la media de las tasas de variación del empleo y del stock de capital, ponderadas por los pesos
+de la remuneración de estos factores en la renta. El stock de capital se calcula por el método del inventariado perpetuo considerando como inversión la FBCF del total de la economía y como depre­
+dación el consumo de capital fijo (series de Eurostat). (e) Stock de capital físico privado: calculado considerando como inversión la FBCF privada menos los gastos en I+D. Stock de capital público: cal­
+culado considerando como inversión la FBCF pública menos los gastos en 1+D públicos. Stock de capital tecnológico: calculado considerando como inversión el gasto en I+D y la importación de tecno­
+logía. Stock de capital humano: medido como el porcentaje de la población en edad de trabajar con estudios universitarios equivalentes, corregidos de calidad (series de FUNCAS).
+fuente: Eurostat, Ameco, FUNCAS (Programa de Estudios Europeos), OCDE y Banco de España.
+
+III. In d icadores com plem entarios
+G a sto e n I+ D /P IB ( % ) ..............................................................................
+G a sto e n I+ D p ú b lic o /P IB ( % ) ...............................................................
+G a sto e n I+ D p riv a d o /P IB (% ) ...............................................................
+P aten te s so lic itad as p o r r e sid e n te s/P o b la c ió n (u n id ad e s p o r m illón )
+P atio d e a u to su fic ie n c ia (% ) ( f ) ..............................................................
+P atio d e d ifu sió n (% ) ( g ) .........................................................................
+In v ersió n e n v a lo r e s cap ital r ie sg o /P IB (% ) ( h ) ...................................
+F o rm ac ió n b ru ta d e cap ital fijo /P IB ( % ) ................................................
+F B C F p riv a d a/P IB (% ) .........................................................................
+F B C F p ú b lic a /P IB ( % ) ..........................................................................
+F B C F c o n stru c c ió n n o re sid e n cial/P lB ( % ) .......................................
+G a sto p ú b lic o e n e d u c a c ió n /P o b . 16-64 (m ile s d e PPC e n e u r o s) ....
+G a sto s o c ia l to tal p o r h abitan te (m ile s d e PPC e n e u ro s) ..................
+G a sto e n sa n id a d p o r h ab ítate (m ile s d e PPC e n e u r o s) ................
+G a sto e n p re sta cio n e s so c ia le s p o r h ab. (m ile s d e PPC e n e u ro s) ...
+G a sto p ú b lic o e n v iv ien d a p o r h a b . (m ile s d e PPC e n e u r o s) ......
+T a s a d e p a r o ( % ) ......................................................................................
+
+11. P roductividad total de ¡os facto resy stocks de capital
+P rod u ctivid ad total d e lo s facto res (ín d ice 1995 ■ 100) ( c ) ...................
+S to c k d e c a p ita l to ta l/e m p le o (m ile s d e PPC e n e u ro s) ( d ) ...............
+Stock d e capital productivo privado/em pleo (m iles d e PPC en euros) (e)....
+S to ck d e c a p ita l te cn o ló g ico /P IB (% ) ( e ) ...............................................
+S to c k d e c a p ita l h u m a n o /P o b lac ió n d e 16-64 a ñ o s (% ) ( e ) ................
+S to c k d e c a p ita l p ú b lic o /p o b la c ió n (m iles d e PPC en e u r o s) ( e ) .....
+
+I. PIB p er cápita y com ponentes
+P IB p e r c a p ita (r a ile s d e P P G e n e u r o s ) ...............................................
+P o b lac ió n d e 16-64 a ñ o s/p o b la c ió n total ( % ) ......................................
+T a sa d e e m p le o (% ) ( b ) ...........................................................................
+P ro d u ctiv id ad d e l trabajo (m iles d e PPC e n e u ro s p o r o c u p a d o s ) (c )...
+
+1.
+
+T abla
+
+Síntesis de indicadores económicos de convergencia real España-UE tasas de variación media anual. España
+
+
+
+T abla
+
+núm .
+
+4
+
+-
+
+- 3 ,3
+
+-
+
+5,8
+
+-
+
+-
+
+- 2 ,2
+- 2 ,4
+- 2 ,9
+1,1
+14,0
+
+1,5
+1,4
+2,2
+4,4
+- 0 ,7
+
+0 ,7
+- 1 ,3
+17,0
+4 ,2
+0,3
+- 0 ,5
+0 ,8
+- 3 ,4
+1,2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+:
+-
+
+0,7
+1,4
+
+- 0 ,4
+- 0 ,1
+- 1 ,3
+1,1
+
+19801985
+
+-
+
+:
+-
+
+- 0 ,1
+3,2
+
+- 1 ,9
+0,2
+- 2 ,5
+0,9
+
+19751980
+
+-
+
+:
+-
+
+:
+-
+
+-
+
+1,6
+1,6
+
+1,9
+- 0 ,1
+- 0 ,2
+2,1
+
+19701975
+
+0,8
+0,6
+
+1,1
+0,0
+0,2
+0,9
+
+-
+
+-
+
+3,9
+- 1 ,2
+“
+
+3,3
+- 0 ,1
+0,1
+3,3
+
+19651970
+
+1,2
+- 1 ,3
+1,9
+- 3 ,1
+- 1 ,5
+5 ,9
+- 0 ,4
+0,1
+- 2 ,3
+1,6
+1,2
+- 0 ,7
+- 0 ,7
+- 0 ,5
+- 1 1 ,9
+0 ,7
+
+8 ,7
+7 ,7
+9,2
+1,6
+- 1 3 ,6
+6,7
+3,8
+3,1
+7,5
+6 ,7
+3,9
+3,5
+5,3
+2,9
+43 ,6
+- 0 ,5
+
+:
+”
+
+- 0 ,5
+1,4
+1,5
+5,4
+1,3
+4 ,7
+
+0,2
+0,5
+- 0 ,3
+0 ,0
+
+19901995
+
+- 0 ,5
+- 0 ,5
+
+1,4
+0,5
+1,5
+- 0 ,6
+
+19851990
+
+- 4 ,3
+0,6
+1,1
+- 1 ,7
+- 0 ,6
+- 3 ,6
+
+-
+
+-
+
+0,7
+1,4
+0,6
+
+-
+
+- 0 ,5
+- 0 ,3
+-
+
+1,3
+0,1
+1,7
+- 0 ,5
+
+19952000
+
+0 ,8
+2,0
+0,6
+- 0 ,2
+0,1
+11,5
+- 1 ,9
+1,4
+2,1
+- 3 ,0
+2,5
+0,2
+0,1
+0,0
+0,2
+- 7 ,3
+- 2 ,8
+
+- 0 ,5
+0,1
+- 0 ,6
+- 0 ,4
+1,7
+1,6
+
+1,0
+0,0
+1,4
+- 0 ,4
+
+Últimos
+tres
+años
+
+- 0 ,6
+- 0 ,6
+- 0 ,6
+- 2 ,8
+- 1 ,9
+7,5
+- 2 9 ,5
+1,9
+2,3
+- 1 ,0
+5,4
+- 0 ,5
+1,1
+1,5
+1,0
+2,1
+- 1 ,3
+
+- 0 ,3
+0,5
+- 1 ,2
+- 0 ,7
+2,0
+1,5
+
+0,5
+0,1
+0,6
+- 0 ,2
+
+Último
+año
+
+2000
+2000
+2000
+1998
+1999
+1998
+2000
+2001
+2001
+2001
+2001
+1998
+1997
+1997
+1997
+1997
+2001
+
+2001
+2001
+1999
+1999
+1999
+1999
+
+2001
+2001
+2001
+2001
+
+Año
+último
+dato
+
+F uen te: Eurostat, Ameco,
+
+FUNCAS (Programa de Estudios Europeos), OCDE y Banco de España.
+
+(a) El agregado de la UE incluye España. Todas las variables monetarias están medidas a precios constantes y en miles de PPC en euros (paridad del poder de compra) del año tomado como base (año
+1995), excepto la capitalización en valores capital-riesgo que está medida a precios corrientes. En la mayor parte de los indicadores presentados los dos últimos datos son provisionales e incorporan pre­
+visiones. (b) Ocupados (serie de Contabilidad Nacinal) sobre población de 16 a 64 años, (c) P1B Sobre ocupados (serie de Contabilidad Nacional), (d) Productividad total de los factores: se caalcula como
+diferencia entre la tasa de variación del PIB y la de los factores de producción. Esta última se estima como la media de las tasas de variación del empleo y del stock de capital, ponderadas por los pesos
+de la remuneración de estos factores en la renta. El stock de capital se calcula por el método del inventariado perpetuo considerando como inversión la FBCF del total de la economía y como depre­
+ciación el consumo de capital fijo (series de Eurostat). (e) Stock de capital físico privado: calculado considerando como inversión la FBCF privada menos los gastos en I+D. Stock de capital público: cal­
+culado considerando como inversión la FBCF pública menos los gastos en I+D públicos. Stock de capital tecnológico: calculado considerando como inversión el gasto en I+D y la importación de tecno­
+logía. Stock de capital humano: medido como el porcentaje de la población en edad de trabajar con estudios universitarios equivalentes, corregidos de calidad (series de FUNCAS).
+
+G a sto e n I+ D /P IB ( % ) ..............................................................................
+G a sto e n I+ D p ú b lic o /P IB ( % ) ...............................................................
+G a sto e n I+D p riv a d o /P IB (% ) ...............................................................
+P aten te s so lic itad as p o r re sid e n te s/P o b la c ió n (u n id ad e s p o r m illón)
+R atio d e au to su fic ie n c ia (% ) ( f ) ..............................................................
+R atio d e d ifu sió n (% ) ( g ) ........................................................................
+In v ersió n e n v alo re s c a p ita l rie sg o /P IB (% ) ( h ) ...................................
+F o rm ac ió n b ru ta d e c a p ita l fijo /P IB ( % ) ...............................................
+FB C F p riv a d a/P IB (% ) .........................................................................
+FB C F p ú b lic a /P IB ( % ) .........................................................................
+FB C F co n stru cció n n o re sid e n c ia l/P IB ( % ) .......................................
+G a sto p ú b lic o e n e d u c a c ió n /P o b . 16-64 (m iles d e PPC en e u r o s) ....
+G a sto so c ia l to tal p o r h ab itan te (m ile s d e PPC e n e u r o s ) ..................
+G a sto e n sa n id a d p o r h ab ítate (m ile s d e PPC en e u ro s) ...............
+G a sto e n p re sta cio n e s so c ia le s p o r h ab. (m iles d e PPC e n eu ro s) ...
+G a sto p ú b lic o e n v iv ie n d a p o r h a b . (m ile s d e PPC e n e u ro s) ......
+T a sa d e p a r o ( % ) ......................................................................................
+
+In d icadores com plem entarios
+
+P rod u ctivid ad total d e lo s facto res (ín d ice 1995 = 100) (c ) ..................
+S to c k d e c a p ita l to ta l/e m p le o ( m ile s d e PPC en e u ro s) ( d ) ..............
+Stock d e capital productivo privado/em pleo (m iles de PPC en euros) (e)....
+S to c k d e c a p ita l te c n o ló g ic o /P IB (% ) ( e ) ..............................................
+S to c k d e c a p ita l h u m a n o /P o b la c ió n d e 16-64 a ñ o s (% ) ( e ) ...............
+S to c k d e c a p ita l p ú b lic o /p o b la c ió n (m iles d e PPC e n e u ro s) ( e ) .....
+
+P roductividad total de los factores y stocks de capital
+
+P IB p e r c á p ita (m ile s d e P P G e n e u r o s) ..............................................
+P o b lac ió n d e 16-64 a ñ o s /p o b la c ió n total ( % ) ......................................
+T a sa d e e m p le o (% ) ( b ) ...........................................................................
+P ro d u ctiv id ad d e l trab ajo (m ile s d e PPC en eu ro s p o r o c u p a d o s) (c)...
+
+PIB p e r cáp ita y com ponentes
+
+DIFERENCIAL D E TASAS ESPANA-UE
+
+19601965
+
+Síntesis de indicadores económicos de convergencia real España-UE: tasas de variación media anual. Diferencial España~UE
+
+
+
+Figura 1. PIB per cápita (I)
+18
+16
+14
+
+10
+8
+6
+
+4
+
+2
+0
+m m
+
+TV PIB per cápita. España —~ PIB per cápita. España
+
+TV = Tasa de variación.
+
+Figura 2. PIB per cápita (II)
+
+569
+
+miles €
+
+12
+
+
+
+Figura 3. Población 16 a 64 años sobre total (I)
+
+□ TV Población 16/64 años sobre población total. España
+----- Población 16/64 años sobre población total. España
+TV = Tasa de variación.
+
+Figura 4. Población 16 a 64 años sobre total (II)
+
+r~si Población 16/64 años sobre población total. Diferencial de las tasas de variación España-UE15
+----- Población 16/64 años sobre población total. Relación España/UE15
+
+570
+
+
+
+Figura 5. Tasa de empleo (I)
+
+TV = Tasa de variación.
+
+Figura 6. Tasa de empleo (II)
+
+« ■ T a s a de empleo. Diferencial de las tasas de variación España-UE15
+----- Tasa de empleo. Relación España/UE15
+
+571
+
+
+
+miles €
+
+Figura 7. Productividad del trabajo (I)
+
+TV = Tasa de variación.
+
+Figura 8. Productividad del trabajo (II)
+
+raía Productividad del trabajo. Diferencial de las tasas de variación España-UE15
+------Productividad del trabajo. Relación España/UE15
+
+572
+
+
+
+% (base 1995)
+
+Figura 9. Productividad total de los factores (I)
+
+TV = Tasa de variación.
+
+Figura 10. Productividad total de los factores (II)
+
+l
+l Productividad Total de los Factores. Diferencial de las tasas de variación España-UE15
+------Productividad Total de los Factores. Relación España/UE15
+
+573
+
+
+
+miles €
+
+Figura 11. Stock de capital/empleo (I)
+
+Figura 12. Stock de capital/empleo (II)
+
+LZD Stock de Capital/Empleo. Diferencial de las tasas de variación España-UE15
+------Stock de Capital/Empleo. Relación España/UE15
+
+574
+
+
+
+miles €
+
+Figura 13. Capital físico privado/empleo (I)
+
+TV = Tasa de variación.
+
+Figura 14. Capital físico privado/empleo (II)
+
+i
+i Capital Físico Privado/Empleo. Diferencial tasas de variación España-UE15
+------Capital Físico Privado/Empleo. Relación España/UE15
+
+575
+
+
+
+Figura 15. Capital tecnológico/PIB (I)
+
+TV = Tasa de variación.
+
+Figura 16. Capital tecnológico/PIB (II)
+
+I
+l Capital Tecnológico/PIB. Diferencial tasas de variación España-UE15
+------Capital Tecnológico/PIB. Relación España/UE15
+
+576
+
+
+
+Figura 17. Capital humano/población 16-64 (I)
+
+m i TV Capital Humano/Población entre 16-64 Años. España
+----- Capital Humano/Población entre 16-64 Años. España
+TV = Tasa de variación.
+
+Figura 18. Capital humano/población 16-64 (II)
+
+i
+l Capital Humano/Población entre 16-64 Años. Diferencial tasas de variación España-UE15
+----- Capital Humano/Población entre 16-64 Años. Relación España/UE15
+
+577
+
+
+
+miles €
+
+Figura 19. Capital público/población (I)
+
+T~
+
+T“
+
+T-
+
+T-
+
+T“
+
+CN
+
+C U TV Capital Publico/Población. España----- Capital Público/Población. España |
+TV = Tasa de variación.
+
+Figura 20. Capital público/población (II)
+
+i
+i Capital Públlco/Población. Diferencial tasas de variación España-UE15
+----- Capital Público/Población. Relación España/UE15
+
+578
+
+

@@ -1,0 +1,879 @@
+LEG A LID AD Y CO N STITU CIO N ALID A D
+Por el Académico de Número
+Excmo. Sr. D. Andrés Ollero Tassara*
+
+I. INTRODUCCIÓN
+
+Pocos problemas de teoría jurídica más relevantes para las tareas del
+Tribunal Constitucional que marcar la difícil frontera entre el plano de la lega­
+lidad y el de la constitucionalidad*1. Cuando llega a olvidarse, se distorsiona el
+papel del Tribunal, convertido inadecuadamente en un presunto superpoder
+del Estado.
+Es fácil que alimente ese perturbador espejismo el hecho indudable
+de que al Tribunal se encomienda, en defensa de la Constitución, el control de
+los actos y resoluciones de los tres poderes del Estado. Ciertamente “no hay
+problema jurídico medianamente serio que no encuentre alguna orientación
+de sentido en la preceptiva constitucional, y con frecuencia más de una. Más
+técnicamente, esto suele llamarse el efecto impregnación o irradiación: los valo­
+res, principios y derechos fundamentales desbordan el marco constitucional e
+inundan, invaden o saturan el sistema jurídico en su conjunto, de manera que
+en puridad desaparecen las rígidas fronteras entre cuestiones constitucionales
+* S e sió n d el día 3 0 d e e n e ro d e 2018.
+1
+A lgunos in ten to s d e d elim itar am bas ju risd iccion es m e h an p are cid o siem p re esfu erzos bald íos,
+p o r su stentarse e n u n d e sco n o c im ie n to d el sig n ificad o d e n u estro m o d elo d e ju sticia con stitu cion al.
+As! e l q u e s e b a sa e n q u e el T ribunal C o n stitu cion al se lim ite a lo s asu n tos d e estricta con stitu ­
+cio n alid ad y sea n d e c o m p e te n cia exclu siv a d e la ju risd icció n ordinaria lo s d e estricta legalidad. Esa distin­
+c ió n n o sirve e n u n o rd en am ien to c o m o e l nu estro , e n el q u e e s m uy difícil sep arar co n stitu cion alid ad y leg a­
+lidad, y a q u e lo s ju e c e s y tribu n ales h a n d e in terp retar co n stitu cion alm en te la ley (e in clu so an u lar acto s y
+reglam en tos p o r in co n stitu cion ales) y el T ribunal C onstitucional n o só lo h a d e interpretar la C onstitución sino
+ta m b ié n la le y q u e e n ju ic ia ” -M . A ragón R e yes , Problemas de la justicia constitucional en España , [en:] E.
+Arnaldo Alcubilla y P. G onzález-T revijano (e d s), En pro de la regeneración política en España, Cizur M enor,
+2 0 1 5 :6 0 4 -6 0 5 .
+
+263
+
+
+
+y cuestiones legales”2. El cuadro falsea sin embargo la realidad si a dicha cir­
+cunstancia no se añade otra: el continuo esfuerzo de autocontención que carac­
+teriza la relación del Tribunal con el Poder Legislativo, el Poder Ejecutivo y el
+Poder Judicial.
+Al primero corresponde de modo prioritario el desarrollo de buena parte
+de los preceptos constitucionales, como pone de relieve la reserva de ley del
+artículo 53-1 de la Constitución Española (en adelante CE), en lo relativo a los
+derechos y libertades, con obligado respeto de su contenido esencial. El Tribu­
+nal Constitucional procurará en consecuencia no pronunciarse sobre la constitucionalidad de los preceptos legales, limitándose a hacerlo sobre su inconstitucionalidad o, en su caso, sobre su no inconstitucionalidad. Ello no solo en homenaje
+a la caracterización kelseniana de su tarea como legislación negativa sino, sobre
+todo, para alejar toda tentación de convertirse en evaluador de la mayor o menor
+constitucionalidad de las posibles alternativas de desarrollo legal3.
+Buena prueba de esta actitud es su afán por dilucidar si, al menos, una
+determinada interpretación del texto legal impugnado puede considerarse no
+inconstitucional. Se da así paso a las llamadas sentencias interpretativas, que
+presentan alguna de las interpretaciones posibles como conforme con la Con­
+stitución. Se trata sin duda de una solución con frecuencia polémica, ante el
+riesgo de que se acabe atribuyendo tal condición a una interpretación que más
+bien merezca ser considerada contra legem4.
+Menos directa suele ser la tarea de contraste relativa a las intervencio­
+nes del Poder Ejecutivo. Estas se verán sometidas a control de constitucionali­
+dad con ocasión de recursos de amparo por vulneración de derechos funda­
+mentales, una vez agotada la vía previa ante la jurisdicción ordinaria.
+Como consecuencia, es fácil advertir que la mayor posible zona de
+fricción se dará a la hora de que el Tribunal ejerza el control de constituciona2 L. P rieto -S anchís , P resu p u esto s n e o co n stitu cio n alistas d e la teoría d e la arg u m en tació n , [en:] M.
+F. G ascón A bellán (e d .), A rgu m en tación ju ríd ica , V alen cia 2 0 1 4 :3 3 .
+3 “N o c o m p e te , p u es, al T ribu n al, e n su fu n ció n d e ó rg an o d e ciso r d e lo s recu rso s d e in co n stitu ­
+cio n a lid a d e n ju ic ia r e l m ayo r o m e n o r a cie rto c o n q u e lo s o p era d o res ju ríd icos e sté n llev an d o a c a b o la
+la b o r d e a p lica ció n . ( ...) e l T ribu nal n o p u ed e n i d e b e d ecid ir si e s o n o co n stitu cion al el o rd en am ien to n o r­
+m ativo e sp a ñ o l d e la h u elg a , en te n d ie n d o p o r tal e l sistem a o el co n ju n to d e criterios y n o rm as d eterm in an ­
+te s d el m o d o e n q u e las A utoridades y lo s Ó rg an o s ju risd iccion ale s esp a ñ o le s están ap lican d o y e n ten d ien d o
+e l d e re c h o d e h u elg a , sin o , ex clu siv a m en te, si so n o n o co n stitu cio n ales los tex to s d el R eal D ecreto -L ey
+17/77 -S e n te n c ia d el T ribu n al C o nstitu cion al (e n a d ela n te ST C ) 11/1981, d e 8 d e abril, F J 4, Pte. Luis D iezP ica z o y P o n c e d e León.
+4 A rq uetípica al resp ecto la STC 31/ 2010, d e 28 d e ju n io , P te. Marta Em ilia C asas B aam o n d e, so b re
+e l Estatu to d e C ataluña, particularm en te g en ero sa al a co g erse a d ich as so lu cion es. D e su s iniciales co n se c u e n ­
+cia s p o lé m ica s m e h e o c u p a d o e n U na g ra n n o v ela , [en:] L. Abro yo J iménez, M. B eladiez R o jo , C. O rtega Carballo , J . M. R odríguez de S antiago (e d s ) E l Ju e z d el D erech o A dm inistrativo. L ibro H om en aje a Ja v ie r D el­
+g a d o B arrio, M adrid 2 0 1 5 :1 9 1 -2 1 0 .
+
+264
+
+
+
+lidad sobre la tarea del Poder Judicial. Este habrá sido el primero en ejercer
+dicho control, sobre actos del Ejecutivo o de los particulares, promoviéndolo
+a la vez de modo indirecto respecto a preceptos legales mediante el plantea­
+miento ante el Tribunal de cuestiones de inconstitucionalidad.
+Olvidadas situaciones de tensión con el Tribunal Supremo, hoy feliz­
+mente superadas, no deja de ser también perceptible el esfuerzo de autocontención del Tribunal Constitucional a la hora de ejercer control sobre las reso­
+luciones de la jurisdicción ordinaria; no en vano la invocación del artículo 24
+CE se ha convertido en tópica a la hora de interponer recursos de amparo. No
+deja de ser significativo al respecto el diverso canon utilizado por el Tribunal5,
+según la posible vulneración del derecho fundamental afecte al acceso a la
+jurisdicción por el ciudadano, o al acceso a un recurso por parte de quien ya
+obtuvo una primera respuesta judicial en anterior instancia. Mientras en este
+segundo caso el Tribunal se limitará a constatar que la resolución judicial, siem­
+pre susceptible de crítica, no puede considerarse manifiestamente irrazonable,
+vetando solo las que hayan incurrido en error fáctico o quepa considerar abier­
+tamente arbitrarias, en el primero la entrada en juego del principio pro actione
+obligará a calibrar la proporcionalidad del fallo ponderando el interés jurídico
+sacrificado*67.
+Elocuente respecto a este esfuerzo de autocontención del Tribunal al
+controlar la constitucionalidad de la labor judicial fue la decantación de su doc­
+trina sobre el principio de igualdad en la aplicación de la ley1. Ante la llama­
+tiva existencia de resoluciones judiciales discrepantes respecto a casos idénti­
+cos, el Tribunal limitó inicialmente su control a las emanadas de un mismo
+órgano judicial, pasando pronto a considerar a cada sección de los colegiados
+como si se tratara de un órgano judicial diverso. Jugó —con alcance en oca­
+siones sorprendente— con la posibilidad de considerar como no “consciente”
+el cambio de criterio experimentado, aunque no se hubiera justificado de modo
+expreso su fundamento, y acabó por considerar la reiteración del nuevo crite­
+s S o b re to d o a partir d e la STC 37/1995, d e 7 d e fe b re ro , P te. R afael d e M en dizábal A llende.
+
+6 Si b ie n “el a c c e s o a la ju risd icción e s u n ele m e n to ese n cia l d el co n ten id o d el d erech o a la tutela
+ju d icial efectiv a q u e co n sa g ra el artícu lo 24.1 CE, e l sistem a d e recu rsos fren te a las d iferen tes reso lu cio n es
+ju d iciales h a d e in co rp o rarse a e ste d erech o fu n d am en tal e n la co n cre ta co n fig u ración q u e rec ib a e n cad a
+u n a d e las ley es d e en ju icia m ien to q u e reg u lan lo s distintos ó rd en es ju risd iccion ales, c o n la e x c e p c ió n del
+ord en ju risd iccio n al p en a l p o r razó n d el d e re ch o d el co n d e n a d o al d o b le grad o d e ju risd icción . P or tanto,
+la d ecisió n so b re la ad m isió n o n o d el recu rso, e s decir, la v erificación d e la co n cu rren cia d e lo s req u isitos
+m ateriales y p ro cesa les ex ig id o s a tal fin, co n stitu ye u n a cu estió n d e m era legalid ad ordinaria q u e co rre s­
+p o n d e exclu siv am en te a lo s J u e c e s y T ribu n ales e x artícu lo 1 1 7 .3 CE, sin q u e e ste T ribu nal p u ed a interven ir
+salvo q u e la in terp retació n d e la n o rm a a q u e se lle g u e se a arbitraria, irrazo n ab le o m anifiestam ente in fu n ­
+dada o b ie n p ro d u cto d e u n erro r p a ten te” (en tre otras, STC 226/ 2002, d e 9 d e d iciem bre, FJ 3, P te. Ja v ie r
+D elg a d o B arrio).
+7 D e e llo tuve op ortun idad d e o cu p a rm e rep etid am en te — e n 1989 y a ñ o s d esp u és c o n análisis
+d e n u ev a reso lu cio n es— e n Igualdad en la aplicación de la ley y precedente judicial, Cuadernos y debates
+n° 163, M adrid 2005.
+
+265
+
+
+
+rio como motivo suficiente para dar por no vulnerado el artículo 14 CE; con ello
+una primera resolución que habría incurrido en dicha vulneración, se vería
+constitucionalizada por su mera repetición. Solo cuando la discrepancia, aun no
+encajando en estos restrictivos criterios, resultaba llamativa se acogería al artí­
+culo 24 CE para conceder el amparo; por ejemplo, al no cumplirse la exigen­
+cia de “alteridad”, por ser el mismo recurrente el destinatario de las resolucio­
+nes discrepantes.
+II. RECURSO DE AMPARO
+Y ESPECIAL TRASCENDENCIA CONSTITUCIONAL
+
+El más claro exponente de esta autocontención, fruto del respeto a la
+frontera entre legalidad y constitucionalidad, facilitando el llamado diálogo de
+tribunales, fue sin duda la reforma llevada a cabo por la Ley Orgánica 6/2007,
+de 24 de mayo, que dio paso a lo que ha llegado a considerarse como “nuevo
+recurso de amparo”8. A ella se unió la del incidente de nulidad de actuaciones,
+para otorgar —según el epígrafe II de su Exposición de Motivos— a “los tribu­
+nales ordinarios más posibilidades para revisar las violaciones de derechos fun­
+damentales”. En realidad, al encomendarse la resolución al mismo órgano judi­
+cial que habría incurrido en la vulneración, su resultado práctico ha sido poco
+relevante9.
+El ya citado artículo 53 CE, en este caso en su epígrafe 2, señala: “Cual­
+quier ciudadano podrá recabar la tutela de las libertades y derechos reconoci­
+dos en al Artículo 14 y la Sección 1 del Capítulo segundo ante los Tribunales
+ordinarios por un procedimiento basado en los principios de preferencia y
+sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Cons­
+titucional. Este último recurso será aplicable a la objeción de conciencia reco­
+nocida en el Artículo 30”.
+Una visión un tanto simplista de la reforma llevó a entenderla como un
+mero intento de cercenar las posibilidades de acceso al siempre subsidiario y
+
+8 “C a b e so ste n e r fu n d ad am en te q u e h a y u n a n tes y u n d esp u é s d e esta reform a leg al, y q u e p o r
+e llo p u e d e ca lifica rse c o m o «nuevo* al am p aro q u e resu lta” -M . A bágon R e yes , Las dim ensiones subjetiva y
+objetiva del nuevo recurso de amparo, O tro sí 2 0 1 2 :9 .
+9 “El in cid en te sig u e te n ie n d o m u y e sc a sa utilidad c o m o vía p ara red u cir lo s am p aros, y e s e p ro ­
+b lem a deriva d e su ca rá c ter d e rem ed io h o rizo n tal y n o vertical. A lo q u e se su m a el h e c h o d e q u e e n e se
+rem ed io , q u e es, c re o , u n p ro c e so d e p ro te c c ió n d e lo s d e re ch o s fu n d am en tales, n o actú a p re cep tiv am en te
+e l M in isterio Fiscal, c o m o a m i ju icio d eb iera , d ad os lo s térm in os d e la C on stitu ción y d el Estatu to O rg án ico
+d el M in isterio F iscal. P ro b a b lem en te ten d ría m ás e fic a cia si se reg u lase c o m o u n recu rso vertical (cu a n d o la
+ú ltim a in sta n cia e s e l T ribu nal Su p rem o, p o d ría e n ten d er d el m ism o la sala e n p le n o , si la re so lu ció n la d ictó
+u n a s e c c ió n , o e l ó rg a n o p re v isto e n e l a rtícu lo 6 l L O PJ si la re s o lu c ió n la h u b ie s e d icta d o la sa la e n
+p le n o ) -M . A rgón R e yes , Algunos problem as del nuevo recurso de am paro , [en:] F. H errero -T ejedor Algar ,
+l.iber am icorum , M adrid 2 0 1 5 :2 6 3 .
+
+266
+
+
+
+excepcional recurso de amparo. Ciertamente el Tribunal corría riesgo de morir
+de éxito, dado que en 2006 llegaron a ser 11.471 los amparos presentados, que
+suponían el 97,7% de su carga de trabajo, con los consiguientes retrasos...
+Como la nueva ley recordaba, no era ciertamente novedoso el intento
+de lograr que la intervención del Tribunal fuera “realmente subsidiaria de una
+adecuada protección prestada por los órganos de la jurisdicción ordinaria”. La
+expresión “en su caso” del artículo 53.2 CE recordaba ese carácter del recurso
+en cuestión, que implicaba el previo agotamiento de una previa intervención
+judicial, en doble instancia en buena parte de los casos.
+El ambicioso alcance de la reforma llevaba consigo lo que se ha carac­
+terizado como objetivación del recurso de amparo, descartando su arraigada
+conversión subjetiva en tercera instancia procesal. Como consecuencia, el cen­
+tro de gravedad del decisivo trámite de admisión se trasladaba de la previa
+constatación de tasados motivos de inadmisión, incluida la no apreciable vul­
+neración de un subjetivo derecho fundamental, a la argumentación justificadora
+de una objetiva especial trascendencia constitucional. Esto debería haber obli­
+gado a un cambio de estrategia procesal por parte del recurrente y de sus ase­
+sores, a los que se veta toda confusión de ambos aspectos; no solo se les atri­
+buye la carga argumental de justificar la aludida trascendencia, sino que si, al
+intentarlo, acababan limitándose a insistir en la existencia de una vulneración
+de su derecho sientan paradójicamente las bases para una drástica inadmisión101.
+Las tozudas cifras dan fe de que tan relevante cambio no ha sido ni
+remotamente asimilado. Resulta explicable, dado el alcance del nuevo texto
+legal, en cuya Exposición de Motivos se reconoce que “se invierte el juicio de
+admisibilidad, ya que se pasa de comprobar la inexistencia de causas de inad­
+misión a la verificación de la existencia de una relevancia constitucional en el
+recurso de amparo formulado”. Los amparos se han mantenido en el quinque­
+nio 2011-2015 por encima de los 7.000, en evidente desproporción con el resto
+de los asuntos ingresados, mientras que las sentencias dictadas sobre ellos al
+cabo de cada año — obviamente no todas estimatorias— no llegan a cien11.
+
+10 E llo h a co n v ertid o e n tó p ica e n lo s inform es prelim in ares so b re recu rsos d e am p aro la afirm a­
+c ió n d e q u e e l an alizad o “n o satisface d eb id am en te la carga in su b san ab le co n sisten te e n ju stificar la e sp e ­
+cial tra scen d en cia co n stitu cio n a l d el recu rso (art. 4 9 .1 LO TC ), q u e e s alg o d istinto a razon ar la e x iste n cia de
+la v u ln era ció n d e u n d e re ch o fun dam ental y q u e re q u ie re d e u n a arg u m en tación e sp e cífica (STC 69/2011,
+d e 16 d e m ayo , F J 3, P te. P ascu al Sala Sán ch ez, y ju risp ru d en cia co n stitu cion al allí citad a)”.
+11 Q uizás influya e n e llo d ecisiv am en te lo ap u n tad o p o r M. A ragón R eyes, La arg u m en tación de
+la e sp e cia l tra sce n d en cia co n stitu cio n al llev a co n sig o q u e “p ara red actar u n a d em an da d e am p aro h a d e
+p o se e rse u n a esp ecia l cu a lifica ció n pro fesio n al q u e im p lica el d om in io d e la d octrina y jurisprud encia (d el
+p ro p io Tribunal C onstitucional y d el Tribunal E u ro p eo d e D erech o s H u m anos) so b re los d erech os fun dam en­
+ta les su scep tib les d e a m p a ro ” -M . Aragón R eyes , Las d im en sion es su bjetiva y objetiv a d el nu evo recu rso d e
+am p aro ( op . cit. nt. 8 ):9 .
+
+267
+
+
+
+En un 37% de los casos la inexistencia o insuficiencia de la justificación
+de la especial trascendencia constitucional llevó a la inadmisión, mientras que
+en un porcentaje similar la causa fue la previsible ausencia de vulneración; en
+otro 15% de los casos fueron motivos procesales, como la falta de agotamiento
+de la previa vía judicial o la mera extemporaneidad, los que llevaron a similar
+resultado.
+La polémica hizo que el problema llegara al Tribunal Europeo de Dere­
+chos Humanos de Estrasburgo que, en sentencia de 20 de enero de 2015, falló
+por unanimidad el caso Arribas Antón contra España (16563/11, HUDOC), ava­
+lando los “tres criterios enunciados en la ley, a saber «la importancia [del recurso]
+para la interpretación, para la aplicación o para la eficacia general de la Cons­
+titución, y para la determinación del contenido y del alcance de los derechos
+fundamentales»”.
+El propio Tribunal Constitucional había ya intentado — en la STC
+155/2009, de 25 de junio, FJ 2, Pte. Vicente Conde Martín de Hijas— orientar
+didácticamente a los interesados esbozando un índice de supuestos de previsi­
+ble admisión. Entre otros: cuando la cuestión constitucional sea novedosa; ante
+un posible cambio en la doctrina constitucional o casos que requieran aclara­
+ción por un proceso de reflexión interna, por la aparición de nuevas realidades
+sociales o de cambios normativos relevantes para la configuración del contenido
+del derecho fundamental; cuando la vulneración tenga como origen la ley u
+otra disposición de carácter general o, de modo genérico, cuando el asunto tras­
+cienda del caso concreto porque plantee una cuestión jurídica de relevante y
+general repercusión social o económica o provoque consecuencias políticas. A
+la vez se recordaba que “tras la reforma llevada a cabo la mera lesión de un
+derecho fundamental (...) tutelable en amparo ya no será por sí sola suficiente
+para admitir el recurso, pues es imprescindible, además, su ‘especial trascenden­
+cia constitucional’, frente a la configuración por la que esencialmente se carac­
+terizaba en su anterior regulación, en tanto que recurso orientado primordial­
+mente a reparar las lesiones causadas en los derechos fundamentales y libertades
+públicas del demandante susceptibles de amparo”.
+También es verdad que el resultado de las deliberaciones en las cua­
+tro Secciones del Tribunal pone de relieve que tampoco está resultando fácil a
+los propios Magistrados asimilar el notable sesgo provocado por la reforma, al
+verse abocados a inadmitir recursos de amparo en los que no cabe descartar
+una posible vulneración de derechos. Resulta decisivo al respecto si el trámite
+de admisión se abre, como venía siendo habitual, con el barrunto de una posi­
+ble vulneración o, como ahora es obligado, con el análisis de la justificación
+de la especial transcendencia constitucional ofrecida por el recurrente e incluso
+el posterior reconocimiento de su existencia por la propia Sección.
+
+268
+
+
+
+m . NEOCONSUTUCIONAUSMO
+Y PRINCIPIO DE LEGALIDAD
+
+Si de este escarceo sobre el día a día del Tribunal pasamos a los pro­
+blemas de teoría del derecho habría que relativizar la rotunda afirmación de
+que el afianzarse del llamado neoconstitucionalismo puede poner en peligro
+el principio de legalidad. Me temo que ello puede ser fruto de un mero efecto
+óptico, si —puestos a ocuparnos, siguiendo el imperativo positivista, del dere­
+cho como es— tenemos en cuenta la ya señalada autocontención que preside
+el control de constitucionalidad. No es el protagonismo cobrado por la Cons­
+titución lo que puede poner en jaque determinado concepto del principio de
+legalidad, sino el giro hermenéutico12 experimentado por la teoría del derecho
+más de un decenio antes, reflexionando sin duda sobre las normas constitucio­
+nales. Habría que trasladarse más bien a hace cincuenta años, cuando ya se nos
+animaba a profundizar sobre el alcance de la distinción entre derecho y ley en
+la Ley Fundamental alemana13.
+Fue la irrupción de la filosofía jurídica auspiciada por la obra de Gadamer, con la que tuve la fortuna de familiarizarme trabajando en Munich junto
+a Arthur Kaufmann14, la que generó un cambio de paradigma, más allá de los
+fervores constitucionales. Como consecuencia, no es el autocontenido control
+de constitucionalidad del Tribunal sino la cotidiana labor interpretativa de la
+jurisdicción ordinaria, obligada por el contrario a no contenerse, la que confi­
+gurará decisivamente el sentido de los textos legales, sin perjuicio de oficiar a
+la vez como intérprete primario de sus implicaciones constitucionales.
+Es ese nuevo paradigma hermenéutico el que arruina las viejas estruc­
+turas positivistas. El normativismo resultaba relativizado y, con ello, la idea del
+derecho como sistema de normas, para dar entrada al juego de los principios.
+Me llamó mucho la atención en su día que Diez Picazo criticara la invocación
+del principio de igualdad en la aplicación de la ley argumentando que “el prin­
+cipio de igualdad y el control de constitucionalidad que conlleva corren el
+riesgo de convertirse en control valorativo de la justicia de las soluciones legis­
+lativas, lo que a mi juicio no es, en puridad, competencia del Tribunal. La refe­
+rencia a la naturaleza de las cosas, al carácter razonable y a otros parámetros
+" C om o fu en te d e inspiración: H .G. G adamer, W ahrheitundM ethode. G ründzüge ein erp bilosop bisch en H erm eneutik, T ü b in g en 1960.1
+13 A. K aufmann, G esetz undR echt S aarbrü cken , Saarb rü ck er 1966.
+“ Ello m e perm itió h a cerlo tam b ién ju n to a W infricd H assem er, au n P rivatdozent p ero llam ado
+pro nto a la Universidad d e Frankfurt, de d ond e pasaría al Tribunal Constitucional Federal d e Karlsruhe, del qu e
+sería V icepresiden te; igualm ente ju n to a U lf N eum ann, q u e sería c o n el tiem po D ec a n o d e la Facultad d e D ere­
+c h o d e aqu ella m ism a universidad, y co n Uli Schroth, q u e p erm an eció e n M unich. A parte d e asistir a alguna
+cla se de Karl Larenz, p u d e tam b ién tom ar co n ta rto co n Jo a c h im H ruschka, particularm ente cen trad o en to n ces
+e n dicha tem ática. Entre los frutos p ersonales d e esta enriquecedora experiencia, el libro R echtsw issenschaft un d
+P hilasophie. G rundlagendiskussion in D eutscbland, E b elsb ach 1978; inclu id o e n la co le c c ió n d e la Facultad de
+D e re ch o d e la Universidad d e M unich, co n e l p atro cin io d e la D eu tsch e Forsch ungsgem einschaft.
+
+269
+
+
+
+semejantes a los que se suele recurrir para delimitar la igualdad, permite una
+fácil inclinación hacia el iusnaturalismo, que debe ser cuidadosamente evitado
+por una jurisdicción constitucional. La igualdad es igualdad en la ley positiva
+y significa que a igualdad de hechos hay igualdad de consecuencias jurídicas.
+Por ello, no es posible reducir cada uno de los supuestos de hecho o cada una
+de las normas en cuestión a un principio general de derecho, no expresamente
+formulado por la ley, para decidir la igualdad en él o con arreglo a él, porque
+entonces no se trata de igualdad ante la ley, sino de igualdad ante los princi­
+pios, cosa que a quien esto escribe le parece perfecta en términos valorativos,
+pero no como aplicación del artículo 14 de la Constitución ni como tarea gene­
+ral del Tribunal”15. Debo reconocer que me ha asombrado más todavía leer
+recientemente algo no muy distinto, cuando lo que se caracteriza como “pon­
+deración equitativa de las circunstancias fácticas del caso” se contrapone a “la
+tesis principialista que configura la ponderación como equilibrio no ya de las
+circunstancias fácticas, sino de los principios normativos en concurso entre sí”16.
+No me parece nada extraño, sin embargo, que esta entrada en juego de
+los principios lleve a poner en guardia respecto al iusnaturalismo. No en vano
+han pasado al museo unos principios generales del derecho, que no añadirían
+nada a lo ya contenido en los textos legales — algo así como la mera legalidad
+en formato spray, como he comentado más de una vez a mis alumnos17— , para
+dar paso a unos principios pre-legales que, incluso en su versión menos inci­
+siva, informarán “la legislación positiva, la práctica judicial y la actuación de los
+poderes públicos” (artículo 53 3 CE).
+Entiendo pues que hayan surgido frecuentes referencias a un posible
+parentesco entre constitucionalismo y derecho natural18. Valgan algunos ejem­
+plos: “El papel que desempeñaba antes el Derecho natural respecto del sobe­
+rano, lo desempeña ahora la Constitución respecto del legislador”19. “El consti­
+tucionalismo contemporáneo ha contribuido a la crítica y a los intentos de
+
+15 E n su V o to P articu lar a la tem p ra n a STC 34/ 1981, d e 1 0 d e n o v iem b re, P te. R afael G ó m ezF errer M orant.
+16 L. F errajou , C o m en tarios a las in terv en cio n es d e M an u el A tienza, Ju a n A n ton io G arcía A m ad o
+y A lfo n so G arcía F igu ero a , T eoría & D erech o 2 0 1 6 n° 2 0 :1 3 7 .
+17 E n realidad, se h a escrito, “b a jo los llam ados p rin cipios gen erales d el D e re ch o n o se esco n d e m ás
+q u e u n llam am iento a la pro d u cción jurídica p o r vía d e razonam iento o argum entación, su pon iend o q u e se p u e­
+d e n o b te n e r n o rm as a partir d e n o rm as”; se trata p u es d e “u n c a so d e cre a ció n d e D e re ch o e n sed e interpre­
+tativa” —L. P rieto SanchIs , N eoconstitucionalism o, p rin cip ias y p on d eración , M éxico D.F. 2 0 1 4 :8 4 y 85.
+18 Y o m ism o titulé m i p rim er tra b a jo p o sterio r a la C on stitu ción : D roit n atu rel et “ju risp ru d en ce
+d e p rin cip es” (a v ec referen ce a la C onstitution esp ag n ole d e 1978), [en:] C ontem porary C onceptions ofL aw ,
+Stuttgart 1 9 7 9 ; A rchiv fü r R echts- u n d S ozialp h ilosop h ie (Su pplem enta), v o l. I, p art 1:629-63919 “E n su m a, la C o n stitu ció n e s u n a le y d el E stad o, p e ro actú a c o m o si fu era u n a n o rm a su p erior
+a cu a lq u ie r n o rm a d ictad a p o r u n ó rg a n o d el E stad o; e n c ie rto m o d o , d e se m p e ñ a la fu n ció n d el D e re c h o
+natu ral” - L . P rieto SanchIs , C on stitu cion alism o y positivism o, M é x ic o D .F. 1 9 9 7 :1 7 y 3 5 . El m ism o L. Ferrajo li, alu d e a o rie n ta cio n e s “p rin cip ialistas d e tip o n eo iu sn atu ralista” - L . F errajou , A rgu m en tación in terpre­
+tativ a y arg u m en tación equ itativ a: con tra e l creacion ism o ju d icia l, T eoría & D erech o 2 0 1 6 , Ns 20:71.
+
+270
+
+
+
+superación del positivismo metodológico, todo ello en la línea de recupera­
+ción de un cierto iusnaturalismo”20.
+Todo ello resulta refrendado cuando, partiendo de la distinción kelseniana entre ordenamientos dinámicos y estáticos, se constata que “el ‘principialismo de las Constituciones modernas trae a primer plano el criterio o principio
+estático y aquí la actitud ‘crítica’ cobra todo su valor”21. En efecto, en el marco
+del neoconstitucionalismo “la validez de todas las normas y en primer lugar de
+la ley se hace depender también de su contenido, o sea, de su adecuación a los
+preceptos sustantivos de la constitución, lo que requiere emprender una argu­
+mentación capaz de dotar de alguna objetividad a su significado. En suma, la
+identificación del Derecho ya no puede seguir concibiéndose como una mera
+cuestión de hecho independiente del contenido, sino siempre al mismo tiempo
+como el resultado de juicios de valor que han de ser fundamentados mediante
+argumentación”22. Ello no deja de aportar consecuencias positivas23.
+En lo que estoy menos de acuerdo es que “si bien es verdad que no
+todo Derecho natural está sin más en la base del constitucionalismo, sí parece
+cierto que este último representa una traslación a la esfera del Derecho positivo
+de los postulados de un cierto Derecho natural, concretamente del iusnatura­
+lismo racionalista, secularizado y contractualista de los siglos XVII y XVIII”24. Es
+fácil reconocer que ese iusnaturalismo sirvió más bien de matriz a la codifica­
+ción y, con ella, al positivismo legalista. El constitucionalismo, por el contrario,
+
+20 A u n qu e “sería d el to d o e q u iv o ca d o trazar u n a co rresp o n d en cia ab solu ta en tre D e re c h o natu­
+ral y co n stitu cio n a lism o ”. “La ju sticia co n stitu cio n a l, c o m o tod a form a d e lim itació n o co n tro l d el poder,
+en cu en tra m e jo r a co m o d o e n esa id eo lo g ía iusnaturalista. H ay p o r tan to e n e l co n stitu cion alism o y e n la ju s­
+ticia co n stitu cio n al lo q u e pu d iéram o s llam ar u n resid u o fu n cio n al d e iusnaturalism o e n el sen tid o d e q u e
+las C o n stitu cion es v ie n e n a d esem p eñ a r la fu n ció n e n o tro tiem p o d esem p eñ ad a p o r cierto D e re c h o natu­
+ral, d esd e lu eg o c o n u n a lc a n c e m uy d iferen te” - L . P rieto Sanchís , Iusnaturalism o, positivism o y con trol d e
+la ley. Los presu puestos históricos, id eológ icos y d octrin ales d e la ju risd icción constitucional, [en:] J . L. R eq u ejo
+Pagés (e d .), L a rebelión d e las leyes. D em os y nom os: la a g o n ía d e la ju sticia con stitu cion al, O v ied o 2 0 0 6 :3 8 ,
+4 0 y 102-103.
+21 L. P rieto Sanchís , C onstitucionalism o y positivism o (op. cit. nt. 1 9 ):6 5 . “R ecord an d o la co n o cid a
+d istin ció n k elsen ia n a en tre sistem as está tico s (m o ra les) y d in ám icos (ju ríd icos), c a b e d ecir q u e el constitu­
+cio n a lism o co n te m p o rá n e o fo rta le c e la d im en sió n está tica d el D e r e c h o ” - L . P rieto Sanchís , P resupuestos
+n eocon stitu cion alistas d e la teoría d e la arg u m en tación Cqp. cit. nt. 2 ):2 2 . Sim ilar afirm ación e n N eoconsti­
+tu cion alism o, p rin cip ios y p o n d eració n [op. cit. nt. 17 :1 9: e n c o n se c u e n cia , “la im agen d el T ribunal Consti­
+tu cio n a l c o m o leg islad o r estrictam en te n egativ o d e b e se r revisad a”:22.
+22 L. P rieto Sanchís , P resupuestos n eocon stitu cion alistas d e la teoría d e la arg u m en tación (_op. cit.
+nt. 2 ):3 3 .
+23 “Y a n o b asta a p e la r a la autoridad d el ó rg a n o y al p ro ced im ien to -q u e es e n su stancia lo q u e
+h a c ía el T ribu nal C o n stitu cion al k elsen ia n o -, sin o q u e e s p re ciso tam b ién acu dir a lo s co n ten id os. Y c o n esta
+ex te n sió n d e la arg u m en tació n y, p o r tanto, d e la ju stificació n c re o q u e se am p lían las fron teras d el D e re ­
+c h o y d el Estado d e D e re c h o e n d etrim ento d e la esfera m ás d ecision ista o p o lítica d om inada p o r la lib er­
+tad d e co n fig u ració n legislativa o p o r la in tu ición su bjetiv a d el ju e z ”, -L . P rieto Sanchís, T ribu nal Constitu­
+cio n a l y positivism o ju ríd ico, D o x a 2 0 0 0 , n ° 2 3 :1 9 4 .
+24 L. P rieto Sa n ch ís, Iu snaturalism o, p o sitivism o y co n tro l d e la ley. Los p resu p u estos h istóricos,
+id eo ló g ico s y d o ctrin ales d e la ju risd icción co n stitu cio n al (o p . cit. nt. 20 ), p . 102.
+
+271
+
+
+
+de emparentar con algún iusnaturalismo, será con planteamientos que se sien­
+tan deudores del ya comentado giro hermenéutico y argumentativo; sensibles,
+en consecuencia, a la dimensión histórica que todo derecho lleva consigo25.
+IV. IUSNATURALISMO MOTEJADO COMO IUSMORAUSMO
+
+Lo que no acabo de entender, jergas de combate aparte, es que se
+hable de iusmoralismo, y menos que lo haga un admirable superviviente del
+positivismo jurídico26; planteamiento del que siempre he admirado su afán por
+no confundir derecho y moral. Si ya los anglófonos derechos morales me han
+sonado siempre atronadoramente a oxímoron, en la versión tipificada por la
+Real Academia de la Lengua27, no deja de asombrarme que quienes juraron
+limitarse a describir al derecho como es lleguen a la resignada conclusión de que
+el único modo de que un jurista lo logre es convertirse en coleccionista de jui­
+cios morales; todo ello por el tozudo empeño en no considerar jurídicas a deter­
+minadas exigencias, pese a formar parte del mínimo ético posibilitador de una
+convivencia humana, por el mero hecho de no haber sido todavía homologa­
+das en formato legal. Es obligado reconocer, partiendo de la llamada ‘remate­
+rialización’ constitucional, que “no es en la Constitución, sino fuera de ella, en
+donde el juez ha de buscar el criterio con el que juzgar sobre la licitud o ilici­
+tud de la diferencias establecidas por el legislador”28. Lo que no acabo de enten­
+der es el empeño por calificar como morales a tan obvias exigencias jurídicas.
+Comprendo que cuando de derecho natural se habla resulte discutible
+el fundamento y alcance que quepa reconocer al adjetivo natural, pero no que
+ello se extienda a la sustantiva juridicidad de dichas exigencias; precisamente
+por eso —y no por desvarios morales— se ven incluidas en la argumentación
+judicial, sin que el juez de turno pretenda con ello llamar a nadie a la conver­
+sión. Sin duda la alergia al iusnaturalismo se alimenta con frecuencia de la tor­
+peza de algunas de sus versiones menos afortunadas, que clonan los plantea­
+mientos positivistas diseñando una especie de código alternativo, que no queda
+claro si habrá que custodiar en la biblioteca o en la sacristía29.
+
+25 Valga c o m o p re cu rso r A. K aufmann, N atu rrecht u n d G eschichtlichkeit, T ü b in g e n 1957.
+26J . A. G arcía Amado , C om entarios so b re los textos d e A tien za, G arcía F ig u eroa y F errajoli, T eoría
+& D erech o 2 0 1 6 , n ° 2 0 :1 2 7 .
+27 “C o m b in a ció n , e n u n a m ism a estructura sin táctica, d e d os palabras o ex p re sio n e s d e significad o
+o p u e sto q u e o rig in an u n n u ev o sen tid o , c o m o e n u n sile n c io atron ad o r”.
+28 F. R u bio Llórente , La ig u a ld a d en la ju risp ru d en cia d el T ribu n al C onstitucional. In trod u cción ,
+R evista E sp añ ola d e D erecho C on stitu cion al 1 9 9 1 , n ° 31:30.
+29 Q u iz á p ie n sa e n e llo s L. P rieto S anchís cu a n d o afirm a: “C reo q u e la id ea n u cle a r d e u n a te o ­
+ría d el D e re c h o iusnaturalista p u ed e resum irse e n u n lem a, la m oralización d el D e re ch o , esto e s, la id ea seg ú n
+la cu al la d eterm in ació n d e lo q u e d ice e l D e re ch o d ep en d e e n alguna m edida d e lo q u e d ice la m oral” —Entre
+
+la m oraliza ció n d el d erech o y la leg a liz a ció n d e la m oral. V ariacion es so b re la p resu n ta o b lig a toried ad d el
+d erech o, [en:] Una filo s o fía d el d erech o en a cció n . H om en aje a l P rofesor A n drés O llero, M adrid 2 0 1 5 :1 0 3 .
+
+272
+
+
+
+No tiene por ello nada de sorprendente que más de uno se haya visto
+obligado a preguntarse si es realmente iusnaturalista30.
+Soy consciente de que mi planteamiento no coincide con el masiva­
+mente generado por la literatura anglosajona. El Profesor Moreso ha tenido a
+bien afirmar cortésmente con apoyo en dos acertadas citas, que desde mis pri­
+meras publicaciones he “mantenido una posición original al respecto”.
+Por una parte: “Habría que identificar a una exigencia como moral
+cuando tuviera como objetivo el logro de la máxima perfección ética individual.
+Obviamente sería una determinada concepción antropológica la que llevaría a
+asumir uno u otro código moral, en relación a lo que se considere que perfec­
+ciona de modo más excelso al ser humano. El derecho ha de servir de funda­
+mento a exigencias más modestas, lo que ha llevado a que con toda razón se
+lo caracterice como mínimo ético, porque con ese logro se conforma: posibi­
+litar una pacífica y ordenada convivencia, que dejaría campo abierto para aspi­
+rar a las más ambiciosas metas morales”.
+Por otra parte, como consecuencia, “describir el derecho como es en
+realidad, lleva a reconocer que en su dinámica entran en juego elementos jurí­
+dicos no formalmente positivados, o a los que sólo cabe considerar positivados de modo implícito. Así ocurrirá con los valores y — aún más, dada su mayor
+operatividad jurídica— con los principios”31.
+No creo que mi afán por llamar derecho a lo jurídico y moral a lo
+moral, digno de un positivista de los mejores tiempos, pueda trivializarse como
+mera disquisición terminológica. De ahí que me permita traducir a términos
+jurídicos algunos bienintencionados intentos de presentar las realidades jurídi­
+cas como lo que a mí me sonarían a salmodias morales.
+Comenzaré por la afirmación de que “el derecho no agota el ámbito
+de la moralidad, sino sólo aquella parte que se refiere a la vida de las perso­
+nas en sociedad, sólo aquella referida a la virtud de la justicia”32. A mi modo
+de ver, lo que el derecho —por su condición de mínimo ético— no agota es
+el ámbito de la eticidad; de lo que debo hacer, sea para perfeccionarme moral­
+mente o para limitarme a convivir jurídicamente. Es cierto que el derecho sólo
+confluye con la moralidad en lo que se refiere a la vida de las personas en
+
+30
+Mi ca so , sin ir m ás lejo s: ¿Soy en rea lid a d iusnaturalista?, [en:] L ib er am icoru m . H om en aje a l
+P rofesor Luis M artín ez R oldan, O v ied o 2 0 1 6 :5 1 5 -5 3 4 .
+31J . J . M oreso , S o b re seis p o sib les co n e x io n e s n e cesarias en tre e l d e re c h o y la m oral, [en:] Una
+filo s o fía d el d erech o en a cció n ( op . cit. e n nt. 2 9 ):6 8 , 7 4 y 78. Las citas rem iten a D erecho y m oral: u n a
+rela ción d esn atu ralizad a, M adrid 2 0 1 2 :2 8 y 22-23.
+32J . J . M oreso , A n tígona com o defeater. Sobre e l con stitu cion alism o g aran tista d e P errajoli, D o xa
+2 0 1 1 , n ° 3 4 :1 8 5 . R esp ecto a a lu sio n es p o sterio res rem ito a las págin as 185, 188, 190, 191 y 195.
+
+273
+
+
+
+sociedad. Esa confluencia lleva en ocasiones al derecho incluso a generar exi­
+gencias morales; no debo, por exigencia jurídica de convivencia, robar y ello
+me genera la consiguiente obligación moral. Por el contrario, la virtud de la jus­
+ticia no genera exigencia jurídica alguna. Tal virtud es, como todas, un hábito
+subjetivo de conducta moral, que en este caso obliga a dar a cada uno lo suyo;
+pero quien determina qué es lo suyo de cada uno es el derecho, que es el que
+acabará generando así una exigencia moral. La vinculación del derecho no se
+da con la subjetiva virtud de la justicia sino con la justicia objetiva, que es la
+recogida en clave cognoscitivista en el artículo 1 CE como valor superior del
+ordenamiento jurídico; pero lo jurídico no tiene nada que ver con virtud alguna.
+Si algún iusnaturalista afirmara eso, conmigo que no cuente; si acaso, relacio­
+naría la actividad del jurista con la virtud de la prudencia.
+Como correlato de lo anterior, más que una conexión necesaria entre
+derecho y moral, que lo subordine a ella, habría una conexión contingente
+entre moral y derecho, en la medida en que este llegue a generar exigencias
+de ese cariz33. Más que de objetivismo moral yo hablaría pues de objetivismo
+jurídico. Corrigiendo a Dworkin, afirmaría que si la justicia objetiva34 no existe,
+tampoco hay ninguna tesis interpretativa que pueda ser realmente superior en
+los casos verdaderamente difíciles.
+No comparto por tanto con Ferrajoli que la separación conceptual entre
+Derecho y moral comporte el rechazo del objetivismo ético; más bien lo pre­
+supone. Dentro de las exigencias éticas objetivas, no es difícil distinguir las
+jurídicas de las meramente morales. En consecuencia, no tendría problema en
+suscribir una tesis epistémica según la cual los seres humanos disponemos de
+acceso confiable a un conjunto privilegiado de pautas jurídicas válidas; esto es
+lo que en realidad explica la referencia argumentativa a derechos humanos o
+fundamentales. Los sistemas jurídicos no incorporan pues, en la identificación
+y la aplicación del Derecho, consideraciones morales sino consideraciones jurí­
+dicas no formalmente homologadas.
+No me atrevo a pronunciarme sobre si “el constitucionalismo postpo­
+sitivista ha contribuido a la propagación de una auténtica epidemia de sinceri­
+dad, ofreciendo respaldo o cobertura teórica para decir con argumentos refi­
+nados lo que casi todos sabían o intuían”; pero sí tengo clara disconformidad
+con la conclusión que ello se deriva: que “cuando se resuelven conflictos jurí­
+
+33 C reo p o r e llo co in cid ir c o n L. P rieto Sa n ch ís, cu a n d o afirm a q u e “si s e q u ie re m a n ten er la id ea
+d e o b lig a to ried a d e n re la ció n c o n las n o rm a s ju ríd icas, c o n v ie n e reform u larla e n térm in o s d e o b lig a ció n
+pru d en cial: la n o rm a influye e n la co n d u cta d e lo s d estin atarios, q u e p u ed en sen tirse efe ctiv a m e n te o b lig a­
+d o s o co m p elid o s, p e ro s ó lo e n la m ed id a e n q u e p re ten d an elu d ir las sa n c io n e s o c o n se g u ir las re c o m p e n ­
+sa s an u d ad as al co m p o rta m ien to p rev isto e n la n o rm a; si ad em ás s e sie n te n o b lig a d o s e n o tro sen tid o, ello
+o b e d e c e rá a ra z o n es m o ra les y n o ju ríd ica s” —C on stitu cion alism o y positiv ism o (op . cit. e n nt. 1 9 ):1 2 .
+MR. D workin , h a b la d e “v erd ad m o ral o b je tiv a ” -L a ju sticia con toga, M adrid 2 0 0 6 :7 3 .
+
+274
+
+
+
+dicos se están ofreciendo respuestas morales y que, por tanto, es perfectamente
+lógico que en el razonamiento jurídico se conjuguen argumentos procedentes
+del Derecho estricto con otros derivados de la filosofía de la justicia”35. No en
+vano tengo claro que la filosofía de la justicia no es sino filosofía del derecho,
+sin perjuicio de que pueda tener el efecto colateral de orientar a alguien en su
+empeño de comportarse más virtuosamente.
+V. DERECHO COMO MÍNIMO ÉTICO
+Y LEY INJUSTA
+
+En la medida en que se me pueda considerar iusnaturalista, y precisa­
+mente por eso, me vería obligado a modificar las dos tesis propuestas por
+Moreso al respecto. Considero, como primera tesis, que hay un conjunto pri­
+vilegiado de principios (o valores, razones, pautas) jurídicos válidos, pero —a
+mi juicio— su vigencia práctica nunca será independiente de cualquier contexto
+(de las creencias y deseos de los seres humanos en cualesquiera circunstancias),
+dada la historicidad propia de todo derecho; tenga un fundamento natural o
+meramente positivo. Tales valores, razones o pautas no son morales sino jurí­
+dicos; la argumentación de su validez difícilmente prosperará si desconoce las
+creencias y deseos de los seres humanos. En cuanto a la segunda tesis, si fuera
+cierta, yo no sería iusnaturalista: no suscribo que las normas positivas contra­
+rias a alguno de los principios referidos no sean jurídicas. Son, a mi modo de
+ver, un claro ejemplo de derecho deficiente, por no reflejar adecuadamente la
+justicia objetiva; serían válidas desde una perspectiva jurídico-formal, pese a
+deficiencia jurídico-material. Ello me ha llevado a criticar el intento de Alexy de
+resucitar la fórm ula de Radbruch con ocasión de los procesos a los vopos del
+muro de Berlín36.
+No ha faltado quien crea detectar en ello “un aspecto oscuro, cuando
+no contradictorio: de un lado, el iusnaturalismo nos dice que todo Derecho
+incorpora un mínimo ético, pero no porque lo importe eventualmente de la
+moralidad, sino porque forma parte, ontológicamente, de su propio ser, incluso
+aunque las normas puestas guarden silencio. Pero, de otro, se reconoce que el
+Derecho injusto, que parece ser una violación del estatus ontológico del mismo
+Derecho, sigue siendo un sistema jurídico”. Ya que se alude repetidamente a lo
+ontológico, bastaría para aclarar la situación remitirse a la distinción entre esen­
+cia y existencia. Cuando media la conducta humana, no siempre es fácil que la
+práctica existencial se identifique con exigencias esenciales; es la cotidiana expe­
+riencia de nuestra finitud. No es de extrañar que haya “sistemas jurídicos real­
+mente existentes que, sin embargo, no reúnen las condiciones estipuladas en la
+
+35 L. P rieto Sanchís , C on stitu cion a lism o y positivism o ( op . c it . e n nt. 19 ):9 4 .
+36 E l derecho en teoría , Cizur M en o r 2 0 0 7 :2 2 y ss.
+
+275
+
+
+
+definición del Derecho”37; tampoco que haya hombres con comportamientos
+inhumanos, a los que no se niega por ello la condición de tales ni la titularidad
+de derechos. El motivo es el respeto a la dignidad humana, que también legi­
+tima a los Estados democráticos. Cuando no es este el caso, no cabe duda de
+que han de entrar en juego los tribunales internacionales para sancionar los crí­
+menes contra la humanidad, o incluso iniciativas de injerencia humanitaria con
+la legitimación de las estructuras internacionales ya positivadas. Todo ello puede
+sonar también a iusnaturalismo.
+Comparto, por supuesto, que “es posible rechazar el relativismo sin
+abrazar el absolutismo, ni el fundamentalismo”. El cognoscitivismo y el objeti­
+vismo jurídico no llevan inevitablemente a un absolutismo jurídico ni a la into­
+lerancia con las opiniones disidentes; por el contrario, son imprescindibles para
+establecer la frontera de lo intolerable, sin la que la tolerancia —y con ella el
+control de constitucionalidad y el garantismo— pierde todo sentido38. Suscribo,
+en consecuencia, la necesidad de una “prudencia epistémica”. Admito que hay
+proposiciones jurídicas (no logro entender por qué se las disfraza de morales)
+que “ninguna persona razonable rechazaría”, por ser “verdaderas en todas las
+perspectivas”39.
+Afirmar que la cultura del constitucionalismo ha incrementado el grado
+de incorporación de la moral al Derecho, no es sino reconocer la tácita vigencia
+de lo que cabría caracterizar como un iusnaturalismo incluyente bien distinto de
+sus versiones estratosféricas. Ignorarlo obliga a inventarse “una norma específi­
+camente jurídica” que remita a criterios morales40, por no reconocer la necesidad
+de las normas positivas de incluir exigencias jurídicas no formalizadas.
+No suele advertirse que la transmutación en moral de lo jurídico no for­
+malizado, hace irreconocible el derecho al ignorar su interminable dimensión
+consecuencialista, que reviste un claro carácter positivo, bien distinto de su
+escasa prestancia en el ámbito moral. Aunque moralmente el fin no justifique
+los medios, resulta imposible evaluar jurídicamente cualquier referencia a
+medios sin dar entrada a una dimensión teleológica.
+
+37 L. P rieto Sanchís , E ntre la m oraliza ció n d el d erech o y la leg a liz ación d e la m oral. V ariaciones
+so b re la p resu n ta o b lig a toried ad d el d erech o (op . cit. nt. 2 9 ):1 1 1 , nt. 18.
+38 Sugestivo al resp ecto el p lan team ien to d e E. G arzón Valdés, -No p on g as tus su cias m an os sobre
+M ozart-, A lgunas con sideracion es so b re e l con cepto d e toleran cia, Claves d e razón p ráctica 1992, n° 19:16 y ss.
+35 L. P rieto Sanchís c o n c re ta c o n a cie rto a q u é m e refiero : “Esa v erd ad ju ríd ica so n lo s d erech o s
+h u m a n o s, q u e y a n o s e c o n c ib e n c o m o e x ig e n c ia s m o rales ev en tu alm en te im p ortad as p o r lo s D e re c h o s
+p o sitiv o s, c o m o si se tratase d e m e rca n cía s a jen a s, sin o q u e e n c a m a n d e m o d o in m ed iato e x ig e n c ia s jurídi­
+ca s in clu so a u n q u e ca re z ca n d e resp a ld o e x p líc ito e n las no rm as p u estas, p o rq u e resu lta q u e ‘n o e s cierto
+q u e e n lo s te x to s leg a les e sté y a p u e sto el d e re c h o ’” —E ntre la m oraliza ció n d el d erech o y la leg a liz ación d e
+la m oral. V ariacion es so b re la p resu n ta o b lig a to ried a d d el d erech o (op . cit. nt. 29 ): 109. La cita fin al rem ite a
+m i lib ro : D erech o a la verd ad . V alores p a r a u n a so cied a d p lu ralista, P am p lon a 2 0 0 5 :5 7 .
+* F. Laporta , E n tre e l d erech o y la m oral, M éx ico D.F. 1 9 9 3 :6 2 .
+
+276
+
+
+
+No pienso que interpretar una norma poniéndola en relación con la
+“realidad social del tiempo en que han de ser aplicadas”, como indica el artículo
+3.1 del Código Civil, implique recurrir a juicio moral alguno, ni tampoco que
+tenga tal carácter el reconocimiento por el Tribunal Constitucional como “razo­
+nable” de la solución propuesta para un caso por la jurisdicción ordinaria. No
+considero tampoco que apreciar la posible crueldad de una pena obligue a
+manejar un término moral41, como tampoco apreciar ensañamiento o alevosía;
+se trata sin duda de términos jurídicos. Tampoco dictaminar la existencia de tra­
+tos inhumanos o degradantes lleva consigo un razonamiento genuinamente
+moral. Una cosa es que tanto el derecho como la moral se apoyen en una con­
+cepción antropológica y otra que todo lo en ella apoyado, sea para configurar
+un mínimo ético o una exigencia maximalista, haya de identificarse como moral.
+El embarullamiento de moral con derecho lleva a afirmar algo para mí
+tan asombroso como reconocer que “un estándar moral no sea parte del Dere­
+cho y, sin embargo, sea obligatorio para los jueces” o que “es posible que la
+identificación del derecho dependa de argumentos morales, aunque también es
+posible que no sea así”; afirmación que, si se me permite la broma, podría atri­
+buirse al presidente Rajoy. Nunca se me ha ocurrido pensar, como magistrado
+constitucional, que mi misión consista en constatar si una norma “se conforma
+con aquello que, como cuestión objetiva, es la mejor interpretación desde el
+punto de vista moral de las normas sustantivas de la Constitución”; lo que per­
+sigo, con más o menos éxito, es la mejor interpretación jurídica. Lo mismo he
+aplicado a la afirmación de Dworkin de que el derecho es una parte institucio­
+nalizada de la moralidad política42.
+En esa misma línea tampoco traduciría el punto de vista interno hartiano como punto de vista moral, sino como jurídico. En la medida en que no
+califico como morales determinados conceptos o consideraciones, no me veo
+obligado a admitir que “lo que el Derecho establece ha de ser identificado
+mediante el uso de la argumentación moral”43. El derecho implica un ejercicio
+de razón práctica, pero —sin perjuicio de la unidad del razonamiento prác­
+41 Al resp ecto : “cru el e s, sin duda, u n térm in o m o ral” - J . J . M oreso , La ciu d a d ela d e la m oral en
+la corte d e los ju ristas , A nuario d e Filo so fía d el D e re ch o , 2 0 1 2 (X X V III):127. Para alu sion es p o steriores rem ito
+a las págin as 128, 1 2 9 y 133.
+42 En d iálog o con D w orkin: m oralid ad p o lítica y d erech o natural. A n ales d e la R eal A cad em ia d e
+C ien cias M orales y P olíticas 2 0 1 4 ( I.X V I-9 1 ):4 6 l-7 7 . N o m e p a re ce riguroso n i clarificad or q u e n o p o d am os
+se r c o n sc ie n te s d e si esta m o s h a b la n d o d e d erech o , d e m oral o d e política. -L . P meto Sanchís p o r su parte,
+co n sid era q u e “la d octrin a d el D e re c h o natural se m uestra así c o n su s m ás claro s p erfiles: p a re ce h a b e r una
+m oralidad o b jetiv a , un iversal y co g n o scib le q u e tie n e e n sí m ism a relev an cia jurídica; p o r tanto, lo s prin ci­
+p io s m ás fu n d am entales sería n lo s m ism os e n cu a lq u ier c o n te x to y h ab rían d e se r tom ad o s siem p re e n co n ­
+sid era ció n a la h o ra d e ap licar el D e re c h o ”; e n co n se c u e n c ia lo co n sid era a e ste en fo q u e “a cre e d o r a cu an ­
+tas críticas s e h ay an p o d id o form ular a la d octrin a d el D e re c h o natu ral” -N eocon stitu cion alism o, p rin cip ios
+y p o n d era ció n ío p . cit. nt. 1 7 ):1 0 5 .
+43J . J . M oreso , S obre seis p osibles con ex ion es n ecesarias en tre e l d erech o y la m oral ío p . cit. e n nt.
+3 0 :7 3 .
+
+277
+
+
+
+tico— no estimo preciso calificar como argumentación moral todo ejercicio de
+razón práctica, pese a ser netamente dispar su intención performativa44. Existe
+sin duda un razonamiento jurídico. Pero sigo sin acertar. Resulta que hay que
+celebrar, ya iba siendo hora, que, “a partir de la idea de unidad del razona­
+miento práctico”, se “rompe el tradicional objetualismo separacionista (el Dere­
+cho positivo por un lado y el natural por otro, como objetos o realidades sepa­
+radas)”45; pero, al parecer, es fruto de que se ha aportado “una visión original
+de las relaciones entre Derecho y moral”. Ya es mala suerte...
+VL UN PROBLEMA JU RÍD ICO :
+LA STC 1 1 /2 0 1 6 , DE 1 D E FEBRERO .
+EXIGENCIAS JURÍDICAS NO LEGALIZADAS
+
+Quizá haya llegado el momento de contrastar estos escarceos teóricos
+con algún ejemplo tomado de la jurisdicción constitucional. Puede servimos al
+respecto la STC 11/2016, de 1 de febrero, de la que yo mismo fui ponente. Recu­
+rre en amparo una ciudadana que convive en pareja y queda embarazada.
+Aguarda de buen grado su maternidad, pero uno de los habituales controles
+periódicos lleva a diagnosticar una cromosopatía de improbable viabilidad y,
+en rutinaria consecuencia, a sugerir la programación de un aborto. Acepta, pero
+tras ser dada de alta después de la intervención reclama que se le entregue el
+feto, para poder “dar digna sepultura a su creación física y espiritual y a despe­
+dirla en compañía de su pareja, en una ceremonia de carácter civil y familiar”,
+dado que se halla de viaje, y proceder a su incineración. A partir de este punto
+de partida se encadenan situaciones aún más sorprendentes. Se le niega la
+entrega solicitada, con apoyo en un protocolo sanitario, recabándose licencia
+judicial, ya que se consideran meros “restos quirúrgicos” los del feto, al pesar
+este menos de 500 gramos y no ser fruto de al menos 180 días de gestación;
+requisitos que llevaría a considerarlos “restos humanos de entidad suficiente”.
+En realidad lo previsto en la “ley de policía sanitaria y mortuoria de la comuni­
+dad autónoma es que el destino de todo resto humano y/o cadáver debe ser el
+enterramiento, la incineración o arrojar los restos al mar”.
+La recurrente no se amilana y plantea su problema en sede judicial. La
+jueza de turno va a aportar dos argumentos al debate procesal. Por una parte,
+interpreta la petición de entrega del feto como una solicitud de inscripción en
+44 P o r e so , a u n ad m itien d o c o m o L. P rieto Sanchís q u e “el ju icio d e p o n d e ra ció n q u e en trañ an
+lo s p rin cip io s o b lig a al in térp rete al d esa rro llo d e u n a racion alid ad p ráctica en o rm e m e n te m ás co m p le ja q u e
+la e x ig id a p o r la trad icio n al su b su n c ió n ”, n o co m p a rto q u e im p liq u e “u n a racion alid ad q u e n i e n su s p rem i­
+sas no rm ativ as (lo s p rin cip io s) n i e n su rea liz a ció n d ifiere d e form a su stan cial d e la arg u m en tació n m o ral”
+-C on stitu cion alism o y positivism o (op . cit. nt. 1 9 ):2 1 .
+45 Los re sp o n sa b le s sería n “lo s q u e s e d e cla ran ‘postp ositivistas’ o ‘n o p ositiv istas’, c o m o Alexy ,
+Niñ o , D workin o e n E sp a ñ a G arcía F igueroa ” -L . P rieto Sanchís , N eocon stitu cion alism o, p rin cip ios y p o n ­
+d era ció n (op . cit. nt. 1 7 ):7 8 .
+
+278
+
+
+
+el Registro Civil. La ley considera obligatorio hacerlo si se cumple alguno de
+los dos requisitos ya aludidos. Tal obligación no parece implicar, a contrario,
+que —de no cumplirse ninguno de ellos— se prohíba la entrega. Así lo reco­
+noce la jueza, pero entiende que no pueden obviarse los protocolos existen­
+tes y deniega la inscripción y la consiguiente entrega. A la vez demuestra su
+conocimiento de las exigencias del principio de igualdad en la aplicación de
+la ley, sorprendiendo a propios y extraños al admitir que falló a favor de una
+entrega similar en un caso anterior; pero considera que, pese a no cumplirse
+tampoco los requisitos mencionados, constituía “un supuesto sensiblemente
+distinto” por dos razones. Por una parte, se trataba de un aborto espontáneo y
+no, como en el caso presente, programado. Por mucho que incomode a los ciu­
+dadanos pro-vida, lo cierto que es dicha distinción es, en nuestro ordenamiento
+legal, absolutamente irrelevante. Por otra, la anterior recurrente había alegado
+que era de confesión musulmana y que sus creencias le impedían permitir la
+incineración de los restos, que habrían de ser sepultados en tierra, lo que plan­
+tearía un “conflicto con el derecho de libertad religiosa”. La jueza optó por que
+se le entregara el feto.
+La recurrente basa su argumentación en la existencia de tres posibles
+vulneraciones de derechos: su libertad ideológica, considerada menos digna de
+protección que la religiosa de su antecesora; la discriminación en razón de sus
+convicciones, derivada de lo anterior, ya que jueza argumenta que no “invoca reli­
+gión católica alguna”; por último, aportando jurisprudencia de Estrasburgo, aun­
+que sea un tanto alejada, al tratarse del sepelio de un hijo nacido muerto, estima
+vulnerado su derecho a la vida privada personal y familiar, protegido por el artí­
+culo 8 del Convenio de Roma, cuya alcance no es considerado por el Tribunal
+Constitucional idéntico al del artículo 18 CE.
+Quizá todo esto merezca una reflexión. Una difundida metáfora invita
+a admitir que en la norma habría un núcleo de diáfana claridad jurídica, rode­
+ado de una zona de penumbra, que convertiría el caso en difícil y obligaría al
+intérprete a echar discrecionalmente mano de sus planteamientos morales metajurídicos. No parece ser este el caso. La obsesión por la conexión derechomoral puede llevar a ignorar la relevancia del pluralismo argumentativo en la
+deliberación constitucional. Los tres argumentos planteados por la recurrente
+son inequívocamente jurídicos, sin que quepa apreciar en ellos veleidad moral
+alguna. El presunto dilema entre claridad jurídica y opciones morales se ve
+pues sustituido por una pluralidad de posibles fundamentos jurídicos, habitual
+en la ponderación que con frecuencia preside una argumentación constitucio­
+nal. Nos encontramos ciertamente ante un caso no poco difícil, o al menos
+polémico. Baste tener en cuenta que constituida la sala con solo cinco magis­
+trados, por fallecimiento del sexto, la sentencia soló será netamente apoyada
+por dos de ellos: otros dos suscriben votos particulares discrepantes y el quinto
+se muestra de acuerdo con el amparo otorgado, pero discrepa, en su voto par­
+ticular concurrente, de la fundamentación suscrita por la pareja favorable.
+279
+
+
+
+El Tribunal, en una muestra más de su habitual esfuerzo de autocontención, se ceñirá a la argumentación propuesta, renunciando a reconstruir la
+demanda. Cabría entender que, a la hora de jerarquizar los motivos de vulne­
+ración planteados daría preferencia a del mayor sintonía con la realidad social
+en que se inserta el caso. Personalmente, más bien me parece que ocurre lo
+contrario. El artículo 16.1 CE equipara a la libertad ideológica con la religiosa.
+Ello excluye planteamientos laicistas, nada infrecuentes, que otorgarían prima­
+cía a la primera. No faltan, sin embargo, casos en los que ocurre lo contrario.
+El Tribunal tuvo ya oportunidad de establecer, ante una objeción de concien­
+cia al servicio militar46, que no cabía limitar al ámbito religioso el actuar en con­
+ciencia, sino que también merecerían protección planteamientos éticos no vin­
+culados a ninguna confesión. Creo que en el caso que nos ocupa influyó, como
+en otros47, el “vértigo” que ante las apelaciones a la libertad de conciencia sue­
+len experimentar algunos magistrados, temerosos de abrir una espita a una
+relativización de la normativa jurídica en vigor. Ello habría llevado a marginar
+la protección de la libertad ideológica, reconocida por el fiscal, e incluso la
+discriminación por convicciones personales, de difícil argumentación sin tener
+implícitamente en cuenta la anterior, optando la vulneración del artículo 18 CE,
+interpretado a la luz del no tan cercano artículo 8 del Convenio de Roma, pro­
+clive a servir de cobertura al mero juego de la autonomía de la voluntad48, que
+desborda con creces su ámbito protector.
+v n . CONCLUSIÓN
+
+Como conclusión, debo mostrarme comprensivo ante la notable difi­
+cultad con que tropiezan quienes se han comprometido a negar carácter jurí­
+dico a toda exigencia no formalmente legalizada, atribuyéndole — es de ima­
+ginar que generosamente— carácter moral, para poder explicar los rasgos reales
+de la dinámica jurídica; tanto más cuando quieren hacerlo compatible con una
+razonable distinción entre derecho y moral. Sin duda la entrada en juego de la
+Constitución marcó en el caso español un obligado replanteamiento, dando
+paso a las propuestas constitucionalistas o incluso neoconstitucionalistas, bajo
+el a sus ojos amenazador espectro del derecho natural.
+Quizá resulte ilustrativo remitirse a los problemas suscitados con motivo
+de los momentos iniciales de la vigencia del texto constitucional y su ruptura con
+la mentalidad arraigada en el positivismo legalista que llevaba a situarlos en el
+
+46 STC 15/1982, d e 23 d e abril, P te. G lo ria B e g u é C an tón.
+47 Sirva d e e jem p lo la STC 145/ 2015, d e 25 d e ju n io , P te. A. O llero T assara, c o n v o to particu lar
+co n cu rren te, relativa a la o b je c ió n d e c o n c ie n c ia d e u n farm acéu tico , q u e s e n ieg a a d isp o n er e n su o ficin a
+d e la llam ad a p íld ora d el d ía d esp u é s y d e preservativos.
+48 Al re sp e cto , S obre la p ro tecció n d e la v id a p riv a d a en la ju risp ru d en cia d el T ribu n al d e Estras­
+burgo, Id eas 4 , M adrid 2 0 1 4 .
+
+280
+
+
+
+ámbito de unos principios a los que se negaba vinculatoriedad hasta que se vie­
+ran legalmente desarrollados. Valga para este experimento de memoria histórica
+la relectura de la temprana STC 80/1982, de 20 de diciembre, Pte. Francisco
+Tomás y Valiente, relativa a los derechos hereditarios de una ciudadana recono­
+cida como hija natural, con arreglo a la normativa preconstitucional.
+Se planteaba la posible incidencia derogatoria del artículo 14 CE sobre
+el artículo 137 de Código Civil entonces en vigor, al menos para la entonces
+existente Audiencia Territorial de Sevilla y para Sala Primera de Tribunal
+Supremo, que no dudó en imponer a la recurrente el pago de costas, por enten­
+der que el artículo 137 del Código Civil “no devino inconstitucional a causa del
+art. 14 de la C.E. porque ‘tal mandato tiene alcance de una declaración de prin­
+cipio que a su vez se matiza incluyéndolo dentro de los principios comprendi­
+dos (...) en el art. 39.2, al que alcanza la prohibición de su alegación directa ante
+la jurisdicción ordinaria, prescrita en el art. 53-3 de la C.E.”
+El Tribunal, con ponencia de Francisco Tomás y Valiente tuvo que recor­
+dar que “la Constitución es precisamente eso, nuestra norma suprema y no una
+declaración programática o principal”, por lo que “no puede caber duda a pro­
+pósito de la vinculatoriedad inmediata” de sus artículos. Se descartaba, en con­
+secuencia, que “el contenido de las Leyes Fundamentales del Estado integra
+meras enunciaciones de principios encaminados a orientar la futura labor del
+Poder Público, sin eficacia para provocar el nacimiento de derechos civiles salvo
+que éstos se desarrollen por leyes ulteriores”, pues lo que “en modo alguno
+puede admitirse es la equiparación a tal efecto ni a ningún otro entre aquellas
+‘Leyes Fundamentales’ y la Constitución Española de 1978, para cuya valoración
+e interpretación es necesario prescindir de criterios ya periclitados”. En conse­
+cuencia se rechaza la afirmación de que “tal mandato (el del art. 14) tiene alcance
+de una declaración de principio necesitada de ulterior desarrollo”; aclarando,
+dada la argumentación esgrimida por el fiscal, que ello “no implica la aplicación
+retroactiva de la Constitución, sino el reconocimiento de su carácter normativo”.
+Por tal se entiende su dimensión jurídicamente vinculante, para lo que no es
+óbice que juegue operativamente como principio.
+No se reducen tales efectos al esporádico surgimiento de la una supralegalidad constitucional. El propio Tribunal indica que “no puede ni debe formu­
+lar ningún pronunciamiento sobre la filiación de la recurrente en amparo, pero
+sí debe colocarla en una situación procesal en la que sea tratada por los Tribu­
+nales con respecto a su derecho a la no discriminación por razón de nacimiento”.
+Ha de ser la jurisdicción ordinaria la primera en asumir la aplicación de Cons­
+titución y será su tarea la primera en experimentar el cambio de paradigma ana­
+lizado. Lo decisivo no habrá sido pues la entrada en juego de la Constitución, con
+el consiguiente “constitucionalismo” teórico, sino el giro hermenéutico y argu­
+mentativo experimentado por la filosofía jurídica y su inevitable incidencia tanto
+sobre los planteamientos positivistas como sobre los iusnaturalistas.
+
+281
+
+
+
+

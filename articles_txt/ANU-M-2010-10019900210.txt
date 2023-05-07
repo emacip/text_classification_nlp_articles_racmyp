@@ -1,0 +1,378 @@
+¿QUÉ HA FALLADO DEL ANÁLISIS ECONÓMICO
+EN LA CRISIS FINANCIERA ACTUAL?
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez*
+
+Los dos últimos años mis intervenciones en la Academia se han centrado
+en los aspectos fundamentalmente financieros de la crisis económica actual. En 2008
+traté de explicar las enseñanzas que de la crisis podía obtener un supervisor financiero de mercados y conductas con competencias muy limitadas en el área de solvencia, es decir, de riesgo sistémico, señalando en lo esencial tres: la importancia
+de la transparencia, la conveniencia de diseñar de forma adecuada el modelo institucional de supervisión financiera y lo que la crisis suponía para el trabajo diario
+de un supervisor de mercados. En 2009 traté de apuntar un análisis coste-beneficio de
+las transformaciones recientes de los mercados financieros, ligándolo con los fallos
+—de diseño de políticas macroeconómicas, de mercado y de regulación— que la
+crisis ha puesto de manifiesto y obtener de ello nuevas enseñanzas: lo indeseable
+de las regulaciones procíclicas, la inanidad de la autorregulación en presencia de
+conflictos de interés, la importancia de los factores organizativos de las empresas
+que prestan servicios financieros desde el punto de vista del riesgo sistémico y la
+clara insuficiencia de la cooperación internacional para enfrentar una crisis mundial.
+Ambas intervenciones tenían su origen más inmediato en mi responsabilidad actual como presidente de la CNMV. Hoy volveré a hablarles de la crisis, pero
+con una perspectiva distinta: la de un economista académico del área de análisis o
+teoría económica.
+Y las preguntas que intento contestar son del tipo ¿qué ha fallado en el
+análisis económico dominante en las décadas previas a la crisis? En otras palabras,
+¿en qué hemos fallado los economistas?
+
+* Sesión del día 2 de febrero de 2010.
+
+199
+
+
+
+Empezaré por señalar que hay algunas críticas vulgares y relativamente
+generalizadas que me preocupan poco. Pondré un par de ejemplos. El primero es
+responsabilizar a los economistas de que no hayamos sido capaces de prever la crisis, como si fuéramos epidemiólogos a los que sorprende una pandemia por una
+mutación vírica ya conocida sin vacunas. Más bien la comparación debería ser con
+los epidemiólogos que se encuentran ante una mutación no conocida. Pero es que,
+además, en el límite, el papel crucial que las expectativas juegan en el mundo financiero haría que, si fuera posible disponer de un modelo que anticipase con alta
+probabilidad de acierto la ocurrencia de una crisis, lo que se lograría es adelantar
+ésta. El segundo ejemplo es criticar a la profesión porque utiliza modelos simplificados que no tienen en cuenta todos los elementos idiosincrásicos e institucionales del mundo real, cuando, como señaló Joan Robinson, con agudeza no exenta
+de ironía, se sabe que los únicos mapas inútiles son los de escala 1:1.
+Tengo edad suficiente para haber vivido varias olas de críticas naif del tipo
+de las descritas al análisis económico por parte de quienes no hacen análisis ni, me
+temo, lo entienden, aunque sí lo utilizan sesgadamente como luego comentaré, y,
+por tanto, no me sorprende en absoluto, y ya ni siquiera me escandaliza —aunque
+esto último no estoy seguro que sea positivo—, que situaciones de crisis se utilicen
+para tratar de alterar la valoración de currícula académicos o de ganar protagonismo mediático popular.
+Mi preocupación fundamental en esta intervención se centra en tratar de
+discernir si el enfoque predominante en las últimas décadas en el análisis económico y en el de los mercados financieros se ha sustentado en hipótesis erróneas. Las
+hipótesis fundamentales son dos: en el área de la macroeconomía la hipótesis de
+expectativas racionales, y en el análisis financiero la hipótesis de mercados eficientes (HME).
+Como mi especialización dentro del análisis económico es en microeconomía y mi trabajo actual supervisor de mercados, me centraré exclusivamente en el
+análisis de la HME. Primero haré una somera descripción algo técnica que, enseguida, traduciré a un lenguaje más coloquial.
+La idea central de la HME es que, en mercados que cuentan con toda la
+información económica relevante, los precios especulativos de las acciones tienden
+a ser los que proporcionan una tasa de rendimiento cercana a la tasa esperada razonable. Por inducción hacia atrás, es fácil llegar la conclusión de que, si esto es así,
+los cambios en los precios alrededor de dicha tasa son aleatorios —son una martingala— sea cual sea la interdependencia de las variables económicas subyacentes
+a la formación de los precios. Por tanto, en mercados con información completa,
+los precios siempre reflejan los cambios previsibles en las variables económicas
+relevantes en la formación de dichos precios, por lo que la única fuente de fluctua-
+
+200
+
+
+
+ciones de precios es la existencia de cambios no previstos en las variables económicas subyacentes.
+En lenguaje menos técnico, la HME contiene, en síntesis, dos postulados:
+1º. Los agentes toman sus decisiones en los mercados financieros teniendo
+en cuenta toda la información relevante disponible en los mismos.
+2º. Las decisiones individuales son el resultado de un proceso de optimización en el que los agentes tratan de maximizar en rendimiento de sus
+inversiones financieras dado su perfil de riesgo y nivel de riqueza.
+Analicémoslos por orden.
+Parece fuera de toda duda razonable que los agentes toman sus decisiones
+teniendo en cuenta toda la información relevante disponible. No sólo en el caso de
+los mercados financieros, sino en todos los mercados. ¿Quién no considera el grado de
+frescura del pescado como un elemento para decidir si, al precio ofrecido, adquiere
+o no el pescado? ¿Quién no tiene en cuenta todos los aspectos del informe técnico
+en la compra de un coche de segunda mano? Sería absurdo pensar que los agentes
+omiten parte de la información disponible para tomar sus decisiones, porque esto
+implicaría actuar de forma deliberada y sistemática en contra de su propio interés.
+Cosa distinta, que no dice la HME, es que en el mercado exista toda la
+información relevante para tomar decisiones plenamente informadas. Si no existe,
+como ocurre en los mercados financieros, dado que la información es asimétrica y,
+con frecuencia, no completa, lo que sucede es que el equilibrio competitivo no será
+eficiente e implicará menor calidad y mayor precio —incluso la no existencia de
+determinados mercados— que si la información fuera completa y simétrica. Un
+resultado bien conocido desde hace medio siglo tras el trabajo seminal de Akerloff
+—por el que recibió el premio Nobel de economía— sobre el mercado de coches
+de segunda mano.
+En consecuencia, la HME no postula, en contra de lo que su no muy afortunado bautismo podría hacer pensar, que los mercados financieros son eficientes.
+El segundo postulado de la HME es más complejo de discutir. Técnicamente implica que se puede modelar el comportamiento de los agentes que actúan
+en los mercados financieros como el de optimizadores condicionados que tratan de
+maximizar sus beneficios —se midan como se midan— sometidos a la restricción
+que implica sus disponibilidades de ahorro o sus necesidades de financiación y las
+características relevantes, tales como su grado de aversión al riesgo, edad, nivel de
+riqueza inicial, etcétera.
+
+201
+
+
+
+Existe amplia evidencia de comportamientos individuales no racionales en
+los mercados financieros como resultado de los avances de una línea de investigación analítico-experimental conocida como behavioral finance. Con frecuencia los
+agentes siguen reglas de decisión heurísticas y actúan de forma inercial ante la
+nueva información disponible, de manera tal que prevén el futuro en gran medida
+como una mera extrapolación del pasado aunque reciban nueva información que,
+de ser racionalmente procesada, debería dar lugar a unas previsiones distintas. Además, existe una abundante evidencia de comportamiento gregario con efectos negativos sobre la estabilidad de los mercados financieros.
+Todo esto llama a distintas mejoras de los modelos financieros al uso que
+sólo apuntaré.
+Por una parte, el abandono del principio de agente representativo, dado
+que en los mercados interaccionan agentes diferentes no sólo en cuanto a la información recibida, sino también en sus conocimientos, capacidades y motivaciones.
+En segundo lugar, el énfasis otorgado hasta ahora a la consistencia internalógica de los modelos financieros debe complementarse con una mayor exigencia
+en cuanto a su consistencia externa-empírica.
+Por último, y desde la perspectiva de la estabilidad, el aumento de la interdependencia entre las empresas financieras ha aumentado la inestabilidad sistémica,
+algo bien conocido en la ecología (mayor estabilidad de los sistemas complejos descomponibles en subsistemas básicos), la teoría de redes (mayor estabilidad cuando
+menor número de nodos y menor densidad de relaciones) y la biología evolucionista (inestabilidad derivada del comportamiento gregario).
+Siendo ciertas la simplificación y las limitaciones del segundo postulado
+de la HME, no lo es menos, sin embargo, que el comportamiento de los agentes
+adquiriendo alguno de los productos que se encuentran en el ojo del huracán de
+la crisis puede explicarse en términos de estricto comportamiento racional. Pensemos, por ejemplo, en las titulizaciones. Se trata de un producto complejo, ya que
+empaqueta distintos activos que pueden, a su vez, ser reempaquetados, de forma
+que su valoración resulta muy compleja, hasta el punto de que incluso los expertos confían en la calificación que les proporcionan las agencias de rating. ¿Por qué
+titulizan activos las empresas que los tienen en su balance? Porque ello les permite
+sacar del mismo parte de los riesgos de forma tal que consumen menos recursos
+propios —capital regulatorio— y también utilizarlos como colateral en sus demandas de liquidez a los bancos centrales, lo que les permite conceder más créditos o
+endeudarse en mayor cuantía. ¿Por qué los compraban otros agentes? Porque ofrecían una rentabilidad que superaba en algunos puntos básicos a la ofrecida por
+otros activos que también gozaban de calificación AAA. Puntos básicos de más
+
+202
+
+
+
+que el emisor podía pagar por las ventajas que, acabo de comentar, obtenía de la
+titulización.
+En resumen, la ahora tan denostada HME se ha mostrado débil , si no errónea, en cuanto al supuesto de que es posible explicar en términos de racionalidad
+absoluta el comportamiento real de los agentes en los mercados financieros, lo que
+genera debilidad en la capacidad explicativa y predictiva de los modelos basados
+en ella. Sin embargo, acierta al señalar como problema fundamental para lograr la
+eficiencia de los mercados financieros la insuficiencia y asimetría de la información,
+es decir, justifica como un elemento crucial de la regulación financiera el aumento
+de la transparencia.
+Valoración a la que creo necesario añadir dos puntos relativos a lo que la
+HME no postula, aunque críticas indocumentadas la hagan responsable de ellos.
+El primero es que la HME no postula que los mercados financieros sean
+eficientes, sino que sólo podrían serlo en caso de que fuera pública y accesible
+toda la información relevante para la toma de decisiones de los agentes, y si éstos
+se comportaran con racionalidad completa. Como ninguna de las dos premisas es
+cierta, la conclusión indiscutible es que la HME es compatible con el hecho de que
+los mercados financieros no son, ni pueden ser, eficientes. Aunque la HME postule,
+erróneamente, que resolviendo los problemas de información la eficiencia estaría
+asegurada.
+Lo segundo que no dice la HME es que, en el hipotético caso de que los
+mercados financieros fueran eficientes, la asignación resultante sería deseable desde
+el punto de vista social, porque unos mercados financieros eficientes pueden traer
+consigo una elevada inestabilidad que acarrea un alto riesgo sistémico. Los efectos
+externos se sabe, desde hace más de un siglo, que conducen a que los equilibrios
+competitivos no sean óptimos.
+Es de destacar que, como señaló en 1965 Samuelson, la HME no postula
+que la aleatoriedad de los cambios en los precios de las acciones —la base analítica de la hipótesis— sea buena, ni que la especulación sean buena, ni constituye
+prueba alguna de que los mercados financieros competitivos en el mundo real funcionan de forma correcta. Es decir, la HME no es una afirmación empírica.
+En resumen, la HME es compatible con mercados financieros ineficientes
+por insuficiencia o distribución asimétrica de la información y con mercados eficientes que no sean deseables desde el punto de vista social. Su debilidad básica es postular que sólo con información completa los mercados financieros serían eficientes,
+pero aun así proporciona una guía fundamental para las reformas regulatorias: la
+necesidad de mejorar la transparencia.
+
+203
+
+
+
+Pero es que, aparte la HME, el cuerpo consolidado del análisis económico
+en a finales del s. XX y la evidencia empírica acumulada permitía dictaminar sobre
+los problemas que se encuentran en el origen de la crisis actual.
+Respecto al análisis teórico cabe señalar, entre otros puntos, que:
+1. La teoría de la agencia señalaba, desde hacía décadas, los problemas
+de coordinación de los intereses de los gestores y de los accionistas y
+la teoría de diseño de incentivos había demostrado que los incentivos
+a corto plazo no implican eficiencia a largo plazo, de forma que bonuses altos y acciones sin valor a largo plazo eran perfectamente coherentes (Hurwicz, Myerson, Maskin).
+2. Las posibilidades de captura del regulador (y como ampliaré más tarde,
+del académico) por el regulado y los contextos en que esto resulta
+más probable se conocían desde los trabajos pioneros de Stigler.
+3. Los problemas de selección adversa en los mercados financieros se
+conocían desde los trabajos seminales de Akerloff, Stiglitz y Spence.
+4. La teoría del equilibrio general había demostrado que con mercados
+incompletos los equilibrios competitivos eran ineficientes en presencia
+de incertidumbre (Arrow, Debreu).
+Obsérvese que las referencias a autores se ciñen 19 premios Nobel de economía, de forma que es difícil sostener que este tipo de hallazgos eran esotéricos,
+irrelevantes o desconocidos por la profesión.
+Por su parte, desde el punto de vista empírico se sabía, por la investigación y la experiencia de crisis precedentes, que:
+1. Endeudamientos excesivos, incentivados por un largo periodo de tipos
+de interés real bajos, condiciones holgadas de liquidez y precios crecientes de los activos de todo tipo, terminarían por generar proporciones
+deuda/activos insostenibles en muchas empresas cuando se produjera
+la inevitable reevaluación de precios de los activos.
+2. Existían numerosos estudios empíricos que señalaban, como mínimo,
+una elevada sobrevaloración de los activos inmobiliarios —en el caso
+español no menor del 25% antes del estallido de la crisis— lo que,
+antes o después, habría de dar lugar a un reajuste. Que este reajuste
+fuera un aterrizaje suave o el pinchazo de una burbuja era opinable,
+pero que tras una década de precios crecientes cada día que pasaba
+
+204
+
+
+
+aumentaba el riesgo de la segunda opción era inevitable, máxime
+cuando el crédito hipotecario llevaba años creciendo por encima del
+20%.
+3. Se disponía de amplia evidencia empírica de que cuando los bancos
+relajan los criterios de concesión de créditos, esto no tiene reflejo
+inmediato en su situación financiera y patrimonio, pero que a partir del
+cuarto o quinto ejercicio, afectan a los resultados, al capital regulatorio y, en consecuencia, tienen efectos negativos sobre la solvencia.
+4. Se sabía que el modelo bancario de originar para distribuir en virtud
+del cual los bancos comerciales conceden préstamos que venden a
+otras instituciones financieras que, a su vez, los empaquetan en ABS,
+trasladaba los riesgos del sector regulado —entidades de crédito— al
+no regulado —los tenedores últimos de los activos complejos.
+5. Se conocían, por crisis anteriores, los conflictos de interés de las agencias de calificación crediticia y lo discutible de sus ratings que, sin
+embargo, incluso habían ganado peso como elementos de regulación.
+6. Era conocido que se estaban utilizando modelos —por ejemplo para
+calcular el value at risk— a los que se proporcionaba una información
+correspondiente a un largo de periodo de volatilidad históricamente
+baja, por lo que se estaban infravalorando los riesgos.
+Y todo esto se sabía cuando se estaba acelerando el proceso de innovación
+financiera espuria destinada a no consumir recursos propios; cuando se derogaba la
+ley Glass-Steagal que separaba las actividades de los bancos comerciales y de inversión; cuando se eliminaban los tipos de interés máximos fomentando así la asunción
+por las entidades de mayores riesgos para remunerar mejor sus pasivos; cuando las
+hipotecas se valoraban con modelos alimentados por datos pertenecientes a un largo
+periodo de morosidad muy baja y precios monótonamente crecientes.
+Y se preguntarán ustedes: si el análisis económico advertía de (casi) todos
+los riesgos que cristalizaron en otoño de 2007 y la evidencia empírica anticipaba un
+reajuste cada vez más brusco, ¿qué es lo que falló?: la lectura selectiva y sesgada del
+análisis económico fomentada e incentivada por los grupos de presión de interés e
+ideológicos.
+Expresado en otros términos, lo que ha fallado ha sido una serie de creencias
+—no de hipótesis analíticas— de política económica que, utilizando como aparente
+justificación una lectura parcial e interesada del análisis económico, han conseguido
+venderse a la opinión pública.
+
+205
+
+
+
+La primera hipótesis fallida es que toda innovación financiera mejora la eficiencia de la asignación de recursos. ¿Cuál es el fundamento analítico aparente de
+esta creencia?
+Como ya he señalado, el equilibrio general competitivo no es eficiente en
+presencia de incertidumbre si la estructura de mercados es incompleta. Una estructura completa exige tantos mercados como mercancías y, teniendo en cuenta que
+una mercancía es un producto físico es una localización geográfica concreta y un
+momento de disponibilidad concreto (por ejemplo, judías verdes a recibir dentro de
+un mes en Madrid), esto resulta imposible, simplemente porque no hay mercados
+para todas las mercancías a todos los plazos relevantes. El análisis económico
+demuestra que si se lograra completar la estructura de mercados el equilibrio competitivo sería eficiente y el aumento de mercados puede lograrse mediante la aparición de nuevos productos financieros. Lo que no dice el análisis es que aumentar
+el número de mercados sin llegar a hacer la estructura completa nos acerque a una
+asignación eficiente. Por tanto, sostener que la innovación financiera mejora la eficiencia del equilibrio competitivo es una creencia no fundamentada en el análisis
+económico.
+Adicionalmente, es cierto que una parte de la innovación ha permitido
+mejorar las fuentes de financiación de las empresas y aumentado el abanico de instrumentos de ahorro, pero otra parte no despreciable ha tenido como objetivo evadir los requerimientos de capital regulatorio, el consumo de recursos propios, debilitando así la solvencia de las entidades de crédito y empresas de servicios de
+inversión.
+Por último, cabe señalar que sólo en el mundo financiero se ha considerado
+acríticamente innovación como sinónimo de eficiencia. En los sectores energético,
+farmacéutico, químico, o de automoción, las innovaciones se someten a evaluación
+de su eficiencia, y muchas se descartan por no superarla. Y conviene recordar que
+el coste de una parte de la innovación financiera es, nada más y nada menos, que
+una mayor inestabilidad sistémica.
+Obsérvese que esta creencia tiene un corolario de política económica: que
+la innovación financiera no debe restringirse ni regularse en absoluto. La reciente
+crisis ha demostrado, a un enorme coste, lo erróneo de la creencia y su corolario.
+La segunda creencia fallida es que todos los activos financieros tendrían,
+en cualesquiera condiciones, mercados profundos y líquidos. Con activos financieros simples y condiciones holgadas de liquidez esto es cierto, pero cuando aparecen productos estructurados con subyacentes cada vez más numerosos y heterogéneos, esto deja de ser así. Estos activos son de valoración tan compleja que ni
+siquiera las empresas que prestan servicios de inversión son capaces de valorarlos,
+
+206
+
+
+
+de forma que han de confiar en la calificación que les otorgan las agencias de rating.
+En consecuencia, son adquiridos por inversores institucionales con el objetivo de
+mantenerlos hasta vencimiento, de forma que su liquidez es mínima.
+La consecuencia de todo esto es que la valoración de estos activos es muy
+deficiente y que el riesgo de liquidez es tan importante como el de crédito, de forma
+que cuando se tratan de vender ha de ser con un descuento muy importante, que
+se suma al derivado de la mala valoración original de las agencias de calificación y
+puede terminar provocando problemas de solvencia a sus tenedores y emisores, tal
+y como ha sucedido en la actual crisis.
+La tercera creencia es que la transparencia del sistema financiero era suficiente para minimizar los problemas de información asimétrica y, por tanto, su fallo
+más relevante. La actual crisis financiera ha cursado con dos características que no
+se habían dado en las de las últimas décadas: la intensidad y rapidez del efecto
+contagio y, lo que es más relevante desde nuestro punto de vista, la no operatividad de algunos sistemas de fijación de precios.
+En particular, el mercado interbancario inicialmente pero, sobre todo, la
+sequía de los mercados de renta fija privada. La desaparición de ciertos mercados
+—un resultado previsto por Akerloff en situaciones de información asimétrica— ha
+sido el resultado de una falta de confianza en los mismos derivada de una insuficiente transparencia: ni los compradores de activos estructurados sabían realmente
+qué estaban comprando ni sus emisores —a partir de sucesivos reempaquetamientos de activos— conocían el verdadero valor del activo resultante.
+La cruzada contra los peligros de una transparencia “excesiva” (peor posición competitiva, deslocalización, detección de estrategias por los competidores,
+etc.) no solo ha facilitado el arbitraje regulador y supervisor, sino que ha empeorado el funcionamiento de los mercados financieros. Y la cruzada ha llegado hasta
+el intento, afortunadamente fallido por ahora, de convertir a las normas internacionales de información financiera y las normas internacionales de contabilidad en un
+instrumento de política prudencial y no de transparencia.
+La cuarta creencia que ha fallado es que el mundo financiero es capaz de
+alcanzar las mejores asignaciones a través de la competencia y la autorregulación,
+sin intervención pública. Es bien sabido que cuando existen conflictos de interés la
+autorregulación no puede resolver el problema, porque no existen incentivos a
+seguir normas de buen comportamiento de aceptación voluntaria cuando esto afecta
+negativamente a los resultados. Y conviene recordar que los conflictos de interés son
+numerosos en el mundo financiero. Por poner algunos ejemplos: agencias de calificación que, simultáneamente, valoran emisiones y ayudan a diseñarlas y colocarlas; bancos que emiten opiniones e informes sobre activos que cobran por colocar
+
+207
+
+
+
+o que compiten con otros emitidos por ellos; entidades que colocan productos
+financieros entre su clientela o gestoras de fondos de inversión que dependen de
+los emisores de activos.
+Este es el tipo de postulados que han fallado: (pseudo)hipótesis (pseudo)analíticas, que encubrían creencias apriorísticas e intereses económicos muy precisos
+de la industria financiera. Y, también, no nos engañemos, la permisividad de muchos
+académicos con interpretaciones parciales y sesgadas de los (sus) hallazgos teóricos.
+Que los usuarios interesados del análisis económico elijan los aspectos parciales del mismo que proporcionan un aparente halo científico a sus decisiones interesadas es comprensible. Me resulta menos aceptable que los académicos —y menos
+aún los profesores— participen en este juego, e incluso me parece éticamente reprobable que no adviertan sobre las limitaciones de los modelos y denuncien las interpretaciones sesgadas, y por tanto erróneas, de los resultados analíticos. Aunque hay
+razones que explican el por qué de este comportamiento: los costes de la objeción
+son elevados porque los académicos tienen salarios modestos que se complementan con la obtención de fondos para investigación, la elaboración de dictámenes e
+informes y la impartición de conferencias. Y quienes financian estas actividades suelen encontrarse en el ámbito de los usuarios interesados del análisis económico.
+Quienes están convencidos, con razón, de que existen riesgos de captura
+del regulador por el regulado deberían admitir que estos mismos riesgos se producen en la relación entre los usuarios interesados del análisis y los académicos. Pero
+no es infrecuente la visión miope asimétrica, de forma que quienes más insisten en
+señalar el primer peligro son con frecuencia quienes más complacientes se muestran con el segundo.
+No es mi intención acabar esta intervención dejando un mal sabor de boca,
+de forma que la cerraré señalando algunos de los puntos y enfoques que considero
+tendría sentido ocuparan un lugar relevante en la agenda investigadora de la economía financiera en los próximos años.
+En primer lugar, el énfasis del análisis económico se ha dirigido hacia la
+consistencia lógica, es decir interna, de los modelos, pero, en términos relativos, se
+ha dado menos importancia a la robustez empírica de los mismos. Tomemos el
+ejemplo de los modelos de equilibrio general dinámico.
+Se trata de modelos muy complejos (con muchas ecuaciones) que tratan
+de representar estilizadamente las características esenciales de una economía y que,
+en lo esencial, contienen ecuaciones de diversos tipos: restricciones tecnológicas,
+de dotación de recursos, de comportamiento de los agentes y de equilibrio (igualación de ofertas y demandas).
+
+208
+
+
+
+Su mayor activo es que tienen en cuenta las interrelaciones entre todos los
+agentes y sectores de la economía y que, por ser dinámicos, generan trayectorias
+temporales de las variables relevantes, al coste de una alta complejidad y la existencia de muchos parámetros.
+Se utilizan, en lo que aquí nos interesa, para simular el comportamiento
+temporal de una economía concreta a partir del momento en que se toman determinadas medidas de política económica, es decir, se supone sirven para calcular con
+acuracidad los efectos de distintas medidas. Dos aspectos de la utilización de estos
+modelos resultan insatisfactorios. El primero es que sus fundamentos microeconómicos son muy débiles, en lo esencial, porque no incluyen agentes heterogéneos
+—es decir, suponen un agente representativo—, algo que resulta crucial, como
+hemos visto, en los temas financieros.
+El segundo es que en sus simulaciones los parámetros toman valores
+numéricos obtenidos en investigaciones de tipo microeconómico, pero esto no es
+satisfactorio si, como hemos visto que sucede en el mundo financiero, las interacciones son cada vez más importantes, porque en ese caso la agregación de comportamientos individuales heterogéneos es más compleja.
+En otros términos, puesto que no conocemos “el” modelo bueno, la
+robustez de los datos y estimaciones resulta vital, por lo que cabe vaticinar la mayor
+utilización de técnicas de control robusto que generen trayectorias temporales probabilísticas que sean compatibles con un abanico amplio de modelos específicos.
+También, y por la misma razón de no conocer, si es que existe, “el” modelo
+bueno, cabe la posibilidad de no partir de la utilización de modelos concretos totalmente especificados y empezar por analizar los datos con técnicas de tratamiento
+de datos y tests de especificación, es decir, dar mayor importancia a la mejora de
+las técnicas de selección de modelos.
+Otra área a la que la investigación deberá dar mayor peso es la del diseño
+de sistemas de alarma temprana y detección anticipada de burbujas. No es un tema
+fácil determinar si una dinámica concreta de precios de los activos, tanto financieros
+como reales, fuerte y dilatadamente creciente constituye una sobrevaloración —en
+cuyo caso la reconducción a medio plazo a niveles normales puede ser suave— o
+una burbuja —que tendrá inevitablemente un desenlace explosivo. Pero convendría
+tener en cuenta cuáles son los costes potenciales de una burbuja frente a una sobrevaloración, lo que debería implicar que las autoridades monetarias fueran más sensibles a los riesgos de mantener tipos de interés muy reducidos y condiciones de
+liquidez holgada durante largos periodos.
+
+209
+
+
+
+Como he tratado de transmitirles, una amplia agenda para los economistas académicos, con implicaciones en la agenda regulatoria y supervisora, y que
+implica un cambio de énfasis relativo, en mi opinión muy importante: una vez asegurado que en el quehacer académico de la economía del último medio siglo ha
+consolidado altos estándares de consistencia lógica en los modelos que nos sirven
+de referencia, deberíamos prestar al menos la misma atención a la robustez empírica de los mismos y a la calidad de las previsiones y proyecciones que se derivan
+de ellos.
+Nada más y muchas gracias por su atención.
+
+210
+
+

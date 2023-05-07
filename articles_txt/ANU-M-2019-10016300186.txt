@@ -1,0 +1,848 @@
+TRANSICIÓN ENERGÉTICA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba *
+
+Este año se cumple un cuarto de milenio del nacimiento de Alexander
+von Humboldt, quien, sin lugar a dudas, fue el primero en interpretar la naturaleza y los cambios que en ella tienen lugar tal y como hoy lo hacemos —véase Wulf (2015)—. No la estudió “por compartimentos”, su aproximación a los
+cambios en la naturaleza fue de carácter global. Predijo, con clarividencia, alguno de los efectos que la acción humana tiene sobre ella y, por consiguiente, lo
+que hoy científicamente está reconocido que es el origen antrópico del cambio
+climático (CC), como consecuencia del efecto invernadero. Sus pioneras investigaciones tuvieron una significativa influencia en muchas otras áreas del conocimiento. Por ejemplo, es bien conocida la afirmación de Darwin sobre el decisivo ascendiente que Humboldt tuvo en su actividad científica. El naturalista
+inglés dejó dicho que el libro que le indujo a emprender su viaje en el Beagle
+fue Personal Narrative, en el que Humboldt describe sus viajes por el sur y el
+centro de América, entre 1799 y 1804.
+El efecto invernadero es el nombre por el que se conoce un fenómeno
+natural originado por varios gases presentes en la atmósfera, que condicionan
+la temperatura de la Tierra, y sin los cuales esta sería, aproximadamente, 21 ºC
+menor, lo que la haría inhabitable. Además del vapor de agua, los principales
+gases de efecto invernadero (GEI) son los siguientes: dióxido de carbono (CO2),
+metano (CH4), óxido nitroso (N2O), hexafluoruro de azufre (SF6), los compuestos perfluorinados (PFC) y los hidrofluorocarburos (HFC). Aunque la concentración atmosférica y las características de cada uno de estos gases son distintas,
+en particular su capacidad para absorber la radiación terrestre, en la práctica su
+efecto conjunto se convierte en términos de concentración equivalente de CO2.
+*
+
+Sesión del día 15 de enero de 2019.
+
+163
+
+
+
+En todo caso, hay que resaltar que el principal GEI es el CO2, que en los últimos
+tres siglos ha contribuido, aproximadamente, a un 80 % de dicho efecto.
+El proceso de efecto invernadero puede describirse de manera elemental como sigue: la Tierra recibe la energía procedente del Sol en ondas de alta
+frecuencia que traspasan la atmósfera con suma facilidad y que se reflejan en
+la superficie terrestre. Esta, a su vez, las devuelve hacia el espacio, pero en una
+frecuencia sensiblemente menor, debido a que su temperatura es más baja. No
+obstante, no todas estas radiaciones vuelven al espacio, puesto que los GEI
+absorben una parte sustancial, en la medida en la que estas tienen una capacidad de penetración menor que las que proceden directamente del Sol. Se alcanza así un equilibrio térmico cuando la energía que proviene del Sol se compensa con la que se radia al espacio.
+Resulta obvio que este equilibrio térmico puede verse seriamente afectado si, por cualquier causa, los GEI aumentan su concentración en la atmósfera. Esto produciría una mayor absorción de las radiaciones reflejadas en la superficie terrestre y una reducción en la expulsión de calor al espacio, todo lo
+cual se traduciría en un mayor calentamiento del planeta. Esto es lo que conocemos como “efecto invernadero”. Este proceso de calentamiento global está en
+el origen del CC, entendido como un cambio significativo y permanente de los
+estándares globales o locales del clima. Se manifiesta en el calentamiento de la
+atmósfera y de los océanos, en los cambios del ciclo del agua, en la pérdida de
+superficie y masa de hielo y nieve, en el aumento del nivel del mar y en la
+aparición de nuevos fenómenos climáticos extremos. El stock de gases de efecto invernadero acumulado en la atmósfera condicionará, en gran medida, la
+dinámica del incremento del calentamiento global. Este efecto será duradero y
+permanecerá durante siglos, incluso si a partir de un determinado momento los
+flujos de GEI disminuyeran drásticamente.
+Ordenaré mi intervención de la siguiente forma:
+– En primer lugar, haré especial hincapié en las aportaciones de los
+economistas a la hora de caracterizar el problema del CC, y a la dificultad que conlleva definir e implementar una verdadera transición
+energética.
+– A continuación, daré una visión muy general de la última evidencia
+científica sobre el CC, para después repasar, brevemente, cuáles son
+las estrategias que los distintos grupos de interés utilizan para dificultar la transición energética.
+– Posteriormente, me referiré a los intentos de alcanzar acuerdos dentro de coaliciones internacionales para definir un precio del carbono
+que tenga en cuenta su coste social y facilite la transición a otro
+sistema energético. Aquí analizaré con detenimiento las causas de los
+magros resultados que se han obtenido, derivados de que ninguno
+
+164
+
+
+
+de estos acuerdos cumplió los tres requisitos básicos que deben caracterizar este tipo de acuerdos: ser eficaces, ser equitativos y ser
+creíbles. Es decir, necesariamente han de incluir los incentivos para
+respetar lo acordado.
+– Por último, comentaré los resultados que ofrece la reconocida métrica Climate Change Performance Index, que evalúa el desempeño de
+los distintos países frente a la transición energética.
+*   *   *
+Más allá de las investigaciones iniciales de Humboldt sobre los efectos
+globales de la acción humana en la naturaleza, hay que señalar que las propiedades de los GEI fueron analizadas por el físico francés Jean-Baptiste Fourier
+en la década de 1820, y que fue el químico sueco Svante Arrhenius, premio
+Nobel en 1903, quien por primera vez en 1896 sostuvo que los niveles de concentración de CO2 afectan al balance térmico de la Tierra. Hace, pues, más
+de 120 años que la ciencia se está pronunciando sobre este grave problema.
+En este hecho ha puesto énfasis el último nobel de Economía, William
+D. Nordhaus (2018a), en las palabras que pronunció en el transcurso del banquete del premio, el pasado 10 de diciembre, al afirmar que “La ciencia del
+cambio climático se fundó en 1896, el mismo año en que Alfred Nobel murió y
+estableció estos premios. En ese año, el químico sueco Svante Arrhenius proporcionó la primera predicción numérica del impacto de la duplicación del
+dióxido de carbono en la atmósfera. Su estimación de que representaría un incremento de 5,1 °C es notablemente cercana a las cifras proporcionadas por los
+modelos más validados en la actualidad”.
+Nordhaus también añadió en la mencionada intervención que “Durante el último medio siglo, todas las implicaciones del cambio climático y sus
+impactos han sido ilustradas por la investigación de científicos en diferentes
+campos. Estos estudios muestran una imagen cada vez más grave de nuestro
+futuro bajo un cambio climático incontrolado. La contribución de la economía
+a este proceso es reconocer que el cambio climático es un efecto secundario,
+dañino y no deseado del crecimiento económico, que conocemos como una
+externalidad”.
+En lo que sigue, y a lo largo del texto, voy a dedicarle atención especial
+a esta afirmación del profesor Nordhaus. En efecto, existen externalidades
+cuando no todos los costes o beneficios de una actividad pueden ser asignados
+exclusivamente al titular de la misma y, por tanto, este puede no tenerlos en
+cuenta a la hora de tomar decisiones sobre la asignación de recursos. Generalmente la presencia de externalidades da lugar a que el equilibrio que se alcanza en el marco de un sistema competitivo no sea óptimo. Así, las ineficiencias
+
+165
+
+
+
+surgen porque, al considerar exclusivamente sus propios costes, el productor
+del bien que genera la externalidad produce una cantidad de este bien inferior,
+en el caso de externalidades positivas, o superior, en el caso de externalidades
+negativas, a la que correspondería a la situación óptima. Está claro que, en el
+caso de emisiones de CO2, los responsables generan externalidades negativas,
+ya que infligen daños a otros sujetos económicos. La causa de estos daños estriba en que los precios asignados a este tipo de bienes no reflejan los costes
+de haber emitido GEI. Esta externalidad tiene cuatro características básicas. En
+primer lugar, su globalidad; es decir, las emisiones de GEI originadas en China
+tienen el mismo efecto que las generadas en Francia. En segundo lugar, el largo
+plazo de su impacto, ya que, una vez en la atmósfera, este tipo de gases permanece allí durante períodos muy dilatados de tiempo, por siglos incluso, de
+tal manera que el clima dentro de cincuenta años ya está condicionado por las
+emisiones y los niveles de concentración de GEI de hoy. En tercer lugar, la incertidumbre; es decir, que no se puede abordar la problemática del CC en un
+entorno determinista, ya que no se sabe con certeza cuales son los efectos finales; en todo caso, los avances científicos de los últimos años permiten establecer un conjunto de predicciones dentro de intervalos de confianza razonables.
+En cuarto lugar, su capacidad potencial de originar cambios y daños radicales
+e irreversibles. Tal y como se afirmaba, hace ya diez años, en abril de 2008, en
+el primer párrafo del capítulo sobre CC del World Economic Outlook, del Fondo
+Monetario Internacional, IMF (2008), “el CC es una externalidad global potencialmente catastrófica y uno de los mayores problemas de acción colectiva a
+nivel mundial”.
+El análisis de la actividad económica de los últimos siglos pone de manifiesto la clara relación causal que existe entre crecimiento económico y emisión de GEI, de tal manera que su concentración en la atmósfera ha ido aumentando paulatinamente y de forma ininterrumpida con los flujos de las emisiones.
+Por otra parte, estos flujos han ido variando de acuerdo con los correspondientes ciclos económicos, con la transformación de la industria de generación de
+energía eléctrica y con los cambios en la utilización del suelo. Los indudables
+desarrollos tecnológicos han hecho que, a lo largo del tiempo, cada unidad de
+PIB requiera menos emisiones de GEI, es decir, lo que llamamos la intensidad
+del carbono en la economía ha ido disminuyendo ligeramente. Sin embargo, no
+se está produciendo mejora alguna en el indicador que conocemos como intensidad del carbono en el suministro energético (Emisiones de CO2/Suministro
+Total de Energía Primaria) que prácticamente se mantiene constante. Es evidente que hay mucho margen de mejora en este indicador. O dicho de otro modo,
+hace falta suministrar energía primaria que genere menos emisiones de CO2. A
+este problema me referiré más tarde.
+La página web de la Administración Nacional Oceánica y Atmosférica
+de EE. UU. (NOAA, en sus siglas en inglés) —véase NOAA (2018a)—, pone de
+manifiesto que en el año 2017 el valor medio de la concentración en la atmós-
+
+166
+
+
+
+fera de gases de efecto invernadero, equivalente en términos de CO2, fue de 493
+partes por millón (ppm), que son las unidades en las que se expresan este tipo
+de concentraciones. La tasa de crecimiento anual ha sido superior al 1,6 % en
+todos los años del presente siglo, con un valor máximo del 3 % en el año 2015.
+La concentración promedio, del año 2017, exclusivamente para el CO2 alcanzó
+la cifra de 405 ppm. Esta concentración ha aumentado un 40 % desde la época
+preindustrial.
+En fin, tal y como se recoge en el reciente informe “Estado del Clima 2017”, de agosto de 2018 —véase NOAA (2018b)—, los niveles de GEI son
+los más altos registrados en los últimos 800.000 años. Los registros corresponden a mediciones directas de los últimos 38 años y a los valores calculados a
+partir de muestras de las burbujas de aire atrapadas en las sucesivas capas, a
+diversos niveles de profundidad, en las plataformas de hielo de la Antártida y
+Groenlandia, que datan de hasta 800.000 años. Este es un informe de carácter
+anual, elaborado desde hace 28 años, liderado por científicos de la NOAA, y
+publicado en el Boletín de la Sociedad Americana de Meteorología. A su contenido contribuyen más de 500 científicos pertenecientes a 65 países.
+El 22 de junio de 2017, el máximo responsable del Departamento de
+Energía de EE. UU., Rick Perry, en un debate en el Senado sobre el presupuesto de su Departamento, llegó a afirmar: “Levantarse y decir que el 100 % del
+calentamiento global se debe a la actividad humana creo que es totalmente
+indefendible”. Tres días antes había afirmado con rotundidad en la CNBC que
+el CO2 no era la causa principal del CC. Esta es la teoría general que, en última
+instancia, también apoya el Partido Republicano de EE. UU.
+Pues bien, como resultado de los enormes avances de las últimas décadas, la ciencia del CC permite diferenciar qué parte del calentamiento global
+se debe a la actividad humana y qué otra parte se debe al proceso de evolución
+natural, ya que desde luego hay factores naturales que también afectan a la
+evolución de la temperatura, tales como la posición relativa de la órbita terrestre en relación al Sol, cambios en la actividad volcánica y también en la actividad solar. Pero lo cierto es que los resultados científicos nos dicen que en los
+últimos cincuenta años estos efectos naturales de forma conjunta han contribuido, aunque sea muy débilmente, al enfriamiento de la Tierra y no a su calentamiento. Véase, por ejemplo, el Índice de Calentamiento Global, ICG (2018),
+publicado conjuntamente por la Universidad de Oxford y la de Leeds. Por consiguiente, la respuesta científica al Secretario de Energía de EE. UU. debiera ser
+que no solo el 100 % del calentamiento global se debe a causas humanas, sino
+que, en efecto, algo más del 100 % se debe a causas humanas, ya que los valores actuales están corregidos a la baja por el leve enfriamiento originado por
+factores naturales.
+
+167
+
+
+
+No deja de ser inquietante, para el futuro del planeta, que la máxima
+autoridad en materia de Energía de EE. UU. haga afirmaciones de esta naturaleza. Sobre todo, si tenemos en cuenta que ha sido el país que en mayor medida ha contribuido al stock de GEI, aproximadamente un 30 %, y que hoy, después de China, es el segundo en emisiones de CO2, con una cifra que duplica
+la de los países de la Unión Europea. Debe considerarse, además, tal y como se
+destaca en IEA (2018a), que en 2017 EE. UU. consolidó su posición de primer
+productor mundial de gas y de petróleo. En fin, antes de hacer afirmaciones de
+esta naturaleza, sería muy recomendable leer, por su brevedad y rigor, la publicación conjunta del Consejo Nacional de Investigación de las Academias Nacionales de EE. UU. y de la Royal Society titulada Cambio Climático: Evidencia,
+Impactos y Opciones, que está accesible en su página web —véase Consejo
+Nacional de Investigación de las Academias Nacionales (2013)—.
+Cabe recordar que en ausencia de GEI la temperatura media de la Tierra sería de –6 ºC, mientras que con los gases que hoy están presentes en la
+atmósfera es de 15 ºC, es decir, 21 ºC superior. Es obvia, pues, la enorme sensibilidad de la temperatura a los niveles de concentración de los GEI. Por esta
+razón, son tan preocupantes los incrementos habidos en la concentración de
+GEI desde antes de la industrialización, alrededor de 1750, cuando había un
+nivel de 280 ppm frente a las 493 ppm actuales. El problema no es simplemente el de un incremento de la temperatura, sino también el de un cambio drástico de las condiciones en las que la humanidad y los ecosistemas se han venido
+desenvolviendo a lo largo del tiempo. No obstante, CC y calentamiento global
+suelen utilizarse indistintamente para describir este fenómeno.
+Hoy resulta ya una tarea imposible recoger en un texto como este la
+ingente cantidad de información publicada y validada en el ámbito científico,
+así como los análisis de instituciones y organizaciones que confirman que el CC
+que está teniendo lugar tiene un origen antrópico. Desde luego, este no es el
+lugar para referirse en detalle a tan sólida evidencia científica. Los informes del
+Grupo Intergubernamental de Expertos sobre el Cambio Climático (el IPCC, en
+sus siglas en inglés) —véase IPCC (2014)—, lo hacen con sobrado rigor. Concretamente, en sus Informes de Síntesis se recogen y resumen las actividades
+del Grupo de trabajo I, que es el responsable de actualizar la base científica del
+CC, y de los Grupos II y III, que son los responsables de evaluar los impactos
+del CC en los sistemas humanos y naturales, así como los medios para afrontar
+el desafío que representa.
+Debe recordarse que el IPCC fue creado en 1988 por el Programa de
+las Naciones Unidas para el Medio Ambiente y por la Organización Meteorológica Mundial, y que no lleva a cabo investigaciones propias, sino que en sus
+informes utiliza el material de la literatura científica más acreditada y revisada.
+En ese mismo año, la Asamblea General de las Naciones Unidas hizo suya la
+decisión de haber creado el IPCC. El primer Informe del Grupo fue publicado
+
+168
+
+
+
+en 1990 y los siguientes en 1995, 2001, 2007 y 2013-2014. En el año 2007 el
+Grupo recibió el Premio Nobel de la Paz. Actualmente, 195 países son miembros del IPCC. El Grupo de Expertos se reúne por lo menos una vez al año en
+sesión plenaria.
+Los problemas económicos y sociales que hoy tienen planteados tanto
+los países desarrollados como aquellos en vías de desarrollo —muchos de ellos
+como consecuencia de la última crisis financiera— pueden inducirnos a creer
+que existen cuestiones más relevantes, a las que debemos prestar atención prioritaria, que los posibles impactos que el CC puede tener en los niveles de bienestar de las futuras generaciones. Pero si así lo hacemos, quizás sea adecuado
+recordar que la crisis financiera, cuyos efectos todavía estamos padeciendo,
+tuvo su origen, básicamente, en que durante demasiado tiempo se puso un
+énfasis excesivo en el corto plazo, tanto en la política de beneficios como en la
+política de incentivos de los agentes económicos y, además, se gestionaron y
+valoraron equivocadamente los precios y los riesgos. Todo ello ha dado como
+resultado un exceso de activos tóxicos y de endeudamiento de estos agentes:
+gobiernos, empresas y familias.
+Pues bien, errores de la misma naturaleza estamos cometiendo respecto al CC, ya que se está poniendo excesivo énfasis en los problemas a corto
+plazo y utilizando tasas de descuento excesivamente altas para otros que,
+como en este caso, se mostrarán en toda su crudeza en plazos claramente superiores a los que caracterizan a las crisis financieras. Durante algún tiempo el
+sistema financiero ha generado un exceso de activos tóxicos. También, y análogamente, la infraestructura energética actual lleva ya muchas décadas produciendo un exceso de GEI. En ambas situaciones, una vez más, se pone de
+manifiesto que siempre que el precio de un bien no refleja los costes y riesgos
+que conllevan su uso, los ciudadanos se exceden en su consumo. Y esto es
+exactamente lo que ha sucedido en el sistema financiero y está sucediendo en
+el sistema energético.
+De manera análoga, hoy estamos valorando mal los riesgos, dadas las
+características básicas de las externalidades negativas que generan las emisiones de GEI: globalidad, largo plazo en su impacto, incertidumbre y capacidad
+de generar daños radicales e irreversibles. Esta errónea valoración conduce,
+como hemos señalado, a que el precio de los combustibles fósiles no refleje los
+costes medioambientales, sobre todo los de emisión de GEI, y por tanto envía
+señales equivocadas al mercado respecto a los verdaderos costes de su producción. Y es bien sabido que esta divergencia entre los costes privados y sociales
+de las emisiones reduce la eficiencia económica. En la medida en la que en la
+utilización de combustibles fósiles no se tengan en cuenta las externalidades
+negativas que generan, especialmente las emisiones de GEI, cabe afirmar que
+esta energía en realidad está doblemente subvencionada. Por una parte, al no
+reflejar los costes medioambientales y, por otra, de acuerdo con las cifras pro-
+
+169
+
+
+
+porcionadas por la Agencia Internacional de la Energía (IEA, en sus siglas en
+inglés) —véase IEA (2018a)—, porque en el año 2017 los combustibles fósiles
+recibieron de forma directa más de 300.000 millones de dólares en subvenciones. De esta última cifra, todavía el 30 % corresponde a los países del G-20. Las
+variaciones que se pueden observar en estas cifras de un año a otro están, básicamente, asociadas al descenso de los precios internacionales de la energía y
+no a un cambio de la política de subvenciones. Todo ello, pese a los reiterados
+llamamientos en las reuniones del G-20, desde el año 2010, para “racionalizar y
+eliminar a medio plazo los subsidios ineficientes a los combustibles fósiles que
+fomentan un consumo desproporcionado” —véase IEA (2010a y 2010b)—.
+Una vez más, en este aspecto, los intereses de las energías fósiles han
+estado mejor representados no solo en los gobiernos, sino también en los medios de comunicación, ya que la opinión pública tiene una idea exagerada sobre la cifra de subvención a las energías renovables, cuando hay que advertir
+que no alcanza la mitad de la que reciben las energías fósiles. Y ello sin tener
+en cuenta, como hemos señalado, que el precio de los combustibles sólidos
+lleva implícita una subvención, varios órdenes de magnitud superiores a las
+aquí citadas, al no incluir el coste de las externalidades negativas que generan.
+Además, las críticas que de forma tan superficial suelen hacerse a las
+subvenciones a las energías renovables carecen, a menudo, de fundamento
+económico. A diferencia de las energías fósiles, las renovables generan externalidades positivas, pues los desarrollos de una determinada empresa pueden ser
+emulados con rapidez por otras, que incluso no pertenezcan al mismo sector, y
+por tanto no recoge todo el beneficio generado de su inversión. Este proceso
+es el que se conoce como “spillover tecnológico”, que no es más que el beneficio externo que se origina cuando el conocimiento derivado de la inversión
+inicial se extiende a otras empresas e individuos. Esta posibilidad de apropiación por terceros conduce a un nivel de inversión inferior al socialmente deseado. De manera análoga a la utilización de impuestos en el caso de externalidades negativas se justifican las correspondientes subvenciones, que suelen
+concretarse en normas legales que incentiven determinadas tecnologías y que
+establezcan los marcos institucionales adecuados.
+Es obvio que, aunque este planteamiento teórico es impecable, la dificultad práctica surge a la hora de valorar las externalidades positivas. A esto se
+añaden los problemas que se originan al fijar la complementariedad o sustituibilidad entre la inversión pública y la privada. No es de extrañar, por consiguiente, que en este ámbito haya tanto éxitos como fracasos. Sin embargo, y en
+lo que se refiere a la propuesta de facilitar una adecuada transición energética,
+el hecho de que el problema que aborda tenga las especiales características de
+globalidad, largo plazo, incertidumbre e irreversibilidad, a las que hemos aludido, además del carácter de bien público de la estabilidad del clima, hace que
+las políticas públicas deban desempeñar un papel más relevante que en otras
+
+170
+
+
+
+situaciones de externalidades negativas. Debiera considerarse como una circunstancia análoga a la que se da con las externalidades positivas que genera
+la educación, que justifica la financiación pública que esta recibe, aun cuando
+también son muy difíciles de evaluar.
+Es bien sabido que hoy se vive en un mundo en el que está aumentando exponencialmente la circulación de mitos, promesas ilusorias, hechos no
+validados científicamente o la negación de aquellos que sí lo están. En algún
+caso cabe hablar de simples mentiras, y esto sucede en muchos ámbitos y niveles. Desde luego esta realidad no se da solamente en el ámbito del CC, sino
+también sobre otros muchos aspectos de las ciencias sociales y de la naturaleza.
+Por ejemplo, en junio de 2017, EE. UU. se desvinculó de los acuerdos
+alcanzados en la Conferencia de París de 2015, con la siguiente afirmación de
+su presidente: “Para cumplir mi solemne deber de proteger a Estados Unidos y
+a sus ciudadanos, Estados Unidos se retirará del acuerdo climático de París”. Y
+lo hizo con un discurso en el que dio 18 razones para justificar tal decisión.
+Merece la pena analizar el documento hecho público, dos meses más tarde, por
+el Ministerio Federal de Medio Ambiente, Conservación de la Naturaleza, Construcción y Seguridad Nuclear de Alemania, en el que se refutan todas y cada
+una de estas 18 razones. A la vista de los textos aprobados en la Conferencia de
+París, 12 de estas pretendidas razones son falsas y las otras 6 son afirmaciones,
+simplemente, equívocas.
+Como bien señala Pinker (2018) en su reciente libro En defensa de la
+Ilustración: “la belleza y el poder de la ciencia no solo son poco valorados, sino
+que se antojan extremadamente molestos. El desdén por la ciencia puede constatarse en ámbitos sorprendentes: no solo entre fundamentalistas religiosos y
+políticos ignorantes, sino también entre muchos de nuestros intelectuales más
+adorados y en nuestras más augustas instituciones de enseñanza superior”.
+Aunque sea brevemente, vale entonces la pena resumir el tipo de estrategias que hay detrás de estos comportamientos, que por varias décadas
+llevan también retrasando el abordar con determinación y rigor una verdadera
+transición energética. Estas maniobras nos están situando en una posición peligrosa, en la que nos estamos jugando mucho, y que el profesor Nordhaus
+(2015) ha llamado el “casino climático”.
+En primer lugar, hay que señalar que la mayor parte de las afirmaciones
+en la ciencia del CC se hacen en términos de probabilidad, y como consecuencia no cabe pronunciarse con certeza absoluta sobre los resultados que la ciencia del CC proporciona. En esta situación de falta de certidumbre, aquellos que
+cuestionan los logros científicos venden a la opinión pública la “duda como
+producto”. Así lo describe la profesora Naomi Oreskes (2010) en su original libro Mercaderes de la duda. Señala, con múltiples ejemplos, cómo la estrategia
+
+171
+
+
+
+que utiliza la industria de la energía fósil es casi idéntica a la que en su día
+utilizó la industria del tabaco.
+La respuesta que la comunidad internacional ha dado a esta cuestión
+aparece recogida en el artículo 3 de la Convención Marco de las Naciones Unidas sobre Cambio Climático —véase UNFCCC (1992)— en vigor desde 1994,
+donde entre otras afirmaciones se mantiene que “Cuando haya amenaza de
+daño grave o irreversible, no debería utilizarse la falta de total certidumbre científica como razón para posponer tales medidas [para prever, prevenir o reducir
+al mínimo las causas del cambio climático y mitigar sus efectos adversos]”.
+Esta actitud de esperar a que las incertidumbres se despejen y mientras
+tanto abordar problemas más urgentes conlleva dos graves inconvenientes: el
+primero de ellos es que en la espera sigue agravándose el problema y aumentando el stock de GEI a tasas muy significativas, con el riesgo de traspasar determinados umbrales de concentración; el segundo es que también, y mientras
+tanto, se siguen construyendo infraestructuras de energía fósil y comprometiendo inversiones y capital en cifras tremendamente elevadas.
+Cuando el argumento es el de los altos costes que conlleva combatir el
+CC, es preciso señalar que no hay que cometer el error de considerar la inversión para mitigar el CC como un ejercicio que consiste en detraer una determinada cantidad de recursos del bienestar social, más bien hay que considerarla
+como la elección de una senda distinta para el desarrollo tecnológico y económico, que conducirá al uso de energías renovables con el propósito de evitar
+riesgos inmensos y no poco probables. En todo caso el valor de esta inversión
+es relativamente modesto. Por ejemplo, el coste para EE. UU. de cumplir con
+los acuerdos de París, COP21, se ha estimado recientemente por Heal (2017)
+entre el 0,2 % y el 0,7 % del PIB anual. Este sería el coste de reducir el año 2050
+el 80 % de las emisiones de 2005. Hay que resaltar que cualquiera que sea la
+cifra que se tome sobre el coste de actuar contra el CC, dentro de la natural
+incertidumbre que entraña un problema de esta naturaleza, siempre será varios
+órdenes de magnitud inferior al que, por ejemplo, implicó la última crisis financiera. Debe recordarse que este último no debe limitarse, simplemente, a las
+ayudas que el sistema financiero ha recibido de los gobiernos. Para caracterizarlo en su conjunto hay que reparar en las externalidades negativas que ha
+generado y que han padecido el resto de los agentes económicos y sociales.
+Gran parte de las consecuencias no tendrán un simple carácter estático, sino
+que se prolongarán durante años y algunas otras serán permanentes. Bajo este
+planteamiento, diversos trabajos han cuantificado el coste de la crisis financiera.
+En el Anexo 1 del trabajo del Banco Internacional de Pagos —BIS (2010)— se
+resume esta literatura. En particular, el trabajo de Haldane (2010), que es el
+economista jefe del Banco de Inglaterra, cifra este coste, en valor presente, entre el 90 % y el 350 % del PIB global.
+
+172
+
+
+
+Otro tipo de oposición a la transición energética viene derivada de que
+la experiencia demuestra que en ocasiones tratar de corregir fallos de mercado,
+mediante una intervención pública, ha empeorado la situación de partida. Los
+ejemplos de malogradas intervenciones públicas están en el origen de muchas
+de las reticencias para combatir el CC, dada la creencia de que los fallos del
+regulador superan siempre los fallos de mercado. Esta manera de pensar tiende
+a oponerse a cualquier intervención pública y recela de ellas, sin duda algunas
+veces con motivo. Puesto que se es consciente de que admitir que el libre uso
+de combustibles fósiles conlleva costosas externalidades negativas de carácter
+global y, como consecuencia, una decidida intervención pública de la que muchos desconfían, se intenta evitarla tomando el camino más fácil, que es poner
+en entredicho lo que la ciencia afirma. Dado que la intervención pública no es
+aceptable, se niega la relevancia de los resultados científicos. Desde este punto
+de vista, podríamos afirmar que la oposición a la evidencia del CC climático
+tiene más que ver con la ideología que con la ciencia. A mi modo de ver, este
+es el argumento que, por ejemplo, está detrás de la posición del Partido Republicano de EE. UU. frente al CC.
+Sin embargo, el statu quo energético, que esta forma de pensar quiere
+mantener a toda costa, no se caracteriza por una falta de intervención pública.
+Para ello basta solo reconocer, como lo hace el World Energy Outlook de la IEA
+(2018a), que más del 70 % de los 2 billones de dólares de inversión anual en
+energía en el mundo —en todas las actividades y sectores— la llevan a cabo
+entidades gestionadas por los gobiernos u otras cuyos ingresos están respaldados y garantizados por una regulación pública.
+Podría parecer, entonces, que la defensa del statu quo energético no
+tiene justificación alguna desde aquellas posiciones alérgicas a la intervención
+pública. A mi entender la justificación es la siguiente. Superado un primer curso
+de Economía, se sabe bien que para que los recursos se asignen de forma eficiente en una economía de mercado han de cumplirse ciertas condiciones.
+Cuando alguna de ellas no se cumple, se habla de un fallo de mercado. Desde
+luego, la corrección de tales fallos requiere la intervención pública. Caben, entonces, dos tipos de intervención del Gobierno en la economía: la primera corrige los fallos de mercado y facilita su mejor funcionamiento; la segunda, por
+el contrario, protege determinados intereses privados en detrimento de la competitividad de la economía. La primera promueve y está a favor de la economía
+de mercado, y la segunda, simplemente, está a favor de determinadas empresas,
+que en el sector energético casi siempre protegen el statu quo. Por eso hay que
+diferenciar claramente entre las políticas económicas a favor del mercado de
+aquellas otras a favor de las empresas, en este caso las de combustibles fósiles.
+Este es el origen de que el sector energético sea el paradigma, en prácticamente todos los países, de la llamada economía clientelar. En esta materia el nuestro
+ha ocupado, en las últimas décadas, uno de los primeros lugares en el ranking
+de clientelismo. Recuerdo bien, de mis años de consejero de una de las compa-
+
+173
+
+
+
+ñías eléctricas del sector, cuando se decía en su patronal que “los problemas de
+la luz se arreglan a oscuras”. Desde entonces la situación no ha hecho más que
+empeorar.
+Es una realidad que los marcos establecidos por las autoridades públicas determinan el ritmo de mejora de la eficiencia energética y de la innovación
+tecnológica. Por consiguiente, las políticas públicas tienen que desempeñar en
+la transición energética un papel determinante. No regulando más, sino haciéndolo mejor. Por ejemplo, evitando extender la vida de viejas tecnologías de
+combustibles fósiles, en mercados ya muy regulados, con el propósito de dificultar la entrada a las tecnologías del futuro. La teoría y la experiencia demuestran que no es razonable transferir al mercado responsabilidades económicas y
+políticas que corresponden a los gobiernos democráticos, y que debieran corregir sus conocidos fallos, ya que el resultado final es un deterioro del mercado
+y de las reglas básicas de su funcionamiento.
+Finalmente, hay que destacar la posición, frente al CC, de aquellos que
+aceptando la interpretación científica dominante se limitan a resaltar sus aspectos positivos. Sugieren canalizar las inversiones contra el CC hacia otras actividades económicas que generen mayor crecimiento económico hoy, para permitir afrontar en mejores condiciones los costes de adaptación a incrementos de
+temperatura futuros. En inglés se conocen como lukewarmers, que podríamos
+traducir como “escépticos moderados”. Afirman, entonces, cosas tales como
+que aumentos razonables de la temperatura son soportables, y que incluso generarán beneficios como los de un mejor rendimiento de las cosechas en gran
+parte de los países desarrollados. O también otro tipo de ventajas, como que el
+deshielo en el Ártico permitirá aumentar el comercio y el tráfico marítimo al
+poder hacerse navegable. Como es bien conocido, el control de una ruta de
+comercio internacional es un derecho muy valioso. Por esa razón existen poderosos incentivos para despreocuparse de la catástrofe climática que representa
+esta pérdida de masa de hielo. Sin embargo, no debiera ser esta una preocupación menor. Recuérdese que para construir y administrar el canal de Panamá,
+EE. UU. apoyó una revolución y gastó más en un proyecto de construcción que
+lo que nunca antes había hecho. Para abrir el canal de Suez, el gobierno egipcio
+arrendó sus tierras a una empresa privada francesa y esclavizó a su propio pueblo. No son pocas las veces, que se ha puesto de manifiesto que hacer navegable el Ártico tendría un gran interés comercial ya que, por ejemplo, el paso por
+allí desde el norte de Europa hasta Shanghái, reduciría la distancia recorrida por
+los barcos en 3.000 millas náuticas, en comparación con el trayecto a través del
+canal de Suez.
+En fin, estos son el tipo de beneficios que contabilizan los lukewarmers, que no rechazando el CC aseguran que su gestión inteligente reportaría
+beneficios de esta naturaleza. Ello les permite seguir jugando en el que, en
+palabras del profesor Nordhaus, hemos llamado casino climático. Eso sí, en su
+
+174
+
+
+
+discurso hacen especial hincapié en alejarse de los estrictamente negacionistas.
+Es decir, son los diplomáticos defensores del statu quo.
+Hace diez años que hablé por primera vez en este pleno del problema
+del CC y de las energías renovables como alternativa a la utilización de los
+combustibles fósiles. Pues bien, desde aquella fecha el coste de la energía solar
+y eólica se redujo en un 80 %, y sin lugar a dudas esta tendencia continuará. No
+obstante, todavía hoy los combustibles fósiles —carbón, petróleo y gas—, proporcionan el 80 % de la energía en el mundo.
+Yendo algo más hacia atrás, cabe imaginarse que alguno de nuestros
+antecesores hubiera defendido a finales de la década de 1870 en esta Academia,
+en una sesión análoga a la de ahora, el uso de la luz incandescente que acababa de ser desarrollada, pero a un coste cuatro veces superior al de la luz de gas.
+Podría haberlo hecho sin ser consciente, desde luego, de que todavía se necesitarían cuarenta años para que fuera igual de competitiva. Hoy la luz cuesta
+doscientas veces menos que en aquella fecha, aunque durante mucho tiempo
+fue más barato iluminarnos con candiles y candilejas de aceite.
+Estos dos ejemplos de reducción drástica de los precios de las nuevas
+tecnologías de energía, nos podrían hacer pensar que cambios tecnológicos de
+esta naturaleza conllevan verdaderas transiciones energéticas, pero a continuación veremos que no es verdad.
+Como acabo de señalar, los economistas solemos pensar que no parece
+siempre una buena idea extender la vida de las viejas tecnologías, en mercados
+regulados, con el propósito de dificultar la entrada a las tecnologías del futuro.
+Pero esto es lo que está sucediendo. Parece más lógico proponer que las nuevas tecnologías sean las que deban reemplazar a las viejas. Es entonces cuando
+se produce una verdadera transición; sin embargo, en la historia de la energía
+nunca se ha producido tal tipo de transición, y el desafío del CC lo requerirá.
+Justifiquemos esta afirmación, siguiendo las cifras expuestas por Richard G.
+Newell y D. Raimi (2018).
+El mundo nunca ha experimentado una verdadera transición energética. Lo que realmente ha sucedido es que las nuevas fuentes de energía se han
+sumado a las viejas ya existentes. Nunca las han sustituido. Y esta ha sido la
+realidad de los últimos doscientos años.
+Consideremos los cuatro combustibles básicos utilizados en este período de tiempo: la biomasa —principalmente madera—, el carbón, el petróleo y
+el gas natural, que están en el origen del grave problema del CC. Pues bien, en
+el año 1800 la biomasa proporcionaba casi el 100 % de la energía del mundo;
+hoy proporciona solo el 10 %. El carbón, la fuerza impulsora de la Revolución
+Industrial, representaba el 44 % de la energía global en 1925, y hoy se ha redu-
+
+175
+
+
+
+cido al 28 %. El petróleo y el gas natural empezaron a hacerse determinantes
+después de la Segunda Guerra Mundial, y alcanzaron juntos el 62 % en 1973;
+hoy han descendido al 53 %. En la evolución de estas cifras se construye la narrativa de la llamada transición energética global. Pero si las contemplamos
+desde la perspectiva correcta, esta nunca ha sido verdad. Veamos esta evolución desde otro enfoque.
+En realidad, nunca se disminuyó el consumo de biomasa ni el de carbón. Desde 1800 hasta hoy, el consumo de biomasa aumentó, aproximadamente, en un 275 % y sigue siendo la fuente principal de energía para miles de millones de personas. Desde 1900, el uso del carbón ha aumentado más de ocho
+veces; y a partir del año 2000, en más del 60 %. Tampoco nunca se disminuyó
+el consumo de petróleo y gas, puesto que, aproximadamente, se ha duplicado
+a partir del año 1973. Vemos, entonces, que la aparición de nuevos combustibles nunca ha desplazado a los antiguos, ya que estos han seguido creciendo a
+tasas muy considerables. En lugar de desplazar a los combustibles antiguos, el
+petróleo y el gas natural, luego la energía nuclear, y más recientemente la energía eólica y solar, se han agregado a las ya existentes. No ha habido un proceso
+de sustitución, sino simplemente de adición.
+Esta no transición energética se hace aún más preocupante cuando se
+observan las recientes cifras de inversión en una y otra clase de energía, las
+viejas y las nuevas. En efecto, de acuerdo con el último informe de la Agencia
+Internacional de la Energía —véase IEA (2018b)— en el año 2017 las inversiones en generación de energía eléctrica renovable ascendieron a 298 mil millones de dólares que, siendo una cifra respetable, queda muy lejos de las correspondientes a las inversiones en energías fósiles. En petróleo y gas se
+invirtieron 716 mil millones de dólares, en carbón 79 mil millones de dólares y
+en nuevas fuentes de generación de energía eléctrica con combustibles fósiles 132 mil millones de dólares. Dicho más concretamente, en energías renovables se invierte la tercera parte de lo que se hace en energías fósiles. A la vista
+de esta realidad debiera recordarse que los acuerdos de París implican que en
+el año 2040 el consumo de carbón debe reducirse a más de la mitad y el del
+petróleo en un 25 %. Para una verdadera transición energética se necesita un
+proceso de sustitución de las energías fósiles, y no una simple adición de energías renovables. De lo contrario difícilmente podrán disminuirse los actuales
+flujos de emisiones de GEI.
+Como bien ha señalado el director ejecutivo de la IEA, Fatih Birol, todas estas cifras apuntan a una “tendencia preocupante”. Hay una enorme contradicción entre lo que los gobiernos dicen que van a hacer y lo que hacen. Y,
+a su vez, entre esto último y lo que el mundo necesita para transitar hacia un
+sistema energético con el objetivo de descarbonizar la producción de electricidad y disminuir la energía obtenida de combustibles fósiles bajo los criterios de
+eficacia y equidad económica.
+
+176
+
+
+
+La pregunta entonces es la siguiente: ¿Por qué estamos varados en esta
+situación?
+En particular, hay que reconocer que las características de las externalidades negativas a las que me he referido con detenimiento al principio de mi
+ponencia dificultan enormemente la solución. Y esto es así porque hoy no se
+dispone de las herramientas e instituciones para solucionar problemas de esta
+naturaleza, aquellos cuyos perjuicios son globales y a largo plazo, mientras que
+las inversiones necesarias para hacerles frente son locales e inmediatas. En este
+contexto, y a mi entender en un histórico discurso, el gobernador del Banco de
+Inglaterra, Mark Carney (2015), habla de la “tragedia del horizonte”.
+El carácter global de la externalidad negativa que representa el CC y la
+contundencia científica sobre el carácter antrópico del CC han conducido a intentos de creación de coaliciones internacionales para definir un precio del
+carbono que tenga en cuenta su coste social, y facilite la transición a otro sistema energético. Sin embargo, tal y como reconoce el profesor Jean Tirole (2017),
+premio Nobel en el año 2014, hasta hoy, han proporcionado, en la práctica,
+resultados decepcionantes. Repasémoslas brevemente.
+La Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) fue suscrita en 1992 dentro de lo que se conoció como la Cumbre de la Tierra de Río de Janeiro. El Protocolo de Kioto, adoptado en diciembre de 1997, vino a dar fuerza vinculante a lo que cinco años antes no se había
+conseguido, y constituye el primer intento de acuerdo internacional que tuvo
+por objetivo reducir las emisiones de GEI. No entró en vigor hasta febrero
+de 2005. En 2009 lo habían ratificado 187 estados, aunque EE. UU. nunca lo
+hizo, pese a que hasta su entrada en vigor era el mayor emisor de GEI; desde
+aquel año el primer emisor es China.
+Las “Partes” o miembros de la Convención se reunieron varias veces en
+los años sucesivos. Entre estas reuniones cabe destacar la XV Conferencia Internacional sobre el Cambio Climático, que se celebró en Copenhague en 2009,
+denominada COP15 (Conference of Parties). El objetivo era “la conclusión de
+un acuerdo jurídicamente vinculante sobre el clima, válido en todo el mundo,
+para ser aplicado a partir de 2012”. Sin embargo, esta cumbre fue calificada
+pronto como fracaso, y años más tarde así se constató en la práctica.
+Como consecuencia de la limitada participación en el Protocolo de
+Kioto, y ante la falta de acuerdo en la cumbre de 2009 en Copenhague, la UE
+formó una amplia y ambiciosa coalición de 195 países desarrollados y en desarrollo, que estuvieron presentes en la Conferencia de París de diciembre de 2015,
+en la que se firmó el primer acuerdo vinculante para reducir la emisión de GEI,
+el cual establece una transición entre las políticas actuales y la neutralidad climática que debe existir a finales del presente siglo. Esta transición debería con-
+
+177
+
+
+
+ducir a que las emisiones globales de GEI alcancen su nivel máximo cuanto
+antes, si bien reconocen que en los países en desarrollo el proceso será más
+largo. Después se deberán aplicar rápidas reducciones basadas en los mejores
+criterios científicos disponibles. Se determina un plan de acción mundial para
+mantener el límite del calentamiento global muy por debajo de 2 ºC sobre los
+valores preindustriales, con el propósito de alcanzar un máximo de 1,5 ºC. Para
+ello, antes y durante la Conferencia de París, denominada COP21, los países
+presentaron sus correspondientes planes nacionales de acción contra el cambio
+climático.
+En la Conferencia de París se invitó al IPCC a realizar un informe que,
+incorporando las últimas evidencias científicas, analizase los impactos de un
+calentamiento global de 1,5 ºC sobre los valores preindustriales. Este informe
+—IPCC (2018)— fue presentado el pasado mes de octubre. Entre otras conclusiones advierte de que con las pautas actuales en la emisión de GEI es muy
+probable alcanzar un incremento 1,5 ºC ya entre 2030 y 2052. Esto supondría
+que existe un riesgo apreciable de incumplir el objetivo más ambicioso del
+Acuerdo de París en poco más de una década. Una conclusión de este último
+informe podría ser que “la realidad del cambio climático supera las previsiones
+más pesimistas”. La transición energética que se requiere es de gran alcance y
+no tiene precedentes. Deberá afectar a la generación de electricidad, al transporte, a la industria, a la agricultura y a las ciudades.
+El resultado más destacado de la última COP24 celebrada en Katowice
+(Polonia), el pasado mes de diciembre, fue el haber acordado las reglas de
+transparencia y cómputo de las emisiones de gases y compromisos de reducción asumidos por cada país en el Acuerdo de París. Realmente es un parco
+resultado, lo que revela la dificultad de la lucha internacional contra el CC.
+Además, y desafortunadamente, hay que señalar que, en esta cumbre de Katowice, cuatro países muy relevantes en la generación de GEI, como son EE.
+UU., Rusia, Arabia Saudí y Kuwait, impidieron que se aceptara el mencionado
+informe del IPCC que, como hemos dicho, había sido encargado en la Conferencia de París de hace cuatro años. Una vez más, los intereses de la energía
+fósil se sitúan por encima de la evidencia científica.
+El Acuerdo de París fue muy ambicioso y plantea la solución correcta.
+Sin lugar a dudas, representó un notable éxito diplomático. Sin embargo, como
+señala Tirole (2017), para tener realmente éxito y propiciar la necesaria transformación energética, este tipo de acuerdos deben ser eficaces desde el punto
+de vista económico, equitativos y creíbles, es decir, han de tener los incentivos
+para respetar lo acordado. Veamos hasta qué punto este último gran acuerdo
+sobre la transición energética reúne estos tres requisitos.
+En cuanto a su eficacia, la realidad fue que el objetivo diplomático de
+alcanzar un acuerdo unánime de las 195 delegaciones ignoró la imperiosa ne-
+
+178
+
+
+
+cesidad de fijar un precio al carbono que, como hemos señalado, es la recomendación básica para la internalización de las externalidades negativas de los
+GEI. Algunos países productores, entre los que estaban Venezuela y Arabia
+Saudí, se negaron a un acuerdo de esta naturaleza.
+Los instrumentos de política económica que se han diseñado para
+abordar la problemática del CC tienen distintos fundamentos teóricos y diferentes niveles de sofisticación. Su complejidad se deriva de que tienen que tener
+en cuenta muchos sectores económicos, países con niveles de desarrollo muy
+distintos y, en fin, atender a los diversos poderes y grupos de presión representados por los agentes con intereses en este proceso: los stakeholders.
+Son tres los criterios que deben guiar la evaluación de las políticas de
+CC. En primer lugar, la efectividad, es decir, deben dar como resultado niveles
+de emisión de GEI que mantengan los riesgos derivados del CC en niveles
+aceptables. En segundo lugar, la eficiencia, es decir, deben minimizar los costes
+asociados al proceso de reducción de emisiones. En tercer lugar, la equidad,
+que, en este caso, no es un requisito menor, ya que los países desarrollados son
+los responsables de la mayor parte de las emisiones pasadas y los países subdesarrollados son los que en mayor medida sufrirán las consecuencias del CC.
+Cabe agrupar las medidas de carácter económico en dos grandes categorías: por un lado, los instrumentos de mandato y control y, por otro, los instrumentos de mercado.
+Las regulaciones de mandato y control exigen un determinado comportamiento a los agentes económicos que normalmente se traduce en fijar límites máximos de emisión de gases y penalizar su incumplimiento. En un
+principio, la certidumbre que tales métodos proporcionan aparece como una
+ventaja, dado que, al obligar al cumplimiento de la norma, se alcanzan los objetivos de emisiones propuestos. Sin embargo, en términos de eficiencia económica, solo aseguran una eficiencia estática y, además, solo lo hacen bajo el supuesto, irreal en la práctica, de que todos los agentes afectados por la regulación
+tengan la misma curva de costes marginales de reducción de emisiones. En
+teoría, esta clase de regulaciones trata a todos los agentes por igual, aunque en
+la práctica ciertas exenciones suelen romper con el principio de equidad. La
+falta de eficiencia y los pocos incentivos que generan para la innovación son
+argumentos suficientes para que no se empleen. Estas regulaciones pueden
+estar justificadas cuando el nivel óptimo de emisiones es nulo o muy bajo, o
+cuando los agentes operan en entornos no competitivos y, por tanto, no son
+sensibles a las variaciones en los precios.
+Los instrumentos de mercado son aquellos que generan incentivos
+para que los agentes económicos reduzcan sus emisiones o desarrollen tecnologías menos contaminantes. Hemos visto que la emisión de GEI da lugar a
+
+179
+
+
+
+externalidades negativas, que generan una divergencia entre los costes privados
+y los costes sociales de las emisiones que conducen a la ineficiencia económica.
+Principios económicos elementales indican que el único camino para
+mitigar la emisión de GEI pasa por igualar ambos tipos de costes —los privados
+y los sociales—, lo que equivale a transmitir al usuario el coste correspondiente. Los mismos principios nos dicen también que es muy poco realista esperar
+reducciones sustanciales solamente apelando a actitudes responsables de los
+ciudadanos que conduzcan a cambios en sus hábitos de consumo hacia productos menos intensivos en carbono.
+En este contexto, son dos los enfoques teóricos que se utilizan para
+abordar las externalidades negativas: la fijación de impuestos, que sigue el
+trabajo pionero de Pigou (1920), y la implantación de mercados de permisos
+de emisión transferibles, del tipo cap and trade, con el soporte del teorema de
+Coase (1960). Véase Terceiro (2009) para una exposición más detallada. En
+todo caso, adoptar una u otra solución es un debate secundario que no cuestiona el principio básico de igualar los costes privados de emitir GEI con los
+costes sociales.
+Respecto a los problemas de equidad, hay que tener presente que los
+países más prósperos son aquellos que más han contribuido al stock de GEI.
+Por ejemplo, desde la Revolución Industrial los EE. UU. y la UE son responsables de la mitad de las emisiones, aunque otros varios como China, Rusia e
+India están contribuyendo cada vez más a ese stock. En particular, el pasado
+año las emisiones de China representaron el 30 % del total. Por esta razón, el
+Acuerdo de París se compromete a facilitar recursos a los países en desarrollo,
+que el año 2010 alcanzarían la cifra de 100.000 millones de euros, y a ampliar
+este acuerdo hasta el año 2025. Sin embargo, falta una explícita y detallada
+asignación de esta cifra a los diversos países en desarrollo.
+Además, como Chancel y Piketty (2015) han puesto de manifiesto, no
+solo existe un problema de desigualdad de emisiones entre países, sino también entre individuos. Así, estos autores estiman que el 10 % de la población
+más rica del mundo es responsable del 45 % de las emisiones globales. Aproximadamente, esta misma relación se verifica para cada uno de los países considerados de manera individual. Por este motivo, si a la hora de fijar un precio a
+las emisiones de GEI no se tienen en cuenta las distintas huellas de carbono de
+las que son responsables los ciudadanos, se puede penalizar indebidamente a
+aquellos con los niveles de renta más bajos. La solución a este problema no es
+compleja y la idea es la del “doble dividendo”: la fijación de un precio que
+además de disminuir las emisiones de GEI (primer dividendo), permita, utilizando todos o parte de los ingresos recaudados por este impuesto, la reducción
+de impuestos de otra naturaleza, en especial a las rentas más bajas (segundo
+dividendo). Este proceso de redistribución es fácilmente aplicable de forma
+
+180
+
+
+
+muy transparente a través del impuesto sobre la renta. Aun en el caso en el que
+la devolución fuera total e igual para todos los ciudadanos, sin tener en consideración su nivel de renta, esta transferencia tendría un efecto progresivo.
+Problemas análogos se pueden presentar cuando se aplican otro tipo de
+decisiones necesarias en el proceso de transición energética. Este es el caso de
+la supresión de las subvenciones o ventajas fiscales que hoy tienen la mayoría
+de los combustibles fósiles más contaminantes. Con frecuencia, la justificación
+política que se da a este tipo de subvenciones es la protección de los ciudadanos
+con menores rentas. En la práctica sucede todo lo contrario, es decir, tienen
+consecuencias claramente regresivas. En efecto, un reciente trabajo de Gass y
+Echeverria (2017) señala, sobre la base de varios estudios de carácter internacional, que de los subsidios a energías fósiles solo el 7 % se dirige al quintil inferior
+de la distribución, es decir, al 20 % de la población con menor renta. Mientras
+que el 20 % de las rentas más altas reciben el 40 % de las subvenciones.
+A la hora de evaluar los efectos sociales de determinadas medidas encaminadas a facilitar la transición energética, hay que tener muy presentes las
+inequidades de partida a las que acabamos de hacer referencia. Desde luego
+—y básicamente— por razones de equidad, pero también para evitar o explicar
+con más rigor movimientos tan espontáneos y rotundos como el denominado
+de los “chalecos amarillos” en Francia, que hay que recordar que surgió contra
+el aumento de la carga impositiva a determinado tipo de combustibles fósiles.
+Como acabamos de señalar, no son precisamente los participantes en estas revueltas los principales beneficiarios de los bajos impuestos y subvenciones a los
+combustibles fósiles que ellos utilizan en su actividad productiva.
+Finalmente, en cuanto a la credibilidad de los acuerdos adoptados en
+París, hay que reconocer que el único mecanismo que contempla para que cada
+país cumpla los objetivos a los que se ha comprometido es el de “señalar y avergonzar” —naming and shaming— a aquellos que no cumplan dichos objetivos
+en los plazos fijados, viéndose esos países vergonzosamente señalados. Desde
+luego, así se debe hacer, y es condición necesaria. Sin embargo, este proceso de
+“estigmatización” no es suficiente, como la experiencia que se arrastra desde el
+Protocolo de Kioto hace más de veinte años pone de manifiesto. Siempre existe
+por parte de los países incumplidores la posibilidad de esgrimir excusas de todo
+tipo para justificar sus incumplimientos: por ejemplo, una recesión económica,
+problemas presupuestarios o dificultades sociales y de empleo en los sectores de
+energías fósiles afectados por los compromisos adquiridos.
+Cuando no se consigue un acuerdo que vincule a la totalidad de los
+países, los que no se sienten concernidos actúan como free-riders, es decir,
+pretenden que los demás les resuelvan el problema sin que ellos estén dispuestos a hacer algo. Esta situación no es solamente exclusiva del problema del CC,
+sino que se produce en aquellos casos en que están presentes los conocidos
+
+181
+
+
+
+como “bienes comunes”, y la estabilidad del clima es uno de ellos. Entre las
+características de este tipo de bienes está la no exclusividad, que supone que
+se puede acceder libremente al disfrute de ese bien, de tal forma que nadie
+puede ser excluido sin costes prohibitivos.
+Para evitar esta situación, son muchos los economistas que han propuesto una solución alternativa y más realista que la unanimidad de todos los
+países. Entre ellos, dos recientes premios Nobel: Jean Tirole (2017) y William D.
+Nordhaus. El profesor Nordhaus (2018b) nos la volvió a recordar en su conferencia del pasado 8 de diciembre en la Universidad de Estocolmo, con motivo
+de la entrega del premio. La solución consiste en crear una “coalición de países
+por el clima”, que él llama el “club del clima”, que agrupara, desde un principio,
+a un número significativo de países según los GEI que emiten. Todos ellos se
+comprometerían a fijar un precio al carbono. A los países que no se incorporasen en esta primera etapa se les incentivaría durante un limitado período de
+tiempo para entrar en la coalición. Este tipo de coaliciones tienen tres características básicas: sus miembros se benefician de unas ciertas economías de escala por proceder juntos; todos ellos pagan por estar en la coalición; y, finalmente, tienen la capacidad de excluir de ella a aquellos países que no estén
+dispuestos a pagar para entrar en ella, y cuyo comportamiento equivaldría a
+una situación de dumping comercial. Como consecuencia, los miembros de la
+coalición deberían tener la capacidad de imponer en la Organización Mundial
+del Comercio (OMC) un arancel sobre las exportaciones de los países no miembros. Recuérdese que la OMC tiene más 160 países miembros, que representan
+el 98 % del comercio mundial, y que los pilares sobre los que descansa son los
+acuerdos negociados y firmados por los países miembros y ratificados por sus
+respectivos parlamentos.
+A pesar de los fracasos —o si se prefiere debilidades— de los acuerdos
+internacionales para definir y llevar a la práctica una verdadera transición energética, no todo son motivos para el pesimismo. Hace algunos años que James
+Hansen, exdirector del Instituto Goddard de Estudios Espaciales de la NASA
+—hoy en la Universidad de Columbia—, y uno de los científicos más activos en
+transmitir a la sociedad la necesidad de cambiar nuestro modelo energético,
+decía que el consenso científico que existía sobre el CC no se estaba trasladando adecuadamente a la opinión pública. Afirmaba que a la sociedad le llegaba
+la idea de que una economía de bajas emisiones de carbono representaría privaciones de todo tipo, lo que, obviamente no es verdad. Pues bien, desde entonces la toma de conciencia por la opinión pública de que este es el problema
+de acción colectiva más grave y complejo en la historia de la humanidad ha
+aumentado notablemente. Muchos son los ejemplos y encuestas que se podrían
+citar para avalar esta afirmación. Además, varias decenas de países, entre los
+que destacan sobremanera algunos europeos, han tomado y llevado a la práctica, con distintos niveles de éxito, la decisión de fijar un precio al carbono.
+También la UE ha tomado un conjunto de iniciativas y propuestas, desde los
+
+182
+
+
+
+primeros años de la década de los 90, cuyo último ejemplo, presentado el pasado 28 de noviembre de 2018, es la visión estratégica a largo plazo para que
+una economía sea próspera, moderna, competitiva y climáticamente neutral en
+las emisiones de GEI para el año 2050, propuesta que está en línea con los
+acuerdos de París, cuyas debilidades acabamos de comentar.
+No es fácil valorar los avances que los distintos países están realizando
+en su proceso de transición energética. La dificultad estriba en que este es un
+proceso transversal que implica, directa o indirectamente, a todos los sectores
+económicos y a muchas tecnologías en un principio no directamente vinculadas al mundo energético.
+Quizá, la más consolidada de las métricas que evalúan el desempeño
+de los distintos países frente al CC y la definición de sus diversas transiciones
+energéticas sea el Climate Change Performance Index (2019), elaborado por el
+Climate Action Network International, Germanwatch y el New Climate Institute,
+que se viene publicando cada año, desde 2005. El índice se construye con una
+componente objetiva, que pondera el 80 %, que tiene en cuenta indicadores
+relacionados con emisiones presentes y pasadas de GEI y con aspectos específicos relacionados con la política energética del país. El otro 20 % es una valoración de la política climática concreta que se aplica realizada por trescientos
+expertos de todo el mundo.
+Este Índice evalúa y compara el desempeño de 56 países y la Unión
+Europea en su conjunto, que en total son los responsables de más del 90 % de
+las emisiones de GEI. Una vez ordenados de mejor a peor calificación los países
+se agrupan en cinco categorías: “Muy Alta”, “Alta”, “Media”, “Baja” y “Muy baja”.
+Los evaluadores consideran que ninguno merece una calificación “Muy alta”, y
+por esta razón dejan desiertos los tres primeros lugares en el ranking. Pues
+bien, en 2019, este ranking lo encabeza Suecia dentro de los países con una
+calificación “Alta”, y no debe sorprender que todos los países escandinavos estén en este mismo grupo. Por el contrario, EE. UU. y Arabia Saudí ocupan los
+dos últimos puestos de la clasificación. España ocupa el lugar 35, y está en el
+grupo de aquellos países con una calificación “Baja”.
+No es de extrañar nuestra posición en este grupo de mala calificación,
+dado que nuestra política energética, tan inmersa en el ámbito de la economía
+clientelar, viene de lejos, y se acentuó críticamente con leyes tales como la famosa Ley 54/1997 del Sector Eléctrico. Por ejemplo, la pretendida competencia
+que con ella se estableció en el sector dio lugar a una sobrerremuneración de
+las centrales hidráulicas y nucleares de más de 30.000 millones de euros, que
+eufemísticamente vinieron a llamarse “costes de transición a la competencia”.
+Además, y como consecuencia de errores de unos y otros, de las cinco grandes
+empresas eléctricas que operan en España (Endesa, Iberdrola, Naturgy, Hidroeléctrica del Cantábrico y Viesgo), tres de ellas son simples sucursales de
+
+183
+
+
+
+compañías europeas. Y este no es un tema menor, dada la crucial importancia
+que la electrificación tiene en toda transición energética, teniendo en cuenta la
+amplia capacidad solar y eólica de la que disponemos. La razón es la que referimos a continuación.
+La eficiencia global del sistema energético es muy baja, sobre todo en
+dos tipos de actividad que son las fuentes principales de emisión de GEI. La
+primera de ellas es la relacionada con las enormes pérdidas asociadas con la
+producción convencional de electricidad. La mayoría de las centrales eléctricas
+de energía fósil tienen rendimientos que apenas alcanzan el 40-50 %. Esto significa que por cada unidad de electricidad producida se requieren más de dos
+unidades de combustible primario. La segunda está relacionada con el rendimiento inherente a algunas de las formas en que usamos la energía final disponible. Los motores de combustión tradicionales, que impulsan la gran mayoría
+de nuestros medios de transporte, apenas alcanzan el 30 % de rendimiento, en
+comparación con el 90 % de los motores eléctricos. Ello quiere decir que dos
+tercios de la energía en los tanques de combustible se desperdician. Los sistemas de calefacción apoyados en combustibles fósiles también han demostrado
+alcanzar niveles de eficiencia mucho más bajos que los sustentados en electricidad. Por esta razón, y como está generalmente reconocido, la transición a un
+modelo energético renovable sustentado en electricidad tiene un potencial muy
+grande para eliminar esta desmedida falta de eficiencia y sus abrumadoras cifras de generación de GEI y de otros gases contaminantes.
+En este sentido, no cabe más que mostrar preocupación por la algarada
+populista, así como por las manifestaciones de la más tradicional economía
+clientelar que originó uno de los anuncios contenidos en el futuro proyecto de
+Ley de Cambio Climático y Transición Energética. Este anuncio dice que en 2040
+no se permitirá la matriculación de vehículos que no sean de emisiones cero
+(eléctricos puros o de pila de hidrógeno) y que, a partir de 2050, no se permitirá la circulación de otro tipo de vehículos. Y coincide, básicamente, con anuncios análogos hechos con anterioridad por la mayoría de los países europeos,
+incluyendo, desde luego, aquellos donde están las casas matrices de las factorías de automóviles que tenemos en nuestro país.
+En fin, esperemos que, esta vez, no volvamos a elegir el ancho de vía
+equivocado.
+REFERENCIAS
+
+BIS [Bank for International Settlements], An assessment of the long-term economic impact of stronger capital and liquidity requirements, agosto 2010. Consultado en enero de 2019 en
+http://www.bis.org/publ/bcbs173.pdf.
+
+184
+
+
+
+Carney, M.:, Breaking the Tragedy of the Horizon – climate change and financial stability, Bank
+of England, 29 de septiembre de 2015. Consultado en enero de 2019 en http://www.
+fsb.org/wp-content/uploads/Breaking-the-Tragedy-of-the-Horizon-%E2%80%93-climate-change-and-financial-stability.pdf.
+Chancel, L, y Piketty, T.: Carbon and inequality: from Kyoto to Paris. Trends in the global inequality of carbon emissions (1998-2013) & prospects for an equitable adaptation fund.
+Paris School of Economics, noviembre 2015. Consultado en enero de 2019 en http://
+piketty.pse.ens.fr/files/ChancelPiketty2015.pdf.
+Climate Change Performance Index, 2019. Consultado en enero de 2019 en https://www.climate-change-performance-index.org/.
+Coase, R.: “The problem of social cost”. The Journal of Law and Economics, vol. 3, 1960, págs. 1-44.
+Consejo Nacional de Investigación de las Academias Nacionales, Cambio climático: evidencia,
+impactos y opciones, 2013. Consultado en enero de 2019 en http://nas-sites.org/americasclimatechoices/more-resources-on-climate-change/climate-change-lines-of-evidence-booklet/cambio-climatico-evidencia-impactos-y-opciones/.
+ICG, Current Global Warming Index, 2018. Oxford University Environmental Change Institute
+and the University of Leeds Priestley International Centre for Climate. Consultado en
+enero de 2019 en http://www.globalwarmingindex.org/.
+Gass, P. y Echeverria, D.: Fossil Fuel Subsidy Reform and the Just Transition, International Institute
+for Sustainable Development, 2017. Consultado en enero de 2019 en https://www.iisd.
+org/sites/default/files/publications/fossil-fuel-subsidy-reform-just-transition.pdf.
+Haldane, A. G.: “The $100 billion question”, BIS Review 40/2010. Consultado en enero de 2019 en
+http://www.bis.org/review/r100406d.pdf.
+Heal, G.: “Reflections – What Would It Take to Reduce U. S. Greenhouse Gas Emissions 80 Percent
+by 2050?”. Review of Environmental Economics and Policy, vol. 11, n.º 2, julio 2017,
+págs. 319-335.
+IEA [International Energy Agency], Analysis of the Scope of Energy Subsidies and Suggestions for
+the G-20 Initiative, IEA, OPEC, OECD, World Bank Joint Report prepared for submission to the G-20 Summit Meeting Toronto (Canada), 26-27 junio 2010 (2010a). Consultado en enero de 2019 en https://www.iea.org/media/weowebsite/energysubsidies/
+G20_Subsidy_Joint_Report.pdf.
+IEA [International Energy Agency], The Scope of Fossil-Fuel Subsidies in 2009 and a Roadmap for
+Phasing Out Fossil-Fuel Subsidies, An IEA, OECD and World Bank Joint Report prepared for the G-20 Summit, Seoul (Republic of Korea), 11-12 noviembre 2010 (2010b).
+Consultado en enero de 2019 en https://www.iea.org/media/weowebsite/energysubsidies/second_joint_report.pdf.
+IEA [International Energy Agency], Fossil-fuel subsidies. Consultado en enero de 2019 en https://
+www.iea.org/weo/energysubsidies/.
+IEA [International Energy Agency], World Energy Outlook 2018 (2018a). Consultado en enero
+de 2019 en https://www.iea.org/weo2018/.
+
+185
+
+
+
+IEA [International Energy Agency], World Energy Investment 2018 (2018b). Consultado en enero
+de 2019 en https://webstore.iea.org/world-energy-investment-2018.
+IMF [International Monetary Fund]. “Climate Change and the Global Economy”. En World Economic Outlook. Capítulo 4. International Monetary Fund, Washington, DC, 2008. Consultado en enero de 2019 en http://www.imf.org/external/pubs/ft/weo/2008/01/pdf/c4.pdf.
+IPCC [Intergovernmental Panel on Climate Change]. Climate Change 2014: Synthesis Report. Fifth
+Assessment Report (AR5). Cambridge University Press, Cambridge, 2014. Consultado en
+enero de 2019 en http://www.ipcc.ch/report/ar5/syr.
+IPCC [Intergovernmental Panel on Climate Change], Global Warming of 1.5 °C, 2018. Consultado
+en enero de 2019 en https://www.ipcc.ch/sr15/.
+Newell, R. G. y Raimi, D.: The New Climate Math: Energy Addition, Subtraction, and Transition,
+octubre 2018. Consultado en enero de 2019 en http://www.rff.org/files/document/file/
+RFF-IssueBrief-NewClimateMath-final.pdf.
+NOAA [Administración Nacional Oceánica y Atmosférica de EE. UU.], 2018a, https://www.esrl.
+noaa.gov/gmd/aggi/.
+NOAA [National Oceanic and Atmospheric Administration], “State of the Climate in 2017”. Suplemento especial del Bulletin of the American Meteorological Society, vol. 99, n.º 8, agosto 2018 (2018b).
+Nordhaus, W. D.: The Climate Casino: Risk, Uncertainty, and Economics for a Warming World.
+Yale University Press, New Haven, 2015.
+—— Nobel Prize Banquet Speech, 2018a. Consultado en enero de 2019 en https://www.nobelprize.org/prizes/economic-sciences/2018/nordhaus/speech/.
+—— Climate Change: The Ultimate Challenge for Economics. Nobel Lecture in Economic Sciences. Stockholm University. 8 de diciembre de 2018 (2018b). Consultado en enero
+de 2019 en https://www.nobelprize.org/uploads/2018/10/nordhaus-slides.pdf.
+Oreskes, N. y Conway, E. M.: Merchants of Doubt, Bloomsbury Press, Londres, 2010.
+Pigou, A. C.: The Economics of Welfare, 1920. Macmillan, Londres, 4.ª edición, 1932.
+Pinker, S.: Enlightenment Now: The Case for Reason, Science, Humanism, and Progress, Viking, 2018.
+Terceiro, J.: Economía del Cambio Climático. Taurus, Madrid, 2.ª edición, 2009.
+Tirole, J.: Economics for the Common Good. Princeton University Press, 2017.
+UNFCCC [The United Nations Framework Convention on Climate Change], 1992. Consultado en
+enero de 2019 en https://unfccc.int/resource/docs/convkp/convsp.pdf.
+Wulf, A.: The Invention of Nature: Alexander von Humboldt’s New World, Alfred A. Knopf, New
+York, 2015.
+
+186
+
+

@@ -1,0 +1,736 @@
+GOBIERNO DE LA EMPRESA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba *
+
+Esta intervención se ordena de la siguiente manera. En la primera parte
+trataré de clarificar las dos aproximaciones distintas al gobierno de la empresa que
+caracterizan hoy este debate en los países desarrollados. A continuación revisaré
+algunas ideas sobre las teorías de la empresa, haciendo especial referencia al pro­
+blema de agencia. Me centraré después en caracterizar las estructuras de propiedad
+que corresponden a distintos países. Entre los mecanismos que se utilizan para
+resolver el conflicto de intereses entre los accionistas y el equipo directivo, me fija­
+ré exclusivamente en el Consejo de Administración. Seguidamente haré referencia
+a algunos de los principios comunes a todos los códigos de buen gobierno, en con­
+creto a la transparencia en la actividad empresarial y a la independencia y compe­
+tencia profesional de los consejeros. Terminaré con unas breves conclusiones.
+Seguramente la elección de los temas tratados y el desigual énfasis puesto en ellos
+pueden cuestionarse, ya que inevitablemente están condicionados por la limitación
+de espacio y las experiencias personales.
+
+INTRODUCCIÓN
+
+El gobierno de la empresa es un tema sobre el que los debates han
+aumentado notablemente en los últimos años, y especialmente en la última déca­
+da. Son multitud los trabajos, investigaciones e informes que vieron la luz tanto des­
+de el punto de vista académico como empresarial. Sin embargo, no es fácil centrar
+
+* Sesión del día 15 de junio de 2004.
+
+145
+
+
+
+el debate ya que no existe una definición generalmente aceptada de lo que enten­
+demos por gobierno de la empresa. Dos son las aproximaciones al problema. La
+primera, la que contempla definiciones, dadas en sentido estricto, como la pro­
+puesta por Sheleifer y Vishny (1997) en un trabajo ampliamente difundido, y que
+dice que «el gobierno de la empresa se ocupa de los procedimientos a través de los
+cuales se asegura una retribución adecuada a quienes facilitan los recursos finan­
+cieros». La segunda aproximación contempla definiciones más amplias, como la de
+Zingales (1998), que se refiere al gobierno de la empresa como «el conjunto de
+actuaciones que determinan la negociación a posteriori de las quasi-rentas que se
+generan en la empresa».
+También la OCDE contempla una aproximación en sentido amplio. Así, en
+su informe de «Principios del Gobierno de la Empresa», de 2004, y siguiendo la pau­
+ta de su anterior informe del año 1999, describe el gobierno de la empresa como
+el conjunto de relaciones entre el Consejo, sus accionistas (shareholders), y otros
+interesados (stakeholders) en la acción conjunta de la empresa, como son los
+acreedores, clientes, empleados y, en algunos casos, la sociedad en su conjunto.
+Aunque la propia OCDE reconoce que «un solo modelo no le viene bien a todos»,
+es decir, no existe un modelo único de gobierno de la empresa aplicable a todos
+los países, sí pueden definirse un conjunto de principios que recogen característi­
+cas comunes a todos ellos. Estos principios de la OCDE han sido aprobados en el
+pasado mes de abril por los gobiernos de los treinta países miembros.
+La primera de las definiciones suele conocerse como perspectiva financie­
+ra del gobierno de la empresa; la segunda, como perspectiva estratégica. La dife­
+rencia entre una y otra aproximación no es menor. Así, la primera se centra fun­
+damentalmente, y de manera explícita, en la protección de los accionistas, mientras
+que la segunda pone énfasis en los demás agentes que aportan recursos a la empre­
+sa y que se ven afectados por las decisiones que en ella se toman. Los intereses de
+estos otros agentes están protegidos por diferentes medios, con frecuencia por con­
+tratos formales cuyo cumplimiento garantizan las leyes, y también podrían estarlo
+por la posibilidad de abandonar la relación libremente y sin costes de salida signi­
+ficativos. Cuando esto no es posible es cuando los defensores de la segunda apro­
+ximación justifican que el gobierno de la empresa debe tener en consideración la
+protección de los intereses de todos los agentes involucrados en la organización.
+Esta situación se da, por ejemplo, cuando estamos en presencia de inversiones
+específicas por parte de los trabajadores, proveedores y clientes, que, junto con los
+inversores financieros y el equipo ejecutivo, participan en la actividad colectiva de
+la empresa. La opción de salida no es, en este caso, suficiente protección, ya que
+el coste de oportunidad es menor que el coste de producción de los recursos
+146
+
+
+
+empleados, siendo la diferencia, precisamente, la inversión específica realizada en
+el pasado para poder disponer en el presente de los recursos necesarios. Esta dife­
+rencia es lo que se conoce como quasi-renta. Los economistas nos referimos a ren­
+tas y quasi-rentas. La idea de renta está asociada a la entrada en una actividad, y la
+de quasi-renta a la de salida.
+Si ex -an te se percibe una posibilidad de que las quasi-rentas no van a estar
+protegidas en el futuro, no existirán incentivos para llevar a cabo inversiones espe­
+cíficas. En una situación así no cabe esperar que, por ejemplo, los trabajadores
+inviertan en formación específica para el puesto de trabajo a desempeñar cuando
+las condiciones de trabajo son precarias. Es también difícil que una empresa invier­
+ta en innovación si el marco de relaciones laborables dificulta la rentabilidad de la
+inversión. Posiblemente, éste es uno de los varios aspectos que tienen que ver con
+nuestro actual modelo de crecimiento caracterizado por niveles tan bajos de pro­
+ductividad.
+Hablar en España, especialmente en los últimos años, del gobierno de las
+empresas, o del buen gobierno de las empresas, implica dos grupos de opinión dis­
+tintos. Por una parte, la proclamación pública, que se manifiesta por medio de un
+proceso incesante de normas tales como el Informe Olivencia (1998), la Ley Finan­
+ciera (1992), el Informe Aldama (2003), la Ley de Transparencia (2003) y multitud
+de textos legales de desarrollo. Por otra parte, aparece el escepticismo privado,
+derivado del conocimiento genérico de llamativos casos como los de Enron, Worlcom, Arthur Andersen, Vivendi o Parmalat, por citar aquellos ajenos a nuestro
+entorno, o bien el derivado del conocimiento directo de algunos de sus protago­
+nistas, que, en nuestro caso, ha llegado a afectar a instituciones claves dentro del
+marco de referencia como es la Comisión Nacional del Mercado de Valores.
+La importancia de este asunto es incuestionable, y no es nueva. Ya en
+1776 Adam Smith advertía en su R iqu eza d e las N aciones que «los consejeros de la
+empresas por acciones son los responsables de la gestión del dinero de terceras
+personas y no del suyo, por lo que no puede esperarse que lo hagan con la mis­
+ma diligencia que lo harían sus propietarios... Descuido y despilfarro, por consi­
+guiente, estarán presentes, en mayor o menor grado, en la administración de tales
+empresas». Como en tantos problemas a los que se les quiere dar relevancia y actua­
+lidad, es ilustrativo citar a los clásicos. Corrían los últimos años treinta cuando un
+gestor de un fondo de pensiones conocido, John Maynard Keynes, se mostraba
+renuente a dar información a los partícipes de su fondo sobre sus políticas de inver­
+sión, con el argumento de que no tenían formación suficiente para poder entender
+sus explicaciones. Básicamente, las inversiones en divisas y derivados hicieron que
+147
+
+
+
+el fondo, gestionado tan sabiamente, quebrara y sus ignorantes inversores perdie­
+ran sus ahorros y no ganaran explicación alguna. Valgan estas dos maneras de pen­
+sar y actuar como ejemplos pasados de aspectos del gobierno de la empresa, en
+particular de uno de sus elementos clave: la relación entre los accionistas o pro­
+pietarios y los gestores.
+Una gran parte de la literatura sobre gobierno de la empresa se ha cen­
+trado en los problemas contractuales que surgen entre los accionistas que facilitan
+los recursos y los gestores que se encargan de la gestión de estos recursos. La sepa­
+ración entre propiedad y gestión facilita que accionistas y gestores asuman las fun­
+ciones que mejor encajan con sus preferencias y en las que mejor pueden desa­
+rrollar sus capacidades profesionales.. Sin embargo, esta especialización acarrea el
+riesgo de que los gestores utilicen los recursos disponibles en su beneficio y no en
+el de sus propietarios, situación no siempre bien definida en la práctica, ya que con
+frecuencia es difícil separar el riesgo que siempre conlleva toda decisión empresa­
+rial del riesgo que se asume al tomar decisiones no necesariamente alineadas con
+el interés de los inversores. Es éste el denominado problema de agencia (Jensen y
+Meckling, 1976).
+Parece imprescindible, aunque entrañe algún riesgo de divagaciones teó­
+ricas, revisar muy someramente algunas ideas sobre las teorías tradicionales de la
+empresa, empezando por la teoría neoclásica, que es la que se estudia en los
+manuales elementales de economía, aunque sólo sea para resaltar que si todas las
+hipótesis que exige se cumplieran en el mundo real, el gobierno de la empresa
+sería de una simplicidad extrema, y en nada se parecería a lo que hoy entendemos
+por tal.
+
+TEORÍA NEOCLÁSICA
+
+Es la teoría primera y más asentada en la literatura. La empresa produce
+un conjunto de outputs a partir de diferentes combinaciones de determinados
+inputs. Todos los agentes disponen de información perfecta, es decir, conocen los
+planes de producción y de consumo, y los precios en todos los mercados. Además
+la información se distribuye de manera simétrica, es decir, todas las partes dispo­
+nen de los mismos datos. Bajo estos supuestos, la función de los ejecutivos con­
+siste en maximizar el beneficio o el valor de mercado de la empresa por medio de
+la elección de los planes de producción óptimos.
+Sucede, sin embargo, que la realidad se aleja de esta situación. De tal for­
+ma que los oferentes y demandantes poseen información asimétrica, que existen
+148
+
+
+
+diferencias entre costes de producción y costes de oportunidad al existir determi­
+nadas inversiones, y que se está en presencia de racionalidad limitada, entendien­
+do por tal que adquirir información tiene un coste, y ello conduce a acuerdos rea­
+lizados en ausencia de información completa. De hecho, es esta situación de
+contratos incompletos la que hace relevante la estructura de gobierno en la empre­
+sa, por ser ella la que conduce a la toma de decisiones que afectan a situaciones
+no contempladas en el contrato.
+Las garantías y salvaguardas que proporciona el mercado se concretan
+ejercitando la opción de salida, ya que la protección de los intereses de los agen­
+tes que participan en la acción colectiva está fundada en la hipótesis de poder sus­
+tituir, sin restricción alguna, entre los compradores y entre los vendedores.
+Cuando la opción de salida no se puede ejercer, es necesario recurrir al
+segundo instrumento de protección, que es la voz, Indudablemente es difícil espe­
+cificar el ejercicio de la voz entre los muchos participantes en una acción colectiva
+como es la empresa. La expresión no debe entenderse en su literalidad, sino como
+la distribución de poder entre los participantes de la acción colectiva. La teoría neo­
+clásica no tiene en cuenta la idea de poder, ya que en ella la opción de salida pro­
+porciona protección suficiente.
+
+TEORÍA DE AGENCIA Y COSTES DE TRANSACCIÓN
+
+La teoría de agencia identifica la relación de agencia que existe entre una
+parte, el principal o colectivo de mandantes, y otra, el agente o mandatario, en la
+que aquélla delega una actividad determinada. La relación de agencia, como hemos
+señalado, puede generar una serie de problemas relacionados con el oportunismo
+y comportamiento egoísta del agente. Así, el agente puede no actuar en la mejor
+defensa de los intereses del principal, y cuando lo hace, realizarlo total o parcial­
+mente. Este tipo de actuaciones puede tener distintas justificaciones. Por ejemplo,
+que el agente tome decisiones dirigidas a mejorar su situación económica o profe­
+sional, o bien que no asuma determinados riesgos empresariales que beneficiarían
+al principal, como consecuencia de no creerlos razonables, ya que él y el principal
+pueden tener distintas actitudes frente al riesgo. Existe también el problema de
+información asimétrica, entendiendo por tal el hecho de que el principal y el agen­
+te tienen acceso a diferentes tipos y niveles de información; en la práctica esto se
+traduce en que el agente tiene más y mejor información que el principal. De hecho,
+el agente tiene incentivos para no revelar la información de la que dispone, y si lo
+hace, para realizarlo parcialmente y no a su debido tiempo. Alinear los intereses de
+149
+
+
+
+los ejecutivos con el de los accionistas se pude conseguir, teóricamente, con con­
+tratos que incorporen incentivos variables vinculados directamente con el valor de
+la empresa. Sin embargo, la situación en la que los ingresos de los ejecutivos sean
+muy sensibles a la variación de los beneficios puede no ser la adecuada para aque­
+llos con cierta aversión al riesgo. Fórmulas alternativas como las opciones sobre
+acciones, stock options, han dado lugar, cuando no se han diseñado y contabiliza­
+do adecuadamente, a incentivos perversos.
+En la definición amplia de gobierno de la empresa podría definirse una
+relación de agencia múltiple que se establecería entre el agente, o equipo directi­
+vo, y los diversos principales a los que debe atender, stakeholders, es decir, todos
+aquellos interesados en la marcha de la empresa. Los dos elementos que hacen
+relevante el análisis del gobierno de la empresa son la existencia, en la práctica, de
+contratos incompletos y el problema de agencia.
+La teoría de agencia contempla los mecanismos de gobierno, especial­
+mente el Consejo de Administración, como instrumentos que tienden a minimizar
+los problemas que surgen en la relación entre el principal y el agente. Los ejecuti­
+vos son los agentes de los accionistas, que son los principales, y su trabajo requie­
+re un conjunto de elementos que analicen y equilibren su actividad con el propó­
+sito de que no abusen de su poder de decisión. Los costes en los que se incurre,
+tanto aquellos originados en un comportamiento no adecuado de los ejecutivos
+como los derivados de su proceso de supervisión y control, se llaman costes de
+agencia. La relación entre los ejecutivos y los accionistas es la situación más citada
+de relación de agencia en el gobierno de la empresa, pero existen otras entre los
+distintos protagonistas de la actividad empresarial, como son la relación de la
+empresa con sus acreedores o la relación entre empleadores y empleados.
+A medida que los países se han desarrollado e industrializado, la propie­
+dad y la gestión han tendido a separarse. Esta situación es especialmente relevan­
+te en el mundo anglosajón, cuyos sistemas legales han prestado especial atención
+a la protección de los intereses de los accionistas minoritarios propiciando, por tan­
+to, estructuras de propiedad más diversificadas. En contraposición, en países con
+sistemas legales en los que la protección de los accionistas minoritarios no es tan
+efectiva, están generalizadas las estructuras de propiedad más concentradas. En
+estos países la mayor codificación suele, paradójicamente, ir acompañada de menor
+protección. A la estructura de propiedad haré referencia, brevemente, más tarde.
+En los últimos años ha habido una tendencia a sugerir a los accionistas, y
+especialmente a los accionistas institucionales, aquellos que tienen acciones en
+150
+
+
+
+nombre de terceros tales como las compañías de seguros y los fondos de inversión
+y de pensiones, el desarrollo de actividades más en su condición de propietarios
+que en su condición de inversores. Todo ello ha sido alentado por las irregulari­
+dades conocidas, de excesos y abusos, que han conducido no sólo a la pérdida de
+ahorros, sino también, en algunos casos, a la desaparición de los fondos de pen­
+siones de los empleados.
+Bajo la perspectiva de costes de transacción, tal y como se pone de mani­
+fiesto en los trabajos pioneros de Williamson (1975, 1986), se considera la empre­
+sa como una estructura de gobierno, y la unidad de análisis es la transacción indi­
+vidual que subyace en los acuerdos contractuales entre las partes, mientras que
+bajo la perspectiva de agencia es un conjunto de contratos, conectados entre sí, rea­
+lizados entre los interesados, y que surgen como consecuencia de la imposibilidad
+de definir un contrato que acople perfectamente los intereses del principal y del
+agente en todas las situaciones.
+Fue Coase (1937) el primero que analizó la existencia de la empresa en
+un contexto de comparar la eficiencia de contratos internos y contratos externos.
+Como consecuencia, la empresa crece hasta la situación en la que es menor el cos­
+te de realizar las transacciones externamente. A partir del trabajo pionero de Coa­
+se la empresa se entiende como uno de los mecanismos que complementan la fun­
+ción de los mercados, teniendo con ellos la función de acumulación y asignación
+de recursos.
+El conflicto de intereses entre los accionistas y los responsables ejecutivos,
+así como la imposibilidad de redactar contratos completos para resolverlo en todas
+las situaciones posibles, conduce a arbitrar mecanismos para controlar la discrecionalidad de los ejecutivos, dada la relevancia de sus decisiones en la asignación de
+recursos. Varios son los mecanismos que se utilizan para este propósito. Estos
+mecanismos son: el Consejo de Administración, la Junta de Accionistas, los accio­
+nistas significativos, el mercado de control, la estructura financiera y la competen­
+cia en los mercados.
+
+SOBRE LA ESTRUCTURA DE LA PROPIEDAD
+
+Las diferencias en los patrones de propiedad y de gobierno de las empre­
+sas en los distintos países son muy notables, y ello a pesar del proceso de globalización que conduce a que empresas de países distintos se establezcan y se dispu­
+ten mercados a escala mundial. La comparación pone de manifiesto que son
+151
+
+
+
+mayores las diferencias entre empresas originarias de áreas geográficas y políticas
+distintas que entre empresas dentro de una misma área, aunque estén en sectores
+de actividad distintos. Es inmediato observar que el entorno institucional en el que
+desarrolla su actividad la empresa es determinante en la definición de su sistema
+de gobierno.
+Cuando los derechos de propiedad están muy distribuidos entre pequeños
+accionistas, éstos tienen pocos incentivos para supervisar a la dirección influyendo
+en el Consejo de Administración a través de la Junta General de Accionistas. El
+pequeño accionista está convencido que su actuación y comportamiento personal
+va a influir muy poco en la marcha de la empresa, y que de hacerlo se beneficia­
+ría mínimamente de su esfuerzo. Estamos frente a la situación típica de pasajero sin
+billete. Parece entonces que la solución pasaría por una estructura de propiedad
+más concentrada que condujera a uno o varios accionistas importantes. Entre otros
+inconvenientes, esta situación no tiene los beneficios derivados de la diversificación
+en la cartera de inversiones, y aunque en tales situaciones los problemas de agen­
+cia se alivian, no se resuelven totalmente, y ello por varias razones. Si el accionis­
+ta tiene menos del 100 por 100, la supervisión puede ser menos eficiente de lo que
+debiera, ya que no recibe el 100 por 100 de los beneficios. Además, el accionista o
+los accionistas principales pueden utilizar su poder en beneficio propio y en detri­
+mento de una mejor gestión de la empresa, que es la que beneficiaría a los accio­
+nistas minoritarios. Finalmente, si, como sucede frecuentemente en la práctica, el
+accionista relevante es institucional (por ejemplo, un fondo de pensiones o de
+inversión, o un banco), los accionistas de estas instituciones pueden tener intere­
+ses distintos del representante de la institución en el Consejo, lo que introduce de
+nuevo otro problema de agencia entre el principal (los accionistas últimos) y el
+agente (el representante de la institución en el consejo).
+En términos generales, puede decirse que la estructura de propiedad en
+los países anglosajones, con EE. UU. a la cabeza, es una estructura dispersa tanto
+en lo que se refiere a fondos propios como a los niveles de deuda, operando en
+un mercado financiero muy líquido en el que los inversores están guiados por cri­
+terios de optimización de su cartera de títulos. Por el contrario, en los países de la
+UE la estructura de propiedad está más concentrada y los mercados son menos
+líquidos. En este esquema, los inversores suelen asumir un papel más activo en su
+compromiso a largo plazo con la empresa, aun a costa de sacrificar oportunidades
+de diversificación y de optimización de su cartera de inversión.
+Indudablemente, cuanto más concentrada está la propiedad, menor es el
+papel de la Junta de Accionistas y del Consejo de Administración. Pero, por otra
+152
+
+
+
+parte, la elevada concentración en la propiedad fomenta la estabilidad, y la pre­
+sencia de accionistas relevantes facilita relaciones de confianza capaces de sostener
+contratos implícitos. En el caso de derechos de propiedad dispersos, el buen
+gobierno de la empresa debe preocuparse fundamentalmente de la protección de
+los intereses de los pequeños accionistas, y en la situación de accionistas relevan­
+tes, de la protección de los minoritarios.
+Tal y como un reciente trabajo de Perold, recogido en The Econom ist
+(2003, 25-31 de octubre, pág. 21), pone de manifiesto, e independientemente del
+punto de vista que se adopte, la definición de la estructura de la propiedad de una
+sociedad cotizada en Bolsa no es una tarea fácil. Por ejemplo, tomando como refe­
+rencia el New York Stock Exchange, el período medio de propiedad de las acciones
+negociadas era en 1960 de aproximadamente ocho años; quince años más tarde, en
+1975, de cinco años; en el año 1985, de dos años, y en lo que va de siglo siempre
+ha sido inferior a un año. Si estos son los datos, no es fácil identificar las estrate­
+gias empresariales que conducen a maximizar el valor de las inversiones que los
+accionistas, es decir, los propietarios, tienen en las empresas cotizadas. En todo
+caso, hay que resaltar que una gran mayoría de los accionistas propietarios lo son
+con el propósito de invertir y no con el de controlar a los gestores de la sociedad.
+Pero ¿qué sentido tiene para propietarios así caracterizados distinguir entre deci­
+siones a corto, medio y largo plazo? y ¿tienen razones de peso los críticos, entre los
+que yo me encuentro, de las decisiones que buscan resultados solamente en el cor­
+to plazo?
+A la situación anterior hay que añadir que, aunque una gran parte de los
+accionistas son personas físicas, más de la mitad no saben las acciones de las que
+son propietarios, ya que las poseen a través de fondos de inversión o fondos de
+pensiones. Estos inversores institucionales, como ya he señalado, se encuentran a
+menudo inmersos en situaciones de conflictos de intereses.
+
+CONSEJO DE ADMINISTRACIÓN
+
+En lo países anglosajones y en parte de los países de la UE el Consejo de
+Administración es unitario, y en Austria, Alemania, Holanda y Dinamarca tiene un
+carácter dual y está estructurado en dos niveles, uno encargado de la labor de
+supervisión y el otro responsable de la gestión ordinaria de la empresa. En el Con­
+sejo de Supervisión, además de los accionistas, están representados los trabajado­
+res. En el consejo dual los miembros de uno no pueden pertenecer a otro, con lo
+que se intenta asegurar una clara diferencia entre la actividad de supervisión y con­
+153
+
+
+
+trol y la actividad de gestión. El Consejo de Supervisión nombra a los miembros del
+Consejo de Gestión. Intentar conseguir con la estructura unitaria alguna de las
+características deseables de la estructura dual es lo que justifica la tendencia actual
+de proponer que en el modelo unitario la figura de la presidencia del Consejo no
+coincida con la del primer ejecutivo.
+En la mayor parte de las empresas los consejos tienen comisiones, entre
+las que cabe destacar la comisión ejecutiva, la comisión de auditoría y cumpli­
+miento, y la comisión de nombramientos y retribuciones. Las últimas normas sobre
+gobierno de las empresas dedican especial atención a las funciones de estas comi­
+siones. En particular, se propone dotar de altos niveles de independencia y capa­
+cidad de decisión a la comisión de auditoría y cumplimiento, en el marco de nor­
+mas contables menos prolijas y más centradas en principios, con el propósito de
+evitar actuaciones que, aunque formalmente sean aceptables, no reflejen la verda­
+dera situación de la empresa.
+El Consejo de Administración está formado por un conjunto de personas
+elegidas, en teoría, por los accionistas, para que en su nombre supervisen y con­
+trolen al equipo directivo. Así planteada, la función del Consejo es muy importan­
+te, pero en la práctica se le presentan dificultades no menores. Los incentivos que
+tienen los consejeros para desarrollar su función hacen que con frecuencia no sean
+especialmente diligentes para llevarla a cabo. En primer lugar, porque si su parti­
+cipación financiera directa no es relevante, la repercusión en sus intereses de los
+mejores resultados de la empresa no será significativa, situación que se agudiza al
+unirse a un coste de oportunidad elevado como consecuencia de ser personas ocu­
+padas y relevantes profesionalmente. En segundo lugar, porque con frecuencia los
+consejeros deben en gran mediada su nombramiento al primer o primeros ejecuti­
+vos, dependiendo también de ellos su continuidad en sus puestos. Esta situación
+de «gratitud» a los ejecutivos, normalmente al presidente ejecutivo, difícilmente pro­
+picia una supervisión efectiva.
+Cuando se producen crisis de gobierno, generalmente con repercusiones
+negativas para los accionistas, suelen tener sus causas más directamente identificables en el mal funcionamiento del Consejo de Administración. Como consecuencia,
+el trabajo del Consejo de Administración ha sido la preocupación principal de los
+informes de gobierno corporativo aprobados en los últimos años en países como
+España, Francia, Alemania, Holanda, Italia, Gran Bretaña y EE. UU., entre otros
+muchos. Algunas de las soluciones propuestas abordan el problema de una mane­
+ra no correcta, ya que con frecuencia tienden al exceso de regulación. Son muchos
+y de diversa índole los conflictos de interés que surgen en la empresa, e intentar
+154
+
+
+
+regularlos todos es una vana aspiración. No debemos olvidar que la esencia del
+gobierno de la empresa tiene su origen en los contratos incompletos y en la rele­
+vancia de quienes tienen asignados los derechos residuales de decisión dentro del
+equipo directivo.
+Como ocurre en otros ámbitos, la adopción formal y voluntaria de códi­
+gos de gobierno de las empresas no es condición suficiente para su buen gobier­
+no. Su implantación efectiva no está relacionada, con frecuencia, con su implanta­
+ción formal, de tal manera que los accionistas y los stakeholders ignoran el grado
+de implantación efectiva del código, y desde luego los mercados no están en con­
+diciones de valorar las prácticas de buen gobierno. Se da la paradoja de que, a
+menudo, los casos de mayor exigencia formal están inversamente relacionados con
+los niveles de exigencia efectiva. El criterio fundamental en esta materia debe ser
+el de la transparencia respecto a la implantación efectiva del código, a su nivel de
+cumplimiento y, en su caso, al régimen de sanciones aplicable.
+La transparencia tiene que ser el primer principio de actuación del Con­
+sejo como elemento fundamental para generar confianza, ya que ésta resulta
+imprescindible para asegurar la viabilidad de cualquier organización a largo plazo.
+Una detenida lectura del informe Higgs, en Gran Bretaña, que dio origen más tar­
+de al llamado código combinado, del informe Cromme de Alemania, del informe
+Bouton de Francia, del Tabaksblat de Holanda, del informe Preda de Italia y, en
+fin, del informe Aldama de España lleva a la conclusión de que las recomendacio­
+nes varían de un país a otro, pero que la transparencia ocupa uno de los primeros
+lugares en todos ellos. De una u otra forma, todos entraron en vigor en el año 2004;
+parecería que éste es el año en el que los consejos de administración han empe­
+zado a vivir virtuosamente. Algunos pensamos que gran parte de este movimiento
+ha sido alentado no sólo por los recientes y conocidos escándalos, sino también
+por la recesión económica y su negativo impacto en los mercados de valores. Mer­
+cados a la baja tienden a hacer inversores más exigentes, y es conveniente no con­
+fundir los comportamientos de los mercados con el buen o mal gobierno de la
+empresa. Desafortunadamente, la exigencia de mayor rigor en el gobierno de las
+empresas suele coincidir con períodos económicos depresivos, rigor que se atenúa
+en los períodos expansivos. Es fácil entender que la situación deseable sería la
+inversa, ya que las fases de bonanza permiten un mayor rigor y prudencia en el tra­
+tamiento contable de determinadas situaciones, con el propósito de anticipar situa­
+ciones futuras no tan favorables.
+Varias son las exigencias y definiciones que los textos legales establecen,
+pero la transparencia debe incorporar aquella cualidad de la información que refle­
+155
+
+
+
+je una imagen fiel (true a n d fa ir view en inglés) por la cual el mercado pueda cono­
+cer en cualquier momento, de modo razonable, la situación financiera de la empre­
+sa, así como la evolución de las variables clave que caracterizan su funcionamien­
+to, junto con las circunstancias internas o extemas que manifiesten la existencia de
+conflictos de interés en el Consejo de Administración.
+La expresión «imagen fiel» se incorporó a la legislación británica en 1948,
+pero ni entonces ni posteriormente legislación mercantil alguna ha ofrecido una
+definición de esta expresión, y con frecuencia se ha dejado a los tribunales la deci­
+sión sobre su significado legal en situaciones concretas. Algunos autores, entre los
+que se encuentran Lee (1986) y Cowan (1965), tratan de definir el concepto de true
+a n d f a i r view en relación con sus dos componentes individuales, otros sugieren
+que los términos true y fa ir juntos significan más que por separado. Una de las defi­
+niciones más convincentes es la propuesta por Lee (1986) en estos términos: «es
+una presentación de las cuentas, llevada a cabo de acuerdo con los principios con­
+tables generalmente aceptados, de forma que reflejen, dentro de los límites de la
+práctica contable actual, una imagen libre de sesgos intencionados, distorsiones,
+manipulación, encubrimiento u ocultación de hechos. Dicho de otro modo, debe­
+rá tenerse en cuenta el espíritu de la ley y, como consecuencia, el contenido ha de
+prevalecer sobre la forma». Algunos autores entienden que true significa texto de la
+ley, la forma en la definición anterior, y fa ir el espíritu de la ley. Para interpretar
+los términos por separado, suele utilizarse el ejemplo dado en Cowan (1965). Un
+capitán de barco se dio cuenta de que el contramaestre bebía mucho y cierto día
+escribió en el diario de abordo: «hoy el contramaestre estaba borracho», lo que era
+al mismo tiempo verdad (trae) y justo (fair). El contramaestre estaba de guardia el
+día siguiente, y como se encontraba molesto por la referencia anterior, escribió en
+el diario de abordo lo siguiente: «hoy el capitán estaba sereno». Esto último era ver­
+dad (true) pero implicaba, al ser resaltado, que esta situación del capitán era un
+hecho poco frecuente, y, por lo tanto, no era razonable o justo (fair).
+En los países anglosajones, el principio de imagen fiel prevalece clara­
+mente por encima de los demás principios contables. A modo de ejemplo, se pue­
+de citar que los inmuebles se valoran a precio de mercado y no se amortizan, a
+menos de que se produzca un desgaste real, de tal manera que su valor se aproxi­
+ma más a la realidad que lo que permite la contabilización de acuerdo con el valor
+de adquisición. De hecho fue la incorporación del Reino Unido a la Comunidad
+Europea la que indujo a incorporar en las correspondientes directivas comunitarias
+la idea de que una información contable fiable debe prevaler sobre la norma estric­
+tamente contable.
+
+156
+
+
+
+La búsqueda de razonabilidad es un instrumento determinante para pro­
+ceder en contra de la llamada contabilidad creativa. No es un tema menor el insis­
+tir en estos aspectos, ya que las normas contables tienen márgenes muy altos que
+permiten la contabilidad creativa. Por ejemplo, y como diversos autores han pues­
+to de manifiesto, en la normativa contable española existen actualmente más de
+cincuenta tipos de operaciones que se pueden reflejar contablemente de formas
+diferentes según el criterio que se escoja o las estimaciones que se realicen. Esta
+ambigüedad no se resuelve con las NIC (Normas Internacionales de Contabilidad)
+que serán obligatorias en la UE a partir del 2005 para las empresas que cotizan en
+Bolsa, y a partir del 2007 para todas las demás. Las NIC ofrecen aún más posibili­
+dades de tratamientos alternativos, aproximadamente 120, pudiéndose aumentar
+con ello significativamente los maquillajes legales. En este contexto, es clara la
+importancia de la idea de imagen fiel frente a la de prolijas reglas contables que
+suelen propiciar la búsqueda de lagunas legales y las prácticas de contabilidad
+creativa.
+
+SOBRE LA INDEPENDENCIA Y COMPETENCIA
+PROFESIONAL DE LOS CONSEJEROS
+
+Un denominador común en las recientes propuestas de reforma de los
+consejos de administración, tendentes a mejorar el gobierno de la empresa, es la
+inclusión de un determinado porcentaje de independientes. Sin lugar a dudas, es
+ésta una medida razonable, que conducirá a que el Consejo tenga independencia
+no sólo respecto a acontecimientos externos, sino también respecto a propuestas
+de carácter interno procedentes del equipo directivo, y en particular del primer eje­
+cutivo. Varios son los criterios que se han dado para definir la condición de con­
+sejero independiente; entre los más utilizados están el que la remuneración como
+consejero no sea una parte sustancial de sus ingresos totales, que no hayan sido
+empleados o auditores, que no exista una relación profesional, de amistad o de
+parentesco y, en fin, que hayan sido elegidos por un sistema transparente y prees­
+tablecido liderado por la comisión de retribuciones y nombramientos. En todo caso,
+hay que reconocer que la condición de independencia es una cualidad de difícil
+especificación, ya que siempre se espera de cualquier buen profesional. Probable­
+mente, una medida válida de independencia consiste en saber si un consejero es
+capaz de decir -no» o «sí» cuando así se lo indiquen sus conocimientos, su expe­
+riencia y su conciencia. Es éste, sin embargo, un criterio de posible aplicación a
+posteriori, pero no a priori, es decir, antes de llevar a cabo el nombramiento.
+Aunque no ha sido mi propósito hacer hasta ahora referencias concretas,
+posiblemente sea ilustrativo hacerlas en este asunto. Tres son los tipos de conseje­
+157
+
+
+
+ros de acuerdo con la definición del Informe Olivencia. Los dominicales, «que son
+los titulares o representantes de paquetes accionariales con capacidad de influir en
+el control de la sociedad». Los independientes, «que son aquellos que no están
+vinculados con el equipo de gestión ni con los accionistas que pueden influir en
+éste». Los llamados consejeros independientes forman parte del Consejo en razón a
+su alta cualificación profesional, y su función principal consiste en representar y
+hacer valer en el Consejo, de forma ecuánime, los intereses de todos los accionis­
+tas. El informe Aldama añade una nueva categoría: otros, que son normalmente ex­
+ejecutivos de la compañía. Ésta es también, la clasificación que considera el infor­
+me «índice Spencer Stuart de Consejos de Administración» correspondiente al año
+2003 para España. Este índice se ha elaborado sobre la base de 78 respuestas que
+representan un 88 por 100 sobre un total de 89 empresas cotizadas en la Bolsa
+española. Veamos qué dice la encuesta sobre el grado de independencia de los
+consejeros independientes. El 38 por 100 fueron propuestos por el presidente y el
+43 por 100 por los accionistas dominicales. Es decir, más del 80 por 100 de los lla­
+mados consejeros independientes no tienen ese origen; el 20 por 100 restante han
+sido nombrados por una comisión de nombramientos sobre cuya formación mucho
+tiene que ver la opinión de los consejeros ejecutivos. En esta misma encuesta, el
+33 por 100 de los consejeros reconoce no tener los conocimientos necesarios para
+desempeñar su función, y en particular los relativos al sector al que pertenece la
+empresa. Otra encuesta, llevada a cabo en un estudio del IESE por el profesor Rafa­
+el Fraguas, conduce en líneas generales a la misma conclusión. Si además tenemos
+en cuenta el sesgo de los resultados de la encuesta, derivado de las empresas que
+no contestan y de la matizada sinceridad de las contestaciones en encuestas de este
+tipo, podemos afirmar que las cifras anteriores están infravaloradas. Ciertamente, no
+es éste un panorama alentador por mucho que se le superpongan códigos de buen
+gobierno.
+Así las cosas, envueltos en estas equívocas denominaciones de los conse­
+jeros, estamos en una situación parecida al país de Humpty Dumpty de Lewis
+Carroll (1973); recordemos: «Cuando yo uso una palabra — insistió Humpty Dumpty
+con un tono de voz más bien desdeñoso— quiere decir lo que yo quiero que
+diga..., ni más ni menos. La cuestión —insistió Alicia— es si se puede hacer que
+las palabras signifiquen tantas cosas diferentes. La cuestión — zanjó Humpty
+Dumpty— es saber quién es el que manda..., eso es todo».
+La situación descrita, generalizable en menor medida a otros países, entra­
+ña dificultades a la hora de abordar el gobierno de la empresa desde los supues­
+tos teóricos desde los que normalmente se hace. Así, por ejemplo, la teoría de
+agencia supone que es el principal el que mandata al agente, y no, como sucede
+158
+
+
+
+en la realidad, que es el agente, el ejecutivo de la empresa, el que tiene algo que
+d edf sobre el principal. En términos de una analogía política, esto equivaldría a la
+situación en la que el gobernante, el agente en este caso, tuviera algo que decir
+sobre el colectivo que lo elige.
+Los nuevos códigos de gobierno corporativo tienden a propiciar situacio­
+nes en las que «el primer ejecutivo debe poner en riesgo parte de su poder», fun­
+damentalmente con la incorporación de consejeros independientes. Siendo ello
+deseable, es obvio que puede conducir a la formación de centros de poder al mar­
+gen del primer ejecutivo, con lo que esta situación conlleva de riesgo de falta de
+eficacia en le dirección efectiva de la empresa. Con todo lo deseable que es la
+incorporación de consejeros independientes, y después de los múltiples debates
+sobre los sistemas de control y equilibrio de poderes en la empresa, es difícil pen­
+sar, en mi opinión, en un paradigma distinto al del primer y único ejecutivo con
+claras condiciones de liderazgo. Este modelo, con todos sus inconvenientes, será el
+que siga prevaleciendo, concediendo, eso sí, un papel cada vez mayor al control
+de los accionistas relevantes e inversores institucionales, y a la protección de los
+intereses de los accionistas minoritarios. Pero, por otra parte, también hay que
+señalar que el primer ejecutivo que sienta la presencia de consejeros realmente
+independientes como una innecesaria restricción a su autoridad y a su capacidad
+de decisión, o como una amenaza a su permanencia en el puesto, estará hurtando
+a los accionistas en particular, y a los demás agentes que aportan recursos a la
+empresa, los instrumentos necesarios de control y la obligada transparencia a los
+que debe estar condicionada su actividad.
+
+CONCLUSIONES
+
+Existen dos aproximaciones distintas al gobierno de la empresa la finan­
+ciera y la estratégica. La primera considera el gobierno de la empresa como un
+estricto problema de agencia entre directivos e inversores financieros. La segunda,
+como señala Prahalad (1994), debe considerarlo como un mecanismo de creación
+de riqueza mediante el cual los responsables ejecutivos deben equilibrar de forma
+consistente las demandas de todos los implicados en la marcha de la empresa y
+estar sometidos a las disciplinas de cuatro mercados distintos: mercado de produc­
+tos (clientes), mercado de trabajo (capital humano especializado), mercado de tec­
+nología (proveedores) y mercado de capitales (inversores). La creación de riqueza
+para los accionistas dependerá de la capacidad de los directivos para gestionar la
+empresa en este entorno; el éxito en uno de estos mercados no es suficiente para
+asegurar una gestión adecuada.
+159
+
+
+
+En la última década han aparecido, sólo en los países de la UE, más de
+cuarenta códigos de gobierno de la empresa, a los que se han unido muchas dece­
+nas de normas legales que los recogen y desarrollan total o parcialmente. Así en
+España se puede hablar del Informe Olivencia (1998), la Ley Financiera (1992), el
+Informe Aldama (2003), la Ley de Transparencia (2003), y varias normas legales de
+desarrollo. En esta situación de exuberancia de reglas, cabe recordar a Douglas
+North (1990) y su caracterización de las instituciones por tres de sus dimensiones.
+En primer lugar, la dimensión formal, en la que se encuentran el conjunto de norttías legales y las organizaciones políticas y económicas. En segundo lugar, la
+dimensión informal, representada por los sistemas de valores que condicionan el
+comportamiento de los ciudadanos. En tercer lugar, los mecanismos que garantizan
+el cumplimiento de las normas y contratos.
+Existe en materia de códigos de buen gobierno de la empresa, como en
+tantas otras/ el riesgo de exceso de regulación formal, mientras que los comporta­
+mientos informales se mueven en otra dirección, de tal manera que la implantación
+efectiva de .los códigos es de muy difícil valoración, y los mecanismos que obligan
+a su cumplimiento, de dudosa operatividad.
+~4
+
+Se h j comprobado que existe una estrecha relación entre la estructura de
+propiedad efe las empresas y los sistemas de gobierno de los distintos países con
+sus sistemas legales. No parece razonable proponer códigos de gobierno sin tener
+en epentada realidad concreta a la que van a ser aplicados; en particular, como es
+el caso de España, trasladar sin precaución alguna códigos y experiencias anglo­
+sajonas a un entorno caracterizado por un sistema legal distinto, de origen fran­
+cófono.
+
+REFERENCIAS
+C a r r o ll , L. ( 1 9 7 3 ) ,
+
+Alicia a través del Espejo,
+
+C o a s e , R. ( 1 9 3 7 ) , “T h e n atu re o f th e firm»,
+
+O . E. W
+
+/
+
+illia m so n
+
+M adrid, A lianza Editorial.
+
+Económica, vol. 4 , p ág s. 3 8 6 -4 0 5 , reim p re so en
+The Nature o f the Firm: Origins, Evolu-
+
+y S. W in te r (e d s .), 1 9 9 1 ,
+
+tion, Development,
+
+N u eva Y o rk , O xfo rd U niversity P ress, p ág s. 1 8 -3 3 .
+
+C o w a n , T. K. ( 1 9 6 5 ), “A re truth an d fairness g en erally acceptable?»,
+
+Accountíng Review,
+
+vol. 4 0 , p ág s. 7 8 8 -7 9 4 .
+J e n se n , M. C., y W . H. M eck lin g ( 1 9 7 6 ), “T h e o ry o f th e firm: m an agerial behaV iour, a g en ey
+
+co sts an d o w n ersh ip structure», Journal
+
+360.
+160
+
+o f Financial Economics,
+
+vo l. 3 , p ág s. 3 0 5 -
+
+
+
+L e e , G. A. ( 1 9 8 6 ) ,
+
+OCDE (1 9 9 9 ),
+—
+
+Modem Financial Accounting,
+
+B erk shire (U K ), V an N o stran d R einhold.
+
+OCDE Principies o f Corporate Govemance,
+
+(2 0 0 4 ),
+
+París, O CD E.
+
+OCDE Principies o f Corporate Govemance,
+
+draft rev ised te x t, e n e ro 2 0 0 4 ,
+
+París, OCDE.
+P ra h a la d , C. K. ( 1 9 9 4 ) , -C o rp o rate g o v e m a n c e o r c o rp o ra te v alu é ad ded ? R ethinking th e pri-
+
+m a c y o f sh a re h o ld e r valué», Journal o f Applied Corporate Finance, vo l. 6 , p ág s. 4 0 50.
+N o r t h , D . C. ( 1 9 9 0 ),
+
+Institutions, Institutional Change and Economic Performance,
+
+C am ­
+
+b rid g e, C am b rid g e U niversity Press.
+S h le ife r A ., y R. W . V is h n y ( 1 9 9 7 ), *A su rv ey o f c o rp o ra te g o v em an ce»,
+
+Journal o f Finance,
+
+vo l. 5 2 , p ág s. 7 3 7 -7 8 3 .
+W illia m so n , O . E. ( 1 9 7 5 ) ,
+
+—
+
+( 1 9 8 6 ),
+
+Markets and Hierarchies,
+
+Economic Organizatíon,
+
+N u eva Y o rk , N ew Y o r k U niversity Press.
+
+Z in c a l e s , L. ( 1 9 9 8 ), «C orporate g o v em an ce», e n
+
+and Law,
+
+N u eva Y o rk , T h e F re e Press.
+
+The New Palgrave Dictionary o f Economics
+
+P. N ew m an (e d .), N u eva Y o rk , M acm illan.
+
+161
+
+
+
+

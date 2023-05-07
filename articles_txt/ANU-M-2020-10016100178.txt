@@ -1,0 +1,600 @@
+EL IMPACTO EN LA SOCIEDAD DE LA ERA
+DIGITAL
+Intervención del Excmo. Sr. D. Juan-Miguel Villar Mir
+Académico de Número
+el 24 de noviembre de 2020
+
+Excelentísimo Señor Presidente de esta Real Academia de Ciencias Morales y Políticas.
+Excelentísimos Señoras y Señores Académicos.
+En mis últimas dos presentaciones en esta Real Academia, que tuvieron
+carácter esencialmente tecnológico sobre aspectos digitales, me referí a «La nueva era digital» el 20 de junio de 2017 y a «Los retos de la era digital» el 26 de
+febrero de 2019. Hoy mi presentación pasa a poner de manifiesto cómo la sociedad se va enfrentando y se adapta a esos cambios tecnológicos, modificando
+incluso su día a día, para asimilar la actual transformación tecnológica. Y en ese
+camino, estoy realizando esta presentación con apoyo digital.
+LÁMINA 1
+
+Estructuraré mi intervención en seis
+partes diferenciadas:
+
+1. Analizaré primero cómo la innovación es la razón de los cambios que van
+dando forma a la nueva sociedad.
+2. Comentaré luego cómo las llamadas cuatro revoluciones industriales, las aparecidas hasta la fecha, han ido transformando la
+sociedad hasta llegar ya a la sociedad digital.
+3. Compartiré unas reflexiones sobre los riesgos que presenta esta
+nueva sociedad digital y sobre la seguridad en este nuevo escenario.
+4. Hablaré sobre el cambio que estamos viviendo en la economía.
+
+161
+
+
+
+5. Presentaré unos comentarios sobre la Inteligencia Artificial y algunas de sus nacientes aplicaciones.
+6. Y terminaré comentando el efecto de estos cambios en la sociedad.
+1. INNOVACIÓN Y SOCIEDAD
+La definición precisa de innovación es la de «acción de aumentar el
+valor añadido de un proceso o de un producto por la aportación de conocimientos».
+La Real Academia Española define adecuadamente innovar como: «Mudar o alterar algo, introduciendo novedades».
+La innovación, por tanto, consiste en avances por la aplicación de conocimientos, lo que exige impulsos de creatividad.
+• La creatividad es un elemento fundamental. Se trata de que las personas aporten talento e ideas con el objetivo de avanzar.
+• Para innovar tenemos así que ser capaces de asumir riesgos, avanzando hacia productos o procesos que introducen novedades.
+• Para innovar es necesario usar los avances tecnológicos que ya existen a nuestra disposición.
+• Para llegar a la innovación es necesario pasar por las fases previas
+de investigación y desarrollo:
+En la fase de investigación aportamos tiempo y dinero para ensanchar los límites del conocimiento científico. Y en la fase de desarrollo dedicamos tiempo y dinero a aplicar los conocimientos científicos
+a la realidad, función característica de la ingeniería.
+• La fase de innovación es la única en la que debemos recuperar el
+dinero invertido en las etapas de investigación y desarrollo, ya que
+al innovar producimos más valor añadido en los productos y procesos, gracias a que aplicamos los nuevos conocimientos alcanzados
+en las fases previas de investigación y de desarrollo.
+ciedad.
+
+Y así resulta una secuencia inevitable de I+D+I en el avance de la so-
+
+Me permito en este punto hacer una mención sobre que España es
+débil en investigación y en desarrollo; y de hecho llevamos muchos años queriendo dedicar a las tareas de investigación y desarrollo al menos el 2% de
+
+162
+
+
+
+nuestro PIB y seguimos aproximadamente en el 1,24%. Pero somos todavía
+más débiles en el campo de la innovación. Actualmente, según el Índice Mundial de Innovación, creado por tres instituciones de prestigio (la Organización
+Mundial de la Propiedad Intelectual, la Universidad de Negocios Cornell de
+Estados Unidos y el INSEAD, una escuela de negocios de gran prestigio en
+París), España ocupa solo el puesto 29 entre los 129 países innovadores del
+mundo. Y dentro del ranking europeo, nos encontramos dentro de un grupo
+retrasado, junto a países como Eslovaquia, Eslovenia, Hungría, Lituania, Malta
+y Polonia.
+Esta posición actual no se corresponde con la que históricamente ha
+vivido nuestro país. España ha sido uno de los países más importantes del mundo en el campo de la creatividad; con ejemplos de pintores, como Goya, Velázquez, Dalí o Picasso; de escritores, como Cervantes, Lope de Vega o Calderón
+de la Barca; y de compositores, como Isaac Albéniz, Enrique Granados o Manuel de Falla.
+También hemos sido uno de los pueblos que más riesgos ha asumido.
+Recordemos en este punto a Cristóbal Colón, Juan Sebastián Elcano, Hernán
+Cortés o Francisco Pizarro, los cuales se lanzaron hacia lo desconocido, logrando grandes descubrimientos. O a héroes españoles que, más que asumir el
+riesgo, convivían con él, como Don Pelayo, los capitanes Daoiz y Velarde o Blas
+de Lezo.
+También hemos sido potencia mundial en avances ingenieriles en el
+campo de la tecnología, con ejemplos como Isaac Peral y su submarino, o Leonardo Torres Quevedo (del que hablaré más adelante) y su teleférico, o Juan de
+la Cierva y su autogiro.
+La investigación, el desarrollo y la innovación, junto a la actitud de
+asumir riesgos, nos han llevado de la mano a la nueva sociedad digital en la que
+ya empezamos a vivir hoy.
+Hoy en efecto contamos con electrodomésticos inteligentes, móviles
+de última generación, asistentes digitales y ordenadores que han superado lo
+imaginable tanto en velocidad como en capacidad de cálculo; y, como es inevitable, esta evolución lleva asociados cambios en nuestras rutinas habituales.
+Por ejemplo hemos pasado, de conocer el estado del mundo a través del papel
+de un periódico, a consultar las noticias a través de dispositivos como los móviles (que son mucho más que teléfonos), las tabletas o los ordenadores. La
+manera de comunicarnos ha cambiado y van quedando lejos los modelos de
+comunicación interpersonal, como el correo postal, que han cedido su lugar a
+la mensajería instantánea, a los correos electrónicos y a las redes sociales, que
+recogen a través de sus bases de datos todos los de aquellas personas que las
+utilizan.
+
+163
+
+
+
+También nuestras Administraciones Públicas se van sumando a esta
+nueva era digital, y algunos procedimientos, como la declaración de la renta, ya
+se realizan exclusivamente de manera electrónica. Y del mismo modo, el Registro de la Propiedad, por ejemplo, nos permite obtener una nota simple de
+nuestra vivienda con tan solo hacer un clic en nuestros dispositivos.
+Por otro lado, organismos como el Ministerio del Interior, y más en
+concreto el Cuerpo de Seguridad de la Guardia Civil, también se van valiendo
+de estas nuevas tecnologías para mejorar sus servicios y controles. Una de estas
+iniciativas está siendo ya el control del tráfico por medio de drones.
+Así podemos decir que estamos pasando de ser una sociedad tradicional a ser una sociedad digital.
+Como consecuencia, el día a día de las próximas generaciones distará
+mucho del nuestro. Cuando se levanten por la mañana, se encontrarán con las
+persianas levantadas, el agua de la ducha preparada en su temperatura justa y
+su café caliente; todo ello gracias a su sistema de domótica. Y mientras tomen
+el desayuno su asistente virtual les informará de qué está pasando en el mundo
+y de las noticias relevantes en función de sus intereses.
+Una vez en su oficina, a la que habrán llegado en un coche autónomo
+o en un dron, en ambos casos sin necesidad de conductor, no estarán en ningún momento desconectados del mundo, ya que su dispositivo móvil o su ordenador les brindarán en tiempo real el acceso a toda la información. Así mismo, podrán reunirse con gente de cualquier parte del mundo gracias a la
+telepresencia, sistema de videoconferencia que permite mantener una reunión
+entre personas que se encuentran en diferentes puntos geográficos de una forma totalmente natural, por lo que reuniones de todo tipo se realizarán cada vez
+más a través de estos medios.
+Y para terminar el día, encontrarán las tareas domésticas ya realizadas
+por su asistente virtual, así como su programación favorita proyectada en su
+televisor inteligente.
+2. LA TRANSFORMACIÓN DIGITAL
+Desde que, en el último tercio del siglo xviii, en 1776, surge la llamada
+primera revolución industrial con el escocés James Watt que inventa la máquina de vapor, la sociedad se ha visto inmersa en las hoy llamadas cuatro revoluciones industriales que han generado cambios a todos los niveles. En la
+primera, como acabo de comentar, la pieza clave fue el aprovechamiento eficaz
+de la energía del vapor, que permitió sustituir el trabajo manual del hombre y
+de otros animales por el de las máquinas.
+
+164
+
+
+
+LÁMINA 2
+
+Watt demostró que se podía utilizar la
+máquina de vapor en lugar, por ejemplo, de la
+tradicional fuerza de un caballo. Para ello creó
+la unidad de potencia «Caballo de vapor (CV)»,
+basándose en que un caballo, como animal,
+era capaz de levantar un peso de 75 kg a una
+altura de un metro en un segundo; y desde
+entonces un caballo (CV) es la potencia necesaria para generar una energía de 75 kilográmetros (kilos x metros) en un segundo.
+
+Y desde ese momento, se aplican fuerzas distintas de las de los animales, los talleres se transforman en fábricas y en la sociedad aparecen nuevos
+conceptos, como los de obrero industrial e ingeniería industrial.
+A principios del siglo xx, la aparición del gas y del petróleo como nuevos combustibles y del motor eléctrico como nueva fuerza motriz fueron la base
+de la que hoy se ha dado en llamar segunda revolución industrial, con la
+definición del vatio (W) y del kilovatio (kW) como unidades de potencia eléctrica, equivalente esta última a 1,35962 Caballos de Vapor (CV); es decir a
+101,97 kilográmetros en un segundo. Y Henry Ford es el mayor innovador en
+la reciente industria, con su aportación de la cadena de montaje en movimiento,
+la cual hizo posible el abaratamiento y la vulgarización del automóvil, consiguiendo así el nuevo modelo de la actual sociedad, prácticamente «sobre ruedas».
+Hacia la segunda mitad del siglo xx, los avances en las tecnologías de
+la información y la comunicación (TIC) dieron lugar a lo que se definió como
+la Sociedad de la Información, con la incorporación de los ordenadores, impulsores de la hoy llamada tercera revolución industrial.
+Y, por último, ahora nos encontramos inmersos en la llamada cuarta
+revolución industrial, basada en los nuevos avances tecnológicos producidos
+en la última década y que han permitido evolucionar hacia la llamada Industria 4.0, con la denominada era digital, que es consecuencia de una gran generalización de uso de la informática, es decir del ordenador, especialmente en
+las comunicaciones.
+Las anteriores revoluciones originaron cambios muy profundos a nivel
+social, tecnológico y económico.
+Estos cambios fueron grandes logros y, aunque no tuvieron un efecto
+inmediato en la sociedad, en el largo plazo supusieron un impacto innegable.
+Sin embargo, los cambios originados por la revolución en la que estamos inmersos hoy tienen ya un gran efecto en el corto plazo, además de implicar a
+
+165
+
+
+
+prácticamente todo el conjunto de la sociedad, gracias a la denominada Transformación Digital. Este concepto se refiere a la aparición de cambios asociados con la adopción de los avances que ya se están produciendo en las nuevas
+tecnologías de informática y comunicación en todos los ámbitos; en la industria,
+en la ciencia, en las relaciones sociales y en los negocios.
+Estos conceptos no se refieren a esas tecnologías como un hecho aislado. Se refieren también a que hemos de cambiar, y ya estamos cambiando, los
+modelos de negocio y la forma en que actúan todos los actores implicados.
+Y así, para poder avanzar más, pasa a ser necesario aumentar la productividad «pensando en digital».
+En este sentido, la aparición a nivel mundial de la pandemia del coronavirus ha dado un gran impulso a la digitalización, aumentando las actividades
+no presenciales.
+LÁMINA 3
+
+De este modo, durante esta crisis
+mundial, numerosas empresas de diversos
+sectores han acelerado sus procesos de digitalización, gracias a los cuales han sido capaces
+de mantenerse operativas y de continuar con
+su actividad habitual, sin tener que recurrir al
+cierre o sin tener que tomar medidas como
+despidos o ERTES (Expedientes de Regulación
+Temporal de Empleo) de sus empleados.
+
+El teletrabajo y el comercio por internet han resultado ser la salvación
+para numerosas compañías en un momento en el que la presencia de los empleados en las oficinas resultaba inviable. Según un estudio de Randstad, compañía holandesa de primer nivel mundial en la gestión de recursos humanos, el
+61% de las compañías de nuestro país implementaron el teletrabajo durante
+este periodo. Otras empresas, sin embargo, no pudieron adaptarse y se vieron
+obligadas a desaparecer.
+Si bien el teletrabajo ya era una tendencia al alza antes de la crisis, el
+proceso de implantación de esta medida se ha visto acelerado por las circunstancias, revelándose como una fórmula que potencia la productividad y que
+ahorra costes asociados a la actividad presencial.
+Asimismo, el comercio a través de internet ha sido también uno de los
+grandes protagonistas durante este periodo. Como muestran los datos, la evolución del comercio tradicional al comercio en tiempo real ya era conocida de
+manera previa a la COVID-19. De hecho, según la Comisión Nacional de los
+Mercados y la Competencia (CNMC), en España se incrementó el comercio
+
+166
+
+
+
+electrónico en el segundo trimestre de 2019 un 28,6% respecto al año anterior,
+alcanzando casi los 20.000 millones de euros. Y durante esta crisis el comercio
+electrónico se ha revelado como una medida absolutamente fundamental para
+muchos negocios que, sin esta posibilidad, habrían desaparecido o acusado
+grandes pérdidas. Cabe resaltar cómo cadenas textiles de cierto nivel han visto
+cómo su facturación habitual se ha visto reducida durante estos meses si no han
+ofrecido a sus clientes un servicio de compras a través de internet.
+Por otro lado, según un artículo de El Economista sobre un estudio
+de la compañía norteamericana Comscore ubicada en Virginia, el uso de las
+redes sociales durante la pandemia aumentó un 55%, ya que estas se convirtieron prácticamente en la única forma de hablar con nuestros seres queridos
+y allegados; y, en general, la utilización del teléfono móvil se incrementó en
+un 38,3%, tanto en lo relativo a la realización de llamadas como al uso de
+internet.
+
+3. LOS RIESGOS Y LA SEGURIDAD EN LA NUEVA SOCIEDAD
+DIGITAL
+Es importante mencionar algunos de los principales riesgos que pueden afectar a esta nueva sociedad digital, entre los que se encuentra la denominada «nube».
+Este término se utiliza para describir una red mundial de servidores
+públicos remotos que están conectados entre sí para funcionar como un único
+ecosistema de almacenamiento de la información que compartimos en esta sociedad digital.
+Y debemos tener en cuenta que cuanto más avanzamos en este tipo de
+tecnología, mayores son los posibles riesgos que puede conllevar la denominada nube.
+Uno de estos riesgos es la captación de datos que realizan algunas
+grandes compañías para utilizarlos, generalmente, como una ventaja competitiva frente a sus rivales. Estos datos provienen de las interacciones de todos los
+dispositivos que están conectados. Gracias a ellos, se pueden conocer los patrones de comportamiento de las personas y sus hábitos, con el objetivo de
+utilizarlos con fines comerciales o, lo que es peor, con fines delictivos.
+En base a esta realidad debemos pensar que las tendencias pueden
+dirigirse a un mayor control de nuestro ámbito privado. De hecho, en la mayoría de los casos, la información es facilitada por los propios usuarios, que proporcionan cantidades ingentes de datos que luego algunas empresas transfor-
+
+167
+
+
+
+man en valiosa información. Un claro ejemplo de ello fue la compra por parte
+de Facebook en 2014 de WhatsApp, aplicación de mensajería instantánea y
+medios sociales, por el precio elevadísimo de unos 22.000 millones de dólares,
+al permitir a Facebook acceder a todos los datos de los usuarios de dicha aplicación, considerándolo claramente una ventaja ante sus competidores comerciales. Facebook fue una de las primeras redes sociales. Fue creada en 2004 por
+un estudiante de la universidad de Harvard llamado Mark Zuckerberg y hoy
+cuenta con más de 2.449 millones de usuarios, aproximadamente el 30% de la
+población mundial.
+¿Cuáles son los límites que se están manejando frente a este mercado
+de datos? En España, la nueva Ley Orgánica de Protección de Datos que entró
+en vigor el 5 de diciembre de 2018, en su Título X, Garantía de los Derechos
+Digitales, acomete la tarea de reconocer y garantizar un elenco de derechos
+digitales de los ciudadanos conforme al mandato general establecido en la
+Constitución sobre la privacidad de los datos personales.
+Y me permito, también, destacar otro problema de esta sociedad digital. Debido al uso de las nuevas tecnologías, se ha potenciado el tema de las
+fake news (noticias falsas que suelen abundar en internet) y de los deep fakes
+(vídeos que no son reales, ya que están manipulados).
+Naturalmente, una de las mayores preocupaciones de nuestra sociedad
+es la preservación de la seguridad de nuestros datos y de las transacciones que
+realizamos. Una de las tecnologías con más fuerza para poder asegurar dichas
+transacciones es la Blockchain.
+¿En qué consiste realmente la Blockchain?
+Esta tecnología es una base de datos de acceso restringido, distribuida
+y custodiada entre diferentes participantes (una red de ordenadores), protegida
+mediante algoritmos que cifran la información y consiguen que sea prácticamente imposible acceder a ella sin la debida autorización. A esta definición
+podemos añadir que la Blockchain es también inmutable y verificable, ya que
+las transacciones quedarán registradas y no podrán ser modificadas, aunque se
+puede siempre realizar un completo seguimiento de estas. Así, los sistemas
+blockchain permiten que partes que no confían plenamente unas en otras puedan llegar a un consenso sobre los elementos que comparten.
+Las principales ventajas de este tipo de tecnología son:
+• Seguridad. Gracias a todos los métodos de encriptación, al acceso de
+los participantes y la custodia en los múltiples ordenadores que
+componen la red, la Blockchain, proporciona un alto grado de seguridad. De este modo, si hubiese un intento de alterar cualquier infor-
+
+168
+
+
+
+mación en un ordenador, sería detectado por el resto de los ordenadores de la red.
+• Rapidez en las transacciones, al no haber ningún tipo de interacción
+humana.
+• Disponibilidad 24 horas los 365 días del año.
+• Ahorro de costes en las tasas de las transacciones (peajes, aranceles
+o comisiones).
+• Total transparencia de las transacciones.
+Actualmente, el Departamento de Defensa de los Estados Unidos, en
+concreto la Agencia de Proyectos de Investigación Avanzada de Defensa (Defense Advanced Research Projects Agency, DARPA), está llevando a cabo un proyecto donde utiliza la tecnología Blockchain para realizar protocolos que aseguren
+mensajes y contactos dentro de la red de comunicaciones de la defensa.
+
+4. LA EVOLUCIÓN DE LA ECONOMÍA EN LA NUEVA SOCIEDAD
+DIGITAL
+La economía también ha sufrido un gran cambio gracias al avance de
+las nuevas tecnologías. Incluso se define un tipo nuevo de economía, la economía digital.
+Este tipo de economía se compone de dos elementos principales:
+• E-business: concepto que recoge todo tipo de actividades de negocio que se realizan en el mundo digital.
+• E-commerce o comercio electrónico: sistema de compra y venta de
+productos o servicios a través de medios digitales.
+Esta economía incrementa la conexión y el comercio internacional de
+manera más sencilla y rápida, y se ve impulsada también por la aparición de
+las criptomonedas. Una criptomoneda, también llamada moneda virtual, es
+dinero digital. Eso significa que no hay monedas ni billetes físicos. Las criptomonedas se pueden comprar a través de cualquier entidad financiera e incluso
+con una tarjeta de crédito, y entre las más importantes se encuentra el bitcoin,
+creada por el matemático y criptógrafo japonés Satoshi Nakamoto en 2008.
+
+169
+
+
+
+Otras potencias mundiales, como China, están evaluando crear su propia divisa digital desde su Banco Central.
+Rusia, por su parte, apuesta por este tipo de economía como una de
+sus principales estrategias para mejorar la situación del país. De hecho, se está
+planteando desarrollar para 2024 una legislación para modernizar infraestructuras e introducir prácticas digitales y están trabajando en una red exclusivamente rusa que nadie pueda interceptar en el marco de un nuevo programa nacional de economía digital.
+La Unión Europea también está desarrollando sus líneas de inversión
+en este tipo de economía, como la iniciativa Horizonte 2020. Este Programa
+Marco de Investigación e Innovación de la Unión Europea para el periodo
+2014-2020 tiene como objetivo financiar iniciativas y proyectos de investigación,
+desarrollo tecnológico e innovación, dentro de los cuales se encuentra también
+la economía digital.
+Como toda corriente innovadora y emergente, este tipo de economía
+digital presenta el problema de la guerra abierta para conseguir la supremacía
+de este modelo financiero. Así ha sucedido en el caso del gigante tecnológico
+chino Huawei, líder en fabricación de todo tipo de componentes, tanto de
+ordenadores como de comunicaciones, al cual se le prohibió el 15 de mayo
+de 2019 el comercio en suelo estadounidense, así como establecer negocios
+con empresas del país, pasando a formar parte de la lista de entidades censuradas en ese territorio. Hay que tener en cuenta que hasta hace muy poco
+tiempo, este tipo de tecnologías las lideraban principalmente compañías norteamericanas.
+Esta medida se percibió como una acción de EE. UU. para proteger sus
+cadenas de suministro y de tecnología de la información, algo que fue aumentando la tensión entre el país norteamericano y China. Aunque meses más tarde
+se buscó una cierta solución para la situación, la tensión entre los dos países
+sigue existiendo.
+Por último, es importante apuntar que, por razones más generales, la
+situación de la economía mundial se encuentra en un proceso de cambio, tal y
+como indicaba el diario El Economista en un artículo del pasado 14 de octubre
+de 2020. China ya es la segunda economía más grande del mundo con un
+PIB (en dólares corrientes) de más de 14 billones de dólares. Ha superado a
+la zona euro (13,4 billones), y, aunque todavía EE. UU. continúa siendo la primera economía global con un PIB de 21,3 billones de dólares, todos los indicadores predicen que este año se reducirá la distancia ante la recuperación de la
+economía china en la crisis de la COVID-19.
+
+170
+
+
+
+De este modo, EE. UU. continúa siendo la economía más grande del
+globo, con un peso del 27,3% en el PIB mundial. Después de años de rápido
+avance, China (17,9%) ha superado a la zona euro (17,1%) para auparse en la
+segunda posición. Japón (6,5%) ha ocupado el cuarto lugar, mientras que India
+(3,7%) ha adelantado al Reino Unido (3,6%), completando el top 5.
+Estos cinco países principales representan casi tres cuartas partes de
+toda la producción (PIB) de bienes y servicios del mundo. El Reino Unido,
+Brasil, Canadá, Rusia y Corea completan el top 10.
+La zona del euro continúa perdiendo importancia en el escenario mundial. De hecho, su peso ha tenido una tendencia a la baja desde que marcara
+su máximo de poco más del 25% del PIB global en 2011. Y Corea, Argentina y
+Brasil fueron los siguientes grandes perdedores de 2018 a 2019 en términos de
+participación en el PIB mundial.
+LÁMINA 4
+
+Los economistas vaticinan que China
+debería experimentar el mayor avance en la
+cuota global en el año 2020, pues se estima
+que el peso de su PIB suba 1,1 puntos, hasta
+superar el 19%.No se espera que Estados
+Unidos pierda demasiado en este ranking. El
+avance de China, probablemente, se producirá una vez más a expensas de la zona euro,
+junto con las pérdidas en el Reino Unido y la
+India.
+
+Otra forma de medir el peso de cada economía en el mundo es a
+través del PIB en Paridad de Poder Adquisitivo (PPA). El PIB PPA permite la comparación entre países eliminando las distorsiones que generan los
+diferentes niveles de precios existentes entre ellos. Se refiere al conjunto de
+bienes y servicios finales producidos en un país durante un año, pero en
+lugar de tomar los precios de ese país (y convertirlos a dólares), se toman los
+precios de cada producto o servicio en EE. UU. y se hace que esos precios
+sirvan de base de cálculo para todos los países. Lo que equivale a tomar toda
+la producción final de un país, como China, y ponerla a precios de Estados
+Unidos.
+Con este criterio, la economía china es la más grande del mundo y
+supone el 22,7% del PIB global. La economía de EE. UU. representa el 17,8% y
+la de la zona euro el 13,2%. Las economías emergentes salen ganando a la hora
+de analizar el PIB en PPA, y suman el 58% de toda la producción mundial frente al 42% de los países desarrollados.
+
+171
+
+
+
+5. LA INTELIGENCIA ARTIFICIAL
+LÁMINA 5
+
+Pasamos a considerar la llamada Inteligencia Artificial. Y celebro comenzar este
+apartado haciendo referencia y elogiando a
+Leonardo Torres Quevedo (1852-1936), ingeniero de caminos cántabro, matemático y
+uno de los genios españoles menos conocidos. Algunos de sus inventos más conocidos
+fueron:
+
+• El Spanish Aerocar, el primer teleférico, el cual inauguraba en 1916,
+hace más de cien años, en las cataratas del Niágara; y sigue operativo hoy.
+• El dirigible Astra-Torres, que tenía la ventaja de ser flexible gracias a
+un armazón de cables que podían plegarse ofreciendo las mismas
+prestaciones que los dirigibles rígidos como el Zeppelin.
+• El «Telekino», el primer aparato de mando a distancia de radio-dirección del mundo, que podría considerarse un antecedente de los
+drones actuales.
+Leonardo fue también compañero nuestro como académico, ya que el
+3 de julio del año 1900 fue elegido Académico de la Real Academia de Ciencias
+Exactas, Físicas y Naturales, dado que entonces no existía la Real Academia de
+Ingeniería. Y fue a partir de esa fecha cuando empezó a realizar sus mayores
+avances en los campos de la computación y de la Inteligencia Artificial. En su
+«Ensayo sobre automática. Su definición. Extensión teórica de sus aplicaciones»,
+ya realizaba referencias a una futura Inteligencia Artificial, definiendo el concepto de autómata, y distinguiendo ya a los que imitaban los movimientos del
+hombre de los que simulaban sus acciones. Se aventuraba incluso a afirmar
+—cito textualmente—: «Hay otra clase de autómatas que ofrecen un interés
+mucho más considerable: los que imitan, no los gestos, sino las acciones del
+hombre, y algunas veces pueden reemplazarle». Fue sin duda un adelantado a
+su tiempo, teniendo en cuenta que este ensayo vio la luz en 1914. La figura de
+Alan Turing, a quien el mundo anglosajón ha consagrado como el precursor de
+la Inteligencia Artificial, es muy posterior, dado que su nacimiento se produjo
+el 23 de junio de 1912.
+Sus ideas sobre los autómatas tuvieron como resultado el desarrollo de
+«El Ajedrecista», un sistema electromecánico capaz de ganar a su rival en un
+máximo de 63 movimientos: el humano, con el rey negro como única pieza, se
+enfrentaba a la máquina, que jugaba con la torre y el rey blancos. Podríamos
+
+172
+
+
+
+considerar este autómata como el predecesor de Deep Blue, supercomputadora
+de IBM desarrollada para jugar al ajedrez, que fue la primera que venció al
+campeón del mundo de este deporte, cuando lo era Gary Kaspárov.
+Hoy los sistemas de Inteligencia Artificial son capaces de realizar tareas
+—como hablar, procesar textos o reconocer imágenes— tomando como referencia la inteligencia humana y adoptando cada vez más características propias
+de esta. Algunos estudiosos en la materia, por ejemplo Nick Bostrom, profesor
+de Éticas Aplicadas y director del Instituto para el Futuro de la Humanidad de
+la Universidad de Oxford, creen que en el futuro la Inteligencia Artificial se
+transformará en una superinteligencia que será capaz de hacer todo aquello
+que hace el cerebro humano, pero mucho mejor y mucho más rápido. Y expresa —y probablemente tiene razón— que el cerebro humano es capaz de aprender cosas nuevas muy rápido, mientras que la Inteligencia Artificial necesita un
+gran número de ejemplos para adquirir el aprendizaje, lo que hace que el proceso sea más lento, si bien, una vez completado ese proceso, la resolución de
+problemas por parte de la Inteligencia Artificial es más rápida.
+Presentaré algunos ejemplos de cómo la Inteligencia Artificial ya está
+influyendo tanto en algunos procesos cotidianos, como en otros que no lo son
+tanto.
+5.1 Algunas tecnologías de la inteligencia artificial
+5.1.1 Diagnósticos médicos digitales
+La Inteligencia Artificial está ya siendo fundamental en los avances en el campo
+de la medicina. Un ejemplo de ello es una
+iniciativa española llevada a cabo por un joven cardiólogo, Manuel Marina, miembro del
+Consejo Nacional de Cardiólogos Deportivos
+e investigador del CNIC (Centro Nacional de
+Investigaciones Cardiovasculares), y ahora
+también CEO y cofundador de IDOVEN, empresa dedicada a la detección de problemas
+cardíacos a través de la Inteligencia Artificial.
+LÁMINA 6
+
+Su sistema estudia el corazón del paciente durante días o semanas,
+tomando 250 muestras por segundo mediante una camiseta monitorizada con
+un dispositivo que permite registrar el ritmo cardíaco. Para un seguimiento de
+diez días, esto se traduce en unos 216 millones de datos, que son analizados
+por el equipo de IDOVEN que, con la ayuda de sus algoritmos de Inteligencia
+Artificial, convierte los patrones de millones de latidos en información médica
+
+173
+
+
+
+clínicamente relevante, que sirve como base al cardiólogo para diagnosticar y
+prever posibles alteraciones de la actividad cardíaca, arritmias y otras.
+Esta técnica ha ayudado a reducir drásticamente el tiempo que necesita el cardiólogo para obtener un diagnóstico de alta precisión correcto, cuando
+surge el problema, además de suponer una significativa reducción de los costes
+del proceso.
+Otro ejemplo de la utilización de esta tecnología en el campo de la
+medicina es la técnica del paciente digital, que consiste en la representación
+virtual de una persona, con las mismas características y síntomas que presenta
+en la realidad. De esta manera, los médicos pueden aplicar diversos tratamientos al «paciente digital» y seleccionar para el paciente real el que mejor resultado
+ofrezca, consiguiendo así un tratamiento más efectivo y teniendo un mayor
+control sobre los efectos de este.
+5.1.2 Libratus (inteligencia artificial en el póquer)
+Ya es conocido el caso del Deep Blue, el ordenador de IBM capaz de
+vencer al campeón mundial de ajedrez Gary Kaspárov. Ahora, más difícil todavía, un equipo compuesto por desarrolladores de Facebook y de la Universidad
+Carnegie Mellon han desarrollado un programa, denominado «Libratus», que,
+aplicando técnicas de Inteligencia Artificial, ha conseguido vencer en una partida a cuatro jugadores profesionales de póquer. Esto resulta extremadamente
+difícil para una máquina, debido a la imprevisibilidad de las acciones de los jugadores, incluyendo sus jugadas «de farol». Además, deberá seleccionar sus acciones de una forma apropiada, para que el oponente no adivine su estrategia.
+5.1.3 Los aeropuertos
+Aena está implantando en los aeropuertos sistemas de Inteligencia Artificial para un reconocimiento facial biométrico que compara los rasgos faciales
+con los registrados en las bases de datos de la policía. El objetivo de esta medida
+es proporcionar a los viajeros una mejor experiencia del viaje, así como agilizar
+los procesos propios del aeropuerto, e incluso aumentar su seguridad. La primera prueba se realizó en el aeropuerto de Menorca, en un vuelo de Air Europa,
+donde algunos pasajeros dieron su consentimiento y participaron de forma voluntaria, accediendo a la zona de embarque y al avión utilizando solamente sus
+semblantes. Este sistema incluye también una verificación de documentos y la
+incorporación de un sistema que mide movimientos, frecuencia respiratoria y
+otros indicativos de la presencia del individuo con el fin de impedir que se usen
+fotografías, vídeos o máscaras que intenten suplantar a una persona.
+
+174
+
+
+
+5.1.4 Tiendas autónomas y sin cajeros
+Un supermercado donde no haya que hacer cola para pagar los productos es algo que ya es una realidad, y que dentro de unos años se podrá ver
+en todas las partes del mundo, aunque de momento solo está presente en Estados Unidos. Son las denominadas tiendas sin cajeros de Amazon, donde se
+pueden adquirir productos sin tener que hacer cola para pagarlos. En estas
+tiendas, el cliente pasa su teléfono móvil por un sensor y realiza las compras
+adquiriendo los productos que desea. Gracias a los sensores y cámaras instalados en la tienda, Amazon reconoce los productos adquiridos y los asigna a una
+«cesta» virtual. Una vez que el cliente abandona la tienda, el cargo se le realiza
+de forma automática en su cuenta en Amazon, sin necesidad de pasar por caja.
+Amazon es pionero, pero empresas como Walmart o Microsoft ya se
+plantean usar el mismo concepto en sus tiendas. Además, algunas de estas compañías estudian implantar en el medio plazo un sistema de drones para realizar
+las entregas de sus productos a domicilio.
+5.1.5 Nuevos traductores
+Investigadores del Massachusetts Institute of Technology, junto con investigadores
+del laboratorio de Inteligencia Artificial de
+Google, han desarrollado un sistema de aprendizaje automático capaz de descifrar lenguas
+muertas a partir de grandes cantidades de textos antiguos. Este sistema fue capaz de traducir dos idiomas perdidos, Linear B (una versión temprana del griego antiguo) y Ugaritic
+(una forma temprana de hebreo). Se basa en
+la premisa de que «las palabras están relacionadas entre sí, independientemente
+del idioma».
+LÁMINA 7
+
+5.1.6 Robots con inteligencia artificial en hospitales
+LÁMINA 8
+
+Durante la pandemia de la COVID-19,
+han surgido una serie de robots que, gracias a
+la Inteligencia Artificial, permitieron reducir el
+contacto entre pacientes y personal sanitario,
+minimizando así el riesgo de transmisión.
+Algunas empresas utilizan estos robots para llevar a cabo entregas o pulverizar
+desinfectantes en zonas públicas. También algunos son utilizados en procesos como la
+
+175
+
+
+
+toma de temperatura, para dispensar geles y desinfectantes o incluso para servir
+comida y medicinas a pacientes.
+5.1.7 Sentencias judiciales digitales
+El retraso que sufre la Justicia provoca situaciones ilógicas, como resoluciones de casos sobre afectados que ya han fallecido y dilaciones constantes
+en los fallos…
+En Estonia, en concreto en Tallin, pretenden acabar con estos problemas mediante la implantación de sistemas de Inteligencia Artificial con la finalidad de agilizar los procedimientos judiciales, permitiendo así resoluciones
+más rápidas. En concreto, nos referimos a «jueces robóticos» que dedicarán la
+mayor parte del tiempo a la conflictividad contractual. El proceso será el siguiente: las dos partes implicadas en el litigio subirán a internet la documentación requerida para el caso, y el juez robot dictará sentencia, que no obstante
+podrá ser apelada ante un juez de carne y hueso.
+Francia, por su parte, también está estudiando en estos momentos la
+posibilidad de aplicar algoritmos de Inteligencia Artificial para la resolución de
+conflictos judiciales menores.
+En España ya se está aplicando la Inteligencia Artificial en casos de
+violencia de género, en concreto en el Sistema de Seguimiento Integral en los
+casos de Violencia de Género (Sistema VioGén), el cual está a cargo del Ministerio del Interior desde el 26 de julio de 2007. Este sistema realiza predicciones
+del riesgo de este tipo de violencia y aglutina información de las diferentes
+instituciones públicas que tienen competencias en la materia. Además, también
+realiza un seguimiento y brinda protección a las víctimas efectuando una labor
+preventiva mediante la emisión de avisos, alertas y alarmas cuando se detecta
+alguna anormalidad.
+
+6. EL EFECTO DE ESTOS CAMBIOS EN LA SOCIEDAD
+Hemos hablado de innovación, de transformación digital, de riesgos,
+de seguridad, de economía y de Inteligencia Artificial. Y hemos de valorar
+cómo afectarán todos estos cambios tecnológicos a la sociedad.
+Mucha gente cree que existe una relación muy estrecha entre la innovación tecnológica y la sensación de bienestar, gracias, por ejemplo, a tecnologías que nos permitirán estar mucho más conectados con todo lo que nos rodea
+y facilitarnos tareas cotidianas como:
+
+176
+
+
+
+– conducir coches autónomos, evitando así el estrés de la conducción;
+– comprar desde el sofá mediante páginas de e-commerce, sin necesidad de hacer cola en los supermercados;
+– ver la última película de estreno sin salir de casa gracias a todas las
+plataformas que ya existen hoy;
+– facilitar el diagnóstico de enfermedades, dada la gran cantidad de
+información disponible sobre pruebas y diagnósticos previos;
+– y, también, lo que algunas personas empiezan a denominar el «Internet on the World» o «internet en todas partes», que nos permitirá estar
+conectados a internet desde casi cualquier tipo de dispositivo, desde
+cualquier parte del mundo y a cualquier hora, con toda la información al alcance de un simple clic.
+Pero esta innovación tecnológica puede acarrear y acarrea también
+inconvenientes.
+Por un lado, estos cambios podrán suponer, por ejemplo, la eliminación de algunos puestos de trabajo tal y como los conocemos actualmente,
+viéndose afectados, sobre todo, los trabajos repetitivos y poco cualificados. Por
+otro lado, surgirán otros puestos nuevos, como, por ejemplo, los detectives de
+datos, personas dedicadas a investigar e interpretar la validez y la importancia
+de los datos para las empresas, o los analistas de machine learning, encargados
+de ayudar al desarrollo y al análisis de los algoritmos cuantitativos.
+Otros de los inconvenientes podrán ser los posibles problemas derivados de una menor interacción social entre las personas. Las nuevas tecnologías
+fomentan el aislamiento social, puesto que las relaciones se establecen cada vez
+más a través de dispositivos como teléfonos móviles, ordenadores, videojuegos
+o redes sociales. Estas nuevas formas de comunicación están sustituyendo, sobre todo entre los más jóvenes, la calidez del contacto humano.
+Por otro lado, también la creatividad puede verse resentida. Todos estos
+dispositivos nos facilitan el acceso a una cantidad ingente de información y recursos, lo que puede hacer que no se trabaje tanto sin el ingenio ni la imaginación. Un ejemplo simple es hoy el de las calculadoras, pues ya pocas personas
+hacen cálculos mentalmente, lo que dificulta mantener en forma sus mentes.
+Y por todo esto, hemos de estudiar cómo estos cambios nos afectarán
+como sociedad. En mi conferencia anterior, terminé formulando dos preguntas:
+
+177
+
+
+
+Primera. En la ecuación Futuro = Ser humano + Inteligencia Artificial.
+¿Puede el hombre llegar a ser prescindible?
+Y segunda. ¿Puede el hombre conseguir que la Inteligencia Artificial respete los valores morales?
+Hoy, termino recomendando a los excelentísimos compañeros de la
+Academia que todos dediquemos atención y tiempo a la gran pregunta del impacto ético y moral que estas nuevas tecnologías basadas en la Inteligencia
+Artificial podrían tener sobre nuestra forma de vida.
+ción.
+
+178
+
+Muchas gracias a todos, Señoras y Señores Académicos, por su aten-
+
+

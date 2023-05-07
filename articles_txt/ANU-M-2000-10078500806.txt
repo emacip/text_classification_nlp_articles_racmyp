@@ -1,0 +1,806 @@
+UNA SOLUCIÓN PARA LA VIABILIDAD
+FINANCIERA DEL SISTEMA DE PENSIONES
+CONTRIBUTIVAS
+Por el Académico de Número
+Excmo. Sr. D . José Barea Tejeiro *
+
+í.
+
+INTRODUCCIÓN
+
+Hace ahora un siglo, se inició en España la implantación de la protección
+social con la aprobación, en 1900, de la Ley de Accidentes de Trabajo. En los meses
+de abril y mayo de 1889, en esta Academia se planteó la discusión sobre el ante­
+proyecto que sobre dicha cuestión había preparado la Comisión de Reformas Socia­
+les. Hoy, para conmemorar el primer centenario de la Seguridad Social, la Acade­
+mia celebra este acto solemne.
+En el año 1900, a los bienes privados suministrados públicamente que son
+los gastos sociales sólo se les asignaba el 11% del gasto total (0,8% del PIB), pasan­
+do al 59% en 1996 (25,2% del PIB). Ha sido ésta la gran transformación en la
+estructura de servicios suministrados por el sector público. Dentro de este grupo se
+incluyen las prestaciones sociales (pensiones, desempleo y asistencia social), que
+en 1996 absorbían el 14,7 % del PIB (el 0,7 % en 1900), y los bienes preferentes
+(educación, sanidad y vivienda), con una asignación de recursos del 10,6% del PIB
+en 1996 (el 0,2% en 1900).
+Precisamente estos bienes de la protección social han sido los principales
+impulsores del crecimiento del gasto y del déficit; la razón de ello se encuentra en
+que las leyes que otorgan las prestaciones sociales no sólo reconocen los derechos
+subjetivos, sino que además fijan los parámetros que han de servir de base para
+785
+
+
+
+cuantificar estos derechos, convirtiéndose así en un dato para el Presupuesto, sin
+posibilidad de establecer un techo cuantitativo para los mismos que impida su rebasamiento ni su limitación temporal; son partidas de gasto que tienen un crecimien­
+to autónomo, que no dependen de decisiones del Gobierno, a menos que se efec­
+túen reformas estructurales, y en las cuales tiene una gran incidencia la estructura
+demográfica.
+Dentro de las prestaciones de la protección social, las pensiones ocupan
+el lugar preferente, absorbiendo en la actualidad más del 11% del PIB (26% del
+gasto no financiero de las administraciones públicas); en 1900 sólo representaban
+el 0,6% del PIB (8,7% del gasto total). Es precisamente el futuro de las pensiones
+públicas contributivas el tema que voy a abordar aquí, exponiendo las primicias de
+algunos resultados de un libro que sobre el particular estoy escribiendo, fruto de
+las ideas que he ido exponiendo en la última década.
+
+2.
+
+EL OBJETIVO DE UN SISTEMA CONTRIBUTIVO
+DE PENSIONES PÚBLICAS
+
+La pérdida de renta que experimentan las personas en activo como con­
+secuencia del riesgo de vejez es cubierta a través de las pensiones de jubilación.
+Puede decirse que tal riesgo queda asegurado a través de las cotizaciones sociales
+pagadas por los trabajadores y los empresarios.
+Aunque formalmente parte de las cotizaciones sociales son pagadas por
+los empresarios, suponen sin embargo uno de los componentes de las remunera­
+ciones de los asalariados, que comprenden los sueldos y salarios y las cotizaciones
+sociales, siendo por tanto un mayor coste del factor trabajo, haciendo variar su pre­
+cio relativo con respecto a los restantes factores de la producción. En Contabilidad
+Nacional así se hace figurar, de forma que las dos partidas que constituyen las
+remuneraciones de los asalariados figuran como ingreso en la cuenta de renta de
+las familias; con cargo a dicha renta, pagan los trabajadores el total de sus cotiza­
+ciones sociales, tanto las que son a su cargo como las que corresponden formal­
+mente a los empresarios.
+El objetivo de un sistema de pensiones obligatorio y contributivo es dis­
+tribuir la renta personal dentro del ciclo vital de cada individuo, y no redistribuir la
+renta entre clases sociales o entre generaciones. Sólo bajo el enfoque del ciclo vital
+puede entenderse la cuestión, ya que si analizamos la incidencia redistributiva del
+programa de pensiones desde el punto de vista anual, nos resultaría difícil enten­
+786
+
+
+
+der por qué pobres y ricos son gravados ambos con un impuesto sobre la nómina
+de carácter regresivo para proporcionar prestaciones tanto a pobres como a ricos.
+Partiendo de esta base, el profesor Segura1 opina que «la salud financiera
+de dicho sistema hay que entenderla en el sentido de que se generen pensiones
+individuales equivalentes a las que podrían obtenerse con un sistema de capitali­
+zación al que se hubieran aportado las cuotas realmente pagadas durante el tiem­
+po efectivo de cotización» (recuadro 1).
+Dentro del marco conceptual del ciclo vital de cada individuo, el profesor
+M onasterio1
+2considera que «el programa de pensiones de jubilación profesional y
+contributivo, pretende alcanzar una mejor asignación de la renta entre consumo
+presente y consumo futuro, a lo largo del ciclo vital de un mismo individuo».
+En el sistema contributivo nos encontraríamos, por tanto, dentro del cam­
+po de la asignación de recursos. Sin embargo, al organizarse el sistema contributivo
+por el método de reparto, por su propia concepción se produce una redistribución
+intergeneracional de la renta, a la que se añade una redistribución intrageneracional horizontal o vertical cuando se introducen en el sistema criterios de solidaridad.
+
+Recuadro 1
+
+Objetivo de un sistema de pensiones públicas contributivas
+• Distribuir la renta personal dentro del ciclo vital de cada individuo, y no redistribuir la
+renta entre clases sociales o entre generaciones.
+• Sólo bajo el enfoque del ciclo vital puede entenderse la cuestión, ya que si analizamos
+la incidencia redistributiva del programa de pensiones desde el punto de vista anual, nos
+resultaría difícil entender por qué pobres y ricos son gravados am bos con u n im puesto
+sobre la nómina de carácter regresivo para proporcionar prestaciones tanto a pobres
+com o a ricos.
+• La salud financiera del sistema hay que entenderla en el sentido de qu e se generen pen­
+siones individuales equivalentes a las que podrían obtenerse con un sistema de capita­
+lización al que se hubieran aportado las cuotas realmente pagadas durante el tiem po
+efectivo de cotización.
+
+1 J. Segura (1995), Una reflexión sobre algunos programas de protección social, Fundación
+Empresa Pública, Documento de Trabajo 9501.
+2 C. M onasterio et al (1996), Equidad y estabilidad del sistema de pensiones español, Funda­
+ción BBV.
+787
+
+
+
+3.
+
+LOS RETOS FUTUROS DEL SISTEMA PÚBLICO
+DE PENSIONES
+
+Podemos decir que son tres los retos que el sistema público de pensiones
+tendrá que afrontar en el futuro (recuadro 2):
+• el demográfico,
+• el de equidad,
+• el de la tentación de los políticos de utilizar el sistema como instru­
+mento para captar votos.
+
+E l r e t o d e m o g r á f ic o
+
+Sobre una población de 18,6 millones de habitantes en 1900, las personas
+de 65 y más años sólo ascendían a 988.000, el 5,3%; en el año 2000, con una pobla-
+
+R ecuadro 2
+
+Los retos del sistema público de pensiones
+• El demográfico
+En la década 2001 a 2010, la población de 65 años y más aum entará en medio
+millón (tasa de crecimiento anual del 0,69%), por lo que en este período la demografía no
+será un factor de desequilibrio importante del gasto en pensiones.
+En la década siguiente, la población mayor aum entará en otras 700.000 personas
+(tasa del 0,95%).
+A partir de aquí, hasta 2040, el aum ento de las personas de 65 años y más será
+de 2,9 millones (tasa de aum ento anual del 1,55%), lo que producirá una fuerte incidencia
+sobre el gasto en pensiones.
+• El de equidad
+El sistema adolece de una falta absoluta de proporcionalidad, com o lo m uestran
+los siguientes indicadores:
+Tasa de retom o: con 35 años de cotización, el 4,4; con 25 años, el 5,4, y con 15
+años, el 7,8.
+Tasa de sustitución entre el último salario de activo y el importe de la pensión
+del primer año.- del 91,9% con 35 años cotizados; del 73,6% a los 25 años, y del 45,8% con
+15 años, las más generosas de la Unión Europea.
+• La utilización del sistema de pensiones como instrumento para captar votos
+Existen ocho millones de pensionistas, lo que puede llevar a los políticos a esta­
+blecer un mecanismo de intercambio de votos por aum ento de pensiones.
+
+788
+
+
+
+ción estimada de 39,5 millones de habitantes, las personas de 65 y más años ascien­
+den a 6,7 millones, el 17 %. Las personas mayores han aumentado en 5,7 millones,
+lo que supone una tasa de crecimiento medio acumulativo anual del 1,93%.
+Al llegar, en la década de 2001 a 2010, los nacidos durante los años de la
+guerra civil y siguientes (generaciones nacidas entre 1936 y 1945) a los 65 años y
+más, la población de dicho grupo sólo aumenta en medio millón, con una tasa de
+crecimiento acumulativo anual del 0,69% según las proyecciones del INE, lo que
+nos lleva a pensar que hasta el 2010 el reto demográfico no será un factor de dese­
+quilibrio importante del gasto en pensiones. En la década siguiente (2011-2020), la
+población de 65 años y más aumentará en otras 700.000 personas, por lo que la
+tasa media de crecimiento anual pasa a ser del 0,95%, que supone un fuerte
+aumento sobre la de la década anterior. A partir de aquí el aumento de las perso­
+nas de 65 años y más adquiere un fuerte ritmo: en la década 2021-2030 de 1.400.000
+personas (tasa acumulativa anual del 1,64%), y en la década de los treinta del pró­
+ximo siglo el aumento es de casi otro millón y medio de personas (tasa acumulati­
+va anual del 1,45%). En el período 2020-2040 se producirá por tanto una fuerte inci­
+dencia del factor demográfico sobre el gasto én pensiones.
+
+E l r e t o d e e q u id a d
+
+Tan preocupantes como las consecuencias del reto demográfico son las
+que se derivan de la fuerte incidencia que la falta de equidad (proporcionalidad)
+tiene sobre el gasto en pensiones al haberse utilizado el sistema como un instru­
+mento de redistribución de la renta, y no como lo que es: un instrumento para dis­
+tribuir la renta de un individuo entre consumo y ahorro en el ciclo vital de esa per­
+sona.
+El sistema de pensiones contributivas español adolece de una falta abso­
+luta de proporcionalidad, como lo demuestran las diferentes tasas de retorno obte­
+nidas según los años de cotización; con 35 años, el 4,4; con 25 años, el 5,4, y con
+15 años, el 7,8. Otra muestra de esa falta de equidad nos la dan las tasas de susti­
+tución entre el último salario de activo y el importe de la pensión del primer año,
+que son actualmente, en el régimen general, del 91,9% con 35 años cotizados; del
+73,6% a los 25 años, y del 45,8% con 15 años, las tasas más altas de la Unión Eu­
+ropea 3.
+
+3
+
+J . Barea (1999), «Los efectos económicos del envejecimiento-,
+
+Anales de la Real Academia
+
+de Ciencias Morales y Políticas, Año LI, núm. 76, Curso académico 1998-1999, Madrid.
+789
+
+
+
+La introducción del principio de solidaridad en el sistema de pensiones
+contributivas ha llevado a éste a una situación extremadamente difícil, como lo
+prueba el hecho de que en 1997, del importe total del gasto en pensiones, el 34,6%
+correspondía a revalorizaciones derivadas de la inflación, el 8,2 % a complementos
+para que la pensión alcance un mínimo, y sólo el 57,2% a la pensión inicial, que
+es la que, con criterios de proporcionalidad, haría sostenible el sistema.
+La falta de equidad y el desequilibrio demográfico han originado una deu­
+da implícita de las pensiones en vigor en 1996 del 109% del PIB, que, unida a la
+deuda invisible en la terminología del FMI derivada de los derechos de los actua­
+les cotizantes, que asciende al 108% del PIB, da como resultado un montante del
+215% del PIB, más de tres veces el importe de la deuda pública explícita de las
+administraciones públicas. Este montante global está sujeto para años sucesivos al
+proceso dinámico que se deriva del crecimiento del número de pensionistas, pen­
+siones medias y cotizaciones, y al no reflejarse en las cuentas públicas, encubre la
+verdadera dimensión del esfuerzo que es preciso realizar para conseguir la conso­
+lidación fiscal.
+La falta de proporcionalidad conduce a la paradoja de que si bien a corto
+plazo el aumento de cotizantes resuelve el problema de hacer caja para atender el
+pago de las pensiones, a largo plazo hace aumentar el desequilibrio del sistema,
+pagando una deuda con los cotizantes jubilados a cambio de contraer una deuda
+mayor para el futuro con los cotizantes en activo. La consecuencia es la fuerte deu­
+da implícita e invisible de la Seguridad Social de la que hemos hecho mención.
+
+L a t e n t a c ió n d e l o s p o lit ic o s d e u t iliz a r e l s is t e m a d e p e n s io n e s
+p ú b lic a s c o m o in s t r u m e n t o p a r a c a p ta r v o t o s
+
+Existiendo ocho millones de pensionistas, puede darse en los políticos la
+tentación de establecer un mecanismo de intercambio de votos por aumento de
+pensiones. Esto ha sucedido en el pasado, como hemos puesto de manifiesto ante­
+riormente con la falta de proporcionalidad del sistema, especialmente aguda en los
+regímenes especiales, que ha originado una fuerte deuda implícita e invisible de la
+Seguridad Social, tasas internas de retornos elevadas y tasas de sustitución entre el
+último salario de activo y el importe de la pensión de primer año de las más altas
+de la Unión Europea.
+Recientemente, ante la proximidad de la convocatoria de elecciones, varias
+comunidades autónomas han revalorizado las pensiones no contributivas por enci790
+
+
+
+ma del índice de precios al consumo, los partidos de la oposición pidieron igual­
+mente aumentar el importe de las pensiones mínimas contributivas por encima de
+la inflación y el Gobierno, ante tal situación, negoció con los sindicatos un aumen­
+to superior al pedido por la oposición. El valor actualizado a una tasa de interés
+del 3% de la decisión adoptada supone dos billones de pesetas, más del 2% del
+PIB; sin embargo, el efecto de este compromiso en el año 2000 sólo asciende a
+60.000 millones de pesetas.
+
+4.
+
+SOLUCIONES PERMANECIENDO DENTRO
+DEL SISTEMA DE REPARTO
+
+(Recuadro 3)
+
+Re c u a d r o 3
+
+Soluciones permaneciendo dentro del sistema de reparto
+• A l a falta de equidad
+Calcular la base reguladora de las pensiones en función de todo el período contri­
+butivo.
+Todos los regím enes de Seguridad Social deben tener la misma presión contributiva.
+El porcentaje qu e ha de aplicarse a la base reguladora para calcular la pensión será pro­
+porcional al núm ero de años cotizados.
+Para que exista equidad (proporcionalidad), las tasas de sustitución serían del 62,8%
+para los que trabajan 35 años; del 43,2% con 25 años, y del 24,8% con 15 años, lo que
+supone reducir las actuales pensiones en un tercio.
+• Al reto demográfico
+Los desequilibrios financieros originados por desequilibrios dem ográficos sólo tienen
+solución revisando, a través de la Ley de Presupuestos Generales del Estado, el por­
+centaje de la base reguladora que sirve para calcular la pensión.
+
+• A l a tentación de los políticos
+Es m uy difícil establecer en un régim en de pensiones públicas de reparto mecanismos
+que cierren todos los circuitos que los políticos p u ed en em plear para utilizar las pen ­
+siones com o un instrum ento de captación de votos, com o la experiencia ha dem os­
+trado.
+791
+
+
+
+A la fa lta d e e q u id a d
+Para corregir la falta de proporcionalidad que actualmente tiene el sistema
+de pensiones contributivas, serían necesarias modificaciones legales para restable­
+cer la conexión que debe existir entre aportaciones (cotizaciones) y percepciones
+(pensiones). Estas modificaciones serían las siguientes 4:
+
+a) La base reguladora de las pensiones se calcularía en función de todo
+el período contributivo. El trabajador tiene una carrera profesional en la cual nor­
+malmente habrá ido ascendiendo, obteniendo ingresos cada vez mayores. Su carre­
+ra de seguro, es decir, sus cotizaciones a la Seguridad Social, han ido subiendo en
+función del incremento de sus salarios; por tanto, para que exista equivalencia
+financiera debe darse una conexión de la pensión con las cotizaciones efectuadas.
+b) Todos los regímenes de la Seguridad Social deben tener la misma pre­
+sión contributiva, es decir, que la suma de las cuotas del trabajador y del empre­
+sario representen el mismo porcentaje de la base reguladora del trabajador.
+El porcentaje que ha de aplicarse a la base reguladora para calcular la pen­
+sión sería proporcional al número de años cotizados.
+
+c) Con tales modificaciones legales, hemos efectuado una simulación
+utilizando una tasa de interés del 3%, teniendo en cuenta el siguiente entorno
+macroeconómico: 2% de tasa de inflación y 1% de crecimiento en términos reales
+de los salarios, que las pensiones de viudedad se mantengan en las cuantías que
+resulten de la legislación vigente y que las pensiones se revaloricen anualmente al
+2% (tasa de inflación), resultando que las tasas de sustitución entre el último sala­
+rio de activo y el importe de la pensión del primer año del régimen general, para
+que exista proporcionalidad, serían del 6 2 ,8 % para los que trabajaron 35 años, del
+43,2% con 25 años y del 24,8% con 15. Ello supone una fuerte reducción en rela­
+ción con las actualmente existentes (citadas anteriormente), y muestra la falta de
+proporcionalidad del sistema y su falta de viabilidad futura si no se efectúan las
+modificaciones legales que hemos enumerado. En los regímenes especiales las
+reducciones serían aun mayores.
+
+4
+J. Barea et al (1995), El sistema de pensiones en España: análisis y propuesta para su viabi­
+lidad, Círculo de Empresarios. M. C arpió , E. D omingo et al (1996), Presente y futuro de las pensiones en
+España, Ediciones Encuentro.
+792
+
+
+
+A l re to d em o g rá fic o
+Hemos visto que otra de las causas de los desequilibrios financieros que
+pueden sobrevenir en un sistema de pensiones públicas contributivo y de reparto
+se encuentra en el envejecimiento demográfico.
+Con la restricción presupuestaria de que el tipo de cotización a la Seguri­
+dad Social no aumente, tanto porque la corrección del desequilibrio recaería sobre
+los trabajadores en situación activa como por el nivel alcanzado por las cotizacio­
+nes sociales, una vez restablecido el principio de proporcionalidad en la forma que
+acabamos de exponer (que daría lugar a una corrección de los desequilibrios finan­
+cieros derivados de la falta de equidad), si en el futuro se produjeran nuevos dese­
+quilibrios financieros, que serían debidos al desequilibrio demográfico, la única
+solución para hacer viable el sistema se encuentra en rebajar la tasa de sustitución
+de las remuneraciones en activo por la pensión, solución que, por otra parte, está
+implícita en un sistema de reparto. Periódicamente habría de revisarse, a través de
+la Ley de Presupuestos Generales del Estado, el porcentaje de la base reguladora
+que sirve para calcular la pensión.
+Si la rebaja de la tasa de sustitución por razones de proporcionalidad supo­
+ne ya un alto coste político, pretender que los efectos del desequilibrio demográfi­
+co se corrijan a través de una revisión periódica de la tasa de sustitución, hace prác­
+ticamente imposible, desde el punto de vista político, esta solución.
+
+Pensiones y políticos
+Es muy difícil establecer en un régimen de pensiones públicas de reparto
+mecanismos que cierren todos los circuitos que los políticos pueden emplear para
+utilizar las pensiones como un instrumento de captación de votos, como empírica­
+mente ha quedado demostrado. Para el intercambio pensiones por votos se argu­
+mentan criterios de solidaridad que van en contra de nuestro ordenamiento positivo,
+que establece como objetivo del sistema garantizar pensiones de tipo proporcional
+y contributivo, pudiendo por tanto decirse que es éste el criterio de equidad asu­
+mido por el sistema de pensiones contributivas 'español. La utilización de criterios
+de solidaridad da entrada a supuestos de redistribución horizontal o vertical que
+dan lugar a la aparición de desequilibrios financieros por romperse la conexión
+que, en todo caso, debe existir entre pensiones con importes cotizados. Única­
+mente deben tener acogida supuestos de redistribución horizontal derivados de
+personas con riesgos distintos y cotizaciones iguales, por tratarse de un sistema de
+793
+
+
+
+protección social, donde no es posible fijar prima distinta en razón del riesgo, como
+sucede en los seguros privados (ejemplo, diferente esperanza de vida entre muje­
+res y hombres).
+
+5.
+
+SOLUCIONES QUE SE HAN PROPUESTO AL MARGEN
+DEL SISTEMA DE REPARTO
+
+(Recuadro 4)
+
+Pasar a un sistema de capitalización
+Dado que en el sistema de capitalización la evolución demográfica no tie­
+ne incidencia, se han efectuado propuestas5 para sustituir el sistema de reparto por
+otro de capitalización gestionado privadamente. El sistema continuaría siendo
+público, ya que la participación en él sería obligatoria por Ley, se gestionaría en
+Recuadro 4
+Soluciones propuestas a l margen del sistema de reparto
+• Pasar a un sistema de capitalización gestionado privadamente
+La evolución demográfica no tendría incidencia en este sistema.
+Sí tendría fuerte incidencia sobre el déficit y la deuda, y, en su caso, sobre la presión fis­
+cal, resultando por ello inviable el pase de uno a otro sistema.
+Para el conjunto de la economía, el efecto quedaría amortiguado, ya que los fondos de
+pensiones tendrían una capacidad de financiación que se materializaría en un aum ento
+de su cartera de valores.
+
+• Pasar a un sistema mixto reparto<apitalización, gestionado el de capitalización por el
+sectorprivado
+El déficit del sistema de reparto irá aum entando a medida que los trabajadores opten por
+el sistema de capitalización; en la misma cuantía aum entará la deuda pública.
+No existe aum ento de la presión fiscal; la aportación total al nuevo sistema sería obli­
+gatoria e idéntica a la que se hubiera efectuado al sistema d e reparto.
+Para los que perm anezcan en el sistema de reparto, total o parcialmente, subsistiría la
+falta de proporcionalidad del sistema, haciéndolo inviable.
+
+5
+Empresarios.
+794
+
+J . P iñera (1996), Una propuesta de reforma del sistema de pensiones en España, Círculo de
+
+
+
+nombre de un grupo de miembros, y limitado a éstos, y el empresario cotizaría al
+sistema en nombre de un trabajador.
+El problema de tal cambio deriva de la incidencia que ocasiona sobre el
+déficit y la deuda, y, en su caso, sobre la presión fiscal. En efecto, como las coti­
+zaciones sociales se destinarían a constituir fondos que garantizaran las pensiones
+futuras de los actualmente en activo, quedarían sin cobertura financiera las pensio­
+nes actualmente en vigor, así como las en curso de perfeccionamiento.
+Com o hay que continuar efectuando el pago de las pensiones en vigor, se
+produciría un déficit que el primer año sería del orden del 10% del PIB, que iría
+descendiendo a medida que se produjera la disminución del colectivo por falleci­
+miento de los pensionistas y causahabientes; el montante total sobrepasaría el 100%
+del PIB, que tendría que ser financiado a través de la emisión de deuda pública.
+En cuanto a las pensiones en curso de perfeccionamiento, el importe que
+han ingresado en la Seguridad Social habría que devolvérselo a los cotizantes en el
+momento de su jubilación para ingreso en su fondo de pensiones, lo que origina­
+ría incidencia sobre el déficit, que tendría que ser financiado igualmente con emi­
+sión de deuda. Dichas devoluciones se irían efectuando paulatinamente a medida
+que los trabajadores en activo en el momento en que se estableciese el sistema de
+capitalización pasaran a jubilarse; su monto total sobrepasaría igualmente, según los
+cálculos efectuados, al del PIB.
+La única forma de evitar tan fuerte incidencia sotre el déficit es elevar la
+presión fiscal, pero en un mundo globalizado como el que vivimos, sometido a una
+fuerte competitividad, no sería posible.
+En conclusión, el pase del sistema de reparto español a uno de capita­
+lización, tal com o ha sido propuesto, no es viable por su fuerte efecto sobre el
+déficit público y la deuda pública. Para el conjunto de la econom ía, el efecto
+quedaría muy am ortiguado, ya que los fondos de pensiones tendrían una capa­
+cidad de financiación que se materializaría en un aumento de su cartera de va­
+lores.
+
+Pasar a un sistema mixto reparto-capitalización
+La sustitución completa del sistema de reparto por uno de capitalización
+origina una incidencia de tal magnitud, tanto sobre el déficit como sobre la deuda
+795
+
+
+
+pública, que hace imposible dar tal salto. Por ello, algunos autores6 han propues­
+to para España un «proceso de transición gradual hacia un sistema mixto en el que
+coexistan el reparto público y la capitalización privada, y en el que los cotizantes
+que así lo hayan elegido aporten simultáneamente a ambos sistemas y retiren, más
+tarde, una pensión en cada uno de ellos, cuya suma sea una parte sustancial del
+salario previo a la jubilación». La aportación total al nuevo sistema sería obligatoria
+e idéntica a la que se hubiera efectuado al sistema de reparto, sin que exista por
+tanto aumento de la presión fiscal.
+Las consecuencias que ello origina son: que el déficit del sistema de repar­
+to iría aumentando a medida que dejaran de ingresarse cotizaciones sociales en el
+porcentaje que los trabajadores hubieran optado pasar al régimen de capitalización;
+en la misma cuantía aumentaría la deuda pública que se emitiría para financiar las
+pensiones sin cobertura de cotizaciones. Subsistirán por tanto los mismos proble­
+mas que en el supuesto de sustitución completa del sistema de reparto por el de
+capitalización, si bien diluidos en el tiempo como consecuencia de la aplicación
+gradual de la sustitución del sistema de reparto por el de capitalización. Para los
+que quedaran en el sistema de reparto, total o parcialmente, subsistiría la falta de
+proporcionalidad, que, como hemos visto, da lugar a la no viabilidad del sistema.
+
+6.
+UNA SOLUCIÓN PARA PASAR DEL SISTEMA DE REPARTO
+AL DE CAPITALIZACIÓN SIN INCIDIR EN EL DÉFICIT, EN LA DEUDA
+Y EN LA PRESIÓN FISCAL
+(Recuadro 5)
+
+Necesidad de reflejar en. las cuentas públicas la verdadera situación
+financiera del sistema de pensiones públicas contributivas
+Para resolver un problema es preciso conocer su verdadera dimensión. Las
+cuentas públicas ofrecen muchas sombras sobre la situación de las finanzas públi­
+cas; caso típico es el enmascaramiento de las contingencias derivadas del sistema
+de pensiones públicas, que resta transparencia a las cuentas de las administracio­
+nes públicas. Como ya hemos señalado, estas contingencias se refieren a la deuda
+implícita que suponen las pensiones en vigor y a la deuda invisible derivada de los
+
+6
+
+(La Caixa).
+796
+
+H erce et al. (1996), El futuro de las pensiones en España: hacia un sistema mixto, FEDEA
+
+
+
+Recuadro
+
+5
+
+Soluciones propuestas por el Académico Profesor Burea
+• Pasar a un régim en de capitalización obligatorio para todos los cotizantes, desde la
+fecha en que se acuerde, que será gestionado públicam ente, e integrado en el marco
+del SEC’95.
+• La pensión de cada cotizante será función de las cotizaciones aportadas. No se intro­
+ducirán en el sistema criterios de solidaridad, que tendrían que ser cubiertos con los
+im puestos generales.
+• Las cotizaciones sociales de los em presarios y de los trabajadores se ingresarán en el
+Fondo de Capitalización de Pensiones de la Seguridad Social (FCPSS), cuenta d e dis­
+tribución secundaria de la renta, y las pensiones pagadas p o r el FCPSS se figurarán
+com o em pleo en la misma cuenta.
+• La materialización de las reservas para hacer frente a los com prom isos de pensiones
+futuras a los cotizantes aparecerán en la cuenta financiera del FCPSS.
+• El pago de las pensiones vigentes del sistema de reparto aparecerán en la cuenta de
+distribución secundaria de la renta del sector Seguridad Social, sistema de reparto.
+• El FCPSS tendrá una capacidad de financiación del mismo im porte que la necesidad de
+financiación del sistema de reparto, po r lo cual el pase de uno a otro sistema no tiene
+incidencia sobre el déficit
+• La necesidad de financiación del sistema de reparto se cubre a través d e em isión de
+deuda po r la Seguridad Social, que es tom ada por el FCPSS para materializar sus pro­
+visiones técnicas, por lo que no se producirá incidencia sobre la deuda pública a efec­
+tos del Reglamento (CE) de 22 de noviembre de 1993• El tipo de interés de dicha deuda pública sería del 3%; dichos intereses su p o n en un
+aum ento de las reservas técnicas.
+• La introducción del sistema de capitalización deja sin cobertura financiera a las pen ­
+siones de los que están trabajando en el m om ento en que se produzca el cam bio de
+sistema. Para garantizar tal derecho, es necesario constituir la oportuna provisión, que,
+de acuerdo con el SEC’95, se efectuará con cargo a patrim onio a través d e la cuenta
+«Otras variaciones del volum en de los activos financieros y de los pasivos n.c.o.p.», flu­
+jo que no tiene incidencia en la necesidad de financiación.
+• Con cargo a la provisión para pensiones en curso d e perfeccionamiento, se entregará
+al FCPSS el im porte que corresponda a los trabajadores que se vayan jubilando, que
+servirá, junto a las cotizaciones que hayan ingresado en el mismo y sus correspon­
+dientes rendim ientos, para calcular la pensión a percibir del FCPSS.
+• La Seguridad Social emitirá deuda para financiar tales entregas, que servirá al citado
+FCPSS para materializar sus provisiones técnicas. La deuda emitida no com puta a efec­
+tos de determ inar la deuda pública en circulación, ya que se consolida; por tanto, esta
+operación no tiene efecto alguno sobre el nivel de deuda pública consolidada.
+• La gestión del sistema propuesto podría se privatizada en el m om ento en qu e se extin­
+guieran los pensionistas del sistema de reparto.
+
+797
+
+
+
+derechos de los actuales cotizantes; en conjunto, estos pasivos contingentes ascen­
+dían en 1996 a más de dos veces el P IB 7.
+En el sector empresarial surgió también este problema por los compromi­
+sos adquiridos por empresas con sus trabajadores de complementar las pensiones
+de la Seguridad Social. La disposición transitoria cuarta del Real Decreto 1.643/1990,
+de 20 de diciembre, por el que se aprueba el Plan General de Contabilidad, esta­
+bleció unos plazos precisos para dotar el déficit entre compromisos y riesgos tota­
+les devengados por pensiones y los asegurados y cubierto contablemente hasta el
+ejercicio anterior a la entrada en vigor de la Ley 19/1989, de 25 de julio, de refor­
+ma parcial y adaptación de la legislación mercantil a las directivas de la Comuni­
+dad Económica Europea en materia de sociedades.
+La Orden de 1 de julio de 1991 amplió para las empresas del sector eléc­
+trico los plazos previstos en la citada disposición transitoria cuarta, disponiendo que
+la cobertura del déficit deberá realizarse con cargo a cuenta de reservas disponi­
+bles, es decir, con cargo al patrimonio (fondos propios) de las empresas, con obje­
+to de evitar que la dotación de las provisiones distorsione la cuenta de pérdidas y
+ganancias de las empresas acogidas a la citada disposición transitoria. De igual for­
+ma, la Orden de 29 de diciembre de 1999 sobre el régimen transitorio a aplicar con­
+tablemente en la exteriorización de los compromisos por pensiones, regulada en el
+reglamento sobre la instrumentación de los compromisos por pensiones de las
+empresas con los trabajadores y los beneficiarios, establece que el déficit que tuvie­
+sen las empresas entre los compromisos y riesgos totales por pensiones y los ase­
+gurados y cubiertos contablemente hasta el ejercicio anterior a la entrada en vigor
+de la Ley 19/1989, de 25 de julio, citada con anterioridad, se dotará con cargo a
+cuentas de reservas disponibles.
+La Orden de 6 de mayo de 1994, por la que se aprueba el Plan General
+de Contabilidad Pública, no aborda el tema de los pasivos ocultos derivados de las
+pensiones públicas; sin embargo, al tratar el principio de prudencia establece que
+«los gastos deben contabilizarse no sólo los efectivamente realizados, sino también,
+desde que se tenga conocimiento de ellos, aquéllos que supongan riesgos previsi­
+bles o pérdidas eventuales, con origen en el ejercicio o en otro anterior; a estos
+efectos, deben distinguirse las pérdidas potenciales o reversibles de las realizadas
+o irreversibles. No obstante, de acuerdo con la normativa presupuestaria vigente,
+estos gastos contabilizados, pero no efectivamente realizados, los riesgos y pérdi­
+
+7
+A. Redecillas (1996), lo s compromisosfinancieros del Estado y de la Seguridad Social relati­
+vos a pensiones, Fundación BBV.
+798
+
+
+
+das no tendrán incidencia presupuestaria, sólo repercutirán en el cálculo del resul­
+tado económico-patrimonial». La razón de ser de esta distinción es que el Presu­
+puesto sólo recoge los flujos reales del año, sin que en el mismo aparezcan los que
+sólo tienen efecto en el patrimonio.
+
+Propuesta para pasar al régimen de capitalización el sistema
+de pensiones públicas de reparto sin incidencia
+en el déficit, la deuda y la presión fiscal
+La Contabilidad Nacional ha sido hasta ahora una contabilidad de flujos,
+no había abordado la integración de la contabilidad patrimonial dentro de una
+visión unitaria. El nuevo Sistema Europeo de Cuentas Nacionales (SEC’95), junto
+con el Sistema de Cuentas Nacionales de las Naciones Unidas (1993), han dado el
+primer paso para conseguir dicha integración.
+El Tratado de la Unión Europea hace referencia al déficit público en el
+artículo 104C, disponiendo que los estados miembros evitarán déficit públicos exce­
+sivos, y el artículo 2 del protocolo sobre el procedimiento aplicable en caso de défi­
+cit excesivo (Reglamento CE de 22 de noviembre de 1993), anejo al Tratado, esta­
+blece que se entenderá por «público" lo perteneciente al gobierno general, tal como
+se define en el Sistema de Cuentas Económicas Integradas, y por «déficit” el volu­
+men de endeudamiento neto con arreglo a la definición del Sistema Europeo de
+Cuentas Económicas (SEC).
+Dado que el SEC no define ni el endeudamiento ni el déficit público, el
+Consejo de la Unión Europea aprobó en 2 de noviembre el Reglamento número
+3605/93, relativo a la aplicación del citado protocolo, que precisa las definiciones
+de los términos «déficit» y «público» con referencia al SEC, estableciendo que por
+déficit público se entenderá la necesidad de financiación del sector administracio­
+nes públicas tal como se delimita en el SEC.
+Paso a continuación a exponer el estudio realizado para solventar los retos
+demográfico y de equidad sin que ello suponga incidencia en el déficit público ni
+en la deuda. Puede pensarse que esto es la cuadratura del círculo. La propuesta es
+la siguiente:
+
+Primero. El pase al régimen de capitalización del sistema de pensiones
+públicas de reparto está integrado en el marco del SEC’95, aprobado por el Regla­
+mento del Consejo de la Unión Europea con fecha 25 de junio de 1996, que ha
+799
+
+
+
+entrada en vigor en 1999, y tiene el condicionante de que la gestión del sistema de
+capitalización sea pública, es decir, se efectúe por un organismo público de la
+Seguridad Social con personalidad jurídica independiente (en lo sucesivo Fondo de
+Capitalización de Pensiones de la Seguridad Social). Para que el sistema de capita­
+lización se mantenga en equilibrio financiero, no se introducirán en él criterios de
+solidaridad, que tendrían que ser cubiertos con los impuestos generales; la pensión
+de cada cotizante y de los causahabientes, en su caso, será función de las cotiza­
+ciones aportadas al sistema.
+
+Segundo. En el nuevo sistema de capitalización, las cotizaciones sociales
+de los empresarios y de los trabajadores serían ingresadas por los primeros en el
+Fondo de Capitalización de Pensiones de la Seguridad Social (FCPSS). En Contabi­
+lidad Nacional, dichas cotizaciones aparecerían en el sector administraciones públi­
+cas (Seguridad Social) como un recurso de la cuenta de distribución secundaria de
+la renta, y las pensiones pagadas por el FCPSS figurarían como empleo en el mis­
+mo sector. La materialización de las reservas específicas para hacer frente a los
+compromisos de pensiones futuras a los cotizantes aparecerán en la cuenta finan­
+ciera del sector administraciones públicas (Seguridad Social).
+
+Tercero. El pago de las pensiones vigentes del sistema de reparto apare­
+cerán en el sector administraciones públicas contabilizadas como empleo en la
+cuenta de distribución secundaria de la renta como pensiones pagadas por la Segu­
+ridad Social (sistema de reparto).
+Cuarto. De lo expuesto se deduce que el sistema de capitalización de pen­
+siones de la Seguridad Social (FCPSS) tendrá capacidad de financiación del mismo
+importe que la necesidad de financiación del sistema de reparto de la Seguridad
+Social, con lo cual el pase dé un sistema de reparto a capitalización gestionado
+públicamente no tiene incidencia sobre el déficit público.
+Quinto. La necesidad de financiación del sistema de reparto se cubre a tra­
+vés de la emisión de deuda por la Seguridad Social, que es tomada por el FCPSS
+para materializar sus provisiones técnicas. Para evitar recelos de los pensionistas del
+sistema de capitalización sobre la garantía de las futuras pensiones, la deuda debe­
+ría estar avalada por el Estado. De conformidad con lo establecido en el número 5
+del artículo 1 del citado Reglamento (CE) de 22 de noviembre de 1993, la deuda
+pública emitida por la Seguridad Social (Administración pública), al estar en manos
+del FCPSS (otra Administración pública), no se computa a efectos de determinar la
+deuda pública en circulación a final del año, ya que se eliminaría en el proceso de
+consolidación. Por tanto, la incidencia sobre la deuda pública a efectos del cóm­
+puto establecido en el repetido reglamento sena nula.
+800
+
+
+
+Sexto. El tipo de interés que- devengaría la deuda pública que sirviera de
+cobertura a las provisiones técnicas del FCPSS debería estar en el entorno del 3%,
+que puede parecer bajo en relación con el que puede obtenerse de los planes de
+pensiones privados, pero hay que tener en cuenta el entorno macroeconómico de
+estabilidad en el que la Unión Monetaria se desenvuelve, la exención de riesgos
+que comporta la inversión y que no se deduce de la prima (cotizaciones sociales)
+porcentaje por gastos de administración, que en los fondos privados es bastante
+elevado. Dichos intereses suponen un aumento de las reservas técnicas, pudiendo
+considerarse, de acuerdo con el SEC, como una prima complementaria correspon­
+diente a las rentas generadas por la inversión de las provisiones.
+Séptimo. La introducción del sistema de capitalización en las pensiones
+públicas contributivas deja sin cobertura financiera a las pensiones de los que están
+trabajando en el momento en que se produzca el cambio del sistema, ya que la
+Seguridad Social no ha constituido las provisiones técnicas para hacer frente a los
+derechos en curso de adquisición. Según estimaciones efectuadas8, el importe de
+dichas provisiones sobrepasaba en el año 1996 el PIB.
+Es evidente que los derechos en curso de adquisición, o al menos las coti­
+zaciones ingresadas por cada trabajador en el curso de su vida laboral, habría que
+restituírselos a los cotizantes en el momento de su jubilación para ingreso en su
+fondo de pensiones. Para garantizar tal derecho, es necesario constituir la oportu­
+na provisión. ¿Cómo hacerlo?
+
+Octavo. El SEC’95 ha incorporado al sistema los flujos que afectan direc­
+tamente al patrimonio, y que no se deben, por tanto, a operaciones de bienes y
+servicios, de distribución o financieras. Entre ellos figura la rúbrica: -Otras variacio­
+nes del volumen de los activos financieros y pasivos n.c.o.p.» (K.10).
+El SEC’95 establece9 que la categoría K. 10 incluye:
+b) las otras variaciones del volumen relacionadas con los fondos de pensiones
+con prestaciones definidas: los sistemas de pensiones con prestaciones definidas son aquellos
+en los que el nivel de las prestaciones prometidas a los asalariados participantes está garan­
+tizado. Las prestaciones se establecen por medio de una fórm ula que tiene en cuenta la anti­
+güedad y el salario de los participantes y no dependen totalmente de los activos delfondo. En
+el caso de los sistemas de pensiones con prestaciones definidas, un registro realizado en la
+
+8 A. Redecillas (1996), obra citada.
+9 Sistema Europeo de Cuentas 1995, EUROSTAT, Edición española, pág. 132.
+801
+
+
+
+cuenta de otras variaciones del volumen de activos refleja las variaciones de lospasivos, deter­
+minados actuarialmente, derivadas de cambio de la estructura de las prestaciones. Los cam­
+bios de la estructura de las prestaciones han de distinguirse de los relativos a la composición
+por edades y años de servicio del colectivo de los beneficiarios, y entre ellos se pueden citar
+como ejemplos: las modificaciones de la fórm ula para calcular las prestaciones, las reduc­
+ciones de la edad de jubilación, o la constitución de reservaspara un incremento anual (defi­
+nido generalmente como un porcentaje anual constante) de las futuras pensiones o de todas
+las pensiones que se están pagando.
+
+De lo expuesto resulta que el SEC’95 considera como variaciones patri­
+moniales las que resultan en un sistema de pensiones de prestaciones definidas que
+proceden de cambios de la estructura de las prestaciones.
+El sistema de pensiones públicas español gestionado por el sistema de
+reparto pertenece al grupo de prestaciones definidas contemplado en el SEC, y el
+paso al sistema de capitalización supone para los trabajadores pertenecientes al
+mismo un cambio en la estructura de sus prestaciones, ya que se modifica la fór­
+mula para calcular éstas. Por tanto, la constitución de la provisión que garantice los
+derechos de los trabajadores en activo a las pensiones en curso de adquisición en
+el sistema de reparto, que obligatoriamente por ley han de pasarse al régimen de
+capitalización, se efectuará con cargo a patrimonio, que verá disminuida su cuan­
+tía, reflejándose la operación en Contabilidad Nacional a través de la cuenta «Otras
+variaciones del volumen de los activos financieros y de los pasivos n.c.o.p» (K10).
+Como este flujo no se debe a operaciones de bienes y servicios, de distribución o
+financieras, no tiene incidencia en la necesidad de financiación de las administra­
+ciones públicas.
+
+Noveno. Con cargo a la provisión para pensiones en curso de perfeccio­
+namiento, habría que entregar al Fondo de Capitalización de Pensiones de la Segu­
+ridad Social (FCPSS) el importe que corresponda a los trabajadores que se vayan
+jubilando, que servirá, junto a las cotizaciones que haya ingresado en él y sus
+correspondientes rendimientos, para calcular la pensión a percibir del FCPSS.
+
+Décimo. Para financiar tales entregas, la Seguridad Social tendrá que emi­
+tir deuda pública avalada por el Estado, que servirá al citado FCPSS para materiali­
+zar sus provisiones técnicas. Como la deuda que se emite no computa a efectos de
+determinar la deuda pública en circulación a fin de año, ya que se consolida de
+acuerdo con lo dispuesto en el Reglamento (CE), de 22 de noviembre de 1993, la
+operación que estamos analizando no tiene efecto alguno sobre el nivel de deuda
+pública consolidada.
+
+802
+
+
+
+Undécimo. La gestión del sistema propuesto podría ser privatizada en el
+momento en que desaparecieran los pensionistas del sistema de reparto, si bien en
+ese supuesto se computarían como deuda pública, a efectos del Reglamento (CE)
+de 22 de noviembre de 1993, la deuda emitida para pagar las pensiones reconoci­
+das al entrar en vigor el régimen de capitalización (deuda implícita) y la deuda emi­
+tida para hacer frente a los derechos de los actuales cotizantes (deuda invisible).
+
+7.
+
+CONCLUSIONES
+
+La primera conclusión que obtenemos de lo que llevamos expuesto es que
+el cambio del sistema de reparto de pensiones públicas contributivas por uno de
+capitalización gestionado por el sector público no tiene efectos sobre el déficit
+público ni sobre la deuda pública. El coste para la Seguridad Social de la operación
+sería el importe de la deuda emitida para pagar las pensiones reconocidas al entrar
+en vigor el régimen de capitalización (deuda implícita) y la deuda emitida para
+hacer frente a los derechos de los actuales cotizantes (deuda invisible). Pero dicho
+coste no es consecuencia de la operación de cambio del sistema, sino que ya exis­
+tía y que a causa del cambio se hace explícito. Desde el punto de vista macroeconómico, no tiene sin embargo efecto sobre el nivel de deuda pública en el marco
+conceptual del Reglamento (CE) de 23 de noviembre de 1993La segunda conclusión es que, al existir de manera automática proporcio­
+nalidad entre lo aportado y la pensión que se genera, desaparecen los problemas
+de equidad que erosionan al sistema actual haciéndolo inviable. En lo sucesivo, la
+introducción de criterios de solidaridad dentro del sistema tendrá que ser financia­
+da con los impuestos generales (fijación de cuantías mínimas para las pensiones,
+pagar tipos menores de cotización para obtener igual pensión que los de tipos
+superiores, incentivación del empleo a través de rebajas en las cotizaciones socia­
+les, etcétera).
+A l eliminarse las transferencias intergeneracionales, desaparece el proble­
+ma del reto demográfico, que tanta incidencia tiene en los sistemas de reparto por
+el envejecimiento de la población; es ésta la tercera conclusión obtenida.
+La cuarta conclusión es que los políticos no podrán utilizar en lo sucesivo
+el sistema de pensiones públicas como un instrumento para captar votos, ya que la
+pensión de cada trabajador viene automáticamente determinada por las cotizacio­
+nes que haya efectuado al sistema.
+
+803
+
+
+
+La quinta conclusión es que el sistema queda absolutamente asegurado;
+las incertidumbres de los jóvenes sobre si cobrarán o no pensión en el futuro desa­
+parecen totalmente.
+La última conclusión es que la gestión del sistema propuesto podría ser
+privatizada en el momento en que se extinguieran los pensionistas del sistema de
+reparto.
+Con Lindbeck, diría que la idea básica que late detrás de lo que he expues­
+to es salvar el sistema público de pensiones, que constituye el mejor instrumento
+de cohesión social de la Unión Europea, y como él opino que hoy día el Estado
+del bienestar se encuentra más amenazado por algunos de sus amigos más fervo­
+rosos, que pugnan por reglas que tienden a minar su base económ ica, que por sus
+propios enemigos.
+
+804
+
+
+
+4.2. PRESENTACIÓN DE LOS LIBROS
+-«EL SISTEMA DE LA MONEDA-PAPEL»
+Y «DE LA LIBERTAD DE COMERCIO»
+
+
+
+

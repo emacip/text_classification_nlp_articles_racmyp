@@ -1,0 +1,768 @@
+DESIGUALDAD Y ECONOMÍA CLIENTELAR
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+Desigualdad y economía clientelar
+Por el Académico de Número
+Excmo.Sr.D. Jaime Terceiro Lomba*
+Recordaba recientemente el profesor Dani Rodrik que una de las viejas creencias económicas, como la que viene representada por la disyuntiva
+entre igualdad y eficiencia económica, ha quedado arrumbada, no solo por la
+evidencia empírica, sino también por convincentes argumentos teóricos. En
+efecto, el viejo dogma de que al promover la igualdad siempre se sacrifica la
+eficiencia económica tiene su soporte en la idea central de que el comportamiento humano está guiado por los incentivos, de tal forma que tanto las
+empresas como las personas necesitan tener una expectativa realizable de más
+beneficios para poder invertir, trabajar e innovar. Así, en cuanto este objetivo
+se desincentiva por cualquier medio, incluido un aumento de la fiscalidad, el
+esfuerzo se reduce y, como consecuencia, el crecimiento económico se ralentiza. Se suele poner entonces el ejemplo de los países comunistas o de aquellos otros, fundamentalmente latinoamericanos, que habiendo generado tales
+desincentivos provocaron los bien conocidos fiascos económicos y sociales.
+Pero aun reconociendo que el problema de los incentivos es un
+aspecto central de la teoría económica moderna, lo cierto es que con el transcurso de los años el resultado de las investigaciones, tanto teóricas como empíricas, ha ido cambiando los supuestos y prejuicios sobre la relación entre desigualdad y crecimiento económico. Aunque como con frecuencia sucede en
+ciencias sociales, no es posible hacer afirmaciones rotundas que sean válidas
+
+* Sesión del día 21 de junio de 2016.
+
+287
+
+
+
+para cualquier país con independencia de su nivel de desarrollo económico. Sin
+duda, el crecimiento económico tiene siempre efectos sobre los niveles de desigualdad, pero su signo y su magnitud dependen de las características específicas de tal crecimiento y, desde luego, del tipo de instituciones económicas,
+políticas y sociales de la realidad en que tiene lugar. Por consiguiente, la dicotomía que, a menudo con insistencia y con carácter general, se establece entre
+las políticas económicas que promueven el crecimiento y las que promueven
+la igualdad es falsa y, con frecuencia, interesada.
+
+DESIGUALDAD DE RENTA Y DE OPORTUNIDADES
+Vuelvo hoy a tratar, en la primera parte de mi intervención, un tema al
+que ya me referí aquí hace ahora diez años y sobre el que debatieron más
+recientemente nuestros compañeros Alfonso Novales en 2011 y 2012, Julio
+Segura en 2014 y Pedro Schwartz en febrero de este año. Resulta indudable que
+no es este un asunto menor a la vista de los reiterados informes que organismos internacionales de todo tipo ofrecen sobre el aumento de la desigualdad
+en los países desarrollados. Y tampoco lo es si se atiende a las opiniones de
+muchos líderes políticos y sociales, así como a las de algunos académicos, que
+una y otra vez insisten en que el problema relevante no es el nivel de desigualdad sino solamente el nivel de pobreza. En definitiva, así lo afirman de
+manera reiterada, de lo que simplemente hay que preocuparse es de asegurar
+unos estándares básicos de vida a cualquier ciudadano. Es más, se llega a afirmar que la preocupación por la desigualdad tiene una negativa connotación
+que termina estando muy solapada con la envidia que, como ya señaló John
+Stuart Mill, es la más antisocial y dañina de todas las pasiones.
+Varias son las dificultades que plantea este debate, y no es la menor
+de ellas la elección de los indicadores que lo caracterizan. Probablemente sea
+útil recordar algunas ideas previas. Los conceptos de pobreza y desigualdad son
+distintos y no deben confundirse. La definición de pobreza absoluta hace referencia a los niveles de vida por debajo de un determinado umbral, y es por
+tanto independiente de la forma de la distribución de la renta; la definición de
+pobreza relativa se refiere a niveles de renta suficientemente más bajos que la
+mediana de la distribución, es decir, el valor correspondiente a la renta de un
+individuo que está en el punto medio de la distribución, dejando igual número
+de personas a su derecha y a su izquierda. Normalmente estos valores de renta
+así considerados incluyen ya las transferencias sociales. Si el criterio elegido es
+el 60% de la mediana, de acuerdo con las últimas cifras publicadas por Eurostat el pasado mes de diciembre, en el año 2014 el 24,4% de la población, una
+de cuatro personas, estaba en riesgo de pobreza o exclusión social en la Unión
+Europea (UE). En España esa cifra ascendía en el año 2014 al 29,2%, cuando
+
+288
+
+
+
+en 2008 era el 24,5%. Es decir, la crisis ha aumentado sustancialmente en nuestro país el número de personas en riesgo de exclusión social. Estos datos son
+todavía más preocupantes cuando se considera la población joven, que es la
+que en mayor medida ha sufrido los estragos de la gran recesión.
+Por otra parte, la idea de desigualdad es mucho más amplia, ya que
+alude a las diferencias que existen entre la renta de los ciudadanos, y se suele
+medir por comparación de la que reciben grupos de población ordenados de
+mayor a menor renta. El criterio de comparar la renta entre dos grupos distintos de población presenta, por construcción, múltiples opciones. Para evitar
+esta situación se utilizan índices como los de Gini o de Atkinson, que incorporan en su definición información sobre todos los individuos o familias de la
+muestra. Este último obvia alguno de los problemas teóricos que presenta el
+primero. Sin embargo, el indicador de más frecuente utilización para medir la
+desigualdad es el índice de Gini que, por definición, está comprendido entre
+0 y 1. El valor de 0 corresponde a la situación de absoluta igualdad y el valor
+de 1 al de absoluta desigualdad, es decir, cuando un individuo o una familia
+acapara la totalidad de la renta. Los niveles más altos del índice de Gini, después de impuestos y transferencias, que tienen las sociedades más desiguales
+corresponden a valores alrededor del 0,6, y en ellos están situados la mayoría
+de los países hispanoamericanos y africanos. En los países de la OCDE, el
+índice de Gini varía entre 0,25 y 0,4; el valor correspondiente a España en el
+año 2013 fue de 0,335.
+Otro indicador utilizado con frecuencia es el representado por la
+métrica S90/S10, que corresponde al cociente de la renta media del 10% más
+rico entre la del 10% más pobre. De acuerdo con los últimos datos publicados
+por la OCDE, el valor, correspondiente a España, de este cociente ha pasado
+de 9,9 en el año 2007 a 11,7 en 2013. Es decir, la renta media del 10% de los
+individuos que más han ganado ha pasado de ser 9,9 veces mayor que la renta
+de los individuos que menos han ganado antes de la crisis a ser 11,7 veces
+mayor después de ella. Si pudiéramos interpretar este cociente como un indicador de la distancia social veríamos que la crisis la ha aumentado sensiblemente en España. Además, Grecia y España ocupan, dentro de los países de la
+UE, los dos primeros puestos en esta medida de distancia social. Aun partiendo
+de valores más bajos, en el resto de los países esta distancia no ha aumentado
+de modo tan llamativo en la crisis, o si lo hizo fue con incrementos sustancialmente menores.
+Hay que señalar que una obvia limitación de esta clase de métricas es
+que están derivadas de una determinada distribución de renta, que solo tiene
+en cuenta las rentas monetarias, y es bien sabido que el conjunto de oportunidades de un individuo está condicionado no solamente por las rentas monetarias, sino también por las no monetarias, como son, por ejemplo, las derivadas
+
+289
+
+
+
+de las preferencias individuales, tales como la satisfacción del propio trabajo y
+de la asignación y empleo del tiempo dedicado al ocio. Es evidente la dificultad de medir la mayor parte de las rentas no monetarias, y puesto que no existe
+una relación sistemática entre las rentas monetarias y no monetarias, la sola
+utilización de aquellas presenta problemas de diversa naturaleza a la hora de
+interpretar los resultados.
+Como he indicado al comienzo, multitud de recientes trabajos empíricos han puesto de manifiesto la imposibilidad de afirmar con carácter general
+la existencia de una determinada relación causal entre crecimiento y desigualdad. Véase, a modo de resumen, el trabajo de Cingano (2014).
+Dos son las razones por las que la desigualdad en un país es relevante.
+En primer lugar, por evidentes motivos de equidad y justicia social, y en
+segundo término por la indudable relación que existe entre los niveles de desigualdad económica y el crecimiento económico. Aunque, como hemos señalado, el tipo e intensidad de esta última relación depende de las características
+específicas del país en estudio. Desde un punto de vista teórico, dos son también las razones que tienden a plantear esta relación en un sentido o en el
+contrario. En un caso asociamos la desigualdad a los incentivos para trabajar,
+ahorrar y tomar riesgos, que son factores determinantes en el crecimiento económico; por el contrario, también la podemos relacionar con una pérdida de
+capital social que, entre otras consecuencias, tiene la de infrautilizar el potencial productivo. En fin, determinar la naturaleza de esta relación es un problema que debe ser resuelto empíricamente y del que, hay que reiterar, nunca
+se pueden extraer conclusiones de carácter general. Además, cuando tal relación existe no necesariamente fluye en una determinada dirección, pudiendo
+ser también una relación causal bidireccional. En definitiva, cabe afirmar que
+no todas las políticas que favorecen el crecimiento económico van en detrimento de la igualdad, con el mismo énfasis que cabe decir que tampoco las
+medidas que pretenden alcanzar una distribución más equitativa de la renta
+traen como consecuencia reducir el crecimiento.
+Probablemente una de las causas por las que los análisis econométricos de la relación entre desigualdad y crecimiento son tan inestables es que en
+la métrica de la desigualdad económica se integran dos tipos de desigualdad
+que tienen orígenes distintos: la primera de ellas es la que genera la desigualdad de oportunidades y la segunda la que se genera por el esfuerzo y trabajo
+de los individuos. En efecto, fue Roemer (1993), véase también Roemer y Trannoy (2015), uno de los primeros autores que diferenciaron las causas que explican la renta de un individuo entre las que están bajo su control y las que no
+lo están. Por consiguiente, toda métrica de desigualdad de la renta es la suma
+de dos componentes, la derivada de la desigualdad de oportunidades y la que
+tiene su causa en el trabajo y el esfuerzo. Es fácil comprender que los oríge-
+
+290
+
+
+
+nes de ambas son muy distintos. En el entorno de una economía de mercado,
+la desigualdad derivada del esfuerzo está plenamente justificada, pero la derivada de la desigualdad de oportunidades no debiera estarlo. En este contexto,
+la idea de justicia social nada tiene que ver con las maquinaciones de identificarla con la simple y llana igualación de las rentas monetarias, con el erróneo
+propósito de reducir la desigualdad a cero. Es bien sabido que estrategias redistributivas definidas exclusivamente por medio de impuestos y transferencias
+no son necesariamente efectivas ni sostenibles financieramente. Por el contrario, de lo que se trata es de igualar, en la medida de lo posible, las oportunidades que los individuos tienen en su desarrollo personal y profesional. Y esta
+propuesta no solo se defiende por razones de justicia social que, desde luego,
+ya serían suficientes, sino también por razones de eficiencia económica.
+Uno y otro tipo de desigualdad se conocen, respectivamente, como la
+desigualdad derivada del esfuerzo y la derivada de las circunstancias. Francisco
+Ferreira, un economista del Banco Mundial, explica esta diferencia con un símil
+de muy fácil interpretación. Señala que así como hay colesterol bueno y malo,
+también hay dos clases de desigualdad: la buena, debida al esfuerzo, y la mala,
+que es la debida a las circunstancias. Entendemos por circunstancias del individuo, por ejemplo, el tipo de formación, la actividad profesional y la renta de
+los padres, el sexo, la raza y su lugar de nacimiento. No se consideran dentro
+de ellas factores tales como la suerte o, en su caso, la herencia genética. En
+algunas situaciones esta diferenciación es clara, como, las relacionadas con el
+sexo, la raza o la clase social, pero en algunas otras no lo es tanto y así, por
+ejemplo, ¿dónde pueden establecerse las fronteras entre las circunstancias que
+conducen a una determinada capacidad natural?; ¿qué parte se debe al esfuerzo
+y qué otra parte es innata y, por consiguiente, exógena? Si las razones de la
+diferencia son las circunstancias de carácter discriminatorio, puede hablarse de
+falta de igualdad de oportunidades, pero si la desigualdad tiene origen en circunstancias aleatorias, lo que llamamos suerte, no cabe hablar de injusticia o
+falta de igualdad de oportunidades. En efecto, dos individuos con idénticas
+preferencias y oportunidades, pueden alcanzar resultados distintos. Gráficamente, Atkinson y Stiglitz (1980) ponían un ejemplo de esta situación diciendo
+que: «algunas personas eligen trabajar en empresas que terminan en bancarrota, mientras que otras deciden invertir en Rank Xerox». Por cierto, este era
+un ejemplo válido en 1980, hace un cuarto de siglo, cuando no era imaginable
+la sociedad digital en la que hoy vivimos y Rank Xerox parecía una empresa
+de futuro.
+Desde los influyentes trabajos de Rawls (1971) y Sen (1980) sabemos
+que, desde un punto de vista normativo, el criterio esencial para interpretar
+los análisis de la distribución de la renta o, lo que es lo mismo, de la desigualdad de resultados en una determinada sociedad, es necesaria una previa y
+correcta evaluación de la igualdad de oportunidades en ella.
+
+291
+
+
+
+Pienso que más allá del palabreo que durante décadas ha envuelto el
+objetivo de la igualdad de oportunidades, queda un amplio trecho por recorrer
+para definir con el mayor rigor posible los indicadores que la caracterizan.
+Varias son las condiciones que se les deben exigir a indicadores de esta naturaleza. En primer lugar, tener una base conceptual clara acerca de lo que se pretende observar y medir. En segundo lugar, no pretender ser exhaustivos en la
+cuantificación de este proceso, en la creencia de que la utilización de pocos y
+representativos indicadores es una elección mejor que el manejo de docenas
+de ellos. En tercer lugar, reconocer que la elección de un indicador conlleva
+necesariamente en muchos casos un determinado juicio de valor; si así fuera,
+habría que hacerlo explícito. Finalmente, debe ser exigible, que entre los indicadores que se utilicen se distingan claramente los que miden las causas de la
+desigualdad de oportunidades de los que miden sus consecuencias.
+Una caracterización parcial de la igualdad de oportunidades viene dada
+por la movilidad social, medida por la elasticidad de la renta intergeneracional.
+Es decir, la elasticidad entre la renta de los padres y la de los hijos una vez adultos; o, dicho en otros términos, el tanto por ciento de la renta de los padres que
+persiste en los hijos cuando llegan a adultos. La movilidad social, medida por
+la elasticidad de la renta intergeneracional no es estrictamente un indicador
+completo de la igualdad de oportunidades, ya que considera solamente una circunstancia exógena como es la renta de los padres. Por ejemplo, bajo ningún
+supuesto se podría entender que una elasticidad nula representa una absoluta
+igualdad de oportunidades. Para realizar inferencias de esta naturaleza hay que
+volver a la distinción básica entre la desigualdad derivada de las circunstancias,
+por las que los individuos deben ser compensados y ayudados, y la desigualdad derivada de su propio esfuerzo y de decisiones personales de las que son
+exclusivamente responsables.
+
+CURVA DEL GRAN GATSBY
+Pero a pesar de la dificultad de caracterizar la desigualdad de oportunidades por una sola métrica, la elección de la elasticidad entre rentas intergeneracionales parece razonable. De la misma manera se puede justificar la elección del índice de Gini como una medida de desigualdad, pese a las conocidas
+limitaciones que presenta, y a las que ya me he referido aquí hace diez años.
+Pues bien, varios son los autores que han analizado la relación entre
+la desigualdad de la renta, medida por el índice de Gini, y la movilidad social,
+medida por este índice de persistencia en las rentas intergeneracionales, para
+diversos conjuntos de países e incluso para las distintas regiones de un mismo
+país. Básicamente las muestras más utilizadas son las correspondientes a los
+
+292
+
+
+
+países de la OCDE. Probablemente el trabajo más accesible sobre esta relación
+es el Corak (2013), de cuyos análisis teóricos y empíricos parten muchos de los
+posteriores. Todos estos análisis han demostrado que la relación que existe
+entre desigualdad de rentas y movilidad social es clara y robusta, tal y como
+recientemente han justificado, entre otros, Jerrim y Macmillan (2015).
+La representación gráfica de esta relación se conoce, en la literatura
+reciente, como la curva del Gran Gatsby (CGG). Hace referencia al protagonista
+de la famosa novela de Scott Fitzgerald, y el término fue acuñado por el profesor de la Universidad de Princeton, Alan Krueger (2012), cuando era el responsable de la oficina económica del presidente de EE. UU. Varias son las interpretaciones que pueden justificar el nombre dado a esta relación, ya que el
+protagonista de la novela, Jay Gatsby, podría ser un ejemplo de movilidad
+social. Pero quizás sea suficiente recordar su famoso primer párrafo, cuando el
+padre del narrador le dice a su hijo: «Siempre que sientas deseos de criticar a
+alguien, recuerda que no a todo el mundo se le han dado tantas facilidades
+como a ti».
+Es importante interpretar adecuadamente el significado de la CGG
+para, en su caso, poder definir y aplicar las correspondientes políticas públicas
+que conduzcan a la minimización de la desigualdad de oportunidades. En primer lugar, es preciso señalar, una vez más, la importancia de no confundir
+correlación con causalidad. En un principio, lo que la CGG muestra es simplemente la correlación negativa que existe entre desigualdad de renta y movilidad social. Con palabras de Miles Corak, cabe decir que la CGG más que medir
+señala la relación negativa que existe entre desigualdad de rentas e igualdad
+de oportunidades.
+Los trabajos iniciales que dieron lugar a la CGG se hicieron considerando determinados conjuntos de países, pero un trabajo de Chetty et al. (2014)
+realizado con datos de EE. UU., llega también a la conclusión de que aquellos
+Estados más desiguales son los que tienen menor movilidad social. Además, se
+comprueba que cuando niños nacidos en un determinado Estado se trasladan
+a otro con mayor movilidad social tienden a recoger los beneficios de vivir en
+ese nuevo entorno, lo que sugiere que tal cambio de circunstancias mejora sus
+oportunidades económicas.
+En todo caso, lo que se deduce de la CGG, sin ambigüedad alguna, es
+que cuanto más desigual es una sociedad menos movilidad social hay en ella.
+Pero es obvio que de esta relación no puede concluirse, por ejemplo, que una
+disminución de la desigualdad de las rentas en un país garantice, por sí misma,
+una mayor movilidad social. El problema, obvio es decirlo, no consiste en privar de oportunidades a quien las tiene, sino en ofrecérselas a quien carece de
+ellas. No es innecesario recordarlo, ya que en esta materia, como en tantas
+
+293
+
+
+
+otras, abundan los chamanes que se caracterizan por ofrecer soluciones sencillas a problemas colectivos que suelen ser complejos. En mi opinión, la manera
+correcta de utilizar la CGG es intentar obtener de ella las verdaderas causas
+que conducen a la falta de movilidad social.
+Caracterizar la posible relación causal entre estas dos variables necesita algún paso adicional al mero hecho de constatar su correlación, tal y como
+más detenidamente intenté poner de manifiesto cuando intervine por última vez
+en este pleno. Identificar la dirección de causalidad entre variables es un requisito imprescindible a la hora de definir las políticas públicas aplicables. Sin
+embargo, la simple correlación es de ayuda cuando lo único que se pretende
+es hacer una predicción de una de las variables conociendo el valor de la otra.
+Así, la robusta relación que describe la CGG muestra de forma determinante
+que altos niveles de desigualdad en un país señalan un bajo nivel en la igualdad de oportunidades de sus ciudadanos.
+Volviendo, entonces, al principio de mi intervención, no cabe afirmar
+que analizar los problemas de desigualdad económica no sea una propuesta de
+interés, ya que este tipo de consideraciones conduce a medidas que aumentando la equidad tienden a minorar el crecimiento y la riqueza. Mucho menos
+justificado está, desde luego, que se le atribuyan a este propósito comportamientos relacionados con la envidia social, afirmando que en materia de desigualdad de lo único que hay que preocuparse es, simplemente, de abordar los
+problemas de pobreza en términos absolutos, es decir, la pobreza extrema.
+Habría que esperar que dada esta tozuda evidencia empírica, el debate político
+y económico se ensanchara a consideraciones bien fundadas sobre la igualdad
+de oportunidades, y que necesariamente obligaran a abrir el debate sobre las
+tremendas desigualdades de renta en los países desarrollados.
+Las líneas básicas de la investigación desarrolladas, de forma independiente, por dos premios Nobel, Gary Becker, véase Becker y Tomes (1979,
+1986), y James Heckman (2000), dan soporte muy amplio para considerar la
+evidencia empírica de la CGG compatible con sus formulaciones teóricas.
+Como estos autores demuestran, en este proceso juegan un papel fundamental tres factores determinantes: los derivados del entorno familiar, los
+derivados del mercado de trabajo y los derivados de las políticas públicas, fundamentalmente las relacionadas con la educación y la salud. Estos tres factores se solapan e iteran entre sí de muy diversas formas dependiendo de la realidad concreta de cada país. Por eso no cabe definir una misma política
+económica y social para todos ellos.
+
+294
+
+
+
+FAMILIA, MERCADO DE TRABAJO
+Y SISTEMA EDUCATIVO
+Las familias con mayor nivel de formación y renta tienden a hacer una
+mayor inversión en sus hijos, tanto de dinero como de tiempo. La calidad del
+trabajo de los padres tiene un impacto indudable en la educación de sus hijos,
+ya que trabajos erráticos y mal retribuidos se acoplan con frecuencia mal a las
+necesidades diarias de los hijos. El profesor Heckman hace hincapié en la
+importancia de la inversión en educación en la primera infancia, y demuestra
+empíricamente que es la más eficaz a la hora de minorar las desigualdades iniciales; esperar a la adolescencia puede ser ya demasiado tarde; véase Heckman
+y Mosso (2014).
+En cuanto al mercado de trabajo, son importantes no solo las reglas
+formales que lo definen, sino también las informales. Es decir, no solo el conjunto de normas legales que le son aplicables, sino también los sistemas de valores y convenciones sociales que rigen y condicionan el comportamiento tanto
+de los empleados como de los empleadores. Por ejemplo, cuando el éxito
+depende de a quién conoces en lugar de qué conoces, estamos en una clara
+situación de desigualdad de oportunidades, y más desigual aún si lo relevante
+es a quién conocen tus padres. El profesor de Harvard, Ricardo Hausmann
+(2015) justifica bien el hecho de que es el aparato productivo el que puede tirar
+de la educación, pero la educación no puede empujar el aparato productivo. Por
+eso, y como ya he señalado en otras ocasiones, a pesar de los conocidos problemas de nuestro sistema educativo, pienso que la restricción activa que tenemos para formular un nuevo modelo de crecimiento está principalmente en
+otros lugares distintos. En términos más generales, cabe señalar la baja calidad
+de nuestras instituciones como la causa última de nuestras dificultades. En
+España fue el profesor Carlos Sebastián el primero que puso de manifiesto este
+problema, frente a la creencia generalizada de que basta la disponibilidad de
+capital físico y humano para asegurar tasas de productividad crecientes. Su nuevo
+libro, Sebastián (2016), ofrece las ideas y ejemplos que así lo acreditan.
+De lo anterior no cabe deducir que la acumulación de capital humano
+no sea importante, lo que se pretende señalar es que muchos de los males de
+nuestro sistema educativo son ajenos a él; por ejemplo, la inestabilidad normativa en el sector y la baja calidad de las instituciones que lo regulan. Parece
+razonable pensar que cualquier tipo de reforma tiene que identificar bien las
+condiciones iniciales del problema que se pretende resolver. El camino adecuado requiere un proceso previo de análisis de las debilidades específicas del
+sistema, antes de embarcarse en reformas a gran escala, como las que se han
+prodigado en nuestra legislación educativa de las últimas décadas. En esta materia, como en tantas otras, parece más adecuada la estrategia de acumulación
+gradual de progresos concretos y cuantificables. Pues bien, hoy, una vez más,
+
+295
+
+
+
+se está hablando de una derogación total de la LOMCE. Tal vez sean muchos
+los problemas que contenga, y yo creo que los tiene, pero no parece razonable
+empezar otra vez de nuevo y desde el principio, pues pienso que no sería difícil alcanzar un consenso en esta materia, más allá de los conocidos enfrentamientos entre Religión y Educación para la Ciudadanía. Eso sí, siempre que en
+el debate no se introduzcan argumentos tan peregrinos como los expuestos por
+las más altas autoridades en la materia, afirmando que se debe a la LOMCE
+haber encontrado la solución a uno de nuestros principales problemas, como es
+el del abandono escolar. En efecto, la tasa de abandono escolar llegó a ser el
+32% en el año 2008, zenit de la burbuja inmobiliaria, reduciéndose al 22% en el
+año 2014, pero no se puede argumentar con seriedad, para justificar la legislación vigente, que la causa de tal caída reside en las bondades de la LOMCE. El
+profesor García Montalvo (2015) ha demostrado que la causa fundamental de
+esta drástica reducción en la tasa de abandono escolar ha sido, simplemente, el
+final de nuestros excesos inmobiliarios que han coincidido con el comienzo de
+la crisis. En esta nueva situación ya no hay un entorno de salarios aceptables
+para empleos de bajos niveles educativos que incentive a los alumnos a abandonar de modo prematuro su formación. He aquí una inesperada consecuencia
+de nuestro modelo de crecimiento del período 1995 a 2007.
+El mercado de trabajo es el que fija la prima de cualificación en los
+salarios (skill wage premium), que es la que mide la retribución monetaria que
+se da al nivel de estudios. Desafortunadamente, los altos salarios ofrecidos
+durante el período 1995 a 2007, por la elevada demanda de trabajadores en sectores como la construcción, y la baja cualificación requerida por la mayoría de
+los puestos de trabajo generados por la economía española, facilitaron una
+contracción significativa de la prima de cualificación de los salarios. Está claro
+que cuanto mayor sea esta prima, mayor será el incentivo de padres e hijos para
+invertir en capital humano. Es también indudable que cuanto mayores sean los
+costes de la educación y de la formación menor será la demanda y la inversión
+en ella, sobre todo en los entornos de rentas bajas. Finalmente, la naturaleza y
+calidad de las instituciones relacionadas con la educación y la salud juegan un
+papel determinante, en especial en los entornos con bajos niveles de renta. La
+evidencia empírica nos dice que este es el factor más concluyente entre los
+distintos niveles de movilidad social que se encuentran en los países desarrollados, y que se ponen de relieve en la CGG.
+
+ECONOMÍA CLIENTELAR
+Una mayor movilidad intergeneracional se justifica no solo por razones
+de equidad, sino también de eficiencia. Puesto que el talento potencial está
+distribuido entre todos los estratos socioeconómicos, es claro que propiciar
+
+296
+
+
+
+una mayor movilidad facilita que las capacidades y los talentos se asignen a
+aquellas actividades en las que se tienen ventajas competitivas. Se generan así
+los incentivos adecuados para que los individuos utilicen dichas ventajas, lo
+cual, como es bien sabido, resulta necesario para el buen funcionamiento de
+las economías de mercado.
+Además, la movilidad social, por definición, tiene como secuela que las
+élites económicas, sociales y políticas sean más diversas, mudables y transparentes. Como consecuencia, el indudable poder que en toda sociedad ejercen
+sus élites sobre las instituciones, responderá mejor a la pluralidad y a las preferencias del conjunto de la sociedad cuando exista un cierto nivel de movilidad social. Evitaríamos así, en palabras del profesor Daron Acemoglu (2012),
+la consolidación de élites extractivas, caracterizadas por disponer de un sistema de captura de rentas que permite, sin crear nueva riqueza, detraer rentas
+del conjunto de los ciudadanos en beneficio propio. En contraposición, las élites inclusivas, que se caracterizan por comportamientos equitativos, eficientes
+y transparentes, son las que promueven una mayor movilidad social.
+Está suficientemente acreditado que en entornos de baja calidad institucional la falta de movilidad social tiende a situar en los niveles de renta más
+altos la capacidad de influir en el marco que regula la actividad económica. Es
+esta una situación propicia para el proceso de extracción de rentas que genera
+la llamada economía clientelar, que consiste en la utilización de la capacidad
+normativa y de gasto de las distintas Administraciones (local, autonómica y
+estatal) en beneficio de una o varias personas, empresas o grupos de interés,
+y en perjuicio de terceros, que generalmente son los ciudadanos.
+Desde un punto de vista económico se pueden agrupar en tres áreas los
+problemas que genera la economía clientelar. En primer lugar, reduce la competitividad de la economía en su conjunto, favoreciendo a las empresas y actividades ya establecidas y poniéndole trabas de todo tipo a la innovación y a las
+empresas entrantes. Como consecuencia, afecta de manera muy relevante a la
+adecuada asignación de talento. En segundo lugar, genera una verdadera aglomeración de injustificadas subvenciones y exenciones fiscales, casi nunca respaldadas por razones de equidad y eficiencia. Además, es el origen de emprendimientos públicos con bajas o negativas rentabilidades sociales, que dan lugar
+a los llamados elefantes blancos, que son aquellos proyectos inviables o de
+dudosa utilidad y con elevados costes de mantenimiento. La España de las dos
+últimas décadas es un verdadero mosaico de obras públicas de esta naturaleza.
+Finalmente, impide llevar a cabo reformas económicas fundamentales: nuestras
+famosas, y siempre pendientes, reformas estructurales.
+En mi opinión, un buen procedimiento para caracterizar al menos una
+parte de la economía clientelar puede ser el detenido análisis de las normas y
+
+297
+
+
+
+regulaciones que genera en el BOE. Es el Parlamento el que aprueba las normas dentro de una tradición no caracterizada precisamente por el estudio y la
+discusión de los documentos técnicos, cuando existen, que las soportan. El
+profesor Manuel Aragón, en su discurso de ingreso en la Real Academia de
+Legislación y Jurisprudencia del pasado 6 de abril, recogía algunas cifras sobre
+el uso y abuso del decreto ley. Desde 1979 hasta el 30 de noviembre de 2015,
+frente a 1452 leyes ordinarias y 341 orgánicas, se dictaron 518 decretos leyes,
+lo que representa el 29% de toda la legislación parlamentaria y el 35,7% de las
+leyes ordinarias. Pero esta costumbre ha ido aumentando con el tiempo, de tal
+manera que para el periodo de enero de 2011 a noviembre de 2015 hubo 99
+decretos leyes frente a 166 leyes ordinarias y 53 orgánicas, lo que ha elevado
+la proporción de decretos leyes al 45,2% de toda la legislación parlamentaria y
+al 59,6 % de las leyes ordinarias.
+Como es bien sabido, en nuestra Constitución esta figura se recoge solamente como excepción para «caso de extraordinaria urgencia y necesidad».
+Quizá la urgencia de la crisis económica ha justificado en los últimos años
+alguno de estos decretos leyes, pero es difícil explicar por ella un abuso tan
+significativo. Además, es fácil comprobar que propicia la falta de calidad de las
+normas. Como señala López Medel (2014), probablemente uno de los ejemplos
+recientes más señeros es el del Real Decreto Ley 8/2014, del sábado 4 de julio
+en el que en 172 páginas del BOE se alteran 26 leyes de índole distinta. El poco
+sosiego en su redacción obligó a que solo cinco días después el BOE tuviera que
+publicar seis páginas para corregir los errores de esta disposición.
+Pero lo interesante aquí es señalar también que a esta falta de calidad
+normativa se añade la evidencia empírica de que tal forma de legislar facilita
+que se incorporen muchos aspectos de la economía clientelar, atendiendo a
+intereses particulares o de determinados grupos de presión. El abuso de este
+singular concepto de la necesidad y urgencia se pone también de manifiesto,
+por ejemplo, en muchas de las enmiendas de última hora que se introducen en
+los trámites parlamentarios. Sería un ejercicio de sumo interés analizar la relación existente entre esta forma de legislar y la protección que recibe de ella la
+que hemos definido como «economía clientelar».
+Es muy frecuente en los países desarrollados que algunas de sus infraestructuras básicas se desarrollen en régimen de concesión. De tal forma que el
+Estado concede a una o a varias empresas privadas el derecho a la explotación
+de una determinada infraestructura, a cambio de su financiación, durante un
+determinado período de tiempo y bajo ciertas condiciones. Carlos Sebastián
+(2016) define con claridad los elementos básicos que deben incorporar acuerdos de esta naturaleza. En primer lugar, la infraestructura objeto de la concesión
+debe corresponder a una necesidad identificada y justificada de forma clara y
+transparente por la Administración pública y, desde luego, no debe surgir como
+
+298
+
+
+
+consecuencia de la oferta que los futuros concesionarios puedan realizar. En
+segundo lugar, al término del período de la concesión la gestión debe revertir
+en el Estado, que fijará las nuevas condiciones de la explotación. En tercer lugar,
+la financiación de la inversión la debe plantear la empresa concesionaria sin
+traspasar al Estado riesgos indebidos. Otras condiciones, incluidas las tarifas asociadas al servicio, no deben estar sometidas a cambios arbitrarios. Finalmente,
+en caso de insolvencia debe establecerse con claridad y con una equitativa asunción de costes la responsabilidad pública en la solución concursal.
+En materia de concesiones, la economía clientelar se caracteriza por el
+incumplimiento de una o varias de estas condiciones, y en no pocos casos en
+la historia reciente de nuestra planificación de infraestructuras se ha dado esta
+situación. Normalmente el resultado ha sido un proceso de redistribución de
+renta a favor de los concesionarios y, en algunos casos, a favor de los constructores de la infraestructura.
+Superado un primer curso de Economía, se sabe bien que para que los
+recursos se asignen de forma eficiente en una economía de mercado han de
+cumplirse ciertas condiciones. Cuando alguna de ellas no se cumple, se habla
+de un fallo de mercado. Desde luego, la corrección de tales fallos requiere la
+intervención pública. Caben, entonces, dos tipos de intervención del Gobierno
+en la economía: la primera corrige los fallos de mercado y facilita su mejor funcionamiento; la segunda, por el contrario, protege determinados intereses privados en detrimento de la competitividad de la economía. La primera promueve y está a favor de la economía de mercado y la segunda, simplemente,
+está a favor de determinadas empresas o individuos. Por eso hay que diferenciar claramente entre las políticas económicas a favor del mercado de aquellas
+otras a favor de las empresas.
+Un reciente trabajo de los profesores García-Santana, Moral-Benito,
+Pijoan-Mas y Ramos (2016), pone de manifiesto no solo la negativa evolución
+de la productividad durante el período 1995-2007 de expansión de nuestra economía, sino también demuestra que aquel proceso consistió básicamente en un
+quebranto en la asignación de recursos entre empresas, que fue el origen de las
+ineficiencias y distorsiones de nuestro modelo productivo. Este problema fue
+especialmente grave en los sectores más propensos al capitalismo clientelar. En
+efecto, siguiendo el índice de capitalismo clientelar (crony capitalism index),
+creado por The Economist, y una vez divididos los sectores de la economía española entre los potencialmente relacionados con la economía clientelar y los que
+están al margen de ella, los autores demuestran que la pérdida de productividad de los sectores clientelares, aquellos en los que la influencia del gobierno
+es más determinante, ha sido el doble que la de los sectores no clientelares.
+Además, y paradójicamente, se demuestra también que el crecimiento de las
+empresas fue inversamente proporcional a su productividad.
+
+299
+
+
+
+ALGUNOS EJEMPLOS
+Para ilustrar las aproximaciones académicas como la que brevemente
+he comentado, son múltiples los ejemplos concretos que se encuentran en sectores vitales de nuestra economía y con los que nos relacionamos a diario.
+Los problemas por los que pasa la sostenibilidad de nuestro estado de
+bienestar no pueden justificar, por sí solos, la privatización o el desempeño
+privado de servicios tales como la educación y la sanidad. La evidencia es muy
+grande respecto a la aparición de la economía clientelar en este tipo de decisiones. Los convenios y concesiones públicas que este proceso conlleva, deben
+estar suficientemente documentados y debatidos, ex ante y ex post, en cuanto
+a su eficiencia y equidad. Sin embargo, con frecuencia no responden más que
+a la capacidad de determinados grupos de presión y empresas de servicios
+concretas para inclinar la balanza en una u otra dirección. Desafortunadamente,
+este ha sido un campo muy fértil para la economía clientelar durante las últimas décadas en nuestro país.
+Pero, probablemente, los dos sectores más conocidos por la presencia
+en ellos de la economía clientelar sean el de las infraestructuras y el energético. En
+cuanto a las infraestructuras, son especialmente relevantes la aeroportuaria y
+una gran parte del trazado de las líneas del AVE. Pero casos también muy evidentes son los de las autopistas catalanas y las autopistas radiales de Madrid.
+Pienso que la política energética en España es uno de los mejores ejemplos de lo que llamamos economía clientelar. Con un propósito distinto me
+referí a esta política en otras ocasiones en este pleno. Pero merece la pena recordar algunos aspectos. Por ejemplo, la reciente Ley del Sector Eléctrico sigue
+manteniendo el criterio que durante décadas ha estado en vigor sobre la retribución de los distintos grupos de generación eléctrica. En efecto, estos grupos
+venden su electricidad en un mercado mayorista centralizado a través de un
+operador del mercado. Este mercado es marginalista, es decir, el precio que se
+paga a todos los grupos de generación es el mismo y coincide con el corresponde al último MWh casado en él.
+La primera consecuencia de esta forma de definir el mercado es que,
+puesto que todas las tecnologías de generación eléctrica se retribuyen de igual
+modo, no se tiene en cuenta el coste real de cada una de ellas. Por consiguiente,
+el precio que pagamos por la energía hidráulica y nuclear termina indiciado con
+el precio del petróleo y del gas natural, ya que estas son las últimas tecnologías
+que entran en funcionamiento. Dicho de otro modo, cada vez que el petróleo
+y el gas suben de precio también sube la retribución de la energía producida por
+nuestras centrales hidráulicas y nucleares, sin que haya variado su coste real de
+producción. Es decir, un verdadero sinsentido, para el contribuyente y consu-
+
+300
+
+
+
+midor final, pero no desde luego para las compañías eléctricas tradicionales.
+Este exceso de retribución de las centrales hidráulicas y nucleares representó,
+solo desde el año 2006, un importe superior a los 30.000 millones de euros. En
+todo caso, cifras que son del orden de magnitud del famoso déficit de tarifa
+acumulado, del que se culpa a las energías renovables.
+Es difícil entender cómo con este sistema de retribución a las centrales nucleares alguien puede defender en España este tipo de energía pues,
+como hemos visto, la consecuencia para el consumidor final es que el precio
+que se paga por la energía que generan es idéntico al de las energías fósiles.
+Hay que señalar que la economía clientelar alrededor del sistema eléctrico ha hecho creer al ciudadano que este famoso déficit de tarifa se debe a
+las subvenciones a las energías renovables. Cierto es que esta no es una situación exclusiva de nuestro país, ya que la influencia de los grupos de interés
+alrededor de la energía fósil es muy grande. Uno de sus propósitos es resaltar
+lo caras que son las energías renovables debido a la cantidad de subvenciones
+que reciben. Pero los datos contradicen esta opinión tan generalizada, pues
+como recientemente ha reconocido la Agencia Internacional de la Energía, IAE
+(2015), pág. 90, las subvenciones que recibe la energía fósil son más de cuatro
+veces superiores a las que reciben las energías renovables. Y ello, desde luego,
+sin considerar las tremendas externalidades negativas que generan las energías
+fósiles para la salud, el medio ambiente y, sobre todo, como responsables principales del cambio climático.
+En cuanto a las centrales hidroeléctricas, no deja de ser singular el
+modo en el que operan en nuestro país, ya que disfrutan de concesiones que
+han ido extendiendo en el tiempo, a medida que también ampliaban la capacidad de las instalaciones en los ríos que utilizan, mediante procesos bastante
+exentos de transparencia y, desde luego, sin competencia alguna. En fin, las
+compañías que utilizan estos ríos nada pagan por el uso de un recurso público
+y escaso. Probablemente las operadoras de telecomunicaciones hubieran deseado el mismo tratamiento por el empleo del espectro radioeléctrico.
+Genera una profunda desolación recordar que nuestro país, que llegó
+a ser líder en varios ámbitos de las energías renovables, haya dejado de serlo
+por un llamativo, interesado y falso diagnóstico al atribuir a este tipo de energías el llamado déficit de tarifa del sector eléctrico. Parece razonable afirmar
+que una salida razonable de la crisis debiera estar asentada en sectores de
+futuro, como el de las energías renovables, y no en aquellos otros fundamentalmente relacionados con la construcción y la economía clientelar. Con la crisis, y sobre todo con su gestión, hemos conseguido demoler el sector de las
+energías renovables, el único en el que, en materia energética, España llegó a
+tener ventajas competitivas muy notables y en el que tiene ventajas compara-
+
+301
+
+
+
+tivas evidentes respecto a otros países europeos que, como Alemania, lideran
+hoy el sector.
+También en el sector energético, un ejemplo ilustrativo de economía
+clientelar es el conocido como proyecto Castor, que consistió en la construcción de un depósito subterráneo y submarino de gas natural en el Mediterráneo. Cuando se inició la inyección de gas en el depósito aparecieron una serie
+de perturbaciones sísmicas en la zona costera próxima que llevaron, junto con
+otras dificultades técnicas adicionales, a suspender y abandonar el proyecto.
+Esta decisión se tradujo en un primer pago de la Administración a la empresa
+privada encargada de construir y explotar el almacén de 1.350 millones de
+euros.
+A esta situación se llegó mediante un acuerdo inicial, con esa empresa
+privada, reflejado en un Real Decreto de mayo de 2008, que traspasaba al
+Estado todo el riesgo de un proyecto tan singular, y que se alcanzó con un
+Gobierno de un determinado signo político. Una decisión posterior, a finales
+de 2014, de un Gobierno de signo político distinto al anterior, hizo efectivo el
+pago inicial de los 1.350 millones de euros. Además, y con objeto de no incrementar el déficit público en esta cantidad, este último Gobierno consiguió que
+otra empresa privada como es Enagás asumiera la titularidad del depósito
+fallido. En compensación, el Gobierno adquirió el compromiso de que Enagás
+pudiera repercutir en la tarifa del gas durante los próximos 30 años el coste de
+este desaguisado. Eso sí, previamente hubo un cambio en el gobierno corporativo de Enagás por el que se incorporaron a su Consejo de Administración dos
+exministros y un expresidente del partido del Gobierno como consejeros independientes. Esta decisión ha tenido como resultado que los 8 millones de consumidores que, aproximadamente, hay en España asumen ya este año el pago
+de los primeros 100 millones de euros para hacer frente a la indemnización
+del Castor que así seguirán financiando durante los próximos 30 años.
+Cuando hablamos de economía clientelar, este ejemplo tiene casi todos
+los ingredientes posibles. En la terminología al uso, es un típico elefante blanco,
+que en este caso ha generado una clara, y fácilmente cuantificable, transferencia de renta desde los consumidores a una empresa privada. Por el camino,
+además, se han fomentado las peores prácticas de gobierno corporativo en una
+empresa cotizada.
+Hay que añadir que a la cifra inicialmente pagada de 1.350 millones
+de euros como «valor neto de la inversión», se han agregado hace pocas semanas otros 295 millones de euros, esta vez en concepto de «derechos retributivos» por los dos años en los que se dice estuvo operando el depósito, aunque
+fuese en fase de pruebas. Es natural predecir que los análisis técnicos y económicos que hayan podido justificar estos pagos de cerca de 1.700 millones
+
+302
+
+
+
+de euros no están fácilmente accesibles para una rigurosa evaluación ex post
+de esta aventura.
+Debido al fuerte proceso de descentralización económica de las últimas décadas, este comportamiento de redacción clientelar de normas y convenios se ha extendido también a la Administración local y autonómica. Muchos
+son los ejemplos que se pueden encontrar en estos ámbitos. Es más, en algunos casos se dan situaciones en las que este tipo de acuerdos clientelares incorporan simultáneamente a los tres tipos de Administraciones.
+Una buena muestra de lo que digo es el proceso que condujo al desarrollo urbanístico en el lugar que en su día ocupó la ciudad deportiva de un
+importante club de futbol en el norte del paseo de la Castellana de la ciudad de
+Madrid, y que hoy colman cuatro conocidos rascacielos. Como los más viejos
+del lugar bien conocemos, durante varias décadas, y con Administraciones públicas de distinto signo político, varios presidentes de ese club de futbol, junto
+con empresarios de notable relevancia, intentaron obtener una recalificación
+para transformar el uso de aquellos terrenos de dotacional a urbanizable. Todos
+lo pretendieron y ninguno lo consiguió. No solo las asociaciones de vecinos,
+sino también los sindicatos y los partidos políticos se habían opuesto de manera
+concluyente y unánime a ese cambio, pues prevalecía la idea de mantener otro
+tipo de urbanismo que, tal y como rotundamente se afirmaba entonces, debía
+estar lejos de cualquier especulación inmobiliaria. Aquellos terrenos, en efecto,
+habían sido expropiados en los años 50 del pasado siglo, antes de su cesión a
+dicho club deportivo para la exclusiva construcción de instalaciones deportivas
+de interés público.
+Sin embargo, y sorprendentemente, dicho panorama cambió radicalmente en el transcurso de pocos meses, de tal manera que aquella ciudad deportiva se convirtió en urbanizable. La capacidad persuasiva del nuevo presidente
+del club de futbol hizo que todo el mundo cambiase de opinión, excepto un
+solo partido político, cuya imposibilidad para revertir lo decidido era manifiesta.
+Las razones que esgrimió ese partido, y que durante tantas décadas habían sido
+válidas, no fueron suficientes. Además, en su práctica generalidad, los medios
+de comunicación de aquellos tiempos recogieron con satisfacción y elogios la
+demanda de arreglar, entre otras cosas, con este original talante la precaria economía del club. De manera que el pleno del Ayuntamiento de la capital de
+España ratificaba a finales del año 2001 el correspondiente convenio urbanístico
+con el club de futbol. Tal convenio no solo reconocía la edificabilidad de los
+terrenos, sino que multiplicó abusivamente por varios órdenes de magnitud la
+existente en la zona. Así fue posible la construcción de edificios de hasta 249
+metros de altura y 59 plantas. No creo que haya capital alguna en el mundo en
+la que un club de futbol, o más bien sus representantes, tenga una capacidad
+tan desmedida para transformar el paisaje urbano de la ciudad.
+
+303
+
+
+
+El convenio suscrito contemplaba una serie de condiciones tales como
+un pabellón polideportivo para 20.000 personas y zonas verdes de 60.000
+metros cuadrados que nunca se cumplieron. Se prometía, entonces, que el 80
+% de los 150.000 metros cuadrados recalificados sería de uso público. En fin,
+situaciones como esta ponen de manifiesto lo pedagógico que podría resultar
+que después de todo convenio público-privado se comparasen las justificaciones dadas para su firma con lo realmente firmado y comprometido, y también
+esto último con lo finalmente ejecutado. Debiera ser una condición necesaria
+a toda actuación pública su control y evaluación ex post y, en particular, a convenios de esta naturaleza.
+Además, hay que señalar que la nueva ciudad deportiva del club se
+construyó en una zona de la ciudad en la que originalmente se tenía previsto
+un gran parque con poca edificación, pero de nuevo, esta vez el Gobierno de
+la comunidad autónoma lo hizo posible. Sin embargo, por muy singular que sea
+este ejemplo en el universo de las recalificaciones habidas durante nuestros
+pasados desatinos inmobiliarios, mi propósito con esta reseña no es tanto volver sobre ellos sino recordar, aunque sea por un instante, mis muy relegados
+conocimientos de navegación aérea. Veamos.
+Con el cambio de color político en el Gobierno de España en el año
+1996 se decidió que la mejor solución respecto a las varias alternativas que se
+habían manejado hasta entonces, incluyendo otras ubicaciones, para acomodar
+los incrementos previstos de tráfico aéreo de la capital de España era la ampliación del existente aeropuerto de Barajas. Esta es una decisión criticable desde
+muchos puntos de vista pero, desde luego, no es este el momento para hacerlo.
+Lo que me interesa aquí, simplemente, es resaltar que esta decisión y, por consiguiente, los altísimos costes que conllevó, no solo económicos, sino también
+medioambientales y de otras servidumbres de núcleos de población, fue muy
+anterior a la firma del convenio que dio lugar a la construcción de los cuatro rascacielos. Hay que recordar que el coste de la ampliación alcanzó los 6.200 millones de euros, y todavía hoy existen reclamaciones pendientes por las expropiaciones de terrenos que pueden aumentar esta cifra muy considerablemente.
+Pues bien, ya en el momento en que se tomó la decisión de ampliar
+el aeropuerto y se acordaron numerosas decisiones técnicas, incluyendo los
+sofisticados sistemas de navegación aérea, se sabía que una de las servidumbres de Barajas era la imposibilidad de construir edificios de más de 110 metros
+de altura en donde hoy se alzan las famosas cuatro torres. Como es natural,
+incluso los aficionados del referido club de futbol conocedores de esta situación pensaban que las torres nunca podrían superar esa altura límite. Los técnicos más cualificados bien sabían que en la historia aeronáutica no existían
+antecedentes que pudieran justificar una decisión tan arbitraria e improcedente
+como la de cambiar esta servidumbre en beneficio de intereses privados. Por
+
+304
+
+
+
+esta razón, a mediados del año 2002 la dirección de Aviación Civil informó de
+que los terrenos de la antigua ciudad deportiva estaban afectados por un espacio de servidumbre aérea que impedía construir a más de 110 metros. Comoquiera que ya en aquella fecha varias empresas habían comprado los derechos
+para construir las torres, estas pusieron como condición para abonar el precio
+estipulado que los terrenos quedaran exentos de cualquier servidumbre aérea.
+Y, una vez más, el mencionado club de futbol lo consiguió.
+Todos los procedimientos de aproximación de un avión a un aeropuerto tienen que cumplir con unos requerimientos de niveles de seguridad
+respecto a los elementos naturales y constructivos que existen en la trayectoria fijada para tal procedimiento, que consta de la fase de aproximación propiamente dicha y de una maniobra de evasión, llamada de aproximación frustrada, y que es aquella que tendría que seguir una aeronave en el caso de que
+se viera obligada a frustrar su aterrizaje por cualquier causa; es esta la conocida situación de «motor y al aire». Esta eventualidad se diseña para garantizar
+la seguridad de la aeronave en el caso de que se llegue a ella, y es condición
+sine qua non para que se acepte y publique una maniobra de aproximación.
+La dirección predominante de vientos en Barajas es de procedencia
+norte, por lo que con esta configuración, que es la más habitual con cerca de
+un 80 % de las operaciones al año, las dos pistas que se utilizan con mayor
+intensidad lo hacen por sus respectivas cabeceras 32. Las maniobras que estaban publicadas antes de la ampliación para la entonces existente cabecera 33,
+hoy 32 L, estaban diseñadas indicando sendos virajes hacia el oeste para las
+aproximaciones frustradas. Esta es precisamente la zona en la que se pretendía, en el año 2002, construir cuatro torres de hasta 249 metros que, obviamente, era una altura muy superior a los 110 metros que como máximo tal tipo
+de maniobras exigía sobre la base de las servidumbres publicadas.
+Por esta razón, la altura que se impuso a las torres para maximizar el
+beneficio económico derivado del convenio urbanístico obligó al rediseño del
+procedimiento de aproximaciones frustradas. Esta arbitraria decisión implicó
+mucho tiempo, con el consiguiente coste, del trabajo de profesionales altamente cualificados, consultas y acuerdos con posibles urbanizaciones ya existentes antes de las torres, su publicación a nivel mundial, la modificación de la
+información aeronáutica que poseen todas y cada una de las compañías aéreas,
+así como su conocimiento y asimilación por parte de todos los pilotos que tienen que utilizar este procedimiento de aproximación a Barajas. Esta nueva trayectoria comporta, respecto de aquella con la que se planificó el aeropuerto y
+su ampliación, un viraje de la aeronave bastante más amplio, y que viene
+impuesto por la nueva servidumbre que implica la altura de las torres. Esta trayectoria representa, al menos, unos 13 km de recorrido adicional respecto a la
+anterior.
+
+305
+
+
+
+Una vez trastocado todo el procedimiento original, el Ministerio de
+Fomento desbloqueó el proyecto de construcción de las cuatro torres a mediados del año 2004, prácticamente dos años después de la primera notificación
+por la que se hicieron públicas las servidumbres que tenían estos terrenos.
+Obvio es decir que la nueva trayectoria, que incorpora un recorrido añadido
+respecto al más simple y directo que era el original, ha impuesto en la mayor
+superficie que atraviesa unas servidumbres constructivas que antes no tenían.
+Hay que añadir que cuando se decidió ampliar el aeropuerto se generaron un
+conjunto de externalidades negativas en núcleos de población ya asentados
+previamente y con los que, desde luego, no se tuvo tal tipo de deferencias.
+Pienso que no cabe insistir en las limitaciones operativas, tanto presentes como
+futuras, que esta decisión ha representado para el aeropuerto más importante
+de la red, que es clave en el desarrollo del transporte aéreo en España y que
+el pasado año tuvo 47 millones de pasajeros.
+Las consideraciones anteriores no tratan de atribuir este comportamiento a Administraciones de un determinado color político. Si se repara en las
+fechas, bien se puede constatar que las autoridades municipales y autonómicas que promovieron el convenio urbanístico eran de un determinado partido
+político, mientras que la decisión de arramblar con las servidumbres que tenían
+los terrenos correspondió al Ministerio de Fomento de un partido político distinto. Esta es, en efecto, la dificultad básica que tiene la erradicación de la economía clientelar en nuestro país, como consecuencia de haber estado tanto
+tiempo entreverada con las instituciones, no solo políticas sino también con
+las reguladoras de la actividad económica.
+Como se ve, todo este tipo de acuerdos que caracterizan la economía
+clientelar consisten, simple y llanamente, en traspasar a terceros los costes de
+todo tipo que conllevan. Como bien nos recuerda la teoría económica, la estrategia que se sigue en actuaciones de esta naturaleza radica en concentrar los
+beneficios en una o en pocas personas o empresas y distribuir los costes entre
+un número muy grande de individuos que, generalmente, por el bajo coste
+unitario que soportan no tienen incentivos grandes para oponerse a la decisión.
+Debe quedar claro que lo relevante de los ejemplos expuestos no son
+tanto las empresas y sectores directamente involucrados en ellos, sino las causas últimas que los hacen posibles. En mi opinión, el problema no es individual ni tampoco debiera ser específicamente sectorial; el problema atañe a las
+instituciones, tanto en su componente formal como informal. En resumen, si no
+el principal, la economía clientelar es uno de los principales problemas que
+tenemos a la hora de modernizar nuestra economía. Por utilizar la terminología de Keynes, su solución debería empezar por dotarnos de un marco institucional que diferencie entre empresarios y logreros. Son estos últimos los que
+tienen como principal cualidad y actividad el moverse, con mucha capacidad
+
+306
+
+
+
+de persuasión, por los pasillos y despachos de los políticos y reguladores. Por
+contra, el carácter de empresario, en palabras del propio Keynes, conlleva que
+«sus ganancias estén relacionadas en alguna forma con lo que sus actividades,
+a grandes rasgos y en algún sentido, han aportado a la sociedad».
+
+307
+
+
+
+BIBLIOGRAFÍA
+
+ACEMOGLU, D. y J. A. ROBINSON, Why Nations Fail: The Origins of Power, Prosperity, and Poverty,
+Crown Publishers, Nueva York, 2012.
+ATKINSON, A. B. y J. E. STIGLITZ, Lectures on Public Economics, McGraw Hill, Nueva York, 1980.
+BECKER, G. S. y N. TOMES, «An Equilibrium Theory of the Distribution of Income and Intergenerational Mobility», Journal of Political Economy, vol. 87, 1979, pp. 1153-1189.
+BECKER, G. S. y N. TOMES, «Human Capital and the Rise and Fall of Families», Journal of Labor Economics, vol. 4, 1986, pp. S1-S39.
+CHETTY R., N. HENDREN, P. KLINE y E. SAEZ, «Where is the Land of Opportunity? The Geography of
+Intergenerational Mobility in the United States», NBER Working Paper n.º 19843, 2014.
+Consultado en abril de 2016 en http://www.nber.org/papers/w19843
+CINGANO, F., «Trends in Income Inequality and its Impact on Economic Growth», OECD Social,
+Employment and Migration Working Papers n.º 163. OECD Publishing, Paris, 2014.
+Consultado en abril de 2016 en http://www.oecd.org/els/soc/trends-in-income-inequality-and-its-impact-on-economic-growth-SEM-WP163.pdf
+CORAK, M., «Income Inequality, Equality of Opportunity, and Intergenerational Mobility», Journal
+of Economic Perspectives, vol. 27, 2013, pp. 79-102.
+GARCÍA MONTALVO, J., «Ladrillos y juventud», El País, 9 de agosto de 2015. Consultado en abril de 2016 en
+http://economia.elpais.com/economia/ 2015/08/07/actualidad/1438939558_983158.html
+GARCÍA-SANTANA, M., E. MORAL-BENITO, J. PIJOAN-MAS y R. RAMOS, «Growing like Spain 1995-2007»,
+CEMFI Working Paper n.º 1603, 2016. Consultado en abril de 2016 en
+http://www.cemfi.es/ftp/wp/1603.pdf
+HAUSMANN, R., The Education Myth, Project Syndicate, mayo de 2015. Consultado en abril de
+2016 en https://www.project-syndicate.org/commentary/education-economic-growthby-ricardo-hausmann-2015-05
+HECKMAN, J. J., «Policies to foster human capital», Research in Economics, vol. 54, 2000, pp. 3-56.
+HECKMAN, J. J. y S. MOSSO, «The Economics of Human Development and Social Mobility», Annual
+Review of Economics, vol. 6, 2014, pp. 689 733.
+IAE [INTERNATIONAL ENERGY AGENCY], «Energy and Climate Change», World Energy Outlook Special
+Report. International Energy Agency, Paris, 2015. Consultado en abril de 2016 en
+http://www.iea.org/publications/freepublications/publication/WEO2015SpecialReportonEnergyandClimateChange.pdf
+JERRIM, J. y L. MACMILLAN, Income Inequality, Intergenerational Mobility, and the Great Gatsby
+Curve: Is Education the Key? 2015. Consultado en abril de 2016 en http://sf.oxfordjournals.org/content/early/2015/06/09/sf.sov075.full.pdf
+KRUEGER, A. B., The Rise and Consequences of Inequality in the United States, Chairman, Council
+of Economic Advisers, 2012. Consultado en abril de 2016 en
+https://www.whitehouse.gov/sites/default/files/krueger_cap_speech_final_remarks.pdf
+
+308
+
+
+
+LÓPEZ MEDEL, J., Calidad legislativa, calidad democrática. Blog ¿Hay derecho? 2014. Consultado
+en abril de 2016 en http://hayderecho.com/2014/09/27/calidad-legislativa-calidaddemocratica/
+RAWLS, J., A Theory of Justice, Harvard University Press, Cambridge, 1971.
+ROEMER, J. E., «A pragmatic approach to responsibility for the egalitarian planner», Philosophy &
+Public Affairs, vol. 10, 1993, pp. 146-166.
+ROEMER, J. E. y A. TRANNOY, «Equality of Opportunity», HANDBOOK OF INCOME DISTRIBUTION, vol. 2,
+ATKINSON, A. B. y F. BOURGUIGNON (eds.), North Holland, Amsterdam, 2015, pp. 217-300.
+SEBASTIÁN, C., España estancada, Galaxia Gutenberg, Madrid, 2016.
+SEN, A., «Equality of What?», The Tanner Lectures on Human Values, vol. 1, S. MCMURRIN (ed.),
+Cambridge University Press, Cambridge, 1980, pp. 197-220.
+
+309
+
+
+
+

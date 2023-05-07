@@ -1,0 +1,660 @@
+¿POR QUÉ UNA POLÍTICA DE DEFENSA
+DE LA COMPETENCIA?
+
+por el Académico de Número
+Excmo. Sr. D. Julio S egura S ánchez*
+
+La política de defensa de la competencia (PDC) es uno de los instrumentos de que
+dispone el sector público para lograr el mejor funcionamiento de los mercados. La PDC
+plantea, por tanto, dos interrogantes previos:
+P rim ero, ¿es necesario fomentar o defender la competencia?, ¿es preciso ayudar a
+que los mercados funcionen en forma eficiente?
+Segundo, en caso afirmativo, ¿cuál es la forma más adecuada de defender la com­
+petencia?
+La primera pregunta, en contra de lo que pueda parecer a primera vista, no es trivial.
+Un mercado es un sistema de asignación en que los precios transmiten toda la
+información adecuada para que los agentes individuales — consumidores y producto­
+res— tomen sus decisiones óptimas. Se trata, por tanto, de un mecanismo de
+asignación caracterizado por la d escen traliz a ción in form ativ a^ el an on im ato. Su prin­
+cipal virtud desde este punto de vista radica en su au tom atism o im p erson al.
+La descentralización implica que ningún agente acumula información en el
+mercado sobre características de sus competidores: los consumidores, una vez efectua­
+das sus compras, no conocen ni los gustos de otros consumidores, ni la forma en que
+producen las empresas a las que han comprado los productos. Estas últimas, cuando
+los venden, no obtienen información sobre cómo producen otros competidores o
+respecto a las preferencias de los consumidores individuales. Esta es una propiedad
+deseable, porque los sistemas descentralizados precisan menos recursos para realizar
+su tarea de asignación, y son menos complejos al no requerir acumular información.
+* Sesión del día 26 de mayo de 1992.
+
+165
+
+
+
+El anonimato significa que la sustitución de un agente por otro — el que yo, por
+ejemplo, intercambie mi posición con uno de Vds.— no altera el equilibrio del
+mercado. Se trata, también, de una propiedad deseable, porque las sociedades
+democráticas prefieren mecanismos que no identifiquen a las personas y porque
+implica cierto tipo de neutralidad personal.
+Por tanto, el mercado competitivo es un mecanismo que asigna de forma imperso­
+nal, anónima y descentralizada; es, en suma, un mecanismo con un a lto g ra d o d e
+au tom atism o. Además, tiene otra propiedad importante: en condiciones determinadas
+asigna los recursos de forma eficiente.
+Tratándose de un mecanismo de asignación a u to m á tico y eficien te, ¿por qué va a
+haber que ayudarlo?, ¿no bastará la competencia por sí misma para conseguir la eficiencia?
+Para que esto fuese así, tendrían que cumplirse dos condiciones fundamentales:
+1.
+
+que todos los equilibrios competitivos fueran eficientes,
+
+2.
+
+que todos los equilibrios de mercado fuesen competitivos.
+
+No es necesario para nuestro objetivo entrar en una discusión detallada de la
+segunda proposición, que nos conduciría al análisis de los llamados fallos de mercado,
+porque para justificar la necesidad de una PDC basta con que la segunda proposición
+no se cumpla, es decir, con que los equilibrios de mercado no presenten una tendencia
+natural o automática a ser competitivos.
+Como ya señaló Adam Smith hace más de doscientos años, cuando dos empresa­
+rios se reúnen es para conspirar contra las reglas de la competencia y lograr acuerdos
+de monopolio:
+•People of the same trade seldom meet together, even for merriment and diversión,
+but the conversation ends in a conspiracy against the public, or in some contrivance
+to raise pnces» (Wealth ofNations, ed. Cannan, 1937, pág. 128).
+
+En términos menos literarios, el mercado funciona sobre la base de que las
+empresas tratan de maximizar su valor capital y es eficiente si las empresas actúan
+paramétricamente respecto a los precios. Pero para maximizar beneficio o valor capital
+lo mejor no es ser competidor perfecto, sino monopolista, es decir tener poder para
+determinar los precios. Lo más rentable es no tener competidores.
+Por tanto, e l sistem a d e m erca d o g en era in cen tivos a los com p ortam ien tos estra ­
+tégicos d e la s em presas, en ca m in a d o s a lo g ra r p o sicio n es d e d o m in io d e m ercad o.
+La afirmación precedente no constituye una calificación moral del quehacer de las
+empresas, sino la descripción de un comportamiento coherente: si los incentivos para
+la asignación eficiente en una economía de mercado se derivan de la apropiación de
+los resultados de explotación por parte de los propietarios del capital, el interés de estos
+últimos no es la defensa de la competencia, que conduce a menores beneficios y
+mayores riesgos de ser expulsado del mercado, sino la consolidación de una posición
+de dominio.
+166
+
+
+
+En síntesis, la n ecesid a d o in u tilid a d d e u n a P D C d ep en d erá d e la im p ortan cia q u e
+ten g an los com p ortam ien tos estratég icos d e la s em presas.
+Este no es un problema que pueda resolverse sólo con referencias analíticas a
+modelos formalizados de comportamiento de los agentes, sino que requiere valorar la
+evidencia empírica disponible. Ambos aspectos se relacionan crucialmente con el tipo
+de enfoque que se considere más fructífero para analizar un mercado. Una polémica
+que lleva varias décadas manifestándose en el enfrentamiento de dos posturas polares:
+el llamado paradigma estructura-conducta-resultados (E-C-R) y el enfoque de Chicago.
+A riesgo de simplificar ambas posiciones, trataré de resumir sus características más
+relevantes.
+El p a ra d ig m a E-C-R, en su versión lineal, vinculada á los nombres de Bain y Masón,
+la Universidad de Harvard y los estudios de casos iniciados en la década de los años
+cuarenta, sostiene la hipótesis de que existe una relación de causalidad en el orden de
+factores señalados:
+A) La estru ctu ra d e los m ercad os determina las posibilidades de ejercer o no
+comportamientos estratégicos. Entendiendo por variables de estructura fundamenta­
+les, las tres siguientes.
+1. El número y la distribución por tamaños de los vendedores. Pocas empresas
+pueden restringir la cantidad ofrecida y determinar un precio superior al coste de
+oportunidad. Una industria con muchas empresas pequeñas y una de tamaño signifi­
+cativo es más fácil que se comporte como un monopolio que una industria formada por
+menos empresas de tamaño semejante.
+2. El grado de diferenciación del producto: cuanto mayor sea, menos sustitutivas
+serán las variedades de un bien entre sí, y el productor de la variedad más podrá actuar
+como un monopolista de su propio segmento de mercado.
+3 Las condiciones de entrada y salida en la actividad. Por ejemplo, si es preciso
+realizar grandes inversiones o fuertes esfuerzos de comercialización para abrir una
+empresa, será más difícil que entren nuevos competidores. Si, en caso de tener que
+abandonar la actividad, la liquidación de sus activos ha de hacerse a un valor muy
+reducido por la especificidad que los mismos tienen para esa actividad productiva,
+también será más arriesgado entrar en el sector para una nueva empresa.
+B) El tipo d e com p ortam ien to determina los resultados obtenidos tanto en una
+perspectiva a corto plazo (rentabilidad), como a más largo plazo (eficiencia, dinamis­
+mo). Entendiendo por tipo de comportamiento no competitivo, dos aspectos funda­
+mentales:
+1. Acciones colusivas, de acuerdo con otros competidores para actuar como un
+monopolio, y
+2. Comportamiento estratégico encaminado a impedir la entrada de nuevos
+competidores en el mercado; o, en caso de que la entrada se produzca, dirigido a que
+las condiciones de actuación postentrada no sean de lucha.
+16 7
+
+
+
+Desde la perspectiva del paradigma E-C-R, lo esencial son, por tanto, las variables
+de estructura, de forma que cualquier análisis de un mercado debe hacer especial
+hincapié en la cuantificación de dichas variables. Un mercado cuya estructura es no
+competitiva proporciona evidencia de que el comportamiento de las empresas que en
+él actúan puede ser estratégico, y ello se materializará en beneficiosextraordinarios
+sostenidos en el tiempo.
+El desarrollo de este enfoque ha tenido siempre un fuerte contenido empírico que
+inicialmente se basó en el análisis de ca se stu dies para, más adelante, apoyarse en el
+de regresión con datos de corte transversal, es decir, en la búsqueda de relaciones
+estables entre variables estructurales y resultados empresariales.
+Por su parte, la E scu ela d e C h icag o parte de la base de que cuando el funciona­
+miento de un mercado no sea competitivo, la causa hay que buscarla en una situación
+de privilegio generada por una intervención pública o un defecto institucional del
+mercado (esencialmente, una definición incorrecta de los derechos de propiedad).
+Para esta visión de la economía industrial, la norma es la competencia y la
+excepción el monopolio, cuya existencia no niegan, pero al que siempre dan un
+carácter temporal. Utilizando las mismas categorías empleadas en el comentario del
+paradigma E-C-R, podría sintetizarse la posición de Chicago señalando que:
+(i) La tecnología y las condiciones de entrada determinan la estructura del
+mercado.
+(ii)
+
+Las condiciones de entrada determinan el tipo de conducta y los resultados.
+
+El papel del análisis empírico es muy modesto en la tradición de Chicago, ya que
+la evidencia empírica sólo se considera válida si resulta consistente con la teoría
+competitiva.
+No resulta difícil señalar deficiencias en ambos enfoques polares de la economía
+industrial. En lo que respecta a la visión E-C-R la relación de causalidad unidireccional
+que postula peca de simplista, porque los comportamientos estratégicos tales como la
+creación de barreras a la entrada afectan a la propia estructura de mercado.
+Por su parte, la visión de Chicago conculca toda la evidencia empírica disponible
+respecto a la importancia de los comportamientos estratégicos duraderos e, incluso, la
+existente sobre la aplicación de sus propias recomendaciones.
+La posición dominante en estos momentos, la llamada n u ev a eco n o m ía in du strial,
+se sitúa más en la tradición del paradigma E-C-R en cuanto a la aceptación de que el
+poder de mercado no tiene carácter transitorio y en lo relativo al estatuto epistemológico
+del análisis empírico, pero considera que el centro de la economía industrial radica en
+el análisis teórico de los comportamientos estratégicos de las empresas.
+Esta visión, que comenzó a pulsar con fuerza en la segunda mitad de la década de
+los años setenta, y que constituye hoy día el paradigma dominante de la teoría eco­
+nómica de la organización industrial, puede definirse como una variante (sustantiva)
+168
+
+
+
+del enfoque E-C-R en que el énfasis se ha desplazado de las variables de estructura a
+las de conducta, admitiendo una relación de causalidad bidireccional entre ambas.
+Pese a que la importancia de los comportamientos estratégicos había sido señalada con
+creciente frecuencia por los autores desde comienzos de la década de los años sesenta,
+la nueva economía industrial ha podido desarrollarse gracias en buena medida a dos
+avances instrumentales básicos:
+Primero, la aparición de nuevas técnicas econométricas que permiten tratar
+enormes bases de datos que son, simultáneamente, series históricas relativas a una
+empresa y cortes transversales de muchas empresas. Los llamados paneles permiten
+analizar secuencias temporales de comportamientos individuales, separando los
+efectos debidos a los individuos, al tiempo y los transversales.
+Segundo, la aplicación sistemática de la teoría de juegos a la modelación de los
+comportamientos de las empresas. Como es bien sabido, la teoría de juegos comenzó
+a desarrollarse a partir del trabajo pionero de von Neumann y Morgenstem (T he Theory
+o fG a m es a n d E co n o m ic B eh a v io r) de 1944, pero hubo que resolver muchos proble­
+mas técnicos hasta que la misma pudiera aplicarse con carácter sistemático a la solución
+de problemas de estrategias oligopolísticas (v.gr.: juegos repetidos, horizontes infini­
+tos, información imperfecta y/o asimétrica, etcétera).
+En suma, la posición más razonable parece ser aceptar la propensión a los
+comportamientos estratégicos, analizar los mecanismos institucionales que pueden
+favorecerlos, y utilizar la evidencia empírica cuidadosamente pero sin apriorismos
+respecto a qué modelo de mercado debe ser consistente con aquélla.
+Contestando, en mi opinión afirmativamente, el primer interrogante planteado
+referente a la conveniencia de fomentar o proteger la competencia, es preciso
+responder al segundo: ¿cuál debe ser el contenido de la PDC?
+
+LOS OBJETIVOS DE LA P.D .C.
+El sistema legal de protección de la competencia más desarrollado es el estadouni­
+dense, cuyo origen es la Ley Sherman de 1890. Los sistemas de defensa de la
+competencia posteriores se han fijado en él y en su evolución posterior, por lo que
+resulta útil hacer un breve esbozo de la misma.
+La consolidación económica norteamericana de 1880 dio lugar a un fuerte aumento
+de la concentración y las prácticas restrictivas de la competencia, produciéndose una
+fuerte elevación de los precios relativos de la industria a costa de la agricultura.
+Además, las legislaciones estatales se mostraron ineficaces para hacer frente a este
+problema, dada la posibilidad de que las empresas evadiesen la regulación de los
+Estados más restrictivos trasladándose a otros más permisivos, posibilidad facilitada
+enormemente por el reciente desarrollo de los transportes y comunicaciones (ferroca­
+rril, telégrafo, teléfono) que fueron las que, realmente, permitieron crear un mercado
+único estadounidense.
+169
+
+
+
+Para hacer frente a este estado de cosas la Ley Sherman prohibía expresamente el
+comercio no equitativo (u n fa ir) y las prácticas colusivas, aunque no las fusiones.
+Entre las depresiones de 1893 y 1904 se consolidaron en EE.1JU. las grandes
+empresas dominantes en los sectores industriales centrales: siderometalurgia, deriva­
+dos del petróleo. Por ello la Ley Clayton (1914) amplió el ámbito de aplicación de la Ley
+Sherman en tres aspectos: la prohibición expresa de las prácticas discriminatorias, los
+contratos ligados y la fusión por compra de acciones.
+La prohibición de discriminar, en una interpretación muy estricta por parte de los
+tribunales de justicia de los EE.UU., llegó al extremo de poner en peligro la implantación
+de las grandes cadenas comerciales, interpretada como una práctica discriminatoria
+frente al pequeño comercio, por lo que para evitar esta interpretación — abusiva y
+contraria a los objetivos perseguidos por la Ley Sherman— , la Ley Robinson-Patman
+(1936) enmendó este aspecto de la Ley Clayton.
+Por último, ante la fuerte onda concentradora de la II postguerra mundial, se
+reforzó la Sección 7 de la Ley Clayton prohibiendo también la fusión por traspaso de
+activos físicos mediante la Ley Celler-Kefauver (1950). Algo que tendría fuerte efecto
+sobre las fusiones horizontales, pero mucho menor sobre las de carácter vertical.
+Este breve recorrido de la evolución de los primeros sesenta años de la legislación
+de DC norteamericana, creo que hace patente los tres objetivos que, inicialmente,
+perseguían los legisladores:
+(i) defender a los consumidores, evitando las prácticas que pudieran conducir a
+precios «excesivos»,
+(ii) mejorar la eficiencia económica, entendida como alguna combinación entre
+beneficio y excedente de los consumidores, y
+(iii)
+
+evitar la concentración del poder económico.
+
+Un primer aspecto a señalar de estos objetivos es que si bien los dos primeros
+puede interpretarse que persiguen la eficiencia, del tercero, persigue una finalidad
+muy distinta: la d isem in a ció n d el p o d e r econ óm ico.
+Los legisladores estadounidenses consideraron, de forma explícita, que la concen­
+tración de poder económico implicaba la concentración de poder político y que ésta
+era incompatible con la democracia. La gran empresa desbordaba el mercado y era un
+mecanismo de acumulación, control y administración del poder que escapaba al
+control político. La más reciente evolución de las estrategias de las empresas multina­
+cionales hace difícil no simpatizar con este punto de vista.
+Un segundo aspecto a destacar es que las legislaciones originales de defensa de la
+competencia entendían como tal la protección de la libertad individual de los
+participantes en el mercado más que la promoción del proceso competitivo. De ahí la
+insistencia en aspectos tales como la discriminación, la negativa de venta o los
+mecanismos de coerción económica que las grandes empresas podían desarrollar
+contra las pequeñas y medianas. O el hincapié relativo en temas tales como la defensa
+170
+
+
+
+de la libertad contractual, la lucha contra las restricciones de precios y/o suministros
+y, en general, todas las prácticas consideradas como desleales desde el punto de vista
+de la competencia.
+¿En qué medida han cambiado estas tres orientaciones fundamentales — fomento
+de la competencia, diseminación del poder económico y defensa la libertad de los
+participantes individuales— de en las últimas décadas?
+
+CAMBIOS EN LA VISIÓN SOBRE LA CONCENTRACIÓN
+El convencimiento de que todo monopolio o empresa dominante ha de conducir
+a prácticas ineficientes, que se encuentra en la base de las posiciones que miran con
+suspicacia cualquier fusión, ha perdido fuerza en favor de una idea más matizada que,
+por una parte, reconoce el hecho de que la concentración de capital es necesaria en
+ciertas actividades para competir en los mercados y, por otra, considera que, bajo
+determinadas condiciones, un monopolio puede significar ganancias de eficiencia
+respecto a una situación alternativa más atomizada.
+El aspecto crucial en este tema es determinar las variables y evidencias clave para
+valorar si una fusión constituye o no una práctica restrictiva. Estas son conocidas desde
+hace tiempo: la definición del mercado, el grado de concentración previo y resultante
+tras la hipotética fusión de empresas, y la existencia o no de barreras a la entrada.
+Es muy probable que el elemento esencial a la hora de explicar la menor dureza
+mostrada en los últimos años respecto a las fusiones se deba al hecho de que en los sec­
+tores en que tienen lugar procesos significativos de concentración, los mercados son
+supranacionales y, con frecuencia, mundiales. Los procesos más fuertes de concentración
+en el campo industrial se han producido en las últimas décadas en los sectores de
+petroquímica, siderometalurgia y alimentación. Excepto el segundo, se trata de
+actividades dominadas por transnacionales cuyo grado de competencia por medio de
+los precios — petroquímica— , o de diferenciación y marcas — alimentación— es
+elevado y que operan en mercados mundiales bien por la homogeneidad del producto
+(derivados del petróleo), bien por la progresiva igualación de las estructuras de de­
+manda de consumo entre países muy distintos. Si los mercados considerados son más
+profundos, el aumento de concentración resultante de una fusión dada será siempre
+menor que si la definición es más restringida desde el punto de vista geográfico.
+
+CAMBIOS EN LA VISIÓN SOBRE LAS PRÁCTICAS RESTRICTIVAS
+Discutiremos ahora brevemente los cambios experimentados por la visión de los
+com p ortam ien tos colu sivos y de las p rá c tic a s d e com p eten cia d esleal.
+Por lo que respecta a los primeros, existen dos tipos posibles de comportamiento
+171
+
+
+
+colusivo: explícito y tácito. El primero tiene un interés limitado en la medida que está
+prohibido en todas las legislaciones por lo que su comprobación implicaría
+automáticamente una condena.
+La vieja idea de que los acuerdos tácitos son infrecuentes ha perdido bastante
+fuerza a la luz de las aplicaciones de la teoría de juegos al análisis del oligopolio.
+Si se considera que la decisión de los oligopolistas — v.gr.: lanzar una oferta alta
+(competitiva) o baja (colusiva)— se toma de una vez por todas simultáneamente, es
+decir un juego en un etapa, el resultado normal será el del dilema del prisionero que
+conduce a que cada empresa tome la opción de lanzar la mayor oferta posible con un
+resultado conjunto cercano al competitivo. Sin embargo si, como parece razonable, el
+oligopolio se considera un juego repetido en el que, a partir de la primera decisión,
+cada empresa conoce las que han tomado las demás en las etapas anteriores, el
+resultado cambia en forma drástica: estrategias muy simples de tipo gatillo (trigger)
+conducen a comportamientos colusivos implícitos efectivos y duraderos. O basta con
+recordar que dos gasolineras instaladas en un tramo suficientemente largo de autopis­
+ta, acabarán vendiendo a precio de monopolio sin necesidad de ponerse de acuerdo
+en forma explícita.
+La dificultad de detección de este tipo de colusiones radica en el hecho de no ser
+expresas, por lo que el punto crucial para la PDC es determinar el tipo de instituciones
+y conductas que pueden facilitar la colusión. Por ejemplo, en el caso de las dos
+gasolineras, el resultado de colusión tácita depende crucialmente de que cada una de
+ellas pueda observar el comportamiento de la otra, de que existan incentivos a que
+cualquiera de ellas siga la decisión de la rival al elevar el precio, y de que sea fácil, en
+su caso, para quien ha tomado la decisión de fijar un precio de monopolio, volver a
+reducirlo si el competidor no sigue su decisión. En general, cabe afirmar que dos
+factores resultan esenciales: la p o s ib ilid a d d e o bserv ación d el com p ortam ien to efectiv o
+d el rival, y la ex isten cia d e in cen tiv os a seg u ir su estrateg ia.
+Aceptar la existencia de cierto flujo de información entre empresas resulta inevita­
+ble — aunque conculque el principio de información descentralizada del mercado—
+e, incluso, a veces, puede ayudar a que se forme un precio único que no tiene por qué
+constituir una restricción de la competencia siempre que la entrada en el sector sea
+libre. Pero existen prácticas que deben interpretarse como facilitadores de comporta­
+mientos colusivos. Por ejemplo:
+— el grado de información requerido a las empresas y transmitido por las
+patronales (¿incluyen precios?, ¿cuotas de mercado?, ¿información sobre volú­
+menes de ventas por productos?;
+— la observación de que en un sector es común que una empresa dominante
+determine de forma unilateral aumentos de precios que son seguidos por el
+resto;
+— el uso habitual de catálogos de precios cuando el producto es bastante ho­
+mogéneo;
+172
+
+
+
+— las recomendaciones de precios por parte del fabricante;
+— la existencia de poder sancionador sobre las empresas por parte de algún tipo
+de organismo patronal qpe aplique normas de obligado cumplimiento basadas
+en la exigencia de comportamientos honestos o leales,
+son todos ellos ejemplos de prácticas interpretables como favorecedoras de acuerdos
+de cartel implícitos.
+Otro tema importante es la existencia de b a rrera s a la en tra d a de nuevos com­
+petidores, porque cabe suponer que el mantenimiento de comportamientos estratégi­
+cos, reflejados en altas tasas de beneficio, sólo es posible si existen formas de impedir
+la expansión de la oferta. También en este tema las ideas han cambiado en los últimos
+quince años de forma sensible.
+Durante muchos años se consideró que las barreras típicas se instrumentaban
+mediante la fijación de precios máximos que previnieran la entrada. Hoy día se admite
+que esta barrera sería ineficaz por no constituir una amenaza creíble para los
+competidores potenciales. En efecto, si, pese a todo, entrara una nueva empresa en el
+mercado, la reacción de las ya instaladas sería reducir su oferta para que la nueva
+situación permitiera seguir obteniendo beneficios extraordinarios, y esto es sabido por
+la empresa1que está considerando la posibilidad de instalarse en el nuevo mercado.
+¿Cuáles son pues los comportamientos estratégicos que constituyen a m en a z a s
+creíb lesy por tanto efectiv as para impedir la entrada de nuevos competidores? Aquellos
+que exijan d ecisio n es irreversibles q u e im p liqu en un coste para la empresa que los tome
+y que, a su vez, obliguen a los competidores potenciales a incurrir en un coste
+irrecuperable si hace efectiva la entrada. Si esto es cierto, lo significativo para
+determinar la existencia de barreras a la entrada no será la observación de la política
+de precios, sino las decisiones estratégicas que afecten a la capacidad instalada, al
+aprovisionamiento de bienes intermedios o a la creación de costes irrecuperables para
+los entrantes potenciales.
+la inversión en sobrecapacidad es una evidencia clara de barrera, porque implica
+que la empresa instalada asume el coste de una mayor inversión con el único objeto
+de hacer creíble la amenaza de que, si entra un nuevo competidor, aumentará la oferta
+sin por ello incurrir en pérdidas. Sin embargo, determinar cuando una inversión en
+sobrecapacidad es una barrera, o una acertada previsión de una próxima expansión de
+la demanda, no es fácil. El control de suministros puede tomar diversas formas: la
+adquisición de empresas suministradoras, la firma de contratos- de suministro a muy
+largo plazo, la aplicación de cláusulas de cliente más favorecido; etcétera. Por último,
+pese a su difícil valoración, es importante la aparición de costes irrecuperables por la
+vía de la creación de marcas, la sustitución continuada de productos en mercados en
+expansión, la proliferación de variedades en mercados importantes pero maduros y los
+gastos crecientes en I+D, sobre todo en innovación de producto (no de proceso).
+Otro tema a discutir en el campo de las prácticas horizontales constituye el polo
+opuesto de la colusión: la competencia desleal en precios. También en este campo las
+173
+
+
+
+visiones tradicionales han cambiado de forma acusada. Hasta mediada la década de los
+años setenta la creencia más generalizada era que las empresas dominantes o que
+contaban con ventajas de costes realizaban con alguna frecuencia p rá ctica sp red a to ria s
+d ep recios, es decir vendían a precios que no cubrían costes, con el objetivo de expulsar
+a competidores de los mercados.
+El tema relevante es el de la fr e c u e n c ia de estas prácticas. La posición inicial (años
+cuarenta-cincuenta) fue que la predación de precios era una práctica usual. En la
+década de los años setenta, se sostuvo que las prácticas predatorias eran infrecuentes
+porque una empresa sufrirá unas pérdidas temporales por la realización de dichas
+prácticas superiores a los beneficios que obtendrá más tarde por la eliminación de sus
+competidores en el mercado.
+Como en tantos otros casos, la posición dominante ha cambiado en la década de
+los años ochenta, y aunque hoy día se consideren las prácticas predatorias de precios
+como menos frecuentes que en la II postguerra mundial, se han encontrado nuevas
+justificaciones a las mismas ligadas a la consideración de la competencia como un
+proceso dinámico. En efecto, una empresa dominante en un sector, no tiene que hacer
+frente a entrantes potenciales hoy, sino que el ataque de nuevos competidores al sector
+es secuencial: se repite con el paso del tiempo. Ello implica qué puede ser beneficioso
+para una empresa crearse una reputación de dureza con todos los competidores,
+aunque ello signifique sobrecostes en el corto plazo, si gracias a ello es capaz de evitar
+la competencia de futuros entrantes. Por tanto, en contextos dinámicos que entienden
+la competencia y el poder de mercado como procesos temporales, las prácticas
+predatorias de precios tienen un papel que jugar como estrategias disuasorias de la
+entrada de nuevas empresas en el mercado.
+Un último punto merece ser mencionado en el contexto del cambio en las posi­
+ciones respecto a las prácticas restrictivas de la eficiencia del mercado: las restriccion es
+v erticales en tre em presas.
+Aquí, de nuevo, la idea tradicional de que cualquier acuerdo vertical — entre
+fabricante y vendedor, entre mayorista y minorista— implica una práctica restrictiva de
+la competencia, ha cambiado en favor de una interpretación más flexible que admite
+el hecho de que ciertos acuerdos verticales pueden mejorar la eficiencia del mercado.
+La razón para ello es que algunas restricciones verticales permiten eliminar efectos
+externos derivados de la doble relación mayorista-minorista y minorista-consumidor.
+Consideremos el ejemplo más simple de un productor monopolista (v.gr.: un fabrican­
+te de automóviles) y sus relaciones con los concesionarios que venden a particulares.
+Si el productor no impusiera restricción alguna a la actuación del concesionario, se
+produciría lo que se conoce como una doble marginalización: el productor determi­
+naría un precio de venta de monopolio a los minoristas que, a su vez, fijarían un precio
+de maximización de beneficio a los usuarios últimos. Esto implicaría que el coste de
+adquisición de los concesionarios sería demasiado alto, repercutiendo en una reducción
+de las ventas — y mayores precios para los consumidores— , y, por tanto, en un
+174
+
+
+
+beneficio inferior para el propio fabricante del que podría obtener si los procesos de
+fabricación-venta al concesionario-venta al por menor se integraran.
+La ineficiencia resultante proviene de que existe un efecto externo: el concesionario
+no tiene en cuenta que si vendiera a un precio inferior al de maximización de sus
+beneficios, las ventas se expandirían, el b en eficio con ju n to sería mayor y el precio de
+venta final menor. Por tanto, la conocida práctica de franquicia en que el fabricante fija
+un precio de venta competitivo al minorista y detrae los beneficios extraordinarios del
+mismo mediante el pago de un tanto fijo periódico, consigue intemizar dicho efecto
+extem o y mejora la eficiencia del mercado. Sin embargo, no conviene tener una visión
+apologética de todos estos acuerdos verticales, porque muchos de ellos pueden ser
+utilizados como forma de obtener posiciones dominantes de mercado y, en conse­
+cuencia, constituir prácticas restrictivas de la competencia.
+En particular, dos temas deben ser objeto de análisis cuidadoso ante la detección
+de acuerdos verticales: si favorecen o no a la discriminación, y si constituyen una
+estrategia conducente a crear barreras a la entrada de nuevos competidores en el
+mercado. Por ejemplo, la exigencia de venta exclusiva con distribuidores ya instalados
+puede perseguir obligar a los competidores potenciales a tener que crear su propia red
+de vendedores, lo que significa la asunción de un coste irrecuperable para los mismos
+que el ya instalado no ha tenido que soportar. Por ejemplo, la obligación de adquirir
+la gama completa de productos de una determinada marca puede favorecer la
+existencia de precios que incorporen subvenciones cruzadas. Por ejemplo, las restric­
+ciones de carácter territorial pueden estar encaminadas a permitir discriminar entre
+consumidores.
+Por último, un comentario sobre la fijación por parte del productor de precios de
+venta a los distribuidores (resa lep ric e m ain ten a n ce), en que el productor determina
+el margen unitario al minorista y que ha sido considerada con frecuencia como
+restrictiva de la competencia y perjudicial para los consumidores. El segundo argumen­
+to es difícil de sostener, porque el productor perdería por fijar un margen mayor para
+el minorista, ya que ello restringiría sus ventas sin afectar al precio. Por tanto, si lo hace,
+cabe esperar que será porque ello permita mejorar los servicios de los minoristas en
+beneficio de todos los agentes, y lo que habrá que analizar es si la fijación de un mayor
+margen constituye una estrategia para generar expectativas de beneficios al minorista
+que le hagan más dependientes del productor.
+Sin embargo, existen al menos dos posibilidades de que la fijación de precios de
+venta al por menor persiga fines estratégicos. La primera es que los productores no
+pueden observar los precios de venta al por mayor, pero sí al consumidor, por lo que
+la fijación de estos últimos servirá para que aquéllos cumplan los acuerdos colusivos.
+La segunda es que los propios minoristas pidan a los productores que fijen sus precios
+como forma de mantener un cartel.
+
+175
+
+
+
+CAMBIOS EN LA VISIÓN DE LA P.D .C. COMO DEFENSA
+DE LOS COMPETIDORES INDIVIDUALES
+Hasta aquí hemos analizado modificaciones en la interpretación de dos objetivos
+de la PDC — evitar la concentración «excesiva» y eliminar prácticas que producen
+ineficiencias— que, de una u otra forma, siguen manteniéndose en la agenda de todas
+las administraciones que legislan sobre esta materia.
+Sin embargo, el cambio posiblemente más radical en el en fo q u e de la PDC es la
+tendencia a que las reglas de la misma traten de m a n ten er elp ro ceso com petitivo en vez
+de defender a los competidores individuales. En contra de lo que constituía la visión
+tradicional, ambos objetivos pueden ser contradictorios, y tanto más cuanto más
+rápidamente cambien las condiciones en que se desarrolla la competencia y más
+volátiles sean las expectativas de los agentes.
+La razón esencial de esta contradicción radica en que u n a com p eten cia vigorosa
+im p lica u n a a lta tasa d e en tra d a s y sa lid a s d e empresas en el mercado y, por tanto,
+defender a los agentes individuales reduce estas tasas de natalidad y mortalidad
+empresarial que no son sino el reflejo de la capacidad de adaptación a condiciones
+cambiantes, es decir de la capacidad de las empresas para beneficiarse de la competencia.
+Este cambio de enfoque es lo que los juristas han calificado como una evolución
+del derecho económico hacia la objetivación de la competencia. El derecho clásico de
+la competencia sólo consideraba los elementos subjetivos vinculados a la conducta de
+agentes y sus relaciones, por lo que tendía a prohibir tan sólo las prácticas contrarias
+a los usos honrados del comercio. El moderno derecho de la competencia se dirige más
+hacia garantizar la instauración y salvaguarda de las condiciones objetivas que permiten
+el funcionamiento del mercado. El objetivo del derecho ha cambiado de los competi­
+dores (visión subjetiva tradicional) a la competencia (visión objetiva moderna).
+Este cambio en el objeto del derecho de la competencia ha sido resultado de las
+modificaciones ya comentadas en la forma de considerar la competencia como un
+proceso dinámico, y ha traído consigo dos alteraciones que, en alguna medida,
+resumen el nuevo enfoque económico:
+(la ) El énfasis relativo de la PDC ha cambiado. Frente a la garantía de libertad de
+opción individual —8todo lo que haga una empresa debe poder hacerlo otra cual­
+quiera— , se tiende ahora a garantizar que las condiciones del mercado sean tales que
+el competidor más capaz sea el que obtenga mejores resultados. Ello implica que el
+énfasis se ha desplazado de las condiciones genéricas de comercio equitativo hacia el
+análisis de los comportamientos que pueden generar barreras estratégicas que dismi­
+nuyan la presión competitiva potencial sobre las empresas que actúan en un mercado.
+(2a) Frente a las condiciones teóricas, de libro de texto, de la competencia, que
+exigen que las empresas no tengan capacidad de afectar a los precios, la evolución
+tecnológica y la transnacionalización de los mercados indican que, en muchas
+actividades, el proceso de rivalidad característico de la competencia no conduce a la
+176
+
+
+
+fragmentación, aceptándose que lo esencial es la garantía de movilidad de recursos, y
+de libertad en las opciones estratégicas.
+
+EL GRADO DE INDEPENDENCIA RELATIVO DE LA P.D .C.
+Los cambios comentados hasta aquí tanto en el objeto del derecho de la competen­
+cia como en la forma más adecuada de interpretar la evidencia y los comportamientos
+de las empresas en los mercados, tienen su origen en el cambio de las condiciones de
+la competencia. Las ventajas tradicionales, basadas en el liderazgo de costes, se han
+desplazado hacia formas de competencia más complejas en que la diferenciación del
+producto, la segmentación de los mercados, el diseño para grandes clientes, los
+servicios postventa, la ingeniería financiera, el contenido tecnológico de los productos
+y procesos, o la comercialización constituyen variables cruciales. Estas nuevas formas
+de competencia se encuentran en la base de muchas de las políticas industriales
+horizontales (desarrollo tecnológico, cooperación industrial, calidad, pymes). Desde
+un punto de vista estricto, toda política industrial aplicada por un país concreto
+persigue mejorar las condiciones relativas de sus empresas y, por tanto, implica cierto
+grado de discriminación que plantea un p ro b lem a d e co n flicto d e co m p eten cias en tre
+la PDC y la s p o lítica s in d u striales y co m ercia les (PI).
+Una posición frecuentemente sostenida por los adalides del mercado desregulado
+es la sep a ra ció n y a u to n o m ía recíp ro ca de ambas políticas, algo que resulta atractivo
+desde el punto de vista teórico, y que es la traslación mimética del largo debate
+existente sobre las relaciones y grado de autonomía relativo de las políticas fiscal y
+monetaria. Permítanme, no obstante, hacer algunos comentarios que tratan de demostrar
+que esta traducción literal carece de sentido en el caso que nos ocupa.
+En primer lugar, la teórica independencia entre PDC y PI presenta una asimetría
+evidente: un TDC de un país puede declarar ilegal una decisión de política industrial
+del Gobierno, pero este no puede casar una sentencia del TDC. La propuesta de
+autonomía de la PDC conduce, por tanto, a su b o rd in ació n d e to d a in terv en ción p ú ­
+b lic a a la PDC.
+Esta posición es defendible, pero sólo si se considera que la com p eten cia es un
+valor en sí misma, y un valor de rango semejante al de las libertades individuales. Esto,
+sin embargo, no es así: la competencia es un instrumento para lograr el objetivo de
+mayor bienestar social, y tiene un rango constitucional, a lo sumo, semejante al de la
+intervención pública. Conviene, en suma, no confundir un instrumento (la competen­
+cia) con un objetivo (el bienestar social).
+En segundo lugar, defender la subordinación efectiva de toda política pública a la
+PDC, implica considerar que in terv en ir es siem p re p e o r q u e n o in terven ir. Es cierto que
+toda intervención provoca efectos colaterales indeseados, y también que la interven­
+ción no siempre es capaz de solucionar un fallo de mercado. Pero, como toda posición
+177
+
+
+
+extrema, defender que la intervención es siempre perjudicial no pasa de ser un dislate.
+El ejemplo de la energía eléctrica y su reciente proceso de privatización-desregulación
+a partir de 1987 en Gran Bretaña confirma lo extremado de dicha posición.
+El tercer argumento en contra de la autonomía total de la PDC es que no distingue
+el ám b ito eco n ó m ico y g eo g rá fico al que se aplica dicha política. En el caso de la CE,
+la PDC debería, en mi opinión, distinguirse dos ámbitos de intervención: el comunita­
+rio y el mundial. En el ámbito comunitario parece razonable sostener la autonomía de
+la PDC respecto a la política industrial, porque las prácticas restrictivas dentro de la CE
+sólo pueden generar pérdidas de eficiencia globales. Expresado en otros términos,
+dentro de un mercado integrado, las ganancias de eficiencia permiten aumentos de la
+riqueza globales que constituyen la condición necesaria para posibles acciones
+redistributivas posteriores entre países. En este caso, la independencia de la PDC
+constituye incluso una garantía de que la política industrial no se convierta en una
+forma más de política social.
+En suma, si se considera a la CE como un todo integrado, se pueden separar las
+decisiones de asignación y distribución en la medida en que existan mecanismos de
+compensación consensuados que permitan hacer compatibles las decisiones del
+mercado con la existencia de preferencias no individualistas.
+Cabe incluso señalar que una PDC activa puede ayudar a definir con precisión las
+condiciones mínimas que debería cumplir cualquier acción de política industrial para
+considerarse admisible, entendiendo como admisibilidad su autonomía respecto a la
+PDC. En este sentido puede defenderse que las políticas industriales deberían estar
+siempre limitadas, tanto en plazo como en cuantía máxima de las ayudas, y condicionar
+su continuidad al cumplimiento estricto de contrapartidas por parte de las empresas
+beneficiarlas que — salvo en casos de reconversión— deberían ser económicamente
+viables.
+Pero, más allá de disciplinarlas intervenciones públicas en los mercados, defender
+en forma aislada la primacía de la PDC cuando se trata de problemas que afectan a la
+competencia mundial en mercados oligopolistas pueden traer consigo pérdidas netas
+para la CE en beneficio de terceros. Por ejemplo, en el caso de la aviación civil, donde
+sólo existen tres competidores mundiales en el segmento de reactores de más de 120
+plazas, una PDC comunitaria que aplique criterios distintos de los seguidos por las
+autoridades estadounidenses y que impida ayudas, incentivos o estrategias empresa­
+riales accesibles a los competidores, es positivamente perjudicial. Y, en general, en
+sectores donde el tamaño es condición necesaria de viabilidad, uña política antifusiones
+radical puede conducir a la desaparición del sector dada la lentitud de las posibilidades
+de crecimiento interno de las empresas.
+En último extremo, la aplicación de normas de defensa de la competencia en
+beneficio de terceros países sólo tiene sentido en co n d icio n es d e estricta recip rocid ad ,
+y si ésta no está garantizada, resulta peligroso convertirse en paladines a ultranza tanto
+del mercado como del proteccionismo.
+178
+
+
+
+El criterio de una PDC considerada como un cuarto poder judicial supranacional,
+tal y como se ha llegado a proponer recientemente en ámbitos comunitarios, carece de
+sentido y puede conducir a situaciones de debilidad relativa en casi todos los sectores
+industriales con futuro. En último extremo, esto no es más que el reflejo de un hecho
+bien conocido en la historia de la PDC: la importancia de la definición del mercado. Y,
+en mi opinión, cuando el mercado coincide básicamente con el ámbito económico
+sometido a reglas comunes, la PDC debe ser autónoma; pero cuando incluye a
+competidores cuya disciplina económica es distinta, debe ser coherente con la política
+industrial.
+Permítanme, para terminar, unas reflexiones finales sobre algunas formas equivo­
+cadas de entender la PDC en el marco de la CE y sobre el peligro de una PDC demasiado
+coordinada con la política económica general o con la política industrial.
+El primer comentario se refiere a una reciente Directiva de la CE que obliga a las
+empresas públicas a facilitar mayor información que las privadas respecto a su
+financiación y otros aspectos de su estrategia lo que, en mi opinión, conculca las reglas
+de la competencia. En caso de que la mayor facilidad de financiación privilegiada sea
+privativa de las empresas públicas (y no de todas las empresas grandes con problemas),
+la Comisión debería intensificar sus investigaciones de oficio, pero en ningún caso
+exigir que se hagan públicos aspectos cruciales de la estrategia de ciertas empresas que
+no han sido desvelados por sus competidores.
+Otra cosa es que las empresas públicas puedan ser utilizadas dentro de la CE por
+algunos países Cv.gr.: Francia) como barrera a la entrada de capital de otros países co­
+munitarios. Pero hacer frente a este problema exige la fijación de reglas de comporta­
+miento a las empresas públicas — y sobre todo a los gobiernos nacionales— , que nada
+tienen que ver con la obligación de facilitar información confidencial estratégica.
+El segundo comentario se refiere al peligro que puede suponer que la PDC se
+coordine tanto con la política económica general, que termine convirtiéndose en un
+instrumento para obtener otro tipo de objetivos (por ejemplo, la reducción de la tasa
+de inflación) distintos del fomento del proceso competitivo. Una TDC totalmente
+dependiente del Gobierno de un país puede ver sesgadas sus actuaciones actuando
+sobre actividades por el único motivo de presentar comportamientos más influyentes
+sobre el IPC. No es malo que sectores que presenten fuertes evidencias de disfrutar de
+posiciones acorazadas frente a la competencia sean objeto de investigación de oficio
+por parte de los TDC, pero sí lo sería que la selección de estos se hiciera en función de
+la ponderación de sus productos en el índice oficial de inflación. Para evitar esto,
+posiblemente lo mejor sea que los órganos de aplicación de la PDC tengan una alta
+estabilidad temporal y que cuenten con medios suficientes para llevar a cabo investi­
+gaciones de oficio. Aunque puede resultar impopular, es muy posible que los TDC no
+debieran entrar a considerar denuncias de menor cuantía a instancia de agentes que
+tienen otras vías de defensa de sus intereses, concentrando su trabajo en investigacio­
+nes de oficio sobre actividades relevantes.
+179
+
+

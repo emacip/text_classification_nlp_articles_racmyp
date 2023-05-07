@@ -1,0 +1,496 @@
+DATOS Y MODELOS EN EL ANÁLISIS DE POLÍTICA
+MACROECONÓMICA
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+Excmo. Sr. Presidente
+Excma. Sra. Académica
+Excmo. Sres. Académicos
+Señoras, Señores,
+Comparezco hoy ante ustedes en este acto de ingreso en la Real Academia
+de Ciencias Morales y Políticas para la que tuvieron la benevolencia de elegirme.
+Agradezco especialmente el cariño con que los académicos Landelino Lavilla Alsina,
+José Luis Pinillos Diaz y José María Segovia de Arana avalaron con su firma mi candidatura. Soy plenamente consciente de la responsabilidad que asumo, pero también
+vengo con la enorme ilusión de colaborar con una institución de tan larga tradición.
+Un buen número de miembros de esta Real Academia, algunos lamentablemente ya
+ausentes, han ocupado cátedras en la Facultad de Ciencias Económicas de la Universidad Complutense, donde desarrollo mi labor docente y de investigación. Es para
+mí un gran honor ingresar en una institución, de la que han formado y forman
+parte personas a las que tanto admiro y con las que, en algunos casos, he podido
+compartir tareas universitarias.
+También me vienen a la cabeza los nombres de muchos colegas de mi generación, marcada por su paso por programas de doctorado en instituciones académicas extranjeras, que bien podrían a mi juicio estar hoy aquí en mi lugar, y a quienes quiero creer que represento.
+
+* Resumen del Discurso de Ingreso leído en la Sesión Pública del día 10 de noviembre de 2009.
+
+689
+
+
+
+Pero es especialmente abrumador ocupar la vacante de Enrique Fuentes
+Quintana. No creo que pueda añadir ningún dato a los miembros de esta Academia
+acerca de quien formó parte de la misma durante 32 años y ocupó su presidencia
+durante casi 17. Pero quizá puedo recordar a alguien tan familiar a esta institución.
+Una persona con una enorme capacidad para desarrollar, desde puestos cuya responsabilidad atenazaría a muchos, no solo las tareas propias del cargo, sino también la renovación y modernización de las instituciones. Todo ello acompañado de
+una inagotable energía para crear e impulsar publicaciones que contribuyesen a
+crear opinión y a potenciar la labor de los economistas en una sociedad en pleno
+desarrollo.
+Todos quienes fueron sus alumnos hablan del cariño que siempre puso en
+sus clases. Con sus textos sobre el sistema fiscal español, Enrique Fuentes fue maestro, creador de una escuela de estudios e investigación en Economía Pública de la
+que han surgido muchos de nuestros buenos hacendistas.
+Su labor institucional es imposible de exagerar. Renovó la Secretaría General Técnica del Ministerio de Comercio. Ejerció una tarea de renovación similar en el
+Instituto de Estudios Fiscales, un centro de referencia que ha prestado un asesoramiento académico en las sucesivas reformas fiscales españolas. Importante fue su labor
+al frente de la Fundación de Cajas de Ahorros, que tan activa tarea desarrolla con sus
+análisis sobre el sistema financiero y sobre la economía española. Por no mencionar
+la decisiva repercusión, que ustedes conocen mejor que yo, que Enrique Fuentes tuvo
+sobre la infraestructura material, bibliográfica y financiera de esta Real Academia.
+Especialmente relevante fue su influencia sobre la política económica española. Bajo la dirección de Juan Sardá, y en colaboración con Luis Angel Rojo y
+Manuel Varela, entre otros, participó en la elaboración del Plan de Estabilización de
+1957. Fue el inicio de la liberalización de la economía española y de su apertura al
+exterior, rompiendo con el aislamiento de la posguerra, y sentando las bases del desarrollo de los años 60. Su servicio al país, desde la Vicepresidencia económica del
+gobierno fue decisivo. Convocó los Pactos de la Moncloa, que proporcionaron una
+estabilización de precios y presupuestaria en una coyuntura económica difícil, y dieron el impulso decisivo a la modernización de la economía española.
+Fue Enrique Fuentes un modelo como profesor y como investigador que
+siempre estimuló la formación y desarrollo de equipos de investigación, en particular apoyando a los más jóvenes. Un economista que no dudó en embarcarse en las
+siempre difíciles tareas de la política. Desde ella, aplicó sus férreas convicciones
+acerca de que la necesaria modernización de nuestra sociedad requería una determinada y decidida orientación de la política macroeconómica, tanto fiscal como
+monetaria. Y es de mi visión de la política macroeconómica actual de lo que les voy
+a hablar en esta intervención.
+
+690
+
+
+
+DISCURSO
+El ejercicio positivo de la Ciencia Económica trata de indagar en los determinantes de las decisiones de los agentes económicos y en la estructura de las relaciones entre variables. Por contra, el ejercicio normativo proporciona elementos
+para diseñar la política económica en sus distintas vertientes, en busca de un mayor
+crecimiento económico, una distribución más equitativa de la renta o, en última
+instancia, un mayor bienestar social. La distinción entre ambos ejercicios fue introducida por dos grandes autores clásicos, Nassau William Senior y John Stuart Mill,
+aunque he de advertir que contraponiendo la economía descriptiva como una ciencia pura, al arte impuro de la economía normativa y de la política económica.
+La política económica a nivel agregado, o política macroeconómica, tiene
+gran trascendencia. Algunos de sus aspectos más visibles, como los impuestos o
+como los costes y disponibilidad de financiación, afectan directamente a los ciudadanos y su signo y carácter condicionan los procesos de generación de renta y
+empleo.
+La política macroeconómica se evalúa a través de indicadores económicos
+de publicación frecuente. En esta evaluación se evidencia con total claridad una
+profunda disyuntiva metodológica: por un lado, el método científico, que requiere
+procedimientos estadísticos de previsión de dichos indicadores y modelos formales
+de la economía que aporten coherencia al conjunto; por otro, el debate público, en
+el que un nuevo dato es interpretado individualmente, utilizando transformaciones
+no siempre apropiadas y apelando a conceptualizaciones no siempre rigurosas. Con
+ello, cada dato nuevo es, potencialmente, objeto de un cruce de opiniones dispares sobre su significado acerca de la eficacia de la actual Política Macroeconómica
+y de la conveniencia de posibles alternativas, generando con ello una innecesaria
+incertidumbre en los agentes económicos.
+Aunque tendamos a olvidarlo, con la excepción de los precios y cantidades negociadas en algunos mercados, que son directamente observables, la mayoría de los indicadores económicos se obtienen mediante encuestas diseñadas por
+procedimientos estadísticos de muestreo. Esto tiene dos consecuencias:
+En primer lugar, al ser muy amplia la información recogida sobre cada variable y sobre sus componentes, y no poder difundirla en extensión, suele resumirse
+en términos de un único valor global o de un promedio. Pero los agregados económicos son demasiado heterogéneos para ser resumidos en una única cifra. La tasa
+de paro española oculta realidades regionales muy distintas, con tasas de paro por
+comunidades autónomas actualmente entre 10% y 26%. La evolución del IBEX no es
+un buen indicador de rentabilidad para la generalidad de los inversores en el mercado español. Las variaciones en las cotizaciones de sus 35 componentes durante los
+
+691
+
+
+
+últimos doce meses oscilan entre -40% y +104%. El índice de precios de vivienda
+representa de modo imperfecto a los muy diferentes mercados inmobiliarios que
+se extienden por la geografía española, actualmente con descensos de precios entre
+-1% y -14% en las distintas provincias.
+En ocasiones, la heterogeneidad se enmascara en un promedio de manera
+interesada. Así sucede cuando se solicita apoyo político para una reducción de tipos
+impositivos esgrimiendo el beneficio que se deriva de un determinado descenso
+medio en la carga tributaria de los contribuyentes. Sin embargo, dada la gran asimetría en la distribución de la renta, una mayoría de los contribuyentes puede no
+verse apenas favorecida por dicha reducción. Por el contrario, el descenso de
+impuestos de los contribuyentes situados en los percentiles superiores de renta
+puede ser órdenes de magnitud superior al descenso medio anunciado.
+En definitiva, si se discute sobre una referencia numérica, es imprescindible dejar claro si la muestra a la que se refiere es suficientemente homogénea como
+para que dicha referencia sea realmente representativa de todos los elementos en
+la población.
+Tampoco tiene el promedio muestral las propiedades beneficiosas que con
+frecuencia se le asignan para justificar un cambio de política: consideramos razonable subir la presión fiscal o queremos aumentar el gasto en I+D+i, en educación
+o en sanidad porque, como porcentaje del PIB, estamos por debajo de la media
+europea, y creemos que posicionarnos mejor en el ranking de gasto será garantía
+de mejores servicios. Este argumento carece de justificación real. Además de que no
+tenemos en cuenta que, si todos los países intentásemos estar por encima de la
+media, nunca lo conseguiríamos.
+La segunda consecuencia de la generación de datos mediante encuesta es
+que no se obtiene una medición exacta de la variable que se pretende cuantificar.
+Ya se trate del precio del kilo de pollo o del número de personas ocupadas, el dato
+publicado es una estimación construida con la información recogida en la muestra,
+que proviene de un número de puntos de venta de pollo en el primer caso, o de
+unos miles de hogares, en el segundo, pero no de todos ellos. Por tanto, el valor
+numérico de los indicadores no debería leerse muy estrictamente, sino sólo como
+representativo de un rango de valores, tanto más estrecho cuanta mayor precisión
+alcance el procedimiento de muestreo.
+Especiales dificultades plantean los indicadores estimados a un nivel más
+local, pues su precisión se verá reducida por utilizar solo la parte de la información
+recogida en la encuesta que se refiere a dicho ámbito local. Esto hace que desviaciones en la tasa de crecimiento, de paro o de inflación de una comunidad autónoma con respecto a un objetivo o predicción, puedan ser objeto de una encendida
+
+692
+
+
+
+discusión, a pesar de reflejar tan sólo una limitada precisión y carecer de relevancia práctica. Algo similar sucede con los indicadores frecuentes. Al ser las tasas de
+variación mensual numéricamente reducidas, de tan sólo unas décimas, el error
+muestral que inevitablemente incorporan puede ser porcentualmente importante.
+Especialmente, si se trata de un indicador frecuente estimado a nivel local.
+Estas características me hacen creer que no es muy oportuno enfatizar
+excesivamente la trascendencia última de cada uno de los datos publicados acerca
+de un indicador económico. Es preferible evaluar los indicadores frecuentes sólo
+cada cierto tiempo, facilitando que la agregación temporal proporcione información más robusta. La excesiva atención prestada a los indicadores frecuentes tiene,
+posiblemente, su explicación en la sociología del sector de información económica,
+cuya amplia demanda necesita convertir cada dato económico en una noticia trascendente. Pero sería preferible que ocuparan su espacio proporcionando un análisis rigurosamente justificado de las tendencias a medio plazo y de la adecuación de
+las políticas en vigor, aportando así una visión coherente de la evolución conjunta
+de los principales indicadores económicos. Pero, posiblemente, no sea ésta una
+actividad editorial rentable en nuestra sociedad.
+Entonces ¿cómo debería interpretarse un nuevo dato económico? La
+correcta evaluación de un dato mensual o trimestral requiere disponer de una referencia previa. Es habitual la comparación con el mismo período del año anterior,
+pero esta tasa interanual no está exenta de limitaciones, pues ignora lo sucedido
+durante dicho período. Un crecimiento anual nulo sitúa una variable en el mismo
+nivel que hace un año, pero su interpretación diferirá notablemente si dicha variable descendió durante los primeros 6 meses para ascender en los 6 últimos, respecto
+a si siguió la senda contraria.
+La tasa interanual tiene, además, una excesiva inercia, que se plasma en un
+considerable retraso en la comunicación de un posible cambio de tendencia en
+momentos como los actuales.
+Considero que la mejor recomendación es que todo dato frecuente se evalúe por comparación con la previsión que previamente se haya elaborado utilizando
+métodos estadísticos rigurosos. El debate acerca de un dato mensual de inflación de
+cinco décimas, por comparación con una predicción inferior, de tres décimas, debe
+establecerse únicamente a la luz del modo en que dicha discrepancia altere nuestra visión futura de la inflación. Es el cambio inducido sobre la predicción a medio
+plazo, una vez incorporado el nuevo dato, lo que debe guiar la valoración del
+mismo. Que se produzca tal incidencia dependerá no sólo de que el error de predicción haya sido grande o pequeño, sino también de la precisión con que se
+hubiera elaborado la previsión. Un error de predicción apreciable sobre una previsión poco precisa no inducirá un cambio en la predicción a medio plazo.
+
+693
+
+
+
+Pero ¿en qué términos deberíamos manifestar los economistas las previsiones con las que compararemos los próximos datos? Habitualmente escuchamos afirmaciones del tipo: “El Fondo Monetario Internacional prevé un crecimiento del PIB
+de 2,0% para el próximo año”. Pero la naturaleza probabilística de las relaciones
+económicas hace que tales afirmaciones no puedan entenderse sino como un abuso
+de lenguaje. Un analista económico tiene incertidumbre sobre las mediciones proporcionadas por los datos publicados y sobre la estructura y estabilidad de las relaciones económicas. Adicionalmente, debe contemplar escenarios alternativos para la
+política macroeconómica futura, generando como previsión, bajo cada escenario y
+cada modelo considerado, un rango de valores, y deberá especificar la verosimilitud
+que otorga a cada uno de ellos. Esta es la descripción genérica de un ejercicio de
+predicción riguroso. En consecuencia, la comparación entre dato y previsión tiene
+una inevitable naturaleza probabilística, y debe tratarse adecuadamente. Sintetizar
+este conjunto de predicciones y probabilidades en una única cifra, como habitualmente hacemos, implica perder una información esencial. Podemos simplificar su
+presentación con objeto de acercarnos al público quien, en definitiva, sufre o disfruta
+de sus consecuencias, pero no debemos simplificarla hasta el punto de pretender que
+no hay incertidumbre ni en las previsiones ni en los datos publicados.
+Y, puesto que este ejercicio se realiza con objeto de evaluar los efectos de
+la política macroeconómica, es importante evitar que su propio diseño pueda ser
+fuente de incertidumbre. Ello puede suceder por dos razones que deberían evitarse.
+La primera causa posible de incertidumbre se refiere a la elección de objetivos de
+política. Estos deben recoger los buenos deseos de la autoridad económica, pero no
+pueden alejarse de la realidad hasta perder credibilidad. Si la diferencia entre previsiones y objetivo se juzga excesiva, el sector privado interpretará, o bien que el
+gobierno dispone de una clara superioridad de análisis, o que dispone de una notable capacidad de intervención, o que mantiene una llamativa desvinculación respecto de la realidad. Si predomina esta última visión, la percepción por parte del
+sector privado de que el gobierno anda a remolque de los hechos en reconocer los
+cambios de tendencia de la economía contribuirá a incrementar la percepción general de incertidumbre, con el consiguiente efecto negativo sobre las posibilidades de
+crecimiento.
+La Ley de Presupuestos para 2009 es un ejemplo de este fenómeno. Se
+basaba en un escenario de crecimiento positivo y de generación de empleo, difícilmente compatibles con el brusco deterioro ya observado en los indicadores económicos nacionales e internacionales. Un supuesto tan alejado de la realidad dejó sin
+validez al Presupuesto del Estado como guía para la política macroeconómica para
+el presente ejercicio, quedando reducido a un instrumento meramente político. Prescindir de esta importante referencia económica no tiene ningún beneficio a largo
+plazo, genera incertidumbre innecesaria y redunda en descrédito del Ministerio responsable.
+
+694
+
+
+
+Una segunda causa de incertidumbre proviene del diseño habitual de objetivos de política macroeconómica. La inercia propia de las variables económicas
+hace que sus variaciones se produzcan gradualmente, por lo que un objetivo anual
+de reducción de la inflación, por ejemplo, no está diseñado para ser contrastado
+todos los meses. Un objetivo anual debería establecerse en términos de una senda
+que, mes a mes, recoja la transición desde la situación actual al objetivo anunciado.
+Llevando a cabo la actualización de previsiones que antes describí, cada nuevo dato
+podría ser fácilmente evaluado en términos de sus implicaciones respecto del cumplimiento del objetivo a medio plazo. Esto evitaría caer en el error de esperar que,
+desde los primeros meses del año, la tasa de inflación esté en línea con el objetivo
+anunciado.
+Pero, sobre todo, la política macroeconómica ha de ser consistente. Es
+una actuación de medio y largo plazo, y para generar la credibilidad que necesita,
+no puede cambiar continuamente. Un ejemplo es el tratamiento fiscal de las rentas del trabajo y del capital, que los agentes económicos tienen en cuenta cuando
+toman sus decisiones de consumo y ahorro. Alterar frecuentemente dicho tratamiento impositivo, revirtiendo en ocasiones decisiones recientes, crea inseguridad
+jurídica, introduce distorsiones en los mercados y genera una ineficiente asignación
+de recursos.
+De esta forma, si las autoridades económicas establecieran sus objetivos de
+acuerdo con una cronología adecuada y los profesionales juzgáramos los indicadores frecuentes en términos de su verdadero valor informativo, evitaríamos debates
+espurios y reacciones exageradas o precipitadas. Aumentaría también el rigor en
+torno al debate de política macroeconómica, facilitando la detección de los verdaderos problemas y aumentando la confianza de los agentes económicos en los analistas y en las instituciones responsables.
+Y cuando la evolución observada de los principales indicadores sugiere la
+conveniencia de modificar la actual política macroeconómica es preciso disponer de
+un modelo formal de la economía que permita estimar la magnitud del efecto potencial de dicha intervención. Una elevación insuficiente de tipos de interés puede no
+frenar la inflación como se desea; una elevación excesiva logrará su objetivo a la
+vez que posiblemente genere una recesión. El rango de cuestiones posibles es ilimitado, ya sea acerca de si un descenso en las cotizaciones sociales, financiado
+mediante un aumento del IVA creará empleo, o acerca de la capacidad que determinado incremento del gasto público tiene para sacar a la economía de una recesión. Todo lo que necesitamos es incorporar al modelo aspectos estructurales que
+permitan responder a las cuestiones en las que estamos interesados.
+La respuesta a tales preguntas dependerá, lógicamente, de la estructura
+del modelo utilizado y, en particular, de qué variables suponemos que inciden sobre
+
+695
+
+
+
+otras, y de cuáles no lo hacen. Por consiguiente, dos analistas pueden diferir en sus
+opiniones acerca del impacto potencial de una determinada Política Macroeconómica porque consideren modelos distintos. Y no tiene mucho interés asistir a una
+discusión sobre sus diferencias de opinión sin hacer referencia a los modelos que
+subyacen a cada una de las posiciones.
+Lamentablemente, es frecuente lo contrario. Al ignorar los aspectos metodológicos de modelización económica, tanto en lo relativo a la especificación de
+relaciones entre variables, como a la medición de los efectos de una variable sobre
+otras, el debate público trivializa el análisis de Política Macroeconómica. Lo hace
+porque es mucho más sencillo debatir una propuesta sin entrar a considerar un
+modelo analítico, que hacerlo utilizando la disciplina que exige el trabajo con modelos económicos formales. Se trivializa el debate económico porque es más sencillo
+que hacerlo con la Física Cuántica, y también porque es mucho más fácil derivar
+tales opiniones en una crítica política.
+Es éste un hábito muy nocivo, que puede hacer creer que la Ciencia Económica es poco más que un limitado vocabulario de conceptos, un reducido conjunto de variables, y unas pocas ideas acerca de cómo elevando o reduciendo instrumentos de Política, la economía reaccionará del modo deseado. Nada más lejos
+de la realidad. Por el contrario, un análisis riguroso del diseño y evaluación de la
+Política Económica requiere del uso de modelos formales, cuya especificación se
+basa en postulados teóricos que establecen la presencia o ausencia de unas variables en la determinación de otras; en ocasiones, incluso se especifica la magnitud
+de dichos efectos. Tales proposiciones suelen someterse a contrastación empírica y,
+en caso de no ser rechazadas, se incorporan a la especificación del modelo.
+Precisamente, la validación de proposiciones teóricas es un tema central
+de la Filosofía de la Ciencia, que contrapone los enfoques alternativos de verificación frente a falsación de teorías. El verificacionismo busca en los datos evidencia
+consistente con una proposición teórica, mientras que el falsacionismo busca evidencia incompatible con la misma. El planteamiento es radicalmente distinto, y la
+Filosofia de la Ciencia dedicó gran parte del siglo XX a debatir acerca del modo
+apropiado de progreso del conocimiento. Una tensión entre el verificacionismo
+frente al falsacionismo de hipótesis que parece haberse resuelto en Economía con
+ventaja para el primero, como afirma M. Blaug, quien reclama la conveniencia de
+que “los economistas tomemos el falsacionismo seriamente”, acusándonos de “falsacionistas inocuos”. Dice este autor: “Los economistas se involucran masivamente
+en investigación empírica. Pero, mucho de esto es como jugar al tenis con la red
+bajada: en vez de intentar refutar predicciones contrastables, demasiado a menudo
+los economistas modernos quedan satisfechos con probar que el mundo real es
+acorde con sus predicciones, reemplazando así la falsación, que es difícil, con la
+verificación, que es sencilla”.
+
+696
+
+
+
+Al optar por el verificacionismo, son mayoría los contrastes de una proposición teórica en que nos preguntamos si los hechos observados son consistentes
+con la misma. Dejamos de lado los contrastes que se centran en características que
+no deberían observarse si la proposición fuese cierta. Esto es poco afortunado, porque una variedad de factores hace que las relaciones económicas se estimen frecuentemente con una precisión limitada. Por su naturaleza, cuando esto sucede, el
+enfoque estándar de contrastación de hipótesis de Neyman-Pearson hace que las
+proposiciones teóricas no sean rechazadas. Si, como es asimismo frecuente en las
+ciencias sociales, se identifica erróneamente el hecho de no rechazar una hipótesis
+con haber probado su veracidad, el problema está servido: el investigador tiene
+una determinada visión acerca del funcionamiento de la economía, la somete a contrastación y, al no rechazarla, concluye que es cierta. No se preocupa de comprobar que, si contrastase muchas otras hipótesis distintas, en un contexto de reducida
+precisión, tampoco las rechazaría. Y, evidentemente, sólo una de ellas, como
+mucho, podría admitirse como cierta.
+Así, no es sorprendente que se achaque a la Ciencia Económica la coexistencia de teorías alternativas acerca de un mismo fenómeno, frecuentemente incompatibles entre sí, todas ellas verificadas por los datos disponibles, pero ninguna
+sometida a falsación. Resolver esta situación, dando un notable giro a la validación
+de proposiciones teóricas, es un importante reto que, afortunadamente, puede acometerse. Disponemos de los métodos estadísticos, pero necesitamos un cambio radical de actitud metodológica. Hemos de poner un énfasis mucho mayor en un falsacionismo sofisticado, que acumula evidencia posiblemente desfavorable acerca
+de una determinada teoría, rechazándola cuando la evidencia desfavorable se considere suficiente. Y conviene utilizar un enfoque Bayesiano que establece y actualiza la preferencia relativa por hipótesis y modelos alternativos, más que buscar y
+defender un único modelo como correcto.
+Conviene, de todos modos, puntualizar que la Ciencia Económica obedece
+a una variedad de aproximaciones metodológicas, dependiendo del tipo de cuestiones que trata, y no todas ellas requieren validación empírica. Los ejemplos más evidentes son la Teoría del Equilibrio General, la Teoría de Juegos o, aún más ampliamente,
+la modelización y resolución de conflictos de interacción estratégica. Estas áreas se
+han desarrollado con el rigor formal de una disciplina matemática y con elevados niveles de sofisticación y la contribución de los economistas ha sido, cuantitativa y cualitativamente, de suma importancia. El análisis del modo en que las decisiones de los
+agentes económicos responden a los incentivos que reciben y, en consecuencia, el
+diseño de mecanismos que conduzcan al logro de un determinado objetivo, están llamadas a ser en el futuro líneas de desarrollo científico de gran trascendencia práctica.
+Quienes creen en la necesidad de que la falsación empírica sea una condición necesaria para que una disciplina pueda considerarse como una ciencia, ven
+
+697
+
+
+
+la Teoría del Equilibrio General con notable recelo. M. Blaug la califica como “‘matemáticas sociales’, una rama de las Matemáticas que trata de problemas sociales solo
+a un nivel formal”, ilustrando con ello la reticencia existente todavía en muchos intelectuales acerca de la necesidad de una rigurosa formalización en el análisis de las
+cuestiones económicas. Pero, como marco de análisis, su importancia es inmensa,
+por sus implicaciones cualitativas y por la disciplina de rigor formal que ha introducido en el análisis económico. Su incorporación a la Economía Industrial, a la Economía de la Empresa, a la Teoría Financiera, y a las distintas parcelas de la Macroeconomía ha permitido un apreciable progreso en estas áreas en los últimos años.
+En particular, los modelos para el diseño y evaluación de Política Macroeconómica han evolucionado considerablemente como consecuencia de esta
+influencia. Actualmente, estos modelos incorporan explícitamente los criterios que
+rigen los procesos de decisión de los agentes económicos, las restricciones a que
+están sujetos, y las fuentes de incertidumbre a que se enfrentan. Especifican asimismo el modo en que la información disponible en cada momento es utilizada para
+formar expectativas acerca de la política económica, de los precios y de las rentas
+futuras y el modo en que dichas expectativas influyen sobre las decisiones de los
+agentes económicos. Decimos que son modelos con fundamentos microeconómicos para el análisis de política macroeconómica. La tradicional, y creo que útil, dualidad metodológica entre modelos simples, necesariamente poco realistas, y modelos realistas, necesariamente complejos, con decenas de ecuaciones y cientos de
+variables se resuelve por la opción de la simplicidad. Siguiendo las propuestas metodológicas del positivismo de M. Friedman, no se insiste tanto en el realismo de los
+supuestos, como en su capacidad para explicar regularidades empíricas relativas a
+la cuestión objeto de estudio.
+Estos modelos son necesariamente estocásticos y dinámicos. Los dos
+aspectos, el estocástico y el dinámico, son de total relevancia. Un modelo dinámico
+es capaz de caracterizar la evolución que sigue una economía desde que se produce
+una intervención de política económica hasta que sus efectos se amortiguan definitivamente. Este es un aspecto especialmente interesante, porque permite distinguir
+entre los efectos a corto y a largo plazo de una intervención de Política Macroeconómica y explicar que, como bien puede suceder en una economía real, ambos
+efectos sean de signo opuesto.
+La modelización explícita de la incertidumbre, reconociendo además que
+los agentes económicos actualizan sus expectativas según van recibiendo información nueva, conduce a estructuras que carecen de solución analítica, lo que ha hecho
+que el análisis probabilístico de simulación pase a ser una herramienta habitual. Este
+tipo de análisis permite generar trayectorias temporales para una economía a partir
+de sus valores actuales, condicionales en un determinado escenario para la política
+macroeconómica y en una determinada ocurrencia de sucesos externos futuros.
+
+698
+
+
+
+El investigador puede repetir el ejercicio cuantas veces quiera bajo las mismas condiciones estructurales, incluyendo un determinado escenario de política
+macroeconómica, pero bajo distintas realizaciones de los sucesos externos futuros.
+Estará utilizando de este modo un laboratorio analítico para evaluar los efectos de
+una determinada política. Es una actitud similar a la de un investigador en ciencias
+experimentales, si aceptamos que el modelo utilizado es un buen reflejo de la economía real, al menos en lo que respecta a las cuestiones que se analizan.
+Junto con la riqueza de análisis que proporcionan los aspectos dinámicos
+y estocásticos, la consideración de mecanismos no arbitrarios de formación de
+expectativas ha cambiado por completo la formulación y análisis de modelos para
+la evaluación de política macroeconómica. Ahora somos mucho más conscientes
+acerca de que la percepción de los agentes privados condiciona los efectos de una
+política económica.
+A modo de ejemplo sencillo, consideremos la introducción de incentivos
+fiscales ante un brusco descenso en la venta de automóviles. Si los consumidores
+perciben que dicha rebaja impositiva es transitoria, seguramente conducirá a un
+aumento de las ventas; si la rebaja se percibe como permanente, las ventas aumentarán inicialmente, pero menos que en el primer caso, ya que el incremento de las
+ventas se redistribuirá en el tiempo. Por último, si los consumidores creen que la
+rebaja actual va a venir seguida de rebajas adicionales, entonces, las ventas incluso
+podrían descender, puesto que, aunque el precio final se ha reducido, los consumidores esperarán al momento en que se produzca dicha reducción adicional. En
+definitiva, la magnitud del estímulo sobre las ventas y su distribución temporal
+dependerán de la percepción de los consumidores acerca del carácter del incentivo
+fiscal, más incluso que de su verdadera naturaleza.
+Ese tipo de resultados hace que la credibilidad de la autoridad económica
+cobre una extrema importancia, pues sólo si sus anuncios son creídos puede aspirar a lograr los efectos que persigue. Es este un resultado teórico que tiene su reflejo
+en el extremo cuidado con que las autoridades económicas se relacionan actualmente con los ciudadanos a través de los medios de comunicación.
+La caracterización de los posibles efectos de un cambio de Política Macroeconómica debe tener en cuenta que las expectativas de los agentes económicos variarán
+y, con ello, el modo en que toman decisiones, lo que tendrá implicaciones globales
+sobre la estructura futura de la economía. Uno de los trabajos más notables del premio
+Nobel R.E. Lucas rechazaba, precisamente, la práctica habitual de evaluar los efectos de
+Políticas alternativas, ignorando que las expectativas de los agentes y, con ello, sus decisiones, son sensibles a la regla de política que se ponga en práctica. Sorprendentemente, sin embargo, la conocida como “crítica de Lucas” continúa siendo generalmente
+olvidada en la discusión pública y en el propio diseño de política económica.
+
+699
+
+
+
+Los modelos de política macroeconómica con fundamentos microeconómicos a los que antes me referí incorporan estos efectos. Permiten, además, caracterizar explícitamente las interacciones entre las políticas fiscal y monetaria, relación
+que siempre se ha considerado de gran importancia, pero de difícil análisis en
+modelos más tradicionales. Por último, la incorporación explícita de las preferencias de los distintos agentes económicos permite llevar a cabo un análisis normativo explícito y rigurosamente definido, que en modelos más tradicionales era excesivamente forzado. Podemos así seleccionar entre políticas alternativas, aquella que
+genera un mayor bienestar.
+Las respuestas que obtenemos son generalmente contingentes en aspectos
+de la estructura de la economía. Por ejemplo, una reducción permanente de tipos
+impositivos, financiada mediante emisión de deuda, puede estimular el crecimiento
+y el bienestar de las generaciones actual y futuras. Que sea factible presupuestariamente a largo plazo depende de la magnitud del estimulo que genere sobre el crecimiento y ello depende, a su vez, de la disposición de los consumidores a sustituir consumo actual por consumo futuro, así como de características tecnológicas de
+la economía. De este modo, la recomendación de introducir tal política diferirá para
+distintos países, según que satisfagan o no las características estructurales adecuadas. Ya no hay recomendaciones universales en política macroeconómica.
+A pesar de los logros alcanzados en la especificación de modelos para el
+diseño y evaluación de política macroeconómica quedan todavía importantes retos
+pendientes. Considero que cabe mejorar significativamente: a) la modelización de
+la incertidumbre acerca de la estructura del modelo, b) el tratamiento de la heterogeneidad de los agentes económicos, c) la variación estructural inherente a toda
+relación económica, d) la modelización de los mercados de crédito, e) el tratamiento
+de mercados donde los participantes cuentan con información asimétrica, y f) la
+incorporación de elementos de racionalidad limitada. Retos todos ellos relevantes,
+y no sencillos, pero que sin duda se van a ver estimulados por los acontecimientos
+económicos que vivimos.
+Precisamente, no quiero terminar estas reflexiones sin una referencia a las
+críticas vertidas a la Ciencia Económica por su aparente incapacidad para anticipar
+y generar soluciones a la profunda crisis por la que atraviesa la economía mundial.
+La Economía estudia fenómenos que son consecuencia de la interacción de millones de agentes que toman decisiones basadas en su percepción acerca del futuro.
+Y dichas percepciones son actualizadas continuamente, según los agentes van recibiendo nueva información. Esto hace que las relaciones entre variables dependan
+de más condicionantes de los que es posible recoger en un modelo. A esto se superponen las continuas perturbaciones y cambios estructurales: desarrollos tecnológicos, guerras, cambios normativos, desastres naturales y cambios de preferencias,
+que afectan a la oferta de bienes, a su demanda, o a las condiciones en que operan
+
+700
+
+
+
+los mercados. Nunca se producen dos situaciones idénticas en una ciencia no experimental como la Economía, por lo que las experiencias vividas en una crisis no
+aportan soluciones definitivas para la siguiente. Los economistas tratamos continuamente de aprender acerca de acontecimientos que no podemos nunca aspirar a
+explicar por completo. Creo que conocemos la respuesta a bastantes cuestiones,
+pero siempre tendremos que aprender cosas nuevas, y continuaremos enfrentándonos a situaciones para las que no tenemos respuesta.
+Estas limitaciones acerca del nivel de conocimiento que puede alcanzar la
+Ciencia Económica constituyen una de las razones por las que considero que la crítica por no proporcionar soluciones a la actual crisis no está plenamente justificada.
+La segunda razón es que, en realidad, es habitual ignorar las enseñanzas de la Teoría Económica al diseñar muchos de los aspectos institucionales de las economías
+desarrolladas. No puedo afirmar que seguir sus dictados hubiese evitado los problemas que vivimos, pero es inconsistente culpar de nuestros males a una disciplina
+científica cuyas recomendaciones hemos ignorado.
+Como observación general, la Teoría Económica que explicamos a nuestros estudiantes muestra cómo, en mercados con información asimétrica, el mecanismo competitivo genera asignaciones ineficientes de recursos. En otras palabras,
+la ausencia de regulación es ineficiente; por otra parte, la autorregulación es desaconsejable, debido precisamente a la asimetría informativa de los participantes en
+el mercado. En definitiva, ningún economista serio puede defender la autorregulación en mercados financieros como se hizo hasta que estalló la crisis.
+Por otra parte, comienzan a surgir ahora propuestas razonables para cambiar los sistemas de incentivos contractuales que han estado en el epicentro de causas de la crisis financiera. No es porque estemos descubriendo ahora grandes principios teóricos. Más bien, en un momento de crisis, estamos recurriendo a cuestiones
+que conocíamos pero que, en el transcurso de una dulce expansión económica que
+quisimos creer sin límites, decidimos ignorar.
+Si se establecen mecanismos extraordinarios de compensación salarial,
+estos deben equilibrar los objetivos de negocio a corto plazo contra los riesgos asumidos a largo plazo. Para ello, el cálculo de las compensaciones debe retrasarse
+hasta que los riesgos derivados de la actividad económica tengan tiempo de aflorar por completo, y deben ser, desde luego, condicionales en los resultados de la
+unidad de negocio.
+En el ámbito de las instituciones financieras, no podemos difundir la certeza de que el Estado rescatará en el futuro entidades en crisis, sin contraprestación alguna. Como en todo seguro, el posible beneficiario debe pagar una prima
+de suficiente cuantía. En algún formato, debe establecerse un fondo, dotado por
+
+701
+
+
+
+las entidades financieras, quizá bajo algún esquema impositivo. En todo caso, el
+riesgo moral de una actuación profesional que ha sido muy criticable, sería menor
+si se hubiera sometido a investigación pública, con posible inhabilitación profesional, a los gestores que tan enorme perjuicio económico han producido a millones
+de ahorradores. De igual modo que parecería justo imponer impuestos extraordinarios sobre los posibles beneficios futuros a las entidades que han contado con recursos públicos, es decir, de los contribuyentes, para compensar el riesgo asumido por
+el Estado, es decir, por los contribuyentes, en los avales y préstamos concedidos a
+dichas entidades.
+Saliéndonos del ámbito financiero, la relación entre trabajador y empresario se desarrolla generalmente en un contexto de información asimétrica acerca de
+la calidad del trabajador, en el que es tradicional pedir al empresario que asuma
+todo el riesgo. Los trabajos iniciados por el Premio Nobel Akerlof muestran que
+este mecanismo conduce a un nivel de contratación inferior al eficiente, y que la
+situación puede corregirse si se reparte el riesgo entre ambas partes. Por tanto, vincular el salario a la productividad del trabajador o a los resultados de la empresa
+debería ser norma más que excepción.
+Los procesos de contratación de obra pública por parte de administraciones locales constituyen una situación de juegos repetidos en la que se llega a una
+solución ineficiente por no introducir incentivos correctos sobre los tiempos de realización o sobre el posible deterioro de la obra finalizada. Ejemplos similares
+podrían referirse al tratamiento de algunos recursos naturales, como los bosques,
+que conviene tratar como un activo de las poblaciones próximas, permitiendo una
+explotación sostenible, científicamente supervisada, e incentivando con ello su protección frente a todo tipo de desastres, como sugieren las experiencias existentes
+en los países nórdicos europeos.
+El acuerdo de Maastricht de convergencia al euro nos proporciona otra
+ilustración. En cursos de Macroeconomía explicamos que la sostenibilidad fiscal de
+un país depende no sólo de su actual nivel de endeudamiento, sino de su capacidad futura para hacer frente al servicio de dicha deuda. En consecuencia, los niveles de endeudamiento sostenibles no son los mismos para todos los países (como
+tampoco lo son para todas las familias), y lo que para uno es un nivel de endeudamiento excesivo, para otro puede ser perfectamente aceptable. Sin embargo, Maastricht se estableció al margen de esta observación, lo que fue fuente de no pocas
+tensiones en el proceso de convergencia al euro. Seguramente, el establecimiento
+de condiciones uniformes para todos los países fuera el único acuerdo viable políticamente y, por otra parte, tuvo resultados claramente beneficiosos para los países
+involucrados, muy especialmente para España. Pero ello no hace sino ilustrar que
+la política económica tiene muchas veces tanto o más de política que de economía,
+y no cabe culpar a la segunda de los posibles errores de la primera.
+
+702
+
+
+
+Mi último ejemplo se refiere a la precisión estadística de los mecanismos
+de calificación de riesgos, que tan importante papel han jugado en el desarrollo de
+la actual crisis financiera. El nivel de riesgo asignado a la deuda de un país o de una
+institución financiera, o a los activos que éstas pueden aportar como garantía, condiciona su coste de financiación, pudiendo dar lugar a dificultades de capital, e
+incluso a problemas de solvencia. Los rating de riesgo se basan en la estimación de
+probabilidades de quiebra mediante sofisticados modelos matemáticos, pero considero que es dudoso que puedan afinar hasta las cifras decimales que establecen la
+diferencia entre un nivel de rating y el siguiente. Si presentásemos un rango estadístico de confianza alrededor de la estimación de una de tales probabilidades, posiblemente descubriéramos que no estamos en condiciones de discriminar con precisión entre la amplia gama de niveles de riesgo actualmente existente, y que no
+podemos ir más allá de identificar unos pocos (quizá cuatro o cinco). Todo este procedimiento debe revisarse en sus principios fundamentales.
+A lo largo de esta intervención, he expuesto cómo el seguimiento e interpretación de indicadores económicos no sigue siempre los criterios científicos deseables, y cómo la discusión pública sobre política macroeconómica es frecuentemente frustrante e ineficaz, al efectuarse sin referencia a un modelo formal de la
+economía. Por último, he descrito situaciones en las que, por ignorancia deliberada, por la naturaleza de los procesos de negociación política, o por exceso de confianza en las capacidades de los modelos matemáticos, pasados por el tamiz de los
+datos económicos, las claras recomendaciones de la Teoría Económica no se aplican. Es evidente, por tanto, que existe una dicotomía importante entre el debate
+público y la actividad científica en Economía, y conviene reflexionar acerca de sus
+causas.
+La falta de rigor en el debate público sobre política macroeconómica no
+es achacable únicamente a los medios de comunicación; está alimentada asimismo
+por un excesivo alejamiento del mundo académico respecto de la discusión pública
+sobre temas económicos. Los investigadores académicos tendemos a observar los
+acontecimientos diarios de la economía real, y de la Política Macroeconómica en
+particular, desde la distancia. Dos razones explican esta separación: por un lado, los
+incentivos establecidos en el mundo universitario, que no favorecen la participación
+en el debate público; por otro, algunas peculiaridades del funcionamiento institucional español, que dificultan la participación de los investigadores académicos en
+el debate de política macroeconómica.
+En efecto, formamos parte de un sistema político democrático plenamente
+desarrollado, que cuenta con instituciones destinadas a poner en práctica y supervisar la política económica, o a defender los derechos de los ciudadanos frente a
+una potencial vulneración de los mismos. Pero son en última instancia los sistemas
+de elección de los miembros de sus órganos de gobierno, incluso más que sus pro-
+
+703
+
+
+
+pios estatutos o reglamentos, los que garantizan el buen funcionamiento institucional. Por eso es tan lamentable que los partidos políticos elijan directamente los
+miembros de estas instituciones utilizando criterios de afinidad ideológica. Todo lo
+cual genera una desconfianza social respecto de las instituciones, y un distanciamiento de éstas respecto del mundo científico, al que no creen necesitar para ejercer su función.
+Y cuando el mecanismo de nombramiento responde a la calidad profesional de las personas elegidas, como sucede en España en los casos de algunas instituciones emblemáticas, es la clase política quien no se siente representada. Cuando
+se emite desde estas instituciones un dictamen, elaborado con rigor científico, que
+resulta contrario a las posiciones defendidas por las instancias políticas o las instituciones sociales, éstas reaccionan, en ocasiones, con visceralidad. Lo hacen utilizando el procedimiento menos científico, la descalificación, en vez del análisis diferenciado y la argumentación rigurosa que pudieran sustentar un punto de vista
+alternativo.
+En resumen, una mayor participación del mundo académico podría contribuir a aumentar el rigor en el seguimiento de los indicadores económicos y en el
+debate público sobre política económica. Para ello, conviene continuar mejorando
+los modelos formales, en la línea de los actualmente disponibles, salvando algunas
+de las limitaciones que he reseñado. Y es preciso dotar a nuestros análisis y recomendaciones del apropiado carácter probabilístico que es inherente al análisis económico aplicado, especialmente en lo relativo al diseño y evaluación de la política
+macroeconómica. Sabemos cuáles son las líneas a seguir. Sólo falta llevarlas a cabo.
+Muchas gracias.
+
+704
+
+

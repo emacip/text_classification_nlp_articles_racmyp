@@ -1,0 +1,577 @@
+LA CRISIS Y LA PROTECCIÓN
+DE LOS INVERSORES NO PROFESIONALES
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez* 1
+
+Entre las enseñanzas que nos ha dejado la crisis iniciada en 2008 (inestabilidad financiera, falta de transparencia, banca en la sombra, deficiente evaluación de riesgos, fallos de gobernanza y un largo etcétera) una muy importante es la relativa a las deficiencias en la protección efectiva de los inversores
+no profesionales.
+Dos temas han sido los que, con más frecuencia en España, se han
+señalado como los más perjudiciales durante el periodo señalado: las participaciones preferentes y la salida a bolsa de Bankia. Pasado más de un lustro de
+ambos acontecimientos y rechazados todos los intentos de implicación de los
+supervisores financieros tanto en vía civil como penal, parece un momento
+adecuado para dar mi versión sobre el tema.
+Además del interés que puedan tener en sí mismos ambos casos desde
+el punto de vista económico y jurídico, creo que señalan el problema fundamental al que un supervisor de mercados se enfrentó, en España y en cualquier otra jurisdicción, en una crisis como la vivida: la insuficiencia de la regulación, es decir, de los instrumentos legales disponibles para hacer frente a las
+malas prácticas de las entidades de crédito respecto a sus propios clientes. Un
+tercer tema, el de las emisiones de pagarés del llamado grupo Rumasa también
+tiene interés porque demuestra que, a veces, el supervisor, pese a no contar
+con los instrumentos legales adecuados, puede evitar un daño a los inversores
+no profesionales, aunque asumiendo ciertos riesgos legales.
+
+*
+
+Sesión del día 8 de enero de 2019.
+
+147
+
+
+
+En ambos casos la exposición se organizará de la siguiente forma.
+Primero describiré las características de la operación y su calendario. En
+segundo lugar, explicaré las razones económicas que hicieron que diversas entidades de crédito, mayoritariamente Cajas de Ahorros, decidieran
+emitir cierto tipo de deuda subordinada o salir a bolsa. En tercer lugar,
+expondré las críticas que se han hecho a la actuación de los supervisores
+en ambos casos y argumentaré por qué son en lo esencial cuando menos
+excesivas, lo que indica que el reciente documento de la Comisión parlamentaria sobre la crisis en que solo aparecen señalados como responsable
+el Banco de España (BdE) con alguna mención marginal a la Comisión
+Nacional del Mercado de Valores (CNMV), y no la regulación, los partidos
+políticos o las propias entidades de crédito, es sesgada e inútil. Terminaré
+con una breve reflexión sobre la posible mejora de los instrumentos de
+supervisión.
+
+1. PARTICIPACIONES PREFERENTES Y DEUDA SUBORDINADA
+Las participaciones preferentes (PsPs) son títulos de renta fija, que
+han sido emitidos en su inmensa mayoría por instituciones financieras, que
+no conceden derechos políticos, perpetuos salvo decisión del emisor —
+que, con frecuencia, las ha amortizado al quinto año de su emisión—, con
+un tipo de interés superior al de otros activos similares, cuya percepción
+está condicionada a la obtención de resultados positivos del emisor y que,
+pese a su equívoca denominación, no son preferentes ya que ocupan el
+lugar inmediato al de las acciones en caso de concurso de acreedores. Además, su liquidez no está en absoluto garantizada, porque aunque cotizan
+obligatoriamente en el mercado de renta fija AIAF, el mismo es muy poco
+profundo.
+Se trata de un producto financiero calificado por la regulación europea como complejo, por lo que es obligatorio para el vendedor, que coincide
+con el emisor en el caso de bancos y cajas de ahorro, realizar un test de
+conveniencia al comprador para comprobar que su características (edad, ingresos, perfil de riesgo, etc.) coinciden con las de un inversor adecuado para
+el producto.
+La evolución del montante de emisiones de PsPs aparece en el cuadro 1 donde puede comprobarse que se trata de un activo emitido regularmente en el quinquenio 2001-2005 y que alcanza una explosión en 2009, con emisiones por valor de 11.600 millones, para desaparecer después prácticamente.
+¿A qué se debe este comportamiento temporal?
+
+148
+
+
+
+CUADRO 1
+
+Emisión de participaciones preferentes
+Año
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+
+Importe (millones €)
+2.410
+3.737
+3.360
+5.541
+1.356
+392
+—
+1.000
+11.600
+—
+200
+
+Fuente: Registros de la CNMV
+
+Las emisiones entre la primera de 1988 (del BBVA por 700 millones de
+euros) y las de 2005 se debieron a las ventajas fiscales y procedimentales concedidas por el gobierno a estos valores. Las emisiones record de 2009 se deben al
+hecho de que el BdE consideró en 2008 que las PsPs se podían computar como
+recursos propios de primera categoría (tier 1) dentro del capital regulatorio.
+Esta decisión se debió a que la inmensa mayoría de las Cajas de Ahorro
+se encontraban con déficits de capital regulatorio y, al no cotizar en bolsa, no
+podían hacer ampliaciones de capital y el grifo de la financiación exterior
+—muy potente antes de la crisis— se había cerrado. Desde el punto de vista del
+supervisor de solvencia, el BdE, era una decisión comprensible.
+No obstante, el supervisor de mercados, antes de que se produjera la
+avalancha de emisiones ya señaló los problemas que podrían presentarse en el
+proceso de comercialización de las PsPs. Al ser el emisor el principal colocador,
+por tratarse de una entidad de crédito, existía un conflicto de interés que podría
+afectar a sus clientes en la medida en que la línea que separa el asesoramiento
+(recomendación de compra de los valores más adecuados al perfil inversor del
+adquirente) de la comercialización (colocación del producto emitido por la entidad a sus clientes) era fácil de traspasar y si, por ejemplo, existían comisiones
+por la venta del producto habría claros incentivos a no actuar siempre en beneficio de los clientes. Esta advertencia de la CNMV no fue bien recibida ni por el
+sector ni por el propio BdE que pensaron podría dificultar la colocación de las
+PsPs. Asimismo, la CNMV actualizó su página web haciendo especial hincapié
+en las características del producto: perpetuidad, liquidez no asegurada y cobro
+
+149
+
+
+
+de intereses condicionado a la obtención de beneficios por el emisor y remitió
+una comunicación al sector (a través de las patronales bancaria, la AEB y de las
+Cajas, la CECA) recordando las buenas prácticas de comercialización de este
+tipo de productos complejos.
+Hasta aquel momento (2009) las PsPs habían sido una buena inversión
+para los particulares no profesionales: sus emisores siempre obtuvieron beneficios, de forma que los suscriptores siempre percibieron los intereses pactados;
+se amortizaron a los cinco años de su emisión por lo que en la práctica no
+fueron títulos perpetuos sino una deuda a cinco años; tenían liquidez dado que
+las entidades de crédito realizaban cases internos a su valor nominal entre los
+clientes que querían desprenderse de las PsPs y los que deseaban adquirirlas,
+cases que constituían una práctica correcta en la medida que el precio de mercado de las PsPs coincidía con el nominal; y, por último, como ningún emisor
+entró en concurso de acreedores su equívoco calificativo de “preferentes” no
+planteó problemas a sus tenedores. Por decirlo en términos más coloquiales, los
+inversores percibían las PsPs como un depósito a cinco años, rescatable antes
+de transcurrido el plazo sin costes, que pagaba intereses muy superiores a los
+de títulos semejantes. Pero no lo eran.
+La historia a partir de aquí es bien conocida: la colocación de PsPs en
+los primeros años de la crisis entre los propios clientes de las entidades de crédito emisoras fue masiva, los defectos de comercialización muy importantes, su
+valor de mercado comenzó a separarse sensiblemente del nominal, debido
+tanto al no pago de intereses como a que el Banco Central Europeo (BCE) dejó
+de computarlas como recursos propios de primera categoría en sus pruebas de
+esfuerzo, por lo que los cases internos dejaron de ser una práctica aceptable y
+las PsPs perdieron su liquidez. Como consecuencia, muchos particulares se
+enfrentaron a la pérdida de parte de sus ahorros. En esta situación, tres críticas
+fundamentales se hicieron a la actuación de la CNMV.
+La primera, que debería haber prohibido la colocación de PsPs a inversores no profesionales. Pero esto resultaba ilegal: tanto la legislación comunitaria como la española consagran el principio de libertad de emisión y la posibilidad de colocar productos financieros complejos a inversores no cualificados,
+hasta el punto de que aunque el test de conveniencia dé como resultado que
+el producto no es adecuado al perfil inversor del comprador, si este firma su
+consentimiento señalando que ha sido advertido de esa circunstancia por el
+vendedor, no se puede impedir que lo adquiera. La clave, por tanto, es el consentimiento informado y esto es lo que podía investigarse —una vez realizada
+la comercialización— en busca de posibles conductas ilegales.
+La segunda crítica es que el supervisor de mercados no vigiló el proceso de comercialización e impidió la venta de PsPs si comprobaba que se transgredía alguno de los requisitos exigidos por la regulación. Pero esto resultaba
+
+150
+
+
+
+también imposible de forma preventiva. Un conjunto de entidades de crédito
+comercializaron las PsPs a través de una red de varios miles de sucursales por
+lo que la vigilancia de la comercialización a priori habría exigido miles de inspectores actuando in situ.
+La tercera crítica fue que los inversores individuales no comprendían el
+producto que compraban. Debe señalarse, en primer lugar, que un número
+relevante de inversores sí conocían el producto porque lo habían adquirido con
+anterioridad y habían obtenido altos rendimientos por ello. Pero también es
+cierto que el perfil de muchos adquirentes no parecía el adecuado para este
+tipo de producto (inversores jubilados, con alta aversión al riesgo y nulos conocimientos financieros). Algo que solo puede conocerse después de realizada la
+venta de las PsPs. Pero el folleto de emisión contenía toda la información relevante sobre el producto y este es el instrumento de transparencia fundamental
+de cualquier emisión. Pese a ello, la CNMV realizó distintas advertencias en su
+página web sobre las características del producto, requirió a los emisores que
+pidieran dos informes de valoración a expertos independientes y, en caso de
+discrepancias con el precio de venta, la CNMV obligó a insertar en los folletos
+una advertencia sobre el excesivo precio de venta. Estas dos últimas iniciativas
+carecían de exigibilidad legal y la CNMV no tenía capacidad para obligar a su
+cumplimiento, aunque todos los emisores las aceptaron.
+La CNMV detectó problemas en la comercialización de PsPs por la única vía existente: el servicio de reclamaciones de los inversores, es decir, las
+peticiones de información, consultas y denuncias de quienes habían adquirido
+PsPs. Y abrió, hasta 2012, 20 expedientes sancionadores al detectarse cuatro
+tipos de prácticas inadecuadas:
+1. No realización del test de conveniencia.
+2. Diseño inadecuado del test, de forma que la conveniencia estaba
+casi garantizada se contestara lo que se contestara.
+3. Ausencia de firma, o firma no admisible, del documento en que el
+inversor declaraba saber que el producto no era conveniente pero
+deseaba adquirirlo.
+4. Falta de información posterior a la venta sobre la evolución del precio de las PsPs.
+Además, también se incoaron expedientes sancionadores por la práctica de cases internos al valor nominal en beneficio del vendedor pero en perjuicio del comprador, práctica expresamente prohibida a seguir con los clientes de
+una entidad de crédito. Como resultado de todas estas actividades inspectoras,
+en octubre de 2012 la CNMV había impuesto multas o abierto expedientes que
+se terminaron meses más tarde a 17 entidades, prácticamente todas las emisoras
+de PsPs en el periodo analizado.
+
+151
+
+
+
+El proceso de absorción de algunas Cajas por Bancos y la fusión de
+Cajas en Sistemas Institucionales de Protección (SIPs), de los que hablaré más
+adelante, hicieron que tanto los Bancos adquirentes como los nuevos SIPs se
+encontraran con muchos clientes en posesión de PsPs devaluadas. Las entidades adquirentes tenían dos motivos para tratar de resolver el problema de los
+inversores individuales. Por una parte, el coste reputacional que podía hacerles
+perder clientes que se consideraban engañados. Por otra parte, no deseaban
+perder recursos propios, que ya tenían, aunque fueran de segunda categoría.
+Por ello arbitraron soluciones consistentes en ofrecer canjes de las PsPs por títulos de deuda que eran más líquidos e incorporaban menor riesgo para el inversor. Estos canjes se produjeron muy por encima del precio de mercado de
+las PsPs 1 lo que permitió limitar significativamente las pérdidas de los inversores. En conjunto, el problema que en su origen afectaba a PsPs por valor de
+unos 25.000 millones de euros, quedó reducido a poco más de 4.000, lo que no
+deja de ser una cifra apreciable.
+En síntesis, el proceso descrito puede resumirse en dos conclusiones
+principales:
+1. En situaciones de crisis financiera aguda, el conflicto de interés entre
+solvencia de las entidades de crédito y protección de los inversores
+tendía, dada la regulación existente, a priorizar los problemas de
+solvencia. Esto plantea dudas sobre la conveniencia de que la defensa de los consumidores de productos bancarios sea responsabilidad
+del BdE.
+2. 
+Las entidades de crédito antepusieron sus intereses a los de sus
+clientes, cumpliendo con las obligaciones de transparencia pero no
+con las de comercialización de productos financieros complejos.
+La CNMV envió al Gobierno dos baterías de propuestas regulatorias
+que en el primer caso (septiembre de 2011) fueron ignoradas y en el segundo
+(marzo de 2012) parcialmente aceptadas.
+Por último, cabe destacar que, aunque nadie puede sentirse satisfecho
+con el resultado global del proceso, la CNMV llevó la interpretación de la norma hasta más allá de lo estrictamente obligatorio y habilitado legalmente, exigiendo condiciones adicionales (informes de valoración externos, prohibición
+de publicidad en medios, internet y sucursales) y haciendo una activa campaña destacando el carácter perpetuo y la iliquidez de las PsPs, su diferencia
+radical con los depósitos bancarios y explicando que el calificativo de “preferentes” no implicaba privilegio alguno en caso de concurso. No solo no fue
+
+1
+Excepto cuando los emisores fueron entidades intervenidas por el FROB, en cuyo caso lo prohibía la regulación europea.
+
+152
+
+
+
+considerada responsable ni en sede civil ni en sede penal, sino que en un estudio general encargado por el Parlamento Europeo sobre el tema de la mala
+comercialización de productos financieros se destacan los esfuerzos de la
+CNMV para mejorar la información de los inversores sobre las PsPs (Conac, 2018, págs. 18-24).
+
+2. LA SALIDA A BOLSA DE BANKIA
+Como es bien sabido, Bankia es la resultante de una fusión fría de 7
+Cajas de Ahorro en el que un conjunto de entidades ponen en común al menos
+el 40 % de sus recursos que pasan a ser administrados por un SIP en el que
+ninguna de las Cajas tiene mayoría en las decisiones y cuyo órgano de gobierno
+es independiente de los de las Cajas que lo forman. Esta fue la vía adoptada
+para hacer frente a la crisis de las Cajas de Ahorro que ya en mi intervención
+de 2013 tuve ocasión de analizar y criticar.
+El RDL 2/2011 de 18 de febrero exigió una ratio de solvencia del 8 %
+a las entidades que hubieran colocado títulos representativos de al menos
+el 20 % de su capital entre terceros, frente al 10 % que exigía a las entidades
+que no cumplían este requisito. Por ello algunos SIPs se plantearon la salida
+a bolsa, siendo la mayor operación la de Bankia que comenzó a cotizar en
+bolsa en julio de 2011 al precio de 3,75 € por acción. En febrero de 2012 la
+cotización se desplomó y los compradores de acciones (y la acción popular
+ejercida inicialmente por UPyD) llevaron el caso a los tribunales tanto en vía
+civil como penal.
+Una primera crítica a la actuación del supervisor es fácil de rebatir: la
+de quienes sostuvieron, tres trimestres después de la salida a bolsa, que no
+debería haberse autorizado la misma. Como la LMV señala explícitamente, la
+emisión de acciones no requiere autorización previa y la única competencia de
+la CNMV es verificar que el emisor incluye en el folleto toda la información
+disponible, siendo la veracidad de la misma exclusiva responsabilidad del emisor. En suma, la CNMV debe asegurar la transparencia de la operación, pero no
+la veracidad de la información facilitada por la entidad.
+Tres son los aspectos en que se han centrado las críticas a los supervisores financieros por la salida a bolsa de Bankia: la información dada a los inversores, el precio de salida y la posible manipulación de los estados contables
+hechos públicos por la entidad.
+Comenzaré por el tema de la información. Dos críticas se han formulado sobre este tema. La primera, que la CNMV eximió a Bankia de presentar
+
+153
+
+
+
+los estados financieros de los tres últimos ejercicios. La segunda, que en el folleto de emisión no se alertaba adecuadamente de los riesgos de la operación.
+Respecto a la exención de la obligación para cotizar en bolsa de presentar los estados financieros auditados limpios de los tres últimos ejercicios de
+la sociedad, el Reglamento Comunitario 809/2004 y el RDL 1310/2005 señalan
+que, en caso de que la sociedad no haya tenido tres años de vida, el supervisor
+de mercados puede autorizar la salida a bolsa si se da la información suficiente
+que permita al inversor tomar una decisión bien informada y la salida a bolsa
+es “en interés del emisor o de los inversores”.
+La excepción del requisito de presentar los estados financieros de la
+sociedad de los últimos tres ejercicios resulta imprescindible, porque de no
+existir serían imposibles las fusiones entre dos o más empresas que cotizan en
+bolsa y otras operaciones societarias. Y no tuvo carácter excepcional ya que fue
+aplicada por la CNMV en el periodo analizado no solo en el caso de Bankia,
+sino en muchos otros: CaixaBank, Iberdrola Renovables, IAG (fusión de British
+Airways e Iberia) conjuntamente con la autoridad británica o Arcelor Mittal a
+través de las autoridades luxemburguesa y del Reino Unido.
+En el caso de Bankia la CNMV exigió:
+1. 
+Los estados financieros intermedios consolidados de Bankia
+a 31.03.2010.
+2. El proforma de Bankia a 31.12.2010.
+3. Los estados financieros de Banco Financiero de Ahorros (BFA), matriz de Bankia a 31.12.2010 y
+4. Los estados financieros de las 7 Cajas que formaron BFA en los tres
+ejercicios precedentes (2008, 2009 y 2010).
+Además, se incluyó, a petición del supervisor, información exhaustiva
+sobre morosidad, provisiones, coberturas etc, Y todos estos documentos fueron
+reglamentariamente auditados sin salvedad o incertidumbre de continuidad de
+negocio alguna. Debe señalarse que la supervisión de la informaciones y datos
+sustantivos de los informes de auditoría es competencia del ICAC (Ministerio de
+Economía) y que la CNMV solo supervisa que los estados financieros consolidados —no los individuales— cumplen los principios generales del Plan General de Contabilidad español y de las Normas Internacionales de Contabilidad
+(NIIC) es decir, lo que se conoce en la jerga como “política contable”, no teniendo competencia alguna respecto a los criterios de valoración de activos y pasivos ni a temas de solvencia.
+Cabe por tanto concluir que la información financiera disponible incluida en el folleto era la suficiente para una salida a bolsa, como así han reconocido tanto los tribunales que se han ocupado del caso como el informe del Con-
+
+154
+
+
+
+sejo de Estado. Y cabe añadir que el supervisor de mercados obligó a Bankia a
+presentar un folleto resumido que los inversores no profesionales debían firmar
+para adquirir acciones, aunque estas son un producto financiero no complejo
+que puede comercializarse entre minoristas sin requisito previo alguno.
+La segunda crítica se centró en la insuficiente descripción de los riesgos
+que implicaba la suscripción de acciones de Bankia tal y como estos se incluían
+en el folleto de emisión. Pero el folleto contenía 22 páginas dedicadas a riesgos
+(incluido, por ejemplo, el de nacionalización) y ninguno de los riesgos que se
+materializó siete meses después de la salida a bolsa no estaba contemplado en
+el folleto.
+El segundo tema controvertido es la fijación del precio de salida.
+El método exigido para la determinación del precio por la CNMV fue
+que el mismo fuera fijado por un mínimo de 100 inversores cualificados que,
+además deberían adquirir al menos el 40 % de la emisión, con el objetivo de que
+el precio lo fijaran expertos en el tema que estuvieran dispuestos a arriesgar su
+capital en la operación. El precio resultante fue de 3,75 € por acción, muy inferior al mínimo fijado por la valoración de la entidad (que fue de 4,41 €) y más
+de un 20 % inferior a la media del intervalo, lo que suponía valorar la entidad
+al 40 % de su valor contable, muy por debajo de la media del sector bancario.
+Por tanto, la actuación de la CNMV dio como resultado un precio de salida que
+contribuyó a mitigar sensiblemente las pérdidas futuras de los inversores.
+Sobre el precio se han hecho dos tipos de críticas contradictorias que,
+curiosamente, han sido mantenidas con frecuencia de forma simultánea. La primera, que el precio era tan bajo que la matriz BFA era inevitable que quebrara.
+La segunda, que era un precio excesivo, crítica mantenida no cuando se produjo la salida a bolsa, sino más de medio año después, cuando se produjo la
+brusca caída de la cotización.
+El precio lo fijaron inversores institucionales expertos, por lo que resulta difícil pensar que fuera demasiado alto, ya que ellos fueron quienes adquirieron una parte significativa de la emisión. Y si era demasiado bajo eso era
+beneficioso para los inversores no profesionales y, además, BFA siempre podía
+haber decidido no vender los títulos. Pero es más, la hipotética quiebra de BFA
+solo habría adelantado su nacionalización, al convertirse en capital las PsPs
+suscritas por el Fondo de Reestructuración Ordenada Bancaria (FROB), lo que
+desde la perspectiva de la solvencia habría sido positivo aunque, en todo caso,
+no afectara a Bankia, sino a BFA.
+Pero, aparte de los propios inversores institucionales que pagaron 3,75 €
+en la salida a bolsa, ¿qué opinaban los analistas profesionales sobre el precio?
+Bastarán unos pocos ejemplos: BPI en agosto de 2011, con un precio de mer-
+
+155
+
+
+
+cado de 3,90 consideraba que el objetivo del precio eran 4.20 €; Espíritu Santo
+creía que el fair value de Bankia era en septiembre de 2011 eran 4,10 € cuando
+la cotización alcanzaba 3,65 €; S&P mantuvo la calificación de Bankia en octubre de 2011, la revisó a la baja en diciembre “como consecuencia de la revisión
+negativa de la deuda soberana” y a fines de enero de 2012 hizo una revisión
+negativa como “acción conjunta que afecta a varios emisores del sector bancario español”, es decir, nadie percibía ningún problema específico de Bankia. Y
+conviene recordar que, pocos días antes de la salida a bolsa, Bankia había
+aprobado los tests de stress de solvencia del BCE. En suma, nadie detectó en su
+momento la existencia de problemas de solvencia o de inadecuación del precio
+de salida en los siete meses posteriores al inicio de la cotización.
+Pero es que, además, esto también lo demuestra la evolución de la
+cotización. Durante los primeros siete meses (hasta febrero de 2012) la cotización de Bankia se comportó mejor que la media del sector bancario tanto español como de la UE. En el periodo analizado el Banco Popular pasó de 9,1 €/
+acción a 5,9; el Sabadell de 2,59 a 1,68; Caixabanc de 4,15 a 2,48; Banca Cívica
+de 2,70 a 1,49.
+Si alargamos la comparación hasta mayo de 2012 en que Bankia cotizaba a 1,69 €, lo que implicaba un descenso desde la salida a bolsa del 55 %, la
+corrección del sector bancario nacional fue del 40 % y la del europeo del 48 %
+—con varias entidades con peor comportamiento que Bankia tanto en España
+(Banco Sabadell) como en Europa (Societè General, Credit Agricole o Unicredit,
+por ejemplo). En suma, una pérdida relevante pero en línea con las entidades
+comparables tanto españolas como europeas.
+¿Por qué cayó abruptamente la cotización de Bankia y del sector bancario a partir de febrero de 2012? Dos sucesos pueden dar pistas. El primero,
+que cuando tuvo lugar la salida a bolsa, todos los expertos consideraban que la
+crisis era en forma de V y que nos encontrábamos iniciando la recuperación,
+mientras que en febrero se había constatado que la crisis era en forma de W y
+se iniciaba el segundo tramo descendente.
+Dicho en otras palabras, quien trate de presentar la situación económica en el momento de diseño y ejecución de la operación de salida a bolsa,
+como la peor posible y por ello la operación como de alto riesgo, está equivocado. En el primer trimestre de 2011, cuyos datos se conocieron en el proceso
+de verificación del folleto por la CNMV, si bien la economía mundial y la española seguían presentando debilidades, se hablaba de recuperación a un ritmo
+lento y de mayor estabilidad y crecimiento. Nadie esperaba un agravamiento de
+la crisis y menos una segunda recesión, y existiendo claras incertidumbres, que
+por cierto se señalaban en el folleto en forma de riesgos, se vislumbraba cierta
+luz en forma de mejoras en los indicadores. Así lo recogía también el propio
+
+156
+
+
+
+RD-Ley 2/2011 y los informes de situación económica al final del primer trimestre de 2011.
+El segundo factor que puede ayudar a explicar la caída de las cotizaciones bancarias fue el cambio regulatorio del sector: los RD-Leyes 2/2012
+y 18/2012 (los “decretos Guindos”), supusieron un antes y un después en el
+tratamiento contable del riesgo y exposiciones de las entidades de crédito, lo
+que cambió el panorama tradicional de provisiones de riesgo de crédito o de
+activos adjudicados, vigente hasta ese momento y aplicado en todo el territorio
+de la UE. Los RD citados exigieron al sector financiero español un capital adicional y una anticipación de posibles pérdidas futuras derivadas de algunos tipos de exposiciones, y supusieron un enorme coste en forma de pérdidas a
+reconocer de una sola vez. Su impacto fue tal que, para determinada tipología
+de activos, la nueva normativa contable fue más exigente que la que entró en
+vigor en el año 2017, que todavía no alcanzaba el nivel de provisiones que el
+año 2012 se exigió.
+Pero hay ejemplos aún más claros, de cómo puede afectar a las cotizaciones un cambio substancial del entorno regulatorio. Bastará con recordar el
+caso de Solaria (energías renovables) que llegó a cotizar a 25 € la acción a finales de 2008 y, tras las incertidumbres sobre el mantenimiento o eliminación de
+las primas, cayó hasta 0,27 €/acción, perdiendo en 99 % de su valor.
+No es posible cuantificar la importancia de estos efectos, pero lo que
+no cabe sostener es que entre agosto de 2011 y febrero de 2012 “no había pasado nada nuevo”.
+Respecto a la supuesta pasividad de la CNMV, cabe señalar que, sin
+capacidad legal de obligar al emisor, se exigieron tres requisitos adicionales a
+cualquier salida a bolsa: colocar no menos de un 40 % de la emisión a no menos
+de 100 inversores institucionales no vinculados entre sí; realizar el test de conveniencia a los inversores no profesionales, aunque como el producto (la acción) no era complejo no tenía por qué llevarse a cabo y, por último, exigir que
+el folleto resumido de la emisión fuera firmado por el inversor no profesional.
+Por último, el problema de si los estados contables estaban manipulados. Como saben este es un tema que se encuentra sub iudice en la Sala
+de lo Penal de la Audiencia Nacional, pero haré algunos comentarios porque
+permiten señalar ciertas insuficiencias de nuestro sistema de supervisión financiera y judicial cuando se enfrentan a problemas de este tipo.
+Es opinable que la información financiera hecha pública para la salida
+a bolsa fuera falsa, como puede comprobarse en los informes tanto del BdE
+como del FROB ante la Audiencia Nacional. El tema es técnicamente complejo,
+pero el punto central puede resumirse en pocas palabras: el ejercicio de Bankia
+
+157
+
+
+
+de 2010 presentó un deterioro de 7.619 millones de euros que el BdE autorizó
+se llevara contra provisiones y no contra resultados, lo que habría dado unas
+cuantiosas pérdidas de Bankia en la información financiera disponible del ejercicio completo cuando se produjo la salida a bolsa, dificultando si no imposibilitando la misma. Pero lo cierto en el tema del deterioro es que se trata de una
+interpretación contable posible: si Bankia se considera un grupo consolidable
+los 7.619 millones habrían debido llevarse a resultados, pero si se trata como
+una fusión (sin marcha atrás) pueden llevarse contra reservas. Y esta interpretación del BdE fue avalada por una auditoría limpia de Deloitte.
+Dos razones se aducen en la acusación de que Bankia manipuló la
+información financiera hecha pública en la salida a bolsa. La primera, el súbito
+empeoramiento de su solvencia y cotización que, como ya se ha comentado,
+pueden explicarse sin recurrir a falsedades contables. El segundo la supuesta
+advertencia de algunos inspectores del BdE a sus superiores cuando los servicios del supervisor analizaban la salida a bolsa para elaborar el informe preceptivo que, en este caso, fue de no oposición. Este punto fue confirmado por los
+peritos del BdE en sus informes al juzgado de instrucción, pero las advertencias,
+en lo que yo conozco, se referían a un desacuerdo con la decisión de salida a
+bolsa, pero no mostraban duda alguna sobre la solvencia de Bankia o posibles
+fraudes contables. Los famosos mails internos del BdE del inspector Sr. Casaus
+no cuestionan la solvencia y viabilidad de Bankia, entidad que salió a cotizar,
+sino que formulan hipótesis sobre las posibles dificultades de viabilidad de
+quien era su accionista mayoritario, esto es BFA. De hecho el inspector del BdE
+en sus mails, le da a Bankia el calificativo del Banco bueno, habla de ROEs y
+pay-out en forma de dividendos y en ningún momento anticipa un riesgo de
+insolvencia o inviabilidad de Bankia. Lo que cuestiona es si la mejor fórmula
+para el contribuyente, que no para los inversores, es sacar Bankia a cotizar y
+señala como una de las alternativas posibles (y preferidas por el mencionado
+Sr. Casaus) la de sacar todo el grupo a bolsa para que la parte deteriorada según
+el mismo (BFA) también fuera comprada por los inversores y no se quedaran
+sólo con la parte buena del Banco. En todo caso, insisto, la Audiencia Nacional
+tiene la penúltima palabra sobre el tema.
+
+3. LOS PAGARÉS DEL “GRUPO RUMASA”
+Entre el año 2009 y enero de 2011 el grupo Nueva Rumasa realizó, a
+través de la sociedad José María Ruiz Mateos, cinco emisiones de pagarés de un
+valor nominal de 50.000 €, que ofrecían un 10 % a un año y un 12 % a dos años,
+con la supuesta garantía de algunas empresas del grupo Rumasa. El tipo de
+interés muy superior al del mercado, la no inscripción de las garantías en el
+Registro Mercantil y otras peculiaridades de las emisiones hacían pensar en la
+posibilidad de que el diseño de la operación fuera un esquema de Ponzi (se
+
+158
+
+
+
+pagan los intereses con las nuevas suscripciones) y la CNMV analizó las posibilidades de hacer frente a este problema.
+La operación, sin embargo, estaba diseñada con habilidad para evadir
+cualquier tipo de supervisión. La CNMV podría haber actuado si se diera alguna
+de las siguientes tres circunstancias:
+1. 
+Que la emisión constituyera una oferta pública, pero el nominal 50.000 € no requería de oferta pública.
+2. Que los pagarés cotizaran en algún mercado organizado, pero no la
+hacían.
+3. Que se hubieran comercializado a través de una empresa financiera
+que prestara servicios de inversión, pero la venta se realizaba en un
+piso en una relación directa entre el inversor y el emisor.
+La CNMV interpretó que el artículo 3 de la LMV que señalaba como
+uno de sus tres objetivos la “protección del inversor” la habilitaba a intervenir
+en el proceso. Pero ¿cómo? No podía exigir un folleto de emisión aprobado por
+el supervisor que hubiera dado transparencia al proceso, ni podía exigir los
+requisitos de comercialización aplicables a las entidades de crédito y empresas
+de servicios de inversión. Decidió en suma insertar en su página web e informar
+a los medios de la información que debía tener un potencial inversor para tomar una decisión bien informada. Y lo hizo hasta en siete ocasiones.
+El contenido básico de estas advertencias era que antes de tomar la
+decisión de adquirir los pagarés los inversores deberían conocer la “situación
+jurídica y económico financiera de la entidad emisora”, que deberían obtener
+“asistencia financiera” profesional y, en general, que deberían disponer de la
+información necesaria para adquirir productos similares. A propuesta de la
+CNMV en abril de 2010 se modificó la LMV para exigir la participación de un
+intermediario financiero en esta clase de operaciones, lo que permitiría a la
+CNMV intervenir directamente. Razones para ello había, porque en febrero
+de 2011 las 10 mayores empresas de Nueva Rumasa entraron en situación preconcursal y a partir de aquí, con sus derivaciones legales, la historia es bien
+conocida.
+Es obvio que la intervención de la CNMV permitió en este caso que las
+sucesivas emisiones fracasaran, pero también lo es que asumió riesgos legales
+porque, en caso de denuncia, un tribunal podría interpretar que el supervisor
+se había extralimitado en su interpretación del principio de defensa del inversor
+ya que la emisión de pagarés, en sí misma, no conculcaba norma alguna (porque no estaba sometido a supervisión alguna). Este es un ejemplo de cómo,
+con cierta imaginación y riesgo, puede hacerse frente a una situación de indefensión del inversor y mejorar la regulación para poder solventar casos similares en el futuro sin imaginación ni riesgo. Algo que, obviamente, no podía ha-
+
+159
+
+
+
+cerse en los dos casos principales analizados en este trabajo por las razones
+expuestas en detalle con anterioridad.
+
+4. REFLEXIONES FINALES Y POSIBLES MEJORAS
+Con frecuencia los comentarios de los medios —algunas veces, incluso, de los especializados—, casi siempre las críticas de las asociaciones que
+agrupan a pequeños inversores no cualificados y, siempre, en todas mis comparecencias parlamentarias, me he visto sorprendido con críticas o comentarios
+relativas a la actividad de la CNMV que argumentaban que ésta no hacía cosas
+para las que o bien no tenía competencia, o eran contrarias a la legislación vigente o eran imposibles de realizar.
+Las críticas de las asociaciones de inversores en una situación de crisis
+como la actual, que ha puesto de manifiesto diversos defectos en la comercialización de productos financieros complejos y conflictos de interés no resueltos
+que han afectado a los ahorros de colectivos con escasa si alguna formación
+financiera, son comprensibles, aunque la mayor parte de las veces deberían
+dirigirse al legislador para que cambie el marco legal. Las de los medios, más
+bien apuntan a la conveniencia de que los periodistas que opinan de estos temas tengan una formación económica y financiera de mayor calidad y a que no
+hagan sus comentarios en función del gobierno que ha nombrado a los responsables de la institución, sino de las acciones de la misma. Más sorprendente y
+peligroso es el caso de los parlamentarios, porque muestra una ignorancia de
+la regulación financiera vigente que hace muy difícil que puedan saber qué es
+lo que se debe modificar de la misma y, por tanto, debilita y resta utilidad y
+eficacia a su labor como legisladores.
+Pero dicho esto, lo que puede tener interés es señalar las insuficiencias
+que se han manifestado en los casos analizados y sus posibles soluciones.
+El caso de las PsPs es donde la inadecuación de la regulación resultó
+más notoria y para evitar la repetición de casos semejantes cabrían algunas iniciativas:
+1. Que el supervisor de mercados pudiera prohibir la colocación de
+ciertas emisiones entre inversores particulares cuando la complejidad del producto haga pensar que es prácticamente imposible que
+sea bien comprendido por los mismos.
+2. Que las emisiones de productos financieros complejos no puedan
+ser comercializadas por entidades del grupo emisor.
+3. Que el test de idoneidad sea el mismo para todas las entidades y sea
+diseñado por el supervisor.
+
+160
+
+
+
+4. Que las sanciones (multas e inhabilitaciones) sean proporcionales
+respecto al daño causado, de forma que sean disuasorias.
+5. Para facilitar el resarcimiento de perjuicios a los inversores sería conveniente que las decisiones de los supervisores financieros ante quejas o reclamaciones de los clientes de entidades financieras, fuera de
+obligado cumplimiento para las mismas, que siempre contarían con
+la posibilidad de recurso ante los tribunales de justicia.
+Respecto al caso de los pagarés de Rumasa, el problema no se habría presentado de haber exigido la regulación que la venta de este tipo de
+producto hubiera de hacerse a través de una institución financiera autorizada,
+exigencia que, afortunadamente, ya se ha incorporado en la legislación vigente.
+Por lo que respecta a la salida a bolsa de Bankia creo que la regulación de salidas a bolsa es suficiente, porque al problema, en su caso, no reside
+en si la decisión de salida a bolsa fue técnica y económicamente conveniente o
+no (fue una decisión libremente tomada por los órganos de gobierno de una
+entidad de crédito), sino en la posible existencia de falsedad contable en la
+información financiera contenida en el folleto de emisión. Por tanto el tema
+relevante es cómo se podría asegurar una actuación acertada de la justicia.
+Es claro que ni los instructores ni los tribunales ni los fiscales poseen
+los conocimientos técnicos precisos para poder valorar si unas cuentas financieras de una entidad de crédito son o no correctas, por lo que se recurre para
+ello a los dictámenes de peritos. Los peritos de parte no son fiables y, en el caso
+de Bankia, es cuestionable que lo sean las de los peritos designados por el BdE.
+Quizá fuera deseable que los tribunales contaran con peritos expertos en estos
+temas que trabajaran en exclusiva para la justicia.
+
+CODA FINAL
+Solo añadiré que la actuación de la CNMV en 2006-2012 fue objeto de
+una revisión del FMI como parte de su Financial Sector Assessment Program
+que resultó muy positiva (IMF 2012). No obstante esta evaluación pasó desapercibida, o fue ignorada conscientemente, por los medios de comunicación y tuvo
+escaso eco mediático en el mundo financiero, posiblemente porque calificaba
+a la CNMV mejor que a los otros supervisores financieros (BdE y DG de Seguros) y señalaba sus grandes avances en el cumplimiento de los principios de la
+International Organization of Securities Commissions (IOSCO) y en la supervisión no presencial, valoración que en plena crisis iba contra la versión popular
+de supervisores lentos, si no incompetentes, y contrarios a los intereses sociales
+en beneficio de la industria financiera.
+
+161
+
+
+
+BIBLIOGRAFÍA
+
+CNMV (2017): “La protección de los inversores minoristas durante la crisis financiera en España:
+marco normativo y actuación supervisora de la CNMV”, Informe para la Comisión de
+Investigación del Congreso de los Diputados sobre la crisis financiera en España y el
+programa de asistencia financiera, septiembre.
+Conac, Pier-Henri (2018): “Subordinated Debt and Self-placement (Mis-selling of Financial Products)”, Study requested by the ECON Committee, European Parliament, PE 618.994,
+June 2018.
+IMF (2012), Spain: IOSCO Objectives and Principles of Securities Regulation-Detailed Assessment
+Implementation, IMF Country Report, No. 12/143, June.
+Ley del Mercado de Valores: Real Decreto Legislativo 4/2015, de 23 de octubre, texto refundido,
+BOE n.º 255, de 24 de octubre de 2015.
+
+162
+
+

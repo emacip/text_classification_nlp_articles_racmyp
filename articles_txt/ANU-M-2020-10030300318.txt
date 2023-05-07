@@ -1,0 +1,548 @@
+REPERCUSIONES ÉTICAS Y SOCIALES
+DE LOS ÚLTIMOS AVANCES EN EDICIÓN GENÉTICA
+Por el Académico de Número
+Excmo. Sr. D. Juan Arana Cañedo-Argüelles*
+
+Resumen: El desarrollo de la biología molecular a lo largo del siglo xx
+permitió que los investigadores accedieran por primera vez a los mecanismos
+más íntimos de la herencia biológica. Así descubrieron que la información genética se encierra en las secuencias de nucleótidos dentro de los ácidos nucleicos. Ellas codifican las cadenas de aminoácidos con las que se forman las proteínas, moléculas responsables de la mayor parte de la actividad vital. Desde
+muy pronto se intentó encontrar procedimientos para intervenir en dichos procesos, con el propósito de corregir mutaciones perjudiciales y efectuar otras
+maniobras de ingeniería genética. A partir de 2013 se dispone de la técnica
+Crispr/Cas 9, que posee enorme eficacia y resulta ampliamente accesible. Las
+perspectivas que abre no solo inciden en microorganismos, plantas y animales,
+sino que afectan también a la propia especie humana. Las consecuencias de
+todo orden tanto para el hombre como para el medio ambiente plantean numerosos dilemas éticos y exigirán urgentes tomas de postura por parte de las autoridades políticas y la ciudadanía de todo el planeta.
+Desde que ciencia y filosofía se separaron en la segunda mitad del siglo xviii, desgajando en dos ramas el tronco del saber racional, parece como si
+también se hubieran repartido las raíces que antaño sostenían la fábrica del
+conocimiento, esto es, la experiencia y la especulación. La filosofía se ha vuelto
+cada vez más especulativa y la ciencia más empírica, de manera que, a pesar de
+su común origen, la comunicación recíproca resulta cada vez más problemática.
+No obstante, habría que procurar mantenerla ya que, parafraseando lo que
+
+*
+
+Sesión del día 16 de marzo de 2021.
+
+303
+
+
+
+Kant dijo sobre conceptos e intuiciones, la especulación sin la experiencia se
+queda vacía, mientras que la experiencia sin la especulación está condenada a
+tantear en la oscuridad. Por esto voy a intentar aproximarme, en mi calidad de
+filósofo, a un asunto en principio tan empírico como el de los recientes avances
+en edición genética, tratando de objetivar las repercusiones que tiene y los desafíos que plantea en otros planos más abstractos.
+Empezaré confesando que hasta hace relativamente poco tiempo yo
+tenía una idea más bien lejana de qué pudiera ser la edición genética en general y la técnica «Crispr/Cas 9» en particular. La invitación a participar en un debate interdisciplinar sobre este tema me hizo acudir a las consabidas revistas de
+alta divulgación para documentarme. Dentro del colectivo filosófico soy de los
+que más afición tienen a lo positivo, porque me dedico a la filosofía de la naturaleza. Sin embargo, estoy acostumbrado a bregar con planteamientos históricos y no de tan rabiosa actualidad como este, y con problemas relacionados
+con la física de partículas o la cosmología, disciplinas que nunca abandonaron
+del todo las cuestiones de principio. Además, desde la cancelación de proyecto
+norteamericano del «supercolisionador superconductor», estas ramas de la ciencia están casi tan ayunas de evidencias empíricas como la metafísica. Precisamente los fondos que pudieran haber pagado aquella instalación sirvieron para
+poner en marcha el proyecto sobre el genoma humano, con lo cual quedó
+claramente definida la prioridad de la sociedad, que de un tiempo acá apunta
+a ciencias tan ceñidas a lo que se puede observar y controlar como la biología
+molecular.
+Advertiré que los filósofos también nos interesamos, como no podía
+ser menos, por las ciencias de la vida, pero en general preferimos las aguas
+relativamente más tranquilas de la teoría de la evolución y la biología sintética,
+o bien cuestiones donde las novedades se siguen dando con cuentagotas, como
+la esencia o el primer origen de la vida. En cambio, el raudo caudal de descubrimientos que se producen en el frente de la genética molecular nos produce
+desasosiego, cuando no vértigo.
+Es conocido el apotegma de Hegel según el cual la lechuza de Minerva —es decir, el animal filosófico por antonomasia— levanta su vuelo al atardecer. Con menor elocuencia, pero quizás mayor eficacia, estipulaba Aristóteles
+que en la construcción de las ciencias hay que empezar por la física y solo al
+final pasar a la filosofía primera. No me considero hegeliano, pero sí aristotélico
+en lo que a este punto se refiere. Se trata de dar poso y peso a lo que una
+avanzada en descubierta ha permitido avizorar, pero no acabar de digerir. Lo
+cual tiene su importancia, en especial cuando de lo teórico se pasa a lo práctico. Porque esta es la primera impresión que un observador externo extrae
+cuando se asoma la bullente problemática de la edición genética.
+
+304
+
+
+
+Haciendo un rápido balance de lo averiguado diré que desde poco más
+o menos un siglo se supo que las proteínas son las sustancias que ejercen las
+principales funciones en los organismos vivos. Se descubrió que básicamente
+consisten en cadenas de unidades elementales denominadas aminoácidos.
+Poco más de medio siglo atrás pudo conocerse que la información para el ensamblado de estas moléculas radica en las secuencias de nucleótidos, elementos que a su vez componen al encadenarse una segunda clase de sustancias, los
+ácidos nucleicos. Después se averiguó que, junto a las partes de aquellas secuencias que codifican el orden en que se colocan los aminoácidos para formar
+las correspondientes proteínas, hay otras zonas cuya función se ignora, si es
+que sirven para algo. Otras más contienen claves para iniciar, modular y concluir la transcripción de lo significativo. Como es de suponer, alterar tales sucesiones tiene un efecto causal inmediato que trastorna todo el mecanismo de la
+producción proteínica, consiguiendo la mayor parte de las veces efectos negativos o letales y, en una proporción mucho menor, mutaciones que generan
+mejoras en los organismos resultantes. Así fue desvelado el mecanismo central
+de la evolución biológica, que resulta de mutaciones al azar en los genomas
+cuando son filtradas por la selección natural. La acción de la selección natural
+es extraordinariamente lenta, de manera que quien pretenda efectuar cambios
+apreciables en la herencia de los seres vivos debería buscar fórmulas alternativas. La ciencia moderna nos ha hecho sentir como modernos e impacientes
+prometeos: ¿sabríamos mejorar y —sobre todo— acelerar lo que la naturaleza
+ha conseguido con tan extraordinaria parsimonia? En principio es factible propiciar cambios en los procesos reproductivos por medio de maniobras no muy
+sofisticadas. Podemos conseguirlo cuando queramos, pero no dónde ni cómo
+deseemos. Sobre todo, no con el propósito que mejor nos convenga. Como ya
+apunté, la proporción de mutaciones deseables es bajísima. Hay infinitas fórmulas para hacer una ensalada de proteínas, pero casi ninguna de ellas sabe bien.
+Elegir los ingredientes, la proporción justa y el momento adecuado para añadirlos es un desafío para el que hasta ayer mismo no estábamos preparados, de
+manera que debíamos conformarnos con muy poca cosa. Al principio constituía
+una utopía incluso la empresa de conseguir modificaciones leves como, por
+ejemplo, corregir mutaciones puntuales que en algunos casos son capaces de
+desencadenar enfermedades genéticas. No digamos si se tratara de propiciar
+correcciones para vencer otro tipo de enfermedades, mejorar cualidades ya
+existentes o añadir otras nuevas. Todo ello no impidió que muchos laboratorios
+iniciaran una carrera de experimentación con animales, plantas y microorganismos, encaminada a «editar» los genes (esto es: alterarlos) para, llegado el caso,
+crear variedades o razas «mejoradas», acumulando de paso experiencias para
+conseguir algún día manipular la genética de nuestra propia especie. El desafío
+era (y sigue siendo) formidable, puesto que requería alterar sin destruir su funcionalidad las gigantescas moléculas del ADN que se encuentran complicadamente enrolladas sobre sí mismas y rodeadas de toda una cohorte de moléculas
+en los núcleos o protoplasmas de las células vivas.
+
+305
+
+
+
+En un primer momento las intervenciones se hacían por completo a
+ciegas, por ejemplo, tratando con radiación ultravioleta o agentes químicos
+agresivos los tejidos encargados de la reproducción. Era, literalmente, como
+intentar reparar o rediseñar un complicado reloj de pulsera completamente a
+oscuras y con unos guantes de boxeador puestos. A medida que se conocieron
+con más detalle los procesos bioquímicos involucrados y se afinaron las técnicas de intervención la eficacia fue mejorando. Empezaron a identificarse las
+proteínas codificadas por cada gen y las funciones que tales moléculas desempeñan en el organismo, así como los procesos químicos que intervienen en la
+activación y desactivación de los genes. Bien es cierto que los efectos de cada
+gen y proteína raramente determinan una sola función biológica o la correspondiente patología, pero esto tampoco resulta calamitoso, ya que la biología
+nunca ha sido una ciencia exacta y la vida misma está acostumbrada a repetir
+sin desmayo sus apuestas hasta que por fin alumbra novedades espectaculares.
+Se presupone que la mutagénesis espontanea es plenamente azarosa, pero la
+corriente vital de nuestro planeta tiene una antigüedad de más de 3.000 millones de años, de manera que ha tenido tiempo suficiente para ensayar toda
+clase de combinaciones, siendo responsabilidad de la selección natural la preservación y aprovechamiento de sus hallazgos más afortunados. Sabido es que
+Charles Darwin descubrió la selección natural después de estudiar con todo
+detalle los procesos de selección artificial, esto es, la que ganaderos y agricultores ejercen para mejorar sus camadas y cultivos.
+Visto con perspectiva histórica, la principal pretensión de los especialistas en edición genética de hoy consiste en devolver el protagonismo a la selección artificial. Pero con una salvedad importante: tradicionalmente el ganadero o el agricultor se limitaban a esperar que la naturaleza obrara creando por
+sí misma nuevas formas. Cuando detectaban la presencia de variaciones prometedoras, las potenciaban mediante la cría o cultivo intensivos. Como es obvio,
+no tenemos a nuestra disposición cientos de millones de años para obtener la
+cosecha de cambios que nos interesa. Somos impacientes y deseamos, mejor
+dicho: exigimos obtener en unas pocas décadas lo que de otra manera requeriría mucha mayor espera. Por eso la búsqueda de métodos más poderosos ha
+sido febril: del bombardeo indiscriminado con rayos ultravioletas hemos pasado en rápida sucesión al ADN recombinante, la edición génica mediante la
+técnica de «dedos de zinc», el sistema de edición genética en TALEN («nucleasas
+efectoras similares a los activadores de la transcripción») y varias más. Por fin se
+ha puesto a punto la técnica CRISPR/Cas 9, que es mucho más precisa, barata,
+rápida y atractiva que las anteriores.
+Merece la pena detenerse un momento a considerar el surgimiento de
+esta última innovación. El intríngulis consiste en lograr cortar la doble cadena
+del ADN en lugares muy precisos, eliminar fragmentos de secuencia insertando
+en su lugar otros o incluso genes enteros y, por último, cerrar la brecha reconstruyendo la integridad de la molécula. Hay proteínas especializadas en catalizar
+
+306
+
+
+
+cada una de estas operaciones y su mediación es clave para conseguir el tipo
+de cambios «prometedores» que se persiguen. ¿Cómo ha sido posible conseguirlo? Porque una vez más la naturaleza acudió al rescate, proporcionándonos los
+medios para llevar a cabo la ingente tarea. El paso decisivo se dio gracias a un
+descubrimiento que tiene que ver con la permanente pugna de los vivientes
+para sobrevivir a los ataques de los virus. Éstos necesitan usurpar la maquinaria
+celular para reproducirse, lo cual va en evidente perjuicio de sus hospedadores,
+quienes tratan de evitar por todos los medios a su alcance tales invasiones. Los
+seres multicelulares no son en modo alguno los más damnificados: se calcula
+que en los mares de la Tierra pululan unas 3,5x1028 (o sea —y para los que
+somos de letras—: unos treinta y cinco cuatrillones) de bacterias y cada 24 horas el 40% de ellas perecen por ataques víricos. Fácil es colegir la presión a que
+están sometidos los contendientes en esta lucha por la supervivencia. Las bacterias poseen medios de defensa orientados a desmantelar las claves genéticas
+de los virus, pero estos han conseguido en muchos casos desarrollar contramedidas eficaces. Ya en los años 50 se descubrió que, a su vez, ciertas bacterias y
+arqueas son capaces de incorporar parte de la secuencia genética de sus oponentes a su propio genoma, lo cual les otorga la capacidad de reconocer y
+desactivar los genes foráneos que las portan. Entre los estudiosos de estos
+pormenores de la guerra que reina en el microcosmos, tuvo un particular protagonismo Francisco J. M. Mojica, descubridor de la existencia de los mecanismos referidos en ciertas especies extremófilas. Fue un hallazgo que realizó
+cuando era estudiante de doctorado en la Universidad de Alicante. Él, junto con
+otros investigadores de España, Holanda y Japón, están detrás de la denominación «CRISPR», alusiva a la presencia en algunos genomas de secuencias cortas
+de nucleótidos que se repiten en orden inverso (esto es, palindrómicamente),
+flanqueando la información que sirve para reconocer las moléculas invasoras a
+destruir. Este último cometido es efectuado por ciertas moléculas proteínicas,
+denominadas «Cas», capaces de cortar con exactitud el ácido nucleico en los
+lugares pertinentes.
+Todo lo que acabo de resumir tuvo en su momento un evidente interés
+teórico para los estudiosos de la vida. Pero la vertiente práctica fue todavía mucho más importante cuando a partir de 2013 varios laboratorios utilizaron este
+descubrimiento para generar técnicas de edición genética (esto es, de modificación del genoma en toda clase de vivientes) singularmente precisas, rápidas,
+eficaces y —no en último lugar— baratas. Esta vez, la vanguardia fue ocupada
+por las investigadoras Emmanuelle Charpentier y Jennifer Doudna y sus equipos radicados en universidades de Suecia y California, respectivamente. Así se
+ha abierto una nueva era en la disciplina que nos coloca a toda la humanidad
+ante un desafío cuya magnitud todavía no estamos en condiciones de evaluar.
+Un indicio suficientemente revelador es que, con menos de una década de demora, el premio Nobel de medicina y fisiología ha sido concedido en 2020 a
+estas dos investigadoras. Por desgracia para él, no fue incluido en lista de galardonados (que con frecuencia se alarga hasta tres) el más relevante descubridor
+
+307
+
+
+
+de mecanismo biológico involucrado, esto es, nuestro compatriota Mojica. Pero,
+en fin, no estoy aquí ahora para dirimir la justicia o injusticia de los jurados que
+otorgan las distinciones, sino para explorar las derivaciones éticas y sociales del
+nuevo procedimiento.
+No es que el panorama haya quedado completamente despejado. Aquí
+me van a disculpar ustedes si mi información es inexacta, incompleta o atrasada, pues manejo datos con tres o cuatro años de antigüedad 1. He procurado
+que sobre ella no gravite mucho el peso de mi argumentación. Me conformaría
+con que en términos generales mi interpretación resulte aceptable. Pues bien,
+entiendo que en el presente estado de la investigación los expertos pueden
+determinar con precisión dónde cortar la cadena del ADN, cómo introducir
+genes exóticos en un genoma, incluso de qué manera inducir mutaciones en un
+gen dado; pero todavía hay aspectos importantes sin resolver que les impiden
+tener el control total de los procesos. Por ejemplo, una vez que se rompen las
+dos hebras del ADN la naturaleza sigue dos rutas principales para repararlas: la
+de unión de extremos no homólogos (NHEJ); o la de reparación dirigida por
+homología (HDR), que es la adecuada para los cambios inducidos en las secuencias vayan por donde conviene. En cambio, la primera repara un corte
+mediante la introducción o eliminación de nucleótidos de forma aleatoria; al
+provocar cambios en la secuencia del ADN, resulta inapropiada para inducir los
+cambios genéticos que más interesan. Las estrategias se centran, por tanto, en
+la ruta HDR, que utiliza secuencias homólogas (idénticas) para enmendar los
+cortes en el ADN; al permitir la introducción de secuencias específicas, hace
+posible una reparación a la carta. Por desgracia, los primeros estudios mostraban escasa eficacia de la ruta HDR tras la acción de CRISPR-Cas9.
+Los investigadores tienen que afrontar otras dificultades; así, cuando se
+aplica la técnica en cuestión al logro de embriones modificados, se presenta el
+problema del mosaicismo, que se manifiesta cuando en el embrión resultante
+conviven células modificadas y sin modificar. Además, con frecuencia los cambios ocurren en una ubicación diferente a la elegida, por producirse asimilaciones entre las secuencias diana y otras muy parecidas. Son muchas las posibles
+causas de anomalías en los embriones modificados. Que el camino es arduo
+nadie debería dudarlo. El día en que sean allanados los obstáculos que ahora
+se afrontan, es de prever que surjan otros quizá más formidables aún. Las interrelaciones entre las reacciones químicas que tienen lugar dentro de las membranas celulares son de tal magnitud, que las soluciones perfectas, de existir,
+tardarán mucho en ser encontradas. A pesar de todo, los que contemplamos
+desde lejos el panorama detectamos un mal disimulado optimismo en los centros de investigación genética. Parece que los expertos no dudan de que, aun-
+
+1
+La mayor parte de los datos que manejo los he tomado de: «Edición genética: CRISPR». Número
+monográfico especial de Investigación y Ciencia, núm. 30, 2018.
+
+308
+
+
+
+que no haya respuesta para todo, sí la habrá para un número de interrogantes
+suficiente para avanzar en la senda de la modificación genética de microorganismos, plantas, animales e incluso seres humanos dentro de un plazo que,
+como quien dice, está a la vuelta de la esquina. Como hay un consenso relativamente unánime al respecto, han empezado a dispararse las alarmas fuera de
+los campos de la bioquímica y la genética. Los movimientos surgidos en torno
+al ecologismo ya vienen avisando —y oponiéndose— a la manipulación genética del reino animal y vegetal, tanto por los riesgos manifiestos u ocultos que
+conlleva como por el convencimiento de que al intervenir en este capítulo el
+hombre está conculcando el respeto que el medio ambiente y la naturaleza
+merecen. Pero como las técnicas de cambio genético (cambio disfrazado bajo
+el concepto de «mejora») llaman a las puertas de nuestra especie, al coro de los
+defensores de la biosfera se empiezan a sumar también los valedores del hombre, grupo variado y multiforme que contabiliza conservacionistas, humanistas,
+grupos religiosos, críticos de progreso y de la globalización, etc.
+Lo más dificultoso de la discusión que aquí se abre es la confusa mezcla de factores intervinientes. Están por un lado los aspectos estrictamente teóricos-conceptuales, luego los pragmáticos y empíricos, los económicos y organizativos, los relativos a seguridad; por último, los éticos, políticos y religiosos.
+Por si fuera poco, aquí me tienen ustedes, dispuesto a añadir a todo ello una
+pizca de sal y pimienta filosófica. Todos acudimos al cónclave con una visión
+miope, pues solo vemos bien lo que nos pilla más de cerca. Y no digo todos
+por mero prurito democrático, sino porque la experiencia de los dos últimos
+siglos enseña que quienes debieran haber tenido una visión más amplia y serena —esto es, los filósofos y humanistas— no han dado pruebas de ejercerla, lo
+cual les endosa mayor responsabilidad por la torre de Babel que entre todos
+hemos fabricado. Lo cual no exonera, por otro lado, a los científicos y tecnólogos, que debieran haber sido conscientes de su creciente protagonismo y poder. En muchos casos se han seguido comportando con la misma irresponsabilidad, en lo que se refiere a las consecuencias antropológico-sociales de su
+trabajo, como cuando la ciencia no pasaba de ser un pasatiempo inofensivo.
+Pero tampoco se trata de repartir culpas o medallas, sino de ver qué se puede
+hacer para reconducir la situación. Quisiera no perderme en abstracciones. En
+lo que se refiere a la técnica Crispr/Cas 9, me llama la atención el aura casi
+mesiánica con la que algunos presentan los horizontes que abre. Citaré a título
+de muestra un texto de Francisco Mojica y Cristóbal Almendros:
+La así denominada técnica CRISPR permite modificar (eliminar, corregir, reemplazar, relocalizar) la información genética, controlar la expresión de los genes
+o detectar y visualizar regiones concretas de un genoma, todo ello con una
+facilidad y precisión sin precedentes.
+El impulso que han proporcionado estas herramientas a la investigación biológica en sus diversos campos es extraordinario, ya que facilitan la tarea de
+
+309
+
+
+
+identificación de la función de elementos genéticos y su implicación en el
+desarrollo del organismo, la diferenciación celular, el envejecimiento, la vulnerabilidad a las infecciones o el origen y evolución de las enfermedades, tanto
+en plantas como en animales, incluidos los humanos. El uso de estas técnicas
+está generando grandes expectativas para la prevención y tratamiento de enfermedades de diversa índole, que van desde la infección por virus hasta
+procesos cancerígenos o trastornos neurodegenerativos 2.
+
+Eso de anunciar la cura del cáncer y el alzhéimer es casi tarjeta de visita obligada para presentar al gran público la última novedad en el campo de
+las ciencias biomédicas. Pero aquí se nos promete mucho más, un recurso capaz de convertirse en panacea universal o poco menos. Los que nos iniciamos
+a la vida intelectual a finales de los sesenta ya hemos asistido al flujo y reflujo
+de varias oleadas epistémicas. Hemos podido comprobar que tanto el psicoanálisis, como la teoría de sistemas, el estructuralismo, la teoría de catástrofes, las
+teorías de complejidad, las teorías de supercuerdas, etc., dieron como seguras
+conquistas que luego se quedaron en menos de la mitad de la mitad. Los biólogos no habían sido hasta ahora propagandistas parejamente exaltados de sus
+conquistas, si descontamos el fundamentalismo de algunos neodarwinistas ultraortodoxos; pero con el auge de la biología molecular era de esperar que
+sucediera en algún momento. Parece que hemos llegado al primer episodio.
+Como nuestra civilización se va haciendo más vieja y escéptica tras
+tantos sarampiones de entusiasmo, estamos bastante curados de espantos, de
+manera que no hay demasiado peligro en que estos nuevos émulos de Cristóbal
+Colón canten las alabanzas de los ignotos continentes a que han arribado.
+Con estas expresiones de despego no pretendo cuestionar la importancia de la edición genética en general ni de las técnicas Crispr/Cas 9 en particular. Por el contrario, creo que, aunque quedaran defraudadas muchas de las
+expectativas que en este momento despiertan, estamos en los umbrales de una
+revolución tecnocientífica que marcará una nueva época de la humanidad,
+siempre que la humanidad consiga sobrevivir a ella. Hay cierto paralelismo
+entre el fenómeno que comento y el que se produjo cuando la física liberó la
+energía atómica. Ambas conmociones marcaron o marcarán un antes y un después. Si la revolución del átomo nos permitió en cierto sentido dominar la naturaleza, la revolución genómica nos permitirá manipular las especies y nuestra
+propia identidad biológica. Aquélla nos puso en condiciones de hablar de tú a
+tú con el universo; esta lo hará con la vida y nuestro destino biológico. En las
+dos ocasiones los temores fueron y van a ser como mínimo tan grandes como
+las esperanzas que suscitaron y suscitan. Respecto a la energía atómica, la ma-
+
+2
+Francisco J. M. Mojica y Cristóbal Almendros, «El descubrimiento de CRISPR», Investigación y
+Ciencia, octubre 2017, especial núm. 30, p. 11.
+
+310
+
+
+
+yor parte de la ciudadanía piensa que los peligros se han mostrado más tangibles e inmediatos que los beneficios. Ojalá no ocurra lo mismo con la edición
+genética. Independientemente de ello, tanto en un caso como en otro la ciencia
+ha incrementado o va a incrementar exponencialmente el poder de quienes la
+controlan, si es que pueden seguir controlándola a medio y largo plazo, cosa
+que no está nada clara con la energía atómica y me temo que tampoco lo va a
+estar con la edición genética. Pero los 75 años (1945-2020) de lapso que hay
+entre un acontecimiento y otro (aceptando, claro está, que la revolución genética está al caer, si no ha ocurrido ya) establecen una diferencia, si no de grado,
+al menos de antigüedad. El inicio de la era atómica fue tan traumático que sus
+protagonistas se dieron cuenta de inmediato de la seriedad del proceso que
+habían puesto en marcha. Algunos de ellos reaccionaron incluso con un punto
+de patetismo tal vez excesivo, por ejemplo, cuando Max Born escribió a Albert
+Einstein en 1955:
+Leí recientemente en los periódicos que tú habías dicho que si volvieras a
+nacer no serías físico sino artesano. Estas palabras me confortaron enormemente fueron para mí una gran confortación, porque a mí también me pasan
+por la cabeza ideas semejantes al ver el daño que nuestra otrora tan bella
+ciencia ha causado al mundo 3.
+
+Bien es verdad que no es lo mismo matar de golpe a más de cien mil
+personas, como ocurrió en Hiroshima y Nagasaki, que las inconcretas amenazas
+que se derivan de enredar con los pools genéticos de las especies. Los defensores a ultranza del nuevo paradigma biológico arguyen que, tras dilatada experiencia, los torvos pronósticos no se han traducido en males constatables. Kyle
+Orwig arguye a este propósito:
+Llevamos 25 años trasplantando células madre en especies de todo tipo: ratones, ratas, hámsteres, ovejas, cabras, cerdos, perros y monos. Es una franja
+bastante amplia del árbol evolutivo, y, por lo que sabemos, en todo ese tiempo
+no les ha sucedido nada malo a ninguno de esos animales 4.
+
+Por supuesto, habría que contrastar esta afirmación con la de algún
+prestigioso conservacionista, pero aun reconociendo el interés de ese debate,
+no es el punto que quisiera tratar ahora. Suponiendo que Orwig tuviera razón,
+no sería con todo suficiente para bajar la guardia, sobre todo teniendo en cuenta que la importancia de las intervenciones en el material genómico va a experimentar un gigantesco salto hacia adelante, gracias a instrumentos como la
+técnica Crispr/cas 9 y otras todavía más poderosas que pueden ponerse en
+
+A. Einsten, M. Born, Correspondencia 1916-1955, México, F. C. E., 1973, 285-286.
+Stephen S. Hall, «Modificar nuestra herencia», en Investigación y Ciencia, noviembre 2016, especial núm. 30, p. 23.
+3
+4
+
+311
+
+
+
+práctica en años venideros. Sea como sea, está por completo fuera de lugar la
+frivolidad con que algunas de las más reconocidas autoridades en este campo
+se conducen, como cuando James D. Watson calificó de «histeria absurda» el
+acuerdo al que llegó en 1974 la comunidad científica de establecer una moratoria a los ensayos basados en la técnica del ADN recombinante. Es preocupante que, mientras en 1975 se establecieron en Asilomar unas limitaciones bastante estrictas a la hora de combinar el ADN de diversas especies, cuando en
+diciembre de 2015 se convocó una reunión homóloga en Washington para debatir el asunto de la edición genética, no se llegó ni de lejos a un consenso
+parecido: «solo se ha recomendado no detener la edición genética en humanos
+pero sí evitar la investigación y los usos de embriones humanos modificados
+para provocar un embarazo» 5. Parece como si las precauciones se relajaran precisamente cuando la importancia del tema se agiganta y la proximidad de sus
+repercusiones se vuelve inminente.
+Como filósofo diría que para muchos investigadores los aspectos éticos
+de la edición genética son de alguna manera «externos» al ámbito propiamente
+científico; constituyen algo así como condicionamientos que hay que tener en
+cuenta porque de ellos dependen la legislación que la sociedad impone, los
+requisitos que han de satisfacer para obtener financiación y la imagen que dan
+ante la opinión pública. Pero si estados de opinión, leyes y subvenciones tan
+solo fueran determinados por la propia comunidad científica, acaso las connotaciones éticas serían muy otras. Difícil saberlo, puesto que se trata de un contrafáctico. Yo formé parte hasta el año pasado del comité ético del CSIC, cuyo
+trabajo contempla entre otros aspectos la redacción de «códigos de buena práctica científica». Se trata de asegurar una investigación honesta, veraz, transparente, que satisfaga los estándares de calidad para reconocer a cada cual los méritos que le corresponden y para que la verdad quede salvaguardada. Por decirlo
+así, lo «bueno» está en ellos un poco en función y al servicio de lo «verdadero».
+También se contempla, como es lógico, que los fines de la investigación sean
+los correctos, pero creo que en general aquí se afina mucho menos que en lo
+relativo a los medios. Hay que asegurarse de hacer buena investigación, mientras que parece que nos volvemos más confiados y menos vigilantes a la hora
+de conseguir que esa buena investigación sirva para el bien de los seres humanos y del medio ambiente. Se aplica esta, digamos, doble vara de medir, porque
+se parte del supuesto de que el resto de la sociedad no sabe cómo fiscalizar
+—ni es aconsejable que lo haga— lo que ocurre dentro de los laboratorios,
+mientras que recobra todas sus competencias a la hora de decidir qué hacer
+con lo que allí se elabora. La ciencia sería por consiguiente éticamente neutra:
+no prejuzgaría que se haga buen o mal uso de sus resultados. La culpa o gloria
+
+5
+Sara Reardon, «La cumbre sobre edición genética en humanos concluye con opiniones divergentes», Investigación y Ciencia, febrero 2016, especial núm. 30, p. 56.
+
+312
+
+
+
+por las ciudades bombardeadas sería de los políticos y de los generales, no de
+los científicos ni de los soldados.
+No sé si hubo algún momento en que tal «reparto» de responsabilidades
+tuvo vigencia; considero en cambio harto dudoso que siga teniéndola hoy en
+día. Y aquí surge la dificultad, porque algunos de los más destacados estudiosos
+en el campo de la edición genética parecen pensar que no es cometido suyo
+decidir hasta dónde se debe y puede llegar, y cuándo hay que parar, si es que
+conviene parar alguna vez. Propondré como ilustración algunos casos. La alternativa más delicada que aparece en el horizonte de la edición genética es si
+intervenimos o no en la dotación genética de los humanos de una manera que
+afecte a los tejidos reproductivos y por ende no solo afecte a individuos aislados, sino que se transmita a toda la progenie derivada de ellos. La misma pregunta, por supuesto, cabe hacérsela referida a animales (especialmente a los
+más próximamente emparentados con nuestra especie), lo mismo respecto a las
+plantas y así sucesivamente hasta las bacterias y arqueas. Hasta hace poco las
+intervenciones humanas premeditadas en estos procesos afectaban tan solo al
+momento selectivo, no al surgimiento mismo de variaciones hereditarias de la
+configuración genómica. Desde hace decenios cabe la posibilidad de hacerlo,
+cada vez con mayor alcance. Bien. ¿Estamos legitimados para hacerlo? ¿Hasta
+qué punto y en qué dirección? ¿Corresponde a los propios científicos decidir, o
+más bien a las autoridades políticas y judiciales, o quizá al conjunto de la sociedad, mediante consultas directas al pueblo soberano? ¿A qué nivel? ¿Local, regional, nacional, internacional? El contencioso es demasiado complejo como
+para que las respuestas sean categóricas y globales. No va a haber más remedio
+que entrar en distingos y matices. Sobre todo, no va a ser posible mantener
+separados estos problemas éticos de otros más profundos y genéricos, de manera que todas las instancias cosmovisionales acabarán siendo afectadas de un
+modo u otro. En otras palabras: no cabe zanjar con un «sí» o un «no» casi ninguna de las preguntas anteriores sin involucrar el conjunto de la ética de quien
+pretenda contestarlas. Un cristiano, como por ejemplo yo mismo, probablemente dirá que la vida humana es un don divino de la que el hombre no puede
+disponer a su antojo. En cambio, un naturalista como Peter Singer sostendrá
+que tiene más derechos un cerdo adulto que un humano recién nacido 6. Y así
+sucesivamente. Tropezamos, por tanto, con un conflicto insalvable entre culturas y cosmovisiones. Llevamos toda la historia intentando unificar criterios, y
+cada vez estamos más lejos de alcanzar acuerdos. Sin duda tenemos la declaración universal de los derechos humanos, pero también ha sido impugnada
+
+6
+«La vida de un recién nacido tiene menos valor que la de un cerdo, un perro o un chimpancé
+[...] No considero que el conflicto entre la posición que he adoptado y tan ampliamente aceptadas opiniones
+sobre la santidad de la vida infantil sea motivo para abandonar mi posición. Creo que es necesario cuestionar
+esas opiniones de tan amplia aceptación [...] Nada de todo eso demuestra que la matanza de un niño sea tan
+mala como la de un adulto (inocente) [...] Las razones para no matar personas no son válidas para los recién
+nacidos». Peter Singer, Ética práctica, Barcelona, Ariel, 1998, pp. 155-160 (Debo esta cita a Alfredo Marcos).
+
+313
+
+
+
+desde numerosas instancias y —lo que tampoco es bueno—, se tiende a interpretarla más como un formalismo que como algo con contenido sustantivo, lo
+que nos deja bastante inermes para abordar asuntos verdaderamente intrincados como el que aquí tratamos. ¿Qué hacer entonces? La mayoría de los científicos está involucrada en una loca carrera por llegar antes que nadie a la resolución de los candentes enigmas de la edición genética y no tiene tiempo ni
+ganas para enfangarse con estas disputas. Suele adoptar un posibilismo pragmático: para ellos resultan aceptables las acciones que, siendo prometedoras
+desde el punto de vista científico, no chocan con la sensibilidad ética dominante. George Church, de la escuela de medicina de Harvard, opina al respecto:
+Tal vez la mitad de los estadounidenses no vea bien que se destruyan embriones, pero creo que no tendrían inconveniente si se tratase de espermatozoides
+modificados genéticamente, pues no supone la muerte de ningún embrión 7.
+
+Si adoptamos criterios de este tipo pronto nos deslizamos por la pendiente de la casuística, pues nada hay más variable que la opinión del ciudadano medio, especialmente cuando se le pregunta por temas en los que en su día
+a día nada le va ni le viene. Sin contar con lo fácilmente manipulables que resultan las encuestas cuando se formulan de suerte que afecten los intereses de
+los encuestados. Por ejemplo, no es lo mismo preguntar: «¿Considera usted
+permisible la manipulación de embriones humanos?», que: «¿Admitiría usted la
+manipulación de embriones humanos si fuera el único medio para obtener la
+curación del cáncer y el alzhéimer?», o: «¿Le parece legítimo que los chinos manipulen embriones para obtener trabajadores más sufridos y conformistas que
+los actuales?». Sin comprometerse con estrategias tan dudosas como éstas, el
+investigador suele buscar la línea de mínima resistencia, de manera que, si los
+embriones resultan problemáticos, se pondrá a trabajar con gametos, y si la
+gente prefiere que no se toquen los óvulos, entonces experimentará con espermatozoides. En caso de que ni siquiera eso fuera políticamente correcto, tal vez
+incida sobre sus precursores, las espermatozogonías. Incluso si poderosos mecenas ponen reparos a experimentar con células germinales, hay muchas cosas
+que se pueden intentar con las somáticas. Juan Carlos Izpisúa trabaja con células madres pluripotenciales inducidas, con las que pretende conseguir que
+animales de otras especies fabriquen órganos humanos, y agradece el apoyo
+que en este sentido recibe de la Universidad católica de Murcia 8. Bien es cierto
+que los dilemas éticos pueden acechar incluso a los que prefieren navegar por
+aguas tranquilas, porque el designio de trabajar con seres quiméricos interespecíficos no excluye la eventualidad de sorpresas desagradables:
+7
+Stephen S. Hall, «Modificar nuestra herencia», en Investigación y Ciencia, noviembre 2016, especial núm. 30, p. 22.
+8
+Juan Carlos Izpisúa Belmonte, «Órganos humanos fabricados dentro de animales», Investigación y
+Ciencia, enero 2017, especial núm. 30, p. 33.
+
+314
+
+
+
+Imaginemos, por ejemplo, la pesadilla ética que supondría que el cerebro de
+un cerdo albergase suficientes células humanas como para que fuera capaz de
+llevar a cabo razonamientos de alto nivel 9.
+
+No es difícil imaginar la tensión a que están sometidos quienes disputan los puestos de vanguardia en la investigación: considerar que el marco legal
+del instituto o universidad donde trabajan y los condicionamientos éticos de la
+sociedad en que viven les está haciendo perder buenas oportunidades en la
+dura competencia de todos contra todos no debe ser fácil de sobrellevar. Lo
+más selecto y competitivo de la clase científica está inmersa en un torbellino de
+urgencias tan abrumador, que difícilmente encontrará reposo y distancia para
+contemplar cuestiones referidas a lo que se puede y se debe, cuestiones que por
+tradición tampoco son de su jurisdicción. Sin embargo, y recuperando de nuevo
+la referencia al caso precursor del átomo, no es lo mismo preguntarse por la
+forma fabricar una buena bomba, que decidir si es bueno hacerla. Lo peor es
+cuando, como sucedió entonces, la bomba estalla antes de que puedan planteárselo quienes la fabricaron. No obstante, a poco que acierten los analistas del
+contencioso, tenemos entre las manos las piezas para armar una bomba mucho
+más poderosa y letal que la atómica. Conviene añadir que aquella historia tuvo
+un colofón bien instructivo. No se había apagado aún el estruendo del bombardeo de las ciudades japonesas con ingenios de uranio y plutonio, cuando surgió la oportunidad de desarrollar —o no— otros de hidrógeno, cuyas víctimas
+habrían de ser contadas no por centenares de miles, sino por millones. Los
+científicos habilitados despertaron del letargo ético que habían padecido durante la febril búsqueda anterior y se dividieron, por decirlo así, entre «halcones» y
+«palomas». A la cabeza de los halcones estaba Edward Teller; comandaba las
+palomas Robert Oppenheimer, figura de enorme ascendiente y prestigio. Por un
+tiempo se opuso al desarrollo del arma termonuclear. Pero luego cambió de
+criterio. Preguntado por el motivo ante una comisión oficial, esta fue su respuesta:
+Mi sentimiento sobre el desarrollo [de la bomba H] cambió completamente
+cuando su realización se hizo factible. Cuando vi cómo hacerla, me pareció
+claro que por lo menos había que intentar su realización. El único problema
+que seguía en pie sería el de su empleo. El programa que disponíamos en
+1949 era complicado y era fácil demostrar que apenas tenía ningún sentido. El
+programa de 1951 era tan sublime desde un punto de vista técnico que era
+imposible rechazarlo. Sólo quedaba por saber cómo tratar el problema militar,
+político y humano una vez que estuviera disponible el arma 10.
+9
+Juan Carlos Izpisúa Belmonte, «Órganos humanos fabricados dentro de animales», Investigación y
+Ciencia, enero 2017, especial núm. 30, p. 33.
+10
+J. R. Oppenheimer [1954], en USAEC, United States Atomic Energy Commision, In the Matter of J.
+Robert Oppenheimer, Cambridge, MIT Press, 1971, p. 251.
+
+315
+
+
+
+En resumidas cuentas, lo que primaba en su mente, como en la de tantos
+hombres de ciencia, era el criterio de la correcta praxis científica: se negaba a
+hacer una bomba «fea», pero, si la bomba era «bonita» y sublime el camino que
+conducía a ella, la cosa cambiaba. Que fuese bonito o feo lo que después se hiciera con el artilugio, no le concernía. Según sus palabras, ese era un contencioso
+«militar, político y humano», no científico. El caso ha dado lugar a que se hable de
+un «principio de Oppenheimer» —en mi opinión, triste principio—, del cual habría
+dos versiones, blanda y dura. De acuerdo con la blanda, todo lo «técnicamente
+dulce» acaba por realizarse; según la dura, debe realizarse. El final de la historia
+todavía no lo conocemos: Estados Unidos, Rusia y las demás potencias se embarcaron en una loca carrera de ingenios cada vez más devastadores, y está por ver
+si cualquier día de estos un país aislado o un grupo de militares enloquecidos no
+terminan por abrir la caja que los científicos llenaron de truenos.
+Aunque a primera vista parezcan menos truculentas, las consecuencias
+que se derivan de una edición genética descontrolada son igualmente dramáticas. Incluso me atrevo a decir que más peligrosas, porque mientras que el desarrollo de la tecnología nuclear suponía y todavía supone un potencial industrial notable en el país que lo auspicie y cuantiosos desembolsos, en cambio,
+gracias a técnicas como la Crisp/Cas 9, las inversiones de capital material y
+humano necesarias en el campo de la edición genética son muy modestas. La
+globalización juega además a la contra, puesto que la información se transmite
+al instante a todo el planeta y deslocalizar centros de investigación resulta sencillísimo. Es notoria la incapacidad de los organismos internacionales para establecer y cumplir unos reglamentos siquiera de mínimos que garanticen la seguridad de todos. La propia comunidad científica tampoco consigue consensuar
+protocolos que cierren el paso a los escenarios menos deseables. Más bien lo
+contrario; la cláusula: «Si no lo hacemos aquí se hará en otro lugar, más pronto
+que tarde» sirve para disipar los escrúpulos que un investigador pueda tener y
+también para chantajear a gobiernos y agencias nacionales, de manera que
+mucho me temo que lo que hasta el momento no se ha hecho, se debe única
+y exclusivamente a que no se pudo o no se supo hacer.
+En fin, nada de lo dicho supone mucha originalidad. Un factor que contrapesa hasta cierto punto los peligros esbozados es que la sensibilidad de la
+población —al menos la de los países desarrollados— es mucho más viva que
+antaño para oponerse a los despropósitos que puedan perpetrar sectores políticos y/o empresariales fuera de toda razón y proporción. Bueno será seguir alentando a los ciudadanos para que despierten de su letargo, aunque también habría que tener mucho cuidado para que esos estados de opinión no deriven
+hacia la neurosis colectiva. Sin embargo, la solución genuina no vendrá seguramente por ahí. ¿Por dónde entonces? Si nos empeñamos en seguir con los pies
+pegados a la tierra, no está nada claro cómo evitar la catástrofe. El privilegio del
+filósofo es que puede ser conscientemente utópico, siempre que no exagere la
+nota. Pues bien, en el buen entendimiento de que lo que voy a proponer no es
+
+316
+
+
+
+muy realista, diré que la única salida que concibo para reconducir la situación
+consiste, por una parte, en que el ciudadano medio abandone con respecto a la
+tecnociencia una actitud de filisteo, consistente en no querer saber nada de sus
+entresijos, recibiendo sus beneficios como maná caído del cielo. Las grandes
+decisiones que van a verse obligados a tomar los biólogos en los próximos decenios no pueden ser tomadas sin contar con la asistencia de toda la sociedad,
+pero tendrá que ser una asistencia informada y responsable, lo cual solo será
+factible si se refuerza grandemente la cultura científica de todos los ciudadanos.
+Siendo esta condición necesaria, todavía no será suficiente: también los expertos
+tendrían mucho que mejorar, concretamente, en lo que se refiere al compromiso
+ético que les concierne en lo que atañe a los fines de la investigación. Además
+de investigar bien, se trata de investigar para bien. Si descontamos a los deshonestos, todavía hay muchos que apuran sistemáticamente los límites establecidos, sin plantearse siquiera la siguiente pregunta: ¿Acaso todo lo que es legal
+también es justo y deseable? Abundan incluso los provocadores que intentan
+conseguir de cualquier modo una permisividad mayor por parte de las autoridades o el público, mediante promesas arriesgadas y suposiciones inverosímiles.
+He aquí una muestra palpable, tomada del escritor científico Stephen S. Hall:
+Kyle Orwig ansía hacer un experimento que, en sus propias palabras, «cabrearía a la gente». […] El experimento que corre por su cabeza consiste en reparar
+[el defecto] de las células madre testiculares [que provoca esterilidad en algunos hombres] mediante técnicas de edición genética y reimplantarlas después
+en ratones infértiles. Con ello demostraría que tal vez se pueda remediar la
+esterilidad masculina. […] Orwig comentó hace poco a un colaborador suyo:
+«Vamos a hacerlo y a irritar a algunas personas. Demostrémosles que es posible, para que nadie pueda decir que no lo es. Y que la gente se pronuncie
+sobre ello 11.
+
+Lo que yo me pregunto es por qué no se pronuncia el propio Orwig,
+por qué pretende que sean otros (especialmente los que padecen infertilidad)
+los que asuman la responsabilidad de llegar a una decisión eficaz y vinculante
+sobre el rumbo a seguir. De paso, también habría que inquirir por qué no explica o tiene en cuenta que, además de remediar esa patología (si es cierto que
+posee tal eficacia), quizá se abra la puerta a una porción de cosas más, algunas
+de las cuales quizá no sean tan positivas o deseables. Orwig, como muchos de
+los científicos que ahora mismo están ocupados con el desarrollo y aplicación
+de técnicas de edición genética, practica una cultura fragmentaria de la acción,
+donde todo son previsiones a corto plazo y búsqueda de objetivos inmediatos,
+sin detenerse a considerar que tal vez nos estamos metiendo en una vía sin
+posible retorno.
+
+11
+Stephen S. Hall, «Modificar nuestra herencia», en Investigación y Ciencia, noviembre 2016, especial núm. 30, p. 20.
+
+317
+
+
+
+

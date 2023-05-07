@@ -1,0 +1,3584 @@
+LO S EFE C T O S ECO N O M ICO S
+D E L EN V EJEC IM IEN TO
+Por el Académico de Número
+Excmo. Sr. D. José Barea Tejeiro (*) (**)
+
+La finalidad del presente trabajo es tratar de cuantificar los efectos econó­
+micos futuros del envejecimiento de la población española.
+Dividiré la exposición en siete apartados y terminaré, en el octavo, con
+propuestas para hacer viable y equitativo el sistema de pensiones contributivas
+español.
+Para conocer el grado de envejecimiento que va a experimentar la pobla­
+ción española, ha sido necesario adentramos en la evolución d em og ráfica fu tu ra y
+en la estructura p o r grupos d e ed ad es de la población, a cuyas cuestiones vamos a
+dedicar los dos primeros apartados.
+En el tercero, haré una exposición de lo que en la literatura se entiende
+por envejecim iento d e la p oblación .
+El apartado cuarto estará dedicado a exponer la m etodología utilizada para
+cuantificar los efectos económicos del envejecimiento sobre tres prestaciones socia­
+les (pensiones, sanidad y servicios sociales) afectadas por aquél.
+
+• Sesión del día 9 de febrero de 1999.
+** Mi agradecimiento a Marta Fernández, Antonio Gómez Ciria y Antonio Redecillas por su
+colaboración en los cálculos efectuados.
+
+273
+
+
+
+En el apartado quinto, trataré de la evolución fu tu ra d el coste de los pro­
+gramas de protección social en favor de las personas mayores derivado exclusiva­
+mente del envejecimiento de la población, así como del aumento de la carga finan­
+ciera como consecuencia de la evolución de los citados programas.
+El apartado sexto estará dedicado al estudio de la eq u id a d en el sistema
+de pensiones públicas contributivas, y el apartado séptimo lo dedicaré a exponer
+los retos futuros de la protección social.
+Finalmente, en el octavo presentaré mis propuestas para el sistema de
+pensiones.
+
+EVOLUCIÓN DEMOGRÁFICA FUTURA
+
+El cuadro 1 recoge los resultados de cuatro juegos de proyecciones recien­
+tes de la población española:
+• La del INE (1995), denominada «hipótesis de proyección», considerada
+por dicho organismo como la más posible. Abarca el período 1990-2020, con pobla­
+ciones a 31 de diciembre de cada año; en el estudio, para hacerla homogénea en
+su presentación con las restantes proyecciones, figura en lugar de 31 de diciembre
+del año x, l.° de enero del año x + 1. En consecuencia, el período de la proyec­
+ción es 1991-2021, con poblaciones a 1 de enero de cada año.
+• La de FEDEA (julio 1998), que presenta tres escenarios: el de referencia
+(núm. 1), con fecundidad constante y ausencia de inmigración; el núm. 2, de fecun­
+didad creciente, alcanzando 1,6 hijos por mujer en el 2025, é inmigración constan­
+te (el cupo de 30.000); el núm. 3, de fecundidad aún mayor, que alcanza 1,8 hijos
+por mujer en el 2025, y con una entrada importante de inmigrantes. El período de
+la proyección es 1991-2026. (Publicación: FEDEA, julio 1998, «Proyección de la
+población española», D ocum ento d e Trabajo, 98-11).•
+• La de la Fundación BBV (marzo 1996), que presenta igualmente tres
+escenarios: el núm. 1, de proyección media (reducción de la mortalidad y recupe­
+ración de la fecundidad); el núm. 2, de crecimiento mínimo (mortalidad constante
+y fecundidad a la baja); el núm. 3, de crecimiento máximo (alta esperanza de vida
+y recuperación de la fecundidad al nivel de reemplazo). (Publicación de la Funda­
+ción BBV, marzo 1996, D em ografía, activ id ad y dep en d en cia en E spaña, Juan Anto­
+nio Fernández Cordón).
+274
+
+
+
+• La de Fernández Cordón (Instituto de Economía y Geografía 1998, sin
+publicar), que presenta dos variantes: la núm. 1, de fecundidad media, y la núm. 2,
+de fecundidad alta. En las dos variantes, la mortalidad y la fecundidad permanecen,
+a partir del 2026, constantes; para el período anterior, se toman las de FEDEA. Las
+dos proyecciones se hacen sin tener en cuenta la inmigración.
+En todos los escenarios que hemos contemplado, la población española
+seguirá aumentando hasta el año 2001, crecimiento que se prolonga hasta el 2011,
+año en el que se rozan los 40 millones, excepto en las variantes 1 de FEDEA y 2
+de la Fundación BBV. Aún en el año 2021 se mantienen con población superior a
+la de 1991 las variantes del INE, la 2 y 3 de FEDEA y la 1 y 3 de la Fundación BBV.
+Las proyecciones de la Fundación BBV y de Fernández Cordón se alargan
+hasta el 2050, y en todas ellas la población en dicho año disminuye con respecto
+a la existente en 1991- La única excepción es la variante 3 del BBV (de crecimien­
+to máximo), cuya población es superior en 2,6 millones a la inicial de 1991, fun­
+damentada en una alta esperanza de vida y recuperación inmediata de la fecundi­
+dad, que alcanza el nivel de reemplazo.
+Dos conclusiones obtenemos en este apartado:
+Prim era. A partir del año 2026, la población española se situará en un
+nivel inferior al de 1991.
+Segunda. En el año 2050, España habrá perdido población con respecto a
+la de 1991, entre 3,4 y 15,3 millones de personas, si bien hay que tener en cuenta
+que este último supuesto corresponde a la variante mínima de crecimiento de los
+escenarios contemplados de la Fundación BBV, proyección efectuada bajo la hipó­
+tesis de mortalidad constante y fecundidad cayendo hasta el mínimo de 1 por
+mujer.
+
+LOS CAMBIOS EN LA ESTRUCTURA POR EDADES
+
+Los tres grupos de edades más significativos para muestro análisis son: el
+de 0-14 años, formado por inactivos que no han alcanzado la edad de trabajar; el
+de 15-64, que forma la población en edad de trabajar, y el de 65 o más años, que
+comprende los inactivos por jubilación. El peso futuro que cada uno de estos gru­
+pos, tanto en términos absolutos como relativos, pueda tener en la población
+dependerá de la estructura actual de ésta y de los parámetros demográficos de la
+275
+
+
+
+dinámica de la población, siendo a largo plazo las variables de la dinámica demo­
+gráfica (mortalidad, fecundidad y migraciones) las importantes.
+El cuadro 2 (en sus partes a, b, c, d, e, f, g, h, i) muestra la distribución
+por los grupos de edades señalados de los nueve escenarios analizados, excepto
+para el INE, para el que el corte entre los jóvenes y los activos se establece en los
+15 años, en lugar de en los 14 años.
+Un análisis global hasta el año 2021 permite señalar lo siguiente:
+• La relativa estabilidad del grupo de 15-64 años, con un aumento máxi­
+mo sobre la población inicial de 1991 de 1.126.000 personas en el escenario 3 de
+FEDEA (fecundidad fuertemente creciente, que alcanza 1,8 hijos por mujer, y migra­
+ción creciente para evitar la disminución futura de la población en edad de traba­
+jar) y con una disminución máxima sobre la población inicial de 1.672.000 perso­
+nas en el escenario 2 de la Fundación BBV (de crecimiento mínimo; mortalidad
+constante y fecundidad a la baja). En términos relativos, los porcentajes del grupo
+sobre la población total serían, respectivamente, del 65,4 (por debajo del 66,1 de
+1991) y del 69,5 (por encima del 66,8 de 1991), como tenía que suceder en razón
+de las hipótesis que sirven de base a la proyección.
+• La tendencia a la disminución del grupo joven en todos los escenarios
+contemplados, con una disminución mínima de 463 000 personas en el escenario 3
+de crecimiento máximo de la Fundación BBV (alta esperanza de vida y recupera­
+ción de la fecundidad al nivel de reemplazo), con una caída de 2,3 puntos en la
+distribución porcentual de la población, y una disminución máxima de 4.012.000
+personas en el escenario 2 de crecimiento mínimo de la Fundación BBV (mortali­
+dad constante y fecundidad a la baja, cayendo hasta el mínimo de un hijo por
+mujer), y con una caída de 9,3 puntos en la distribución porcentual de la pobla­
+ción.
+• La tendencia al aumento del grupo de mayor edad en todos los esce­
+narios contemplados, con un aumento mínimo de 1.736.000 personas en el esce­
+nario 2 de crecimiento mínimo de la Fundación BBV (mortalidad constante), con
+una subida de 6,6 puntos en la distribución porcentual de la población y un aumen­
+to máximo de 2.969 000 personas en el escenario 3 de crecimiento máximo de la
+Fundación BBV (alta esperanza de vida), y con una subida de 6,2 puntos en la dis­
+tribución porcentual de la población.
+Si el análisis se prolonga hasta el año 2050 (proyecciones del BBV y Fer­
+nández Cordón), los resultados son los siguientes:
+276
+
+
+
+• Un fuerte aumento del grupo de mayor edad en todos los escenarios
+contemplados, con un aumento mínimo de 3 593.000 personas en el escenario 2 de
+crecimiento mínimo de la Fundación BBV (mortalidad constante y fecundidad a la
+baja), con un aumento del 67% y una subida de 24,3 puntos en la distribución por­
+centual de la población, y un aumento máximo de 6.862.000 personas en el esce­
+nario 3 de crecimiento máximo de la Fundación BBV (alta esperanza de vida y
+recuperación de la fecundidad al nivel de reemplazo), y con un aumento del 128%
+y una subida de 15,7 puntos en la distribución porcentual de la población.
+Las otras tres proyecciones -la del BBV (escenario de crecimiento medio)
+y las dos de Fernández Cordón (de fecundidad media y de fecundidad alta)- arro­
+jan el mismo aumento de 5.353.000 personas, el 100%, ya que están efectuadas con
+la misma hipótesis de mortalidad, y aunque las tasas de fecundidad sean diferen­
+tes, no afectan, en el período considerado (1991-2050), al colectivo de personas de
+65 años y más.
+• En todos los escenarios contemplados, y en los grupos de población de
+0 a 14 años y de 15 a 64, se prevé una disminución absoluta, siendo los valores
+extremos los del escenario 2 de crecimiento mínimo de la Fundación BBV (morta­
+lidad constante y fecundidad a la baja), con una disminución máxima en la pobla­
+ción de 0-14 años de 5.875.000 personas (baja del 77%) y de 13.070.000 personas
+en el grupo de 15-64 años, lo que supone una reducción a la mitad de este grupo
+de población.
+Las tasas de dependencia demográfica -número de jóvenes (0-14 años) o
+de mayores (65 y más) por cien personas en edad de trabajar (15-64 años)- difie­
+ren fuertemente de una a otra proyección, aunque en todas ellas aumenta la de
+mayores.y disminuye la de jóvenes (cuadro, 3 a, b, y c), pasando esta última a ser
+inferior a la anterior a partir del año 2000. La evolución de la dependencia demo­
+gráfica de los viejos respecto a las personas potencialmente activas ha evoluciona­
+do de la forma siguiente: en 1910, por cada persona de 65 años o más había 10,73
+personas potencialmente activas; en 1997, ochenta y siete años después, por cada
+persona de 65 años o más sólo había 4,34 personas potencialmente activas, aumen­
+tando la relación de dependencia en 13,7 puntos. Para el año 2021, se prevé que
+por cada persona de 65 años o más sólo haya 3,2 personas potencialmente activas,
+aumentando de nuevo en 8 puntos la relación de dependencia; en el año 2050, por
+cada mayor sólo existirán 1,8 personas de 15 a 64 años, incrementándose de nue­
+vo la relación de dependencia en 24 puntos porcentuales.
+La dependencia total, suma de las dos anteriores, aumenta a largo plazo
+en todos los escenarios contemplados, si bien al principio disminuye durante cier­
+277
+
+
+
+to tiempo en fundón de las hipótesis de proyecdón. Al 2050, las an co variantes
+contempladas alcanzan valores muy próximos, comprendidos entre el 82% y el
+87%, lo que supone que habrá 1,2 ó 1,1 personas potencialmente activas por cada
+persona dependiente; en 1991, dicha relación era el doble.
+
+EL MARCO CONCEPTUAL DEL ENVEJECIMIENTO DE LA POBLACIÓN
+
+Una cuestión muy discutida es cómo medir el envejecimiento de la pobla­
+ción. Unos lo miden en términos absolutos, por el número de personas de 65 años
+y más y su evolución; otros, por el porcentaje de las personas mayores en la pobla­
+ción total; por último, otros consideran que la relación entre el número de ancia­
+nos y el número de jóvenes es el método más correcto, ya que cuando las genera­
+ciones jóvenes son menos nutridas que las anteriores se altera la reladón que, en
+un momento dado, existe entre los grupos de edad, dando lugar a que los más vie­
+jos representen un porcentaje cada vez mayor de la población \
+Partiendo de esta última concepción, he elaborado (cuadro 4) los indica­
+dores de envejecimiento de la población española en el período 1991-2050 de los
+nueve escenarios contemplados, que pasan del 70% en 1991 a un abanico de por­
+centajes que va desde el 171,6, en la variante 3 de crecimiento máximo de la Fun­
+dación BBV, al 524,2, en la variante 2 de crecimiento mínimo de la Fundación BBV.
+El resto de las variantes oscila alrededor del 200%, lo que supone un empeora­
+miento del índice del 186%; es decir, que el índice de envejecimiento casi se ha tri­
+plicado.
+A pesar de que en España la mortalidad y la fecundidad son de las más
+bajas del mundo, su grado de envejecimiento es todavía menor que el de la mayo­
+ría de los países de la Unión Europea, ya que España está beneficiándose de su
+mayor fecundidad en épocas no muy lejanas y de la fuerte caída de la mortalidad.
+Sin embargo, las generaciones numerosas del pasado van llegando a la
+edad de jubilación, reduciéndose simultáneamente las entradas por la base de la
+pirámide a consecuencia de la caída de la natalidad, con lo que aumentan los índi­
+ces de envejecimiento a un ritmo mayor que en otros países. Si se mantienen los
+actuales niveles de mortalidad y fecundidad, España acabará teniendo índices de
+envejecimiento superiores a los del resto de los países de la Unión.1
+
+1 J. A. F ernandez C ordón , D em og rafía, a c tiv id a d y d ep e n d e n c ia en E sp añ a, Fundación BBV,
+marzo 1996.
+
+278
+
+
+
+METODOLOGÍA EMPLEADA PARA DISTRIBUIR EL GASTO
+DE PROTECCIÓN SOCIAL POR GRUPOS DE EDADES
+
+El objetivo de este apartado es tratar de medir la incidencia de la evolu­
+ción demográfica sobre el gasto en pensiones, sanidad y servicios sociales en el
+horizonte temporal del año 2050. Para ello, es necesario, en primer lugar, distribuir
+el gasto por grupos de edad. Considero los siguientes grupos de edad: de 0 a 14
+años (población joven); de 15 a 64 años (población potencialmente activa), y de 65
+años y más (población mayor).
+El criterio que he seguido para llevar a cabo esta distribución es el siguien­
+te (tomo como año base 1997, último año para el que se dispone de información
+sobre gastos en protección social)12:
+• El gasto en p en sion es incluye las siguientes ramas:
+- In validez. El gasto en esta rama de protección social se imputa a los gru­
+pos de edad entre 15 y 64 años, y 65 años y más, en función del número de pen­
+siones de esta naturaleza, del sistema de seguridad social por tramos de edad3.
+- Vejez. Se sigue el mismo criterio que en el caso anterior para las pen­
+siones de esta naturaleza.
+- Supervivencia. Las pensiones de supervivencia son las de viudedad,
+orfandad y en favor de familiares. El gasto se ha distribuido entre los grupos de
+edad 0-14, 15-64 y 65 años y más, en función del número de pensiones de esta
+naturaleza que existen para el año 1993• El gasto en desem pleo incluye tanto gasto en promoción de empleo
+como gasto en prestaciones por desempleo. Se imputa todo el gasto al grupo de
+edad entre 15 y 64 años.
+• El gasto de la función en ferm edad-aten ción san itaria incluye la inca­
+pacidad temporal, que se imputa en su totalidad al grupo de 15 a 64 años, puesto
+que se trata de una prestación vinculada a los trabajadores. En cuanto a la presta­
+
+1 El concepto de gasto en protección social que utilizo es el que define el Sistema Europeo
+de Estadísticas Integradas de Protección Social (SEEPROS). Ver SEEPROS, Metodología 1996.
+3
+Anuario de Estadísticas Laborales y Servicios Sociales 1997, Ministerio de Trabajo y Asun­
+tos Sociales, 1998.
+
+279
+
+
+
+ción de asistencia sanitaria, como se trata de una prestación universal, se distribu­
+ye entre los tres grupos de edad, aunque su uso no es uniforme para toda la pobla­
+ción. Por esto, se ha normalizado la población teniendo en cuenta que el gasto
+sanitario de una persona de 65 años y más es mayor que el de una persona de 64
+años y menos. Para España, sólo existen dos estimaciones que ponderan este gas­
+to 4. Como índice de ponderación, hemos tomado 5,05, que es el que resulta del
+estudio del Instituto Klein, que es más reciente y más desagregado.
+• La función fa m ilia e hijos recoge tanto prestaciones por hijo a cargo
+como prestaciones por maternidad. Los gastos derivados de las prestaciones fami­
+liares por hijo a cargo tienen como límite de edad los 18 años con carácter gene­
+ral. Esto quiere decir que dicho gasto se debe distribuir entre los grupos de 0 a 14
+años y de 15 a 64 años5.
+Las estadísticas disponibles nos informan sobre el número de beneficia­
+rios, pero no por edad. Por ello, he realizado la siguiente hipótesis: distribuyo el
+número de beneficiarios entre los grupos de edad 0-14 y 15-64 en función de la
+población que existe en 1997 en los grupos de edad 0-14 y 15-19 años.
+El gasto correspondiente al grupo 0-14 años es el que resulta de multipli­
+car el número de beneficiarios de dicho grupo por la asignación anual general, que
+es de 36.000 pesetas para 1997, todo ello multiplicado por el porcentaje que repre­
+senta la población de 0 a 14 años respecto a la población de 0 a 19 años. El resto
+se imputa al grupo de edad entre 16 y 64 años.
+El gasto correspondiente a maternidad se imputa al grupo de 15 a 64 años.
+• Por último, la función exclusión social, que recoge gastos no impu­
+tables directamente a las anteriores funciones, como ayuda a indigentes, prestacio­
+nes por infortunio familiar y servicios sociales diversos, he optado por imputarla al
+grupo de edad de 65 años y más, por ser éste el colectivo que más se beneficia de
+este tipo de servicios.
+
+4 ¿Cuál es la relación que existe entre lo que gasta en sanidad una persona de 65 o más años
+con respecto al resto de la población? Trabajo realizado por P ilar G arcIa y S ilvia T ovar en el Curso de
+Doctorado del Departamento de Economía y Hacienda Pública, Facultad de Ciencias Económicas y
+Empresariales. Universidad Autónoma de Madrid. Seminario -Gastos de Protección Social- dirigido por
+el profesor Barea. Curso 1992-1993 (en mímeo).
+J osé V icens y otros, Análisis del impacto presupuestariofuturo del gasto público en sanidad,
+Instituto L. R. Klein, 1998 (en mímeo).
+5 Además de la prestación general, existen ayudas familiares piara hijos minusválidos, que
+pueden seguir percibiéndola una vez cumplidos los 18 años.
+
+280
+
+
+
+Una vez distribuido el gasto en protección social de 1997 por grupos de
+edad y funciones, divido estos resultados por la población que existe en 1997 para
+cada grupo de edad considerado, calculando, de esta forma, el gasto por persona
+para cada una de las funciones y grupos de edad.
+
+EVOLUCIÓN FUTURA DEL COSTE
+DE FINANCIACIÓN DEL ENVEJECIMIENTO
+
+Un problema que preocupa a todos los países de la Unión Europea es el
+de la financiación del coste futuro de las prestaciones sociales de las personas de
+65 años y más: pensiones, sanidad y asistencia social. Sin querer quitar importan­
+cia a los problemas que derivan de la sanidad y de los servicios asistenciales, no
+cabe duda de que, por su cuantía y por tratarse de una prestación ligada con las
+aportaciones de los interesados, las pensiones de jubilación constituyen el foco de
+atención primordial para todos los gobiernos.
+La solución al problema de financiación de la vejez depende de tres fac­
+tores: de la evolución de los inactivos viejos, de las personas que han de asumir la
+carga (población activa) y del crecimiento de los salarios reales. Estos dos últimos
+factores dependen del crecimiento de la economía, y el primero, de la demografía.
+Si el sistema está en desequilibrio, puede éste corregirse: a través de una
+reducción de la prestación real media (pensión real media en pensiones, calidad
+y/o menor cobertura de prestaciones en sanidad y asistencia social); en definitiva,
+a través de una reducción del nivel de protección social o a través de un aumento
+de la presión fiscal (subida de las cotizaciones).
+Este trabajo se limita, de acuerdo con el contenido del tema que se me ha
+asignado, a estimar el efecto económico que el envejecimiento va a tener sobre las
+prestaciones de protección social destinadas a cubrir los riesgos de vejez (pensio­
+nes y asistencia social) y de enfermedad (asistencia sanitaria). No se tiene, por tan­
+to, en cuenta la incidencia económica de subidas de las prestaciones reales medias
+de los programas de protección social que hemos enumerado.
+Como hemos visto en el apartado dos, en todos los escenarios de creci­
+miento de la población española el grupo de personas de edad va a aumentar y,
+por lo tanto, también aumentará la población de inactivos con derecho a pensión
+y a servicios sociales; en cuanto a la prestación sanitaria, dado que una persona de
+65 años y más gasta 5,05 veces más que una de 64 y menos, el solo aumento de
+viejos tendrá incidencia sobre el gasto de asistencia sanitaria, aunque el conjunto
+de la población permanezca estacionario.
+281
+
+
+
+Las personas que tienen ahora 65 años o más han nacido antes de la gue­
+rra civil, cuando la natalidad era elevada y la mortalidad se encontraba en proceso
+de reducción. Hasta el año 2030, en el que comenzarán a llegar a la jubilación las
+generaciones escasas posteriores a 1965, no se alterará el ritmo de crecimiento del
+colectivo de 65 años y más, si bien en el período 2001 al 2011, a consecuencia de
+la llegada de las generaciones de la guerra y la postguerra, se producirá una ralentización en el aumento del grupo de viejos.
+El cuadro 5, en sus partes a, b y c, pone de manifiesto el gasto en pese­
+tas de 1997 en prestaciones de protección social según grupos de edad para los
+años 1997, 2021 y 2050 para el escenario 1 (de proyección media) de la Fundación
+BBV, y en sus partes d, e y f, presenta los mismos datos, pero referidos a la pro­
+yección de Fernández Cordón, desde el Instituto de Economía y Demografía del
+Consejo Superior de Investigaciones Científicas, que cubre igualmente el período
+1997-2050.
+De los cuadros citados se desprenden las siguientes conclusiones:
+Prim era. El gasto en protección social tiende a concentrarse cada vez más
+en el grupo de personas de 65 y más años, ganancia de 20 puntos porcentuales en
+el período 1997-2050 (cuadro A).
+C uadro A
+
+Anos
+1997
+2006
+2011
+2021
+2031
+2041
+2050
+
+Enporcentajedeltotalgasto
+EscenarioFundaciónBBV
+
+EscenarioFernándezCordón
+
+55,8
+58,6
+59,8
+62,7
+67,9
+73,3
+74,8
+
+55,8
+58,8
+6 0 ,0
+
+63,3
+69,1
+75,0
+77,3
+
+Segunda. En los dos escenarios contemplados, todos los programas de la
+protección social experimentan un aumento en pesetas constantes de 1997 a con­
+secuencia de la evolución demográfica, excepto los de desempleo y familia (cua­
+dro 6 a y b). Los mayores aumentos los experimentan los programas de asistencia
+social (73%) y pensiones (más del 50%), prácticamente coincidentes en los dos
+escenarios.
+
+282
+
+
+
+Tercera. Sin embargo, en términos relativos, sólo los programas de pen­
+siones y de asistencia social experimentan un aumento del orden de 10 puntos y
+de 0,3 puntos, respectivamente, en relación con la distribución porcentual de 1997Sólo se dan pequeñas diferencias entre los dos escenarios (cuadro 7a y b).
+C uarta. Por grupos de edad, sólo el de 65 y más años registrará una
+ganancia de 19 a 21 puntos porcentuales entre 1997 y 2050 según el escenario, a
+costa de la población de 0-14 años, que perderá entre 0,8 y 1,2 puntos, y del gru­
+po 15-64 años, que perderá igualmente entre 18 y 20 puntos (cuadro 7a y b).
+El gasto en protección social por persona según grupos de edad muestra
+la concentración del gasto en la población de 65 años y más (cuadro B).
+C uadro B
+
+1997
+
+Grupodeedad
+
+Gastoenprotecciónsocialporpersona
+
+0-14 años
+15-64 años
+65 años y más
+
+66.166
+260.139
+1.504.740
+
+Los resultados muestran que en el año 1997 el gasto en protección social
+de una persona de 65 años o más era casi veintitrés veces superior al de una per­
+sona joven (entre 0 y 14 años), y casi seis veces superior al de una persona poten­
+cialmente activa (entre 15 y 64 años).
+Si nos fijamos exclusivamente en el grupo de población de 65 y más años,
+vemos que el gasto en protección social de dicho grupo durante el período 19972050 es el mismo tanto en el escenario de la Fundación BBV como en el de Fer­
+nández Cordón, ya que la evolución de las personas de dicho grupo en el período
+1997-2000 es la misma, puesto que las diferentes tasas de fecundidad que han ser­
+vido de hipótesis a las proyecciones sólo afectarán a dicho grupo más allá del año
+2050, que sólo viene influido en el período que analizamos por las tasas de mor­
+talidad, que son coincidentes en ambos escenarios.
+El cuadro 8 muestra la incidencia que la evolución del grupo de personas
+de 65 años y más tendrá sobre el gasto de protección social. Dicho gasto aumen­
+tará entre 1997 y el año 2050 un 73,4% (6,8 billones de pesetas, lo que supone una
+tasa de crecimiento acumulativo anual del 1,05%; la asistencia sanitaria experi­
+mentará un aumento de 1,4 billones de pesetas; las pensiones, de 5,3 billones de
+pesetas, y la asistencia social, de 95,4 miles de millones de pesetas.
+283
+
+
+
+Al fuerte envejecimiento que va a tener la población española se une la
+disminución de la población en edad de trabajar, de forma que la tasa de depen­
+dencia de dichos grupos de población pasa del 20% en 1997 a porcentajes que
+oscilan del 55% al 69% en el año 2050 (cuadro 3 b y c).
+Como consecuencia de esta doble circunstancia, la carga financiera que
+deberá soportar cada persona potencialmente activa para hacer frente al mayor gas­
+to en protección social de las personas de 65 años y más, exclusivamente a conse­
+cuencia de la evolución demográfica, se multiplicará en el período 1997-2050 por
+2,4 en el escenario de la Fundación BBV, o por 2,7 en el escenario de Fernández
+Cordón; es decir, casi se triplicará (cuadro 9).
+
+LA EQUIDAD EN EL SISTEMA DE PENSIONES PÚBLICAS
+CONTRIBUTIVAS DE LA SEGURIDAD SOCIAL
+
+Voy a utilizar la tasa intema de retomo, que iguala el valor de las cotiza­
+ciones efectuadas y el de las pensiones de jubilación y de viudedad recibidas a lo
+largo de la vida de sus perceptores, para medir el grado de equidad del sistema de
+pensiones públicas contributivas del Régimen General de la Seguridad Social. No
+se tienen en cuenta las pensiones de orfandad y de invalidez, que en definitiva
+supondrían una elevación de la tasa intema de retomo.
+Para el cálculo de las relaciones funcionales del sistema, se parte de indi­
+viduos tipo que cotizan durante su vida laboral de 35, 25 y 15 años respectiva­
+mente, y que se jubilan a los 65 años. Las aportaciones se consideran netas, es
+decir, deducidos los gastos de administración del sistema, que, según resulta del
+Presupuesto para 1999, equivalen al 3,06% de los ingresos por cotizaciones. Las
+cotizaciones netas -es decir, deducidos del tipo íntegro para el régimen general
+(28,3%) para las contingencias comunes los gastos de administración- se aplican
+en su totalidad a financiar las pensiones. Se parte de la hipótesis de que la legisla­
+ción se mantiene constante en cuanto a la determinación de las cuantías de las pen­
+siones de jubilación y de viudedad, y a la fórmula de revalorización de éstas; el tipo
+de cotización permanece sin modificación durante todo el período.
+Se tiene en cuenta la esperanza de vida para calcular el período de cobro
+de las pensiones de jubilación y viudedad, así como la probabilidad de que el jubi­
+lado, al fallecer, tenga viuda.
+
+284
+
+
+
+El entorno macroeconómico que sirve de base a los cálculos es el siguiente:
+• Tasa de inflación del 2% a lo largo de un período de más de medio
+siglo, y permanece constante.
+• Tasa de crecimiento acumulativa anual de los salarios del 3%, equiva­
+lente a la tasa de inflación y un 1% de crecimiento real por productividad.
+Las tasas internas de retomo obtenidas para cada uno de los supuestos
+tipo son los siguientes:
+con 35 años de cotización
+con 25 años de cotización
+con 15 años de cotización
+
+4,43
+5,40
+7,81
+
+La primera conclusión que se obtiene es la falta de equidad horizontal del
+sistema, ya que no se da proporcionalidad entre lo aportado y lo percibido.
+Las tasas intemas de rendimiento son, como puede comprobarse, muy ele­
+vadas, y eso en el régimen general, ya que en los especiales, en particular en el
+agrario y en el del hogar, se dan tasas de rendimiento mucho mayores, ya que en
+ellos la falta de proporcionalidad es aún mayor.
+La quiebra del principio de proporcionalidad ha llevado a los sistemas de
+pensiones de los países de la Unión Europea, entre ellos España, a fuertes dese­
+quilibrios, a causa de su falta de equidad, tanto horizontal como vertical.
+
+LOS RETOS DE LA PROTECCIÓN SOCIAL EN EL FUTURO
+
+Los retos que va a tener la protección social en el futuro derivan del enve­
+jecimiento de la población, que dará lugar a un crecimiento constante de la deuda
+implícita de la seguridad social, en terminología del Fondo Monetario Internacio­
+nal, y a una presión constante sobre el déficit público que puede poner en peligro
+el cumplimiento del Pacto de Estabilidad.
+En el año 1996, dicha deuda implícita ascendía a 80,2 billones de pesetas,
+mientras en 1990 había sido de 43,1 billones de pesetas, lo que supone que en sólo
+seis años casi se ha duplicado su importe, lo que dará lugar a que en el futuro los
+desequilibrios financieros de la seguridad social vayan en aumento, a menos que
+se incrementen los tipos de cotización.
+285
+
+
+
+La reducción del déficit público impuesta por el Pacto de Estabilidad y
+Crecimiento va a suponer para España que el gasto público pierda tres puntos de
+peso en la economía, pasando del 44,2% del PIB en 1997 al 41,2% en el 2002 6.
+Los gastos de protección social (sin incluir educación) tienen un creci­
+miento autónomo en el entorno del 3% en precios constantes7, con lo cual, dada
+la alta tasa media de crecimiento del PIB prevista para el período analizado, per­
+derán participación en el PIB, restricción que en principio parece bastante fuerte
+(en 1997, el 21%; en el 2002, el 20,7%).
+Como tales gastos no van a tener ajuste alguno, según declaraciones del
+gobierno, el resto de los gastos son los que tendrán que soportar el ajuste total deri­
+vado de la reducción del déficit, y sólo podrán crecer a una tasa media anual del
+0,9% en términos reales. Tal porcentaje no es uniforme en el transcurso del perío­
+do, pasando del 1,7% en 1998 al 0,4% en el año 2002. Con tan bajas tasas de
+aumento, será imposible atender las obligaciones comprometidas de los restantes
+programas de gastos (excluidos, por tanto, los de protección social), que com­
+prenden: defensa, justicia, asuntos exteriores, agricultura, intereses, educación,
+investigación y desarrollo, infraestructuras, etc. El ajuste afectará, por tanto, a los
+gastos en capital humano, capital tecnológico y capital físico que tan necesarios son
+para la competitividad de nuestras empresas.
+Sin reformas estructurales en la protección social, ajustándola al nuevo
+entorno económico y demográfico, no será posible cumplir lo establecido en el
+Pacto de Estabilidad, como ya puso de manifiesto el Instituto Monetario Europeo
+en su Informe de Convergencia de 1998, con las consecuencias que ello podría
+tener sobre el empleo.
+
+PROPUESTAS PARA HACER VIABLE Y EQUITATIVO EL SISTEMA
+DE PENSIONES CONTRIBUTIVAS ESPAÑOL
+
+En un sistema de pensiones públicas contributivas de reparto, su equili­
+brio sólo puede venir por modificación de la tasa de sustitución, por el aumento
+del tipo de cotización o por aportaciones del Estado.
+
+6 J. B area, *El Presupuesto para 1999 y el Pacto de Estabilidad*, C u a d ern o s d e In fo rm a c ió n
+E con óm ica, núm. 140/141 noviembre-diciembre 1998, FUNCAS.
+
+7 E nrique F uentes y J osé B area, *El déficit público de la democracia española», P a p eles d e E co­
+n o m ía E sp añ ola, núm. 68, 1996, Fundación FIES.
+
+286
+
+
+
+España ha adoptado el sistema de tasa fija de sustitución, por lo cual los
+desequilibrios tendrán que corregirse por una subida de los tipos de las cotizacio­
+nes sociales, que es lo que ha venido sucediendo, junto con aportaciones crecien­
+tes del Presupuesto del Estado.
+Con la finalidad de clarificar el sistema, la Ley de Consolidación y Racio­
+nalización del Sistema de Seguridad Social ha efectuado una separación de las fuen­
+tes de financiación de éste, ha reforzado ios principios de equidad y carácter con­
+tributivo, y ha establecido con carácter obligatorio la revalorización de las
+pensiones por el índice del coste de la vida.
+Las cotizaciones sociales quedarán afectadas a la financiación de las pres­
+taciones contributivas (en la práctica, pensiones contributivas). Con tales medidas,
+el contador del déficit del sistema de pensiones contributivas de la seguridad social
+se ha puesto a cero.
+Sin embargo, y como hemos ido viendo en el transcurso de la exposición,
+el factor demográfico continuará en el futuro incidiendo fuertemente sobre el gas­
+to de pensiones de la seguridad social, con un crecimiento de éste superior al de
+los ingresos por cotizaciones. Dado que no es posible incrementar las cotizaciones
+sociales por su efecto sobre el empleo y la competitividad, y que el Estado se ve
+obligado por el Pacto de Estabilidad a reducir su déficit a través de una reducción
+del gasto público, la solución que se ha propuesto por algunos autores es trans­
+formar el sistema de reparto en uno de capitalización.
+Pero tal transformación es financieramente imposible, ya que la seguridad
+social no tiene constituidas las provisiones matemáticas para dar tal salto, que se
+han estimado para España en dos veces el PIB. Sin embargo, el hecho de que no
+pueda transformarse el sistema de reparto en uno de capitalización, por la fuerte
+incidencia que tendría en el déficit público, no impide que el cálculo de la pensión
+que corresponda a cada afiliado a la seguridad social se efectúe por el sistema de
+capitalización, utilizando un tipo de interés ligado a la tasa de crecimiento de la
+economía. Ello no impediría permanecer dentro del sistema de reparto, y por tan­
+to sin constituir reservas de capitalización, para evitar el desequilibrio que surgiría
+al tener que financiar las pensiones en vigor.
+Dos grandes ventajas podrían conseguirse con el sistema que se propone:
+a ) corregir la falta de equidad actualmente existente en el sistema de pensiones de
+la seguridad social, que daría lugar a una proporcionalidad entre lo aportado y lo
+recibido que tendría como consecuencia una disminución del gasto, y b ) evitar que
+287
+
+
+
+los políticos utilicen las pensiones públicas como instrumento para la captación de
+votos, lo que se traduce en aumento del gasto.
+Para la simulación que voy a realizar, utilizo la tasa de interés del 3%,
+teniendo en cuenta el entorno macroeconómico del que partimos (véase aparta­
+do 6): 2 % de tasa de inflación y 1 % de crecimiento en términos reales de los sala­
+rios. Puede parecer baja la tasa de interés en relación con la que puede obtenerse
+de los planes de pensiones privados, pero hay que tener en cuenta que está exen­
+ta de riesgos, y que los gastos de administración tenidos en cuenta para fijar dicha
+tasa sólo ascienden al 3% del importe de las cuotas pagadas, muy por debajo del
+porcentaje que cobran las gestoras privadas de fondos.
+Las aportaciones de cada uno de los individuos tipo, para un salario ini­
+cial de 100 para el que trabaja 35 años, con incrementos anuales del 3% (2% de
+inflacción y 1% de productividad), se convierten, capitalizadas al 3%, en los
+siguientes valores finales:
+para el que trabaja
+para el que trabaja
+para el que trabaja
+
+35 años 2.623,15
+25 años 1.873,68
+15 años 1.124,21
+
+Comparando dichos valores finales (el capital que tendrían formado al
+cumplir los 65 años) con las pensiones que cobrarían de acuerdo con la legislación
+vigente, resultan las tasas de rendimiento siguientes:
+para el que trabaja
+para el que trabaja
+para el que trabaja
+
+35 años 7,69%
+25 años 9,43%
+15 años 10,18%
+
+Vuelve de nuevo a ponerse de manifiesto la falta de equidad del sistema
+y sus elevadas tasas de rendimiento, que dan lugar a que no sea viable.
+He efectuado una simulación con el objetivo de que el sistema sea equi­
+tativo y viable. Partiendo de los valores finales de las aportaciones (capitalización
+al 3%) y dejando las pensiones de viudedad en las cuantías que resulten de la legis­
+lación vigente, he hecho la simulación a la tasa de descuento del 3 % que determi­
+ne el valor inicial de la pensión, y las de los años sucesivos revalorizadas al 2%.
+Los resultados obtenidos muestran que las tasas de sustitución entre el último sala­
+rio de activo y el importe de la pensión del primer año serían las siguientes:
+
+288
+
+
+
+para el que trabajó 35 años
+para el que trabajó 25 años
+para el que trabajó 15 años
+
+62,82%
+43,84%
+24,85 %
+
+Las tasas de sustitución que actualmente existen son las siguientes:
+Años cotizados
+
+Porcentaje
+
+35
+25
+15
+
+91,87
+73,57
+45,75
+
+Las diferencias de estos porcentajes de tasa de sustitución con las obteni­
+das en la simulación efectuada son abismales, lo que demuestra la falta de propor­
+cionalidad del sistema y su falta de viabilidad futura.
+He efectuado otra simulación a la tasa de capitalización del 4% obtenien­
+do las siguientes tasas de sustitución:
+
+Años cotizados
+
+Tasas d e sustitución
+
+35
+25
+15
+
+81,63
+54,30
+29,44
+
+Estas tasas están ya más próximas a las hoy existentes, pero aun así se dan
+fuertes diferencias, sobre todo en los individuos que cotizan 25 y 15 años. Las dife­
+rencias son aún mayores para todas las edades en los regímenes especiales de la
+seguridad social.
+
+289
+
+
+
+FUNDACIÓN BBV:
+
+FEDEA:
+
+INE:
+
+38.875
+39-242
+39.490
+39.710
+39.798
+39.624
+39.248
+
+INE
+1
+
+FERNÁNDEZ CORDÓN:
+
+2031
+2036
+2041
+2046
+2050
+
+2026
+
+2021
+
+2016
+
+1991
+1996
+2001
+2006
+2011
+
+Año
+
+C uadro 1
+
+38.872
+39.197
+39.364
+39.581
+39-725
+39.566
+39.125
+38.528
+
+38.872
+39.197
+39.234
+39.121
+38.754
+38.027
+37.011
+35.827
+
+38.872
+39.197
+39.366
+39.611
+40.135
+40.7 4 4
+41.226
+41.7 1 8
+
+3
+
+FundaciónBBV
+2
+38.872
+39.009
+38.836
+38.351
+37.503
+36.321
+34.924
+33.382
+31.699
+29.814
+27.714
+25.436
+23-521
+
+1
+38.872
+38.056
+39.270
+39.683
+39.942
+39-837
+39-460
+38.995
+38.560
+38.048
+37.323
+36.355
+35.422
+
+38.872
+39.075
+39.414
+40.146
+40.857
+41.222
+41.309
+41.355
+41.561
+41.811
+41.8 9 8
+41.752
+41.478
+
+3
+
+1. Escenario de proyección.
+2. Fecundidad baja.
+3. Fecundidad alta.
+En las hipótesis 2 y 3 se mantienen las hipótesis de mortalidad y migración del Escenario 1.
+1. Escenario de referencia (fecundidad constante y ausencia de inmigración).
+2. Fecundidad creciente e inmigración constante.
+3. Fecundidad aún más creciente y migración creciente.
+1. Escenario de proyección media (reducción de la mortalidad y recuperación de la fecundidad).
+2. De crecimiento mínimo (mortalidad constante y fecundidad a la baja).
+3. De crecimiento máximo (alta esperanza de vida y recuperación de la fecundidad al nivel de reemplazo).
+Las proyecciones se hacen sin tener en cuenta la inmigración.
+1. De fecundidad media.
+2. De fecundidad alta. Mortalidad y fecundidad constantes a partir del 2026.
+
+H ipótesis de las p royecciones
+
+FEDEA
+2
+
+1
+
+Escenarios de proyección de la población española
+(Población total en miles de personas a 1 de enero de cada año)
+
+38.872
+39.065
+39.076
+39.126
+39.097
+38.762
+38.149
+37.383
+36.563
+35.638
+34.534
+33.207
+21.978
+
+38.872
+39.065
+39.078
+39.1 3 6
+39.182
+38.993
+38.547
+37.963
+37.339
+36.635
+35.784
+34.736
+33.741
+
+FernándezCordón
+1
+2
+
+
+
+C uadro 2
+
+Evoluciónfutura de la población por grandes grupos de edad
+(En miles de personas y en distribución porcentual)
+a)
+D istribución porcentual
+
+INE
+Año
+
+Personas
+de 0 a 15 años
+
+Personas
+de 16 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+de 0 a 15 años
+
+Personas
+de 16 a 64 años
+
+Personas
+de 65 y m ás
+
+8.238
+6.999
+6.354
+6.298
+6.369
+6.030
+
+25.276
+26.183
+26.440
+26.508
+26.253
+25.330
+
+5.360
+6.059
+6.694
+6.904
+7.175
+7.888
+
+21,2
+17,8
+16,1
+15,9
+16,0
+15,4
+
+65,0
+66,7
+67,0
+66,7
+66,0
+64,5
+
+13,8
+15,4
+17,0
+17,4
+18,0
+20,1
+
+1991
+1996
+2001
+2006
+2011
+2021
+
+b)
+D istribución porcentual
+
+FEDEA. Escenario 1
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+
+Personas
+de 0 a 14 años
+
+Personas
+d e 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+7.697
+6.453
+5.777
+5.463
+5.325
+4.889
+4.261
+3.680
+
+25.850
+26.708
+26.787
+26.734
+26.260
+25.609
+24.867
+23.620
+
+5.325
+6.036
+6.670
+6.924
+7.169
+7.529
+7.883
+8.527
+
+19,8
+16,5
+14,7
+14,0
+13,7
+12,9
+11,5
+10,3
+
+66,5
+68,1
+68,3
+68,3
+67,8
+67,3
+67,2
+65,9
+
+13,7
+15,4
+17,0
+17,7
+18,5
+19,8
+21,3
+23,8
+
+'
+
+c)
+FEDEA. Escenario 2
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+
+2021
+2026
+
+D istribución porcentual
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+7.697
+6.453
+5.799
+5.701
+5.905
+5.950
+5.564
+5.104
+
+25.850
+26.708
+26.895
+26.953
+26.630
+26.059
+25.619
+24.832
+
+5.325
+6.03 6
+6.670
+6.927
+7.190
+7.557
+7.942
+8.592
+
+19,8
+16,5
+14,7
+14,4
+14,9
+15,0
+14,2
+13,2
+
+66,5
+68,1
+68,3
+68,1
+67,0
+65,9
+65,5
+64,5
+
+13,7
+15,4
+16,9
+17,5
+18,1
+19,1
+20,3
+22,3
+
+d)
+FEDEA. Escenario 3
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+
+D istribución porcentual
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d e 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+7.697
+6.453
+5.690
+5.706
+5.956
+6.298
+6.211
+6.000
+
+25.850
+26.708
+26.984
+26.973
+26.955
+26.827
+26.976
+26.957
+
+5.325
+6.036
+6.692
+6.932
+7.224
+7.619
+8.039
+8.761
+
+19,8
+16,5
+14,5
+14,4
+14,8
+15,5
+15,1
+14,4
+
+66,5
+68,1
+68,5
+68,1
+67,2
+65,8
+65,4
+64,6
+
+13,7
+15,4
+17,0
+17,5
+18,0
+18,7
+19,5
+21,0
+
+291
+
+
+
+C uadro 2
+
+Evoluciónfutura de la población por grandes grupos de edad
+(En miles de personas y en distribución porcentual)
+e)
+Fundación BBV. Escenario m edio
+Año
+
+1991
+1996
+1997
+2001
+2006
+2011
+2016
+
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+D istribución porcentual
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+d e 65 y m ás
+
+7.580
+6.371
+6.203
+5.932
+6.236
+6.612
+6.626
+6.143
+5.658
+5.496
+5.566
+5.611
+5.467
+5.260
+
+25.949
+26.650
+26.702
+26.674
+26.551
+26.165
+25.705
+25.466
+24.871
+23.823
+22.481
+21.037
+19.904
+19.467
+
+5.344
+6.035
+6.167
+6.663
+6.896
+7.165
+7.506
+7.851
+8.466
+9.241
+10.000
+10.676
+10.983
+10.695
+
+19,5
+16,3
+15,9
+15,1
+15,7
+16,6
+16,6
+15,6
+14,5
+14,3
+14,6
+15,0
+15,0
+14,8
+
+66,8
+68,2
+68,3
+67,9
+66,9
+65,5
+64,5
+64,5
+63,8
+61,8
+59,1
+56,4
+54,8
+55,0
+
+13,7
+15,5
+15,8
+17,0
+17,4
+17,9
+18,8
+19,9
+21,7
+24,0
+26,3
+28,6
+30,2
+30,2
+
+0
+Fundación BBV. Escenario m ínim o
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+D istribución porcentual
+
+Petam os
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+7.580
+6.371
+5.683
+5.284
+4.771
+4.170
+3.568
+3.086
+2.736
+2.451
+2.178
+1.907
+1.705
+
+25.949
+26.638
+26.631
+26.463
+26.026
+25.267
+24.277
+22.754
+20.822
+18.659
+16.352
+14.215
+12.879
+
+5.344
+6.000
+6.522
+6.604
+6.706
+6.884
+7.080
+7.542
+8.140
+8.704
+9.184
+9.314
+8.937
+
+19,5
+16,3
+14,6
+13,8
+12,7
+11,5
+10,2
+9,2
+8,6
+8,2
+7,9
+7,5
+7,2
+
+66,8
+68,3
+68,6
+69,0
+69,4
+69,6
+69,5
+68,2
+65,7
+62,6
+59,0
+55,9
+54,8
+
+13,7
+15,4
+16,8
+17,2
+17,9
+19,0
+20,3
+22,6
+25,7
+29,2
+33,1
+36,6
+38,0
+
+g)
+Fundación BBV. Escenario m áxim o
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+292
+
+D istribución porcentual
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+d e 65 y m ás
+
+7.580
+6.371
+5.994
+6.519
+7.222
+7.504
+7.117
+6.662
+6.630
+6.945
+7.240
+7.254
+7.112
+
+25.949
+26.655
+26.694
+26.593
+26.235
+25.866
+25.879
+25.641
+24.945
+23.931
+22.840
+22.156
+22.159
+
+5 .3 4 4
+
+6.049
+6.726
+7.034
+7.400
+7.852
+8.313
+9.053
+9.986
+10.935
+11.817
+12.342
+12.206
+
+1 9 ,5
+1 6 ,3
+
+66,8
+68,2
+67,7
+66,2
+64,2
+62,7
+62,6
+62,0
+60,0
+57,2
+54,5
+53,1
+53,4
+
+15,5
+17,1
+17,5
+18,1
+19,0
+20,1
+21,9
+24,0
+26,2
+28,2
+29,6
+29,4
+
+15,2
+16,2
+17,7
+18,2
+17,2
+1 6 ,1
+
+16,0
+1 6 ,6
+
+17,3
+17,4
+17,1
+
+1 3 ,7
+
+
+
+C uadro 2
+
+Evoluciónfutura de la población por grandes grupos de edad
+(En miles de personas y en distribución porcentual)
+D istribución porcentual
+
+Fernández Cordón. Escenario 1, fecu n d id a d m edia
+Año
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+d e 65 y m ás
+
+Personas
+d eO a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+d e 65 y m ás
+
+7.580
+6.381
+6.203
+5.739
+5.680
+5.758
+5.744
+5.386
+4.888
+4.567
+4.458
+4.420
+4.301
+4.123
+
+25.950
+26.650
+26.702
+26.675
+26.551
+26.175
+25.512
+24.913
+24.029
+22.755
+21.180
+19.439
+17.923
+17.160
+
+5.342
+6.034
+6.167
+6.662
+6.896
+7.167
+7.506
+7.850
+8.466
+9.241
+10.000
+10:675
+10.983
+10.695
+
+19.5
+16,3
+15,9
+14,7
+14,5
+14,7
+14,8
+14,1
+13,1
+12,5
+12,5
+12,8
+13,0
+12,9
+
+66,8
+68,2
+68,3
+68,3
+67,9
+66,9
+65,8
+65,3
+64,3
+62,2
+59,4
+56,3
+54,0
+53,7
+
+13,7
+15,4
+15,8
+17,0
+17,6
+18,3
+19,4
+20,6
+22,6
+25,3
+28,1
+30,9
+33,1
+33,4
+
+1991
+1996
+1997
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+0
+D istribución porcentual
+
+Fernández Cordón. Escenario 2, fecu n d id a d alta
+Año
+
+Personas
+de 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+d e 65 y m ás
+
+Personas
+d e 0 a 14 años
+
+Personas
+de 15 a 64 años
+
+Personas
+de 65 y m ás
+
+7.580
+6.381
+5.741
+5.689
+5.843
+5.973
+5.777
+5.383
+5.112
+5.057
+5.093
+5.058
+4.942
+
+25.950
+26.650
+26.675
+26.551
+26.175
+25.514
+24.922
+24.114
+22.986
+21.578
+
+5.342
+6.034
+6.662
+6.896
+7.164
+7.506
+7.850
+8.466
+9.241
+10.000
+10.675
+10.983
+10.695
+
+19,5
+16,3
+14,7
+14,5
+14,9
+15,3
+15,0
+14,2
+13,7
+13,8
+14,2
+14,6
+14,6
+
+66,8
+68,2
+68,3
+67,8
+66,8
+65,4
+64,7
+63,5
+61,6
+58,9
+55,9
+53,8
+53,7
+
+13,7
+15,4
+17,0
+17,6
+18,3
+19,2
+20,4
+22,3
+24,7
+27,3
+29,8
+31,6
+31,7
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+2 0 .0 1 6
+
+18.695
+18.104
+
+Cuadro 3
+
+Tasas de dependencia demográfica en porcentaje
+a)
+INE
+
+FBDEA
+
+¿ño
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+
+(0-14 X 1 5 0 0
+
+(65 *y ( l 5-64)
+
+Total (0-14* 65 *M15-64)
+
+(0-15X1664)
+
+(65+X1664)
+
+Total
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+32,59
+26,73
+24,03
+23,76
+24,26
+24,43
+23,81
+
+21,21
+23,13
+25,32
+26,06
+27,33
+29,19
+31,14
+
+53,80
+49,88
+49,35
+49,83
+51,59
+53,62
+54,95
+
+29,78
+24,16
+21,57
+20,43
+20,28
+19,09
+17,14
+15,58
+
+29,78
+24,16
+21,56
+21,15
+22,17
+22,83
+21,72
+20,55
+
+29,78
+24,16
+21,09
+21,15
+22,10
+23,48
+23,02
+22,26
+
+20,60
+22,60
+24,90
+25,90
+27,30
+29,40
+31,70
+36,10
+
+20,60
+22,60
+24,80
+25,70
+27,00
+29,00
+31,00
+34,60
+
+20,60
+22,60
+24,80
+25,70
+26,80
+28,40
+29,80
+32,50
+
+5038
+46,76
+46,47
+46,33
+47,58
+48,49
+48,84
+51,68
+
+50,38
+46,76
+46,36
+46,85
+49,17
+5133
+52,72
+55,15
+
+5038
+46,76
+45,89
+46,85
+48,90
+51,88
+52,82
+54,76
+
+2036
+2041
+
+293
+
+
+
+C uadro 3
+
+Tasas de dependencia demográfica en porcentaje
+Fundación BBV
+Año
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+(0-14M 1S-64)
+
+Total (0-14 + 65 + 3/05-64)
+
+(65 *)/(15-64)
+
+1
+
+2
+
+3
+
+1
+
+29,21
+23,91
+22,24
+23,49
+25,27
+25,78
+24,12
+22,75
+23,07
+24,76
+26,67
+27,47
+27,02
+
+29,21
+23,91
+21,34
+19,97
+18,33
+16,50
+14,70
+13,56
+13,14
+13,14
+13,32
+13,42
+13,24
+
+29,21
+23,90
+22,45
+24,51
+27,53
+29,01
+27,50
+25,98
+26,58
+29,02
+31,70
+32,74
+32,10
+
+2
+
+20,59
+22,65
+24,98
+25,97
+27,38
+29,20
+30,83
+34,04
+38,79
+44,48
+50,75
+55,18
+54,94
+
+20,59
+22,52
+24,49
+24,96
+25,71
+
+27,25
+29,16
+33,15
+39,09
+46,65
+56,16
+65,52
+69,39
+
+3
+
+1
+
+20,59
+22,69
+25,20
+26,45
+28,21
+30,36
+32,12
+35,31
+40,03
+45,69
+51,74
+55,71
+55,08
+
+49,81
+46,55
+47,22
+499,46
+52,65
+54,98
+54,95
+56,79
+61,86
+69,24
+77,42
+82,65
+81,96
+
+2
+
+3
+
+49,81
+46,44
+45,83
+44,92
+44,10
+43,75
+43,86
+46,71
+52,23
+59,78
+69,48
+78,94
+82,63
+
+49,81
+46,60
+47,65
+50,96
+55,73
+59,37
+59,62
+61,29
+66,61
+74,71
+83,44
+88,45
+87,18
+
+c)
+Fernández Cordón
+(0-143/05-64)
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+Total (0-14 + 65 +3/(15-64)
+
+(65+ 3/05-64)
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+29,21
+23,94
+21,51
+21,39
+22,00
+22,51
+21,62
+20,34
+20,07
+21,05
+22,74
+24,00
+24,03
+
+29,21
+23,94
+21,52
+21,43
+22,32
+23,41
+23,18
+22,32
+22,24
+23,44
+25,44
+27,06
+27,30
+
+20,59
+22,64
+24,97
+25,97
+27,38
+29,42
+31,51
+35,23
+40,61
+47,21
+54,92
+61,28
+62,33
+
+20,59
+22,64
+24,97
+25,97
+27,37
+29,42
+31,50
+35,11
+40,20
+46,34
+53,33
+58,75
+59,08
+
+49,80
+46,59
+46,49
+47,37
+49,38
+51,94
+53,13
+55,57
+60,68
+68,26
+77,65
+85,28
+86,35
+
+49,80
+46,59
+46,50
+47,40
+49,69
+52,83
+54,68
+57,43
+62,44
+69,78
+78,78
+85,80
+86,37
+
+C uadro 4
+
+índices de envejecimiento en porcentaje (')
+INE
+A ño
+
+1991
+1996
+2001
+2006
+2011
+2016
+2021
+2026
+2031
+2036
+2041
+2046
+2050
+
+FEDEA
+
+Fundación BBV
+
+1
+
+1
+
+2
+
+3
+
+65,06
+86,57
+105,34
+109,68
+112,65
+119,50
+130,82
+
+69,18
+93,54
+115,46
+126,74
+134,63
+154,00
+185,00
+231,71
+
+69,18
+93,54
+115,02
+121,50
+121,76
+127,01
+142,74
+168,34
+
+69,18
+93,54
+117,61
+121,49
+121,29
+120,97
+129,43
+146,02
+
+M ínim a
+2
+
+M áxim a
+3
+
+M edia
+1
+
+Alta
+2
+
+70,50
+94,73
+112,32
+110,58
+108,36
+113,28
+127,80
+149,63
+168,14
+179,66
+190,27
+200,90
+203,33
+
+70,50
+94,19
+114,76
+124,98
+140,56
+165,08
+198,43
+244,39
+297,51
+355,12
+421,67
+488,41
+524,16
+
+70,50
+94,95
+112,21
+107,90
+102,46
+104,04
+116,80
+135,89
+150,62
+157,45
+163,22
+170,14
+171,63
+
+70,47
+94,56
+116,08
+121,41
+124,47
+130,68
+145,75
+173,20
+202,34
+224,32
+241,52
+255,36
+259,40
+
+70,47
+94,56
+116,04
+121,22
+
+Personasde65 años y más
+<
+•
+) Elíndicedeenvejecim
+ientoestácalculadopara ------------------------------Personasde0a15años
+
+294
+
+Fernández Cordón
+
+M edia
+1
+
+1 2 2 ,6 1
+
+125,67
+135,88
+157,27
+180,77
+197,75
+209,60
+217,14
+216,41
+
+
+
+C uadro
+
+5
+
+Gastos en prestaciones de protección social según grupos de edad
+(Millones de pesetas de 1997)
+a)
+Programas
+
+. 0-14 años
+
+Año 1997
+15-64 años
+
+6 5 años y m ás
+
+Total
+
+Porcentaje
+
+1.947.818
+7.201.908
+
+29,1
+54,3
+13,8
+2,0
+0,9
+100,0
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+387.899
+
+22.529
+
+2.497.512
+1.835.770
+2.2S8.374
+314.563
+
+130.004
+
+4.833.230
+9.037.678
+2.298.374
+337.092
+130.004
+
+Total
+
+410.429
+
+6.946.219
+
+9.279.730
+
+16.636.378
+
+2,5
+
+41,8
+
+55,8
+
+100,0
+
+Porcentaje del gasto total
+
+Fuente: M
+inisteriodeTrabajoySeguridadSocial (1998). A
+nuariodeEstadísticasLaboralesydeServiciosSociales1997, FundaciónBBV
+.
+
+Elaboraciónpropia.
+
+b)
+
+Año 2021
+
+Programas
+
+0-14 años
+
+15-64 años
+
+65 años y m ás
+
+Total
+
+Porcentaje
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+384.170
+
+2.479.470
+9.167.650
+
+22.313
+
+2.381.938
+1.750.819
+2.192.015
+300.006
+
+165.488
+
+5.245.578
+10.918.469
+2.192.015
+322.319
+165.488
+
+27,8
+57,9
+11,6
+1,7
+0,9
+
+Total
+
+406.482
+
+6.624.778
+
+11.812.609
+
+18.843.869
+
+100,0
+
+2,2
+
+35,2
+
+62,7
+
+100,0
+
+Porcentaje del gasto total
+Fuente: F
+undaciónBBV
+. Elaboraciónpropia.
+
+c)
+
+Año 2050
+
+Programas
+
+0-14 años
+
+15-64 años
+
+65 años y m ás
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+328.949
+
+3.377.650
+12.488.603
+
+19.105
+
+1.820.827
+1.338.380
+1.675.644
+229.334
+
+Total
+
+348.054
+
+5.064.186
+
+1,6
+
+23,6
+
+Porcentaje del gasto total
+Fuente:
+
+Total
+
+Porcentaje
+
+225.436
+
+5.521A-Z1
+13826.983
+1.675.644
+248.440
+225.436
+
+25,7
+64,3
+7,8
+1,2
+14)
+
+16.091.689
+
+21.503.929
+
+100,0
+
+74,8
+
+100,0
+
+FundaciónBBV
+. Elaboraciónpropia.
+
+295
+
+
+
+C uadro
+
+5
+
+Gastos en prestaciones de protección social según grupos de edad
+(Millones de pesetas de 1997)
+d)
+
+Alio 1997
+
+Progm mas
+
+0-14 años
+
+15-64 años
+
+65 a ñ o sy m ás
+
+Tota!
+
+Porcentaje
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+387.899
+
+1.947.818
+7.201.908
+
+22.529
+
+2.497.512
+1.835.770
+2.298.374
+314.563
+
+130.004
+
+4.833.230
+9.037.678
+2.298.374
+337.092
+130.004
+
+29,1
+54,3
+13,8
+2,0
+0,8
+
+Total
+
+410.429
+
+6.946.219
+
+9.279.730
+
+16.636.378
+
+100,0
+
+2,5
+
+41,8
+
+55,8
+
+100,0
+
+Porcentaje del gasto total
+
+Fuenter M
+inisteriodeTrabajoySeguridadSocial(1996). A
+nuariodeEstadísticasLaboralesydeServiciosSodales1997. FernándezC
+ordón
+
+(1998). Proyeccionesdelapobladónespañola. InstitutodeEconom
+ía. ConsejoSuperiordeInvestigadonesC
+ientíficas. Elaboradónpropia.
+
+e)
+
+Año 2021
+
+Programas
+
+0-14 años
+
+15-64 años
+
+65 a ñ o sy m ás
+
+Total
+
+Porcentaje
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+336.829
+
+2.479.154
+9.166.482
+
+19.563
+
+2.330.214
+1.712.799
+2.144.415
+293.492
+
+165,467
+
+5.146.197
+10.879.282
+2.144.415
+313.055
+165.467
+
+27,6
+58,3
+11,5
+1,7
+0,9
+
+Total
+
+356.392
+
+6.480.920
+
+11.811.104
+
+18.648.415
+
+100,0
+
+1,9
+
+34,8
+
+63,3
+
+100,0
+
+Porcentaje del gasto total
+Fuente:
+
+FernándezC
+ordón(1998). Elaboradónpropia.
+
+O
+
+Año 2050
+
+Programas
+
+0-14 años
+
+15-64 años
+
+65 a ñ o sy m ás
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+257.882
+
+3.577,752
+12.488.979
+
+14.978
+
+1.604.943
+1.179.696
+1.476.973
+202.143
+
+Total
+
+272.860
+
+4.463.755
+
+1,3
+
+21,4
+
+Porcentaje del gasto total
+Fuente:
+
+296
+
+FernándezC
+ordón(1998). Elaboradónpropia.
+
+Total
+
+Porcentaje
+
+225.443
+
+5.240.577
+13.668.675
+1.476.973
+217.121
+225.443
+
+25,2
+65,6
+7,1
+1,0
+1,1
+
+16.092.173
+
+20.828.788
+
+100,0
+
+77,3
+
+100,0
+
+
+
+C uadro 6
+
+Incidencia delfactor demográfico sobre el gasto en protección social
+(Año Base >-100)
+a)
+Programas
+
+1997
+
+2006
+
+2021
+
+2031
+
+2041
+
+2050
+
+Enfermedad-atención sanitaria
+Pensiones
+Desem pleo
+Familia, hijos
+Exclusión social
+
+100
+100
+100
+100
+100
+
+104,5
+109,3
+99,4
+99,5
+111,8
+
+106,0 ‘
+112,5
+98,0
+98,6
+116,2
+
+108,5
+120,8
+95,4
+95,6
+127,3
+
+113,6
+137,5
+89,2
+89,2
+149,8
+
+U7,7
+153,9
+78,8
+79,6
+173,1
+
+114,4
+153,0
+72,9
+73,7
+173,4
+
+Total
+
+100
+
+106,4
+
+108,3
+
+113,3
+
+123,0
+
+131,7
+
+129,3
+
+2011
+
+Puente: Fundación BBV. Elaboración propia.
+
+b)
+Programas
+
+1997
+
+2006
+
+2011
+
+2021
+
+2031
+
+2041
+
+2050
+
+Enfermedad-atención sanitaria
+Pensiones
+Desempleo
+Familia, hijos
+Exclusión social
+
+100
+100
+100
+100
+100
+
+103,8
+109,3
+99,4
+98,9
+1118
+
+104,9
+112,5
+98,0
+97,7
+116,2
+
+106,5
+120,4
+93,3
+92,9
+127,3
+
+110,3
+136,7
+85,2
+84,4
+149,8
+
+113,2
+152,8
+73,0
+72,9
+173,1
+
+108,4
+151,2
+64,3
+64,4
+173,4
+
+Total
+
+100
+
+106,1
+
+108,0
+
+112,1
+
+121,0
+
+128,8
+
+125,2
+
+Fuente: Fernández Cordón (1998). Elaboración propia.
+
+C uadro 7
+
+Incidencia de la evolución demográfica prevista en la distribución de los gastos
+de protección social, según programas y grupos de edad (En porcentajes)
+a)
+Programas
+
+1997
+2006
+2011
+2021
+2031
+2041
+2050
+2050-1997
+
+Enfermedad aten, sanitaria
+
+Pensiones
+
+29,1
+28,5
+28,4
+27,8
+26,8
+26,0
+25,7
+
+54,3
+55,8
+56,4
+57,9
+60,7
+63,5
+643
+
+13,8
+12,9
+12,5
+11,6
+10,0
+8,3
+7,8
+
+33
+
+10,0
+
+6,0
+
+Grupos de edad
+
+Desempleo Familia, bffos
+
+Exclusión social
+
+0-14 años
+
+15-64 años
+
+65 y más años
+
+2,0
+1,9
+1,8
+1,7
+1,5
+1,2
+1,2
+
+0,8
+0,8
+0,8
+0,9
+1,0
+1,0
+1,0
+
+2,5
+2,3
+2,4
+2,2
+1,8
+1,7
+1,6
+
+41,8
+39,0
+37,8
+35,2
+30,3
+25,0
+23,6
+
+55,8
+58,6
+59,8
+62,7
+67,9
+73,3
+74,8
+
+0,9
+
+0,3
+
+0,8
+
+18,2
+
+19,1
+
+Exclusión social
+
+0-14 años
+
+Fuente: Fundación 66V . Elaboración propia.
+
+b)
+Programas
+
+1997
+2006
+2011
+2021
+2031
+2041
+2050
+2050-1997
+
+Grupos de edad
+
+Desempleo Familia, bifes
+
+Enfermedad aten, sanitaria
+
+Pensiones
+
+15-64 años
+
+65ym dsaños
+
+29,1
+28,4
+28,2
+27,6
+26,5
+25,5
+25,2
+
+54,3
+55,9
+56,6
+58,3
+61,4
+64,4
+65,6
+
+13,8
+12,9
+12,5
+11,5
+9,7
+7,8
+7,1
+
+2,0
+1,9
+1,8
+1,7
+1,4
+1,1
+1,0
+
+0,8
+0,8
+0,8
+0,9
+1,0
+1,1
+1,1
+
+2,5
+2,1
+2,1
+1,9
+1,5
+1,4
+1,3
+
+41,8
+39,1
+37,9
+34,8
+29,4
+23,7
+21,4
+
+55,8
+58,8
+60,0
+63,3
+69,1
+75,0
+77,5
+
+3,9
+
+11,3
+
+6,7
+
+1,0
+
+0,3
+
+1,2
+
+20,3
+
+21,5
+
+Fuente: Fernández Cordón 0 9 9 8 ). Elaboración propia.
+
+297
+
+
+
+C uadro 8
+
+Incidencia delfactor demográfico sobre el gasto en protección social
+de las personas de 65 y más años
+(En millones de pesetas de 1997)
+Programa
+
+2006
+
+2011
+
+2021
+
+2031
+
+2041
+
+2050
+
+2.177.866
+8.052.492
+145.358
+
+2.262.821
+8.366.605
+151.028
+
+2.479.470
+9.167.650
+165.488
+
+2.918.454
+10.790.760
+194.788
+
+3.371.650
+12.466.416
+225.035
+
+3.377.650
+12.488.603
+225.436
+
+9.279.730
+
+10.375.716
+
+10.780.454
+
+11.812.608
+
+13.904.002
+
+16.063.101
+
+16.091.689
+
+100,00
+
+111,81
+
+116,17
+
+127,29
+
+149,83
+
+173,09
+
+173,40
+
+1997
+
+Asistencia sanitaria
+Pensiones
+Asistencia social
+
+1.947.818
+7.201.908
+130.004
+
+Total
+Año Base - 100
+
+C uadro
+
+9
+
+Incidencia del gasto de protección social de las personas
+de 65 años y más sobre la carga a financiar
+(En millones de pesetas de 1997)
+Gastos en protección social de personas de 65 años y más
+índice de evolución
+
+1997
+
+2006
+
+9.279.730
+100,00
+
+10.375.716
+111,81
+
+26,70
+100,00
+
+2011
+
+2021
+
+2031
+
+2041
+
+10.780.454
+116,17
+
+11.812.609
+127,29
+
+13.904.002
+149,83
+
+16.063.102
+173,09
+
+16.091.689
+173,40
+
+26,55
+99,43
+
+26,17
+98,01
+
+25,47
+95,39
+
+23,82
+89,21
+
+21,04
+78,80
+
+19,47
+72,92
+
+347.555
+100,00
+
+390.799
+112,44
+
+411.939
+118,52
+
+463.785
+133,44
+
+583.711
+167,94
+
+763.455
+219,66
+
+826.486
+237,80
+
+26,70
+100,00
+
+26,55
+99,43
+
+26,17
+98,01
+
+24,91
+93,29
+
+22,76
+85,24
+
+19,49
+73,40
+
+17,16
+64,26
+
+347.555
+100,00
+
+390.799
+112,44
+
+411.939
+118,52
+
+474.211
+136,44
+
+610.896
+175,76
+
+824.171
+237,13
+
+937.744
+269,81
+
+2050
+
+A) Escenario de ¡a Fundación BBV
+Población de 15 a 64 años (millones)
+índice de evolución
+Carga a financiar por persona de 15
+a 64 años (en ptas. de 1997)
+índice de evolución
+B) Escenario de Fernández Cordón
+Población de 15 a 64 años (millones)
+índice de evolución
+Carga a financiar por persona de 15
+a 64 años (en pías, de 1997)
+índice de evolución
+
+298
+
+

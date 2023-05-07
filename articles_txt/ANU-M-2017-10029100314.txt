@@ -1,0 +1,836 @@
+RETIRADA DE UN ESTADO DE UNA ORGANIZACION
+INTERNACIONAL: LOS PROCESOS DEL BREXIT
+Por la Académica de Número
+Excma. Sra. Dª. Araceli Mangas Martín*
+
+1. CONTEXTO DEL DERECHO DE RETIRADA
+DE UNA ORGANIZACIÓN INTERNACIONAL
+Los resultados del referéndum celebrado el 23 de junio de 2016 en el
+Reino Unido no fue sólo un hecho en sí mismo sino el inicio de procesos político-jurídicos múltiples en aquel Estado y en la misma Unión Europea (en adelante, UE).
+En efecto, la desvinculación de un Estado miembro de los tratados de
+la UE y de su ingente derecho derivado es una decisión compleja que exige
+para su articulación negociar y adoptar varios tratados internacionales; por
+tanto, tiempo y procedimientos diversos, regidos por el derecho de la organización con la que se rompe la vinculación jurídica, además de procedimientos
+en el ámbito del derecho interno del Estado que pretende la retirada.
+Conviene recordar que la desvinculación por la sola voluntad de una
+parte en un tratado internacional no es posible con carácter general. Es imprescindible que se haya previsto expresamente la posibilidad de la denuncia en
+el texto del tratado, a menos que se den unas circunstancias excepcionales
+reguladas por el derecho internacional.
+
+* Sesión del día 28 de febrero de 2017.
+Académica de Número de la Real Academia de Ciencias Morales y Políticas, Catedrática de Derecho Internacional Público y Relaciones Internacionales de la Facultad de Derecho de la Universidad Complutense de Madrid.
+La versión publicada incluye algunas adaptaciones a la luz de algunos hechos posteriores (la notificación oficial o las Orientaciones aprobadas por el Consejo Europeo o las elecciones anticipadas del 8 de junio). Todas las citas de
+Internet están comprobadas a 27 de junio de 2017.
+
+291
+
+
+
+En efecto, el art. 54 del Convenio de Viena sobre el Derecho de los Tratados de 19691 establece que “la terminación de un tratado o el retiro de una
+parte podrán tener lugar…a) Conforme a las disposiciones del tratado”. Luego,
+si se ha previsto, se regula por el precepto que la prevé. Cuando no se ha previsto la denuncia o retirada, no se puede invocar esa opción sino como una
+excepción cuando concurran las situaciones previstas en su art. 562.
+Cuando la denuncia se prevé en un tratado es, pues, una forma legal,
+consentida por las partes, de poner fin a las obligaciones derivadas de un tratado y se rige por las condiciones previstas en el mismo para dar fin a las obligaciones del Estado denunciante de ese tratado. Si es bilateral, será la terminación del tratado bilateral conforme a sus propias previsiones. Si es multilateral,
+lo ordinario es que el tratado continúe en vigor entre el resto de los Estados y
+solo termina para el denunciante.
+En el Derecho internacional clásico (anterior a la “era de las Naciones
+Unidas”) la norma tradicional era no admitir la denuncia si no se había previsto
+en el tratado; algún sector doctrinal, muy limitado ya entonces, apuntaba que
+los tratados multilaterales podían ser denunciados. Y al codificarse y desarrollarse el Derecho de los tratados en el Convenio de Viena de 1969 se inclinó
+por prever, de forma controlada, para los acuerdos que no la incluyen un derecho excepcional de denuncia o retirada condicionado a un criterio subjetivo
+(intención probada de las Partes) o a un criterio objetivo (la naturaleza del tratado).
+También se debe recordar que “retirada” es un término que se reserva
+para el acto en el que un Estado miembro manifiesta su intención de poner
+fin a su membresía en una organización internacional y desvincularse de los
+derechos y obligaciones del tratado constitutivo de la organización internacional. Por el contrario, cuando un Estado parte tiene intención de desvincularse de cualquier otro tratado internacional —que no sea creador de una organización internacional— se debe utilizar el término “denuncia” y ésta solo es
+posible si se prevé expresamente en el tratado en cuestión o se infiere de la
+naturaleza de ese tratado o consta de algún modo que era intención de las partes permitirla.
+La retirada de un Estado de un tratado constitutivo de una organización
+internacional (al igual que la denuncia de un tratado) es una situación excepBOE de 13 de junio de 1980.
+Art. 56. Denuncia o retiro en el caso de que el tratado no contenga disposiciones sobre la terminación, la denuncia o el retiro. 1. Un tratado que no contenga disposiciones sobre su terminación ni prevea la denuncia o el retiro del mismo,
+no podrá ser objeto de denuncia o de retiro a menos: a) que conste que fue intención de las partes admitir la posibilidad de
+denuncia o de retiro: o b) que el derecho de denuncia o de retiro pueda inferirse de la naturaleza del tratado. 2. Una parte
+deberá notificar con doce meses, por lo menos, de antelación su intención de denunciar un tratado o de retirarse de él conforme al párrafo 1.
+1
+2
+
+292
+
+
+
+cional pero no infrecuente en las relaciones internacionales. Por ejemplo, más
+de una denuncia se tramita cada año por España y lo atestigua su necesaria
+publicación en el Boletín Oficial del Estado.
+Ahora bien, dado que el Tratado de la UE, desde su reforma por el Tratado de Lisboa, ha incluido expresamente una cláusula de retirada, la norma aplicable es el art. 50 del Tratado de la UE (en adelante, TUE) pues la retirada se rige
+por el precepto que contempla tal derecho (art. 54 del Convenio de Viena).
+1.1. La retirada como acto unilateral y derecho inherente
+al estatuto de miembro de cualquier organización
+internacional
+Si bien el art. 50 TUE rige la retirada del Reino Unido de la UE, el derecho a desvincularse de una organización internacional es independiente de su
+regulación expresa en el tratado creador de tal organización3. Cuando no se
+regula el derecho de retirada en el tratado constitutivo de la organización ese
+silencio es irrelevante, pues se estima que por la naturaleza de estos tratados
+—ilimitados en el tiempo— los Estados miembros pueden poner límite a su vinculación (art. 56.1.b del citado Convenio de Viena).
+La retirada es un acto jurídico unilateral por el que un Estado miembro de una organización internacional manifiesta su voluntad de poner fin al
+tratado de adhesión y, por ello, de desvincularse de todos los derechos y obligaciones del estatuto de miembro de esa organización internacional.
+En cuanto tal derecho sólo depende de la voluntad soberana del
+Estado que la invoca de conformidad con el derecho de ese Estado, si bien la
+formación de la voluntad del Estado y la forma de la invocación y efectos pueden verse condicionados por el tratado que la prevé, o en su defecto, por el
+derecho internacional (art. 56.1 citado).
+Las organizaciones internacionales tienen vocación de permanencia
+en sus tratados constitutivos, pero no son ni pueden ser pactos a perpetuidad.
+Al fin y al cabo, una organización intergubernamental es una asociación voluntaria de Estados soberanos e independientes con un ideal de estabilidad, pero
+no hay el pacto a perpetuidad propio de la naturaleza de las entidades estatales. La retirada no es un concepto comparable ni comparte condiciones o
+caracteres con la secesión unilateral que fractura la unidad nacional e integridad territorial de un Estado y es un ilícito interno en todo caso.
+
+3
+DOCUMENTO A/CN.4/156 y Add.l a 3 Segundo informe de Sir Humphrey Waldock, Relator Especial, Anuario
+de la Comisión de Derecho Internacional, 1963, II:74 y ss, en especial p. 80.
+
+293
+
+
+
+No se discute en el marco del Derecho Internacional el derecho inherente a la retirada del Estado miembro; por tanto, eliminar esa cláusula no elimina el derecho soberano de todo Estado miembro de una Organización internacional.
+La Carta de las Naciones Unidas no regula la posibilidad de retirada4,
+si bien en la Conferencia de San Francisco se incluyó una declaración en la que
+se admite que si un Estado desea abandonar la ONU por circunstancias excepcionales la Organización no lo impediría5. Cuando se produjo un primer precedente (Indonesia) ningún Estado impugnó su acción. Quedó asentado que
+no se puede obligar a un Estado a ser miembro a perpetuidad. No hay precedentes de que se haya impedido a un Estado abandonar una organización internacional. Difícilmente los puede haber en el futuro.
+La organización internacional está legitimada para hacer todo lo posible para conservar a sus miembros y la UE lo ha hecho desde que ingresó el
+Reino Unido (renegoció dos veces su tratado de adhesión, le reconoció en cada
+reforma estatutos especiales…) y de nuevo en 2015 ante la amenaza reiterada
+del Gobierno británico presidido por David Cameron6.
+El art. 50 TUE traduce de forma explícita en el ámbito del derecho de
+una organización internacional como es la UE el derecho inherente a la condición de Estado miembro de la organización internacional. Nada puede obligar
+a un Estado a permanecer eternamente como miembro de una organización
+internacional.
+Así, en 1975, cuando el Reino Unido pretendió la retirada a los dos
+años desde su ingreso, no se regulaba el derecho de retirada; por tanto, no se
+preveía en los antiguos tratados de las Comunidades Europeas. Sin embargo,
+ningún Estado miembro se opuso a ello ni tampoco lo hizo la Comisión Europea;
+no hubo ni tan siquiera objeciones. Desde luego, nada hubiera podido impe4
+A diferencia del art. 1.3 del Pacto de la Sociedad de Naciones: “Todo miembro de la Sociedad puede retirarse
+previo aviso de dos años, a condición de que hasta ese momento haya cumplido todas sus obligaciones internacionales,
+inclusive las del presente pacto”.
+5
+«El Comité opina que la Carta no debe contener ninguna disposición expresa que permita o prohíba retirarse
+de la Organización. El Comité juzga que es deber supremo de las naciones que lleguen a ser Miembros seguir cooperando,
+en el seno de la Organización, para el mantenimiento de la paz y la seguridad internacionales. No obstante, si un Miembro, por circunstancias excepcionales, se siente obligado a retirarse y a dejar que los demás Miembros soporten la carga del
+mantenimiento de la paz y la seguridad internacionales, la Organización no ha de intentar obligar a ese Miembro a que continúe cooperando en su seno» (Anuario de la Comisión de Derecho Internacional, cit.:80, pár. 20).
+La Comisión de Derecho Internacional reconocía que son escasos las organizaciones que no reconocen el
+derecho de retirada: “Entre las excepciones figuran los casos bien conocidos de las Naciones Unidas y de la Organización
+Mundial de la Salud; pero estos casos más bien confirman que contradicen la existencia de una presunción general favorable al derecho de retirar la participación en este tipo de tratados” (ibídem).
+6
+Las concesiones hechas fueron objeto de análisis en mi trabajo: MANGAS MARTÍN, A.: “Los dilemas del Reino
+Unido y de la UE: ¿salir o cambiar la Unión?”, Real Instituto Elcano de Estudios Internacionales y Estratégicos, Madrid, 2016,
+WP 2016/2:1-20. También con posterioridad, en versión revisada, con el mismo título, en España en la Unión Europea. Balance
+y perspectivas, Real Academia de Ciencias Morales y Políticas, Madrid, 2016:203-236
+
+294
+
+
+
+dir entonces la retirada del Reino Unido ni el resto de Estados discutió tal derecho aún en el caso de que el resultado de referéndum de 1975 hubiera sido
+favorable a la retirada7.
+En aquella etapa, a pesar de no haber un precepto similar al actual art.
+50 del TUE, los Estados gozaban de un derecho inherente a la condición de
+miembro de una organización internacional: el derecho a retirarse. En el hipotético caso de que el referéndum hubiera triunfado en 1975, el Reino Unido
+hubiera podido desligarse de su membresía y se hubiera aplicado el citado art.
+56 del Convenio de Viena, cuya función es la de servir de regulador para todas
+aquellas ocasiones en las que un tratado constitutivo de la organización internacional no regule las condiciones y procedimientos de retirada de un tratado
+internacional8. Pero en 2016, la intención de retirada se rige por el precepto
+específico previsto en el Tratado de la UE.
+El razonamiento del apartado anterior, la retirada como derecho inherente al estatuto del Estado miembro de una organización internacional, podría
+hacer innecesarios estos renglones. No obstante, conviene recordar —en coherencia con la retirada como una forma (excepcional) de terminación de un tratado conforme a sus propias cláusulas o naturaleza— que la decisión de un
+Estado de retirarse de una organización internacional, aun siendo una decisión
+radical o extrema, no es un acto ilegal. Al contrario, es un derecho del Estado
+miembro de la organización internacional, por lo que no cabe deducir responsabilidad internacional. La responsabilidad internacional solo tiene su fundamento en un hecho internacionalmente ilícito.
+La retirada y la denuncia, cuando se regula en un tratado, es un derecho del Estado Parte; por tanto, cuando un Estado se acoge a un precepto de
+un tratado que prevé y regula la desvinculación ordenada del mismo, no
+comete ningún ilícito internacional.
+No puedo compartir la opinión de un respetado colega, Santiago Muñoz
+Machado, cuando afirma lo siguiente: “Como es común en el derecho de los
+tratados, cualquiera de las partes contratantes puede desistir del pacto, sin perjuicio de las responsabilidades en que pueda incurrir. El principio general tiene
+
+7
+En el referéndum de 1975 el resultado fue claramente a favor de la permanencia (67%). Son bien elocuentes
+fotografías de Margaret Thatcher —posteriormente primera ministra conservadora de 1979 a 1990— haciendo campaña a
+favor de la permanencia. Entonces el partido conservador no era populista.
+8
+Bajo esa hipótesis, el Reino Unido y las entonces Comunidades Europeas hubieran dispuesto de doce meses
+para acordar las condiciones de la desvinculación. Dicho precepto no prevé prórrogas, pero la amplia autonomía de la
+voluntad de las Partes en el Derecho Internacional no habría impedido prórrogas acordadas por unanimidad. Igualmente,
+dicho precepto hubiera permitido la desvinculación automática del Estado que deseara retirarse si fracasaran las negociaciones y hubiera o no acuerdo para regular los efectos de la retirada. También cualquier acuerdo de regulación de relaciones post-retirada habría sido separado del de desvinculación. Hay que diferenciar entre el acuerdo de retirada para una desvinculación controlada y el posterior acuerdo para las relaciones futuras como terceros Estados.
+
+295
+
+
+
+un explícito reconocimiento en el artículo 50 del Tratado de la Unión”9. La opinión del ilustre colega no se puede sostener en normas en vigor ni en la práctica internacional.
+Primero, no se ha reconocido ni se reconoce a los Estados el derecho
+a desistir, es decir, a no cumplir un tratado. El derecho de los tratados —que
+se regula en el art. 26 del Convenio de Viena de 1969— establece la obligación
+de cumplir los tratados y lo formula en su título en latín (pacta sunt servanda)
+expresando el secular derecho internacional consuetudinario sin que pueda un
+Estado invocar su derecho interno como justificación del incumplimiento de un
+tratado (art. 27). Segundo, en consecuencia, no permite a las partes “desistir del
+pacto” impidiéndoles en su art. 56.1, como “principio general”, que la denuncia sea invocable o aplicable a los pactos concluidos por los Estados salvo que
+se reconozca expresamente la posibilidad de la denuncia o, excepcionalmente,
+en los dos supuestos ya señalados.
+Si en cualquier momento y sin condición alguna un Estado tuviera
+derecho como “principio general” a desistir de lo pactado, ¿por qué negociar
+y concluir tratados entre Estados?
+La posibilidad de “desistir”, de forma más técnica, de manifestar la intención de poner fin a una relación convencional —que también tiene lugar en el
+derecho interno de los contratos desde el siempre actual derecho romano—
+solo es posible si las partes se otorgan expresamente tal derecho recíproco con
+unas condiciones y procedimientos que regulan entre ellas.
+Cuando el tratado (o el contrato privado) contiene el derecho de
+denuncia y se invoca en las condiciones previstas en el tratado (o en el contrato privado) se está ejerciendo un derecho mutuamente reconocido y, por
+tanto, ejercer un derecho no genera un hecho ilícito internacional (o interno)
+ni puede dar lugar a responsabilidad internacional (o interna) ni a la consiguiente reparación.
+Luego, la denuncia de un contrato o de un tratado no es un principio
+general ni es lo ordinario o común sino un derecho condicionado a su reconocimiento expreso caso por caso. En el derecho internacional, solo cuando no
+está expreso el derecho y alguna parte desea desvincularse del tratado, únicamente podría hacerlo legalmente cuando concurren las dos excepciones previstas en el citado art. 56.1 del Convenio de Viena (naturaleza del tratado o
+intención probada de las partes).
+
+9
+Cfr. MUÑOZ MACHADO, S.: “Perpetuidad: el principio ausente del programa de unificación europea”, El Cronista
+del Estado Social y Democrático, núm. 64, 2016:62.
+
+296
+
+
+
+Es una aplicación racional y prevista en el mismo. Hacer uso de un
+derecho no es ilegal. Situaciones bien distintas suceden cuando un Estado viola
+disposiciones de un tratado o cuando manifiesta su voluntad de infringir sistemáticamente un tratado o manifiesta su voluntad de no sentirse parte de un tratado; entonces, hay ilícito internacional, responsabilidad internacional y obligación de reparar.
+1.2. ¿El derecho de retirada es una rémora
+para la integración?
+Tras el brexit, se han expresado algunas dudas y críticas sobre la existencia misma de una cláusula que puede poner en peligro la propia existencia
+de la UE10.
+¿Los Estados podrían en una reforma del Tratado eliminar este derecho? Parece muy improbable pensar que los Estados vayan a renunciar por unanimidad (art. 48 TUE) a ese derecho constante al estatuto de miembros y renunciar eternamente. Aunque se utilizan como antecedente, la transformación en
+pacto a perpetuidad de la Unión americana, dicho antecedente no sirve para la
+naturaleza de los tratados de la Unión, propios de una organización internacional. Si los Estados miembros de la UE adoptaran un tratado de fusión de Estados soberanos, para crear un nuevo Estado (federal) con extinción de los preexistentes estaríamos en otro estadio y contexto. En ese caso, claro que se podría
+hablar de pacto a perpetuidad en el que no cabría la retirada —solo posible en
+las OOII— ni la secesión —inaceptable en el seno de un Estado—.
+Cabe plantear si los Estados podrían renunciar a su derecho inmanente
+manteniendo la naturaleza de organización internacional. Es decir, ¿se podría
+expresamente renunciar o impedir el ejercicio de ese derecho en una reforma
+futura del Tratado de la UE? No hay espacio real en la práctica internacional
+para una cláusula prohibitiva de un derecho irrenunciable11. Una prohibición
+expresa conduciría a una utilización descontrolada de causas de terminación de
+los tratados previstas en el Convenio de Viena y generadora de mayor incertidumbre, conflictividad e inestabilidad, como es la violación masiva de las obligaciones del miembro o la invocación de la más perturbadora del cambio de
+circunstancias (cláusula rebus sic stantibus).
+
+10
+Así, Santiago Muñoz Machado lamenta que no haya fórmulas en la UE semejantes a las garantías de perpetuidad de algunas constituciones federales como la alemana (loc. cit., pp. 58-61), si bien reconoce que la UE no es un Federación estatal sino algo bien asentado como es una asociación de Estados.
+11
+La Comisión Europea declaró inadmisible una iniciativa ciudadana que le pedía que impidiera la retirada del
+Reino Unido de la UE debido a que el art. 50, apartado 1, del (TUE) permite expresamente a cualquier Estado miembros
+retirarse de la Unión y no hay fundamento jurídico en los Tratados para adoptar un acto de la Unión a fin de evitar la retirada de un Estado miembro (http://ec.europa.eu/citizens-initiative/public/initiatives/non-registered/details/3511).
+
+297
+
+
+
+Sería especulativo, y parece poco razonable para un Estado, renunciar
+al derecho a cambio de quedar eternamente vinculado a la UE; hay una diferencia abismal entre la naturaleza convencional internacional y el pacto constitucional en el seno de un estado, pacto que en principio es a perpetuidad.
+Además, no hay que temer a esta cláusula y, por el contrario, hay que
+fijarse en el lado positivo del art. 50 TUE. En primer lugar, eliminar esa opción
+sería contraproducente políticamente dando más carnaza a los populismos
+antieuropeístas. Precisamente, la existencia del art. 50, al prever el derecho de
+retirada, invalida las tesis euro-escépticas de una Europa “prisión de sus pueblos y Estados”.
+En segundo lugar, el derecho de retirada demuestra que la UE no es
+un ente estatal, no es un Estado Federal ni está en ese camino. Si se elimina el
+derecho de retirada, estaríamos hablando de una evolución de la UE hacia formas estatalizantes y no creo que haya el consenso necesario en la ciudadanía
+ni en sus Estado miembros para dar ese paso transformador de una organización internacional —una asociación de Estados— hacia un Estado federal.
+Por otra parte, el derecho de retirada es un derecho del Estado y ese
+derecho del Estado prima sobre los derechos de los ciudadanos y empresas a
+los que va a afectar; dicho de otro modo, no está vinculado o condicionado por
+la ciudadanía sino al Derecho internacional. Esto no significa que no deba
+haber controles y procedimientos, internos y europeos, para la culminación de
+una decisión de ruptura de la estabilidad de las relaciones internacionales.
+Precisamente, el art. 50 regula las condiciones formales, temporales y
+materiales del ejercicio del derecho por parte del Estado que la invoca.
+
+2. ¿ANTECEDENTES DE RETIRADA EN LA UE?
+Ni técnica ni políticamente ha habido precedentes de retirada en el
+proceso histórico de la integración europea. Ni tan siquiera se pueden considerar antecedentes la silla vacía de Francia en el Consejo (1965) ni la erróneamente denominada retirada de Groenlandia12.
+En 1965 Francia anunció que dejaba de asistir a las sesiones del Consejo
+de la Comunidad Económica Europea. Fue la primera gran crisis interna de las
+Comunidades Europeas denominada crisis de la «silla vacía»13. La solución a esa
+12
+WEERTS, J., “L'évolution du droit de retrait de l'Union européenne et sa résonance sur l'intégration européenne”, Cahiers de Droit européen, n°02/2012:373 ss.
+13
+Francia dejó de asistir a las sesiones del Consejo porque exigía que las decisiones adoptadas en el período
+transitorio (por unanimidad) no pudieran ser modificadas posteriormente por mayoría cualificada y, en general, que en las
+
+298
+
+
+
+crisis fue el "compromiso" de Luxemburgo (enero de 1966) en el que se constataba por los seis Estados que existía una divergencia evidente por lo que ese
+"compromiso" fue un acuerdo para constatar un desacuerdo (agreement to
+desagree). Pero la divergencia no era un obstáculo para proseguir los trabajos del
+Consejo y se cerraba expresando la vuelta de Francia al Consejo.
+No hubo retirada de las Comunidades Europeas; solo la deliberada
+inactividad de un Estado miembro en algunas de sus instituciones. La crisis se
+cerró al volver Francia a asistir a las sesiones del Consejo desde enero de 1966.
+Tampoco se puede aceptar como precedente la desvinculación de los
+“departamentos” franceses en Argelia. La independencia de las colonias francesas como Argelia fue al amparo del derecho de libre determinación de los
+pueblos coloniales en el marco de la Res. AGNU 1514 (XV) que le supuso a
+Francia una pérdida de territorio y de población a los que se dejó de aplicar
+los tratados comunitarios de la época. Argelia no se retiraba pues nunca fue
+Estado miembro, si bien al dejar de ser un territorio dependiente de Francia, al
+independizarse de manera conforme al Derecho Internacional, pasó automáticamente a ser un Estado nuevo, ajeno a la UE, ajeno a los derechos preexistentes para las personas y el territorio.
+La mal llamada retirada14 de Groenlandia de la UE en 1984, territorio
+bajo soberanía de Dinamarca, nada tiene que ver con la desvinculación de un
+Estado miembro. Dinamarca no se retiró. Lo que hicieron, mediante ese tratado,
+fue variar el ámbito de aplicación del tratado en relación con una región de un
+Estado miembro —Dinamarca—, de modo que se restringía el ámbito territorial en el que se aplicaría el tratado a dicho Estado, desde entonces excluyendo
+la región ártica de Groenlandia (“el presente tratado no se aplica a Groenlandia”). Groenlandia sigue formando parte del territorio de Dinamarca, y sus ciudadanos siguen siendo daneses y ciudadanos de la UE; lo que se hizo fue
+excluir esa región danesa del ámbito de aplicación de los Tratados comunitarios alterando el Tratado de adhesión de Dinamarca; no podía hacerse unilateralmente por Dinamarca y por ello, al cambiar su estatuto interno, la Comisión
+y el Consejo entendieron que había que modificar los Tratados —mediante el
+Tratado de 1984— modificando y restringiendo ese ámbito espacial sin modificar el territorio de Dinamarca, que es una cuestión interna.
+No ha habido antecedentes de retirada en la Unión.
+
+decisiones que revistiesen un interés muy importante para uno o varios Estados debería proseguirse la negociación hasta
+llegar a un acuerdo unánime. Francia consideraba —en una interpretación contra legem— que aunque el sistema de adopción de decisiones, previsto en los Tratados por mayoría cualificada, debería fundarse en la unanimidad para aquellas decisiones que supusieran un interés muy importante para un Estado miembro.
+14
+Tratado de 13 de marzo de 1984 por el que se modifican los tratados constitutivos de las Comunidades Europeas en lo que respecta Groenlandia (DO L 29 de 1.2.1985), en vigor desde 1 de enero de 1985.
+
+299
+
+
+
+3. ETAPAS DE LA RETIRADA.
+PLENITUD DE LA APLICACIÓN DEL DERECHO DE LA UE
+El art. 50 TUE es bastante preciso y completo frente a la lectura simple hecha por los medios de comunicación. Jurídicamente, se sabe lo que hay
+que hacer a partir de la notificación oficial de la intención de retirada —el
+preaviso— y lo que se puede hacer hasta que llegue esa notificación por conducto diplomático de la decisión británica, tomada según sus normas constitucionales, al Consejo de la UE.
+Debo señalar que un referéndum no es, nunca lo ha sido, un procedimiento válido en el orden internacional para desvincularse de un tratado en
+vigor, pero si un hecho público relevante. Las consultas internas —a la población o a altas instituciones de un Estado— pueden formar parte del procedimiento interno para la formación de la voluntad internacional del Estado. El
+referéndum sobre un tratado es un hecho de notoriedad pública, sin eficacia
+jurídica general en el Derecho internacional, aunque no exento de algunas consecuencias. No basta el hecho público notorio del referéndum para negociar la
+retirada como se clamaba desde sectores del derecho interno15.
+Una primera consecuencia se produjo desde el 24 de junio de 2016, al
+abrirse una etapa de transición contenida que se cerrara cuando se llegue, en
+un plazo no superior a dos años a contar desde la notificación oficial del preaviso (29 de marzo de 2017), al Acuerdo de Retirada o consumarse la retirada
+por falta de acuerdo.
+Esta situación de transición tiene dos fases.
+— fase I: desde el “anuncio público” de retirada (como hecho público
+notorio) al conocerse los resultados del referéndum en la madrugada del 24 de junio de 2016 hasta la notificación oficial de la intención de retirarse;
+— fase II: A partir de la notificación oficial (29 de marzo de 2017),
+comienza la cuenta atrás hasta la entrada en vigor del acuerdo de
+retirada que contendría los procedimientos y calendario de la desvinculación de las obligaciones y derechos de la membresía. En el
+supuesto, no improbable, de no llegar a un acuerdo, la retirada se
+produciría en todo caso a los dos años de la notificación (29 de
+marzo de 2019).
+
+15
+En esta declaración se reafirmaba en que no habría negociación alguna sin previa notificación de retirada:
+Declaración tras la reunión informal de los 27 jefes de Estado o de Gobierno, 15 de diciembre de 2016, http://www.consilium.europa.eu/es/press/press-releases/2016/12/15-statement-informal-meeting-27/en.
+
+300
+
+
+
+El Estado que activa el preaviso de la retirada sigue siendo Estado
+miembro hasta la expiración del Tratado. Los derechos y obligaciones del Reino
+Unido durante la etapa transitoria hasta la retirada efectiva se mantienen en su
+conjunto. Así es lo que se deduce del art. 50 TUE, y la práctica no lo desmiente:
+el Reino Unido mantiene sus obligaciones —cumplir la totalidad del derecho
+de la Unión que le afecte— incluida la obligación de cooperación leal y sus
+derechos (con matices, como no presidir el Consejo), entre otros su presencia
+en las instituciones16 y su derecho a contribuir al debate político y a la formación de las normas de la Unión.
+Reino Unido debe respetar las competencias atribuidas a la Unión y a
+sus instituciones, por lo que —a título de ejemplo— no puede entablar negociaciones comerciales y económicas, incluidas las relativas a inversiones dado
+que es competencia exclusiva de la UE. Ya ha habido varias advertencias en ese
+sentido17.
+Los diputados británicos, obviamente, tienen derecho a permanecer
+hasta la expiración del Tratado18. Para que no influyan en las normas que se
+puedan aprobar ahora y que sus ciudadanos no aplicarán, la vía es la informal
+o política (acuerdo entre caballeros) en el seno de cada grupo político invitando
+a los diputados británicos del Parlamento Europeo a que se abstengan, cuando
+proceda, de participar e influir en el proceso legislativo19. Pero nada les impide
+votar como crean oportuno.
+
+4. PRIMERA FASE:
+“ANUNCIO PÚBLICO” DE LA RETIRADA
+Esta fase discurre desde que fue notorio el resultado del referéndum
+hasta la invocación formal (29 de marzo de 2017).
+Al conocerse los resultados del referéndum el 24 de junio de 2016 y ser
+endosados por el Gobierno británico (del dimisionario David Cameron y confirmado a los pocos días por la nueva premier Theresa May) se produjo el
+
+16
+Por ello la dimisión del comisario británico el 24 de junio de 2016, obligó a tener que nombrar a un nuevo
+comisario nacional de dicho Estado.
+17
+El Parlamento Europeo lo recuerda en su Res. de 5 de abril de 2017 (cit. infra).
+18
+Antes de la fecha en que fue notificada la intención formal de retirarse, siempre estimé deseable que tal
+invocación pudiera hacerse de modo que las negociaciones de retirada pudieran terminar antes de junio de 2019 para evitar situaciones absurdas como la participación británica en las elecciones al Parlamento europeo en la primavera de 2019
+(“…se pondría en serios apuros ante el electorado británico y el conjunto europeo que celebrará elecciones al Parlamento
+europeo en junio de 2019. En la primavera de 2019, si es que se marchan, deberán dejar de ser un Estado miembro de la
+UE y no participar en las elecciones europeas” (“Un Brexit limpio y duro”, El Mundo, 19 de enero de 2017).
+19
+Cuando proceda, es decir, teniendo en cuenta si la norma pudiera ser aplicada antes de esos dos años, como
+los reglamentos.
+
+301
+
+
+
+anuncio público de la decisión política de retirada, pero ello no constituyó la
+notificación oficial de la retirada.
+Esa distinción se recoge en una Decisión del Consejo20. El anuncio público,
+tras conocerse los resultados del referéndun, tuvo algún efecto jurídico no despreciable y que era esperable sin demora. En su tercer considerando se dice:
+“Aunque todavía no se haya recibido una notificación por parte de su gobierno en virtud del artículo 50 del TUE, un Estado miembro ha anunciado públicamente que se
+retirará de la Unión. El orden de presidencias del Consejo debe ser modificado para
+tener en cuenta dicha circunstancia, sin perjuicio de los derechos y obligaciones de
+dicho Estado miembro.”
+
+Por tanto, estamos ante un primer efecto jurídico cual fue la modificación del orden de las presidencias del Consejo, con el acuerdo del Reino Unido,
+a fin de evitar que pudiera presidir el Consejo en su turno semestral de presidencia durante el segundo semestre de 2017. Se reconoce su derecho a presidir el Consejo, pero se suspende sine die sin perjuicio de que, en caso de revocación, recupere su turno. Pero la Decisión citada no cuenta con el Reino Unido
+al listar las presidencias de aquí a 2030.
+4.1. ¿Plazo para la invocación formal del derecho de retirada?
+Posibles límites en el futuro
+La retirada, aun siendo un acto jurídico unilateral a discreción de las
+partes de un tratado constitutivo de una organización internacional, puede ser
+incondicional o puede estar sujeta a condiciones formales, materiales y temporales, como sucede en el art. 50 TUE21.
+El art. 50 TUE no señala el plazo que tiene un Estado para notificar oficialmente la retirada. No es un vacío o laguna ni tampoco un defecto. Tampoco
+marca un plazo inicial de carencia en el que no se puede invocar22. Ni plazo
+inicial de carencia ni plazo final ni condiciona su ejercicio a determinadas situaciones objetivas, por ejemplo, una reforma de los tratados. Esta condición me
+parece razonable y merecería una reflexión ad futurum, aunque es implícita al
+derecho de retirada.
+
+20
+Decisión (UE) 2016/1316 del Consejo de 26 de julio de 2016 que modifica la Decisión 2009/908/UE, por la
+que se establecen las normas de desarrollo de la Decisión del Consejo Europeo relativa al ejercicio de la Presidencia del
+Consejo, y de la presidencia de los órganos preparatorios del Consejo, DO L 208 de 2 de agosto de 2016.
+21
+Incluidas las condiciones económicas, como se deduce, por ejemplo, del art. 1.3 del Pacto de la Sociedad de
+las Naciones; también el art. XIX, párrafo 4, de la Constitución de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) exige la satisfacción previa de sus obligaciones económicas contraída con la organización.
+22
+En la FAO se establece un plazo inicial en el que los Estados no se pueden retirar: “Cualquier Estado Miembro puede comunicar en todo momento que se retira de la Organización, siempre que hayan transcurrido cuatro años a partir de la fecha en que aceptó esta Constitución” (art. XIX de la Constitución de la FAO).
+
+302
+
+
+
+Hay que insistir en que el derecho de retirada es un derecho abierto y
+constante que acompaña al estatuto del Estado miembro en una organización
+internacional. Y sobre el que no se puede poner plazo final al derecho de retirada de una organización internacional. Un Estado no renuncia a un derecho
+inherente a la membresía en una organización internacional. Sería como poner
+plazo en abstracto a la permanencia de un Estado o provocar con ello un cambio en la naturaleza jurídico-internacional por una de derecho constitucional
+estatalizante en la que las partes renuncian por completo a la subjetividad internacional a partir de una fecha.
+Es cierto que se podrá modificar en el futuro, por ejemplo, para regular de forma más estrecha, más constrictiva, para limitar los efectos tan negativos que tiene una retirada y habida cuenta la experiencia de la “demora” británica en presentar la notificación oficial. Pero ya he señalado en el apartado
+1 de este trabajo que no cabe prohibir ni es pensable la renuncia al derecho
+de retirada de una organización internacional.
+Hay varias opciones para limitar su invocación. Una de ellas, es limitar el momento o momentos de su invocación.
+La retirada podría tener condiciones temporales para la consumación de
+la desvinculación; por ejemplo, me parece aceptable, en términos políticos y
+jurídico-internacionales, que se pueda limitar a los supuestos de reforma de los
+tratados cuando las reformas sean indeseables e inaceptables para un Estado
+miembro23. Además, en una organización, cuyo proyecto está inacabado y en
+progresión —“unión cada vez más estrecha”—, hay que contar como algo implícito la opción soberana de continuar o no, en especial, cuando se hacen reformas que acaben resultando inaceptables a los intereses soberanos de un Estado
+miembro.
+Otra cuestión es si, para evitar abusos en la presentación de la notificación oficial, pudiera ponerse un plazo entre el anuncio público o hecho relevante de la retirada24 y su notificación oficial. Estos meses desde el 23 de Junio
+hasta el 29 de marzo de 2017 en que se produjo la notificación oficial se ha
+generado una gran incertidumbre con repercusiones en los mercados financieros y monetarios. Acortar este período parece razonable, pero no es fácil señalar el plazo pues dependerá tanto de circunstancias políticas como jurídicas (el
+procedimiento constitucional para requerir la aprobación parlamentaria interna).
+Es preferible recordar, sin plazos concretos para el preaviso, que el Estado miem-
+
+23
+En este sentido la retirada británica ha sido inesperada por no estar ligada a una reforma de los Tratados en
+la que hubiera sido beligerante, pero hay que reconocer que dada la evolución cada vez más estrecha de los compromisos
+su retirada era previsible en algún momento de este proceso.
+24
+Entendiendo por hecho relevante no solo un referéndum, sino también una decisión política hecha pública
+por un jefe de gobierno o jefe de estado en un marco adecuado para entender que hay una voluntad decidida de retirada.
+
+303
+
+
+
+bro actuará con especial cuidado en respeto al principio de cooperación leal (art.
+4.3 TUE).
+Sin embargo, el retraso en la notificación oficial del preaviso por parte
+británica, en mi opinión, no infringió el principio de cooperación leal con la UE.
+De un lado, porque la retirada de una organización tan absorbente
+como la UE requiere la preparación de una negociación compleja, más aún en
+el Estado que se retira que para la propia organización, dado que ese Estado
+debe reconstruir en parte su derecho pero, sobretodo, sus intereses en las relaciones económico-comerciales en todos los ámbitos tanto con la UE como con
+terceros Estados (arancelarias, comerciales, pesqueras, inversoras, medio ambientales...). Tiene que prepararse para la negociación de retirada.
+De otro, hay que tener en cuenta el propio calendario político de la
+UE; por ello, dado que se celebrarán elecciones al Parlamento Europeo en junio
+de 2019, era casi imprescindible que el Reino Unido dejara de ser un Estado
+miembro de la UE en la primavera de 2019 y no participar en las elecciones
+europeas. Hubiera sido muy enojoso que pudiera haber elecciones al Parlamento Europeo en el RU en plenas negociaciones de retirada. Por ello, una
+fecha límite razonable de notificación del preaviso era la primavera de 2017 y
+se ha respetado por el Reino Unido.
+El art. 50 TUE establece un equilibrio entre la aparente posición de
+dominio del Estado que pretende retirarse en el plazo abierto para notificar, a
+cambio de drástico plazo que corre desde que notifica hasta que se compelido
+a retirarse haya o no acuerdo. Así, el Reino Unido domina el plazo previo pero
+no domina la negociación de retirada ni la de la relación futura.
+4.2. Proceso interno: Referéndum y formación
+de la voluntad del Reino Unido
+Solo se puede notificar la decisión de retirada si el Estado ha formado
+su voluntad conforme a sus propios procedimientos internos constitucionales.
+En el Reino Unido se abrió un largo trámite interno jurídico-político interno en
+el que se suscitaron varios problemas internos como el papel mismo del referéndum, el de Parlamento británico, amén de otros y problemas de competencia —y que dado su mera proyección interna no abordaré—.
+El art. 50 TUE es bastante preciso25 al detallar cómo debe formarse la
+voluntad del Estado y cómo notificarla. Ese precepto no permite que el art. 50
+25
+Art. 50. “1. Todo Estado miembro podrá decidir, de conformidad con sus normas constitucionales, retirarse
+de la Unión. 2. El Estado miembro que decida retirarse notificará su intención al Consejo Europeo. [...]” (énfasis añadido).
+
+304
+
+
+
+se invoque por instituciones internas que no tienen la competencia en materia
+de tratados, tales como los específicos de la UE; sabíamos, pues, que el Reino
+Unido debía cumplir primero sus normas constitucionales, si bien no tiene normas constitucionales escritas, pero sí tradiciones, precedentes y equilibrios
+constitucionales bien establecidos.
+Cómo se forma la voluntad de un Estado para decidir su retirada es un
+asunto interno, así como el peso jurídico o político que pueda tener, en su caso,
+un referéndum26. No es ambiguo que el art. 50 requiera en abstracto que el
+Estado que se retira lo haga «de conformidad con sus normas constitucionales»,
+exigencia que se repite en paralelo en el art. 49 TUE al establecer la forma de
+ingreso. Así, trata de evitar una formación ilegal de la voluntad del Estado que
+facilite la ruptura de un compromiso internacional sin los controles y contrapesos democráticos internos adecuados. No es una injerencia en su derecho
+interno. Al exigir el respeto a las normas constitucionales y establecer exigencias paralelas para ingresar y para retirarse se evita que para adquirir unos compromisos con el ingreso se requieran unos procedimientos exigentes de control
+y aprobación parlamentaria mientras que para romperlos con el egreso pueda
+hacerse sin la garantía parlamentaria.
+La tesis del paralelismo entre el procedimiento para ingresar y retirarse
+es sólida, garantista y equilibrada para dar estabilidad y seguridad a las relaciones jurídico-internacionales27. Sabemos cómo ingresó el Reino Unido: aprobaron una ley por mayoría absoluta en el Parlamento británico (European Communities Act de 1972, posteriormente modificada y completada por la European
+Union Act de 2010). Luego, era evidente que se necesitaría una aprobación del
+Parlamento británico para su retirada.
+Hay un interés objetivo y legítimo en las relaciones internacionales en
+que la voluntad de un Estado en la esfera internacional se haga “de conformidad con sus normas constitucionales”; esta fórmula se reitera ya como cláusula
+de estilo en casi todos los tratados internacionales. Ello está relacionado con el
+art. 46 del Convenio de Viena sobre el derecho de los Tratados que permite
+invocar la nulidad de un tratado ante la otra Parte cuando algunas instituciones de un Estado no respetan de forma manifiesta sus propias normas fundamentales sobre la competencia para celebrar tratados. La seguridad jurídica en
+las relaciones internacionales requiere, pues, el respeto a la competencia
+interna para manifestar el consentimiento del Estado para conjurar todo riesgo
+de nulidad del tratado de retirada.
+
+26
+Son muy interesantes las reflexiones de V. CONSTANTINESCO sobre “Du reféréndum et la démocratie répresentative á travers le Brexit”, Revue de l’Union Européenne, 2016, oct-nov, nº 602:530 y ss.
+27
+Algunas constituciones como la española explicitan la exigencia de paralelismo para no ofrecer ventajas para
+la denuncia frente a la prestación del consentimiento (ar. 96.2: “Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo 94”).
+
+305
+
+
+
+Que el Gobierno británico prescindiese de la práctica constitucional propia de estos tratados hubiera podido originar algún conflicto en el que el nudo
+del litigio hubiera sido una eventual nulidad del tratado de retirada en violación
+del art. 46 del Convenio de Viena. Evitar las consecuencias de tal embrollo jurídico era importante.
+El Gobierno británico descartó inicialmente recabar la aprobación de su
+Parlamento hasta que hubiera el acuerdo de retirada con la UE (al final del proceso) alegando una supuesta “prerrogativa regia” a favor del Gobierno. Fue un
+empecinamiento sin fundamento pues gozaba de un cómodo apoyo parlamentario.
+Diversos particulares plantearon la ilegalidad de ese proceder y la sentencia de la High Court de 3 de noviembre de 201628 afirmaba que solo el Parlamento británico tenía el poder de activar el artículo 50 que regula la salida
+de la Unión Europea. El Tribunal Superior estimó que, a tenor de la ley del referéndum, el resultado de la consulta no era vinculante para las instituciones británicas. En opinión del Tribunal, el hecho de que los diputados británicos votaran a favor de celebrar el referéndum, por la forma en que fue redactada la ley,
+no implicaba ceder la autoridad para activar el art 50.
+El Gobierno británico recurrió la sentencia y el Tribunal Supremo confirmó, en su sentencia de 24 de enero de 2017, la necesidad de recabar la autorización del Parlamento británico29 reafirmando que es determinante cómo se
+produjo la pertenencia del Reino Unido a la UE, por lo que estimaba incompatible que el Gobierno asumiera el poder de retirarse de los Tratados de la UE
+sin autorización previa de una ley del Parlamento. Además, su razonamiento de
+fondo consistía en que no se podía prescindir del Parlamento británico en una
+decisión como la retirada pues alteraba los derechos de que disfrutaban los
+ciudadanos del Reino Unido gracias a la legislación de la UE; la salida de la UE
+sustraerá a los británicos derechos que les han sido garantizados por el propio
+Parlamento británico al consentir el ingreso. El Tribunal Supremo advertía que
+la “prerrogativa regia” en materia de tratados no puede utilizarse para cambiar
+leyes, algo para lo que solo el Parlamento es soberano.
+El Tribunal Supremo precisaba que el hecho de que el gobierno sea
+responsable ante el Parlamento por sus acciones no es una respuesta constitucional puesto que no tiene poder de actuar en una materia que prejuzgaría
+cualquier acción parlamentaria posterior.
+
+28
+Texto de la sentencia en https://www.judiciary.gov.uk/judgments/r-miller-v-secretary-of-state-for-exiting-theeuropean-union/
+29
+Texto de la sentencia en https://www.supremecourt.uk/cases/uksc-2016-0196.html. En otro orden de cosas
+clarifica que la decisión de retirada es competencia exclusiva del Gobierno estatal y no de las regiones por lo que descarta
+toda interferencia jurídico-constitucional del Escocia.
+
+306
+
+
+
+Ambas sentencias, coincidentes en lo esencial, mostraron un grave conflicto entre el poder judicial y el ejecutivo que no es nuevo en el contexto
+populista europeo del que el brexit es su manifestación por excelencia. Para
+los tribunales británicos, con buen sentido democrático y jurídico, la soberanía
+parlamentaria prima sobre la voluntad popular y sobre supuestas competencias
+del gobierno. El respeto del derecho —garantía de la democracia—, tal como
+lo interpretan los tribunales, forzó al Gobierno británico a tener que contar con
+la aprobación del Parlamento británico otorgada el 13 de marzo de 2017. Elemental.
+La sentencia era tan previsible que forzó al Gobierno británico a definir su estrategia varios días antes30. La autorización parlamentaria no acarreaba
+per se un retraso en la notificación de la intención de retirarse.
+Es cierto que en el debate parlamentario, en la fase de la Cámara de
+los Lores, se intentó imponer al Ejecutivo un “mandato negociador” que respetase los derechos de los europeos en el Reino Unido, aunque tampoco tendría
+que ser determinante del acuerdo futuro pues resulta obvio que las condiciones de la relación futura dependen más del resto de los Estados miembros.
+La aprobación por el Parlamento británico de la decisión de invocar el
+art. 50 y notificar la intención de retirarse no conllevaba ni podría conllevar la
+derogación de la European Communities Act de 1972, si bien se han iniciado
+en el Parlamento británico los trámites para tener preparada su derogación
+simultánea a la aprobación del acuerdo de retirada para que sin solución de
+continuidad se produzca la desvinculación y deje sin efecto el derecho de la
+Unión. Una vez se llegue al acuerdo de retirada con la UE, y de forma simultánea a su aprobación por el Parlamento británico, la futura Ley “de retirada”
+incluirá la derogación de las Leyes de 1972 y 2010. El Reino Unido debe respetar hasta ese día todas sus obligaciones europeas (art. 50 TUE) y cuya base
+jurídica interna de obligatoriedad está en la citada Ley de 197231.
+
+30
+Así en la alocución de la Premier Theresa May al cuerpo diplomático en Londres el 17 de enero de 2017,
+con traducción oficial al español, https://www.gov.uk/government/speeches/the-governments-negotiating-objectives-forexiting-the-eu-pm-speech
+Estrategia basada en alejarse de los modelos previos, como el del Espacio Económico Europeo. La primera
+ministra May aseguró que se evitarán vacíos hasta el punto de aceptar que el acervo de la UE se mantendrá tras la retirada
+y será el Parlamento, ley a ley, quien decidirá sobre la adaptación del acervo a los intereses británicos. Sabia decisión de
+no tirar todo por la borda y quedarse en el vacío jurídico.
+31
+Es cierto que el Parlamento británico no puede derogar ahora, sin más, la European Communities Act de 1972,
+debido a que esa ley, además de aceptar el ingreso, ordena a autoridades administrativas y judiciales del Reino Unido el
+respeto a la eficacia directa y la prevalencia de las normas europeas sobre las normas internas, habilita a los jueces británicos para plantear cuestiones prejudiciales, etc. El Reino Unido debe respetar íntegramente sus obligaciones hasta la terminación del Tratado, por lo que la ley no puede ser derogada hasta la entrada en vigor del acuerdo mismo de retirada.
+
+307
+
+
+
+5. SEGUNDA FASE.
+LA NOTIFICACION DE LA INTENCIÓN HASTA
+EL ACUERDO DE RETIRADA
+5.1. El preaviso y su revocabilidad
+La notificación de la intención de retirarse del Reino Unido por el Gobierno británico se hizo por conducto diplomático el 29 de marzo de 2017 e iba dirigida al Consejo Europeo32. No se notifica la retirada sino la “intención” de retirarse,
+como prevé el art. 50 TUE; hace el “preaviso”, según la práctica internacional, pues
+la retirada es el acto final del preaviso, decisión que se completa con la negociación de los términos de la retirada o con la expiración del plazo del preaviso.
+Aunque la voluntad de retirarse es un acto unilateral y discrecional del
+Estado, nunca produce efectos inmediatos y se consuma tras la expiración del
+plazo de preaviso. La notificación o invocación oficial del art. 50 es el punto
+de partida de un plazo que expira en todo caso a los dos años.
+El plazo de preaviso de la retirada es muy amplio comparado con los
+tratados que prevén la denuncia33; sin embargo, ateniéndonos a la retirada vinculada a tratados constitutivos de organizaciones internacionales es el plazo
+más habitual. Aunque no hay desvinculación más compleja de una organización que la relativa a la UE y hay que reconocer que los redactores del art. 50
+fueron muy estrictos en el plazo de preaviso pues en dos años no es fácil poner
+fin a una relación tan compleja como la creada en el seno de la UE. Hoy pocos
+dudan de que la negociación de retirada será bastante más complicada que la
+de una adhesión que siempre ha requerido más de dos años. Y que la intención del art. 50 fue hacer muy difícil una retirada de la UE.
+El plazo de preaviso tiene varias funciones en una organización internacional (aunque con peculiaridades institucionales en la UE).
+De un lado, este plazo servía en el pasado también como un período
+de reflexión para el Estado que la invocaba, madurase su decisión y, llegado el
+caso, tuviera la oportunidad de revocarla34, como para los demás Estados a fin de
+hacer concesiones antes de que se ejecutara. En cierta medida, mutatis mutan-
+
+32
+https://www.gov.uk/government/publications/prime-ministers-letter-to-donald-tusk-triggering-article-50/
+prime-ministers-letter-to-donald-tusk-triggering-article-50.
+33
+La denuncia suele tener un preaviso de tres meses y raramente supera el año (que es el previsto subsidiariamente por el Convenio de Viena, art. 56.2, para aquellos tratados en que sea posible y que no prevén la denuncia o retirada).
+34
+Sobre la notificación de la intención de retirada y la revocación por parte de España en la SDN, véase PÉREZ
+GIL, L.V., “El primer decenio de España en la Sociedad de Naciones (1919-1929)”, Anales de la Facultad de Derecho de la
+Universidad de la Laguna, nº 115, 1998:212-2140; G. SOLÉ, “La incorporación de España a la Sociedad de Naciones”, Hispania: Revista Española de historia, volumen 36, nº 132, 1976:144.
+
+308
+
+
+
+dis, el preaviso cumple funciones similares al ultimátum o requerimiento previo
+a la declaración de guerra en el IV Convenio de La Haya de 1907. En definitiva,
+el preaviso permite al Estado que anuncia la retirada reconsiderar su postura.
+De otro, la función de preaviso es la de facilitar a la organización internacional adoptar medidas para reestructurarse orgánica y presupuestariamente.
+También se trata en el caso de un estado miembro de la UE de facilitar la transición sin brusquedad del estatuto de miembro al de completa discrecionalidad
+soberana.
+Interesa hacer unas reflexiones sobre la revocabilidad del preaviso de
+retirada.
+Con carácter general en el derecho y en la práctica internacional la
+retirada de un tratado constitutivo de una organización internacional es revocable. La revocación de los actos unilaterales no es extraña en el orden internacional. Los actos jurídicos unilaterales pueden ser modificados o revocados
+en determinadas circunstancias y condiciones, mediante un nuevo acto unilateral. Aunque se ha discutido mucho sobre la revocabilidad de los actos unilaterales en general, precisamente, el preaviso, en el particular acto unilateral
+que es la retirada, desencadena el proceso para la desvinculación, pero las partes conservan el derecho a mantener su vinculación con el tratado hasta la
+expiración del plazo; la autonomía de la voluntad de las partes puede llevar a
+la Parte que invoca el preaviso a revocarlo dentro del período del preaviso.
+Si bien en las citadas sentencias del Tribunal Superior y Tribunal
+Supremo británicos se dice que la notificación de la intención de retirada sería
+irrevocable para el Gobierno británico, creo que ello debe entenderse en el sentido de que el Gobierno no puede separarse de la posición del Parlamento británico, si bien éste siempre puede revocar su posición y vincular al Gobierno.
+Otra cosa es que sea meramente especulativo en el caso británico dado el contexto político que hace improbable la revocación.
+El art. 50 garantiza al Estado que lo invoca que nada impedirá su retirada tras el preaviso, pero a su vez no le impide su revocación, aunque no la
+mencione. Desde luego, si se ha extinguido el plazo o ya hay acuerdo de retirada, no cabe la revocación. Con posterioridad a la retirada —que se produce
+al expirar el preaviso o con el acuerdo— toda vuelta atrás deberá seguir el procedimiento de una nueva adhesión, como el propio art. 50 contempla.
+La revocación es posible mientras el preaviso no haya dado lugar a un
+acto convencional de retirada o expirado el plazo y en todo caso no cabe invocar la revocación como un poder arbitrario de revisión. La clave es tener la seguridad de que la revocación se hace de buena fe y podría ser aceptable como acto
+unilateral, si bien posiblemente la última palabra la tendría el Tribunal de Justi-
+
+309
+
+
+
+cia35. En el contexto institucional del art. 50 y al margen de la intervención del
+eventual recurso del Reino Unido para hacer valer su hipotético acto de revocación por sí mismo, la revocación sería inapelable si tiene el acuerdo de los 27
+Estados miembros para paralizar la cuenta atrás de la retirada. Se trataría de evitar bajo el control institucional del Consejo Europeo que se utilizase la revocación como una argucia negociadora para disponer de nuevos plazos o lograr una
+renegociación que la tiene denegada desde los acuerdos de 201636.
+Un efecto jurídico inmediato de la notificación de la intención de retirarse ya estaba previsto desde el día siguiente al referéndum, de modo que ya se
+sabía que en cuanto llegase la notificación oficial del Gobierno «según lo convenido, el ‘nuevo régimen para el Reino Unido en la Unión Europea, acordado
+en el Consejo Europeo de 18 y 19 de febrero de 2016, no entrará en vigor y
+dejará de existir. No habrá renegociaciones»37. No está diciendo que sea irrevocable la retirada, sino que el Reino Unido no debe albergar expectativas de que
+se pueda renegociar su permanencia y mejorar los acuerdos de febrero de 2016.
+El contexto político del hace impensable la revocación, incluso a pesar
+de los resultados de las elecciones generales anticipadas de 8 de junio de 2017;
+a su vez, como he señalado en el párrafo anterior, la Unión descartó de forma
+tajante, al día siguiente del referéndum, que pudiera haber renegociaciones
+con concesiones añadidas al Acuerdo de febrero. Y, desde el referéndum, en
+ningún momento el Reino Unido ha insinuado renegociar ese acuerdo.
+Gobierno y Parlamento británico han sido firmes en su decisión de culminar el
+proceso de la retirada. Todo parece indicar que el Reino Unido ha superado el
+punto de no retorno.
+5.2. Valor jurídico de las orientaciones; las negociaciones
+para el acuerdo de retirada
+Tras la notificación oficial de la retirada, se ha iniciado una segunda
+fase centrada en negociaciones directas entre la UE y Reino Unido que, en una
+perspectiva optimista, sería deseable que abarcase en paralelo, además de la
+desvinculación, o sentase un principio de acuerdo sobre las relaciones futuras
+o en todo caso un acuerdo transitorio hasta la ardua negociación de las rela35
+Para MANUEL LÓPEZ ESCUDERO la revocación es posible en ambos casos, con el consentimiento de la UE-27 o
+por la mera invocación del RU “aunque corresponde, en su caso, al TJUE la duda en caso de recurso” (“El incierto significado del Brexit”, El Cronista del Estado Social y Democrático de Derecho, núm. 64, noviembre 2016:14.
+36
+Parlamento Europeo, Resolución de 5 de abril de 2017 sobre las negociaciones con el Reino Unido a raíz de
+la notificación por la que declara su intención de retirarse de la Unión Europea (2017/2593(RSP)) P8_TA-(2017)0102.
+37
+«Declaración de los dirigentes de la UE y la Presidencia neerlandesa sobre el resultado del referéndum del
+Reino Unido», Consejo Europeo, el presidente, comunicados de prensa, 381/16, 24-6-2016.
+Un análisis de esos acuerdos en ARACELI MANGAS MARTÍN, Los dilemas del Reino Unido y de la UE: ¿salir o cambiar la Unión?, Real Instituto Elcano de Estudios Internacionales y Estratégicos, Madrid, DT 3/2016, 25/febrero/2016); "La
+retirada del Reino Unido de la Unión Europea”, Foro, Nueva época, vol. 19, núm. 1 (2016):29-63.
+
+310
+
+
+
+ciones futuras. La desvinculación será más previsible y facilitada si hay un
+acuerdo de base sobre las líneas básicas de la relación futura. En dos años es
+imposible e impensable un acuerdo completo, pero un acuerdo marco o de
+base daría lugar a una tercera fase de negociación separada sobre las relaciones futuras sin la presión del tiempo y con la fiabilidad del modelo de cara a
+los ciudadanos y a los mercados.
+Jurídicamente, se sabe lo que hay que hacer desde la notificación oficial de la intención de retirarse: Se sabe qué plazo hay —dos años— para llegar a un acuerdo de retirada; se sabe que cabe una posible prórroga en caso
+de dificultades en la negociación, pero con un precio muy caro para el Estado
+que quiere retirarse pues deberá convencer al resto para que adopte la decisión por unanimidad y no se dé por terminado la negociación sin un acuerdo
+que permita el tránsito de la membresía.
+El art. 50 TUE faculta al Consejo Europeo para establecer las “orientaciones” para empezar a negociar con el RU. Se suscita qué valor jurídico tienen las Orientaciones que adoptó el Consejo Europeo38. No es un documento
+ambiguo ni retórico-político; establece mandatos precisos sobre el marco y los
+principios39 a los que deben sujetarse los negociadores de la UE, pero también
+el Consejo en sus directrices negociadoras e instrucciones (“Las directrices de
+negociación se ajustarán en consecuencia”).
+Es obvio que las Orientaciones del Consejo Europeo no es un acto
+jurídico “típico” que responda al sistema de fuentes del art. 288 TUE; pro tampoco es asilvestrado dado que su previsión o base jurídica está en el propio Tratado. Por ello, las Orientaciones aprobadas son obligatorias para el Consejo y
+para la delegación negociadora que dirige la Comisión. Esas orientaciones presidirán y condicionarán toda la negociación y las actuaciones del Consejo y de
+la Comisión como su marco jurídico general y superior. Son instrucciones públicas que no deben rebasarse o desconocerse por la delegación negociadora con
+presencia de la Comisión, y representante del Parlamento Europeo, Consejo
+Europeo y Consejo.
+Las Orientaciones solo pueden ser modificadas por el propio Consejo
+Europeo. Y éste se reserva un control continuo sobre las fases que secuencia
+por materias y la decisión de pasar a otra pase o contenidos de la negociación
+distintos a los de la retirada; de este modo, el Consejo Europeo condiciona el
+38
+“Orientaciones consecutivas a la notificación del Reino Unido en virtud del artículo 50 del TUE”, Consejo Europeo, 29 de abril de 2017, http://www.consilium.europa.eu/es/press/press-releases/2017/04/29-euco-brexit-guidelines/.
+39
+Por ejemplo: “…todo acuerdo alcanzado con el Reino Unido deberá basarse en un equilibrio entre derechos
+y obligaciones, y garantizar la igualdad de condiciones. Preservar la integridad del mercado único excluye la opción de una
+participación por sectores. Un Estado no perteneciente a la Unión, que no cumple las mismas obligaciones que un Estado
+miembro, no puede tener los mismos derechos ni disfrutar de los mismos beneficios que un Estado miembro.” Igualmente
+exige negociar como conjunto sin caer en negociaciones bilaterales, no compartimentar por sectores el mercado único…
+
+311
+
+
+
+cierre de los aspectos esenciales del Acuerdo ordenado de retirada a los principios establecidos en la Orientaciones para cada materia identificada en ese
+documento40.
+El Consejo Europeo sigue los pasos del Parlamento Europeo que ha
+exigido siempre que hasta que no se cierre el acuerdo de retirada no se pasará
+a hablar de la “idea general del marco de las relaciones futuras”41. El Consejo
+Europeo se reserva la decisión para el paso a la fase siguiente de sus temas
+priorizados.
+El Consejo Europeo permite prolongar el acervo de la Unión durante
+un tiempo limitado, pero “habrían de aplicarse los instrumentos vigentes de la
+Unión en materia de reglamentación, presupuesto, supervisión, procedimiento
+judicial y ejecución”, lo que lo hace casi inviable por el Reino Unido.
+Además, el Consejo de Asuntos Generales acuerda la apertura de negociaciones, establecerá las directrices negociadoras y habrá una estrecha relación
+entre las cuatro instituciones, incluido el Parlamento42.
+También conviene recordar que el acuerdo de retirada (por una mayoría cualificada reforzada de veinte votos sobre veintisiete que representen el 65
+por cien de la población de la UE, excluido el Reino Unido) es a los efectos
+un acuerdo propio de la UE con un tercero; del art. 50 TUE se desprende la ficción jurídica de que mientras negocia su retirada con la UE, dicho país es como
+si fuera un tercer Estado43.
+Y no se llega a acuerdo alguno, o no hay 20 votos a favor, ello no
+impide la retirada que no está condicionada al acuerdo; es deseable para evi40
+Por este orden: derechos de los ciudadanos, de las empresas, obligaciones económicas contraídas durante
+su pertenencia, provincia del Ulster, zona de soberanía en Chipre, acuerdos internacionales de la UE y mixtos, acuerdos de
+cooperación judicial y policial, sedes de organismos, procesos judiciales pendientes del Reino Unido y en el Reino Unido
+sobre aplicación del Derecho de la UE o nuevos relativos al tiempo de su pertenencia, procedimientos administrativos pendientes o nuevos, mecanismos de solución de diferencias sobre el acuerdo de retirada, etc.
+41
+El Parlamento Europeo se expresó muy pronto en la Resolución de 28 de junio de 2016, sobre la decisión de
+salir de la Unión como consecuencia del referéndum en el Reino Unido [2016/2800(RSP), P8_TA(2016)0294]. Y ha aprobado
+su posición ante la apertura de las negociaciones en la Resolución del Parlamento Europeo, de 5 de abril de 2017 —cit. en
+nota 36— aceptando que solo se hable de acuerdo transitorio y relación futura cuando estén avanzados los puntos esenciales del Acuerdo de Retirada. Hay consenso en la doble legitimidad internacional y democrática que sustenta la UE.
+42
+Además de en las Orientaciones, ya se había previsto en Declaración tras la reunión informal de los 27 jefes
+de Estado o de Gobierno, 15 de diciembre de 2016, http://www.consilium.europa.eu/es/press/press-releases/2016/12/15-statement-informal-meeting-27/en. Se sabe quién dará las instrucciones en el día a día (el Consejo) a la delegación negociadora de la UE en la que estará representada la Comisión, representante de la presidencia rotatoria, del presidente del Consejo Europeo y del Parlamento Europeo). La delegación informará de forma continuada al resto de las instituciones afectadas
+y un comité ad hoc del COREPER vigilará el mandato negociador.
+43
+El art. 50 previene que el comisario británi¬co y los representantes británicos en el Consejo y en el Consejo
+Euro¬peo (además del Coreper y comités del Consejo) no podrán participar en las deliberaciones y votaciones en sus respectivas instituciones cuando se delibere o decida sobre las negociaciones y el acuerdo de retirada. El Reino Unido es considerado como un tercero en la negociación y adopción del acuerdo de retirada. Por el contrario, como el Parlamento europeo representa “como a un todo” a la ciudadanía, los diputados británicos podrán participar en la votación para aprobar en
+su caso el acuerdo de retirada.
+
+312
+
+
+
+tar la conmoción de la incertidumbre, pero no imprescindible para consumar
+la retirada a los dos años desde el preaviso (y así lo contemplan las Orientaciones). Es una situación indeseable pero no habrá total vacío jurídico en las
+relaciones comerciales (se aplicarán en las relaciones mutuas las reglas de la
+Organización Mundial de Comercio) y a las personas físicas las reglas comunes
+de entrada de nacionales de terceros países y el Reino Unido sus propias reglas
+sobre entrada y salida de extranjeros.
+El art. 50 no deja dudas sobre la naturaleza del acuerdo internacional
+sobre la retirada o desvinculación: es un acuerdo de la Unión con el Estado
+miembro que pasa a ser Estado tercero. No es un acuerdo mixto y, por tanto,
+no requerirá ratificación de los Parlamentos nacionales44. Ahora bien, no está
+exento de control democrático que queda asegurado con la aprobación del
+Parlamento europeo. Por su parte, el Parlamento británico también deberá pronunciarse. Y no se olvidará de derogar la ley de 1972 que autorizó la adhesión
+y los efectos obligatorios del Derecho de la UE y de la jurisprudencia europea.
+Hay que hacer notar, frente a la visión sesgada sobre la opción británica
+sobre el brexit duro o blando, que el Reino Unido no dominará la negociación.
+La UE estaba abierta a compartir el mercado interior pero la posición en enero
+de la Primera Ministra no dejaba dudas de la dureza por la que optaba45.
+
+A MODO DE CONCLUSIONES
+Unas reflexiones finales sobre los contextos del brexit llevan a tomar
+en consideración que la retirada del Reino Unido es una exteriorización o manifestación de un proceso más amplio de dudas y reconsideración de la globalización desde Occidente mismo, que han alentado los populismos en Europa y
+América. El brexit, per se, no es el fin del proceso de integración; el proceso es
+anterior a la presencia británica en la UE. El mayor riesgo que origina el brexit
+era político. Pero parece que ha sido más una vacuna que el inicio de un grave
+deterioro. Europa ha reaccionado poniendo coto a la extrema derecha y al
+populismo en las presidenciales de Austria (septiembre de 2016), en las generales de Holanda (marzo 2017) y en las presidenciales francesas (mayo 2017).
+
+44
+Por el contrario, el acuerdo sobre la relación futura o cualquier acuerdo provisional o transitorio que se firmase con el Reino Unido se tramitaría como cualquier otro tratado económico-comercial con un tercer Estado (art. 218
+TFUE). No debería a priori considerarse como acuerdo mixto sino como acuerdo propio de la UE que requiere la mayoría
+cualificada del Consejo y la previa aprobación del Parlamento Europeo, garantizándose así el control democrático europeo
+sin regalar capacidad de veto a los parlamentos nacionales o regionales. Ahora bien, si el acuerdo de relación futura contuviera normas sobre inversiones distintas de las directas o un mecanismo de solución de diferencias entre inversores y Estados, entonces será un acuerdo mixto que requerirá la ratificación por los Estados miembros de conformidad con sus normas constitucionales (TJUE, Dictamen 2/15 de 16 de mayo de 2017 “Singapur”).
+45
+Los magros resultados para los conservadores en las elecciones generales anticipadas de 8 de junio abren
+algunas esperanzas a una posición bastante más flexible.
+
+313
+
+
+
+Pero se abre un período incierto de grandes esfuerzos para culminar
+la retirada ordenada, el acuerdo transitorio y el tratado entre los 27 con las
+adaptaciones que borren toda huella de la presencia británica. Mas las reformas
+internas en la gobernanza del euro que ya se habían comenzado a pergeñar y
+la integración diferenciada para avanzar en la Europa que necesitamos.
+
+314
+
+

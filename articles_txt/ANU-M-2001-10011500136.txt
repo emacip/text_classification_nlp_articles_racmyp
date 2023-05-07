@@ -1,0 +1,942 @@
+SITUACIÓN ACTUAL DEL PROBLEMA
+TECNOLÓGICO EN ESPAÑA
+Por el Académico de Número
+Excmo. Sr. D. José Ángel Sánchez Asiaín *
+
+INTRODUCCIÓN
+
+En veinticinco o treinta días la Academia pondrá en la calle el número 8
+de nuestra revista Papeles y Memorias de la Real Academia de Ciencias Morales y
+Políticas. Es un número especial, en colaboración con la Fundación Cotec, que
+dedicamos a examinar la cuestión tecnológica en nuestro país. El Presidente de
+la Academia me ha pedido que haga una presentación de este número de Pape­
+les, y que haga una exposición de la situación actual del problema tecnológico
+en España.
+Con este número extraordinario, la Academia culmina una etapa de más
+de siete años de debate sobre estas cuestiones. Y de acuerdo con el artículo pri­
+mero de nuestros Estatutos, que establece como objetivo ilustrar las cuestiones de
+mayor importancia, trascendencia y aplicación, según los tiempos y circunstancias,
+asumimos formalmente que la innovación tecnológica es una de las más importan­
+tes causas del desarrollo económico y del bienestar social de España.
+El nuevo número contiene diecinueve trabajos sobre innovación, todos
+ellos formando un conjunto coherente con las principales preocupaciones que hoy
+tienen los expertos en estas cuestiones. Incorpora también cuatro introducciones
+
+* S e s ió n d e l d ía 1 4 d e n o v ie m b r e d e 2 0 0 0 .
+
+115
+
+
+
+con planteamientos globales. Del Presidente de la Unión Europea Romano Prodi,
+que hace una presentación de la estrategia que va a seguir la Unión Europea para
+estimular la innovación. Del Presidente Aznar, que ofrece una síntesis de los crite­
+rios básicos de su política de ciencia y tecnología. Y del Presidente de esta Acade­
+mia. Yo mismo, como Presidente de Cotec, firmo también una pequeña glosa de la
+actual situación del problema tecnológico.
+El número incluye una destacada contribución de nuestro compañero
+Juan Velarde, titulada «El problema de la ciencia y la tecnología en la Real Aca­
+demia de Ciencias Morales y Políticas-, en la que hace un repaso de nuestros años
+de debate, destacando cómo nuestra Academia consideró obligado estudiar el
+papel de la ciencia y la tecnología en relación con la evolución de la sociedad,
+la cultura y la economía española. Y cómo para ello organizó sucesivas interven­
+ciones sobre esta materia a partir de ponencias previas, como acostumbramos. De
+esta manera, señala, desde el año 1993 hemos venido desarrollando en torno a
+esta Mesa cinco debates, que en todos los casos fueron profundos y de largo
+alcance. Unos debates que fueron cambiando de contenido en sus sucesivas edi­
+ciones, a medida que la realidad, la percepción del problema, y la investigación
+académica, iban avanzando.
+Los debates fueron cinco. El primero (1993) planteó el problema del tra­
+dicional déficit tecnológico español como un problema económico grave, que no
+estaba siendo percibido con el peso que merecía, y que en aquellos momentos
+todavía no había sido conceptualizado ni analizado desde el punto de vista acadé­
+mico1. Un segundo debate (1995), planteado desde la perspectiva de la competitividad, se tejió en torno a las importantes conexiones existentes entre nivel tecno­
+lógico y Producto Interior Bruto2. Y el tercero (1997) lo hizo sobre la importancia
+que para nuestra convergencia real y nuestra competitividad tenía disponer cuanto
+antes de un adecuado Sistema Nacional de Innovación, que ya empezamos a
+tener3.
+
+1 «El d é f i c i t t e c n o l ó g i c o e s p a ñ o l c o m o p r o b l e m a e c o n ó m i c o y c u l t u r a l - , A n a l e s d e l a R e a l
+A c a d e m i a d e C i e n c i a s M o r a l e s y P o l í t i c a s , n ú m . 7 0 , p á g s . 6 3 - 7 5 . ( 1 . a e d . ) , M a d r id , 1 9 9 3 . « P r o b l e m a s e c o ­
+n ó m i c o s e s p a ñ o l e s e n la d é c a d a d e l o s n o v e n t a - , C í r c u l o d e L e c t o r e s , P l a z a & J a n é s , 1 9 9 3 , p á g s . 4 1 5 - 4 4 5 .
+R e p r o d u c id o e n E m p r e s a s d e N a v a r r a , 1 9 9 4 .
+2 «El d e b a t e s o b r e l a c o m p e t i t i v i d a d i n d u s t r ia l e n E s p a ñ a - , I n t e r v e n c i ó n - P o n e n c i a p a r a d e b a ­
+te , e n la R e a l A c a d e m ia d e C ie n c ia s M o r a le s y P o lític a s , A n a l e s d e l a R e a l A c a d e m i a d e C i e n c i a s M o r a ­
+l e s y P o l í t i c a s , n ú m . 7 2 , p á g s . 3 4 3 - 3 9 0 , M a d r id , 1 9 9 5 .
+3 « C o n v e r g e n c ia s r e a le s C ie n c ia , T e c n o lo g ía y E m p r e s a -, I n t e r v e n c ió n - P o n e n c ia p a r a d e b a te ,
+e n l a R e a l A c a d e m i a d e C i e n c i a s M o r a l e s y P o l ít ic a s , P a p e l e s y M e m o r i a s d e l a R e a l A c a d e m i a d e C i e n ­
+c i a s M o r a l e s y P o l í t i c a s , n ú m . 1 , p á g s . 7 2 - 8 5 , M a d r id , e n e r o 1 9 9 8 .
+
+116
+
+
+
+El cuarto debate (1998) puso sobre la mesa lo que ya en aquellos momen­
+tos empezaba a vislumbrarse como tema fundamental y que, al final, ha resultado
+ser así. El hecho de que la falta de competitividad de la economía española no se
+debía tanto a nuestro tradicional déficit de investigación, o a nuestro déficit tecno­
+lógico, sino a nuestra baja capacidad de convertir conocimiento en producto inte­
+rior bruto a través de mercado. Relación ésta que hoy configura el nudo de la cues­
+tión 4.
+El quinto, y último, lo celebramos en el mes de abril de este año sobre el
+sistema español de innovación y la universidad. Era de todo punto necesario plan­
+tear esta cuestión, en la medida que la universidad, como vimos, empieza a visua­
+lizarse por los analistas de la competitividad como el obstáculo más importante de
+los que se oponen a la mejora de nuestra capacidad de transformar conocimiento
+en producto interior bruto5. Fue un debate, vivo, y rico en matices, que pienso que
+la Academia tiene abierto todavía.
+En su artículo, nuestro compañero Juan Velarde señala que el número
+extraordinario que vamos a ofrecer a la sociedad significa una nueva aportación de
+la Academia al gran debate tecnológico abierto hace siete años. Y que lo hemos
+diseñado para huir del encapsulamiento de estas cuestiones en el estricto marco de
+la Academia. Convocando para ello a importantes científicos ajenos a la corpora­
+ción, para que nos ofrezcan su particular visión de cada uno de los múltiples pro­
+blemas que plantea el complejo ciencia-tecnología-sociedad.
+
+EL PROBLEM A
+
+Tal como hoy se nos plantea, el problema tecnológico nace en el año 1995
+con la formulación de la denominada -paradoja europea» enunciada por la Unión
+Europea, cuando llama a la «movilización» de Europa, para hacer frente a una situa­
+ción verdaderamente paradójica desde el punto de vista de la competitividad. Por­
+que, comparándolos con la de sus principales competidores, nos decía la Comisión
+entonces, los resultados científicos de la Unión Europea son excelentes, pero en los
+
+4 «El s i s t e m a e s p a ñ o l d e i n n o v a c i ó n c o m o f a c t o r d e c o n v e r g e n c i a r e a l» , C i c l o « E s p a ñ a e n
+E u r o p a : l a c o n v e r g e n c i a re a l» , P a p e l e s y M e m o r i a s d e l a R e a l A c a d e m i a d e C i e n c i a s M o r a l e s y P o l í t i c a s ,
+M a d r id , f e b r e r o 1 9 9 9 ; A n a l e s d e l a R e a l A c a d e m i a d e C i e n c i a s M o r a l e s y P o l í t i c a s , p á g s . 9 5 - 1 1 9 , M a d r id ,
+1999.
+5 «El s i s t e m a e s p a ñ o l d e i n n o v a c i ó n y la u n iv e r s id a d » , I n t e r v e n c i ó n - P o n e n c i a p a r a d e b a t e e n
+la R e a l A c a d e m ia d e C ie n c ia s M o r a le s y P o lític a s , P a p e l e s y M e m o r i a s d e l a R e a l A c a d e m i a d e C i e n c i a s
+M o r a l e s y P o l í t i c a s , p á g s . 8 8 - 1 0 9 , M a d r id , a b r i l 2 0 0 0 .
+
+117
+
+
+
+últimos quince años sus resultados tecnológicos, industriales y comerciales se están
+deteriorando notablemente. Lo que tiene una influencia muy negativa en la capa­
+cidad de competir, y plantea la urgente necesidad de que Europa desarrolle una
+estrategia agresiva para transformar mejor y más rápidamente su potencial científi­
+co y tecnológico en innovaciones rentables.
+Más recientemente, en la cumbre de Lisboa, del pasado mes de marzo, los
+Jefes de Estado y de Gobierno, conscientes de la enorme diferencia que en cues­
+tiones tecnológicas existe entre la Unión Europea y los Estados Unidos, y en espe­
+cial, y de manera progresivamente creciente, en cuanto se refiere al desarrollo de
+las nuevas tecnologías, establecieron como objetivo para la próxima década pro­
+mover una economía basada en el conocimiento, y tomaron importantes medidas
+para mejorar la competitividad de Europa, en orden, subrayaban, a convertirla en
+la economía más competitiva y dinámica del mundo. Una economía, decían, que
+fuera capaz de generar un crecimiento económico sostenible, con más y mejores
+empleos, y con mayor cohesión social6.
+Porque la Unión tiene muy claro que nuestro continente está perdiendo
+posiciones. Que las está perdiendo especialmente frente a Estados Unidos y frente
+a economías avanzadas emergentes, como Singapur o Hong Kong. Y que las está
+perdiendo en las líneas más fundamentales. Y el Informe Busquin de la Comisión
+Europea, hecho público en Enero de este año 20007, nos recuerda que la balanza
+comercial europea de productos de alta tecnología tuvo en el último ejercicio un
+déficit de veinte mil millones de euros. Y nos advierte que ese déficit va a crecer
+en los próximos años. Nos dice que Europa está invirtiendo progresivamente
+menos en -conocimiento». Que la imagen que los europeos tienen de la Ciencia es
+peor que la que tuvieron en otros momentos históricos. Que la distancia entre el
+mundo científico y la sociedad es grande. Que cada vez lo es más. Y que el pro­
+greso científico parece inspirarles más angustia que esperanza.
+
+6 I n m e d i a t a m e n t e d e s p u é s d e l a C u m b r e d e L i s b o a la C o m i s i ó n E u r o p e a p r o p u s o l a i n i c i a t i ­
+v a * e - E u r o p e » p a r a c o n s e g u i r a l c a n z a r l o s o b je t i v o s e s t a b l e c i d o s p o r a q u e l l a C u m b r e I n i c i a l m e n t e « eE u r o p e » d e f i n ió d i e z c a m p o s e n l o s q u e l a a c t u a c i ó n a n i v e l e u r o p e o a ñ a d i r í a v a l o r . T o d a s e s a s a c c i o ­
+nes
+
+han
+
+qu ed ad o
+
+in te g r a d a s e n
+
+t r e s o b je t i v o s c l a v e :
+
+l.° ) U n
+
+i n t e r n e t m á s r á p id a , b a r a t a y s e g u r a .
+
+2 .° ) I n v e r t ir e n l a s p e r s o n a s y e n l a f o r m a c i ó n . 3 o) E s t i m u la r e l u s o d e i n t e r n e t . V é a s e C o m i s i ó n d e l a s
+C o m u n i d a d e s E u r o p e a s - e - m a i l E u r o p e 2 0 0 2 . U n a s o c i e d a d d e la i n f o r m a c i ó n p a r a to d o s » . P r o y e c t o d e l
+p l a n d e a c c i ó n p r e p a r a d o p o r la C o m i s i ó n E u r o p e a p a r a e l C o n s e jo E u r o p e o d e F e i r a , 1 9 - 2 0 d e ju n i o
+d e 2000.
+7 V é a s e « T o w a r d s a E u r o p e a n r e s e a r c h a re a » , O f f i c e f o r O f f i c i a l P u b i i c a t i o n s o f t h e E u r o p e a n
+C o m m u n itie s , L u x e m b o u rg , 2 0 0 0 .
+
+118
+
+
+
+Y en el documento «La Innovación en una Economía de Conocimiento» del
+pasa do septiembre 8, la Comisión Europea informa al Consejo y al Parlamento
+Europeo, que para alcanzar los niveles de competitividad fijados en Lisboa será
+necesario que la innovación impregne la economía y se instaure en profundidad en
+la sociedad9.
+Para mejor situar todo lo anterior, y como resumen, debo recordar que el
+World Economic Forum nos informa que el índice del nivel de competitividad de
+la Unión Europea fue en 1999 del 0,57, frente al 1,58 de Estados Unidos, lo que,
+pese a la relatividad de estos índices, marca una brecha entre ambos continentes
+realmente notable 1012.
+También quiero recordar, para mejor acotar el problema que nos platea­
+mos esta noche, que una parte importante de la responsabilidad de esa pérdida de
+competitividad se encuentra en el escaso volumen de la inversión en I+D, puesto
+que los recursos que en España dedicamos a ese concepto están muy alejados de
+nuestras necesidades, y muy lejos sin duda de lo que se lleva en otros países de
+nuestro entorno. Me he referido muchas veces en este foro a la evolución históri­
+ca de nuestro país en I+D, y nuestra fotografía al respecto es ya muy conocida. Por
+ello, ahora sólo quiero señalar que, en estos momentos, nuestro índice de porcen­
+taje de PIB dedicado a I+D para 1998, último dato conocido para España, se sitúa
+en el 0,90, ligeramente inferior a nuestro máximo histórico del 0,93 que se alcanzó
+en el año 1993 n. Un 0,90 que compara muy mal con el 1,82% de la Unión Euro­
+pea para el mismo año, y con el 2,21 % de los países de la OCDE. Y desde luego,
+toda Europa compara muy mal con el 2,77 de Estados Unidos, y con el 2,89 de
+Japón n. También quiero recordar que en esa pérdida de competitividad también
+
+8 «La I n n o v a c i ó n e n u n a E c o n o m í a d e l C o n o c i m i e n t o » , C o m u n i c a c i ó n d e la C o m i s i ó n a l C o n ­
+s e jo y a l P a r la m e n to E u r o p e o . C o m is ió n d e la s C o m u n id a d e s E u r o p e a s , B r u s e la s , s e p t ie m b r e 2 0 0 0 .
+9 S o b r e l o q u e d e b e m o s e n t e n d e r a e s t o s e f e c t o s p o r « in n o v a c ió n » , v é a s e e l L i b r o V e r d e s o b r e
+l a I n n o v a c i ó n , e l a b o r a d o p o r la C o m i s i ó n e n 1 9 9 5 , d o n d e l a i n n o v a c i ó n s e d e f i n e c o m o l a r e n o v a c i ó n
+y a m p lia c ió n d e la g a m a d e p r o d u c to s y s e r v ic io s y d e lo s m e r c a d o s a s o c ia d o s ; e l e s t a b le c im ie n t o d e
+n u e v o s m é t o d o s d e p r o d u c c i ó n , s u m i n i s t r o y d i s t r i b u c ió n ; la i n t r o d u c c i ó n d e c a m b i o s d e g e s t i ó n , la
+o r g a n i z a c i ó n d e l t r a b a jo y l a s c o n d i c i o n e s l a b o r a l e s , y la p r e p a r a c i ó n d e l o s t r a b a ja d o r e s ( B o l e t í n d e l a
+U n ió n E u r o p e a , S u p le m e n to 5 9 5 ).
+10 V é a s e « T h e G l o b a l C o m p e t i t i v e n e s s r e p o r t 2 0 0 0 » , W o r l d E c o n o m i c F o r u m , G i n e b r a .
+11 E l d e s a r r o l l o d e l g a s t o t o t a l e n I + D p a r a E s p a ñ a y p a r a l o s c u a t r o g r a n d e s p a í s e s e u r o p e ­
+o s c o n lo s q u e n o s c o m p a r a m o s , e n p r o c e n t a je d e P I B , p u e d e v e r s e e n e l In fo r m e C o t e c 2 0 0 0 « T e c n o ­
+l o g í a e I n n o v a c i ó n e n E s p a ñ a » , M a d r id , 2 0 0 0 , p á g i n a 2 0 4 . L a m i s m a f u e n t e p a r a e x a m i n a r e l e s f u e r z o
+in v e r s o r e n I + D d e l a s r e g i o n e s e s p a ñ o l a s ( p á g s . 2 0 5 - 2 0 6 ) .
+12 E s i m p o r t a n t e d e s t a c a r q u e e l í n d i c e d e I + D e s e l a b o r a d o a n u a l m e n t e e n E s p a ñ a p o r e l
+I n s t it u t o N a c i o n a l d e E s t a d ís t i c a c o n n o r m a s i n t e r n a c i o n a l e s q u e p e r m i t a n s u h o m o l o g a c i ó n c o n o t r o s
+
+119
+
+
+
+asume una importante responsabilidad nuestra baja capacidad de transformar cono­
+cimiento en riqueza.
+
+LA SITUACIÓN EN ESTOS MOMENTOS
+
+En todo caso, y como contrapunto, nuestra situación va mejorando. Y es
+una realidad que vamos acercando posiciones. Todavía, sin embargo, la situación
+no es nada buena en los índices convencionales. Y más bien podríamos decir que
+la sensación de mejora que se percibe es por las expectativas que se van produ­
+ciendo. Porque el problema de la tecnología en nuestro país se está entendiendo.
+O porque ya parece que se están tomando medidas. Que en realidad se están
+tomando.
+Las políticas públicas, en efecto, han empezado a romper la atonía en que
+veníamos moviéndonos en lo que se refiere a la promoción de la innovación. Lo
+de muestra el significativo incremento de los recursos públicos que se vienen des­
+tinando a I+D en los últimos años, y más aún las que se están programando. Lo
+demuestran los cambios organizativos, que están atribuyendo un mayor peso en la
+sociedad a la ciencia y la tecnología, hasta el punto de haber llegado a la creación
+de un departamento ministerial propio. Y lo pone de manifiesto la fijación de ambi­
+ciosos objetivos programáticos para coordinar los distintos componentes del siste­
+ma de innovación, y muy en particular para facilitar que el potencial científico-tec­
+nológico acumulado en la década anterior, se proyecte a la resolución de los
+problemas de competitividad que nuestra economía tiene hoy planteados. Aunque
+todavía está por ver si seremos capaces de hacer operativo todo ello.
+Parece, pues, que poco a poco la innovación está pasando al primer pla­
+no de la agenda de las políticas públicas, de las estrategias empresariales, de la filo­
+sofía orientadora de algunas de nuestras universidades y centros de investigación,
+y de la propia opinión pública.*lo
+
+ín d i c e s P a r a e l l o , l a O C D E m a n t i e n e a c t u a l i z a d o , d e s d e l a d é c a d a d e l o s c i n c u e n t a , u n M a n u a l , c u y a p r i­
+m e r a e d i c i ó n ( 1 9 6 6 ) e s t á f e c h a d a e n F r a s c a t i ( I t a li a ) , q u e s e d e n o m i n a , p o r e l l o , M a n u a l F r a s c a t i , c o n la s
+p a u t a s a s e g u i r p a r a c o n f e c c i o n a r l o s f o r m u l a r i o s q u e r e c o g e n l o s d a t o s d e la a c t i v i d a d d e I + D e n s u s p a í ­
+s e s m ie m b r o s . E s u n í n d i c e d e g a s t o y n o u n í n d i c e d e c o n s i g n a c i o n e s p r e s u p u e s t a r i a s . P o r l o t a n t o , e n
+s u e la b o r a c ió n s e tie n e e n c u e n ta s ó lo lo q u e lo s in v e s tig a d o r e s n a c io n a le s h a n g a s ta d o r e a lm e n te , y n o
+lo p r e s u p u e s t a d o . S i n d i s c r i m i n a r c u á l e s la f u e n t e q u e f i n a n c i a e s e g a s t o . L a f i n a n c i a c i ó n m á s i m p o r t a n ­
+te , d e s d e lu e g o , c o r r e a c a r g o d e lo s p r e s u p u e s to s n a c io n a le s , p e r o e l ín d ic e in c lu y e ta m b ié n la fin a n c ia ­
+c i ó n e m p r e s a r ia l , l a f i n a n c i a c i ó n d e la s C o m u n i d a d e s A u t ó n o m a s , y l a p r o v e n i e n t e d e l e x t e r i o r .
+
+120
+
+
+
+Aunque no podemos decir lo mismo de los planteamientos globales de
+Europa, y desde luego de lo que a España se refiere en la política europea. Por­
+que, después de la llamada de atención de la Comisión de hace cinco años con su
+paradoja europea. Después de los esfuerzos que se han hecho desde entonces. Y
+después de los ambiciosos objetivos fijados en la Cumbre de Lisboa por los Jefes
+de Estado y de Gobierno, la posición de la Europa Comunitaria no parecen real­
+mente muy satisfactorias, ni en realidades ni en perspectivas. Como he indicado
+antes, los Jefes de Estado y de Gobierno se comprometieron en Lisboa a convertir
+la Unión Europea del año 2010 en la zona más competitiva del mundo, basándose
+en el desarrollo de la sociedad del conocimiento y la investigación científica. Pero
+no parece que las cosas vayan por ahí, como la propia Unión Europea lo está reco­
+nociendo.
+Desde el año 1984 la Unión cuenta, como instrumento para el fomento y
+coordinación de la investigación científica y tecnológica, con un Plan Estratégico
+mediante el cual la Comisión diseña y propone programas y proyectos a desarro­
+llar. Es el denominado Programa Marco, que concreta su política de acciones pun­
+tuales. Dispone también de un mecanismo de control sobre todo ello, porque, por
+decisión del Parlamento Europeo, la Comisión se responsabiliza de evaluar la efi­
+cacia de las distintas acciones emprendidas. Ello se ha traducido en la práctica en
+que, cada cinco años, un grupo de expertos independientes, de reconocido presti­
+gio, emite una opinión sobre la idoneidad y sobre la eficacia de las políticas y de
+las acciones ejecutadas.
+Pues bien, en el pasado mes de julio se hizo público el Informe del gru­
+po de expertos que había recibido el encargo de evaluar las actuaciones de la
+Comisión en el período 1995-1999 y las perspectivas de futuro, en función de las
+políticas aprobadas 13. Su dictamen ha sido realmente negativo, porque concluye
+que los recursos manejados y las acciones por la Comunidad emprendidas son
+insuficientes para influir de manera positiva en la competitividad de las empresas
+europeas y en la generación de la innovación que se requiere. Una conclusión
+basada en observaciones muy contundentes.
+Por ejemplo, el Informe nos dice, que para que Europa afronte los retos
+de la nueva economía tendríamos que superar en el 2010 el 3% del Producto Inte­
+rior Bruto en I+D+I, en orden a igualar el esfuerzo que realizan desde hace ya años
+Estados Unidos y Japón. Pero el hecho de que el índice sea en estos momentos del
+
+13
+
+-F iv e -y e a r a s e s s m e n t o f th e E u r o p e a n U n io n R e s e a r c h a n d T e c h n o lo g ic a l D e v e lo p m e n t
+
+P r o g r a m m e s , 1 9 9 5 -1 9 9 9 * , R e p o r t o f In d e p e n d e n t E x p e rt P a n e l. E u r o p e a n C o m m is s io n , J u ly 2 0 0 0 .
+
+121
+
+
+
+1,8% para el conjunto de Europa, hace, de acuerdo con las estimaciones de los
+expertos del Comité, que ese objetivo fijado para el 2010, sea prácticamente inal­
+canzable, salvo medidas verdaderamente excepcionales, que no se vislumbran.
+El Informe de los expertos nos dice también que tendremos que estimu­
+lar la inversión privada. Que es necesario introducir en el sistema reformas estruc­
+turales. Y sobre todo, nos plantea que tendremos que definir con urgencia una polí­
+tica científica común frente a las quince políticas científicas de hoy, que se
+yuxtaponen y a veces se contraponen. Porque en investigación y desarrollo, Euro­
+pa maneja quince políticas distintas, tantas como Estados miembros, que multipli­
+can gastos, fragmentan resultados, pierden sinergias, y hacen realmente imposible
+optimizar los resultados.
+Y recomienda la necesidad de atraer a los investigadores más capacitados,
+dado el déficit de investigadores de Europa 14, la conveniencia de introducir una
+mayor movilidad de investigadores en los centros públicos, en las empresas, entre
+Estados miembros, y con terceros países. Y la urgencia de implicar en las medidas
+para el fomento de la innovación a otros sectores, y particularmente a los sectores
+financiero y comercial.
+Ofrece dos recomendaciones adicionales directas a los Jefes de Gobierno
+de los países miembros. Una, la necesidad de incrementar los presupuestos de los
+Estados y de la Unión en materia de ciencia y tecnología, supuesto el papel crucial
+que ello juega en el desarrollo económico sostenido. Y otra, mejorar la coordina­
+ción entre los Estados para evitar duplicidades innecesarias, y para mejorar la coo­
+peración entre empresas y universidades, en orden a hacer ver al resto del mundo
+que Europa puede ser un espacio geográfico de interés para la ubicación investi­
+gadora y empresarial15.
+
+14 E n la U n i ó n E u r o p e a , la p r o p o r c i ó n d e i n v e s t i g a d o r e s e n r e l a c i ó n c o n la p o b l a c i ó n a c t i v a
+( 5 p o r 1 . 0 0 0 ) e s m á s b a ja q u e e n E s t a d o s U n i d o s ( 7 , 4 ) o e n J a p ó n ( 9 ) Y e l n ú m e r o d e i n v e s t i g a d o r e s
+e m p l e a d o s p o r e m p r e s a s s o b r e l a p o b l a c i ó n a c t i v a e s e n la U n i ó n E u r o p e a d e l 2 ,4 p o r 1 0 0 0 , m i e n t r a s
+q u e e n E s ta d o s U n id o s e s d e l 5 ,9 y e n J a p ó n d e l 6 ,3 .
+15 L a c o o p e r a c i ó n e n t r e l a s e m p r e s a s y l a s u n i v e r s i d a d e s o l o s i n s t i t u t o s d e i n v e s t i g a c i ó n n o
+e s tá m u y d e s a r r o lla d a e n la m a y o r ía d e lo s E s ta d o s m ie m b r o s S ó lo u n a m e d ia d e l 1 0 % d e la s e m p r e s a s
+e u r o p e a s c o la b o r a n c o n o r g a n is m o s in te g r a d o s e n la in fra e stru c tu ra e u r o p e a d e in n o v a c ió n . Y c u a n d o
+la s e m p r e s a s e u r o p e a s , e s p e c i a l m e n t e l a s g r a n d e s , c o l a b o r a n c o n o r g a n i z a c i o n e s d e o t r o s p a í s e s e n
+c u e s t io n e s d e t e c n o lo g ía , p r e f ie r e n q u e é s ta s s e a n e s ta d o u n id e n s e s e n lu g a r d e e u r o p e a s . P a r e c e q u e a l
+m e n o s u n te r c io d e la I+ D + I d e la s g ra n d e s e m p r e s a s d e b a s e e u r o p e a s e r e a liz a fu e r a d e s u p a ís d e
+o r ig e n , y q u e u n 2 0 % d e e s t o s e d ir ig e h a c ia lo s E s ta d o s U n id o s .
+
+122
+
+
+
+En todo caso, como he dicho, el Informe concluye de manera contundente
+que las acciones programadas hasta ahora no son suficientes por sí mismas para
+atender las metas establecidas en la cumbre de Lisboa. Y para confirmar esta con­
+clusión, el Comisario Philippe Busquin advertía el pasado mes de septiembre al Par­
+lamento Europeo, que los objetivos fijados en Lisboa no son alcanzables sin una
+política real «europea» de investigación, tecnología y desarrollo.
+
+DISPONEMOS DE NUEVOS ÍNDICES
+
+Pero hay algo más que, como europeos, y como españoles, nos debe
+poner en guardia sobre nuestro futuro en el mundo de la competitividad. Porque
+a la hora de definir la situación presente, y especialmente de analizar su evolución
+futura, disponemos hoy de información que hasta hace muy poco tiempo no ha
+empezado a ser relevante. Lo digo porque, a efectos de evaluar la evolución de
+nuestra competitividad, cada día aparecen como más significativos los índices de
+incorporación y utilización de las nuevas tecnologías, que constituyen la base de la
+«Nueva Economía», como nos decía la semana pasada nuestro compañero Jaime
+Terceiro.
+Unos índices que ponen de manifiesto que la brecha tecnológica entre
+Europa y Estados Unidos es realmente notable,6. Lo demuestra el índice de usua­
+rios de internet por cada cien habitantes. Un índice que para Estados Unidos alcan­
+za el 44 y para Europa el 19- O el número de hosts conectados a internet, que en
+Estados Unidos llega a 148 por cada mil habitantes, frente a 41 en Europa. Un índi­
+ce también muy significativo, porque valora las posibilidades de comercio electró­
+nico, al parecer una de las más importantes palancas del futuro desarrollo, es el
+número de servidores web «seguros» en transacciones económicas, que nos infor­
+ma que por cada millón de habitantes el número de esos servidores es en Estados
+Unidos de 208, frente a una media europea del 271617.
+
+16 A p r i n c i p i o s d e 2 0 0 0 s e e s t i m a b a q u e l o s u s u a r i o s m u n d i a l e s d e I n t e r n e t s e r e p a r t í a n a s í:
+4 3 % p a r a E E .U U ., 2 3 % p a r a E u r o p a , y e l 1 % p a r a E s p a ñ a . E n o c t u b r e d e 2 0 0 0 s e e s t i m a b a q u e e l c r e ­
+c im ie n to s e r ía p a r a e s t e a ñ o d e l 4 0 %
+
+p a r a e l to ta l m u n d ia l, y e l 5 0 % p a r a E s p a ñ a . H a b r e m o s p a s a d o
+
+d e l 1 % a l 1 ,0 6 % , p e r o e n té r m in o s a b s o lu to s la b r e c h a e s a b r u m a d o ra .
+17 S o b r e i n d i c a d o r e s d e p e n e t r a c i ó n s o c i a l d e n u e v a s t e c n o l o g í a s , v é a s e e l p r i m e r c a p í t u l o
+d e L a i n n o v a c i ó n e n l a s t e c n o l o g í a s d e l a i n f o r m a c i ó n y l a s t e l e c o m u n i c a c i o n e s ( C o t e c , M a d r id , 2 0 0 0 )
+T a m b i é n s o n d e i n t e r é s e l t r a b a jo e l a b o r a d o p o r e l S E D I S I p a r a e l M i n i s t e r i o d e I n d u s t r i a y E n e r g í a , t i t u ­
+la d o L a s t e c n o l o g í a s d e l a i n f o r m a c i ó n e n E s p a ñ a , q u e c o n t ie n e d a to s d e 1 9 9 8 , y e l I n f o r m e A n u a l d e
+l a C o m is i ó n d e l M e r c a d o d e l a s T e l e c o m u n i c a c i o n e s . O t r o s d o c u m e n t o s a p o r t a n d a t o s m e n o s o r i e n t a ­
+d o s a l a s i t u a c ió n e s p a ñ o l a , p e r o d e i n d u d a b l e r e l e v a n c i a , c o m o e s e l c a s o d e l T e c h n o l o g y O u t l o o k d e
+
+123
+
+
+
+Y todo empeora si nos referimos a España. Porque ya sabíamos que, en
+los distintos informes sobre competitividad nuestro país viene ocupando desde
+siempre una posición claramente insatisfactoria. Y el Instituto Internacional para el
+Desarrollo de la Gestión (IMD) se ocupa de recordarnos con regularidad que en la
+lista de los países más competitivos del mundo España ocupa, año tras año, pues­
+tos que van desde el 25 al 29. Pero ahora ya estamos en condiciones de definir con
+más precisión nuestra capacidad de competir en el futuro, empleando los índices
+de incorporación y utilización de nuevas tecnologías que acabamos de ver para el
+conjunto de Europa. Pues bien, en función de esos indicadores, la previsión em­
+peora notablemente. Porque en relación con Europa que, como hemos visto, ya se
+encuentra a enorme distancia de los Estados Unidos, España apenas llega a la cuar­
+ta parte de usuarios de internet en Europa, y a la sexta de hosts conectados1S.
+Indicadores que constituyen una consecuencia más del enorme, tradicio­
+nal y progresivo retraso estructural que tenemos en España, que muy en resumen
+podría describirse, en el caso de las nuevas tecnologías, diciendo que nuestro gas­
+to per cápita sólo representa en estos momentos una cuarta parte del americano y
+una mitad del europeo. Pero es que, además, ese gasto se distribuye de manera
+muy diferente a lo que viene siendo habitual en otras economías desarrolladas. Por­
+que dentro del conjunto de esas inversiones, nuestro gasto en informática y en
+redes privadas de comunicación representa algo más de una tercera parte del gas­
+to total de Europa, mientras que en equipos y servicios de telecomunicación nues­
+tro gasto asciende a las tres cuartas partes. Lo que significa que gastamos mucho
+más que proporcionalmente en equipos y servicios de telecomunicación, y nota­
+blemente menos en equipos informáticos y redes privadas. Y que, al final, se tra­
+duce en un más bajo aprovechamiento estructural del potencial que en orden a la
+competitividad ofrecen frente al futuro las nuevas tecnologías instaladas.
+En todo caso, todavía es necesario poner una serie de reservas a todas
+estas estadísticas. Primero, porque no está claro con qué grado de precisión hay18
+
+la O C D E d e l a ñ o 2 0 0 0 o la p u b l i c a c i ó n d e E I T O t i t u la d a E u r o p e a n I n f o r m a t i o n T e c h n o l o g y O b s e r v a t o r y ,
+1999.
+18
+
+S e g ú n e l E u r o p e a n In fo rm a tio n T e c h n o lo g y O b s e r v a to r y 2 0 0 0 (E I T O , 2 0 0 0 ) , e l n ú m e r o d e
+
+u s u a r i o s d e I n t e r n e t c r e c i ó e n E s p a ñ a m á s q u e e n E E U U ., l a U E y J a p ó n e n t r e 1 9 9 7 y 1 9 9 9 y s e p r e v é e s t a
+m i s m a t e n d e n c i a h a s t a e l a ñ o 2 0 0 5 . E n 1 9 9 9 , e n E s ta d o s U n id o s h a b ía m á s d e s e te n ta y s ie te m illo n e s
+d e u s u a r i o s , f r e n t e a l o s c u a r e n t a y t r e s d e la U E y l o s d o s m i l l o n e s y m e d i o d e E s p a ñ a . E I T O p r e v é q u e
+e l n ú m e r o d e u s u a r i o s d e E E .U U . y d e l a U E s e i g u a l e n e n e l a ñ o 2 0 0 5 . E s p a ñ a t e n d r í a e n t o n c e s o c h o
+m illo n e s y m e d io . E l c r e c i m i e n t o e n lo s a ñ o s 1 9 9 6 a 1 9 9 9 d e l o s g a s t o s f> e r c á p i t a e n T e c n o l o g í a s d e l a
+I n f o r m a c i ó n y C o m u n i c a c i o n e s ( T I C ) f u e m á s e l e v a d o e n E s p a ñ a q u e e n E E . U U ., U E y J a p ó n . E l c r e c i ­
+m i e n t o e n E E .U U . y e n l a U E f u e s i m i l a r . S i n e m b a r g o , e n v a l o r e s a b s o l u t o s , l o s d e E E .U U . s u p e r a r o n e n
+1 9 9 9 e n d o s v e c e s y m e d i a a l o s d e E s p a ñ a y l o s d e la m e d i a d e l a U E e n u n a v e z y m e d i a .
+
+124
+
+
+
+que interpretarlas, por lo reciente de su formulación. Pero segundo, porque toda­
+vía desconocemos lo que significan, en la medida que una cosa es disponer de un
+ordenador, otra cosa utilizarlo, una tercera para qué se utiliza, con todas las gra­
+duaciones y matices que se pueden hacer en cada uno de los tres apartados.
+
+M EJOR ANÁLISIS ACADÉMICO
+
+En el repaso que estamos haciendo de la situación española en la cues­
+tión tecnológica, parece que es obligado, especialmente desde una Academia,
+hacer referencia al importante hecho de que en estos momentos la comunidad aca­
+démica española se está ocupando intensamente del análisis de la problemática
+generada por la innovación, algo que hasta hace aún muy poco no se producía.
+Gracias a lo cual, empezamos a disponer de más información sobre la forma en
+que la innovación tecnológica influye en las relaciones internas parciales de las dis­
+tintas economías, y sobre cómo se desarrolla el mecanismo de transformación de
+conocimiento en Producto Interior Bruto. Lo que nos va a permitir programar mejor
+las actuaciones de la Administración y de las empresas.
+En concreto, estamos empezando a tener respuesta a la pregunta de cómo,
+en distintos supuestos, influyen en nuestra economía las nuevas tecnologías, tanto
+las generadas internamente como las adquiridas en el exterior. Y empezamos a dis­
+poner de resultados bastante precisos, en la medida que utilizando una función de
+producción del tipo Cobb-Douglas se ha conseguido modelizar la convergencia de
+18 países de la OCDE a una economía ficticia, que resultaría ser la promedio de
+todos ellos, como tuve ocasión de comentar en una pasada intervención. Pues bien,
+este modelo ha permitido llegar a la conclusión de que de los 18 países contem­
+plados, el caso español es en el que más se manifiesta la influencia negativa de la
+falta de tecnología en la convergencia en renta. Demostrando con ello que si Espa­
+ña hubiera sido capaz de dedicar recursos a I+D simplemente en proporción a su
+nivel de desarrollo, su tasa anual de convergencia con el promedio de la de los paí­
+ses de la OCDE hubiera sido del orden del medio punto porcentual acumulativo19.
+Conceptualmente, también se está avanzando bastante en lo que respecta
+a la teoría de la Innovación. Porque a principios de los años noventa se definió un
+concepto teórico sobre la innovación en el que se ha ido profundizando, y que ha
+alcanzado una gran difusión entre analistas y decisores públicos. Me refiero al
+
+19
+
+V é a s e A . de la F uente y X . V ives , " I n n o v a c i ó n t e c n o l ó g i c a y c r e c i m i e n t o e c o n ó m i c o » , E s t u ­
+
+d i o s C o t e c , n ú m . 1 1 y 1 1 b , F u n d a c i ó n C o t e c , M a d r id , 1 9 9 8 .
+
+125
+
+
+
+conocido como «Sistemas Nacionales de Innovación», a cuya formulación contribu­
+yeron de manera destacada autores europeos y americanos como A. Lundvall,
+R. Nelson, N. Rosenberg y C. Freeman20. Y que progresivamente, y con inusitada
+rapidez, se ha ido incorporando a las políticas de ciencia y tecnología y a las polí­
+ticas industriales de los más importantes países europeos. Salvo el nuestro.
+Porque una vez más hay que lamentar que su influencia haya sido real­
+mente modesta entre nosotros, en la medida que hasta hace muy poco no hemos
+sido capaces de formular políticas integradas para la creación de un sistema nacio­
+nal de innovación asociado al impulso del componente investigador. Aunque ya
+parece que estamos en ello.
+También quiero recordar que en los últimos años hemos ido viendo mul­
+tiplicarse las contribuciones teóricas y empíricas. Que comenzamos a contar con
+una literatura de carácter sistemático acerca del caso español. Y que han crecido
+espectacularmente el número de seminarios dedicados a sensibilizar a la sociedad
+sobre la importancia de la innovación y sobre la necesidad de un conocimiento
+profesional de la gestión de los procesos innovadores21. Sin olvidar que se están
+dando pasos para contar con una base estadística sobre un amplio abanico de
+variables de la innovación, que vienen a complementar la tradicional serie tempo­
+ral sobre actividades de I+D.
+Creo, por ello, que puede concluirse que el cambio tecnológico, y los mis­
+mos procesos de innovación, han pasado de tener un reducido peso, impropio de
+una economía avanzada, a integrarse en un lugar central de la agenda de investi­
+gación y reflexión de nuestros economistas, técnicos, y otros analistas.
+
+REFORMAS ESTRUCTURALES
+
+Y a partir de todo ello hay que volver a la urgentísima necesidad de intro­
+ducir en nuestro sistema reformas estructurales. Porque son absolutamente impres­
+cindibles, después de todo lo que venimos viendo. Porque ya tenemos capacidad
+20 R.
+
+N elson ( e d . ) , N a t i o n a l I n n o v a t i o n S y s t e m s , O x f o r d U n i v e r s i t y P r e s s . O x f o r d , 1 9 9 3 .
+
+21 E n l o s ú l t i m o s a ñ o s , r e a l m e n t e , h a h a b i d o u n c l a r o a u m e n t o d e l i n t e r é s d e l o s g r u p o s a c a ­
+d é m i c o s e s p a ñ o l e s p o r e l e s t u d i o d e la s c o n s e c u e n c i a s e c o n ó m i c a s d e la i n n o v a c i ó n E x i s t e n f r e c u e n t e s
+p u b lic a c io n e s e n p r á c tic a m e n t e to d a s la s lín e a s c o n s id e r a d a s d e in te r é s a c a d é m ic o e n e l á m b ito m u n ­
+d ia l. D e s t a c a n e l C S IC y la s U n i v e r s i d a d e s C o m p l u t e n s e , A u t ó n o m a d e M a d r i d y d e B a r c e l o n a , C a r l o s
+III, y P o m p e u F a b r a p o r s u s p u b lic a c io n e s e n r e v is ta s d e p r e s tig io m u n d ia l.
+
+126
+
+
+
+técnica y académica para plantearlas. Y porque, además, parece que ya se dispone
+de recursos financieros y de voluntad política de hacerlo.
+También la Unión Europea nos ha advertido sobre la necesidad de que
+Europa mejore la capacidad de transformar su potencial científico y tecnológico en
+innovaciones rentables, advirtiéndonos que nuestra baja capacidad de transforma­
+ción se debe fundamentalmente a defectos estructurales. Y pidiéndonos que cada
+país examine la peculiaridad de los factores culturales e institucionales que impi­
+den o retrasan que los avances científicos y tecnológicos se conviertan en éxitos
+industriales y comerciales.
+Una tarea que ya se está llevando a cabo, con distinta fortuna, en muchos
+países, y también en España. Tratando de profundizar en esa problemática y de
+detectar dónde se producen fallos estructurales en la mecánica de “traducir» cono­
+cimiento en riqueza. Investigando sobre las barreras que se oponen a que los pro­
+cesos de generación de conocimiento, de generación de riqueza, y la actividad tec­
+nológica de las administraciones públicas, se integren en un mismo circuito, para
+optimizar su rendimiento.
+Y unos años de investigaciones y de debate, especialmente intenso en
+España, nos han permitido disponer de una completa cartografía de los puntos
+fuertes y débiles de nuestro sistema de innovación, y de un conjunto de diagnósti­
+cos, recomendaciones, y medidas a tomar22. A partir de ello, pienso que no es exa­
+gerado decir que el sistema español de Ciencia y Tecnología conoce ya con bas­
+tante precisión la relación de factores institucionales que están retrasando o
+impidiendo el proceso de transformación de conocimiento en producto interior
+bruto, y cuál es el factor de ponderación de cada uno de ellos. Lo que nos debe­
+ría permitir desarrollar con urgencia un conjunto de políticas públicas y actuacio­
+nes orientadas a la vertebración de un verdadero «Sistema de Innovación» ágil,
+moderno y eficaz, que optimice nuestro proceso de transformar conocimiento en
+riqueza.
+Quiero aclarar que cuando hablamos de factores institucionales que retra­
+san o impiden el proceso de transformación del conocimiento en producto interior
+bruto nos estamos refiriendo siempre a aquellas instituciones o mecanismos, de
+
+22
+
+V é a s e E l S is te m a e s p a ñ o l d e in n o v a c ió n D ia g n ó s t ic o y
+
+r e c o m e n d a c io n e s . L ib r o B la n c o
+
+( C o t e c , M a d r id , 1 9 9 8 ) , d o n d e s e r e c o g e n l a s 3 6 c o n c l u s i o n e s d e d i a g n ó s t i c o y la s 3 4 r e c o m e n d a c i o n e s
+m á s re le v a n te s q u e s e d e s p r e n d e n d e u n d e b a te d e s a rro lla d o e n
+
+26
+
+s e s io n e s c e le b r a d a s e n to d a la g e o ­
+
+g ra fía n a c io n a l, c o n la p a r tic ip a c ió n d e u n o s o c h o c ie n t o s e x p e r t o s .
+
+127
+
+
+
+muy diversa titularidad o naturaleza, públicas o privadas, concebidas para facilitar
+la actividad innovadora de las empresas, proporcionándoles medios materiales y
+humanos para el desarrollo de su I+D+I.
+Así definidas, son muchas, pero en el «Libro Blanco sobre el Sistema de
+Innovación», se divide el Sistema Español en cinco integrantes básicos que hay que
+estudiar por separado: «Administraciones públicas», «Infraestructuras», «Sistema
+público de I+D», «Empresas» y «Entorno». Y aunque sea a grandes rasgos, me pare­
+ce conveniente examinar la situación presente de cada una de ellas en nuestro país.
+En primer lugar, y en lo que a las Administraciones Públicas se refiere23,
+ya no hay duda de que uno de los más importantes defectos de nuestro sistema
+reside en el hecho de que la responsabilidad sobre las diferentes etapas de la inno­
+vación tecnológica, desde la generación de conocimiento hasta su conversión en
+Producto Interior Bruto a través del mercado, se encuentra excesivamente dispersa
+entre distintos organismos y niveles administrativos, y que los diferentes organis­
+mos de la administración central del Estado no estén coordinados entre sí, dando
+lugar a costosas y frustrantes duplicidades y conflictos. Es también de lamentar, en
+esta rúbrica de las Administraciones Públicas, que no se haya realizado ningún
+esfuerzo para coordinar las distintas y a veces notables actuaciones de las Admi­
+nistraciones anteriores en relación con la innovación. Es cierto que con la creación
+del Ministerio de Ciencia y Tecnología, y con el nuevo Plan Nacional de I+D+I,
+parece que se han dado importantes pasos para corregir algunos de estos proble­
+mas, aunque ahora tendremos que hacer operativas esas medidas.
+Por otra parte, cuestiones como la falta de coordinación de las políticas
+científicas, tecnológicas, y de transferencia de resultados al tejido empresarial, o la
+escasa adaptación de los mecanismos de financiación pública de I+D a las necesi­
+dades de las empresas, deberían ser objeto de mucha más atención.
+El segundo componente de nuestro «Sistema Nacional de Innovación», las
+llamadas Infraestructuras24 está integrado por los centros y los parques tecnológi­
+cos. De acuerdo con los análisis más recientes, sus principales defectos estructura­
+les son los siguientes: Dedican muy poco esfuerzo a su papel de interfaz entre el
+sistema público de I+D y el tejido empresarial. Su tamaño es muy reducido. No han
+alcanzado todavía un grado medianamente aceptable de integración en el Sistema.
+Ni la importancia relativa que debería corresponderles dentro del marco europeo.
+
+23 L i b r o B l a n c o C o t e c 1 9 9 8 , p á g i n a s 4 9 - 6 6 y 1 1 1 - 1 2 2 .
+24 L i b r o B l a n c o C o t e c 1 9 9 8 , p á g i n a s 6 7 - 7 4 y 1 2 3 - 1 3 2 .
+
+128
+
+
+
+Y la mayoría de ellos no están dotados de medios e instrumentos para el incentivo
+y fomento de una estrategia de transferencia tecnológica a la empresa.
+El Sistema Público de I+D25, tercer componente del sistema, está integra­
+do por la Universidad y por los Organismos Públicos de Investigación, porque
+ambos son los principales generadores de conocimiento científico y tecnológico. Y
+ambos, como tuve ocasión de exponer en mi intervención de abril de este año,
+constituyen posiblemente el obstáculo estructural más importante a la innovación
+tecnológica.
+Es obligado, y lo he hecho en otras ocasiones, dejar constancia de que la
+calidad de la investigación desarrollada por el sistema público español hoy se con­
+sidera internacionalmente competitiva, pese a que los recursos que España dedica
+a la generación de conocimiento son mucho menores a los que corresponden a su
+desarrollo económico26. Pero también hay que decir: Que el potencial tecnológico
+del sistema público de I+D no es suficientemente conocido por el tejido producti­
+vo español. Que muchas de las pequeñas y medianas empresas consideran muy
+difícil relacionarse con la universidad y con los organismos públicos de investiga­
+ción.
+Y desde otra óptica, que el sistema de investigación tampoco tiene fór­
+mulas válidas para conocer las demandas del tejido empresarial. Y que la empresa
+no tiene el adecuado nivel de confianza en la universidad española, porque consi­
+dera que las enseñanzas no atienden sus necesidades, y porque es difícil encontrar
+en ella una respuesta a sus demandas de innovación27.
+
+25 L i b r o B l a n c o C o t e c 1 9 9 8 , p á g i n a s 7 5 - 8 0 y 1 3 3 - 1 4 2 .
+26 M ie n t r a s e l P r o d u c t o I n t e r i o r B r u t o e s p a ñ o l e s d e a l r e d e d o r d e l 1 1 %
+
+d e l d e lo s c u a tro
+
+g r a n d e s p a ís e s e u r o p e o s c o n lo s q u e c o m p a r a m o s , n u e s tr o g a s to d e I+ D e s ta n s ó lo d e l 4 ,5 % P e r o c o n
+e s e g a s to d e l 4 ,5 % n u e s tr a p r o d u c c ió n c ie n tíf ic a e s c a s i d e l 8 % , u tiliz a m o s e l 6 % d e lo s r e c u r s o s h u m a ­
+n o s d e in v e s tig a c ió n , y n u e s tra s v e n ta s d e t e c n o lo g ía n o in c o r p o r a d a a lc a n z a n e l 6 % . U n a p r o d u c c ió n
+c ie n tífic a e n la q u e h a s ta p o d e m o s e n c o n tr a r á r e a s d e in v e s tig a c ió n d o n d e n u e s tr o s re s u lta d o s e s tá n
+m u y , o b a s ta n te , p o r e n c im a d e l v a lo r d e la t e n d e n c ia a c tu a l m u n d ia l. C o m o e l s e c t o r d e la in g e n ie r ía ,
+c o n u n 4 0 % p o r e n c im a d e l m a r c a d o r d e im p a c to m u n d ia l e n s u c a m p o . O c o m o e n c i e n c i a d e m a te ­
+r ia le s , u n 9 % p o r e n c im a . L a s itu a c ió n d e la e v o lu c ió n c ie n tíf ic a e n E s p a ñ a , s u e v o lu c ió n , y la c o m p a ­
+r a c ió n c o n c u a tr o g r a n d e s p a ís e s e u r o p e o s c o n lo s q u e c o m p e tim o s e n té r m in o d e p u b lic a c io n e s c ie n ­
+t í f ic a s y c i t a s , p u e d e v e r s e e n e l I n f o r m e C o t e c 2 0 0 0 , T e c n o l o g í a e I n n o v a c i ó n T e c n o l ó g i c a , F u n d a c i ó n
+C o t e c p a r a l a I n n o v a c i ó n T e c n o l ó g i c a , M a d r id , 2 0 0 0 , p á g s . 2 0 9 - 2 1 0 .
+27 E n r e l a c i ó n c o n
+
+l o q u e s e h a d e n o m i n a d o « r ig id e c e s e s t r u c t u r a l e s - e n t r e u n i v e r s i d a d y
+
+e m p r e s a , v é a s e m i t r a b a jo « I n n o v a c i ó n t e c n o l ó g i c a y c r e a c i ó n d e r i q u e z a e n e l c a m b i o d e s i g lo - , A c t a s
+d e l a s P r i m e r a s J o m a d a s d e I + D , U n i v e r s i d a d P o l i t é c n i c a d e M a d r id , 1 9 9 8 .
+
+129
+
+
+
+Por otra parte, la actual reglamentación del sistema público de I+D+I hace
+casi imposible la movilidad de personal investigador hacia y desde las empresas. E
+incluso la Ley de la Ciencia española no presta atención a los centros de investi­
+gación como proveedores de servicios tecnológicos a las empresas. A lo que hay
+que sumar que la Ley de Organización y Funcionamiento de la Administración
+General del Estado olvida las peculiaridades de estos organismos, lo cual dificulta
+sin duda su gestión.
+En cuanto a las empresas28, cuarto componente del «Sistema Nacional de
+Innovación», su defecto estructural más importante es una falsa cultura de la inno­
+vación basada en tecnología adquirida, así como el que estén más interesadas en
+la innovación en procesos que en productos. Al margen de que la información dis­
+ponible demuestra, como ya sabemos, que los recursos que aplican a la innovación
+son proporcionalmente mucho menores que los que dedican sus competidores
+europeos, y de que disponen de menos personal cualificado para entender y obte­
+ner ventajas del cambio tecnológico.
+Todo esto, más o menos, es bastante conocido, pero lo verdaderamente
+grave es el hecho de que en un momento en que se está produciendo una aper­
+tura sin precedentes en los mercados, en un momento en el que casi a diario apa­
+recen nuevos productos, y en el que la administración apoya como nunca la inno­
+vación, hasta el extremo de haberla dotado de una fiscalidad inigualable, la
+empresa española no esté reaccionando adecuadamente a estos estímulos. Posi­
+blemente porque todavía no se ha desarrollado una cultura de la innovación29.
+El Entorno 30, el quinto y último componente del «sistema», tampoco ha
+favorecido tradicionalmente en nuestro país la introducción innovación tecnológi­
+ca. Porque los mercados interiores, las finanzas, y la educación, integrantes básicos
+de lo que llamamos entorno, no han sido inductores de actitudes innovadoras en
+la sociedad española.
+En cuanto a los mercados, la demanda privada ha sido poco exigente en
+cuanto al contenido tecnológico de sus compras, seguramente debido a su bajo
+nivel de formación. Y las administraciones públicas no se han comportado como
+
+28 L i b r o B l a n c o C o t e c 1 9 9 8 , p á g i n a s 8 1 - 9 4 y 1 4 3 - 1 5 2 .
+29 H a y a b u n d a n t e s d a t o s q u e l o d e m u e s t r a n S ó l o e l 1 1 % d e l a s e m p r e s a s e s p a ñ o l a s s o n h o y
+i n n o v a d o r a s e n c u e s t i o n e s d e t e c n o l o g í a , f r e n t e a l 3 3 % d e la m e d i a e u r o p e a . Y e s c a s a m e n t e u n 1 7 % d e
+e s e 1 1 % d e e m p r e s a s e s p a ñ o la s in n o v a d o r a s c u e n ta c o n u n d e p a r ta m e n to in te r n o p a r a e s ta fu n c ió n .
+30 L i b r o B l a n c o C o t e c 1 9 9 8 , p á g i n a s 9 5 - 1 0 6 y 1 5 3 - 1 6 2 .
+
+130
+
+
+
+compradores inteligentes para fomentar el aumento de la capacidad tecnológica de
+nuestras empresas. Por lo que puede decirse que, pese a las peticiones al efecto,
+es un hecho que con carácter general las compras públicas nunca han sido utiliza­
+das como instrumento al servicio de la política tecnológica.
+En relación con el entorno financiero, tampoco las instituciones del siste­
+ma han mostrado interés en abordar los riesgos e incertidumbres inherentes al pro­
+ceso de innovación. Recordemos a este respecto lo que el martes pasado nos decía
+Jaime Terceiro, en el sentido de que los tres elementos fundamentales de la nueva
+economía son la tecnología de la información y comunicación, el proceso de globalización, y «la aparición de los nuevos instrumentos financieros que hacen posi­
+ble su financiación».
+Y por lo que se refiere al sistema educativo, hay consenso de que este no
+prepara suficientemente para el ejercicio de la vida empresarial. Porque la forma­
+ción profesional, que debería formar al trabajador para inducir innovaciones incre­
+méntales desde su puesto de trabajo, está muy poco desarrollada. Y porque la uni­
+versidad no ha sido capaz de estimular un espíritu emprendedor en sus alumnos.
+Incluso en las carreras técnicas y de ciencias experimentales no se insiste suficien­
+temente en transmitir las peculiaridades de la aplicación empresarial de los cono­
+cimientos que se enseñan31.
+
+Las rúbricas que acabo de enumerar constituyen un primer inventario de
+lo que podríamos llamar los obstáculos estructurales a la inversión. A la vista de
+todo ello es clara la urgencia de introducir en nuestro sistema una serie de refor­
+mas estructurales 32. Porque si no lo hacemos, las cosas nos irán muy mal. Y por
+
+31 V é a s e m i i n t e r v e n c i ó n e n e l V I I I E n c u e n t r o C i e n t í f i c o d e la A s o c i a c i ó n A l e x a n d e r V o n
+H u m b o l d t E s p a ñ a s o b r e l a G e s t i ó n d e la C a l i d a d e n l a U n i v e r s i d a d , «La i n s t i t u c i ó n u n i v e r s i t a r i a e n e l
+m a r c o d e u n a s o c ie d a d d e c o n o c im ie n t o » , e n e l P a la c io M ir a m a r d e S a n S e b a s tiá n e n s e p t ie m b r e d e 1 9 9 8
+T a m b i é n m i i n t e r v e n c i ó n e n l a U n i v e r s i d a d M i g u e l H e r n á n d e z d e E l c h e , « M is ió n d e l a u n i v e r s i d a d e n
+u n a s o c ie d a d d e c o n o c im ie n t o . L a n e c e s id a d d e u n a r e fle x ió n c o n c e p t u a l-, c o n m o tiv o d e m i in v e s ti­
+d u ra c o m o D o c t o r H o n o ris C a u s a e n o c tu b r e d e 1 9 9 9 .
+32 U n o b s t á c u l o a l a o p t i m i z a c i ó n d e l p r o c e s o , y d e l o q u e s e h a b l a e n e l t e x t o , s e r e f i e r e a
+l a l o c a l i z a c i ó n d e l lu g a r ó p t i m o p a r a p l a n t e a r e l « d iá lo g o * t e c n o l ó g i c o , e s d e c i r , p a r a i n t r o d u c i r r a c i o n a ­
+l id a d a l a h o r a d e d e c i d i r c u á l d e b e s e r e l e s c e n a r i o m á s i d ó n e o p a r a o p t i m i z a r e l S i s t e m a N a c i o n a l d e
+I n n o v a c ió n e n b a s e a l d iá lo g o e n t r e e m p r e s a y u n iv e r s id a d C u e s tió n c o m p le ja , q u e m á s ta r d e o m á s
+te m p ra n o , n o te n d re m o s m á s re m e d io q u e a b o rd a r. P a ra m a y o r in fo r m a c ió n s o b r e u n a r e g io n a liz a c ió n
+d e l o s c o n t a c t o s e n t r e u n i v e r s i d a d , e m p r e s a , e s p e c i a l m e n t e l a p e q u e ñ a , v é a s e m i t r a b a jo «La l l a m a d a
+p a r a d o ja e u r o p e a : g l o b a l i z a c i ó n , r e g i o n a l i z a c i ó n e i n n o v a c i ó n - , C o n f e r e n c i a i n a u g u r a l d e la X X I I I R e u ­
+
+131
+
+
+
+otra parte, porque ya sabemos lo que hay que hacer. Es una tarea de todos, pero
+especialmente del Gobierno.
+
+INNOVACIÓN, INTERNET Y NUEVA ECONOMÍA
+
+No quiero terminar esta intervención sobre el estado de la cuestión tec­
+nológica, sin asomarme al complejo mundo que ya empieza a tejerse en torno a la
+innovación, a partir del nuevo instrumento que supone «Internet», y al reto que se
+le plantea desde la llamada Nueva Economía. Sin duda es una cuestión compleja,
+como tuvimos ocasión de ver en la ponencia de nuestro compañero Jaime Terceiro el pasado martes, que no puede despacharse ahora en unos pocos minutos, al
+aire de la problemática de la innovación.
+Aunque sí tenemos que aceptar que la cuestión del fomento de la inno­
+vación tecnológica ha acabado por desembocar en una problemática más general.
+La de la emergencia de la «economía del conocimiento».
+Porque, en paralelo a los análisis generales sobre innovación y sobre su
+significado económico, hace ya más de diez años que la mejor doctrina generada
+en Estados Unidos nos venía advirtiendo del fundamental papel que el desarrollo
+de las tecnologías de la información podía tener para la empresa y para la socie­
+dad en su conjunto. En aquellos momentos Internet ya existía, pero todavía era un
+espacio circunscrito al reducido segmento de los «iniciados», un grupo integrado por
+algunos miembros de la comunidad científica y de la institución militar, con pre­
+dominio del espacio americano frente al europeo. Pero sin tener todavía un signi­
+ficado económico directo, ni claro.
+Es en 1993, con el comienzo de la radical transformación de Internet,
+cuando, con la emergencia de la World Wide Web (las tres w), y con la superación
+del umbral o masa crítica que ello supuso, para comportarse como una nueva infra­
+estructura, y para conformarse como un nuevo espacio económico virtualmente
+global, se da paso ya a una nueva realidad.
+Porque a partir de la constitución de esa nueva infraestructura, y del nue­
+vo espacio económico que facilitan la convergencia de la informática, las teleco­
+municaciones y los procesos de globalización, ha ido tomando forma la percepción
+
+n ió n d e E s tu d io s R e g io n a le s « M u n d ia liz a c ió n , In n o v a c ió n , R e g ió n A r c o M e d ite r r á n e o * , R e v i s t a V a l e n c i a ­
+n a d ’E s t u d i s A u t o n ó m i c s , G e n e r a l i t a t V a l e n c i a n a , p r i m e r t r im e s t r e 1 9 9 8 .
+
+132
+
+
+
+de que estamos asistiendo a la emergencia de una «nueva economía», que posible
+mente esté necesitando nuevas reglas, nuevas estrategias, y desde luego, nuevas
+estructuras institucionales.
+Poco a poco empieza a ponerse de manifiesto el papel fundamental que
+la generación y difusión de ideas y conocimientos tienen en el crecimiento econó­
+mico. Y cómo toda una serie de parámetros pero, sobre todo, de reglas de juego
+vigentes, aunque no las leyes fundamentales, se están viendo alterados radical­
+mente 33. Tan radicalmente que hay quienes piensan que bajo determinadas cir­
+cunstancias la ley de rendimientos decrecientes, válida sin duda para el mundo de
+los objetos físicos, puede no serlo tanto para el mundo de las ideas o de los cono­
+cimientos. Es un debate que está abierto. Porque se debate cuáles pueden ser los
+efectos de la dramática reducción del coste de reproducción de la información, que
+está tendiendo a ser virtualmente nulo (por ejemplo, un paquete de software), y
+que sin embargo ha obligado previamente a hacer frente a costes altísimos para la
+consecución del «original». Unido todo a la aparición de monopolios de nuevo tipo,
+derivados de la combinación de ese coste prácticamente despreciable de replicación de una pieza de conocimiento una vez conseguida, y de la protección legal
+de la propiedad intelectual a través del mundo del «copyright»34. Una realidad que
+todavía es borrosa, pero sobre la que ya se está abriendo una apasionante contro­
+versia.
+Por de pronto, ya se puede decir que si en la pasada década los sistemas
+nacionales de innovación se abrieron paso entre los Gobiernos, preocupados por
+mejorar la competitividad de sus respectivas economías nacionales, ahora el dis­
+curso sobre la «nueva economía» está tomando forma en estos tres últimos años
+entre los decisores públicos, la empresa, las universidades y centros de investiga­
+ción, y en la propia opinión pública. Y los análisis e investigaciones sobre el impac­
+to y consecuencias que sobre cada uno de los sectores industriales puede producir
+la generalización de internet, empiezan a ser abundantes y profundos, y en algu­
+nos casos muy significativos 35. Caben por todo ello pocas dudas que, acertada o
+
+33 C . S hapiro y H . R . V arían, I n f o r m a t i o n R u t e s , H a r v a r d B u s i n e s s S c h o o l P r e s s , B o s t o n , 1 9 9 9 34 V é a s e D . N eef , T h e K n o w l e d g e e c o n o m y , B u t t e r w o r t h - H e i n e m a n n , B o s t o n , 1 9 9 8 .
+35 L a s i n v e s t i g a c i o n e s s o b r e e l c o m p o r t a m i e n t o y o p o r t u n i d a d e s q u e o f r e c e r á I n t e m e t - B 2 B
+e n l o s d is t in t o s s e c t o r e s i n d u s t r i a l e s e m p i e z a a s e r a m p l i o y p r o f u n d o L a m á s r e c i e n t e a p o r t a c i ó n a l p a r ­
+tic u la r p u e d e v e r s e e n e l In fo r m e U B S W a r b u r g d e l G r u p o U B S A G . ( s e p t ie m b r e 2 0 0 0 ) , d o n d e s e h a c e
+u n a n á l i s is g l o b a l d e l c o n ju n t o , y a n á l i s i s i n d i v i d u a l e s p a r a l o s q u i n c e s e c t o r e s i n d u s t r i a l e s m á s i m p o r ­
+ta n te s d e l m u n d o e n t e r o s o b r e e l im p a c to y la s c o n s e c u e n c ia s q u e s o b r e c a d a u n o d e e llo s p u e d e p r o ­
+d u c ir la g e n e r a liz a c ió n d e in te r n e t. P o r lo q u e r e s p e c ta a c ó m o in n o v a e l s e c to r d e In fo r m a c ió n y T e le ­
+c o m u n ic a c io n e s , y s o b r e c u á le s s o n la s c a r a c te r ís tic a s d e lo s a g e n te s q u e in te r v ie n e n e n s u s p r o c e s o s
+
+133
+
+
+
+equivocadamente, ese discurso va a marcar las políticas y las estrategias de la pró­
+xima década, especialmente en el mundo de la Innovación, al que le estamos dedi­
+cando esta tarde.
+*
+
+*
+
+Porque hay algo que no podemos dejar de considerar, y es que el reto tec­
+nológico se nos plantea en un momento en el que la globalización no es simple­
+mente un concepto, sino una realidad empíricamente observable36. Y donde el sis­
+tema americano de innovación y creación de riqueza se ha situado muy por delante
+de la del resto de países avanzados, ofreciendo resultados que hoy son motivo de
+verdadera admiración y de creciente perplejidad en Europa. Unos resultados que
+se están concretando en unas altas tasas de crecimiento sostenidas durante más de
+una década, en pleno empleo, en una baja inflación, y en un fortísimo desarrollo
+de los sectores económicos de demanda fuerte. Todo lo cual plantea a Europa un
+desafío en términos de competitividad, que puede llegar a ser un desafío de super­
+vivencia.
+Ello quiere decir que el fomento de la innovación, en las condiciones que
+plantea la emergencia de la «nueva economía», nos va a exigir atender a todo un
+continuum, que va desde la arquitectura organizativa de nuestras empresas e ins­
+tituciones públicas, a la gestión de los procesos de creación de ciencia y tecnolo­
+gía, pasando por una reorientación drástica de una función, tan vital a toda socie­
+dad avanzada, como es la del aprendizaje a lo largo de todo el ciclo de vida de los
+individuos. De esta manera, la universidad y las instituciones de investigación ten­
+drán que ir desplazándose más hacia el centro del sistema de creación de riqueza,
+para ir adquiriendo nuevas características y nuevas funciones. A todo esto me refe­
+rí «en extenso» el pasado mes de Enero en mi intervención en esta Academia sobre
+el Sistema Español de Innovación y la Universidad.
+
+i n n o v a d o r e s y la s r e l a c i o n e s q u e s e e s t a b l e c e n e n t r e e s t o s ú l t i m o s , p u e d e v e r s e u n p r o f u n d o y d e t a l l a ­
+d o a n á l i s is e n «La i n n o v a c i ó n e n l a s t e c n o l o g í a s d e i n f o r m a c i ó n y l a s t e l e c o m u n i c a c i o n e s » , I n f o r m e s o b r e
+e l s i s t e m a e s p a ñ o l d e i n n o v a c i ó n , F u n d a c i ó n C o t e c p a r a l a I n n o v a c i ó n T e c n o l ó g i c a , M a d r id , 1 9 9 9 , 2 5 5
+p á g in a s .
+36
+
+L a g lo b a liz a c ió n h a p u e s to a la s e m p r e s a s e u r o p e a s , y a la U n ió n e n s u c o n ju n t o , e n u n a
+
+s i t u a c ió n d e l i c a d a E l b a l a n c e t e c n o l ó g i c o d e la U n i ó n E u r o p e a e s d e f i c i t a r i o , m i e n t r a s q u e l a s c i f r a s a
+e s t e r e s p e c t o e n E s t a d o s U n i d o s y e n J a p ó n s o n c a d a v e z m á s p o s i t iv a s . P a r a c u a l q u i e r e m p r e s a l o s
+b e n e f i c i o s q u e s e d e r i v a n d e l a i n n o v a c i ó n , y l o s p e r ju i c i o s p o r s u a u s e n c i a , s o n c a d a v e z m a y o r e s y s e
+d e ja n s e n t i r m á s r á p i d a m e n t e . ( C o m i s i ó n d e l a s C o m u n i d a d e s E u r o p e a s , L a i n n o v a c i ó n e n u n a e c o n o ­
+m í a d e l c o n o c i m i e n t o , p á g . 1 3 ).
+
+134
+
+
+
+La conclusión más inmediata en estos momentos, no puede ser otra que
+la urgencia de que las empresas y las instituciones públicas se replanteen de mane­
+ra radical su arquitectura, en orden a incrementar de manera significativa su flexi­
+bilidad, su capacidad de engranar con el entorno y de capturar conocimientos, den­
+tro y fuera de ellas. Al mismo tiempo, las instituciones educativas, y todos los
+agentes que intervienen en los procesos de aprendizaje, deberán ampliar y modifi­
+car de manera drástica su misión y la interrelación con otras instituciones y agen­
+tes. Y el Estado, por supuesto, tendrá que ayudar a poner en pie todas aquellas
+estructuras y arreglos institucionales capaces de sostener y fomentar la innovación,
+el conocimiento, y la formación dentro del mismo marco. Todo lo demás ya lo ire­
+mos viendo.
+
+Tendremos también que hacer esfuerzos para que el despegue de la «Eco­
+nomía de Internet», y el altísimo ritmo de avance y convergencia de las distintas tec­
+nologías de la información, no nos hagan olvidar en ningún momento que los prin­
+cipales efectos de la «3 w» sólo se conseguirán a través de su «infiltración» en todas
+las áreas de la producción y la distribución. Y de interaccionar con ellas modifi­
+cándose en esa interacción, más que de operar como alternativa a las mismas, o
+como una simple capa o estrato depositado sobre la estructura productiva preexis­
+tente. Vuelvo sobre lo que dije al principio de esta intervención, repitiendo una
+advertencia de la Comisión Europea en Informe al Consejo y al Parlamento Euro­
+peo: los niveles de competitividad que necesitamos sólo se conseguirán cuando la
+innovación impregne la economía y se instaure en profundidad en la sociedad.
+No hay ya duda de que hemos entrado en un período en el que la apues­
+ta por la innovación es la única posible para sociedades y economías avanzadas
+como la nuestra. Pero tampoco la hay de que la aparición de la «nueva economía»
+representa un importante salto de complejidad en los procesos de innovación, que
+cada día abarcan más dimensiones y nuevas interrelaciones. Necesitaremos, por
+ello, que nuestros científicos sociales, científicos y tecnólogos, colaboren con la
+empresa y con las administraciones públicas en cartografiar e interpretar el nuevo
+espacio económico en proceso de formación, trasponiendo las mejores prácticas y
+experiencias de otras economías, pero atendiendo también a lo que constituye el
+contexto propio del marco europeo, y la de nuestro país. Y en este proceso nece­
+sitaremos disponer de mucha inteligencia.*
+*
+
+135
+
+
+
+Termino ya. En el inicio del nuevo siglo, España se enfrenta al importan­
+te reto de dejar definitivamente canceladas las consecuencias de las ocasiones his­
+tóricas perdidas, de las decisiones no tomadas en su momento, o de los cursos de
+acción erróneos en coyunturas críticas del pasado, en las que la mayor parte de los
+países de nuestro entorno apostaron por la modernización basada en la industria y
+la revolución científica, en tanto que nosotros no supimos acertar el rumbo.
+Ahora nos encontramos en otro momento crítico. Porque el ritmo de cam­
+bio económico-social es hoy tan alto y tan rápido, que la inacción, o las opciones
+equivocadas, pueden tener consecuencias devastadoras para la frontera de posibi­
+lidades colectivas de un país.
+No hay duda de que en las últimas dos décadas hemos acortado distan­
+cias en la convergencia con los países a los que, por cultura y herencia comparti­
+da, pertenecemos. Pero tenemos que ser conscientes de que todavía estamos bas­
+tante alejados de la media de los países de nuestro entorno. Y como integrantes de
+Europa, tenemos que ser también conscientes de que el reto más importante que
+tenemos planteado en nuestro continente es el tecnológico. Y que la innovación es
+la clave fundamental para ello.
+
+136
+
+

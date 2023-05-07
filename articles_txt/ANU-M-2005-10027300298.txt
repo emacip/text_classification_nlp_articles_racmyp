@@ -1,0 +1,1431 @@
+EL MARCO CONCEPTUAL DE LA ESTABILIDAD
+PRESUPUESTARIA Y SU TRASLACIÓN
+EN LA CONSTITUCIÓN EUROPEA
+P o r e l A ca d ém ico d e N ú m ero
+Excm o. Sr. D . José B area T e jeiro *
+
+Excmo. Sr. Presidente,
+Excmos. Sres. Académicos,
+Mi intervención de hoy trata del -Marco conceptual de la estabilidad presu­
+puestaria y su traslación en la Constitución Europea». Es un tema polém ico, que en
+estos momentos está sujeto a debate en la Comisión Europea, para m odificar el
+Pacto de Estabilidad y Crecimiento e inclusive las reglas ligadas al Tratado de la
+Unión. En España se ha planteado la necesidad de reformar la Ley General de Esta­
+bilidad Presupuestaria para dar una mayor flexibilidad a la política presupuestaria
+en tiempos de crisis.
+Mi intervención la vo y a dividir en los cinco apartados siguientes:
+• El marco teórico de la estabilidad presupuestaria y las cuestiones que
+plantea.
+• El marco conceptual del superávit/déficit público.
+• Interpretaciones del marco teórico sobre la estabilidad presupuestaria.
+
+* Sesión d el día 25 d e enero d e 2005.
+
+273
+
+
+
+Consecuencias de abandonar el principio de estabilidad presupuestaria.
+La estabilidad presupuestaria en la Constitución Europea.
+
+1.
+
+EL MARCO TEÓRICO DE LA ESTABILIDAD PRESUPUESTARIA
+Y LAS CUESTIONES QUE PLANTEA
+
+Todo el mundo habla de la estabilidad presupuestaria, pero la concepción
+que de la misma se hace no es idéntica para todos los autores. Voy a tratar de enfo­
+car el tema desde el punto de vista teórico para que, partiendo del mismo, tratar
+de exponer las interpretaciones que de la estabilidad presupuestaria se han dado.
+Existe una restricción presupuestaria intertemporal que liga, a largo plazo,
+la serie actualizada de los gastos no financieros estimados con la suma actualizada
+de los ingresos no financieros estimados, de forma tal que la primera no debe exce­
+der a la segunda. En teoría éste sería el marco conceptual de la estabilidad presu­
+puestaria.
+Esta concepción podemos representarla a través de las fórmulas siguien­
+tes:
+te = n
+2
+(g.n .f.)x (1 + i ) x <
+
+x =n
+
+x =1
+
+x =1
+
+g.n.f. = gastos no financieros
+
+2
+
+(i.n .f.)x (1 + i) ~x
+
+i.n.f. = ingresos no financieros
+
+x =n
+0<
+
+2
+
+[ (i.n .f.)x - (g.n .f.)x ] (1 + i) x
+
+x =n
+
+2
+
+^
+
+(1 + i f x
+
+>
+
+0
+
+x =1
+donde Sx es igual al saldo de liquidación presupuestaria del año X;
+Si Sx es > 0 indica que existe superávit en el año X, si Sx es < 0 significa
+que existe déficit. La conclusión que se obtiene es que la suma actualizada de los
+superávit y déficit a largo plazo debe ser mayor que cero, y por tanto estar en supe­
+rávit.
+274
+
+
+
+Este marco teórico de la estabilidad presupuestaria plantea las dos cues­
+tiones siguientes:
+• cómo se determinan los déficit/superávit,
+• las interpretaciones que se han dado al concepto de estabilidad presu­
+puestaria que pasamos a analizar seguidamente.
+
+2.
+
+EL MARCO CONCEPTUAL DEL SUPERÁVIT/DÉFICIT PÚBLICO
+
+El déficit/superávit puede ser considerado en razón del ámbito institucio­
+nal, del criterio de imputación temporal de las transacciones y de las operaciones
+que deben ser tenidas en cuenta para su cálculo.
+Del cruce de estos criterios resultan un sinfín de conceptos de déficit o
+superávit, por lo que es necesario fijar la clase de déficit que vamos a utilizar en
+nuestro análisis.
+El concepto de déficit/superávit al que vamos a referirnos es el de «capa­
+cidad o necesidad de financiación» del Sistema Europeo de Cuentas Nacionales y
+Regionales.
+Con relación al conjunto de la nación, el SEC establece que «la capacidad
+o necesidad de financiación muestra el importe neto de los recursos que la nación
+pone a disposición del resto del mundo, o que el resto del mundo proporciona a
+la nación. La capacidad (+ ) o la necesidad (—) de financiación del total de la econo­
+mía es igual, pero de signo opuesto a la necesidad ( - ) o capacidad (+ ) de finan­
+ciación del resto del mundo. La capacidad o necesidad de financiación de la nación
+es igual a la suma de las capacidades o necesidades de financiación de los dife­
+rentes sectores de la economía nacional».
+El concepto de público que utilizaremos al hablar del déficit se refiere al
+del sector Administraciones Públicas, que de acuerdo con el SEC incluye «todas las
+
+unidades institucionales que son otros productores no de mercado cuya producción
+se destina al consumo individual o colectivo, que se financian principalmente
+mediante pagos obligatorios efectuados p or unidades pertenecientes a otros sectores
+y/o que efectúan operaciones de redistribución de la renta y de la riqueza nacional».
+Este concepto de déficit público es el que se utiliza igualmente en el Trata­
+do de la Unión Europea. En efecto, el artículo 2 del Protocolo sobre el procedi­
+275
+
+
+
+miento aplicable en caso de déficit excesivo, Anexo al Tratado de la Unión esta­
+blece, a los efectos del artículo 104 C del Tratado, que se entenderá por:
+— «Déficit, el volum en de endeudamiento neto con arreglo a la definición
+del Sistema Europeo de Cuentas Económicas Integradas (SEC-79, hoy SEC-95>.
+— «Público, lo perteneciente al Gobierno general, es decir, al Gobierno
+central, al G obierno regional o local y a los fondos de la Seguridad Social con
+exclusión de las operaciones de carácter comercial, tal com o se definen en el Siste­
+ma Europeo de Cuentas Económicas Integradas (h oy SEC-95>.
+Para el SEC el endeudamiento neto equivale a la diferencia entre las varia­
+ciones netas de activos y pasivos financieros que, en principio, es equivalente al
+saldo de la cuenta de adquisiciones de activos no financieros, esto es: la necesidad
+de financiación. La delim itación que del concepto de «público* hace el Tratado de
+la Unión Europea coincide con la definición que del Sector de Administraciones
+Públicas efectúa el SEC. Por tanto, la referencia del artículo 104 C del Tratado de la
+Unión Europea a «déficit públicos» se corresponde con la definición de «necesidad
+de financiación» de las Administraciones Públicas en el Sistema Europeo de Cuen­
+tas Económicas Integradas (1979) y del Sistema Europeo de Cuentas Nacionales y
+Regionales (1995).
+El marco europeo de la política fiscal está en el artículo 104 del Texto
+consolidado de la Unión, que establece la obligación de los Estados miembros de
+evitar los déficits excesivos, y en el artículo 103, que señala que ni la Comunidad
+ni los Estados miembros asumirán o responderán de las deudas que haya incurri­
+do algún Estado miembro, con lo que se garantiza que si un país decide aplicar
+una política fiscal no saneada, el incremento de la prima de riesgo resultante reca­
+erá exclusivamente sobre la deuda del citado país, no afectando a la deuda del
+resto de los países. El Protocolo sobre el procedim iento aplicable en caso de défi­
+cit excesivo, que fue incorporado com o A nexo al Tratado Constitutivo de la Comu­
+nidad Europea, constituye la piedra fundamental del marco fiscal de la Unión
+Monetaria Europea, encom endando a la Comisión Europea la función de supervi­
+sar los avances presupuestarios y el stock de deuda del sector público de los Esta­
+dos miembros. Se considera déficit excesivo cuando supera el 3 por 100 del PIB a
+precios de mercado.
+El Sistema de Cuentas Nacionales de Naciones Unidas de 1970 (SCN) no
+contenía un apartado expreso dedicado a los principios contables del SCN, sino
+que aparecen enunciados al tratar determinados tipos de operaciones.
+276
+
+
+
+El Sistema Europeo de Cuentas Económicas Integradas (SEC-79) dedicó el
+Capítulo VII, bajo la denominación de reglas de contabilización, a recoger el
+conjunto de principios y convenios contables del SEC, que condicionan la contabi­
+lización de las transacciones realizadas por los diferentes agentes económ icos del
+país y, por tanto, la información económica suministrada y los resultados que
+pueden obtenerse del análisis de la actividad de dichos agentes económicos.
+El SEC constituye un conjunto coherente y detallado de cuentas y cuadros,
+cuyo fin es dar una visión sistemática, comparable y lo más completa posible, de
+la actividad económ ica de cada país miembro, siendo tarea esencial de todo siste­
+ma de Contabilidad Nacional dar una representación del circuito económ ico que
+sea clara y adaptada a las necesidades del análisis, de la previsión y de la política
+económica.
+Lo mismo que en la contabilidad de empresas y en la contabilidad públi­
+ca, los principios contables del SEC constituyen el mecanismo capaz de expresar la
+realidad económ ica de las transacciones realizadas en cada nación, haciendo posi­
+ble que de su aplicación sistemática (y de la regulación de las cuentas y cuadros
+del SEC) resulte la imagen fiel de la actividad económ ica de cada país comunitario.
+Los principios contables o reglas contables com o las denomina el SEC-95,
+son los siguientes:
+— valoración de las operaciones.
+— momento del registro de las operaciones.
+— consolidación y cálculo del neto.
+— cuentas, saldos contables y agregados.
+En el sector empresarial los principios contables tienen por objeto alcan­
+zar la imagen fiel de la actividad económica de la empresa, en el Plan General de
+Contabilidad 1 se dice que la imagen fiel es el corolario de aplicar sistemática y
+regularmente los principios contables, entendiendo éstos com o el mecanismo
+capaz de expresar la realidad económica de las transacciones realizadas y en el Plan
+General de Contabilidad Pública se dice que la aplicación de los principios conta­
+bles deberá conducir a que las cuentas anuales, formuladas con claridad, expresen
+la imagen fiel del Patrimonio, de la situación financiera, de la ejecución del Presu­
+puesto y de los resultados de la entidad, resultando, por tanto, que considera los
+
+1 AECA. Documento núm. 1 d e Principios Contables.
+
+277
+
+
+
+principios contables como el mecanismo capaz de expresar la realidad económica
+de las transacciones realizadas.
+Esta opinión no es sin embargo totalmente compartida por la doctrina. En
+el campo de la contabilidad de la empresa, para el Profesor CEA2 los principios de
+contabilidad generalmente aceptados son un instrumento que no puede antepo­
+nerse al objetivo de que se respete la naturaleza económico-financiera de los
+hechos empresariales, y en el campo de la Contabilidad Nacional puse de mani­
+fiesto (1993) que en el ejercicio de 1992 hubo un conjunto de operaciones en la
+Administración Central, a los que se aplicaron principios contables del SEC-79 que
+no respetaban la naturaleza económica de las operaciones, y que por tanto influ­
+yeron en la cuantificación del déficit público en razón de los principios contables
+aplicados. Las clases de operaciones fueron las siguientes:
+
+a ) gastos realizados en ejercicios anteriores, que no estaban contabiliza­
+dos, que se afloraron en el ejercicio 1992;
+b)
+
+gastos del ejercicio 1992, que por diversas causas no aparecían conta­
+
+bilizados;
+
+c)
+
+ingresos derivados de la privatización de empresas públicas;
+
+d ) ingresos derivados de la intervención del Banco de España en los
+mercados monetarios para sostener la peseta;
+e)
+
+intereses de la deuda pública qué afectaban a distintos períodos
+
+contables.
+Por Decisiones de EUROSTAT posteriores a 1992, han quedado aclaradas
+todas estas cuestiones, coincidiendo con la interpretación que yo había dado a tales
+hechos económicos (Barea, 1993).
+Con posterioridad a la entrada en vigor en 1999 del Sistema Europeo de
+Cuentas Nacionales y Regionales (SEC-95) ha sido publicado por EUROSTAT el
+Manual del SEC-95, sobre el déficit público y la deuda pública (2.a edición, 2002)
+que aclara muchas de las cuestiones que he venido planteando en diversos artícu­
+los, sobre la determinación correcta del déficit público.
+
+2
+
+«Sobre el deber ser y el ser d e los Principios de Contabilidad generalmente aceptados-, en
+
+Lecturas sobre Principios Contables, m onográfico AECA núm. 13.
+
+278
+
+
+
+3.
+
+INTERPRETACIONES DEL MARCO TEÓRICO
+SOBRE LA ESTABILIDAD PRESUPUESTARIA
+
+Dentro del marco teórico de la estabilidad presupuestaria surgen diversas
+interpretaciones, que vamos a enumerar, dando mi opinión sobre ellas:
+
+a)
+
+La del Tratado de la Unión Europea
+
+En los Acuerdos de Maastricht, la Unión Monetaria (UME) quedó diseñada
+como un área de estabilidad, a cuyo efecto se establecieron condiciones estrictas
+para que los Estados miembros pudieran incorporarse a la misma. La convergencia
+hacia la senda de estabilidad quedó confiada a la voluntad y a las decisiones de cada
+Estado miembro, si bien sometida a la supervisión de los organismos comunitarios.
+La condicionalidad para el acceso se concretó en la satisfacción de una serie de crite­
+rios entre los cuales se incluía el que las finanzas públicas debían encontrarse en
+una situación sostenible, lo que se demuestra si el déficit y la deuda pública no
+superan el 3 y el 60 por 100, respectivamente, de su Producto Interior Bruto.
+La idea básica que se tuvo en cuenta para proponer reglas de obligado
+cumplimiento sobre el tamaño del déficit y de la deuda pública ha sido que un
+país que esté en una senda de crecimiento continuo del déficit y de la deuda
+pública puede crear efectos externos negativos sobre el resto de la UME, bien
+obligando a otros países a seguir políticas más deflacionistas de optar por estabi­
+lizar sus ratios deuda pública/PIB, bien presionando al BCE para que relaje su
+política monetaria.
+Las consecuencias de la política fiscal diseñada en el Tratado de la Unión
+es que la totalidad de los gastos no financieros de los países miembros se cubran
+con el rendimiento de los impuestos corrientes y sobre el capital, lo que daría lugar
+a un incremento neto del patrimonio de los entes públicos, dejando que los recur­
+sos disponibles del mercado de capitales se dirijan a financiar las inversiones del
+sector empresarial.
+Los Gobiernos de algunos Estados miembros se han olvidado de efectuar
+las reformas estructurales para hacer sus economías más flexibles y más competiti­
+vas, entre ellas la reforma del gasto público, que le hubiera dado un mayor margen
+de maniobra temporal para absorber la caída del ciclo, sin traspasar el límite del 3
+por 100 de déficit. Esto no lo han realizado y han colocado a sus economías y a la
+UME en una situación muy grave, al practicar una política keynesiana para reacti­
+var la demanda interna. Sin embargo, empíricamente ha quedado demostrado que
+los fuertes déficit públicos de Japón y los incrementos de deuda no han servido
+279
+
+
+
+para sacar a la econom ía japonesa durante diez años del encefalograma plano en
+cuanto a crecimiento.
+
+b)
+
+La del Pacto de Estabilidad y Crecimiento
+
+Dicho Pacto pretende que los Estados miembros de la Unión Monetaria
+dispongan de un margen suficiente para hacer frente a las futuras obligaciones de
+la protección social, derivadas del envejecim iento de la población. Europa lo tiene
+ya y se va a aumentar a consecuencia de cumplir sesenta y cinco años la genera­
+ción del «baby boom», que disparará el crecim iento del gasto público y del déficit
+público si no se adoptan las medidas adecuadas, entre ellas la disponibilidad de un
+margen de maniobra para no rebasar el 3 por 100 de déficit sobre el PIB.
+Por el Pacto de Estabilidad, los Estados miembros se comprom eten a
+conseguir situaciones presupuestarias próximas al equilibrio o con ligero superávit,
+sin em bargo admite que, en casos excepcionales y de forma temporal, el objetivo
+de situaciones próximas al equilibrio, o con superávit, pueda transformarse en défi­
+cit, que no debe superar el 3 por 100 del PIB. Tal déficit no sería consecuencia de
+una política fiscal expansiva querida por el Gobierno, sino por la entrada en funcio­
+namiento de los estabilizadores automáticos.
+
+c)
+
+La de la Ley General de Estabilidad
+Presupuestaria española
+
+La política de déficit cero con carácter permanente o inclusive de un lige­
+ro superávit que propugna nuestra Ley General de Estabilidad Presupuestaria, no
+tiene razón de ser desde un punto de vista económ ico. En España tal precepto tiene
+su razón de ser en las Comunidades Autónomas y en las Corporaciones Locales, ya
+que no corresponde a las mismas la función de estabilización de la econom ía, pero
+no en el Estado a quien corresponde dicha función, de acuerdo con la organiza­
+ción adoptada en la Unión Monetaria, donde el Presupuesto de la Unión sólo repre­
+senta el 1,27 por 100 del PIB comunitario y la política monetaria está centralizada
+en el BCE. Transformar el déficit cero en un objetivo permanente sería un error,
+pues el Estado tendría que recortar el gasto público o aumentar los impuestos para
+equilibrar e l Presupuesto; la política presupuestaria tendría un carácter procíclico,
+lo que conduciría al país a un ajuste largo en el tiem po para salir de la recesión,
+con efectos negativos sobre el crecim iento a largo plazo. En caso de que la deman­
+da esté influyendo en el nivel de precios, el objetivo presupuestario debe transfor­
+280
+
+
+
+marse en fuerte superávit cuando se considere necesario para estabilizar la econo­
+mía y contener la inflación.
+
+d)
+
+La del déficit cíclicamente ajustado
+
+Para evitar los efectos distorsionadores de un cómputo año a año del déficit/superávit, que obligaría a los países a realizar, en ocasiones, una política presu­
+puestaria procíclica, se ha propuesto que el cálculo del déficit/superávit se efectúe
+teniendo en cuenta el ámbito temporal del ciclo, y que el equilibrio de las cuentas
+se consiguiera en el período del ciclo y no año a año, es decir, un déficit cíclica­
+mente ajustado.
+El principal inconveniente que tiene esta propuesta es que de antemano
+no se conoce cuál va a ser la duración temporal del ciclo, y por tanto a cuánto debe
+ascender la actuación expansiva de la política presupuestaria, de forma que en la
+posterior fase alcista del ciclo se produzca una contracción del gasto público que
+compense los déficit de la fase de declive del ciclo. Por otra parte, existe eviden­
+cia empírica que la política de sostenimiento de la demanda agregada a través de
+una política fiscal expansiva fracasó a nivel mundial, com o lo demuestra la alta tasa
+de inflación, el desem pleo creciente y la caída de la actividad económ ica durante
+la década de los setenta; los déficit públicos de Japón generaron una deuda públi­
+ca del 140 por 100 del PIB, sin producir ninguna reactivación. Además, se consi­
+dera que la utilización de una política fiscal anticíclica para encauzar la actividad
+económ ica a corto plazo es limitada, de gran incertidumbre respecto a su inciden­
+cia en la economía, con riesgo de que la carga financiera de la deuda crezca de un
+ciclo a otro, con signo hacia el déficit a consecuencia de que los políticos preferi­
+rán financiar el gasto a través de la deuda, por el menor coste político que ello
+representa, trasladando a generaciones futuras la verdadera financiación del gasto.
+Vamos a analizar la experiencia española del déficit cíclico entre 1850 y
+2000.
+El Estudio realizado por el Profesor Prados de la Escosura (-E l progreso
+Económ ico de España. 1850-2000*, Fundación BBYA, 2003) m e ha permitido dispo­
+ner de las tasas de crecimiento anual del PIB del período 1850-2000 armonizadas
+con los actuales criterios de contabilidad nacional, así com o de las tasas de varia­
+ción de dicha magnitud para los diferentes ciclos. Las tasas de crecimiento respon­
+den a tasas medias de variación anual para períodos delimitados por años en que
+se alcanzan máximos cíclicos de la actividad económica, lo que permite, a juicio
+281
+
+
+
+Cuadro
+
+núm.
+
+1
+
+Tasa de crecim iento del PIB en el ciclo y variación de la deuda en el mismo período
+(en millones de pesetas)
+P e río d o
+
+T a sa d e
+
+del
+
+c re c im ie n to
+
+c ic lo
+
+D e u d a viv a
+V a r ia c ió n
+O )
+
+(2 )
+
+c o m i e n z o c ic lo
+
+f i n a l c ic lo
+
+del P IB
+
+d e la
+deu d a
+
+1 8 5 5 -1 8 6 6 ...............
+
+1 ,0 4
+
+3 .6 3 3 ,5 3
+
+4 .5 9 2 ,6 8
+
+9 5 9 ,1 3
+
+1 8 6 6 -1 8 7 3 ................
+
+3 ,4 0
+
+4 .5 9 2 ,6 8
+
+5 .6 8 4 ,5 3
+
+1 .0 9 1 ,8 5
+1 .7 6 9 ,9 7
+
+1 8 7 3 -1 8 8 3 ...............
+
+1 ,2 0
+
+5 .6 8 4 ,5 3
+
+7 .4 5 4 ,5 0
+
+1 8 8 3 -1 8 9 2 ...............
+
+0 ,8 1
+
+7 .4 5 4 ,5 0
+
+7 .1 7 5 ,7 8
+
+-2 7 8 ,7 2
+
+1 8 9 2 -1 9 0 1 ................
+
+1 ,25
+
+7 .1 7 5 ,7 8
+
+1 3 .3 6 3 ,0 4
+
+6 .1 8 7 ,2 6
+
+1 9 0 1 -1 9 1 3 ...............
+
+1 ,3 4
+
+1 3 .3 6 3 ,0 4
+
+1 0 .3 7 1 ,5 9
+
+-2 .9 9 1 ,4 5
+
+1 9 1 3 -1 9 2 0 ...............
+
+1 ,4 9
+
+1 0 .3 7 1 ,5 9
+
+1 3 .0 5 6 ,2 2
+
+2 .6 8 4 ,6 3
+
+1 9 2 0 -1 9 2 9 ...............
+
+3 ,5 4
+
+1 3 .0 5 6 ,2 2
+
+2 0 .0 8 5 ,1 8
+
+7 .0 2 8 ,9 6
+
+1 9 2 9 -1 9 3 5 ...............
+
+-0 ,0 2
+
+2 0 .0 8 5 ,1 8
+
+2 4 .7 6 0 ,4 3
+
+4 .6 7 5 ,2 5
+
+1 9 3 5 -1 9 4 4 ...............
+
+-0 ,5 5
+
+2 4 .7 6 0 ,4 3
+
+5 6 .1 2 9 ,5 8
+
+3 1 .3 6 9 ,1 5
+
+1 9 4 4 -1 9 5 2 ...............
+
+2 ,3 7
+
+5 6 .1 2 9 ,5 8
+
+9 7 .7 2 6 ,7 7
+
+4 1 .5 9 7 ,1 9
+
+1 9 5 2 -1 9 5 8 ...............
+
+4 ,3 5
+
+9 7 .7 2 6 ,7 7
+
+1 7 4 .6 0 1 ,4 6
+
+7 6 .8 7 4 ,6 9
+
+1 9 5 8 -1 9 6 4 ...............
+
+6 ,8 8
+
+1 7 4 .6 0 1 ,4 6
+
+2 2 5 .8 0 3 ,0 4
+
+5 1 .2 0 1 ,5 8
+
+1 9 6 4 -1 9 7 4 ...............
+
+6 ,9 4
+
+2 2 5 .8 0 3 ,0 4
+
+6 7 3 .7 6 7 ,9 1
+
+4 4 7 .9 6 4 ,8 7
+
+1 9 7 4 -1 9 7 8 ...............
+
+3 ,7 1
+
+6 7 3 .7 6 7 ,9 1
+
+1 .2 8 2 .5 0 0 ,0 0
+
+6 0 8 .7 3 2 ,0 9
+
+1 9 7 8 -1 9 8 6 ...............
+
+1 ,8 9
+
+1 .2 8 2 .5 0 0 ,0 0
+
+1 2 .4 8 9 .8 0 0 ,0 0
+
+1 1 .2 0 7 .3 0 0 ,0 0
+
+1 9 8 6 -1 9 9 2 ...............
+
+4 ,2 1
+
+1 2 .4 8 9 .8 0 0 ,0 0
+
+2 8 .7 0 3 .2 5 5 ,0 0
+
+1 6 .2 1 3 .4 5 5 ,0 0
+
+1 9 9 2 -2 0 0 0 ...............
+
+2 ,9 3
+
+2 8 .7 0 3 .2 5 5 ,0 0
+
+6 1 .3 7 5 .8 6 0 ,0 0
+
+3 2 .6 7 2 .6 0 5 ,0 0
+
+Fundación BBVA, 2003.
+Datos Básicos para la Historia Financiera de España 1850-1975, IEF, 1976.
+Cuentas Financieras de la Economía España, Banco de España.
+
+F u e n t e : E l P r o g r e s o E c o n ó m i c o d e E s p a ñ a . 1 8 5 0 -2 0 0 0 ,
+
+del autor, mantener la consistencia de los resultados obtenidos, puesto que se
+comparan dos momentos en los que la capacidad productiva se encuentra plena­
+mente utilizada.
+La publicación del Instituto de Estudios Fiscales «Datos básicos para la
+Historia Financiera de España 1850-1975», volumen II, «La Deuda Pública » (1976)
+cuyo Estudio fue realizado cuando nuestro actual Presidente estuvo de Director del
+citado Instituto, nos ha permitido conocer la deuda pública viva en los años inicia­
+les y finales de los ciclos a que nos hemos referido en el párrafo anterior, datos que
+han sido completados para años posteriores a 1975 con la publicación del Banco
+de España «Las Cuentas Financieras de la Economía Española».
+Con dicha información he elaborado el cuadro núm. 1, obteniendo la
+conclusión de que en todos los ciclos la deuda pública que financia el déficit ha
+282
+
+
+
+aumentado, excepto en dos de ellos: 1883-1892 y 1901-1913, en los cuales la deuda
+viva a final del ciclo es menor que la existente a su comienzo. Resulta por tanto que
+de los 18 ciclos que se dieron en el período 1850-2000 sólo en dos de ellos la deuda
+pública tuvo una reducción con respecto a la existente al comenzar el ciclo. En el
+conjunto del período analizado la deuda pública viva al comienzo del período era
+de 3-633,52 millones de pesetas, y al finalizar el mismo de 61.375.860 millones de
+pesetas, lo que supone que la deuda en circulación se ha multiplicado casi por
+17.000. De lo expuesto se deduce que no existe evidencia empírica para España de
+que se haya cumplido la teoría del déficit cíclicamente ajustado en el siglo y medio
+analizado, con excepción de los dos períodos de que se ha hecho mención.
+Sin embargo, hay que hacer notar que en el período 1985-2000 las Admi­
+nistraciones Públicas se endeudaron en casi 22 billones de pesetas por encima del
+endeudamiento necesario para la financiación del déficit (cuadro núm. 2), es decir,
+como media casi un billón y medio de pesetas anuales (2 por 100 de la media del
+PIB del período), para adquirir activos financieros derivados principalmente de
+C uadro
+
+núm.
+
+2
+
+D éficit y variación neta de pasivos
+(En millones de pesetas)
+F in a n c ia c ió n
+
+Año
+
+D é fic it p ú b lic o
+(V
+
+V a ria ción neta de
+pasivos fin a n c ie ro s
+
+Exceso de pasivos
+fin a n c ie ro s sobre
+
+(2 )
+
+d é ficit ( 3 ) (3 = 2 - 1 )
+
+1 9 8 5 ......................... ........
+
+1 .9 4 9 . 4 7 7
+
+2 .8 8 6 .0 8 6
+
+9 3 6 .6 0 9
+
+1 9 8 6 ......................... ........
+
+1 .9 4 3 .4 0 9
+
+2 .3 8 5 .8 7 1
+
+4 4 2 .4 6 2
+
+1 9 8 7 ......................... ........
+
+1 .1 2 7 .1 4 6
+
+1 .8 6 0 .6 6 1
+
+7 3 3 .5 1 5
+
+1 9 8 8 ......................... ........
+
+1 .3 2 2 .1 1 5
+
+2 .4 1 4 .7 9 2
+
+1 .0 9 2 .6 7 7
+
+1 9 8 9 .........................
+
+1 .6 5 5 .5 4 1
+
+3 .1 3 1 .5 5 1
+
+1 .4 7 6 .0 1 0
+
+1 9 9 0 ......................... ........
+
+2 .1 6 9 .0 0 8
+
+3 .9 0 0 .0 8 8
+
+1 .7 3 1 .0 8 0
+
+1 9 9 1 ......................... ........
+
+2 .4 6 5 .5 0 8
+
+3 .0 3 2 .5 5 1
+
+5 6 7 .0 4 3
+
+1 9 9 2 ......................... ........
+
+2 .4 5 0 .3 6 7
+
+3 .9 2 5 .8 7 8
+
+1 .4 7 5 .5 1 1
+
+1 9 9 3 ......................... ........
+
+4 .2 7 6 .1 2 0
+
+7 .7 1 5 .4 8 5
+
+3 .4 3 9 .3 6 5
+
+1 9 9 4 ......................... ........
+
+4 .1 3 8 .0 2 0
+
+4 .7 2 7 .0 2 6
+
+5 8 9 .0 0 6
+
+1 9 9 5 ......................... ........
+
+4 .8 3 4 .6 7 8
+
+5 .8 9 8 .0 5 1
+
+1 .0 6 3 .3 7 3
+
+1 9 9 6 ......................... ........
+
+2 .8 2 0 .5 5 5
+
+5 .6 6 3 .7 5 9
+
+2 .8 4 3 .2 0 4
+
+1 9 9 7 ......................... ........
+
+2 .6 0 9 .4 3 2
+
+3 .0 0 8 .2 5 9
+
+3 9 8 .8 2 7
+
+1 9 9 8 ......................... ........
+
+2 .2 4 4 .8 8 0
+
+3 .4 8 2 .7 9 2
+
+1 .2 3 7 .9 1 2
+
+1 9 9 9 ......................... ........
+
+1 .0 9 0 .1 5 9
+
+2 .7 1 6 .0 8 3
+
+1 .6 2 5 .9 2 4
+
+2 0 0 0 ......................... ........
+
+3 4 3 .9 2 0
+
+2 .2 6 9 .6 7 1
+
+1 .9 2 5 .7 5 1
+
+Fuente: Cuentas Financieras de la Economía Española, Banco de España.
+Cuentas de las Administraciones Públicas. Intervención General de la Administración del Estado.
+
+283
+
+
+
+aportaciones a sociedades públicas o entes públicos considerados empresariales,
+pero que en aplicación correcta de los principios del SEC-95, deben integrarse en
+el Presupuesto a efectos de determinación del déficit público.
+D el trabajo de José Marín (2004) se obtienen las conclusiones siguientes,
+referidas a la Unión Monetaria:
+• Que las economías europeas experimentaron una fase cíclica de acele­
+ración de la actividad económ ica hasta tasas superiores al crecim iento tendencial
+durante los años 1998-2000. En el prom edio de estos tres años el crecim iento
+económ ico de la zona del euro fue un punto porcentual por año más elevado que
+el crecim iento tendencial. Si la verdadera fortaleza de esta fase alcista del último
+ciclo hubiera sido prevista correctamente, los objetivos de consolidación fiscal de
+los primeros programas de estabilidad presentados a finales de 1998 y principios
+de 1999, deberían haber sido notablemente más ambiciosos.
+• Falta de realismo, para la zona del euro en su conjunto, de los objeti­
+vos de los programas de estabilidad actualizados en los años de desaceleración
+cíclica de las econom ías de la zona; debido a dicha falta de realismo, se produce
+un incumplimiento cada vez más insostenible. Tomando com o referencia el año
+2000, en el que la coyuntura cíclica cambia de signo, las econom ías europeas
+crecieron los tres años siguientes por debajo de su tasa tendencial a razón de un
+punto porcentual menos por año en el prom edio del período. La actualización de
+los objetivos en cada generación anual de programas de actividad siguió adole­
+ciendo del mismo grave defecto: no tener suficientemente en cuenta la posición
+cíclica de la econom ía. Las buenas intenciones implícitas en el propósito de redu­
+cir linealmente el déficit hasta alcanzar el equilibrio presupuestario en el plazo de
+cuatro o cinco años, que eran inadecuadas por carentes de ambición en la coyun­
+tura alcista, también resultaron inapropiadas por carentes de realismo en la fase de
+coyuntura bajista.
+Estas conclusiones confirman los inconvenientes que hemos señalado a la
+interpretación del déficit cíclicamente ajustado.
+
+e)
+
+La propuesta del Comisario Europeo de Asuntos
+Económicos y Monetarios
+
+Pretende una mayor flexibilidad en la aplicación del Pacto de Estabilidad,
+particularizándole especialmente a la situación cíclica de cada Estado miembro,
+284
+
+
+
+teniendo en cuenta además la evolución de la deuda com o referente para la esta­
+bilidad de los mercados financieros y la viabilidad de los sistemas públicos de
+pensiones. Esta propuesta se está discutiendo en el ECOFIN.
+O pino que la propuesta del Comisario se ajusta a las situaciones de la
+econom ía de Alemania y Francia, evitando las sanciones que recaerían sobre los
+dos países, de permanecer el Pacto sin modificación. Parece un contrasentido decir
+que el Pacto se mejora al incluir la sostenibilidad de los sistemas públicos de
+pensiones, cuando precisamente su viabilidad depende de la estabilidad de las
+financias públicas, alcanzando superávit a m edio plazo, com o exige el Pacto de
+Estabilidad.
+
+f)
+
+Propuestas para que determinados gastos
+no se incluyan en el déficit público
+
+• Ahorro público versus capacidad de financiación, com o indicador de
+cuentas públicas saneadas.
+Las consecuencias de la política fiscal diseñada en el Tratado de la Unión
+es que la totalidad de los gastos no financieros de los países miembros se cubran
+con el rendimiento de los impuestos corrientes y sobre el capital, lo que daría lugar
+a un incremento neto del patrimonio de los entes públicos, dejando que los recur­
+sos disponibles del mercado de capitales se dirijan a financiar las inversiones del
+sector empresarial.
+Podría pensarse que no es función del sector público tender a incremen­
+tar su patrimonio neto a costa de las generaciones presentes, ya que parte del
+mismo va a ser utilizado por generaciones futuras que deben contribuir a finan­
+ciarlo. Se dice que en el sector empresarial su objetivo es mantener el patrimonio
+neto, no aumentarlo, y por tanto cuando tiene que realizar inversiones reales acude
+a los mercados de capitales para financiarlo; éste debería ser también el objetivo
+del sector público. Si esta propuesta tuviera aceptación, el ahorro público debería
+sustituir a la capacidad de financiación, com o indicador de unas cuentas públicas
+saneadas, pudiendo el sector público acudir a los mercados de capitales para finan­
+ciar parte de su inversión para conseguir el pleno em pleo de los recursos y prom o­
+ver el desarrollo futuro, sin que por ello se considerara que sus cuentas no están
+saneadas. Esta propuesta es inviable dado los fuertes déficit que en los Estados
+miembros de la Unión originará el envejecim iento de la población, con el consi­
+guiente traspaso a generaciones futuras del coste de las pensiones gestionadas por
+el sistema de reparto.
+285
+
+
+
+• Los Gobiernos de Alemania y Francia han propuesto por separado que
+algunas partidas de gasto no se computen para calcular el déficit.
+Dichos gastos son-, de inversión en infraestructuras, de investigación y
+desarrollo, de defensa, y las aportaciones netas a los fondos comunitarios.
+Dado que el Protocolo sobre el procedimiento aplicable en caso de défi­
+cit público excesivo, Anexo al Tratado de la Unión Europea hace referencia al Siste­
+ma Europeo de Cuentas Económicas SEC-79, hoy SEC-95, no son admisibles las
+propuestas de excluir determinados gastos del déficit público sin modificar el Trata­
+do de la Unión.
+
+g)
+
+La basada en los problem as intergeneracionales
+
+Dice el Profesor J. Shiller (2003) que de hecho los déficit presupuestarios
+actuales reflejan problemas de largo plazo que no son los que contempla la teoría
+keynesiana, de modo que las discusiones acerca de los déficit se deberían replante­
+ar en términos de problemas intergeneracionales. Como consecuencia de los déficit,
+la deuda de un país aumenta y traslada la carga financiera a las futuras generacio­
+nes, lo que produce un cambio de riqueza de una generación a otra, que los polí­
+ticos no quieren poner de manifiesto. Prefieren que las generaciones presentes, que
+son las que le votan, cobren sus pensiones, reciban la sanidad gratuitamente y
+puedan disfrutar de otros servicios gratuitos, imponiendo cargas a futuras genera­
+ciones a través de los déficit, cuya financiación se efectuará con impuestos que paga­
+rán aquéllos. Esta concepción la he expuesto para España desde hace años (1999).
+Junto a los déficit actuales, preocupa fuertemente a la Comisión Europea
+las obligaciones que se deriven del fuerte envejecimiento de la población, con el
+consiguiente efecto sobre las pensiones públicas, la sanidad y los servicios socia­
+les. La cuantía de estas obligaciones adquiere montos escalofriantes: para España;
+la deuda implícita del sistema de reparto de pensiones públicas es, en valor actual,
+mayor que el Producto Interior Bruto (PIB), sin tener en cuenta las obligaciones
+derivadas del aumento de la prestación sanitaria gratuita, que se derivan del enve­
+jecimiento de la población, que en valor actualizado supone más del 25 por 100
+del PIB. En conjunto hay obligaciones comprometidas por pensiones y sanidad,
+que en valor actualizado suponen cerca de vez y media la cuantía del PIB.
+Podríamos preguntamos por qué la Seguridad Social tiene superávit
+desde el año 2000. Dos razones existen: a ) el haber centrifugado el déficit que
+286
+
+
+
+tenía la Seguridad Social al Estado, ya que los gastos sanitarios y de servicios socia­
+les se imputan al Presupuesto del Estado, y b ) en el hecho de que hasta el 20152020 el envejecimiento de la población será mínimo (0,6 por 100 tasa media de
+crecimiento de la población de sesenta y cinco años y más). A partir de dicho
+período, empezarán a cumplir los sesenta y cinco años la generación del «babyboom» y la tasa de aumento de las personas de sesenta y cinco años y más pasa­
+rá a ser del 1,7 por 100.
+• Según un estudio de la Comisión Europea, el gasto en pensiones alcanza­
+rá en España en el 2050 el 17,3 por 100 del PIB, con un aumento de ocho puntos
+sobre el año 2000; casi la totalidad del aumento se genera a partir del 2020. En el
+año 2021 el déficit del sistema de pensiones público aumentará en el 1,3 por 100
+del PIB, en 2026 del 4,6 por 100, en 2036 del 6,1 por 100, en 2041 del 6,8 por
+100 y en 2050 del 7,4 por 100.
+La deuda implícita de la Seguridad Social deriva de los derechos deven­
+gados y todavía no reconocidos, correspondientes a las cotizaciones pagadas, por
+no haber llegado a la edad de jubilación el interesado. Esto es consecuencia de que
+en el sistema de reparto sólo se imputan anualmente como gasto, de acuerdo con
+el SEC-95, las pensiones reconocidas que dan derecho a la prestación. Sin embar­
+go, el SEC-95 registra los flujos ateniéndose al principio del devengo, criterio que
+se aplica inclusive a los bonos cupón cero, si bien dice que en algunos casos resul­
+ta necesario mostrarse flexible en cuanto al momento del registro, citando expre­
+samente «el caso de los impuestos y otros flujos en los que intervierten las Adminis­
+traciones Públicas»; pienso que entre ellos se encuentran los derechos corridos y
+no vencidos de los cotizantes al sistema de pensiones públicas contributivas gestio­
+nado por reparto. De haberse aplicado el principio del devengo, todas las cuentas
+de las Administraciones Públicas de los países de la Unión Europea aparecerían con
+fuertes déficit, ¿fue ésta la causa de su exclusión?
+Como conclusión podemos decir que, en pura aplicación de la restricción
+presupuestaria intertemporal, de la que hemos hecho mención con anterioridad, el
+sistema de pensiones contributivas se encuentra en déficit, por lo que tanto el Esta­
+do como las Comunidades Autónomas deben equilibrar sus cuentas, sin computar
+el saldo de la Seguridad Social, e inclusive obtener superávit.
+Mi opinión es que la interpretación que el Pacto de Estabilidad hace de la
+restricción presupuestaria intertemporal, que, como hemos dicho con anterioridad,
+constituye el marco conceptual de la estabilidad presupuestaria, es la más acerta­
+da, y por tanto debería dejarse el Pacto de Estabilidad tal y como está y que los
+287
+
+
+
+Estados miembros realicen las reformas estructurales necesarias para liberalizar sus
+econom ías y elim inen las rigideces, ineficiencias y falta de equidad que las inter­
+venciones públicas han ido generando en sus economías.
+
+4.
+
+CONSECUENCIAS DE ABANDONAR EL PRINCIPIO
+DE ESTABILIDAD PRESUPUESTARIA
+
+La combinación de las políticas monetaria y fiscal para controlar el ciclo
+ha sido siempre objeto de atención tanto por los políticos com o por los econom is­
+tas, aunque las relaciones entre una y otra no siempre han sido concebidas de idén­
+tica forma.
+Hasta la década de los setenta se consideraba que las dos políticas eran
+instrumentos que debían utilizarse para controlar la demanda agregada así com o
+impulsar el crecim iento económ ico. Sin embargo se consideraba que la política
+fiscal, por ser el instrumento más potente, debería ser utilizado preferentemente,
+aunque la política monetaria podría ayudar a incrementar de forma permanente la
+producción, asumiendo si fuera necesario una inflación superior a la conveniente,
+cambiando inflación por crecimiento.
+La política de sostenimiento de la demanda agregada a través de una polí­
+tica presupuestaria expansiva y de una política monetaria de acompañamiento
+fracasó, com o lo demuestra la alta tasa de inflación, el desem pleo creciente y la
+caída de la actividad económ ica durante la década de los setenta.
+Desde hace unos años se piensa que es necesario asignar exclusivamente
+cada una de las políticas (monetaria y fiscal) a los objetivos que pueda alcanzar. Se
+aplica a este cam po la teoría de Musgrave de las funciones múltiples del Presu­
+puesto.
+En el artículo publicado en. el Boletín mensual del BCE (2003) se dice: *El
+adecuado diseño de los m arcos institucionales de las p olítica s m onetaria y fis c a l es
+uno de los mecanismos utilizados p o r la sociedad p a ra protegerse a s í misma fre n ­
+te a la in fla ción perm anente y a los problem as m acroeconóm icos causados p o r una
+p o lítica m onetaria discrecional y unas fin a n za s públicas desordenadas» .
+La política monetaria debería tener a su cargo conseguir la estabilidad de
+precios, base de la eficiencia de la econom ía de mercado, ya que estimula el funcio­
+namiento adecuado del mecanismo de determinación de los precios relativos. Utili­
+288
+
+
+
+zar la política monetaria para cambiar la senda de crecim iento a largo plazo de la
+econom ía daría lugar a ineficiencias.
+En cuanto a la política fiscal, se considera que la utilización de una políti­
+ca fiscal anticíclica para encauzar la actividad económ ica a corto plazo es limitada,
+de gran incertidumbre respecto a su incidencia en la economía, con riesgo de que
+la carga financiera de la deuda crezca de un ciclo a otro, con signo hacia el déficit
+a consecuencia de que los políticos preferirán financiar el gasto a través de la deuda
+por el m enor coste político que ello representa, trasladando a generaciones futuras
+la verdadera financiación del gasto. En los sistemas de pensiones gestionados por
+el sistema de reparto, el envejecim iento de la población da lugar a un incremento
+de la deuda implícita con análogos efectos. El crecimiento descontrolado de la
+deuda daría lugar a la expulsión del sector privado, con reducción a m edio plazo
+del crecimiento económ ico.
+El Tratado de la Unión Monetaria Europea ha establecido un reparto de
+competencias entre los diferentes responsables de la política económica. La políti­
+ca monetaria está a caigo del Banco Central Europeo, que la ejercerá con total inde­
+pendencia de los Gobiernos de los Estados miembros, siendo su objetivo principal
+el mantenimiento de la estabilidad de precios, lo que supone que la política m one­
+taria debe dar respuesta adecuada a las perturbaciones económicas que contengan
+un potencial inflacionista o deflacionista. El instrumento que utiliza con tal finali­
+dad es el tipo de interés.
+La política fiscal ha quedado en manos de los Gobiernos de cada Estado
+miembro, si bien sometida a reglas y procedimientos de actuación bien definidos.
+D ebido a esta organización de la política fiscal se dice que la Unión Monetaria
+Europea no es una zona monetaria óptima, com o lo es Estados Unidos, donde el
+gasto del Gobierno Central supone el 30 por 100 del PIB; en la Unión dicho
+porcentaje es sólo del 1,24 por 100 del PIB comunitario y por tanto sin posibilidad
+de realizar una política estabilizadora.
+El Tratado de la Unión no contiene referencia alguna a la coordinación
+activa entre la política monetaria y la política fiscal, aunque algunos Estados miem­
+bros han intentado establecer un óigano que coordine las mismas, a lo que siem­
+pre se ha negado el BCE. El Tratado separa con claridad el capítulo dedicado a la
+política monetaria del referente a la política económica, si bien tiene en cuenta las
+interdependencias entre las políticas económicas, a cuyo efecto el artículo 105 esta­
+blece que el -Eurosistema ejecutará la p o lítica m onetaria y apoyará las políticas
+económ icas generales de la Com unidad». Es en este inciso donde algunos Estados
+289
+
+
+
+miembros se apoyan para pedir la coordinación de ambas políticas, criterio no
+compartido por el BCE, que estima que el Tratado no otorga al BCE la responsabi­
+lidad directa de otros objetivos distintos de la estabilidad de precios, ya que no cita
+objetivos secundarios del BCE, sino que, en el desempeño de su objetivo principal,
+tenga en cuenta otros objetivos de la Comunidad: un desarrollo armonizado, equi­
+librado y sostenible de la actividad económica, un alto nivel de empleo, un creci­
+miento sostenible y no inflacionista y un alto grado de competitividad y de conver­
+gencia en los resultados económicos, que entre otros, aparecen enumerados en el
+artículo 2 del Tratado de la Unión.
+El marco europeo de la política fiscal está en el artículo 104 del Texto
+consolidado de la Unión, que establece la obligación de los Estados miembros de
+evitar los déficits excesivos, y en el artículo 103, que señala que ni la Comunidad
+ni los Estados miembros asumirán o responderán de las deudas que haya incurri­
+do algún Estado miembro, con lo que se garantiza que si un país decide aplicar una
+política fiscal no saneada, el incremento de la prima de riesgo resultante recaerá
+exclusivamente sobre la deuda del citado país, no afectando a la deuda del resto
+de los países. El Protocolo sobre el procedimiento aplicable en caso de déficit exce­
+sivo, que fue incorporado como Anexo al Tratado constitutivo de la Comunidad
+Europea, constituye la piedra fundamental del marco fiscal de la Unión Monetaria
+Europea, encomendando a la Comisión Europea la función de supervisar los avan­
+ces presupuestarios y el stock de deuda del sector público de los Estados miem­
+bros. Se considera déficit excesivo cuando supera el 3 por 100 del PIB a precios
+de mercado.
+Ante el temor de Alemania de que el Procedimiento de Déficit Excesivo
+no fuera suficiente para disciplinar de forma eficaz las políticas fiscales dentro de
+la UME, dicho país propuso un Pacto de Estabilidad que fue aprobado por el
+Consejo Europeo como «Pacto de Estabilidad y Crecimiento», que está compuesto
+por la siguiente normativa: a ) Resolución del Consejo sobre el Pacto de Estabilidad
+y Crecimiento efectuada en Amsterdam el 17 de junio de 1997; b) Reglamento
+1466/1997 relativo al reforzamiento de la supervisión de las políticas presupuesta­
+rias y a la supervisión y coordinación de las políticas económicas; y c ) Reglamen­
+to 1467/1997 relativo a la aceleración y clarificación del Procedimiento de Déficit
+Excesivo. Por dicho Pacto los Estados miembros se comprometen a conseguir situa­
+ciones presupuestarias próximas al equilibrio o con ligero superávit.
+Hemos expuesto el marco institucional de las políticas monetaria y fiscal
+dentro de la UME. La pregunta que surge es si después de cuatro años el sistema
+ha funcionado eficientemente.
+290
+
+
+
+Dentro de la UME, todos los países pertenecientes a la misma han disfru­
+tado de los beneficios derivados de una política monetaria única: la estabilidad de
+precios, la estabilidad del tipo de cambio del euro frente a otras monedas, y la esta­
+bilidad de los mercados financieros y del sector bancario. Son los «bienes de club»
+derivados de la Unión Monetaria. Sin embargo, como las políticas económicas están
+a cargo de cada Estado miembro, pueden crear externalidades positivas o negati­
+vas sobre esos «bienes de club» y, a través de los mismos, sobre el crecimiento
+económico. Es en este contexto donde vamos a analizar los efectos que sobre el
+crecimiento de los países de la zona euro puede tener el abandono del principio
+de estabilidad presupuestaria por incumplimiento de los condicionantes que el
+mismo impone a las políticas fiscales de los Estados miembros.
+Cuando se aprobó el Pacto de Estabilidad y Crecimiento se puso de mani­
+fiesto por distintos economistas (ver «Después de Maastricht ¿qué?» José y Maite
+Barea, Ediciones Encuentro, 1998) que «hasta que se consiguiera alcanzar el equi­
+librio de las cuentas públicas, el Pacto de Estabilidad comportaba los siguientes
+riesgos:
+• los derivados de que el período de expansión fuera más corto de lo
+previsto, lo que daría lugar a una política fiscal procíclica si se pretendiera conti­
+nuar con la consolidación fiscal, que acentuaría la intensidad de la recesión;
+• los derivados de la falta de realización de reducciones en el déficit
+estructural por no acometerse las reformas estructurales, con las siguientes conse­
+cuencias:
+— en período de recesión, la política fiscal tendría un carácter procíclico
+ya que al encontrarse el déficit cercano al 3 por 100 se intentaría efectuar reformas
+estructurales para reducir el déficit de dicha naturaleza, que tendería a ampliar la
+recesión del ciclo;
+— en período de expansión, la insuficiente reducción del déficit estructu­
+ral daría lugar a una política fiscal que entraría en colisión con el objetivo de esta­
+bilidad del BCE;•
+• los derivados de una política fiscal procíclica, que puede llevar a un
+escenario de consolidación fiscal basado en subida de impuestos y en recortes de
+la inversión en infraestructuras con efectos negativos sobre el crecimiento a largo
+plazo».
+
+291
+
+
+
+Seis países de la zona euro (Alem ania, Francia, Italia, Portugal, Grecia y
+Holanda) han dejado de cumplir el Pacto de Estabilidad y Crecimiento en cuanto
+que no han alcanzado el equilibrio de las Cuentas Públicas, y de ellos cuatro
+(Alemania, Francia, Grecia y Portugal) han rebasado el 3 por 100 del PIB com o lím i­
+te máximo de déficit, incumpliendo así un Tratado Internacional.
+El incumplimiento por algunos países de la zona euro de la restricción
+presupuestaria intertemporal que liga a largo plazo la suma actualizada del gasto
+no financiero estimado con la suma actualizada de los ingresos no financieros esti­
+mados de Forma que la primera no exceda a la segunda 3, tendrá efectos negativos
+sobre el crecim iento de dicho país, ya que la prima de riesgo que tal comporta­
+miento conlleva se trasladará a través del tipo de interés exclusivamente sobre la
+deuda del citado país, en virtud de la cláusula de -no bail-out- del artículo 103 del
+Tratado constitutivo de la Unión. El aumento de la prima de riesgo, y por tanto de
+los intereses de la deuda pública, dará lugar a la elevación del déficit público y de
+la deuda pública necesaria para financiarla, produciendo un desplazamiento de la
+inversión privada en el país que incumpla el principio de estabilidad. Cuando los
+déficit son altos y no sostenibles, la sociedad percibirá un riesgo creciente de ines­
+tabilidad financiera, perdiendo los precios eficacia com o factor relativo de las deci­
+siones de inversión.
+Las consecuencias de una política fiscal laxa afectarán no sólo al país de
+la zona euro que la practica, sino también, por contagio, al resto de los países de
+la Unión Monetaria, al influir en los mercados de capitales, y por tanto en la credi­
+bilidad del país. El problema se ha agudizado en la UME, ya que, com o hemos
+dicho, el Pacto de Estabilidad y Crecimiento no se está cum pliendo por seis países,
+que representan el 80 por 100 del PIB de la zona euro, con lo cual los objetivos
+que dichos países pretenden alcanzar son contrarios al objetivo de la estabilidad de
+precios y de defensa del valor de la moneda del Banco Central Europeo. La lucha
+de dichos países por conseguir un crecim iento de su producción a través de una
+política fiscal expansiva, que a cuatro de ellos les ha llevado a sobrepasar el techo
+del 3 por 100 de déficit señalado en el Protocolo de déficit excesivo, Anexo al Trata­
+do de la Unión, cambiando déficit y deuda por crecimiento, puede tener un relati­
+vo éxito a corto plazo, pero a m edio y laigo plazo han puesto en peligro la sostenibilidad de sus finanzas y por tanto el crecim iento no sólo de dichos países, sino
+de toda la Unión Monetaria por el efecto contagio que se produce.
+La no coordinación de las políticas económicas de los países miembros, al
+estar éstas descentralizadas, la pérdida de poder de la Comisión ante los Gobiernos
+
+3 Los flujos d e ingresos y gastos se contabilizan d e acuerdo con el SEC.
+
+292
+
+
+
+de los Estados miembros, la debilidad de la política exterior de la Unión y la caren­
+cia de unidad política, estaría poniendo en grave peligro de desintegración a la
+Unión Monetaria. Los malos augurios que economistas y políticos americanos
+habían pronosticado para dicha Unión, pueden ser una realidad si los Gobiernos
+de los Estados miembros de la Unión no respetan las reglas del juego. El Pacto de
+Estabilidad y Crecimiento, obligando a los Estados miembros a alcanzar a m edio
+plazo el objetivo de mantener una situación presupuestaria cercana al equilibrio o
+con superávit, permite a los Estados miembros gestionar las fluctuaciones cíclicas
+habituales sin superar el valor de referencia situado en el 3 por 100 del PIB, garan­
+tizando que las políticas fiscales cuenten con el necesario margen de maniobra que
+permita el funcionamiento de los estabilizadores automáticos a lo largo del ciclo
+económ ico; de esta forma las políticas fiscales pueden realizar una contribución
+positiva a la estabilidad macroeconómica.
+Los Gobiernos de algunos Estados miembros se han olvidado de efectuar
+las reformas estructurales para hacer sus economías más flexibles y más competiti­
+vas, entre ellas la reforma del gasto público, que le hubiera dado un mayor margen
+de maniobra temporal para absorber la caída del ciclo, sin traspasar el límite del 3
+por 100 de déficit. Esto no lo han realizado y han colocado a sus economías y a la
+Unión Monetaria en una situación muy grave, al practicar una política keynesiana
+para reactivar la demanda interna. Sin embargo, empíricamente ha quedado demos­
+trado que los fuertes déficit públicos de Japón y los incrementos de deuda no han
+servido para sacar a la econom ía japonesa del encefalograma plano en cuanto a
+crecimiento. Como ya hemos dicho anteriormente, los déficit presupuestarios actua­
+les reflejan problemas de largo plazo que no son los que contempla la teoría keyne­
+siana, de m odo que las discusiones acerca de los déficit se deberían replantear en
+términos de problemas inteigeneracionales. Como consecuencia de los déficit, la
+deuda de un país aumenta y traslada la caiga financiera a las futuras generaciones,
+lo que produce un cambio de riqueza de una generación a otra, que los políticos
+no quieren poner de manifiesto. Prefieren que las generaciones presentes, que son
+las que le votan, cobren sus pensiones, reciban la sanidad gratuitamente y puedan
+disfrutar de otros servicios gratuitos, im poniendo cargas a futuras generaciones a
+través de los déficit, cuya financiación se efectuará con impuestos que pagarán
+aquéllos.
+Por ello, el principio de estabilidad presupuestaria pretende que los Esta­
+dos miembros de la Unión Monetaria dispongan de un margen suficiente para hacer
+frente a las futuras obligaciones de la protección social, derivadas del envejeci­
+miento de la población. Europa lo tiene ya y se aumentará a consecuencia de
+cumplir sesenta y cinco años la generación del «baby boom», que disparará el creci­
+293
+
+
+
+miento del gasto público y del déficit público si no se adoptan las medidas adecua­
+das, entre ellas la disponibilidad de un margen de maniobra.
+
+5.
+
+LA ESTABILIDAD PRESUPUESTARIA
+EN LA CONSTITUCIÓN EUROPEA
+
+La Constitución Española en su artículo 10 dispone que «los poderes públi­
+cos promoverán las condiciones favorables para el progreso social y económico y
+para una distribución de la renta regional y personal más equitativa, en el marco
+de una política de estabilidad económica», con lo cual implícitamente reconoce la
+estabilidad presupuestaria.
+En la Constitución Europea el artículo III. 177 establece que para alcanzar
+los fines enunciados en el artículo 1.3 (entre los que se encuentra un desarrollo
+sostenible de Europa basado en un crecimiento económico equilibrado y en la esta­
+bilidad de los precios), la acción de los Estados miembros y de la Unión incluirá la
+instauración de una política económica que se basará en la estrecha coordinación
+de la política económica de los Estados miembros, lo que supondrá una moneda
+única, el euro, y la definición y ejecución de una política monetaria y de tipos de
+cambio única, cuyo objetivo primordial sea mantener la estabilidad de precios y
+apoyar la política económica general de la Unión, y en el número 1 del artícu­
+lo III. 184 se dice que los Estados miembros evitarán déficit públicos excesivos. Se
+dibuja así una zona euro de absoluta estabilidad económica.
+Para conseguir tal finalidad, en la Constitución se prohibe:
+• Por el artículo III. 181 la autorización de descubiertos o la concesión de
+cualquier otro tipo de créditos por el Banco Central Europeo (BCE) y por los
+bancos centrales de los Estados miembros, a favor de instituciones, órganos u orga­
+nismos de la Unión, administraciones centrales, autoridades públicas, organismos
+de Derecho público o empresas públicas de los Estados miembros, así como la
+adquisición directa a los mismos de instrumentos de deuda por el BCE o los Bancos
+centrales nacionales.
+• Por el artículo III.182: el acceso privilegiado a las entidades financieras
+para instituciones y organismos señalados en el artículo III. 181.•
+• Por el artículo III.183: la asunción por la Unión o por los Estados miem­
+bros de los compromisos de los organismos de las Administraciones públicas o
+empresas públicas de los Estados miembros.
+294
+
+
+
+Para evitar déficit públicos excesivos el número 2 del artículo III. 184 enco­
+mienda a la Comisión la supervisión de la evolución presupuestaria y del nivel de
+endeudamiento público de los Estados miembros, y en particular examinará si se
+respeta la disciplina presupuestaria atendiendo a los dos criterios siguientes:
+
+a ) Si la proporción entre el déficit público previsto o real y el PIB supe­
+ra un valor de referencia, a menos:
+i) que la proporción haya disminuido de forma considerable y continua­
+da y llegado a un nivel próximo al valor de referencia, o
+ii) que el valor de referencia se supere sólo de forma excepcional y
+temporal y la proporción se mantenga próxima al valor de referencia.
+
+b ) Si la proporción entre la deuda pública y el PIB supera un valor de
+referencia, a menos que la proporción disminuya suficientemente y se aproxime a
+un ritmo satisfactorio al valor de referencia.
+Los valores de referencia se especifican en el Protocolo sobre el procedi­
+miento aplicable en caso de déficit excesivo (3 por 100 en déficit y 60 por 100 en
+deuda).
+Los números 3 a 12 del citado artículo III. 184 señalan el procedimiento a
+seguir cuando un Estado miembro no cumple los requisitos de uno de estos crite­
+rios o de ambos, y el número 13 establece que en el Protocolo sobre el procedi­
+miento aplicable en caso de déficit excesivo se recogen disposiciones complemen­
+tarias sobre la aplicación del procedimiento establecido en el mencionado
+artículo III. 184, y que una Ley europea del Consejo establecerá las medidas apro­
+piadas en sustitución del mencionado Protocolo; el Consejo se pronunciará por
+unanimidad, previa consulta al Parlamento Europeo y al BCE, adoptando el Conse­
+jo, a propuesta de la Comisión y previa consulta al parlamento Europeo, los regla­
+mentos o decisiones europeos que establezcan las modalidades y definiciones para
+la aplicación del mencionado Protocolo.
+
+BIBLIOGRAFÍA
+B area , J.
+
+(1993), El déficit público en 1992, Cuadernos de Información Económica, núm. 71.
+
+—
+
+(1993), Los problemas de la determinación del déficit público, Revista núm. 3/1993,
+IEE.
+
+—
+
+(1994), Reflexiones sobre cómo reducir el déficit público, Hacienda Pública Espa­
+ñola, núm. 2, Homenaje al Profesor Fuentes Quintana.
+295
+
+
+
+—
+
+(1995), El desequilibrio del Sectorpúblico. Papeles de Economía Española, núm. 62.
+
+—
+
+(1995), Los agujeros del Presupuesto, Cuadernos de Información Económica,
+núm. 100.
+
+—
+
+(1995), El Proyecto de Ley General Presupuestaria y la Estabilidad de la Economía,
+Cuadernos de Información Económica, núm. 104
+
+—
+
+(1996), Disciplina presupuestaria e integración de España en la Unión Monetaria,
+Real Academia de Ciencias Morales y Políticas.
+
+—
+
+(1996), Comentarios al RD Ley 12/1996, de 26 dejulio, Cuadernos de Información
+Económica.
+
+—
+
+(1999), El enraizamiento del déficit en la política presupuestaria española, Papeles
+de la Academia de Ciencias Morales y Políticas.
+
+—
+
+0999), El envejecimiento de la Jx>blación española y su desequilibrio demográfico,
+Papeles de la Academia de Ciencias Morales y Políticas, núm. V.
+
+—
+
+(2000), El déficit público como herencia negativa: ¿hemos aprendido a controlarlo?, Papeles de la Academia de Ciencias Morales y Políticas, núm. VII.
+
+—
+
+(2003), Lospeligros para el crecimiento económico de abandonar el Pacto de Esta­
+bilidad Presupuestaria, Instituto de Estudios Económicos (IEE), Revista núm. 2 y 3.
+
+—
+
+(2004), *E1 Pacto de Estabilidad y Crecimiento y la política de convergencia*, en
+Economía y economistas españoles, colección dirigida por el profesor Fuentes
+Quintana, vol. VIII, Círculo de Lectores.
+
+B area, J.,
+
+y B abea, M. (1998), Después de Maastricht ¿qué?, Encuentro Publicaciones.
+
+BCE (2001), Política fiscal y crecimiento económico, Boletín mensual agosto.
+—
+
+(2001), Cuestiones relativas a las reglas de ¡xAítica monetaria, Boletín mensual,
+octubre.
+
+—
+
+(2001), El marco depolítica económica de la UEM, Boletín mensual, noviembre
+
+—
+
+(2002), Funcionamiento de los estabilizadores fiscales automáticos en la zona
+euro, Boletín mensual, febrero.
+
+—
+
+(2002), Funcionamiento de los estabilizadoresfiscales automáticos en la zona del
+euro, Boletín mensual, abril.
+
+—
+
+(2003), La relación entre la política monetaria y laspolíticasfiscales de la zona del
+euro. Boletín mensual febrero
+
+C om isión
+
+E uropea (1995), Technical Note, The Commission Services method fo r the cyclical
+adjustment of govemment budget balances, European Economy, núm. 60.
+
+EUROSTAT (1995), Sistema Europeo de Cuentas Nacionales y Regionales.
+296
+
+
+
+(2002), Manual SEC-95 sobre el déficit y la deuda pública.
+
+—
+
+Ferro, J. L. (2002), La política anticíclica dentro del euro, Círculo de Empresarios.
+E. (1996), Déficitpúblico de la democracia española, Universidad de Alca­
+lá de Henares.
+
+Fuentes Q uintana ,
+
+E., y B area, J. (1997), Déficitpúblico en la democracia, Papeles de Econo­
+mía Española, núm. 68/69-
+
+Fuentes Q uintana ,
+
+M. (2001), Costes y beneficios de la disciplina fiscal: la Ley de Estabili­
+dad Presupuestaria en perspectiva, Instituto de Estudios Fiscales.
+
+G onzález Páramo , J.
+
+M arín, J.
+
+(2004), Reglas Fiscales y Ciclos Económicos: ¡a experiencia de la zona euro, Presu­
+puesto y Gasto Público, núm. 35 (2/2004).
+L. (1997), El carácter estructural del déficitpresupuestario, Papeles de Economía
+Española, núm. 68/69-
+
+Raymond , J.
+
+Shiller, J.
+T ratado
+
+(2003), Los riesgos reales de los déficit, Expansión, 13 de agosto.
+
+de
+
+la
+
+U n ió n Europea (texto consolidado).
+
+297
+
+
+
+

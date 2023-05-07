@@ -1,0 +1,1096 @@
+LA CIENCIA Y EL DERECHO EN LA CONCEPCIÓN
+DE INMANUEL KANT
+Por el A ca d ém ico d e N úm ero
+Excm o. Sr. D. Juan Vallet d e G oytisolo *
+
+Para comprender lo que representa Kant y la genialidad de su giro metó­
+dico, así como sus carencias, creo preciso dar previamente un repaso histórico,
+desde la concepción aristotélica-romana de un orden en la natura rerum y en cada
+natura rei hasta su tránsito, a consecuencia del voluntarismo y del nominalismo,
+que llevó a la escisión de res cogitans (el mundo del pensamiento) y res extensa
+(el mundo inerte de las cosas). De ahí la dualidad metódica, en que discurrieron,
+por un lado, Francis Bacon y, por el otro, Descartes, y las críticas de Hume al tran­
+sitar de aquel a éste.
+
+1. LOS AVATARES HISTÓRICOS D EL CO N CEPTO D E C IE N C IA
+D EL D ER ECH O Y SU D E PE N D E N C IA D E LAS VARIACIONES
+D EL CO NCEPTO GENERAL D E CIE N C IA
+
+Para los jurisconsultos romanos, la jurisprudencia, según la tantas veces
+recordada definición de Ulpiano, recogida en el Digesto \ es la ciencia del derecho,
+entendida como la ciencia de lo justo y de lo injusto y basada en la previa noticia*1
+
+* Sesión del día 14 de junio de 2005.
+1 U
+
+l p ia n o
+
+,
+
+D ig . 1, 1, 10, 52: Ju rísp ru d en tia est d iv in a r u m a tq u e h u m a n a r u m r e r u m notitiae,
+
+iusti a tq u e iniusti scientia-.
+
+17
+
+
+
+de las cosas divinas y humanas, observadas con sensum naturalis y naturalis vatio,
+que al jurisprudente le permiten conocer y practicar lo bonum et aequum.
+Con esa ciencia se interferiría después, con mayor o menor intensidad en
+los diversos períodos históricos vividos, una tendencia a la aplicación más o menos
+mecánica de las leyes y rescriptos imperiales, que hallaba su apoyo en algunas
+constituciones imperiales en las cuales los emperadores bizantinos pretendían
+asumir el m onopolio de la interpretación y la determinación de la equidad, frente
+la persistencia de la búsqueda de lo justo y lo equitativo por juristas y jueces 2.
+Después, los comentaristas y conciliadores retornarán a aquélla concepción de la
+jurisprudencia basada en el conocimiento de la naturaleza de las cosas — que les
+sería facilitado por la recepción del realismo metódico aristotélico, conforme a su
+intelección tomista— , para lo cual volvería a conjugarse — como lo había sido por
+los romanos— toda la experiencia jurídica acumulada en leyes, costumbres, princi­
+pios, respuestas, glosas y comentarios anteriores3.
+La jurisprudencia, así concebida como ciencia de lo justo, determinado
+con la mediación de las cosas, parte de que en éstas existe un orden, ínsito en ellas
+en su creación. Por eso, al ser puesto en entredicho ese orden natural por el volun­
+tarismo de Duns Escoto y negado radicalmente por el nominalismo de Ockham 4,
+la ciencia del derecho quedaría carente de su base en las cosas en la que se había
+sustentado. Los teólogos o filósofos jurídicos que recibieron el influjo nominalista
+tuvieron que buscar otros apoyos y seguir otros caminos. Uno lo abrió Gregorio de
+Rimini y el otro lo halló Francis Bacon en el campo de las ciencias físicas. Aquél
+creyó encontrarlo abierto para la razón humana abstracta, aislada de las cosas,
+considerada capaz de razonar a partir de ideas ínsitas en nuestra mente 5. El segun­
+do trataría de ensayar en el derecho el nuevo método empleado con éxito en las
+ciencias físicas por Galileo y la escuela de Pavía, método descompositivo-hipotético-recompositivo o analítico-sintético, con la finalidad de fabricar un orden huma­
+no — el regnum hominis— en un mundo inarticulado e ininteligible 6.
+La escuela del derecho natural y de gentes quiso hacer camino por uno
+de esos dos métodos. La rama racionalista por el primero y la constructivista por el
+
+2 Cfr. mi volumen La c ie n c ia d e l d e re c h o a lo la rg o d e su historia, Madrid, Fundación Cultu­
+ral del Notariado 2000, 6, págs. 43 y sigs.; 11, págs. 72-76; 14, págs. 89-92; 16, págs. 97-103; 24,
+págs. 130-139.
+
+18
+
+3 Ib
+
+id
+
+,
+
+22
+
+4 Ib
+
+id
+
+,
+
+38, B, pág.198.
+
+y
+
+23,
+
+p á g s .,
+
+118-130.
+
+5 Ib
+
+id
+
+,
+
+38, B, b, párrafo que lleva la nota 16, págs. 198.
+
+6 Ib
+
+id
+
+,
+
+38, B, c, párrafo que contiene la nota 38, pág.202.
+
+
+
+segundo. Pero ninguna de ellas seguiría en toda su pureza el método elegido. Hugo
+Grocio buscó apoyos complementarios, a posteriori, en los conocimientos obteni­
+dos de la experiencia, proporcionados, unos, por la historia sagrada y, otros por los
+testimonios de los sabios antiguos. Hobbes y Locke, una vez terminada su cons­
+trucción del Estado, dejarían en manos de la voluntad de éste — con muy diversos
+niveles de salvaguardia de los súbditos— el monopolio de la creación y la aplica­
+ción del derecho, pues su tarea pretendidamente científica se agotaría con la fabri­
+cación del Estado segregador y ejecutor del derecho confundido con su voluntad
+formalmente expresada; y Pufendorf, que entremezcló los dos métodos, rellenó con
+textos de derecho romano los principios obtenidos, por él, racionalmente7.
+La vía puramente racionalista, more geométrico, de la ciencia fue la descu­
+bierta idealmente, en su pensamiento, por Descartes durante una larga noche de
+invierno, al hallar mentalmente su primer principio, cogito ergo sum, y tratar de
+purificar este pensamiento de toda sensación engañosa. «He conocido — escribi­
+ría 8— que soy una sustancia de la cual toda la esencia o naturaleza es la de pensar,
+y que, para ser, no tengo necesidad de vínculo alguno, ni dependo de ninguna cosa
+material de manera que ese yo, es decir, el alma, por la cual soy lo que soy, es
+enteramente distinta del cuerpo...».
+He ahí, no sólo, su escisión radical de res cogitans y res extensa, que
+alcanza al mismo hombre, sino también la imposibilidad de que el alma — «por la
+cual soy lo que soy», dice— , que es enteramente distinta del cuerpo, capte la segun­
+da. De ahí que rechazara expresamente toda fiabilidad a los sentidos: «sea que vele­
+mos, sea que durmamos, jamás debemos dejarnos persuadir más que por la eviden­
+cia de nuestra razón. Y es de reparar que digo — escribe é l 9— de nuestra razón y
+no de nuestra imaginación ni de nuestros sentidos».
+Como ha comentado Gilson10: «Saber que soy tal, es tener una idea clara
+de mí mismo como cosa que piensa, pero tener de ello una idea distinta es algo
+diferente y no menos importante. Tengo una idea de lo que soy tan pronto como
+me doy cuenta de lo que es ser una cosa pensante; en cambio, para tener de ello
+una idea distinta, es preciso que me haga cargo de lo que una cosa pensante no
+es». Por otra parte, tratando de penetrar en el pensamiento de Descartes, sigue
+
+7 I bid , 38, B, b, textos que llevan las notas 20 y 21, pág.198.
+8 D escartes, La discours de la methode, 4.a parte, §2.
+9 Ib
+
+id
+
+, §8.
+
+10 É t i e n
+
+ne
+
+G
+
+il s o n
+
+,
+
+La u n id a d de la experiencia filosófica, cap. VI cfr. en castellano Eds. Rialp
+
+1960, págs. 191 y sigs.
+
+19
+
+
+
+advirtiendo Gilson u, las ideas causadas por las sensaciones «parecen venir de fuera,
+pero sabemos cierto que no es así. Porque ¿cómo podría producirlas una sustancia
+distinta? Sería contradictorio e imposible. Pero entonces, ¿qué es una sensación? Es,
+a lo más, una idea innata despertada en la mente con ocasión de un cambio ocurri­
+do en el cuerpo. Aunque existan cuerpos — cosa que aún no sabemos— , estos no
+podrán ser las causas de nuestras ideas: son meras ocasiones para que la mente las
+concibe». Esto conllevaba, para él, la imposibilidad de conocer directamente lo que
+es exterior a nuestra mente puesto que no podemos fiarnos de nuestros sentidos,
+aunque — como dice también Gilson1
+12— «la mente no sólo supone sino que expe­
+rimenta de m odo actual su unión con algo exterior a su propia naturaleza, es decir,
+con un cuerpo, mediante el cual se relaciona con los demás cuerpos...».
+Así, al no comprender sino el mundo puramente mental, para Descartes
+resultaba ininteligible el mundo exterior, los fenómenos del cual nos llegan por las
+sensaciones; y, por eso, inducía idealmente todo el conocimiento desde los princi­
+pios intuidos idealmente, para deducir de ellos axiomas y leyes. A partir de éstos
+— como ha dicho Cassirer 131
+— podría dominar la naturaleza, con toda seguridad,
+4
+desarrollándolos en una cadena de cerradas deducciones conducentes desde las
+causas más altas y universales hasta la resolución de cualquier acción singular
+compleja; de modo tal que no veía barrera alguna a la aplicación de los conceptos
+claros y distintos, de la geometría y la física; pues pensaba que la sustancia de los
+cuerpos consiste en la mera extensión ( res extensa), y que el conocimiento de esta
+extensión, pura geometría, es señoreado por la física.
+De ese modo, la ciencia de Descartes concebía el Universo regido por unos
+principios matemáticos que, proyectados mecánicamente, serían unificadores de la
+realidad material o res extensa, sometida al mundo del pensamiento ( res cogitans) u,
+o sea a la inteligencia de Dios y, por participación suya, a la razón humana 15.
+Esta concepción cartesiana de la ciencia pronto sería rechazada ontológica, metodológica y psicológicamente, así como también la pretendida asequibilidad
+del conocimiento de las cosas con la certeza matemática que ella requería.
+
+págs. 196 y sigs.
+
+11 I b
+
+id
+
+,
+
+12 I b
+
+id
+
+, cap.
+
+13 E r n s t C
+
+VII,
+
+a s s ir e r
+
+págs.
+,
+
+214
+
+y
+
+s ig s .
+
+Filosofía d e la Ilu stra ció n , II, 2, cfr. ed. en castellano, M éxico, Fondo de
+
+Cultura Económica, 1943, pág. 68.
+14 Cfr. M i c h e l V i i x e y , L a fo r m a t i o n d e la p e n s é e ju r i d i q u e m o d e m e , C o u r s d ’h istoire d e la
+p h ilo so p h ie d u droit, París, Dalloz, 1962, V parte, Introducción D escartes, II págs. 570 y sigs.
+
+15 Cfr.
+G. B.
+
+20
+
+M
+
+o n t in i,
+
+Ja c
+
+q ues
+
+M
+
+a r it a in
+
+,
+
+Tres refo rm a d o res, II, D escartes, 8, cfr. ed. en italiano, cuidada por
+
+Brescia, Marcelliana, 1928, págs. 87 y sigs.
+
+
+
+Ontológicamente, Leibniz opondría al dualismo cartesiano su teoría de la
+armonía preestablecida, que consideraba la naturaleza como un organismo sustan­
+cial, dotado de fuerza viva, y no como un mecanismo con el movimiento de un
+relo j16. Como explica Cassirer171
+, el universo según Leibniz «no es ninguna unidad
+8
+aritmética puramente numérica, sino una unidad dinámica», que, por correlato,
+tiene «no la uniformidad sino la infinitud»; en el cual cada mónada «es un centro
+vivo de fuerza, y la variedad infinita de ellas constituye la verdadera unidad del
+mundo», con su dinamismo debido a que cada mónada es «fecunda» — ya que cada
+momento de la mónada «contiene su pasado y ésta preñado de su futuro» y «jamás
+uno de estos momentos es igual a otro, ni puede ser reducido a una misma suma
+de-«cualidades» puramente estáticas».
+
+Metodológicamente, Newton reprochaba a Descartes, así como a Spinoza,
+que por deducción lógica se descolgaban de premisas puestas arbitrariamente, que
+no pasaban de ser meras hipótesis en las que apoyaban sus sistemas. A su juicio,
+para responder a un método científico era preciso basarse en los hechos, para, a
+partir de ellos, alcanzar los principios y no viceversa. «Hypothesis non fingo »,
+proclamaba, y añadíals: «En filosofía experimental debemos recoger proposiciones
+verdaderas o muy aproximadas, inferidas por inducción general a partir de fenó­
+menos, prescindiendo de cualesquiera hipótesis contrarias hasta que se produzcan
+otros fenómenos capaces de hacer más precisas esas proposiciones sujetas a
+excepciones».
+Es decir, en lugar de descender, por axiomas y principios, desde la mente
+a los hechos, debemos partir de éstos y elevarnos por inducción hacia los princi­
+pios sin pretender alcanzar metas absolutas, sino siempre relativas y provisionales.
+Los discípulos de Newton destacaron que era preciso sustituir la exigencia
+de la definición clara y distinta, exigida por Descartes, tal como rige en la mate­
+mática pura, por la descripción-, pues, como observa Cassirer19, «no se trata de trans­
+formar la realidad intuida transfundiéndola en un concepto totalizador de magnitu­
+des y en un tejido de números y medidas, sino de mantener la forma específica de
+la realidad, desplegándola en toda su riqueza, en la variedad de su ser y en la pleni­
+tud de su devenir».
+
+16 Cfr. G ilson, op. últ. cit., cap. VII, págs. 220 y sigs.
+17 Cassirer, op. cit., I, 2, págs. 46 y sigs.
+18 I s a a c N
+
+e w to n
+
+,
+
+P r in c ip ia m a th em a tica p b ilo s o p h ia naturalis, regla IV para filosofar; cfr. en
+
+castellano, Madrid, Ed. Nacional, 1982, pág. 659.
+19 C
+
+a s s ir e r
+
+,
+
+op. cit. II, 4, pág. 95.
+
+21
+
+
+
+Psicológicamente, los puntos de partida de Descartes serían contradichos
+por Locke, negando que existan ideas innatas. Entendía que las ideas simples
+provienen de la experiencia — externa de la sensación o interna de la reflexión—
+y que las ideas complejas resultan de la combinación de las simples, respondiendo
+éstas a las manifestaciones operacionales de las cosas. Por todo lo cual, todas ellas
+son suposiciones puras, siendo así en tanto grado — como advierte Gilson20— que
+Locke se creyó -en la obligación de investigar el origen de estas ideas».
+Para ello, se debía «tomar en consideración incluso la opinión, la fe, para
+las razones y grados de asentimiento; en una palabra todo modo particular de la vida
+intelectual. Iba a ser esta obra de un auténtico médico: una anatomía, una fisiología
+y una patología completas del entendimiento humano». O sea — como ha escrito
+Elias de Tejada 21— según Locke tanto la sustancia del espíritu como la del cuerpo
+nos son desconocidas. Por eso — al contrario que Descartes— Locke consideraba
+que de ellas conocemos lo que nos viene de la sensación o por la percepción, únicos
+caminos para la experiencia que, a su vez, es la única fuente del conocimiento, que
+nunca llegará a calar en las sustancias, puesto que — según él— son incognoscibles.
+En resumen, como Leibniz destacó, las leyes formuladas por Descartes
+resultaban científicamente erróneas por no haber tenido en cuenta la importancia
+de las nociones de forma, fuerza y energía; advirtiendo que, después de publica­
+dos, en 1687, los Principios matemáticos de la filosofía natural de Newton, se vio
+claro que, mientras la física de Aristóteles había durado veinte siglos, la de Descar­
+tes resultaba a los treinta años cosa pasada en Inglaterra y en el Continente a los
+sesenta 22. Asimismo, desde el terreno de la psicología, mostró Locke que Descar­
+tes anduvo descaminado al eliminar la consideración de cuanto no fuese claro y
+distinto, ya que también pertenece a la mente lo que es confuso y oscuro23.
+A este respecto de la claridad y certeza, V ico 24 había hecho notar que, aún
+cuando -las verdades universales son eternas», las particulares dependen de la natu­
+raleza, donde «no existe cosa que no sea nueva y cambiante»; por lo cual, rechazó
+que pudiera discurrirse «rectilíneamente desde el verum particular y cambiante,
+perdiéndose en la tortuosidad de la vida». De ahí que no cupiera deducir matemá­
+
+20 G ilson , op. últ. cit., cap. VI, págs. 199 y sigs.
+21 F r a n c i s c o
+
+E l ia s
+
+T
+
+de
+
+ejad a
+
+,
+
+T ra ta d o d e filo so fía d e l d erech o, vol, I, Universidad de Sevilla,
+
+1974, lecc. l.\ gl. 25, págs. 26l y sigs.
+22 G
+
+il s o n
+
+23 I b
+
+id
+
+24 G
+
+,
+
+op. cit. cap. VIII, pág. 243.
+
+, cap.
+
+VI,
+
+ia m b a t t is t a
+
+págs.
+V
+
+ic o
+
+,
+
+196
+
+y
+
+s ig s .
+
+I I m e th o d o d egli stu d i d el tem p o nostro, II, en -Opere» al cuidado de
+
+F a u sto N ic o lin i, Milán-Nápoles, Ricardo Ricardi Ed. 1953, pág. 174.
+
+22
+
+
+
+tica ni silogísticamente de modo rectilíneo entre las múltiples variantes y circuns­
+tancias de la realidad, donde «el sentido común actúa con lo verosímil» — lo vero-
+
+similia.
+También Montesquieu discurrió de este m od o25: «El matemático no va sino
+de lo verdadero a lo verdadero, o de lo falso a lo verdadero por agumento ad
+absurdo. N o conoce este término medio que es lo probable, lo más o menos proba­
+ble. No hay, a este respecto, más o menos en las matemáticas» 262
+.
+7
+En el Medievo el franciscano Rogelio Bacon había ensayado un camino
+empirista para la ciencia, en el cual su hermano de religión Guillermo de Ockham,
+observaría «relaciones de presencia mutua» y «secuencias regulares entre los fenó­
+menos», materia de «habitualis notitia » 27, de la cual — como advierte Gilson28— «no
+quedan más que secuencias empíricas de hechos, fuera de la mente, y asociacio­
+nes habituales, dentro de la mente», incurriéndose así, de una parte, en un fisicalismo, que extiende a la filosofía y al derecho el empleo del método de la física, y
+de otra en un psicologismo, que solicita de la psicología respuestas filosóficas o filosófico-jurídicas, «poniendo la descripción en lugar de lo descrito».
+Este método, basado en la experiencia cotidiana, «depurada» de imágenes
+engañosas ( idola), y en una contemplado naturae, exigiendo de ésta respuestas a
+las preguntas del hombre y silencio en lo demás, fue propugnado por Francis
+Bacon de Berulam para utilizarlo en las ciencias humanas, a fin de sustituir, en esta
+tierra, el regnum Del por el regnum hominis 29.
+Por eso, este otro concepto empirista de ciencia y la aplicación del mismo
+a las ciencias humanas, que había propugnado Francis Bacon, recibió también críti­
+cas del escéptico Hume, a principios del siglo xvin.
+Éste, si bien seguía la línea empirista, llevó su nominalismo hasta poner
+en duda que sea real nuestra cognoscibilidad de la relación causa-efecto. Él mismo
+explicó en qué fundaba esa duda30: «No tenemos otra noción de causa y efecto que
+la de ciertos objetos siempre unidos entre sí, y observados como inseparables en
+
+25 Cfr. lo que digo en La cie n c ia d el d e re c h o a lo la rg o d e su historia, 44, B, b, pág. 247.
+26 M
+
+o n t e s q u ie u
+
+,
+
+M e s P en sé es 675.
+
+27 Cfr. mi M e to d o lo g ía d e la d e te r m in a c ió n d el d erech o, I, P ersp ectiva histórica, Madrid,
+Centro Cultural Ramón Areces, 1994, 175, págs. 563-566.
+28 G
+
+il s o n
+
+,
+
+op. cit., págs. 110-116.
+
+29 Cfr., más ampliamente en Perspectiva histórica, 176, págs. 566 y sigs.
+30 D
+
+a v id
+
+H
+
+um e
+
+,
+
+T ra ta d o d e la n a tu ra leza h u m a n a , 93; cfr. vers. en castellano, Madrid,
+
+Tecnos, 1992, pág. 157.
+
+23
+
+
+
+todos los casos pasados. Y no podemos entrar en la razón de esa conjunción, sino
+que tan sólo observamos la cosa misma, hallando en todo momento que es por esa
+conjunción constante por la que los objetos se unen en la imaginación. Cuando se
+nos presenta la impresión de un objeto, nos formamos inmediatamente una idea de
+su acompañamiento habitual y, en consecuencia, podemos establecer como
+elemento de la definición, de la opinión o creencia, que es una idea relacionada o
+
+asociada con una impresión presente-.
+La idea de la separación de res cogitans y res extensa era también radical
+para Hume. No veía posible comunicar racionalmente aquélla, que capta las ideas
+por intuición y opera con ellas por deducción lógica, con el conocimiento sensible
+de las cosas inducidas empíricamente de los hechos que perciben nuestros senti­
+dos. Así alertaba31: «observo con sorpresa que, en vez de las cópulas habituales, de
+las proposiciones es o no es, no vea ninguna proposición que no esté conectada
+con un debe o un no debe. Este cambio es imperceptible, pero, sin embargo, resul­
+ta de la mayor importancia. En efecto, en cuanto este debe o no debe expresa algu­
+na nueva relación o afirmación, es necesario que ésta sea observada y explicada, y
+que, al mismo tiempo, se dé razón de algo que parece absolutamente inconcebi­
+ble, a saber, cómo es posible que esa nueva relación se deduzca de otra totalmen­
+te distinta». Es decir, cómo un deber ser se deduce del hecho de ser.
+Tenía razón Hume desde su perspectiva, que ponía en relación los siste­
+mas morales racionalistas, que él observaba, sólo con los resultados de unos empi­
+rismos materialistas; pero no la tiene si su opinión es trasladada a los juicios
+prudenciales que conjugan las aseveraciones «esto es bueno» o «esto es malo» con
+las «esto debe hacerse» o «no debe hacerse», que son consecuencia de las abstrac­
+ciones integrativas realistas de la razón práctica, que no sólo juzga la naturaleza físi­
+ca sino también la ética de los actos humanos a través de los principios que
+también intuye en la realidad viva, formal y materialmente32,
+Esos dos referidos métodos, el empirista y el racionalista, así como la supe­
+ración del de Descartes, y las críticas a uno y otro, en especial las formuladas por
+Hum e33, los observaría Inmanuel Kant y trataría de superarlas34, como vamos a ver.
+
+31 I b
+
+id
+
+,
+
+469, págs. 633 y sigs. Cfr. mi comunicción C on tra ste e n tr e u n texto d e B a ld o y o tro d e
+
+H u m e , 3, R.A.J. y L. 27, 1997, págs. 140 y sigs.
+
+32 Cfr. mi comunicación C o n c r e c ió n d e los p r in c ip io s é tico -n a tu ra les e n los p r in c ip io s g e n e ­
+rales d e d e re c h o y su reflejo e n la in terp re ta ció n ju r íd ic a , I, en A.R.A.C.M. y P. 73, 1996, págs. 193-201.
+
+33 Cfr. mi comunicación C on tra ste e n tr e u n texto d e B a ld o y otro d e H u m e , 3, en A.R.A.J. y
+L., 27, 1997, págs. 140-144.
+34 Cfr. É.
+
+24
+
+G
+
+il s o n
+
+,
+
+op. últ. cit., cap. IX, págs. 26l y sigs.
+
+
+
+2.
+
+L A C IE N C IA SEGÚN IN M A N U E L K A N T
+
+Kant siguió anclado en el dualismo cartesiano de la res cogitans y la res
+extensa, que proyectó esta separación al hombre, escindiéndolo en homo noumenon y homo phaenomenon.
+Con gran finura intelectual José Miguel Palacios 35 ha explicado que el
+
+homo phaenomenon, «como causa eficiente, tiene un carácter empírico por el que
+sus acciones están estrictamente determinadas», sujeto a las leyes naturales; y, en
+cambio, el homo noumenon posee, «un carácter intelegible que le hace ser causa
+eficiente absolutamente incondicionada».
+Este dualismo, ínsito en el pensamiento de Kant, preside: su concepción
+de la ciencia; su teoría de la libertad, y la perspectiva con la que observa el dere­
+cho. Mediante ésta trata de subordinar los albedríos del hombre fenoménico a la
+libertad noménica del mismo.
+Vayamos por partes y examinemos sucesivamente: la concepción kantiana
+de la ciencia; la que ofrece acerca del conocimiento moral en el hombre, y aque­
+llo que le conduce a su concepción del derecho debida al choque, que observa, de
+lo nouménico y lo fenoménico y a su pretensión de lograr que libertad nouménica ( Freiheit) prime sobre los albedríos apetitivos ( Willkür).
+
+a ) La incomunicación entre la res extensa y la res cogitans — que, ence­
+rrado en ésta, Descartes no pudo superar— , y la dificultad del método empirista
+para elevarse al nivel intelectivo nouménico — que tantas dificultades ofrecía según
+Hume— trató de superarlas Kant.
+Según este filósofo alemán — ha explicado González V icén36— , «los obje­
+tos de nuestro conocimiento son el resultado de la actividad del espíritu sobre el
+material procedente de las sensaciones», «estos objetos lo son sólo «para nosotros»,
+es decir, para un ser dotado de la actividad receptora que denominamos sensibili­
+dad»; pero, además, considera que, también, nuestro pensamiento produce «otros
+objetos distintos», «que constituyen nuestro conocimiento de los objetos «en sí»,
+independientes de las formas peculiares de nuestra intuición». A los primeros obje­
+
+35 J o s é
+
+M
+
+ig u e l
+
+Pa la c
+
+io s
+
+,
+
+D e l c o n o c im ie n to d e s í m is m o a la filo so fía trascen d en ta l d e K a n t ,
+
+Revista de Filosofía, 3 a época, serie IV, julio-diciembre 1981, págs. 232 y sigs.
+
+36F
+
+eupe
+
+G
+
+o n zález
+
+V
+
+ic é n
+
+,
+
+L a filo so fía d el E stado e n K a n t , III, Valencia, Fernando Torres Ed.,
+
+1984, II, 2, págs. 24 y sigs.
+
+25
+
+
+
+tos los denominó phaenomena y a los segundos noumena, o «cosas en si» o «meros
+objetos del entendimiento». Ambos pueden ser pensados, pero — a su juicio— sólo
+los primeros pueden ser conocidos.
+Nuestro conocimiento — sigue explicando González Vicén— sólo se
+extiende a los phaenomena , porque las formas puras «no contienen más que el
+esquema de una posible experiencia» y necesitan de un material sensible para que
+de éste surja el concepto de objeto y, por tanto, su conocimiento. Los noumena,
+por definición, no pueden ser objeto de conocimiento, pero sí pueden ser pensa­
+dos, «más aún, tienen que ser pensados como un postulado del fenomenismo,
+sobre el que descansa la gnoseología crítica»; pues — a su juicio— , basta el «enten­
+dimiento más común», para «conocer y aceptar detrás de los fenómenos algo distin­
+to que no es el fenómeno, a saber, la cosa en sí». Aunque ocurre que no es posi­
+ble hablar de ellas en «sentido positivo», sino sólo en «sentido negativo», como «el
+pensamiento de algo general, del que que se ha abstraído toda forma de intuición
+sensible».
+La dificultad de la «cosa en sí», como cosa pensada, radica en determinar
+si es producida por una intuición ideal platónica, como la intuición entitativa suareciana, o bien por el cogito a la manera cartesiana. Lo cual plantea si intuimos ideas
+innatas, dormidas en nuestra mente, o bien, si ésta no tiene las innatas pero las
+halla-, ¿donde?, tal vez, ¿dentro de sí misma?; y, en ese caso, si no son innatas ¿cómo
+las halla dentro de sí?, o, si la mente las fabrica, ¿cómo y con qué elementos?
+La noción tomista del conocimiento no ofrece estas dificultades. El hombre
+obtiene las ideas de las cosas con su razón, por su facultad intelectiva, teórica y
+práctica, y las obtiene por grados sucesivos37. Así explica el dominico lusitano Juan
+Poinsot, en religión Juan de Santo Tom ás38 que «nuestro intelecto y su acto no son
+objetivamente inteligibles en esta vida a no ser dependientemente de las cosas
+sensible»; pero advierte que, además y de m odo reflejo, poniendo en relación39 lo
+que se conserva en la memoria, como conocido, el intelecto progresa en el cono­
+cimiento de otras especies de naturaleza no material, en el de los principios, hasta
+el acto de conocer y al del intelecto mismo.
+
+37 Cfr. mi comunicación, M o d o s d e ca p ta c ió n d e los valores — ¿ in tu ic ió n eidética o a bstra c­
+c ió n p o r d iv isió n o represen ta ción ?— y su c o n c r e c ió n , III, en A.R.A.C.M. y P. 75, 1998, págs. 651 y sigs.
+38 J u
+
+a n
+
+de
+
+Sa
+
+n to
+
+T
+
+o m ás
+
+,
+
+A r s lo g ic a -S e c u n d a p a r s s u p e r libros p e r ih e r m e n e ia s: C ir c a libros
+
+p rioru m -, cfr. en castellano con el título D e los sig n o s y los con ceptos, México, UNAM, 1989, quaest XXXIII,
+
+art. III, págs. 200 y sigs.
+39 I b
+
+26
+
+id
+
+,
+
+quaest XXIII, art. III, págs. 202 y sigs.
+
+
+
+Kant había renunciado a todo intento de hallar un origen común a la sensi­
+bilidad y al entendimiento, razón por la cual situó en campos distintos su Crítica
+de la razón pura y su Crítica de la razón práctica. En ésta postula un libre arbitrio
+autónomo, capaz de autodeterminación e inmune a toda necesidad natural, pero
+que, por eso mismo, escapa del conocimiento científico. Gilson40 advierte esta fisu­
+ra que afirma la «antinomia radical entre el hombre como viviente en el orden de
+la naturaleza y el hombre como agente en el orden de la moralidad», a pesar de
+que «son el mismo hombre». Por ello, pregunta «¿por qué razón, en virtud de qué
+incalculable pecado original ha sido condenado el hombre, como ciudadano libre
+del mundo inteligible, a vivir en el mundo estrictamente determinado por la mate­
+ria? Si él mismo es la causa de la determinación, ¿por qué su propio entendimien­
+to habría de establecer la necesidad causal como un obstáculo permanente a su
+propia voluntad libre? Si nosotros hacemos que la naturaleza sea lo que es, ¿por
+qué la hacemos un obstáculo para nuestra propia moralidad?».
+El hombre, según Kant — advierte también G ilson41— ha de estar dota­
+do de dos formas de intuición sensible: espacio y tiempo, en las que los objetos
+del conocimiento son dados al entendimiento. «En cuanto nuestra mente se apli­
+ca a objetos, así dados, puede constituir un conocimiento válido; cuando, al
+contrario, se aplica a meras representaciones de objetos posibles, no forma
+conceptos de cosas, sino solamente ideas, y como estas ideas no tienen objetos,
+no constituyen conocimientos científico, sino esta especie ilusoria que llamamos
+metafísica».
+Así, en la terminología de Kant, el hombre tiene sensibilidad y entendi­
+miento. Aquella percibe inmediatamente la realidad que le es dada a través de las
+formas a priori de espacio y tiempo, que, dice, «son a priori- porque «no las deri­
+vamos de las cosas, sino las imponemos a ellas; las formas de nuestro conocimiento
+de la realidad constituyen a ésta en objeto de nuestro conocimiento»; y, de modo
+similar, el entendimiento está dotado con otros principios a priori, como las nocio­
+nes de sustancia o de causalidad, «mediante los cuales conecta los diversos objetos
+que se nos dan en el espacio y en el tiempo. Estos principios del entendimiento
+— llamados categorías— no derivan de las cosas más de lo que derivan el espacio
+y el tiempo mismos; como dice Kant, son trascendentes respecto a las cosas; no son
+extraídos de la experiencia, sino que la hacen. La propiedad de los principios del
+entendimiento es que, siendo la condición de toda experiencia sensible, probable­
+mente pueden resultar fuente de una ilusión perjudicial. Tal como pueden referir­
+
+40 É . G
+41 I b
+
+id
+
+il s o n
+
+,
+
+,
+
+cap. últ. cit., p á g s . T i l y s i g s .
+
+págs. 269 y sigs.
+
+27
+
+
+
+se a objetos realmente percibidos, pueden también referirse a nuestros conceptos
+de las cosas, como si estos conceptos fuesen las cosas reales mismas (lo cual es
+falso). La naturaleza trascendente de los principios del entendimiento resulta así la
+fuente de lo que Kant llama una ilusión trascendental. Es, en efecto, una ilusión,
+porque, en lugar de conectarse los objetos reales unos con otros en forma de
+conceptos, lo que se hace es conectar los conceptos entre sí por medio de ideas
+abstractas, creyendo, sin embargo, que se está tratando aún con las cosas mismas.
+Es una ilusión trascendental porque su misma posibilidad se debe a que los prin­
+cipios del entendimiento humano no están tomados de objetos particulares sino
+que son trascendentes respecto de todo posible objeto».
+Para elaborar conceptos, Kant no se vale de la inducción, a diferencia del
+empirismo, ni de la abstracción integrativa del universal, diferenciándose netamen­
+te en esto del realismo aristotélico-tomista, pues emplea una abstracción sustractiva generalizadora. Mientras la abstracción integrativa del universal incluye todo lo
+singular abstraído, abarcando una serie completa de tipos, como también el gene­
+ral concreto de H e g e l424
+, en cambio Kant considera 4} la abstracción como separa­
+3
+ción, absonderung, de todo aquello que diferencia las representaciones considera­
+das. En lugar de abstraer una cosa universal ( abstraeré aliquid), abstrae todo lo
+particular de las representaciones consideradas, para quedarse sólo con lo general,
+común a todas. “Por eso — escribe— , cuanto más determinaciones se abstraigan
+más abstracto es el concepto. Por eso los conceptos deberían llamárseles abstra­
+
+yentes ( conceptos abstrahentes).
+Sin embargo, el concepto no es producido por la abstracción, según Kant,
+puesto que nos es dado a priori. Él mismo lo dice: «no hace nacer concepto algu­
+no-, no hace sino acabarlo y encerrarlo en los límites determinados que son los
+suyos». En este proceder, también contrasta, contraponiéndose a él, con el modo
+de conocer a través del universal aristotélico-tomista. Éste en su universalidad es
+vago e impreciso; por lo cual, la abstracción integrativa necesita ser concretada en
+cada singular incluido en aquella universalidad, a fin de obtener la determinación
+cognoscitiva más plena de cada uno de sus singulares44. En cambio, los conceptos
+nouménicos kantianos, como «moldes de lo que debe ser», se llenan de contenido
+
+42 Cfr. mi comunicación E n to r n o a los m o d o s d e c o n o c e r y d e e x p lic a r lo c o n o c id o y su refle­
+j o e n e l r a z o n a r (A b s tr a c c ió n integra tiva y a b stra cció n sustra ctivd ), 4 y 5, A.R.A.C.M. y P. 74, 1977,
+
+págs. 46 y sigs.
+43 I . K
+
+a n t
+
+,
+
+Logik, I, § 86; cfr. versión en francés, París, Libr. Philosophique, 1989, págs. 103
+
+y sigs.
+44 Cfr. mi discurso E l r a z o n a m ie n to ju r í d i c o : la a n a lo g ía y la e q u id a d , 10 y 11, Madrid, Real
+Academia d e Jurisprudencia, 1997, págs. 40-48, en especial 46 y sigs.
+
+28
+
+
+
+mediante la abstracción sustractiva o generalizadora de las representaciones que
+son encerradas en cada uno de ellos.
+Por eso mismo, mientras que teóricamente de un concepto general cabe
+deducir silogísticamente conclusiones, aunque ocurra que el silogismo sólo será
+correcto si su premisa menor no contiene particularidades no recogidas en el
+concepto que se utiliza como premisa mayor, ni lo será si éstas nada tienen que ver
+con lo que se concluye; en cambio, los universales, obtenidos por abstracción integrativa, no admiten per se deducciones silogísticas, sino concreciones determinati­
+vas en diversos grados de tipificación, hasta alcanzar la individualización corres­
+pondiente a cada cosa o caso.
+Según Kant, no caben otras ciencias que la matemática y las que tienen
+por objeto un material sensible, como, paradigmáticamente, lo tienen las ciencias
+naturales, a las cuales estimaba aplicable su expresado método de configuración
+crítica. En todo lo que sobrepase la materia sensible, donde los principios del
+entendimiento humano no son aplicados a intuiciones sensibles, o sea, en los
+conceptos mentales que «trascienden todos los límites de la experiencia» y, por
+tanto, esquivan toda prueba empírica, constituyendo el terreno propio de la meta­
+física, no cabe ciencia de ellos. Como ha comentado Gilson45: «Al carecer la meta­
+física de objetos concretos, es [para Kant] a la vez, necesaria e inútil. Es necesaria
+porque no podemos detener el entendimiento o evitar que piense en el vacío;
+convirtiéndolo en razón, lo demuestra todo. Es precisamente inútil porque lo
+demuestra todo: que hay Dios y que no hay Dios; que hay alma y que no hay alma;
+que el mundo tiene y no tiene unidad».
+Es decir, Kant rechazaba el carácter científico de los conocimientos que
+se contentan con alcanzar lo verosímil — como decía Vico— o lo más probable
+— como aceptaba Montesquieu. Sin embargo, ya desde sus orígenes la exactitud
+de las ciencias físicas tenía su apoyo en hipótesis que — provisionalmente— se
+aceptaban como verdaderas y muy aproximadas, pero que podían ser modifica­
+das por nuevos conocimientos 46. H oy la física cuántica ha apreciado «relaciones
+de incertidumbre» en su objeto, por lo que «no suministra sino leyes de probabi­
+
+45 G
+
+il s o n
+
+46 Así
+
+N
+
+,
+
+cap. últ. cit., pág. 271.
+
+e w to n
+
+— tomado p or
+
+K
+
+a n t
+
+com o m odelo— propugnó (cfr. loe. cit. su p ra nota 18) por
+
+■recoger proposiciones verdaderas o muy aproximadas, inferidas por inducción general a partir de fen ó­
+menos, prescindiendo de cualesquiera hipótesis contrarias, hasta que se produzcan otros fenómenos
+capaces de hacer más precisas estas proposiciones sujetas a excepciones». La historia de las ciencias, en
+especial la más reciente, nos muestra continuas rectificaciones y cambios de criterio e incluso de orien­
+tación.
+
+29
+
+
+
+lidad»474
+; y la más reciente biología, en el sustrato de una enzima alostérica y los
+8
+ligados que activan o inhiben su actividad, ha observado que «no existe ninguna
+relación químicamente necesaria de estructura o de relatividad» y que, «por lo que
+atañe a la regulación por intermedio de una proteína alostérica, todo es posible» 4S.
+Sin embargo, Kant había pretendido: librar a la ciencia del escepticismo de
+Hume, mediante negar la posibilidad todo conocimiento objetivo a la metafísica y,
+por ello, su carácter de ciencia. No obstante esa incapacidad, que achacaba a la
+metafísica, de dar respuestas científicamente demostrables, reconocía su necesidad.
+Esto le llevó a penetrar en las cuestiones morales en su Crítica de la razón prácti­
+ca, dejándola completamente escindida de la Crítica de la razón pura, como obser­
+varemos seguidamente.
+
+b) Situado el hombre en un mundo fenoménico, sometido a la causali­
+dad en la que él mismo se halla incluido — como homo pheanomenon— , en su otro
+ámbito, el de la libertad nouménica — com o homo noumenon— la concepción que
+del mismo tuvo Kant recibió el impacto de Rousseau.
+También lo observó Gilson49, quien explica que tuvo de ser así pues: «Al
+tener Kant que encararse con cuestiones que ni pueden ser ignoradas, ni tampo­
+co contestadas racionalmente [según la crítica de Hume, que le había convencido],
+no tuvo más remedio que buscar una justificación y una respuesta fuera del orden
+racional» [...] «El escepticismo de Hume era la personificación de la razón como
+destructora de los principios del conocimiento filosófico y de la moralidad. La
+apasionada apelación de Rousseau al sentimiento frente a la ceguera natural de la
+razón fue para Kant la revelación de un orden moral completamente indepen­
+diente y cerrado en sí. «¡Oh conciencia, conciencia, instinto divino... infalible juez
+del bien y del mal!», había exclamado Rousseau, en uno de sus famosos libros,
+¡Deber! Sublime y poderoso nombre...», exclamaría Kant en su Crítica de la razón
+práctica ».
+«Lo mismo que la teoría crítica del conocimiento — escribió González
+V icén50— descansa en el principio absoluto del yo como principio conformador de
+
+47 Louis
+
+de
+
+B
+
+r o g u e
+
+,
+
+M a t ié r e et lu m iére, cap. L a crise d u d eterm in ism e, París, Ed. Albín Michel,
+
+1937, págs. 722 y sigs.
+48 J a c
+
+q ues
+
+M
+
+o n o d
+
+,
+
+L e h a sa rd et la nacesité, cap. IV, París, Ed. Sueil, 1974, o en castellano,
+
+Barcelona, Barral Eds., 1970, pág. 89.
+49 G ilson, cap. últ. cit., págs. 272 y sigs.
+50 F.
+
+30
+
+G
+
+o n zález
+
+V
+
+ic é n
+
+,
+
+op. últ. cit., II, 3, págs. 37 y sigs.
+
+
+
+la multiplicidad del material empírico, así también la teoría de la libertad significa
+la ordenación de la voluntad por la actividad del yo inteligible, es decir, la supre­
+macía de la determinación racional sobre todos los efectos e impulsos que actúan
+«naturalmente» sobre el querer humano».
+La razón nouménica del hombre ordena, en sus moldes intelectivos, los
+fenómenos del mundo físico, captados de un modo científicamente demostrable; y
+en el mundo metafísico de la moral, con principios o máximas captados a priori
+por ella misma, guía a la libertad pura del hombre para obrar sobreponiéndose a
+sus apetitos fenoménicos, y estos principios, por la propia razón, le vinculan cate­
+góricamente a priori.
+El propio Kant nos dice51 que el imperativo categórico — que «sólo dice lo
+que es vincularidad» — ordena: «obra de acuerdó con una máxima que debe valer,
+además, como ley general. Tus acciones tienes, pues, que considerarlas, primero,
+según un principio subjetivo; si este principio es también válido objetivamente
+puedes reconocerlo en que, examinado por tu razón, si, según él, puedes pensar­
+te como legislador general». [Aquí vemos, otra vez, el influjo de Rousseau]. Así,
+«nuestra razón» tiene la facultad de «determinar el arbitrio por la mera idea de la
+adecuación a una máxima [en principio meramente subjetiva] para la generalidad
+de una ley práctica». Leyes morales «que — según él— la razón especulativa nunca
+hubiese descubierto ni por argumentos a priori ni por ninguna experiencia, o si la
+hubiese descubierto, nunca lo hubiese podido demostrar teóricamente». Por eso,
+Kant negaba todo carácter científico a la moral; y, dada la subjetividad que él asig­
+naba al imperativo categórico de cada uno, éste no resultaba impuesto a los demás.
+
+3.
+
+EL DER ECH O SEG ÚN K A N T
+
+Lo que acabamos de exponer explica que resultó imprescindible para Kant
+que el derecho fuese imperativamente normativizado por una voluntad superior e
+impuesto coactivamente.
+Por eso, la ley jurídica es considerada por Kant un imperativo hipotético,
+porque se halla condicionada a que sea posible imponerla52; y de ahí, que deba ir
+
+51
+
+I.
+
+K
+
+a n t
+
+,
+
+Introducción a la metafísica de las costumbres, IV, cfr. la versión al castellano de
+Introducción a la teoría del derecho) , Madrid, IEP,
+
+F. González Vicen (qu e sigue a continuación de su
+1954, pág. 67.
+52 I b
+
+id
+
+,
+
+Introducción a la teoría del derecho, B, págs. 78 y sigs.
+
+31
+
+
+
+unida a la necesidad de coacción. Kant53 lo justifica, porque «todo lo que no es
+conforme al derecho es un obstáculo a la libertad según las leyes generales», que,
+según él pretende, coincide con la libertad trascendental CFreiheit) y presupone que
+coincide con ella. En consecuencia, «si un cierto uso de la libertad [en el que predo­
+mine el albedrío movido por los apetitos Willkuñ es el mismo un obstáculo a la liber­
+tad según las leyes generales»: «la coacción que se opone a aquél coincide con la
+libertad»; por lo cual, no sólo «la coacción es conforme a derecho», sino que «al dere­
+cho se halla unida, en sí, la facultad de ejercer coacción sobre aquel que lo viola»54.
+Es preciso observar que para Kant la «libertad según las leyes generales»
+dictadas por el Estado coincide con la «libertad trascendental» ( Freiheit) y que toda
+otra libertad es una libertad «causal» ( Willkur).
+En efecto, como el mismo Kant explica, la teoría del derecho se divide
+atendiendo a aquello de lo que ella se ocupa55.
+— Referida al «conjunto de leyes para las cuales es posible una legislación
+externa, se llama teoría del derecho ( ius)».
+— «Si esta legislación es real, se llama teoría del derecho positivo».
+A su vez, diferencia, incluso por el nombre, la ciencia del derecho o inris
+scientia y la teoría del derecho natural, que él respectivamente refiere:
+— Esta, «al conocimiento sistemático de la teoría del derecho natural (.ius
+naturaé), aún cuando el jurisconsulto tiene que formular en ella los principios
+inmutables de toda la legislación positiva»;
+— Y aquélla, al conocimiento del derecho positivo, que denomina teoría
+del derecho positivo. Añade aún la precisión de que «el entendido en ella, o juris­
+consulto (inris consultas), se denomina perito en derecho (iuris peritas) siempre
+que conozca las leyes externas también externamente, es decir, en su aplicación a
+los casos que presenta la experiencia». En ese segundo caso, la teoría del derecho
+positivo se convierte en arte jurídico (iuris prudentia ).
+Como vemos, la teoría del derecho natural que contempla Kant no es sino
+la del derecho natural racionalista cultivado por la escuela del derecho natural y de
+
+53 I b
+
+id
+
+,
+
+C, págs. 81 y sigs.
+
+54 I b
+
+id
+
+,
+
+D,
+
+55 K
+
+32
+
+a n t
+
+,
+
+págs.
+
+82
+
+y
+
+s ig s .
+
+In t r o d u c c ió n a la teoría d e l d erech o , § A.
+
+
+
+gentes. Así lo muestra cuando dice que el jurisconsulto «tiene que formular en ella [en
+la teoría del derecho natural] los principios inmutables de toda legislación positiva».
+Al deslindar Kant el significado moral del derecho y su significado propia­
+mente jurídico56, y en cuanto se refiera a lo que es ciencia, advierte lo siguiente:
+— «El jurista puede, sin duda, decirnos qué es derecho en un momento
+concreto ( quid sit inris), es decir, lo que las leyes dicen o han dicho en un lugar o
+tiempo determinados». Como vemos, si bien no identifica el derecho positivo con
+la ley positiva, sí lo identifica con lo que ésta dispone.
+— «... pero si lo que las leyes disponen es también justo y cuál es el crite­
+rio general que nos sirve para distinguir lo justo de lo injusto Ciustum et iniustuni),
+son cosas que no podrá [el hombre] descubrir nunca, mientras no abandone duran­
+te algún tiempo los principios empíricos y busque las fuentes de aquéllos juicios
+en la mera razón — para lo cual aquellas leyes pueden servirle perfectamente de
+guía— , a fin de sentar así los posibles fundamentos para una legislación positiva.
+Una teoría del derecho meramente empírica es como la cabeza en la fábula de
+Fedro, una cabeza que puede ser muy hermosa, pero que no tiene seso».
+Es decir, Kant cree en la necesidad de una teoría del derecho (com o teoría
+del derecho natural) exclusivamente nouménica que, por ello, no puede ser cien­
+cia. Mientras que el conocimiento meramente empírico del contenido de las normas
+de derecho no es intelectivo, «no tiene seso», por lo cual no es teoría ni es ciencia.
+De ahí otra consecuencia de su escisión de la razón práctica, que intuye las leyes
+morales, y de la razón pura, que dando forma a los fenómenos — con su giro tras­
+cendental, calificado de copernicano, inexactamente a mi juicio— elabora la teoría,
+que tampoco considera ciencia, de lo justo porque las normas del derecho puro
+sólo lo son en cuanto coactivas, cualquiera que sea su contenido.
+El derecho, pues, no era ciencia, para Kant, aunque, después de él, bajo
+otra perspectiva, pero respetando los presupuestos kantianos, sí se la consideraría
+como tal, entendiéndola: sea, por la pandectística, como ciencia que elabora
+conceptualmente lo que dicen las normas del derecho; bien, por el neokantismo
+alemán suroccidental de la escuela de Badén, como ciencia que después lo obser­
+va desde moldes valorativos, ciertamente no considerados por Kant; o, en fin, por
+Kelsen, como ciencia puramente formal. Mayor apertura tendrá el neokantismo con
+la consideración del ser y del valor, por Gustav Radbruch con su dualismo metó­
+dico.
+
+56IBID,
+
+§ B.
+
+33
+
+
+
+

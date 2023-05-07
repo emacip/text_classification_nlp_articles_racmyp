@@ -1,0 +1,709 @@
+CAUSALIDAD EN CIENCIAS SOCIALES
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+Soy consciente de lo ambicioso e intimidante, al menos para mí, que
+es el título que he elegido para la intervención de hoy. Pero quiero adelantar
+que no pretendo abordar en ella los aspectos conceptuales y metafísicos de la
+idea de causalidad, ni tampoco hacer valoración alguna acerca de los debates
+y controversias que la rodean al menos desde Aristóteles. Mi falta de competencia para hacerlo la encuentro evidente. Aspiro, tan solo, a intentar explicar
+algunos de los errores que se cometen con frecuencia, cuando se pretende
+caracterizar una relación causal a partir de un conjunto de datos de dos o más
+variables. También voy a proponer algunas soluciones y, en este sentido, a
+plantear varias cuestiones sobre la epistemología de la causalidad. Terminaré
+la exposición con tres ejemplos. Para todo ello he elegido el camino de intentar dar respuestas precisas a preguntas acotadas, frente a la alternativa de dar
+respuestas poco fiables a preguntas más ambiciosas.
+Sin lugar a dudas, determinar la relación causal entre variables es uno
+de los problemas más relevantes —y más complejos— de las ciencias sociales
+en general, y de la ciencia económica en particular. Probablemente, dentro de
+las ciencias sociales, la economía es la más formalizada de todas ellas, ya que
+desarrolla modelos teóricos, que con frecuencia dejan en un segundo plano la
+verificación de las relaciones causales que incorporan. Esta dificultad tiene su
+origen en el carácter no experimental de las ciencias sociales. En las ciencias
+de la naturaleza los investigadores pueden llevar a cabo experimentos en los
+que es posible aislar el factor causal de interés, controlando y manteniendo
+constantes todas las otras posibles causas. La repetición del proceso para cada
+
+* Sesión del día 20 de enero de 2015.
+
+187
+
+
+
+una de las potenciales causas permite en la práctica identificar la estructura
+causal entre las variables. Obviamente, este tipo de experimentos no es posible llevarlos a cabo en la mayor parte de las situaciones de interés en el ámbito
+de las ciencias sociales.
+En su última intervención en este Pleno, nuestro compañero Alejandro
+Nieto afirmaba que «cuando se examina el proceso causal, la predicción de las
+crisis no es una adivinanza ni una operación mágica» y, reconociendo también
+las dificultades que entraña este tipo de análisis, concluía diciendo que lo fundamental es conocer las «causas económicas y extraeconómicas» que nos han
+traído hasta aquí y los tremendos costes, de todo tipo, en los que hemos incurrido en el trayecto. Comparto plenamente esta opinión, por lo que mi ponencia de hoy aspira a resaltar las dificultades de identificar adecuadamente relaciones causales de esta naturaleza, y a esbozar algunas de las técnicas que los
+economistas utilizamos para llevar a cabo este tipo de análisis.
+Hoy existe un gran debate acerca del verdadero impacto que los llamados programas de austeridad han tenido —y tienen— en las economías de
+los países de la Unión Monetaria. Así, existe una aceptada opinión que tiende
+a justificar las llamadas medidas de austeridad, traducidas en recortes en el
+gasto público de diversa naturaleza, como un requisito básico para crecimientos económicos futuros. Por contra, hay otra corriente de opinión que piensa
+que un aumento del gasto público en actividades que incrementen la productividad es condición imprescindible para reforzar las tasas de crecimiento económico, y con ellas hacer frente a los elevados niveles de endeudamiento
+público y privado que algunas de estas economías han alcanzado. Pero ya no
+es solo esta división de opiniones lo que pudiera parecer chocante, sino que
+lo que llega a desconcertar todavía más es que tampoco será posible, aun a posteriori, determinar con carácter general y certeza quién estaba en lo cierto. En
+efecto, parece que las llamadas políticas de austeridad, al menos tal y como han
+sido aplicadas en la práctica, no han proporcionado resultados muy brillantes.
+Sin embargo, a los autores y responsables de haber aplicado tales políticas
+siempre les quedará como justificación que han sido otras causas —normalmente afirman que fuera de su control o de su conocimiento—, las que no han
+permitido obtener las tasas de crecimiento y empleo prometidas. En todo caso,
+alegan que si no se hubieran llevado a cabo tales políticas de austeridad la
+situación sería todavía peor. Tales afirmaciones se hacen siempre con una falta
+de rigor evidente a la hora de caracterizar las relaciones causales implícitas en
+ellas.
+La situación anterior la podemos resumir indicando que no es posible,
+en la mayor parte de las situaciones en ciencias sociales, evaluar adecuadamente el contrafactual, es decir, conocer la situación que tendríamos si no se
+hubieran aplicado las llamadas políticas de austeridad, puesto que hay otros
+muchos factores, distintos de la estricta política de gasto público, que han
+
+188
+
+
+
+influido en la situación presente. Si reparamos en situaciones análogas en las
+ciencias de la naturaleza lo que sin duda aquí echaremos en falta es la posibilidad de llevar a cabo experimentos. Veamos un ejemplo.
+Una forma de cuantificar el efecto que la utilización de un fertilizante,
+medida en gramos por metro cuadrado de tierra, tiene sobre la producción de
+tomates, medida en kilos, sería realizar el siguiente experimento. El agricultor
+planta la misma variedad de tomates en un determinado número de zonas de
+la superficie disponible, por ejemplo 100 zonas, que previamente han sido trabajadas de igual manera. Antes de recibir el tratamiento se han divido en dos
+grupos de 50, y al primero de ellos se le aplican 100 gramos por metro cuadrado de fertilizante y al segundo no se le suministra fertilizante alguno.
+Además, y esto es importante, la decisión de que una determinada
+zona esté en uno u otro grupo la toma un ordenador de forma aleatoria, con
+el propósito de que cualquier diferencia que pueda haber entre las características agrícolas de las distintas zonas no esté relacionada con el hecho de que
+hayan recibido o no fertilizante. Al finalizar la cosecha el agricultor puede verificar la diferencia, si existe alguna que sea significativa, entre los kilos por
+metro cuadrado que ha recogido en las 50 zonas fertilizadas y en las 50 no fertilizadas. Esta diferencia mostrará el efecto que en la producción de tomate ha
+tenido el empleo del fertilizante, en la dosis de 100 gramos por metro cuadrado, y en la ubicación geográfica en la que se llevó a cabo el experimento.
+En estas condiciones se dice que los resultados obtenidos tienen validez
+interna, es decir, son correctos en las condiciones en las que se ha realizado.
+Para que el resultado tuviera validez externa tendría que poder ser extrapolable a otras situaciones, por ejemplo a una ubicación geográfica que tuviera
+niveles de temperatura y humedad muy diferentes.
+Este tipo de experimento se conoce en la literatura como experimento
+aleatorio controlado (EAC). Es controlado en el sentido de que hay un grupo
+que no recibe tratamiento, llamado grupo de control, y otro que sí lo recibe,
+el cual se denomina grupo de tratamiento. Además, es aleatorio, pues los grupos se han formado con este criterio, con objeto de evitar cualquier relación
+sistemática entre determinadas características de las zonas —por ejemplo su
+exposición al sol—, y cualquier influencia por el hecho de que reciba o no fertilizante. Realizado de esta manera y en una escala suficientemente grande,
+obtendremos una estimación del efecto que sobre la variable de interés —la
+producción de tomates por metro cuadrado—, tiene el uso del fertilizante
+empleado.
+Está claro que en ciencias sociales casi nunca es factible realizar experimentos en la condiciones ideales del aquí descrito, bien por mera imposibilidad o por problemas de diversa índole que los hacen prohibitivos. Desde
+luego, en materias macroeconómicas casi siempre es esta la situación. En
+
+189
+
+
+
+efecto, la mayoría de las veces simplemente no son practicables, y cuando lo
+son tienen costes muy altos y de muy difícil administración. Por otra parte,
+pueden ser cuestionables desde el punto de vista de la equidad, ya que llevan
+implícito tener que dividir a los participantes en grupos que reciban distintos
+tratamientos. Además, una de las objeciones que se puede hacer a experimentos de esta naturaleza es de carácter ético, ya que en ellos están, de una u otra
+forma, involucradas personas, que reciben tratamientos seleccionados al azar.
+No obstante, y si asumimos la realidad de que en muchos casos es difícil saber
+qué resultados se pueden alcanzar con ciertas políticas públicas, mejor sería,
+cuando fuera posible, no renunciar a ensayos controlados a pequeña escala,
+porque de lo contrario el llevar a cabo determinadas políticas públicas equivale
+a realizar un experimento a gran escala, lo que conlleva costes y riesgos infinitamente mayores.
+Si en la situación que hemos descrito quisiéramos verificar el efecto
+que un incremento en el gasto público tiene sobre la demanda agregada de un
+país, tendríamos que disponer, al menos, de dos países muy similares en su
+estructura económica y social e incrementar el gasto en uno de ellos y dejarlo
+inalterado en el otro —en la terminología anterior uno sería el país de tratamiento y el otro el país de control— y posteriormente habría que comprobar
+la evolución de la demanda agregada en ambos países. Resulta obvio que es
+imposible encontrar dos países que partan de las mismas condiciones macroeconómicas, y mucho menos realista aún es plantearse la posibilidad de manipular el gasto público para llevar a cabo un experimento de esta naturaleza. Los
+investigadores económicos no tienen, afortunadamente, tales capacidades. Son
+los responsables políticos quienes las tienen, y en este entorno, como es bien
+sabido, suele predominar la certidumbre y la rotundidad, aunque ni una ni otra
+estén lo bastante fundadas. De tal manera que, lamentablemente, el debate se
+ciñe a que unos afirman con tozudez que el gasto público incrementa la
+demanda agregada y otros que la reduce, haciendo abstracción completa del
+país del que se trate y de la situación económica concreta en la que se encuentre. Aun en contextos en los que es más factible la prueba y el error para acumular evidencia empírica y poder mejorar así las políticas públicas, el discurso
+político no se lleva bien con esta manera de proceder. Esto es especialmente
+cierto, por ejemplo, en la política educativa, en la que es difícil pensar en un
+ministro del ramo que no afirme con rotundidad que los cambios legislativos
+que promueve tendrán, sin lugar a duda alguna, efectos muy positivos. Pocas
+veces en esta materia se deja lugar para el ensayo y la comparación con realidades alternativas que justifiquen y faciliten la introducción de evidentes y simples cambios incrementales en la dirección correcta. Casi siempre se está más
+a gusto con la enmienda a la totalidad, nunca validada empíricamente de forma
+adecuada.
+Debe tenerse en cuenta la diferencia entre las observaciones obtenidas
+de la realidad que queremos analizar y aquellas otras obtenidas por medio de
+
+190
+
+
+
+experimentos como el descrito. Obsérvese lo importante de realizar un experimento que esté controlado, es decir, que se defina previamente un grupo de
+control y otro de tratamiento. Esta idea nos retrotrae al comienzo de la experimentación en las ciencias de la naturaleza, y a la historia, quizás apócrifa,
+según la cual Galileo dejó caer desde lo alto de la Torre de Pisa dos bolas de
+diferentes masas y comprobó que ambas alcanzaban el suelo simultáneamente.
+Resultado que contradecía los experimentos llevados a cabo por Aristóteles,
+2000 años atrás, que afirmaba lo que, por otra parte, parece evidenciarse en la
+vida diaria: que los objetos ligeros caen con mayor lentitud que los pesados.
+Aparentemente la tesis de Aristóteles combinaba la lógica y la evidencia empírica, todos sabemos bien que un martillo llega antes al suelo que una pluma
+cuando se dejan caer desde el mismo lugar. Sin embargo, esta evidencia no se
+obtenía por medio de un experimento controlado que tuviera en cuenta, entre
+otras cosas, la resistencia que el aire ofrece a objetos de distinta naturaleza. En
+efecto, no controlar el experimento por la desigual resistencia que el aire presenta al martillo y a la pluma lo desvirtúa por completo. Desde luego, para
+diseñar el experimento debidamente, no hizo falta esperar al año 1971, cuando
+el astronauta David Scott del Apollo 15, una vez en la Luna, dejo caer un martillo y una pluma sobre su superficie y, después de comprobar que los dos
+objetos llegaron en el mismo instante a la superficie, concluyó afirmando que
+Galileo estaba en lo cierto.
+El concepto de EAC es útil porque permite caracterizar en la práctica
+relaciones causales y supone una referencia teórica para análisis estadísticos y
+econométricos que están restringidos a utilizar simplemente los únicos datos
+disponibles, que son aquellos generados en la realidad económica y social, y
+que recogidos directamente de ella llamamos datos observados que, en la práctica, se obtienen a través de encuestas o de registros administrativos de distinta
+naturaleza.
+Varios son los tipos de datos que se utilizan en la realidad. Aquellos
+que corresponden a distintos sujetos, por ejemplo, consumidores, empresas o
+países, para un instante de tiempo dado, por ejemplo el año 2014, son datos
+de sección cruzada. Los que corresponden a un mismo sujeto en distintos instantes de tiempo son datos de series temporales. Finalmente, los que corresponden a distintos sujetos para dos o más instantes de tiempo son datos de panel.
+Unos y otros presentan dificultades de diferente naturaleza a la hora de tratar
+de caracterizar relaciones causales entre ellos.
+En la búsqueda de relaciones causales en las ciencias sociales se analiza la evolución de las variables de interés, con objeto de encontrar algún tipo
+de correlación entre ellas. Es bien sabido, y muchas veces repetido, que el hecho
+de que dos variables estén correlacionadas no implica necesariamente que exista
+una relación causal. Sin embargo, esta afirmación, tan conocida y reiterada, no
+evita que en una gran parte de los análisis en el ámbito de las ciencias sociales
+
+191
+
+
+
+se llegue a conclusiones erróneas al caracterizar las causas del hecho que se pretende explicar. Bien es cierto que, entre otras cosas, nuestra Real Academia Española no ayuda mucho a caracterizar esta distinción, véase RAE (2015), ya que la
+cuarta acepción que da en su diccionario a la palabra correlación, la relevante
+a nuestro propósito, es la siguiente: ‘Medida de la dependencia existente entre
+variantes aleatorias’. En fin, si pasamos por alto el lapsus de decir 'variante'
+cuando seguramente se quiere decir 'variable', hablar de dependencia entre
+variables es hablar de causalidad entre ellas, puesto que dependencia se define
+en el mismo diccionario como ‘relación de origen'. Además, el concepto no necesariamente debe hacer referencia a variables aleatorias, ya que también es aplicable a variables deterministas.
+Correlación entre dos variables es la tendencia a que evolucionen conjuntamente. Una correlación positiva significa que las dos variables tienden a
+moverse en la misma dirección; por el contrario, una correlación negativa significa que una y otra variable se mueven en direcciones opuestas. La correlación es simplemente una propiedad de los datos numéricos analizados, y podríamos decir que es una mera asociación accidental entre ellos. Para caracterizar
+y cuantificar esta propiedad utilizamos el coeficiente de correlación. El coeficiente de correlación está siempre comprendido entre -1 y 1, que representan,
+respectivamente, situaciones de correlación perfecta negativa y correlación perfecta positiva. Cuando este coeficiente es cero no existe correlación alguna o,
+dicho de otra manera, el conocimiento de una de las variables no dice nada
+acerca del valor de la otra.
+Probablemente mi ejemplo favorito en esta materia es el cálculo de la
+correlación que existe entre el número de parejas de cigüeñas que anidaron en
+17 países europeos en la década de 1980 y el número de nacimientos en esos
+países. El coeficiente de correlación es 0,62, que no es particularmente alto,
+pero el estadístico correspondiente nos indica que solamente hay una posibilidad entre 125 de que la hipótesis de ausencia de correlación no sea cierta.
+Pues bien, solamente manteniendo como válidos algunos recuerdos de nuestra niñez podemos convertir esta correlación en causalidad. Sin embargo, con
+frecuencia, sobre todo en los debates sociales y económicos, se traducen simples correlaciones en relaciones causales, muchas veces por ignorancia, y algunas otras porque el sentido común o determinados prejuicios ideológicos así
+nos lo parecen dictar. Pero en alguno de estos supuestos estaría bien recordar
+la observación de Einstein: «El sentido común es el conjunto de prejuicios
+adquiridos hasta los 18 años». Puesto que ya de largo creo que todos nosotros
+hemos rebasado esta edad, he considerado que sería procedente tratar hoy
+aquí las falsas razones por las que solemos creer que la evidencia empírica justifica algunos de esos prejuicios.
+Aristóteles habla de cuatro tipos de causa: material, formal, eficiente y
+final. La causa material es la materia, aquello de lo que está hecho algo. Enten-
+
+192
+
+
+
+demos por causa formal lo que un objeto es o la forma específica que tiene.
+La causa eficiente es aquello que desencadena el proceso de desarrollo. Por
+último, la causa final es el destino que dirige el proceso, el fin al que tiende o
+puede llegar. Aristóteles pone el ejemplo de una escultura de bronce al dios
+Zeus con el propósito de embellecer la ciudad. De tal manera, que la causa
+material es el bronce, la causa formal es el dios Zeus, la causa eficiente es el
+escultor y la causa final el motivo de su existencia, que es embellecer la ciudad. A su vez, divide las causas en intrínsecas y extrínsecas: las primeras son
+aquellas que residen en el propio objeto; las segundas son exteriores al objeto.
+Por tanto, la causa material y formal son intrínsecas, y las causas eficiente y final
+son extrínsecas.
+En economía, básicamente, trabajamos con causas eficientes para responder a preguntas tales como ¿qué es lo que hace que las cosas ocurran?,
+¿qué es lo que explica el cambio? Pero las causas finales son también relevantes cuando se analiza el comportamiento de los agentes económicos a la hora
+de tomar decisiones. Así, por ejemplo, cuando se hace una determinada elección cuyo fin (telos) es maximizar el beneficio, es decir, aquello por lo que la
+decisión se toma, que es la causa final. Por consiguiente, en economía manejamos, fundamentalmente, causas extrínsecas.
+Ya en 1776 Adam Smith reconocía en el titulo de su obra Una investigación sobre la naturaleza y causas de la riqueza de las naciones el papel central de la idea de causalidad en Economía. Incluso antes que Smith, David
+Hume abordó el problema de la relación causal entre dinero y precios y, desde
+luego, después de Adam Smith, David Ricardo y John Stuart Mill también trataron, desde distintas perspectivas, este problema. De hecho David Hume es
+el punto natural de partida cuando se pretende abordar el problema de relaciones causales entre variables económicas. La complicada relación que existe
+entre el estatus epistemológico de las relaciones causales y el papel que desempeña en cuestiones de política económica ha sido motivo de controversia
+constante desde Hume.
+En la exposición de hoy me referiré exclusivamente a algunos de los
+problemas que en la práctica se presentan a la hora de caracterizar relaciones
+causales en las ciencias sociales. Concretamente me centraré en la herramienta
+más utilizada en ciencias sociales, el análisis de regresión, que define una variable como combinación lineal de otras más un término de error. Cabe empezar
+diciendo que se hace un uso abusivo de este tipo de análisis, sin reparar en que
+en ausencia de información adicional con él solo se puede explicar la correlación parcial entre las variables, de las que, por otra parte, simplemente se tienen datos que no proceden de experimentos aleatorios controlados, como el
+que hemos descrito al comienzo de la exposición. Una de las hipótesis básicas
+en esta clase de análisis es que las variables que se eligen como causa, o variables explicativas, se consideran fijas. Situación que, sin lugar a dudas, se da en
+
+193
+
+
+
+experimentos como el referido, ya que es el analista el que decide los valores
+de la variable, en nuestro caso la cantidad de fertilizante a aplicar. Pero como
+veremos, esta no es la situación en ciencias no experimentales y, en particular,
+en el ámbito económico. Aquí es la realidad la que genera los datos, y no experimento alguno.
+Los conceptos e ideas que a continuación voy a exponer no son sencillos, y su explicación rigurosa requiere un cierto nivel de formación estadística y matemática. En cualquier caso, y si se dispone de estos conocimientos
+previos, las ideas que siguen están disponibles, con más profundidad y rigor,
+en muchos de los buenos textos que existen sobre introducción a la econometría. Véase, por ejemplo, Stock y Watson (2012). No obstante, y pagando el
+precio de una cierta falta de rigor, probaré seguir adelante.
+Para ello voy a ilustrar mi exposición con el intento de explicar el rendimiento académico de los alumnos de enseñanza primaria que, por otra parte,
+es un problema muy tratado en economía de la educación, utilizando datos de
+sección cruzada. En lo que sigue, diremos que X causa Y, si, manteniendo todo
+lo demás constante, cambios en X inducen cambios en Y. Podemos empezar
+el análisis con la observación de que un determinado tanto por ciento de los
+resultados académicos de los alumnos de enseñanza primaria queda explicado
+por el tamaño de las clases, es decir, por el número de alumnos por profesor,
+ya que se piensa que clases de menor tamaño generan un mejor rendimiento
+académico. Cabe formular así un modelo teórico en el que el rendimiento escolar sea función lineal del tamaño de las clases, de tal manera que el coeficiente
+de esta variable mida la relación que tiene sobre la variable que se pretende
+explicar, en este caso el rendimiento académico. Si tenemos observaciones para
+estas dos variables, correspondientes a un número amplio de escuelas, podemos formular así un modelo de regresión lineal simple y, bajo ciertas hipótesis, estimar el coeficiente de la variable explicativa. Ahora bien, esta manera de
+proceder, tan frecuente en ciencias sociales, no está exenta de problemas, si lo
+que pretendemos es caracterizar el coeficiente así estimado como el efecto que
+una variación en el tamaño de la clase tiene sobre el rendimiento escolar. Varias
+son las dificultades que se presentan en la práctica, que pasamos a analizar a
+continuación.
+El primer problema se origina cuando al intentar explicar el rendimiento escolar nos olvidamos de alguna de las variables que puedan influir
+significativamente en él. En efecto, se puede entender con facilidad que el
+tamaño de las clases afecte al rendimiento académico de los alumnos, de la
+misma forma que es sencillo explicar también que este no es el único factor
+determinante ya que, por ejemplo, otras características de la escuela tales como
+la calidad de los profesores y de su equipamiento, o las particularidades de los
+alumnos, determinadas por su entorno social y familiar, son también variables
+que pueden influir notablemente en el rendimiento escolar.
+
+194
+
+
+
+Pues bien, si esto es así, cuando estimamos el primero de los modelos
+teniendo como única variable explicativa el tamaño de la clase, nos encontramos con el conocido problema de variables omitidas. Pensemos, por ejemplo,
+en que una de las variables relevantes que hemos omitido es la preferencia de
+los padres a favorecer una enseñanza de calidad a sus hijos. Es fácil ver que
+esta actitud de los padres se concretará, entre otras, en decisiones tales como
+encontrar aquellas escuelas con clases más reducidas para sus hijos, así como
+tratar de ayudarles en sus actividades académicas de diversas formas, incluyendo posibles clases adicionales. Si estas decisiones de los padres mejoran la
+capacidad de aprendizaje de sus hijos hallaremos, desde luego, en nuestro
+modelo una relación significativa entre el tamaño de la clase y el rendimiento
+académico. Pero en cualquier caso encontraríamos tal relación aunque en la
+realidad no existiera, ya que la variable omitida, la actitud de los padres, es la
+responsable de tal aparente relación. Por otra parte, de existir esta relación causal, el modelo la habría sobrevalorado. En otras palabras, sobre la base de
+nuestro análisis, existe una relación causal en el sentido de que las clases de
+menor tamaño son la causa de un mejor rendimiento académico, pero está
+sobrevalorada o incluso puede llegar a no existir. Por consiguiente, la correlación entre rendimiento y tamaño de las clases no puede ser interpretada como
+la relación causal entre ambas, por mucho que el sentido común así nos lo
+indique. Esa aparente relación es debida, en todo o en parte, a la variable que
+hemos omitido.
+Vemos, entonces, que el problema de no incluir una variable relevante
+se traduce en que no solo incurrimos en el error de no tenerla en cuenta, sino
+que también puede alterar la relación que, aparentemente, detectamos entre las
+variables que sí hemos considerado.
+En términos algo más precisos se puede afirmar, y desde luego demostrar teóricamente, que en el caso de que en un modelo de regresión se omita
+una variable relevante las estimaciones que se obtienen para medir los efectos
+de las variables que sí consideramos están sesgados, siempre y cuando la variable relevante que hemos omitido esté correlacionada con las variables que
+hemos tenido en cuenta. El sesgo que se introduce puede ser positivo o negativo, es decir, podemos sobrevalorar o infravalorar la aparente relación causal.
+Siendo esto así, es fácil comprobar que no solo la correlación no implica causalidad, sino que también la ausencia de correlación no necesariamente descarta la presencia de causalidad, y esto es importante, ya que casi siempre se
+suele buscar causalidad cuando previamente se encuentra correlación.
+Cabe preguntarse sobre cuáles pueden ser las razones para incurrir en
+este tipo de error de omisión de variables. En primer lugar, siempre se tiende
+a razonar en términos simplistas, buscando una única causa al fenómeno que
+se quiere explicar y porque, en todo caso, se cree que es la más relevante. En
+segundo lugar, por simple ignorancia, el modelo teórico que formulamos es
+
+195
+
+
+
+erróneo, por ser incompleto al faltarle variables explicativas relevantes. Finalmente, están las limitaciones sobre la información disponible. En efecto, aún
+siendo consciente de la relevancia de la variable que hemos definido como
+«actitud de los padres sobre la educación de los hijos», es obvio que no existe
+información estadística publicada regularmente sobre tal variable. Es decir,
+muchas veces no se pueden incluir variables en nuestro análisis porque no se
+tiene información disponible y fiable sobre ellas. Con frecuencia esta dificultad se supera, al menos parcialmente, utilizando otras variables que aproximan
+a aquellas que no podemos observar directamente. En nuestra situación una
+variable que podría considerarse análoga a la «actitud de los padres sobre la
+educación de los hijos» sería el «nivel de estudios de los padres» para la que,
+desde luego, sí existe información disponible. Sin embargo, esta forma de proceder es una aproximación, y solo eso.
+El segundo de los problemas que se presenta en la formulación de
+este tipo de modelos es el derivado de que siempre lleva implícita la hipótesis
+de que la relación causal es unidireccional, en nuestro ejemplo que el tamaño
+de las clases explica el rendimiento académico, pero no a la inversa. Sin
+embargo, en muchas de las situaciones reales y de interés, esta relación puede
+darse también en la dirección contraria, lo que da origen a una relación causal
+bidireccional o simultánea.
+En el caso que nos ocupa, supongamos que la autoridad responsable
+de la enseñanza primaria, preocupada por el bajo rendimiento académico, promueve la contratación de profesores para aquellas escuelas con peores resultados. Si esta es la situación, la causalidad tendrá lugar en las dos direcciones,
+puesto que también, en esta circunstancia, el bajo rendimiento es la causa de
+la disminución del tamaño de las clases. La situación de relaciones causales
+bidireccionales es muy frecuente en la práctica. Veamos otro ejemplo. Es claro
+que el nivel de formación y educación de las personas es una de las variables
+causa de su nivel salarial, pero también es indudable que niveles salariales
+mayores permiten invertir más en educación y formación. Esta bidireccionalidad genera problemas análogos a los ya descritos, es decir, que el valor que se
+obtiene en el modelo original sobre el efecto que el tamaño de las clases tiene
+en el rendimiento académico está sesgado y, por ello, no coincide con su verdadero valor.
+El tercero de los problemas al que quiero hacer referencia está siempre presente, en una escala no menor y en ausencia de experimentos, y es el
+derivado de los errores de medición u observación en las variables que estamos considerando. Es este un problema al que no se le presta la atención que
+merece, aunque hace ya más de 50 años que en el prólogo de su libro Sobre
+la exactitud de las observaciones económicas decía Oskar Morgenstern (1963)
+que «lo dirigía al lector general y al economista profesional. El primero verá que
+las decisiones adoptadas en los negocios y en el servicio público se toman
+
+196
+
+
+
+sobre la base de datos que se conocen con mucha menos certeza de lo que
+generalmente se supone por el público o por el Gobierno. El segundo descubrirá que aun las cifras con mayor grado de aceptación tienen componentes de
+error de magnitud insospechada y, en consecuencia, hacen dudosos muchos
+análisis económicos que se aceptan frecuentemente [...] Debemos distinguir
+con claridad entre lo que creemos saber y lo que en efecto sabemos y podemos saber».
+Creo que no hacen falta muchas justificaciones para entender esta afirmación de Morgenstern. Por ejemplo, en el modelo que estamos analizando,
+la variable «actitud de los padres sobre la educación de los hijos» la hemos
+aproximado por la del «nivel de estudios de los padres» que, en algunos casos,
+puede distar significativamente de su verdadero comportamiento. Debe tenerse
+en cuenta también que mucha de la información económica que utilizamos se
+obtiene a través de encuestas que siempre, por definición, llevan asociados sus
+correspondientes errores. Pero ejemplos más llamativos los podemos vislumbrar cuando hablamos de la tasa de crecimiento de la economía, medida a través de la variación del PIB, y sabemos que tenemos un 20% de economía
+sumergida. De hecho, pretender elegir un conjunto de observaciones que
+representen un concepto o categoría teórica no es una tarea fácil. El profesor
+Rodrick, véase Rodríguez y Rodrick (2001), pone mucho énfasis en este problema cuando, por ejemplo, se analizan los pros y contras, que en la práctica,
+tiene el proceso de globalización. Con frecuencia la elección de variables, tales
+como la apertura de un país al comercio internacional, está condicionada por
+prejuicios acerca del efecto que el comercio internacional tiene sobre el crecimiento económico.
+Casi nunca podemos emplear datos con el nivel de calidad deseable
+sino simplemente los que están disponibles. Entre otras razones, porque la
+importancia de la calidad de la información económica es un factor que, en mi
+opinión, ha estado infravalorado en el trabajo de investigación, que siempre ha
+cotizado más el desarrollo de nuevas técnicas estadísticas y econométricas.
+Raramente alguien obtiene un reconocimiento relevante por mejorar la calidad
+de la información disponible. Es probable que el motivo estribe, como afirma
+el profesor Griliches, en que siendo precisamente los problemas que presentan las estadísticas económicas los que incentivan el desarrollo de nuevas técnicas econométricas, los académicos sean tan reacios a prestarle la debida atención. Sin embargo, hay que resaltar que el desarrollo de cualquier ciencia
+requiere ambos ingredientes: teoría y datos. Uno realimenta al otro.
+Pues bien, cuando las variables causa, en nuestro modelo el tamaño de
+las clases o el nivel de estudios de los padres, se miden con error, vuelve a aparecer el problema de estimaciones sesgadas y, por tanto, la alta probabilidad
+de asumir una relación causal que no es cierta. Hace ya 25 años que yo mismo
+he dedicado parte de una pequeña monografía a esta cuestión. Hay que seña-
+
+197
+
+
+
+lar que esta dificultad se plantea cuando los errores están presentes en las variables explicativas, pero no en la variable que pretendemos explicar, en nuestro
+caso, el rendimiento académico.
+Los tres problemas descritos —omisión de variables, relación causal
+bidireccional y errores en las variables— hacen que las variables explicativas
+estén correlacionadas con el término de error en el modelo de regresión, lo que
+supone el incumplimiento de una de las hipótesis básicas del modelo. Se presenta, en este caso, lo que los economistas llamamos el problema de endogeneidad en las variables explicativas. En mi opinión, el incumplimiento de esta
+hipótesis, es la que invalida una gran parte de las afirmaciones que con tanta
+frecuencia se hacen en el ámbito de las ciencias sociales, cuando se da el salto,
+nada trivial, de pasar de los análisis descriptivos a los análisis causales.
+Varias son las soluciones que las técnicas econométricas proporcionan
+a los tres problemas que hemos descrito; algunas de ellas son específicas de la
+situación concreta de la que se trata, pero la aproximación más general para
+encontrar una solución, común a todas ellas, es el uso de variables instrumentales. Para el propósito de mi exposición es suficiente con decir que una variable instrumental es aquella que está correlacionada con la variable explicativa
+que crea el problema de endogeneidad y que además contiene información
+adicional a la de dicha variable acerca del fenómeno que se pretende explicar.
+Estas condiciones se conocen, respectivamente, como condición de relevancia
+y de exogeneidad.
+La búsqueda de variables instrumentales podría interpretarse como el
+intento de encontrar datos que sean generados por lo que llamamos un experimento natural, y tales variables requieren, en cierta medida, la definición de
+un grupo de tratamiento y un grupo de control, tal y como veíamos en el ejemplo de uso del fertilizante.
+Muchas son las referencias que en la literatura de la economía de la
+educación se dan para elegir las variables instrumentales más adecuadas al problema concreto que se quiere estudiar, y no es este el lugar de analizarlas. Sí
+cabe decir que, en general, para esta elección se utiliza información que corresponde a cambios en sucesos de distinta naturaleza, tales como alteraciones
+legislativas o variaciones habidas en el entorno físico o social. Por ejemplo,
+pueden ir desde cambios legislativos que afecten a las edades que atañen a la
+enseñanza obligatoria hasta la localización de determinados recursos naturales,
+como el establecimiento de una planta hidroeléctrica que genere recursos a la
+Administración local para financiar inversiones de carácter educativo. La división de Alemania, en este y oeste, y Corea, en sur y norte, con sistemas económicos radicalmente distintos, podrían también ser considerados como ejemplos de lo que en econometría consideramos como experimentos naturales. En
+todo caso, la validez de los resultados que se obtienen con la utilización de
+
+198
+
+
+
+variables instrumentales depende del cumplimiento de las condiciones de relevancia y exogeneidad, tal y como las hemos definido. La utilización de variables instrumentales no está exenta de problemas y críticas. En particular,
+cuando la condición de relevancia no se cumple satisfactoriamente decimos
+que la variable instrumental es débil, y en esta situación no existe justificación
+teórica que valide las propiedades de los resultados.
+Son numerosos los problemas y técnicas para caracterizar relaciones
+causales a los que no he hecho referencia en esta limitada intervención. Importantes son las contribuciones que en esta materia se han hecho desde la econometría, entre las que cabe destacar las de Frisch, Wold, Haavelmo, Lucas,
+Granger y Sims.
+En el contexto de nuestra exposición es importante señalar que cuando
+tratamos con series temporales la correlación entre variables puede surgir, simplemente, por el hecho de que exhiben en su evolución un comportamiento
+tendencial. Puesto que muchas de las variables económicas tienen esta característica, el riesgo de traducir correlaciones altas en relaciones causales es muy
+significativo tal y como, por ejemplo, la lectura atenta de la prensa y de supuestos análisis económicos pone de manifiesto todos los días.
+Una definición operativa de causalidad es la dada por Granger (1969),
+que para su contraste utiliza técnicas econométricas fundamentadas en el
+modelo de regresión. En concreto, la definición de causalidad de Granger dice
+que X causa a Y, si la predicción de Y la mejoramos teniendo en cuenta la
+información contenida en X que no esté contenida en ninguna otra variable. En
+la práctica econométrica, este tipo de causalidad se contrasta a través de una
+regresión en la que las variables explicativas son los valores retardados de la
+variable X. Está claro que esta definición recoge solamente una de las múltiples
+circunstancias de causalidad en el sentido filosófico del término, como es la de
+precedencia. Sin embargo, esta definición recibió numerosas críticas del tipo
+que representa, entre otros, el ejemplo clásico de la «causalidad navideña», en
+el que las ventas en el mes de diciembre preceden en el tiempo a la Navidad
+y, sin embargo, no tiene sentido alguno decir que las ventas navideñas son
+causa de la Navidad. Se estaría validando así, la afirmación «post hoc ergo propter
+hoc», que asume que si un acontecimiento sucede después de otro, el segundo
+es consecuencia del primero. Este es un error particularmente tentador, porque
+la secuencia temporal es algo integral a la causalidad.
+No obstante, la definición de Granger soporta este tipo de críticas sin
+dificultad alguna porque, como es sabido, se refiere a procesos estocásticos y,
+visiblemente, la localización de la fecha de Navidad no lo es. En cualquier caso,
+hay que hacer notar que se habla, simplemente, de causalidad en el sentido de
+Granger o causalidad predictiva. Granger era bien consciente de esta limitación, tal y como lo puso de manifiesto en el discurso de recepción del premio
+
+199
+
+
+
+Nobel en 2003, cuando frente a estas críticas se preguntaba cuál era la «verdadera» definición de causalidad y, obviamente, no obtenía respuesta satisfactoria alguna. De todos modos, y en sus propias palabras, ello no evitó la publicación de muchas críticas ridículas.
+Dada la dificultad de caracterizar relaciones causales, cabe preguntarse
+si aun así la simple correlación puede ser de alguna utilidad para contestar ciertas cuestiones de interés. Por ejemplo, con frecuencia estamos interesados en
+realizar predicciones de una determinada variable, y se puede demostrar que el
+uso de correlaciones para fines predictivos no se ve tan afectada por los problemas a los que me acabo de referir, con cierto detenimiento. Veamos un ejemplo.
+Los resultados de una encuesta, publicada en julio de 2010, en el boletín periódico sobre la salud de los hombres que la escuela de medicina de la
+Universidad de Harvard realizó a 127.545 adultos estadounidenses, véase Harvard Medical School (2010), muestran que los hombres casados tienen mejor
+salud que los hombres que nunca se casaron o cuyo matrimonio terminó en
+divorcio o viudez. Los hombres que tienen cónyuge también viven más que los
+hombres sin cónyuge, y cuanto más tiempo permanece un hombre casado más
+aumenta su esperanza de vida respecto a sus semejantes solteros. Por cierto, la
+misma universidad publica también un boletín análogo sobre la salud de las
+mujeres, y posiblemente en él podamos encontrar encuestas que nos permitan
+poner ejemplos equivalentes al que doy a continuación.
+En efecto, esta encuesta puede ilustrar la afirmación de que no necesariamente se requiere la determinación de una relación causal para poder utilizar los datos con el propósito de predecir alguna de las variables en estudio
+pero, por desgracia, las correlaciones derivadas de ella no son suficientes para
+tomar decisiones de otra naturaleza. De acuerdo con esta encuesta, está claro
+que la simple correlación que existe entre estado civil y esperanza de vida hace
+que se pueda predecir una esperanza de vida mayor en los hombres americanos casados que en los solteros. Ahora bien, si lo que se pretende es alargar la
+esperanza de vida contrayendo matrimonio la decisión no parece la correcta.
+Por el contrario, lo que se debiera hacer es llevar una vida más ordenada, una
+dieta más saludable y, en fin, una vida social más diversa y enriquecedora, ya
+que estas son, básicamente, las causas últimas de que los hombres americanos
+casados vivan más que los solteros. Por consiguiente, identificar adecuadamente la ausencia de relación causal en esta situación conduce a un resultado
+bien sabido: que uno debe casarse por amor o por dinero, o por una combinación lineal de ambos criterios, pero nunca debe hacerlo con el propósito de
+alargar su esperanza de vida.
+Quisiera en la última parte de mi ponencia mostrar algún ejemplo de
+cómo en la práctica y en la investigación reciente se han aplicado algunas de
+las ideas que acabo de exponer.
+
+200
+
+
+
+El primero de ellos hace referencia a una polémica de actualidad a la
+que me referí al comienzo de mi intervención, pues tal es la relación entre el
+nivel de gasto, o lo que se ha venido en llamar austeridad, y crecimiento. Es
+este un viejo debate en términos económicos, pero que los últimos años, y
+como consecuencia de la crisis que padecemos, se ha amplificado mucho. De
+hecho, y en mi opinión, es la principal controversia que tenemos hoy en
+Europa. Además, a partir de un famoso trabajo de los reconocidos profesores
+Reinhart y Rogoff (RR), véase Reinhart y Rogoff (2010a), se pretendió resolverlo definitivamente.
+Cuando es mucho lo que está en juego, la probabilidad de que en la
+batalla ideológica y política se utilicen todo tipo de argumentos, independientemente de su validez, es muy grande. La publicación de este trabajo es un
+buen ejemplo. El debate sobre el cambio climático es otro, y a él me he referido aquí en alguna ocasión. El trabajo de RR había demostrado, entre otras
+cosas, que el nivel de deuda pública respecto al PIB y el crecimiento económico estaban negativamente relacionados y, concretamente, traspasado el
+umbral en el que el nivel de endeudamiento alcanzaba el 90% del PIB se impedía el crecimiento económico. Es obvio decir que, por la tremenda repercusión
+que este trabajo tuvo y por la tesis que sostenía, fue soporte teórico de los
+políticos e intelectuales conservadores y, desde luego, argumento fundamental para las llamadas políticas de austeridad en Europa. Recuérdense, a título
+de ejemplo, las reiteradas manifestaciones sobre ese peligroso umbral del 90 %,
+hechas por el que fue comisario europeo de Asuntos Económicos y Monetarios,
+Olli Rehn.
+Poco después de la publicación del trabajo de RR se llevaron a cabo y
+publicaron un conjunto de investigaciones en las que se rectificaban errores y
+se matizaban afirmaciones. Este debate fue muy fructífero y, desde luego, a él
+contribuyeron con un gran nivel académico los propios autores, facilitando,
+entre otras cosas, los datos que habían utilizado, para que de esta forma sus
+resultados pudieran ser replicables por terceros. No es fácil resumir en términos no técnicos este debate, pero las principales conclusiones se enumeran a
+continuación.
+En primer lugar, el aparente umbral del 90% no es tal, ya que es el
+simple resultado de la agrupación que los autores hicieron en cuatro grupos de
+los datos utilizados, y el cuarto quedó definido por ese valor. Así lo reconocieron los propios autores cuando, en respuesta a algunos de sus críticos, afirmaron que ellos «nunca pretendieron decir que antes del 90% de deuda el crecimiento sería normal y después de esa cifra sería ínfimo, lo que equivaldría a
+decir que la probabilidad de tener un accidente a 54 mph es muy escasa y, en
+cambio, a 56 mph es muy alta». En definitiva, no está verificado empíricamente
+que tal umbral del 90% exista; sin embargo, tal cifra ha quedado en el imaginario conservador como uno de sus prejuicios.
+
+201
+
+
+
+En lo que aquí nos interesa, hay que resaltar que en el trabajo de RR
+no se contrasta, ni se pretende contrastar, la hipótesis de relación causal entre
+estas dos variables (deuda pública dividida por el PIB y tasa de variación del
+PIB), y concretamente, la de que un incremento de la deuda pública respecto
+al PIB afecte negativamente al crecimiento económico. Tan solo se pone de
+manifiesto una correlación negativa entre ambas variables que, desde luego, no
+excluye la posibilidad de una relación causal inversa, es decir, que sea precisamente el bajo crecimiento económico el que sea la causa del incremento de
+la deuda. En efecto, en un trabajo posterior, Reinhart y Rogoff (2010b) sugieren la posible relación causal bidireccional entre ambas.
+Varios son los trabajos que intentaron encontrar una relación causal
+significativa entre crecimiento económico y deuda pública utilizando determinadas variables instrumentales. Cabe citar aquí el de Panizza y Presbitero (2013)
+para una muestra de los países de la OCDE, en el que su elección de variable
+instrumental se asienta en que en presencia de deuda en moneda extranjera el
+tipo de cambio tiene un efecto mecánico sobre el cociente de deuda y PIB.
+Estos autores no encuentran relación causal alguna entre ambas variables. En
+general, la evidencia empírica que se encuentra, en la variedad de análisis que
+se han publicado, es débil y contradictoria. Tal como afirma el Fondo Monetario Internacional, véase IMF (2012), «No existe una relación simple entre deuda
+y crecimiento [....] Son muchos los factores relevantes en la evolución de la
+deuda y el crecimiento de un país. Además, no existe un único umbral para el
+cociente Deuda/PIB que delimite lo "bueno" y lo "malo"».
+Hay que recordar que el trabajo de RR trata de establecer pautas comunes de comportamiento para 40 países y para un período de 200 años. Es probable que se pueda establecer un mapa general de comportamiento de las
+variables de interés en un marco tan amplio espacial y territorialmente. Pero lo
+que no se puede, en mi opinión, es pretender establecer proposiciones con
+carácter general válidas para cualquier tiempo y espacio. Las ciencias sociales,
+y la economía en particular, dependen de instituciones creadas en contextos
+que son el resultado de la historia y de la acción humana. Desafortunadamente,
+la evidencia empírica en economía no siempre alcanza a clarificar determinadas controversias de forma tal que lo haga con carácter universal. Con frecuencia se dice que con la estadística se puede demostrar cualquier cosa. Yo pienso
+casi lo contrario, con la estadística, aplicada de modo riguroso, se pueden
+demostrar muchas menos cosas de las que generalmente se afirman.
+Realmente, durante estos últimos años uno se ha sentido y se siente
+sorprendido por las opiniones no solo de responsables públicos, sino también
+de muchos académicos, que tratan de justificar las políticas de austeridad sobre
+la base de trabajos del tipo de los de Reinhart y Rogoff. Se podría atribuir al
+hecho de que o bien no los han leído, o si lo han hecho no los han entendido.
+Pero esta no es la conclusión a la que necesariamente llego yo, sino que pienso
+
+202
+
+
+
+que, en la mayor parte de las situaciones, el debate está colmado de prejuicios
+ideológicos, y estos son siempre una pobre munición política y, por qué no
+decirlo, en los tiempos que corren marcadamente populistas. Es claro que se
+pueden, y en mi opinión se deben, justificar determinadas políticas de austeridad, pero con otros argumentos. Además, sería conveniente no confundirlas
+con las políticas de empobrecimiento de las clases medias y bajas de la sociedad. Siempre he pensado, que no hay mayor peligro que estar en lo cierto por
+las razones equivocadas.
+El segundo de los ejemplos que quiero comentar es el derivado de los
+trabajos de la tesis doctoral de Davide Cantoni en la Universidad de Harvard
+el año 2003, y en su versión más actualizada de 2014, en los que se refuta la
+tesis, ya clásica, de que los protestantes son más eficientes y laboriosos que los
+católicos. Fue Max Weber (1904-1905), en La Ética protestante y el espíritu del
+capitalismo, el que sostuvo, originalmente, que la religión protestante con su
+mayor énfasis en la responsabilidad individual, conduce a mayor progreso económico y a una visión de la sociedad más racional y moderna. Aunque, en términos más formales, la relación que Weber pretendió establecer no fue tanto
+entre el protestantismo y el capitalismo sino entre una ética, la calvinista, y un
+espíritu, el del capitalismo. Muchos son los análisis que han atribuido la pujanza
+de Inglaterra y los Países Bajos en los siglos XVII y XVIII, en contraste con Italia y España, al hecho de su religión protestante, por ejemplo, véase Braudel
+(1982), p. 567. Pero la realidad es que pocos análisis empíricos se han hecho,
+de forma rigurosa, para contrastar tales creencias.
+Analizando la historia de la actual Alemania, el experimento natural
+que utiliza Cantoni es la forzada imposición religiosa que tuvo lugar como consecuencia de la Paz de Augsburgo en 1555. Para ello emplea datos de 272 ciudades para el período comprendido entre los años 1300 y 1900. Esta realidad
+histórica permite analizar las pautas de crecimiento de las partes católicas y
+protestantes del Imperio de tal manera que, utilizando datos de la población de
+las ciudades, llega a la conclusión de que el crecimiento habido, en tan largo
+período de tiempo (1300 a 1900), en las ciudades católicas y protestantes no
+es significativamente distinto. Los resultados que alcanza son muy robustos
+frente a especificaciones alternativas, y se confirman con la estrategia de utilización de variables instrumentales.
+Siendo muy apreciables, además de originales, los resultados del trabajo de Cantoni, en mi opinión son también un ejemplo que señala el camino
+para introducir el necesario rigor en muchas de las afirmaciones que se hacen
+cuando se pretende, por ejemplo, medir el impacto que la naturaleza cultural
+o religiosa de determinada población tiene en su evolución económica. También aquí aparece como incuestionable que la utilización escrupulosa de la
+información disponible será de buena ayuda para deshacer algunos prejuicios
+sólidamente formados durante muchos años.
+
+203
+
+
+
+Finalmente, el tercero de los ejemplos que quiero comentar es el papel
+que en el desarrollo económico de los países desempeñan las instituciones
+políticas y económicas de las que están dotados. En este análisis el primer problema que se encuentra es el de caracterizar la calidad de las instituciones y el
+tipo de variables que la puedan aproximar. La definición y posterior medición
+del conjunto de factores que determinan lo que llamamos instituciones no es
+tarea sencilla y, desde luego, no tiene una larga tradición en la economía empírica. Por esta razón, está claro que son aplicables aquí las observaciones que
+hemos hecho cuando hemos descrito el problema de errores en las variables.
+Una información valiosa, aunque inevitablemente imprecisa, es la contenida en la base de datos Governance Indicators, que proporciona los indicadores de gobernanza que el Banco Mundial está elaborando desde 1996 bajo
+la dirección de Daniel Kaufmann. Cuatro de los seis indicadores son: Calidad
+de la Administración, Marco Regulatorio, Seguridad Jurídica y Control de la
+Corrupción. Una variable que tenga en cuenta esos cuatro indicadores parece
+ser una representación aceptable de la calidad de las instituciones económicas
+en un país.
+También al analizar la relación causal entre calidad de las instituciones
+y crecimiento económico surge el problema de bidireccionalidad al que nos
+hemos referido. En efecto, es fácil admitir la hipótesis de que, por ejemplo, la
+seguridad jurídica expresada, entre otras condiciones, como la protección de
+las personas y de las propiedades, el funcionamiento eficaz e independiente de
+la justicia y el grado de cumplimiento de contratos, es causa de un mayor crecimiento económico. No obstante, también es razonable pensar que las sociedades con una renta per cápita alta generan instituciones de mejor calidad.
+En este contexto, cabe recordar a North y Thomas (1973), quienes
+afirman que realmente cuando, por ejemplo, se comparan entre países sus
+distintos niveles de capital humano, capital físico y, en fin, su productividad
+total de los factores, no se da una explicación satisfactoria de las razones de
+sus diferentes niveles de prosperidad, pues realmente lo que se hace de esta
+manera es describir la prosperidad misma. Esos atributos no son en realidad
+la causa del desarrollo económico, sino son exactamente el desarrollo económico. O bien, en sus palabras, son sus determinantes próximos, pero no los
+fundamentales.
+El trabajo de Acemoglu, Johnson y Robinson (2001) está entre los primeros que abordaron este problema recurriendo a variables instrumentales. En
+concreto, utilizan las distintas tasas de mortalidad que los europeos tuvieron en
+los países que colonizaron; de tal forma que la estrategia colonizadora quedó
+determinada, de manera natural, por el grado de dificultad que estas tasas de
+mortalidad presentaban al establecimiento en ciertos países. Así, cuando estas
+tasas eran altas se propiciaban estrategias que tendían a crear instituciones
+
+204
+
+
+
+extractivas; por el contrario tasas bajas tendían a crear instituciones inclusivas.
+Una vez establecidas estas instituciones terminaban perdurando.
+Son muchas las investigaciones que en los últimos años han validado
+la evidencia empírica de que las instituciones económicas son un factor determinante del crecimiento económico duradero y sostenible. Un buen resumen
+puede verse en Acemoglu, Gallego y Robinson (2014).
+Esta evidencia empírica pone de relieve el que, en mi opinión, es el
+problema básico de la economía española que, en efecto, es el bajo nivel de
+calidad de sus instituciones. Parece que estamos sumidos en un continuo
+empeño de deterioro institucional, en algunas ocasiones sin razón y, en otras,
+por tratar de defender determinados intereses políticos o particulares en detrimento del interés público. En mi criterio, uno de los casos de más actualidad,
+y que ha estado en el origen de nuestro rescate financiero, son los intentos de
+traspasar a las instituciones de regulación financiera responsabilidades que son
+exclusivamente de los gestores y de los órganos de gobierno de determinadas
+entidades, que además de haber estado caracterizadas por una pésima gestión,
+en algunas situaciones, han estado también regidas por la falta de integridad
+personal de sus responsables.
+
+205
+
+
+
+BIBLIOGRAFÍA
+
+ACEMOGLU, D., F. GALLEGO y J. A. ROBINSON: «Institutions, Human Capital and Development», NBER
+Working Paper n.º 19933, febrero 2014.
+«The Colonial Origins of Comparative Development: An Empirical Investigation», American Economic Review, vol. 91, diciembre 2001, pp. 1369-1401.
+BRAUDEL, F.: The Wheels of Commerce: Civilization and Capitalism, 15th-18th Century, vol. 2,
+Harper & Row, New York, 1982.
+CANTONI, D.: «The Economic Effects of the Protestant Reformation: Testing the Weber Hypothesis
+in the German Lands», Journal of the European Economic Association, doi: 10.1111/
+jeea.12117, noviembre 2014.
+GRANGER, C. W. J.: «Investigating Causal Relations by Econometric Models and Cross-spectral
+Methods», Econometrica, vol. 37, n.º 3, agosto 1969, pp. 424-438.
+HARVARD MEDICAL SCHOOL: Harvard Health Publications, «Marriage and men’s health», Harvard
+Medical School; Harvard Health Publications, 1 de julio de 2010, consultado en enero
+de 2015 en http://www.health.harvard_edu/newsletter_article/marriage-and-menshealth
+IMF (INTERNATIONAL MONETARY FUND): «The Good, the Bad, and the Ugly: 100 Years of Dealing with
+Public Debt Overhangs», World Outlook_Coping with High Debt and Sluggish Growth.
+International Monetary Fund, octubre 2012.
+MORGENSTERN, O.: On the Accuracy of Economic Observations, Princeton University Press, [1.ª ed.
+1950]. 2.ª ed. revisada, Princeton, Nueva Jersey, 1963.
+NORTH, D. C. y R. P. THOMAS: The Rise of the Western World: A New Economic History, Cambridge
+University Press, Cambridge, 1973.
+PANIZZA U. y A. F. PRESBITERO: Public Debt and Economic Growth: Is There a Causal Effect?, 2013.
+Consultado en enero de 2015 en http://graduateinstitute.ch/files/live/sites/iheid/files/
+sites/cfd/shared/docs/Mofir065.pdf
+RAE (REAL ACADEMIA ESPAÑOLA): Consultado en enero de 2015 en http://lema.rae.es/drae/?val=correlaci%C3%B3n
+REINHART, C. M. y K. S. ROGOFF: «Growth in a Time of Debt», American Economic Review: Papers
+and Proceedings 100(2), 2010a, pp. 573–578.
+—: «Debt and Growth Revisited», VoxEU.org, 11 de agosto de 2010 (2010b).
+RODRÍGUEZ, F. y D. RODRIK: «Trade Policy and Economic Growth: A Skeptic's Guide to the CrossNational Evidence», NBER Macroeconomics Annual 2000, vol. 15, B. S. Bernanke y K.
+Rogoff (eds.), MIT Press, Cambridge, MA, 2001.
+STOCK, J. H. y M. W. WATSON: Introduction to Econometrics, 3.ª ed., Pearson Education Limited,
+Harlow, Essex, 2012.
+WEBER, M.: «Die protestantische Ethik und der ‘Geist’ des Kapitalismus», Archiv für Sozialwissenschaften und Sozialpolitik, 20-21, 17-84; 1-110, 1904-1905. Traducción al inglés: The
+Protestant Ethic and the Spirit of Capitalism, Allen & Unwin, Londres, 1930.
+
+206
+
+

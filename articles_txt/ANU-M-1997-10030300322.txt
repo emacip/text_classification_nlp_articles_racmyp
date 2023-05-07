@@ -1,0 +1,849 @@
+LA R E S P O N S A B IL ID A D P A T R IM O N IA L
+D E L E S T A D O : ¿H A STA D Ó N D E D E B E
+IN D E M N IZ A R ?
+Por el A cadém ico de Número
+Excm o.Sr.D. Fernando Garrido Falla*
+
+I.
+
+LA TEORÍA SUBJETIVISTA DE LA RESPONSABILIDAD
+
+1. La teoría de la indemnización (o de la responsabilidad civil o pa­
+trimonial) tiene su tronco común en la declaración que se contiene en el Artícu­
+lo 1.101 del Código Civil: «Quedan sujetos a la indemnización de los daños y per­
+juicios causados los que en el cumplimiento de sus obligaciones incurrieren en
+dolo, negligencia o morosidad, y los que de cualquier modo contravinieren al te­
+nor de aquellas».
+Obsérvese que este precepto no se reduce a las obligaciones con­
+tractuales, ya que anteriormente, en el Artículo 1.089, se nos ha dicho que «las
+obligaciones nacen de la ley, de los contratos y cuasicontratos y de los actos y
+omisiones ilícitos o en que intervenga cualquier género de culpa o negligencia».
+Lo que si interesa subrayar es que, cualquiera que sea el tipo de obligación in­
+fringida, la causa de la indemnización está en la actuación u omisión del sujeto:
+dolosa, negligente, morosa o causante de cualquier tipo de infracción. Sin éstas
+notas no hay daño indemnizable.
+Tratamiento específico tiene en nuestro Código Civil la responsabi­
+lidad extracontractual o aquiliana. La regla general la establece el Artículo 1.902:
+«El que por acción u omisión causa daño a otro, intervin iendo cu lpa o negligen­
+
+* Sesión del día 11 de marzo de 1997
+
+303
+
+
+
+cia, está obligado a reparar el daño causado. Se parte, pues, de la conducta —
+culposa o negligente, en este caso— del sujeto; pero inmediatamente los supuestos
+de responsabilidad se amplían:
+a) A los daños causados por otros sujetos sometidos a la potestad ci­
+vil o vigilancia del responsable: padres, tutores, empresarios... (Artículo 1.903), in­
+cluso maestros, en relación con sus discípulos, hasta la Ley 1/1.991, de 7 de enero.
+Para justificar la culpa, se acude en estos casos a la culpa in vigilando, o in eligendo.
+b) A la condición de propietario: de animales (1.905), o de fincas
+o inmuebles (1.906 a 1.910).
+En fin, en relación con el Estado se establece una norma singular:
+«El Estado es responsable en este concepto cuando obra por mediación de un
+
+agente especial, pero no cuando el daño hubiese sido causado por el funcionario
+a quien propiamente corresponde la gestión practicada, en cuyo caso será apli­
+cable lo dispuesto en el articulo anterior». Dada la excepcionalidad del supuesto
+— pues el Estado actúa normalmente a través de sus funcionarios o empleados—
+la remisión al Artículo anterior (1.902) significaba la exclusiva responsabilidad del
+funcionario; y aún así, el particular dañado se iba a encontrar con la protección
+especial que para el funcionario se desprendía del ordenamiento positivo, a sa­
+ber: 1) hasta fines del siglo xix con la exigencia de autorización previa para pro­
+cesar (hoy reducida al suplicatorio de los Diputados y Senadores que como trá­
+mite previo establece el Artículo 71.2 de la Constitución) y 2) con el recordatorio
+previo al ejercicio de acciones de responsabilidad civil exigido por la llamada Ley
+Maura de 5 de abril de 1904.
+Pero, sobre todo, la protección especial del funcionario se encon­
+traba en su casi segura insolvencia; una situación, por consiguiente, absoluta­
+mente insatisfactoria desde el punto de vista del dañado o lesionado en sus bie­
+nes y derechos.
+2. Para llegar a la situación actual (insatisfactoria ahora por el ex­
+tremo opuesto; y esta es la tesis que me propongo mantener) ha sido necesario
+superar viejos dogmas. En primer lugar, el de la irresponsabilidad por los daños
+causados por los actos del Poder; en segundo lugar, el problema que plantea la
+transferencia de la imputación por dolo, culpa o negligencia de la persona físicafuncionario al Estado; en fin, la dificultad de ampliar el punto de vista subjetivo
+al punto de vista objetivo: es el daño causado el que determina la obligación de
+indemnizar, esto es, la necesidad de buscar un responsable. Veamos como se de­
+sarrollan estas tres fases de la evolución.
+
+304
+
+
+
+3.
+El dogma de la irresponsabilidad por los actos del poder arran­
+ca de la vieja y preconstitucional doctrina del ius em inen s (con su formulación
+anglosajona: the King can do not wrong), explicable dentro del contexto del «ori­
+gen divino del poder» que curiosamente mantuvo todavía su vigencia cuando los
+poderes absolutos del Principe habían sido ya heredados por la soberanía na­
+cional. A finales del siglo xix aún pudo decir Laferrierer «Lo propio de la sobera­
+nía es imponerse a todos sin compensación».
+El tránsito hacia la actual teoría de la responsabilidad patrimonial de
+la Administración se inicia ya en la etapa del Polizeistaat, con la construcción de
+la teoría del Fisco —tan brillantemente descrita en la obra de Otto M ayer—, ad­
+mitiendo, frente a la inmunidad del Principe, la posibilidad de demandar ante los
+Tribunales al Fisco, cuando el Estado actuaba en relaciones jurídicas de carácter
+civil semejantes a las que se establecían en el comercio jurídico entre particula­
+res, e incluso en aquellos casos en que se demandaban indemnizaciones expropiatorias (curiosamente en nuestro propio Ordenamiento positivo — como es sa­
+bido— la actual responsabilidad patrimonial de la Administración tiene su
+antecedente reciente en el Artículo 121 de la Ley de Expropiación Forzosa).
+Empero, el desarrollo independiente de éstas dos teorías (indemni­
+zación expropiatoria y responsabilidad patrimonial) hubo de ser necesariamente
+advertido y explicado por la doctrina. Forsthoff afirma tajantemente que «la re­
+paración de los daños causados por actividades del Poder Publico del Estado es
+diferente tanto en su fundamento jurídico como en su naturaleza, según que el
+acto sea lícito o ilícito». Ahora bien, como no todos los casos están incluidos en
+esta dicotomía, propone adoptar la siguiente división tripartita: 1) reparación por
+acto delictivo o ilícito (responsabilidad del Estado, Staatshaftung), 2) indemni­
+zación (E ntschádigung) por acto no delictivo y lícito (expropiaciones y cargas
+particulares) y, en fin, 3) indemnización por riesgo.
+En la doctrina francesa, donde la distinción entre indemnización y
+responsabilidad no ha sido elaborada, nos encontramos sin embargo, con la agu­
+da intuición de H au riou , que distingue los siguientes supuestos de responsabili­
+dad 1) responsabilidad por falta (fa u te d e Service}, 2) responsabilidad por riesgo
+objetivo y 3) responsabilidad por enriquecimiento indebido, que abarca los su­
+puestos de indemnización por los «daños causados por el ejercicio normal de los
+derechos del poder público» (potestad expropiatoria, en especial).
+En la teoría global de la responsabilidad patrimonial, pues, hay que
+distinguir dos diferentes supuestos, cada uno con su propio fundamento jurídi­
+co, de reclamación de indemnización patrimonial al Estado (o a cualquier Admi­
+
+305
+
+
+
+nistración Pública) 1) la que tiene su causa en el ejercicio de una potestad expropiatoria (actividad lícita de la Administración) y 2) la que deriva del funcio­
+namiento anormal (faute de Service) o normal (riesgo objetivo) de los servicios
+públicos.
+En la Constitución Española, por cierto, están perfectamente dife­
+renciados ambos supuestos: al primero se refiere el Artículo 33.3 y al segundo el
+Artículo 106.2.
+4.
+La siguiente fase en la evolución conceptual que nos ocupa con­
+siste cabalmente en la transferencia de la responsabilidad del funcionario, autor
+directo del daño, al Estado (o, desde un punto de vista más práctico, a la Admi­
+nistración a la que sirve). La explicación jurídica de esta transferencia de res­
+ponsabilidad se facilita si se tiene en cuenta lo siguiente:
+a) La aceptación de la teoría jurídica de la personalidad del Estado
+(o de la Administración) que hace posible la aparición de un sujeto jurídico sus­
+ceptible de imputación (en el caso inglés, la posibilidad de demandar a la Coro­
+na, lo cual no sucede hasta la aprobación de la Crown Proceeding Act, de 1947);
+b)
+
+La admisión de la «falta del funcionario» como f a l t a d e l serv icio
+(fa u te d e Service), incluso en los casos de falta grave (fa u te lo u rd e) consecuen­
+cia de la “despersonalización del funcionario» que se convierte.en una pieza anó­
+nima (imposible de localizar por el lesionado) en el complicado complejo de la
+burocracia moderna;
+c) En fin, en la substitución de la responsabilidad subsidiaria (es
+decir, para el supuesto de que el funcionario sea insolvente) por la responsabili­
+dad directa de la Administración (independientemente, pues, de la solvencia o
+no del funcionario causante directo del daño).
+Por cierto que la expresión faute de Service fue acuñada por la Ju­
+risprudencia del Consejo de Estado Francés y su origen parece estar, según Chapus, en las conclusiones del Comisario del Gobierno Teissier en el asunto Le Berre (29 mayo 1903) y se propagó rápidamente. La falta es obviamente del
+funcionario o agente, pero se trata de una falta anónima (es decir, su autor no ha
+sido identificado o es desconocido) por lo que la falta se atribuye al servicio». De
+lo anterior se ha deducido una jurisprudencia según la cual «los funcionarios y
+agentes de las colectividades públicas no son responsables patrimoniales frente
+a dichas colectividades por las consecuencias indemnizables de sus faltas de ser­
+vicio» iarret Larruelle, de 28 julio 1951).
+
+306
+
+
+
+Obsérvese, sin embargo, que, desde el punto de vista del Derecho
+español, la comisión de un delito por parte del funcionario rompe el nexo de cau­
+salidad, por lo que la responsabilidad patrimonial o civil del Estado es de carác­
+ter subsidiario.
+
+5.
+Finalmente el tránsito de la responsabilidad subjetiva a la res­
+ponsabilidad objetiva constituye, para un sector doctrinal, la culminación del pro­
+ceso de perfeccionamiento de la teoría de la responsabilidad patrimonial. Diga­
+mos, sin embargo, que la recepción legislativa o jurisprudencial de supuestos de
+responsabilidad por riesgo objetivo se ha venido produciendo en la práctica sin
+necesidad de distorsionar las ideas originarias (dolo, culpa, negligencia, ilícito en
+general...) que postulaba tradicionalmente la idea de la responsabilidad subjeti­
+va: simplemente, coexiste con los supuestos clásicos. Y un buen ejemplo de ello
+nos lo proporciona el propio Derecho Civil con la responsabilidad objetiva por
+los accidentes causados por el uso de vehículos a motor.
+Sin embargo, la peculiar forma de recepción de la teoría de la res­
+ponsabilidad patrimonial del Estado en el Derecho Español ha tenido peculiares
+consecuencias. Pues se ha pasado de la práctica irresponsabilidad del Estado del
+Artículo 1.903 del Código Civil a la responsabilidad por los daños causados por
+el funcionamiento n orm al o a n o rm a l d e los servicios p ú b licos que introdujo el Ar­
+tículo 121 de la Ley de Expropiación Forzosa de 1954, que refrendó y amplió el
+Artículo 40 de la Ley de Régimen Jurídico de 1957 y recibió — en este punto sin
+modificaciones— el Artículo 139.1 de la vigente Ley 30/1.992 sobre Régimen Ju­
+rídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+
+II.
+1.
+
+DEL CÓDIGO CIVIL A LA CONSTITUCIÓN DE 1 9 7 8
+Pero veamos como se ha producido esta evolución:
+
+a) Ya quedó dicho que con la teoría del «agente especial» del Artí­
+culo 1.903 (párrafo 5.a) del Código Civil quedaba prácticamente exento de res­
+ponsabilidad el Estado. Esta era, pues, la base de partida.
+b) Un tímido paso hacia la responsabilidad subsidiaria del Estado
+y demás corporaciones públicas lo da la Constitución republicana de 1931 cuan­
+
+307
+
+
+
+do dispone en su Artículo 41.3: «Si el funcionario público, en el ejercicio de su
+cargo, infringe sus deberes con perjuicio de terceros, el Estado o la Corporación
+a quien sirvan serán subsidiariamente responsables de los daños y perjuicios con­
+siguientes, conforme determine la Ley». Hay, pues, la remisión a una futura Ley
+que no llegó a dictarse.
+Más lejos llegó indudablemente en esta materia nuestra legislación
+local. El Texto Articulado de la Ley de Régimen Local de 1955 ya nos dijo, en su
+Artículo 405, que las Entidades Locales responderán directa o subsidiariamente
+por los daños que causen a los particulares la actuación de sus órganos de go­
+bierno o funcionarios; y el Artículo 406 nos aclara cuando la tal responsabilidad
+es directa o subsidiaria, a saber: que haya habido, o no, culpa o negligencia gra­
+ve de autoridad o funcionario causante del daño, pues en este último caso la res­
+ponsabilidad de la Corporación Local sólo será subsidiaria. Se comprenden las
+dudas que al administrado se le habían de plantear en el momento de formular
+su reclamación bajo un sistema basado en tan sutiles distingos.
+c)
+En realidad, la auténtica quiebra de las viejas ideas se produce
+con la promulgación de la Ley de Expropiación Forzosa de 1954, en cuyo Artí­
+culo 121 se dice:
+«1. Dará también lugar a indemnización con arreglo al mismo procedimiento
+toda lesión que los particulares sufran en los bienes y derechos a que esta
+Ley se refiere, siempre que aquella sea consecuencia del funcionamiento
+normal o anormal de los servicios públicos, o de la adopción de medidas de
+carácter discrecional no fiscalizables en vía contenciosa, sin perjuicio de las
+responsabilidades que la Administración pueda exigir a sus funcionarios con
+tal motivo».
+
+En relación con la solución de la Ley de Régimen Local, hay que re­
+conocer que las diferencias introducidas por la Ley de Expropiación son notables
+y que el paso definitivo para admitir una generosa teoría de la responsabilidad
+patrimonial del Estado ya ha sido dado. Y, además, de una forma circunstancial:
+aprovechando la ocasión de que una Comisión de juristas, en el seno del enton­
+ces Instituto de Estudios Políticos, había recibido el encargo del Ministerio de Jus­
+ticia de redactar una nueva Ley de Expropiación Forzosa. Excediéndose,por tan­
+to, del ámbito formal del encargo, pasó a hablar de responsabilidad cuando sólo
+había que hablar de indemnización. En definitiva, fue el argumento práctico de
+que había que llenar la clamorosa laguna existente en nuestro Derecho positivo
+el que decidió a la Comisión a introducir las nuevas y progresivas bases sobre la
+ordenación legal de la materia.
+
+308
+
+
+
+Con todo, la Ley de Expropiación Forzosa ponía una limitación a sus
+posibilidades aplicativas; solo podrían reclamarse responsabilidades por daños
+sufridos precisamente en bienes expropiables, con lo que quedaban fuera, por
+ejemplo, los daños físicos a las personas, incluida la propia vida, que, obviamente,
+no podía ser objeto de expropiación. Hubo, pues, que esperar a la promulgación
+de la Ley de Régimen Jurídico de la Administración del Estado de 1957 para que
+el proceso legislativo se cerrase. He aquí el contenido literal del Artículo 40 de
+esta Ley:
+«1. Los particulares tendrán derecho a ser indemnizados por el Estado de
+toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los
+casos de fuerza mayor, siempre que aquella lesión sea consecuencia del fun­
+cionamiento normal o anormal de los servicios públicos o de la adopción
+de medidas no fiscalizables en vía contenciosa».
+
+Por consiguiente, cuando se inicia la redacción del Texto constitu­
+cional puede afirmarse que la situación legal española es satisfactoria, incluso
+desde el punto de vista del Derecho comparado. Y lo que es más importante to­
+davía: la Jurisprudencia acepta plenamente la nueva situación, llegando en algu­
+nos casos a soluciones tan generosas que algún sector doctrinal las ha conside­
+rado con reservas.
+d)
+titución prescribe:
+
+Culminando la evolución descrita, el Artículo 106.2 de la Cons­
+
+»2. Los particulares, en los términos establecidos por la Ley, tendrán dere­
+cho a ser indemnizados por toda lesión que sufran en cualquiera de sus bie­
+nes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión
+sea consecuencia del funcionamiento de los servicios públicos » .
+
+Lo que ha hecho, pues, este precepto es constitucionalizar los re­
+sultados ya alcanzados, a nivel de Ley ordinaria, por nuestro Derecho positivo.
+De todas formas, resulta necesario realizar algunas matizaciones.
+a’) Por lo pronto, indemnización y responsabilidad se tratan como
+dos institutos diferentes. El primero se contempla en el Artículo 33.3 del cual se
+desprende que la indemnización no es sino la conversión en su equivalente eco­
+nómico del derecho de propiedad o de cualquier otro derecho del que su titular
+sea privado «por causa justificada de utilidad pública o de interés social». En es­
+tos supuestos (expropiatorios) la Administración actúa no ya sin culpa o negli­
+gencia, sino lícitamente; tan lícitamente que, supuesta la función social de la pro­
+piedad que se proclama en el Artículo 33.2, cabe modular la cuantía de la
+
+309
+
+
+
+indemnización en relación cabalmente con el cumplimiento de esa función (in­
+cluso se admite la expropiación-sanción). Por el contrario, la responsabilidad se
+regula en el Artículo 106.2, y el uso de la palabra «indemnizados» no nos debe
+confundir sobre la naturaleza de la acción de responsabilidad que se atribuye al
+particular lesionado.
+b ’) No se hace referencia a los daños producidos por la adopción
+de medidas no fiscalizables en vía contenciosa, lo cual — aparte de que cada vez
+son mas difíciles de admitir no significa que no sean o no puedan ser fuente de
+responsabilidad.
+c’) En fin, los casos de fuerza mayor exoneran de responsabilidad.
+Aquí basta que nos remitamos a la problemática que estos casos plantean en la
+teoría general del Derecho. Cabe preguntarse si los perjuicios y daños sufridos
+por los particulares como consecuencia de atentados terroristas se deben califi­
+car como fuerza mayor o como anormal funcionamiento de los servicios públi­
+cos (de seguridad, en este caso). La Sentencia del Tribunal Supremo de 3 de ju­
+nio de 1985 nos dice: No puede confundirse la responsabilidad patrimonial del
+Estado, que es consecuencia del funcionamiento de los servicios públicos, con la
+indemnización de los daños y perjuicios sufridos por una persona por la realiza­
+ción de una conducta delictiva, aunque se trate de un acto terrorista, pues en es­
+te caso la indemnización debida recae sobre la persona criminalmente y no so­
+bre toda la comunidad, salvo que el Estado, por razones de solidaridad con las
+victimas, decida, mediante una disposición con rango suficiente, asumir en todo
+o en parte la expresada indemnización». La tal disposición «con rango suficiente»
+ha sido efectivamente promulgada y se contiene en la Ley Orgánica 9/1984, ac­
+tualizada en los arts.93 a 96 de la ley 13/1996, de acompañamiento de la ley de
+presupuestos para 1997. Sin embargo, posteriores Sentencias del Tribunal Su­
+premo (21 de mayo de 1987 y 27 de diciembre de 1988) admiten la acumulación
+de peticiones de la víctima; indemnización legal y, además, la solicitada por mal
+funcionamiento del servicio. La Sentencia de la Sala 3a del Tribunal Supremo de
+31 enero 1996 (caso H ipercor) constituye un hito en la materia1.
+
+1 En este caso se concedió al demandante indemnización por fallecimiento en el aten­
+tado terrorista de Hipercor de Barcelona, desestimándose por el Tribunal Supremo
+el recurso interpuesto por el Abogado del Estado contra la Sentencia de la Audiencia
+Nacional que había reconocido el derecho a indemnización por cuantía de
+45.000.000 de pesetas al reclamante por fallecimiento de su esposa y dos hijas con
+motivo del referido atentado. En el expediente previo, el Consejo de Estado había
+mantenido la inexistencia del nexo causal directo entre la actividad administrativa
+y los daños producidos, ya que estos fueron «obra directa de los terroristas-, pero
+
+310
+
+
+
+e)
+A pesar de que, como se ha visto, la Constitución solo habla del
+«funcionamiento de los servicios públicos» (lo cual postula dos interpretaciones,
+a saber: 1 que se suprimen los supuestos de funcionamiento anormal; 2 que se
+trata de una amplia expresión que cubre tanto el funcionamiento normal como
+anormal) la Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas y
+del Procedimiento Administrativo Común vuelve a reiterar la redacción del Arti­
+culo 40 de la Ley de 1937: «...siempre que la lesión sea consecuencia del funcio­
+namiento normal o anormal de los servicios públicos».
+2.
+Hay que reconocer que la generosa redacción legislativa ha pro­
+piciado en nuestro Derecho una también generosa línea jurisprudencial (incluso,
+a veces, discutiblemente generosa) que ha colocado a nuestro Derecho de res­
+ponsabilidad por actos de las Administraciones Públicas a la vanguardia del De­
+recho comparado. Adelantando ideas, digamos desde ahora que la jurispruden­
+cia más reciente afirma de entrada, en sus Sentencias mas significativas, que «siendo
+la responsabilidad de la Administración Pública directa y objetiva...» —y supues­
+to que no exista causa de fuerza mayor, o ruptura del nexo causal— procede es­
+timar la indemnización solicitada2. Pero hay que observar que dicho esto —ge­
+neralmente en el primero de los Fundamentos Jurídicos de la Sentencia— a
+
+— afirma el T.S.*tal circunstancia no empece para que haya de reconocerse, al mo­
+do que señalábamos en la sentencia de ésta Sala y Sección, de 27 de noviembre de
+1993, que hubo una cierta rela ció n d e ca u sa lid a d en tre la con sta ta d a co n d u cta h o ­
+m icida, p o r n o a d op ta rse la s d eb id a s p r eca u cio n e s. . . y e l d ra m á tico d esen la ce, que
+justifica la imputación de los daños producidos a la Administración, en razón de la
+
+co n cu rr en cia d e es e nexo ca u sa l en tre e l d a ñ o cu y a rep a ra ción se p r eten d e y e l fu n ­
+cio n a m ien to d efectu o so d e l serv icio p ú b lico, dimanante de la omisión de aquellas
+actuaciones que antes relatábamos...-. Por lo demás, se añade, -...la indemnización
+pretendida en el proceso resulta distinta y com p a tib le con la derivada de la espe­
+cial legislación reguladora de los resarcimientos por daños a víctimas de bandas ar­
+madas y elementos terroristas, como muestra de solidaridad con aquellas, según ya
+declaró ésta Sala en la Sentencia de 27 de diciembre de 1988...-.
+2 En la Sentencia de la Sala Tercera del T.S. de 1 de abril de 1995 se afirma en el Fun­
+damento Jurídico 3.a: -Esta Sala ha declarado, entre otras cosas, en sus Sentencias
+de 5 febrero y 20 abril de 1991, 10 mayo, 18 octubre, 27 noviembre y 4 diciembre
+de 1993, 14 mayo, 4 junio, 2 julio, 27 septiembre, 7 noviembre y 19 noviembre de
+1994, 11 febrero 1995 y 25 febrero 1995, que la responsabilidad patrimonial de la
+Administración concretada en los Artículos 106.2 de la Constitución, 40 de la Ley
+de Régimen Jurídico de la Administración del Estado de 1957 y 121 y 122 de la Ley
+de Expropiación Forzosa, y, respecto de los entes locales, por el Artículo 54 de la
+Ley de Bases de Régimen Local, s e co n sid era co m o u n a resp on sa b ilid a d objetiva o
+
+p o r e l resultado, en la q u e es in d iferen te q u e la a ctu a ció n adm in istrativa h a ya si­
+d o n orm a l o anorm al, b astan do p a ra d ecla ra rla que, co m o c o n s e c u e n c ia d irecta
+d e a q u ella , s e h a y a p r o d u c id o u n d a ñ o efectiv o , ev a lu a b le e c o n ó m ic a m e n te e
+
+311
+
+
+
+continuación y seguramente por estimar que tan simple razonamiento no suele
+resultar convincente, se entra e a el análisis de lo sucedido para intentar demos­
+trar que efectivamente ha habido un m al fu n cio n a m ien to d el servicio p ú blico.
+Válganos como ejemplo la Sentencia de la Sala 4.a del Tribunal Supremo de 8 de
+junio de 1988; como consécuencia de una denuncia (que luego no prosperó) fue
+detenido por la policía, estando reunido en claustro, un Profesor de EGB que, co­
+mo consecuencia, hubo de soportar -las vejaciones inherentes a toda clase de de­
+tenciones de la policía, pues, a pesar del trato correcto de que fue objeto, tuvo
+que posar de frente y de perfil para un fotógrafo, estampar las huellas dactilares
+en una cartulina, compartir calabozo y coche celular con verdaderos delincuen­
+tes, ser observado por muchas personas a la salida del Consejo acompañado por
+la policía, a la salida de la Comisaria para subirse en dicho coche celular, y para
+colmo de males, su fotografía se encuentra actualmente en los ficheros de la po­
+licía, en el mismo cajón de fotos que se enseñan o exhiben a los ciudadanos que
+acuden a la policía para identificar a violadores de mujeres». Pues bien, para el
+Tribunal Supremo, el funcionamiento de la policía fue absolutamente normal, por
+lo que no hubo lugar a indemnización.
+Aun así, la Sentencia — obligada por el texto del Artículo 40 de la
+Ley de Régimen Jurídico— se plantea a continuación si, no obstante el funcio­
+namiento normal que se acaba de apreciar, se deriva responsabilidad en este ca­
+so. Y el Tribunal Supremo entiende que no, ya que »no es solo que ni siquiera
+haya error o negligencia en la actuación policial, es que falta el nexo causal ne­
+cesario para la imputación a la organización administrativa de los posibles daños
+causados por su funcionamiento normal». Entiendo, sin embargo, que el razona­
+miento es forzado y que las cosas son bastante mas sencillas: no hay responsa­
+bilidad simplemente porque el funcionamiento del servicio ha sido normal .Por
+
+in d ivid u a liz a d o ». Sin em bargo, y co m o lu eg o verem os, h ech a ésta a firm a ción p a ­
+r e c e co m o si la Sala s e q u ed a se c o n la sen sa ció n d e h a b er d a d o u n a razón in su fi­
+cien te, p o r lo q u e a co n tin u a ció n a ñ a d e: -en e l ca so en ju icia d o p o r la Sala d e Ins­
+tancia, lo s fu eg o s d e a rtificio s e llevaron a ca b o co n la p recep tiva licen cia m u n icipal
+y la ign ició n d e la tra ca p ro d u cto ra d e las lesion es a l m en o r la realizaron d os m iem ­
+bros d e la H erm andad o rga n iz a d ora d e los festejo s, p o r lo q u e ésta ex h ib ición p i­
+ro técn ica n o p u e d e s e r ca lifica d a d e cla n d estin a , en co n tra d e l p a r e c e r d e la Ad­
+m inistración recu rren te, y p o r con sigu ien te, a u n q u e s e h u b iese co n ced id o la licen cia
+c o n la a n tes a lu d id a clá u su la d e ex on era ción , los servicio s d e p o licía m u n icip a l,...
+d eb iero n v ela r p a ra q u e s e ad op ta sen las m ed id a s d e segu rid a d id ó n ea s c o n e l fi n
+d e ev ita r los riesgos d eriv a d o s d e ésta cla s e d e a ctividad es, co m o ex ige e l A rtículo
+1.1 d e l R eglam ento d e S ervicios d e la s C orporacion es L o c a l e s . L a ju stifica ció n p a ­
+r e c e esta r a q u í en la p erm isió n d e l A yuntam iento p a ra la cr e a ció n d e l riesgo y en
+la fa lta d e vigila n cia d e los serv icio s d e p o licía m unicipal.
+
+312
+
+
+
+eso cabe preguntarse ¿Que hubiera ocurrido si, como consecuencia de la con­
+ducción del detenido se hubiera lesionado al entrar o salir del coche policial?
+La Sentencia de la Sala 4.a (Sección 4.a) del Tribunal Supremo de 22
+de noviembre de 1991 nos dice: «Se trata de una lesión que causa un perjuicio
+que como tal resulta ilegítimo, es decir, que en ningún caso es conforme a De­
+recho, ni debía haber sido sufrido por el perjudicado a consecuencia del funcio­
+namiento de los servicios. Por tanto, cualquiera que sea la posición doctrinal que
+se mantenga sobre la polémica relativa a la distinción entre responsabilidad por
+funcionamiento normal o anormal de los servicios públicos, se llega a la conse­
+cuencia de que quien sufrió el perjuicio no estaba obligado a soportarlo». (Lo cier­
+to es que quien soporta un daño por causa de fuerza mayor, tampoco está obli­
+gado a soportarlo: el tema es siempre el mismo ¿quién y p o r q u é ha de asumir los
+perjuicios soportados por la víctima?)
+Hay que referirse asimismo a aquellas Sentencias de nuestro Tribu­
+nal Supremo en las que — a mi juicio, precipitadamente— se da por sentado que
+nuestro sistema de responsabilidad patrimonial es objetivo, es decir, que la Ad­
+ministración responde en cualquier caso y que lo más que se puede admitir a su
+favor es que la conducta de la víctima incida sobre el resultado dañoso. En ese
+sentido, la Sentencia de la Sala 3 (Sección 6.2) de 29 de mayo de 1991, en cuyo
+Fundamento Jurídico 2.a se lee: «La Administración responde en cualquier caso y
+lo mas que se puede admitir a su favor es que la conducta de la víctima incida
+sobre el resultado dañoso. En ese sentido, la Sentencia de la Sala 3a (Sección 6a)
+de 29 de mayo de 1991, en cuyo Fundamento Jurídico 2° se lee: «La Administra­
+ción responde de manera directa y objetiva según el Artículo 40 de la Ley de Ré­
+gimen Jurídico de la Administración del Estado y Articulo 106.2 de la Constitu­
+ción Española, de toda lesión que los particulares sufran siempre que sea
+consecuencia del funcionamiento, tanto normal como anormal, de los servicios
+públicos, prescindiendo de toda suerte de ilicitud o culpa, esto es, al margen de
+cual sea el grado de voluntariedad y previsión del agente, incluso cuando la ac­
+ción originaria es ejercida legalmente, como con reiteración tiene declarado la Ju ­
+risprudencia de este Tribunal, como corresponde a un ordenamiento inspirado
+en la reparación de los daños imputables al funcionamiento administrativo, in­
+cluyendo así tanto los daños ilegítimos derivados de una actuación culpable, co­
+mo los daños anudados a una actividad lícita e irreprochable de los servicios de
+la Administración (pues) aún en los casos en que se aceptase que el empleo de
+armas de fuego por la policía para detener a una persona que huye de control es
+un funcionamiento normal del meritado servicio, es obligado atribuir a la Admi­
+nistración la responsabilidad de los daños causados al amparo del Artículo 40 an­
+tes mencionado y del 106 de la Constitución, que es justamente la ocurrencia del
+
+313
+
+
+
+caso de autos, en el que la sospechosa huida de quienes resultaron muertos ale­
+jó toda idea de peligro para los agentes de la policía, toda vez que los fallecidos
+se limitaron a emprender la huida motivados porque en el coche en que viajaban
+portaban cantidad de género de contrabando; en esta circunstancia el empleo de
+armas de fuego con resultado irreparable es estimado como medida despropor­
+cionada y excesiva por la falta de agresión, lo que hace notoria e injustificada la
+medida de detención de personas que huyen, en síntesis existe desproporción
+entre el hecho de no atender al alto del control policial y la reacción de la fuer­
+za actuante». A mi juicio, el razonamiento no es convincente, pues una de dos: o
+la reacción de la policía fue proporcionada al hecho determinante del uso de las
+armas de fuego o, como se dice en la Sentencia, hubo una medida despropor­
+cionada y excesiva, lo cual es tanto como reconocer funcionamiento anormal del
+servicio, Más matizada es, por eso, la doctrina que sienta la Sentencia (Sala 3.a)
+de 13 de mayo de 1984 (en la carretera había señalización de «firme irregular»); o
+la de 11 de febrero de 1987 (la mancha de aceite que provocó el accidente posi­
+blemente se debió a derrame o pérdida de un vehículo, sin que conste si fue in­
+mediatamente anterior, pero en cualquier caso intervención de un tercero ajeno
+a la Administración). La discutible solución de esta Sentencia salta a la vista3.
+Por contraste, el Tribunal Supremo encuentra más cómodo su razo­
+namiento cuando puede basarlo desde el principio en el funcionamiento anor­
+mal o defectuoso del servicio público. Así la muy comentada Sentencia de la Sa­
+
+3 Aparte de las Sentencias que se citan en la nota anterior, es frecuente encontrar pro­
+nunciamientos del T.S. que tratan de imponer límites a la desmedida extensión de
+la responsabilidad objetiva deteniéndose en el análisis de las circunstancias del ca­
+so concreto. En la Sentencia de la Sala 3.a de 16 de marzo de 1995 (accidente de trá­
+fico consecuencia del defectuoso estado de la señalización de la carretera) se lee en
+el Fundamento Jurídico 2.a: «La primera enseñanza jurídica que da el mentado pre­
+cepto es que no se trata de una respon sabilidad ob jetiva derivada de cualquier le­
+sión que el particular sufra en sus bienes y derechos; sino que dicha lesión siempre
+ha de ser consecuencia... del funcionamiento de los servicios públicos, entendido
+en su sentido amplio, como actividad de la Administración en cualquiera de sus ma­
+nifestaciones. La segunda enseñanza jurídica... es que el daño alegado por los par­
+ticulares habrá de ser efectivo, evaluable económicamente e individualizado con re­
+lación a una persona o grupos de personas». A continuación (Fundamento Jurídico
+3.a) la Sentencia recuerda los preceptos del Código de la Circulación (Artículos 39 y
+41 del entonces vigente) que recogen el principio de que en todo caso la Adminis­
+tración habrá de mantener la calzada libre y expedita, debiendo señalizar conve­
+nientemente la existencia de posibles obstáculos en la carretera que impidan o di­
+ficulten la circulación; es decir «no basta con tener señalización, sino que ésta habrá
+de ser adecuada». Y al no serlo en el caso de autos, procede declarar la indemniza­
+ción solicitada.
+
+314
+
+
+
+la 4.a del Tribunal Supremo de 12 de marzo de 1975 resuelve — un curioso caso
+de responsabilidad de la Administración Local. Un enfermo mental internado en
+un Hospital perteneciente a la Diputación Provincial de Granada se arrojó por
+una de las ventanas del edificio cayendo sobre una pareja de novios que casual­
+mente pasaba por la acera, causando la muerte de él y lesiones a ella. Denegada
+la petición de indemnización en vía administrativa por la Diputación Provincial,
+fue reconocida por la Sala de lo Contencioso-administrativo de la Audiencia Te­
+rritorial de Granada y confirmada por el Tribunal Supremo. De la doctrina que
+sienta en su Sentencia, interesa subrayar: 1) que el servicio público «funcionó de
+modo defectuoso, puesto que dio lugar a que el enfermo se arrojase por la ven­
+tana en su intento de suicidio resultado patrimonialmente atribuible a la Corpo­
+ración, que no puede exonerarse del mismo invocando, como ha hecho, su im­
+putación a la acción de terceros, puesto que el perturbado no constituía un agente
+extraño al funcionamiento del Centro, sino un usuario interno que como tal se
+integraba en su organización y disciplina»; 2) que «sería igualmente responsable
+objetivamente la Corporación aunque los servicios hubiesen funcionado perfec­
+tamente, ya que el enfermo procedía del edificio donde el servicio se prestó, en
+relación con el cual señala el Articulo 1.910 del Código Civil que el ocupante res­
+ponde a los daños causados por lo que se arroje o caiga de un inmueble, sin que
+aquí proceda hacer distinción entre objetos o personas». Obsérvese que, en cual­
+quier caso, la Sentencia acude, en el caso de funcionamiento normal, a un su­
+puesto clásico de responsabilidad objetiva (fait des choses).
+La Sentencia de la Sala 4.a de 22 de julio de 1988 resuelve un su­
+puesto que, desgraciadamente, resulta ser frecuente en nuestras cárceles: la muer­
+te de un recluso asesinado por sus compañeros. Para el Tribunal Supremo, el de­
+sarrollo de los hechos «implica que el servicio público de prisiones funcionó
+deficiente o anormalmente, el servicio de vigilancia en la galería en que ocurrie­
+ron los hechos brilló por su ausencia, las cerraduras de las celdas resultaron ser
+muy deficientes, en la comisión de los hechos tomó parte activa como coautor
+necesario un recluso adscrito al servicio que gozaba de libertad de movimiento»,
+todo lo cual «permite en este caso una imputación de negligencia a la gestión del
+servicio público carcelario que supone indudablemente una declaración de res­
+ponsabilidad de la Administración». En supuesto análogo, la Sentencia de la mis­
+ma Sala de 15 de julio de 1988 declara que tratándose de una responsabilidad ob­
+jetiva, no requiere mas requisito que la relación de causalidad entre el acto y el
+daño». Sin embargo, a continuación se extiende sobre la «mala situación y defec­
+tuoso funcionamiento de los servicios del Centro Penitenciario».En qué queda­
+mos: ¿responsabilidad objetiva o mal funcionamiento del servicio?. La Sentencia
+de 13 de junio 1995 en caso análogo de interno asesinado en centro penitencia­
+rio entra a examinar como funcionó el servicio: «...el riesgo para la vida del in­
+
+315
+
+
+
+terno que fue asesinado resultaba conocido para las autoridades penitenciarias,
+pues el infortunado se dirigió en tres ocasiones a la Dirección del Centro po­
+niendo en su conocimiento tal situación».
+El suicidio de un enfermo internado en el Hospital Psiquiátrico de­
+pendiente de la Diputación Provincial de Badajoz conduce, asimismo, a la Sen­
+tencia de la Sala 4.a del Tribunal Supremo de 10 de diciembre de 1987 a declarar
+la responsabilidad patrimonial de dicha entidad pública por entender que «ha in­
+currido por lo menos en culpa in vigilan do y es la negligente vigilancia de aque­
+lla la que ha permitido el desencadenamiento de ese resultado de muerte». Hay
+que entender, pues, que si la vigilancia hubiese sido correcta no habría habido
+condena indemnizatoria. Y así se explica, en cambio, que se declare la obliga­
+ción de indemnizar por los daños causados, por falta de protección policial, en
+una manifestación autorizada (Sentencia del Tribunal Supremo de 28 de octubre
+de 1986).
+Tiene, asimismo, su fundamento en el mal funcionamiento del ser­
+vicio la condena de indemnización del Ayuntamiento de P., que declara la Sen­
+tencia de la Sala 4.* del Tribunal Supremo de 22 de julio de 1987. El reclamante
+funda su reclamación en la muerte de su madre al caer en una sepultura abierta
+del cementerio municipal no señalizada ni protegida. Y, asimismo, el anormal
+funcionamiento de un ascensor utilizado por la limpiadora que trabajaba en el
+Hospital de Maternidad al abrirse la puerta de acceso indebidamente y provo­
+cando su caída al foso en la planta sótano, es el fundamento que acoge la Sen­
+tencia de la Sala 4.a, del Tribunal Supremo de 26 de enero de 1988 para conde­
+nar a la Administración.
+La pregunta en todos estos casos es siempre la misma: ¿y si no se hu­
+biese probado el mal funcionamiento o la negligencia administrativa?. Alguna Sen­
+tencia contesta tajantemente: pues que no hay lugar a indemnización. Así la Sen­
+tencia Tribunal Supremo de 22 de abril de 1994 niega indemnización a
+manifestante lesionado por la Guardia Civil, pues «el deber jurídico de soportar
+el daño existe cuando el lesionado se ha colocado en una situación de riesgo, to­
+mando parte voluntariamente en una manifestación ilegal y violenta...» (Y ¿no se
+coloca en esa misma situación de riesgo el contrabandista que huye desatendiendo
+el «alto» de la policía que referíamos en sentencia anteriormente citada?).
+3- El hecho* empero, es que nuestro Derecho positivo habla ex­
+presamente del funcionamiento n orm al de los servicios públicos y, si esto es así
+¿qué se requiere para que se declare la responsabilidad de la Administración cuan­
+do el funcionamiento del servicio público ha sido normal?; ¿se trata quizá de un
+
+316
+
+
+
+exceso verbal del legislador que no tiene aplicación práctica posible?. Ciertamente
+nuestro Ordenamiento positivo ha abierto aquí un supuesto de responsabilidad
+sin falta que tiene su causa en el funcionamiento normal de los servicios públi­
+cos y su fundamento en un principio de solidaridad y de reparto entre los admi­
+nistrados de los perjuicios que puedan causar los servicios públicos y las obras
+públicas. Recordemos, en primer lugar, la Sentencia de la Sala 4a del Tribunal Su­
+premo de 27 de enero de 1971, que, con un criterio innovador que merece ser
+subrayado y alabado, reconoce el derecho a indemnización por los perjuicios cau­
+sados a determinados vecinos de una calle cuyos domicilios e industrias resulta­
+ron perjudicados por privación de luz y ventilación y dificultad de acceder a los
+mismos, con motivo de las obras públicas ejecutadas en las vías de acceso a una
+carretera general. La existencia de tales daños se da por supuesta en la Senten­
+cia; al haberse elevado la nueva calle con respecto a la anteriormente existente,
+surge una vía de comunicación en forma de rampa que deja los accesos de las
+casas afectadas en una especie de fosa de difícil comunicación y de escasa luz y
+ventilación. Probada la existencia del daño o perjuicio, el Tribunal Supremo da
+lugar a la indemnización. Análoga doctrina se reitera en la Sentencia de la Sa­
+la 4.a, de 9 de abril de 1985; y en parecido supuesto, es más matizada la Senten­
+cia (Sala 3.a) de 30 de enero de 1989, puesto que hay que distinguir entre «un de­
+recho subjetivo a la existencia de un acceso en las mismas condiciones en que se
+hallaba con anterioridad a la obra de urbanización y el derecho de los particula­
+res a no ser dañados aun en el caso de un derecho legítimo por parte de la Ad­
+ministración».
+La sentencia de la Sala 3.a del Tribunal Supremo de 5 de noviembre
+de 1974 fue criticada (Nieto), al resolver la reclamación de indemnización for­
+mulada contra el Estado español por una serie de ciudadanos y empresas espa­
+ñolas residentes en la Guinea Ecuatorial a los que impuso una fuerte multa el Pre­
+sidente de aquella República «por haber colaborado con la prensa y Televisión
+Española en las difamaciones e insultos proferidos al Jefe del Estado Guineano,
+hasta el extremo de denominarlo terrorista». El fundamento de la reclamación con­
+sistía en entender que los daños sufridos en su patrimonio por los afectados por
+las multas habían sido consecuencia del funcionamiento de Televisión Española,
+servicio público del entonces Ministerio de Información y Turismo. La Sentencia,
+marcando un auténtico hito en la doctrina sobre responsabilidad de la Adminis­
+tración — hasta el punto de que algunos prestigiosos comentaristas han podido
+calificarla de sorprendente— estima el recurso y, por consecuencia, condena a la
+Administración a abonar las reparaciones solicitadas.
+Pienso que entran también aquí los supuestos de responsabilidad
+que derivan de la condición de propietario de instalaciones o servicios. Por ejem-
+
+317
+
+
+
+pío, los daños producidos a los vecinos por la inundación que provoca la insufi­
+ciencia de desagüe de un colector municipal (Sentencia de la Sala 4.a del T.S. de
+30 de septiembre de 1988). En la ya citada Sentencia de la Sala 4.a del Tribunal
+Supremo de 9 de abril de 1985, con argumentos parecidos se condenaba a un
+Ayuntamiento, por los daños y perjuicios causados por consecuencias del hecho
+de haberse inutilizado el acceso a un local, al ampliarse el espacio de entrada de
+los vehículos en una vía pública.Y, en fin, entran aquí asimismo los supuestos en
+que la lesión es consecuencia del riesgo cread o. Así, la Sentencia de 31 de di­
+ciembre 1996 condena al Ayuntamiento de Los Barrios (Cádiz) a indemnizar por
+las lesiones producidas por la suelta de vaquillas en los festejos organizados por
+el Ayuntamiento.
+Evidentemente estamos en presencia, en los casos aludidos, de res­
+ponsabilidad sin culpa (no hay falta del servicio; no ha funcionado anormalmente
+el servicio). Pero, si intentamos justificar la Sentencia condenatoria, no basta con
+afirmar que el particular perjudicado no estaba específicamente obligado a so­
+portar el daño que se deriva de la actuación administrativa (la cual, por supues­
+to va d e soi). Pero salvo en los casos de actuaciones expropiatorias en los que
+curiosamente sí existe la obligación de soportarlas, ¿cuándo comienza y termina
+esa obligación de soportar?. Si el Ayuntamiento declara peatonal una calle del
+centro de la ciudad y se demuestra perjuicio a los comerciantes en ella instala­
+dos; si, como hizo el Ayuntamiento de Madrid, se establecen los «bordillos-bus»
+que impiden el aparcamiento de vehículos particulares ante los comercios insta­
+lados en la calle; si se desvía una carretera que atraviesa un pueblo o ciudad cu­
+yos restaurantes y comercios viven precisamente del tráfico automovilístico, ¿cuál
+es el título para pedir indemnización, si es que tal título existe?
+4.
+El Consejo de Estado ha establecido en sus dictámenes una ma­
+tizada doctrina en relación con las reclamaciones de daños de los particulares
+causados con motivo, principalmente, de la realización de obras públicas; así: a)
+«La situación de contigüidad de un inmueble a la vía pública no constituye un de­
+recho, sino una circunstancia, y la mayor o menor comodidad del inmueble con­
+tiguo no es oponible frente a la libre potestad de organización administrativa. Un
+límite a la aplicación de esta doctrina lo constituye el caso de que el inmueble o
+establecimiento afectado por la ejecución de la obra pública quede privado de
+todo acceso o clientela, ya que entonces la singularidad del perjuicio puede pri­
+var a la carga de su carácter de generalidad» (Dictamen n.e 42.166, de 18 de oc­
+tubre de 1979). b) Como consecuencia de obras en carretera nacional los in­
+muebles quedan a un nivel superior al de la calzada. Los daños no han podido
+ser incluidos en el expediente expropiatorio, pero procede su indemnización al
+amparo del Articulo 40 LRJ (Dictamen n.c 45.562, de 23 de septiembre de 1983).
+
+318
+
+
+
+c) Daños en vehículo como consecuencia de la existencia de un socavón en ca­
+rretera; se estiman (Dictamen n.B 50.249, de 1 de octubre de 1987). d) Daños en
+vehículo por falta de señalización de estrechamiento de carretera: se acepta la re­
+lación de causa a efecto y se estima la indemnización (Dictamen n.e 43.032, de
+27 de noviembre de 1980). e) Daños por la incomunicación de establecimientos
+comerciales durante la ejecución de un paso elevado en autopista; se consideran
+indemnizables (Dictamen n.Q41.069, de 13 de octubre de 1977)
+
+III.
+
+LA REACCIÓN CRÍTICA
+
+1. Ciertamente la renuencia de la Jurisprudencia del Tribunal Su­
+premo al insistir en el carácter objetivo de la responsabilidad patrimonial de las
+Administraciones Públicas, así como la repetición literal del Artículo 40 de la LRJ
+por el Artículo 139-1 de la Ley 30/1992 (olvidando que la Constitución ha supri­
+mido la expresión «funcionamiento normal») encuentra un poderoso respaldo doc­
+trinal en la postura de García de Enterría y de quienes han seguido sus enseñan­
+zas. Sustituir el punto de vista de la licitud o no del causante del daño por el punto
+de vista objetivo del daño efectivamente causado «cuando el lesionado no tiene
+el deber legal de soportar dicho daño» no deja de ser un planteamiento novedo­
+so y, desde luego, sugestivo. A mi juicio contiene, empero, una insalvable contradictio in terminis, ya que es cabalmente en los supuestos en que el adminis­
+trado tiene la obligación de soportar el daño — como son los supuestos
+expropiatorios— en los que jamás se ha discutido el derecho a indemnización.
+Pero, dicho esto, reconozco mi casi inquietante soledad cuando tozuda e ininte­
+rrumpidamente he venido manteniendo que la interpretación del antiguo Articu­
+lo 40 debe hacerse teniendo en cuenta que la regla general es el funcionamien­
+to an orm al del servicio público para justificar la indemnización; y que la expresión
+funcionamiento normal cubre los supuestos de riesgo creado y el de aquellas ac­
+tuaciones administrativas — en especial obras públicas— que causan perjuicios
+singulares que por simple aplicación del principio de igualdad ante las cargas pú­
+blicas, justifica la obligación de reparar.
+Observo, sin embargo, que afortunadamente de pocos años a ésta
+parte se están produciendo reacciones que tienden a frenar una expansiva juris­
+prudencia cuyas últimas consecuencias aún están por ver. Parada Vázquez se ha
+referido a como la generosidad de la formula legal española ha producido «un
+
+319
+
+
+
+cierto pánico doctrinal — que él no comparte, por cierto— del que son exponentes
+Nieto y Sánchez Morón, advirtiendo que «en una sociedad que tiene por base el
+beneficio individual y que, por consiguiente, dista de alcanzar el ideal igualita­
+rio, la antedicha socialización de los riesgos podría llevar a resultados excesivos
+a través de una hipertrofia del sistema de responsabilidad civil, cargando a las es­
+paldas de la sociedad en su conjunto con pesados gastos que, en justicia, tam­
+poco ella debe soportar».
+2. Empero, lo que resulta curioso advertir es que haya sido un ci­
+vilista, F. Pantaleón Prieto quien con «los an teojos d el civilista»(y este es el título
+de su trabajo en Documentación Administrativa, números 237-238, 1994) se haya
+propuesto «una revisión del régimen de responsabilidad patrimonial de las Ad­
+ministraciones Públicas». Con independencia de que personalmente me agrade
+oirle decir (o, mejor dicho, «leerle decir») que mis tesis «río siempre han sido va­
+loradas justamente», la fuerza dialéctica que pone en sus escritos resulta cierta­
+mente convincente. Para empezar comienza con el análisis del caso resuelto por
+Sentencia de la Sala 3.a (Sección 4.a) del Tribunal Supremo de 14 de junio de 1991Una enferma ingresa en una residencia sanitaria de la Seguridad Social presen­
+tando aneurismas gigantes en ambas carótidas. El cirujano que la intervino optó
+por reducir primero el aneurisma del lado derecho, y al no ser posible obliterar
+su cuello con un clip de Hefetz, se decidió por ocluir la carótida próxima al aneu­
+risma con el mismo clip. Unos días después, la paciente sufrió una hemiparasia
+braquiofacial izquierda que le ha dejado graves secuelas. Aunque la actuación del
+cirujano fue irreprochable desde el punto de vista de la lex artis (pues ex an te no
+había motivo para pensar que los riesgos para la paciente eran mayores por ocu­
+parse primero del aneurisma del lado derecho), a posteriori podía afirmarse que
+hubiera sido mejor opción resolver en primer lugar el aneurisma de la carótida
+izquierda. Se reclamó al Insalud que reconociera el derecho de Doña María Te­
+resa a la mejor rehabilitación posible, le pagase durante el resto de su vida el sa­
+lario correspondiente a una empleada del servicio doméstico en jornada de ocho
+horas e indemnizase los gastos y daños físicos y morales en la suma de 19.212.700
+pesetas. Tales pretensiones fueron estimadas en parte por una Sentencia de la Sa­
+la Cuarta de la Audiencia Territorial de Madrid de 4 de noviembre de 1985 y con­
+firmada por el Tribunal Supremo.
+La crítica que la referida Sentencia merece a Pantaleón es, literal­
+mente hablando, despiadada. «No veo ninguna razón convincente — nos dice—
+para conceder a Doña María Teresa esos más de diez millones de indemnización
+cuando no se le conceden a quien resulta igualmente incapacitado a causa de un
+desafortunado resbalón en la bañera. Y me parece obvio que los merecería más
+el segundo sí, por razón de su incapacidad, él y su familia quedaran en una si-
+
+320
+
+
+
+tuación de necesidad económica más grave que la de Doña María Teresa y su fa­
+milia. Y no tendría nada claro si no estaría aún más justificado emplear dichos
+millones en adquirir más aparatos de diálisis para proporcionar más años de vi­
+da a mas enfermos de riñón, o en acabar con la peligrosa curva donde estadísti­
+camente se matan o lesionan varias personas cada año, o en ayudar a los que
+mueren de hambre en el Tercer Mundo» En definitiva, según Pantaleón, la inter­
+pretación que se viene haciendo del «funcionamiento normal de los servicios pú­
+blicos» no es otra cosa -qu e un m ecan ism o d e redistribución perversa d e renta;
+puesto que indemnizar es restituir al rico su riqueza y al pobre su pobreza». Y fi­
+naliza así: «Ha llegado el momento de abandonar esa cautivadora obra de imagi­
+nación jurídica que fue la construcción unitaria de la responsabilidad patrimonial
+de la Administración y del instituto de la expropiación forzosa sobre el concep­
+to de lesión que no hay deber de soportar; entre la responsabilidad por lo que
+hemos llamado d añ os cu asiexpropiatorios, d e evidente con ex ión co n la expro­
+p ia c ió n fo r z o s a , y la r e s p o n s a b ilid a d p o r riesgo ex iste u n a p r o fu n d a cim a
+p rin cip iad .
+Si me he extendido en la cita del trabajo de este dialéctico civilista
+que es Pantaleón, es por el importante refuerzo que supone para las tesis que
+desde hace años vengo sosteniendo. Y se me ocurre aún una observación adi­
+cional: ¿por qué si la demanda de la enferma a que se refiere la sentencia ante­
+riormente citada se hubiese dirigido — dándose los mismos supuestos de hecho—
+contra una Clínica u Hospital privado y ante la Jurisdicción civil hubiésemos lle­
+gado a resultados diferentes?4.
+Creo que estamos a tiempo de arreglar las cosas. La Ley 30/1992 ha
+tenido tan mala acogida por la doctrina administrativista que ya se está propo­
+niendo su urgente modificación, al menos en sus puntos esenciales, uno de los
+cuales podría ser el relativo a la responsabilidad patrimonial de la Administra­
+ción. En el pasado mes de febrero tuvo lugar en Sevilla, organizada por el De­
+partamento de Derecho Administrativo de aquella Universidad, una reunión de
+Profesores de Derecho Administrativo en la que cabalmente me cupo exponer la
+Ponencia relativa a la modificación del Titulo X de la Ley, relativo al tema que
+
+4 La Sentencia de la Sala Primera (Civil) del T.S. de 10 de octubre de 1994 exonera de
+responsabilidad al Servicio Andaluz de Salud ya que -es p r eciso q u e s e d e cu lp a in ­
+
+con testa b le y d eb id a m en te p rob a d a q u e a ctú e so b re e l nexo ca u sa l q u e la rela cio n e
+co n el resu ltado d a ñ o so oca sio n a d o . La sa lu d n o a d q u iere segu rid a d total p o rq u e se
+som eta a co n tro l m éd ico, sin o q u e su evo lu ció n presen ta , co m o d esgra cia d a m en te
+ha o cu rrid o en este caso, situ a cio n es d escon troladas, m u ch a s v e c e s d ifíciles d e d e­
+term inar, y, p o r ello, d e atajar...-.
+
+321
+
+
+
+nos ocupa. Mi propuesta fue —y ahora lo reitero— , aparte otras cuestiones que
+en este momento no me interesa tratar, la sustitución en el Artículo 139-1 de la
+expresión «por el funcionamiento normal o anormal de los servicios públicos» por
+la, a mi juicio mas acertada, «por el funcionamiento de los servicios públicos». Al
+fin y al cabo, esto es lo que literalmente ha recogido en su Artículo 106.2 la Cons­
+titución Española que, por cierto, en su Artículo 121, al tratar de la responsabili­
+dad de la Administración de Justicia, señala junto al error ju d ic ia l e l «funciona­
+m iento a n orm al d e la A dm inistración d e Justicia», como causa generadora de un
+derecho a indemnización a cargo del Estado. Aquí el constituyente fue más preca­
+vido y bien podríamos afirmar que si por mal funcionamiento se entiende — co­
+mo ha entendido, a veces, el Tribunal Constitucional— el retraso y la lentitud en
+la Administración de Justicia, no habría dinero en los Presupuestos generales del
+Estado para compensar debidamente los perjuicios sufridos por miles de ciuda­
+danos que en estos momentos esperan la solución de sus litigios.
+Se me podrá decir, naturalmente, que esto es cabalmente lo que la
+Justicia postula; pero aún así entiendo que esos cientos de miles de millones de
+pesetas necesarias a lo que deben dedicarse es a una restructuración de Juzga­
+dos y Tribunales para que el mal funcionamiento no se produzca.
+
+322
+
+

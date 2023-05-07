@@ -1,0 +1,848 @@
+MODELOS Y PREDICCIONES
+DE LA ECONOMÍA ESPAÑOLA
+Por el A cadém ico de N úm ero
+E xcm o. Sr. D. Jaim e Terceiro Lom ba *
+
+La mayoría de nuestras actividades diarias requieren anticipar o predecir
+acontecimientos. Cuando conducimos, necesitamos anticipar razonablemente las
+maniobras de otros coches. En las relaciones sociales, con frecuencia de manera
+muy imperfecta, intentamos anticipar las reacciones y comportamientos de otras
+personas. La elección de la ropa a llevar a un viaje o la que nos ponemos por la
+mañana está condicionada por la impresión que tenemos del tiempo que va a
+hacer, en este caso, probablemente, ayudados por las predicciones más científicas
+que nos proporciona el servicio meteorológico.
+Los ciudadanos en general y los economistas y empresarios en particu­
+lar, toman decisiones sobre la base de la evolución futura de los acontecimientos
+económicos que los rodean. La necesidad de tales predicciones viene dada por­
+que las personas hacemos elecciones y adquirimos compromisos futuros que requie­
+ren formar una opinión sobre las consecuencias de tales decisiones. Los métodos
+subyacentes a estas predicciones pueden llegar a tener una muy sofisticada base
+teórica y empírica, o estar formulados de manera puramente intuitiva o sobre la
+base de modelos muy simples o incluso triviales. Los métodos mas simples son
+los que extrapolan el pasado de forma directa, y en la medida en que las reglas
+de juego y las condiciones de contorno cambian están abocados al fracaso. Los
+procedimientos mas sofisticados intentan anticipar estos cambios interpretando
+
+* Sesión del día 31 de octubre de 2006.
+
+49
+
+
+
+adecuadamente el origen de los comportamientos pasados. Con frecuencia la pre­
+dicción final es una combinación de los resultados de métodos sofisticados y de
+aproximaciones intuitivas. El caso de la ropa a utilizar, ponderando nuestra per­
+cepción personal sobre el tiempo que va a hacer con la información del servicio
+meteorológico, es un claro ejemplo de las situaciones que usan ambos tipos de
+modelos.
+Se puede afirmar, con alguna razón, que los economistas nos sentimos
+cómodos haciendo dos tipos de predicciones: las que explican el pasado y las que
+explican el futuro a largo plazo. En las primeras, como es obvio, solemos acertar,
+aunque a veces nos empeñamos en oscurecer la evidencia histórica. Acertamos en
+lo que ha ocurrido, pero no siempre estamos de acuerdo en las causas que lo han
+motivado. En cuanto al segundo tipo de predicciones, la dificultad de acertar en
+horizontes de tiempo tan amplios se ve recompensada por la baja probabilidad de
+que se nos recuerde lo equivocado de nuestras afirmaciones, bien porque cuando
+se demuestran erróneas no se está en activo, o bien porque se ocupan otras res­
+ponsabilidades y son otros los foros en los que estamos y nos manifestamos. Cierto
+es que este tipo de predicciones cuanto mas pesimistas y catastrofistas son, más
+asegurada tienen la atención pública.
+A decir verdad, la capacidad que hemos demostrado los economistas para
+cualquier tipo de predicción ha sido, y es, francamente mejorable. Con objeto de
+no tirar-piedras contra mi propio tejado no aludiré a ejemplos concretos y recien­
+tes, pero sí, y aunque solo sea a manera de consuelo, señalaré que tampoco el
+récord de otros profesionales es sensiblemente mejor que el de los economistas.
+Cabe recordar aquí las predicciones, hechas .hace casi tres cuartos de siglo, el 22
+de febrero de 1932 y publicadas en el diario A hora de Madrid, por un conjunto de
+profesionales españoles respecto a la situación de sus respectivas especialidades
+en el año 2000.
+El famoso diestro de Triana, Juan Belmonte, predijo literalmente lo
+siguiente: “Las leyes agrarias y las conquistas del proletariado a c a b a rá n con las
+corridas d e toros”. El doctor Marañón afirmó: “La tuberculosis y el cá n cer serán
+en ferm edades históricas”. El Conde de Romanones decía: “Es muy posible qu e no
+existan partidos políticos y, sin ellos, no será posible u n régimen de libertad”. Celia
+Gámez señalaba que: “Las artistas del teatro frívolo no p o d ía n quitarse y a m as
+ropa, p o r lo qu e se las im agin aba en el añ o 2000 tapadas hasta los pies, con vesti­
+dos largos qu e sólo dejen descubiertas la ca ra y las m an os”. Y, en fin, Ricardo
+Zamora vaticinaba que: “El fú tb o l llegará a ser el verdadero deporte n a cio n a l”. Por
+cierto, un paisano mío Don Ramón del Valle-Inclán, en la misma encuesta, y a la
+pregunta de ¿cómo será la literatura en el año 2000?, respondió: “Si y o lo supiera
+y a la estaría escribiendo". Obviamente, sin acertar en su predicción, tampoco se
+equivocó.
+
+50
+
+
+
+Sería señal de buen económetra tener la misma capacidad de acertar que
+Ricardo Zamora y, desde luego, alguna más que Celia Gámez. Pero como no estoy
+seguro de que esta sea la situación no voy, a lo largo de mi exposición, a realizar
+predicción concreta alguna sobre la economía española.
+Pues bien, dicho lo que no voy hacer, paso a continuación a decir de lo
+que voy a tratar. Es obvio que tengo que seleccionar problemas y los ordenaré de
+la siguiente manera. Empezaré describiendo los distintos tipos de modelos que se
+han utilizado en la práctica de la predicción económica. Haré referencia a sus limi­
+taciones. A continuación aludiré brevemente a los desarrollos más recientes y al
+impacto que las tecnologías de la información y comunicación (TIC) han tenido en
+ellos. Pasaré después al análisis, y a la crítica, de algunos de sus aspectos prácticos,
+poniendo especial énfasis en la ausencia de una permanente y rigurosa evaluación
+de las predicciones que para la economía española realizan tanto las instituciones
+públicas como las privadas. Esta parte de la exposición es probablemente un poco
+árida, pero creo necesario pasar por ella para sostener con una mínima solvencia
+las conclusiones a las que voy a llegar. Sobre esta base, en la última parte de mi
+intervención haré algunas consideraciones sobre el nivel de rigor exigible a los
+análisis y seguimientos, de la economía española. Pondré varios ejemplos de fre­
+cuentes y problemáticas afirmaciones en este tipo de valoraciones. Haré especial
+hincapié en la diferenciación de opiniones y predicciones, y en las diferentes reco­
+mendaciones que unas y otras conllevan. Tomaré como ejemplo, el principal pro­
+blema de nuestra economía, el de su baja productividad.
+
+I. MODELOS ECONÓMICOS Y SUS LIMITACIONES
+Un requisito fundamental de cualquier predicción económica es la ade­
+cuada utilización de la información estadística disponible y de la teoría económi­
+ca aplicable. Las técnicas econométricas permiten formular modelos para explicar
+la evolución futura de determinadas variables que llamamos variables endógenas,
+en función de su comportamiento pasado y de la evolución de un conjunto de
+otras variables, llamadas exógenas, determinadas fuera del modelo, y entre las que
+pueden estar ciertos instrumentos de política económica o variables de control.
+Los modelos utilizados pueden agruparse en dos grandes categorías: los
+modelos estructurales y los no estructurales o en su forma reducida. Los modelos
+estructurales recogen las relaciones de comportamiento entre las distintas variables
+e interpretan los datos a la luz de una determinada teoría económica. Muchas de
+las situaciones que se dan en la práctica requieren hacer predicciones de variables
+condicionadas a diversas hipótesis sobre otras variables, por ejemplo el comporta­
+miento de las autoridades económicas. Tales situaciones implican necesariamente
+la utilización de modelos estructurales.
+
+51
+
+
+
+Los modelos en su forma reducida tratan el fenómeno a analizar como
+una caja negra y pretenden solamente identificar la relación entre los inputs y
+outputs básicos de dicha caja, y lo hacen utilizando fundamentalmente las correla­
+ciones entre las correspondientes series temporales y con poco, o ningún, funda­
+mento de teoría económica.
+En sentido estricto, los modelos estructurales representarían la aproxima­
+ción de teoría sin datos, y los no estructurales la de datos sin teoría. Ambos tipos
+de modelos se utilizan en los ejercicios de predicción económica, y muchas veces
+de forma complementaria.
+Las observaciones que siguen harán referencia fundamentalmente a pre­
+dicciones macroeconómicas. Las predicciones microeconómicas y macroeconómicas difieren, desde luego, en el tipo de variables a predecir. En el primer caso
+variables que giran en el entorno de la empresa: ventas, beneficios, costes, pre­
+cios y demanda, mientras que la predicción macroeconómica incorpora variables
+tales como PIB, IPC, desempleo y consumo. Pero no solo difieren en las variables
+a predecir, sino también en la teoría subyacente, por ejemplo, las primeras hablan
+de mercados, competencia, maximización de beneficios, las segundas de política
+monetaria y fiscal, consumo y demanda agregada.
+Está bien documentado en la literatura de las últimas décadas el fracaso
+de los modelos estructurales de corte keynesiano como instrumentos para el cono­
+cimiento, predicción y control de las economías. No alcanzaron las metas que se
+habían propuesto, y no lo hicieron no solo por las deficiencias teóricas de su for­
+mulación, sino también porque estas metas se habían situado a niveles que aún
+hoy resultan inalcanzables. El problema no estaba solo en que la evidencia empí­
+rica había derrumbado la curva de Phillips a la vista de las simultáneas tasas de
+inflación y desempleo de los años setenta, el problema era mas profundo.
+Las críticas teóricas realizadas, entre otros, por Lucas (1972) a estas for­
+mulaciones exigieron su reformulación incorporando expectativas racionales a los
+correspondientes sistemas de ecuaciones en la línea de los trabajos de Fair (1974)
+y Taylor (1993). Modelos de esta naturaleza han estado y siguen estando en uso,
+con ligeras variantes, en muchos bancos centrales. Aunque no se subraya tanto
+como el fracaso de la capacidad predictiva de los modelos keynesianos, tampoco
+esta reformulación presenta, por sí sola, una mejora sustancial. Esta vez la limita­
+da capacidad predictiva de los modelos estructurales se asimiló mejor ya que las
+metas no se situaron tan altas.
+Durante mucho tiempo se creyó, muy erróneamente, que las limitaciones
+al exuberante proceso de especificación, estimación y validación de modelos de
+cientos de ecuaciones tenían un doble origen: las derivadas de las capacidades de
+
+52
+
+
+
+cálculo de los ordenadores de entonces, y el reducido tamaño de las series tem­
+porales disponibles. Solamente cuando estas restricciones han desaparecido nos
+hemos dado cuenta de la verdadera dificultad de los procesos de modelización y
+predicción en economía, y de lo ilusorio de los planteamientos iniciales.
+Incluso antes del fracaso de los modelos en su forma estructural, el desa­
+rrollo de la teoría de series temporales, representado en la década de los años
+veinte por Slutsky (1927) y Yule (1927), ofrecía resultados bastante aceptables a la
+hora de realizar simples predicciones de una determinada serie temporal. Desde
+el punto de vista de la aproximación no estructural, una crítica contundente a la
+mediocre capacidad predictiva de los modelos estructurales multiecuacionales fue
+la dada por Nelson (1972), en un trabajo en el que demostraba que muy sencillos
+modelos univariantes autorregresivos y de medias móviles mejoraban las predic­
+ciones obtenidas a partir de sofisticados modelos econométricos utilizados por la
+Reserva Federal. Aplicaba Nelson los procedimientos que Box y Jenkins (1970)
+habían recogido en su famoso manual de series temporales dos años antes. La
+correcta interpretación y reconciliación de ambos tipos de resultados la proporcio­
+nó, entre otros, el trabajo de Zellner y Palm (1974), en el que se demuestra que
+los modelos univariantes pueden obtenerse como soluciones de las ecuaciones de
+los modelos estructurales.
+Una generalización a los desarrollos de series temporales y al tratamiento
+econométrico de los modelos multiecuacionales es la aproximación de espacio de
+los estados originada en el ámbito de la ingeniería, y que tuvo como elemento de
+partida el fundamental trabajo de Kalman (1960). En esta línea de desarrollo están
+también los procedimientos de estimación de los modelos de equilibrio general
+dinámicos estocásticos (DSGE), que parecen haberse convertido en una pieza fun­
+damental de la macroeconomía moderna, los trabajos de Hansen y Sargent (2006)
+recogidos en su reciente manual son un buen ejemplo.
+Dos son los criterios básicos que se suelen utilizar en estos procedimien­
+tos. En primer lugar, la formulación de preferencias o funciones objetivo de tipo
+cuadrático. Este tipo de funciones presenta dos indudables ventajas, dan lugar a
+reglas de decisión lineales, y en un entorno estocástico permiten separar el proce­
+so de observación del sistema económico del proceso de su control, mediante el
+llamado teorema de separación o de certeza equivalencia. El segundo criterio es el
+de obtener la estimación de los parámetros maximizando la función de verosimili­
+tud, lo que proporciona el mejor resultado posible bajo el supuesto que el mode­
+lo está correctamente especificado, de tal manera que los estimadores son insesga­
+dos, consistentes y eficientes. El método de máxima verosimilitud esta soportado
+en una idea muy simple: suponiendo que la información estadística disponible
+depende de un conjunto de parámetros, se trata de encontrar el valor de estos
+parámetros que maximicen la probabilidad de que el modelo resultante genere
+
+53
+
+
+
+dicha información. Sin embargo, en la práctica ningún modelo está correctamente
+especificado, todos son erróneos ya que de no serlo dejarían de ser modelos, serían
+la realidad misma.
+Bajo la realista hipótesis de errores en la especificación del modelo, la
+estimación maximoverosímil proporciona el error cuadrático medio mínimo de la
+predicción un período hacia delante. Es decir, la estimación maximoverosímil es
+la adecuada cuando el modelo se utiliza para predecir un período hacia delan­
+te, pero no para horizontes de predicción superiores. Así, un modelo construi­
+do con observaciones trimestrales proporcionaría el menor error de predicción
+para el siguiente trimestre pero no, por ejemplo, para los cuatro siguientes. Los
+trabajos sobre procedimientos de estimación que consideran distintos horizontes
+de predicción han sido desarrollados fundamentalmente, en el campo de la inge­
+niería y en la década de los ochenta, por la escuela sueca de Ljung y Sóderstróm
+(1982) y Ljung (1987).
+Valga la consideración anterior para poner de- manifiesto que los mode­
+los adecuados para un horizonte de predicción no lo son para otro distinto. Es esta
+una primera evidencia teórica de la imposibilidad de encontrar, con fines predictivos, un único modelo econométrico.
+La estimación de modelos DSGE en entornos no lineales y no gaussianos se está abordando recientemente, véase Dejong y Dave (2006), aplicando el
+llamado partióle filter a la evaluación de la función de verosimilitud del modelo,
+mediante métodos de Montecarlo secuenciales, que es una técnica desarrollada,
+también, en el ámbito de la ingeniería, véase Doucet, Freitas y Gordon (2001). Se
+superan de esta manera las técnicas de calibración o aprendizaje sobre las propie­
+dades de los modelos así formulados propuestas por Kydland y Prescott (1996), y
+que tienen su principal limitación en su aproximación no probabilística.
+Es difícil hacer justicia en poco más de un par de folios a los tremendos
+avances que han tenido lugar en el proceso de modelización económica. Pero lo
+que me interesa resaltar es que las justificaciones que se daban para el magro éxito
+obtenido en la capacidad de predecir y controlar la actividad económica, sobre la
+base de la insuficiente información estadística o de la falta de algoritmos y capa­
+cidad de cálculo, no son válidas desde hace algunos años. Podemos afirmar que
+el extraordinario impacto que las TIC han tenido en este ámbito, ha puesto en evi­
+dencia las limitaciones intrínsecas a estos procesos de modelización, y como con­
+secuencia a la capacidad predictiva de la ciencia económica. Dicho de otra mane­
+ra, las TIC han ayudado mucho a nuestro trabajo como economistas cuantitativos,
+pero también han puesto en entredicho una parte sustancial de él, y es necesario
+saber reconocerlo para, entre otras cosas, evitar pronunciamientos rotundos sobre
+nuestras capacidades para predecir y controlar los sistemas económicos.
+
+54
+
+
+
+Además, el extraordinario avance en la capacidad y velocidad de cálculo,
+compaginado con el llamativo descenso de los costes asociados a este proceso,
+ha conducido a un irreversible abandono de los modelos teóricos a los que se les
+buscaban soluciones analíticas, en favor de soluciones a través de algoritmos
+numéricos y métodos de simulación. También la exuberante producción de infor­
+mación económica y financiera no solo está alimentando los modelos para su pos­
+terior estimación, sino que está condicionando su propia formulación. Por ejemplo,
+los modelos de carácter financiero con observaciones no ya diarias, sino horarias o
+incluso de frecuencia mayor han dado lugar a, prácticamente, una nueva disciplina
+que es la econometría financiera, véase Campbell, Lo y MacKinlay (1996).
+Cabe preguntarse por las razones últimas del limitado éxito de las pre­
+dicciones econométricas. Cualquiera que sea el modelo y el procedimiento de
+estimación utilizado se parte de dos hipótesis básicas. La primera es que el mode­
+lo es una buena representación de la realidad económica concreta que se preten­
+de analizar. La segunda, es que la estructura de esta realidad económica permane­
+cerá relativamente invariable. Y lo cierto es que ninguna de las dos ha demostrado
+en la práctica su robustez. Todos los modelos están, por definición, incorrectamen­
+te especificados, por ejemplo, la incorporación del tiempo y de la calidad de las
+instituciones entraña enormes dificultades y, como recuerda North (1990), estas
+dos variables, instituciones y tiempo, a pesar de su capital importancia han estado
+sistemáticamente ignoradas en las formulaciones teóricas.
+Constatar que la teoría económica por si sola no puede proporcionar una
+correcta especificación dinámica del modelo implica importantes consecuencias en
+el ámbito de su evaluación y validación. Y esto es especialmente relevante, ya que
+en economía la teoría está mucho menos consolidada que en las ciencias natura­
+les. Por otra parte, la característica de variables difícilmente observables que tie­
+nen aquellas relacionadas con el comportamiento de las instituciones y de los indi­
+viduos hace muy difícil la simple elección de las variables a incluir en el modelo.
+Respecto a la segunda de las hipótesis, la historia demuestra que todas las
+economías están con frecuencia sujetas a cambios estructurales, shocks y correccio­
+nes difíciles de anticipar, que tienen su origen en cambios tecnológicos, legislati­
+vos, políticos y sociales. Con frecuencia los errores de predicción se deben a la
+utilización de métodos incorrectos y a la deficiencia de los datos utilizados, pero
+en otras ocasiones se deben a este tipo de cambios estructurales. En este sentido
+hay que discrepar de Woody Alien cuando afirma que: “H e visto el fu tu ro y se p a r e ­
+ce m ucho a l presente, sólo que du ra m á s”.
+Podemos ilustrar la dificultad de incorporar todas las variables relevantes
+en el proceso de modelización, con un ejemplo de actualidad: la pérdida de competitividad de la economía española. Veamos.
+
+55
+
+
+
+En cuanto a lo que podríamos llamar competitividad exterior, la relacio­
+nada con la actividad comercial, los indicadores de comportamiento básicos son:
+el saldo comercial, la cuota de exportación y la penetración de las importaciones.
+Los factores determinantes, o variables causa, serían el tipo de cambio, los precios
+y costes, y la rentabilidad relativa. En cuanto a la competitividad global o estruc­
+tural, relacionada con la eficiencia productiva, los indicadores de comportamiento
+son: el PIB p e r capita y la productividad. Sus variables causa son: la dotación de
+capital físico y humano, la capacidad de innovación tecnológica, el funcionamien­
+to de los mercados y la calidad de las instituciones.
+No hace falta recorrer con mucho detenimiento los análisis recientes de
+la economía española para constatar lo equívoco de las caracterizaciones de nues­
+tros problemas de competitividad y, sobre todo, la confusión entre variables causa
+y efecto.
+Esta realista mirada a los límites ciertos de nuestra capacidad predictíva
+con modelos econométricos no nos debe hacer olvidar programas de investigación
+alternativos a los que, hasta bien entrada la década de los ochenta, se les dedica­
+ron significativos recursos académicos y económicos y que, desde luego, merecen
+críticas aun mas severas. Citaré aquí solamente dos ejemplos. El primero de ellos
+es el análisis de las interrelaciones de los sectores de producción y consumo de una
+economía por medio de las tablas input-output, véase Leontief (1986). Todos recor­
+damos la opinión de los muchos investigadores involucrados en este tipo de análi­
+sis de que la limitación básica, no estaba en la formulación misma de los modelos,
+sino en disponer de la capacidad computacional suficiente para invertir matrices de
+miles de elementos: los llamados coeficientes técnicos. Más allá de los problemas
+derivados de una aproximación puramente determinista, estaba la muy primitiva
+hipótesis de su formulación estática. Se trabajaba como si la variable tiempo fuera
+ajena al proceso económico, limitación que posteriormente se trató de obviar defi­
+niendo el llamado modelo input-output dinámico, que de manera a d hoc introdu­
+cía simplemente retardos de orden uno. En términos algebraicos el problema aquí
+era obtener la inversa de la llamada matriz dinámica de Leontief. Francamente, no
+debería de haber sido difícil de pensar, ya entonces, qué resultados prácticos se
+podían obtener de modelos de esta naturaleza que incorporaban miles de paráme­
+tros, los llamados coeficientes técnicos que, por otra parte, eran el simple cociente
+de dos números, la cantidad de input necesaria de un sector de la economía para
+producir una unidad de output del producto de otro sector. Es decir, se estaban
+construyendo modelos de miles de parámetros estimados con cero grados de liber­
+tad. En fin, pocas explicaciones adicionales necesitan darse para constatar el poco
+sentido teórico y empírico de tales formulaciones.
+El segundo ejemplo al que quiero hacer una breve referencia es el énfa­
+sis que se puso, a partir de la década de los sesenta, en los modelos que utiliza­
+
+56
+
+
+
+ban técnicas de programación matemática para la evaluación de proyectos y la
+determinación de precios. En estos modelos, en ausencia de precios de mercado,
+se introduce la idea de precios sombra que pretende asegurar que todos los bene­
+ficios y costes se tienen adecuadamente en cuenta en el proceso de evaluación del
+proyecto. Aunque teóricamente estas técnicas permiten la descentralización de las
+decisiones, aparecen problemas de coordinación a otros niveles, y se pasa por alto
+que el mercado es el menos malo de todos los coordinadores posibles. Estas for­
+mulaciones son incorrectas porque a menudo parten del supuesto que la relación
+causal entre determinada actividad económica y la actitud de los individuos e ins­
+tituciones sociales es conocida y fluye en una sola dirección, y muchas veces esa
+relación causal o no es significativa, o lo es más en la dirección contraria. Poca
+evidencia empírica hay en esta materia que permita sustentar hipótesis de esta
+naturaleza. Análisis econométricos actualizados ponen en duda que afirmaciones
+habitualmente consideradas no solo teóricamente correctas sino también plenas de
+sentido común sean sostenibles empíricamente. Por ejemplo, resulta difícil demos­
+trar que el gasto en educación es una variable causa del crecimiento económico
+en términos del PIB, ya que en muchas situaciones esta relación es muy débil, y
+a menudo se detecta en sentido contrario o bien es bidireccional. En este ámbito,
+poco mas se puede aceptar con rigor, excepto que ningún país ha experimentado
+un crecimiento económico sustancial hasta que una parte relevante de su pobla­
+ción, en el entorno del 40%, accedió a los niveles básicos de educación.
+
+n . PREDICCIÓN ECONÓMICA EN LA PRÁCTICA
+
+Haré una breve referencia, a continuación, al proceso de evolución de la
+información estadística en España y a los niveles de calidad que ha alcanzado.
+El próximo viernes, 3 de noviembre, se cumplen 150 años del RD que crea­
+ba la Comisión Estadística General del Reino. En mi opinión este aniversario es una
+buena ocasión para recordar parte del preámbulo de dicho decreto: “...El conoci­
+miento de las condiciones físicas y morales de una nación, de su com ercio e indus­
+tria, d e sus necesidades y recursos, es precisa a todo Gobierno que desee la felic id a d
+d e su país, p o r la influencia que deben tener en la confección de las leyes, pu dien do facilitarse p o r este m edio el desairollo de los gérm enes de riqueza y el m odo de
+rem over los obstáculos qu e se opongan a l progreso y bienestar d e los pu eblos”.
+La ley de Instrucción Publica de 1857 estableció la Estadística como dis­
+ciplina académica. En 1945 se creó el Instituto Nacional de Estadística (INE). Los
+escasos recursos asignados tradicionalmente a la elaboración de estadísticas los
+puso de manifiesto la misión del Banco Mundial que visitó España en los prepa­
+rativos del plan de estabilización de 1959- La elaboración por parte del INE de las
+Cuentas Nacionales en los años sesenta representó un claro impulso al proyecto
+
+57
+
+
+
+de formulación completa e integrada de estadísticas económicas en España. Se adop­
+tó entonces el Sistema Normalizado de Cuentas Nacionales de la OCDE que se sus­
+tituyó en los años setenta por el Sistema Integrado de Cuentas Nacionales de las
+Comunidades Europeas (SEC). La publicación en 1992 de la Contabilidad Nacional
+Trimestral supuso un hecho muy relevante para la formulación de modelos macroeconómicos. Además, la publicación de las Cuentas Financieras de la Economía
+Española por parte del Banco de España (BE), ha completado el Sistemas de Cuen­
+tas Nacionales de España.
+Esta secuencia temporal pone de manifiesto el déficit estadístico que han
+tenido que soportar los trabajos empíricos de la economía española hasta hace
+relativamente poco tiempo. Pese a ello, cabe afirmar que hoy ya se dispone de un
+sistema de estadísticas macroeconómicas homologable, desde todos los puntos de
+vista, a los vigentes en la Unión Europea (UE). No obstante, algunas estadísticas
+sectoriales y algunas otras de carácter microeconómico aun no han alcanzado esos
+estándares de calidad.
+Como he señalado no existe un único modelo que supere a todos los
+demás en cada uno de los aspectos revelantes del análisis. Esto hace que sean
+varios los instrumentos estadísticos y los modelos econométricos que se utilizan en
+la práctica, tanto para el análisis estructural como para el predictivo, incorporan­
+do simultáneamente datos de diferente frecuencia, en unas situaciones anual y en
+otras trimestral, mensual o incluso de frecuencia mayor.
+En el caso de la economía española el núcleo básico del análisis suele
+girar alrededor de un modelo econométrico de carácter trimestral, relativamente
+agregado, correspondiente a un país de tamaño medio, abierto y perteneciente a
+la Unión Económica y Monetaria (UEM). Los instrumentos estrictamente estadísti­
+cos se utilizan para el análisis de distintos indicadores, generalmente de periodici­
+dad mensual, con objeto de incorporar los datos mas recientes de la situación eco­
+nómica. Este tipo de modelos suelen ser modelos univariantes o de función de
+transferencia. Se hacen también un conjunto de hipótesis sobre las variables exógenas, tanto las derivadas del contexto internacional como las sujetas al control de
+las autoridades económicas. La información proporcionada se incorpora al mode­
+lo econométrico en un proceso de carácter iterativo, que concluye en la obtención
+de unas predicciones finales que deben someterse previamente a un contraste de
+coherencia contable y económica a la hora de elevar los indicadores a cada uno
+de los componentes del PIB. Básicamente el resultado es una previsión de las
+series de la Contabilidad Nacional, con el nivel de desagregación que la informa­
+ción disponible permita.
+Un aspecto crítico de todo este complejo proceso es, por una parte, la
+decisión sobre el peso relativo que se da al enfoque estructural y al no estructu­
+
+58
+
+
+
+ral, y por otra el juicio de los analistas al valorar determinados acontecimientos no
+contemplados en el proceso de modelización. Este juicio desempeña un papel cen­
+tral a la hora de incorporar cambios estructurales en las relaciones de comporta­
+miento de los agentes económicos, para hacerlos coherentes con la información
+que proporcionan los modelos. El mas reciente, y de mayor impacto, de este tipo
+de cambios ha sido nuestra incorporación a la UEM. Las modificaciones sugeridas
+en estas situaciones pueden llegar a afectar no solo al valor de los parámetros de
+los modelos, sino también a la propia especificación de las ecuaciones.
+Si de acuerdo con la Real Academia Española predecir es: A nunciar p o r
+revelación, cien cia o conjetura, algo qu e h a de suceder, deducimos de lo anterior,
+que la predicción económica es un anuncio hecho mitad por ciencia mitad por
+conjetura. Aunque lo cierto es que cuando uno recuerda determinadas opiniones
+y predicciones sobre la economía española de los últimos diez años, tan faltas de
+rigor y objetividad, parece como si, de acuerdo con esta definición, estuvieran fun­
+dadas en revelaciones desconocidas para alguno de nosotros, y no es de extrañar,
+ya que se ha llegado a utilizar la palabra milagro para caracterizar su evolución
+durante algunos de esos años.
+Como fácilmente puede deducirse de la descripción anterior la economía,
+al menos en los aspectos relacionados con la capacidad de predicción, esta lejos
+de ser una ciencia, entendida como el conocimiento cierto de las cosas por sus
+principios y causas y, desde luego, incorpora mucho de arte. Una consecuencia de
+lo anterior es que, a diferencia de lo que sucede en el mundo de las ciencias natu­
+rales, los resultados de las predicciones así obtenidas son de muy difícil evalua­
+ción teórica y, además, no son reproducibles, lo que plantea problemas insalva­
+bles para su razonable interpretación.
+Dada esta situación, lo que debería ser exigible a toda tarea predictiva
+sería su rigurosa evaluación expost. En primer lugar, para medir su calidad y evitar
+la impresión que tiene el profano que en economía todo el mundo puede opinar,
+y al hacer públicas tales opiniones pasan a ser válidas, ya que posteriormente nadie
+las evalúa rigurosamente a lo largo de períodos de tiempo significativos. Asignar
+algún valor a una predicción debería requerir el conocimiento previo de los proce­
+dimientos utilizados en su cálculo, incluyendo el tipo de modelos utilizados, si se
+ha utilizado alguno, junto con la información estadística empleada y, necesaria­
+mente, el intervalo de confianza que se le asocia. En segundo lugar, la evaluación
+de las predicciones permite aprender de los errores en los que se ha incurrido.
+La correcta interpretación de los errores es un elemento fundamental del análisis,
+y debe ayudar a aislar las causas que lo han originado.
+No querer asumir las responsabilidades derivadas de la posibilidad de incu­
+rrir en errores al hacer las propias predicciones, o al elegir alguna de las ofrecidas por
+
+59
+
+
+
+terceros, lleva muchas veces a la práctica de elaborar las llamadas predicciones de
+consenso, realizadas con los valores de la media o de la mediana de un conjunto selec­
+cionado previamente. Es ésta una salida fácil del problema, ya que en caso de error
+no queda identificado el responsable último y, lo que es más importante, tampoco
+sus causas, con lo que difícilmente se da paso al proceso de aprendizaje derivado del
+análisis del error. Además, en este tipo de ejercicios suelen mezclarse predicciones
+de muy distinta calidad teórica y empírica generando, sobre todo en aquellas de
+peor calidad, un incentivo claro a proporcionar valores próximos al consenso.
+Existen procedimientos suficientemente desarrollados, teórica y empírica­
+mente, para el análisis de las predicciones y los errores asociados a ellas. Los prin­
+cipios básicos para la evaluación de una predicción económica son los siguientes.
+Las predicciones deben ser insesgadas, es decir el valor medio de los errores a lo
+largo del tiempo debe ser nulo. Las predicciones deben ser eficientes, es decir los
+modelos deben utilizar toda la información disponible. Los errores no deben estar
+correlacionados. Este principio de no correlación es exigióle a los errores de pre­
+dicción de un período hacia delante. Los errores de predicción h períodos hacia
+delante deberán seguir procesos de medias móviles como máximo de orden h-1.
+Varios son los estadísticos que pueden utilizarse para medir y comparar
+la exactitud de las predicciones. Los más utilizados son el del error cuadrático
+medio, y el del error absoluto medio. Sin embargo, estos criterios pueden dar
+resultados muy distorsionados cuando aparecen errores significativamente gran­
+des. Procedimientos alternativos utilizan indicadores que examinan el porcentaje
+de aciertos en el signo del error entre períodos consecutivos.
+Indudablemente las dificultades mayores se presentan en los períodos
+que incluyen cambios de ciclo en la actividad económica o cambios de tendencia
+en las tasas de evolución de la productividad. Los desarrollos recientes de la teo­
+ría de series temporales están, con desigual fortuna, abordando estas dificultades,
+por ejemplo analizando indicadores cualitativos, estudiando la modelización de
+cambios de régimen o desarrollando nuevos procedimientos para tratar las com­
+ponentes no observables, véase Kim y Nelson (1999)Existen algunos otros problemas relacionados con aspectos mas teóricos,
+pero de enorme importancia práctica, y que tienen que ver con las llamadas com­
+ponentes no observables de las series económicas, es decir con la tendencia, con
+la componente estacional, y con el ciclo. No es necesario subrayar la importancia
+de poder prever un cambio de tendencia en nuestra evolución de la productivi­
+dad, o un cambio de ciclo en nuestra senda de crecimiento. Baste decir, para vis­
+lumbrar la complejidad teórica del problema, que la descomposición de una serie
+en sus componentes de tendencia, ciclo y estacional no es única, siendo necesa­
+rio imponer un conjunto de restricciones para poder obtenerla.
+
+60
+
+
+
+Pocas son las instituciones en España que de manera regular generan pre­
+dicciones y las hacen públicas. Por ejemplo, en varias de las publicaciones del ser­
+vicio de estudios del BE se describen los instrumentos que utilizan para realizar
+predicciones trimestrales de las distintas magnitudes de la contabilidad nacional,
+cubriendo horizontes entre dos y tres años, pero lo cierto es que deben ser para
+consumo interno, ya que ni en sus informes trimestrales ni en su informe anual de
+la economía española aparece, regularmente, previsión alguna.
+Un ejemplo de rigurosa evaluación de predicciones, en una línea análo­
+ga a la que aquí estoy sugiriendo, puede verse en el documento publicado en
+octubre de 2005 por el congreso de los EEUU para evaluar las predicciones sobre
+las magnitudes básicas de la economía americana realizadas por su oficina presu­
+puestaria para el período comprendido entre enero de 1976 y enero de 2003, véase
+Congressional Budget Office (2005).
+
+m . OBSERVACIONES SOBRE EL ANÁLISIS
+D E LA ECONOMÍA ESPAÑOLA
+
+Un informe de coyuntura supone la descripción del estado de la econo­
+mía en tres niveles. En primer lugar, la interpretación del pasado reciente. A con­
+tinuación, la evaluación de la situación presente. Finalmente, la predicción de las
+variables relevantes junto a la descripción de distintos escenarios, asociando a cada
+uno de ellos la correspondiente probabilidad.
+En España generan informes de coyuntura algunas instituciones oficiales,
+por ejemplo, el Ministerio de Economía y Hacienda, el INE y el BE. También elabo­
+ran informes de esta naturaleza distintos departamentos de economía de las uni­
+versidades. Finalmente, a los anteriores se suman los de los bancos, cajas de ahorro
+y otros intermediarios, éstos con especial énfasis en los aspectos financieros. La aten­
+ción prestada, durante los últimos años, a estos informes de la economía española,
+y a las opiniones y seguimiento de datos económicos me sugieren un conjunto de
+comentarios, alguno de los cuales paso a exponer en esta última parte del trabajo.
+En general se asigna demasiada atención al último dato de las series que
+aparecen con frecuencias relativamente altas, por ejemplo datos mensuales de infla­
+ción y producción industrial. El analista debe seguir todos los datos y emitir una
+opinión cuando tiene indicios suficientemente robustos para hacerlo. De otro modo
+se genera incertidumbre y volatilidad en los mercados de manera innecesaria.
+Existen problemas elementales con la predicción y tratamiento de tasas
+de variación pequeñas. Por ejemplo, las tasas de inflación se publican con un solo
+decimal. De tal manera que si un valor de 0,16% se publica como 0,2%, este valor
+
+61
+
+
+
+podría ser el doble del correspondiente al mismo mes del año anterior si fue de
+0,14% y se publicó como 0,1%.
+Está generalizada la mala utilización de las tasas de variación que suelen
+calcularse indistintamente sobre saldos, sobre ratios, sobre tasas de variación o
+sobre rentabilidades. Veamos algunos ejemplos.
+Los saldos pueden pasar de positivos a negativos, lo que generaría tasas de
+variación negativas. Pueden estar alrededor del punto de equilibrio, es decir valor
+nulo, lo que produciría variaciones enormes, sin que ello signifique que la variable
+haya aumentado significativamente. Por ejemplo, cuando se afirma: el superávit del
+Estado se ha multiplicado por tres en el primer trimestre.
+El significado de algunas afirmaciones depende de los valores en los que
+se mueva una variable, de tal manera que si la tasa de desempleo se ha reducido
+a la mitad, es obvio que es imposible mantener indefinidamente esa pauta de
+variación. Las variaciones de la renta p e r capita tienen una correcta interpretación
+cuando se conoce su nivel.
+Se producen frecuentes equívocos en la utilización de tasas dependiendo
+de que se calculen en relación con el período precedente o con respecto al mismo
+período del año anterior. Las primeras, por ejemplo, las tasas intertrimestrales o
+intermensuales son más inestables que las segundas, que son las tasas interanua­
+les, ya que estas últimas implican una corrección parcial de la estacionalidad.
+Además, las tasas intertrimestrales o intermensuales incorporan la información mas
+inmediata, mientras que las interanuales recogen el comportamiento seguido por
+la serie a lo largo de los últimos cuatro trimestres o de los últimos doce meses. Es
+frecuente la confusión de analistas y medios de comunicación cuando se publican
+las cifras de crecimiento del PIB de los distintos países, debido a que en algunos
+casos se utilizan tasas de variación distintas. Por ejemplo, en los países de la UEM
+se utilizan tasas intertrimestrales de la serie desestacionalizada, y en EEUU se uti­
+lizan las mismas tasas, pero su variación se eleva a términos anuales. Mientras que
+el simple valor intertrimestral poco dice respecto a la previsión para el total del
+año, el elevarla a términos anuales lleva implícita la hipótesis de que ese ritmo de
+crecimiento se va a sostener a lo largo de cuatro trimestres, lo que en muchos
+casos puede representar una hipótesis muy fuerte. La utilización de unas u otras
+es un problema de cultura económica, el confundir unas con otras es, simplemen­
+te, un problema de incultura económica.
+Un ejemplo de las situaciones anteriores lo ha proporcionado el llamati­
+vo titular de un periódico nacional: El déficit de la b a la n z a corriente se dispara:
+h a au m entado un 413%, elaborado a partir de la publicación del dato correspon­
+diente a enero de este año. Inmediatamente para muchos analistas ésta pasó a ser
+
+62
+
+
+
+la realidad, por mucha falta de rigor que tuviera tal afirmación. Situación lamenta­
+ble, y tanto más cuanto que realmente este déficit es uno de nuestros desequili­
+brios básicos, y estaba creciendo a un 30% pero no a un 413%.
+Hay una evidente falta de consistencia en algunos diagnósticos fundados
+en análisis parciales, bien porque se contempla un solo sector, bien porque se exa­
+minan valores agregados, o bien porque nos olvidamos que somos una economía
+relativamente abierta. Pongamos dos ejemplos actuales.
+El primero, cuando se relaciona directamente el incremento habido en el
+déficit de la balanza corriente con la pérdida de competitividad, pasando por alto
+que la evolución de los precios energéticos el pasado año explica, aproximadamen­
+te, el 45% de su variación. El segundo, cuando nos atribuimos como mérito pro­
+pio la reciente mejora en nuestra estructura de crecimiento debido al incremento
+de las exportaciones. Lo cierto es que el mérito es básicamente de Alemania que
+está creciendo más y nos ha puesto a trabajar.
+No son afortunadas las generalizaciones sobre determinados modelos
+de crecimiento. Valgan, como ejemplo, las que hacemos desde un país como Espa­
+ña, incorporado al euro, respecto a los países nórdicos, que en nuestro debate
+local de política económica algunos toman como modelo y otros como antimo­
+delo. No debiera costar mucho trabajo rebatir este tipo de afirmaciones hacien­
+do notar que Suecia está en la UE pero no en el euro, Finladia está en ambos,
+en la UE y en el euro, Noruega no está ni en la UE ni en el euro, y, en fin,
+Dinamarca está en la UE y no en el euro y, por ejemplo, su mercado laboral no
+tiene mucho que ver con el sueco, ni el mercado energético noruego con el
+resto.
+Otra costumbre generalizada, a la que me he referido en alguna otra oca­
+sión, es la abusiva y muy errónea utilización de ratios como relaciones causales.
+Por ejemplo, al hilo de los evidentes problemas de productividad de la economía
+española se urge a aumentar el gasto en I+D+i, ya que como es bien sabido este
+gasto respecto al producto es en España la mitad que el de la UE de los quince
+países. En efecto, con frecuencia, a la hora de definir políticas que fomenten el
+desarrollo tecnológico, es éste el indicador que se toma en consideración y, con
+carácter general, a él se le atribuye en última instancia las causas decisivas del
+desarrollo tecnológico. Es ésta una manera de pensar limitada no solo al gasto en
+I+D+i, sino también, y por ejemplo, al gasto en educación o en capital público
+productivo. De tal suerte que la conclusión que se deriva, para aquellos indica­
+dores que presentan valores inferiores a la media de la UE, es el aumento de
+gasto que nos aproxime a ella. Se piensa que, alcanzados por tal procedimiento
+estos valores medios, se habrán también alcanzado los correspondientes niveles
+de desarrollo tecnológico.
+
+63
+
+
+
+No se repara en el hecho de que hacer que una determinada magnitud
+sea el numerador de una fracción y otra el denominador no implica necesariamen­
+te una relación causal entre ambas. Se olvida que pueden estar causalmente rela­
+cionadas con otras variables no consideradas explícitamente en ese cociente, o
+simplemente que la relación causal puede fluir en la dirección contraria. Se pre­
+senta aquí, en toda su extensión, el problema de la incorrecta especificación en el
+elemental modelo econométrico lineal que representa cualquier ratio, así como
+también el de endogeneidad de las variables. Desde luego son necesarios análisis
+econométricos solventes para detectar estas relaciones de causalidad, pero, sin
+embargo, un trivial ejercicio puede poner de manifiesto lo absurdo de tales reco­
+mendaciones. Veamos.
+Si a esas conocidas tablas en las que aparece España, casi siempre junto
+con Portugal y Grecia, en los últimos lugares, le damos la interpretación alternati­
+va de ordenar los países por el indicador inverso, es decir el PIB dividido por el
+gasto, este indicador medirá la eficiencia del gasto, o lo que es lo mismo, el produc­
+to obtenido por € invertido en investigación o educación. Pues bien, en la nueva
+tabla así construida los países que antes estaban en los últimos lugares ahora esta­
+rán en los primeros. Cabría preguntarse entonces porqué exigir más gasto a aque­
+llos países que gastan mas eficientemente.
+Son bien conocidas las variables que caracterizan los bajos niveles de
+desarrollo tecnológico, y el ratio del gasto en I+D+i respecto al PIB es una de ellas.
+Afirmar solemnemente que para que España salga de esta situación tiene que
+aumentar este ratio es de muy poca ayuda para modificar la situación y, además,
+es una consideración tautológica, en el sentido de consideración inútil y viciosa.
+Obviamente, si España tuviera el mismo ratio que, por ejemplo, Alemania no esta­
+ríamos en esta situación, y no tendríamos la necesidad de conocer la respuesta a
+la pregunta relevante: ¿Cómo podemos alcanzar el nivel tecnológico de Alemania?
+Preocuparse por la solvencia de las opiniones sobre la situación presen­
+te de la economía debe ser un paso previo a cualquier intento de predicción eco­
+nómica. Difícilmente podrá realizarse una predicción con rigor si se parte de un
+diagnóstico equivocado de la situación que es el origen de la predicción. Existe un
+principio básico de la teoría de sistemas, que dice que un sistema no es controla­
+ble si no es predecible, y no es predecible si no es observable.
+Hay que diferenciar entre predicciones y opiniones sobre la situación pre­
+sente de la economía, estas últimas soportadas básicamente en la información esta­
+dística disponible. Por ejemplo, en mi intervención de hace cinco años, sobre la
+Productividad de la Economía Española, daba estrictamente una opinión cuando
+concluía: “La econ om ía española tiene un p roblem a qu e de persistir, sin lugar a
+dudas, con dicion ará su crecim iento futuro. Este p roblem a es la baja tasa de creci­
+
+64
+
+
+
+miento d e su productividad. No solo en relación con los EEUU sino tam bién con los
+países d e la UE, el diferen cial d e tasas de variación d e la produ ctividad del traba­
+j o se h a m antenido sistem áticam ente en valores negativos en los últimos siete años,
+y las tasas de variación de la produ ctividad total de los fa cto res se h an m antenido
+tam bién sistem áticam ente en valores negativos durante los últimos catorce años.
+Esta p reocu pan te situación h a qu ed ad o en m ascarad a p o r el proceso de convergen­
+cia en términos d e PIB p e r capita, qu e h a tenido lugar desde nuestro ingreso en la
+UE en 1986... H ay qu e resaltar, qu e este recorte de las diferen cias de bienestar con
+la UE se h a produ cido, básicam ente, p o r la m ayor intensidad en la creación de
+em pleo... La contribución d e la produ ctividad h a sido siempre, y desde entonces,
+negativa”. Fin de la cita.
+En efecto, en aquella intervención no estaba haciendo una predicción
+económica, estaba emitiendo una opinión a la vista de la información pública dis­
+ponible entonces, hace más de cinco años. Poco mérito tiene, por tanto, tal afir­
+mación. Otra cosa es que esa no fuera la opinión dominante en aquellas fechas, y
+que muchos diagnósticos sobre la situación económica de entonces nos llegaran a
+colocar como modelo europeo.
+Nada sustancial ha cambiado en los últimos diez años en nuestro modelo
+de crecimiento. Entre otras cosas, porque el cambio de modelo que la economía
+española indudablemente necesita, no se consigue ni en una ni en dos legislaturas,
+ya que requiere cambios estructurales e incluso culturales muy significativos, que
+afectan al funcionamiento de los mercados, a la formación del capital físico y huma­
+no, a los órganos reguladores de la actividad económica y, en fin, a la calidad de
+las instituciones. Los aspectos favorables y los adversos son, básicamente, los
+mismos antes que ahora, por eso son tan difíciles de entender las optimistas opi­
+niones de ayer y las críticas de hoy de algunos, así como los halagos de hoy y las
+críticas de ayer de otros, que de todo hay. Da la impresión que Campoamor es el
+patrón de muchos analistas económicos en España: “En este m undo traidor,
+n a d a es verd ad ni mentira, todo es según el color d el cristal con qu e se m ira ”.
+En cualquier caso, hay que reconocer que los incentivos que cualquier
+gobierno, y la sociedad en su conjunto, pueden tener, en la situación actual de la
+economía española, para asumir los costes derivados de tales cambios estructura­
+les son muy bajos. No hay que olvidar que está creciendo el triple que la europea,
+y que la tasa de paro, de acuerdo con los datos recién publicados de la encuesta
+de población activa, se ha reducido hasta el 8,4% por primera vez desde 1979,
+habiéndose generado en los últimos 12 meses 700.000 puestos de trabajo.
+Es difícil exagerar la importancia que la caída de los tipos de interés ha
+tenido en esta situación, debido al considerable estímulo que representó al consu­
+mo e inversión de familias y empresas, dando lugar a una pujante demanda interna,
+
+65
+
+
+
+con la consiguiente generación de empleo y ampliación de oferta de la economía.
+Pero también ha tenido importancia en términos presupuestarios, ya que el tanta
+veces proclamado proceso de austeridad presupuestaria y consolidación fiscal, que
+no ha existido como tal, se debe fundamentalmente a este hecho. Ésta es una afir­
+mación fácilmente contrastable cuando se considera el gasto público sin el servicio
+de la deuda y se analiza su evolución, respecto al PIB, a lo largo de los últimos años.
+Como en otras ocasiones he señalado, todo este proceso está sustentado
+básicamente en la transferencia de credibilidad hacia España que supuso nuestra
+incorporación a la UEM. Volviendo al principio de mi intervención, hay que reco­
+nocer que una acertada y sabia predicción, esta vez sí hecha a largo plazo, casi
+noventa años atrás, fue la de Ortega cuando afirmaba que Europa era la solución.
+
+IV. CONCLUSIONES
+
+El proceso de modelización debe admitir la pluralidad y diversidad de las
+metodologías econométricas y estadísticas que potencialmente pueden utilizarse,
+así como la complementariedad y en algunos casos el conflicto entre ellas, frente
+a la idea de un modelo único e incontrovertible, y la vieja creencia de que existe
+el “mejor modelo econométrico”. En fin, hay que entender el proceso de modeli­
+zación como un medio y no como un fin.
+Hemos visto, también, el definitivo papel del juicio de los analistas a la
+hora de incorporar informaciones adicionales no consideradas en los modelos, y
+hacerlas compatibles con ellos desde el punto de vista teórico y empírico. Dada
+esta situación los resultados de las predicciones son difícilmente replicables, por
+lo que sería requisito indispensable una fuerte dosis de rigor en su escrutinio a
+posteriori. Es éste, por las razones que hemos dado, un ejercicio indispensable no
+solo para mejorar pronósticos futuros sino también para mejor entender la situa­
+ción presente. Pocos son los informes que, realizados con los principios que aquí
+hemos descrito, contienen de forma regular predicciones para la economía espa­
+ñola, e independientemente de su solvencia técnica, existe una práctica ausencia
+de evaluación y crítica de sus resultados.
+Cuando aparecieron los primeros dirigibles se creyó que, a partir de enton­
+ces, se produciría una progresión lineal, en esa dirección, hacia modelos más refi­
+nados y más rápidos. Después de que el Hindenburg fuera pasto del fuego en
+1937, causando la muerte de 35 personas, las cosas empezaron a evolucionar en
+otra dirección. Hubo un momento en que lo mas lógico parecía pensar que había
+que ser mas ligero que el aire para poder volar por el cielo, pero resultó que había
+que ser mas pesado que el aire para lograr vuelos seguros y rentables. Poco hubie­
+ra progresado la aerodinámica de haber seguido por aquel camino.
+
+66
+
+
+
+La moraleja de esta historia es que también en economía, hay que tener
+mucho cuidado para no enamorarse del propio zepelín. No hay que olvidar que
+hoy su principal uso ha quedado reducido a la publicidad.
+
+REFERENCIAS
+Box, G. E. P. y G. M. J enkins (1970), Time Series Anaiysis: Forecasting a n d Control, San
+Francisco: Holden Day, tercera edición con G. C. Reinsel en 1994.
+Campbell, J. Y., A. Lo y A. C. MacK inlay (1996), The Econom etrics o f F in an cial Markets,
+
+Princeton y Oxford: Princeton University Press.
+D eJ ong , D. N. y C. D ave (2006), Structural M acroeconom ics, Princeton y Oxford: Princeton
+
+University Press, próxima publicación.
+D oucet, A. N.
+
+de F reitas y N. G ordon (2001), Sequential Monte Cario Methods in Practice,
+Berlin: Springer Verlag.
+
+Congressional B udget O ffice (2005), CBO’s Economic Forecasting Record: http://www.cbo.
+
+gov/showdoc.cfm?index=6812&sequence=0
+Fair, R. C. (1984), Specification, Estimation a n d Anaiysis o f M acroeconom etric Models,
+
+Cambridge, Massachussets: Harvard University Press.
+H ansen, L. P. y T. J. Sargent (2006), Recursive Models o f D ynam ic L in ear Economies, manus­
+
+crito, New York University: http://homepages.nyu.edu/~ts43/
+K alman, R. E. (1960), A new approach to lin ear filtering a n d p rediction problem s, Trans.
+
+ASME Journal of Basic Engineering, vol. 82, pags. 34-45.
+K im , C-J. y C. R. N elson (1999), State Space Models with Regime Switching, Cambridge,
+
+Massachusetts: The MIT Press.
+K ydland, F. E. y E. C. P rescott (1996), Ttoe com putational experiment: an econom etric tool,
+
+Journal of Economic Perspectives, vol. 10, pags. 69-86.
+Leontief, W., editor (1986), Input-OutputEconomies, Oxford: Oxford University Press, segun­
+
+da edición.
+Ljung , L. (1987), System Identification: Theory f o r the User, Upper Sadle River, N. J.: Prentice
+
+Hall, segunda edición en 1999.
+
+67
+
+
+
+Ljung , L. y T. S oderstróm (1982), Theory a n d P ractice ofR ecursive Identification, Cambridge,
+
+Massachussets: MIT Press.
+Lucas, R. E. (1972), Expectations a n d the neutrality ofm on ey , Journal of Economic Theory,
+
+vol. 4, pags. 103-104.
+N elson, C. R. (1972), The prediction p erform a n ce o f the F.R.B.-M.I.T.-Penn m odel o f the U.S.
+
+economy, American Economic Review, vol. 62, pags. 902-917.
+N orth , D. C. (1990), Institutions, Institutional Change, a n d E conom ic Perform ance, New
+
+York: Cambridge University Press.
+S lutsky, E. (1927), The sum m ation o f random causes as the source o f cyclic processes.
+
+Econometrica, vol. 5, pags. 105-146.
+Taylor, J. (1993), M acroeconom ic Policy in a World Economy: From Econom etric Design to
+
+P ractical Operation, New York: W. W. Norton.
+Y ule, U. G. (1927), On a m ethod o f investigatingperiodicities in disturbed series with special
+
+referen ceto Wolfer’s sunspot numbers, Philos. Trans. Roy. Soc. London, ser. A, vol.
+226, pags. 267-298.
+Z ellner, A. y F. Palm (1974), Time series analysis a n d sim ultan eóos equation econom etric
+
+models, Journal of Econometrics, vol. 2, pags. 17-54.
+
+68
+
+

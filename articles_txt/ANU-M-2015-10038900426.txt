@@ -1,0 +1,1275 @@
+UNA NUEVA MIRADA A LA PSICOPATOLOGÍA
+EL DSM-V Y SU SIGNIFICACIÓN HISTÓRICA
+Por el Académico de Número
+Excmo. Sr. D. Heliodoro Carpintero Capell*
+
+Acaba de producirse, en los últimos tiempos, un acontecimiento importante: la puesta en circulación de un nuevo sistema de categorías, para la clasificación de las alteraciones y trastornos psicológicos, con pretensión de su aceptación y uso por la comunidad de científicos y profesionales que se ocupan de
+esos problemas. Es la aparición de lo que se llama el Diagnostic and Statistical
+Manual of Mental Disorders editado por la American Psychiatric Association, en
+su quinta versión. Se lo conoce generalmente como DSM; y esta quinta versión,
+como DSM-V. Su lanzamiento ha tenido lugar en Estados Unidos, exactamente,
+el 18 de mayo de 2013.
+Querría presentar aquí algunas de sus líneas generales, que pueden ser
+de interés para todos nosotros, más allá de que nuestras ocupaciones nos mantengan al margen de cualquier actividad relativa al psicodiagnóstico o incluso a
+la psicología. Se trata de ver algunas cuestiones de base que hay en la ciencia
+psicológica contemporánea.
+Estos manuales ofrecen las sucesivas versiones de un sistema de categorías diagnósticas, esto es, de un sistema clasificatorio de trastornos y patologías mentales o psicológicas, con que deberían trabajar en adelante la comunidad de psicólogos, especialmente los psicólogos clínicos, y la de los psiquiatras,
+a la hora de reconocer e identificar los tipos de problemas, déficits y alteraciones que presentan los sujetos que acuden en busca de ayuda técnica y profesional de los mencionados especialistas.
+Antes de seguir adelante, debo dejar en claro que en todo lo que sigue
+me voy a limitar a la consideración del mencionado sistema clasificatorio, del
+
+* Sesión del día 28 de marzo de 2015.
+
+389
+
+
+
+que hay que destacar su especificidad para todo lo relativo a los problemas
+mentales. Existe también, y va apareciendo con sucesividad de algún modo
+paralela a la de los DSM, otro sistema de clasificación de enfermedades, ya no
+restringido al ámbito de lo mental sino omniabarcante de las patologías tanto
+orgánicas como mentales, el International Catalogue of Diseases, ICD, que está
+promovido y realizado por la Organización Mundial de la Salud (WHO), y que
+tiene también muy amplia acogida y audiencia. Precisamente una de las cuestiones que ha ido pesando a la hora de las sucesivas revisiones del DSM, que
+aquí considero, ha sido precisamente el ir ajustando y coordinando en lo posible esta taxonomía con la ofrecida por los sucesivos ICD (Del Barrio, 2003;
+Rodríguez Marin, 2003). Es un tema de interés, pero queda fuera de mi preocupación y objetivo actuales. Solo incidentalmente volveré, tal vez, a hacer alguna
+referencia a este otro instrumento.
+Una de las tareas constantes en el quehacer del psicólogo es el conocimiento y evaluación de personas. Son su principal materia de trabajo. Las
+selecciona para determinados puestos, atiende a sus inquietudes y desajustes,
+les aconseja en sus decisiones, procura aliviarles en sus angustias y depresiones,
+y , para poder hacer todo esto, tiene que saber cómo aprenden, cómo piensan,
+cómo controlan sus emociones, cuáles son sus metas y aspiraciones, cómo se
+relacionan con el entorno.
+Por eso es para él esencial conocerlas, y en cuanto las vidas de sus
+clientes padecen de algún trastorno, ha de saber qué les afecta, no ya para iniciar un tratamiento, sino , para algo aún más básico, para saber cómo relacionarse eficazmente con ellos y devolverlos , en lo posible, a la normalidad.
+Y aún más relevante y perentorio es el problema en el caso de la psicopatología. En efecto, ahí se trata siempre de determinar la índole de unas alteraciones, —vivencias muchas veces pero no siempre, pues hay alteraciones que
+no van acompañadas de experiencia subjetiva del paciente—, pero siempre procesos que tienen una huella o impronta sobre la conducta , y en muchas ocasiones, alterando incluso su vivir consciente.
+Todo proceso de conocimiento implica la existencia de representaciones o conceptos con los que distinguir los fenómenos por ellos representados,
+así como la posesión de unas categorías dentro de las cuales se pueda incluir
+aquellos, de manera que se establezcan relaciones de semejanza y diferencia, de
+dependencia y fundamentación, de inclusión o exclusión en las mismas. El conocimiento científico, por supuesto, trata de construir conceptos sobre los objetos
+empleando notas o rasgos definidos, fundados en elementos objetivos observables y describibles, de manera que sea posible una convergencia intersubjetiva
+que permita la comunicación, la replicación, el acuerdo y la formulación de discrepancias controlables y resolubles, sobre las que establecer procesos de verificación y de falsación. Se trata de que cuando un sujeto habla de algo que
+
+390
+
+
+
+conoce, aquello que dice, sus enunciados, puedan ser puestos en correspondencia con el objeto y los demás sepan y comprueben aquello que se dice.
+Cuando se conoce, se trata ante todo de poder relacionar unos objetos
+con otros y operar sobre ellos, gracias al conjunto de características y relaciones
+que nuestras representaciones nos ofrecen, y sobre las que nos apoyamos para
+fundar nuestra conducta. De ahí la importancia de los sistemas de categorías que
+empleamos para agrupar y ordenar nuestros conocimientos según los tipos distintos de fenómenos, objetos o eventos de una determinada índole común.
+Precisamente, el campo de la psicopatología es un campo amplio, que
+abarca innumerables alteraciones que conocemos y diferenciamos entre sí, y
+respecto de las cuales adoptamos diferentes modos de tratarlas con objeto de
+reducirlas, y en lo posible, eliminarlas. Y con ello, procuramos hacer lo que los
+clientes demandan de los terapeutas: que les libren de los padecimientos o
+molestias, y les devuelvan un estado perdido de bienestar y salud.
+Es fácil comprender cuánta es la importancia del sistema categorial que
+se vaya a usar por parte de los psiquiatras, los psicólogos y los psicoterapeutas
+en general. En los procesos diagnósticos, hay una esencial dimensión que es el
+conocimiento diferencial. La primera operación consiste, por fuerza, en agrupar
+procesos u objetos en función de cualidades y propiedades comunes. Es resultado de la tendencia a agrupar las cosas en función de sus semejanzas. Pero tan
+importante como ésta es aquella otra que se fija en la existencia de elementos
+críticos, o mejor diacríticos, que permiten la diferenciación objetiva de procesos
+u objetos que guardan entre sí unas diferencias relevantes que impiden identificarlos. En estos casos se llevan a cabo distinciones mediante la adopción de
+una perspectiva diferencial. Y con ello, se trata de lograr la correcta identificación del fenómeno que tenemos delante.
+Siempre ha sido esencial disponer de un adecuado sistema categorial.
+Con él, lo que entre sí puede unirse se une, y lo que no, se separa. No tomamos unas cosas por otras. En nuestro caso, conseguimos diferenciar las distintas
+patologías, y las podemos tratar con el método más ajustado. Esto da una importancia muy grande al establecimiento de un sistema categorial dentro de una
+ciencia, y esto viene a suceder igualmente en el campo de la psicopatología.
+LAS PRIMERAS CLASIFICACIONES
+Fue en el siglo XIX cuando se fueron gestando las primeras clasificaciones de los trastornos mentales realizadas de acuerdo con criterios científicos.
+Semejante avance lo hizo posible la transformación de los ‘alienados’, encerrados en manicomios para protección de la sociedad, en ‘enfermos’ a los que
+había que tratar con humanidad, buscando su alivio y curación.
+
+391
+
+
+
+Téngase presente que, a principios de aquel siglo, Philippe Pinel (17451826), en Francia, en los días de la Revolución, había dado pasos decisivos para
+hacer de los manicomios verdaderos centros hospitalarios, donde se trataban
+enfermos, incapaces de valerse por sí mismos, y con unas facultades mentales
+alteradas que requerían de la asistencia de la sociedad. Estaba preocupado ante
+todo por cuestiones relativas al tratamiento, que a sus ojos había de ser naturalista y humano. Los pacientes en muchos lugares eran todavía vistos como poseídos por espíritus malignos, por lo que se les negaba la condición propia del
+enfermo que sufre un trastorno de salud. Desde la nueva visión naturalista, Pinel
+vino a reconocer la existencia de cinco categorías de trastorno (melancolía,
+manía sin delirios, manía con delirios, demencia e idiotismo y debilidad mental) (Morales Meseguer, 1974,VI, 218; Nicolas, 2002, 44) De esta suerte, se
+comenzó a humanizar el campo de aquellas enfermedades, dándoseles a quienes las sufrían la condición de pacientes, y reconociendo la condición morbosa
+de aquellos procesos, tan profundamente perturbadores de la naturaleza
+humana.
+La gran aportación que vino a ordenar el campo, ya a finales del siglo,
+fue obra de Emil Kraepelin (1855-1926), gran figura de la psiquiatría germana,
+quien estableció con éxito un sistema que encontró muy pronto difusión entre
+los especialistas. No es un azar que este gran teórico de la nosografía psiquiátrica se formara en el mundo inicial de la psicología experimental, concretamente en el laboratorio de Wilhelm Wundt, en Leipzig, con todo lo que ello
+conllevaba de rigor conceptual e investigador. Conviene tener presentes las condiciones de aquel logro.
+En aquel sistema, se conjugaban unas variables relativas a las causas del
+padecimiento, con otras referidas a su naturaleza global. En cuanto a las causas,
+señaló la existencia de una serie de trastornos de índole endógena, resultantes
+de cambios internos en el organismo —por herencia, alteración metabólica o
+endocrina, o lesión cerebral— y otros de naturaleza exógena, debidos a acciones agresivas del medio sobre el organismo. Trató, en suma, de organizar y clasificar los diferentes síndromes (Pichot, 1983 b, 71 y ss.)
+Su clasificación tomaba en consideración el que unos trastornos se
+debieran a ‘traumatismos cerebrales’, ‘encefalopatías orgánicas’ (esto es, procesos orgánicos cerebrales), ‘intoxicaciones’, ‘enfermedades infecciosas’, (y se
+segregaba aquí como una categoría independiente, la ‘sífilis’, que unos años
+después se reconoció como un proceso infeccioso debido a una cierta bacteria; siguen los procesos arterioescleróticos y de regresión (los problemas seniles), y tras ellos, los grandes síndromes: epilepsia, demencia precoz (luego llamada esquizofrenia), psicosis maniaco-depresiva, psicopatías; reacciones
+psicógenas (incluida la histeria), paranoia, oligofrenia, y una última categoría,
+de “casos obscuros” (Mira, 1935, 251 y ss.).
+
+392
+
+
+
+La clasificación, aunque mezclaba perspectivas etiológicas con otras
+puramente descriptivas nosológicas, fue utilizada ampliamente porque permitía
+clasificar, identificar e iniciar un tratamiento ante la inmensa diversidad de patologías. Su autor había advertido que, aunque un síntoma puede darse en distintos cuadros clínicos o síndromes, lo importante era que aquellos al cabo integraban un conjunto definido y determinado, que los singularizaba y los definía
+como una cierte especie morbosa.
+Con todo, fue un avance con muchas limitaciones. La prueba es que,
+ya a comienzos de 1930, un gran psiquiatra y psicólogo español, Emilio Mira y
+López (1896-1964), al tratar acerca del tema de las clasificaciones psiquiátricas,
+hubo de reconocer las deficiencias que rodeaban a la cuestión, y la dejaban
+falta de una verdadera fundamentación. Decía Mira:
+“Una clasificación solamente puede hacerse bien cuando se conocen suficientemente los objetos que han de ser clasificados. Desgraciadamente en el
+estado actual de nuestros conocimientos hemos de confesar que ignoramos la
+verdadera naturaleza de buen número de psicosis, y solamente podemos asentar
+hipótesis acerca de la etiopatogenia de una mayoría de los síntomas psíquicos…”
+Y añadía: “En la imposibilidad de realizar una clasificación a base de un
+criterio exclusivamente anatomopatológico o psicológico, la generalidad de los
+autores se resigna a una enumeración de las formas nosológicas observadas,
+agrupándolas de un modo más o menos arbitrario…” (Mira, 1935, 350).
+Esto sucedía más de medio siglo después del intento kraepeliniano, lo
+que nos da una idea del valor, y al tiempo, de las limitaciones de fondo a que
+su autor hubo de hacer frente.
+No vamos a perseguir la evolución del sistema de Kraepelin. A nuestro
+propósito basta notar que aquella sistematización partía de reconocer las grandes lagunas que tenía el conocimiento de la enfermedad mental, y que había no
+sólo pluralidad de formas, sino pluralidad de causas, internas unas y externas
+otras, de modo que el mosaico de trastornos carecía de unidad. Había que asumir la ignorancia y remitirse a un análisis observacional de los distintos casos,
+aceptando la condición puramente empírica de nuestro conocimiento. Los problemas de los trastornos mentales crecieron, además, mucho con las grandes crisis sociales vinculadas a las grandes guerras de la primera mitad del siglo XX.
+Cada vez fue más necesario disponer de una taxonomía, de acuerdo a la cual
+ordenar la información y la observación empírica. La necesidad de tener estadísticas, de conocer la situación de la salud mental social, y la repercusión del
+esfuerzo bélico en el estado anímico de combatientes y de ciudadanos en general, empujó hacia la ordenación sistemática de los datos en categorías cognitivas, lo que marcó un jalón fundamental en el desarrollo del saber acerca de la
+enfermedad mental (González de Rivera, 1998, 198).
+
+393
+
+
+
+LA INICIACIÓN DE LOS SISTEMAS DSM.
+El crecimiento del campo psicológico y psiquiátrico ha sido un hecho
+notorio dentro de las transformaciones socioculturales del siglo XX. A ello no
+han sido ajenos en modo alguno ni las grandes transformaciones de la vida en
+las sociedades desarrolladas, ni, de otra parte, el enorme impacto de la psicopatología dinámica, singularmente por obra del psicoanálisis de Freud. Con su
+concepto de la existencia de una “psicopatología de la vida cotidiana” y su análisis del fenómeno de la sexualidad humana, reveló la enorme extensión de lo
+patológico, abarcador de fenómenos antes no tenidos en cuenta. Las equivocaciones, los olvidos, los lapsus linguae, las alteraciones emocionales, consideradas durante siglos como simples cambios de humor, toda una serie de procesos vitales de las personas, más frecuentes en unas, menos en otras, se
+`medicalizaron’ al aparecer como procesos de alteraciones funcionales —“neurosis”, “depresión”, “neurosis de ansiedad”—, cuyo trasfondo de patología y
+anormalidad obligaba a estudiarlos y a tratarlos, poniendo fin a una desatención
+que se revelaba como peligrosa .
+La interpretación nosológica de múltiples facetas de la vida antes no
+consideradas anormales, y los desarrollos paralelos de una psicologización de
+las vidas tanto privadas como públicas se potenció en gran medida como resultado de la creciente aparición de fenómenos nuevos como la publicidad, los
+dramas cinematográficos o la intervención de los medios de comunicación de
+masas que difundieron las nuevas concepciones psicoanalíticas entre las gentes.
+Se fue haciendo cada vez más frecuente el recurso a una serie de profesionales
+—psiquiatras y psicólogos clínicos— que se ocupaban del tratamiento de alteraciones y perturbaciones a las que era preciso identificar y denominar de modo
+consistente. Esto exigía la constitución de una taxonomía, que, tras su elaboración y estandarización, permitiera la consolidación de la intervención de los
+nuevos profesionales, y que, de otra parte, facilitara la existencia de datos estadísticos acerca de la presencia de los trastornos mentales en las sociedades,
+cada vez más implicadas en el nuevo campo de la salud mental.
+En todo este movimiento, el mundo americano tomó la delantera al
+resto de países occidentales. Allí la psicología, y en particular la clínica, así como
+la psiquiatría, habían cobrado gran relevancia social desde la Primera Guerra
+Mundial, y aún más tras la Segunda, donde se dieron en abundancia los trastornos psicológicos. La necesidad de unas tablas clasificatorias que facilitaran los
+trabajos estadísticos y la comunicación entre profesionales se fue haciendo muy
+aguda. De ahí nacieron toda una serie de intentos previos al sistema actual.
+El origen remoto se remonta a mediados del siglo XIX, y a la necesidad
+sentida en la sociedad americana de establecer estadísticas fiables acerca de la
+incidencia y prevalencia de los diferentes tipos de trastornos que venían siendo
+tratados por los diferentes grupos de clínicos. Hubo un primer censo, de 1840,
+
+394
+
+
+
+que incluía solo dos categorías de trastornos, ‘idiocia’ (idiocy) y ‘locura’ (madness) (Del Barrio, 2003), pero pronto fue tachado de inválido y erróneo, por un
+grupo de profesionales de la estadística. En 1880 se manejaron ya siete categorías para hacer el censo de enfermedades mentales.
+Desde 1844, los especialistas de psiquiatría, que habían de ocuparse de
+este tipo de pacientes, organizaron una asociación, (“Association of Medical
+Superintendents of American Institutions for the Insane”), que, con los años, y
+tras alguna peripecia, vino a constituir, en 1921, la actual “American Psychiatric
+Association”, editora de los DSM.
+Ya en el siglo XX, el Comité Nacional de Higiene Mental dio a luz su Statistical Manual for the use of Institutions for the Insane (1918), con reglas para elaborar estadísticas de este tipo de pacientes, con atención a su trastorno y a sus
+datos demográficos (Clegg, 2012, 365); tenía veintidós categorías principales, y
+fue, en opinión de Grob, “la nosología definitiva en los años de entreguerras”
+(Grob,1991,426). Tuvo diez ediciones entre 1918 y 1942 (Kirk y Kutchins, 1992,
+26). En 1935, el Statistical Manual… se incorporó a la primera clasificación hecha
+por la “American Medical Association”, que se publicó con el título de Standard
+Classified Nomenclatura of Diseases (Kirk y Kutchins, ibidem).
+Al acabar la II Guerra Mundial, se dejó sentir la necesidad de un sistema
+clasificatorio bien construído. En la guerra, los problemas psiquiátricos se cobraron un número muy alto de combatientes, y dejaron secuelas importantes en
+muchos veteranos, que plantearon problemas a la hora de su clasificación, y
+obligaron a establecer por lo pronto un sistema de categorías en el ejército y otro
+en la marina para sus propios usos. Al terminar el conflicto, el tema de la clasificación hubo de afectar también a la organización de veteranos de guerra, forzada a ocuparse de gran número de afectados. Como resultado de todas esas
+demandas, la “American Psychiatric Association” propuso crear un comité de
+expertos, encabezados por William C. Menninger, que debía crear un sistema
+unificado de clasificación, sistema que debería irse revisando a medida que
+avanzara el conocimiento científico de la psicopatología (Pichot, 1983, xi).
+Ese comité publicó en 1946 un documento, Medical 203, que trataba de
+facilitar en el ejército la clasificación de ‘desórdenes’ genéricos y ‘reacciones’
+desajustadas más específicas. Su concepto básico de un trastorno mental era el
+propio de una ‘reacción’ anormal o inadaptativa, respuesta dinámica con que se
+enfrentaba el sujeto a circunstancias perturbadoras de su adaptación a su
+mundo. Era un concepto defendido enérgicamente por el psiquiatra Adolf
+Meyer, que influyó ampliamente en la psiquiatría americana de aquellos días
+(Glegg, 2012, 365).
+Este trabajo allanó el camino hacia una ulterior clasificación más completa y elaborada. Fue, en fin, en 1952, cuando la “American Psychiatric Asso-
+
+395
+
+
+
+ciation” hizo público su primer sistema taxonómico de enfermedades mentales,
+el DSM–I, abriéndose una época nueva en el campo de la psicopatología.
+DSM-I, Y SU EVOLUCIÓN
+La existencia de un manual clasificatorio, que esto y no otra cosa son los
+sucesivos sistemas que se han venido ofreciendo a la comunidad científica, puede
+parecer una mera cuestión de claridad conceptual y de consolidación de un lenguaje científico estandarizado con que referirse a los trastornos mentales. Sin
+embargo, es mucho más que eso. Es un factor operativo de primera magnitud
+dentro del campo amplísimo de la higiene mental y la política sanitaria de un país.
+Supone, por lo pronto, que ciertos síndromes o acontecimientos biográficos experimentados por las personas son clasificados como enfermedad, o
+no lo son. Y si lo son, ello pone en marcha toda una serie de procesos sociales
+que entrañan bajas laborales, aportaciones de las compañías aseguradoras,
+indemnizaciones, licencias profesionales, prescripción de medicamentos, gastos
+farmacéuticos, iniciación de procesos de tratamiento, hospitalizaciones, reclusiones, problemas jurídicos de orden diverso, incapacitaciones legales, entre otras
+muchas cosas. Es decir, se pone en marcha una enorme maquinaria que opera
+en las sociedades de bienestar, y que afecta a las personas, las familias, las
+empresas, y hasta los estados. Todo eso pende de cuáles hayan sido las líneas
+de corte de la patología o la normalidad en las diferentes alteraciones reconocidas que el sistema taxonómico incluye y define. Se trata pues de un sistema de
+conceptos, o taxonomía, que termina por tener enormes implicaciones sociales.
+Los cinco DSM aparecidos hasta la fecha, —con algunas revisiones de
+menor alcance intercaladas en la serie— cubren algo más de medio siglo de
+investigación y estudio, desde 1952 hasta el muy reciente de 2013. Comenzaron
+siendo obra de unas comisiones, y luego se convirtieron en trabajo de numerosos equipos, especializados e interconectados, en contacto con otros muchos
+profesionales, buscando lograr una amplia base de conocimiento empírico sobre
+el que basar su obra.
+Los sucesivos equipos han hecho trabajos originales, y han ido reformando las taxonomías hechas por los grupos precedentes. Baste advertir cómo
+ha ido subiendo el número de ítems clasificadores que han ido proponiendo a
+los profesionales. De acuerdo con la estimación ofrecida por Sandin, el DSM I
+admitió 106 trastornos diferentes; el DSM II pasó a proponer 137; el DSM III
+incluyó 182; el siguiente, DSM IV, admitió 220, y en fin, el último, DSM V, recoge
+216 (Sandín, 2013,256) .
+Tal variación no es sólo resultado de una labor de precisión y de más
+fina discriminación, sino que es también fruto de diferencias en las concepcio-
+
+396
+
+
+
+nes teóricas de base, que van modulando el sentido crítico y sobre todo, matizan e introducen variaciones en los conocimientos incorporados (Kira y Kutchins, 1992, 214).
+En su versión actual, su definición de base, a todos los efectos, es la
+siguiente: ”Un desorden mental es un síndrome caracterizado por una perturbación clínicamente significativa del conocimiento, la regulación emocional o la conducta de un individuo, que refleja una disfunción en los procesos psicológicos,
+biológicos o evolutivos que subyacen al funcionamiento mental” (APA, 2013, 20).
+En efecto, por anormalidad psíquica se entiende, de modo muy amplio,
+aquellos procesos, estados o actitudes que son estadísticamente infrecuentes o
+raros, y entrañan conocimientos, afectos o conductas que son maladaptativos
+para la persona en relación con su entorno, que están en desacuerdo con las
+expectativas sociales, y producen malestar o sufrimiento al individuo o a quienes le rodean. Lo anormal es, pues, definido en función de la cultura dominante, como algo raro o marginal, y a la vez, como algo doloroso o perjudicial
+para quien lo experimenta (Duncan, 2014). Pero, como se ha señalado también
+repetidamente, no basta con que haya desajuste social, lo que podría ser interpretado como pura ‘desviación social’, sino que ha de haber también a la base
+algún tipo de “disfunción biológica, psicológica o conductual”, que perturbe la
+vida de la persona (APA, 1983, 8). Son procesos que afectan al hombre como
+un todo, y que implican, en varia medida, a su doble dimensión natural y social.
+Ahí se ve, con claridad, junto a su funcionalidad adaptativa, la esencial
+historicidad de las vivencias y conductas patológicas, que se halla a la base de
+la variación del sistema clasificatorio de estos manuales.
+El primer Diagnostic and Statistical Manual of Mental Disorders fue obra
+de una comisión de expertos, encabezada por George N. Raines (n. 1908), y creada por la “American Psychiatric Association”. Esta asociación ha editado, también, las sucesivas ediciones, y mantiene la propiedad intelectual de esos catálogos, lo que, dicho sea de paso, le ha proporcionado una singular preeminencia
+intelectual en el campo clínico, y unos cuantiosos beneficios editoriales por su
+publicación.
+Los antecedentes de este primer sistema —DSM I— son bien conocidos,
+y nos hemos referido a ellos hace unos momentos. Lo grave es que, frente a la
+experiencia de la guerra, los documentos de que hasta entonces se disponía
+resultaban totalmente insuficientes.
+Por ejemplo, cuando se elaboró el DSM I, los autores hicieron ya notar
+que las clasificaciones hasta entonces manejadas eran inadecuadas: “solo un
+10% del total de casos vistos [en las Fuerzas Armadas en la II Guerra Mundial]
+entra en alguna de las categorías empleadas ordinariamente en hospitales men-
+
+397
+
+
+
+tales públicos… Los psiquiatras se encontraron operando dentro de los limites
+de una nomenclatura que no estaba específicamente diseñada para el 90% de
+los casos que manejaban” (APA, 1952, p. VI). La nueva y dramática experiencia
+de la guerra había ido mucho más allá de los límites del cuadro de patologías
+que había resultado suficiente dentro de los límites de la vida normal. Se había
+intentado paliar con remedios de urgencia, como el documento “Medical 203”
+ya mencionado, y algún otro posterior, pero lo que se requería era la tarea de
+estudio y sistematización, con amplia base empírica, que condujera a la construcción de un verdadero sistema calibrado para la nueva situación. Es lo que
+se pedía del futuro DSM I.
+En este momento, los grupos operantes dentro de la psiquiatría americana
+se hallaban muy influidos por una concepción psicoanalítica cuyo predominio
+había ido creciendo en los años precedentes. La fuerte corriente psicodinámica se
+venía a sostener sobre tres pilares: “la concepción del hombre como un todo, la
+adopción de un ‘concepto genético-dinámico de los desórdenes mentales’, y la
+inseparable relación de la psiquiatría y la medicina… con el reconocimiento de
+los ‘factores emocionales en la enfermedad’” (Grob, 1991,429). Desde dicha teoría se había creído poder esclarecer los innumerables casos de ‘neurosis de guerra’ que afectaron a veteranos y excombatientes del conflicto mundial. Al parecer,
+en torno a un 60% de soldados afectados por problemas neuropsiquiátricos estaban a los pocos días en disposición de volver a las filas, sometidos a un tratamiento de análisis psicológico, descanso y alimentación (Grob, 1991, 427).
+En su realización, los editores partieron del trabajo que ya se había reunido al elaborar la WHO su International Classification of Diseases, (ICD-6, de
+1948). El resultado fué un sistema taxonómico, que tomaba en cuenta tanto elementos biológicos como sociales y psicológicos, y que consideraba el trastorno
+mental básicamente como una determinada respuesta anormal a una experiencia vivida por el paciente. Lo integraban tres grandes categorías de desórdenes:
+las psicosis orgánicas, las neurosis psicógenas y los trastornos del carácter (Sandín, 2013, 256). Más todavía: los distintos síndromes psiquiátricos vendrían a
+reducirse a “un proceso psicosocial básico: la incapacidad (failure) del individuo sufriente para adaptarse a su entorno” (Wilson, 1993, 400). Tales fallos adaptativos podrían variar en intensidad, pero su esencia última sería la misma: la
+existencia de un conflicto en la estructura psicofísica de la persona.
+Con la adopción de estos puntos de vista, la tradición biológica y somaticista precedente, de corte kraepeliniano, dio paso a unas nuevas perspectivas
+psicodinámicas y psicoanalíticas, que habían logrado un ascendiente creciente
+entre el mundo de los profesionales de la psiquiatría americana, a mediados del
+siglo XX. (Kira y Kutchins, 1992, 27).
+Ya hemos dicho que a la base de tal concepción se encontraba la teoría de la “reacción” de Adolf Meyer (1866-1950). Esta sería una respuesta a un
+
+398
+
+
+
+conflicto o conflictos que afectan a la persona, en función de una pluralidad de
+factores —sexuales, sociales y ambientales— que estarían operando en la vida
+del individuo (Leys, 1990, 44); los trastornos serían, pues, tipos de procesos
+reactivos ante experiencias vividas, constitutivas de la historia del individuo, con
+una doble faz, orgánica y psicológica, y con una etiología multidimensional; los
+síntomas reflejarían las condiciones dinámicas subyacentes, o las reacciones a
+problemas vitales difíciles (Mayes y Horwitz, 2005). Y la pregunta última, decisiva, que había de hacerse el terapeuta, sería: “¿Qué hay detrás del síntoma?”
+(Wilson, 1993, 400). Podría haber un desajuste fundado en un problema de origen cerebral —agudo o crónico—; o bien una perturbación en el proceso del
+desarrollo del individuo -el retraso mental-, o, en fin, algunos desórdenes funcionales sin clara raíz en alteraciones cerebrales, donde se incluían los desórdenes psicóticos —esquizofrenia, paranoia, manía—, desórdenes psiconeuróticos,
+o psicosomáticos, o de personalidad; pero en todos los casos, habría allí un
+conflicto impidiendo la vida normal y suficiente, cuya esencia es una, aunque
+sus intensidades puedan ser muy diversas. Este primer DSM incluía 106 trastornos en su catálogo.
+El manual tuvo un impacto limitado, y generó considerables críticas.
+Una de ellas fue puntual pero muy relevante. El sistema produjo un singular
+revuelo, porque había incluido la ‘Homosexualidad’ como trastorno sociopático
+de personalidad dentro de las Desviaciones sexuales. Ello generó un fuerte
+movimiento de grupos sociales relacionados de uno u otro modo con el hecho
+de la homosexualidad, que terminaron por imponer su opinión, como enseguida veremos.
+También se objetó que respecto de muchos diagnósticos, el acuerdo
+entre distintos evaluadores era muy bajo (Smith and Fonda,1952); que no especificaba los criterios con que se había establecido la taxonomía (Eysenck ,1952;
+Cattell, 1957); otros señalaron problemas de fiabilidad de los juicios clínicos,
+(esto es, que no se mantuviera un diagnóstico a traves de sucesivas entrevistas
+con un mismo paciente), y también hubo problemas con la confección de un
+programa de computador para su uso, lo que obligó a revisar el manual de uso
+del sistema (Spitzer & Endicott’s DIAGNO ,1968).
+Pero en todo caso, alguna de esas impugnaciones sociales —en especial la relativa a la homosexualidad— se convirtió en un factor de publicidad que
+dio relevancia al nuevo sistema, al convertirlo en diana de una potente discusión ideológica, que hizo que la sociedad se enterara de la aparición de aquel
+nuevo código psicopatológico, que generaba tantas protestas de ciertos grupos
+activistas sociales.
+
+399
+
+
+
+DSM-II (1968)
+Y EL ESTALLIDO CRÍTICO
+Unos cuantos años después, se presentó una nueva versión del sistema.
+El psiquiatra Morton Kramer (n. 1914) encabezó el comité editor. Se habían añadido nuevas categorías, hasta un total de 137 (Sandín, 2013, 256). Representa
+una versión retocada y depurada de la taxonomía precedente (APA, 1968). Aquí
+todavía mantienen su predominio las ideas psicoanalíticas, aunque se prescindió
+en gran medida del concepto de “reacción” de Meyer, y de su idea de la enfermedad mental como reacción patológica de la personalidad a ciertos problemas
+vitales. Se ha podido decir, no obstante, que tanto el DSM-I como el DSM-II están
+basados en “la psiquiatría psicodinámica dominante” en los Estados Unidos por
+aquellas fechas (Mayes y Horwitz, 2005; Clegg, 2012,366). Pero también los editores decidieron evitar términos que implicaran una determinada teoría, de modo
+que el sistema del manual resultara asumible sin grave problema desde posiciones conceptualmente muy diversas (Millon, 1986, 35). Y este rasgo iba a consolidarse como una nota distintiva de los sucesivos manuales del APA.
+Un primer factor que impulsó la revisión fue el deseo de aproximar
+esta clasificación a la taxonomía médica del International Classification of Diseases (ICD), que en su versión entonces más reciente (ICD-8, 1967) había
+tenido notable éxito. Pero además, ciertos acontecimientos hubieron sin duda
+de incidir de modo crítico sobre esta obra clasificadora, que daba una visión
+‘clásica’ del panorama propio de la enfermedad mental. Desde distintos ángulos estalló la crítica, que iba a obligar a una profundización de los fundamentos sobre los que los manuales venían moviéndose.
+Uno fue el surgimiento, a fines de los años 60, del movimiento de la
+‘antipsiquiatría’, con figuras como Thomas Szasz , David Cooper o James Laing.
+Szasz (1920-2012), en Estados Unidos, defendió con vehemencia lo que consideraba ‘el mito de la enfermedad mental’, entidad a la que negaba valor nosológico, y que situaba, en cambio, en el marco de los procesos expresivos metafóricos. La supuesta entidad de la enfermedad sería solo un producto de la
+intervención de un control dominante sobre la situación social de desajuste
+vivido por un paciente, en un contexto que impone sus criterios y expulsa y persigue a quienes no se avienen a seguirlos. Como escribió en 1966, “clasificar a
+una persona psiquiátricamente es humillarla, despojarla de su humanidad, y así
+convertirla en una cosa” (Szasz, 1966, 162). Para él, ‘etiquetado’, o sea, ‘clasificación’, equivalía a ‘cosificación’. David Cooper (1931-1986), en el Reino Unido,
+vino a afirmar que la psiquiatría no era sino un instrumento de control y represión ejercido por las sociedades capitalistas contra quienes se atrevían a desafiarlas; su libro Psiquiatria y antipsiquiatría, aparecido en 1967, vino a alimentar
+la polémica que rechazaba instrumentos como los DSM, manuales que regulaban y estandarizaban el funcionamiento del sistema impositivo que se buscaba
+derribar.
+
+400
+
+
+
+Por otro lado, la creciente ola de rechazo a la concepción patológica y
+medicalizada de la homosexualidad, en el mundo occidental, y en el americano,
+con más precisión, se había de combinar con la línea de oposición antipsiquiátrica mencionada, cuestionándose con violencia a los autores de la obra sistematizadora.
+Por otra parte, en Estados Unidos, el amplio sector de la psicología
+comportamental, de raíz conductista, había visto crecer el complejo campo de
+la terapia de conducta, que aparecía llena de posibilidades. En él se partía de
+ver los desórdenes mentales como conductas maladaptativas aprendidas, y centraba su preocupación en diseñar procedimientos adecuados para inhibir el
+rasgo inadaptativo o patológico, y consolidar una respuesta alternativa adecuada
+(Ullman y Krasner, 1969). Además, se excluía de raíz cualquier ‘sustancialización’
+del trastorno o supuesta medicalización de algún tipo de entidad patógena
+oculta e interna al sujeto, y se propugnaba una visión del diagnóstico y la terapia centrada en una mecánica mental asociativa, y un proceso social de relación
+entre paciente y terapeuta.
+No es, pues, de extrañar que, por un lado, al reimprimir el volumen del
+DSM-II en 1974, los autores cedieran a la presión ambiente, y aceptaran eliminar la homosexualidad de entre las patologías y desviaciones sexuales. Ello vino
+a representar un paso importante en la asunción de un modelo psiquiátrico
+social historicista, y del papel clave que en el reconocimiento de la anormalidad juegan las vigencias y expectativas sociales, dentro de un modelo donde las
+concepciones estadísticas de lo ‘normal’ y lo ‘anormal’ han llegado a cobrar
+valor decisorio.
+Hubo también estudios de tipo metodológico que enfatizaron una apreciable baja validez concurrente del sistema propuesto, dado el alto índice del
+desacuerdo entre profesionales a la hora de establecer diagnósticos con sus
+categorías. Los estudios empíricos de una serie de investigadores vinieron a evidenciar que la posibilidad de que dos psiquiatras coincidieran en un diagnóstico sobre un paciente no superaba el nivel del puro azar (Kendler et al. 2010,
+134). Todos estos reparos, en definitiva, iban a hacer inevitable una revisión a
+fondo del sistema clasificatorio de los DSM.
+Se vio necesaria una reconsideración general de los criterios básicos de
+diagnóstico de la enfermedad mental. Varios autores propusieron, para catorce
+trastornos —esquizofrenia, personalidad antisocial, depresión, etc.— unos criterios básicos que habrían de cumplirse si se iba a asignar un diagnóstico positivo en el caso de un paciente determinado. Son los llamados “Criterios Feighner”, que tuvieron una amplísima aceptación (Kendler et al. 2010). También se
+hicieron esfuerzos por estandarizar los protocolos de entrevista, para dar consistencia intersubjetiva a las historias clínicas (Kira y Kutchins, 1992, 51 ss.). Y
+ello condujo en la década siguiente al proceso de elaboración de un nuevo sis-
+
+401
+
+
+
+tema, buscándose con ello una superación a fondo de los problemas señalados
+por la crítica. El logro a construir vino a ser un nuevo manual, el DSM-III.
+LA REFORMA DEL SISTEMA. EL DSM-III
+En 1980, después de un amplísimo trabajo de numerosas comisiones y
+grupos de especialistas, muchos de ellos extranjeros, concentrados sobre los
+diferentes temas que integraban la panoplia de trastornos y perturbaciones, la
+“American Psychiatric Association” dio luz verde a la publicación de un nuevo
+sistema clasificatorio, con plena conciencia ya de que la obra iba dirigida a un
+público realmente internacional.
+La dirección de los trabajos la asumió uno de los mayores expertos en
+este tipo de cuestiones, Robert Spitzer (n. 1932), quien además consiguió que
+en la tarea se interesaran y colaboraran toda una serie de organizaciones, psiquiátricas y psicológicas, de forma que no quedara fuera ninguno de los puntos de vista relevantes a la hora de sistematizar los conocimientos psicopatológicos. Mencionemos, entre otras, la “Academy of Psychiatry and the Law”, la
+“American Academy of Child Psychiatry”, la “American Academy of Psychoanalysis”, la “American Association of Chairmen of Departments of Psychiatry”,
+la “American College Health Association”, la “American Orthopsychiatric Association” y la “American Psychological Association”. Quiere esto decir que convergieron en la tarea psicólogos y psiquiatras, concentrados todos en la tarea del
+esclarecimiento y ordenamiento de los trastornos psicológicos básicos.
+La elaboración del nuevo manual vino a tomar en cuenta los nuevos criterios, así como los avances en psicometría que mejoraban el nivel de partida
+de la nueva sistematización.
+Se tomaron en cuenta 182 síndromes, en lugar de los 137 anteriores
+(Sandín, 2013, 256). No sólo se recogían los diferentes tipos de trastornos que
+cabe diferenciar, sino también aquellos aspectos que son relevantes para el terapeuta cuando ha de emprender un tratamiento o recuperación: los niveles de
+intensidad y gravedad de la perturbación que hay que tratar, o la base empírica
+sobre la que se funda la diferencia entre unos y otros padecimientos. También
+se buscó establecer la mayor compatibilidad y acuerdo con la clasificación paralela ICD, (el International Classification of Diseases ,ICD-9 , 1975-78) de la Organización Mundial de la Salud, (WHO). Aunque existió desde un principio la preocupación por evitar discrepancias y desacuerdos entre los dos sistemas, esto
+solo cobró plena vigencia tras la reforma que ahora comentamos.
+Resumidamente, los diferentes síndromes se vinieron a clasificar en
+‘Trastornos mentales orgánicos ‘con etiología bien segura; ‘trastornos mentales
+orgánicos con etiología supuesta o desconocida’, y ‘otros trastornos’ —síndro-
+
+402
+
+
+
+mes psicóticos, trastornos afectivos, de personalidad, psicosexuales, etc.— (APA,
+1983). Cada trastorno es delimitado mediante la detección de algunos signos
+describibles del mismo. Por ejemplo, si se presume un trastorno de déficit de
+atención en un niño, el manual indica que deberán darse “al menos, tres de los
+síntomas siguientes: 1) a menudo no puede acabar las cosas que empieza; 2) a
+menudo no parece escuchar; 3) se distrae con facilidad; 4) tiene dificultades
+para concentrarse en el trabajo escolar; 5) tiene dificultades para concentrarse
+en un juego” (APA, 1983, 52). Un detalle más , que para muchos ha sido sumamente significativo: en este sistema se decidió eliminar el término ‘neurosis’, y
+sustituirlo por el de ‘trastornos de ansiedad’; desaparecía de este modo un concepto considerado como ‘clásico’ dentro del campo psicoanalítico, y se lo venía
+a sustituir por otro muy firmemente ligado al ámbito de la orientación comportamental. Esto vino a representar casi un cambio de paradigma, en una palabra.
+Es interesante notar que, al construir este nuevo catálogo de desórdenes, sus autores se dieron cuenta de que el acto del diagnóstico no se podía limitar a la formulación de una ‘etiqueta’ con que denominar las diversas alteraciones del sujeto, sino que era preciso atender a otras dimensiones que también se
+hacen presentes en el acto de encuentro del terapeuta con su cliente, y que son
+elementos esenciales para la decisión que el primero ha de tomar acerca de su
+intervención frente al problema.
+Como ha señalado Del Barrio (2003), las características más importantes del DSM III vinieron a ser, primero, la fijación de criterios operacionales de
+las distintas categorías diagnósticas; y, segundo, la introducción de un diagnóstico “multiaxial”.
+Esto quiere decir que, por un lado, los nuevos criterios diagnósticos
+habían de concentrarse en la mención de aquellos signos y síntomas que, siendo
+observables, comportamentales, y fenomenológicamente describibles, hubieran
+sido validados como signos efectivos del trastorno que se supone que integran.
+Con ello se acentúa el valor objetivo e interindividual del rasgo sensible y describible, como dato de base para el juicio clínico.
+Pero, además, en segundo lugar, el diagnóstico como juicio clínico
+debería atender a varios aspectos que modulan los datos clínicos, y no sólo
+orientarse a buscar la simple etiqueta clasificatoria. Según el nuevo sistema, el
+diagnóstico debe atender a varios ‘ejes’, hasta cinco, que recojan aquellos, lo que
+hace del mismo algo más delicado y complejo. Este uso de ejes representó una
+novedad. Los autores propusieron cinco ejes o factores a tener en cuenta. El factor I, recogería los trastornos mentales orgánicos, mientras que los de personalidad y los específicos del desarrollo se remitieron al factor II. El factor III fue
+dedicado a trastornos o problemas físicos (p. ej. si hay enfermedades circulatorias, o infecciosas, o defectos congénitos, etc.); el IV , a la intensidad de estrés
+psicosocial experimentado por el paciente (e.g., si hay problemas económicos,
+
+403
+
+
+
+o en el trabajo, o la familia, etc); y el V y último, para recoger cuál haya sido el
+mayor nivel de adaptación que se haya dado en el último año (e.g., si ha funcionado sin problemas, o si , por el contrario, hay o ha habido peligro de violencia para consigo o hacia otros, o peligro de suicidio, o incapacidad grave de
+mantener su higiene personal...).
+Esta idea de los ejes partió de unos investigadores suecos, Essen, Möller
+y Wohlfahrt (1947), deseosos de no perder información relevante para un estudio del sujeto. Luego otros autores han propuesto otros distintos, aunque los que
+acabamos de mencionar son los que ha asumido la “American Psychiatric Association”, al menos durante un cierto tiempo, el de la vigencia de los sistemas
+DSM-III y DSM-IV, al menos.
+Con todo ello, se ha podido decir que el sistema clasificatorio del DSM
+III ha venido a organizar un nuevo y actualizado tratado de psicopatología, con
+informaciones detalladas sobre diagnóstico, aspectos diferenciales, incluso etiologías, y donde en realidad solo faltaría la dimensión de la intervención terapéutica o tratamiento, cosa que naturalmente queda fuera de sus pretensiones.
+Según varios autores, este sistema vino a ser propiciado por un grupo
+de psiquiatras “neokraepelinianos”, partidarios decididos del uso del método
+científico en psiquiatría, así como del reconocimiento de la existencia de efectivas “enfermedades mentales”, claramente diferenciadas del estado de “normalidad” de las personas (Guimón, 1989, 5). Cada trastorno “es conceptualizado
+como un síndrome o un patrón psicológico o conductual clínicamente significativo, que aparece en un individuo y que se encuentra asociado de forma típica
+con un síntoma perturbador (distress) o deterioro, en una o más áreas principales de funcionamiento (incapacidad)” (APA, 1983, 8).
+“Los desórdenes —precisa Clegg—, en el DSM-III, eran entidades que
+los individuos ‘tienen’, en lugar de un espectro de respuestas que los individuos ejecutan (Clegg, 2012, 366). De todos modos, los editores explícitamente
+se abstuvieron de afirmar la existencia de “límites precisos” (APA, 1983, 8).
+En cambio, quisieron dejar bien claro que rechazaban cualquier interpretación personalista de los trastornos, afirmando la distinción entre el
+paciente y su deficiencia. Como dice Spitzer en la introducción del volumen,
+evitaron decir “un esquizofrénico”,o un “alcohólico”, para en su lugar hablar de
+“individuo con esquizofrenia” o “individuo con dependencia alcohólica” (APA,
+1983, 9). Con toda seguridad, ello se hizo para ajustarse plenamente al Acta
+americana de Derechos Civiles (The Civil Rights Act), de 1964, donde se enfatizó la eliminación de toda discriminación entre ciudadanos en razón de sexo,
+religión, raza, color, y , cabe suponer también, en razón de enfermedad, minusvalía o deficiencia. Había que eliminar todo posible efecto de ‘etiquetado’ de
+las personas, que pudiera entrañar el menor deterioro de su imagen social. Se
+
+404
+
+
+
+llevó a cabo, pues, una “remedicalización” (Clegg, 2012, 366) en toda regla, y
+a la vez un reajuste social en línea con un “lenguaje políticamente correcto” que
+iba a ir imponiéndose en la sociedad americana.
+Por cierto, durante su elaboración se produjo una fuerte discusión a
+propósito de la naturaleza de los trastornos mentales. En un documento de trabajo, el editor plasmó la fórmula de que tales desordenes eran “un subconjunto de los desórdenes médicos”. Tal fórmula fue inmediatamente entendida
+por los psicólogos de la Asociación Psicológica Americana como una apropiación en solitario del campo psicopatológico por obra de los profesionales
+de la psiquiatría, y la exclusión de los psicólogos clínicos de aquel campo de
+trabajo y de intervención. La cosa terminó, al parecer, en agua de borrajas,
+pero el incidente sirvió para evidenciar la fortísima implicación de los profesionales de la psiquiatría y la psicología en torno a un campo común, y discutido, de los trastornos mentales, y las conexiones económicas, científicas y
+profesionales que estaban en juego en la hora aparentemente tranquila de la
+pura ciencia de la psicopatología, y las tensiones que estaban larvadas en el
+proyecto.
+Por su parte, Pierre Pichot (1918), gran clínico francés, ha podido decir
+que la publicación de este manual marca una fecha tan importante, en su opinión, como lo fuera “la publicación en 1896 de la sexta edición del tratado de
+Kraepelin, que delimitó el marco conceptual que esencialmente sigue dominando en la psiquiatría de hoy” (Pichot, 1983, xii).
+Todas estas innovaciones y cambios no impidieron que al cabo de un
+tiempo se viera necesario introducir algunas reformas. Las llevó a cabo un
+equipo de nuevo bajo la dirección de R. Spitzer, que ya había sido el editor
+principal del sistema a reformar, creándose así la versión del DSM-III-R (1987)
+que aspiraba sin duda a mantener la vigencia del DSM-III , solo que con ciertas
+correcciones o mejoras que no variaban su identidad intelectual. Pero no voy a
+entrar aquí ya en mayores detalles.
+El DSM III ha tenido un enorme impacto mundial, y se ha impuesto a
+los demás sistemas clasificatorios en el horizonte internacional, asegurándose
+por primera vez su preeminencia en el campo psicopatológico. Pero al mismo
+tiempo, ha hecho más honda la separación entre síndromes y causas, asumiendo
+lo que Pichot ha llamado “una actitud resueltamente agnóstica de cara a los
+conceptos teóricos etiológicos o patogénicos-no demostrados” (Pichot, 1983 b,
+173). El sistema, en efecto, ha adoptado básicamente una perspectiva descriptivista que trata de hacer que el instrumento resulte compatible con cualquiera
+de las diversas escuelas teóricas aún dominantes en este campo.
+
+405
+
+
+
+DSM-IV (1994)
+Casi quince años después del DSM III, en 1994, el APA acometió la tarea
+de renovar el sistema. La difusión que el anterior había alcanzado parecía aconsejar una mayor atención a las diferencias culturales que modulan las patologías.
+Se quería también reforzar la compatibilidad con el sistema clasificatorio de la
+OMS en su versión más reciente, el ICD 10. Se habían producido, además, en
+el campo psicológico americano dos grandes movimientos: la general sustitución
+del antiguo ‘conductismo’ por una nueva perspectiva en torno al mundo mental, el llamado ‘cognitivismo’ o ‘psicología cognitiva’, que restablecía el lugar de
+la mente en el campo de los procesos psicológicos, como sistema procesador
+de información que evalúa e interpreta todos los inputs del sistema, elabora
+representaciones y genera actitudes y estructuras de personalidad, determinando
+así los comportamientos manifiestos de los sujetos; y, en segundo lugar, se
+habían ideado procedimientos capaces de obtener una innovadora ‘imaginería
+cerebral’. La captación de imágenes dinámicas de los procesos cerebrales que
+intervienen en la conducta abría un nuevo modo de estudiar esta, a través del
+desarrollo de la “neurociencia”, a partir de un conocimiento empírico de los
+procesos nerviosos, y sobre todo, cerebrales, relacionados con la gran diversidad de conductas y fenómenos psicológicos (Andreasen, 2001,130 ss). La tomografía computarizada (TC), las técnicas de resonancia magnética (MR), o la tomografía por emision de positrones (PET), han venido a añadirse a los clásicos
+estudios de encefalografía y de potenciales evocados; especialmente aquellas
+han abierto un nuevo horizonte de posibilidades, lo que ha llamado M. Raichle
+la “visualización de la mente” y de los cambios de su actividad en las diferentes zonas cerebrales (Raichle, 1999). Con ello, muchas cuestiones diagnósticas
+han venido a quedar situadas en un nuevo plano.
+Un grupo dirigido por Allen Frances (n. 1942), con gran número de
+colaboradores, emprendió la tarea de reactualización del catálogo de anormalidades y deficiencias. No abandonó la perspectiva clínica tradicionalmente adoptada en los trabajos precedentes, pero trató de perfeccionar el lenguaje, actualizar la información factual sobre las diversas perturbaciones, y mejorar la
+coordinación con el sistema ICD.
+Tal vez uno de los cambios más notorios haya sido la eliminación de
+una categoría tradicionalmente incluída, la de “desórdenes mentales orgánicos”.
+En el DSM III, se recogían ahí la demencia senil, la demencia degenerativa, y
+trastornos inducidos por determinadas sustancias —alcohol, cocaina, etc.—; se
+veía todo eso como procesos patológicos con base orgánica . Ahora, va a aparecer otra, la de “Delirium, demencia y amnesias y otros desórdenes cognitivos”, ateniéndose a la índole del proceso, y sin mencionar explícitamente lo
+orgánico junto a lo psicopatológico en tales casos. Se apuesta, pues, por un
+coherente sistema descriptivo, centrado en los trastornos mentales y conductuales. Y esa pureza descriptiva lleva a incorporar un espacio que permite ano-
+
+406
+
+
+
+tar un tipo de trastorno “No especificado de otro modo” en el sistema, es decir,
+un etiquetado que vendría a respetar la individualidad del proceso estudiado,
+así como sus discrepancias con el resto de los rasgos categorizadores que se han
+tenido en cuenta en el resto de ítems del sistema. Se respeta así la posición de
+aquel terapeuta que estima que el caso de su cliente no coincide con ninguna
+de las categorías establecidas por el manual.
+El manual, como todos los anteriores, ha tenido sus críticas, pero también ha tenido una amplia aceptación. Y he aquí que, casi veinte años después,
+y tras sufrir algún retoque en el año 2000 (DSM IV- TR), nos hemos venido a
+encontrar con un nuevo modelo de sistema diagnóstico, precisamente en mayo
+del 2013, como antes he dicho.
+Convendrá ver su justificación, sus cambios, y el sentido general de la
+innovación introducida.
+DSM-V
+Esta última edición, ahora vigente, al igual que las anteriores, la ha editado, como sabemos, la American Psychiatric Association en mayo de 2013. De
+nuevo es el resultado de un amplio número de equipos colaboradores, que han
+operado en esta ocasión bajo la dirección general de David J. Kupfer (n. 1941.
+Lo que algunas voces llaman la ‘Biblia’ de la psicopatología, es ahora
+esta obra clasificadora de los trastornos psicológicos, mentales y comportamentales, aparecida aún no hace dos años, y que ha sido objeto, en este tiempo, de
+numerosas críticas y discusiones, que animan el campo de la psiquiatría y la
+psicopatología, restándole cualquier posible sacralidad y situando el tema dentro del horizonte de las obras humanas, siempre sujetas a discusión y cambio.
+Para empezar, tomemos nota de nuevo de la concepción que aquí se
+nos ofrece, y para muchos es vigente, del ‘desorden mental’: “Un desorden mental es un síndrome caracterizado por una perturbación clínica significativa de la
+cognición, regulación emocional o conducta, que refleja una disfunción en los
+procesos psicológicos, biológicos o del desarrollo, que subyacen al funcionamiento mental”. (APA, 2013, 20; Duncan, 2014, 21). Se trata, pues, de un cierto
+proceso con notas o rasgos determinados que implica alteraciones en la conducta o los procesos mentales, aquí reunidos de modo muy grueso en cogniciones y afecciones o emociones, procesos que tienen un trasfondo, soporte o
+textura que puede ser de índole psicológica (procesos mentales conscientes o
+inconscientes), procesos biológicos -y por tanto orgánicos o somáticos-, o directamente relacionados con aspectos de desarrollo – relacionados con la ontogenia del individuo. Son procesos que tienen valor desadaptativo, pero no se reducen a ser sólo desajustes culturales o sociales. Por eso el manual precisa: “Una
+
+407
+
+
+
+respuesta esperable o aprobada culturalmente a un estresor común o a una pérdida como la muerte de un ser querido, no es un desorden mental.” (Ibid.) Ni
+lo son los conflictos que el individuo puede tener con su sociedad por motivos
+políticos, religiosos, o sexuales, salvo que haya “una disfunción en el individuo” como las que se ha indicado (Ibid.)
+Este manual organiza los trastornos de modo bastante sistemático. Primero sitúa los propios del neurodesarrollo; tras ellos, los grandes síndromes
+psiquiátricos: la esquizofrenia, y los trastornos bipolares (o manía). Siguen luego
+los trastornos psicológicos clásicos: depresión, ansiedad, trastorno obsesivocompulsivo, y trastorno traumático o por estresor. A continuación hay un capítulo de desórdenes disociativos (disociación, amnesia, despersonalización…),
+que va seguido de otro sobre trastornos somáticos (procesos de conversión,
+parálisis, anestesias…). Y tras ello, una serie de problemas conductuales, donde,
+en ítems diferenciados, se mencionan los alimentarios, los de eliminación,
+sueño, sexo, de género, de conductas disruptivas, así como los problemas adictivos con sustancias. Y se termina con unos trastornos aún más propiamente
+psicológicos si cabe, como son los neurocognitivos, los de personalidad y las
+parafilias (voyeurismo, sadismo, etc ). Termina la clasificación con ‘Otros trastornos mentales’, los trastornos inducidos por la medicación, y ‘Otras condiciones que pueden ser objeto de atención clínica’, donde entran fenómenos muy
+varios como el abuso, descuido paterno, violencia de género, etc.
+El volumen se abre con una sección de pautas para el uso del mismo,
+y termina con una sección III donde hay medidas dimensionales o de intensidad de síntomas, y criterios culturales sobre los trastornos, que ayudan a perfilar el diagnóstico.
+Dentro de ese esquema se han señalado algunos cambios respecto del
+sistema precedente, que son vistos como problemas por parte de los críticos. Los
+recogeré sintéticamente aquí, teniendo a la vista las líneas de uno de sus más
+fervientes críticos, Allen Frances, el editor del manual anterior.
+Se critica, así, la introducción de un desorden de alteraciones (disregulation) debidas a un temple disruptivo (las crisis violentas de llantos de
+niños), lo que vendría a ampliar la medicalización de la conducta infantil; al
+igual que ahora un nuevo ‘Desorden menor neurocognitivo’ patologizará los
+olvidos de las personas mayores, y otro de ’Déficit de atención de los adultos’,
+hará lo propio con las personas maduras. También ha generado resistencias su
+inclusión de un trastorno que se manifiesta en forma de grandes comilonas o
+atracones frecuentes (Binge Eating Disorder). Además, parece que muchos psiquiatras lamentan que se haya eliminado una distinción entre especies de esquizofrenia, ahora simplificada; también se han reunido trastornos varios bajo el
+epígrafe general de ‘Ansiedad’; también que se haya simplificado en otro punto,
+haciendo que el síndrome de Asperger, un cierto mal parecido al autismo, se
+
+408
+
+
+
+haya incluido dentro del genérico ‘autismo’; que haya un ‘desorden de ansiedad generalizada’, o unas ‘adicciones conductuales’ (como la del juego por
+Internet) en cuanto todo esto podría patologizar aspectos tal vez problemático
+pero no patológicos de la vida. Además, algunos autores han denunciado que
+se pueda llegar a considerar patológico el duelo (bereavement) por la pérdida
+de un ser querido, —en el síndrome de ‘Episodio Mayor Depresivo’— cuando
+debería ser visto como un proceso plenamente normal; y es lo cierto que el
+manual advierte de que ese duelo, puede ir acompañado de otros elementos
+que lo hagan patológico, y por ello apunta a que sea “carefully considered”
+(APA, 2013, 126; 2013, 789 y ss).
+Ha habido también algunos cambios de denominación, que apuntan a
+un deseo de mantener un lenguaje ‘políticamente correcto’. Por ejemplo, unos
+Desórdenes de identificación de género son ahora ‘Gender dysphoria’ —malestar relativo al género, quitándose la idea de ‘desorden’—; o el Retraso mental
+(Mental retardation), que pasa a llamarse ‘intellectual disability’, al tiempo que
+‘demencia’ y ‘desorden amnéstico’ pasan a ser ‘neurocognitive disorders’; que se
+hable de desórdenes somáticos en vez de ‘somatoformes’, o que junto al problema de la ‘despersonalización’ ahora se añada el correlativo trastorno de la
+percepción del mundo, su ‘desrealización’. Y hay una queja, en cambio, por
+haber dejado el término de borderline personality disorder, cuando a juicio de
+los oponentes, ese término de ‘borderline’ es un estigma social indebidamente
+introducido en el sistema.
+Además, muchos echan de menos el diagnóstico por ejes que tenían los
+sistemas anteriores, y el que se haya vuelto a la simple presentación de categorías. Naturalmente, con ello se ha simplificado el diagnóstico, aunque se deja
+abierta la puerta a que se haga anotación separada de los aspectos psicosociales
+o contextuales (APA, 2013,16). Lo cierto, para muchos críticos, es que si esos
+aspectos no están sistemáticamente incluidos en la historia clínica, y exigidos por
+el esquema de trabajo, pueden quedar desatendidos o recogidos sin precisión,
+disminuyendo el valor del estudio individual a efectos de los análisis posteriores.
+Para Allen Frances el nuevo sistema supone una mayor medicalización
+de muchas zonas de la vida antes no contempladas, y en muchos casos, eso
+podrá implicar la recomendación de tratamientos farmacológicos, como puede
+ocurrir, por ejemplo a niños con ADH (déficits atencionales). Por ahí han
+seguido nuevas críticas. Así, se ha señalado también por algunos autores la existencia de un posible problema de conflicto de intereses, ya que el equipo que
+ha organizado el sistema DSM-V ha estado formado por muchos especialistas
+que mantenían vinculación estrecha con industrias farmacéuticas (Sandín, 2013,
+278), apuntándose de este modo a la existencia de un posible sesgo hacia orientaciones que medicalicen y traten con fármacos especiales unos estados mentales o conductuales que tal vez no los necesitarían, pero que su prescripción
+vendría a complacer a los grupos industriales mencionados.
+
+409
+
+
+
+En fin, tampoco se puede olvidar la dura crítica que le ha dirigido el
+director del “National Institute of Mental Health” (NIMH) americano, Thomas
+Insel, quien ha llegado a decir que el Instituto no está dispuesto a financiar proyectos en los que se emplee el DSM-V, porque lo consideran todo lo más como
+un “diccionario”, cuyos diagnósticos se basan en un consenso sobre los grupos
+de síntomas, pero no “en medidas objetivas de laboratorio” (Insel, 2013). Este
+grupo está a favor de una psiquiatría como neurociencia pero, como algún crítico ha hecho notar, eso es “únicamente una propuesta futura”, pero en modo
+alguno un instrumento del que puedan servirse los clínicos en su trabajo actual
+(Sandín, 2013, 277).
+No he de entrar en esta discusión acerca de posibles intereses espúreos
+en la obra clasificatoria, pero sí hay que hacer notar que tales sospechas ponen
+de relieve la importancia que pueden llegar a tener en las intervenciones técnicas en este campo algunas de las dimensiones sociales implicadas en los procesos de intervención, y que responden a la dimensión industrial y económica
+que hoy poseen todas las cuestiones relativas a la salud y a la medicina en las
+sociedades avanzadas.
+ALGUNOS PROBLEMAS
+¿Cuáles podrían ser las principales consecuencias para el campo de la
+psicopatología, tras recibir el nuevo instrumento representado por el último
+DSM? O con otras palabras, ¿cuál ha sido el avance que en aquel terreno ha
+producido este instrumento , si es que lo ha habido?
+Fenomenología, Taxonomía y Etiología
+Este manual del DSM que venimos viendo, al igual que los anteriores,
+resulta ser un instrumento que se sitúa más allá, o más acá, de las distintas
+opciones explicativas del proceso de la enfermedad mental. Ha asumido una
+posición ‘agnóstica’ respecto de las causas de los trastornos que analiza y clasifica. Ha decidido atenerse a los datos, y a las agrupaciones o ‘clusters’ que estos
+ofrecen. No pretende bajar a las raíces de los males, sino que se conforma con
+describirlos, situarlos en el plano de la experiencia vivida, y diferenciarlos unos
+de otros.
+En esta limitación a los aspectos descriptivos, fenomenológicos en definitiva, está presente el respeto a la positividad fenoménica de la ciencia, y también, sin duda, un pragmatismo ante la pluralidad de escuelas teóricas en vigor
+hoy día. Ahí reside buena parte de su fuerza y su utilidad. Nos permite ver que
+el único verdadero supuesto que en él late es que las conductas descritas son
+‘estables’, es decir, que tienen ‘estructura’ y no son un caos de rasgos y cualida-
+
+410
+
+
+
+des; nos movemos entre entidades fenoménicas dotadas de ‘consistencia’ y de
+‘fiabilidad’; se dan y se repiten, en las circunstancias más diversas, con análogas características , en los sujetos que las exhiben una vez tras otra. Se trata,
+como diría Laín, de que es posible establecer en cada caso lo que llamaría el
+gran patólogo del Barroco Thomas Sydenham la species morbosa correspondiente, esto es, el “tipo procesal o evolutivo …que se repite unívocamente en
+un gran número de enfermos” (Lain, 1943,284). Qué sea lo que en estos sujetos las haya producido, es un problema posterior a dilucidar. Y cómo se puedan revertir esas vivencias para hacer retornar al sujeto a la ‘normalidad’, es una
+cuestión cuya respuesta la busca hoy el terapeuta de un modo básicamente
+empírico.
+No es que no importen las causas. Desde luego que importan. Pero los
+autores del DSM se atienen al aquí y ahora, evitan las kalendas griegas y adoptan una perspectiva transversal. Dejan todas las puertas abiertas a la investigación sin comprometerse con ninguna. Así, han podido adaptarse tanto a una cosmovisión psicoanalítica, como a otra conductista, a una cognitivista o a una
+posición últimamente biologista o neurocientífica.
+La descripción de síndromes es un trabajo básico, indispensable para la
+construcción del resto del edificio de las patologías científicas. Como dicen dos
+expertos metodólogos de la psicopatología infantil, Thomas Achenbach y S.H.
+McConaughy, un principio esencial en la investigación es el reconocimiento de
+que “los síndromes se derivan de las asociaciones identificadas entre problemas” (Achenbach y McConaughly, 1997, 6). Además, de la comparación de ‘clusters’ se puede avanzar hacia el reconocimiento de las dimensiones de covariación, con el uso de una metodología estadística apropiada, como el análisis
+factorial. Hans Eysenck, comparando datos resultantes de pruebas de personalidad, aplicadas a sujetos normales, y otros diagnosticados como neuróticos y
+como psicóticos, vino a mostrar hace tiempo la coherencia de cada uno de esos
+grupos, y la condición no lineal de la dimensión normalidad-patología, abriendo
+la vía al reconocimiento de distintos ejes sobre los que representar las variaciones psicopatológicas; por lo pronto, según él, uno de neuroticismo-control y
+otro de extraversión-introversión (Eysenck, 1955, 17-18). Es decir, desde la
+observación, y particularmente desde la realizada mediante pruebas objetivas
+con variaciones medibles y replicables, se ha podido ir avanzando en el ordenamiento del campo fenoménico de los trastornos mentales.
+Algunos críticos han evaluado muy positivamente un punto metodológico que aparece en la nueva taxonomía ofrecida por el DSM-V Resulta que en
+el ámbito de las consideraciones psicopatológicas han venido alternando dos
+posiciones que consideran los distintos trastornos en dos sentidos diferentes.
+Una es la llamada ‘tendencia al diagnóstico categorial’; la otra, la línea del ‘diagnóstico dimensional’. La primera considera los procesos perturbadores como
+objetos bien definidos, que o ‘se dan’ o ‘no se dan’ en un sujeto, y los contem-
+
+411
+
+
+
+plan de un modo básicamente unívoco. En cambio, para la perspectiva ‘dimensional’, se tiende a ver cada desorden como un cierto estado, de mayor o menor
+intensidad, situado a lo largo de un continuo de anormalidad, desde la normalidad simple a la más grave perturbación, y donde las diferencias serían más
+bien homogéneas y cuantitativas sobre la base de esa dimensión común , en
+la que se irían condensando, en sus diferentes zonas, las diversas patologías.
+Esta posición, que excluye las alternativas tajantes del blanco o negro, permite
+en cambio entender las altas cifras de casos donde se da la coexistencia de
+varias alteraciones, distintas aunque concomitantes en los diferentes pacientes.
+Pues bien, el DSM-V vendría a iniciar una integración de “un sistema de base
+categorial…con ingredientes dimensionales” (Sandín, 2013, 283). La visión categorial facilita diagnósticos bien definidos que establecen relaciones inequívocas con las diferentes terapias que se les viene aplicando; mientras que la visión
+dimensional explica la alta ‘comorbilidad’, o aparición simultánea de distintos
+síndromes, así como la presencia de algunos síntomas altamente generalizados
+—como ansiedad o depresión—, en donde posiblemente estarían influyendo
+condiciones transversales de edad, sexo, constitución orgánica, etc. Este sistema diagnóstico, por tanto, abriría una via de integración, a la par que de
+complejidad diagnóstica, que podría contribuir a dar mejor cuenta de la problemática psicopatológica.
+La aculturación
+La pluralidad de perspectivas a la hora del diagnóstico psicopatológico
+es considerada por muchos como una consecuencia inevitable del hecho de
+que hoy se vean los trastornos mentales como eventos a un tiempo naturales y
+culturales. No cabe duda de que en tales trastornos juega un papel básico el
+organismo del paciente, y las condiciones de su naturaleza biológica. Pero se
+impone igualmente la convicción de que la biologización de la psiquiatría no
+agota el paisaje que nos rodea. En efecto, buena parte de los procesos patológicos resultan influenciados por las circunstancias históricas y sociales del
+mundo en que vivimos. Esta visión ha venido imponiéndose en el desarrollo de
+esta historia al mismo tiempo que ha ido creciendo nuestro conocimiento ‘naturalista’ de la mecánica de estos trastornos.
+Por lo pronto, al hilo de esta evolución de los sistemas DSM y el creciente número de síndromes especificados , hemos visto que es un hecho normal el que vaya cambiando el horizonte de posibles trastornos mentales, y cabe
+pensar que ello es obra de un creciente refinamiento en los diagnósticos, y de
+una precisión cada vez mayor en la caracterización de los rasgos definitorios de
+los distintos padecimientos.
+Sin embargo, hemos visto que hay , además, otros cambios que nada
+tienen que ver con el perfeccionamiento del diagnóstico, sino mucho más con
+
+412
+
+
+
+las variaciones de las vigencias sociales y el surgimiento de nuevos grupos de
+poder en las distintas sociedades, que hacen del mundo psiquiátrico una entidad fuertemente social.
+Los propios DSM terminaron por ser sensibles a la relatividad cultural de
+los trastornos admitidos. “Los síntomas y la evolución de un cierto número de
+trastornos del DSM-IV están influenciados por factores culturales y étnicos”, dice
+el correspondiente manual (APA, 1994,xxiv). En unos casos, puede tratarse de
+una perturbación que esté ‘culturalmente determinada’ o ligada a cierta sociedad
+o tipo de sociedades. En otros casos, serán los modos de manifestarse o expresarse los que requieran una comprensión particular del terapeuta. Y en muchos
+otros casos, en que los problemas aparecen en individuos inmigrantes, los cruces culturales de origen y de destino habrán también de ser tenidos en cuenta,
+a la hora de comprender el proceso patológico de que se trate en su integridad.
+Hice referencia más arriba a alguna de las tesis de la antipsiquiatría. Hay
+que volver a recordar aquí ese movimiento. Como dice Thomas Szasz, hablando
+del proceso de diagnóstico y clasificación del enfermo mental, ésto “no es una
+actividad ‘científica’: es un acto social, diseñado para rebajar al paciente y ponerle
+en el papel de paciente mental, y legitimar la intervención del psiquiatra, definiéndola como una tarea médico-terapéutica” (Szasz, 1966,41). Ya vimos que en
+su opinión el acto diagnóstico que pretende etiquetar a la persona sería , en
+suma, un ejercicio de poder por parte de un individuo tenido por científico y
+reconocido socialmente, el terapeuta, frente a otro, interpretado como paciente
+y sometido a aquel, dentro de un marco social que favorece y protege tales actos.
+O como Goffman ha dicho, “los hospitales psiquiátricos están erigidos para cuidar de aquellas personas que, incapaces de cuidarse por sí mismas, constituyen
+además una amenaza involuntaria para la comunidad” (Goffman, 1980, 17)
+El acto de ‘etiquetado’ de los pacientes, y la transformación de éstos en
+entes sometidos a las decisiones y cuidados de otros que asumen el encargo de
+velar por ellos, al tiempo que sustituyen sus voluntades y les imponen sus decisiones, crea una relación de dominio y sometimiento del paciente, que ha generado en muchos casos movimientos de rebeldía , y de oposición, por parte de
+aquellos que pueden sentirse injusta e inadecuadamente tratados en base a una
+interpretación que recae sobre ellos y que procede de supuestos ‘científicos’
+que operan con la autoridad que les viene del manual clasificador.
+Un ejemplo notorio que hemos hallado en las consideraciones precedentes, y al que ya nos hemos referido, es sin duda el relativo al tratamiento de que
+ha sido objeto la homosexualidad en los DSM. Precisémoslo un poco más.
+Recordemos que en el DSM I y en el II, entre 1952 y 1974, la homosexualidad fue incluida como un item propio (302.0), en el sistema, dentro del epígrafe más amplio de las Desviaciones sexuales (302). Es conocido todo el movi-
+
+413
+
+
+
+miento de protesta, y de presión social que ejercieron en aquel tiempo muy
+diversos grupos de gays y lesbianas, (Kirk y Kutchins, 1992, 81 y ss). Una de las
+posibles consecuencias de aquellos movimientos fue tal vez la creación, en 1985,
+de una ‘Society for the Psychological Study of Lesbian, Gay, Bisexual and Transgender Issues’, que se constituyó como la division 44 de la American Psychological Association.
+Se ha podido decir que la eliminación de ese ítem de entre los trastornos mencionados, fue no tanto un asunto científico cuanto una resolución frente
+a una ola social de protestas, en medio de un clima donde el autoritarismo era
+mal visto, y donde la libertad sexual más general aparecía como nota distintiva
+de progresismo político y cultural. (Duncan, 2014,12-14). No obstante, parece
+haber sido también muy influyente un estudio de una psicóloga, Evelyn Hosker (1907-1996), que mostró que no se podían diferenciar pruebas de ajuste
+mental realizadas por un grupo de homosexuales liberados y otro de heterosexuales, dado que ambos mostraban niveles semejantes de adaptación a su
+entorno (Rothblum et al. 1986, 185).Es un ejemplo claro de la interacción profunda que hay entre las convicciones sociales de un pueblo o una cultura, y las
+decisiones asumidas en relación a la patologización o no de determinadas conductas.
+También la creciente incorporación del lenguaje “políticamente
+correcto” en las formulaciones de los distintos síndromes muestra que el campo
+de estas perturbaciones afecta de modo muy personal a la identidad y la autoestima de los sujetos que las padecen, y estos factores no pueden en absoluto
+ser ignorados.
+En ediciones anteriores, a partir de la introducción de ejes en el DSM
+III, se fue incorporando el contexto histórico social al acto diagnóstico, aportando elementos de gravedad, comprensión y modulación del juicio clínico que
+se formulaba. En esta última versión que vengo aquí examinando, tras eliminar
+los ejes a que ya nos hemos referido, ha reunido en páginas finales toda una
+serie amplísima de cuestiones que, sin ser patología, modulan el juicio que ha
+de hacerse a la hora de valorar aspectos patológicos de determinados tipos de
+trastornos, por ejemplo, de ciertas facetas del mundo de las relaciones interpersonales o del infantil. Cuestiones relativas a una relación disfórica entre padres
+e hijos, o la amplia cuestión del abuso sexual infantil, o los problemas relativos
+a la violencia de género, pongo por caso, aparecen listadas en la taxonomía
+para que, en su momento, el clínico, en su apreciación del trastorno que estudia, dé cabida a todos esos elementos o factores que pueden modular la realidad de la conducta analizada. Y a la vez entran por esta puerta secundaria
+muchas cuestiones que tienen una alta connotación social, y que sin duda van
+unidas a la ‘cosmovisión occidental’, por decirlo de algún modo. A través de
+todos estos elementos, el juicio clínico incorpora junto a aspectos descriptivofenoménicos y otros etiológicos hipotéticos, otros factores histórico-culturales,
+
+414
+
+
+
+que lo completan y modulan, y que nos hacen ver que hasta en la taxonomía
+más puramente descriptivista y fenoménica, lo que Berrios llama un “ sistema
+mini-cognitivo” (Berrios, 1996, 25), se injertan elementos históricos contextuales, que nos impiden olvidar que el hombre es un ser histórico, y que todo lo
+humano se historiza y modula temporalmente.
+Multiparadigmaticidad y etiología
+El conocimiento detallado de las ‘caras’ de los desórdenes mentales es
+desde luego un paso hacia la más profunda comprensión de los mismos. Pero
+su ‘agnosticismo’ teórico, como acabamos de decir, permite la coexistencia de
+múltiples perspectivas etiológicas, sin descartar ninguna que pueda gozar de
+alguna verosimilitud a su favor. Al propio tiempo, las perspectivas terapéuticas, como inmediatamente veremos, están introduciendo diferencias de importancia.
+En general en la psiquiatría contemporánea vienen compitiendo diversos modelos de enfermedad mental, de modo análogo a como en la psicología
+vienen disputándose el terreno diferentes escuelas teóricas aun no conciliadas.
+Uno es el llamado modelo médico; otro, el modelo psicoanalítico; un tercero,
+sería el modelo moral, y, para elegir otro bien distinto, cabría mencionar el
+modelo ‘conspiratorio’ (McGuire, 1983, 7) propio de la antipsiquiatria.
+Resumidamente, el primero supondría que los trastornos observables en
+la conducta de los pacientes son resultado de una causa latente, que tendría
+esencialmente una condición orgánica, acompañada de manifestaciones psíquicas. Desde Hipócrates y Galeno, hasta hoy, está viva la idea de que los problemas psicológicos deben tener una base orgánica, sea alteración de humores, o
+trastorno del sistema nervioso, que los origina. Esta idea fue puesta en cuestión
+por el psicoanálisis freudiano, lo que hizo ver que muchas alteraciones psíquicas se debían a conflictos emocionales, biográficos, pero no a lesiones orgánicas que los originaran. Habría según su expresión, casos de ‘neurosis’ sin ‘psicosis’. Pero incluso aquí, en el ‘modelo psicoanalítico’, habría también una
+‘causa’ latente, como en el caso anterior, sólo que sería ahora el conflicto psicológico de base dinámica, el cual se manifestaría en los síntomas. Ambos modelos, tan hondamente distintos entre sí, son sin embargo conciliables con el sistema DSM : habría un ‘núcleo latente’ de estructura determinada, y habría
+síntomas y signos manifiestos y consistentes, que, si se los observa en detalle y
+se buscan los elementos diferenciales entre los distintos síndromes, harían posible la identificación de aquel, de modo comprobado o bien de modo tan sólo
+hipotético, pero lejos, desde luego, de cualquier hipótesis causal concreta.
+Para el “modelo conspiratorio”, la enfermedad mental seria sólo un
+‘mito’, diseñado por la sociedad para deshacerse de los individuos rebeldes o
+
+415
+
+
+
+insolidarios con ella. Esta es, como ya vimos, la idea nuclear de la antipsiquiatría. Su posición, en definitiva, se podría ejemplificar con el mundo de los hospitales psiquiátricos doblados de prisiones o psijushkas del mundo soviético,
+donde la prisión psiquiátrica sustituyó a la cárcel tradicional. Esta perspectiva,
+sin duda, pasa por alto las gigantescas dimensiones de los trastornos mentales
+clásicos —demencia, retraso, manía— y las perturbaciones contemporáneas —
+depresión, ansiedad, autismo, etc.—, cuya existencia es en esencia independiente de los programas políticos y las construcciones sociales. Pero acentúa,
+en cambio, la condición procesual y existencial de todo trastorno, que afecta
+básicamente a la relación del hombre con su mundo, a las reglas que en éste
+sigue y a los ‘juegos’ que en él juega (Szasz, 1976, 27-28).
+Y quedaría por ver ese llamado ‘modelo moral’, que vendría a decir
+que la conducta perturbada no es efecto visible de una causa invisible, sino que
+es el trastorno mismo y ‘per se’ de la existencia personal, como forma inadaptativa de comportamiento, que el sujeto adquiere, al igual que el resto de sus
+conductas aprendidas, en el marco de la interacción social, y en función de ciertos ‘reforzamientos’ y experiencias anormales que consolidan esos modos de
+obrar empleados para hallar una satisfacción a ciertos impulsos o necesidades.
+Se trataría siempre del problema de una conducta, a explicar a partir de tres
+variables: “la conducta misma, el contexto social, y un observador que está en
+una posición de poder” (Ullmann y Krasner, 1969, 21). La conducta tiene ciertos rasgos, que han de ser vistos desde un contexto social, dentro del cual se
+singularizan y desajustan o no; y esa situación la observa, juzga y califica un
+observador con poder social —el juez, el médico, el educador, etc.—, que
+decide de su normalidad o anormalidad. Con todos ellos son compatibles los
+DSMs.
+Junto a esta pluralidad de modelos desde los que entender los trastornos, hay una determinación creciente de la actividad terapéutica y comprensiva
+en el mundo de la psicopatología en base a dos factores que actualmente están
+presionando en una dirección naturalista, etiológica y causal. Los dos guardan
+relación directa con el proceso de intervención.
+Uno es el enorme desarrollo de la psicofarmacología, desde mediados
+del siglo pasado; otro, el perfeccionamiento de la imaginería cerebral, a que ya
+hemos hecho referencia. Ambos hechos han contribuído a fortalecer el modelo
+de “psiquiatría biológica”, lo que ha llamado el psiquiatra y biólogo Eric Kandel , Premio Nobel de Medicina del año 2000, como “un nuevo marco teórico
+intelectual para la psiquiatría” (Kandel, 1998). Y este modelo parte de admitir
+como principio básico general, desde el que construir esa nueva psiquiatría,
+que “todos los procesos mentales, incluso los más complejos procesos psicológicos, derivan de operaciones en el cerebro” (Kandel, 1998, 460), si bien de
+un cerebro que se constituye y se desarrolla como realidad plástica en continua interacción con el medio que le rodea.
+
+416
+
+
+
+Desde mediados de los 1950s, comenzó a descubrirse la gran eficacia
+de una serie de fármacos en su aplicación a muchos de los trastornos mentales
+más conocidos. En abril de 1953, según relata uno de los pioneros investigadores, se aplicó el meprobamato al tratamiento de un trastorno de ansiedad (Berger, 1970, 121). Y desde ahí se ha ido a un despliegue impresionante de productos ansiolíticos, antidepresivos, y de activadores o inihibidores de procesos
+bioquímicos cerebrales, que constituyen hoy la panoplia armamentista de innumerables terapeutas.
+Otro paso ha sido, naturalmente, la biologización a fondo de los procesos patológicos mentales, y su creciente vinculación con las estructuras del
+genoma, reguladoras de los procesos neurológicos cerebrales a partir del control que los genes ejercen sobre la síntesis de proteinas. Ya en 1938 Franz Kallman presentó pruebas irrefutables acerca de la dimensión genético-hereditaria
+de la esquizofrenia, a partir de estudios de la difusión del trastorno en grupos
+familiares en los que se daban todos los niveles de herencia compartida, a partir del nivel de los gemelos univitelinos, con igual carga genómica en ambos
+individuos, hasta la comunidad nula de dos individuos aleatoriamente extraídos de la población general, pasando por los distintos grados de consanguinidad. Pero sus mismos datos dejaban abierta la vía a explicaciones complementarias, tanto de índole hereditaria como de orden epigenético o ambiental, ya
+que los gemelos univitelinos no presentan una coincidencia de enfermedad en
+el cien por cien de los casos, lo que obliga a pensar en la existencia de otro
+nivel de influencias distinto del puramente hereditario. Genoma, estructuras
+cerebrales, bioquímica cerebral, han venido a ser piezas claves en la nueva psiquiatría biológica que va avanzando día tras día. La enfermedad mental no
+sería, para los partidarios de esta opción, sino un trastorno biológico de mayor
+complejidad.
+En la actualidad, mientras hay una profunda indefinición en el nivel de
+las causas y de las perspectivas etiológicas, se ha venido imponiendo de modo
+creciente en el mundo de la clínica la convicción de que es desde el nivel de la
+exploración , y sobre todo del de la acción interventiva, desde donde hay que
+ir impulsando la labor investigadora. En una serie de trastornos, donde las causas se desconocen, es preciso recurrir, por la fuerza de la demanda práctica, a
+alguna de entre las múltiples terapias que hoy se ofrecen al profesional. Y ha
+ido creciendo en tiempos recientes una firme convicción entre los profesionales responsables, que les lleva a recurrir solo a aquellas intervenciones técnicas
+que tienen un historial de eficacia empíricamente establecida y controlada para
+el caso que se va a tratar. Es una posición razonable y tiene en su raíz una circunstancia social muy bien definida, a saber, la aparición de procesos legales en
+torno a posibles ‘malas prácticas’ de los terapeutas, en las sociedades avanzadas. El recurso a las terapias que están respaldadas por ‘evidencia empirica’ de
+su eficacia permite defender su aplicación en el caso de uno de esos posibles
+conflictos legales, algo que va ya siendo frecuente en el mundo de la práctica
+
+417
+
+
+
+clínica de nuestro tiempo. La ciencia de la curación, en efecto, aunque pueda
+beneficiarse de la intuición y la experiencia, ha de ir hoy soportada por la metodología científica, el peso de las pruebas que avalan la elección práctica, y el
+valor de la evidencia objetiva que aquellas conllevan (Frías y Pascual, 2003;
+Echeburúa y Corral, s.a.) . Y para que la terapia esté justificada, es preciso que
+antes esté definido y bien delimitado el trastorno que se haya diagnosticado, y
+es preciso también que esa delimitación venga respaldada por una base empírica de un conjunto de síntomas y datos críticos como los que se van reuniendo
+en los DSMs paulatinamente.
+Por otra parte, una creciente neurologización de los procesos psicológicos, unida al desarrollo extraordinario de la bioquímica cerebral y del comportamiento, hace que a los ojos de muchos profesionales las enfermedades y trastornos mentales se hayan convertido en meras ‘listas de síntomas’, reunidos por
+el sistema taxonómico del DSM para formar los distintos síndromes, que irían
+paulatinamente asociándose a unos determinados tratamientos farmacológicos
+hasta quedar su conexión más o menos automatizada. Un trastorno sería visto,
+por tanto, como el resultado de ciertas alteraciones de los procesos neuroquímicos que tienen asiento en el sistema nervioso, y principalmente en el cerebro
+del paciente. Al coincidir cierto número de rasgos o características del padecimiento sufrido por un individuo con alguno de los conjuntos de síntomas que
+la enciclopedia clasificadora ofrece, se habría logrado su identificación, y ello
+abriría la vía hacia la aplicación de un fármaco o conjunto de fármacos que
+pudieran modificar los mencionados síntomas, buscando la reversión de los procesos neuroquímicos en que la enfermedad vendría consistiendo. Las técnicas
+de neuroimagen habrían añadido precisión a la intervención, y un control complementario del tratamiento.
+Un importante grupo de profesionales contempla esta posibilidad como
+una cierta mecanización de la acción terapéutica. La actitud ante la alteración no
+consistiría tanto en “comprenderla”, ni tan siquiera en ver la evolución del
+paciente, sino en ir determinando la covariación de los síntomas en función de
+las dosis aplicadas de fármacos. Como dice un autor, nos hallaríamos ante “un
+procedimiento conocido como ‘escuchar al fármaco’… no precisamente a la
+persona” (Pérez Álvarez, 2008,9). La enfermedad habría perdido su valor biográfico, su contexto vital y personal, para convertirse en una pura lucha entre los
+remedios médicos de un lado y los procesos etiopatológicos de otro, hasta lograr
+retornar al equilibrio.
+Semejante cambio de horizontes parece conducir hacia un extremo
+‘empirismo’ y ocasionalismo de las intervenciones. Son muchos los especialistas que denuncian, frente al imperialismo farmacológico creciente, lo que llaman
+la medicalización excesiva de la clínica psicopatológica, en la que parece generalizarse una deshumanización de la psicopatología y un olvido del plano existencial de todos estos trastornos.
+
+418
+
+
+
+Ante las posibilidades que sin duda se abren para un ‘mecanicismo’ de
+las categorías diagnósticas y su coordinación con determinadas fórmulas farmacológicas que parecen tener éxito, queda en pié la demanda de aquellos que
+siguen exigiendo una respuesta a la pregunta acerca de qué hay debajo del síntoma, qué es el desorden mental a nivel de la vida personal, y cuál su significado para quien lo padece.
+Enfermedad y vida personal
+En todo caso, el perfeccionamiento del conocimiento descriptivo y
+fenoménico de las diferentes patologías mentales, junto a los nuevos datos que
+sobre las mismas ofrecen las neurociencias, y la conciencia cada vez más aguda
+de los aspectos sociales que aquellas llevan consigo, ponen a los profesionales
+investigadores y clínicos ante la necesidad de una aproximación global y unificante. ¿Se deshumaniza la enfermedad mental cuando se hace de ella un proceso biológico?; ¿y se rehumaniza cuando se subrayan sus dimensiones sociales
+y culturales?
+La creciente, y hoy casi dominante influencia de los sistemas DSM en
+el mundo que gira en torno a ellos ha generalizado el manejo de las distintas
+‘patologías’ y su relación con las intervenciones terapéuticas, poniendo en sordina la naturaleza de tales acontecimientos que, sin embargo, son frecuentemente los más decisivos en las vidas de aquellos que los sufren.
+Recordemos, de nuevo, que los psicopatólogos actuales evitan una y
+otra vez hablar de ‘enfermedades’. Como dicen Echeburua et al., en los DSM “se
+habla de trastornos mentales, no de enfermedades mentales”. Y añaden: “El concepto de enfermedad implica una etiología, una agrupación de síntomas, un
+curso y un pronóstico, así como una determinada respuesta al tratamiento. Sin
+embargo, hoy no es posible determinar los factores etiológicos ni los procesos
+patológicos subyacentes, para la mayoría de los cuadros clínicos. Por ello se
+opta por limitarse a describir de la forma más detallada posible los criterios diagnósticos actualizados de los trastornos mentales, para que puedan ser identificados por los terapeutas y ser comunicados a los profesionales con un lenguaje
+común”. Y concluyen: “En este sentido el DSM-5, como sus antecesores, es más
+un diccionario descriptivo que un manual de psicopatología” (Echeburúa et al.,
+2014, 70).
+Ante los problemas que estos trastornos plantean tanto al clínico teórico como al práctico, parecería conveniente buscar conceptos amplios que traduzcan con fidelidad la realidad sin recortarla ni limitarla.
+Hace ya muchos años que, entre nosotros, Laín Entralgo, a vueltas con
+una antropología del enfermar, propuso una definición de enfermedad a la que
+
+419
+
+
+
+tal vez deberíamos volver los ojos. Decía Laín que con este concepto deberíamos referirnos a “un doloroso modo de vivir del hombre, reactivo a una ocasional alteración o a un estado permanente de su cuerpo que hacen imposible
+la realización en el tiempo de su personal destino (enfermedad letal), impiden
+o entorpecen ocasionalmente esa realización (enfermedad curable) o la limitan
+penosa y definitivamente (enfermedad residual o cicatrizal) “(Lain, 1943, 329).
+Con ello, se recoge la idea de que la enfermedad es reacción a un cierto evento
+alterante, vivido por el individuo en forma de proceso causal; se admite el papel
+decisivo de la corporeidad en el proceso de enfermar, condicionante de toda la
+reacción subsiguiente; pero se tiene en cuenta ante todo que es “un modo de
+vivir” de la persona, que afecta en mayor o menor grado a la realización del
+“destino personal” o proyecto, y que, por lo mismo, implica, junto a un nivel
+biológico, y otro constitucional y temperamental, la existencia de un plano personal, y de una manifestación vital, conductual.
+La enfermedad es, así, un proceso complejo, en que intervienen los distintos planos de la realidad humana, desde el biológico y energético hasta los
+valores, creencias y expectativas de un ser histórico y social. Y si ello ocurre
+en la enfermedad orgánica o somática, a mayor abundamiento sucede en el trastorno mental, donde lo que está en juego es el sistema operativo de apertura a
+lo real y de autorrealización de sí mismo que solemos denominar “la mente”
+humana.
+La enfermedad no es meramente el binomio formado por un desequilibrio corporal y el tratamiento subsiguiente con que se busca recuperar el equilibrio perdido. La suma mecánica de esos dos elementos dejaría desprovisto de
+“sentido” al evento biográfico en que aquella consiste, y lo desconectaría del
+resto del ser personal de quien lo experimenta.
+Son muchos los terapeutas que han entendido este contexto personal
+básico, y han evitado en lo posible todos aquellos tratamientos que alteran o
+perturban la personalidad del paciente de modo decisivo, como sucede con las
+técnicas de lobotomía prefrontal, o los electroshocks, los tratamientos deshumanizantes de La naranja mecánica y, en general, aquellas relaciones con los
+pacientes que dejan a éstos sin interlocución con sus doctores, como han denunciado muchos adeptos a la antipsiquiatría, y alguna comisión de ciudadanos
+que ve en la psiquiatría “una industria de la muerte”, supuestamente con el
+aliado indispensable de alguna industria farmaceútica en busca de beneficio.
+El predominio del binomio ‘trastorno DSM —‘tratamiento farmacológico’— más o menos eficaz puede llevar a muchos espíritus a inducir una generalización no justificada: a adoptar frente a ‘todos’ los ítems del sistema el mismo
+método de cura con fármacos, aunque puedan producirse efectos secundarios,
+adicciones, u otras consecuencias no deseadas. Es lo que venimos llamando
+una medicalización de la psiquiatría, que resulta muy inquietante, en especial
+
+420
+
+
+
+la centrada sobre el sector infantil de la población. Así, por ejemplo, unos recientes estudios de Sami Timimi, (Pathological child psychiatry and the medicalization of childhood, 2014), insisten en la inadecuación del exceso de medicación
+para tratar problemas y deficiencias infantiles, en particular el síndrome de Hiperactividad y déficit atencional (ADHD), en muchos casos adecuadamente corregido con metodologías psicológicas conductuales.
+Las tendencias a mecanizar la intervención terapéutica quimioterápica
+han hecho olvidar a muchos la eficacia de los tratamientos mediante la palabra,
+y la reestructuración cognitiva de la mente del paciente. Las representaciones y
+las palabras produce en muchos casos efectos iguales o superiores, a los obtenidos con farmacología (Kandel, 1998, Llinás, 2013). Ello ha venido a resultar en
+un nuevo apoyo tanto hacia las psicoterapias psicodinámicas, como a las técnicas cognitivo-conductuales , donde el manejo de las ‘significaciones’ ha vuelto
+a revitalizar algunos de los aspectos estudiados hace ya muchos años por P.
+Laín Entralgo, en sus interesantes trabajos sobre “la curación por la palabra” en
+la antigüedad.
+El nuevo DSM no prescribe tratamientos, ni entra en estos asuntos. Pero
+su aparición ha servido en ciertos casos para dar nueva consolidación a la imagen global de biologización del sistema de patologías y su asociación cuasimecanicista con el capítulo de tratamientos fundados en una farmacoterapia
+como notas dominantes. Y es evidente que ello no debe hacernos olvidar el
+plano personal del trastorno o de la enfermedad, ni la condición que ésta tiene
+de vida humana doliente, ni la implicación radical del proyecto individual de la
+persona en el trastorno crónico o pasajero.
+A MODO DE CONCLUSIÓN
+La aparición del DSM V ha sido un acontecimiento de importancia
+grande en el mundo de las ciencias interesadas por la salud mental de los hombres, la psiquiatría, la psicología clínica y la psicopatología. Sus ecos llegan, a
+no dudar, a los ámbitos de la sociología, la jurisprudencia o la política, entre
+otros.
+Los logros de un trabajo minucioso y sistemático sobre las conductas
+mentales patológicas suponen un paso adelante en la dirección del fortalecimiento y consolidación social de la salud mental, con todo lo que ello significa.
+Y pueden contribuir a fortalecer la acción preventiva y terapéutica de nuestras
+sociedades, que andan en nuestro tiempo todavía en límites muy bajos. Un alto
+responsable de la dirección de la “American Psychological Association” acaba de
+decir que ”solo un 58,7% de los adultos que han tenido una enfermedad mental seria ha recibido tratamiento por ese problema de salud mental” en los Estados Unidos (Anderson, 2014, 9). Y ha matizado, además, que esas cifras son
+
+421
+
+
+
+muy inferiores cuando se trata de sectores de población hispana o afro-americana, que usan de esos tratamientos en una cantidad que representa tan sólo un
+tercio de lo que lo hacen los ciudadanos blancos del país. En Europa, por otro
+lado, un 32,8% de los europeos sufren un trastorno mental, pero sólo un tercio
+de ellos recibe tratamiento (vid. Echeburúa et al., 2014, 66). La atención a este
+problema ha de ser una prioridad del tiempo próximo en nuestras sociedades.
+Los logros de este trabajo sistemático que aspira a describir los diferentes tipos de perturbaciones a que puede hallarse sometida en nuestro tiempo la
+mente humana, dejan por otro lado en suspenso cuanto haya de decirse acerca
+de la índole última de esas dolencias, de su carácter bien sea fenoménico o sustantivo, de su condición orgánica o existencial. El catálogo pasa el tema a las
+manos de los investigadores —psiquiatras, médicos, psicólogos, clínicos, biologos, geneticistas, bioquímicos, y tantos otros—, que están tratando de avanzar
+en la comprensión de esos padecimientos, desde el marco de las neurociencias
+, las escuelas psicológicas contemporáneas e incluso la antropología. La abstención de juicio sobre las causas hace más visible, y más urgente, el seguir investigando para completar nuestro conocimiento sobre este tremendo campo de
+problemas que tanto dolor y tragedia acarrea a quienes se ven afectados, en sí
+mismos o en las personas cercanas, y tanto les aleja de la normalidad social. Y
+al mismo tiempo, pone de relieve la enorme ayuda que para el conocimiento
+de la realidad representa el método de la descripción rigurosa, ajustada al fenómeno, que sienta una base firme para cualquier desarrollo posterior y pone
+orden en un campo complejo e intrincado.
+Hace ya muchos años, tras atreverme a definir la psicología como “la
+ciencia explicativa de la vida biográfica”, añadía yo que era preciso integrar un
+conocimiento fenomenológico de la vida humana, como drama circunstancial de
+un yo en una circunstancia histórica y social determinada —y asimismo, diría
+ahora, también de sus trastornos y desórdenes existenciales—, con el conocimiento basado en el reconocimiento de una ‘estructura empírica’ esencialmente
+corpórea (Marías, 1970) que hace posible esa vida, y a la que hoy suponemos
+una ‘naturaleza’ con estructura, consistencia y legalidad determinadas, a la que
+atribuímos un papel esencial tanto en el “cómo” del concreto vivir como en los
+distintos “por qués” de las capacidades y aptitudes operativas, así como de sus
+trastornos, y de los procesos causales que la determinan en su acontecer. (Carpintero, 1974, 5-12).
+De esta suerte instrumentos como el DSM que hemos venido considerando contribuyen a la construcción de un cuadro fenoménico de rasgos que se
+dan en el ámbito de los desórdenes mentales, mientras que los crecientes conocimientos de las bases genéticas, bioquímicas, neurológicas y fisiológicas van
+enriqueciendo nuestro saber acerca de las condiciones ‘naturales’ en que se desarrolla esa existencia, y la antropología, y la sociología, añaden otras piezas
+igualmente necesarias para comprender el suceder vital de la persona, un suce-
+
+422
+
+
+
+der que es siempre un tejido de ‘acciones significativas en un mundo físicamente real’, como acertó a precisar M. Yela (Yela, 1989, 77).
+En este terreno, cualquier intento de ‘mecanización’ reduccionista de los
+trastornos mentales que busque su simplificación está fuera de lugar. Ello sólo
+puede llevar a la deshumanización del ámbito de la clínica, perdiéndose los rasgos propios de unas alteraciones y perturbaciones que afectan directamente a
+la personalidad de quienes las sufren. Pero, por otro lado, nada se puede llevar
+adelante sin una detallada y cada vez más precisa fenomenología de los casos
+patológicos, porque en los detalles se hallan sin duda ocultos elementos por
+descubrir que nos orienten hacia las causas de los mismos, y hacia la comprensión del sentido profundo con que los pacientes las experimentan. De ahí que
+una aportación como el instrumento analizado, con todas sus limitaciones y
+defectos, no puede dejar de ser bien venido.
+Su aparición vuelve a poner encima de la mesa el problema del estudio de la enfermedad mental, como un tema esencial para la salud social, y también para la comprensión del hombre mismo. El manual clasificatorio pone ante
+los ojos la enorme variedad de problemas y padecimientos que acosan a una
+humanidad sufriente y necesitada. Está en juego la comprensión del hombre, a
+partir de su psicopatología. Esta fue ya una vía que en su día desarrollaron los
+psicólogos y médicos de la tradición francesa, desde Charcot y Ribot en adelante
+, y que hoy es preciso reemprender con las nuevas armas de la ingeniería genética, la imagineria cerebral, la biología molecular, las neurociencias, la psicología y la nueva psiquiatría. Es un tema propio de las ciencias de la salud, y a la
+vez de las ciencias del hombre. Es un tema del que no pueden desentenderse
+tampoco las ciencias morales y políticas.
+Por otro lado, logros como la publicación de este manual, son de inmediato difundidos y generalizados por el mundo científico y sanitario que guarda
+relación con su tema. Y ello hace más evidente la unidad intelectual de nuestro
+mundo, la condición universal del conocimiento científico, y la unidad práctica,
+por debajo de las diferencias y discrepancias teóricas, unidad que liga a los profesionales de la salud mental en el mundo entero a la hora actual.
+
+423
+
+
+
+BIBLIOGRAFÍA
+
+ACHENBACH, T. y MCCONAUGHY, S. (1997): Empirically based assessment of child and adolescent psychopathology. Practical applications, Thonsand Oaks, Ca., Sage Publs.
+AMERICAN PSYCHIATRIC ASSOCIATION, (APA) (1952): Diagnostic and statistical manual of mental disorders, 1st edit., Washington, APA, (www.turcopsikiyatri.org/arsiv/dsm-1952.pdf)
+—, (APA) (1968): Diagnostic and statistical manual of mental disorders, 2nd. Edit., Washington,
+APA, (www.terapiacognitiva.eu/dwl/dsm5/DSM-II.pdf)
+—, (APA) (1983): DSM-III . Manual diagnóstico y estadístico de los trastornos mentales, Barcelona,
+Masson.
+—, (1994): Diagnostic and statistical manual of mental disorders, DSM-4 TM, Washington: American Psychiatric Association.
+—, (2013): Diagnostic and statistical manual of mental disorders, DSM-5, Arlington, Va.: American Psychiatric Association.
+ANDERSON, N. (2014): “APA’s work on behalf of people with serious mental illness”, Monitor on Psychology, 45(11), p. 9.
+ANDREASEN, N. (2001): Brave new brain. Conquering mental illness in the era of the genome. Oxford,
+Oxford U. Press.
+BARRIO, V. DEL, (2003): “Diagnostic and Statistical Manual of Mental Disorders”, en Spielberger, Ch.
+(ed.) Encyclopedia of Applied Psychology, Amsterdam, Elsevier, I, pp. 607-614.
+BERGER, F. (1970): “Anxiety and the discovery of the tranquilizers”, en Ayd, F.y Blackwell, B, eds.
+Discoveries in biological psychiatry, Philadelphia, Lippincott, pp. 115-129.
+BERRIOS, G.E. (1996): The history of mental symptoms. Descriptive psychopathology since the nineteenth century, Cambridge, Cambridge Univ. Press.
+CARPINTERO, H. (1974): “Psicología y vida”, Saitabi. (Valencia) XXIV, pp. 5-12.
+CLEGG, J.W. (2012): “Teaching about mental health and illness through the history of the DSM”, History of psychology, 15(4) pp. 364-370.
+DUNCAN, G. (2014): The future of diagnosing with the DSM-5,
+(http://www.slideshare.net/Guedde/lecture-on-dsm5-changes-for-ccgcnj)
+ECHEBURUA, E. y CORRAL, P. DE, (s.a.): Eficacia de las terapias psicológicas: de la investigación a la
+práctica clínica, en (mayarlingaparcedo.upweb.com)
+ECHEBURUA, E.; SALABERRÍA, K. y CRUZ-SAEZ, M (2014): “Aportaciones y limitaciones del DSM-5 desde
+la Psicología Clínica”, Terapia Psicológica, 32(1), pp. 65-74.
+ERON, L. ed. (1966): The classification of behavior disorders, Chicago, Aldine.
+EYSENCK, H. (1955): Psychology and the foundations of psychiatry, London, Institute of Psychiatry.
+FRANCES, A. (2009): A Warning Sign on the Road to DSM-5: Beware of its Unintended Consequences,
+Psychiatric Times, (maartens.home.xs4all.nl)
+—, (2012): “DSM-V is Guide not Bible-Ignore its ten worst changes”, Psychology Today (Dec. 2,
+2012).
+
+424
+
+
+
+FRANCES, A.J. y WIDIGER, T. (2012): “Psychiatric Diagnosis: Lessons from the DSM-IV Past and Cautions for the DSM-5 Future”, Ann. Rev. Clinical Psychol, 8, pp. 109-130.
+FRIAS, MD. y PASCUAL, J. (2003): “Psicología clinica basada en pruebas: efecto del tratamiento”. En
+Papeles del Psicólogo, 85, pp. 13-27.
+GOFFMAN, E. (1980): Internados. Ensayos sobre la situación social de los enfermos mentales, Buenos Aires, Amorrortu.
+GONZALEZ DE RIVERA, J.L. (1998): “Evolución histórica de la Psiquiatría”, Psiquis, 19 (5), pp. 183-200.
+GROB, G. (1991): “Origins of DSM-I: A study in appearance and reality”, Am. J. Psychiatry, 148(4),
+pp. 421-431.
+GUIMÓN, J. (1989): “Condicionamientos del diagnóstico psiquiátrico”, en Guimón, J. MEZZICH, J.E,
+y BERRIOS, G.E., eds.: Diagnóstico en psiquiatría, Barcelona, Salvat, pp. 3-8.
+INSEL, T. (2013): Transforming diagnosis, en Director’s Blog, NIHM web page, (Blog April 29,
+2013) (www.nimh.nih.gov/about/director/2013/transforming.diagnosis.shtml)
+KANDEL, E. (1998): “A new intellectual framework for psychiatry”, Am. J. Psychiatry, 155(4): 457-469
+KAPLAN, H.; SADOCK, B. y GREBB, J. (1994): Kaplan and Sadock’s Synopsis of psychiatry, Behavioral
+sciences clinical psychiatry, Baltimore, Williams and Wilkins.
+KENDLER, K.; MUÑOZ, R. y MURPHY, G. (2010): “The development of the Feighner Criteria: A historical perspective”, Amer. J. Psychiatry, 167,pp. 134-142.
+KIRK, S.A. y KUTCHINS, H. (1992): The selling of DSM. The rhetoric of science in psychiatry, Nueva
+York, Aldine de Gruyter.
+LAÍN ENTRALGO, P. (1943): Estudios de historia de la medicina y de antropología médica, Madrid,
+Eds. Escorial.
+—, (1958): La curación por la palabra en la Antigüedad clásica, Madrid, Revista de Occidente.
+LEYS, R. (1990): Adolf Meyer: a biographical note, en Leys,R. y Evans, R. eds., Defining American
+Psychology. The correspondence between Adolf Meyer and Edward Bradford Titchener,
+Baltimore, The Johns Hopkins Univ. Press, pp. 39-57.
+MAYES, R. y HORWITZ, A (2005): “DSM-III and the revolution of classification of mental illness”, J.
+Hist. Behav. Sciences, 41(3), pp. 249-267.
+MCGUIRE, R. (1983): “Clasificacion y el problema del diagnóstico”, en H. Eysenck, ed., Manual de
+psicología anormal, México, El Manual Moderno, pp. 3-29.
+MILLON, T. y KLERMAN, G., eds. (1986): Contemporary directions in psychopathology. Toward the
+DSM-IV, Nueva York, Guilford Press.
+MILLON, T. (1986): “On the past and future of the DSM-III. Personal recollections and projections”,
+en Millon & Klerman, op. cit., pp. 29-72.
+MIRA
+
+Y
+
+LOPEZ, E. (1935): Manual de psiquiatria, Barcelona, Salvat.
+
+MORALES MESEGUER, J.M. (1974): “Psiquiatria”, en Lain, P. dir. Historia Universal de la Medicina,
+Barcelona, Salvat, VI, pp. 217-228.
+NICOLAS, S. (2002): Histoire de la psychologie française, Paris, In Press.
+PÉREZ ALVAREZ, M. (2013): “Alternativas a las clasificaciones diagnósticas no faltan. Lo que falta es
+poder institucional para hacerlas valer”. Entrevista. Redacción, en Infocop, 63, pp. 7-12.
+
+425
+
+
+
+PICHOT, P. (1983): Prólogo a American Psychiatric Association, DSM-III. Manual diagnóstico y
+estadístico de los trastornos mentales, Barcelona, Masson.
+—, (1983 b): Un siglo de psiquiatria, Paris, R. Dacosta (Roche).
+RODRÍGUEZ MARIN, J. (2003): “Internacional Classification of Diseases (WHO)”, en Spielberger, Ch.
+(ed.) Encyclopedia of Applied Psychology, Amsterdam, Elsevier, I, pp. 349-354.
+ROTHBLUM, E.; SOLOMON, L. y ALBEE, G.W. (1986): “A socio-political perspective of DSM III”, en
+Millon, T. y Klerman, op. cit., pp. 167-189.
+SPITZER, R. and ENDICOTT, J. (1968): “DIAGNO. A Computer Program for Psychiatric Diagnosis Utilizing the differential Diagnostic Procedure”, Archives of General Psychiatry, 18 de junio,
+pp. 746-756.
+SZASZ, T. (1966): “The psychiatric classification of behaviour: A strategy of personal constraint”, in
+Eron, op. cit., pp. 123-170 y 38-41.
+—, (1976): El mito de la enfermedad mental, 2 ed., Buenos Aires, Amorrortu.
+TIMIMI, S. (2014): Pathological child psychiatry and the medicalization of childhood, Londres, Routledge.
+ULLMANN, L. y KRASNER, L. (1969): A psychological approach to abnormal behaviour, Nueva York,
+Prentice Hall.
+WILSON, M. (1993): “DSM-III and the transformation of American Psychiatry: A history”, Am. J. Psychiatry, 150(3), pp. 399-410.
+YELA, M. (1989): “Unidad y diversidad de la psicología”, en Mayor, J. y Pinillos, J.L., eds., Tratado
+de Psicología General, Madrid, Alhambra, vol. I., pp. 71-94.
+ZILLBOORG, G. y HENRY, G. (1968): Historia de la psicología médica, Buenos Aires, Psique.
+
+426
+
+

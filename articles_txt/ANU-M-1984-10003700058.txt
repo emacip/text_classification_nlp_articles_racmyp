@@ -1,0 +1,1158 @@
+MANUEL
+
+ALONSO
+
+OLEA
+
+LAS RAICES DEL TRABAJO ALIENADO
+EN CARLOS MARX
+
+Anales de la Real Academia de Ciencias Morales y Políticas, núm. 61, 1984
+
+
+
+
+
+Las raíces del trabajo alienado
+en Carlos Marx (*)
+Por el Académico de Número
+
+Excmo. Sr. D. Manuel Alonso Olea
+
+Una reflexión sobre el trabajo y su alienación en Marx debe prestar alguna
+atención a la interpretación usual de que para Marx existía una conexión estre
+cha entre propiedad privada y trabajo y, por consiguiente, es de presumir, entre
+propiedad privada y alienación del trabajo, con la consecuencia posible de que
+la abolición de aquélla condicionaba la desaparición de ésta.
+
+El estudio de estos temas es en efecto, creo, muy fructuoso porque ilumina
+el del origen del mismo de la alienación económica, en el contexto en que Marx
+lo situó predominantemente, que fue, como abundantemente se verá, el de la
+división del trabajo.
+
+Este es en sustancia el objeto central de la presente disertación.
+*
+
+*
+
+*
+
+Dejando a un lado el tema de si la reflexión de Marx sobre la propiedad en
+los Manuscritos (1) está referida a toda forma de propiedad o en todo grado a
+(*)
+
+Disertación en Junta del martes, 14 de marzo de 1983.
+
+La versión inicial de este trabajo apareció como parte de mi libro Alienación, Historia
+de una Palabra, 1974. Esta nueva versión, que amplía más que duplicándola la anterior,
+la he aportado al libro homenaje a nuestro compañero, Académico de Número, Excelen
+tísimo señor don Luis Diez del Corral. La reproduzco aquí con escasas, aunque algunas,
+variantes.
+
+(1) Nos referimos, por supuesto, a los Manuscritos, de Paris, de 1844. Utilizamos,
+
+salvo otra mención expresa, la traducción española de F. Rubio Llórente, Manuscritos,
+Economía y Filosofía, 3." ed., Madrid, 1970; tenemos también a la vista la ed. J. Hóppner,
+Leipzig, 1970, y la incluida en la ed. S. Landshut de los Frühschriften, raed., Stuttgart, 1971.
+39
+
+
+
+la propiedad de los medios de producción (2), y sin entrar en la crítica de fondo
+a que esta concepción global ha sido sometida, en cuanto se entendiera impli
+cada en ella la idea de que la abolición de la propiedad privada era la panacea
+para la solución de los conflictos sociales (3), ni en el apartamiento radical res
+pecto de Hegel—^para quien la propiedad no es sólo un medio para la satis
+facción de necesidades, sino "la exteriorización primera de la libertad y, por
+tanto, en sí misma un fin sustantivo" (4)— que implica notoriamente; sin entrar
+tampoco en la cuestión de cómo, si es que de alguna forma, se integra Marx
+
+en la larguísima serie de pensadores en los que la propiedad privada—enten
+diendo por tal cualquiera que de alguna forma no fuera de titularidad común—
+suscita una antipatía profunda (5), especialmente si conectada con problemas
+sociales de desigualdad y de pobreza; y tras de dejar dicho que desde luego
+Marx nunca pensó que un proceso simple de colectivización o nacionalización
+(2)
+
+Este tema, y su carácter diferenciador entre el socialismo y los comunistas pri
+
+mitivos, fue analizado extensamente, como es sabido, por E. Durkheim {Le Sociálisme,
+cap. II, ed. París, 1971, págs. 58 y sigs.).
+(3) "No puedo decir si la abolición de la propiedad privada es posible o ventajosa;
+pero sí afirmar que las premisas psicológicas ... [de las que parte la abolición] ... son in
+sostenibles." "Al abolir la propiedad privada privamos de un instrumento de agresión,
+ciertamente importante, aunque no el más importante; pero ni alteramos las diferencias
+
+de poder e influencia malusadas por la agresividad, ni en nada alteramos la naturaleza
+de ésta. La propiedad no creó la agresividad" (Freud, Civilization and its Discontents,
+trad. J. Strachey, Nueva York, 1962, pág. 60). En casi exactamente los mismos términos
+("...todos los problemas en que nos debatimos hoy subsistirán íntegramente"), E. Durk
+heim, Legons de Sociologie, ed. París, 1950, pág. 39. Esta idea puede tenerse como común;
+así, "la supresión de la propiedad privada de los medios de producción ... deja intactas
+las alienaciones de los aparatos industrial, estatal y del partido" (F. Perroux, Aliénation
+et société industrielle, París, 1970, pág. 111); en el mismo sentido, R. Aron, L'opium des
+intellectuels, París, 1955, págs. 129-130. En general, la noción de una vida humana sin
+conflictos "no es solamente una idea utópica, sino también incoherente", "... una fantasía
+incoherente", se dice (I. Berlín, Necesidad y libertad en la historia, trad. J. Bayón, Ma
+drid, 1974, págs. 48-49). Las citas podrían multiplicarse.
+(4) Filosofía del Derecho, § 45 (en general utilizamos la ed. Hoffmeister, 1955, reimpr.,
+
+Hamburgo, 1967); se añade en § 46 que el Estado ideal platónico "viola los derechos de
+la personalidad al prohibir la propiedad privada...; sin embargo, como observa T. M. Knox
+{Hegel's Philosophy of Right, Oxford Univ., 1969, pág. 322), en la República sólo el esta
+mento superior está privado de" este derecho. El apartamiento de Marx respecto de Hegel
+no es inicial, sino consecutivo, para un segundo momento en el que ve al hombre domi
+nado por la propiedad a la que ha dado su ser; en el momento primero, como Hegel, ve
+en la propiedad privada aquello en lo que "se reconoce el hombre a sí mismo como su
+esencia", y cita aprobatoriamente la frase de Engels según la cual Adam Smith es "el
+Lutero de la Economía" por haber eliminado la "adoración" de la propiedad como algo
+externo e independiente {Primer manuscrito, ad. a XXXVI; ed. cit., págs. 135-136; sobre
+la referencia de Engels y la influencia de Feuerbach en este texto, F. Rubio Llórente,
+loe. cit., pág. 217, nota 1). Ver también E. Vázquez, Dialéctica y Derecho en Hegel, Ca
+racas, 1968, págs. 45 y ss.
+
+(5) Por ejemplo, entre otros muchos, en Pascal o en Bossuet; este último, por cierto,
+citando a S. Juan Crisóstomo (ver, con las referencias pertinentes, C. Rosso, Mythe de
+l'egalité et rayonnement des Lumiéres, Pisa, 1980, pág. 14).
+40
+
+
+
+de la propiedad constituyera el tipo de abolición en que estaba pensando, pues
+esto sería, dice, "la vulgaridad de oponer a la propiedad privada la propiedad
+privada universal" y "concebir entonces la sociedad como un capitalista abs
+tracto" (6) —o "toda la sociedad como proletariado", según la apostilla del intér
+prete (7)—, lo cierto es que en la medida en que contempla Marx la posibilidad
+de la desaparición del trabajo alienado, ésta no tanto se centra sobre la desapa
+rición simultánea de la propiedad privada, como sobre la exigencia antecedente
+de un fabuloso desarrollo tecnológico que permita la reducción del tiempo de
+trabajo necesario o forzoso y amplíe el de trabajo libre y según la vocación y
+el gusto personales. Es difícil decir, sin embargo, si pensó que la abolición del
+"reino de la necesidad" propio del trabajo alienado exigiría antes la transfor
+
+mación de las estructuras socio-económicas o si ésta habría de derivarse obliga
+damente de las propias condiciones objetivas o, en la peculiar terminología usual
+suya y de sus intérpretes, del desajuste entre las fuerzas productivas y las rela
+ciones de producción.
+(6) Ensayo para una critica de la Economía política, en la ed. M. Rubel, Oeuvres,
+vol. II, París, 1968, págs. 68 y 76-77. Al comentar el texto, dice Rubel que el "capitalista
+abstracto ... es el Estado, amo del capital y del esclavo asalariado ... tema que Marx
+se proponía desarrollar ... no haciéndolo falto de la incitación de ejemplos históricos en
+
+su época" {loe. cit., pág. 1610). En este pasaje, Marx está criticando a Proudhon y la
+igualdad de salarios defendida por éste; esto no haría; dice, "más que transformar la re
+lación actual del trabajador con su trabajo en la relación de todos los hombres con el
+
+trabajo", de donde se saca, según se acaba de decir, que "la sociedad es comprendida en
+
+tonces como capitalista abstracto" (Primer manuscrito, XVI; ed. cit., pág. 117^ Como dijo
+uno de los primeros comentaristas de los Manuscritos, Marx no veía en la expropiación
+en masa sino "la abolición de la forma exclusiva de propiedad privada", pero con sub
+
+sistencia de "su esencia generalizada" o, en términos dialécticos, una mera negación, sin
+una negación de la negación de la que surgiera una síntesis nueva (ver H. P. Adams, Karl
+Marx in His Earlier Writings, estudio publicado en 1940; cito por la reimpresión de
+Londres, 1965, págs. 110-111). El tema se analiza hoy dentro de la discusión de si en una
+
+"sociedad socialista" subsiste la alienación, o alguna de sus variantes; ver sobre el mismo,
+A .ScHAFF, Marxismus und ,das menschliche Individuum, Viena, 1945; M. Iovtchouk y
+
+L. Kogan, "Changement daiís la vie spirituelle des ouvriers en URSS", en La sociologie en
+URSS, Moscú, 1966; J. Israel, L'áliénation de Marx á la sociologie contemporaine, París,
+1972, págs. 380 y siguientes; E. Mandel, The Marxist Theory of Alienation, en el libro,
+con el mismo título, suyo y de G. Novach, Nueva York, 1970, págs. 5 y siguientes; muy
+ampliamente en H. Marcuse, Soviet Marxism, Londres, 1958; en un pasaje concreto de
+esta obra, "por definición no hay trabajo alienado en la sociedad soviética porque la pro
+ducción está nacionalizada. Pero la nacionalización no precluye la alienación; ésta pre
+valece en tanto el tiempo de trabajo (socialmente necesario) sea la medida de la riqueza
+social" (loe. cit., pág. 238). Está este tema muy ligado al de igualitarismo, o anti-igualitarismo, de Marx, como muestra el estudio de R. Colangelo, "Igualdad y sociedad de
+Rousseau a Marx", en Presencia de Rousseau, Buenos Aires, 1972, en especial, págs. 211 y
+siguientes, y patéticamente los de G. della Volpe, incluidos en Rousseau y Marx, 2." ed.,
+Barcelona, 1972 (ver especialmente págs. 68-74 y 106-109).
+(7) S. Landshut, Einleitung, a su ed. de los Früschriften, cit., pág. xliii; en págs. xlixliv un tratamiento relativamente detenido del tema. También, F. Rodríguez, Introducción
+en la Política Social, vol. II, Madrid, 1984, pág, 97.
+41
+
+
+
+Por otro lado, la tesis misma de que el trabajo alienado es sin más una con
+
+secuencia de la propiedad privada, es dudoso que Marx la mantuviera y menos
+
+que lo hiciera de esta forma tan clara y simple. Más bien Marx pensó en una
+relación estructural compleja con arreglo a la cual la propiedad privada es más
+consecuencia o efecto que causa del trabajo alienado, aunque ya instituía como
+
+régimen de titularidad de bienes de producción fuera entonces el medio a través
+del cual el trabajo sucesivamente se aliena. Expresado de otro modo, la propiedad
+privada "maximiza" la alienación del trabajo, pero ésta está radicalmente para
+Marx fundada en la objetivación misma del trabajo humano en sus obras (8). La
+interpretación según la cual "mirada de otro lado" la relación puege llegarse a
+la conclusión de que en Marx al revés de lo recién dicho, es la propiedad pri
+vada la que funda originariamente el trabajo alienado me parece arbitraria, por
+mucho que se quiera fundar en una "filosofía de las relaciones internas que
+dominara el pensamiento de Marx (9). Partir, por otro lado, para un análisis,
+sea crítico sea apologético, de Marx de la tesis "en el capitalismo el trabajador
+está alienado" es un grave error metodológico; no porque la tesis no sea cierta
+
+para Marx, sino porque para éste es conclusión más que tesis, con lo que la
+indagación se comienza, omitiendo desarrollos previos fundamentales, casi donde
+debiera concluir (10).
+
+El análisis del concepto de trabajo alienado muestra, dice textualmente Marx,
+
+"que aunque la propiedad privada aparece como fundamento, como causa del
+trabajo enajenado [alienado], es más bien una consecuencia del mismo ; El
+trabajo enajenado es la causa inmediata de la propiedad privada' ; o ésta el
+producto, el resultado, la consecuencia necesaria del trabajo enajenado" [alie
+nado]. Sólo "después, esta relación se transforma en una interacción recíproca";
+(8) Para un examen extenso de esta importante cuestión, ver cap. II.B de L. GonzáLEZ Seara, La Sociología, aventura dialéctica, Madrid, 1971, especialmente págs. 100 a 104.
+(9) Esta interpretación en B. Ollman, Alienation, Marx's Conception of Man in Capitalist Society, Cambridge, 1971, págs. 158 y sigs. También, superficialmente, al final de
+su breve libro, en P. Singer, Hegel, Oxford, 1983, pág. 83.
+
+(10)
+
+Este es, a mi juicio, el defecto del largo cap. II, parte III, págs. 262 a 365, del
+
+libro de Gálvez, El pensamiento de Carlos Marx. trad. F. Trapero, Madrid, 1966; el
+defecto es especialmente grave, siempre a mi juicio, porque Gálvez reconduce hacia la
+"alienación económica"—que abre con la tesis citada, pág. 262—las versiones "política
+
+(págs. 177 a 204; ver especialmente pág. 199) y "social" (págs. 205 a 261; ver especial
+
+mente pág. 205) de la alienación en Marx, como se confirma en págs. 481 y sigs., aunque
+
+justamente en éstas, cuando se está hablando ya de El fin de la alienación, surp la duda,
+planteada sin precisión y no resuelta, representada por la existencia en Marx, junto a la
+
+alienación económica [que] es esencialmente capitalista", "paralelamente de una forma
+
+de objetivación de hombre y su producto en el valor que es susceptible de provocar la
+
+alienación" {loe. cit., pág. 492; en el original, las cursivas).
+42
+
+
+
+la propiedad privada sólo "en segundo término" Wen primer lugar... es el pro
+ducto del trabajo enajenado"— es el medio por el cual el trabajo se enajena" (11).
+Desechada, pues, en términos inequívocos por Marx la idea de que la pro
+
+piedad privada sea el origen del trabajo alienado, hay que preguntarse por dónde
+sitúa tal origen. Parece evidente, de toda evidencia, que la causa originaria se
+sitúa por Marx en la división del trabajo: la causa es "la división del trabajo
+y la estructuración de la propiedad [es] resultado de ella" (12). Se entra segui
+damente en este tema, el fundamental de este ensayo.
++
+
+♦
+
+*
+
+Si para el Marx de los Manuscritos se desecha la propiedad privada como
+fundante, parecería que en los mismos debiera plantearse seguidamente el tema
+de cuál sea entonces el origen o la causa del trabajo alienado, si éste es, a su
+vez, se insiste, "fundamento" y "causa" de la propiedad privada. Porque las
+preguntas radicales entonces son: "¿Cómo llega el hombre a enajenar, a extra
+ñar su trabajo!", "¿cómo se fundamenta este extrañamiento en la esencia de
+la evolución humana?" Estas preguntas son, en efecto, y en la forma en que se
+han transcrito literalmente, las que se formula Marx hacia el final del conocido
+como Primer manuscrito; pero poco después de formuladas concluye éste abrup
+tamente y quedan en él sin contestar (13).
+La respuesta ha de ser buscada con toda seguridad en la por tantos con
+ceptos reveladora Ideología alemana, e inequívocamente es ésta para Marx: la
+(11) Primer manuscrito, XXV; ed. cit., pág. 116; las cursivas, en el original; las ex
+presiones [alienación] y derivadas, mías. Sobre el lento origen real de la propiedad privada
+de los distintos tipos de bienes, ver A. S. Diamond, Primitive Law, Past and Present, Lon
+dres, 1971, págs. 164, 189, 211, 251 y, especialmente, el resumen de págs. 369-377; este
+libro es también de sumo interés para el conocimiento de la historia de la división del
+
+trabajo, cuyos orígenes se sitúan hoy, en general, no en la aparición de un estamento ni
+trabajo "intelectual" de ningún tipo, sino en la especialización de trabajadores manuales
+mineros y metalúrgicos en la Edad del bronce (ver A. Arribas Palau, La Edad del Bronce
+en la Península Ibérica, en J. iVI. Gómez Tabanera, ed., Las raices de España, Madrid,
+1967, págs. 66-68; L. Mikarius, Les labours du forgeron, en S. C. Beaune, La technologie, París, 1972, págs. 79-80; J. Maluquer de Motes, La prehistoria española, Madrid,
+1975, págs. 60 y 65). Incluso el metalúrgico puede ser "de otra raza que el resto de la
+población" (E. Durkheim, De la división du travail social, 2." ed., reimp., París, 1967,
+2.° IV, pr.; pág. 295).
+Por lo demás, en general, para el' lector actual de Marx la tesis aparece sin discusión:
+
+"la propiedad privada no. es sino la consecuencia de la alienación"; "la propiedad pri
+vada, fruto de la alienación" (H. Denis, V'Economie" de Marx. Histoire d'un échec, París,
+1980, pág. 20).
+(12) Ideología alemana, III.2.1.5; utilizamos la trad. española de W. Roces, 4." ed.,
+Barcelona, 1972, pág. 435.
+
+(13)
+
+Primer manuscrito, XXVI; ed. cit., pág. 118; las curvas en el original. Puede,
+
+en efecto, afirmarse con Popitz que "la pregunta por el origen de la alienación se es
+quiva" o "queda en una abierta lejanía" (H. Popitz, El hombre alienado, trad., Buenos
+
+Aires, 1971, págs. 154-155); en cualquier caso, "la respuesta a estas preguntas no está
+43
+
+
+
+raíz inmediata de la alienación —y mediata, por lo dicho, de la propiedad priva
+da— es la división del trabajo. En una cita relativamente larga por su impor
+tancia en esta,exposición: "El poder social, esto es, la fuerza productiva... que
+nace de la cooperación de los individuos condicionada por la división del
+
+trabajo, no se les aparece como su propio poder común, porque la cooperación
+no es voluntaria, sino natural; se les aparece, al contrario, como un poder ajeno
+y hostil situado fuera de ellos, que no saben de dónde viene ni dónde va, que
+no pueden, pues, dominar..."; y a renglón seguido: "Esta alienación...", etc. (14).
+"El individuo en cuanto tal... se ve subsumido bajo la división del trabajo, ais
+lado, empequeñecido, determinado por ella" (15).
+Como diría Luckács comentándole, "la especialización en la ejecución del
+trabajo hace desaparecer toda imagen de totalidad", lo que se suma a que el
+fruto del trabajo —en cuanto no sea consumido directamente, parece—, la mer
+
+cancía (que "no puede ser comprendida en su esencia auténtica... [sino]... como
+categoría universal del ser social toatl") cosifica o reifica el trabajo, que así
+se opone al hombre "como algo objetivo, independiente de él y que le domina
+con sus leyes propias, extrañas al hombre" (16).
+En suma: no en la explotación, "que meramente la manifiesta", ni en la
+sociedad capitalista, "en la que culmina... lo que ha existido a lo largo de toda
+la Historia", ni en la dependencia sobre el intercambio de mercancías, ni en la
+propiedad privada, mero "producto, resultado o consecuencia", "sino en la divi
+sión del trabajo se localiza el origen y el desarrollo de la alienación" para
+en los Manuscritos" (H. Marcuse, The Foundations of Historical Materialism, en "Studies
+in Critical Philosophy", Boston, 1972, pág. 36; Marcuse añade, con vaguedad, que se
+halla "en sus críticas posteriores de la economía política", y añade después que "el origen
+real de la alienación ... tiene para Marx como punto de arranque la división del trabajo",
+loe. cit., págs. 36-37; las cursivas son de Marcuse).
+
+(14) La ideología alemana, I.A.l; ed. cit., pág. 36; he aliviado algo la traducción. El
+texto sigue con la frase irónica, "para que nos entiendan los filósofos", referida a la alie
+nación. La ironía se reitera al criticar a Stirner: "para él ... las relaciones reales se en
+
+cuentran ya como enajenadas ... [explicadas por] ... la frase perfectamente abstracta de
+la enajenación" (ed. cit., pág. 326; ha llamado mi atención sobre esta segunda referencia
+el trabajo inédito de un curso de doctorado de R. Ramos Torres, La alienación en la
+
+"Ideología alemana"). No entro aquí en el impacto tremendo, y fácilmente comprensible,
+que la lextura Stirner causó en Marx.
+
+(15)
+
+Ideología alemana, 1II.2.1I1.6; ed. cit., pág. 524.
+
+(16) Hístoire et conscience de classe, trad. K. Axelos y J. Bois, París, 1960, págs. 113114 y 133. Lukács no habla, sin embargo, de alienación; por otra parte, a su análisis de
+la división del trabajo se une en seguida "el principio de la racionalización basado en el
+cálculo" Qoc. cit., pág. 115 y sigs.), derivando su reflexión hacia Max Weber. Pero de
+nuevo hay aquí una clara intuición de pensamiento de Marx por Lukács. En la Ideología,
+"la condición necesaria para la aparición de la alienación ... es la división del trabajo",
+según el estudio en profundidad de Ramón Torres, citado.
+44
+
+
+
+Marx (17). Es de la división del trabajo de donde surge la sumisión a los pode
+res extraños, superiores al individuo (18) en que la alienación consiste. O, más
+brevemente, "la causa de [la] perversión está en la división del trabajo" para
+Marx (19), o para éste, "la clave del entendimiento del proceso de alienación
+humana se encuentra en la división social del trabajo" (20); o es a este fenó
+meno al que en definitiva remite el tema de la alienación económica en Marx (21);
+y aun el de la alienación social, si se quiere, que en efecto resulta en Marx
+de "un proceso de diferenciación social inducido por la división del trabajo" (22).
+Cuando menos se acepta que la alienación emerge de la propiedad privada
+y de la división del trabajo; por ello, trascender la alienación "lleva necesaria
+mente a la liquidación de la propiedad privada y de la división del trabajo" (23);
+"la naturaleza involuntaria de la división del trabajo [que "abarca toda la his
+toria humana"] es central en la teoría de la alienación de Marx" (24). Inocen
+temente, dentro de un pretencioso estudio, sin percatarse de la trascendencia
+
+temática de la afirmación, la importancia que para Marx tenía la autodirección
+del propio trabajo, "le hizo rechazar el principio de la división del trabajo" (25).
+O, desesperadamente, precisamente porque se ve dentro del callejón sin salida:
+la "alienación —en la que "culmina el discurso de Marx"— debe en consecuen(17) V. SiEGRiST, Entfremdum und Gerechtigkeit. Die Entfremdung bei Marx, en
+Studia Philosophica, vol. 38, 1979, págs. 81-82; con abundantes citas de Marx; en el ori
+ginal, las cursivas.
+
+(18) A. Gehlen, Uber die Geburt der Freiheit aus der Entfremdung, en H.-H. Schrey,
+Entfremdung, cit., pág. 35; en el mismo sentido y lugar, O. Schatz, Entfremdung ais
+anthropologisches Problem, págs. 152-153.
+(19) L. Legaz, Alteración y alienación, en "Humanismo, Estado y Derecho", Madrid,
+1960, pág. 378. Quizá esto explique que se llegue a decir por SwiNGEVVfOOD {Marx and
+Modern Social Theory, Londres, 1975, págs. 105-106) que es "evidentemente cierto que
+la primera discusión [la de los Manuscritos] de la alienación en Marx ... es una forma
+de determinismo que atrapa a trabajador y capitalista en procesos sociales irreversibles
+que ni entienden ni pueden cambiar".
+(20) S. Sánchez González, El pensamiento jurídico político de Marx (II), en "Revista
+de Derecho Político", Madrid, UNED, núm. 13, 1982, pág. 105.
+(21) J. Castillo Castillo, Sociología de la Empresa, UNED, Madrid, 1976, pág. 93.
+(22) V. PÉREZ Díaz, El proyecto moral de Marx cien años después, en "Papeles de
+Economía Española, núm. 17, 1984, pág. 80. Inducido "desde siempre" para Marx y no
+sólo por la economía capitalista, se añadiría.
+(23) A. ScHAFF, Eine Analyse des Begriffapparates des Marxchen Entfremdungs Theorie, en M. Brenner y H. Strasser, eds., Die gesellschaftliche Konstruktion der Entfremund, Francfort, 1977, pág. 30; es Schaff quien pone en cursivas la conjunción. En el
+mismo sentido, J. J. Caballero, Evolución tecnológica y alienación del obrero industrial,
+en "Rev. de Política Social", núm. 123, 1979, pág. 143.
+
+(24) I. Wallimann, Estrangement. Marx's Conception of Human Nature and the Di
+visión of Labor, Westport, 1981, pág. 97; "de centralidad absoluta" (pág. 96); el elemento
+básico "de la teoría de Marx sobre la alienación ... es la división involuntaria del traba
+
+jo" (pág. 137; también págs. 166-167).
+(25) B. Baxter, Alienation and Authenticity. Some Consequences for Organized Work,
+Londres, 1982, pág. 120. Un libro pintoresco éste.
+45
+
+
+
+cia persistir hasta que la división del trabajo sea trascendida... [lo que es]...
+fuente de problemas de interpretación interminables e irresueltos" (26).
+Inocencia y desesperación proceden de que aquélla no es consciente en un
+
+caso y ésta sí lo es, en primer lugar, del papel crucial que la división del trabajo
+tiene para Marx en este contexto; en segundo término, que para el no consciénte trascender la división es problema que su ignorancia deja de plantearse,
+ahorrándose así toda su dificultad; mientras que al consciente aquella tras
+cendencia le parece una idea utópica o, lo que es más grave, incoherente, con
+
+lo que él se encierra y encierra a Marx en el cuarto oscuro de lo pre-científico,
+o ambos cogidos de la mano llegan a un callejón sin salida' o del que sólo se
+puede salir retrocediendo; que el retroceso implica el abandono de la aliena
+ción como soporte teórico le parece quizá irremediable, de ahí su desespera
+ción ante los Manuscritos. Que Marx se sintiera maniatado por su línea argumental y que, si así fue, no intentara seguir otra, sin otros temas. Sigamos, pues.
+
+La simplificación ingenua del problema de la propiedad privada reduciéndolo
+a una división entre capital y trabajo, y mucho más presentar esta división en
+Marx como causa de la que derive la división del trabajo "especialmente de la
+división entre trabajo manual e intelectual" (27), no merece la pena siquiera
+de ser discutida dada su falta de fundamento y superficialidad notorias. Casi
+exactamente lo mismo puede decirse de alguna opinión según la cual "para
+Marx ["y para marxistas superficiales hoy"] esos males [de la sociedad] fluyen
+de la propiedad privada"; una conclusión simplista para quienes hoy piensan
+
+"que son parte de problemas mayores y más complejos enraizados en las bases
+tecnológicas, organización y tamaño de la sociedad moderna" (28), no tanto
+porque la crítica conclusión sea equivocada como por la imputación cuando menos
+a Marx de la "simplista" contraria; para Marx, una vez más, los males no fluyen
+originariamente de la propiedad privada, sino de la división del trabajo. Otra
+cosa es que esto, a su vez, parezca o sea simplista.
+
+La divisio'n. del trabajo de que se está hablando es para Marx consecutiva
+a una situación inicial "de igualdad del hombre y la naturaleza" —construcción
+similar a algunas de las de Rousseau, no infrecuentes, por lo demás, en el pen(26) Benson, Proletarians and Parties, Londres, 1978, pág. 15; tímidamente sugiere
+a continuación Benson que Marx utilizó en este contexto "...la expresión 'trascendencia'
+en vez de 'abolición' en relación con ... la división del trabajo"; pero se desanima en
+
+seguida: "pero el hecho es que nunca se aclaran las formas de esta transcendencia".
+(27) J. Israel, Entfremdumg und Verdinglichung ais erkenntnistheoretischen Problem des Marxismus, en Brenner y Strasser, loe. cit., pág. 44.
+
+(28) E. Kamenka y A. E. S. Tay, Socialism, Anarchism and Law, en los mismos, eds.
+Law and Society, Londres, 1979, pág. 53. Aquí, por excepción, son mías las cursivas.
+46
+
+
+
+Sarniento de los ilustrados (29) y a las de Hegel y probablemente toma de
+éste—posible "porque la naturaleza aún no ha sido apenas modificada por la
+historia", de la que emerge una humilde vida social como "simple conciencia
+gregaria", que ulteriormente se perfecciona "por el aumento de la productividad
+y de las necesidades, y por el aumento de la población, que está en la base de
+otros factores" (30), de donde después surgen relaciones de intercambio, que a
+su vez refuerzan tanto la división del trabajo como la propiedad privada con
+secuente (31).
+Es, pues, de la situación humana inicial de donde deriva la división del
+
+trabajo, "reposando sobre la división natural del trabajo en la familia" —lo que
+presupone, dicho sea de paso, la naturalidad de ésta, de la que la naturalidad
+de la división del trabajo en ella es consecuencia (32)—, siendo, por tanto, como
+ésta misma, "una división que deriva de la naturaleza (vigor corporal, por
+
+(29)
+
+Así, para Condorcet, "la división del trabajo en las grandes sociedades establece
+
+entre ... los hombres una distancia incompatible con la igualdad" {Memoria sobre la ins
+trucción pública; tomo esta referencia de la Introducción de A. Torres deI Moral al
+Bosquejo de un cuadro histórico de los progresos del espíritu humano, Madrid, 1980, pá
+gina 70).
+
+(30) Ideología alemana, l.A.l; cit., pág. 32. Este tema sería recogido después por
+Durkheim, como ha subrayado C. Moya (Desarrollo y cambio social en Durkheim, en "Re
+vista de Trabajo", núm. 31, 1970, pág. 54); para Durkheim, la división del trabajo es
+"hecho derivado" de lo que denomina "densidad social" —derivado necesariamente: "no
+[es] que el crecimiento y la condensación de las sociedades permitan, sino que necesitan
+una mayor división del trabajo"— que si tiene un aspecto "éinámico" o "moral" consti
+tuido por el acercamiento y la actividad de las relaciones sobre los hombres, tiene tam
+bién un aspecto "material", de crecimiento de población, de aumento demográfico, siendo
+"inútil, por lo demás, buscar cuál de las dos [densidades, moral y material, fundantes de
+la división del trabajo] ha determinado la otra; basta con hacer notar que son insepa
+rables". Por lo demás, Durkheim no vio en la división del trabajo algo que fuera fuente
+de alienación —de anemia en su terminología— aunque ésta pudiera derivarse de aquélla
+
+patológicamente en situaciones excepcionales (en Moya, loe. cit., de donde se toman las
+referencias de esta nota pueden consultarse los textos básicos de Durkheim al respecto).
+La correlación estricta entre las densidades "dinámica" y "material" fue matizada poste
+riormente por Durkheim, pero recalcando que el uso indiferente de una u otra "es abso
+
+lutamente legítimo en todo lo relativo a los efectos económicos de lá primera, por ejem
+plo, la división del-trabajo como hecho puramente económico" (Les regles de la méthode
+sociologiqué, 13." ed., París, 1956, pág. 113). En definitiva, para Durkheim la división
+del trabajo es "un factor de cohesión e integración del cuerpo social", como ha señalado
+Birnbaum (Prefacio a la ed., París, 1971, de Le socialisme, pág. 8).
+(31) Sobre los efectos de la relación de intercambio en Marx, ampliamente, F. Ro
+dríguez, Introducción..., cit., págs. 89 y sigs.
+(32) La familia, en efecto, "contiene dentro de sí la división del trabajo dominante
+en la sociedad [primitiva] como un todo"; "la división de trabajo por sexos no es la
+
+única conocida en las sociedades primitivas, pero es la forma dominante, que trasciende
+toda otra especialización..." (M. Sahlins, Stone Age Economics, Londres, 1972, págs. 10
+y 78-79; en el original, las cursivas).
+47
+
+
+
+ejemplo), de la necesidad, del azar" (33). La actividad a la que cada hombre
+se dedica es independiente por completo de sus propias voliciones o, todo lo
+más, viene determinada por sus propias aptitudes; en la muy difundida y no
+siempre bien entendida cita —irónica respecto del crítico—, el hombre "se mue
+ve en un círculo exclusivo de actividades que le es impuesto y del que no
+puede salirse; el hombre es cazador, pescador, pastor o crítico y no tiene más
+remedio que seguir siéndolo" (34).
+Posiblemente con toda esta insistencia sobre la predeterminación de la divi
+
+sión del trabajo, esté queriendo Marx presentar una posición contraria a la de
+Adam Smith, por quien se negó vigorosamente que los "talentos naturales", en
+virtud de los cuales a su juicio los hombres se diferencian muy poco entre sí,
+fueran la causa de la división del trabajo; "las diferencias... [entre un filósofo
+y un peón, dice Smith para ilustrar con claridad su tesis]... surgen no tanto de
+la naturaleza como del hábito, de la costumbre y de la educación"; terminan
+
+temente, tales diferencias "no son la causa, sino la consecuencia de la división
+del trabajo" (35), independientemente de que Smith pensara, como Hurne, que
+"con la división del trabajo nuestras habilidades aumentan" (36) y de que, desde
+luego, viera en ella "el motor del desarrollo económico" (37), como en ella vería
+después Durkheim una necesidad crítica "que progresará de manera continua
+(33) Ideología alemana, I.A.l.; ed. cit., págs. 32-33; la frase entre paréntesis es del
+original. Se añade que una división separa el trabajo manual del intelectual, a partir de
+cuyo momento la conciencia puede imaginarse que es algo real y engendrar la teoría
+"pura", la filosofía, etc. Sobre la división del trabajo entre hombre y mujer como origi
+naria, W. S. Neff, Work and Human Behavior, 2." ed., Chicago, 1977, págs. 266-276.
+(34)
+
+Ideología alemana, I.A.l; ed. cit., pág. 34.
+
+(35)
+
+Wealth of Nations, libro I, cap. 11 (ed. Seligman, Londres, 1950, vol. I, pág. 14).
+
+La animosidad de Marx contra Smith fue evidente, como es sabido, aunque rara vez se
+
+atreve al ataque frontal y muchas veces encubre una admiración disimulada, aunque en
+tonces tienda a presentarle como un discípulo listo de A. Ferguson, autor de una History
+of Civil Society, publicada en 1767; así en Capital, 1.°, 4.°, XII, IV; ed. cit., pág. 233;
+y en la sig. sec. V, nota. En Ferguson, por cierto, aparece también la afirmación melan
+cólica que "el pensar mismo puede llegar a convertirse en un oficio especial en esta
+era dé división"; tomo esta referencia de R. Plant, Hegel, Londres, 1973, pág. 22, quien,
+a su vez, señala el paralelismo de pasajes de Schiller y Marx en cuanto a la división del
+
+trabajo; comparénse, en efecto, los pasajes de ambos que aparecen en loe. cit., págs. 21
+y 22. Sobre el tema existe un estudio "intrigante", según la expresión de D. P. O'Brien,
+The Classical Economicts, Oxford, 1975, pág. 51, de R. Hamowy, Adam Smith, Adam
+
+Ferguson, and the División of Labour (en Economica, n. 35, 1968), que desafortunada
+mente no he podido consultar. Por su parte, O'Brien señala la influencia sobre Smith
+de F. Hutcheson {loe. cit., págs. 29, 34 y 78) en varios puntos, el de la división de tra
+
+bajo entre ellos. Ferguson no aparece —sí Hutcheson— entre los "predecesores" de Adam
+Smith en el libro de R. L. Meek (Precursors of Adam Smith, 1750-1775, Londres, 1973).
+
+(36) Treatise of Human Nature, libro III, parte II, cap. II (ed. 1739, reimp. de la de
+L. A. Selby-Bigge, Londres, 1888, pág. 485).
+
+(37)
+48
+
+D. P. O'Brien, The Classical Economists, cit., pág. 170.
+
+
+
+con el desarrollo social" (38), tras de atribuir, por cierto, a Adam Smith tanto
+la invención de la expresión división del trabajo como el primer ensayo de cons
+trucción teórica sobre ella (39). Expuestas sin maximalismos las posiciones res
+pectivas, mientras que para Duskheim la división del trabajo, tanto social como
+material, es sobre todo la expresión de una forma decisiva de solidaridad social,
+para Marx "expresa, sobre todo, un sistema de dominación" (40).
+
+Simple y precisamente por esta supuesta naturalidad estricta de la división
+del trabajo, por no "dividirse el trabajo voluntariamente" entre los individuos,
+la división del trabajo es alienante o es el origen radical de la alienación para
+
+Marx, puesto que tan pronto como la división del trabajo adviene, cada hom
+bre queda emplazado en una esfera particular y exclusiva de actividad, que se
+le impone y de la que no tiene escape; con sus palabras, de aquí se derivan
+"todas las contradicciones", así como "la distribución desigual, tanto cualitativa
+como cuantitativa, del trabajo y de sus productos; es decir, la propiedad" (41).
+En efecto, nos hallamos ante o aquí incurre Marx en "la trivialidad de criticar
+un fenómeno evidentemente inmodificable" (42).
+
+Aparte de que, como nos diría después, "la división del trabajo convierte el
+producto del trabajo en mercancías" (43), aislándolas de cada trabajador, lo que,
+con olvido —resonando aquí ecos bíblicos— de que son "el fruto de sus manos",
+lleva hacia su contemplación aislada e independiente, y a verla en relación con
+otras, y genera así el fetichismo, "el fetichismo de las mercancías" (44).
+(38) De la división..., 2.°, II.I.2; ed. cit., pág. 244; para este tema ver en general
+libro 2.°, cap. II, págs. 237 y sigs.
+(39) Loe. cit., introducción, pág. 1.
+
+(40) O. SOLLOWAY y H. Strasser, Zur soziologischen Theorie der Entfremdung und
+Anomie, en M. Brenner y H. Strasser, Die gesellschaftliche..., cit., págs. 86-87. Para la
+distinción entre división social y material del trabajo, remito a mi Derecho del Trabajo,
+8.'' ed., Madrid, 1983, cap. preliminar.
+
+(41) Ideología alemana, ed. cit., pág. 33, en el original las cursivas; nótese la reapa
+rición de la oposición hegeliana naturaleza-libertad. A esto lo llama Popitz "la trivialidad
+de criticar un fenómeno evidentemente inmodificable".
+
+(42) Popitz, El hombre alienado, cit., pág. 147; lo que constituye en este autor un
+ataque inesperado contra Marx, que quiere justificar negando que Marx hiciera esta
+reflexión sobre el fenómeno, lo que es erróneo, evidentemente.
+
+(43)
+
+Capital, 1.°, III, II, a; uso la ed. de Kautski, Viena, 1929, reimpresión, Stuttgart,
+
+1969, pág. 79.
+
+(44)
+
+En efecto, Marx en su texto más preciso {Capital, 1.°, I, IV)—"yo llamo feti
+
+chismo a esto"—habla del fetichismo como la tendencia a ver "fantásticas relaciones en
+
+tre estas cosas" a lo que no son sino "relaciones sociales entre los hombres"; el "feti
+chismo de las mercancías" las hace aparecer como artes independientes, cuando en rea
+lidad son "el fruto de las manos de los hombres".
+
+En el "fetichismo", por cierto, se ha creído ver la continuidad en el Marx maduro de
+los temas de alienación que dominan en el juvenil, lo que me parece una equivocación de
+bulto (sobre esto, mi Alienación. Historia de una Palabra, III.A, págs. 98-102; también
+aquí—V.B, págs. 233-235—sobre los textos bíblicos en cuanto a la adoración idolátrica
+por los hombres de "la obra de sus propias manos, de lo que sus dedos fabricaron").
+49
+
+
+
+Es la división del trabajo la que hace que las relaciones de producción "co
+bren necesariamente existencia sustantiva frente a los individuos" (45), esto es, la
+que determina su objetivación y, por tanto, su alienación (46). La versión, aun
+que muy resumida y simplificada, según la cual "con el desarrollo de las fuerzas
+productivas se divide el trabajo y de esta división derivan la dependencia y
+finalmente la propiedad privada", es, en efecto, la interpretación más razonable
+del tenor general de La ideología alemana y de pasajes de ésta según los cua
+les los "intereses comunes" de los individuos aparecieron en la realidad pri
+meramente como "dependencia recíproca de los individuos entre los que se
+dividió el trabajo"; como lo es la conclusión según la cual, "ser libre signifi
+ca... dejar de estar alienado, porque la división del trabajo haya sido trascen
+dida o devenido innecesaria" (47).
+*
+
+*
+
+*
+
+La temática completa y su articulación en división del trabajo como causa
+y alienación como efecto, sin apenas más variantes que las terminológicas,
+aparecen impregnadas de utopismo y como trasladadas por Marx a sus concep
+ciones desde el breve y conocido pasaje del Rousseau de los Discursos: "mien
+
+tras se dedicaron [los hombres] a obras que uno sólo podía hacer, a artes que no
+necesitaban el concurso de muchas manos... vivieron libres, sanos, bondadosos
+
+y felices"; "desde el instante mismo en que un hombre necesita el concurso
+de otro" surgen la esclavitud y la miseria; entonces es, justamente con la divi
+sión, cuando "aparece la propiedad y el trabajo deviene necesario" (48); con
+una y con otra una dependencia de cada uno respecto de los demás, con el
+artificio sustituyendo ya a la naturaleza e instituyendo desigualdades no natu
+rales, sino sociales (49).
+*
+
+*
+
+*
+
+Sin entrar en si Marx creyó también, lo que es probable, que la división del
+trabajo era la fundante de la división de la sociedad en clases —"el lugar último
+(45) Ideología alemana, 111.2.5.111.5; ed. cit,, pág. 434.
+(46) Esto aparte, el proceso mismo que arranca de la división del trabajo no parece
+controlado por los hombres, sino por «las relaciones —que no son en este contexto rela
+ciones intersubjetivas [ni] relaciones "humanas"— que la estructura social asigna a los
+
+hombres» (L. Colletti, II luarxismo e Hegel, en J. G. Leal, Crítica de la dialéctica, cit.).
+(47) El pasaje de Marx es de Ideología en los Frühschriften, ed. Landshut, que se
+reproduce y concreta por F. Forwick, Eigentum und Freiheit, Munich, 1972, págs. 96-97
+y 106-107.
+
+(48)
+
+Discours sur l'origine et les fondements de l'inégalité, ed. París, 1971 (junto con
+
+el Discurso sobre las ciencias y las artes), pág. 213.
+
+(49)
+
+Está reflexión, que podría referir perfectamente a Marx, está hecha sobre Rous
+
+seau (H. Barth, Uber die Idee der Selbstentfremdung des Menschen bei Rousseau, en
+H.-H. ScHREY, ed., Entfremdung, Darmstadt, 1975, págs. 10-12); también hecha sobre
+Rousseau y también referible a Marx la de que "la resistencia de la Naturaleza obligó
+a los hombres a experimentar con varios procedimientos ... [y] ... las formas sociales que
+
+desarrollaron éstos, en primer lugar la división del trabajo, oprimieron a cada hombre na50
+
+
+
+a partir del cual [comienza] su genealogía... el fundamento de todas las clases
+sociales pasadas, presentes y, eventualmente, futuras" (50)—y de las oposicio
+nes entre éstas, al permitir, por permitir previamente que las leyes del mercado
+decidieran sin interferencia en cuanto a éste, la apropiación por grupos deter
+
+minados de personas de las plusvalías (dejando a un lado también lo que éstas
+exactamente sean y su validez conceptual), estableciendo así "el antagonismo en
+
+tre trabajo acumulado y trabajo inmediato" (51), lo que daría congruencia temá
+tica a su afirmación de que "la subsunción de [las] relaciones personales bajo
+las relaciones generales de clase... está condicionada por la supresión de la divi
+sión del trabajo" (52); sin entrar tampoco en cómo los temas derivados de
+la división del trabajo se continúan abordando en La Ideología (53), ni en el
+relieve especial que en la misma tiene la distinción entre trabajo manual y tra
+bajo intelectual (54), ni en cómo estas mismas cuestiones se abordarían después
+en El Capital —insistencia en cuanto a la división por sexos en su origen; relieve
+especial de la distinción entre trabajo rural y urbano; distinción entre la divi
+sión del trabajo en la sociedad y en las manufacturas (55)—, sin entrar en estos
+temas, digo, lo cierto es que aquí, creo, se toca fondo por segunda vez —la
+vez primera es la identidad objetivación-alienación, con la consiguiente impo
+sibilidad última de que la alienación sea trascendida (56)—en el pensamiento
+de Marx en cuanto a la alienación y con ello en el Marx de los manuscritos.
+
+De lo que es prueba que la "única" salida que se prevé para esta situación.
+tural como una fuerza externa..." (G. Kay y J. Mott, Political Order and the Law of
+Labour, Londres, 1982, pág. 33; mías las cursivas); Kay y Mott se refieren por lo demás
+a la misma idea ("la especialización reforzada por la división del trabajo", "el desarrollo
+de estas particularidades a través de la división del trabajo"; loe. cit., págs. 54-55) con
+referencia concreta a Marx, en un rasgo raro de lucidez en medio del galimatías de su
+libro.
+
+(50) M. Henry, Marx (vol. I, Une philosophie de la realité, París, 1976, pág. 254).
+No se trata, sigue Henry, de que la división del trabajo esté en el origen histórico de las
+clases, sino que está "en su esencia y en su fundamento".
+
+(51) Miseria de la filosofía, I, § 3 (Oeuvres, ed. Rubel, cit., vol. I, pág. 35); el texto
+comienza, "en el momento mismo en que la civilización comienza, la producción comienza
+a fundarse en el antagonismo de órdenes, de estamentos, de clases...".
+(52) Ideología alemana, III.2.III.6; ed. cit., págs. 525-526.
+
+(53) Ver, p. ej., III.2.3., ed. cit., pág. 339 (división del trabajo como "amputación"
+del hombre); III.2.5.II y III, ed. cit., págs. 386-387 y 404-405 (división del trabajo en el
+origen y desarrollo del derecho); III.2.5.III.2., ed. cit., págs. 468-470 (división del trabajo
+y arte).
+
+(54) Sobre este punto, extensamente, del voluminoso J. Plamenatz, Karl Marx's Philosophy of Man, Oxford, 1975, las págs. 145 y sigs.; también M. Henry, Marx, París,
+1976, vol. I, págs. 253-279.
+
+(55)
+
+Los textos más relevantes en Capital, I.°, 4.', XII.IV; ed. cit., págs. 230-236. Por
+
+cierto, en una nota a la 3.° ed., alemana, Marx dice haber llegado al convencimiento que
+
+la tribu, y, por tanto, la división del trabajo en ésta, precede históricamente a la familia.
+(56) Sobre este punto, mi Alienación..., cit., cap. III.D ("Forzosidad del trabajo alie
+nado: el reino de la necesidad"), págs. II5-I27.
+51
+
+
+
+caracterizada porque las obras del hombre dominan al hombre, está en que "los
+individuos sometan de nuevo a su mando estos poderes materiales y supriman
+la división del trabajo", "está en que se consiga nuevamente la abolición de la
+división del trabajo", lo que tiene "como condición previa práctica absoluta
+mente indispensable... un gran crecimiento de las fuerzas productivas; un alto
+grado de su desarrollo..., premisa fáctica absolutamente necesaria porque sin
+ella sólo se generalizaría la escasez y... la pobreza" (57). En definitiva, la misma
+condición o premisa —los chorros plenos de la riqueza colectiva manando— que
+se exige, si no para eliminar el reino de la necesidad, cuyo imperio para Marx
+subsistirá siempre, sí para suavizarlo. La premisa así sentada hace sostenible
+la posición de que realmente para Marx la "necesidad económica", la escasez,
+ha presidido siempre las relaciones humanas (58), la división del trabajo entre
+ellas; y la seguirán presidiendo si, con algún intérprete fiel de Marx, se piensa
+que para éste "la verdadera libertad sólo es posible fuera del ámbito de la
+producción real" y se supone que ésta, y con ella "algún tipo de división social
+del trabajo" será siempre necesario para mantener y perpetuar la especie hu
+mana (59).
+
+En suma, y en efecto, para Marx, pese a lo incongruente del reconocimiento
+de esta tesis por Giddens, "la abolición de la división del trabajo es a la vez
+el requisito y la manifestación de que la alienación ha sido trascendida" (60);
+hipótesis que, si verificada, tendría como manifestación práctica la diversifica
+ción de funciones o, en la ya citada y muy conocida frase, utópica o no pero
+nada irónica salvo su último inciso, compendio de toda su argumentación; que
+(57) Ideología alemana, I.A.l y I.C., ed. cit., págs. 80, 32, 36, respectivamente. En el
+original las cursivas escasez y pobreza; mías, las otras.
+(58) D. WiLLER y G. K. Zollschan, Prolegomenon zu einer Theorie der Revolutionen,
+en U. Jaeggi y S. Papcke, eds., Revolution und Theorie, Francfort, 1974, págs. 255-256.
+Sin embargo, esta idea de la penuria económica no es dominante en Marx, como subraya
+ría extrañado Sartre {Critique de la raison dialectique, I.C.l, París, 1960, pág. 219). Sobre
+Sartre, al respecto, mi ensayo Alienación en Sartre. La visión terrorifica del otro, en "Es
+tudios... en memoria y homenaje a Legaz Lacambra", tomo I, Madrid, 1983; en espe
+cial, págs. 22-35.
+(59) S. Mohun, Voz División of Labour, del Dictionary of Marxist Thought, editado
+por Bottomore, et al., Oxford, 1983, pág. 133, en la que la frase "fuera del ámbito..."
+aparece dos veces en pocas líneas. He subrayado Social por entender que Mohun quiere
+excluir aquí la división material; sobre la distinción entre ambas, irrelevante aquí, remito
+al capítulo preliminar de la 8.° edición de mi Derecho del Trabajo, Madrid, 1983.
+
+(60) Capitalism and Modern Social Theory. An Análysis of the Writings of Marx,
+Durkheim, and Max Weber, Cambridge, 1971, pág. 63. La conclusión es la única posible
+lógicamente si, como se debe, se piensa que Marx identificó como fuente primera "de la
+conciencia alienada" precisamente la división del trabajo (también en este sentido, S. MoRRE, Ideología y alienación, en I. L. Horowitz, ed., Historia y elementos de la sociolo
+gía del conocimiento, edición, Buenos Aires, 1964, vol. 11, pág. 53). El primero de los
+factores, cuando menos, que causan la "autoalienación de Ibs hombres ... [es] ... la divi
+sión del trabajo" (H. Mayer, Wertgeschichte, 1963, pág. 471).
+52
+
+
+
+"sea posible para mí hacer una cosa hoy y otra mañana; cazar por la mañana,
+pescar al mediodía, cuidar del ganado por la tarde y criticar por la noche" (61),
+sin tener que hacer precisa y necesariamente y siempre una sola de estas cosas;
+el trabajo dejaría así de ser exclusivo, de un lado, y de otro tendría como reglas
+para su iniciación y realización, y para sus tiempos de ejecución, tan sólo las
+que el sujeto que trabaja quisiera a sí propio imponerse (62); desaparecería
+como "estado de la subjetividad" humana el estar necesariamente vocado "a la
+ejecución repetida de una operación exclusiva" (63). Desaparecerían, en fin,
+desaparecida la división del trabajo, toda una serie terrorífica de males: "la opo
+sición entre el individuo y la especie, entre la esencia y la existencia, entre la
+afirmación de sí y la realización de sí, el antagonismo de las clases, la oposición
+entre la ciudad y el campo..., la huida ideológica fuera del mundo real" (64).
+
+De estos "sueños" que inspiran el pasaje de la Ideología se ha dicho que
+"más se asemejan a una glorificación romántica de las posibilidades feudalaristocráticas que a una utopía social", y ello se ha puesto en conexión con el
+ya aludido romanticismo de Marx y de su era (65).
+*
+
+*
+
+*
+
+La Crítica del Programa de Gotha muestra la persistencia en Marx de este
+conjunto de ideas; también en ella, como en La Ideología, el ideal de que "el
+trabajo no sea solamente un medio de vida, sino la primera necesidad vital",
+no se concibe sino para "cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo", superando especialmente la
+"oposición" entre el intelectual y el manual (66).
+
+Entretanto, las preguntas, "¿cómo es que las condiciones de vida del hom
+bre adquieren frente a él una existencia autónoma?, ¿cómo es que las potencias
+de su propia vida devienen para él todopoderosas?", sólo tienen una respuesta:
+"la división del trabajo" (67), de la que al tiempo derivan que una manifesta(61)
+(62)
+Freiheit
+(63)
+(64)
+
+Ideología alemana, I.A.l; ed. cit., pág. 34.
+Sobre el "romanticismo" implícito en estas ideas, insistentemente, R. Kónig,
+und Selbstentfremdung, en Studien zur Soziologie, Francfort, 1971, págs. 73 y sigs.
+JVl. Henry, Marx, cit., vol. I, pág. 262.
+Todas estas son para Marx "consecuencias mtiltiples de la división cada vez más
+
+profunda de la colectividad laboriosa"; especialmente se insiste sobre la división entre
+trabajo manual e intelectual (K. Papaioannou, Ideologie, praxis, aliénation [1963], en el
+mismo. De Marx et du marxisme, ed. París, 1983, págs. 100).
+(65) PopiTZ, El hombre..., cit., págs. 156-157. A él se refiere también C. Taylor,
+Hegel, cit., pág. 542. Y sin embargo esta frase se alega en demostración de que Marx
+—y Engels— tenía una visión de la sociedad nueva, aunque se diga también que la expresa
+"de forma romántica" (Z. Tar, The Frankfurt School, cit., pág. 181).
+(66) Glosas marginales al programa del partido obrero alemán, ed. Moscú, s. d., pá
+gina 15.
+
+(67)
+
+Ideología alemana, nota de Marx en anejos, págs. 603-604; de la trad. francesa
+
+de H. Anger y G. Badía; tomo esta referencia de M. Vadeé, L'idéologie, París, 1973, pá
+gina 45.
+
+En el original las cursivas.
+53
+
+
+
+ción determinada del trabajo —por ejemplo, el manual o una especie de éste—
+excluya las demás para quien trabaja, y que esta exclusión le sea impuesta a
+éste, con una jiecesidad casi física, que sólo contando con el presupuesto de
+los avances tecnológicos podrá comenzar a ser rota. Precisamente por todo esto
+es con seguridad cierto que en último término lo que Marx contempla, o a lo
+que su contemplación necesariamente lleva, es a una forma de trabajo a la que
+incluso la expresión trabajo es dudoso que pueda aplicarse; lleva a un modo
+de praxis, por utilizar la terminología de moda, "en el que faltan todas las carac
+terísticas que hoy definen el trabajo" y las que siempre lo han definido, las
+mismas que para Marx han determinado desde siempre la alienación del hom
+bre (68). Las mismas ya expuestas de las que la división del trabajo deriva y
+esta misma división.
+
+No es necesario insistir, ya he aludido a ello, en que en estas concepciones
+
+de Marx, aun apoyando su reflexión sobre Hegel y siendo incomprensibles sin
+éste, se encuentran muy lejos de éste; para erigir "el trabajo, la división del
+trabajo y sus formas variadas directas e indirectas de aparición" en el centro
+de su reflexión, Marx necesitó, desde luego, tomar lo que con alguna vaguedad
+se describe como "la dialéctica del trabajo y de su alienación" de Hegel (69);
+
+pero Hegel—aparte de no haber mantenido nunca que objetivación equivaliera
+a alienación, ni mucho menos cargar sobre la simplicidad de aquélla todas las
+connotaciones pavorosas hoy de ésta—había explicado con gran sobriedad el
+fenómeno de la división del trabajo; tras de discurrir sobre la multiplicidad
+creciente de las necesidades del hombre y la consiguiente de los medios para
+
+satisfacerlas, nos dice que "esta multiplicidad subdivide eo ipso la producción
+
+y trae consigo la división del trabajo"; el trabajo de cada individuo así dividido
+se hace menos complejo, y crecen al tiempo la productividad de aquél y la
+
+capacidad de éste para ejecutarlo. La división del trabajo, por otro lado, hace
+aumentar "la dependencia entre los hombres y sus relaciones recíprocas para la
+satisfacción de las necesidades". Aunque al final del pasaje se inyecta una nota,
+
+difícil de decidir si optimista o pesimista, para la época en que la progresiva
+mecanización del trabajo "permita al hombre apartarse y poner máquinas en
+(68) Ver G. Petrovic, Gibt noch Entfremdung in sozialistischen..., pág. 279, y I. FetSCHER, Sowjetgesellschaft un das Problem der Entfremdung, pág. 291; ambos en H.-H.
+ScHREY, ed., Entfremdung, cit., y el segundo criticando la interpretación simplista de
+Marx por T. I. Oiserman, Man and his Alienation, Moscú, 1963.
+
+(69) G. Mensching, Thesen und Materialien zu Hegels Verstándnis des Materialismus,
+en O. Negt, ed., Aktualitat und Folgen der Philosophie Hegels, Francfort, 1970, pág. 140;
+ver también págs. 136-137 de estos "materiales de materialismo"; también hubo de tomar
+Marx "o describir el capital y sus procesos con las categorías de la lógica hegeliana"
+(H. J. Krahl, Bemerkungen zum Verháltnis von Kapital und Hegelscher Wesenslogik, asi
+mismo en O. Negt, loe. cit., pág. 150, aunque la demostración de esta tesis sea pinto
+resca a veces).
+54
+
+
+
+su lugar" (70); quizá en general la actitud de Hegel ante el complejo fenó
+meno de la división del trabajo es ambivalente (71) como, dicho sea de paso,
+lo fue también la de Comte (72).
+
+En el Marx de los Manuscritos y de la Ideología más que ambivalencia hay
+
+una posición cerrada frente a la división del trabajo y en verdad, en el fondo,
+una actitud romántica o nostálgica, de reacción frente a la ruptura de la unidad
+primigenia de la actividad económica humana que resulta del confinamiento del
+hombre en una función específica, de forma que, de un lado, cada uno de ellos
+sólo es capaz de expresar a través de su actividad una porción minúscula de su
+naturaleza, y de otro, esta misma naturaleza se ve privada de canales para su
+exteriorización y expansión espontáneas, habiendo de someterse a la regimentación que la propia división del trabajo impone a la convivencia para garantizar
+su continuidad; quizá también un romanticismo con fuentes históricas más
+próximas, nacido de la contemplación no exactamente de la división social del
+trabajo, sino de su división o parcelación material por el maquinismo; repárese
+que es justamente su época la de aparición masiva de obreros industriales no
+especializados rompiéndose "la historia entera del trabajo hasta entonces, desde
+el neolítico, una historia del trabajo especializado" (73) socialmente, aunque no
+dividido materialmente, salvo de forma incipiente.
+
+Lo que se quiere a la postre evitar es que "el hombre civilizado [haya de darse]
+todo entero a una tarea, siempre la misma" para que, como el salvaje de Durk-
+
+heim "vaya de una ocupación a otra", bien que a diferencia de éste lo haga según
+sus apetencias y gustos y no "según donde le empujen su circunstancia y sus
+necesidades" (74). De tal modo que en alguna visión simplificada se resume a
+Marx, en este respecto, así: se postula una condición originaria del hombre en
+
+sociedad, libre de conflictos, anterior a la división del trabajo; aparecida éka
+—desde el principio, se insiste; desde que "el hombre 'prehistórico mutilado por
+la división del trabajo... está condenado a desarrollar' una sola [de sus] facul
+tades en detrimento de todas las demás" (75)—, la experiencia humana total
+(70) Filosofía del Derecho, § 198; ed. cit., pág. 180. Hecho el análisis de su conexión
+con la alienación en Marx, no es este el lugar para extenderse más en los temas de divi
+sión del trabajo, ni si ésta responde "a necesidades sociales genuinas, exigencias técnicas
+
+y diferencias físicas y mentales entre los individuos" (H. Marcuse, One Dimensional Man,
+Boston, 1968, pág. 44).
+
+(71) Remito a los pasajes de Realphilosophie, I, que cito y estudio en II.D.l de mi
+Alienación. Historia de una Palabra. Menos dubitativo al respecto, en cuanto a Hegel,
+V. PÉREZ Díaz, El proyecto moral..., cit., págs. 80-81.
+
+(72) Curso de Filosofía Positiva, lección 1."; trad. de J. M. Revuelta, Buenos Aires,
+1973, págs. 51-55; Comte se refiere en estos textos a la división del trabajo intelectual.
+(73)
+(74)
+
+M. Sahlins, Stone Age..., cit., pág. 81.
+De la división..., 2.°, l.ll; ed. cit., pág. 221.
+
+(75)
+
+K. Papaioannou, Ideologie, praxis..., cit., pág. 103.
+55
+
+
+
+y desde siempre se ha caracterizado por el conflicto; en el futuro, según una
+noción "del cambio de todas las sociedades", presumiblemente abolida la división
+
+del trabajo, advendría un período de cooperación pacífica, solidaridad y consensus (76).
+
+Parece evidente que esta posición de Marx en cuanto a la división del tra
+
+bajo y su posible trascendencia o superación —y las mismas reflexiones podrían
+extenderse, y quizá con más pertinencia, a la lucha de clases y a la propiedad
+privada y a la superación de ambas—, su pretendido romanticismo aparte, cerecen de realismo y son manifestación en Marx mismo de lo que despectivamente
+llamó socialismo utópico. Quizá tuvieron —el de Marx utópico y el de los según
+él utopistas—como condicionamiento histórico el prestado por un capitalismo
+poco desarrollado, y éste quizá fue mucho más profundo que el que le atri
+buyen (77) quienes creen que para calificar un análisis de la realidad "cientí
+fico", lo sea.o no en efecto, es preciso elevarlo al plano de los dogmas inmutables
+y ahistóricos.
+
+O quizá son una muestra más de lo tenue y equívoca que es la línea que
+separa en las construcciones utópicas "el entusiasmo por el progreso de la nos
+talgia conservadora"; esta última siempre con un sello de vuelta a una real o
+supuesta simplicidad primera (78), aquí eliminando o reduciendo las comple
+jidades de la división del trabajo, allá contradictoriamente cantando el desarrollo
+
+descomunal de las fuerzas productivas del que la división del trabajo es factor
+esencial. En el fondo, ésta es la contradicción insalvable en que se debate Marx.
+En cualquier caso, con reverencia y mimo característicos hacia Marx, desde
+luego, se ha tenido que decir que, pese al avance que para su pensamiento
+representa La Ideología, ésta, precisamente porque imagina que la división del
+trabajo puede ser superada "en una sociedad organizada colectivamente", con
+tiene aún "un residuo de utopismo" (79). La realidad es que una realización de
+la libertad negando o suprimiendo la división del trabajo, cuando no una con
+tradicción en los términos, es una hipótesis "que contradice la experiencia his-tórica" (80).
+
+(76) T. B. Bottomore, Karl Marx; Sociologist or Marxist?, en mismo, Sociology as
+Social Criticism, Londres, 1975; en especial, págs. 74-75, dentro de su análisis del "mar
+xismo de Marx".
+
+(77)
+(78)
+
+Para este punto de vista, A. Gehlen, Über die Geburt..., cit., págs. 36-38.
+Z. Bauman, Socialism. The Active Utopia, Londres, 1976, pág. 31. "Apología de
+
+las comunidades premodernas... postulación de un ideal de simplicidad" (V. Pérez Díaz,
+El proyecto moral..., cit., pág. 96).
+
+(79) J. Groz, Der deutsche Sozialismus des Vórmaz, en el mismo, ed., Geschichte des
+Sozialismus, Frankfurt, 1974, t. 11, pág. 255. Se trata de la traducción alemana, que es la
+que he manejado, del original francés de esta obra, París, 1972.
+(80) V. PÉREZ Díaz, El proyecto moral..., cit., pág. 82.
+56
+
+
+
+Se ha dicho antes de pasada que en la concepción de la división del trabajo
+como fundante de la alienación "tocaba fondo" el pensamiento de Marx en
+cuanto a ésta; expresión que también se ha utilizado respecto a la identificación
+
+en Marx de objetivación y alienación. Con toda seguridad hay una conexión
+estrecha en ambas ideas, como ingenuamente nos pone de relieve algún intér
+prete (81), y ésta quizá sea, o más bien traiga su casa de, el individualismo exa
+cerbado de Marx de la época de los Manuscritos que le lleva a radicalizar su
+
+crítica contra toda estructura social, retrocediendo a su origen mismo, que es
+donde la división del trabajo y su objetivación en obras externad aparecen juntas
+también originariamente. Quizá por esto precisamente, por dejar situada la raíz
+misma de la alienación en lo social en cuanto tal, la alienación por él concebida
+resulta para Marx intrascendible, o sólo presente como vías para su trascen
+dencia las utópicas o incoherentes propias de un pensamiento en el fondo román
+
+tico, en búsqueda—probablemente aquí tras las huellas y en algo viciado por
+el anacronismo pretencioso de Feuerbach—de un hombre "individual-total" (82);
+de un pensamiento profundamente pesimista en cuanto de algún modo exige el
+abandono de algo que entitativamente pertenece al hombre, lo social, presentado
+como constitutivamente alienante.
+
+Cuando las soluciones se templan, en el Marx maduro, aparte y además de
+que la alienación deje, en su contexto por muy buenas razones, de ser tema cen
+
+tral de análisis (83), ni se contempla la desaparición de la división del trabajo
+ni, menos, que el hombre deje de objetivarse o exteriorizarse en los frutos de
+
+su trabajo. Bien al contrario, lo que de la división del trabajo se pide es que
+acreciente la productividad para que aumente el tiempo libre y para que durante
+éste el hombre, reducidos al mínimo la forzosidad del trabajo y su carácter me
+dial, se objetive en obras libres.
+
+Esto ya no es incoherente, bien que sea utópico, planteado en estos términos
+estrictos, si se dejan a un lado los procedimientos para obtenerlo y las premisas
+de teoría económica y social que los inspiren. Conseguida una sociedad libre
+o relativamente libre—lo que en este contexto quiere simplemente decir una
+sociedad con tiempo libre abundante—los individuos podrían identificarse con
+
+ella, se identificarían, desde luego, habría afirmado Hegel, y no reputarían en
+su totalidad al menos el orden social como algo completo imponente y ajeno,
+por mucho que sus frutos se siguieran objetivando en el trabajo y por mucho
+(81) S. Landshut, Einleitung, cit., pág. xxxvii; digo ingenuamente porque no estoy
+seguro que Landshut se percate de la transcendencia de la conexión.
+
+(82) Cfr. Konig, Freiheit und Selbstenfremdung in soziologischer Sicht, en el mismo,
+Studien zur Soziologie, Francfort, 1971, págs. 75 y 81.
+
+(83) Sobre este punto ampliamente, en general el capítulo sobre Marx, cap. III (pá
+ginas 97-165) de mi Alienación. Historia de una Palabra, cit.
+57
+
+
+
+que esté siquiera presidido por la necesidad de su división; en suma, en una
+sociedad así libre —aparte de que la división del trabajo sea condición sine
+
+qua non de su existencia—puede existir objetivación sin alienación.
+En último término, pues, la alienación, en su significación más radical de
+
+ajenidad del trabajador y del empresario o del titular del capital respecto de
+los frutos de la aportación de uno y otro al proceso productivo (84) —forzados
+ambos a lanzarlos al mercado—, es consecuencia de la división del tr,abajo y su
+
+eliminación o vencimiento exige como premisa necesaria la supresión de ésta
+
+y la renuncia a todos sus beneficios—¿dónde se puede concebir sin ella que
+esté la fuente de los chorros de la abundancia?— o a todas sus formas de expre
+
+sión real, sustituidas por otras en las que "cada uno produciría él solo todo lo
+
+que necesita o desea" (85). No es extraño que la huida sea hacia adelante. No
+tanto eliminar la división del trabajo como forzarla al máximo de sus posibi
+lidades.
+
+Afirmar, para concluir, que, eliminada la división del trabajo, si ello fuera
+
+posible, quedarían solventados todos o algunos de los más importantes proble
+mas del hombre es otra cosa, a su vez nada segura; en cualquier caso, si ya "la
+alienación [no] comienza con el trabajo regulado socialmente" (86), ni es una con
+secuencia de éste, se puede abandonar sin esfuerza ni pena la idea de que en el
+seno de éste —necesario y necesariamente dividido— pueda o deje de poder ser
+trascendida. Es claro que así, eliminada la pesadilla de la división del trabajo
+como causa esencial última de la alienación, la reflexión sobre ésta puede despla
+zarse hacia terrenos más propicios o menos ilógicos para su contemplación actual,
+
+perdiendo al tiempo radicalidad, en gran medida irrelevante ya, la oposición tan
+característica de Marx a toda una serie de instituciones sociales, que sólo como
+consecuencia necesaria o como derivación histórica de la división del trabajo
+
+pueden concebirse. Desaparecería, además, y entre otras, "la teoría que eleva
+la división del trabajo a demiurgo de la clase dirigente" (87).
+Pero éste sería otro tema.
+
+(84) No existe la más mínima dificultad para documentar bibliográficamente esta
+dualidad de la alienación. Desisto aquí de ello, remitiendo al cap. IV.3 de mi Aliena
+ción..., cit.
+
+(85) Nell-Breuning, O. von, Über das Lohnarbeitsverhaltnis hinaus?, en "Festschrift
+für y?. Herschel", Munich, 1982, pág. 306; en el original, las cursivas.
+(86) R. Konig, Freiheit..., cit., págs. 77-78.
+
+(87) K. Papaioannou, Marx et la théorie des classes [1964], en el mismo, De Marx...,
+cit., pág. 256.
+58
+
+

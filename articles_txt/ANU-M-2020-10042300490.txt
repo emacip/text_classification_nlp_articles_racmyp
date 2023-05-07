@@ -1,0 +1,2450 @@
+LA PANDEMIA, EL ESTADO DE ALARMA
+Y LOS JUECES
+Por el Académico de Número
+Excmo. Sr. D. Pablo Lucas Murillo de la Cueva*
+
+Sumario: 1. El escenario.—2. La respuesta a la emergencia.—3. El estado de alarma.—4. Las declaraciones de estado de alarma a causa de la pandemia del COVID-19 y las disposiciones que las han acompañado.—5. De la
+aceptación a la confrontación.—6. El estado de alarma en los tribunales: 6.1 En
+el orden penal. 6.2 En el orden laboral. 6.3 En el orden contencioso-administrativo: 6.3.1 El ámbito de enjuiciamiento y los problemas de constitucionalidad. 6.3.2 Las inadmisiones por falta de jurisdicción de la Sala y de legitimación
+de los recurrentes. 6.3.3 La competencia para conocer de actos y recursos contra actos y disposiciones adoptados por los Presidentes de las Comunidades y
+Ciudades Autónomas como autoridad delegada del Gobierno en materia de
+estado de alarma. 6.3.4 Las medidas cautelares concedidas. 6.3.5 La protección
+del derecho a la vida y a la integridad física y psíquica y a la salud del personal
+sanitario. 6.3.6 La obligación de llevar mascarilla. 6.3.7 La limitación de los
+derechos de circulación y reunión. 6.3.8 Las restricciones a la pesca recreativa.
+6.3.9 El derecho de manifestación. 6.3.10 La suspensión de las elecciones.
+6.4 La declaración de actuaciones coordinadas en materia de salud. 6.5 Las
+autorizaciones y ratificaciones que corresponde conceder o denegar a los Juzgados y Salas de lo Contencioso Administrativo.—7. Conclusión.
+
+*
+
+Sesión del día 15 de mayo de 2021.
+
+423
+
+
+
+1. EL ESCENARIO
+En 2020 se extendió por el mundo una pandemia que ha infectado a
+millones de personas y causado la muerte de cientos de miles. Todavía ahora,
+en puertas del verano de 2021, sigue produciendo, aunque con menor intensidad que en meses pasados, sus efectos devastadores de la vida y de la salud de
+las personas y, también, de la economía y, por tanto, de la sociedad. Y a pesar
+de que avanzan los planes de vacunación, se sigue desconociendo cuándo podrá considerarse superada, aunque se vislumbre la posibilidad de que sea a fines de este año o a principios de 2022 si no surgen nuevas complicaciones 1.
+Las generaciones actuales no hemos conocido nada igual y en el pasado reciente se suele evocar como antecedente la gripe de 1918 que causó en
+torno a cincuenta millones de muertos en todo el mundo en las diversas olas
+que produjo. Un siglo más tarde, la propagación de la enfermedad causada por
+el COVID-19 ha sido vertiginosa y ha obligado a gobernantes y a ciudadanos a
+enfrentarse a ella. Los primeros han tenido que tomar medidas inéditas en la
+experiencia democrática en tiempos de paz. Los segundos han tenido que recluirse primero y, después, han debido limitar sus relaciones personales y sociales y adoptar pautas de comportamiento que impidan o dificulten los contagios. El resultado ha sido un cambio notable en las formas de vida y una crisis
+económica descomunal.
+Uno de los rasgos distintivos de esta pandemia ha sido la sorpresa de
+su llegada y la consiguiente falta de previsión de que podía producirse. Aunque
+hubiera algunos indicadores que anunciaban esa posibilidad y, después, se ha
+dicho que hubo quienes advirtieron que, una vez aparecida en China, era inevitable que se extendiera y llegara a todos los lugares, lo cierto es que no hubo
+preparativos adecuados para frenar su propagación hasta que ya estaba difundida a gran escala. En realidad, ni los Gobiernos, ni las instituciones sociales
+creyeron que sucedería lo que ha terminado ocurriendo. Se pensaba que, o no
+llegaría hasta nosotros o que sería una enfermedad relativamente liviana, de
+
+1
+Sobre la pandemia y los variados problemas que suscita son muy útiles los núms. 86-87/2020
+de El Cronista del Estado social y democrático y de Derecho, monográficos sobre Coronavirus (…) y otros
+problemas. Los artículos que recoge ofrecen aproximaciones y reflexiones que tienen el interés adicional de
+haber sido expresadas en los primeros meses de 2020, es decir, todavía bajo el impacto de la difusión de la
+pandemia y de la declaración del primer estado de alarma. Sobre la cuestión reúne contribuciones de Vicente Álvarez García, Alba Nogueira López, Susana de La Sierra, José María Gimeno Feliú, Miguel Ángel Presno
+Linera, Carlos Alberto Amoedo Souto, Francisco Velasco Caballero, Lorenzo Cotino Hueso, Gabriel Doménech Pascual, José María Serrano Sanz, Flor Arias Aparicio y Enrique Hernández Díez. Asimismo, la Enciclopedia de las Ciencias Morales y Políticas para el siglo xxi, editada por Benigno Pendás García. Real Academia
+de Ciencias Morales y Políticas/Boletín Oficial del Estado, Madrid, 2020, pp. 25 y ss., dedica una parte a la
+pandemia Covid-19 en la que analiza su perspectivas económica ( Julio Segura Sánchez), ética (Adela Cortina
+Orts), internacional (Emilio Lamo de Espinosa), jurídica (Benigno Pendás García), laboral (María Emilia Casas
+Baamonde), médica (Diego Gracia Guillén), política (Benigno Pendás García), psicológica (Helio Carpintero
+Capell), de Seguridad Social (María Emilia Casas Baamonde) y sociológica (Emilio Lamo de Espinosa).
+
+424
+
+
+
+fácil superación y control. Desgraciadamente no ha sido así y las consecuencias
+son las apuntadas antes. Es significativo, además, que, incluso sabiendo desde
+meses atrás que se produciría una segunda ola pasado el verano de 2020, cuando efectivamente llegó y le siguieron una tercera en Navidades y una cuarta en
+la Semana Santa de 2021, si no puede decirse que hayan sorprendido, sí debe
+reconocerse que han vuelto a crear muy graves problemas ante la rapidez con
+que se extendió de nuevo la enfermedad e hizo imprescindibles nuevas limitaciones para frenarla. En el curso de esa evolución, no hemos llegado a la situación crítica de los meses de marzo y abril de 2020 pero sí alcanzado unos niveles importantes de contagio y de tensión para el Sistema Nacional de Salud. De
+igual modo, a la vista de lo sucedido en otros países, se ha podido comprobar
+que nadie está a salvo de encontrarse en circunstancias difíciles antes o después, pues donde la primera ola no causó grandes estragos, los han producido
+las posteriores y cuando en unos se mejora en otros se puede empeorar rápidamente. También se ha podido apreciar la diferencia tremenda en víctimas en
+aquellos lugares que cuentan con una sanidad organizada y dotada de medios
+y en aquellos en los que no existe.
+
+2. LA RESPUESTA A LA EMERGENCIA
+Las medidas adoptadas por las autoridades para frenar la propagación
+de la enfermedad y mantener la capacidad de respuesta de los sistemas de salud han comportado limitaciones claras de los derechos de las personas, incluidos los que llamamos derechos fundamentales. Esa circunstancia, pasados los
+primeros momentos en que el tremendo impacto de la pandemia desplazó las
+preocupaciones de otra naturaleza ante la de protegerse del posible contagio,
+ha provocado un intenso debate sobre la manera en la que un Estado social y
+democrático de Derecho debe afrontar la amenaza cierta y letal de una pandemia de las características de la que nos sigue afectando. Ese debate se ha trasladado desde las esferas de la opinión pública y de la confrontación política a
+los tribunales de justicia a los que se les ha pedido —y se les sigue pidiendo—
+que hagan valer los límites a que está sujeta la actuación administrativa, que
+remedien sus insuficiencias, que autoricen o ratifiquen las medidas restrictivas
+dispuestas por las autoridades y, también, que les exijan responsabilidades, incluso penales, por su actuación o por la falta de ella.
+Subyace a esa controversia la tensión que, de un modo simplificado,
+cabe situar entre los intereses generales y los particulares y la difícil determinación de hasta dónde han de llegar la preservación de los primeros y la garantía de los segundos. Es decir, en qué punto han de terminar las limitaciones a imponer a los individuos en defensa de la sociedad. Al respecto, acuden
+de inmediato al jurista máximas sentadas hace ya muchos siglos para dar
+respuesta a los interrogantes que plantea la relación conflictiva entre lo gene-
+
+425
+
+
+
+ral y lo particular. Se debe a Marco Tulio Cicerón la afirmación salus rei publicae suprema lex esto, posteriormente formulada como salus populi suprema
+lex esto. Hoy podríamos traducirla en términos menos estéticos, pero de semejante significación en el lenguaje de nuestros días como preferencia de los
+intereses generales sobre los particulares. Se trata de un principio admitido en
+el ordenamiento jurídico en cuyo seno encuentra muchas manifestaciones en
+las que dichos intereses generales o la utilidad pública justifican la restricción
+o el sacrificio de los individuales.
+Además, está presente en la polémica otro aspecto que aparece en los
+casos en que acontecimientos extraordinarios alteran sustancialmente las condiciones de vida y hacen imprescindibles respuestas igualmente extraordinarias
+para afrontarlos. Se trata de la necesidad impuesta por circunstancias críticas
+que pueden tener causas diversas pero que se caracterizan por hacer indispensables medidas de la misma naturaleza para salvaguardar la propia supervivencia de la sociedad o, si se prefiere, del Estado. Hay algunas manifestaciones en
+el ordenamiento del principio de necesidad tanto a nivel individual cuanto a
+escala general. En el primer caso, el ejemplo mejor es el que ofrecen los códigos penales, que reconocen como causa de exclusión de la antijuridicidad el
+llamado estado de necesidad. En el segundo, nos encontramos el decreto-ley,
+instrumento normativo del que se puede servir el Gobierno, para en caso de
+extraordinaria y urgente necesidad, dictar normas con fuerza de ley de carácter
+provisional. Aunque deben ser sometidos en breve plazo al control parlamentario, son una clara excepción al principio de separación de poderes. Pero, sobre todo, aflora la necesidad en la constitucionalización de los estados de emergencia. Es decir, aquellos cuya declaración permite limitar o suspender
+temporalmente con carácter general derechos fundamentales y acudir a medios
+extraordinarios para hacer frente a las circunstancias excepcionales que los han
+hecho imprescindibles.
+El Derecho de la emergencia forma parte del Derecho Constitucional.
+Cabe, incluso, recordar la magistratura republicana del dictator en la Roma clásica y, ya en tiempos contemporáneos, son bien conocidos los ejemplos del
+artículo 48 de la Constitución de Weimar y del artículo 16 de la Constitución
+francesa de 1958, hoy vigente. No obstante, no todas las Constituciones actuales
+lo contemplan expresamente si bien en tal caso los ordenamientos jurídicos
+suelen regularlo en el nivel infraconstitucional. Y en aquellos que no lo han
+hecho, sus Parlamentos pueden dictar leyes especiales para responder a circunstancias excepcionales cuando estas surgen y hacen imprescindible una
+respuesta que vaya más allá de lo previsto por la legislación ordinaria. Desde
+las que confieren plenos poderes al Gobierno o al Presidente de la República a
+las que les atribuyen facultades especiales e imponen determinadas restricciones a los ciudadanos.
+
+426
+
+
+
+Aparte está el supuesto de que la necesidad se presente bajo la forma
+de una emergencia que supera todas las previsiones establecidas y su magnitud
+o naturaleza impongan por sí mismas una respuesta acorde al desafío o a la
+amenaza que representa. En tales ocasiones la eventual inexistencia de disposiciones normativas al respecto o su insuficiencia no exime al Estado de intervenir con la urgencia y con los medios precisos para conjurarla. Al fin y al cabo,
+se trata de su supervivencia o de evitar males de tal proporción que su misma
+amenaza lo justifica. Desde esta perspectiva, la necesidad acuciante y general,
+los hechos que la producen, habilitan actuaciones no previstas por el ordenamiento jurídico y, por tanto, se erigen en fuente normativa extra ordinem.
+Es cierto que en el constitucionalismo posterior a 1945 hubo reticencias
+a la introducción en los textos fundamentales de disposiciones sobre la emergencia. No las hay en la Constitución italiana ni en la Ley Fundamental de
+Bonn, salvo el llamado caso de defensa, referido exclusivamente por su artículo
+115 a) a supuestos de agresión armada actual o inminente al territorio federal.
+Y no las hubo anteriormente en la Constitución francesa de 1946, la de la IV
+República. La explicación es clara: la utilización de las leyes de plenos poderes
+por el fascismo en Italia y del artículo 48 de la Constitución de Weimar y de la
+Ley de plenos poderes por el nacionalsocialismo para demoler en ambos casos
+la democracia representativa y sustituirla por el Estado fascista y por el orden
+nuevo del III Reich. Después, como consecuencia de la crisis de la IV República, la Constitución gaullista de 1958 erigió un ejecutivo fuerte, con la figura
+predominante del Presidente, en cuyas manos puso el instrumento del artículo
+16 antes mencionado. Pero era la excepción 2.
+Nuestra Constitución regula en su artículo 116 los estados de emergencia. Y la Ley Orgánica, 4/1981, de 1 de junio, ha desarrollado ese precepto y
+dotado de una regulación específica a los estados de alarma, de excepción y de
+sitio.
+El artículo 116 no dice para qué circunstancias prevé cada uno. Se limita a identificar a quién corresponde declararlos y, en su caso, prorrogarlos y a
+establecer cautelas destinadas a preservar el funcionamiento de las Cortes Generales, el cual, al igual que el de los demás poderes constitucionales del Estado, no podrá ser interrumpido y, en especial, prohíbe la disolución del Congreso de los Diputados mientras esté declarado alguno de esos estados y atribuye
+a su Diputación Permanente las competencias que le corresponden caso de
+estar ya disuelto cuando se produzca la declaración. Esta salvedad se explica
+porque al Congreso corresponde autorizar la prórroga del estado de alarma,
+
+2
+Marc Carrillo López, «Derecho de excepción y garantía de los derechos en tiempos de pandemia», en Legal. Legebiltzarreko Aldizkarua. Revista del Parlamento Vasco, núm. 1/2020, pp. 63 y ss., hace un
+repaso de las principales Constituciones europeas.
+
+427
+
+
+
+autorizar la declaración y prórroga del estado de excepción y declarar el de
+sitio y prorrogarlo. También se preocupa el artículo 116 de afirmar que bajo
+esos estados sigue en plena vigencia el principio de responsabilidad del Gobierno y de sus agentes.
+La identificación de los derechos que pueden ser suspendidos en caso
+de emergencia mediante los estados previstos en el artículo 116 nos la da el
+artículo 55.1 también de la Constitución. De acuerdo con él, en los estados de
+excepción y de sitio pueden suspenderse todos o algunos de los derechos fundamentales reconocidos por los artículos 17 (libertad personal), 18.2 y 3 (inviolabilidad del domicilio y secreto de las comunicaciones), 19 (libertad de circulación), 20.1 a) y d) (libertades de expresión e información), 21 (derecho de
+reunión y manifestación), 28.2 (huelga) y 37.2 (adopción de medidas de conflicto colectivo).
+La Constitución (artículo 169) también se preocupa de prohibir que se
+inicie la reforma constitucional, además de en tiempos de guerra, cuando esté
+declarado alguno de los estados previstos en el artículo 116.
+Para saber todo lo demás hay que acudir a la Ley Orgánica 4/1981. Es
+ella la que dice en qué supuestos cabe declarar cada uno de los estados de
+emergencia. Sigue al respecto los criterios que venía manteniendo la legislación
+de orden público sobre los estados de excepción y sitio 3. Los prevé respectivamente para alteraciones graves del orden público (artículo trece) y para casos
+de insurrección o acto de fuerza contra la soberanía o independencia de España, su integridad territorial o el ordenamiento constitucional que no puedan
+resolverse de otro modo (artículo treinta y dos). El estado de alarma, en cambio,
+como vamos a ver, se ha previsto por el legislador para supuestos distintos de
+los anteriores y no permite la suspensión de ningún derecho fundamental, aunque sí su limitación.
+La manera en que el legislador orgánico determinó las circunstancias
+que han de concurrir para declarar cada uno de los estados emergencia previstos por la Constitución ha llevado a la conclusión de que no hay entre ellos una
+suerte de graduación. Es decir, no cabe ir subiendo como si fuera una escala
+desde el menos intenso —el estado de alarma— al de mayor injerencia en los
+derechos fundamentales y en la intervención pública —el estado de sitio, que
+supone el recurso a las Fuerzas Armadas— sino que se trata de figuras diferentes para hacer frente a amenazas diferentes 4.
+3
+
+Así lo destaca Santiago Muñoz Machado, El poder y la peste de 2020. Iustel, Madrid, 2020, pp. 95
+
+4
+
+Pedro Cruz Villalón, Estados excepcionales y suspensión de garantías. Tecnos, Madrid, 1984,
+
+y ss.
+pp. 51 y 52.
+
+428
+
+
+
+Con los años, al compás de la extensión e intensificación de las amenazas terroristas, aunque las Constituciones se hayan mantenido sin cambios, sí
+se han aprobado leyes que han establecido de manera permanente disposiciones que permiten limitar derechos fundamentales con carácter general 5. En
+particular, la aparición del terrorismo yihadista ha llevado a establecer regímenes excepcionales para combatirlo. Así, se ha llegado a decir que lo excepcional se ha convertido en normal y se ha puesto la atención, no tanto o no solo
+en la forma, en los procedimientos para introducir esas previsiones en el ordenamiento jurídico, sino también y, sobre todo, en la exigencia de justificarlas y
+en la insistencia en disponer de instrumentos de control efectivo que limiten el
+recurso a las reglas excepcionales y aseguren su uso proporcionado, así como
+en contar con mecanismos que hagan posible exigir responsabilidad por los
+excesos y resarcir a los perjudicados. En este sentido se orientan observaciones
+de Michel Troper en Francia y de Pedro Cruz Villalón en España 6.
+
+3. EL ESTADO DE ALARMA
+La Constitución, como se acaba de decir, se limita a establecer quién lo
+puede declarar —el Gobierno— y de qué forma: mediante Real Decreto acordado en Consejo de Ministros, del que debe dar cuenta al Congreso de los Diputados, al que exige reunirse inmediatamente al efecto de recibir esa comunicación y, si está disuelto, a su Diputación Permanente. También precisa su
+duración máxima: quince días. Y que no puede prorrogarse ese plazo sin autorización de esa cámara. Sobre el ámbito territorial y sobre los efectos de esa
+declaración el artículo 116.1 de la Constitución se limita a decir que los determinará el Real Decreto que la efectúe y si recordamos que su artículo 55.1 solo
+permite la suspensión de derechos fundamentales en los estados de excepción
+y sitio, está claro que bajo el estado de alarma no cabe la suspensión de derechos fundamentales, de ninguno, tal como se ha anticipado.
+Igualmente, recordémoslo, prescribe la Constitución que, declarado el
+estado de alarma, no podrá ser disuelto el Congreso de los Diputados mientras
+persista dicha declaración. En su preocupación por mantener, incluso en estas
+circunstancias extraordinarias, el ordenamiento fundamental, el artículo 116
+prohíbe que durante ellas se interrumpa el funcionamiento de las Cortes Gene-
+
+5
+La Constitución española es una excepción también en este extremo pues su artículo 55.2 prevé la posibilidad de suspender derechos fundamentales en relación con la actuación de bandas armadas o
+elementos terroristas y, tras diversas regulaciones en años anteriores, en la actualidad la Ley de Enjuiciamiento Criminal regula en esos supuestos la suspensión de derechos reconocidos por los artículos 17 y 18 de la
+Constitución.
+6
+Cruz Villalón, Estados excepcionales y suspensión de garantías, cit., pp. 35 y ss. y 106, ya apuntaba este fenómeno.
+
+429
+
+
+
+rales, así como el de los demás poderes constitucionales del Estado. Y precisa
+que bajo la vigencia de los estados de emergencia no se ve alterado el principio
+de responsabilidad del Gobierno y de sus agentes.
+A lo que dice la Constitución se ha de añadir la interpretación que de
+su artículo 116 ha efectuado el Tribunal Constitucional. En particular, ha dicho
+en la sentencia núm. 83/2016 que el Real Decreto que declara el estado de
+alarma es un acto con valor de Ley, al igual que su prórroga, como ya había
+anticipado su auto 7/2012. Y que, desde esa posición en el sistema de fuentes
+del Derecho, sustenta el cuerpo normativo que sea preciso crear para hacer
+frente a la alteración determinante de la declaración. Esos pronunciamientos los
+hizo el Tribunal Constitucional con motivo del recurso de amparo interpuesto
+contra el auto de la Sala Tercera del Tribunal Supremo que inadmitió, precisamente por entender que, prorrogado por el Congreso de los Diputados el estado de alarma declarado en 2010 a causa del conflicto provocado por los controladores aéreos, tal declaración había adquirido status parlamentario y
+quedado, por tanto, fuera del ámbito propio de la Jurisdicción Contencioso
+Administrativa. Es decir, el Tribunal Constitucional fue más allá de lo que había
+ido el Tribunal Supremo y en esa sentencia núm. 83/2016, construyó el régimen
+constitucional del estado de alarma bajo el que se ha producido la declaración
+y prórrogas de los que hemos vivido en 2020 y 2021.
+Si, según se ha dicho, la Constitución se limita a sus aspectos externos
+y establece lo que no se puede hacer en el estado de alarma, para saber cuándo puede declararse y conocer su contenido, es menester acudir a la Ley Orgánica 4/1981.
+Allí nos encontramos (artículo primero) con unas reglas generales comunes a los tres estados de emergencia contemplados por la Constitución.
+Consisten en que (i) solamente cabe su declaración cuando «circunstancias extraordinarias hiciesen imposible el mantenimiento de la normalidad mediante
+los poderes ordinarios del Estado»; (ii) las medidas que comporten y su duración han de ser las «estrictamente indispensables para asegurar el restablecimiento de la normalidad» y han de aplicarse «de forma proporcionada a las
+circunstancias»; (iii) la eficacia de las competencias en materia sancionadora y
+preventiva y las medidas adoptadas en virtud de ellas decaen una vez finalizada
+la vigencia de estos estados, salvo las sanciones ya firmes.
+Completan esas previsiones generales, la exigencia de publicación inmediata de la declaración en el Boletín Oficial del Estado, momento en que
+entrará en vigor, y su difusión por todos los medios (artículo segundo). Igualmente (artículo tercero), la Ley Orgánica confirma que los actos y disposiciones
+de la Administración Pública que se dicten bajo los estados de emergencia siguen sujetos al control de los tribunales de justicia y precisa que quienes, como
+consecuencia de la aplicación de esos actos y disposiciones, sufran directamen-
+
+430
+
+
+
+te daños o perjuicios por actos que no les sean imputables, tendrán derecho a
+ser indemnizados.
+Ya en concreto sobre el estado de alarma, la Ley Orgánica, dispone que
+su declaración puede extenderse a toda España o a una parte del territorio español. Y precisa que las siguientes alteraciones graves permiten al Gobierno
+efectuarla (artículo cuarto):
+«a) Catástrofes, calamidades o desgracias públicas, tales como terremotos,
+inundaciones, incendios urbanos y forestales o accidentes de gran magnitud.
+b) Crisis sanitarias, tales como epidemias y situaciones de contaminación graves.
+c) Paralización de servicios públicos esenciales para la comunidad, cuando
+no se garantice lo dispuesto en los artículos veintiocho, dos, y treinta y siete,
+dos, de la Constitución, y concurra alguna de las demás circunstancias o situaciones contenidas en este artículo.
+d) Situaciones de desabastecimiento de productos de primera necesidad.»
+
+Explica luego (artículo quinto) que, si esas alteraciones solamente afectan a una Comunidad Autónoma, su Presidente puede solicitar al del Gobierno
+que declare en ella el estado de alarma. El artículo sexto reitera lo dispuesto por
+la Constitución sobre la forma de declararlo y precisa que, si fuere necesario
+prorrogarlo, la autorización del Congreso de los Diputados ha de ser expresa y
+que este podrá establecer el alcance y las condiciones vigentes durante la prórroga. Igualmente, recoge (artículo séptimo) la previsión constitucional según la
+cual la autoridad competente es el Gobierno, pero admite, si la declaración
+afecta exclusivamente a parte o a toda una Comunidad Autónoma, que delegue
+en el Presidente de esa Comunidad Autónoma.
+El artículo octavo recoge la obligación que la Constitución impone al
+Gobierno de dar cuenta al Congreso de los Diputados de la declaración, a la
+que añade la de suministrarle la información que le requiera.
+Los efectos que comporta la declaración del estado de alarma son, en
+primer lugar, el sometimiento de todas las autoridades civiles del territorio afectado, de los cuerpos de Policía y de los funcionarios y trabajadores al servicio
+de las Administraciones Públicas, a las órdenes directas de la autoridad competente, es decir del Gobierno, en cuanto sea necesario para la protección de
+personas, bienes y lugares. Esta sujeción comprende la imposición de servicios
+extraordinarios por su duración o por su naturaleza (artículo noveno).
+
+431
+
+
+
+Las medidas que se pueden adoptar son las siguientes (artículo 11):
+«a) Limitar la circulación o permanencia de personas o vehículos en horas y
+lugares determinados, o condicionarlas al cumplimiento de ciertos requisitos.
+b) Practicar requisas temporales de todo tipo de bienes e imponer prestaciones personales obligatorias.
+c) Intervenir y ocupar transitoriamente industrias, fábricas, talleres, explotaciones o locales de cualquier naturaleza, con excepción de domicilios privados, dando cuenta de ello a los Ministerios interesados.
+d) Limitar o racionar el uso de servicios o el consumo de artículos de primera
+necesidad.
+e) Impartir las órdenes necesarias para asegurar el abastecimiento de los mercados y el funcionamiento de los servicios de los centros de producción
+afectados por el apartado d) del artículo cuarto.»
+
+Además, si la declaración del estado de alarma obedece a catástrofes,
+calamidades o desgracias públicas, tales como terremotos, inundaciones, incendios urbanos y forestales o accidentes de gran magnitud o a crisis sanitarias,
+tales como epidemias y situaciones de contaminación graves, entonces también
+podrá adoptar la autoridad competente las medidas establecidas en las normas
+para la lucha contra las enfermedades infecciosas, la protección del medio ambiente, en materia de aguas y sobre incendios forestales. Obvio es decir que
+para hacer uso de ellas no necesita del estado de alarma, de manera que esta
+precisión del artículo 11 no añade nada en realidad.
+Y si la causa radica en la paralización de servicios públicos esenciales para la comunidad sin que se garanticen los mínimos indispensables y se
+dé alguna de las otras circunstancias previstas en el artículo cuarto o se debe
+a situaciones de desabastecimiento de productos de primera necesidad, en
+tales casos, se podrá acordar la intervención de empresas o servicios, así
+como la movilización de su personal al que se aplicará la normativa sobre
+movilización.
+A estas previsiones del artículo doce, el artículo diez ha antepuesto la
+prescripción de que quienes incumplan o se resistan a las órdenes de la autoridad competente sean sancionados y la de que, si ese incumplimiento o resistencia se debieran a funcionarios públicos, estos podrán ser suspendidos de
+inmediato en el ejercicio de sus cargos, sin perjuicio de pasar el tanto de culpa
+al juez y de notificarlo a su superior a efectos de expediente disciplinario.
+
+432
+
+
+
+Este diseño legal del estado de alarma ha merecido la crítica de que es
+un cuerpo extraño en la legislación de excepción española, volcada en responder a alteraciones del orden público y no a hechos como las calamidades o las
+epidemias. Respecto de estas últimas se ha dicho, además, que la legislación
+sobre sanidad ofrece instrumentos suficientes para afrontarlas sin necesidad de
+acudir a la declaración de un estado de emergencia 7.
+Estas últimas son, principalmente, las previstas en el artículo tercero de
+la Ley Orgánica 3/1986, de 11 de abril, de medidas especiales en materia de
+salud pública, de acuerdo con el cual:
+«Con el fin de controlar las enfermedades transmisibles, la autoridad sanitaria, además de realizar las acciones preventivas generales, podrá adoptar las
+medidas oportunas para el control de los enfermos, de las personas que
+estén o hayan estado en contacto con los mismos y del medio ambiente inmediato, así como las que se consideren necesarias en caso de riesgo de
+carácter transmisible.»
+
+Además, el artículo 26 de la Ley 14/1986, de 25 de abril, General de
+Sanidad, dispone:
+«Artículo veintiséis.
+1. En caso de que exista o se sospeche razonablemente la existencia de un
+riesgo inminente y extraordinario para la salud, las autoridades sanitarias
+adoptarán las medidas preventivas que estimen pertinentes, tales como la incautación o inmovilización de productos, suspensión del ejercicio de actividades, cierres de Empresas o sus instalaciones, intervención de medios materiales y personales y cuantas otras se consideren sanitariamente justificadas.
+2. La duración de las medidas a que se refiere el apartado anterior, que se fijarán para cada caso, sin perjuicio de las prórrogas sucesivas acordadas por
+resoluciones motivadas, no excederá de lo que exija la situación de riesgo
+inminente y extraordinario que las justificó.»
+
+Por su parte, el artículo 54 de la Ley 33/2011, de 4 de octubre, General
+de Salud Pública, establece:
+«Artículo 54. Medidas especiales y cautelares.
+1. Sin perjuicio de las medidas previstas en la Ley Orgánica 3/1986, de 14 de
+abril, de Medidas Especiales en Materia de Salud Pública, con carácter excep-
+
+7
+
+Muñoz Machado, El poder y la peste de 2020, cit., pp. 96 y ss.
+
+433
+
+
+
+cional y cuando así lo requieran motivos de extraordinaria gravedad o urgencia, la Administración General del Estado y las de las comunidades autónomas
+y ciudades de Ceuta y Melilla, en el ámbito de sus respectivas competencias,
+podrán adoptar cuantas medidas sean necesarias para asegurar el cumplimiento de la ley.
+2. En particular, sin perjuicio de lo previsto en la Ley 14/1986, de 25 de abril,
+General de Sanidad, la autoridad competente podrá adoptar, mediante resolución motivada, las siguientes medidas:
+a) La inmovilización y, si procede, el decomiso de productos y sustancias.
+b) La intervención de medios materiales o personales.
+c) El cierre preventivo de las instalaciones, establecimientos, servicios e industrias.
+d) La suspensión del ejercicio de actividades.
+e) La determinación de condiciones previas en cualquier fase de la fabricación o comercialización de productos y sustancias, así como del funcionamiento de las instalaciones, establecimientos, servicios e industrias a que se
+refiere esta ley, con la finalidad de corregir las deficiencias detectadas.
+f) Cualquier otra medida ajustada a la legalidad vigente si existen indicios
+racionales de riesgo para la salud incluida la suspensión de actuaciones de
+acuerdo a lo establecido en el Título II de esta ley.
+3. Las medidas se adoptarán previa audiencia de los interesados, salvo en caso
+de riesgo inminente y extraordinario para la salud de la población y su duración
+no excederá del tiempo exigido por la situación de riesgo que las motivó. Los
+gastos derivados de la adopción de medidas cautelares contempladas en el presente artículo correrán a cargo de la persona o empresa responsable.
+Las medidas que se adopten deberán, en todo caso, respetar el principio de
+proporcionalidad.»
+
+Y, también forman parte de ese conjunto normativo las actuaciones
+coordinadas en salud pública contempladas en el artículo 65 de la Ley 16/2003,
+de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para responder a situaciones de especial riesgo o alarma para la salud pública.
+
+434
+
+
+
+4. LAS DECLARACIONES DE ESTADO DE ALARMA A CAUSA
+DE LA PANDEMIA DEL COVID-19 Y LAS DISPOSICIONES
+QUE LAS HAN ACOMPAÑADO
+La pandemia provocada por el COVID-19 es una crisis sanitaria susceptible de ser considerada sin dificultad una de las alteraciones graves de la
+normalidad que justifican la declaración del estado de alarma según el artículo cuarto b) de la Ley Orgánica 4/1981 y permite la adopción de medidas que
+limitan o condicionan la libertad de circulación y otros derechos, además de
+las que contempla por sí misma la legislación sanitaria y pueden ser aplicadas
+sin más.
+El Real Decreto 463/2020, de 14 de marzo, declaró el estado de alarma
+en toda España. Fue prorrogado seis veces, hasta el 21 de junio de 2020 8. Además de las restricciones que impuso, erigió en autoridades delegadas del Gobierno a los Ministros de Defensa, de Interior, de Transportes, Movilidad y
+Agenda Urbana y de Sanidad. A este último le dio una relevancia especial pues
+le atribuyó competencia en todas las áreas que no correspondieran a los otros
+Ministros y, además, sometió a sus órdenes directas a todas las autoridades civiles sanitarias y a los funcionarios y trabajadores a su servicio (artículo 12).
+El Real Decreto 463/2020 limitó la circulación de las personas, permitiéndola solamente para las actividades que enumeraba su artículo 7 9; habilitó
+requisas temporales de todo tipo de bienes y la imposición de prestaciones
+personales obligatorias (artículo 8); suspendió la actividad educativa presencial
+(artículo 9), adoptó medidas de contención de la actividad comercial, en equipamientos culturales, en los establecimientos y actividades recreativas, en las
+actividades de hostelería y restauración (artículo 10). También dispuso limitaciones en relación con los lugares de culto y con las ceremonias civiles y religiosas (artículo 11). Quiso reforzar el Sistema Nacional de Salud (artículo 12) y
+asegurar el suministro de bienes y servicios necesarios para la protección de la
+
+8
+Las prórrogas fueron acordadas, con la autorización del Congreso de los Diputados, por el Real
+Decreto 476/2020, de 27 de marzo; el Real Decreto 487/2020, de 10 de abril; por el Real Decreto 492/2020,
+de 24 de abril; por el Real Decreto 514/2020, de 8 de mayo; por el Real Decreto 537/2020, de 22 de mayo; y
+por el Real Decreto 555/2020, de 5 de junio.
+9
+Eran las siguientes: adquirir alimentos, productos farmacéuticos o y de primera necesidad;
+desplazarse al trabajo; regresar a la residencia habitual; asistir a mayores, menores, dependientes, discapaces o personas vulnerables; desplazarse a entidades financieras y de seguros; desplazamientos por causa
+de fuerza mayor o situación de necesidad; y cualquier actividad de análoga naturaleza. También se autorizaba la circulación para adquirir productos y para la prestación de los servicios previstos en el artículo 10
+que mantenía abiertos: los establecimientos comerciales minoristas de alimentación, bebidas, productos y
+bienes de primera necesidad, establecimientos farmacéuticos, sanitarios, centros o clínicas veterinarias,
+ópticas y productos ortopédicos, productos higiénicos, prensa y papelería, combustible para la automoción, estancos, equipos tecnológicos y de telecomunicaciones, alimentos para animales de compañía, comercio por internet, telefónico o correspondencia, tintorerías, lavanderías y el ejercicio profesional de la
+actividad de peluquería a domicilio.
+
+435
+
+
+
+salud pública (artículo 13) y adoptó medidas en materia de transportes (artículo 14), así como para asegurar el abastecimiento alimentario (artículo 15), el
+tránsito aduanero (artículo 16) y garantizar el suministro de energía eléctrica,
+productos derivados del petróleo y gas natural (artículo 17). Además, se ocupó
+de preservar a los operadores críticos de servicios esenciales (artículo 18) y
+obligó a los medios de comunicación social a insertar mensajes, anuncios y
+comunicaciones de las autoridades competentes delegadas y de las Administraciones Públicas (artículo 19).
+Completaba sus preceptos con la previsión de que el incumplimiento
+o la resistencia a las órdenes de las autoridades competentes serían sancionados y unas disposiciones adicionales que, entre otras determinaciones, suspendieron los plazos procesales y administrativos, así como los de prescripción y
+caducidad y confirieron a los miembros de las Fuerzas Armadas la condición de
+agentes de la autoridad.
+Al prorrogarse, ya con la autorización del Congreso de los Diputados,
+se añadieron algunas previsiones más, entre ellas, la obligación del Gobierno
+de informar semanalmente al Congreso de los Diputados, y se precisaron las
+iniciales que lo requerían. A partir del mes de mayo de 2020 se procedió a aplicar el llamado Plan de Desescalada, aprobado por el acuerdo del Consejo de
+Ministros de 28 de abril de 2020 10, que preveía el levantamiento gradual y asimétrico de las medidas de contención conforme se fueran reuniendo los requisitos para acceder a las distintas fases que contemplaba: la cero y otras tres.
+Plan que pasó a aplicarse a partir del 19 de mayo de 2020 hasta que el 21 de
+junio siguiente decayó el estado de alarma.
+Acompañaron a los Reales Decretos que lo declararon y prorrogaron,
+numerosos Reales Decretos-Leyes que establecieron disposiciones dirigidas a
+hacer frente al impacto económico y social del COVID-19. Días antes de la declaración del estado de alarma, pero cuando ya se había hecho presente la
+pandemia con toda su fuerza, el Real Decreto-Ley 6/2020, de 10 de marzo, había dispuesto medidas urgentes en el ámbito económico y para la protección
+de la salud. Y, después de declarado, se inició un larga serie. Así, el Real Decreto-Ley 8/2020, de 17 de marzo, dispuso medidas urgentes extraordinarias para
+hacer frente al impacto económico del COVID-19, entre las que destaca la regulación de los expedientes de regulación temporal de empleo, los conocidos
+como ERTE 11, y el Real Decreto-Ley 9/2020, de 27 de marzo, tomó medidas
+complementarias en el ámbito laboral, mientras que el Real Decreto-Ley
+10/2020, de 29 de marzo, reguló el permiso retribuido recuperable para los
+10
+Se puede consultar en https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/280420-enlace-desescalada.aspx.
+11
+Prorrogados hasta el 31 de mayo de 2021 por el artículo 1.1 del Real Decreto-Ley 2/2021, de
+26 de enero.
+
+436
+
+
+
+trabajadores por cuenta ajena que prestaran servicios esenciales, durante el
+período en que se redujo al máximo la actividad económica. Por su parte, el
+Real Decreto-Ley 11/2020, de 31 de marzo, adoptó medidas complementarias
+en el ámbito social y económico para hacer frente al COVID-19.
+Ulteriores medidas sociales en defensa del empleo fueron establecidas
+por el Real Decreto-Ley 18/2020, de 12 de mayo. El Real Decreto-Ley 13/2020,
+de 7 de abril, se ocupó de medidas urgentes en materia de empleo agrario y a
+apoyar la economía y el empleo se dirigió el Real Decreto-Ley 15/2020, de 21
+de abril. A adoptar medidas procesales y organizativas para hacer frente al COVID-19 en la Administración de Justicia se dedicó el Real Decreto-Ley 16/2020,
+de 28 de abril. El Real Decreto-Ley 17/2020, de 5 de mayo, aprobó medidas de
+apoyo al sector cultural y de carácter tributario para hacer frente al impacto
+económico y social del COVID-19. El Real Decreto-Ley 19/2020, de 26 de mayo,
+dictó disposiciones complementarias en materia agraria, científica, económica,
+de empleo y Seguridad Social y tributarias para paliar los efectos del COVID-19.
+El Real Decreto-Ley 21/2020, de 29 de mayo, estableció el ingreso mínimo vital,
+y el Real Decreto-Ley 21/2020, de 9 de junio, dictó nuevas medidas urgentes de
+prevención, contención y coordinación para hacer frente a la crisis sanitaria.
+Luego, el Real Decreto-Ley 22/2020, de 16 de junio, reguló la creación del Fondo COVID-19.
+Expirado el primer estado de alarma de 2020, el Gobierno dictó el Real
+Decreto-Ley 23/2020, de 23 de junio, que aprobó medidas en materia de energía y en otros ámbitos para la reactivación económica. El Real Decreto-Ley
+24/2020, de 26 de junio, contenía medidas sociales de reactivación del empleo
+y protección del trabajo autónomo y de competitividad del sector industrial y el
+Real Decreto-Ley 25/2020, de 3 de julio, tomó medidas urgentes para apoyar la
+reactivación económica y el empleo. Por su parte, el Real Decreto-Ley 26/2020,
+de 7 de julio, trajo medidas de reactivación económica en los ámbitos de transportes y vivienda. Y el Real Decreto-Ley 27/2020, de 4 de agosto, dispuso medidas financieras de carácter extraordinario y urgente aplicables a las entidades
+locales. El Real Decreto-Ley 28/2020, de 22 de septiembre, reguló el trabajo a
+distancia y el Real Decreto-Ley 29/2020, de 29 de septiembre, estableció medidas urgentes en materia de teletrabajo en las Administraciones Públicas y de
+recursos humanos en el Sistema Nacional de Salud para hacer frente a la crisis
+sanitaria. El Real Decreto-Ley 31/2020, de 29 de septiembre, tomó medidas urgentes en el ámbito de la educación no universitaria, y el Real Decreto 31/2020,
+de 3 de noviembre, aprobó medidas sociales complementarias para la protección del desempleo y de apoyo al sector cultural. Por su parte, el Real Decreto-Ley 34/2020, de 17 de noviembre, trajo medidas urgentes de apoyo a la solvencia empresarial, al sector energético y en materia tributaria.
+Por otro lado, la Ley 3/2020, de 18 de septiembre, de medidas procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Admi-
+
+437
+
+
+
+nistración de Justicia 12, ha modificado la Ley de la Jurisdicción Contencioso
+Administrativa para encomendar a sus Juzgados y a las Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia y de la Audiencia
+Nacional la autorización o ratificación judicial de las medidas adoptadas con
+arreglo a la legislación sanitaria que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción
+de derechos fundamentales. Dichas autorización o ratificación han de darlas
+los Juzgados si las medidas en cuestión están plasmadas en actos administrativos singulares que afecten únicamente a uno o varios particulares concretos
+e identificados de manera individualizada (artículo 8.6). Si los destinatarios no
+estuvieren identificados, serán competentes las Salas de los Tribunales Superiores de Justicia (artículo 10.8) o la de la Audiencia Nacional [artículo 11.1 i)],
+según se trate de medidas dispuestas por las Comunidades Autónomas o por
+el Estado.
+Al agudizarse la segunda ola de la pandemia, el Real Decreto 900/2020,
+de 9 de octubre, volvió a declarar el estado de alarma en varios municipios de
+la Comunidad de Madrid en los que limitó la libertad de circulación. Y, después,
+el Real Decreto 926/2020, de 25 de octubre, lo declaró para toda España, con
+la particularidad de considerar autoridad delegada del Gobierno a los presidentes de las Comunidades Autónomas y Ciudades Autónomas, a los cuales habilitó para dictar las disposiciones y adoptar los actos precisos para aplicar las
+medidas que el propio Real Decreto enunciaba: limitaciones a la libertad de
+circulación en horario nocturno salvo para las actividades que señala 13; limitación de entrar o salir de Comunidades Autónomas y Ciudades Autónomas 14;
+limitación de permanencia de grupos de personas en espacios públicos y privados; limitación de permanencia en lugares de culto; e imposición de prestaciones personales.
+Aprobada tras tramitarse el Real Decreto-Ley 16/2020, una vez convalidado, como proyecto de ley.
+Eran estas: a) Adquisición de medicamentos, productos sanitarios y otros bienes de primera
+necesidad. b) Asistencia a centros, servicios y establecimientos sanitarios. c) Asistencia a centros de atención veterinaria por motivos de urgencia. d) Cumplimiento de obligaciones laborales, profesionales, empresariales, institucionales o legales. e) Retorno al lugar de residencia habitual tras realizar algunas de las
+actividades previstas en este apartado. f) Asistencia y cuidado a mayores, menores, dependientes, personas
+con discapacidad o personas especialmente vulnerables. g) Por causa de fuerza mayor o situación de necesidad. h) Cualquier otra actividad de análoga naturaleza, debidamente acreditada. i) Repostaje en gasolineras o estaciones de servicio, cuando resulte necesario para la realización de las actividades previstas en
+los párrafos anteriores.
+14
+Se trata del llamado «cierre perimetral». Exceptuaba de la prohibición de circular los siguientes
+supuestos: a) Asistencia a centros, servicios y establecimientos sanitarios. b) Cumplimiento de obligaciones
+laborales, profesionales, empresariales, institucionales o legales. c) Asistencia a centros universitarios, docentes y educativos, incluidas las escuelas de educación infantil. d) Retorno al lugar de residencia habitual o familiar. e) Asistencia y cuidado a mayores, menores, dependientes, personas con discapacidad o personas
+especialmente vulnerables. f) Desplazamiento a entidades financieras y de seguros o estaciones de repostaje
+en territorios limítrofes. g) Actuaciones requeridas o urgentes ante los órganos públicos, judiciales o notariales. h) Renovaciones de permisos y documentación oficial, así como otros trámites administrativos inaplazables. i) Realización de exámenes o pruebas oficiales inaplazables. j) Por causa de fuerza mayor o situación de
+necesidad. k) Cualquier otra actividad de análoga naturaleza, debidamente acreditada.
+12
+
+13
+
+438
+
+
+
+Además, el Gobierno pidió al Congreso de los Diputados que lo prorrogase hasta por seis meses y la cámara así lo autorizó el 29 de octubre de
+2020 en las mismas condiciones establecidas por el Real Decreto 926/2020 y,
+en consecuencia, el Real Decreto 956/2020, de 3 de noviembre, así lo acordó,
+de manera que se ha extendido hasta las 00:00 horas del 9 de mayo de 2021.
+De este modo, mientras que entre el 14 de marzo y el 21 de junio de 2020 fue
+el Gobierno y, en especial, el Ministerio de Sanidad, quien tomó las decisiones, a partir de octubre de 2020, bajo el tercer estado de alarma provocado
+por la pandemia del Covid-19 se han puesto en manos de los Consejos de
+Gobierno de las Comunidades Autónomas, aunque dentro del abanico de
+posibilidades previstas en la declaración y han sido los presidentes de las
+Comunidades Autónomas, como autoridades delegadas del Gobierno, los que
+han tomado las medidas correspondientes, las cuales, según el artículo 2.3 del
+Real Decreto 926/2020 no precisaban de ratificación judicial, aunque sí la requerían las adoptadas por los Consejos de Gobierno o por otras autoridades
+autonómicas distintas de los Presidentes y también las tomadas por la Administración del Estado en el ámbito de su competencia, salvo las acordadas por
+el Consejo de Ministros.
+El Gobierno, ciertamente, además de reservarse la adopción de medidas correspondientes a la sanidad exterior, competencia estatal según el artículo 149.1.16.ª de la Constitución, procura la coordinación de las actuaciones
+en materia de salud a través del Consejo Interterritorial del Sistema Nacional
+de Salud, conforme al artículo 65 de la Ley 16/2003, antes mencionado. En su
+virtud ha promovido diversas declaraciones de actuaciones coordinadas, vinculantes para las Comunidades Autónomas algunas de las cuales han sido
+controvertidas.
+Las disposiciones mencionadas no agotan la normativa producida por
+el Gobierno con motivo de la pandemia del COVID-19 pues a ellas se han de
+sumar multitud de Órdenes Ministeriales dictadas en su desarrollo o aplicación
+de los Reales Decretos de declaración o prórroga del estado de alarma y de los
+Reales Decretos-Leyes. Es, pues, un entramado amplio y complejo que va mucho más allá del ámbito estricto de la salud y se proyecta en extensos aspectos
+de las relaciones sociales, laborales y económicas.
+Ya bajo la segunda ola de la pandemia, se dictaron los Reales Decretos-Leyes 32/2020, de 3 de noviembre, que aprobó medidas sociales complementarias para la protección por desempleo y de apoyo al sector cultural, y
+34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia
+empresarial y al sector energético y en materia tributaria. Más tarde se dictaron
+el Real Decreto-Ley 35/2020, de 22 de diciembre, de medidas urgentes de apoyo al sector turístico, la hostelería y el comercio y en materia tributaria, y el Real
+Decreto-Ley 37/2020, de 22 de diciembre, de medidas urgentes para hacer fren-
+
+439
+
+
+
+te a las situaciones de vulnerabilidad social y económica en el ámbito de la
+vivienda y en materia de transportes.
+Después, el Real Decreto-Ley 36/2020, de 30 de diciembre, aprobó
+medidas urgentes para la modernización de la Administración Pública y para la
+ejecución del Plan de Recuperación, Transformación y Resiliencia, dirigido, según su artículo 1, a «facilitar la programación, presupuestación, gestión y ejecución de las actividades financiables con fondos europeos, en especial los provenientes del Instrumento Europeo de Recuperación», aprobado por el Consejo
+Europeo del 21 de julio de 2020. También establece medidas para aplicar ese
+Plan. El Real Decreto-Ley 1/2021, de 19 de enero, de protección de los consumidores y usuarios frente a situaciones de vulnerabilidad social y económica,
+introduce en la legislación sectorial el concepto de «persona consumidora vulnerable». Y el Real Decreto-Ley 2/2021, de 26 de enero, de refuerzo y consolidación de medidas sociales en defensa del empleo, prorrogó los expedientes
+de regulación temporal de empleo hasta el 31 de mayo de 2021 y estableció
+prestaciones extraordinarias de cese de actividad para los trabajadores autónomos afectados. A su vez, el Real Decreto-Ley 3/2021, de 2 de febrero, ha adoptado medidas para la reducción de la brecha de género y otras materias en los
+ámbitos de la Seguridad Social y económico, como la modificación de los beneficiarios del ingreso mínimo vital. En fin, el Real Decreto-Ley 5/2021, de 12
+de marzo, de medidas extraordinarias de apoyo a la solvencia empresarial en
+respuesta a la pandemia de la COVID-19, crea la Línea Covid de ayudas directas
+a autónomos y empresas para apoyar su solvencia y reducir el endeudamiento
+con una dotación total de 7.000 millones de euros.
+A este conjunto normativo se ha venido a unir la Ley 2/2021, de 29 de
+marzo, de medidas urgentes de prevención, contención y coordinación para
+hacer frente a la crisis sanitaria ocasionada por el COVID-19 15, que, además de
+reforzar los mecanismos de coordinación en materia de salud, prevé para después del estado de alarma el mantenimiento de diversas restricciones para prevenir rebrotes, entre ellas el uso obligatorio de mascarillas en los espacios públicos. Asimismo, la Ley 3/2021 de 12 de abril, por la que se adoptan medidas
+complementarias, en el ámbito laboral, para paliar los efectos derivados del
+COVID-19 16, entre otras prescripciones, establece la vigencia hasta el 31 de
+mayo de 2021 de las causas que amparan los expedientes de regulación temporal de empleo, las cuales, dice, no podrán justificar la extinción del contrato de
+trabajo ni el despido (artículo 2 y disposición final segunda). Por su parte, la
+Ley 4/2021, de 12 de abril, regula un permiso retribuido recuperable para las
+personas trabajadoras por cuenta ajena que no presten servicios esenciales con
+
+15
+16
+
+440
+
+Surgida de la tramitación como proyecto de ley del Real Decreto-Ley 21/2020, tras su convalidación.
+Surgida de la tramitación como proyecto de ley del Real Decreto-Ley 9/2020, tras su convalidación.
+
+
+
+el fin de reducir la movilidad de la población en el contexto de la lucha contra
+el COVID-19 17.
+La última novedad relevante es la que ha traído consigo el Real Decreto-Ley 8/2021, de 4 de mayo, por el que se adoptan medidas urgentes en el
+orden sanitario, social y jurisdiccional, aplicables tras la finalización de la vigencia del estado de alarma.
+
+5. DE LA ACEPTACIÓN A LA CONFRONTACIÓN
+Aceptada inicialmente de forma casi unánime la declaración del estado
+de alarma y observadas de manera abrumadoramente generalizada las restricciones impuestas para impedir la difusión de la enfermedad, conforme fue pasando el tiempo, la inicial unidad política fue disminuyendo, tal como se apreció en los resultados de las votaciones para autorizar su prórroga y la dificultad
+creciente para lograr la mayoría necesaria y en el debate entablado en las
+Cortes Generales y en los medios de comunicación. Las diferencias se fueron
+produciendo en torno a si las medidas adoptadas por el Gobierno iban o no
+más allá de las limitaciones que la Constitución y la Ley Orgánica autorizan en
+el estado de alarma, tanto por los derechos afectados cuanto por el mantenimiento en el tiempo de las restricciones, cuestión ésta última a la que se unió
+más tarde la discusión sobre si cabe que, en vez de hacerlo cada quince días,
+el Congreso de los Diputados autorice una prórroga de seis meses, tal como se
+acabó haciendo.
+Igualmente, pronto se pasó a criticar la centralización de las decisiones
+en el Gobierno y a reprocharle falta de eficacia. En cambio, cuando en el otoño
+de 2020 se declaró nuevamente el estado de alarma en toda España para hacer
+frente a la segunda y sucesivas olas y se optó desde el Gobierno por la llamada
+co-gobernanza de la crisis sanitaria 18, negociando con las Comunidades Autónomas la actuación a seguir y dejando en sus manos la aplicación de las medidas previstas en los Reales Decretos que lo declararon, en el debate público se
+pasó a criticar al Gobierno, en unas ocasiones por no decidir y en otras por
+hacerlo en sentido distinto al pretendido por algunos ejecutivos autonómicos.
+Así, la política a seguir para hacer frente a la pandemia y a sus consecuencias de todo orden, terminó convirtiéndose en uno de los ejes principales
+de confrontación entre el Gobierno y la mayoría parlamentaria, no siempre
+Surgida de la tramitación como proyecto de ley del Real Decreto-Ley 10/2020, tras su convalidación.
+La que se ha visto como una federalización del estado de alarma. Cfr. Francisco Velasco Caballero,
+«Federalización del estado de alarma», en https://franciscovelascocaballeroblog.wordpress.
+com/2020/05/10/federalizacion-del-estado-de-alarma/.
+17
+
+18
+
+441
+
+
+
+coincidente, que le ha sostenido y las oposiciones a la misma en el Congreso
+de los Diputados. Al mismo tiempo, se han ido abriendo brechas en la masiva
+aceptación social de las medidas restrictivas. Se trata de posiciones heterogéneas pero que han conseguido hacerse notar. Es el caso, entre otros, de los
+defensores de dejar que la enfermedad discurra por sí misma hasta que se alcance de esa manera natural la llamada inmunidad de grupo. También el de los
+que niegan por diversas razones la enfermedad y el de los que creen que se
+debe combatir con soluciones diferentes a las propugnadas oficialmente. En
+una posición distinta se encuentran los defensores de limitar las restricciones
+por la asfixia que están produciendo en algunos sectores económicos, en especial los relacionados con el turismo, la hostelería, el ocio y el pequeño comercio. Se puede completar esta relación con los que no se consideran concernidos
+e incumplen las reglas y con los que mantienen que ha de prevalecer frente a
+ellas su personal entendimiento de su libertad.
+También en el plano de las consideraciones generales, pero desde otra
+perspectiva, transcurridas las primeras semanas bajo el estado de alarma, se ha
+defendido que había llegado el momento de servirse de la legislación ordinaria
+sobre sanidad y salud pública, modificándola en lo preciso, de ser necesario y,
+también, de prescindir del instrumento del Real Decreto-Ley 19. Incluso, se ha
+sostenido con argumentos respetables, que desde el primer momento debió ser
+la legislación sobre sanidad la aplicada, en vez de recurrir al estado de alarma 20.
+Otro extremo controvertido a la hora de la llamada desescalada fue el criterio
+aplicado por el Gobierno para considerar satisfechos por las Comunidades Autónomas los requisitos para pasar a las fases más avanzadas de la misma en el
+primer estado de alarma.
+Esas polémicas se fueron extendiendo al mismo tiempo que se mantuvo la crítica al Gobierno, pero también a las Comunidades Autónomas por no
+haber previsto la pandemia y tomado las precauciones necesarias y, después,
+una vez en ella, por no suministrar a los profesionales sanitarios y, en general,
+al Sistema Nacional de Salud y a las residencias de personas mayores los medios de protección necesarios. Igualmente, se ha sostenido que la prolongación
+del estado de alarma ha mermado el control parlamentario sobre el Gobierno
+con el consiguiente menoscabo de la posición constitucional de las Cortes Generales, ha propiciado abusos del poder y ausencia de transparencia en el pro-
+
+19
+Para una reciente y fundamentada crítica a la profusa utilización del Real Decreto-Ley antes del
+COVID y también en la pandemia, véase Ignacio Astarloa Huarte-Mendicoa, La vocación del nuestro tiempo
+por la legislación y los retos para el legislador. Discurso de ingreso en la Real Academia de Jurisprudencia y
+Legislación, Madrid 2020, pp. 18 y ss.
+20
+Así lo ha hecho Santiago Muñoz Machado en El poder y la peste de 2020, cit., pp. 98 y ss.
+
+442
+
+
+
+ceder gubernamental que habría llegado, incluso, a la limitación de las libertades de expresión y de información 21.
+Y, a partir de aproximaciones más concretas, se ha abierto la discusión
+sobre medidas singulares, bien por considerarlas excesivas, bien por tenerlas
+por ineficaces, juzgar que se excedían sobre lo previsto en los Reales Decretos
+de declaración o prórroga del estado de alarma o, simplemente, por encontrarlas contrarias al ordenamiento jurídico.
+En particular sobre la vacunación se ha debatido si puede hacerse, directa o indirectamente, obligatoria 22.
+La última polémica al escribirse estas líneas es la surgida en vísperas de
+la expiración del estado de alarma el 9 de mayo de 2021 sobre si debía o no
+prorrogarse, a la vista de la evolución de la enfermedad. En este caso, mientras
+el Gobierno ha mantenido que no era precisa esa prórroga pues la legislación
+sanitaria y el control judicial permiten hacer frente a la pandemia, desde diversas Comunidades Autónomas se ha manifestado que resulta imprescindible el
+estado de alarma para limitar la circulación de las personas. El punto de discrepancia ha residido en si, a falta de estado de alarma, la legislación ordinaria
+permite o no el mantenimiento de restricciones a la movilidad, tales como el
+toque de queda o los cierres perimetrales, principalmente.
+Debate en torno al cual el Gobierno ha sostenido que con las medidas
+que autoriza la legislación sanitaria, en especial la Ley Orgánica 3/1986, con las
+derivadas de las declaraciones de actuaciones coordinadas en materia de salud
+surgidas del Consejo Interterritorial del Sistema Nacional de Salud, y con la ratificación judicial de las impliquen restricciones de derechos fundamentales, era
+suficiente. Y quienes defendían su prórroga todavía durante varias semanas más
+—uno o dos meses— entendían que sólo el estado de alarma ofrece la certeza
+del establecimiento y aplicación de las limitaciones imprescindibles porque no
+está asegurada la ratificación judicial, a la vista del distinto criterio observado
+
+21
+Por ejemplo, en el prólogo de Alfonso Fernández-Miranda Campoamor al libro coordinado por
+Daniel Barceló Rojas, Sergio Díaz Ricci, Javier García Roca y María Elisabeth Guimaráes Teixeira Rocha, Covid
+19 y parlamentarismo. Los Parlamentos en cuarentena. Instituto de Investigaciones Jurídicas. Universidad Nacional Autónoma de México. Ciudad de México, 2020, pp. XV y ss. En ese mismo libro ofrecen una valoración
+diferente Javier García Roca [«El control parlamentario y otros contrapesos del Gobierno en el estado de alarma»
+(pp. 17 y ss.)] y Encarnación Carmona Cuenca [«Los derechos fundamentales en el estado de alarma. La crisis
+sanitaria en España» (pp. 221 y ss.)]. También son matizadas las apreciaciones recogidas en el libro dirigido por
+Enrique Arnaldo Alcubilla y Raúl Canosa Usera, El Derecho Constitucional ante el COVID-19. Las diferentes
+respuestas en el ámbito comparado. Wolters Kluwer, Madrid, 2020.
+22
+A esta cuestión se dedican monográficamente los núms. 93-94/2021 de El Cronista del Estado
+social y democrático de Derecho, con contribuciones de Edorta Cobreros Mendazona, César Cierco Sieira,
+Miguel Sánchez Morón, José Luis Goñi Sein, Iñigo de Miguel Beriain, Mario Santisteban Galarza, Federico de
+Montalvo Jääskeläinen, Vicente Bellver Capella, Manuel Rebollo Puig, Joaquín Tornos Mas, José María Gimeno Feliú y Alba Nogueira López.
+
+443
+
+
+
+por las Salas de los diferentes Tribunales Superiores de Justicia. A esas dos posiciones se añade una tercera que viene reclamando una modificación de la
+legislación sanitaria para introducir en ella cláusulas que permitan adoptar medidas restrictivas de carácter general en circunstancias de emergencia. Es lo que
+ha sugerido, respecto de la Ley orgánica 3/1986, el Consejo de Estado en su
+dictamen de 22 de marzo de 2021 (expediente núm. 213/2021) al recurso de
+inconstitucionalidad contra la Ley gallega 8/2021, de 25 de febrero, que modificó el artículo 38 de la Ley 8/2008, de 10 de julio, de Salud de Galicia 23.
+Conviene recordar, en fin que, si bien se han adoptado, según se ha
+señalado antes, numerosas disposiciones para paliar los efectos económicos y
+sociales de la pandemia, es evidente que a la crisis de salud pública y su deriva
+política se han unido la económica y social. Esta circunstancia explica las ingentes ayudas públicas dispuestas por la Unión Europea y por los Estados que la
+integran pero, también, buena parte de la conflictividad que se ha desatado y,
+seguramente, se desatará mientras no sean palpables los efectos de aquellas y
+se recupere la normalidad perdida.
+
+6. EL ESTADO DE ALARMA EN LOS TRIBUNALES
+No es extraño que, en este contexto, desde el mismo mes de marzo de
+2020 se hayan promovido numerosos procesos judiciales con motivo de actuaciones u omisiones de las autoridades relacionadas con la pandemia del COVID-19.
+El repaso que se hace a continuación, no pretende ser exhaustivo sino señalar las
+cuestiones más relevantes que se han planteado con motivo de la pandemia y de
+las medidas dispuestas para hacerle frente ante los tribunales de justicia y, en
+especial, ante el Tribunal Supremo, cuya Sala Tercera, por razón de su competencia para controlar la legalidad de la acción del Gobierno, ha debido pronunciarse en numerosas ocasiones con motivo de recursos de ciudadanos y de diversas entidades contra las determinaciones tomadas sea por el Consejo de
+Ministros, sea por el Ministro de Sanidad o por los Presidentes de las Comunidades Autónomas en tanto uno y otros reúnen la condición de autoridad delegada
+del Gobierno en virtud de los Reales Decretos de declaración y prórroga del
+estado de alarma.
+Por eso, la exposición más amplia es la relativa a los pronunciamientos
+de la Sala Tercera y, concretamente, de su Sección Cuarta, que es a la que corresponde, según las normas de reparto 24, conocer de los recursos interpuestos
+Accesible en https://www.boe.es/buscar/doc.php?id=CE-D-2021-213.
+Acuerdos de la Sala de Gobierno del Tribunal Supremo de 11 de diciembre de 2019 (Boletín
+Oficial del Estado de 13 de febrero de 2020) y de 23 de noviembre de 2020 (Boletín Oficial del Estado de 15
+de febrero de 2021).
+23
+24
+
+444
+
+
+
+por el procedimiento de protección jurisdiccional de los derechos fundamentales y sobre los actos y disposiciones emanados del Ministerio de Sanidad, así
+como del recurso de casación contra los autos dictados en los procedimientos
+de ratificación de medidas restrictivas de derechos fundamentales adoptadas
+por las autoridades sanitarias.
+6.1 En el orden penal
+Hay, ciertamente, procedimientos penales en los que se acusa a algunas de esas autoridades de conductas delictivas. Están la mayor parte en sus
+fases iniciales, aunque ya habido algunos pronunciamientos de inadmisión de
+querellas y denuncias.
+El más importante es el efectuado por el auto de la Sala Segunda del
+Tribunal Supremo de 18 de diciembre de 2020 (causa especial núm. 20542/2020)
+que ha inadmitido veinte querellas y treinta denuncias presentadas por sindicatos, asociaciones y organizaciones profesionales del ámbito de la Sanidad y de
+las Fuerzas y Cuerpos de Seguridad, familiares de víctimas del coronavirus y de
+Vox por «no estar debidamente justificada comisión de los hechos punibles atribuidos a los querellados con fuero procesal en esta Sala». Dirigidas contra el
+Presidente del Gobierno, los vicepresidentes y ministros, los magistrados del
+Tribunal Constitucional y del Tribunal Supremo, el Defensor del Pueblo, los
+Presidentes de las Comunidades Autónomas de Cataluña, Castilla y León y de
+la Comunidad de Madrid y Consejeros de las mismas así como contra diversos
+altos cargos y funcionarios estatales y autonómicos, les imputaban delitos de
+homicidio, de lesiones imprudentes, delitos contra los derechos de los trabajadores, prevaricación y malversación de caudales.
+El auto de la Sala Segunda acuerda, no obstante, «la deducción de testimonio de las denuncias y querellas entabladas con el fin de que sean remitidas al Juzgado Decano de los Juzgados de Madrid para que, conforme a lo que
+se acuerda y razona en la presente resolución, se incoen las causas penales que
+correspondan, o se acumulen aquellas a las que ya estén siendo o hayan sido
+objeto de tramitación». Se trata de que investiguen en especial los fallecimientos
+en las residencias de la tercera edad, la eventual omisión de las medidas de
+seguridad brindadas a profesionales sanitarios y policías y la posible malversación de fondos públicos en la contratación de materiales fallidos o fraudulentos
+para combatir la pandemia.
+Entre las indicaciones que establece figura, en primer lugar, la advertencia de que la calificación jurídico-penal de un hecho no puede depender «de
+la indignación colectiva por la tragedia en la que todavía nos encontramos inmersos, ni por el legítimo desacuerdo con decisiones de gobierno que pueden
+considerarse desacertadas». Y añade, a propósito de la atribución de delitos a
+
+445
+
+
+
+los aforados —que son los únicos sobre los que se pronuncia— que la imputación es especialmente compleja cuando la acción delictiva se produce en una
+estructura compleja y jerarquizada administrativa o judicial y que no cabe la
+atribución objetiva de responsabilidad penal por el mero hecho de ocupar un
+cargo en esas organizaciones, por muy alto que sea.
+De las querellas y denuncias contra el Presidente, los vicepresidentes y
+los ministros por homicidio y lesiones por imprudencia grave, en razón de su
+inacción y mala gestión, dice el auto que para demostrar que entre sus acciones
+u omisiones y el resultado mortal o lesivo hubo la necesaria concreta, precisa e
+inequívoca relación de causalidad, no bastan consideraciones genéricas y difusas. En particular, explica, no es suficiente acreditar que se ocultó información
+procedente de organismos internacionales a disposición del Gobierno. Y que
+tampoco basta con demostrar que no se tomaron medidas para evitar las aglomeraciones masivas.
+«Nuestro sistema penal, dice, no conoce un delito que castigue a la
+autoridad que oculte intencionada o negligentemente información relevante
+sobre el alcance de una pandemia susceptible de causar un grave peligro para
+la sanidad colectiva». Indica, además, que para considerar al Gobierno autor de
+tantos delitos de homicidio o lesiones cuantas víctimas ha habido sería preciso
+acreditar en términos médicos que el contagio desencadenante del daño fatal
+tuvo en cada caso origen inmediato en decisiones u omisiones gubernamentales. Pero, dice el auto, «el estado actual de la medicina no permite proclamar ese
+enlace causal entre la acción u omisión del Gobierno y el lugar o momento del
+contagio con exclusión de otras explicaciones alternativas con la certeza necesaria para afirmar la autoría» del delito. Para hacerlo, apunta, habría que demostrar que si no se hubiera ocultado la información o si se hubiera anticipado la
+decisión política del confinamiento, se habrían impedido los daños. Y ese extremo, resalta, no se ha establecido pues no es suficiente constatar que «unas
+decisiones de esa naturaleza podían haber reducido la dramática estadística que
+está definiendo esta tragedia».
+Sobre la acusación por delitos contra los derechos de los trabajadores
+por no haberles suministrado los medios de protección necesarios, dice la Sala
+Segunda que las querellas no ponen de manifiesto indicios concretos que permitan conectar a los aforados con los hechos. Antes ha indicado que el delito castiga a los legalmente obligados a dispensar esos medios y que en el caso de la
+Administración Pública, su organización jerárquica puede dar lugar a la paradoja
+de que, cuanto más relevante sea la capacidad de decisión, más lejano esté el
+responsable de las acciones u omisiones de los últimos eslabones de la cadena
+de mando y que los que ocupan los puestos más altos de la estructura jerárquica,
+«por este mero hecho, no pueden ser considerados responsables in integrum de
+todas y cada una de las conductas ejecutadas por otros y que han podido incrementar el riesgo para la vida o para la salud de los trabajadores o funcionarios».
+
+446
+
+
+
+Su posición, resalta, no les convierte en garantes de todas las actuaciones. Por
+tanto, el auto encomienda a la investigación que desplieguen los Juzgados, previo
+conocimiento de la estructura de los Ministerios, Consejerías y Centros de Salud,
+determinar sobre quién recaía la condición de garante y si las omisiones detectadas respondieron a una conducta intencionada o negligente.
+Por lo que hace a las muertes en las residencias de la tercera edad, el
+auto, que no es ajeno a la gravedad de lo ocurrido en ellas y, a propósito de la
+responsabilidad de los aforados, dice que «no es suficiente la mera atribución
+competencial de la gestión» sino que es menester «que existan datos objetivos
+que permitan imputar concretos resultados lesivos producidos en cada caso y
+sobre cada persona afectada» y esto exige «la evaluación, aunque sea provisional, de las circunstancias concretas en las que estos resultados se producen». No
+obstante, el auto envía a los Juzgados de Madrid las denuncias y querellas por
+esta causa para que investiguen los hechos y esclarezcan si «esos fallecimientos
+estuvieron asociados a decisiones político-administrativas o de gestión y si
+aquellas son susceptibles de reproche penal». También les encomienda indagar
+la autoría de las resoluciones prohibitivas que impidieron el traslado de esas
+personas a centros sanitarios, anticipando así un prematuro estado de necesidad que debería haber sido un acto médico. Igualmente, les requiere el esclarecimiento de si «la excepcionalidad derivada de las circunstancias vividas durante la pandemia justificaba decisiones que impidieron a los enfermos de
+mayor edad recibir la atención médica de la que eran merecedores y a la que,
+por supuesto, tenían derecho».
+En fechas anteriores, la Sala de lo Civil y Penal del Tribunal Superior de
+Justicia de Madrid inadmitió la denuncia presentada por la Alcaldesa de Móstoles
+contra el Consejero de Sanidad de la Comunidad de Madrid por posible comisión
+de los delitos de vulneración de los derechos fundamentales y libertades públicas
+y de omisión del deber de socorro a causa de una supuesta exclusión de la derivación hospitalaria de personas mayores enfermas e internas en residencias de
+dicha Comunidad 25. De igual modo, la Sala Segunda del Tribunal Supremo había
+inadmitido la querella de la asociación Abogados Cristianos contra el Ministro del
+Interior por la suspensión de actos de culto religioso 26.
+6.2 En el orden laboral
+Los Juzgados de lo Social y las Salas correspondientes de los Tribunales Superiores de Justicia y de la Audiencia Nacional, así como la Sala Cuarta
+
+25
+Auto 62/2020, de 19 de noviembre, dictado en las diligencias previas núm. 251/2020. ECLI: ES:
+TSJM:2020:412A.
+26
+Auto de 16 de noviembre de 2020. Causa especial núm. 20269/2020. ES: TS:2020:10437A.
+
+447
+
+
+
+del Tribunal Supremo, por su parte, han tenido que conocer de acciones dirigidas a reclamar los medios de protección necesarios de acuerdo con la legislación sobre prevención de riesgos y salud laboral. En general, estos órganos
+judiciales concedieron las medidas cautelares solicitadas por los recurrentes,
+la mayor parte asociaciones u organizaciones sindicales de profesionales de
+la sanidad, de miembros de los Cuerpos y Fuerzas de Seguridad y de miembros de unas y otros.
+En este sentido, se pueden destacar las sentencias del pleno de la Sala
+de lo Social del Tribunal Supremo 27 que confirmaron frente al Gobierno Vasco
+el criterio de la Sala de lo Social del Tribunal Superior de Justicia del País Vasco
+según el cual, por un lado, no se había suministrado a los efectivos de la Ertzaintza los medios de protección necesarios. Por eso, falló obligándole a poner
+a su disposición «mascarillas del tipo FPP2, FPP3, gafas, guantes desechables,
+buzos Type 5B o Type 6B y contenedores de residuos infecciosos, según se
+determina en los Protocolos del Ministerio de Sanidad de 16 y 20 de marzo y 8
+de abril y en los de Protección del Personal de la Ertzaintza de 26 de marzo,
+17 de abril y 12 de mayo, según corresponda a cada puesto, atendida la diversa
+clasificación de los riesgos de exposición que se indican en los Procedimientos
+y Notas indicados, y ello también en la medida en que no se hubiere realizado
+ya». Y, por el otro lado, el Servicio Vasco de Salud, Osakidetza, no había evaluado los riesgos por COVID-19 de los puestos de trabajo y por tareas específicas en los centros hospitalarios de Santa Marina, Górliz y en la red de salud
+mental de Álava.
+6.3 En el orden contencioso-administrativo
+6.3.1 El ámbito de enjuiciamiento y los problemas
+de constitucionalidad
+Naturalmente, se ha instado también la actuación de los Juzgados y
+Tribunales de lo Contencioso Administrativo en numerosos supuestos. Algunos
+de los más significativos son objeto de consideración más adelante. Antes, sin
+embargo, conviene señalar que buena parte de los recursos parten de la premisa de la inconstitucionalidad de la declaración del estado de alarma. Ya se ha
+dicho que muy pronto se planteó esta cuestión en el debate público. Su traslación al proceso contencioso-administrativo ha tenido lugar tanto en recursos
+dirigidos directamente contra los Reales Decretos que lo declararon o contra los
+que, ya con autorización del Congreso de los Diputados, dispusieron su prórroga, cuanto en los que se han impugnado disposiciones reglamentarias dictadas
+
+27
+Se trata de las sentencias del pleno de la Sala de lo Social del Tribunal Supremo núm. 281/2021
+(casación 105/2020) y núm. 217/2021, de 17 de febrero (casación núm. 129/2020).
+
+448
+
+
+
+en su ejecución o actos concretos fundados en dicha declaración o en la normativa que ha originado.
+Las razones principalmente alegadas son las que se refieren a la inidoneidad del estado de alarma para suspender derechos fundamentales 28. Es decir, quienes se han situado en esta posición consideran que a partir del 14 de
+marzo de 2020 no se limitaron o restringieron derechos fundamentales, particularmente pero no solo, la libertad de circulación, sino que sencillamente se
+suspendieron para todo el país, para millones de españoles y por un largo período. De ahí que defiendan que el instrumento constitucional para producir
+ese efecto es el estado de excepción que, a diferencia del de alarma, necesita
+de la autorización previa del Congreso de los Diputados para que el Gobierno
+pueda declararlo. Posteriormente, a propósito de la prórroga de seis meses del
+último estado de alarma, se ha dicho que es contrario a la Constitución porque,
+siendo el plazo máximo para declararlo de quince días según su artículo 116,
+esa debe ser la duración de sus prórrogas, tal como se había venido entendiendo hasta que el Gobierno pidiera y obtuviera del Congreso de los Diputados la
+autorización para que llegara hasta las 00:00 horas del 9 de mayo de 2021.
+No parece discutible que una pandemia como la que sufrimos encaja
+en el presupuesto previsto por la Ley Orgánica 4/1981 para la declaración del
+estado de alarma. La cuestión no es, sin embargo, esta sino, en primer lugar, si
+las medidas dispuestas son idóneas, imprescindibles y proporcionadas para
+impedir la propagación de la enfermedad y, además, si, efectivamente, entrañan
+la suspensión de derechos fundamentales o solo consisten en su limitación, que
+es lo que permite la Ley Orgánica en el estado de alarma y no significa, en
+principio, infracción del artículo 55.1 de la Constitución. Resolverla, así como
+responder a si cabe una prórroga superior a quince días, significa entrar en el
+examen de la constitucionalidad del contenido y de la duración dados al estado
+de alarma.
+Sucede, sin embargo, que, tal como se señaló antes, el Tribunal Constitucional ha dicho en su sentencia 83/2016 que el Real Decreto que declara el
+estado de alarma o su prórroga es un acto con valor de Ley y los tribunales de
+lo contencioso-administrativo carecen de jurisdicción para enjuiciarlo directamente. Solamente, con ocasión de recursos interpuestos contra actos o disposiciones reglamentarias dictados en virtud de la declaración, si dudaran de su
+conformidad con la Constitución y la razón de ello se debiera a que aplican una
+determinación con valor de ley de aquella, relevante y determinante del fallo
+que han de pronunciar, en la que reside la causa de la posible contradicción
+28
+Aunque también ha habido recursos que reprochaban a los Reales Decretos de declaración y
+prórroga ignorar las necesidades de la infancia confinada y discriminarla al tiempo que se denunciaba que el
+Gobierno la considerara un vector de transmisión del virus (recurso núm. 92/2020, archivado por auto de 28
+de abril de 2020).
+
+449
+
+
+
+con la Constitución, deberán plantear cuestión de inconstitucionalidad ante el
+Tribunal Constitucional. Ahora bien, eso solamente podrán hacerlo tras oír a las
+partes e inmediatamente antes de dictar sentencia. Es decir, una vez tramitado
+todo el proceso y, de momento, solo se ha llegado a ese punto respecto de la
+modificación del artículo 10.8 de la Ley de la Jurisdicción Contencioso Administrativa para atribuir a las Salas de ese orden la autorización o ratificación de las
+medidas extraordinarias que, por razones sanitarias, comporten la restricción de
+derechos fundamentales 29.
+Por otra parte, penden cuando se escriben estas líneas los recursos de
+inconstitucionalidad interpuestos por Vox contra el Real Decreto 463/2020, de
+14 de marzo, que declaró el estado de alarma y contra los Reales Decretos
+487/2020, de 10 de abril, y 492/2020, de 24 de abril, que lo prorrogaron, así
+como contra el Real Decreto 926/2020, de 25 de octubre, que volvió a declararlo, y su prórroga por el Real Decreto 956/2020, de 3 de noviembre. Por tanto,
+habrá que esperar al juicio del Tribunal Constitucional.
+Aunque no condiciona la decisión que tome en su día, es significativo
+que la providencia de la Sección Primera de su Sala Primera de 11 de diciembre de 2020 haya inadmitido el recurso de amparo de una diputada de Vox
+contra el acuerdo parlamentario de autorización de la prórroga del estado de
+alarma y contra el Real Decreto que, en cumplimiento de esa autorización
+prorrogó el declarado por el Real Decreto 926/2020 30. Es significativo porque
+la razón de la inadmisión es la naturaleza de acto con valor de Ley del acuerdo parlamentario y del Real Decreto de prórroga que afirmaron la sentencia
+83/2016 y el auto 7/2012. Y ese mismo criterio lo ha seguido para inadmitir el
+recurso de amparo interpuesto por un abogado contra la inadmisión por la
+Sala Tercera del Tribunal Supremo de su recurso contencioso-administrativo
+contra el Real Decreto 463/2020 31.
+Otro asunto de importante trascendencia constitucional que deberá
+abordar y resolver el Tribunal Constitucional es el de si una ley autonómica
+puede establecer limitaciones a los derechos fundamentales con la amplitud
+con la que lo hace la Ley gallega 8/2021, de 25 de febrero, o si dar ese paso
+supone infringir la reserva de ley orgánica impuesta por el artículo 81.1 de la
+Constitución. No cuesta especial esfuerzo advertir con su sola lectura, que, no
+solo incluye las limitaciones aplicadas durante los pasados estados de alarma,
+sino que hace, además, un amplio desarrollo de la Ley Orgánica 3/1986 e intro-
+
+29
+La cuestión de inconstitucionalidad planteada por la Sala de lo Contencioso Administrativo del
+Tribunal Superior de Justicia de Aragón ha sido admitida a trámite por la providencia del Pleno del Tribunal
+Constitucional de 16 de febrero de 2021 (asunto núm. 6283-2020).
+30
+Providencia de 11 de diciembre de 2020 (asunto 5344-2020).
+31
+Providencia de 23 de diciembre de 2020 (asunto 6309-2020).
+
+450
+
+
+
+duce la vacunación obligatoria 32. El recurso de inconstitucionalidad del Gobierno ha invocado el artículo 161.2 de la Constitución respecto del apartado quinto de la nueva Ley. Por tanto, con la sola interposición el precepto autonómico
+ha quedado suspendido y el Tribunal Constitucional deberá decidir dentro de
+los próximos cinco meses si mantiene o levanta la suspensión.
+6.3.2 Las inadmisiones por falta de jurisdicción de la Sala y de
+legitimación de los recurrentes
+La calificación por la sentencia núm. 83/2016 del Tribunal Constitucional de los Reales Decretos de declaración y prórroga del estado de alarma
+como disposiciones con valor de Ley no ha sido óbice para que se interpusieran recursos contencioso-administrativos ante la Sala Tercera del Tribunal Supremo, casi todos por el procedimiento especial de protección jurisdiccional
+de los derechos fundamentales, contra los que lo han declarado o prorrogado
+con la autorización del Congreso de los Diputados. En todos ellos se ha planteado por el Abogado del Estado su inadmisibilidad por falta de jurisdicción
+de la Sala por la razón indicada y en algunos se ha entablado en esa fase
+preliminar un debate sobre si se debía atender a lo dicho por el Tribunal
+Constitucional en esa sentencia núm. 83/2016 o debía considerarse que cuanto en ella se afirma debe circunscribirse al singular supuesto en el que se
+dictó. El parecer del Tribunal Supremo ha sido el de ajustarse a lo determinado por el Tribunal Constitucional, vistos los términos absolutamente claros y
+precisos en que se pronunció en aquella ocasión y con independencia de que
+sean diferentes la razón de la declaración del estado de alarma y las medidas
+acordadas entonces y las de ahora 33.
+También ha descartado que los Reales Decretos impugnados adolecieran de vicios formales esenciales que les impidieran beneficiarse de dicho valor
+de Ley y, por tanto, les hiciera susceptibles de revisión por la Sala. Tal es el caso
+de la alegada falta de comunicación por el Gobierno al Congreso de los Diputados o de la alegada falta de convalidación por esta cámara del Real Decreto
+que declaró el estado de alarma. En ninguno de los casos en que se alegó se
+32
+Sobre la vacunación obligatoria de niños contra diversas enfermedades se ha pronunciado el
+Tribunal Europeo de Derechos Humanos en su sentencia de 8 de abril de 2021 (asunto Vavricka y otros
+contra República Checa) considerándola una injerencia necesaria y proporcionada en el derecho a la vida
+privada que entra dentro del margen de que disponen los Estados para imponerla pues protege la salud y los
+derechos de los demás.
+33
+Autos de la Sección Cuarta de la Sala Tercera del Tribunal Supremo de, de 22 de diciembre de
+2020 y 7 de octubre de 2020 (recurso núm. 120/2020); 22 de diciembre y 11 de noviembre de 2020 (recurso
+núm. 339/2020); 20 de noviembre de 2020 (recurso núm. 307/2020); 5 de noviembre de 2020 (recurso
+núm. 322/2020); 4 de noviembre de 2020 (recurso núm. 305/2020); 27 y 14 de octubre de 2020 (recurso
+núm. 303/2020);; 16 de junio de 2020 (recurso núm. 96/2020); 10 de junio de 2020 (recursos núm. 99/2020 y
+102/2020); 12 de mayo de 2020 (recurso núm. 90/2020 y núm. 89/202); 6 de mayo de 2020 (recurso
+núm. 96/2020); 4 de mayo de 2020 (recurso núm. 99/2020).
+
+451
+
+
+
+había omitido la primera y es evidente que ni la Constitución ni la Ley Orgánica exigen la segunda para su declaración 34.
+De igual modo y por la misma razón de carecer de jurisdicción, se inadmitieron los recursos interpuestos contra Reales Decretos-Leyes dictados para
+establecer regulaciones legales exigidas por las circunstancias derivadas de la
+pandemia 35.
+En otros casos, en los que se impugnaban Órdenes dictadas en desarrollo de los Reales Decretos de declaración o prórroga del estado de alarma, la
+inadmisión ha obedecido a la falta de legitimación de los recurrentes por no
+haber justificado ser titulares de un derecho o interés legítimo afectado por la
+disposición recurrida y actuar únicamente en defensa de la legalidad.
+Hay que recordar que, en el proceso contencioso-administrativo, a diferencia de lo que sucede en el penal, en el que la prevé el artículo 125 de la
+Constitución, no existe la acción pública, salvo en los supuestos expresamente
+previstos por la Ley. Por esta razón, se inadmitió el recurso dirigido contra la
+Orden SND/351/2020, de 26 de abril, por la que se autoriza a las unidades NBQ
+de las Fuerzas Armadas y a la Unidad Militar de Emergencias a utilizar biocidas
+autorizados por el Ministerio de Sanidad en las labores de desinfección para
+hacer frente a la crisis sanitaria originada por el COVID-19 36. Y el interpuesto
+contra la Orden SND/298/2020, de 29 de marzo, por la que se establecen medidas excepcionales en relación con los velatorios y ceremonias fúnebres, por
+quien, primero no alegó haberse visto impedido de asistir a alguno y luego
+adujo no haber podido hacerlo al de dos personas que no eran familiares ni
+allegados suyos 37.
+Igual suerte corrieron los recursos contra la Orden SND/399/2020, de
+9 de mayo, para la flexibilización determinadas restricciones de ámbito nacional, establecidas tras la declaración del estado de alarma en aplicación de la
+fase 1 del Plan para la transición hacia una nueva normalidad. En particular, se
+le imputaba vulnerar la libertad religiosa por las restricciones que imponía a las
+ceremonias funerarias y velatorios. Pues bien, no se consideró suficiente para
+apreciar la legitimación de la recurrente la probabilidad de que su madre, de
+avanzada edad, falleciera, lo que no llegó a suceder o, al menos, no se acreditó
+que hubiera sucedido cuando se resolvió al respecto 38. En otro caso, simple34
+Autos de 27 y 14 de octubre de 2020 (recurso núm. 303/2020); de 4 de mayo de 2020 (recurso
+núm. 99/2020).
+35
+El auto de 4 de septiembre de 2020 (recurso núm. 114/2020) inadmitió el interpuesto por la
+asociación DEFENDA contra el Real Decreto-Ley 16/2020, de 28 de abril, por el que se aprueban medidas
+procesales y organizativas para hacer frente al COVID-19 en el ámbito de la Administración de Justicia.
+36
+Sentencia núm. 1772/2020, de 17 de diciembre (recurso núm. 104/2020).
+37
+Auto de 10 de junio de 2020 (recurso núm. 102/2020).
+38
+Auto de 21 de julio y de 14 de octubre de 2020 (recurso núm. 129/2020).
+
+452
+
+
+
+mente, se constató que el recurrente no supo argumentar de qué manera le
+afectaban esas restricciones 39. Tampoco vio la Sala bastante para fundamentar
+la legitimación los fines genéricos perseguidos por la Asociación de Abogados
+Cristianos 40.
+Fue igualmente inadmitido el recurso de esta entidad contra la Orden
+SND/310/2020, de 31 de marzo, por la que se establecen como servicios esenciales determinados centros, servicios y establecimientos sanitarios del Ministerio de Sanidad. Se dirigía contra la calificación como actividad esencial de la
+desarrollada por las clínicas de interrupción voluntaria del embarazo durante la
+situación de crisis sanitaria ocasionada por el COVID-19. Para la Sala, la libertad
+de asociación en su faceta positiva y la autoatribución de fines estatutarios no
+confieren la imprescindible legitimación, que ha de estar vinculada a la obtención por quien recurre de una ventaja concreta o a la evitación de una desventaja igualmente precisa 41.
+Tampoco ha admitido, en aplicación de criterios establecidos previamente por el pleno de la Sala Tercera, la legitimación del grupo parlamentario
+de Vox en la Asamblea de Madrid para impugnar el Decreto 22/2021 de la Presidenta de la Comunidad Autónoma de Madrid, pues las medidas que adopta
+no inciden en la posición ni en las funciones que le corresponden ni a las de
+sus integrantes 42.
+6.3.3 La competencia para conocer de los recursos contra actos y
+disposiciones adoptados por los Presidentes de las Comunidades
+y Ciudades Autónomas como autoridad delegada del Gobierno
+en materia de estado de alarma
+El artículo 2 del Real Decreto 926/2020 que declaró el tercer estado de
+alarma de 2020 establece que los Presidentes de las Comunidades Autónomas
+y de las Ciudades Autónomas tendrán la consideración de autoridad delegada
+del Gobierno y quedan habilitados para dictar disposiciones de aplicación de
+las medidas en él previstas que limitan la libertad de circulación, la entrada y
+salida de las Comunidades y Ciudades Autónomas, la permanencia de personas
+y grupos en espacios públicos y privados y en los lugares de culto y permiten
+establecer prestaciones personales.
+
+Auto de 21 de julio de 2020 (recurso núm. 115/2020).
+Eran los siguientes: «Actuar con todos los medios existentes en el estado de derecho ante cualquier actuación que lesiones, dañe, maltrate, perjudique, difame, atente, menoscabe o desprestigie tanto a la
+religión Cristiana en general, como a cualquiera de sus partidarios o seguidores, incluidos los integrantes de
+la propia asociación». La inadmisión la acordó el auto de 21 de julio de 2020 (recurso núm. 117/2020).
+41
+Autos de 24 de septiembre y 22 de julio de 2020 (recurso núm. 103/2020).
+42
+Auto de 10 de mayo de 2021 (recurso núm. 93/2021).
+39
+40
+
+453
+
+
+
+El ejercicio por dichos Presidentes de esa facultad ha originado dudas
+sobre a quién corresponde el control judicial de sus decisiones. Así se ha visto
+en el recurso del Abogado del Estado contra el acuerdo 2/2021, de 15 de enero,
+del Presidente de la Junta de Castilla y León que, en cuanto autoridad delegada
+del Gobierno, adelantó el toque de queda más de lo previsto por el Real Decreto 926/2020. El Abogado del Estado pidió al interponerlo la suspensión cautelar
+del mismo y en el incidente abierto para resolver sobre esa medida, la Junta de
+Castilla y León, aunque no hizo de ello cuestión en ese momento, planteó la
+duda de si la delegación prevista por el Real Decreto 926/2020 se corresponde
+o no con la contemplada por el artículo 9 de la Ley 40/2015, de 1 de octubre,
+de Régimen Jurídico del Sector Público 43.
+La importancia de la alegación reside en que, según el apartado 4 de
+ese artículo 9, las resoluciones dictadas en virtud de delegación se entenderán
+dictadas por el órgano delegante, el cual según el apartado 6, siempre del mismo precepto, puede revocarla en cualquier momento. De aceptarse esta interpretación, no tendría sentido el recurso del Abogado del Estado porque al
+Gobierno le bastaría con revocar la delegación y dejar por sí mismo sin efecto
+el acuerdo controvertido. Por otro lado, si se entendiera que se trata de una figura diferente, podría plantearse que, en tal caso, no sería aplicable la regla del
+apartado 4 y no cabría atribuir la resolución al órgano delegante. Esa conclusión, de estar fundada, conllevaría que la competencia para conocer de los recursos contra tales resoluciones de los Presidentes autonómicos no correspondería al Tribunal Supremo, pues solamente entiende de los que proceden del
+Consejo de Ministros o de los tomados por su delegación, sino a las Salas de lo
+Contencioso Administrativo de los Tribunales Superiores de Justicia de las Comunidades Autónomas. Y todavía cabría entender que, siendo una disposición
+con fuerza de ley la que directamente atribuye a esos Presidentes la condición
+de autoridad delegada del Gobierno sin ninguna excepción o condición, el
+Gobierno no puede revocarla de manera que la única posibilidad de oponerse
+a las determinaciones de aquellos sería la que ofrece el recurso contencioso-administrativo ante la Sala Tercera del Tribunal Supremo porque, ciertamente,
+estos Presidentes en el marco del estado de alarma actúan como delegados ex
+lege del Gobierno.
+En torno a este problema ha habido disparidad de criterio entre las
+Salas territoriales. Por eso, la Sala Tercera ha debido pronunciarse y ha sentado
+el criterio de que le corresponde la competencia 44. No ha entrado en el examen
+a fondo del alcance de la delegación prevista en el Real Decreto 926/2020,
+pero, por el momento, considera suficientes argumentos, por un lado, la afirma43
+Véase el auto de la Sección Cuarta de la Sala Tercera de 16 de febrero de 2021 (recurso
+núm. 12/2021).
+44
+Autos de su Sección Primera de 3 de febrero de 2021 (cuestiones de competencia núm. 31
+y 35/2020).
+
+454
+
+
+
+ción de la propia competencia para conocer de los recursos contra las Órdenes
+y actuaciones de los Ministros a los que el Real Decreto 463/2020 consideró
+autoridades delegadas del Gobierno en el primer estado de alarma 45. Y, por el
+otro, el propio artículo 9.4 de la Ley 40/2015, así como que la atribución a los
+Presidentes autonómicos se ha hecho en el ámbito de las importantes medidas
+de control de la pandemia y en el marco del estado de alarma. Es decir, en el
+contexto de emergencia existente.
+6.3.4 Las medidas cautelares concedidas
+En la mayor parte de estos recursos se solicitaron medidas cautelares
+inaudita parte —aquellas que, por la especial urgencia del caso, debidamente
+justificada han de adoptarse inmediatamente, en cuarenta y ocho horas como
+máximo, sin oír antes a la Administración— u ordinarias, pero solamente se
+adoptaron en cinco por el Tribunal Supremo.
+En el interpuesto por la Confederación Estatal de Sindicatos Médicos
+contra la inactividad del Ministerio de Sanidad 46, inicialmente se desestimaron,
+pues la Sala consideró que debía oír antes a la Administración. Luego, no se
+concedió la reclamada que consistía ordenarle suministrar con carácter urgente
+e inmediato a los profesionales sanitarios el material de protección que indicaba la recurrente —batas impermeables, mascarillas fpp2, fpp3, gafas de protección, calzas específicas y contenedores grandes de residuos— pero sí se acordó
+requerir al Ministerio de Sanidad la adopción de todas las medidas a su alcance
+para que tuviera lugar efectivamente la mejor distribución de los medios de
+protección de los profesionales sanitarios; y que informara quincenalmente a la
+Sala de las concretas medidas adoptadas a tal fin, con indicación de los medios
+de protección puestos a disposición de los profesionales sanitarios y su distribución efectiva. Las razones determinantes de esa decisión fueron la constatación del hecho notorio de que, pese a las actuaciones desarrolladas por la Administración, los profesionales sanitarios no contaron con todos los elementos
+de protección necesarios y la preservación de sus derechos a la integridad física y a la salud 47.
+
+45
+
+Autos de la Sección Primera de 29 de abril de 2020 (cuestiones de competencia núm. 7
+
+y 8/2020).
+Auto de 20 de abril de 2020 (recurso núm. 91/2020).
+En cambio, por auto de 22 de abril de 2020 (recurso núm. 98/2020) se denegó la medida cautelarísima pedida en el recurso núm. 98/2020, interpuesto por la plataforma cívica «Tu voz es tu derecho»,
+consistente en que, «con carácter de urgente, por el servicio público de Sanidad, con cargo al mismo (o en
+su caso a las dependencias públicas propias de cada comunidad) y en un plazo no superior a 4 días, se realice el «TEST PCR» que permita conocer el ACTUAL estado de salud de todos y cuantos lo soliciten, y como
+protección del derecho de acceso al trabajo y en salvaguarda del de salud».
+46
+47
+
+455
+
+
+
+En un asunto absolutamente diferente, se suspendió el apartado segundo de la Orden SND/413/2020, de 15 de mayo, por la que se establecen medidas especiales para la inspección técnica de vehículos. La medida cautelar se
+adoptó en consonancia con la recomendación del Defensor del Pueblo. Ese
+apartado establece que el período de validez de las inspecciones se contará, no
+desde que se realicen efectivamente, sino desde cuando debieron haberse hecho y no se llevaron a cabo por la prórroga de la que fueron objeto las anteriores a causa de las limitaciones traídas por la declaración del estado de alarma 48.
+También se tomó la medida cautelar inaudita parte de arbitrar un procedimiento especial para que los médicos internos residentes pudieran elegir
+plaza personalmente y no solo de forma telemática 49.
+Se ha suspendido, igualmente, la limitación del aforo de iglesias y templos a 25 personas, impuesta por el Decreto del Presidente de la Junta de Castilla y León 50. La Sala acogió en esta ocasión los argumentos de la Asociación
+de Abogados Cristianos para la que carecía de sentido que, establecido el límite general del tercio de la capacidad, se mantuviera el especial de veinticinco
+personas como máximo sin tener en cuenta las dimensiones de los templos.
+Según explica el auto de la Sala:
+«La extensión del aforo máximo de 25 personas, con independencia del lugar,
+características y dimensiones del establecimiento, incluso de si se trata de una
+reunión o celebración al aire libre o en espacios interiores, resulta manifiestamente desproporcionada. La propia Administración demandada admite que
+no son pocos, aunque desde luego no sean todos, los establecimientos religiosos que tienen unas dimensiones en las que el tercio del aforo establecido
+como límite proporcional, es muy superior al límite máximo de 25 personas.
+Pero, además, la limitación se aplica a lugares o espacios al aire libre.»
+
+Recuerda también que previamente había considerado supuestos de
+restricciones muy intensas relativas a los límites de aforo en lugares de culto por
+la Orden SND/399/2020, de 9 de mayo, y rechazado su suspensión cautelar» 51.
+No obstante, precisa que se trataba de limitaciones fijadas en proporción al
+aforo ordinario del establecimiento o recinto. También observa que había rechazado la suspensión urgente de resoluciones que imponían un número máximo de asistentes muy reducido 52, pero explica que se trataba de medidas limi48
+Autos de 25 de noviembre y de 24 de septiembre de 2020 (recurso 204/2020); y de 11 de noviembre y de 5 de octubre 2020 (recurso núm. 182/2020).
+49
+Autos de 9 de julio y de 29 de junio de 2020 (recurso núm. 150/2020).
+50
+Por auto de la Sección Cuarta de la Sala Tercera del Tribunal Supremo de 18 de febrero de 2021
+(recurso núm. 19/2021).
+51
+Autos de 4 de junio de 2020 (recurso núm. 129/2020) y de 10 de junio de 2020 (recursos
+núm. 117/2020).
+52
+Auto de 4 de febrero de 2021 (recurso núm. 44/2021).
+
+456
+
+
+
+tadas a cuatro localidades de Cantabria para espacios cerrados y por un tiempo
+breve: entre el 28 de enero y el 11 de febrero del presente año.
+En cambio, en el caso de la Comunidad Autónoma de Castilla y León
+se trataba de una medida:
+«gravosa para la práctica de las manifestaciones colectivas de la religión católica, con afectación de un derecho fundamental, y cuya proporcionalidad es
+abiertamente insuficiente, precisamente por introducir un criterio de cifra
+máxima de asistentes, sin ponderar ni las características de los lugares o establecimientos, cuando con toda evidencia son muy distintas las condiciones de
+riesgo de contagio, que es el elemento habilitante para la restricción (art 8 RD
+926/2020).»
+
+De ahí que el Tribunal Supremo advirtiera peligro para la efectividad
+plena del derecho concernido y considerara necesaria la medida cautelar para
+asegurar la de la sentencia, pues de otra manera no cabría reponerlo, ni directa
+ni indirectamente. Además, no apreció riesgo para la salud pública, porque la
+suspensión del número máximo de 25 personas no afectaba al límite de un
+tercio del aforo, que se mantuvo vigente y era, en unión del resto de las actuaciones de prevención que deben observarse, una salvaguardia suficiente.
+Otro asunto relativo a la Comunidad Autónoma de Castilla y León en
+que el Tribunal Supremo adoptó una medida cautelar de suspensión fue el del
+adelanto ya mencionado del toque de queda a las 20:00 horas, o sea antes de
+lo que autorizaban los Reales Decretos de declaración y prórroga del estado de
+alarma, que lo fijaban en las 22:00 53. La razón determinante fue que:
+«cualquier restricción o limitación de un derecho o libertad fundamental, como
+es la de circulación en este caso, tan solo puede ser adoptada dentro del marco de las previsiones constitucionales, tal y como dispone el art. 55.1 CE y, en
+su desarrollo, la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma
+excepción y sitio. La limitación de un derecho fundamental como es la libertad
+de circulación, por una medida como la cuestionada, constituye, si es que tal
+medida no gozara de la suficiente cobertura legal, un caso evidente de afectación de la finalidad legítima del recurso (art. 130.1 LJCA), pues no es posible
+reponer el derecho a la libertad de circulación afectado, ni de forma directa ni
+por sustitución, máxime cuando se trata de una limitación generalizada, que
+afecta a toda la población del territorio de la Comunidad Autónoma de Castilla
+y León.»
+
+53
+El acuerdo de su Presidente que lo dispuso fue suspendido por auto de la Sala Tercera del
+Tribunal Supremo de 16 de febrero de 2021 (recurso núm. 12/2021).
+
+457
+
+
+
+Y para la Sala Tercera el acuerdo del Presidente de la Junta de Castilla
+y León
+«podría incurrir en nulidad de pleno derecho, al imponer una limitación de un
+derecho fundamental, la libertad de circulación, más allá del ámbito horario
+permitido en el R. D 926/2020, del estado de alarma, con afectación del derecho fundamental susceptible de amparo constitucional (art. 47.1.a Ley 39/2015,
+de Procedimiento Administrativo Común), y que se adopta por un órgano que
+resulta, prima facie, manifiestamente incompetente por razón de la materia
+(art. 47.1.b LPAC).»
+
+Además, desde la perspectiva de los intereses en juego:
+«La protección de la salud y seguridad de los ciudadanos es la finalidad común
+de las dos Administraciones, pero las medidas que puedan adoptarse deben
+respetar, entre otros límites, los derechos fundamentales garantizados en la
+Constitución. Precisamente porque la situación sanitaria lo exige, se han limitado determinados derechos fundamentales, pero cualquier restricción mayor
+que se considerase necesaria, deberá ser establecida con las mismas garantías
+formales y por el órgano competente (art. 116.2 CE y Ley Orgánica 4/1981), y
+el Presidente de la Comunidad Autónoma de Castilla y León, en tanto autoridad delegada del estado de alarma, no ostenta, con la suficiente nitidez, la
+competencia necesaria.»
+
+Y, por último:
+«El núcleo de certeza del derecho fundamental concernido —la libertad de
+circulación de los ciudadanos— no puede ser afectado por órganos que carecen de la atribución de competencia constitucionalmente establecida, ni por
+procedimientos distintos a los previstos en la máxima norma, y la prevalencia
+de su protección aparece nítida en los términos del presente incidente de medidas cautelares, por lo que debemos acceder a la medida cautelar solicitada.»
+
+De entre las medidas cautelares tomadas por las Salas de lo Contencioso Administrativo de los Tribunales Superiores de Justicia, tal vez una de las más
+llamativas ha sido la decisión de la Sala de Bilbao 54 de suspender la vigencia de
+disposiciones relativas a la prohibición de reapertura de establecimientos de
+hostelería en municipios de más de 5.000 habitantes con una tasa de incidencia
+del COVID-19 en los últimos 14 días igual o superior a 500 por cada 100.000
+
+54
+La medida cautelar fue adoptada por auto de 9 de febrero de 2021 (recurso núm. 94/2021) a
+instancias de la Asociación de Hostelería de Vizcaya, de la Asociación de Empresarios de Hostelería de Guipúzcoa y de SEA Empresas Alavesas.
+
+458
+
+
+
+habitantes 55. La consecuencia de la suspensión cautelar fue la de que dichos
+establecimientos pudieron abrir, si bien en las condiciones determinadas por
+apartado 9, punto 3 del Decreto 44/202: es decir, servicio de terraza, 50% del
+aforo interior, distancia de al menos metro y medio entre personas sentadas en
+mesas diferentes, con cuatro personas por mesa como máximo, sin unirlas y
+manteniéndose la prohibición de consumir en barra o de pie.
+El auto razonaba así su decisión:
+«(…) entrando en el análisis de los requisitos exigidos por la adopción de una
+medida cautelar, el primero de ellos es el periculum in mora. Ciertamente, en
+los muy numerosos municipios en la denominada «zona roja» el cierre de las
+actividades hosteleras es total hasta que salgan de tal zona con lo que, al carecer de ingresos, se genera un grave quebranto económico.
+Es notorio y resulta muy difícil reparación ante la realidad del cierre definitivo
+de un número no desdeñable de negocios, de forma tal que una posible indemnización futura, de producirse, no restablecería la situación fáctica actual.
+Desde el punto de vista de los intereses en conflicto, no cabe desconocer la
+situación pandémica en la que nos encontramos y la alta incidencia del virus
+COVID-19 en el momento actual, lo que exige medidas que dificulten su expansión.
+En el informe de la Dirección de Salud Pública y Adicciones del Gobierno
+Vasco de 3 de febrero de 2021, se recoge que la incidencia mínima del virus
+se produjo el 27 de diciembre de 2020, iniciándose después una escalada que
+nos lleva a la situación actual que, al parecer, se encuentra en una ligera bajada. Lo cierto es que para esa fecha, con importantes limitaciones, la hostelería
+llevaba abierta 15 días. No es un periodo muy amplio pero sí supera los 10
+días de aislamiento actualmente exigidos para positivos y contactos de positivos, y los 14 días de incidencia acumulada, sin que tal incidencia se elevase lo
+más mínimo.
+Tampoco puede desconocerse que días antes de la escalada del nivel de contagios se adoptaron diversas medidas en relación, fundamentalmente, con la
+movilidad y, sobre todo, comenzaron a producirse encuentros de familiares y
+amigos en espacios privados con motivo de las celebraciones navideñas. Tales
+encuentros, según una parte importante de los epidemiólogos puede producir
+en torno al 80% de los contagios.
+
+55
+Suspendió, en concreto, el apartado 9.1 del anexo al Decreto 44/2020, de 10 de diciembre, del
+Lehendakari y la disposición tercera de su Decreto 4/2021, de 22 de enero.
+
+459
+
+
+
+De tal forma, la primera conclusión a la que ha de llegarse es que no aparece
+con claridad la influencia de la apertura de los establecimientos hosteleros con
+el elevado nivel de incidencia del virus tras la celebración de la Navidad.
+Por otra parte, tal apertura queda sometida a importantes medidas de corrección de la actividad que permiten minimizar los riesgos de su desarrollo para
+la salud pública. Dichas medidas, recogidas por la propia Administración demandada cuando la incidencia es inferior a 500 sobre 100.000 habitantes, limitan de forma importante la actividad en cuanto a horarios, aforos, distancia
+entre mesas, ocupación de mesas, prohibición de uso de la barra o consumo
+de pie. Ha de indicarse que, durante el mes de diciembre, se han considerado
+medidas adecuadas al no aparecer en dicho mes subida de contagios con la
+hostelería abierta en estas condiciones.
+En definitiva, la conjugación de los intereses en conflicto hace que la Sala
+entienda que la apertura de la actividad hostelera, en las condiciones antedichas, no aparece en este momento como un elemento de riesgo cierto y grave
+para la salud pública por lo que se accederá a la medida cautelar en estos
+términos.
+En cualquier caso, debe recordarse a las partes que art. 132 Ley 29/98 alude a
+que las medidas cautelares adoptadas «podrán ser modificadas o revocadas
+durante el curso del procedimiento si cambiasen las circunstancias en virtud
+de las cuales se hubieren adoptado.»
+
+También ha alcanzado notoriedad la decisión cautelar de la Sala de lo
+Contencioso Administrativo de Barcelona 56 de ordenar a la Generalidad de Cataluña que en diez días vacunara a los miembros del Cuerpo Nacional de Policía y de la Guardia Civil destinados en Cataluña en la misma proporción en que
+ya había vacunado a los miembros del Cuerpo de Mossos d’Esquadra. La medida la adoptó el tribunal a instancias del Sindicato del Cuerpo Nacional de Policía ( JUPOL) y de la Asociación de la Guardia Civil-Justicia Civil. Y la razón de
+adoptar esa cautela descansa en la situación de riesgo para la salud de esos
+policías y guardias a la vista de los
+«elocuentes los datos que se contienen en la página 21 del susodicho informe,
+de los que se desprende que a 24 de marzo de 2021 habían sido vacunados el
+77% de los efectivos del Cuerpo de Mossos d’Esquadra (CME), así como el
+68,9% y el 77,9% de los efectivos de las Policía Locales y de la Guardia Urbana
+de Barcelona (PPLL y GU), frente al 3,6% y 2,8% respectivamente, de los efectivos del CNP y de la GC.
+
+56
+Auto de 27 de abril de 2021 de la Sección Tercera de la Sala de lo Contencioso Administrativo
+del Tribunal Superior de Justicia de Cataluña (recurso núm. 162/2021)
+
+460
+
+
+
+A 22 de abril de 2021 —y siguiendo el mismo orden de Cuerpos— esos porcentajes pasaron a ser los siguientes: 80,3; 71,2; 79,1; 9,9; y 6,3.»
+
+A partir de estos datos, advierte la Sala de Barcelona «una apariencia de
+buen derecho menos intensa» que, «unida al peligro de mora procesal, da como
+resultado un valor superior al que cabría asociar al interés o intereses de la
+contraparte». Además, «en el supuesto de autos, prima facie podemos apreciar
+—sin prejuzgar lo que se resuelva mediante Sentencia— una apariencia de discriminación en perjuicio de los funcionarios del CNP y de la GC; una apariencia
+de discriminación que concuerda con los datos porcentuales a los que ya nos
+hemos referido».
+6.3.5 La protección del derecho a la vida y a la integridad física y
+psíquica y a la salud del personal sanitario
+Como se ha dicho antes, la Confederación Estatal de Sindicatos Médicos recurrió por el procedimiento de protección de los derechos fundamentales
+la inactividad que imputaba al Ministerio de Sanidad en el cumplimiento del
+artículo 12.4 del Real Decreto 463/2020, de 14 de marzo, por el que se declaró
+el estado de alarma, por no poner a disposición de los profesionales sanitarios
+los equipos de protección individual necesarios, con la consecuencia de haber
+puesto en riesgo sus derechos a la vida, a la integridad física y a la salud.
+La Sala Tercera estimó en parte su recurso 57.
+La sentencia lo rechaza en tanto se dirige contra la inactividad administrativa porque la recurrente no cumplió los requisitos exigidos por el artículo
+29 de la Ley de la Jurisdicción. No obstante, en la medida en que también planteaba la infracción del artículo 12.4 del Real Decreto 463/2020 por no haberse
+satisfecho el objetivo perseguido por este precepto de lograr la mejor distribución de medios técnicos, lo acogió en parte. La razón de la estimación reside
+en el hecho notorio, ya apreciado por la Sala en sus autos de 31 de marzo y 20
+de abril de 2020, dictados en el incidente de medidas cautelares, de la falta inicial de medios de protección individual con el consiguiente riesgo para los
+derechos fundamentales de esos profesionales materializado en el fallecimiento
+de decenas y en los numerosos contagios sufridos por ellos. Por eso, el fallo así
+lo declara.
+Explica la sentencia que su declaración no supone, sin embargo, ningún juicio de culpabilidad ni imputación de responsabilidad sino la constatación de dicha circunstancia. Además, precisa que la carencia de equipos que
+
+57
+
+Sentencia núm. 1271/2020, de 8 de octubre (recurso núm. 91/2020).
+
+461
+
+
+
+afectó inicialmente a los profesionales sanitarios se debió a la incapacidad de
+suministrárselos del Sistema Nacional de Salud, el que según el artículo 44 de
+la Ley General de Sanidad integra el conjunto de servicios de salud del Estado
+y de las Comunidades Autónomas y no solamente de la Administración General
+del Estado o del Ministerio de Sanidad.
+Por último, no constando que faltaran esos medios en el momento en
+que se dictaba, la sentencia desestimó las pretensiones de la Confederación
+Estatal de Sindicatos Médicos de que se ordenara al Ministerio de Sanidad que
+cesara en el incumplimiento denunciado y que suministrara equipos de protección. Además, observó que, expirado el estado de alarma el 21 de junio de
+2020, había decaído la dirección del Ministerio de Sanidad sobre los Servicios
+de Salud de las Comunidades Autónomas por lo que debería, en su caso, dirigirse a ellos.
+6.3.6 La obligación de llevar mascarilla
+La obligación de llevar mascarilla, discutida a raíz de su imposición
+también para los espacios abiertos y al margen de que se observe la distancia
+de seguridad por el artículo 6 de la Ley 2/2021, ha sido objeto de consideración
+por la Sala Tercera 58.
+La Orden SND/422/2020, de 19 de mayo, por la que se regulan las
+condiciones para el uso obligatorio de mascarilla durante la situación de crisis
+sanitaria ocasionada por el COVID-19, obligaba a usarla en la vía pública, en los
+espacios al aire libre y en cualquier espacio cerrado de uso público o abierto al
+público, siempre que no se pudiera mantener una distancia interpersonal de al
+menos dos metros (artículo 3).
+Esta Orden fue impugnada por particulares que la consideraron lesiva
+de sus derechos fundamentales. Los recursos fueron desestimados porque, para
+la Sala, era patente que la intervención estatal en la libertad individual que supone la obligación de usar la mascarilla es una medida de protección no especialmente invasiva, adecuada, necesaria y proporcionada a los fines buscados:
+la protección de la salud de todos. Explicó la Sala que en el conflicto debía
+prevalecer el objetivo constitucional de protección de la salud, principio proclamado por el artículo 43 de la Constitución que comprende la integridad física y
+moral. Añadió que, de acuerdo con el actual estado de conocimiento de las vías
+de propagación del virus Covid-19, sirve para contener la progresión de la pandemia y no implica un sacrificio excesivo.
+
+58
+En las sentencias núm. 1569/2020, de 20 de noviembre (recurso núm. 140/2020) y
+núm. 1796/2020, de 17 de diciembre (recurso núm. 128/2020).
+
+462
+
+
+
+Rechazó, por otro lado, que se encontrara concernido el derecho al
+consentimiento informado a que se refiere el artículo 4 de la Ley 41/2002, de 14
+de noviembre, reguladora de la Autonomía del Paciente, por esta obligación. La
+autonomía del paciente y el procedimiento diagnóstico desarrollado para situaciones ordinarias, explicó, no se veían afectados en situaciones extraordinarias,
+máxime cuando la finalidad y naturaleza de la intervención administrativa era
+notoriamente conocida y no constaban riesgos de entidad por el uso de mascarillas. Y tampoco aceptó que su uso obligatorio quebrante el artículo 26 del
+Convenio relativo a los derechos humanos y la biomedicina, es decir el Convenio para la protección de los derechos humanos y la dignidad del ser humano
+con respecto a las aplicaciones de la Biología y la Medicina hecho en Oviedo
+el 4 de abril de 1997 59. La razón es que los informes científicos nacionales e
+internacionales examinados por la Sala ven necesario su uso para la protección
+del derecho a la salud, tanto del usuario de la mascarilla como de las personas
+circundantes.
+Por último, la Sala rechazó que el derecho al honor y el derecho a la
+propia imagen se vieran afectados por la posible crítica social a quienes rechazaran usar mascarillas.
+6.3.7 La limitación de los derechos de circulación y reunión
+El reproche de exceso en la limitación de estos derechos fundamentales o, simplemente, la idea de que habían sido suspendidos para millones de
+españoles, late en muchos de los recursos que se han interpuesto. En general
+se dirigen contra los Reales Decretos de declaración y prórroga del estado de
+alarma y sobre ellos, tal como se ha dicho, no se ha pronunciado el Tribunal
+Supremo, pues no le corresponde, y deberá ser el Tribunal Constitucional el
+que lo haga. No obstante, sí ha tenido que hacerlo a propósito de Órdenes del
+Ministerio de Sanidad a las que se reprochaba ir más allá de lo que autorizaba
+el Real Decreto 463/2020 o fijar limitaciones de manera arbitraria.
+La Sala Tercera lo ha hecho en dos sentencias de 2021. Ambas desestimaron los recursos del mismo abogado 60. Defendía sus derechos y los de su
+hija menor de edad, tanto a viajar a una segunda residencia en los Pirineos,
+cuanto a salir de su localidad confinada para reunirse con amigos que vivían en
+otros lugares a los que no se podían desplazar y a coincidir con más de veinte
+personas.
+59
+El Instrumento de ratificación por España se publicó en el Boletín Oficial del Estado del 20
+octubre de 1999.
+60
+Sentencias núm. 171/2021, de 10 de febrero (recurso núm. 99/2020) y núm. 324/2021, de 9 de
+marzo (recurso núm. 147/2020).
+
+463
+
+
+
+Impugnó, en efecto, en primer lugar, la Orden SND/370/2020, de 25 de
+abril, sobre las condiciones en las que deben desarrollarse los desplazamientos
+por parte de la población infantil durante la situación de crisis sanitaria ocasionada por el COVID-19. Se debe señalar que esta Orden flexibilizaba la limitación establecida inicialmente por el Real Decreto 463/2020 y contemplaba las
+salidas de los menores ya en el contexto de la inminente desescalada.
+La sentencia núm. 171/2020 encontró motivada la regulación establecida por la disposición impugnada, descartó arbitrariedad en la misma y puso de
+manifiesto que el riesgo principal de contraer la enfermedad proviene del contacto con personas contagiadas y que, para prevenirlo, además del uso de mascarillas, de mantener la distancia de seguridad y de las medidas de higiene
+personal y de ventilación de lugares cerrados, es necesario limitar sustancialmente ese contacto y la movilidad que lo propicia.
+Respecto del derecho de reunión, el recurrente achacaba a la Orden
+SND/458/2020, de 30 de mayo, para la flexibilización de determinadas restricciones de ámbito nacional establecidas tras la declaración del estado de alarma
+en aplicación de la fase 3 del Plan para la transición a una nueva normalidad,
+su vulneración porque su artículo 7.2 disponía:
+«2. En todo caso, deberán respetarse las medidas de seguridad e higiene establecidas por las autoridades sanitarias para la prevención del COVID-19, y, en
+particular, las relativas al mantenimiento de una distancia mínima de seguridad de, al menos, dos metros, o, en su defecto, medidas alternativas de protección física, de higiene de manos y etiqueta respiratoria. A estos efectos, los
+grupos deberían ser de un máximo de veinte personas, excepto en el caso de
+personas convivientes.»
+
+La sentencia núm. 324/2021 explica que este apartado 2 lo único que
+hacía era imponer, en el ejercicio de la libertad de circulación a la que se dedicaba el artículo 7, el respeto a las medidas de seguridad e higiene, especialmente a las de mantenimiento de la distancia de seguridad de dos metros o en su
+defecto de medidas de protección física de higiene de manos y de etiqueta
+respiratoria. La referencia a las veinte personas a propósito de los grupos que
+pudieran formarse como consecuencia de esa circulación, dice la sentencia, era,
+por lo demás, a los efectos anteriores. Es decir, a los del mantenimiento de la
+seguridad e higiene que el recurrente no parecía discutir y, sobre todo, no era
+imperativa, tal como resulta del modo potencial utilizado: «deberían».
+Por eso, la sentencia no advierte en esa frase la regulación sustantiva
+del derecho fundamental de reunión de la que hablaba el recurrente ni atribuye
+relevancia al número concreto. La cuestión, en este contexto, precisa, no es por
+qué dice la Orden que no deberían circular juntas veinte personas sin medidas
+de seguridad e higiene sino si proponer ese número como máximo deseable
+
+464
+
+
+
+era, en las condiciones del momento, irrazonable. Y esto, apunta la sentencia,
+no se había demostrado.
+También llama la atención sobre la fijación imperativa por la Orden de
+un número máximo de congregados superior en diversos supuestos: cincuenta
+personas en los velatorios (artículo 8), setenta y cinco o ciento cincuenta en las
+bodas, según se celebraran en lugares cerrados o al aire libre (artículo 10). Y
+sobre que, seguramente, el número sería superior en los casos en que determinaba los aforos máximos en función de la capacidad de los establecimientos o
+locales. Por lo demás, considera congruente con los documentos del expediente y razonable la motivación ofrecida por el preámbulo de la Orden y rechaza
+que sea arbitraria en el punto controvertido. Además, reitera que, por lo que se
+sabe sobre la manera más eficaz de prevenir el contagio de la enfermedad, parecen razonadas y razonables las medidas que mantiene.
+6.3.8 Las restricciones a la pesca recreativa
+La Federación Española de Pesca Deportiva y Casting impugnó el artículo 43, la disposición final segunda y la disposición final tercera de la Orden
+SND/399/2020, de 9 de mayo, para la flexibilización de determinadas restricciones de ámbito nacional, establecidas tras la declaración del estado de alarma en
+aplicación de la fase 1 del Plan para la transición hacia una nueva normalidad 61.
+En concreto, consideró que no haber incluido entre las actividades no restringidas por esa disposición a la pesca recreativa era discriminatorio y contrario al
+derecho de asociación y pretendió ser resarcida mediante una indemnización.
+La Sala Tercera del Tribunal Supremo desestimó su recurso 62 porque
+sus alegaciones olvidaban la grave situación de salud pública causada por la
+pandemia y la dramática afectación de los intereses públicos de todo tenor que
+ha ocasionado, precisamente a las que respondían las medidas de protección
+de la disposición recurrida. La Sala señaló que para hacerle frente era necesario
+cohonestar el desarrollo de actividades al aire libre y recreativas con la evitación de situaciones de riesgo. Y entendió que, en concretos deportes, como el
+de la pesca recreativa, por sus características intrínsecas, por el contacto social
+que propician, se puede producir la extensión de la enfermedad. Además, tuvo
+en cuenta que, dadas las características abiertas de los espacios en que se practican, «no parece especialmente factible, en las difíciles circunstancias de la
+pandemia, un control adecuado de la observancia de las medidas de prevención, precisamente por las restricciones de movilidad, que también afectan a la
+
+61
+62
+
+Publicada en el Boletín Oficial del Estado de 9 de mayo de 2020.
+Sentencia núm. 1595/2020, de 25 de noviembre (recurso núm. 111/2020).
+
+465
+
+
+
+disponibilidad ordinaria de los medios personales y materiales de control de
+que disponen las Administraciones».
+Por último, precisa que el control que se efectúa a través del recurso
+contencioso-administrativo es de legalidad, no de oportunidad, y no llega a los
+aspectos técnicos que sustentan dicha oportunidad. Y recuerda que, en una
+situación en la que, todos los medios disponibles y todas las medidas han de
+orientarse prioritariamente al control de la pandemia, el examen de una medida
+concreta «no se puede aislar del conjunto extraordinariamente complejo de situaciones e intereses que debían ser acompasados, sin que se haya acreditado
+en modo alguno la presencia de un sesgo discriminatorio en las medidas adoptadas». Por eso, no aprecia ninguna vulneración del principio de igualdad garantizado por el artículo 14 de la Constitución alegado por la recurrente por el
+trato distinto dado a otras modalidades de pesca. Y tampoco considera infringido el derecho de asociación invocado por impedir a la Federación recurrente
+la realización de su fin social
+6.3.9 El derecho de manifestación
+Aunque no se suele tener en cuenta, conviene recordar que el derecho
+fundamental de manifestación no precisa —no está sometido a— de autorización previa. La obligación que la Ley Orgánica que lo regula 63 impone a los
+convocantes es la de comunicar a la autoridad gubernativa con diez días de
+antelación —o de veinticuatro horas, de mediar causas extraordinarias o graves
+que justifiquen la urgencia—, entre otros extremos el día, lugar y hora, así como
+el recorrido previstos. La Ley Orgánica habilita a dicha autoridad para prohibirla 64 o proponer la modificación de la fecha, lugar o recorrido, de haber razones
+fundadas que hagan temer alteraciones del orden público con peligro para
+personas o bienes. Naturalmente, fuera de esos casos, no podrá hacerlo y los
+manifestantes podrán ejercer su libertad sin cortapisas.
+De prohibir o proponer modificaciones la autoridad gubernativa, su
+decisión podrá ser recurrida ante la Sala de lo Contencioso Administrativo del
+Tribunal Superior de Justicia correspondiente, que podrá mantener o revocar la
+prohibición o las modificaciones o parte de ellas y contra su pronunciamiento
+cabe recurso de amparo ante el Tribunal Constitucional, siendo en ambos casos
+Se trata de la Ley Orgánica 9/1983, de 15 de julio.
+La autoridad gubernativa suspenderá y disolverá si fuere el caso las reuniones o manifestaciones que se consideren ilícitas conforme a las leyes penales o si se hiciere en ellas uso de uniformes paramilitares por los asistentes, de acuerdo con el artículo quinto de la Ley Orgánica 9/1983.
+63
+64
+
+466
+
+
+
+brevísimos los plazos para que, de resultar amparado el derecho de los convocantes, pueda celebrarse la manifestación 65.
+El principal debate surgido al respecto durante el estado de alarma,
+se produjo a propósito del auto del Tribunal Constitucional núm. 40/2020, de
+30 de abril, que inadmitió el recurso de amparo de un sindicato contra la
+desestimación por la Sala de La Coruña de su recurso contra la prohibición
+por la Subdelegación del Gobierno de Pontevedra de la manifestación del 1
+de mayo de 2020 en Vigo. En sus razonamientos el Tribunal Constitucional
+expone que la limitación del derecho es legítima y tiene la cobertura constitucional que ofrecen los artículos 15 y 43 del texto fundamental. Considera,
+en efecto, que la «finalidad de la medida restrictiva del ejercicio del derecho
+confluye con la justificación de la declaración del Estado de alarma» (…) ambas (…) buscan limitar el impacto que en la salud de los seres humanos, en
+su integridad física y en su derecho a la vida pueda tener la propagación de
+la COVID-19».
+Destaca el Tribunal Constitucional:
+«En el estado actual de la investigación científica, cuyos avances son cambiantes con la evolución de los días, incluso de las horas, no es posible tener
+ninguna certeza sobre las formas de contagio, ni sobre el impacto real de la
+propagación del virus, así como no existen certezas científicas sobre las consecuencias a medio y largo plazo para la salud de las personas que se han
+visto afectadas en mayor o menor medida por este virus. Ante esta incertidumbre tan acentuada y difícil de calibrar desde parámetros jurídicos que acostumbran a basarse en la seguridad jurídica que recoge el art. 9.3 de la Constitución, las medidas de distanciamiento social, confinamiento domiciliario y
+limitación extrema de los contactos y actividades grupales, son las únicas que
+se han adverado eficaces para limitar los efectos de una pandemia de dimensiones desconocidas hasta la fecha. Desconocidas y, desde luego, imprevisibles cuando el legislador articuló la declaración de los estados excepcionales
+en el año 1981.
+En todo caso, parece obvio que la prohibición de celebrar la manifestación,
+que se deriva claramente de la resolución judicial impugnada, guarda una relación lógica y de necesidad evidente con la finalidad perseguida por esa
+misma interdicción: evitar la propagación de una enfermedad grave, cuyo
+contagio masivo puede llevar al colapso de los servicios públicos de asistencia
+sanitaria. La adecuación entre la finalidad pretendida por la limitación y la
+herramienta jurídica empleada en este caso, no parece por tanto inexistente.»
+
+65
+El artículo 122 de la Ley de la Jurisdicción regula un procedimiento ágil para la resolución inmediata de estos recursos.
+
+467
+
+
+
+También observa el Tribunal Constitucional que no se trataba de garantizar el orden público o de asegurar la no alteración del orden público y apunta que tampoco la declaración del estado de alarma se había basado en la
+preservación del orden público, sino en la garantía del derecho a la integridad
+física y la salud de las personas. Y rechaza que fuera desproporcionada la prohibición, tal como sostenía el sindicato recurrente, que recordaba las medidas
+de protección que había anunciado que se observarían y que la manifestación
+se haría en vehículos ocupados por una sola persona. Sobre ello el auto 40/2020
+indica que no se preveían «medidas de control de la transmisión del virus específicas, ni destinadas a compensar la previsible concentración de automóviles
+que podría producirse si existiera una masiva respuesta a la convocatoria». Añadía que no podía perderse de vista que «el itinerario elegido (…) supone ocupar durante varias horas la vía principal de circulación automovilística en Vigo,
+dividiendo la ciudad en dos y, eventualmente, limitando el acceso a los hospitales que se encuentran en la zona alta de la ciudad de las personas que viven
+en la zona más cercana a la costa». Y termina así:
+En suma, en el análisis de proporcionalidad de la medida, no puede obviarse
+el hecho de que la modalidad de manifestación elegida por los recurrentes, y
+que ellos entienden suficiente para conjurar el riesgo sanitario a pesar de las
+apreciaciones en contrario de las autoridades sanitarias que desaconsejan las
+aglomeraciones, sean estas a pie o en vehículo, porque no se puede entender
+de otro modo el contenido del decreto de alarma, genera otros problemas que
+pueden impactar en la preservación de la seguridad de las personas con las
+que los recurrentes no han contado. En una situación de alerta sanitaria, la
+libre circulación de los servicios de ambulancias o urgencias médicas, y el libre acceso a los hospitales es un elemento a tener en cuenta a la hora de valorar la proporcionalidad de la limitación de ejercicio del derecho aquí invocado. Y teniéndolo en cuenta en este caso la medida restrictiva puede tenerse
+como proporcionada.
+El impacto de la infección de la COVID-19 en la ciudad de Vigo tampoco es
+un dato despreciable a la hora de formular el juicio de proporcionalidad que
+nos planteamos. Según datos oficiales fechados el 29 de abril de 2020 y publicados por la Xunta de Galiza, la Dirección General de Salud Pública de la
+Consellería de Sanidad informa que el número de casos activos de coronavirus
+en Galicia asciende a 3.526, de ellos 880 son del área de A Coruña, 244 de la
+de Lugo, 715 de la de Ourense, 215 de la de Pontevedra, 808 del área de Vigo,
+505 de la de Santiago, y 159 de la de Ferrol. Por tanto la ciudad de Vigo es la
+segunda población de Galicia en número de casos activos identificados, siendo este dato de suma importancia también a la hora de valorar el riesgo que
+sobre la salud de las personas puede tener la autorización de una manifestación en la que no se han previsto adecuadamente medidas de prevención de
+contagios, ni de limitación de asistentes, ni de garantía del libre tránsito de
+vehículos sanitarios, ni de salida o retorno escalonado, con lo que no es im-
+
+468
+
+
+
+posible imaginar una concentración de personas en el momento previo a la
+convocatoria y en el momento sucesivo, de retorno a los lugares de origen,
+que contribuyese a activar la escalada exponencial de contagios que sabemos
+posible y que no cabe evitar más que con la limitación del ejercicio del derecho en las condiciones solicitadas por los convocantes.»
+
+En razón de todo ello, el Tribunal Constitucional no consideró verosímil la lesión del artículo 21 de la Constitución.
+Posteriormente, se ha mantenido la discusión sobre el ejercicio del derecho de manifestación bajo el estado de alarma. Ciertamente, no cabe suspenderlo por la sola circunstancia de su vigencia, ya que el artículo 55.1 de la
+Constitución no autoriza la suspensión de ningún derecho fundamental, pero
+ese no es el problema. El problema es el de si justifica la prohibición de manifestarse el riesgo de contagio que provocan las concentraciones de personas. A
+ese respecto, parecen determinantes las características de la manifestación pretendida y las circunstancias que rodearían su ejercicio. Si pudiera establecerse
+con suficiente certeza que unas y otras permiten excluir o reducir hasta la mínima expresión el riesgo de contagio, no podría justificarse la prohibición,
+mientras que, si no se logra esa certeza o la hay de lo contrario, no debería
+reputarse excesiva. Por tanto, la solución ha de ser caso por caso y serán esos
+hechos relevantes mencionados los determinantes de la decisión.
+Desde que el Tribunal Constitucional dictó el auto 40/2020 ha habido
+manifestaciones en vehículos que no se han prohibido y algunas otras a pie que
+se han celebrado pero siempre con un número muy reducido de personas y las
+debidas garantías de seguridad 66. Sin embargo, la Delegación del Gobierno
+prohibió la concentración proyectada para el 7 de marzo de 2021 de 15:00 a
+21:00 en el Parque de La Vaguada por Feministas del Barrio de Fuencarral-El
+Pardo con motivo del Día Internacional de la Mujer por el peligro de contagio
+que supondría a la vista de la situación epidemiológica y la Sala de Madrid
+confirmó la prohibición 67.
+6.3.10 La suspensión de las elecciones
+Es preciso dejar constancia también de que la pandemia obligó a dejar
+sin efecto la celebración de las elecciones al Parlamento Vasco y al Parlamento
+Gallego 68. Estaban convocadas porque en ambos casos habían transcurrido ya
+
+Carrillo López, «Derecho de excepción y garantía de los derechos …», cit., pp. 81 y ss.
+Auto de la Sección Décima de la Sala de lo Contencioso Administrativo del Tribunal Superior
+de Justicia de Madrid de 6 de marzo de 2021 (recurso núm. 278/2021).
+68
+El Decreto del Lehendakari 7/2020, de 17 de marzo, dejó sin efecto la del Parlamento Vasco y
+el Decreto del Presidente de la Junta de Galicia 45/2020, de 18 de marzo, la del Parlamento de Galicia.
+66
+67
+
+469
+
+
+
+cuatro años desde las anteriores elecciones. Se fijó para celebrarlas la fecha del
+5 de abril de 2020 pero la declaración sobrevenida del primer estado de alarma
+de ese año por el Real Decreto 463/2020 y el confinamiento general que dispuso hicieron imposible realizarlas. Una vez expirado el estado de alarma, se celebraron finalmente el 12 de julio de 2020 sin más incidencia que la surgida en
+la comarca lucense de A Mariña.
+La Junta de Galicia había declarado el cierre perimetral de catorce municipios en esa comarca a causa de un rebrote del COVID-19 y la coalición
+electoral Galicia en Común-Anova Mareas (Podemos Esquerda Unida Anova)
+pidió a la Junta Electoral de Galicia que tomara medidas para asegurar el derecho al voto de los electores censados en ellos y garantizar el normal desarrollo
+de las elecciones. La solicitud fue rechazada por considerar suficientes las prevenciones ya adoptadas por la Comunidad Autónoma y, recurrida esa decisión
+ante la Junta Electoral Central, su acuerdo de 7 de julio de 2020 mantuvo la
+resolución de la Junta Electoral gallega. En el recurso contra dicho acuerdo la
+coalición pidió que, sin oír a la Administración, la Sala Tercera del Tribunal
+Supremo acordara:
+«todas las MEDIDAS CAUTELARÍSIMAS legalmente oportunas para garantizar
+que todas las vecinas y vecinos de la comarca de A Mariña actualmente confinados puedan ejercer, democráticamente y con todas las garantías sanitarias,
+su derecho fundamental al voto en las elecciones al Parlamento de Galicia del
+próximo 12 de julio, garantizando al mismo tiempo que el proceso electoral
+se desarrolla con total transparencia, objetividad y respeto al principio de
+igualdad.»
+
+Tal pretensión fue desestimada 69 porque ni era coherente con la urgencia alegada el tiempo que la coalición recurrente se había tomado para formularla —siendo las elecciones el 12 de julio esperó a las 14.44 del 10 de julio de
+2020, cuando el acuerdo de la Junta Electoral se adoptó el 7 de julio— ni, en
+realidad, había solicitado ninguna medida concreta, pues se limitó a hacer la
+petición genérica reproducida.
+Posteriormente, se produjo la convocatoria de elecciones al Parlamento
+de Cataluña para el 14 de febrero de 2021 por el Decreto 147/2020, de 21 de
+diciembre. No respondió al ejercicio de la facultad del Presidente de la Generalidad de disolver anticipadamente la cámara legislativa sino a que, en el plazo
+previsto por el artículo 67.3 del Estatuto de Autonomía, el Parlamento de Cataluña no había investido a ningún candidato a la Presidencia de la Generalidad
+tras cesar el anterior en virtud de condena firme a la pena de inhabilitación por
+
+69
+
+470
+
+Por auto de 11 de julio de 2020 (recurso núm. 172/2020).
+
+
+
+haber cometido un delito de desobediencia a la Junta Electoral Central. Se trató,
+pues, de una disolución y una convocatoria automáticas.
+Aunque el Gobierno de la Generalidad de Cataluña pretendió aplazarlas, cuando menos hasta el 30 de mayo de 2021 70, la Sala de lo Contencioso
+Administrativo del Tribunal Superior de Justicia de Cataluña, primero, suspendió cautelarmente el aplazamiento y lo anuló después 71. Entendió que la decisión del Gobierno en funciones de la Generalidad de Cataluña infringía el derecho fundamental al sufragio activo pues la regulación del estado de alarma
+vigente contemplaba expresamente la continuidad del proceso electoral 72 y el
+Vicepresidente de la Generalidad carece de facultades para suspender o aplazar
+las elecciones.
+Además, tuvo en cuenta la incertidumbre sobre la nueva fecha y la
+provisionalidad en que se hallaban las instituciones catalanas: el Parlamento
+disuelto, el Gobierno sin Presidente titular y sin posibilidad de separar a sus
+miembros. Resaltó, igualmente, que, a diferencia de lo sucedido en el País Vasco y en Galicia, no se daba un supuesto de fuerza mayor, pues, mientras en
+esos casos sobrevino la declaración del estado de alarma, en Cataluña la situación ya era conocida cuando los grupos parlamentarios que podían hacerlo
+optaron por no proponer un candidato a la Presidencia y llevaron al Presidente
+del Parlamento a comunicar a la cámara el 21 de octubre de 2020 la imposibilidad de someterle ninguno, abriendo así el plazo para el cómputo de los dos
+meses cuyo transcurso determinaría la disolución y consiguiente convocatoria
+de elecciones. Asimismo, tuvo en cuenta la Sala de Barcelona que el aplazamiento no se decidió en función de criterios democráticos sino para un mejor
+desarrollo de la campaña electoral y del ejercicio del derecho de sufragio y que
+las restricciones sanitarias adoptadas ya estaban vigentes antes de dictarse el
+Decreto 1/2021 y lo estarían hasta el 8 de febrero de 2021, sin que hubiera, por
+lo demás, variación sustancial de la situación epidemiológica.
+Y el 4 de mayo de 2021 se han celebrado, todavía bajo el estado de
+alarma y aun en medio de la cuarta ola de la pandemia, las elecciones a la
+Asamblea de Madrid convocadas al disolverla anticipadamente la Presidenta de
+la Comunidad Autónoma. En esta ocasión, el problema suscitado por la disolución tuvo que ver con que, antes de publicarse el Decreto de disolución, pero
+media hora más tarde de que lo firmara la Presidenta, se presentaron dos mo70
+El Decreto 1/2021, de 15 de enero, dejó sin efecto la convocatoria y la pospuso al 30 de mayo
+de 2021, si se dieran para entonces las condiciones adecuadas.
+71
+Sentencia de 1 de febrero de /2021 (recurso núm. 17/2021). Ni el auto, ni la sentencia fueron
+recurridos por la Generalidad de Cataluña.
+72
+Dedicada a los procesos electorales, la disposición adicional primera del Real Decreto 926/2020
+—inicialmente única— establece que la vigencia del estado de alarma no impedirá el desenvolvimiento ni la
+realización de las actuaciones electorales precisas para la celebración de las elecciones convocadas a parlamentos de Comunidades Autónomas.
+
+471
+
+
+
+ciones de censura contra ella en la Asamblea de Madrid, cuya Mesa las admitió
+a trámite. Al publicarse al día siguiente en el Boletín Oficial de la Comunidad
+de Madrid el Decreto de disolución y convocatoria de las elecciones anticipadas, la Asamblea de Madrid lo recurrió ante la Sala de lo Contencioso Administrativo del Tribunal Superior de Justicia de la Comunidad de Madrid y pidió su
+suspensión cautelar inmediata. La razón jurídica en que se apoyó fue la de que,
+según el artículo 21 del Estatuto de Autonomía —que sigue en este punto lo
+previsto en el artículo 115.2 de la Constitución— no puede quien presida la
+Comunidad Autónoma ejercer la facultad de disolución anticipada mientras esté
+en trámite una moción de censura.
+La Sala de lo Contencioso Administrativo del Tribunal Superior de Justicia de Madrid denegó la medida cautelar 73 por considerar que, si bien los intereses en conflicto, ambos generales, los de la Asamblea y los de la Presidenta
+de la Comunidad Autónoma, tenían igual peso, la apariencia de buen derecho
+estaba de parte de esta última, ya que los preceptos mencionados no requieren
+para el ejercicio válido de la facultad de disolución anticipada la publicación
+del Decreto en que ha de formalizarse, sino que se acuerde por la Presidenta
+previa deliberación del Consejo de Gobierno. No habiendo controversia en que
+se deliberó en el Consejo de Gobierno dicha disolución y que la Presidenta
+firmó el Decreto antes de la presentación de las mociones de censura, el auto
+de la Sala de Madrid consideró que debía dar preferencia a la posición de la
+Presidenta. La Asamblea de Madrid se aquietó a la decisión judicial sobre su
+pretensión cautelar y no la recurrió.
+6.4 La declaración de actuaciones coordinadas en materia
+de salud
+La declaración de medidas coordinadas en materia de salud está prevista en el artículo 65 de la Ley 16/2003. Corresponde efectuarla al Ministro de
+Sanidad, previo acuerdo del Consejo Interterritorial del Sistema Nacional de
+Salud, con audiencia de las Comunidades directamente afectadas, salvo en situaciones de urgente necesidad, en cuyo caso se tomarán las medidas que sean
+estrictamente necesarias y se informará de manera urgente de las adoptadas.
+La declaración obliga a todas las partes incluidas en ella y puede responder a situaciones de especial riesgo o alarma para la salud pública o al
+cumplimiento de acuerdos internacionales o programas derivados de exigencias de la normativa de la Unión Europea si su cumplimiento y desarrollo han
+de ser homogéneos en toda España.
+
+73
+
+472
+
+Por auto de su Sección Octava de 14 de marzo de 2021 (recurso núm. 566/2021).
+
+
+
+Los mecanismos de coordinación vinculantes pueden ser los siguientes:
+«a) Utilización común de instrumentos técnicos.
+b) Coordinación y refuerzo de la Red de Laboratorios de Salud Pública.
+c) Definición de estándares mínimos para el análisis e intervención sobre
+problemas de salud.
+d) Refuerzo de los sistemas de información epidemiológica para la toma de
+decisiones y de los correspondientes programas de promoción, prevención
+y control de enfermedades, cuando sus efectos trasciendan el ámbito autonómico.
+e) 
+Activación o diseño de planes y estrategias de actuación para afrontar
+emergencias sanitarias.»
+
+Estas declaraciones no precisan de autorización o ratificación judicial
+porque, aunque vinculan a las Administraciones Sanitarias, es decir, al Estado y
+a las Comunidades Autónomas, no se proyectan directamente sobre los ciudadanos, sino que precisan de actuaciones de dichas Administraciones que las
+apliquen. Será en el momento en que estas dicten las disposiciones o actos
+necesarios para ello cuando, si suponen limitación de derechos fundamentales,
+deberán someterlos a autorización o ratificación judicial, si fuere preciso.
+En tanto las declaraciones se formalizan a través de una Orden del Ministro de Sanidad, la competencia para conocer de los recursos que contra ellas
+se interpongan corresponderá a la Sala de lo Contencioso Administrativo de la
+Audiencia Nacional, conforme al artículo 11.1 a) de la Ley de la Jurisdicción 74.
+Conviene señalar que el Consejo Interterritorial del Sistema Nacional
+de Salud está formado por el Ministro de Sanidad, que lo preside, y por los
+consejeros de las Comunidades Autónomas competentes en materia de sanidad 75. El vicepresidente es uno de esos consejeros elegido de entre ellos. El
+Consejo Interterritorial lo define el artículo 69.1 de la Ley 16/2003 como:
+
+74
+Por auto de 30 de septiembre de 2020 (recurso núm. 257/2020), la Sala Tercera del Tribunal
+Supremo declaró que no le corresponde la competencia para conocer de recursos contra acuerdos del Consejo Interterritorial del Sistema Nacional de Salud, sino que la tiene la Sala de lo Contencioso Administrativo
+de la Audiencia Nacional.
+75
+Según el artículo 70 de la Ley 16/2003, el cual añade que, cuando la materia de los asuntos a
+tratar lo requiera, podrán incorporarse al Consejo otros representantes de la Administración General del Estado o de las Comunidades Autónomas.
+
+473
+
+
+
+«el órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la Administración del Estado, que tiene como finalidad promover la cohesión del Sistema Nacional de
+Salud a través de la garantía efectiva y equitativa de los derechos de los ciudadanos en todo el territorio del Estado.»
+
+De las declaraciones de actuaciones coordinadas producidas bajo el
+estado de alarma, son dos las significativas.
+La primera es la que formuló la Orden comunicada del Ministro de
+Sanidad de 30 de septiembre de 2020 en virtud del acuerdo del Consejo Interterritorial del Sistema Nacional de Salud de ese mismo día. Es significativa porque fue promovida por el Ministro de Sanidad para imponer a las Comunidades
+Autónomas y, en especial, a la de Madrid unas medidas restrictivas consideradas
+imprescindibles en el contexto de la segunda ola de la pandemia. Consistían,
+en esencia, en la imposición del denominado cierre perimetral de los municipios que, con una incidencia de 500 o más casos por 100.000 habitantes, presentaran un porcentaje de positividad superior al 10% en las dos semanas previas, siempre que en la Comunidad Autónoma la ocupación de camas en
+unidades de cuidados intensivos fuera superior al 35%. Estos requisitos se cumplían en Alcalá de Henares, Alcobendas, Fuenlabrada, Getafe, Leganés, Madrid,
+Móstoles, Parla y Torrejón de Ardoz.
+Para cumplir dicha declaración la Consejería de Sanidad de la Comunidad Autónoma de Madrid dictó la Orden 1273/2020, de 1 de octubre. Y, como,
+en tanto establecía el cierre perimetral indicado en esos municipios madrileños
+y afectaba a la libertad de circulación de sus vecinos era, por tanto, una disposición necesitada de ratificación por la Sala de lo Contencioso Administrativo
+del Tribunal Superior de Justicia de Madrid, y sucede que la denegó.
+La razón de la negativa a ratificar esa Orden 1273/2020, tal como la
+explica la Sala de Madrid 76, se debió a la insuficiencia de la habilitación normativa invocada por ella 77. Según explican los razonamientos de ese auto, la carencia de la Orden autonómica por la que la Sala de Madrid denegó la ratificación necesaria conforme al artículo 10.8 de la Ley de la Jurisdicción fue que
+solamente se apoyaba en el artículo 65 de la Ley 16/2003, que es una ley ordinaria y, por tanto, insuficiente para justificar la restricción de derechos y liber-
+
+76
+Auto de 8 de octubre de 2020 de la Sala de lo Contencioso Administrativo del Tribunal Superior
+de Justicia de Madrid (procedimiento ordinario núm. 1224/2020 P-01). Fue confirmado por el auto de 29 de
+octubre de 2021, desestimatorio del recurso interpuesto por el Ministerio Fiscal contra el anterior, previa inadmisión del promovido por el Abogado del Estado en representación del Ministerio de Sanidad, al que tuvo
+por no legitimado.
+77
+Véanse la sentencia núm. 594/2020, de 28 de agosto (apelación núm. 907/2020) y el auto de 15
+de octubre de 2020 (procedimiento ordinario núm. 1300/2020) y los que en él se citan.
+
+474
+
+
+
+tades individuales. Dado que, antes de este auto, la misma Sala de Madrid había
+ratificado medidas restrictivas consistentes en el cierre perimetral, la limitación
+de aforos y limitaciones de horarios a establecimientos abiertos al público impuestas por otras Órdenes de la Comunidad de Madrid que invocaban la Ley
+Orgánica 3/1986, en cuyos artículos 1 y 3 encontró la Sala de Madrid la habilitación esencial para las restricciones y que, después, también volvió a ratificar
+otras en estas mismas condiciones, parece que, de haberlo hecho a su vez la
+Orden 1273/2020, la habría ratificado. Tal razonamiento no deja de suscitar la
+duda de si no habría tenido que jugar el argumento iura novit curia cuya aplicación habría llevado a la solución opuesta. No obstante, la importancia del
+caso viene dada porque la consecuencia de la denegación de la ratificación fue
+la declaración del estado de alarma por el Real Decreto 900/2020 en los municipios afectados de la Comunidad de Madrid 78.
+La segunda declaración de medidas coordinadas en materia de salud
+significativa fue la tomada el 10 de marzo de 2021 por el Consejo Interterritorial
+del Sistema Nacional de Salud 79. Es la que impuso el llamado cierre perimetral
+de todas las Comunidades Autónomas durante la festividad de San José y la
+Semana Santa, además del toque de queda entre las 23:00 y las 06:00 horas y
+limitó a cuatro personas las reuniones privadas de no convivientes y a seis las
+que pueden reunirse en establecimientos públicos 80.
+El Tribunal Supremo, ante el que recurrieron doña Rocío Monasterio
+San Martín y el Grupo Parlamentario de Vox en la Asamblea de Madrid, tuvo en
+cuenta para denegar la suspensión, que la propia Comunidad Autónoma de
+Madrid, pese a afirmar la nulidad del acuerdo del Consejo Interterritorial del
+Sistema Nacional de Salud, no pidió en su recurso contra este a la Audiencia
+Nacional que lo suspendiera y en el interpuesto ante la Sala Tercera contra el
+Decreto 22/2021 de la Presidenta pidió que, por prudencia y certeza de los
+ciudadanos, se denegara la suspensión cautelar.
+Se debe explicar la razón por la que en la primera ocasión fue la Sala
+de lo Contencioso Administrativo del Tribunal Superior de Justicia de Madrid la
+que se pronunció y en la segunda el Tribunal Supremo, siendo en ambos casos
+
+78
+Según el artículo 2 del Real Decreto 900/2020 eran los siguientes: Alcobendas, Alcorcón, Fuenlabrada, Getafe, Leganés, Madrid, Móstoles, Parla y Torrejón de Ardoz.
+79
+Publicada en el Boletín Oficial del Estado de 12 de marzo de 2021.
+80
+El Decreto 22/2021, de 13 de marzo, de la Presidenta de la Comunidad Autónoma de Madrid
+que aplicaba en ella las medidas acordadas por el Consejo Interterritorial del Sistema Nacional de Salud, ha
+sido impugnada por doña Rocío Monasterio San Martín y por los diputados en la Asamblea de Madrid de Vox.
+Por autos de la Sección Cuarta de la Sala Tercera del Tribunal Supremo de 18 y 23 de marzo de 2021 (recurso núm. 93/2021) se denegó, primero, la suspensión inaudita parte de esa Orden y, luego, se confirmó, tras
+oír a las partes, la denegación de esa suspensión cautelar. Por su parte, la Comunidad Autónoma de Madrid
+ha recurrido ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional el mencionado acuerdo
+del Consejo Interterritorial del Sistema Nacional de Salud de 10 de marzo de 2021.
+
+475
+
+
+
+objeto de los pronunciamientos judiciales una disposición de la Comunidad de
+Madrid que aplicaba medidas acordadas por el Consejo Interterritorial del Sistema Nacional de Salud. Dicha razón no es otra que la condición de autoridad
+delegada del Gobierno que poseía la Presidenta de la Comunidad de Autónoma
+de Madrid para aplicar las medidas propias del estado de alarma, entre las que
+se cuenta el cierre perimetral y en cuya virtud dictó su Decreto 22/2021. Tal
+circunstancia determina la competencia del Tribunal Supremo.
+Por otro lado, el sentido del enjuiciamiento era diferente pese a que en
+ambos casos se trataba del cierre perimetral. La Orden 1273/2020 del Consejero
+de Sanidad de Madrid se fundaba en la Orden comunicada del Ministro de Sanidad y precisaba de ratificación judicial porque entonces no había estado de
+alarma. En cambio, en el segundo caso, era un Decreto de la Presidenta de la
+Comunidad y ya no requería de ratificación judicial porque el Real Decreto
+926/2020 daba cobertura jurídica a los cierres perimetrales. Por eso, el Tribunal
+Supremo no intervino para ratificar ese Decreto sino porque, siendo por sí mismo plenamente ejecutivo, había sido impugnado y debía establecer si era o no
+conforme al ordenamiento jurídico.
+6.5 Las autorizaciones o ratificaciones que corresponde
+conceder o denegar a los Juzgados y a las Salas
+de lo Contencioso Administrativo
+Sabemos que la Ley 3/2020 modificó la de la Jurisdicción Contencioso
+Administrativa para encomendar a los Juzgados y Tribunales de este orden la
+autorización o ratificación de medidas adoptadas con arreglo a la legislación
+sanitaria que las autoridades competentes consideren urgentes y necesarias
+para la salud pública e impliquen limitación o restricción de derechos fundamentales. En virtud de esta previsión se han sometido a dicha autorización diversas medidas de alcance general sobre las que se han debido pronunciar las
+Salas de lo Contencioso Administrativo de distintos Tribunales Superiores de
+Justicia. En general, las han concedido.
+Puede explicarse esta nueva atribución, me parece, por la dificultad de
+legislar que la composición de las Cortes Generales surgidas de las elecciones
+generales del 10 de noviembre de 2019 ha revelado y, ciertamente, por la confianza en los jueces como garantes de los derechos, percepción que no es privativa de España. Son significativas en ese sentido las palabras de Jonathan
+Sumption 81:
+
+81
+
+pp. 33 y 34.
+
+476
+
+Jonathan Sumption, Trials of State. Law and the decline of Politics. Profile Books, Londres, 2019,
+
+
+
+«Judges are generally intelligent, reflective and articulate people. They are intellectually honest. They are used to thinking seriously about problems that
+have no easy answer. Contrary to the familiar cliché, they know a great deal
+about the world. The whole judicial process is animated by a combination of
+abstract reasoning, social observation and ethical value judgment that seems
+to many people to introduce a higher morality into public decision making.»
+
+Es verdad que estas consideraciones las hace quien fue juez del Tribunal Supremo del Reino Unido entre 2012 y 2018, pero antes fue abogado durante muchos años y es un respetado publicista. De ahí que no se deba ver en
+ellas una manifestación de sentido corporativo sino la impresión de un observador cualificado. Dejando ahora al margen sus apreciaciones sobre las cualidades de los jueces, sí me parece que es trasladable a nuestro escenario la idea
+de que la intervención del juez supone una mayor garantía y de que, por eso,
+se les someten nuevas cuestiones y se les encomiendan nuevas tareas, opción
+sobre la que, por cierto, Sumption se muestra crítico. Pues bien, esto es lo que
+se ha hecho en España con la ratificación de la que estamos hablando.
+Así como no se ha visto problemática la atribución a los Juzgados de
+lo Contencioso Administrativo de la facultad de autorizar medidas restrictivas de
+derechos fundamentales por razones de salud pública que afecten a individuos
+concretos 82, no sucede lo mismo con la de encomendar a las Salas de lo Contencioso Administrativo la ratificación de medidas que afecten a una generalidad de personas. Las primeras, las que tienen como destinatarios a sujetos singulares, no suscitan dificultades pues responden a la idea del juez como
+garante de esos derechos y tienen el mismo sentido que el de las prescripciones
+constitucionales que encomiendan a los jueces la tutela de la libertad personal,
+de la inviolabilidad del domicilio, del secreto de las comunicaciones, de las libertades de expresión e información o del derecho de asociación. Por eso, ya
+se había encomendado al juez contencioso-administrativo (artículo 8.6 de la
+Ley de la Jurisdicción) la autorización para la entrada en el domicilio cuando
+fuera necesaria para ejecutar actos administrativos.
+No parece, pues, que existan dificultades especiales para considerar
+conforme a la función constitucional del juez y, en particular, del juez contencioso-administrativo, la autorización de tales medidas limitativas, exigidas en
+este caso por razones de salud pública, ya que se trataría de una intervención
+en garantía de derechos fundamentales de individuos concretos y el artículo
+117.4 de la Constitución admite expresamente que se les encomienden por ley
+ese tipo de cometidos.
+82
+Por ejemplo, para obligar a un paciente que se niega a recibir el alta médica a abandonar el
+centro sanitario. O para internar o aislar a enfermos de COVID-19 que se niegan a ello. Véase al respecto,
+Abelardo Moreno Jiménez, «Las altas hospitalarias forzosas a domicilio “vs” derechos del paciente ante la situación de COVID-19», en Actualidad de Derecho Sanitario, núm. 280/2020, pp. 570 y ss.
+
+477
+
+
+
+En cambio, las otras, en tanto se proyectan sobre disposiciones o actos dirigidos a una generalidad de destinatarios, ya se trate de un colectivo
+que reúna condiciones específicas o, simplemente, de los asentados en una
+determinada demarcación territorial, y se subordinan a la ratificación de un
+tribunal de justicia, implican a este en el ejercicio de las potestades normativa
+y ejecutiva y, por tanto, se afirma, suponen una alteración del principio de
+separación de poderes pues así los tribunales se ven implicados en ellas y se
+altera el principio de exclusividad en el ejercicio de la jurisdicción, afirmado
+en el artículo 117.4 de la Constitución 83.
+En efecto, se argumenta, no corresponde a los jueces establecer ni contribuir al establecimiento de las reglas por las que se ordenan las relaciones
+sociales. No están llamados a participar en la aprobación ni se subordina a su
+decisión la entrada en vigor de las leyes o de los reglamentos. Sí pueden declarar la nulidad de estos últimos o inaplicar las leyes derogadas por otras posteriores y plantear al Tribunal Constitucional cuestión sobre la constitucionalidad
+de las leyes y disposiciones con fuerza de ley de cuya conformidad a la Constitución duden. Sin embargo, se ha sostenido que esos cometidos, propios de
+la función jurisdiccional, son esencialmente distintos de una atribución que les
+convierte, si no en conformadores de las disposiciones normativas, sí en condicionantes a priori y con carácter general de su fuerza normativa, de su capacidad reguladora ya que sin esa ratificación carecerán de eficacia. Y algo parecido se puede decir sobre la que presten a actos administrativos: los jueces pasan
+a ser administradores.
+Exigir la ratificación judicial de disposiciones infralegales o de actos
+que limitan derechos a una pluralidad indeterminada de personas es, según
+estas opiniones, un elemento anómalo en el sistema de fuentes normativas y,
+en general en el diseño del Estado de Derecho.
+Complicaciones adicionales surgen, de un lado, de las posiciones contradictorias sobre el alcance de la Ley Orgánica 3/1986, es decir, sobre su idoneidad para fundamentar limitaciones generales de derechos fundamentales y,
+en especial, del de circular libremente, y, del otro, de la inicial falta de previsión
+sobre si son recurribles en casación o no los autos dictados en los procedimientos de ratificación de disposiciones limitadoras de derechos fundamentales.
+Sobre lo primero, hay que decir que, en efecto, no hay discusión sobre
+la habilitación con que cuentan los Reales Decretos de declaración y prórroga
+del estado de alarma para operar esa limitación, aunque cosa distinta sea el
+83
+Esta tesis ha sido defendida con argumentos sólidos por José María Baño León, «Confusión regulatoria en la crisis sanitaria», en Almacén de Derecho del 29 de octubre de 2020, accesible en https://almacendederecho.org/confusion-regulatoria-en-la-crisis-sanitaria y, también, entre otros, por Muñoz Machado, El
+poder y la peste de 2020, cit., pp. 112 y ss.
+
+478
+
+
+
+debate sobre si los dictados han ido o no más allá y han supuesto una suspensión de derechos fundamentales. Pero, dejando al margen esta cuestión, no hay
+duda de que la Ley Orgánica 4/1981 faculta para limitarlos con carácter general.
+En cambio, no había claridad sobre lo que permite la Ley Orgánica 3/1986.
+Recordemos el tenor de sus artículos 2 y 3:
+«Artículo segundo.
+Las autoridades sanitarias competentes podrán adoptar medidas de reconocimiento, tratamiento, hospitalización o control cuando se aprecien indicios racionales que permitan suponer la existencia de peligro para la salud de la
+población debido a la situación sanitaria concreta de una persona o grupo de
+personas o por las condiciones sanitarias en que se desarrolle una actividad.
+Artículo tercero.
+Con el fin de controlar las enfermedades transmisibles, la autoridad sanitaria,
+además de realizar las acciones preventivas generales, podrá adoptar las
+medidas oportunas para el control de los enfermos, de las personas que
+estén o hayan estado en contacto con los mismos y del medio ambiente inmediato, así como las que se consideren necesarias en caso de riesgo de
+carácter transmisible.»
+
+No son pocos los que han dicho que la referencia a «una persona», a
+«grupo de personas» del artículo segundo y al «control de los enfermos» y a «las
+personas que estén o hayan estado en contacto con los mismos» del artículo
+tercero de la Ley Orgánica 3/1986, circunscriben la proyección de las medidas
+a que se refiere a sujetos determinados de acuerdo con esas menciones y excluyen las de carácter general. Asimismo, descartan la referencia a «las (medidas) que se consideren necesarias» por indeterminada en exceso. Esta conclusión la ven reforzada, además, con el asentado criterio de interpretación
+restrictiva de las disposiciones que limitan derechos y con el argumento que
+ofrece la Ley Orgánica 4/1981: si la epidemia requiere la limitación de derechos,
+el instrumento ha de ser la declaración del estado de alarma.
+Ahora bien, esas opiniones no consideran, de un lado el contexto al
+que se refiere la Ley Orgánica 3/1986, que ofrece una primera delimitación. Y
+tampoco tienen en cuenta los preceptos de las Leyes 14/1986 y 33/2011 antes
+reseñados.
+El artículo 26 de la Ley 14/1986, de la que se desgajó la anterior, recoge otra cláusula general, pero, además de por la situación de riesgo inminente
+extraordinario para la salud, la habilitación a la autoridad sanitaria para adoptar
+medidas preventivas que contempla la circunscribe a las que se consideren
+sanitariamente justificadas. Hay aquí, pues, una nueva delimitación.
+
+479
+
+
+
+Y, otras más vienen del artículo 54 de la Ley 33/2011, para el cual esa
+autoridad podrá «adoptar cuantas medidas sean necesarias para el cumplimiento de la ley» (apartado 1) y «cualquier otra (…) ajustada a la legalidad vigente si
+existen indicios racionales de riesgo para la salud (…)» (apartado 2), pero siempre de manera excepcional, si hay motivos de extraordinaria gravedad y urgencia, de forma temporal, tomada, con la debida motivación y respetando el
+principio de proporcionalidad.
+Tampoco reparan en que el artículo 53.3 de la Constitución atribuye a
+los principios rectores de la política social y económica proclamados en el Capítulo III de su Título I la virtualidad de informar la legislación, la práctica judicial y la actuación de los poderes públicos. Y, entre esos principios, en el artículo 43, figura el de la protección de la salud, cuya vinculación con el derecho
+a la vida en estos casos parece clara, derecho este que es un prius respecto de
+todos los demás (sentencia del Tribunal Constitucional núm. 43/1985). Se trataba, pues, de una cuestión controvertida que incidía en la aplicación de esta
+legislación.
+Por otra parte, de la Ley de la Jurisdicción resultaba otro problema no
+poco importante.
+No estaba claro que las decisiones de los Tribunales Superiores de Justicia en estos procedimientos fueran recurribles ante el Tribunal Supremo a
+través del recurso de casación a la vista de los términos del artículo 87 de la Ley
+de la Jurisdicción. Este problema ha adquirido especial significación porque la
+experiencia vivida durante la pandemia ha reflejado que las Salas territoriales
+han seguido criterios no coincidentes a la hora de ratificar o no disposiciones
+emanadas por las Comunidades Autónomas. E, igualmente, la Sala de lo Contencioso Administrativo de la Audiencia Nacional encuentra dificultades para
+seguir ratificando en adelante las Órdenes del Ministerio de Sanidad que, en
+virtud de la Ley Orgánica 3/186, exigen cuarentena a los viajeros procedentes
+de países de riesgo por la prolongación en el tiempo de la restricción a la libertad de circulación 84.
+Siendo el cometido principal del Tribunal Supremo unificar la interpretación del ordenamiento jurídico, no parece dudoso que se le debían someter
+las diferencias de criterio que sobre los mismos problemas y a partir de la aplicación de las mismas disposiciones surjan entre los distintos tribunales. Pues,
+bien, como decía, no era claro que se pudiera hacer ante la relación de los
+autos susceptibles de recurso de casación: los que inadmiten recursos o hagan
+84
+Así lo apunta el auto de 21 de abril de 2021 (procedimiento de derechos fundamentales
+núm. 7/2021) que ratificó la Orden SND/363/2021, de 16 de abril. Además, los dos votos particulares presentados al mismo mantienen que solamente el estado de alarma permite la limitación de la libertad de
+circulación.
+
+480
+
+
+
+imposible su continuación; los que ponen fin a la pieza de medidas cautelares;
+los dictados en ejecución de sentencia si resuelven cuestiones no decididas por
+esta o la contradicen o tratan de su ejecución provisional; los dictados en los
+procedimientos de extensión de efectos de sentencias. De hecho, la Sección
+Primera de la Sala Tercera del Tribunal Supremo consideró inadmisible el recurso de casación que interpuso el Ministerio Fiscal contra el auto de la Sala de lo
+Contencioso Administrativo del Tribunal Superior de Justicia de Madrid que
+desestimó su recurso contra el que denegó la ratificación de la Orden 1273/2020
+del Consejero de Sanidad de la Comunidad de Madrid y así lo confirmó su Sección Cuarta 85.
+La Ley 3/2020 que introdujo el mecanismo de la ratificación se preocupó por añadir un precepto en la Ley de la Jurisdicción —el artículo 122 quater— para prescribir la intervención del Ministerio Fiscal, atribuir al procedimiento carácter preferente y fijar en tres días naturales como máximo el plazo
+para resolver, pero no modificó el artículo 87. Y, como se ve, no figuraban en
+él entre los sujetos a recurso de casación los autos que se pronuncian sobre la
+solicitud de ratificación de medidas restrictivas de derechos fundamentales 86.
+Se podía pensar que, siendo el objeto de la ratificación disposiciones
+que limitan derechos fundamentales en situaciones de urgencia, como han de
+serlo las que afectan a la salud pública hasta el punto de necesitar de intervenciones de esta naturaleza, apreciación que confirma la brevedad del plazo previsto, no solo había de resolverse inmediatamente, sino que debía hacerse con
+carácter definitivo por las Salas territoriales o por la de la Audiencia Nacional.
+Desde esa perspectiva era lógico considerar que dilatar su aplicación hasta que
+se pronunciara el Tribunal Supremo era disfuncional. No obstante, de ser esta
+la razón y no el simple olvido, podía oponérsele que el recurso de casación no
+está reñido con la respuesta ágil y con la adopción entre tanto de las medidas
+cautelares que se juzgaren imprescindibles. Y que resolvería la perceptible disparidad de criterios en una materia que demanda con fuerza unidad en la interpretación de las disposiciones.
+El Real Decreto-Ley 8/2021, de 4 de mayo, ha despejado la incógnita y
+confirmado que se debió a una imprevisión del legislador no establecer un régimen de recursos contra las denegaciones de ratificación de medidas. En efecto, modifica la Ley de la Jurisdicción para incluir entre los autos recurribles en
+casación los que venimos considerando.
+
+85
+Auto de 24 de marzo de 2021 (recurso núm. 570/2020). Recordemos que la denegación de la
+ratificación de esa Orden del Consejero de Sanidad de la Comunidad de Madrid desencadenó la declaración
+del estado de alarma en varios municipios de la misma. La Sección Cuarta de la Sala Tercera confirmó la
+irrecurribilidad en casación antes del 9 de mayo de 2021 de los autos dictados en este procedimiento de ratificación [auto de 17 de mayo de 2021 (casación 3237/2021).
+86
+Por eso, hay autos de Tribunales Superiores de Justicia que niegan el recurso de casación.
+
+481
+
+
+
+Es interesante la explicación que ofrece su preámbulo:
+«La adopción de medidas restrictivas de derechos fundamentales justificadas
+por la acción de las Administraciones Públicas para combatir la pandemia del
+coronavirus dirigidas a la ciudadanía, deben ser objeto de autorización o ratificación judicial, de acuerdo con lo previsto en los artículos 8.6, segundo párrafo, 10.8, 11.1 i) y 122 quater de la Ley 29/1998, de 13 de julio, reguladora
+de la Jurisdicción Contencioso-administrativa, según redacción dada por la
+disposición final segunda de la citada Ley 3/2020, de 18 de septiembre.
+A este respecto, el artículo 15 de este real decreto-ley introduce una modificación a la Ley 29/1998, de 13 de julio, al objeto de modificar la regulación del
+recurso de casación en el siguiente sentido: con esta reforma del recurso de
+casación se persigue el objetivo de posibilitar que la Sala de lo Contencioso-Administrativo del Tribunal Supremo pueda entrar a conocer sobre los autos adoptados por las referidas Salas de los Tribunales Superiores de Justicia y
+de la Audiencia Nacional en esta materia y pueda, además, fijar doctrina legal,
+con intervención de las administraciones públicas autonómica y estatal, además de la del Ministerio Fiscal, sobre el alcance de la legislación sanitaria en
+relación con las limitaciones o restricciones de derechos fundamentales de los
+ciudadanos impuestas por las autoridades sanitarias, y todo ello en un plazo
+muy breve de tiempo, que es lo que requiere una situación sanitaria tan grave
+y extraordinaria como la que obliga a esas autoridades a tener que adoptar
+esta clase de medidas y para la que no resultan eficaces los dilatados plazos
+que precisa el recurso de casación ordinario.
+(…)
+Ante la inminente finalización del estado de alarma (…) resulta ineludible y
+urgente abordar la reforma del recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo a fin de evitar que la situación jurídica descrita en los párrafos precedentes vuelva a producirse, pues los efectos
+adversos de la pandemia sobre la salud de los ciudadanos persisten y, una vez
+decaiga el estado de alarma, las autoridades sanitarias podrán seguir precisando para combatirlo de la adopción de medidas urgentes y necesarias para la
+salud pública que, en el caso de que restrinjan o limiten derechos fundamentales de los ciudadanos, requerirán de la preceptiva autorización o ratificación
+judicial por las Salas de los Tribunales Superiores de Justicia y de la Audiencia
+Nacional.
+Es imprescindible, por tanto, que, en el momento de expiración de la vigencia
+del estado de alarma, el sistema procesal previsto en la Ley 29/1998, de 13 de
+julio, reguladora de la Jurisdicción Contencioso-administrativa, cuente con un
+mecanismo idóneo que permita a la Sala de lo Contencioso-administrativo del
+Tribunal Supremo resolver las dudas y divergencias que, sobre la interpreta-
+
+482
+
+
+
+ción y aplicación del marco normativo estatal, se puedan generar en los procedimientos de autorización y ratificación judicial de las medidas sanitarias.
+La modificación del recurso de casación prevista en este real decreto-ley no
+puede ser aprobada mediante el procedimiento ordinario de tramitación parlamentaria, pues ello implicaría que, finalizado el estado de alarma y hasta la
+aprobación de tales reformas legislativas, las distintas interpretaciones y aproximaciones judiciales al marco sanitario estatal aplicable se seguirán produciendo, sin posibilidad de que la Sala de lo Contencioso-administrativo del
+Tribunal Supremo pueda entrar a conocer de las mismas y pueda fijar jurisprudencia sobre las cuestiones suscitadas en los procedimientos de autorización
+y ratificación judicial de las medidas sanitarias restrictivas o limitativas de derechos fundamentales.
+Ello explica la extraordinaria y urgente necesidad de acometer con inmediatez
+una modificación de la actual regulación de la Ley 29/1998, de 13 de julio,
+reguladora de la Jurisdicción Contencioso-administrativa, que introduzca la
+posibilidad de interponer, contra los autos recaídos en dichos procedimientos,
+un recurso de casación extremadamente ágil y de tramitación preferente, que
+permita a la Sala de lo Contencioso-administrativo del Tribunal Supremo pronunciarse con gran celeridad en esta materia y posibilite la aplicación uniforme de dicho marco normativo en todo el territorio nacional.»
+
+Las novedades consisten en (i) incluir en el artículo 87 de la Ley de la
+Jurisdicción un apartado 1 bis que considera susceptibles de recurso de casación los autos dictados en virtud de los artículos 10.8 —por las Salas territoriales— y 11 b.1 i) —por la Sala de la Audiencia Nacional— y (ii) modificar su
+apartado 2 para excluir este recurso de la necesidad de la preparación y hacer
+potestativo el de reposición contra el auto que se haya dictado. Asimismo, añade un artículo 87 ter que regula la tramitación de este recurso de casación directamente ante la Sala Tercera, (iii) fija unos plazos muy breves, (iv) para la
+interposición (tres días), para las alegaciones (tres días) y para la resolución
+(cinco días) y, además, limita la legitimación para interponerlo, (v) a la Administración que ha visto denegada la ratificación y al Abogado del Estado, pero
+en este caso solo si se tratara de medidas acordadas en el Consejo Interterritorial del Sistema Nacional de Salud y al Ministerio Fiscal. Por último, (vi), incorpora un artículo 122 quater que hace preceptiva la intervención del Ministerio
+Fiscal.
+Conviene recordar que el Tribunal Constitucional ha admitido a trámite
+la cuestión de inconstitucionalidad planteada por la Sala de lo Contencioso
+Administrativo del Tribunal Superior de Justicia de Aragón sobre esta nueva
+atribución. Asimismo, los recursos de inconstitucionalidad pendientes sobre los
+Reales Decretos de declaración y prórroga del estado de alarma y sobre la Ley
+gallega 8/2021, con seguridad ofrecerán la ocasión para se pronuncie sobre la
+
+483
+
+
+
+conformidad a la Constitución de la novedad traída por la Ley 3/2020 e indirectamente sobre la interpretación de la Ley Orgánica 3/1986.
+En tanto resuelve el Tribunal Constitucional, la sentencia de la Sala
+Tercera del Tribunal Supremo núm. 719/2021, de 24 de mayo (casación
+núm. 3375/2021), ha establecido que los preceptos citados de la legislación
+sanitaria autorizan la limitación puntual de derechos fundamentales siempre
+que la Administración: (i) acredite la existencia de una enfermedad transmisible
+grave que ponga en peligro la salud y la vida de las personas; (ii) justifique que
+esa limitación es imprescindible para impedir dicha transmisión por no haber
+otros medios eficaces para lograrlo; (iii) determine en función del número de
+enfermos y de su localización la extensión subjetiva y territorial de la limitación;
+y (iv) fije fundadamente el tiempo indispensable en que ha de mantenerse la
+limitación para impedir la difusión de la enfermedad.
+De este modo, ha resuelto las dudas surgidas al respecto y, además,
+ha ofrecido a las Salas de los Tribunales Superiores de Justicia y de la Audiencia Nacional pautas para decidir sobre si procede o no la ratificación que se
+les haya solicitado. En particular, habrán de comprobar que la Administración
+que pide la ratificación (i) es la competente para adoptar las medidas a ratificar; (ii) invoca los anteriores preceptos legales u otros que le confieran habilitación; (iii) ha identificado con suficiente claridad el peligro grave para la
+salud pública derivado de una enfermedad transmisible que es preciso conjurar para preservar el derecho a la salud y a la vida, con indicación de los
+hechos que así lo acreditan; (iv) ha establecido debidamente la extensión de
+ese riesgo desde el punto de vista subjetivo, espacial y temporal; (v) ha justificado que no dispone de otros medios menos agresivos para afrontarlo y que
+los propuestos son idóneos y proporcionados a tal fin, y sobre esos presupuestos, ha dicho que (vi) la Sala correspondiente deberá juzgar si dicha
+justificación es suficiente y si la limitación pretendida es efectivamente idónea, necesaria y proporcionada.
+
+7. CONCLUSIÓN
+Cualquier balance que se intente de la experiencia vivida desde el 14
+de marzo de 2020, sea cual sea la perspectiva desde la que se haga, ha de partir del reconocimiento de que no se había vivido una situación semejante. No
+hay precedentes o, al menos, no los han vivido las actuales generaciones. Se ha
+tratado, pues, de una situación desconocida para cuyo enfoque y tratamiento
+no había previstas respuestas adecuadas o, cuando las había, no era posible
+aplicarlas por faltar los medios necesarios en la cantidad suficiente para hacerlo, no en un ámbito reducido, sino en todo el país y de manera simultánea. Si
+
+484
+
+
+
+se tiene en cuenta que al mismo problema se han tenido que enfrentar todos
+los Estados, se entenderán mejor las dificultades de los primeros momentos.
+Por otro lado, esa misma ausencia de precedentes equiparables y, al
+tiempo, el propósito de adoptar medidas con urgencia una vez adquirida la
+conciencia de que nadie estaba a salvo de la pandemia y la consiguiente y natural presión ciudadana explica que haya habido pasos improvisados y que
+tuvieran que rectificarse o completarse medidas adoptadas pocos días antes.
+Además, las variaciones en la evolución de la pandemia y en el contexto interno y externo han exigido adaptar las previsiones a esos cambios y añadir otras
+nuevas a medida que se hicieran necesarias. Naturalmente, el juicio que merecen tales variaciones dependerá del punto de vista de quien lo emita y, siendo,
+como he dicho, materia de confrontación política la actuación frente a la pandemia, no es preciso esforzarse en exceso para saber cuál es el parecer al respecto de cada uno de los sujetos activos en esa pugna, ya sean los protagonistas directos, ya sean quienes participan públicamente en mayor o menor
+medida de sus posiciones.
+El caso es que han sido muy numerosas las disposiciones dictadas en
+este tiempo. Más arriba se han relacionado parte de ellas, pero son muchas
+más, la mayor parte proceden del Gobierno, que ha dictado numerosos Reales
+Decretos-Leyes y reglamentos, pues las Cortes Generales no han legislado apenas sobre la pandemia, fuera de tramitar como proyectos de ley algunos de los
+Reales Decretos-Leyes convalidados. La explicación es sencilla: con la composición de las Cortes Generales y, en particular, del Congreso de los Diputados
+de la XIV Legislatura, elegido el de la pandemia como campo de batalla política
+no se han logrado las mayorías que concordaran una normativa idónea para
+tomar las medidas necesarias sin necesidad de acudir al estado de alarma. Así,
+pues, el resultado ha sido la proliferación de la legislación de urgencia y de la
+reglamentaria. Además, en general, la técnica que reflejan es mejorable y la
+redacción de algunas lleva a pensar que en sus autores había más confianza en
+la fuerza performativa de las palabras que en la capacidad ordenadora de los
+preceptos. Obviamente, un marco jurídico de estas características no ha facilitado la tarea del intérprete.
+Tampoco la han hecho sencilla los intereses en conflicto. La protección
+de salud, principio rector de la política social y económica según el artículo 43
+de la Constitución y la tutela de los derechos a la vida y a la integridad física y
+psíquica garantizados por su artículo 15 se han contrapuesto a la libertad de
+circulación, principalmente, pero también a la libertad de empresa y al derecho
+al trabajo, entre otros. Se ha entablado así una relación en la que es difícil encontrar el equilibrio entre unas y otras exigencias porque, siendo sencillo enunciar criterios generales, no lo es establecer en concreto hasta donde ha de llegar
+la protección de salud o, lo que es lo mismo, hasta donde han de sacrificarse
+los derechos individuales y la actividad económica.
+
+485
+
+
+
+Si a este contraste esencial se le añade el enfrentamiento político sobre
+la manera de encontrar el punto de equilibrio, animado por una polémica constante en los medios sobre las soluciones aplicadas y las que unos y otros entienden aplicables, polémica que ha ido adquiriendo intensidad con el transcurso del tiempo y que refleja también las posiciones políticas de los que participan
+en ella, la complicación se acrecienta, incluso para el intérprete del Derecho,
+pues ha de prescindir en su tarea del revestimiento mediático que acompaña a
+muchos de los pleitos para centrarse en aquello a lo que ha de atender: su dimensión jurídica.
+Seguramente, ayudaría a hacerse una idea más ajustada a la realidad de
+lo sucedido —y quién sabe si también a serenar los ánimos— tener presente
+que los problemas, las dificultades, las respuestas e, incluso, las reacciones que
+hemos visto en este período son muy parecidos a los que se han vivido en otros
+países europeos. La española no es una experiencia particularmente distinta. La
+reciente iniciativa del Gobierno federal de Alemania para dotarse de instrumentos legales que le permitan dirigir la acción contra la pandemia y superar las
+diferencias surgidas de las distintas políticas territoriales es bien significativa 87.
+Y, si atendemos a lo que se refleja en las demandas que se han dirigido a las
+instancias judiciales, bien por la insuficiencia inicial de medios de protección
+para el personal sanitario o de las fuerzas y cuerpos de seguridad, bien por el
+alcance de las limitaciones impuestas a la libertad de circulación o a la actividad
+económica, el repaso a las páginas web del Conseil d´Etat de Francia 88 o del
+Consiglio di Stato italiano 89 a través de las que se accede a sus respectivas resoluciones muestra, a su vez, respuestas parecidas a las que han dado y están
+dando los tribunales españoles.
+
+87
+Se trata de la modificación de la Ley de Protección de Enfermedades Infecciosas, anunciada por
+la Canciller Angela Merkel y aprobada por el Gobierno federal el 13 de abril de 2021. Véase https://www.lavanguardia.com/internacional/20210409/6640214/alemania-reforzara-federal-combatir-pandemia.html. Y, también,
+https://www.dw.com/es/alemania-gobierno-aprueba-endurecimiento-de-ley-anti-covid/a-57182268. La iniciativa legislativa pretende facultar al Gobierno federal para —si se producen más de 100 contagios por 100.000
+habitantes durante tres días— imponer el toque de queda, limitar los contactos en lugares privados o cerrar
+comercios no esenciales, entre otras medidas cuya adopción, hasta ahora era competencia de los Lánder. El
+proyecto de ley fue aprobado por el Bundestag el 21 de abril de 2021.
+88
+Puede verse un resumen de su actividad en su comunicado «Un an de recours en justice à la
+covid-19. Retour des chiffres sus l´activité du Conseil d´Etat, juge de l´urgence et des libertés», accesible en
+https://www.conseil-etat.fr/actualites/actualites/covid-19-retour-en-chiffres-sur-un-an-de-recours-devant-leconseil-d-etat-juge-de-l-urgence-et-des-libertes. Sus decisiones son accesibles en: https://www.conseil-etat.fr/
+ressources/decisions-contentieuses/dernieres-decisions-referes-en-lien-avec-l-epidemie-de-covid-192.
+Además, son muy interesantes las conferencias de su vicepresidente Bruno Lasserre y del
+presidente del Consiglio di Stato, Filippo Patroni Griffi, sobre «Le juge administratif, juge de l´urgence»,
+respectivamente, en https://www.conseil-etat.fr/actualites/discours-et-interventions/le-juge-administratif-juge-de-l-urgence-par-bruno-lasserre-vice-president-du-conseil-d-etat, y https://www.conseil-etat.fr/actualites/
+discours-et-interventions/le-juge-administratif-juge-de-l-urgence-par-filippo-patroni-griffi-president-du-conseil-d-etat-italien.
+89
+Con este enlace se accede a la página en la que se encuentran las disposiciones dictadas y la
+jurisprudencia emanada al respecto: https://www.giustizia-amministrativa.it/emergenza-coronavirus.
+
+486
+
+
+
+En general, hay que decir, para ellos el escenario era igualmente desconocido y que, desde la misma declaración del estado de alarma han tenido
+que pronunciarse sobre medidas tomadas por las distintas autoridades para
+hacer frente a la pandemia. Su actuación ha sido constante e inmediata. Aunque
+se suspendieron los plazos procesales a partir del 14 de marzo y hasta el 21 de
+junio de 2020 y no pudieron celebrarse vistas en ese período, atendieron las
+decisiones urgentes en todos los órdenes jurisdiccionales y, en lo que se refiere
+a las medidas tomadas en virtud de la declaración del estado de alarma, los
+órganos de la jurisdicción contencioso-administrativa, en especial la Sala Tercera del Tribunal Supremo, controlaron la legalidad de la actuación del Gobierno
+y de quienes obraban como autoridades delegadas suyas. Ese control ha sido
+ágil y efectivo respecto de las sucesivas medidas que se han dispuesto y han
+sido impugnadas por particulares o por diversas entidades públicas y privadas.
+Asimismo, los tribunales, todos los que se han ido pronunciando sobre
+litigios promovidos a causa de la pandemia, se han esforzado, al motivar sus
+decisiones, en explicar con la mayor claridad los límites a los que están sujetos.
+Tal vez el supuesto más claro es el que ofrece el auto de la Sala Segunda del
+Tribunal Supremo que inadmitió las querellas y denuncias presentadas contra
+variadas autoridades, pues precisa los términos en que, en Derecho, se puede
+promover un proceso penal contra una persona. Algo parecido se aprecia en
+alguna de las sentencias de la Sala Tercera. Digo que muestran los límites de la
+potestad jurisdiccional porque responden a pretensiones de condena penal o
+administrativa de quienes estaban al frente de las instituciones gubernativas y
+judiciales ejercitadas en gran medida por la impresión causada por los tremendos efectos iniciales de la pandemia. Se trataba de una reacción comprensible
+pero que no atiende a la diferencia existente entre la responsabilidad política y
+la responsabilidad penal o la administrativa. Estas últimas discurren por unas
+líneas diferentes a las propias de la primera.
+Es conocida la génesis de la responsabilidad política de los gobernantes. Se fue construyendo a la par que se iba formando el régimen parlamentario
+en la experiencia inglesa de finales del siglo xviii. A la responsabilidad penal,
+única a la que antes estaban sometidos por su gestión los ministros de la Corona, se le añadió la responsabilidad política que se sustanciaba en su cese por la
+censura parlamentaria. Esa evolución, en la que la responsabilidad política pasó
+a ser la genuina del gobernante, discurrió en paralelo a la formación del Derecho Constitucional y se consolidó en el Estado de Derecho. Así, sin perjuicio,
+de que los gobernantes que incurran en las conductas tipificadas como delito
+en los códigos y leyes penales, respondan de ellos ante los tribunales competentes, la responsabilidad política la exigen los parlamentos y, en último extremo, los electores.
+Por tanto, la mala gestión, si es que se produce, o la imprevisión, si se
+llegara a dar, no implican por sí mismas responsabilidad penal si no se ha dado
+
+487
+
+
+
+la conducta típica prevista en el Código o en la ley penal y esta —prueba plena
+sometida a contradicción mediante— es atribuible mediante la relación de causalidad necesaria a quien se acusa. Tampoco han de significar por sí mismas
+una infracción del ordenamiento jurídico administrativo si no se traducen en la
+vulneración de principios o preceptos que impusieran un proceder determinado y éste se hubiera omitido o impidieran la actuación llevada a cabo. Podrá
+haber responsabilidad política, pero esa, en España, la exigen las Cortes Generales y, en especial, el Congreso de los Diputados o las asambleas legislativas
+de las Comunidades Autónomas a los miembros de sus Consejos de Gobierno
+y, desde luego, los ciudadanos siempre, pero nunca los tribunales de justicia. Ni
+en el orden penal, ni en el contencioso-administrativo ni en ningún otro.
+Precisado el campo de intervención judicial, creo que, en términos
+generales, la que se ha producido ha sido equilibrada y ha respetado el margen de decisión que en circunstancias críticas ha de reconocerse a quienes
+están llamados a gobernar. En el contraste de intereses producido, han tendido a confirmar la prevalencia de los vinculados a la protección de salud. Claro que esa actividad jurisdiccional, dejando ahora al margen la de carácter
+penal, ha tenido por objeto, principalmente, las disposiciones y actuaciones
+encaminadas a prevenir los contagios y se ha producido en la mayor parte de
+los casos en sede cautelar, aunque, como se ha visto, hay ya sentencias que
+resuelven recursos.
+Es muy importante, esa precisión porque en los meses y años venideros será cuando los tribunales se tendrán que enfrentar a un reto aún mayor
+que el experimentado hasta ahora. No me refiero solamente a los retrasos que,
+sobre todo, en la jurisdicción civil han traído consigo el confinamiento, primero, y las limitaciones que ha sido menester mantener después de terminado el
+primer estado de alarma y levantada la suspensión de los plazos procesales
+dispuesta el 14 de marzo de 2020. Esos retrasos se añaden a los que ya se debían a la insuficiencia de nuestra planta judicial y agravarán el problema que
+representa la incapacidad del sistema para responder en tiempo razonable a las
+demandas de justicia que se le dirigen.
+Además, deberán resolver los procesos que se han entablado ya, los
+que se están entablando y los que han de venir próximamente en todos los
+órdenes. En el civil, por los incumplimientos contractuales debidos a la pandemia, así como por la pretensión de aplicar a los que se mantengan la cláusula
+rebus sic stantibus y por los concursos a los que se han visto y se verán abocadas numerosas empresas. En el penal, porque no cesarán las denuncias y querellas contra quienes se consideren responsables de muertes, contagios o perjuicios de cualquier tipo. En el contencioso-administrativo, porque serán muchos
+los particulares que exigirán la responsabilidad patrimonial de la Administración por los daños sufridos sin tener la obligación de soportarlos a causa de las
+limitaciones impuestas por los poderes públicos. En fin, en el orden social, por
+
+488
+
+
+
+la resolución o suspensión de relaciones de trabajo debidas a la crisis económica originada por la pandemia y por las cargas impuestas a trabajadores y empleadores.
+La circunstancia de que la Unión Europea haya hecho frente a esta
+catástrofe mundial de una manera decidida y haya dispuesto un fondo de ayudas para los Estados miembros de una magnitud desconocida hasta ahora,
+puede mitigar las dificultades que están por venir, de igual modo que lo hará la
+reactivación económica si es que consigue despegar y asentarse. No obstante,
+el panorama que se presenta a nuestros tribunales de justicia y a los jueces y
+magistrados que los sirven es sumamente preocupante, precisamente, por las
+carencias previas a la emergencia. Y, también, desde otro punto de vista por la
+creciente tendencia, no ya a atribuirles cometidos nuevos que provocan dudas
+sobre su idoneidad para ser desempeñados por los órganos jurisdiccionales,
+sino por la propensión creciente de las fuerzas políticas a trasladar al ámbito del
+proceso judicial sus diferencias.
+
+489
+
+
+
+

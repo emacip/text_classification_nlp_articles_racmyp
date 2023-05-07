@@ -1,0 +1,555 @@
+LA CRISIS FINANCIERA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+La crisis financiera reciente, la más severa desde los años treinta del siglo
+pasado, empezó en EE UU en el verano de 2007 con las hipotecas basura, conocidas como subprime, y posteriormente se extendió a otras economías, bien por exposición directa a estos productos, o bien por la falta de confianza en otro tipo de activos. Esta situación que prácticamente llegó a paralizar los mercados financieros
+mayoristas, alcanzó su punto culminante, y proporciones casi sísmicas, en septiembre de 2008, con la caída de Lehman Brothers y la precipitada intervención en el
+gigante de seguros American International Group (AIG).
+Los años previos a la crisis se caracterizaron por condiciones macroeconómicas muy favorables a la expansión del sistema financiero. Frente a anteriores episodios de inestabilidad financiera como la crisis del Long Term Capital Management en 1998 o el estallido de la burbuja de los valores de la nueva economía en
+2000, que desaceleraron la economía americana, la Reserva Federal reaccionó manteniendo los tipos de interés en niveles bajos. Además, la determinación de los bancos centrales en el cumplimiento de los objetivos de inflación que estaban fijados,
+propició tipos de interés en mínimos históricos, lo que condujo a tipos reales negativos durante varios años en algunas de las economías desarrolladas.
+Por otra parte, el fuerte crecimiento de la economía china, con su extraordinaria tasa de ahorro, incrementó todavía más los elevados niveles de liquidez del
+sistema. Su política económica sustentada en las exportaciones y en una moneda
+
+* Sesión del día 3 de mayo de 2011.
+
+341
+
+
+
+infravalorada alentó más este proceso. Cabe recordar aquí la conocida conversación
+de Hillary Clinton con el primer ministro australiano, quien preocupada por la tremenda influencia de China en las finanzas de EE UU le preguntó: ¿Cómo se puede
+tratar con rigor a tu banquero?
+En fin, unos y otros factores macroeconómicos hicieron que las entidades
+financieras aumentaran su oferta de crédito sobre la base de incrementar llamativamente sus niveles de endeudamiento, dando lugar a una pérdida muy significativa
+en la proporción que representan el capital y las reservas sobre el pasivo del sistema en su conjunto. En este período de tiempo el sector aumentó significativamente su participación en el valor añadido de la economía, y en este contexto el
+asunto relevante es la identificación de las causas de tan extraordinarios rendimientos económicos, y que han podido estar generados por la asunción de riesgos desproporcionados o por un aumento del poder de mercado de las instituciones financieras.
+En este escenario, el proceso de innovación financiera permitió la venta de
+gran parte de estos créditos en el mercado, tras ser empaquetados en productos
+financieros complejos y opacos de difícil valoración. La mayoría de estos créditos
+eran las hipotecas subprime, es decir, hipotecas concedidas a personas con una
+probabilidad muy baja de poder hacer frente a sus obligaciones de pago. Las razones de esta práctica no eran, como veremos, altruistas. Esta forma de actuar se justificaba, en parte, por una predicción errónea como era suponer que el precio de
+las viviendas seguiría aumentando indefinidamente y, por ende, la simple garantía
+hipotecaria aseguraría la totalidad del crédito; además, y sobre todo, este tipo de
+préstamos no se mantenían en el balance de las entidades, ya que se vendían en el
+mercado, muy significativamente a los bancos de inversión que con estos activos
+tóxicos construían sofisticados productos estructurados para su posterior distribución
+y venta con altos rendimientos, y sobre los que existía una fuerte demanda. Este
+proceso es el que caracteriza el modelo financiero de negocio conocido como "originar y distribuir", mediante el cual las instituciones de deshacen del riesgo crediticio, fundamentalmente hipotecario, con su inmediata titulización en una variedad
+de productos crecientemente complejos. Los bancos de inversión fueron especialmente activos en este proceso, en el que las agencias de calificación certificaron
+como muy seguros —AAA según su terminología— este tipo de productos construidos en su mayoría con préstamos de pésima calidad. La sofisticación de estos productos y el proceso de globalización financiera hacen muy difícil que los inversores conozcan la calidad de este tipo de activos, por ello sus decisiones están
+previamente condicionadas por la opinión de las agencias de rating. Aunque en EE
+UU hay autorizadas nueve agencias de rating, solo tres de ellas: Moody’s Investors
+Service (Moody’s), Standard & Poor’s Financial Services (S&P) y Fitch Ratings Ltd.
+(Fitch) tienen el 98% del mercado. De hecho, la industria está reducida a un oligopolio de estas tres agencias.
+
+342
+
+
+
+De acuerdo con el exhaustivo informe de 639 páginas del Subcomité de
+Investigación de la Crisis Financiera del Senado de EE UU, dado a conocer el pasado
+día 13 de abril, tanto la actuación de las agencias de rating como la de los bancos
+de inversión ha dejado mucho que desear en todo este proceso. Por ejemplo, más
+del 90% de las calificaciones AAA concedidas a sofisticados productos derivados de
+préstamos hipotecarios por Moody's y Standard & Poor's en los años 2006 y 2007
+fueron poco tiempo después degradadas al estatus de basura. Recuérdese que una
+calificación AAA tiene una probabilidad inferior al 1% de presentar problemas. Las
+agencias de calificación publican las frecuencias históricas de incumplimiento de las
+empresas y países calificados AAA y, de hecho, durante los treinta años anteriores
+a la crisis las frecuencias de incumplimiento observadas fueron nulas.
+También este informe describe detenidamente la práctica de dos bancos de
+inversión muy activos en esos años en el mercado hipotecario: Goldman Sachs y el
+Deutsche Bank. Sobre Goldman Sachs afirma que este banco tomó decisiones con
+el propósito de beneficiarse del deterioro del mercado, y que diseñó, comercializó
+y vendió determinados productos que creaban claros conflictos de interés con sus
+clientes, ya que los beneficios que obtenía con su venta eran consecuencia directa
+de las sustanciales pérdidas en las que incurrían sus clientes al comprárselos.
+La situación hasta aquí descrita propició un tremendo desarrollo del proceso de intermediación financiera y, como consecuencia, un deterioro de los ratios
+de capital de las instituciones financieras, incapaces de absorber las potenciales pérdidas derivadas de tan altos niveles de riesgo. Por ejemplo, en el año 2007, inmediatamente antes del comienzo de la crisis, los cinco grandes bancos de inversión —Bear
+Stearns, Goldman Sachs, Lehman Brothers, Merrill Lynch y Morgan Stanley— mantenían unos niveles de capital extremadamente bajos para la actividad que desarrollaban. En concreto, el nivel de sus activos era cuarenta veces superior al capital del que
+disponían para cubrir eventuales pérdidas, o dicho de otro modo, una mera pérdida
+del 3% en estos activos los colocaba en situación de quiebra. Pero, además de este
+problema de solvencia existía también una crítica situación de liquidez, ya que gran
+parte de su necesaria financiación en los mercados mayoristas era a muy corto plazo,
+concretamente en el mercado a un día. Por ejemplo, a finales de 2007 Bear Stearns
+tenía escasamente 12.000 millones de dólares de capital con un pasivo de 384.000
+millones y se veía obligado a renovar diariamente 70.000 millones de dólares.
+Estas desorbitadas situaciones de apalancamiento conllevaban dos problemas adicionales. El primero era una clara infraestimación del riesgo, justificada por
+el hecho de que la prima de riesgo de prácticamente todos los activos había alcanzado mínimos históricos durante los años previos a 2007, situación que equivocadamente se extrapoló para años venideros utilizando de manera mecánica y errónea sofisticados modelos estadísticos y econométricos. Se ha abusado del uso de
+este tipo de modelos sin tener en cuenta las hipótesis implícitas en su formulación.
+
+343
+
+
+
+El segundo de los problemas era su propia infraestimación, puesto que la verdadera
+situación de apalancamiento no se hacía explícita al ocultarse parcialmente en opacos productos financieros y en operaciones fuera de balance.
+Entre estos productos los derivados de crédito jugaron un papel muy relevante. Los derivados son instrumentos financieros cuyo valor depende del riesgo de
+crédito existente en otro activo, que es el subyacente. Los más importantes han sido
+los Credit Default Swaps (CDS) y las Collateralized Debt Obligations (CDO). Los
+CDO han desaparecido como consecuencia de la crisis de las subprime, pero los
+CDS son hoy un instrumento básico en la gestión del riesgo de crédito. Una de las
+razones básicas del exponencial crecimiento de los CDS, que son productos derivados equivalentes a un seguro de un determinado valor, ha sido su forma de negociación mediante acuerdos bilaterales, en inglés over the counter (OTC), lo que conllevaba un limitado formalismo en los registros de tales operaciones y que, desde
+luego, no eran de conocimiento público. Este crecimiento dio lugar a finales de
+2007 a un saldo vivo próximo a los 60 billones de dólares, y supuso por sí solo una
+significativa amenaza a la estabilidad del sistema financiero global.
+Todo este proceso se vio amplificado por el tipo de incentivos que los
+gestores de las instituciones financieras tenían, y que estaban definidos, fundamentalmente, por los resultados a corto plazo y por la cuota de mercado que alcanzaban, independientemente de la calidad del riesgo en el que incurrían.
+A este escenario contribuyó también un conjunto de importantes fallos en
+el proceso de regulación y supervisión. La regulación no tuvo en cuenta todo el
+amplio proceso de innovación financiera, y se apoyó excesivamente en comportamientos de autorregulación y en deficientes esquemas de gobierno corporativo que
+no resolvían adecuadamente los conflictos de interés entre los gestores y los stakeholders o grupos de interés: accionistas, depositantes y acreedores. Como Paul Romer
+recientemente ha recordado, si se adopta una determinada regulación financiera y
+permanece inalterable en el tiempo, los mercados conseguirán soslayarla, y diez
+años más tarde volverá a ser muy probable la aparición de una nueva crisis.
+Además, en los mercados financieros más avanzados la capacidad de presión política del sector, en general, y de los bancos de inversión, en particular, fue
+muy notable. Por otra parte, y como hemos señalado, el entorno macroeconómico
+generó una tremenda e incontrolada expansión del proceso de intermediación financiera. Probablemente, la futura política monetaria tenga que ir más allá del mero
+control de precios, pues el crecimiento y la estabilidad financiera debieran ser objetivos irrenunciables.
+De hecho, desde su creación la Reserva Federal tiene los objetivos de mantener el poder adquisitivo del dinero y favorecer el crecimiento económico; sin
+
+344
+
+
+
+embargo, el Banco Central Europeo (BCE) tiene únicamente la lucha contra la inflación. En todo caso, ya a partir del año 2000 se generalizó entre los bancos centrales la preocupación por la estabilidad financiera. No obstante, el desarrollo de la
+política de estabilidad financiera como conjunto integrado de objetivos, políticas,
+instrumentos y variables que seguir y controlar, de forma similar a la política monetaria tradicional, no está logrado. Los obstáculos son, en mi opinión, de dos tipos.
+El primero, es la existencia de una realidad sistémica derivada del alto grado de
+concentración oligopolística de la industria financiera, especialmente en los segmentos de derivados, intermediación de valores y gestión de patrimonios; y el
+segundo, es la creencia de que los mercados son eficientes en cualquier momento
+y situación, y bajo la cual las burbujas financieras siempre se ignoran hasta que
+estallan. El riesgo sistémico no solo es un problema originado por la existencia de
+entidades financieras de extraordinario tamaño, sino también por la enorme red de
+interconexiones financieras entre grandes, medianas y pequeñas entidades, facilitada
+por las tecnologías de la información y comunicación y por la reducción de los costes de transporte y de las barreras para el comercio, en definitiva, por la globalización económica.
+El proceso hasta aquí descrito tuvo su origen en EE UU, pero se volvió sistémico a partir del desplome de Lehman Brothers y afectó a los países de la UE por
+distintas razones. En algunos de ellos, por ejemplo Alemania e Inglaterra, también
+se manifestó por la incorporación a la intermediación financiera de los productos
+sofisticados y de alto riesgo a los que hemos aludido, y que deterioraron, en algunos casos, los activos de sus sistemas financieros hasta situaciones críticas, todo ello
+previa la validación de esta forma de actuar por las agencias de rating.
+En el caso de España también se vivió una tremenda expansión del proceso de intermediación financiera, que se tradujo en un llamativo aumento de los
+activos de las instituciones financieras respecto al PIB; por ejemplo, mientras en
+1995 este ratio era del 218%, en quince años se multiplicó por dos, y a finales de
+2010 alcanzó el 440% del PIB. Sin embargo, nuestro sistema financiero ha permanecido al margen del tipo de prácticas financieras hasta aquí descritas, y que son
+las que han estado en el origen de la crisis. La labor de supervisión del Banco de
+España ha jugado un valioso papel en esta situación.
+En efecto, la causa de los graves problemas de nuestro sistema financiero
+no fue la sofisticada innovación financiera, que en el fondo ocultaba el intercambio de ingentes cantidades de créditos impagados mal valorados por las agencias
+de rating. La crisis en España se vio precipitada, que no causada, por la crisis financiera internacional, pero los problemas que la han originado son el resultado de
+nuestras propias acciones u omisiones, entre las que cabe destacar: en primer lugar,
+el desorbitado endeudamiento de familias y empresas, financiado en gran parte en
+los mercados mayoristas internacionales; y en segundo lugar, la inconcebible deja-
+
+345
+
+
+
+dez de gobiernos de todo tipo para mantener la mitad de nuestro sistema financiero,
+representado por las cajas de ahorros, en el limbo de su indefinición jurídica y
+ausencia de derechos de propiedad, mientras habían sido autorizadas a realizar
+cualquier tipo de operación financiera en cualquier parte del mundo.
+Cierto es, también, que el colapso del mercado interbancario europeo a
+partir de agosto de 2007 afectó a todos los bancos y cajas de nuestro sistema financiero, al margen de su perfil de riesgo y de su calidad de gestión. Del mismo modo,
+y como consecuencia de la crisis internacional, la desconfianza se generalizó a toda
+tipo de activos y emisores privados, más allá del riesgo en el sector de la construcción y de la promoción inmobiliaria.
+De acuerdo con la cuentas financieras del Banco de España, a finales de
+2007 el endeudamiento de la economía española era el siguiente: las familias debían
+el 83,2% del PIB, las empresas no financieras el 131,5% del PIB, las instituciones
+financieras el 93,1% del PIB y las AA PP el 40,9% del PIB. En total, la deuda conjunta así contabilizada, ascendía al 348,7% del PIB. Una parte sustancial de este
+endeudamiento se financiaba en los mercados internacionales, y cuando éstos se
+paralizaron fue cuando nos dimos cuenta de lo insostenible y vulnerable que era
+nuestra situación. Fue entonces cuando esos mercados empezaron a tener fundadas dudas sobre qué parte de esta deuda había sido invertida en proyectos rentables y, por consiguiente, si finalmente podría ser pagadera. En algún momento he
+llegado a pensar que, de no ser por las subprime, nuestro irresponsable comportamiento aún se hubiera extendido algunos años más. Realmente lo que ha hecho la
+crisis financiera en España ha sido revelar los problemas insostenibles que ha tenido
+nuestro modelo de crecimiento económico en el período 1995 a 2007 y, específicamente, en nuestro sistema financiero, lo exótica que era la formulación jurídica y
+de derechos de propiedad que tenía su 50%, representado por las cajas de ahorro.
+Mucho tenemos que recorrer todavía en el proceso de saneamiento financiero y desendeudamiento de nuestra economía. Como hemos señalado, nuestra
+deuda global al principio de la crisis era del 348,7% del PIB, y con las cifras recién
+publicadas por el Banco de España para 2010 asciende al 390,0% del PIB, es decir,
+un aumento del 41,3% del PIB. Este endeudamiento está desglosado de la siguiente
+manera: las familias tienen una deuda del 84,9% del PIB, las empresas no financieras del 139,0% del PIB, las instituciones financieras del 99,7% del PIB y las AA PP
+el 66,5% del PIB. Vemos, pues, que todos los agentes económicos han aumentado
+su endeudamiento y, especialmente lo han hecho las AA PP, siguiendo la conocida
+pauta de que en tiempos de crisis parte de la deuda privada termina por convertirse en deuda pública.
+Tanto al problema de nuestro excesivo endeudamiento, como al de la
+mitad de nuestro sistema financiero representado por las cajas de ahorros, les dedi-
+
+346
+
+
+
+qué mis intervenciones en esta Academia hace nueve y catorce años, respectivamente. Al final de mi intervención volveré sobre ellos, aunque, desafortunadamente,
+con poco más que decir.
+Sin embargo, antes de analizar el proceso de reforma de nuestro sistema
+financiero que se está llevando a cabo, quiero hacer varias consideraciones sobre
+algunas de las causas de la crisis financiera internacional. En concreto, me referiré
+al gobierno corporativo de las instituciones financieras, a los requerimientos de capital, a los incentivos de los gestores y, finalmente, al papel de las agencias de rating.
+En todo caso, es conveniente señalar que cualquier proceso de reforma del
+sistema financiero debe considerarse en el contexto de la responsabilidad empresarial e individual, pues achacar la crisis a comportamientos codiciosos, arrogantes
+y faltos de ética sería un diagnóstico, además de simplista, en algunos casos equivocado. No parece razonable admitir estadísticamente que los gestores de las instituciones financieras que nos condujeron a la crisis fueran más codiciosos, arrogantes y faltos de ética que los de diez, veinte o cuarenta años atrás, o que lo sean más
+que, por ejemplo, los gestores de la industria del automóvil. Claro que ha habido
+aquí, y fuera de aquí, comportamientos deleznables, tales como haberse fijado para
+sí mismos retribuciones y bonus millonarios después de haber dejado en quiebra
+la institución de la que eran responsables. Sin embargo, hay que hacer notar que
+aunque comportamientos de esta naturaleza están uniformemente distribuidos en la
+industria financiera y en cualquier otra industria, las consecuencias son radicalmente
+distintas, ya que en el primer caso pueden llegar a poner en riesgo todo el sector,
+y terminar afectando a aquellos que no han tenido tales comportamientos. Por esta
+razón, hay que resaltar que uno de los aspectos relevantes de esta crisis ha sido, precisamente, no haber tenido en cuenta la posibilidad de comportamientos de esta
+naturaleza, tanto en la definición de los específicos mecanismos de gobierno corporativo que deben tener las instituciones financieras, como en la definición de los
+incentivos de sus gestores.
+Cualquier proceso de reforma conlleva una intervención pública. La experiencia muestra que en muchas ocasiones tratar de corregir fallos de mercado, aunque no sean muy importantes cuantitativamente, ha empeorado la situación de partida. Por este motivo, siempre hay que contraponer los fallos de mercado a los
+posibles fallos de la intervención pública en donde, desde luego, también están
+presentes problemas de información y de incentivos. Es importante, entonces, tener
+una adecuada valoración del coste de la crisis financiera. No es fácil su cuantificación, y tampoco lo es la completa caracterización de los agentes económicos que
+lo debieran pagar. Por ejemplo, hasta la fecha el coste directo, fácilmente cuantificable, de evitar el derrumbamiento del sistema financiero en EE UU y la UE ha sido
+superior al 30% del PIB de estos países. Recursos que se han utilizado en múltiples
+y variadas formas: capitalización de los bancos, facilitación de liquidez, compra de
+
+347
+
+
+
+activos tóxicos y diversos tipos de garantías y avales. Sin embargo, el coste total ha
+sido mucho más elevado, pero es difícil de estimar. Para caracterizarlo hay que
+reparar en las externalidades negativas que el sistema financiero ha generado y que
+han padecido, y están padeciendo, el resto de los agentes económicos, siendo las
+más significativas las que han deteriorado la actividad empresarial como consecuencia de la restricción del crédito y las altas tasas de desempleo a las que ha dado
+lugar. Tampoco son menores los costes derivados de la pérdida de confianza en el
+sistema y en algunas e importantes instituciones que lo gobiernan.
+Por ejemplo, el Comité de Basilea sobre Supervisión Bancaria (BCBS, por
+sus siglas en inglés) señala que el impacto a largo plazo de las crisis financieras,
+que han sido evaluadas en la literatura económica, asciende en valor medio al 60%
+del PIB inmediatamente anterior a la crisis. Un analista, Andrew Haldane, del Banco
+de Inglaterra estima, en un trabajo reciente, que el valor actual de las futuras pérdidas de riqueza generadas por la presente crisis financiera alcanzará el 100% del
+PIB global. Tal y como lo calcula es una estimación conservadora, ya que solamente considera que el 25% del impacto inicial tiene efectos permanentes; con
+supuestos menos conservadores se podría llegar al 200% o al 300% del PIB global.
+Puede parecer sorprendente el poco interés que existe en poner de manifiesto lo extravagante de estas cifras que, además, no afectan de manera uniforme
+ni a países ni a personas, sino que tienden a aumentar considerablemente los niveles de desigualdad en el mundo, desigualdad entendida, sobre todo, como desigualdad de oportunidades, dado que el mayor impacto de la crisis se encuentra en
+aquellas cohortes que en su ciclo vital son más vulnerables, como así lo muestran
+indicadores de educación, sanidad, acceso a la vivienda o empleo juvenil.
+Interesante es también comparar, por ejemplo, los costes asociados a la crisis financiera con los asociados a abordar el problema del cambio climático (CC) y
+a fomentar el desarrollo de energías renovables. Los programas más costosos que
+se han puesto sobre la mesa para combatir el CC nunca llegaron a superar el 4%
+del PIB, y la crítica, tanto política como económica, para poner en marcha programas de esta naturaleza tiene siempre un denominador común: el sistema económico
+no puede afrontar un coste tan alto, puesto que afectará gravemente a sus niveles
+de eficiencia y competitividad. Sin embargo, esta crisis ha demostrado que, por
+otras razones, sí se puede asumir un coste que como mínimo es 25 veces mayor.
+No es fácil centrar el debate sobre el gobierno de la empresa o gobierno
+corporativo, ya que no existe una definición generalmente aceptada. Dos son las
+aproximaciones al problema. La primera contempla definiciones, dadas en sentido
+estricto, y en las que el gobierno de la empresa se ocupa de los procedimientos a
+través de los cuales se asegura una retribución adecuada a sus accionistas, que son
+quienes facilitan los recursos financieros. La segunda aproximación contempla defi-
+
+348
+
+
+
+niciones más amplias, como por ejemplo la proporcionada por la OCDE en sus
+Principios de Gobierno Corporativo de 2004, y que siguiendo la pauta de su anterior informe del año 1999, describe el gobierno de la empresa como el conjunto de
+relaciones entre el Consejo, sus accionistas (shareholders) y otros interesados (stakeholders) en la acción conjunta de la empresa, como son los acreedores, clientes,
+empleados y, en algunos casos, la sociedad en su conjunto.
+La diferencia entre una y otra definición no es menor. Así, la primera se
+centra fundamentalmente, y de manera explícita, en la protección de los accionistas, mientras que la segunda pone énfasis en los demás agentes que aportan recursos a la empresa y que se ven afectados por las decisiones que en ella se toman.
+Los intereses de estos otros agentes están protegidos por diversos medios, con frecuencia por contratos formales cuyo cumplimiento garantizan las leyes, y también
+podrían estarlo por la posibilidad de abandonar la relación libremente y sin costes
+de salida significativos. Cuando esto no es posible, es cuando los defensores de la
+segunda aproximación justifican que el gobierno de la empresa debe tener en
+cuenta la protección de los intereses de todos los agentes involucrados en la organización. Esta última circunstancia es especialmente cierta en el caso de las instituciones financieras, debido a la especial naturaleza de sus actividades, de tal manera
+que graves problemas en una de ellas pueden trasladarse a otras y al sistema en su
+conjunto, lo que puede llegar a producir una contracción del crédito que dé lugar
+a una generalizada crisis económica. La situación actual es un buen ejemplo de este
+tipo de riesgo sistémico, que es el que ha conducido a los gobiernos a la necesidad de apoyar al sistema financiero con recursos públicos. Es evidente, en este
+caso, el papel que los ciudadanos han llegado a tener, muy a su pesar, como agentes interesados o stakeholders en el gobierno del sistema financiero. Vemos, entonces, que el criterio de la simple maximización de los beneficios de los accionistas,
+que suele estar razonablemente alineado con el interés general en muchos sectores económicos, tiende en el caso de las instituciones financieras a entrar en conflicto no solo con la estabilidad del sistema, sino también con el interés de la sociedad en su conjunto.
+La estructura de la propiedad es un elemento fundamental en la definición
+del correspondiente modelo de gobierno corporativo. Las diferencias en los patrones de propiedad y de gobierno existentes en las empresas de los distintos países y
+sectores son muy notables. Cuando los derechos de propiedad están muy distribuidos entre pequeños accionistas, éstos tienen pocos incentivos para supervisar a la
+dirección. Por el contrario, con una estructura de propiedad más concentrada, los
+accionistas principales tienen tales incentivos pero, por otra parte, pueden utilizar su
+poder de control en beneficio propio y en detrimento de los pequeños accionistas.
+Las instituciones financieras protagonistas de esta crisis se caracterizan, en
+general, por una estructura de propiedad muy atomizada, y en este caso el buen
+
+349
+
+
+
+gobierno de la empresa debe preocuparse fundamentalmente de los intereses de los
+pequeños accionistas. Los incentivos y retribuciones de los altos directivos han
+estado excesivamente vinculados a los resultados a corto plazo, pero además estuvieron definidos de manera asimétrica, de tal forma que propiciaron la toma de
+riesgos excesivos, a sabiendas de que si las cosas marchaban bien los ejecutivos
+obtenían significativas retribuciones, y si fueran mal, como así sucedió, pagaban
+los accionistas y, en algunos casos, el resto de stakeholders.
+Es obvio que una posible alternativa sería alinear este tipo de incentivos
+con los intereses de los propietarios, vinculándolos a plazos mayores y rompiendo
+este tipo de asimetrías. Sin embargo, el tremendo desarrollo de los mercados financieros ha transformado la caracterización de la propiedad de forma muy significativa. Así lo recordaban los profesores, de la Universidad de Harvard, Rakesh Khurana y Andy Zelleke en el Washington Post del 8 de febrero de 2009, al señalar que
+el tiempo medio de permanencia de un accionista en las empresas del New York
+Stock Exchange (NYSE), es de aproximadamente seis meses. En 1960 era de ocho
+años, en 1975 de cinco, en 1985 de dos, en 1995 de un año, y en lo que va de siglo
+ha sido siempre inferior a un año. Valores análogos caracterizan el comportamiento
+de los accionistas en el FTSE de Londres, de acuerdo con el trabajo de Haldane. Si
+estos son los datos, ¿qué sentido tiene para propietarios así caracterizados distinguir
+entre decisiones empresariales a corto y largo plazo cuando su tiempo de permanencia en la empresa es inferior a un año? Es razonable pensar que horizontes de
+tiempo tan cortos de permanencia como accionistas inducen a los gestores a evaluar sus decisiones de inversión en horizontes de tiempo igual de cortos.
+A la situación anterior se añade el hecho de que una gran parte de los
+accionistas no son conscientes de qué participaciones accionariales son propietarios,
+ya que las poseen a través de fondos de inversión, fondos de pensiones o carteras
+de acciones, que indudablemente diluyen el concepto de propiedad de una empresa
+concreta. Por otra parte, la capacidad de control de este tipo de fondos sobre los
+gestores de la empresa suele estar inmersa en situaciones de conflicto de intereses.
+Pero, además, el nivel de rotación de las acciones es muy alto; por ejemplo, el
+fondo de pensiones típico en el NYSE tiene una rotación anual del 70%, lo que significa que la probabilidad de que un accionista permanezca como tal durante tres
+años es menor del 3%.
+Indudablemente las dificultades anteriores no están solamente presentes en
+el gobierno corporativo de las instituciones financieras, pero en ellas son especialmente relevantes dada la especial naturaleza de su actividad. Observaciones de esta
+naturaleza nos llevan a la conclusión de los limitados incentivos que tienen los
+accionistas en controlar las decisiones de los gestores cuando los derechos de propiedad están muy distribuidos. Además, llevan a matizar aquella definición de
+gobierno de la empresa que tiene como único objetivo asegurar una retribución
+
+350
+
+
+
+adecuada a quienes facilitan los recursos financieros, en el sentido de tener en
+cuenta no sólo el interés de los accionistas, sino también el de otros agentes interesados en la acción conjunta de la empresa, como son los acreedores, clientes,
+empleados y, en algunos casos, la sociedad en su conjunto o una parte significativa
+de ella.
+Las instituciones financieras operan bajo formulaciones jurídicas de responsabilidad limitada y, por la naturaleza de su actividad, con unos niveles de
+endeudamiento muy altos. Por estas dos razones, tanto sus gestores como sus accionistas tienen sólidos incentivos para asumir excesivos riesgos a corto plazo en las
+operaciones en las que invierten los recursos de sus depositantes o la deuda que
+han colocado en el mercado. Es fácil demostrar que se pueden elegir inversiones
+en las que mientras que los accionistas ganan los acreedores pierden, de tal forma
+que se obtiene un resultado conjunto negativo.
+Como resultado de estas particularidades las instituciones financieras están
+estrictamente reguladas y supervisadas. En consecuencia, difícilmente se pude
+hablar de su gobierno corporativo sin tener presente la calidad de la regulación y
+supervisión a la que legalmente están sometidas.
+La presente crisis ha puesto de manifiesto los límites y deficiencias de la
+actividad de regulación y supervisión y, dado el muy elevado coste social que ha
+tenido, son numerosos y diversos los procesos de reforma que están en curso.
+Todos ellos con el propósito de reducir la probabilidad de que una crisis de esta
+naturaleza vuelva a tener lugar. Las características fundamentales de estas reformas
+son: una mayor y mejor capitalización de las entidades financieras, un mayor control de los niveles de liquidez, la exigencia de una mayor transparencia en la definición de los productos y contratos financieros y, en fin, una supervisión más atenta
+al riesgo y al nivel de endeudamiento.
+Las exigencias de mayor capital reducirán la rentabilidad de las entidades
+financieras, por ejemplo, un incremento del 30% bajará la rentabilidad sobre el capital alrededor del 25%. Obviamente tal circunstancia conducirá a una gestión que
+tienda a mejorar los márgenes y a reducir los costes. El Comité de Supervisión Bancaria de Basilea (BCBS) ha analizado en dos documentos independientes los efectos a largo y corto plazo de una mayor exigencia de capital. De acuerdo con ellos,
+el coste a largo plazo será insignificante, sin embargo, el coste a corto plazo puede
+ser relevante en países con un nivel de deterioro económico mayor e instituciones
+claramente infracapitalizadas. Con objeto de hacer llevadera esta situación los períodos transitorios para adaptarse a las nuevas normas serán relativamente largos.
+Requerimientos adicionales se están también analizando para las entidades
+grandes que son potencialmente sistémicas, aquellas que son demasiado grandes
+
+351
+
+
+
+para dejar caer (too big to fail). En este caso se aumentan los requisitos de capital,
+y se establecen ciertos límites al desarrollo de su actividad, retomando en parte la
+Glass Steagall Act, que separaba la banca comercial de la banca de inversiones. Del
+Reino Unido ha surgido la idea de que este tipo de entidades deben disponer de
+un testamento en vida (living will) que permita, en su caso, acelerar el proceso de
+liquidación con objeto de minimizar su impacto en el sistema. Existen estudios
+recientes que cuantifican las ventajas competitivas de estas instituciones medidas en
+términos de su coste de financiación, que es de 20 a 65 puntos básicos menor que
+sus competidoras. Ventajas derivadas del riesgo moral que entraña el hecho de que
+dado su tamaño no pueden dejarse quebrar.
+En cuanto al papel de las agencias de calificación de riesgos en la actual
+crisis financiera, ya hemos señalado su rotunda falta de acierto en las evaluaciones
+de riesgo emitidas tanto para empresas como para gran variedad de instrumentos
+financieros. No es ésta una situación nueva, ya que ni en la pasada crisis asiática,
+ni en llamativos casos anteriores, como Enron y WorldCom, habían mostrado mayor
+acierto. En estas situaciones se tiene la impresión de que en lugar de haber actuado
+como indicadores de adelanto simplemente han constatado, tarde y mal, las calificaciones que el mercado ya había dictaminado.
+Cuando John Moody publicó en 1909 un exhaustivo manual calificando la
+deuda de las compañías de ferrocarriles tuvo un gran éxito, que también alcanzaron Henry Poor, en su trabajo a partir de 1916, y la Standard Statistics Bureau, a
+partir de 1922. Éstas dos últimas iniciativas se fusionaron en 1941 para crear la actual
+Standard & Poor’s. En el año 1924 nació la tercera de la tres grandes: Fitch Ratings
+Ltd. Las tres agencias de calificación surgieron en un entorno competitivo y en el
+que, desde luego, obtenían beneficios, puesto que la información que proporcionaban a los inversores superaba en valor el precio que tenían que pagar por ella.
+Este comportamiento inicial en el que los inversores, o beneficiarios directos, eran
+quienes pagaban por la información quedó obsoleto a partir del momento en que
+los bajos costes de su reproducción y difusión lo hicieron inviable. Desde entonces
+se generalizó que fueran los agentes emisores de productos financieros, en lugar de
+los potenciales inversores, los que paguen por ser calificados.
+El posible conflicto de intereses derivado de que sean las propias entidades financieras evaluadas, o los productos financieros por ellas emitidos, quienes
+pagan a las agencias que realizan las calificaciones surge como consecuencia de que
+los emisores no están tan interesados en una calificación objetiva como lo estaban
+los inversores, más bien están interesados, exclusivamente, en tener la mejor calificación posible. Dada esta situación, la natural competencia entre las agencias
+tiende a proporcionar calificaciones sobrevaloradas. Puesto que la reputación es el
+principal activo con el que cuentan estas agencias, la tendencia a la sobrevaloración
+queda en la práctica limitada por la necesidad de continuar manteniéndola, ya que
+
+352
+
+
+
+conseguir una alta reputación es un proceso largo y costoso y, de hecho, es la razón
+por la que es difícil que nuevas agencias se incorporen al mercado.
+Sin embargo, este posible conflicto de intereses se ha visto amplificado
+notablemente en el caso del mercado de los productos estructurados, que estuvieron en el origen de la crisis, ya que representaba una parte muy significativa de los
+ingresos de las agencias. Prueba de ello es que el mercado de los CDO llegó a estar
+concentrado en seis o siete emisores y, además, solamente él terminó aportando el
+50% de los ingresos de las agencias de rating. Dos razones adicionales ha habido
+para la infravaloración del riesgo. La primera es la complejidad y opacidad de los
+modelos utilizados en el proceso de valoración, la segunda es la deficiente información que tenían sobre la calidad de los prestatarios y de los procesos de concesión de créditos.
+Además de su actividad como intermediarias de información, las agencias
+han pasado a desempeñar un papel muy relevante en la actividad de la regulación
+financiera de la mayor parte de los países con sistemas financieros desarrollados. El
+proceso regulatorio utiliza sus calificaciones en aspectos tales como las limitaciones
+que impone a determinados inversores institucionales respecto al tipo de productos que pueden seleccionar para sus carteras, o en el cálculo de los ratios de capital que deben tener las instituciones financieras. También las agencias contribuyen
+al proceso de estandarización de las clasificaciones de riesgo, a las que por otra
+parte se les asigna una excesiva fiabilidad, dados los modelos que utilizan para estimar las probabilidades de incumplimiento.
+La estructura actual del mercado de calificaciones se debe básicamente a
+las dos características ya mencionadas: la exigible reputación, y el papel que juegan en la actividad regulatoria, a partir de la decisión que tomó la Securities and
+Exchange Commission (SEC) en el año 1974.
+Existe una indudable contradicción entre la importancia que estas calificaciones tienen en el proceso de regulación, en el que alcanzan un valor oficial, y las
+manifestaciones de las propias agencias, que caracterizan sus calificaciones como
+meras opiniones, advirtiendo claramente en todos sus informes, que la información
+que proporcionan no debe fundamentar decisiones de inversión. Sorprendentemente, parecería que las autoridades regulatorias se fían más de las agencias de
+calificación que éstas de sí mismas. De hecho, en las reclamaciones judiciales de las
+que han sido objeto han invocado, con éxito por el momento, que sus calificaciones son simples opiniones, amparadas por la primera enmienda de la Constitución
+de EE UU, siempre que no vayan dirigidas a un grupo concreto de inversores.
+Como hemos señalado, esta determinante actividad se caracteriza por ser
+un oligopolio que obtiene sus ingresos vendiendo las calificaciones de agentes y
+
+353
+
+
+
+productos con objeto de reducir la asimetría de información presente en los mercados financieros. Vemos, entonces, que esta actividad está estrechamente relacionada con dos de los fallos de mercado que surgen cuando la competencia no es perfecta y cuando la información es imperfecta. Es, por tanto, una actividad cuya
+posible regulación tiene que ser analizada con el propósito de fomentar la competencia, garantizar la calidad y transparencia de las calificaciones, y evitar posibles
+conflictos de interés.
+En mi opinión, si algo ha caracterizado a la regulación y supervisión financiera en España ha sido la falta de mecanismos para intervenir con rapidez en aquellas situaciones que claramente lo requerían, en lugar de esperar al deterioro de los
+balances y a la disminución de sus recursos propios. Este tipo de situación se ha
+dado singularmente en las cajas de ahorros, y ha podido estar propiciada por las
+competencias que sobre ellas tienen las Comunidades Autónomas. Hay que recordar que al amparo del artículo 149.1.11.ª de nuestra Constitución corresponde al
+Estado su regulación básica, y las Comunidades Autónomas deben encargarse de
+desarrollar y ejecutar esta ordenación. En la práctica este reparto de competencias
+ha dificultado el desarrollo normativo en algunas Comunidades y, además, ha sido
+objeto de reiterados conflictos que han requerido, casi con carácter de generalidad,
+la intervención del Tribunal Constitucional. Estos conflictos se han centrado en la
+cuestión de si las competencias para llevar a cabo la ordenación de un sinfín de
+aspectos concretos lo son del Estado o de las Comunidades Autónomas.
+Probablemente, como consecuencia de estos potenciales conflictos, desde
+el comienzo de la crisis la actuación de la autoridad reguladora se ha caracterizado
+por un conjunto de medidas fragmentarias y espaciadas en el tiempo. Con frecuencia esta forma de proceder en materia financiera retrasa y encarece la solución de
+los problemas. Un breve resumen del proceso, hasta la fecha, es el siguiente.
+Se empezó a finales de 2008 con el reforzamiento de la garantía de los
+depósitos bancarios, elevándola a 100.000 euros, en las situaciones que contempla
+el Real Decreto 2606/1996, de 20 de diciembre, sobre Fondos de Garantía de Depósitos de Entidades de Crédito.
+A continuación se creó, en octubre de 2008, el Fondo para la Adquisición
+de Activos Financieros (FAAF), con la finalidad de apoyar la oferta de crédito a la
+actividad productiva de empresas y a los particulares, de acuerdo con el Real
+Decreto-ley 6/2008. Este fondo está administrado, gestionado y dirigido por el Ministerio de Economía y Hacienda, y contó con una aportación inicial de 30.000 millones de euros, ampliables hasta 50.000 millones de euros, para adquirir de las entidades de crédito, con criterios de mercado, activos de máxima calidad, primando
+los respaldados por nuevo crédito, con el propósito de garantizar que la financiación llegue a empresas y ciudadanos.
+
+354
+
+
+
+A mediados de 2009 se creó el Fondo de Reestructuración Ordenada Bancaria (FROB) por el Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración
+bancaria y reforzamiento de los recursos propios de las entidades de crédito. Tiene
+por objeto gestionar los procesos de reestructuración de entidades de crédito y contribuir a reforzar los recursos propios de las mismas, en los términos establecidos
+en dicho real decreto-ley.
+Un año más tarde vio la luz el Real Decreto-ley 11/2010, de 9 de julio, de
+órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros.
+También en julio de 2010, y después de 11.559 millones de euros de ayudas públicas procedentes del FROB, se dieron a conocer los resultados de los test de estrés
+de las instituciones financieras. Cómo van a poder devolver estas ayudas en el actual
+entorno de competitividad del sistema financiero, sujeto a una notable contracción,
+no es una cuestión menor.
+Finalmente, a comienzos de 2011 se publicó el Real Decreto-ley 2/2011, de
+18 de febrero, para el Reforzamiento del Sistema Financiero, a la vez que se señalaban aquellas entidades financieras que deben aumentar otra vez su capital, y se
+anunciaban unos nuevos test de estrés de ámbito europeo. Esta última regulación,
+entre otras cosas, modifica el Real Decreto-ley 9/2009 que había creado el FROB,
+da una original definición de capital principal, modifica el texto refundido de la Ley
+del Impuesto sobre Sociedades y señala un calendario para el cumplimiento de los
+nuevos requisitos de capital, de tal manera que el límite máximo para que las instituciones financieras se recapitalicen, básicamente las cajas, es el 30 de septiembre
+de 2011, si bien aquellas cajas que tengan previsto salir a Bolsa pueden ver alargado
+este plazo hasta marzo de 2012.
+No cabe aquí entrar en un detenido análisis de cada uno de estos pasos
+dados por el regulador con el propósito de estabilizar nuestro sistema financiero,
+pero sí quizás resaltar, a título de ejemplo, algunas de sus contradicciones e incongruencias, seguramente derivadas del conflicto de competencias sobre las cajas de
+ahorros, al que hemos aludido. Por ejemplo, la modificación del FROB no es de
+carácter menor, ya que en poco más de año y medio pasó de ser prestamista a
+accionista. En un principio se dijo que la reestructuración no costaría dinero a los
+contribuyentes porque los préstamos devengarían un interés del 7,75% (el primer
+año, y un 8,25% a partir del segundo año), y puesto que el Estado se financia a tipos
+sustancialmente menores la operación incluso generaría beneficios. Hoy se reconoce
+un déficit adicional de capital de 15.152 millones de euros, que se cubrirá saliendo
+a los mercados o recurriendo al FROB, en cuyo caso las entidades serán parcialmente nacionalizadas y el FROB nombrará administradores. Por otra parte, la definición de capital principal que se ha elegido es bastante más laxa que la contemplada en Basilea III, de tal manera que no se cumple el objetivo principal de
+armonización de los requisitos de capital a escala global. En esta situación, difícil-
+
+355
+
+
+
+mente se puede afirmar, como se está haciendo, que el real decreto-ley contempla
+condiciones más estrictas que Basilea III. En mi opinión, decisiones de esta naturaleza infunden poca confianza en los mercados que, por otra parte, con carácter
+general, ya consideran que las necesidades de capital son sustancialmente mayores,
+y sus estimaciones llegan a alcanzar la cifra de 50.000 millones de euros. Además,
+es importante recalcar que, en contra de lo que estas normas pueden sugerir, la
+solvencia de una institución financiera no depende solamente de su nivel de capital en un instante de tiempo dado, sino también, y sobre todo, de la calidad de su
+balance y de la capacidad de generar futuros beneficios. Y aquí es, precisamente,
+donde existen todo tipo de interrogantes, y no es de extrañar ya que como poco el
+30% de su activo está en el sector de la construcción y promoción inmobiliaria.
+Una cierta confusión tiene que causar necesariamente que las distintas
+modificaciones de su régimen jurídico hayan conducido a la posibilidad de definir
+una decena de formas distintas para el gobierno corporativo de las cajas. Al desconocimiento que sobre el sector tienen los posibles inversores, dada su falta de contrastación en el pasado con el mercado, este complejo y variado mundo que suponen las distintas combinaciones de formas jurídicas y de derechos de propiedad
+que pueden adoptarse, complica sobremanera la clarificación de esta mitad de nuestro sistema financiero. Serán muy difíciles de despejar las incógnitas sobre el futuro
+gobierno corporativo de las cajas cuando el propósito de sus actuales órganos de
+gobierno es seguir manteniendo la mayoría o, en todo caso, una influencia determinante. En mi opinión, sigue posponiéndose, una vez más, lo que aquí sugerí
+hace catorce años: una clara definición jurídica y de derechos de propiedad para la
+actividad financiera de las cajas.
+Han pasado dos años y medio desde el comienzo de las crisis y las entidades que han sido intervenidas o apoyadas en EE UU y en la UE ya se están recuperando y algunas de ellas están en situación de devolver los préstamos; mientras
+tanto el Estado español se apresta a entrar en el capital de las cajas en un plazo que,
+en un principio, se ha fijado en septiembre de 2012. Aún no tenemos definidos los
+planes de reestructuración de las cajas de ahorro y existe un claro déficit de información en este proceso. El mercado tiene la impresión de que los planes de negocio que se están elaborando no son viables y, además, que hay un llamativo déficit en la calidad de los gestores y en los procedimientos de gobierno corporativo.
+Nos hemos estado engañando, innecesariamente, en estos dos últimos años sobre
+la pretendida fortaleza de nuestro sistema financiero y, pese a los avances realizados, en cierta medida aún lo estamos haciendo.
+Por ejemplo, el pasado 13 de abril la Confederación Española de las Cajas
+de Ahorros (CECA), publicó la cuenta de resultados agregada del sector con unos
+beneficios en el año 2010 de 3.403 millones de euros, diciendo que el peor resultado de los últimos diez años. Pero lo cierto es que el resultado es bastante peor, y
+
+356
+
+
+
+para ello no hay que hacer grandes ejercicios de auditoría financiera. En efecto, si
+se consulta en la página web de la CNMV el Informe financiero de la mayor caja que
+participa en el actual proceso de fusiones, correspondiente al ejercicio de 2010, se
+observa una variación negativa en los fondos propios de 4.010 millones de euros,
+pese a que el Banco de España autorizó registrar unos beneficios aparentes de 180
+millones de euros, probablemente para poder pagar los intereses de las participaciones preferentes, y poder asegurar así, en la práctica, estos pasivos híbridos que
+computan como capital, con el problema de riesgo moral que comporta. Pues bien,
+si se pasaran esos 4.010 millones de euros por la cuenta de resultados, como hicieron todas las instituciones comparables, aparecerían unas pérdidas superiores a los
+3.500 millones de euros, lo que equivaldría a que el conjunto de las cajas de ahorros habrían tenido pérdidas en 2010 en lugar de los 3.403 millones de euros de
+beneficio que oficialmente se han declarado. La simple contabilización ortodoxa de
+las pérdidas en una de las cajas, modifica de manera drástica el panorama que se
+pretende dar del sector, y eso sin tener en cuenta situaciones análogas que, se están
+produciendo en alguna otra entidad, por ejemplo, en la segunda de las cajas que
+participa en el mencionado proceso de fusión. En este caso, la información hecha
+pública en la página de la CNMV pone de manifiesto, para el ejercicio 2010, una
+variación negativa de sus fondos propios de 2.451 millones euros, pese a que se le
+ha autorizado hacer públicos beneficios por un importe de 102 millones de euros.
+Pero, con todo, lo más grave no es ocultar mediante artificios contables miles de
+millones de euros de pérdidas en el sector, sino evitar poner claramente de manifiesto su incapacidad para generar beneficios futuros de carácter recurrente. En definitiva, en todo este proceso se están planteando escenarios que rayan lo imposible
+y, por consiguiente, no son creíbles.
+Por otra parte, es fácil entender la percepción que los ciudadanos tienen
+de que las ingentes ayudas recibidas por determinadas cajas de ahorros, no son
+exclusivamente un apoyo a la estabilidad del sistema financiero en su conjunto,
+sino que son también un apoyo a la continuidad de sus altos directivos y miembros
+de los órganos de gobierno, que fueron los responsables no solo de una pésima gestión, sino también, y en llamativos casos, de comportamientos fraudulentos. No es
+sencillo explicar la permanencia, de unos y otros, en sus puestos una vez que han
+recibido ayudas públicas.
+
+357
+
+
+
+

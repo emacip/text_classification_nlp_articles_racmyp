@@ -1,0 +1,956 @@
+M O D O S D E C A P T A C IÓ N
+D E L O S V A L O R E S ¿ IN T U IC IÓ N E ID É T IC A
+O A B S T R A C C IÓ N P O R D IV IS IÓ N O
+R E P R E S E N T A C IÓ N ? Y S U C O N C R E C IÓ N *
+P o r e l A c a d é m ic o d e N ú m e ro
+E x c m o . Sr. D . J u a n V a lle t d e G o y tis o lo * *
+
+SIGNIFICADO DE LA PALABRA VALOR
+La palabra valor, en el sentido que ha venido a tener en el proceso
+producido desde el formalismo neokantiano a la fenomenología, al retorno a la
+naturaleza de la cosa y la jurisprudencia estimativa, no tiene correspondencia li­
+teral latina en los derivados del verbo valere. Esta concordancia debe buscarse
+en el sentido de las palabras qu alitas y virtus1 y eñ el contenido de lo significa­
+do por el calificativo bonum. Este — según Santo Tomás d e A quino2— se divide
+en diez categorías, pero, a tenor de su propio concepto, principalmente incluye
+lo honesto, lo deleitoso y lo útil, si bien ante todo la razón del bien conviene a lo
+honesto.
+
+* Antes de comenzar esta comunicación debo advertir que observo este tema — como
+todos los que trato, cualquiera que sea su materia— com o jurista práctico que soy, por
+lo cual, mi perspectiva es necesariamente muy diferente de la qu tiene quien lo exami­
+na sólo teóricamente o bien con finalidad pedagógica o educativa, tratando de promo­
+ver valores. Mi perspectiva se circunscribe a enjuiciar con módulos valorativos de justi­
+cia. Es decir, trato de la utilización jurídica de los valores, que, de por si, ha constituido
+un notable avance, respecto del positivismo totalmente imperante en el siglo XIX, que
+debemos agradecer a la fenomenología, primero, y a la Wertungsjurisprudenz, después.
+** Ponencia no presentada oralm ente.
+1 Cfr. Ju a n Iglesias, Al encuentro de lo romano, 3, 2, en «Roma, Claves históricas*, Ma­
+drid, Publicaciones del Sem inario de la Facultad de D erecho, Universidad Com ­
+plutense de Madrid, 1985, pp. 33 y ss.
+2 Santo Tomás de Aquino, S. Th., 1.a, 5, 6, resp., a d 1, ad 2 y a d 3.
+
+637
+
+
+
+La filosofía antigua y la medieval se ocupaban de esto al tratar de la
+doctrina del ser u ontología, a diferencia de la filosofía contemporánea, que lo
+considera tema independiente, desde que K an t redujo el mundo del ser al con­
+junto de fenómenos ligados entre sí por el principio causalidad, opuesto al reino
+del deber ser34.
+No he investigado el empleo de la palabra valor a través de la his­
+toria en el sentido antes acotado desde la fenomenología hasta hoy. Pero, de pa­
+sada, lo he visto utilizado por Hobbes* que, a tono con su nominalismo, lo em­
+plea en el sentido de estimación subjetiva por el sujeto valorante o de la estimación
+tácitamente efectuada por la comunidad.
+Aquí nos interesa centrarnos en el significado de la palabra valor en
+el contexto que nos ocupa.
+a) Recordemos que el concepto postkantiano de ciencia admitía
+en su seno únicamente a las ciencias naturales — con su legalidad corroborable
+experimentalmente— y a la lógica y la matemática, exceptuadas, por su «certe­
+za», del requisito de tener el método de las ciencias naturales. Por no ser sus­
+ceptibles de experimentación ni estar dotados de certeza, como las matemáti­
+cas y la lógica formal, no se adecuaban a estos requisitos las denominadas,
+después, ciencias del espíritu (lingüística, historia del arte, de la filosofía y de
+la literatura y, menos aún, la filosofía y la teología) y, entre ellas, el derecho en
+cuanto en él se viera algo más que normas positivas o no se le circunscribiera
+a ser sólo una rama de la sociología. La apertura de esta estrecha consideración
+de la ciencia comenzó por la introducción, por W in delban d y Rickert, del con­
+cepto de valor, para caracterizar las denominadas ciencias del espíritu o cien­
+cias culturales. Antes de ellos, ya H erm ann Lotze (1817-1881) había considera­
+do los valores, pretendiendo que no son sino valen. Y en esto le siguieron
+W in delban d y Rikert.
+W erner W in delband (1848-1915) fue el fundador de la Escuela de
+Badén, cuna del neokantismo alemán sudoccidental, que fundamentó la teoría de
+los saberes según los valores, como realidades conciencíales calificadoras de las
+
+3 Cfr. Alfred Verdross, La filosofía del derecho del mundo occidentalXXlV, 4, ed., Mé­
+xico U.N.A.M. 19873 p. 308, a quien sigo principalm ente en esta introducción.
+4 Thomas Hobbes, Leviathan, cap. X, párrafo 16, donde dice que -el v a lo r o la im­
+
+portan cia [de una persona], com o de todo otro objeto, su precio, es decir, lo que
+se daría por disponer de su poder-, «no es una grandeza absoluta, sino algo que de­
+pende de la necesidad o del juicio de alguien-.
+
+638
+
+
+
+cosas. Conforme el formalismo gnoseológico kantiano entendió que la concien­
+cia capta los valores según los contenidos culturales de cada época.
+H einrich R ickert (1863-1936), en su obra Los lím ites d e la fo rm a c ió n
+cien tífico-n atu ral d e los conceptos (1902), enlazó con las ideas expuestas antes
+por W indelband, investigando las bases teórico-cognoscitivas y metodológicas,
+primero de las ciencias históricas y, después, de las ciencias culturales, a las que
+devolvió su autoconciencia metódica frente a las primeras. Diferenció las cien­
+cias naturales y las ciencias culturales históricas, caracterizando éstas porque se
+ocupan no tanto de lo que se repite uniformemente cuanto de lo individualiza­
+do, como obra del espíritu de las personas individuales, es decir, los hechos y
+acontecimientos, que el historiador selecciona, valorándolos en su in dividu ali­
+dad. Lo mismo hace toda ciencia cultural con la serie de valores que cada una
+contempla.
+La primera aplicación al derecho de la filosofía de los valores en esa
+escuela postkantiana sudoccidental alemana fue efectuada por Em il Lask (18751915), en su R ecthtspbilosophie (1915), que ejerció enorme influencia en juristas
+posteriores, como Gustav R adbruch, Frita Münch, M axM ayery H erm ann Heller,
+y también influyó en la posterior superación de la obra de Stammler.
+La relatividad de los valores en esta concepción, y en especial en es­
+ta línea, resulta con mayor evidencia5 en Robert R eininger ( 1869-1955) y Víctor
+K raft (nacido en 1880), para quienes los valores «no nacen sino en el momento
+en que una persona o grupo de personas adoptan una posición determinada res­
+pecto de ciertos objetos», quiere decir, cuando los califican. Los valores presu­
+ponen la presencia de una persona valorante y de un objeto valorable, el cual,
+debido a ciertas cualidades que posee, es calificado positiva o negativamente por
+el sujeto valorante. Empero, consideradas en sí mismas, estas cualidades no cons­
+tituyen ningún valor, pues es únicamente en la relación entre el sujeto valorante
+y el objeto valorable donde adquieren categoría de valores.
+Sin embargo, como observa Verdross, para estos dos autores los va­
+lores no son de naturaleza puramente subjetiva sino que, según Reininger, ocu­
+rre, por una parte, que de «la generalidad de ciertas predisposiciones comunes a
+los hombres, de la semejante manera de ser, de las condiciones de vida y de la
+comunidad de destino de grandes núcleos urbanos», se desprenden ciertas ma­
+neras de valorar comunes, creadoras de una validez supra individual, si bien con­
+
+5 Alfred Verdross, op. cit., pp. 309 y ss.
+
+639
+
+
+
+dicionada, de determinados valores; y, de otra parte, el hombre se encuentra al
+nacer con un sistema preestablecido de valores, que se erige en juez de las va­
+loraciones de cada persona, de modo que en el seno de las comunidades huma­
+nas se forman círculos valorativos más o menos amplios. Esta doctrina apriorística de los valores la combina K raft con una concepción empírica de la misma;
+pues, ciertas valoraciones, previamente dadas por supuestas, pueden, revelarse
+adecuadas o inadecuadas, y porque de la organización social de los hombres se
+desprenden determinadas valoraciones con necesidad absoluta, y, entre ellas, la
+del orden jurídico, que es un valor, como instrumento de actualización de los va­
+lores que deriven de la organización social. Pero aquí — concluye Verdross—, la
+tesis de Kraft, no descansa en una concepción metafísica, sino «en una hipótesis:
+los valores p resu pon en que la voluntad de lograr una vida humana integral es,
+ella misma, un valor».
+b) La fenomenología trajo otra concepción de los valores, que tu­
+vo su precedente, en siglo pasado, en el austríaco F ran z B ren tan o (1836-1917),
+quien — como he explicado Elias d e T ejada6— trató de escapar al dilema entre
+los extremismos del positivism o científico, que rechaza la experiencia interior, y
+del p ostu lad o idalista, según el cual la razón dicta sus leyes a la naturaleza me­
+diante una psicología descriptiva referida a los fenómenos de la conciencia, una
+vez purificada de influjos fisiológicos y genéticos. Entre las representaciones ob­
+tenidas con su método se hallan los ju ic io s valorativos.
+Discípulo de B ren tan o fue Husserl (1859-1938). Según él, la filoso­
+fía no debe partir de la experiencia sino de las evidencias apodictícas, captadas
+por intuición eid ética depu radora, entre las que se hallan las esen ciales y los v a­
+lores y no —como creía K ant— sólo las formas.
+Creo que aquí viene como anillo al dedo traer a colación un ensayo
+de un admirado y estimadísimo compañero, académico de esta casa, LeopoldoEulogio P ala cios1. En ese ensayo, descubre «una analogía de proporcionalidad
+entre la «ideología pura» de B alm es y la «fenomenología pura» de Husserl. La de
+B alm es pensada para impugnar el empirismo y el sensualismo del siglo xvm, y la
+de Husserl para impugnar el empirismo y el psicologismo del siglo xix. Ambos,
+para ello, se pusieron en el terreno del adversario y, ya en él, el primero aceptó 6
+
+6 Francisco Elias de Tejada, Tratado de filosofía del derecho, vol. I, Sevilla, Univer­
+sidad Hispalense 19, lee. 5.a glosa 34, p. 312 y ss.
+
+1 Leopoldo Eulogio Palacios, Ideología pu ra y fenom enología (De Balmes a Husserl),
+en El ju icio y el ingenio y otros ensayos, Madrid, Ed. Prensa Española 1967, p. 185
+y ss.
+
+640
+
+
+
+la ciencia fundamental del siglo xvm, «la ideología, pero con el calificativo de “pu­
+ra”-; y, el segundo, aceptó que la ciencia es fenomenológica, pero, también, «con
+el calificativo de “pura”».
+Creía L.E. P ala cios8 que B alm es tuvo clara conciencia de lo que sig­
+nificaba llamar a las ideas fenómenos no sensibles y constituir «una ciencia es­
+pecial dedicada al estudio del orden de los fenómenos no sensibles, que B alm es
+bautizó con el nombre, grandemente revelador, de ideología pu ra, relegando a
+otra ciencia, la estética, el estudio de los fenómenos sensibles».
+A la par, observaría el mismo L. E. P ala cios9: «Los positivistas con­
+funden lo dado con los fenómenos físicos o psíquicos. Husserl, sigue de verdad
+el procedimiento invocado por los positivistas titulares, y descubre que hay otra
+clase de fenómenos que ya no son sensibles, ni psíquicos ni físicos: las esencias,
+ofrecidas ellas mismas a nuestra conciencia como fenómenos, pero no como fe­
+nómenos sensibles sino puros.
+«Para Balm es, las ideas al igual que las sensaciones, se ofrecían a la
+conciencia como fenómenos: unos eran sensibles, otros no sensibles o puros. Pa­
+ra Husserl las esencias, al igual que los hechos, se dan en la conciencia como fe­
+nómenos, si bien todo su empeño consiste en diferenciar unos de otros, por su
+carácter sensible y no sensible».
+Y sigue explicando10: «B alm es admitió la ideología, disciplina del si­
+glo xvm de origen empirista; Husserl, acepto la fenomenología, designación del
+siglo xix, para una ciencia que no trascendía de los fenómenos. Pero, ambos des­
+cubrieron que los fenómenos sensibles no agotan la esfera de lo dado intuitiva­
+mente; que había por encima de ellos fenómenos puros y que, por tanto, debían
+guardar la denominación de ideología y de fenomenología, respectivamente, por
+cuanto su ciencia trataba, como la de los empiristas, de fenómenos; pero que de­
+bían extenderla a un orden de fenómenos irreductibles al cultivado por éstos, y
+llamarlos entonces ideología pura y fenomenología pura».
+No obstante lo expuesto, L.E. P a la cio s11 concluyó por observar que
+veía «una dificultad no pequeña en el uso que se hace [por B alm es y HusserlI de
+
+» Ibid, III, p. 193.
+9 Ibid, V, p. 200.
+10 Ibid, VI, p. 201.
+11 Ibid, pp. 203 y s.
+
+641
+
+
+
+la palabra fenómeno»; pues, entendía «que los fenómenos dados a la intuición son
+todos físicos o psíquicos. No hay, hablando con propiedad, un orden de fenó­
+menos que, sin ser superiores a los sensibles, sean distintos, esto es, sean otra
+clase de fenómenos». Y, por ello, creía que el uso «desmesurado» de la palabra fe­
+nómenos «en un contexto filosófico conduce a las mayores confusiones, y acaso
+es hoy la causa del marasmo en que yacé la metafísica, y de las vacilaciones de
+ésta ante los ataques de neopositivismo.
+«Tampoco es lícito este uso cuando se trata de objetos que son re­
+presentaciones intuibles, aunque no sean ni fenómenos físicos y psíquicos ni con­
+ceptos abstractos. Es lo que sucede con las ideas (platónicas), que a diferencia
+de los conceptos dados por abstracción, son intuibles, pero no por eso puede lla­
+marse fenómenos».
+Husserl, para captar los valores, aplica primero la reducción fenominelógica, o suspensión, o sea el «poner entre paréntesis», todo lo que, en el conte­
+nido de la conciencia, se refiere al sujeto psicológico y a la existencia individual
+(exclusión de toda costumbre, de todo dato de hecho, de cuanto impide captar la
+esencia, el fundamento sólido de toda ciencia); y, después, con la reducción tras­
+cen den tal pone entre paréntesis lo que no es correlativo a la pura conciencia, pa­
+ra descubrir la condición que hace posible el efectuarse de todas las esencias1213.
+El penúltimo Husserl estimó que, para entender o comprender, de­
+bía atenderse no sólo a una específica figura o estructura (Gestad, patterrí) sino
+también a su carácter in ten cion al o entendimiento dirigido a un objeto con re­
+ferencia a un presupuesto de valor en él representado, o por lo menos implícito
+que constituye la forma interior. B etti13 extrajo de ahí la idea de que la com­
+prensión requiere la mutua identificación de espíritu acerca de esta intencionali­
+dad entre autor e intérprete en la dirección de una objetividad en el entendi­
+miento. Pero este último Husserl también entendería que la reflexión trascendental
+está obligada a pensarse a sí misma como circundada por el mundo vital14; y esa
+otra orientación la profundizaría Heidegger.
+La subjetividad, dominante en el idealismo fenomenológico de Hus­
+serl, fue superada por el objetivismo ético de M ax S cbeler ( 1874-1928), según el
+
+12 Cfr. Michele Federico Sciacca, La filosofía hoy, cap. IV, 4 .a ed. en castellano, Ma­
+drid, Escelicer 1973, vol I, pp. 223 y ss.
+13 Emilio Betti, Teoría generale de la interpretazione, Milán, Guiffré 1990, vol I, 9, pp.
+205-224.
+14 Cfr. P au l Ricoeur, Du texte a l ’action, Paris, Ed. du Sueil 1986, vol II, III, II,
+pp. 288-302.
+
+642
+
+
+
+cual existe un mundo objetivo de valores o esen cias en la vida real, que se cap­
+tan por intuición emocional. Sin embargo, S cheler15 advierte que los «valores no
+están dados en nosotros mismos ni nunca lo estuvieron»; el yo «es objeto de la
+ciencia del valor, no empero su punto esencial y necesario de partida. Por lo mis­
+mo, se desmoronan con esto todas las teorías que reducen los valores a un «de­
+ber trascendental», a una «necesidad» íntima y sentimentalmente percibida, e igual­
+mente las que reducen el valor moral a los «predicados» de la «conciencia moral».
+Así como la existencia de objetos (por ejemplo, los números) o la naturaleza no
+supone un «yo», mucho menos lo supone el ser de los valores. En ese sentido he­
+mos de rechazar también la subjetividad de los valores». Además de existir en el
+hombre y en los animales, los valores «existen en la naturaleza — prescindiendo
+de su aprehensión».
+En ciertos aspectos parece que S cheler16 retorna a Aristóteles: pero
+—como dice él mismo— , ambos presentan una diferencia metódica fundamen­
+tal. El Estagirita, como el A quinatense, abstrajo el universal del ser de las cosas;
+no así Scheler, que por intuición emocional capta sólo su valor. De ahí, la razón
+por lo cual la tesis de éste carece de una ordenación objetiva y concreta de los
+valores que sirva para la determinación del derecho151617*.
+N ikolai H artm ann (1822-1950) efectuó un intento de jerarquizar los
+valores, con su ontología — que es fenomenológica en tanto histórica, pero no
+metafísica— , pero tampoco alcanzó una solución apta para conseguir un resul­
+tado útil para las aplicaciones concretas a las realidades prácticas, debido, sin du­
+da, a la naturaleza idealista de su axiología.
+Estas dificultades significaron el agotamiento de las posibilidades de
+la fenomenología en el campo del derecho. Sin embargo, es de destacar la evi­
+dente repercusión que ella ha tenido en la metodología de la determinación del
+derecho y en la hermenéutica en general.
+W ieacker18 ha destacado, entre los intentos realizados para superar
+el formalismo ético, la ética material valorativa, de M ax Scheler y N ikolai Hart-
+
+15 Max Scheler, Ética, Nuevo ensayo de fu n dam en tación de un personalism o ético,
+versión en castellano de la 3.a ed. alem ana, Madrid, Rev. de O ccidente, 1941, sec.
+V, cap. I, 3-6, pp. 37 y ss.
+16 Ibid, Prólogo, a la 3 a ed., p. 22.
+17 Cfr. mi Metodología d e la determ inación del derecho, vol I, Madrid, Centro Cultu­
+ral Ramón A reces 1994, 316, pp. 1196 y ss.
+
+Franz Wieacker, Historia del derecho privado en la Edad Moderna, 30, 3, loe. cfr.
+ed. en castellano, Aguilar 1957, pp. 528 y s.
+
+643
+
+
+
+m ann, que influye notablemente en la teoría del derecho — además de incidir so­
+bre la teología moral — gracias a la crítica de Erich K au fm an n al neokantismo.
+De aquéllos dos filósofos dice el propio W ieacker que «definen la realidad de la
+idea del derecho como realidad de un valor», que, «como tal, es “contenido, ma­
+teria y estructura, un q u ale específico en las cosas, relaciones o preformas” (H artm ann, 121); y, por cierto, como la realidad de un valor absoluto, en cuyas “moda­
+lidades de valor”, Scheler (D er Form alism us in d er Ethik) ve también el a p riori
+material del conocimiento del derecho. Con lo cual ha logrado alcanzar, como
+esencia de la justicia personal, el conocimiento valorativo de la persona en el de­
+recho, esto es, la conciencia del derecho».
+Pero ya antes de influir efectivamente en el derecho, el pensamien­
+to del último Husserl había repercutido también en la hermenéutica general en
+dos direcciones contrapuestas entre sí, la de H eideggery tras él, la de G adam er,
+de una parte, y la de Em ilio Betti, de otra, como hemos indicado antes.
+Martín H eidegger de la atm ósfera vivencial de Husserl pasó a ceñir­
+se a lo ex isten cial co n d icio n a d o a l «estar ahí», y al «ver entorno- con «a cceso a lo
+real-, interesado por las «cosas mismas-, que le llevó a la filo s o fía d el len g u aje19.
+En esa línea hablaría G adam er del «lenguaje de las cosas»2021. Ambos fueron dura­
+mente criticados por Betti21, que les acusó de naturalismo y al primero de un ra­
+dical relativismo histórico limitado a la comunión del «estar ahí».
+A lo que atendía Betti22 es a la dialéctica: entre el espíritu personal
+y la atmósfera espiritual en la que se vive; entre el espíritu que objetiviza y aquél
+que la interpreta; y entre esta forma objetivizada y ambos espíritus; y tanto por
+lo que se refiere al autor como al intérprete. Esas atmósferas espirituales inclu­
+yen nociones, fines y valores.
+P au l Ricoeur, que trata de sobrepasar la hermenéutica de G adam er
+con su herm en éu tica crítica, en ésta, juntamente con las palabras, señales y sím­
+bolos, apreciados en su contexto real y en el cultural de autor e intérprete, toma
+en cuenta, en ese contexto cultural, ideas, sentimientos, aspiraciones y valores23.
+
+19 Martín Heidegger, El ser y el tiempo, 34, cfr. 8.a reim presión en castellano, M éxico,
+Fondo de Cultura Económ ica, 1991, pp. 179 y ss.
+20 H. G. Gadamer, La naturaleza de la cosa y el lenguaje de las cosas (1960) (reco gi­
+do en Verdad y método II; cfr. ed. castellano, Salam anca, Síguem e 1992, pp. 71-80.
+21 Emilio Betti, op. cit., vol I, cap. I, 2, pp. 104 y ss., y vol II, 10, b, pp. 241 y ss.
+22 Ibid, vol I, 4 c, pp. 136 y ss.
+23 Paul Ricoeur, op. cit. III, III, II, pp. 262 y ss.
+
+644
+
+
+
+En definitiva, R icoeur trata de fundir en el contexto real el contexto cultural, subsu­
+miendo éste en aquél, mientras el idealismo los sitúa en mundo separados.
+
+PENETRACION DE LOS VALORES EN EL CAMPO
+D EL DERECH O . EL D EFECTO D E LA RELATIVIDAD
+PO R SU FALTA EFECTIVA D E JERA RQ U IA
+Aparte del ensayo teórico de A d o lf R ein ach 24, que llevó a la ciencia
+del derecho la fenomenología husserliana de las esencias y los valores, conside­
+rados como objetos ideales, tan reales como las casas y los árboles, pero a los
+que no dió beligerancia para la determinación concreta del derecho, pues no
+abandonó el positivismo legalista25, la influencia de los valores y de la atmósfera
+valorativa en el campo del derecho, sobrepasando el positivismo legalista, la ha­
+llamos recogida en la década de los años veinte por Wilhelm Sauer, quien afir­
+mó26: que «derecho son las mónadas de valor que, dentro del Estado, se afanan
+por realizar y acercarse a la ley jurídica fundamental»; que «el sentido de toda nor­
+ma sólo se capta en su aplicación, y, como quiera que en cada objeto por juzgar,
+posee [la tendencia valorativa] carácter diverso, también la norma y, en general,
+el orden jurídico, adquieren diversidad de sentido en cada caso...».
+Gustaw R adbruch, en la última fase de su pensamiento, definió27: «El
+derecho es la realidad que tiene el sentido de servir al valor jurídico, a la idea del
+derecho». Como valores, además de la «idea del derecho» o justicia, señala: la «a d e ­
+cu ación a un fin o fin a lid a d - de «ord en ación a la vida com ú n », cómo «wn orden»-,
+y la «seg u rid ad ju r íd ic a ». Reconoce que no logra resolverse el problema de la
+concurrencia entre estos valores, aunque — según concluyó años después28—
+
+24 A dolf Reinach, Los fundam entos apriorísticos del derecho , ed. en castellano, Bar­
+celona, Libr. B osch, 1934.
+25 Cfr. mi Metodología y vol. I cits. 314, p. 1191.
+26 Wilhelm Sauer, Filosofía ju ríd ica y social, 36, II; cfr. en castellano, traducida y ano­
+tada por LegazLacam bra, Barcelona, Labor, 1933, pp. 238 y s.
+27 Gustar Radbruch, Filosofía del derecho, 4, cfr., 3.a ed. traducida al castellano, Ma­
+drid, Ed. R.D.P. 1952, p. 44.
+28 Ibid, Le but du droit, en An. del Institut de Ph. du Dr. 1937-1938, recogido en Pro­
+
+pedéu tica alie filosofía del diritto, ed. cuidada por Dino Passini, Torino, G. G iapechelli, ed. 1958, p. 117.
+
+645
+
+
+
+«cuando la injusticia del derecho positivo alcanza una tal medida que la certeza
+del derecho positivo ya no tiene más peso que esta injusticia, en tal caso, el de­
+recho positivo injusto debe ceder ante la justicia».
+El dualismo de Stammler, entre derecho positivo e idea del derecho,
+intentó superarlo R adbruch con su trialism o, efectuando un examen cultural de
+la realidad con referencia a los valores. «La consideración del valor y la conside­
+ración del ser — dice29, refiriéndose a la posición de Stam m ler— nos aparecen
+una junto a otra, como círculos independientes y cerrados. Esta es la esencia del
+du alism o m etódica>. Y añade en nota: «este dualismo metódico se entiende aquí
+en oposición al monismo metódico, pero incluyendo el trialismo metódico». A su
+juicio30, «frente a la naturaleza surge el reino de los valores, cuando el espíritu,
+en actitud valorativa consciente, alcanza consciencia de las medidas de esa esti­
+mación, sus normas y sus conexiones». Esa actitud valorativa, «proseguida de mo­
+do sistemático», caracteriza — dice— la filosofía de los valores en sus tres ramas:
+«lógica, ética y estética».
+A este respecto, observando realidad y valor, R adbru ch distingue
+cuatro actitudes: Dos estremas:
+— 1.a, la «ciega para el valor», y
+— 2.a, la «estimativa del valor».
+Y, entre ambas, «con función mediadora», de «modo diverso», otras dos:
+— 3.a, la que contiene «una referencia a valores»; y,
+— 4.a, la que constituye «una superación de los valores».
+La primera es la posición del etnólogo o la del historiador que sólo
+narra; la tercera es la del cultivador de las ciencias culturales. La que supera el
+valor es la religiosa31.
+«S tam m ler— dice R adbru ch32— cree poder separar de modo tajante
+el concepto del derecho de la idea del derecho, derivando el concepto del dere­
+cho sin referencia alguna a la idea del derecho. Ya hemos visto que ninguna obra
+
+29 Ibid, Filosofía del derecho, 2, 1, p. 14.
+3° Ibid, 1, p. 8.
+31 Ibid, pp. 9 y ss. donde explica estas cuatro posiciones.
+32 Ibid, 3, 8, pp. 38 y s.
+
+646
+
+
+
+humana puede ser comprendida sin relación a una idea; si ni siquiera una mesa,
+mucho menos el derecho». Por ello —-en contra de la oposición stammleriana en­
+tre el ser y el deber ser», que consideró «no puede satisfacerse con la existente
+entre realidad y valor»— estimó que, «entre juicio de realidad y juicio de valor»,
+«entre la naturaleza y el ideal», ha de tener su puesto «la cultura»: «la idea del de­
+recho es un valor, empero, el derecho es una manera referida a valores, un fe­
+nómeno cultural. De esta manera se realiza un tránsito del dualismo a un trialismo en los modos de consideración del derecho (cuando se hace caso omiso del
+cuarto, el religioso). Este tránsito convierte la filosofía del derecho en una filo­
+sofía cultural del derecho».
+Años después, Helmut Coing33 admitió «que la intelección moral no
+puede nunca despojarse totalmente de la vivencia subjetiva (pues esta vivencia
+es la única vía de acceso que tenemos para llegar al mundo de lo moral)» y, con­
+siguientemente, estima que «una proposición acerca del contenido de los valores
+morales no alcanzará nunca la exactitud del conocimiento científico-natural y que
+la importancia de la “ecuación personal” será siempre considerable». No obstan­
+te, lo cual, añade que «siempre será posible enunciar un grado de verdad sobre
+el contenido de los diferentes valores morales. En otro caso, sería completamen­
+te imposible e inimaginable una comprensión entre hombres, especialmente de
+diversas culturas». Pero, sigue considerando «inquietante fenómeno» que «en di­
+versos momentos de la historia y en diversas culturas encontremos diversos va­
+lores proclamados supremos, o el fenómeno de que, también en el mundo pre­
+sente, nos encontremos ante diversos valores que exigen que los sigamos poder
+satisfacerlos todos».
+No obstante advierte que los valores no son meros fenómenos de
+conciencia, sino que son independientes de la conciencia que los apresa34.
+También observa la dificultad de fijar la jerarquía de esos valores con
+criterio lógicos, y termina por creer en la imposibilidad de fijarlos35.
+El mismo36 presenta como dramática la lucha entre los valores de jus­
+ticia y de seguridad: «el derecho asegura por de pronto una situación existente.
+Esto estrecha el marco de la justicia. La justicia del derecho se mueve siempre en
+
+33 Helmut Coing, Fundamentos d e filosofía del derecho, II, I, 2, ed. en castellano, Bar­
+celona, Aries, 1961, p. 121 y s.
+34 Ibid, p. 120.
+33 Ibid, V, I, 3, p. 143.
+36 Ibid, p. 145.
+
+647
+
+
+
+el marco de un determinado marco del poder y de la propiedad, orden aceptado
+tal cual y cuya transformación en el sentido de las exigencias de la justicia tro­
+pieza siempre con tenaz resistencia. Aquí se abre el profundo abismo entre jus­
+ticia del derecho [positivo] y justicia social»... «La exigencia de justicia no descansa,
+mientras que, el orden social exige calma y tranquilidad»... «Siempre que la idea
+de equidad triunfa sobre el derecho estricto, la idea de justicia libre rompe las
+ataduras que le pone el orden de la seguridad. Cada vez que el derecho natural
+se levanta contra el orden positivo se lanza a la lucha contra las ataduras del rí­
+gido orden de paz social».
+Es de notar que Coing fue de los más notables propugnadores de re­
+tornar la atención a la N atur d er Sache, la naturaleza de la cosa; pero advirtió3738*
+que ésta «nos ofrece elementos de ordenación, pero no un orden como tal»; nos
+muestra que «la vida social no es upa masa plenamente informe, sino que tiene
+ya ciertas estructuras propias en las que tiene que basarse el orden jurídico. Pe­
+ro el reconocimiento de esas estructuras no nos exime de la tarea de intervenir
+nosotros mismos valorando y ordenando este mundo estructurado».
+Tal vez, ha sido H einrich H enkeliS uno de los juristas que mayor es­
+fuerzo ha hecho para encajar la contemplación y las estructuras valorativas en la
+vida del derecho. Después de examinar la teoría material de los valores de Scheler y H artm ann; el subjetivismo valorativo, que llega al nihilism o valorativo y,
+como reacción, a la vigencia fá c t ic a d e m odelos sociales d e comportamiento^9, ex­
+pone su propio punto de vista40, que atiende a: a) un sujeto valorativo, que los
+puede vivenciar; b) una ulterior relación esencial que «vincula el valor con un
+sustentador valorativo, pues los valores «tienen por “sustentador” al ser vivo», las
+cosas, las relaciones humanas, de modo que aparecen, p.e., en un paisaje, en una
+relación económica, es una obra de arte; c) una relación esencial de los valores
+con una situ ación d e la vida, pues los valores están referidos a la realidad, d) que
+al hombre, en base a la relación valorativa dada, toma decision es valorativas so­
+bre el ser valorativo o desvalorativo y sobre el orden jerárquico de valores; e) que
+se forman en cada grupo social unas relacion es valorativas típicas, supraindividuales, del collectivum, un sistem a d e valores y una jera rq u ía u orden colectivo
+d e valores dominante, que constituyen criterios para el enjuiciamiento del com­
+portamiento; y f) y que, junto a este orden de valores colectivo, que «no es “ab­
+
+37 Ihid, V, II, p. 159.
+38 Heinrich Henkel, Einführungin die, Rechtsphilosophie, §22, (1964); cfr. en castella­
+no, Introducción a la filosofía del derecho, Madrid, Taurus 1968, pp. 389-426.
+*> Ibid, II, pp. 401 y ss.
+40 Ibid, III, pp. 404 y ss.
+
+648
+
+
+
+soluto”» — pues viene determinado «para» el grupo «dentro de la situación vital de
+éste y con sus inabarcablemente variados entretegidos ontológicos»— tiene que
+actuar un fa c t o r real en la conviven cia hum ana.
+Con esta perspectiva trata H enkel de aproximarse a la relación valorativa d el d erech o 41, diferenciando: los orden es colectivos d e valores, en «un nú­
+mero inabarcable», profesionales, estamentales, de comunidades religiosas, aso­
+ciaciones de intereses, de estirpe, familiares, etc.; las unidades políticas
+representadas por los partidos; los que son estimados valores sociales y los no in­
+cluidos en ese orden, aunque lo estén en el orden moral. Ante este «inabarcable
+pluralismo de valores», H enkel plantea como puede surgir algo «tan comparati­
+vamente unitario» como es el orden social de valores, en una «superación par­
+cial» de ese pluralismo, y formar un acervo com ú n d e con ten idos valorativos. Re­
+conoce que no se trata, ni siquiera dentro de una sociedad, de un «sistema estático
+y “absoluto”»; pues se produce una m u tabilid ad d el orden so c ia l d e valores en la
+transform ación d el orden d e la sociedad. Por otra parte, advierte que «el orden
+social de valores básicos de la vida social no afecta al pluralismo valorativo existen­
+te en la sociedad», que requiere la toleran cia de su coexistencia, que a su vez se
+convierte en un valor que, se estima, debe ser garantizado por el derecho.
+Penetrando, en la relación d el orden socia l d e valores con el derecho,
+indica que en el d erech o constitucional se reflejan los valores p rin cip ales y rec­
+tores d e la so c ied a d y, con ellos, la orientación valorativa general, que se refleja
+de manera muy especial en el derecho penal en sus tipos delictivos.
+Las tareas que ha de cumplir el derecho respecto de los valores so­
+ciales, las considera muy diferenciadas, comenzando por reconocer que, en ge­
+neral, los con ten idos valorativos «le vienen ya previam en te d ad o s al derecho», pe­
+ro es cometido de quienes establecen el derecho «tomar determinadas decisiones
+donde el proceso social de controversia sobre lo común valorativo no ha queda­
+do cerrado aún o ha llegado a un resultado dudoso». En estos casos es preciso un
+p roceso crítico d e exam en y d e selección, aparte del cual corresponde al derecho
+una tarea de p rotección d e los valores sociales, con los medios adecuados pre­
+ventivos y represivos, y otra tarea de atribu ción y distribución d e bienes m ate­
+riales «como sustentadores de valores vitales y de utilidad», tanto legislativamen­
+te como en juicio.
+
+« Ibid, IV, pp. 409 y ss.
+« Ibid, V, 417 ss.
+
+649
+
+
+
+En fin, trata H enkel43 del m odo d e a c tu a r el orden social de valores,
+como fa c t o r real, en la fo rm a c ió n d el derecho, concretamente como «elemento de
+construcción p a r a el establecim ien to y la a p lica ción d el d erech o•. Es decir, de «la
+complejísima cuestión de cuáles son las modalidades de situaciones vitales y de
+comportamientos humanos y cuáles los medios jurídicos que pueden alcanzar la
+mejor satisfacción de los valores y el modo más efectivo de evitar los desvalores».
+Cómo es natural se le plantea el conflicto d e valores, ante el cual, ad­
+vierte que «la contemplación jurídica no puede tomar por base el orden jerárqui­
+co abstracto de los valores», que nunca podría justificar los estados de necesidad
+en las relaciones de obligaciones y deberes, y otros semejantes en los que deben
+ponderarse muchas circunstancias y grados de menoscabo. El que aplica el de­
+recho «puede atenerse por lo general, a las valoraciones positivadas en la ley, las
+cuales, si no son cognoscibles en base a la norma concreta aplicable, habrán de
+ser averiguadas, si ello es posible, en base a la conexión total de las valoracio­
+nes y criterios valorativos inmanentes al orden jurídico. Por ello, toda interpre­
+tación d e la ley, en una buena parte, es interpretación valorativa».
+H enkel, como vemos, se ha dado perfecta cuenta de que los crite­
+rios valorativos dependen del sujeto valorante, del objeto valorado (cosa, con­
+ducta, hecho), de los criterios valorativos sociales, con sus tipos valorativos, y de
+las circunstancias concretas subjetivas y objetivas del caso valorado. Pero, por esa
+conjunta dependencia de todos estos elementos que integran la naturaleza de las
+cosas y de la cosa de que se trata, creo yo, es preciso contemplar los valores en
+relación con la naturaleza de la cosa por mediación de la cual se enjuicia cada
+caso concreto con todas sus particularidades y circunstancias concurrentes. Creo
+que a H enkel le faltó aceptar esto para haber dado el paso decisivo que él esti­
+maba necesario y trató de dar, pero no lo dio por concebir separados Sein y Sollen.
+Un año después de publicado este libro de H. H enkel, apareció el
+que, acerca de la analogía, escribió A rthur K au fm an n 4344. Este estimó que la re­
+lación entre ser y deber ser es analógica o de correspondencia y, en ella, la na­
+turaleza de las cosas viene a ser un tertium mediador entre la idea — con la nor­
+ma que la expresa— y el hecho real, el topos entre el ser y deber ser, el punto
+metódico de unión entre realidad y valor. Concepción mediadora criticada por
+
+43 Ibid, VI, 420 y ss.
+44 Arthur Kaufm ann, Analogie und Natur d er Sache (1965); cfr. en castellano, A na­
+
+logía y naturaleza de la cosa, IV, cfr. en castellano, Santiago de Chile, Ed. Jurídica
+de Chile, 1976, pp. 80 y s.
+
+650
+
+
+
+J a n S chapp45 considerando que supone una separación entre lo que une, sien­
+do así que el mundo «nunca es un puro mundo de hechos sino siempre un mun­
+do de vida».
+En fin, para concluir ese repaso preliminar que hacemos, recordaré
+que, todavía, en la edición definitiva de su M ethodenlehere derR echtsw isen schaft
+(1979), K arlL a ren z46 se detuvo ante unas preguntas de Zippelius-. ¿«hasta qué pun­
+to puede hallarse una pauta objetiva también para las propias cuestiones de va­
+loración y dónde residen los límites tratándose de cuestiones de valoración en
+orden a una posible orientación a normas objetivas»?; ¿«...existe un orden de va­
+lores objetivos y un orden objetivo de valores, que son parte del mundo espiri­
+tual que nos es común? ¿De qué modo y hasta qué punto es cognoscible por no­
+sotros un tal orden de valores?» L aren z contesta — con el propio Zippelius— que
+«la pauta para las decisiones valorativas» se halla particularmente «en la moral ju­
+rídica dominante», en el «ethos jurídico vigente».
+¿Podemos, en nuestro campo, los juristas, aspirar a soluciones más
+objetivamente concretas? Este es el objeto de estas reflexiones.
+
+LA CAPTACIÓN DE LOS VALORES, APLICACIÓN
+A ELLA D E LA ABSTRACCIÓN OBTENIDA
+PO R EL MÉTODO REALISTA ARISTOTÉLICO-TOM ISTA,
+EN UN SEGUNDO PASO
+En mi comunicación del pasado año454647, traté de la abstracción integrativa del universal de las cosas, efectuada por el método realista aristotélico-tomista. Pero esta abstracción constituye, conforme este método, sólo un primer
+paso en el conocimiento intelectivo.
+
+45 Ja n Schapp, Problemas fu n dam en tales d e la metodología ju rídica, cfr. en portu­
+gués, Porto Allegre (Brasil), Sergio Antonio Faloris Ed. 1985, pp. 36 y s.
+46 Karl Larenz, Metodología d e la cien cia del derecho, 2.1 ed. definitiva I, V, 1, vers.
+en castellano, B arcelona, Ariel 1980, p. 145.
+47 En tom o a los modos de conocer y de explicar lo conocido y su reflejo en el razonar (abs­
+
+tracción integrativa y abstracción sustractiva), A.R.A.C.M. y P., 74, 1997, pp. 36-99.
+
+651
+
+
+
+Un segundo paso intelectual, permite abstraer, además, cantidades,
+cualidades, valores, causas y efectos, medios y fines, asencias y existencias, po­
+tencia y acto, ser, estar y devenir; y, de modo parecido, cabe captar los princi­
+pios de la razón teórica —mediante el intelectum prin cipioru m — y de la razón
+práctica —mediante el hábito de la synderesim.
+Es decir, por abstracción, además de obtener el conocimiento inte­
+lectivo directo de las cosas, alcanzamos en otros pasos un conocimiento reflejo
+de los entes que sólo son cognoscibles intelectualmente, así como el conocimiento
+del mismo acto de conocer. Veamos estos pasos subsiguientes, volviendo a em­
+pezar por el primero.
+Acerca de éste, el Estagirita48 escribió: «No está el en alma la piedra
+sino la imagen de la piedra»; y el A qu inatense4849, después de decir: «El objeto en­
+tendido no está por sí mismo en el entendimiento, sino por una representación
+suya», repitió la transcrita frase de Aristóteles y la explicó así: «Y, sin embargo, lo
+entendido es la piedra y no la imagen de la piedra si no es en acto reflejo del en­
+tendimiento sobre sí mismo; de lo contrario la ciencia no versaría sobre las cosas
+sino sobre las especies inteligibles».
+Después, el mismo Santo Tomás comenta que sí bien, según la doc­
+trina de Aristóteles50, «entre el entendimiento y el sentido existe la sola diferencia
+de que las cosas se sienten según la disposición individual [su singularidad! que
+tienen fuera del alma», advierte que, si bien «la naturaleza del objeto entendido
+está indudablemente fuera del alma, en cambio no tiene fuera de ella el modo de
+ser según es entendida; pues, lo que se entiende es la naturaleza común, exclui­
+dos los principios individuales, y fuera del alma no se tiene este modo de ser. En
+cambio, según la doctrina de Platón, los objetos que se entienden existen fuera
+del alma del mismo modo que son entendidos, pues afirmaba que las naturale­
+zas de las cosas están separadas de la materia».
+Vuelve a explicar el D octor com ún, más adelante51, que «el objeto
+propio del entendimiento humano, que está unido a un cuerpo, es la esencia o
+naturaleza existente en la materia corporal, y, mediante la naturaleza de las «co­
+sas visibles», alcanza algún conocimiento de las invisibles. Ahora bien, es esen­
+
+48 Aristóteles, De anim a, 3, 8, 2, (B k 341 b 29).
+49 Santo Tomás de Aquino, S. Th. 1.*, 76 2, a d 4 .
+50 Aristóteles, loe. ult. cit. 3, (B k . 432 a 2).
+51 Santo Tomás, S. Th. 1.a, 84, 7, resp.
+
+652
+
+
+
+cial a la naturaleza visible el existir en un individuo que no es tal sin materia cor­
+poral, como es esencial a la naturaleza de la piedra el existir en esta piedra, y a
+la del caballo en este caballo, etc. Por tanto, no se pueden conocer verdadera y
+completamente la naturaleza de la pidera o la de cualquier otro objeto material
+si no se le conoce como existente en concreto. Sin embargo, lo particular lo per­
+cibimos por los sentidos y por la imaginativa. Por esto, para que el entendimiento
+entienda en acto su objeto propio, es necesario que recurra a las imágenes de la
+imaginación — ad p b a n ta sm a ta — a fin de descubrir la naturaleza universal existen­
+te en un objeto singular».
+El conocimiento intelectivo de un objeto singular no se logra si men­
+talmente no lo situamos en nuestra imagen mental de su universal correspon­
+diente; pero, a su vez, este conocimiento intelectivo de cada singular concreto no
+es completo si no rellenamos esa imagen general con todas las particularidades
+que le caractericen.
+Después de estos conocimientos, avanzamos — en sucesivos pasos—
+y llegamos al conocimiento de las ideas y del mismo acto de entender, según re­
+fiere el mismo A qu in aten se5253: «El objeto del entendimiento es algo universal, el
+ser y la verdad, bajo el cual se incluye el mismo acto de entender, pudiéndose,
+por tanto, conocer también este acto. Pero no inmediatamente, porque el objeto
+primero de nuestro entendimiento, durante la vida presente, no es cualquier en­
+te o verdad, sino únicamente, como hemos dicho (84.7), el ser y la verdad con­
+siderados en las cosas materiales, a través de las cuales se llega al conocimiento
+de todas las demás».
+Contrariamente a Aristóteles, creía Platón —vuelve a explicarlo San­
+to Tom ás5i— «que no sólo conocemos las substancias inmateriales sino que son
+ellas lo primero que nuestro entendimiento conoce, porque suponía que las for­
+mas inmateriales subsistentes, que llamaba “ideas”, eran los objetos propios de
+nuestro entendimiento, por lo cual pensaba que son su objeto directo y primario».
+En cambio, él, de acuerdo con el criterio de Aristóteles, «más conforme a la ex­
+periencia», creía que «nuestro entendimiento, durante la vida presente, está natu­
+ralmente ordenado a las esencias de las cosas materiales, por lo cual no entien­
+de nada sin recurrir a las imágenes»; razón por la cual «las [esencias] que no caen
+en el dominio de los sentidos y de la imaginación», «no pueden ser entendidas
+primaria y directamente».
+
+52 Ibid, 87, 3, a d 1.
+53 Ibid, 88, 1, resp.
+
+653
+
+
+
+Es decir, en relación con el conocimiento intelectivo humano, el
+realismo parte de que — como J u a n d e Santo Tom ás54 explica lo dicho por el
+A q u in a ten se55— , «nuestro intelecto y su acto no son objetivamente inteligibles
+en esta vida, a no ser dependientemente de las cosas sensibles». Sin embargo,
+advierte que, además, de modo reflejo el intelecto humano efectúa varios pa­
+sos sucesivos para conocerse. El objeto primero de su entender es «la natura­
+leza material de la cosa, y, por ello, lo que primero es conocido por el inte­
+lecto humano es tal objeto, y secundariamente se conoce el mismo acto con el
+que se conoce el objeto, y por el acto, se conoce el intelecto mismo». Y, como
+sigue explicando el mismo J u a n d e Santo T om ás56, «en la memoria permanece
+la especie que no sólo representa el objeto, sino que también representa lo que
+había sido conocido, y de esta relación de lo conocido, el intelecto se regresa
+al mismo conocimiento de los principios. De donde, también del mismo mo­
+do, la misma especie puede ser alcanzada de manera refleja, no inmediatamente
+en sí, sino en cuanto es algo del objeto conocido. Además, no repugna que el
+intelecto configure aparte la especie del concepto y de la facultad y de otras
+cosas semejantes, del mismo modo como de las especies preconcebidas se for­
+man otras».
+Ahora bien, en virtud de esos pasos intelectivos, en cuanto se re­
+fiere a la abstracción del universal, ésta puede ser —tal como distinguió el A quin aten se57— de dos clases: la de aquellos universales genéricamente integrativos de clases o especies de seres (hombre, animal, gato, manzana, meteorito,
+etc.); y la de aquellos otros que son representativos o expresivos de cualidades,
+como los colores, la materia (la carne, los huesos, no esta carne o estos huesos
+que son materia sensible individual de este hombre o de este animal, del cual
+no puede abstraerse ni separarse); así como los universales de las especies ma­
+temáticas (números, cantidades, dimensiones, figuras que son sus límites) que
+podemos abstraer de la materia inteligible individual, y, en fin, los de las di­
+versas esencias, como la potencia, el acto y otras similares, las cualidades mo­
+rales, los valores, etc., que se obtienen por división o composición. Volveremos
+a esto.
+
+54 Ju a n d e Santo Tomás, Ars logica-Secunda p ars super libros periherm eneias; Circa
+
+libros priorum; cfr. en castellano con el título De los signos y los conceptos, Méxi­
+co U.N.A.M. 1989, quaest XXXII, art III, pp. 200 y ss.
+55 Santo Tomás d e Aquino, S. Th, 1, 12, 1.a, a d 2, y 1, 87, 3, a d 2. y De m emoria et re-
+
+miniscentia, 3.a.
+56 Ju a n de Santo Tomás, op. y libr. cits. quaest, XXIII, art. III, pp. 203 y ss.
+
+654
+
+
+
+LA ABSTRACCIÓN POR DIVISIÓN O COM POSICIÓN
+EN CONTRAPOSICIÓN A LA INTUICIÓN EID ÉTICA
+D E CUALIDADES Y VALORES
+He indicado que Santo Tom ás d e A quino distinguió la abstracción
+integrativa y la abstracción por división o composición. Después de distinguirlas,
+él mismo advirtió58 que esta segunda abstracción efectuada en «cosas que en la
+realidad no están abstraídas no puede hacerse sin error»; pero, añadiendo que ca­
+be un modo «de consideración simple y absoluta» de una cosa «sin pensar en nin­
+guna otra», por lo cual no hay error en abstraer de este modo. «Si, en efecto, pen­
+samos o decimos que el color de un cuerpo no le es inherente o está separado
+de él, hay falsedad en el juicio o en la aprehensión. En cambio si consideramos
+el color y sus propiedades sin hacer referencia a la fruta, en que se encuentra, o
+expresamos de palabra lo que de este modo entendemos, no habrá error ni en el
+juicio ni en la expresión; pues la manzana, no pertenece a la esencia del color,
+y, por tanto, ningún inconveniente hay en que consideramos ésta sin atender pa­
+ra nada a aquélla».
+El D octor com ú n 59 no admitió que, en la definición de los seres o
+cosas naturales, pueda de este segundo modo abstraerse la forma sin la materia
+común; pero si admitió que «las cantidades — como los números, las dimensio­
+nes y las figuras, que son sus límites— pueden ser consideradas sin las cualida­
+des sensibles, lo cual es abstraerías de la materia sensible; pero no pueden con­
+cebirse sin la referencia a la sustancia medida por la cantidad; lo que sería
+abstraerías de la materia inteligible común. Sin embargo, no es precisa la referencia
+a esta o aquella sustancia: que equivale a abstraerías de la materia inteligible in­
+dividual.
+«Por último, hay esencias que pueden ser abstraídas hasta de la ma­
+teria inteligible común, como son el ser, la unidad, la potencia y el acto y otras
+similares que también pueden existir sin materia alguna como sucede con las sus­
+tancias inmateriales».
+Como se ve, el A quinatense distinguió tres clases de universales abstraibles en pasos intelectuales sucesivos, a los cuales F ran cisco S u árez60 deno-
+
+5B Santo Tomás de Aquino, S. Th. 1.‘ , 85, 1, ad, 1.
+59 Ibid, a d 2.
+60 Francisco Suárez, De anim a, 4, 3, 22.
+
+655
+
+
+
+minó: fís ic o o p a rte rei; m etafísico o ex p a rte intellectus, considerándolo abstrac­
+ción del entendimiento; y lógico, mero ente de razón,«circa id q u o d concepitun.
+Entre los universales abstraídos sin hacer referencia a la cosa ni al
+bien concreto en que se encuentra, cabe incluir los valores. Pero, trasladando al
+valor lo que del color dice Santo Tomás, hay falsedad tanto si concebimos el va­
+lor de una cosa o de una clase de cosas separado de ellas, como si abstraemos la
+cosa sin consideración al valor insito en ella. A la inversa, si abstraemos el valor
+sin referencia a cosa o clase de cosas alguna, la abstracción del valor será co­
+rrecta, pero, en ese caso, su concreción no lo sería si se tratase de referir el va­
+lor a otra cosa distinta de aquella de la cual se ha abstraído específicamente ese
+valor. En ese caso, tal operación valorativa se efectuaría ideológicamente, cuan­
+do no utópicamente, al tratar de identificar una cualidad que, si bien puede con­
+cebirse como ex p a rte intellectus y no como ex p a rte rei de una cosa, en cambio
+sólo puede ser concretada en aquella cosa de la cual se abstrajo; ni tampoco pue­
+de concretarse ésta si no es integrada on sus propias cualidades y valores. Nin­
+guna cosa determinada puede concretarse correctamente si no se le asigna el mis­
+mo valor que ex p a rte rei le corresponde; y no cabe, pues, aplicarle valor abstracto
+alguno, conforme cualquier escala idealmente formulada de valores.
+Este defecto lo padecen las modernas teorías.neokantiana y fenomenológica de los valores. En efecto, como hemos visto:
+— Los valores fueron considerados por el neokantismo de la se­
+gunda mitad del siglo xix ( W in delband y Rickert principalmente) como unos a
+p riori ideales y subjetivos61; por lo tanto — según ella— no podían ser atendibles
+por el derecho sino los valores que fueron tenidos en cuenta por el legislador al
+establecer la norma jurídica, en la cual quedaron positivizados y, por tanto, cris­
+talizados. Pero, de ese modo, se pierde la relación directa entre la cosa y el va­
+lor inherente, por interponerse el juicio efectuado de modo general, in ab stra c­
+to, por el poder político, y no en relación concreta con la cosa o el bien in concreto
+de que se trate.
+— Según la fenomenología, los valores, obtenidos por intuición eidética, emocional y trascendentalmente62, se conciben como cosas ideales, separadas
+del bien o casa al cual, luego, se quiere referir el juicio de valor. De ahí que Welzel63
+
+61 Cfr. Perspectiva histórica, 312, pp. 1177 y ss.
+62 Ibid, 314, pp. 1188 y ss.; y 315, b, pp. 1192 y s. y nota 108, p. 1202.
+63 Hans Welzel, Derecho natural y justicia material, IV, 4; cfr. ed. en castellano, Ma­
+drid, Aguilar 1957, pp. 235 y ss.
+
+
+
+pudiera decir, con toda justeza: «En la ética de Scheler y H artm ann se cumple tam­
+bién el destino que se hizo evidente en Platón y Leibniz, y que alcanza a toda la ide­
+ología idealista, no hay ninguna ley de preferencia que permita, partiendo de valo­
+res generales a priori, extraer idealmente la recta decisión para el aquí y ahora de la
+situación real».
+Como había comentado A ntonio d e L u n aM «una tópica de los valo­
+res»; «no puede tener la pretensión de ser sino una de tantas»; pues, «convertido
+el hombre en medida de todas las cosas», y al poseer cada cual su propia medi­
+da de estimación, «habría que admitir tantos contenidos posibles en justicia co­
+mo hombres. Semejante medida de justicia equivale, pues, a la negación de toda
+medida». En semejantes sentido, S c ia c c a 65 hablaba de la «antinomia de la pre­
+ferencia axiológica», a pesar de la jerarquía de valores que H artm ann, en su ontología pretendía determinar64656667. A ésta le aplicó G óm ez R obledo67 el atributo de
+«piélago axiológico».
+En la segunda mitad de este siglo xx, se han intentado aproxima­
+ciones de los valores a la realidad viva de las cosas. Entre ellas me parece muy
+especialmente valiosa la de G rzegorizyk68, quien partió de estas dos proposi­
+ciones de L. Wittgenstein69-. «El mundo se disuelve en hechos»; «el mundo es el
+conjunto de hechos y/o de las cosas», que — avierte— «se refieren no sólo al mun­
+do físico sino también al mundo social, en el cual situamos el derecho». A su jui­
+cio, se trata de no confundir los niveles de la realidad y de las categorías ontológicamente distintas. Así, observa70 que la acción jurisdiccional dirigida, si fuese
+preciso, por las normas legales en cuestión debe operar de modo que, de una
+parte, corresponda a su finalidad objetiva, superior a ella, y, de otra, permita
+consecuentemente, en el caso enjuiciado, modificar toda «consecuencia artifi­
+cial». Así debe ocurrir cuando ese caso enjuiciado incluya «comportamientos di­
+versos de los previstos por el legislador», o, por el contrario, los debe excluir si
+
+64 A. de Luna, Nota critica a la Introducción d e la cien cia del derecho de Gustav Rad-
+
+bruch, R.D.P. XVII, 1930, p. 286.
+65 Michele Federico Sciacca, La filosofía hoy, cap. IV, cfr. ed. Madrid, E scelicer 1973,
+p. 263.
+66 Cfr. Perspectiva, 316, pp. 1198 y s.
+67 Antonio Gómez Robledo, M editaciones sobre la justicia, VIII, V, M éxico, Fondo de
+Cultura Económ ica 1963, p. 168.
+
+,
+
+68 Christophe Gzegorczyk, La teorie genérale des valeurs et le droit, Paris, Libr. Gral.
+de Droit et Jurisprudence 1982, III, parte, O bservaciones prelim inares, pp. 217 y ss.
+
+69 L. Wittgenstein, Tractatus logicusphilosophicus, Paris, N. R. F., Gallimard 1961, p.
+29, prop. 2, 1 y 1, 1 (cita de Grzegorczykj.
+70 Chr. Grzegorczyk, op. cit., III, IV, pp. 265 y ss.
+
+657
+
+
+
+ese modelo se limita sólo a regular «un cierto tipo de acción» en el que no en­
+caja el caso.
+Como había observado W ieacker71, la determinación del derecho,
+puesto que ha de efectuarse en cada situación peculiar y original, requiere «una
+relación del saber valorativo referida a la situación real, según lo que en efecto,
+decide la “naturaleza de las cosas”».
+A esa finalidad respoonden las tendencias que pretenden encarnar
+existencialmente el valor en las cosas, como en cierto modo ha intentado el existencialismo, o bien, como hacen el realismo metódico y aquéllas tendencias que
+tratan de conectar el valor con la N atur d er S ache en singular. Sin embargo, este
+último intento, efectuado por los juristas alemanes de Wertungsjurisprudenz, man­
+tiene — como hemos visto— el dualismo Sein-Sollen, y, partiendo de él, en el ám­
+bito del «deber ser» atiende a los principios supralegales, hallados por intuición,
+mientras que en el ámbito del «ser» considera la naturaleza de la cosa como pre­
+estructura en la cual han de concretarse aquéllos principios mediante valoracio­
+nes ideales72.
+H eid eg g eren su existencialismo radical, al no creer en la posibilidad
+del conocimiento intelectivo73, rechazó la a ed eq u a tio rei et intellectus, conten­
+tándose con el conocimiento existencial, del sentido (Sinn) de las cosas singula­
+res. Y G ad am er ha tratado de suplir la «naturaleza de las cosas» con el «lenguaje
+de las cosas»74. Así, ambos, pretenden tan sólo que se descubra el sentido, Sinn,
+de las cosas75.
+En cambio, según la explicación tomista de la concreción de una cua­
+lidad o valor abstraído por división o composición de una cosa determinada
+— como hemos visto— , no es un modo correcto de efectuar la concreción el de
+aplicar, a una cosa, una cualidad o un valor ideales y abstractos, sino que el úni­
+co modo correcto es reintegrarle el valor que, según su propio ser, le corresponde
+a ella misma. Recordemos el ejemplo del color, puesto por Santo T om ás— al que,
+antes nos hemos referido— y su advertencia de que «si pensamos que el color de
+
+71 Franz Wieacker, op. cit., 30, 3, b; cfr. ed. Madrid, Aguilar 1957, p. 529, nota 24.
+72 Cfr. Perspectiva, 319, pp. 1212 y ss.
+73 Cfr. Parte sistemática, 22, párrafos que corresponden a las notas 43 a 50, pp. 97 y ss.
+74 Cfr. supra nota 20.
+75 Cfr. Eusebi Colomer, El pensam iento alem án de Kant a Heideggerv ol. III, B arcelo­
+na, Ed. Herder, 1990, cap. IX y X, pp. 509-650 y Ju a n Pegueroles, El lenguaje en la
+
+hermenéutica d e Gadamer, Espíritu, 111, 1995, pp. 65-70.
+
+658
+
+
+
+un cuerpo no es inherente a él, o está separado de él, hay falsedad en el juicio o
+en la aprehensión». Pues bien, del mismo modo, no podemos referir correcta­
+mente un valor a cosa, acto o relación alguno, aplicándole un valor ideal, sino
+que tan sólo resulta correcto aplicarle aquel valor que adecuadamente corres­
+ponda a su ser.
+Así como sería incorrecto asignar a la manzana un rosado o un ama­
+rillento que no sea el suyo propio, sino el prototípico de un libro de colores, de
+igual modo tampoco es correcto referir a un león el valor de un hombre mártir o
+a éste el de aquél, o aplicárselo a una gallina.
+Por lo tanto, si debemos concretar algún valor jurídico, en un caso
+que se nos plantee o bien aplicarlo a un negocio determinado, debemos repe­
+tir, en orden inverso, los dos pasos dados para abstraer, primero, el universal y,
+después, el valor genérico correspondiente. Así deberemos, primero, orientar­
+nos para efectuar la concreción con referencia, a la pauta de valor correspon­
+diente al arquetipo del acto o negocio en el que se integre el caso, acto o ne­
+gocio enjuiciado, y, después, aún, deberemos adecuar, además, el valor de ese
+arquetipo a las particulares circunstancias que se den, ya sea en el supuesto ge­
+nérico que contempla el legislador, en el caso-tipo al que trate de dar forma de
+ley, o bien al de quien ejuicie un caso específico con la mediación de este casotipo legal.
+En efecto, según esta concepción realista, al género o especie abs­
+traído integrativamente — mediante el cuál conocemos intelectivamente, la cosa
+de que se trata (sea ésta una cosa en sentido restringido, o bien una relación o
+un hecho)— , le corresponden unas cualidades o valores, abstraídos por división
+o representación, que son asignables al arquetipo de su clase o especie —v. gr.
+moral profesional, diligencia de un buen padre de familia o de un buen comer­
+ciante, etc.— y que nos sirven de pauta general y de orientación provisional pa­
+ra enjuiciar el singular de que se trate. Es decir, nos son útiles para señalar las lí­
+neas generales de su estimación, partiendo como referencia de la cualidad o valor
+correspondiente al tipo de cosa que se enjuicia. Pero, además, debemos obser­
+var, aquello que es peculiar y específico en la cosa o el hecho que, en concreto,
+se trata de valorar o calificar. Por ejemplo, si ha habido buena o mala fe, culpa,
+dolo, caso fortuito o fuerza mayor, estado de necesidad, abuso del derecho, ac­
+tos propios, etc.
+Es decir, aquella abstracción por representación o división nos sirve
+como primera orientación y guía para configurar las líneas generales arquetípicias, pero, luego, debe precisarse si éstas, singularmente en cada caso, atienden
+
+659
+
+
+
+a todas las particularidades específicas de la persona — si es menor, incapaz, dé­
+bil mental o de voluntad, etc.— , al objeto de que se trata y a las circunstancias
+de la relación concreta que se valora. Es decir, en ese proceso de concreción, de­
+ben atenderse todos los matices particulares relevantes de la persona, cosa y he­
+cho que se den en el caso de que se trate.
+En suma: la pauta del arquetipo de valor propio de la naturaleza de
+la cosa objeto de estimación, constituye un primer criterio objetivo (del que pres­
+cinden las concepciones neokantianas y fenomenológicas de los valores) que, al
+efectuar su concreción a un caso determinado, debe completarse, atendiendo a
+las características y circunstancias específicas que se dan en la persona, cosa o
+caso concreto enjuiciado.
+
+660
+
+

@@ -1,0 +1,1304 @@
+SOBRE LA TEOLOGÍA POLÍTICA PROTESTANTE
+Por el Académico de Número
+Excmo. Sr. D. Dalmacio Negro Pavón*
+
+I.
+INTRODUCCIÓN
+El protestantismo domina la cultura desde el siglo XVII. Resulta imposible
+entenderla sin tener en cuenta la doctrina del libre examen con la consiguiente crisis de la autoridad y la tradición, la “sola fides”, la “sola Scriptura” y la “bibliomanía”, el sacerdocio universal de los cristianos, la separación entre la razón y la fe, la
+correlativa necesidad, a causa de esta separación, de encontrar un fundamento
+seguro a la existencia en este mundo, el desencantamiento del mundo y la “secularización” o politización en busca de seguridad, el puritanismo calvinista y su enorme
+influencia en el proceso de politización, etc.1 Podría decirse sin exagerar demasiado,
+que la teología, la filosofía, el arte, la pedagogía, la política, la historia, la literatura,
+la economía, la ciencia, la tecnología,… el mundo católico y el ortodoxo, todo, ha
+estado más o menos intensamente bajo la influencia protestante.
+En lo que concierne a la política, en el momento inicial de la Reforma surgió una teología de la que todavía dependen desde el Estado, tal como se ha desarrollado, hasta el modo de pensamiento ideológico. Ambos son ininteligibles sin la
+teología política protestante.
+
+* Sesión del día 29 de marzo de 2011.
+1
+Sobre las influencias concretas del protestantismo en el pensamiento político puede verse, entre otros, una
+muy sucinta pero sustanciosa exposición en G.H. Sabine, Historia de la teoría política, México, Fondo de Cultura 1962
+y otras edcs. En relación con el Estado, J.A. Álvarez Caperochipi, Reforma protestante y Estado Moderno, Madrid, Civitas, 1986. Recientemente, es muy sugerente W.T. Cavanaugh, Imaginación teopolítica, Granada, Nuevo Inicio 2007.
+
+469
+
+
+
+Uno de los problemas a resolver consiste en hasta qué punto es esta teología política inherente a la teología política específicamente protestante o un giro
+en la tradición de la teología medieval. Dicho de otra manera, ¿se puede hablar de
+una teología política medieval o no sería más correcto hablar de la teología jurídica
+medieval, que se transformaría en teología política con la Reforma protestante? La
+cuestión tiene más alcance que el histórico: dejando aparte el mundo ortodoxo, suscita entre otros el problema de si puede haber una teología política en el cristianismo católico romano o si la teología católica romana aplicada al mundo político
+ha de ser más bien una teología jurídica.
+En la práctica, la teología política ha estado proscrita (de hecho no de derecho) desde la condena por San Agustín de la teología civil pagana de Varrón, incompatible con la teología cristiana de la historia. Por otra parte, la teología ha estado
+tan íntimamente ligada al Derecho Natural en el mundo medieval, que es dudoso que
+pueda llamarse sin más teología política lo que a veces se presenta como tal. En
+principio, parece, pues, correcto hablar de teología jurídica y teología política según
+los casos, o de teología jurídico-política o político-jurídica como las dos formas posibles de aplicar la teología al mundo histórico occidental. Como ejemplos de ambos
+enfoques podrían citarse respectivamente la famosa obra de Ernst Kantorowicz Los
+dos cuerpos del rey, a pesar de subtitularse Estudios de teología política medieval 2,
+y la aún más famosa Teología política. Cuatro lecciones sobre la soberanía, de Carl
+Schmitt3.
+La teología política plantea la aporía de si la Política debe someterse al
+Derecho o el Derecho a la Política. En otros términos: si el orden humano ha de concebirse como parte del orden cósmico natural (increado o creado) o como una forma
+de orden independiente del orden natural.
+
+*
+
+*
+
+*
+
+El presente trabajo intenta ser una aproximación a la teología política protestante, con la que comenzaría la teología política moderna y, a los problemas que
+suscita. El dato fundamental sería que el Estado se asentó gracias a la Reforma, iniciando su marcha a partir de ahí hacia el Estado-iglesia totalitario de nuestros días.
+
+Madrid, Alianza 1983.
+Es probable que Schmitt tomase el concepto “teología política” del escrito de Bakunin La théologie politique de Mazzini et l’Internationale (1871). Aunque Espinosa tituló Tratado teológico-político su conocida obra de 1670,
+ese título no tuvo mayor trascendencia, debido quizá al enraizamiento de Espinosa en la teología judía; que, por cierto
+tiene grandes concomitancias con la calvinista; no sólo por la preferencia de éste último con el Antiguo Testamento, sino
+por la primacía de la Ley, el pueblo elegido, etc. Sobre las ideas judías acerca del reino de Dios, M. García-Pelayo, “Las
+ideas hebreas del Reino de Dios”, en El Reino de Dios, Arquetipo político, Madrid, Revista de Occidente 1959.
+2
+3
+
+470
+
+
+
+En primer lugar habría que considerar la teología de Lutero sobre el poder,
+que niega de hecho el derecho de la Iglesia a una jurisdicción independiente, su
+doctrina del servo arbitrio en lugar del libre arbitrio, y la algo confusa de los dos Reinos, que, en palabras del teólogo católico William T. Cavanaugh, “significa la derrota
+de la metáfora medieval de las dos espadas” en la que descansaba la originaria concepción católica del orden político.
+En segundo lugar, habría que considerar la teología política de Calvino. Su
+particularidad dentro del protestantismo se debe a que el reformador suizo no era
+tanto un teólogo o un filósofo, como un ideólogo legalista conforme a su concepción teocrática. Esto sugiere la conveniencia de separar la teología política calvinista,
+que históricamente ha dado lugar a movimientos mesiánicos y milenaristas o los
+acompaña, de la luterana y la anglicana. Éstas son las otras dos teologías políticas
+protestantes más notables, en cuyas diferencias teológicas con el catolicismo, fueron
+sin duda bastante determinantes las guerras en un grado difícil de precisar.
+En tercer lugar, la teología política de Richard Hooker, quien puso los fundamentos de la anglicana, cuya particularidad radica en que siendo protestante, sin
+embargo es católica.
+No obstante, sin perder de vista que no está consolidado el estatuto general de la teología política (y en su caso la jurídica), el trabajo se limita a llamar la atención sobre algunos presupuestos históricos que parecen ser obligados para entender
+la teología política protestante, exponiendo a modo de corolario los rasgos principales de las teologías políticas anglicanas de Hobbes y Coleridge y de la teología
+política luterana de Hegel.
+
+II.
+PRESUPUESTOS MEDIEVALES
+Se suele decir que el protestantismo es un intento de volver al cristianismo primitivo para purificar la fe cristiana de su carga histórica. Siendo esto cierto, lo es también,
+que, si bien el pensamiento político protestante rompió con la tradición medieval, es asimismo un desarrollo innovador de esta última a partir de determinados conceptos.
+
+1. La distinción entre potentia absoluta Dei y potentia ordinata Dei
+1.1.– La teología medieval era sustancialmente una teología negativa. Partiendo de la revelación de la divinidad como un hecho inconcuso, una donéé en el
+sentido de Julien Freund fundamentante de la realidad, afirmaba la unidad trinitaria
+del Dios bíblico, cuyos atributos establecía negando lo que evidentemente no podía
+
+471
+
+
+
+atribuírsele. De ahí que, correlativamente, fuese una teología apofática: dando por
+sobreentendidas la existencia de Dios y la realidad del ordo creado por Él, no pretendía demostrarlas. Las argumentaciones sobre la existencia de Dios según los principios fides quearens intellectu y philosophia ancilla thelogiae, no buscaban probarla
+sino predisponer a la recepción de la fe. Dios mismo era un misterio.
+En contraste, el pensamiento moderno se asienta en la distinción medieval
+(que recuerda la de Aristóteles sobre la potencia y el acto), entre la potentia absoluta
+Dei, su poder infinito, y su potentia ordinata. A partir de esta última intenta probar
+racionalmente las reglas del orden, insistiendo en la Moral, que empezó a primar
+sobre el Derecho en el sentido de moralizarlo, y la existencia de Dios. Mencionada
+aquella distinción por Santo Tomás de Aquino, tal vez por su realismo no le dio mucha
+importancia, dado que potentia sólo implica posibilidad e introduce un dualismo entre
+lo natural y lo sobrenatural, que el Aquinate resuelve mediante la categoría de participación por analogía. En cambio, Duns Scoto desarrolló la distinción y Guillermo de
+Ockham se apoyó en ella para circunscribir la poderosidad divina a la potentia absoluta y el ordo a la ordinata: Dios ha creado el mundo en virtud de su potentia absoluta, pero, una vez creado, quedaba bajo su potentia ordinata, como un orden a
+cuyas reglas se sometía su Creador 4. Dios autolimita su poder absoluto. Como diría
+más tarde Grocio, «ni siquiera Dios puede hacer que dos por dos no sean cuatro» ni
+que «lo que es intrínsecamente malo no lo sea». Es significativo que precisamente en
+el siglo XIII comenzara a utilizarse la palabra sobrenatural en contraposición a natural: lo sobrenatural como el orden de la fe, el mundo de la potentia absoluta, y el natural como el ordo creationis, el orden concreto de lo creado, el mundo de potentia ordinata, o, por decirlo así, el mundo visible comunicado por la fe con el invisible. El
+franciscano San Buenaventura decía que las cosas son vestigia Trinitatis, pero para el
+espíritu científico moderno no hay misterios sino problemas.
+El pensamiento moderno intentará salvar el abismo entre ambos modos de
+potentia con el concepto filosófico (no teológico) de infinitud5 y demostrar la existencia de Dios, que constituye la garantía de la certeza del pensamiento racional,
+puesto que Descartes había separado la certeza según la razón y la verdad según la
+fe. Pascal, uno de los primeros en percibir agudamente la diferencia entre la fe cristiana, que descansa en la verdad del corazón —la émunah bíblica—, y la religión,
+
+4
+
+En relación con este tema, cfr. H. Welzel, Introducción a la filosofía del Derecho, Madrid, Aguilar 1971. II,
+
+pp. 3 y 4.
+5
+«La Edad Moderna, impulsada por sus nuevas investigaciones propias, es la primera que fija la atención en
+el motivo infinista, contenido en la imagen antigua del mundo… La idea de que el concepto, como forma meramente delimitada del pensamiento queda muy por detrás del ser infinito, es por completo extraña a los griegos… Un infinito creado, dice Santo Tomás, es un contrasentido; lo “natural no puede ser infinito… Pero Duns Scoto no se satisface con esto…
+Cuando Dios creó al hombre a su imagen y para que le conociese le dio simultáneamente la receptividad infinita para lo
+infinito»… H. Heimsoeth, Los seis grandes temas de la metafísica occidental, Madrid, Revista de Occidente 1959. II. Vid.
+todo el capítulo.
+
+472
+
+
+
+tachará a Descartes de “inútil e incierto”6. La ciencia, el espíritu geométrico, es impotente ante lo misterioso.
+1.2.– Los Padres de la Iglesia distinguían la theologia de la oikonomia. El
+objeto de la theologia era el misterio de la vida íntima del Dios trinitario y el de la
+oikonomia las obras por las que Dios se revela y comunica. La oikonomia implica
+la theologia, que a su vez esclarece la oikonomia. Las obras de Dios revelan quien
+es en sí mismo, mientras el misterio de su Ser íntimo ilumina la inteligencia de todas
+sus obras.
+Ahora bien, conforme a la distinción entre potentia absoluta y potentia
+ordinata, autolimitándose, Dios se obligaba a respetar el orden creado por Él y sus
+reglas, retirándose, por decirlo así, del mundo al dejarle seguir su curso conforme
+a las reglas del ordo. Como eso hace relativamente superflua la Providencia, la
+incertidumbre obligó a potenciar la razón a fin de buscar la seguridad en el mundo
+de la oikonomia, dejando lo del más allá, la theologia, a la fe. Este es el problema
+protestante.
+Así pues, a diferencia del mundo medieval, que consideraba a Dios siempre presente en los vestigia Trinitatis, el mundo moderno no podía contar racionalmente con la potentia absoluta del Deus absconditus (con antecedentes gnósticos)
+de Nicolás de Cusa (lo Absoluto es incognoscible, de ahí la docta ignorancia). La
+modernidad le representaría luego como el Gran Relojero o el Gran Arquitecto. Mas,
+fracasado el intento de demostrar la existencia de Dios, se difuminó tanto su presencia en el mundo, que Nietzsche interpretó su desaparición de la escena como su
+muerte, al menos desde el punto de vista de los asuntos mundanos. Casi a continuación de Nietzsche, la teoría de la relatividad restringió la infinitud a los términos de
+la potentia ordinata, pero, como dice Manfred Frank, Dios sigue en el exilio. No obstante, a juzgar por el auge del interés por la religión en general y el de la teología
+política en particular, es posible que haya iniciado su regreso.
+En suma, la teología medieval se había contentado con dar por supuesta Su
+existencia (categoría desconocida por los griegos), dedicándose la theologia a explicar en lo posible el misterio de Dios para entender la oikonomia. Con la distinción
+entre su realidad como potentia absoluta, ciertamente la causa de la ordinata, causa
+a su vez del orden real del mundo asequible al conocimiento, la cuestión de la existencia para relacionar ambas potencialidades se volvió problemática. El propio Santo
+Tomás había conocido la distinción sin entrar empero en la discusión, limitándose a
+complementar el argumento ontológico de San Anselmo con las cinco vías raciona-
+
+6
+Según Th. Ruster, “en Pascal el cristianismo… dejó de funcionar como una religión”, El Dios falsificado.
+Una nueva teología desde la ruptura entre cristianismo y religión, Salamanca, Sígueme 2011, 2,2, e), pp. 97-98.
+
+473
+
+
+
+les; partiendo de la fe según los principios citados fides quaerens intellectu y
+philosophia ancilla theologiae, la razón prepara mediante ellas a la creencia natural
+para que la voluntad acepte la realidad del mundo de la fe 7.
+Por otra parte, desde el punto de vista de la potentia ordinata resultaba
+menos problemático conocer el orden creado, la oikonomia y, sin dejar de tener en
+cuenta la revelación, poder saber algo de Dios como actor (de auctor, autor) de lo
+creado a través de las reglas que rigen el cosmos. Tal es, como se sabe, el presupuesto que hizo posible la ciencia moderna según la célebre frase de Einstein de que
+no siendo pensable Dios como un jugador de dados, la Naturaleza obedece a leyes
+fijas —el Libro de la Naturaleza de Galileo—, que Newton creía que se podían
+encontrar en la Biblia, el Libro de los Libros.
+Más adelante, parafraseando el comienzo del evangelio de San Juan como
+en el principio era la acción, Goethe y Fichte dirán que Dios actúa a través de sus
+reglas. Esta idea de la teología de la Creación continuada la transformó Hegel en filosofía de la historia para fundamentar en ella su teología política: es posible saber algo
+de la esencia Dios a través de las manifestaciones históricas de su voluntad.
+1.3.– La Biblia es más complicada que el Libro de la Naturaleza. Se refiere
+al mundo humano, en el que rige la ley de la libertad, puesto que el hombre fue
+creado imago Dei. Esa ley es ciertamente fija, un presupuesto antropológico, pero
+no es una ley de la Naturaleza sino del Espíritu inmerso en ella. La peculiaridad de
+la ley de la libertad estriba en que mientras la libertad divina sólo es imaginable
+como libertas indifferentiae, la libertad humana es contingente; como había dicho
+Santo Tomás pensando analógicamente, la voluntad humana, cuya manifestación es
+la libertad, no es adiafórica, indiferente, sino que está limitada y concretada por la
+razón; en primer lugar, está limitada por la ley divina revelada y, en segundo lugar,
+por la potentia ordinata, dado que la vida y la acción humanas se circunscriben al
+orden creado. Coincidiendo con la tradición griega, dentro de él los hombres sólo
+pueden crear acaso su propio orden, el orden político; pero no, ciertamente, de
+potentia absoluta sino precariamente, por analogía, de potentia ordinata, como
+demiurgos.
+Duns Escoto se situó en el plano de la potencia creadora divina y prescindió del pensamiento analógico, incompatible con la infinitud: el ser es formalmente
+unívoco y las distinciones entre los seres son formales; lo que les individualiza y
+hace reales es un principio, la haecceitas o aseidad, por el que cada ser es creado
+por y para sí mismo, no producido a partir de géneros y especies; en consecuencia,
+7
+“¿Qué se demuestra exactamente en esas cinco vías?” se pregunta Th. Ruster. “Desde luego, no la existencia de Dios, sino únicamente que, en pura lógica, hay que postular la existencia de un aliquid para explicar ciertos fenómenos”. Op. cit. 2, 2, d), p. 76.
+
+474
+
+
+
+la voluntad del ser humano, imago Dei, es una potentia libera per essentiam, por lo
+que voluntas imperat intellectu. Dos principios escotistas destinados a dar mucho
+juego en el curso del pensamiento moderno; en el particular del pensamiento político, la primacía de la voluntad sobre la razón implica la primacía de la decisión. Se
+preparó así sin quererlo la de la Política sobre el Derecho; en éste, la razón instrumentaliza la voluntad para decidir (sentenciar); en la Política, la voluntad instrumentaliza la razón. La teología política sustituyó así a la teología jurídica en la que la
+razón, la ratio iuris, impera a la voluntad para que actúe conforme al orden natural
+de las cosas. Será el ockhamista Hobbes, quien inicie la ruptura con el Derecho
+Natural al roturar el camino para sustituirlo por el Derecho Político, la Legislación8.
+
+2. Guillermo de Ockham
+2.1.– Constituye un lugar común achacarle a Ockham (ca.1298-ca.1349) el
+ser el origen intelectual del pensamiento moderno, llegándose nada menos que a
+inculparle por ello. Si es verdad, desde luego no es toda la verdad. Ockham era un
+fraile teológica, jurídica y políticamente conservador del siglo XIV, en el que
+comenzó la crisis del mundo medieval, el “otoño de la Edad Media”, como llamó
+Huizinga a esa época de tránsito de aquel mundo al moderno. Ockham es, seguramente a pesar suyo, un pensador de transición. No obstante, aquella singularización
+del personaje que le pinta poco menos que como el deus ex machina de los “males”
+modernos —quizá también por estar inmerso en las querellas que suscitaron en su
+época los franciscanos—, constituye la causa, observaba Hans Welzel, de que sus
+obras se hayan difundido poco y su pensamiento haya permanecido casi desconocido, y quizá mal conocido, durante largo tiempo.
+Lo cierto es, como decía Richard Weaver, que las ideas tienen consecuencias9 y, simplificando, la teología política protestante remite al pensamiento de este
+franciscano escocés, discípulo, posiblemente ex auditu, de su paisano Duns Escoto,
+el Doctor Sutil, también franciscano. Uno de los puntos de partida de la teología
+política protestante sería, pues, el pensamiento de Guillermo de Ockham, quien,
+desde el punto de vista político, es inseparable de Marsilio de Padua, un jurista gibelino refugiado asimismo en Alemania cabe el emperador10.
+Políticamente, Ockham permanecía fiel a la concepción medieval al tomar
+partido por el emperador Luis I de Baviera frente al Papado a cambio de su protec-
+
+8
+Elementos de Derecho Natural y Político, Madrid, Tecnos 2005. Acerca de la reducción del orden ético al
+legalismo, D. Castellano, Orden ético y Derecho, Madrid, Marcial Pons 2010.
+9
+Madrid, El buey mudo 2008.
+10
+Una buena introducción general al pensamiento político de Ockham sigue siendo la de A. St. McGrade,
+The Political Thought of William of Ockham. Personal and Institutional Principles, Cambridge Univ. Press 1976.
+
+475
+
+
+
+ción (se le atribuye la frase «O Imperator, defende me gladio et ego defendam te
+verbo») en la última fase de la interminable querella medieval de las Investiduras
+entre el sacerdotium y el imperium, en la que se imbricó la disputa de parte de la
+orden franciscana, los “espirituales”, con el papa. Lucha, la de las Investiduras, que
+por cierto no ha terminado: es la eterna querella entre la auctoritas y la potestas, relativamente apaciguada hasta la revolución francesa.
+El gibelino Dante, otro fiel a la metáfora de las dos espadas11, había resumido su espíritu en la metáfora poética de la Iglesia y el Imperio como las dos luminarias de la Cristiandad: en el universo, tal como entonces se entendía, la Iglesia era
+el sol que se reflejaba en el Imperio como aquel en la luna. No obstante, esa concepción medieval universalista del orden humano —en términos jurídico-políticos
+concretos, del régimen medieval— había sido alterada por papas como Inocencio
+III y Bonifacio VIII, triunfantes frente al Imperio en la contienda de la Investiduras,
+fundamental en la historia de Occidente, al arrogarse la summa potestas, una
+enorme innovación en el mundo medieval, en el que era un dogma induscutido la
+omnipotentia iuris.
+La sustancia de la disputa era el alcance y los límites del concepto de soberanía, de origen teológico12 y, de rebote, la pertenencia del Derecho. En el fondo,
+entre la auctoritas y la potestas: de potentia ordinata, ¿es el Derecho el soberano o
+es inherente a la auctoritas o a la potestas? Si el Derecho es el soberano, ¿quién es
+su depositario? ¿el pueblo, el titular de la auctoritas o el de la potestas? En cualquiera
+de estos casos, ¿a quién compete declararlo en última instancia? Si el Derecho no
+es el soberano, ¿quién lo crea? Todos los elementos fundamentales de las disputas
+modernas y contemporáneas estuvieron presentes en la lucha de las Investiduras.
+Si Ockham, a quien le interesaba poco o nada la política como tal, atacó al
+Papado, no fue desde luego por el incipiente sentimiento nacional alemán antirromano que había ido tomando cuerpo a lo largo de aquella contienda y que tanto
+influyó en la Reforma, ni siquiera para defender al Imperio en agradecimiento a la
+protección dispensada a los franciscanos enfrentados a los papas de Avignon, quiénes sostenían que la autoridad del emperador procede de Dios a través del Papa:
+Ockham defendía al mismo tiempo al Imperio y a la Iglesia de la plenitudo potestatis que se arrogaba el Papado en su pretensión de poseer la summa potestas; es
+decir, defendía el principio cristiano de la laicidad, implícito en la distinción entre lo
+profano y lo sagrado, entre lo laico y lo eclesiástico, postulado de antiguo por la pro-
+
+11
+Cfr. el ilustrativo escrito de Y.M. Congar, “La demasiado famosa teoría de las dos espadas”, en Santa Iglesia, Barcelona, Estela 1965.
+12
+«La soberanía, el soberano, aunque figure en las teoría política, es menos un tema de esta teoría que un
+objeto de la teología». N. Ramiro Rico, “La soberanía”, en El animal ladino y otros estudios políticos, Madrid, Alianza
+1980, p.119.
+
+476
+
+
+
+pia Iglesia. Afirmada y delimitada por el papa Gregorio VII desde 1075, había sido
+paradójicamente la causa de la lucha de las Investiduras13.
+Las consecuencias de las ideas son imprevisibles, sobre todo cuando son
+conflictivas, y es otra paradoja que, en el calor de las controversias, el ockhamismo
+anticipase el erastianismo. Ockham interpretó la translatio imperii afirmando que
+el Imperio existió antes de la venida de Cristo, sostuvo en la Dieta de Rhens (1338)
+que la elección del emperador le correspondía exclusivamente a los príncipes alemanes, por lo que quedaba excluida la jurisdicción del Papado sobre el Imperio y,
+además, le atribuyó a este último cierta jurisdicción sobre el Papado —idea cara a
+las incipientes Monarquías nacionales—, especialmente en lo concerniente a la elección del Papa (que no se liberó de las intromisiones temporales, prácticamente hasta
+el siglo XX).
+El fondo de la argumentación de Ockham consistía en la contraposición en
+el contexto de la omnipotentia iuris medieval —la santidad del Derecho14—, entre la
+libertad evangélica y la interpretación papal de la plenitudo potestatis como summa
+potestas. Se anulaba así la dialéctica de los dos poderes, y con ella el principio de la
+laicidad inherente a la doctrina cristiana: «la ley evangélica escribía Ockham al calificar
+de tiránico el gobierno del Papa, no es de mayor sino de menor servidumbre de lo que
+fue la ley mosaica… La ley evangélica es la ley de la libertad perfecta… Se ha de entender esto más bien en sentido negativo, ya que de la ley evangélica no se deriva yugo
+grave alguno”. Ockham no defendía la libertad de conciencia sino la de la conciencia
+según la verdad evangélica, casi a la par que Marsilio defendía la libertad política y el
+fuero laico frente al clericalismo. «La base de sus ideas políticas era el aborrecimiento
+profundamente arraigado y casi universal en el Medioevo, del poder arbitrario o la
+fuerza ejercida fuera de la estructura de lo que se consideraba como derecho», siendo
+sustancialmente idénticos en este aspecto sus puntos de vista al de Santo Tomás15.
+2.2.– Obviamente, Ockham no tenía la menor idea del Estado. Pero había
+intuido confusamente que el Papado no era ya un Reino en el sentido medieval, en
+el que la palabra estado mentaba la posesión de un territorio, sino una nueva forma
+política. La figura del Papa era bifronte como la de Jano: era simultáneamente caput
+ecclesiae, cabeza de la Iglesia y cabeza de un auténtico Estado formado por los vastos territorios eclesiásticos. Titular de una forma política particularista, incompatible
+con el universalismo de la Iglesia —y el del Imperio, su pendant político—, según el
+
+13
+Los conflictos entre la Iglesia y el Estado en Francia han creado un problema linguístico en torno a la palabra laico. Para evitar confusiones y complicaciones sería preferible añadir cuando sea pertinente el calificativo “radical”
+a laico, laicismo, laicidad, etc. Lo indiscutible es que el principio de laicidad es inherente a la fe cristiana, a la que singulariza entre otras formas de creencias religiosas: la Encarnación, la frase evangélica “dad a Dios lo que es de Dios y
+al César lo que es del César”, etcétera.
+14
+Vid. G.H. Sabine, Historia de la teoría política, XII.
+15
+G.H. Sabine, Historia de la teoría política, XVI, p. 247.
+
+477
+
+
+
+conservador fraile franciscano ponía a la Iglesia al servicio del Estado: sometía la auctoritas y todo lo que conlleva a la potestas.
+La distinción entre auctoritas y potestas, entre el saber y la fuerza, metafísicamente entre la verdad y la opinión, es el eterno dualismo capital de la teología
+política. La teocracia, en la que prevalece indiscutiblemente la auctoritas poniendo
+directamente la potestas a su servicio, y la tiranía, modernamente el nihilismo, en el
+que prevalece absolutamente la potestas, la voluntad de poder con la consecuencia
+inversa, anulan ese dualismo.
+La política de Ockham se circunscribió, pues, prácticamente, a rechazar, conforme a la tradición medieval, la unión de la auctoritas espiritual y la potestas temporal en la misma persona, lo que anulaba la distinción por la que se habían enfrentado
+abiertamente los Papas a los Emperadores desde el siglo V (Gelasio I frente a Bizancio) y causa de la contienda de las Investiduras entre el sacerdotium y el imperium:
+“La potestad laica suprema y la potestad espiritual suprema no deben coincidir en
+absoluto en uno mismo”, afirmaba Ockham. Por otra parte, al ser el Estado un aparato técnico, era lo contrario de las formas de mando personales características de la
+Edad Media y en general de las formas histórico políticas naturales, no estatales.
+El Estado es, efectivamente, una máquina de poder16, y, en el curso de la
+lucha de las Investiduras, el Papado había devenido una organización estatal: de ahí
+las absolutistas pretensiones imperialistas de algunos papas, que anticiparon las de
+las Monarquías de este signo. Por un lado, la organización política del Papado tenía
+ya un ejército organizado, una hacienda que recaudaba impuestos, una burocracia
+y un derecho público, y, por otro, coexistían en ella lo que se llamaría después el
+poder legislativo, el ejecutivo y el judicial. A diferencia del Imperio, las Monarquías,
+aliadas con el Papado en sus luchas contra aquel, imitaron la innovadora organización de lo Político en los estados o territorios de la Iglesia. De este modo, Monarquías crecientemente nacionales por la fidelidad a la persona del rey de los habitantes de sus estados, se convirtieron en estatales, siendo más tarde decisivo el principio
+protestante cuius regio euius religio para su consolidación como Monarquías soberanas al atribuirse la summa potestas dentro de sus territorios; es decir, dictaduras.
+El protestantismo no inventó el Estado, se lo encontró materialmente hecho;
+pero sin él hubiera sido muy difícil sino imposible que se asentasen y consolidasen
+la teoría político-jurídica de la soberanía como su principio de acción, y la neutralidad como la naturaleza de la estatalidad en tanto máquina, puesto que la técnica no
+es objetiva sino, por definición, neutral, dejando de serlo al utilizarla la soberanía
+como instrumento del poder.
+
+16
+
+junio 2005.
+
+478
+
+Vid. C. Schmitt, “El Estado como mecanismo en Hobbes y en Descartes”, Razón Española, nº 131, mayo-
+
+
+
+3. El nominalismo
+In politicis, casos contradictorios como el de Guillermo de Ockham son muy
+corrientes: enemigo de la unión de la Iglesia y el Imperio, los dos poderes universales, bajo la summa potestas papal como poder absoluto o dictatorial, su adhesión a la
+concepción nominalista anticipada en el siglo XI por Roscelino17, contribuyó irónicamente a debilitarlos conceptualmente. Reducidos a dos flatus vocis, conceptos sin contenido, al negar Ockham por otros motivos la realidad de los universales, facilitó teológicamente la unificación de la auctoritas y la potestas en el mundo protestante, bajo
+la égida de la potestas del soberano temporal sobre la Iglesia y su auctoritas. Efectivamente, a partir de Ockham se instaló la teoría del conocimiento nominalista, la via
+moderna, que, por otra parte, es la apropiada, por un lado, para la ciencia, y, por
+otro, señaló Jouvenel, frente a las ambigüedades de la lógica de la política, la retórica.
+Una traducción, al parecer deficiente, había dado lugar a la interpretación
+del pensamiento de Averroes que le atribuía la teoría de la doble verdad, a pesar de
+ser incompatible con el radical monoteísmo musulmán, políticamente teocrático. La
+consecuencia fue el averroísmo latino.
+El averroísmo disociaba las verdades de fe de las verdades de razón admitiendo que podían ser contradictorias, y Ockham, se suele decir que para salvar la
+fe, acentúo la distinción entre razón y fe como separación, vinculando la fe al ámbito
+de lo sobrenatural o de la potentia absoluta. El ámbito natural de la potentia ordinata quedaba así a disposición de la razón dirigida por la voluntad, preludiando el
+decisionismo político moderno. Simultáneamente, al no poderse apoyar racionalmente la doctrina de los universales —vinculada habitualmente a la existencia de
+ideas platónicas en la mente divina— en la existencia de Dios como su causa y origen, era inevitable su reducción a meros flatus vocis. El empirismo nominalista de
+Ockham, asentó de este modo la doctrina escotista de la haecceitas o aseidad, que,
+sin estar en desacuerdo con la de la Creación, potencia lo singular y lo individual en
+detrimento de lo universal: éste quedó reducido a la condición de generalizaciones
+de casos particulares. El individualismo posterior del libre examen.
+El fraile escocés no era ni preprotestante ni protestante y su teología, aún
+siendo molesta si se puede expresar así, se considera católica. Sin embargo, el protestantismo fundamentó directamente el libre examen en su nominalismo o en el de
+este origen, relegando la verdad al mundo de la fe18; en el plano temporal la certeza
+
+17
+“«Hay una cosa cierta, escribía Etienne Gilson: Roscelino fue, para sus contemporáneos y para la posteridad, el representante de un grupo de filósofos que identificaban entonces la idea general con la palabra que se designa»,
+La filosofía de la Edad Media. Desde los orígenes patrísticos hasta el fin del siglo XII, Madrid, Gredos 1958. IV, II, p. 299.
+18
+Cfr., lo que escribe M.C. Taylor sobre Ockham como un precedente de la “revolución protestante” en
+Después de Dios. La religión y las redes de la ciencia, el arte, las finanzas y la política, Barcelona, Siruela 2011.
+
+479
+
+
+
+de la razón remplazó a la verdad, relegando la fe al papel de garantizar, según Descartes, que Dios no puede engañar a la razón cuando opera rectamente, es decir,
+siguiendo el método adecuado. De ahí otra causa de la creciente preponderancia de
+la técnica, puesto que el método es en resumidas cuentas una técnica.
+De este modo, apoyándose en que Dios se había autolimitado de potentia
+ordinata, la actividad de la razón se atuvo al ámbito de la Naturaleza en el que, por
+una parte, desplegó su propia potentia y, por otra, al descomponerse el mundo
+medieval, se concentró en la construcción racional del orden de la vida colectiva
+mundana, pública, en el que la fe quedaba casi por necesidad relegada a la vida privada19. La política se despegaba así de la fe concentrándose en sus formas religiosas,
+controlables mediante el poder. Entonces apareció la religión, por una necesidad
+práctica de los nuevos poderes políticos. Es decir, la fe cristiana se convirtió —o se
+redujo— a una religión.
+En la Edad Media, asentada en la fe, lo común o público era la Ley de
+Cristo (junto a las Leyes de Moisés y de Mahoma)20. De la religión se hablaba únicamente como una virtud, la virtud de la religación en el sentido latino de re-ligare que
+designa actitudes buenas y deseables. Marsilio Ficino utilizó ya la palabra religión en
+el sentido moderno, pero sólo se empezó a hablar de religiones en plural a partir a
+la Reforma para designar la vinculación o religación a las distintas confesiones cristianas21. Como consecuencia, si antes era la Ley de Cristo lo común o público, ahora
+comenzó a serlo lo que la ley jurídica, concretamente lo que el poder político admitiese como religión pública: la virtud de la religión se convirtió en una función
+pública, imprescindible para religar la vida privada al orden político, la virtud pública
+por excelencia (Maquiavelo ya lo había percibido al describir lo Stato).
+Al regir la razón —la ratio Status— la vida política, se incoó la distinciónseparación entre la vida pública, la verdaderamente racional, y la vida privada de
+la fe, si no irracional como el lugar del sentimiento y las emociones, y, a partir de
+ahí, entre la razón pública y la razón privada, entre la ética y las virtudes públicas,
+y la moral y las virtudes privadas, entre el derecho público y el derecho privado,
+etcétera.
+
+19
+Sobre la influencia de Ockham en Lutero, A. González Montes, Reforma luterana y tradición católica, Salamanca, Universidad Pontificia 1987, III, I, 3. El libro, como indica el título, se ocupa de hasta que punto era católica la
+teología de Lutero.
+20
+Vid. R. Brague, La loi de Dieu, París, Gallimard 2005. (Trad. española Madrid, Encuentro 2011).
+21
+Según W.T. Cavanaugh, «la primera forma de pluralización del término religión en sentido moderno data
+de la década de 1590, con Richard Hooker en el lado anglicano y Robert Parsons en el católico, que escriben sobre las
+religiones como conjuntos objetivos y rivales de doctrina. Después de 1660, empezó a ser posible hablar de religión en
+general, aunque el término se refería normalmente a la “religión cristiana”», El mito de la violencia religiosa. Ideología
+secular y raíces del conflicto moderno, Granada, Nuevo Inicio 2010, 2, p. 143.
+
+480
+
+
+
+III.
+LA CUESTIÓN TEOLÓGICO-POLÍTICA:
+LA FE Y LA RELIGIÓN
+1.– Lo anterior es una consideración muy sucinta de algunos de los presupuestos intelectuales de la teología protestante, relacionados con el hecho, apuntado hace poco por Mark Lilla, de que, “hablando históricamente, la teología política es la forma primordial del pensamiento político y sigue siendo en la actualidad
+una alternativa viva para muchos pueblos”22.
+Cuando Carl Schmitt resucitó el tema de la teología política en su conocido
+escrito Teología política, se limitaba a plantearlo como un problema histórico-político del mundo moderno. Posteriormente, debido a su influencia y a una serie de circunstancias, se tiende a reconocer el acierto de la afirmación de Proudhon, de que
+detrás de cualquier cuestión humana existe una cuestión teológica. John Gray ha
+escrito recientemente, sin mencionar a Proudhon, que, frente a la supuesta colisión
+entre la ciencia y la religión, y el no menos imaginario desplazamiento de esta última
+por la utopía avigorada por el poder que da la ciencia, los hechos evidencian que
+“la más imperiosa tarea que se nos presenta en la actualidad es la de aceptar la irreductible realidad de la religión”23. Según este autor, las ideologías, religiones seculares que pretenden sustituir el misterio por la utopía, habrían agotado su ciclo. Sin
+embargo, de acuerdo con su mismo razonamiento, esta afirmación es dudosa. Es
+posible que las emociones y actitudes apocalípticas se hayan tomado un merecido
+descanso después de su intensa actividad en el siglo XX. Sin embargo, sigue vigente
+el modo de pensamiento ideológico, el mundo sigue estando intensamente politizado, es cada vez más caótico precisamente porque, aparte de otros factores, cuando
+la politización alcanza cierto grado de intensidad deviene antipolítica, y sólo la teología podría darle un sentido.
+La filosofía moderna, quizá por su empeño en ser una filosofía “pura”,
+“exacta”, conforme a la afirmación de Platón de que «el filósofo es el que ve el todo
+y el que no, no lo es» (Rep. 537ª 14-15), persiguió demostrar la existencia del Deus
+absconditus del Cusano. Mark Lilla se concentra en esa tendencia a superar lo que
+llama la “Gran Separación” entre la religión y la política. Separación que se hizo
+inevitable al fracasar el intento y tenerse que contentar la modernidad con elaborar
+una teodicea (justificación de Dios), cuya limitada o dudosa capacidad probatoria no
+
+22
+El Dios que no nació. Religión, política y el Occidente moderno, Barcelona, Debate 2010, 7, pp. 265-267.
+Habría que hacer la reserva indicada de que en la Edad Media, y probablemente en los regímenes no teocráticos en general, sería tal vez más exacto hablar de teología jurídica. Así, el derecho divino de los reyes, sería una exigencia de la teología política moderna con la que el Derecho empezó a transformarse en la Legislación. Según el derecho divino de los
+príncipes, los gobiernos son en realidad teocráticos.
+23
+Misa negra. La religión apocalíptica y la muerte de la utopía, Barcelona, Paidós 2008, 6, p. 277.
+
+481
+
+
+
+legitima en todo caso su existencia. De la teodicea se puede decir que, aun cuando
+en modo alguno es equiparable a la ideología ni fue este el propósito de los filósofos modernos, cumplía empero con mayor o menor fortuna la función de justificar
+el absolutismo monárquico.
+2.– En efecto, el monarca absoluto reproducía la imagen voluntarista de
+Dios Creador según la potentia absoluta. Conforme a la univocidad escotista del ser,
+de potentia ordinata venía a ser un vicario de Dios, confiriendo una cierta lógica a
+su pretensión de poseer dentro de su reino la summa potestas en el mundo protestante, relativamente limitada empero a la plenitudo potestatis en el católico, debido
+a la preeminencia reconocida al Papa en tanto caput ecclesia. El imaginario derecho
+divino de los reyes vino a proporcionarle una cierta fundamentación teocrática (a la
+verdad más pagana que cristiana), debida en realidad a su gran fuerza retórica en
+aquellos tiempos. Lutero, ante la necesidad de conseguir el apoyo de los príncipes,
+había insinuado vagamente que es indiferente que el príncipe sea bueno o malo:
+conforme al dictum paulino nihil potestas nisi a Deo, es instituido en todo caso por
+la voluntad divina acorde con los merecimientos del pueblo: cada pueblo tiene el
+gobierno que se merece.
+El supuesto derecho divino se ajustaba perfectamente al particularismo protestante, sirviéndole de arma frente al Papa y frente a los súbditos, pues le daba autoridad al príncipe o monarca para crear el orden político con su poder efectivo, su
+potentia ordinata particular. No deja de ser significativo, que la primera exposición
+del derecho divino de los reyes —en dos panfletos asertóricos, pues, como decía el
+historiador J. W. Allen, en realidad no probaban tal derecho—, corriera a cargo de
+Jacobo V en la Escocia presbiteriana, quien, al subir al trono como Jacobo I por derecho de herencia en la anglicana Inglaterra, se intituló Rey de Gran Bretaña.
+En suma, el derecho particularista a la summa potestas de potentia ordinata,
+unido el derecho al mando de origen pagano vinculado a la sangre, justificaba el
+derecho de supremacía de las Casas dinásticas y la apelación a la legitimidad dinástica por derecho de herencia como ultima ratio. Desde el punto de vista cristiano se
+trata de derechos imaginarios, entonces, no obstante, muy eficaces también frente a
+la Iglesia católica, que negaba al existencia de semejante derecho. Una causa evidente, aparte de otras razones teológicas, como el hecho de que dentro de la misma
+Iglesia es inaceptable el derecho de sangre, uno de los motivos del celibato eclesiástico, era la incompatiblidad de semejante derecho con el universalismo cristiano.
+En las Monarquías católicas, las dificultades que planteaba la generalización del absolutismo en virtud de la potentia ordinata y el derecho divino (rechazado en España hasta que lo introdujo Carlos III en 1759; fue una causa, que apenas se menciona, de las guerras civiles carlistas) se resolvieron con la fórmula de la
+alianza del Trono y el Altar reconocida por la Iglesia con la otra fórmula de Bellar-
+
+482
+
+
+
+mino de la potestas indirecta, calificada por Carl Schmitt como una mala solución al
+problema de la auctoritas, a cuyo olvido contribuyó sin duda.
+Tiene razón Pierre Manent al sostener que la Monarquía Absoluta ha embrollado sobremanera la concepción europea de la política, al sustituir el principio de
+la omnipotentia iuris por la máxima regis voluntas suprema lex. Se abandonó así la
+tradición liberal europea de la política.
+3.– Para la historiadora de la religión Karen Armstrong, el quid de la cuestión radicaba en el abandono de la teología apofática tradicional, basada en la confianza, poniendo como ejemplo para simplificar el credere del Credo de Nicea24. En
+la Edad Media, la existencia de Dios no era problemática; la creencia, en su sentido
+etimológico de confianza, una capacidad natural, a diferencia de la fe que es un don
+divino, una gracia —la gracia de Dios—, era suficiente (la “gracia suficiente”). El
+mundo, hubiera dicho Augusto Comte, era todavía ingenuo y Max Weber que estaba
+“encantado”: sencillamente, se creía de modo natural y espontáneo en la divinidad
+como causa y fundamento de la realidad. Los judíos confiaban, creían, daban crédito
+a la revelación de Dios en el Antiguo Testamento, los musulmanes a sus revelaciones a Mahoma y los cristianos a su Encarnación en Cristo y a su Resurrección. Podría
+haber ateos, agnósticos, herejes, pero no se sentía la necesidad de demostrar la realidad de la divinidad. Este es un problema que planteó la Edad Moderna y acabó desfundamentando, diría Zubiri, la cultura occidental; desfundamentación que puede
+estarse extendiendo a las demás culturas a través de la politización o “secularización”, imitada en ellas de Occidente. Es contra esto contra lo que reacciona por ejemplo el islam, paradójicamente politizándose intensamente hasta el punto de unir la
+religión y la violencia, pues de suyo las religiones no son violentas, justamente porque su objeto es la vida sobrenatural25.
+4.– En todo ello puede tener mucho que ver la transformación de la Ley de
+Cristo en una religión, pues el cristianismo, a diferencia de otras “religiones” se funda
+en un acontecimiento real: la existencia histórica de Cristo como autorrevelación de
+Dios. De ahí la justificación por la fe radicalizada por Lutero influido por el averroísmo medieval y el nominalismo de Ockham.
+Según el citado teólogo William Cavanaugh26, quien, igual que Armstrong,
+tampoco utiliza explícitamente el concepto Gran Separación de Lilla, hay que tener
+en cuenta lo que se dijo antes de que en la Edad Media no se hablaba de la religión
+más que como una virtud. Por ejemplo Calderón de la Barca, quien escribía dentro
+del ordenalismo de la tradición medieval vigente en España, se refería a “la milicia
+En defensa de Dios. El sentido de la religión, Barcelona, Paidós 2009
+Cfr. W.T. Cavanaugh, El mito de la violencia religiosa.
+26
+Vid. La imaginación teo-política.
+24
+25
+
+483
+
+
+
+como religión de hombres honrados”. Bajo la concepción ordenalista, los conflictos
+religiosos eran en realidad conflictos legales o de poder, como todavía más tarde las
+guerras de religión de los siglos XVI y XVII, en las que la religión era una excusa.
+La religión pertenece al mundo natural, el de la potentia ordinata. Tal como
+se entiende hoy, en ella se combinan la creencia o confianza natural con la fe en lo
+sobrenatural. Si la fe no está viva, subsiste en la creencia como “fe muerta”. Si la
+razón desacredita la creencia, la fe pierde su fundamento natural y aunque siga viva
+se desconcierta. Los cambios sociales, unidos a la presión de las ideologías sustitutorias de la religión al fracasar la teodicea como justificación de Dios por la imposibilidad de demostrar Su existencia, y a las interpretaciones ideológicas ingenuas del
+tipo cientificista, al debilitar las creencias colectivas han dejado a la fe cristiana sin
+su asiento natural27. A eso se debe la crisis actual de las Iglesias, sobre todo las protestantes, debilitadas por la crítica, más bien que a la fe, que queda fuera de ella, a
+las creencias que la sustentan y religan; en la Católica y la Ortodoxa, se conservan
+mejor las creencias religantes de la fe, al mantener sus Iglesias la tradición y el principio de autoridad.
+En el curso del Renacimiento, la Ley de Cristo, universal para quienes creían en ella, se fundió con la fe, la forma personal de creer, y de esta unión salió la
+religión cristiana tal como se entiende hoy en día. Es decir, se inventó la religión28,
+con la consecuencia de que esa unificación de la Ley de Cristo con la fe en la forma
+de religión, le atribuyó a esta última en el mundo protestante la misión de ordenar
+colectivamente la fe. Por eso el protestantismo, sin eludir a Cristo, acude al Dios
+véterotestamentario. Por una parte, Yahwé, Dios Creador, es omnipotente y, por otra,
+a los príncipes les interesaba para mantener el orden, unir la fe con la moral, que
+disciplina la conducta.
+
+27
+
+Cfr. M. Gauchet, Le désenchantement du monde. Une histoire politique de la religión, París, Gallimard
+
+1985.
+El abate Reynal afirmaba en 1770: «El Estado no está hecho para la religión, sino la religión para el Estado».
+Para Niklas Luhmann, «la necesidad de la religión no puede ser demostrada con fundamentos antropológicos, sino sólo
+sociológicos. La religión no soluciona problemas específicos del individuo, sino que cumple una función social… Para
+los hombres individuales es prescindible, no, sin embargo, para el sistema de comunicación llamado sociedad», Sociología
+de la religión, México, Herder 2009, IV, X, pp. 281-282. El teólogo católico William Cavanaugh escribe (siguiendo a Talal
+Asad): la religión “«como un sistema de símbolos separable teóricamente de las comunidades de fieles, es una invención
+moderna, que ha facilitado la absorción de la Iglesia dentro del Estado secular moderno»….«En el Occidente moderno,
+el locus primario de la disciplina ha pasado a ser el complejo ‘Estado-Sociedad’, y la Iglesia ha sido transformada sustancialmente en una asociación voluntaria semi-privada», El mito de la violencia religiosa, 2, III, p. 89. D. Sureau resume
+en su Introducción a Una nueva teología política (en torno a la “Radical Orthodoxy”), Granada, Nuevo Inicio 2011, que
+«al término de la evolución occidental, la “religión” no es ya una forma auténtica (menos aún eminente) de conocimiento de lo real, sino el dominio puramente privado y subjetivo del sentimiento y de la preferencia personal. Y la Iglesia ya no se percibe como Cuerpo de Cristo, Pueblo de Dios, sacramento de la unidad de la humanidad, sino como reagrupamiento de individuos que comparten ciertas creencias (que cada vez son más vagas) y ciertos valores sucesivamente
+enunciados al modo kantiano de la moral de la obligación y después al modo relativista de la ética personal»…, p. 14.
+Cfr. la conocida tesis de M. Gauchet sobre “la salida de la religión” en Le désenchantement du monde.
+28
+
+484
+
+
+
+En efecto, de hecho, el principio dogmático del libre examen planteó en el
+mundo reformado el gravísimo problema de la imprevisibilidad, lo que hacía necesario justificar la obediencia que religa a los súbditos con los príncipes. Ésta fue la
+causa de que la enseñanza protestante insistiese sobre todo en la moral, en la que
+era más fácil ponerse de acuerdo que en cuestiones de fe, tanto por las tradiciones
+heredadas como por su carácter natural. De ahí que los conflictos legales se transformasen en religiosos, el auge de la moral, que antes formaba parte del Derecho
+Natural, del rigorismo moral y la necesidad de revivals de vez en cuando de la fe
+como la vitamina de la creencia.
+5.– O sea, al predicar la justificación por la fe y el sacerdocio universal de
+los cristianos la Reforma suscitó una situación de inseguridad generalizada, al destruir simultáneamente la tradición y el principio de autoridad, como experimentó el
+propio Lutero con los anabaptistas.
+La primera respuesta, por decirlo así manu militari, fue el reconocimiento
+en la paz de Augsburgo de 1555 entre Carlos V y los príncipes luteranos, del aludido
+principio protestante cuius regio eius religio como principio pacificador del Imperio
+a fin de neutralizar políticamente las disensiones político-religiosas. Eso alteraba la
+relación tradicional entre los dos poderes al poner a los príncipes temporales en el
+primer lugar, como cabeza también de las respectivas Iglesias. Era otra razón para la
+preferencia por el Antiguo Testamento, pues la distinción entre la auctoritas y la
+potestas es más nítida e indiscutible tras la existencia de la Iglesia fundada por Cristo
+en el Nuevo, que distingue lo sagrado de lo laico.
+Todo eso explica la necesidad perentoria del protestantismo de una teología política capaz de fundamentar la unión de la auctoritas y la potestas en la persona de los príncipes para hacer posible el gobierno e impedir, encauzar y neutralizar los conflictos, empezando por los religiosos. Teología política que tenía que
+demostrar la existencia de Dios para justificar o, mejor aún, legitimar sin cortapisas
+el derecho divino de los príncipes a exigir obediencia.
+La necesidad de demostrar la existencia de Dios como un tema esencial de
+la filosofía moderna, era pues doble. Por un lado, como se ha reiterado muchas
+veces, la perentoriedad de solventar el solipsismo del hombre moderno alejado de
+la divinidad por la ruptura averroísta entre la razón y la fe, recogida por el protestantismo a través de Ockham (en modo alguno sólo a través de Ockham, quien
+jamás discutió la auctoritas del Papa como caput ecclessiae; al contrario); pues separada o diferenciada la fe de las creencias, que en el mundo natural son la base de la
+confianza en que descansa el reconocimiento de la autoridad, únicamente cabía acercarse a Dios mediante la fe estrictamente personal, casi mística. Por otro lado, debilitadas las creencias colectivas, al no estar ya unidas o religadas por la fe, la necesidad de solucionar los fundamentos de la convivencia, en la vida colectiva.
+
+485
+
+
+
+6.– Otra consecuencia importante, sino la decisiva en el orden de los conceptos, fue la alteración, de gran alcance en el plano del orden temporal humano,
+de la antiquísima visión del orden universal. El ancestral orden natural, increado (en
+las religiones no bíblicas) o creado (en las religiones bíblicas), cuyas reglas, derivadas de la ley divina, natural en tanto ley moral, remitían al Derecho Natural, fue sustituido por la concepción del nuevo orden artificial: el orden estatal capaz de dar
+(coactivamente) seguridad en este mundo. Creado o producido por la voluntad
+humana, sus reglas, el derecho público, ocuparon el lugar de las del Derecho Natural establecidas por Dios de potentia ordinata.
+Se consideraba que el Derecho emergía del impulso de lo creado hacia el
+Bien, que en el caso de la naturaleza humana atrae la voluntad hacia ese fin. Pero
+desde Duns y sobre todo Ockham, dice Welzel, al ser las reglas obra de la voluntad,
+la razón humana no puede discernir claramente por sí misma el bien y el mal. Mas
+tarde, Grocio llegó a afirmar desde ese punto de vista de la potentia ordinata, que
+como el mismo Dios no podría hacer que 2 x 2 no fuesen cuatro, la razón podía operar como si Dios no existiese. Preparó así el camino al Derecho Natural racionalista,
+al que dio imediatamente Hobbes su forma definitiva como un monopolio del legislador humano capaz de determinar, como vicario de Dios, mediante el derecho político, lo bueno y lo malo en este mundo: el decisionismo ínsito en la conocida
+máxima hobbesiana auctoritas non veritas facit legem.
+Esta versión del Derecho Natural es una solución, a la verdad ingenua, del
+problema de la legitimidad de la Legislación, el derecho emanado del soberano para
+configurar el orden político. A partir de la revolución francesa, surgió la necesidad
+de la decisión normativa basada en la volonté générale de la que salió el nuevo constitucionalismo29.
+7.– La cuestión de la legitimidad empezó a plantearse en torno a la nueva
+relación entre los dos poderes o mejor, entre la auctoritas de la Iglesia y la potestas
+del poder temporal. Sin embargo, gracias a la solución del cardenal Bellarmino de
+la potestas indirecta de la Iglesia sobre la directa de los poderes políticos, el tema
+de la distinción entre lo legítimo y lo legal —prácticamente innecesaria en el mundo
+protestante en virtud del principio cuius regio eius religio— no se planteó en los
+países católicos hasta la Restauración que siguió a la Gran Revolución. Y por cierto,
+no en torno a la cuestión fundamental, sino en relación con la legitimidad dinástica.
+Pues, en lo que concierne al Derecho como tal, al no diferenciarlo de la Legislación,
+la gran innovación del voluntarismo inherente al racionalismo político, se siguió de
+momento la tradición eclesiástica de no distinguir entre lo legal y lo legítimo.
+29
+Vid. el opúsculo de C. Schmitt, Sobre los tres modos de pensar la ciencia jurídica, Madrid, Tecnos 1996.
+Los tres modos son, como es sabido, el decisionista, el normativista y el positivista. Habría que agregar el modo del orden
+concreto al que se refiere Schmitt en otros lugares, con el que reintroduce en realidad el viejo Derecho Natural.
+
+486
+
+
+
+De hecho la Iglesia —o las Iglesias, depende—, sigue utilizando la palabra legítimo sin establecer ninguna diferencia entre legal y legítimo, puesto que la
+raíz latina es la misma en los dos casos y el derecho canónico, si no es derecho
+divino como sostiene fundadamente alguna escuela, en todo caso se fundamenta
+en la teología. Sólo se apela a la distinción cuando discute la Iglesia la moralidad
+de una ley civil, aunque, últimamente, lo hace también a la inversa el poder político cuando niega el derecho de la Iglesia o las Iglesias a pronunciarse en cuestiones morales. En el fondo, la cuestión de la legitimidad surge del problema central
+de la teología política: la relación entre la auctoritas y la potestas, que se está
+replanteando vivamente a causa de la política legislativa estatal influida o dominada
+por el laicismo radical.
+Todo lo expuesto aparece de una manera u otra en las teologías políticas
+protestantes en torno al problema, de difícil solución en ellas, de la auctoritas y la
+potestas 30.
+
+IV.
+HOBBES: LA CONSTRUCCIÓN TEOPOLÍTICA
+DEL ORDEN HUMANO
+1.– Carl Schmitt fue también el primero en caer en la cuenta que el pensamiento político de Hobbes era teológico-político31 al otorgar la primacía al decisionismo puramente político en su gran obra Leviatán (1651). Es decir, no al decisionismo natural, como el del juez al emitir su sentencia, que razona y decide dentro
+de un orden objetivo increado o creado. Hobbes invirtió así la teología jurídica-política medieval dándole la forma de la teología política-jurídica presentando al Estado
+Leviatán como un deus mortalis, cuyos presupuestos teológico-políticos sustentan el
+orden político artificial creado mediante su Legislación, para dar protección y seguridad en este mundo.
+Thomas Hobbes (1588-1679) era también un conservador ockhamista. Pero
+su “decisión metafísica” (Y. Zarka) fue revolucionaria al sustituir el antiguo orden
+jurídico natural por ese nuevo orden político artificial, el Estado, con su correlativa
+“nueva ciencia de la política”, más teórica —científica— que práctica. Coincidiendo
+
+30
+Esta cuestión no es exclusiva del mundo cristiano. Es común a todas las culturas y civilizaciones. La diferencia fundamental estriba en que, en las no bíblicas, la auctoritas se imputa a la Naturaleza. En los Estados o gobiernos musulmanes, el tema es menos relevante al ser teocráticos (una excepción podría ser la Turquía de Kemal Atatürk):
+en ellos, las disputas versan sobre la autoridad, no entre la autoridad y el poder. En el judaísmo no existe el problema
+en tanto la nación hebrea carece de poder político; hoy puede plantearse empero en el Estado de Israel.
+31
+En El Leviatán en la teoría del Estado de Thomas Hobbes, Madrid, Ediciones Haz, 1941 (Ed. reciente en la
+editorial Comares).
+
+487
+
+
+
+con la también innovadora metafísica de Descartes centrada en la certeza, Hobbes
+inauguró en el plano político, la tradición racionalista de la voluntad y el artificio,
+que, según Michael Oakeshott32, acabó remplazando la de la naturaleza y la razón.
+Según esta última, las ordenaciones humanas han de someterse al orden natural,
+moral en lo que concierne al ser humano, el único ser moral por naturaleza en
+tanto ser libre.
+La tradición inaugurada por la fantástica construcción hobbesiana, en
+rigor un mito, intensificó paradójicamente pese de su carácter conservador, su
+revolucionarismo en tanto innovadora de la tradición política, al oponerse al modo
+de pensamiento ideológico o paraideológico de los mayores enemigos de Hobbes, los “santos”calvinistas, imbuidos de la misión de realizar el Reino de Dios en
+la Tierra.
+La fe milenarista fue muy importante en la Reforma y la conjunción de
+ambas tendencias, la hobbesiana y la puritana —esta última según Voegelin un
+rebrote del eterno gnosticismo—, al apoderarse del Estado el modo de pensamiento
+ideológico en la revolución francesa, constituye el origen del espíritu revolucionario
+que llega hasta nuestros días a través del socialismo: la conciencia apocalíptica forma
+parte de la modernidad y “en las versiones laicas del Apocalipsis, la nueva era llega
+a través de la acción humana”33. En el trasfondo, late esa idea puritana de implantar
+el Reino de Dios en este mundo instrumentalizando el artificialismo estatal y la revolución tecnológica al servicio de la política escatológica.
+2.– Richard Hooker había fundado la teología política anglicana34, y Hobbes, motivado por la guerra civil inglesa (1640-1649), enmarcada en la primera guerra civil europea, la guerra de los Treinta Años (1618-1648), dedujo su mítica teoría
+de lo Político conforme a la doctrina protestante y anglicana de que el poder absoluto le corresponde directamente al rey como un dictador: por el hecho de serlo
+(representación de arriba abajo), la razón estaba de su parte y sólo él está autorizado
+para descubrir e imponer el derecho positivo público o colectivo. El positivismo
+emprende su vuelo.
+El presupuesto del sistema de Hobbes era el minimum religioso de
+Bodino: las tres primeras frases del Credo de Nicea —“creo en Dios Padre todopoderoso, creador del cielo y de la tierra, creo en Jesucristo su único Hijo salvador y redentor mío”— y los Diez Mandamientos. Haciendo suya la teoría jurídica-
+
+32
+Hobbes, On Civil Association, Oxford, Blackwell, 1975, II, p. 7. La visión científica mecanicista de Hobbes de la Naturaleza, saca partido al artificialismo ínsito en el Génesis.
+33
+J. Gray, Op. cit. 1, p. 25.
+34
+Vid. J. Fueyo, Estudios de teoría política, Madrid, Instituto de Estudios Políticos 1968. “La teología política
+del Estado-nación y el anglicanismo político”.
+
+488
+
+
+
+política de la soberanía formulada por el pensador francés —asimismo para poner
+fin a la guerra civil entre los católicos y los hugonotes, los calvinistas franceses35—
+, Hobbes imaginó el Estado como un instrumento capaz de pacificar para siempre los enfrentamientos civiles —la guerra civil—, y como se refería a reinos cristianos, reiteró unas cuarenta veces, según la cuenta de Jacob Taubes, la frase Jesús
+is the Christ 36, como el mínimo religioso. El resto era para Hobbes cuestión de fe,
+relegada al fuero íntimo de la conciencia; todo lo demás cae bajo el fuero de la
+razón entendida, igual que en su conocido Descartes, como la recta ratio de origen estoico. Es más, decía Hobbes, “la Escritura del Nuevo Testamento es ley sólo
+allí donde el poder legítimo la ha hecho tal” (Leviatán, XLII). Redujo prácticamente la presencia de lo divino en el mundo político al atributo de la poderosidad de Dios Padre en el Antiguo Testamento37. Advertía en la dedicatoria de Leviatán: “Lo que quizá pueda escandalizar en mayor medida son ciertos textos de las
+Sagradas Escrituras, utilizados por mí para propósitos distintos de su uso habitual
+en otros. Pero lo he hecho con el debido respeto y movido por la necesidad de
+mi tema, porque son como las avanzadas en las fortificaciones del enemigo, desde
+las que impugnan sus partidarios el poder civil”.
+3.– La teología política de Hobbes descansa, pues, en la imagen de Dios
+Omnipotente, por quien, de potestas ordinata, existen los diversos reinos o gobiernos naturales: “Quiéranlo o no, los hombres estarán siempre sujetos al poder divino.
+Negando la existencia o la providencia de Dios, los hombres pueden sacudirse su
+intranquilidad, pero no su yugo. Pero llamar a este poder de Dios (que no sólo se
+extiende al hombre, sino también a las bestias, las plantas y los cuerpos inanimados),
+con el nombre de reino constituye un uso metafórico de la palabra. Porque sólo
+reina propiamente quien gobierna a sus súbditos mediante su palabra y con promesa
+de recompensas para quienes le obedecen, amenazando con castigos a quiénes la
+desobedecen” (Leviatán, XXXI). La Omnipotencia divina legitima todos los gobiernos de potentia ordinata, coincidiendo con la justificación por Lutero de la obligación de obedecer pasivamente al príncipe, fuese bueno o malo. En ambos casos se
+
+35
+Nicolás Gómez Dávila observó agudamente que «al prolamar la soberanía del Estado, Bodin concede al
+hombre el derecho de concertar su destino» y en este sentido, «el Estado-soberano es la primera victoria democrática»,
+Textos I, Bogotá, Villegas Editores 2002.
+36
+“El (unum necessarium) único artículo de fe que la Escritura hace simplemente necesario para la salvación es éste: que JESÚS ES EL CRISTO”, Leviatán, XLIII. “¿Quién es el mentiroso, sino el que niega que Jesús es el Cristo?
+Ese es el Anticristo”, escribía San Juan en su primera carta (2, pp. 22-28). ¿Concibió Hobbes el Estado como un kat’echon o dique frente al Anticristo, como consideraban los anglicanos y otros protestantes al papa romano?
+37
+Como protestante, para él era muy importante el Dios del Antiguo Testamento. Los estudiosos anglosajones de Hobbes, no suelen tener en cuenta la tesis de Carl Schmitt de que su pensamiento político es teología política
+secularizada (quizá sería mejor decir politizada). No obstante, F. C. Hood reconoce que Hobbes introduce en su pensamiento político, como una ficción filosófica, su convicción religiosa sobre la obligación en conciencia. The Divine Politics of Thomas Hobbes. An Interpretation ob Leviathan, Oxford, Clarendon Press, 1964. Sobre la creencia en Dios Creador como la base del sistema de Hobbes, D. P. Gauthier, The Logic of Leviathan. The Moral and Political Theory of
+Thomas Hobbes, Oxford, Clarendon Press, 1969.
+
+489
+
+
+
+niega el tradicional derecho de resistencia, una de las claves del ordenalismo medieval, correlativo a la omnipotentia iuris 38.
+La paz de Augsburgo, al reconocer el principio cuius regio eius religio implicaba de suyo una concepción política-religiosa del poder, entrañando asimismo una
+concepción de la Nación coincidente con la católica anglicana. Hobbes, siguiendo a
+Marsilio y a Ockham, rechazó también la supremacía espiritual del Papa —su auctoritas— considerándolo, por su influencia directa o indirecta en el plano político,
+un poder extranjero, que se inmiscuía en la política inglesa a través de la religión y
+el sacerdocio. Simultáneamente, y sin duda con mayor acritud, combatió la escatología políticamente revolucionaria de los calvinistas; especialmente la de los puritanos y, entre estos, los de la Quinta Monarquía, a los que deseaba ver muertos.
+Estos puritanos, relacionando los cinco reinos o imperios del Libro de
+Daniel con la promesa apocalíptica “el nuevo cielo y la nueva tierra”, la interpretaban como formando parte del plan de Dios, de quien se consideraban los únicos
+voceros autorizados, proponiéndose realizarla utilizando la política39. Hobbes, utilizando como armas políticas los conceptos, combatía su gran innovación, la idea
+revolucionaria de transformar el mundo mediante la política, con más acritud que a
+los papistas. Compartía empero con ellos el énfasis de Calvino en la inexorabilidad
+de los mandatos o leyes de los príncipes, en su caso, como conclusiones inferidas
+científicamente de las leyes de la Naturaleza humana según la ciencia. Para defender su propia posición absolutista reiteró frente al absolutismo puritano la frase de
+Jesús “Mi reino no es de este mundo”. Lo contrario, la teocracia implícita del calvinismo, iba contra la Creación según la potestas ordinata.
+4.– Hobbes fundamentó antropológicamente su “nueva ciencia de la política” en el estado teológico de naturaleza caída. Conforme a la concepción protestante, la naturaleza humana está en él absolutamente corrompida, añadiendo por su
+cuenta que no existía allí “vida confortable”, “ni artes ni letras ni sociedad, y lo que
+es peor de todo, existe continuo temor y peligro de muerte violenta”: el hombre es
+un lobo para el hombre (el homo homini lupus de Plauto). Transformó el estado de
+naturaleza caída en un modelo científico: una situación arreligiosa, amoral y apolítica, casi nihilista, en cambio y movimiento perpetuo, de la que sólo se podía salir
+
+38
+Y, pari passu, igual que Descartes justificó el racionalismo filosófico haciéndolo descansar en la idea de
+que Dios no puede engañar.
+39
+Vid. la formación del espíritu revolucionario puritano en M. Walzer, La revolución de los santos. Estudio
+sobre los orígenes de la política radical, Buenos Aires, Katz, 2008. Cfr., J. Gray, Op. cit. Parte ese autor de que el espíritu
+revolucionario es connatural a la religión cristiana. Efectivamente, en la jerarquía de las revoluciones el cristianismo es
+la Gran Revolución origen de todas las demás y una revolución permanente. No obstante, dentro de ese contexto, el
+puritanismo calvinista parece haber sido el primero en plantearse seriamente desde el punto de vista político, el llevar
+a cabo la concreta revolución colectiva definitiva. Cfr., también R. Schnackenburg, Reino y Reinado de Dios. Estudio
+bíblico teológico, Madrid, Fax 1967. F. Canals Vidal, Mundo histórico y Reino de Dios, Barcelona, Scire 2005.
+
+490
+
+
+
+mediante el poder redentor de un soberano. En ese modelo de inseguridad existencial asentó su innovadora teoría artificialista de lo Político40, concebida contra los
+disidentes religiosos enfrentados al poder real.
+Presentó al Estado, el ámbito de la soberanía en el que decide el soberano
+sin ninguna cortapisa, como un Hombre Magno, cuyo espíritu era el de la monstruosa
+alimaña marina Leviatán del libro de Job (41): un deus mortalis, frente al cual, non
+potestas enim super terram quae comparatur ei (a cuya potestad no puede compararse ninguna otra existente en la tierra). Leviatán depositario terrenal de la omnipotencia divina conforme a la potestas ordinata.
+Hobbes resumió a posteriori su tesis principal en Behemoth, el libro sobre
+la guerra civil41: «para el gobierno de una república no bastan ni ingenio ni prudencia, ni diligencia, si faltan reglas infalibles, así como la verdadera ciencia de la equidad y la justicia»42. En último análisis, se trataba de la infalibilidad política del príncipe maquiavélico en tanto vicario infalible de Dios Omnipotente en lugar del Papa.
+De ahí su doctrina esencial de que “las leyes civiles son leyes de Dios”, algo así
+como el derecho canónico concebido empero como el derecho para laicos.
+La apelación de Hobbes a la ciencia aplicada a la política se apoyaba en la
+Biblia, por lo que rechazaba la experiencia: la experiencia, había escrito ya en 1640,
+«no nos permite concluir que una cosa puede decirse que es justa o injusta, verdadera o falsa, o concluir una proposición universal». En cambio, «si se conociera la
+razón de las acciones humanas con el mismo grado de certeza con el que se conocen las razones de las dimensiones de las figuras [geométricas], quedarían desermadas la ambición y la avaricia, cuyo poder se apoya en las falsas opiniones del vulgo
+acerca de lo justo y de lo injusto; y el género humano gozaría de una paz tan sólida,
+que no parece que hubiera que luchar en adelante (a no ser por el espacio que
+requeriría el aumento de la población)»43. El Estado fundado teológicamente como un
+Estado de Paz, observó Leo Strauss.
+5.– Con esta idea, y conforme a la doctrina del príncipe como cabeza del
+Estado y por ende de la Iglesia nacional —en su caso la anglicana—, modificó Hobbes la antigua concepción del Derecho Natural sustituyendo las costumbres como
+medio de conocimiento del Derecho, por las leyes del derecho natural racionalista
+
+40
+Cfr. en P. Sánchez Garrido y C. Martínez-Sicluna (eds.), Historia del análisis político, Madrid, Tecnos 2011.
+D. Negro, Cap. 12: “Thomas Hobbes: El mito del orden político artificial”.
+41
+Behemoth (Madrid, Tecnos, 1992) parece haber circulado en copias hasta que alguien lo publicó en 1679
+sin autorización de Hobbes. Behemoth es el nombre de la otra gran alimaña terrestre del libro de Job.
+42
+Behemoth, II, pp. 91-92.
+43
+El ciudadano (1651). Madrid, CSIC, 1993. Dedicatoria al Conde de Devonshire, p. 3. Incluido en el Índice
+de libros prohibidos en 1654. Posteriormente también lo fueron las principales obras de Hobbes. Los estudiantes de
+Oxford las quemaron en 1683.
+
+491
+
+
+
+inferidas por el soberano de las leyes de la naturaleza humana. Una concepción del
+Derecho Natural, que permitía resolver el problema de la teología anglicana de la
+relación entre los “dos poderes”.
+En la concepción hobbesiana, el soberano político depositario del poder de
+Dios, parte de las leyes fundamentales de la naturaleza humana transformándolas
+mediante la recta ratio en la fuente del Derecho, las leyes civiles. Hobbes ofreció
+varias enumeraciones (once, veititrés) de esas leyes fundamentales de la conducta
+deducibles de las de la naturaleza humana interpretadas según el mencionado principio leges naturales etiam civiles sunt. Por eso Leviatán no iba tanto contra el Papado
+y la Iglesia romana, una cuestión política resuelta ya por la teología política anglicana
+de Hooker, como contra la teología antipolítica de los quiliasmos apocalípticos. Mas
+con la teoría-mito del Estado quedó abolida la distinción entre la auctoritas de la Iglesia y la potestas del poder político según la citada máxima auctoritas non veritas facit
+legem (la autoridad no la verdad [cuestión de palabras] hace la ley).
+El calvinista Rousseau, criticó más tarde que Leviatán, al fundarse en un
+contrato político no lograría acabar con la distinción: el calvinismo es teocrático y en
+su Contrato social propuso la teocracia islámica como ejemplo a imitar, en la creencia, también ingenua, de que resolvería el eterno dualismo en torno al cual gira la política. Elaboró al efecto la antipolítica doctrina puritana de la voluntad general, que
+unifica aparentemente la auctoritas y la potestas. Unificación antipolítica consagrada
+por la Gran Revolución al instituir el Estado-Nación: el Estado, la potestas como plenitudo potestatis, puesto que la recibía del pueblo a través de la Nación, titular también
+de la auctoritas. La soberanía del Estado-Nación como summa potestas.
+Augusto Comte, de formación católica, les reprochará luego a Rousseau y
+a la revolución francesa, que, con todo, la distinción entre la auctoritas y la potestas
+es “la question capitale de la politique”. Para solventar la cuestión de “los dos poderes”, Comte, un ateiólogo, propuso empero como pouvoir espirituel un consejo de
+sabios de cierto parecido con la Nationality de Coleridge, preocupado por entonces
+en renovar la teología política anglicana.
+
+V.
+COLERIDGE: RENOVACIÓN DE LA CONCEPCIÓN
+TEOPOLÍTICA ANGLICANA
+1.– Samuel Taylor Coleridge (1772-1834) afrontó el problema protestante
+de la relación entre los dos poderes de manera más concreta que Richard Hooker
+y distinta a la de Thomas Hobbes. Aunque utiliza la palabra Estado, su visión natural e histórica del orden se opone en realidad a la concepción artificialista y constructivista.
+
+492
+
+
+
+Meditando sobre la decadencia espiritual de la Iglesia de Inglaterra y la
+necesidad política de reformarla para afrontar las nuevas circunstancias (la revolución industrial y urbana), comprendió Coleridge que, como decía Álvaro d’Ors, la
+auténtica división del poder es la que se da entre la auctoritas y la potestas. Al ser
+aquel eminentemente oligárquico en una sociedad en que tanto habían prosperado
+las clases medias a causa de las transformaciones materiales, no respondía a las necesidades de la Nación. Y para controlar el Gobierno y revitalizarlo era imprescindible
+renovar la auctoritas eclesial.
+Considerado el sucesor de Burke al frente de la escuela conservadora, Coleridge se inclinaba empero a la democracia y, para reformular la teología política
+anglicana, renegó del pacto constitucional de la Revolución Gloriosa (1688-89). Esta
+revolución incruenta había consagrado el régimen oligárquico al confirmar el absolutismo del Parlamento —del rey con el Parlamento—, contra el que había luchado
+Hobbes, partidario del absolutismo de uno solo como una suerte de dictador comisario44. Coleridge se remontó a Hooker teniendo cuenta las nuevas circunstancias.
+Influido por la vieja metafísica de la luz de los platónicos de Cambridge y
+el pensamiento alemán contemporáneo —especialmente Kant y el idealismo—, del
+que fue introductor en Inglaterra, partía de la existencia de dos mundos: el mundo
+de las ideas y el mundo material. Arthur O. Lovejoy dijo que Coleridge creía, igual
+que Platón y Kant, en dos mundos o reinos del ser correspondientes a las dos facultades del conocimiento, el entendimiento y la razón45. El primero sería el órgano del
+modo de pensamiento mecánico (el hobbesiano), la segunda el del orgánico, caro
+a los alemanes46. “Filósofo moral y religioso, escribió Stuart Mill en su famoso Ensayo
+sobre Coleridge, pocos hombres habrán combinado nunca tanta seriedad con un
+espíritu tan católico y no sectario”. Uno de sus puntos de partida fue su reproche a
+Schelling, sin embargo uno de sus grandes mentores, de que su doctrina de la libertad no podía satisfacer a un alma religiosa. Su “problema central”, resume John Colmer47, era el papel de la Iglesia en una sociedad pluralista.
+Por un lado, como enseñaba la teología anglicana, le corresponde a la Iglesia el animar y promover la cultura nacional; por otro, una Iglesia vigorosa constituye el contrapunto indispensable a la omnipotencia y la corrupción del gobierno.
+O sea, era preciso restablecer la auctoritas.
+
+44
+Sobre las formas de la dictadura, C. Schmitt, La dictadura, Desde los comienzos del pensamiento moderno
+de la soberanía hasta la lucha de clases proletaria, Madrid, Revista de Occidente 1968.
+45
+Essays on the History of Ideas, Baltimore/London, The Johns Hopkins Press 1970. “Coleridge and Kant’s
+two Worlds”, p. 265.
+46
+Vid. para todo esto D. Negro, “Introducción” a John Stuart Mill, Sobre Coleridge, www.lulu.com, 2011.
+47
+“Introducción” a su edición de On the Church and the State en las Collected Works de Coleridge, Routledge
+and Kegan Paul y Princeton University Press, vol. 10. Afirma Colmer con razón, que ese libro, poco conocido, es “uno
+de los grandes libros de la teoría constitucional”.
+
+493
+
+
+
+2.– Coleridge había captado desde un punto de vista teológico de la potestas ordinata distinto al de Hobbes, que la forma histórico-política de la civilización
+europea es la Nación, “un cuerpo político que tiene dentro de sí el principio de su
+unidad”. Ese principio ordenador es la Constitución (como reminiscencia de la
+omnipotentia iuris), que, según su Idea, tiene dos polos, el Estado y la Iglesia. En
+las naciones concretas, la Constitución es como “el imán formado por ellos”, que unifica al cuerpo político, cuyas “partes integrantes, clases u órdenes, están tan equilibradas, son tan interdependientes, como para constituir aproximadamente una unidad moral, un cuerpo orgánico” o natural, escribió en su obra política fundamental
+On the Church and the State. El soberano no es, pues, el Parlamento sino la Constitución (la omnipotentia iuris), que abarca el cuerpo entero del pueblo inglés48. El
+poder absoluto, que reúne la auctoritas y la potestas, no le pertenece ni al Parlamento
+—en realidad the King (la auctoritas) in Parliament (la potestas)—, como era el caso,
+ni al monarca como sostenía Hobbes, sino a la Constitución, renovando así la doctrina tradicional, aristotélica, romana y medieval, del imperio del Derecho, que encajaba con la doctrina del Common-law expuesta por los juristas ingleses anglicanos
+—Coke, Halifax— frente al absolutismo monárquico, pero que alcanzaba también al
+Parlamento, que ostentaba el poder absoluto como soberano49.
+La innovación más llamativa de la teología política de Coleridge radica en su
+concepción de la Nacionalidad. La Nationality es el fundamento de la Nación, al ser
+la fuente de su cultura y, sobre todo, de su espíritu (el êthos, la Sittlichkeit de los idealistas alemanes). Coleridge percibió claramente que la obediencia política es, salvo
+en casos raros o extremos, de naturaleza pasiva50, correspondiéndole a la Nacionalidad suscitar la obediencia voluntaria, si bien políticamente pasiva, a la vez que enmendar, paliar, moderar o superar con su influencia intelectual los defectos del Estado.
+3.– El gran problema consistía en que los ministros de la Iglesia habían sido
+en Inglaterra por causas históricas los representantes de la Nationality. Fue un accidente afortunado que la Iglesia (Coleridge distinguía entre la Iglesia de Cristo y la
+Nationality) civilizase a los ingleses. Sin embargo, el catolicismo anglicano se había
+reducido a ser una religión rutinaria, convencional e incapaz de salir a la plaza
+pública más de lo estrictamente necesario, de modo que la relación del pueblo con
+lo divino se limitaba al ritual y a la liturgia. El monopolio de la Nacionalidad por el
+clero pervertía así sus fines: debido a su anquilosamiento y corrupción carecía de
+autoridad y no era ya capaz de cumplir su función social de equilibrar espiritualmente los estamentos suscitando el sentimiento natural de obediencia.
+
+48
+Coleridge comprendió perfectamente, igual que Bentham, Donoso Cortés y otros escritores, que Inglaterra no era una Monarquía, sino una oligarquía representada monárquicamente
+49
+Es de observar que “la monarquía inglesa es indiscutida decía N. Ramiro Rico, porque no es soberana”.
+Vid. lo que sigue en op.loc. cit., p.131.
+50
+Cfr. J. Freund, La esencia de lo político, Madrid, Ed. Nacional 1968, II.
+
+494
+
+
+
+Esto perturbaba gravemente al Estado, cuya misión, según su Idea orgánica,
+consiste en mantener el equilibrio entre lo sustancial del orden establecido y los
+cambios sobrevenidos: entre lo permanente de la Idea originaria de la Constitución,
+y la natural progresión histórica: la Constitución como fuente de la tradición creadora
+en virtud de la ley histórica, fundamental en Coleridge, de la permanencia y la progresión, de la conservación, el orden, y la libertad. La libertad natural que inspira el
+orden jurídico del orden social, cuya conservación corresponde al Estado.
+Lo peculiar de Coleridge consiste en que, adaptando la Constitución a la realidad histórica como desarrollo de sus posibilidades intrínsecas, no circunscribe la
+Nacionalidad al sacerdocio. The Nationality es un grupo de hombres que, gracias a
+un ingreso seguro procedente de un fondo o capital común (the Proprietage, los
+bienes de la Iglesia de Inglaterra), dedican sus vidas a mantener y aumentar las posesiones espirituales del pueblo. Se compone de hombres ilustrados en el sentido más
+amplio, como lo fueron los clérigos, clerks, medievales miembros de la Cleresy, la
+intelectualidad. A ellos les corresponde la dirección y orientación de la vida espiritual fundada en la verdad según la concepción cristiana del orden natural universal.
+En efecto, a partir de la Reforma, esos hombres entraron cada vez más en
+el mundo económico como médicos, abogados, profesores, científicos, ingenieros,
+mientras los clérigos religiosos se anquilosaron al seguir estando sostenidos cómodamente por el fondo de la Nacionalidad, además con grandes abusos por su parte.
+Para volver a la Constitución inglesa es preciso sostener instituciones de alta enseñanza auténticamente liberales (en el sentido pedagógico de las Humanidades): el
+fondo nacional reservado a la Iglesia debiera utilizarse para sostener en cada parroquia un pastor, presbítero o parson, un maestro de escuela —laico o consagrado—
+, dedicado a una labor pedagógica generalizada y permanente en relación con todas
+las clases. De esta manera, penetraría en ellas el espíritu de la Nacionalidad haciendo
+de la Nación una Comunidad, un desideratum del pensamiento romántico.
+Es de advertir que Coleridge no era un nacionalista en el sentido político
+pregnante de esta palabra. Lo que propugna es que el cuidado de la moral y la educación le corresponde a la Nación, no al Estado, cuyos fines son únicamente políticos, pero unido a través de aquellos aspectos a la Iglesia establecida.
+4.– La Iglesia de Coleridge, aunque católica (katholikós = universal) no es,
+pues, la anterior a la Reforma, que espiritual e institucionalmente formaba parte de
+la Romana. Conforme a la teología anglicana, aun siendo católica es la Iglesia Nacional inglesa, que por su corrupción ya no es empero un verdadero poder espiritual,
+por lo que ha de reformarse a fin de adecuarse a los nuevos tiempos.
+Su idea orgánica es ahora más amplia debido a la evolución histórica: la
+Nationality representa el espíritu de la Nación constituida y su permanencia y con-
+
+495
+
+
+
+tinuidad a través del tiempo, la tradición. De modo que, para ser católica según la
+Idea originaria de la Constitución, ha de ser nacional en el sentido de abarcar a todos
+los ingleses con independencia de su confesión —otro problema específico de Inglaterra por la variedad de confesiones y de sectas—, no debiendo, pues, limitarse
+exclusivamente a los pastores.
+Coleridge, dicho en términos conceptuales que no emplea, pretendía restablecer la distinción entre la autoridad y la potestad, perdida en el amasijo de intereses
+formado por la Iglesia y el Gobierno establecidos oligárquicamente: a la Nacionalidad, reorganizada según el estado de cosas, le corresponde la auctoritas, al Gobierno
+político —the State— la potestas. A la autoridad le corresponde custodiar a través de
+la cultura la verdad del orden jurídico tradicional, al que ha de plegarse la potestad.
+Una importante consecuencia de la teología política de Coleridge fue en
+parte el Movimiento de Oxford. En palabras del posterior cardenal Newman, “inyectó
+en mentes inquisitivas una filosofía más alta que la que hasta el momento estaban
+acostumbradas a aceptar”51. Pues, “la existencia objetiva de verdades religiosas fue
+el principio fundamental del Movimiento de 1833”52. Éste «no era tanto un Movimiento como un “espíritu que flotaba” en el ambiente»53. Recientemente, pueden percibirse ecos de Coleridge en la Radical Orthodoxy de origen anglicano, que cuenta
+ya muchos adeptos en círculos católicos y en diversas confesiones protestantes.
+Mientras Coleridge, influido por Kant y sobre todo por Schelling, intentaba
+abrir nuevos horizontes a la teología política anglicana, Hegel, de quien parece que
+el pensador inglés no sabía mucho o no le interesaba, hacía lo mismo con la luterana.
+
+VI.
+HEGEL: LA TEOLOGÍA POLÍTICA LUTERANA
+1.– La teología política moderna culmina sin duda en el intento de Georg
+Wilhelm Friedrich Hegel (1770-1831) de superar “la Gran Separación” entre religión
+y política54. La contradicción suprema que mueve la historia era para Hegel, igual que
+para San Agustín, la existente entre la vida interior del espíritu (el hombre interior
+
+Apología pro vita sua. Historia de mis ideas religiosas. Madrid, Encuentro 1996. III, p. 121.
+Ibidem. II, p. 76.
+Ibidem. III, p. 123
+54
+Hegel decía que “el dinero encierra hoy todas las influencias” y reacciona ya implícitamente contra la separación actual entre el cristianismo y la religión incoada en el kantismo, confirmada por el fracaso de la pretensión de la
+filosofía de los valores de colmar el vacío dejado por el criticismo kantiano. Una religión basada en valores acaba con
+la fe sobrenatural. El valor tiene un origen económico y, sin aludir a los valores, el teólogo católico Th. Ruster acepta,
+en el libro citado El Dios falsificado, la tesis de Walter Benjamín del capitalismo como una religión que al vaciar el concepto de Dios desfundamenta la auténtica religión. De ahí que propugne el distanciamiento del cristianismo de lo que
+se entiende hoy por religión bajo el capitalismo socialdemócrata…
+51
+51
+53
+
+496
+
+
+
+como espíritu subjetivo) y su vida exterior (el hombre exterior como objetivador de
+ese espíritu). Para él, la religión y la política, formas de la vida espiritual —de la
+interior y la exterior respectivamente—, son los dos grandes abarcadores de la vida
+temporal: constituyen la urdimbre de la totalidad del sistema orgánico que es la
+Nación, en cuya dinámica están imbricadas, con la relativa particularidad de que la
+verdad del sistema político depende de la religión: la religión está más cerca de los
+hombres que la filosofía al ser “el modo y la manera de la conciencia en que la verdad se da a todos los hombres”. Gracias a la religión, no necesitan llegar a la verdad
+a través de la filosofía, que, por lo demás, es heredera de la religión como un modo
+particular de la conciencia. La filosofía es elitista, la religión es popular, de todos.
+No sería exagerado afirmar, que Hegel anticipa en cierto modo (desde el
+punto de vista luterano del Estado-iglesia) la doctrina de los teólogos de la Radical
+Orthodoxy, sin embargo antiestatistas (si acaso subordinan el Estado a la Iglesia; o
+sea, subordinan la potestas a la auctoritas). Para ellos, que en tanto anglicanos son
+católicos, la verdadera política sería la de la Iglesia, por lo que la teología política
+(concepto que por supuesto no utilizó Hegel) “supone una verdadera teología de la
+Iglesia, una auténtica eclesiología”55.
+2.– A partir del casi místico ensayo El espíritu del cristianismo y su destino
+(1799), la religión y la política, desusadamente intensa esta última desde la Gran
+Revolución, están presentes o latentes en casi todos los escritos de Hegel, igual que
+en los de su contemporáneo Coleridge.
+2.1.– Su interés en la relación entre la religión y la política estaba decisivamente influido por la situación del Imperio, impotente a causa de su división territorial de origen feudal consolidada en la forma de divisiones estatales (Kleinstaaterei) por la paz de Westfalia. Más de tres siglos antes, hacia los tiempos de
+Ockham, fermentaba en Alemania un nacionalismo germanizante, enemigo de Italia y lo latino, de lo romano y del Papado: el antirömische Affekt, una consecuencia de la larga contienda de las Investiduras entre el Imperio y el Papado, que sirvió de caldo de cultivo para la Reforma en oposición al Renacimiento, un fenómeno
+italiano auspiciado por los mismos papas, y las diferencias religiosas agudizaron
+todavía más la división. El propio Lutero, viendo la postración de la políticamente
+dividida Alemania de su tiempo, había exclamado recordando su grandeza pretérita:
+«Alemania, si estuviese bajo un solo señor, sería invencible. Así lo fue bajo Enrique I,
+padre de Otón el Grande». La dura realidad era para el reformador, que el «César
+
+55
+D. Sureau, op. cit., 2, p. 63. Estos teólogos comparten por lo general ideas como las del metodista Stanley Haeurwas, mentor de algunos de ellos: “la Iglesia no tiene ética social: la Iglesia es ética social”. “El Evangelio es un
+Evangelio político. Los cristianos están comprometidos en política, pero en la política del Reino, que revela la insuficiencia de toda política fundada en la coacción y la mentira y que encuentra su verdadera fuente de poder en el servicio en
+lugar del dominio”. 3, pp. 127 y 128.
+
+497
+
+
+
+[Carlos V] no reina en Alemania como el monarca francés o inglés en sus reinos,
+sino los electores, esos septemviros, iguales al César en poder, aunque no en dignidad».
+Hegel había estudiado teología para ser pastor de la Iglesia luterana56, y
+partiendo de la teología, rechazó el contractualismo (el político de Hobbes y el social,
+de Rousseau) con su “estado de naturaleza” —dos mitos unidos en uno, en el que
+descansa hasta hoy gran parte del pensamiento político—, y planteó directamente el
+problema teológico político: todo depende de Dios, todo es acción de Dios.
+2.2.– Su punto de partida será, pues, una teología de la historia deudora de
+Joaquín de Fiore, interpretada y expuesta empero, en su temporalidad mundana,
+como una filosofía de la historia del despliegue del espíritu divino. La cultura, en la
+que se articulan, igual que en Coleridge, la política, la religión y la filosofía, como
+sujeto de la historia57. Prescindiendo del leit Motiv de la filosofía moderna de demostrar la existencia de Dios, esa teología filosófica se asienta sin duda en la afirmación
+del Evangelio de San Juan «a Dios nadie lo vio jamás; el Hijo único, que es Dios y
+que está en el seno del Padre, nos lo ha dado a conocer» (1, 18). Se le puede aplicar a Hegel lo que dice Hans Meier: con la Encarnación «se ha cumplido el tiempo»;
+ha comenzado la desdivinización del mundo, que incluye la desdemonización del
+Estado: «la disolución de la simbiosis antigua del emperador, el Imperio y la veneración de Dios»58. A partir de entonces todo es el despliegue de la Trinidad, como
+observara ya Dilthey. “Desde un punto de vista, toda su filosofía es una explicación
+del significado de la Encarnación y la Trinidad”, corrobora M.C. Taylor59.
+2.3.– Para Hegel, tan nutrido del pensamiento griego como su gran amigo
+Hölderlin, si el fundamento de la realidad es lo divino, su manera de hacerse presente en el mundo es el “Espíritu”. Por ende, siguiendo a Fichte y a Goethe (an
+Anfäng war die Tat, en el principio fue la acción. Fausto), su filosofía versa sobre la
+acción mundanal del Logos, la palabra divina del Evangelio de San Juan, como el
+despliegue temporal de la voluntad racional de Dios según su potentia ordinata. La
+tendencia fundamental de Hegel “puede describirse, afirmaba Cassirer, diciendo que
+habló de religión en términos de historia, y de historia en términos de religión»60. Su
+concepto rector, inspirado por San Agustín (hombre interior-hombre interior, etc.),
+Eckhart (el alma como una chispa, Funke, de lo divino), etc., es el espíritu como pre-
+
+56
+Cfr., todo esto más ampliamente en P. Sánchez Garrido y C. Martínez-Sicluna (eds.), Historia del análisis
+político, D. Negro, cap. 21, “La teología política de Hegel”.
+57
+Cfr. B. Bourgeois, Éternité et historicité de l’esprit selon Hegel. París, Vrin 1991.
+58
+«Demokratischer Verfassungsstaat ohne Christentum», I, p. 17, en M. Broker y T. Stein (eds.), Christentum
+und Demokratie, Darmstadt, Wissenschaftliche Buchgesellschaft 2006.
+59
+Añade Taylor: “Estas doctrinas, cuando se interpretan especulativamente, revelan la verdad no sólo sobre
+Dios, sino también sobre el yo y el mundo”. Op. cit., 4, p. 192.
+60
+El mito del Estado, México, Fondo de Cultura 1947, XVII, p. 301
+
+498
+
+
+
+sencia o mundanización de lo divino según la fórmula juvenil Geist ist Zeit (el espíritu es tiempo): «El espíritu es una individualidad que es representada, venerada y
+gozada en su esencialidad, como esencia; como Dios, en la religión; que es expuesta
+como imagen e intuición, en el arte; y que es concebida y conocida por el pensamiento, en la filosofía» 61. El filósofo teólogo Hegel hubiera podido invocar la frase
+de Santo Tomás: “todo lo que se dice de verdadero viene del Espíritu Santo”.
+Su dogma fundamental podría ser el dictum de la póstuma Filosofía de la
+historia: “en la religión cristiana Dios se ha revelado, esto es, ha dado a conocer a
+los hombres lo que Él es; de suerte que ya no es un arcano ni un secreto”. A través
+de la historia de la oikonomia como revelación de Dios se llega a la theologia. De
+potentia ordinata, lo que Dios quiere que se conozca de Él ha de aprehenderse en
+la historia de espíritu humano. Comte decía prácticamente lo mismo prescindiendo
+empero de la divinidad, a la que sustituyó por el ser, el Gran-Ser. No es raro que el
+pensamiento de Hegel se confunda con el de Comte, al leerle con las anteojeras del
+positivismo; algo así pudo haberle pasado a Carlos Marx, aunque este partía de
+Feuerbach, cuyo reduccionismo no está lejos del pensador francés, y a otros hegelianos, sobre todo a los de la izquierda.
+2.4.– Que la teología era la preocupación fundamental de Hegel, lo demuestra su singular concepción de la Ciencia de la lógica. Según la idea expuesta en la
+Fenomenología del espíritu, «el método no es, en efecto, sino la estructura del todo
+presentada en su esencialidad pura»62, y en aquella se ocupa de la conexión
+racional de las partes y elementos que integran el sistema. Resulta evidente que en
+la Ciencia de la lógica la teología era para Hegel mucho más importante que la
+moderna ciencia racionalista. Hans Kelsen describió esa obra como un intento de
+oponer una lógica sintética de la dialéctica a la antigua lógica analítica. Hegel, decía
+Kelsen, tuvo que inventar una nueva lógica para reconciliar “su metafísica religiosa,
+sobre todo su teología de la historia, con la ciencia racionalista, cuyo derecho a existir no niega, pero a la cual asigna únicamente en su sistema filosófico un puesto
+subordinado en comparación con el que ocupa la teología”63.
+3.– El principal problema concreto de Hegel, tal vez el detonante de su
+teología política, era la mencionada situación del Imperio, dividido en múltiples estadículos en un momento en que la forma política adecuada al Weltgeist no era ya el
+Imperio sino el Estado.
+Lo universal era la Iglesia Romana, el Papado. Pero la Reforma escindió el
+lazo interno religioso del viejo Sacrum Romanum Imperium Nationis Germanicae,
+Lecciones de Filosofía de la historia universal, Madrid, Revista de Occidente 1955, Intr., II, 3, c), p. 100.
+México, 1966, «Prólogo», III, 3, p. 32.
+63
+¿Qué es justicia?, Barcelona, Ariel 1882, “La doctrina del Derecho Natural” V, p. 107.
+61
+62
+
+499
+
+
+
+avigorando al mismo tiempo con la doctrina del libre examen las tendencias subjetivistas, individualistas, de origen medieval. La religión, que informa el êthos de los
+pueblos, se había convertido así en un factor de debilitamiento del natural consenso
+social, incluso dentro de los gobiernos territoriales feudales que integraban el Imperio. La paz de Westfalia fue el golpe de gracia que consolidó la división política del
+consenso social: Alemania era una Nación Cultural pero no una Nación Política, por
+lo que no podía ser un Estado como los demás.
+En suma, por una parte, la división política feudal, adecuada a aquellos
+tiempos, era también religiosa, desde la Reforma y, con el paso del tiempo, dentro
+incluso de cada Estado particular, si bien en cuestiones de moralidad no existían
+diferencias, por lo que el êthos, la interpretación religiosa de la ley moral natural
+universal era prácticamente el mismo. Por otra, Hegel sabía que la libertad política
+es imposible sin la religiosa: política y religión son inseparables al ser lo divino el
+fundamento de la realidad empírica, histórica, constituyendo la religión el presupuesto de lo Político. Hegel hubiera dicho como Böckenförde64, que el Estado descansa en premisas de las que no puede prescindir. Teólogo político, y además luterano, comprendía que la obediencia política se caracteriza por ser pasiva cuando la
+garantiza una religión auténtica, no una religión civil, pública, como la de Rousseau
+y los revolucionarios franceses, un mero formalismo: un Estado alemán sólo podría
+existir asentado en la concreta religión cristiana de su Volksgeist (espíritu del pueblo).
+En tercer lugar, Hegel sostuvo, durante bastante tiempo, igual que muchos
+alemanes, católicos o protestantes, que, por razones objetivas, y dado que las diferencias religiosas se habían pacificado no siendo ya materia de controversia política,
+debiera ser la católica Austria la que unificase Alemania. Austria y Prusia eran los dos
+grandes poderes políticos alemanes. Pero la Monarquía austriaca, además de ser la
+titular del Imperio, se consideraba también más civilizada que la prusiana.
+4.– La desaparición material del Imperio en 1804 y la formal en 1806 le
+hizo cambiar de opinión, si bien la óptica de Hegel había sido siempre luterana: la
+fe de cada protestante, decía, «debe ser su fe porque es su fe y no porque es la fe
+de la Iglesia; él es un miembro de la Iglesia protestante porque se unió libremente
+a ella y porque permanece en ella por libre decisión. Todos los derechos que la Iglesia tiene sobre él descansan solamente en el hecho de que la fe de esta última es también su fe»65. Su teología política tenía que ser empero nacional en un sentido algo
+parecido al de Coleridge, de manera que acogiese la diversidad de confesiones sin
+dejar por eso de ser luterana. Desde el punto de vista político, esto no ofrecía gran-
+
+64
+Staat, Gesellschaft, Freiheit. Studien zur Staatstheorie und zum Verfassungrecht, Frankfurt a. M. Rowoholt
+1976. “Die Entstehung des Staates als Vorgang der Säkularisation”, III, p. 60.
+65
+Escritos de juventud, México, Fondo de Cultura 1978, “La positividad”, p. 116.
+
+500
+
+
+
+des dificultades, puesto que lo que le importa a la política de la religión, salvo casos
+de fanatismo religioso —que “anula toda diferencia”, decía Hegel— es la unidad del
+êthos, de la moralidad colectiva.
+La acusación habitual contra Hegel de ser un pensador reaccionario al servicio de la monarquía prusiana no tiene en cuenta los hechos ni que una teología
+política protestante ha de ser nacional sin que equivalga necesariamente a nacionalismo, aunque es cierto que el protestantismo favorece esta actitud haciéndola susceptible de transformarse en una ideología. Asimismo, las críticas habituales a la concepción hegeliana del Estado como un ente moral, suelen olvidar que cualquier
+teología política protestante presupone la unión entre el Estado y la Iglesia (predominante u oficial) respectiva, igual que, por imitación, la alianza del Trono y el Altar
+—una expresión tardía del siglo XIX— en las naciones católicas.
+La gravísima dificultad a la que se enfrentaba la teología política de Hegel era
+de otra índole, histórica-política. Al instituir la paz de Augsburgo entre Carlos V y los
+rebeldes luteranos, como principio político del Sacro Imperio la máxima cuius regio
+eius religio, subsumió la auctoritas religiosa en la potestas política. Y eso significaba,
+por un lado, el reconocimiento de la superioridad indiscutible de los príncipes sobre
+los súbditos de sus territorios, mermando la antigua libertad política, estrechamente
+unida a la religiosa; por otro, suponía la primacía de la política sobre la religión.
+En Alemania, la divinidad suprema era la misma al ser cristianas las distintas Iglesias y confesiones y, pensando en la unión política, la solución de Hegel consistió en invertir en cierto modo el sentido de aquella famosa máxima teniendo in
+mente la Polis antigua, en la que cabían diversas versiones de la religión sin perjuicio del culto a la divinidad suprema de cada ciudad, puesto que êthos era común. En
+principio, según la máxima de Augsburgo, si el pueblo es protestante (o católico) el
+Estado deberá ser protestante (o católico) para amparar los derechos de su Iglesia, rectora de la moral colectiva a través del Estado, un ente moral en la medida en que se
+trata de un Estado-iglesia. Mas, neutralizadas, apagadas, o disminuidas las emociones
+religiosas —el posible fanatismo religioso— hasta el punto de no ser ocasión de conflictos políticos, no se trataba ahora de una cuestión religiosa o política, sino de derechos. Y en un Estado de Derecho era posible ampliar los derechos para acoger la
+diversidad de confesiones bajo el mismo Derecho, en virtud del propio principio protestante del libre examen: un Rechtsstaat (Estado de Derecho) luterano con una Constitución adecuada como regla general, no tenía porqué ser incompatible con la libertad religiosa de los católicos y otras confesiones cristianas y además la política
+quedaba limitada por el Derecho. Ciertamente, la auctoritas de las respectivas Iglesias cristianas podría influir en ocasiones en la opinión de los ciudadanos, pero al
+compartir el êthos, no traspasaría del plano de la opinión. Concebido el Estado como
+un organismo —el organismo de la libertad—, la verdad cristiana, que en el fondo es
+la misma, sobre todo en el plano moral, influiría a través de él en la potestas.
+
+501
+
+
+
+5.– Hegel no divinizaba el Estado al decir que es «el paso de Dios sobre la
+tierra» (die Gang Gottes in der Welt), que debe ser «honrado como una divinidad
+terrenal» (wie ein Irdisch-Gottliches verheren: el deus mortalis de Hobbes), que es die
+Wirklichkeit der sittlichen Idee (la actualidad de la idea ética o espiritual) y lo an
+sich und für sich Vernünftige (en sí y por sí racional)66. Decía Joachim Ritter, que esas
+célebres frases deben interpretarse en sentido metafísico67. Son como la culminación
+de la teología política de Hegel: «La absoluta totalidad ética no es sino un pueblo»
+cuyo êthos —la Civilidad o Sittlichkeit, cuya figura es el êthos colectivo— encarna en
+el Estado que un pueblo necesita para su seguridad. El êthos como manifestación del
+espíritu colectivo está impregnado del Volksgeist: l’esprit de la Nation de Montesquieu transformado en el espíritu objetivo de un pueblo, el que le debe su carácter
+particular entre los demás pueblos.
+5.1.– El Estado es pues civilizador. En tanto organismo de la libertad, al ser
+la forma que adopta el espíritu como objetivación jurídica del êthos, el despliegue y
+desarrollo concretos de las formas de la libertad reflejan la marcha mundana, temporal, del espíritu en la Creación, la oikonomia, antes de retornar a su simplicidad
+originaria.
+De este modo, la historia es la historia de la libertad del espíritu, guiada por
+la “astucia” de la razón, y de la civilización. Su sujeto es el Estado poseído por la vitalidad del espíritu propia de cada momento de la evolución del Weltgeist. El hombre
+concreto concibe lo eterno como presente, temporal, en la religión, siendo el Weltgeist o espíritu universal la verdad de la manifestación temporal de lo divino en el
+momento actual: es la voluntad de Dios en tanto actúa en el mundo y el mundo es
+consciente de ello.
+En otro sentido, la historia es la historia de las formas del Estado (que, en
+tanto protestante, incluye las de la religión), como la parte política, temporal, mundana, terrenal, de la historia de la filosofía que piensa lo divino, lo eterno en sí
+mismo, como lo Absoluto, el espíritu en, por y para sí, a partir de sus manifestaciones temporales concretas.
+5.2.– Hegel definió descriptivamente el Estado en el célebre parágrafo 257
+antes aludido de la Filosofía del Derecho: «El Estado es la realidad efectiva de la idea
+ética, el espíritu ético en cuanto voluntad patente, ostensible a sí misma, sustancial,
+que se piensa y sabe y cumple aquello que sabe y en la medida en que lo sabe. En
+la costumbre tiene su existencia inmediata, y en la autoconciencia del individuo, en
+
+& 258, 272, 257 y 258 respectivamente de la Filosofía del Derecho.
+Metaphysik und Politik. Studien zu Aristoteles und Hegel, Frankfurt, Suhrkamp 1959, «Hegel und die französische Revolution». I, p. 186.
+66
+67
+
+502
+
+
+
+su saber y actividad, tiene su existencia mediata, así como esta autoconciencia —por
+el carácter— tiene en él cual esencia suya, finalidad y producto de su actividad, su
+libertad sustancial». Ahora bien, «ontologizar el Estado» no es otra cosa que reconocer la realidad de lo Político —el hombre animal político (Aristóteles)—, del que el
+Estado es sólo su forma moderna y artificial, si bien no es exactamente así, al estilo
+hobbesiano, como lo entendía Hegel, sino más bien en el sentido de Coleridge,
+como la palabra que designa lo Político en general. Fundamentar el Estado, decía
+Heidegger, es una de las cinco maneras de fundar la verdad.
+5.3.– El Estado en general era para Hegel directamente el pueblo con conciencia política, un Volksstaat (Estado del pueblo o popular), el lugar donde se satisface la politicidad inherente a la naturaleza humana. La Iglesia es una complexio
+oppositorum, pues acoge todas las contradicciones, incluso al pecador: sólo excluye
+el pecado. El Estado-iglesia luterano cataliza todas las oposiciones y contradicciones
+que afectan a la eticidad del Volksgeist reduciéndolas a una unidad: en el Estado cristiano, o en el de cualquier otra religión, todos participan de la eticidad universal en
+tanto ciudadanos, sin perjuicio de las diferencias religiosas El ciudadano de Hegel no
+es el de Rousseau y la revolución francesa, una mezcla del “santo” puritano y el
+polités griego teñida de color burgués, equivalente al hombre libre: en el Estado cristiano de Derecho, la ciudadanía es sólo una cualidad jurídica del hombre libre, que
+neutraliza las diferencias religiosas.
+Según esto, la revolución francesa, cuyos excesos reconocía Hegel, habría
+sido con su exaltación del ciudadano, que para él no es el “burgués” sino el hombre libre completo, con libertad política, el acto final de «la marcha de Dios en el
+mundo» en el sentido de que la libertad del espíritu —la libertad evangélica luterana— se reconcilia consigo misma en el Estado, que, en este sentido debe ser «venerado como un divinidad terrenal»; justo porque de él depende la unidad política de
+un pueblo, cuyo êthos custodia. Decía Cassirer: «la verdadera vida de la Idea», de lo
+divino en tanto se revela, comienza en Hegel con la historia en lo que respecta al
+conocimiento humano, cuyo nivel más alto posible es el filosófico. Hegel convirtió
+la fórmula de Espinosa Deus sive natura, en Deus sive historia. «Esta es la verdadera
+teodicea, la justificación de Dios en la historia» 68 escribe Hegel en la Filosofía de la
+historia. De ahí que la historia universal sea el Tribunal Universal: die Weltgeschichte
+ist das Weltgericht. Desde el punto de vista humano, el juicio histórico es el único
+posible sobre la actividad del Estado. Después de todo, la fe cristiana se fundamenta
+en un acontecimiento histórico
+
+68
+
+Op. cit, XVII, p. 301 y ss.
+
+503
+
+
+
+

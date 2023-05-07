@@ -1,0 +1,510 @@
+COMPETENCIA EN LOS BIENES
+DE LA PROTECCIÓN SOCIAL
+Y TRATADO DE LA UNIÓN EUROPEA
+Por el Académico de Número
+Excmo. Sr. D. José Barea Tejeiro*
+
+La protección social sobrepasa en España el 50% del gasto no financiero
+consolidado del conjunto de las Administraciones Públicas y su ritmo de crecimiento es cada año mayor, poniendo en peligro el principio de estabilidad presupuestaria, que es básico en la Unión. Por tal hecho, abordo el tema de la competencia
+en los bienes de la protección social, formulando la hipótesis de que la introducción de criterios de mercado producirá una mayor eficiencia en la producción de
+los mismos, lo que daría lugar a una disminución de su coste y por tanto de la
+financiación pública, ya que al ser bienes preferentes ésta corre a cargo del Estado,
+que obtiene los recursos a través de los impuestos, hipótesis que se verá o no confirmada por mi exposición.
+La intervención se va a desarrollar en los tres apartados siguientes:
+— Tipos de bienes producidos en las economías de mercado.
+— Los bienes de la protección social y la competencia
+en el Tratado de la Unión Europea.
+— Posibilidad de introducir competencia en las prestaciones
+de la protección social.
+
+* Sesión del día 20 de mayo de 2008.
+
+583
+
+
+
+1. TIPOS DE BIENES PRODUCIDOS
+EN LAS ECONOMÍAS DE MERCADO
+Generalmente los economistas admiten que las fuerzas competitivas del
+mercado generan un elevado grado de eficiencia. Una situación es económicamente eficiente si no es posible mejorar la posición de un individuo sin empeorar la de
+otro (óptimo de Pareto). La razón de esta eficiencia se encuentra en que en el equilibrio competitivo, con el sistema de precios que el mercado genera, el consumidor
+maximiza su beneficio pagando un precio igual a la utilidad marginal del bien; y el
+empresario maximiza su beneficio cargando un precio igual al coste marginal de
+producir el bien. La pregunta que surge inmediatamente es si los mercados competitivos conducen siempre a la eficiencia o si, por el contrario, se han de cumplir
+determinadas condiciones para que tal hecho suceda. La respuesta es que la eficiencia no se conseguirá en los supuestos siguientes:
+— Bienes de consumo no rival y no excluyente,
+— Fallos de la competencia (control monopolístico,
+rendimientos crecientes de escala),
+— Efectos externos,
+— Existencias de riesgos e incertidumbres no asegurables
+por la inexistencia de mercados de seguros de futuros,
+— Información imperfecta y costosa.
+Los bienes que reúnen a la vez las características no rivales y no excluyentes se conocen con el nombre de bienes públicos puros, y las necesidades que satisfacen no pueden ser atendidas por el mercado, ya que el coste marginal de que un
+individuo adicional disfrute de ellos es cero, mientras que el coste de excluir a un
+individuo del servicio es infinito. Ésta es la razón de que tales bienes tengan que
+ser suministrados por el poder público y financiados de manera coactiva.
+Tenemos así delimitados dos tipos de bienes situados en polos opuestos:
+los bienes privados suministrados por el mercado y los bienes públicos suministrados por el Estado. Entre uno y otro polo se encuentra un conjunto de bienes privados (en el sentido de que no cumplen las dos características de los bienes públicos
+puros), que en la actualidad son suministrados total o principalmente por el sector
+público. La educación, la sanidad, las pensiones, el desempleo y los servicios sociales constituyen casos típicos del grupo de bienes que constituyen la protección
+social. No existe una razón única por la que los bienes de protección social deban
+financiarse públicamente. Para cada una de las prestaciones, la doctrina ha construi-
+
+584
+
+
+
+do una teoría que justifica el pase al sector público de una necesidad privada. En el
+caso de la sanidad, la teoría está fundamentada en fallos del mercado (imperfecciones de la información, falta de competencia, mercancía no homogénea, externalidades positivas de consumo, relación de agencia), problemas de riesgo moral: a) en el
+consumo, si contrata un seguro; b) si no lo contrata, el gobierno tendrá que acudir
+a atenderlo cuando tenga una enfermedad, necesidad preferente (los consumidores
+no valoran correctamente los beneficios que se derivan de la asistencia sanitaria),
+distribución de la renta (equidad en el acceso), problemas de selección adversa de
+riesgos (los aseguradores rechazarán a los pacientes de alto riesgo o les exigirán tan
+alta prima que daría lugar a una falta de equidad en el acceso), costes de transacción elevados (en Estados Unidos los gastos de administración son del 25%).
+Para las pensiones, el pase a una financiación pública se ha justificado en
+fallos del mercado (el mercado de las pensiones es imperfecto, imperfecciones de la
+información), problemas de selección adversa (contratan seguro de pensiones los que
+confían en vivir muchos años), elevados costes de transacción, problemas de riesgo
+moral (si no contrata un seguro de pensión para la vejez, el gobierno tendrá que acudir en su ayuda, incentivos para no ahorrar). En la prestación de desempleo son problemas de riesgo moral (desempleo inducido, aumento del desempleo voluntario,
+ampliación de la duración total del desempleo). En la educación se argumentan fallos
+del mercado (externalidades que provienen de ciudadanos educados), no se da la
+competencia perfecta, el que toma la decisión (los padres) no es la persona que se
+beneficia directamente (el hijo), necesidad preferente, distribución de la renta (nadie
+debe ser privado de utilizar sus dones a causa de los ingresos de sus padres, equidad en el acceso), integración social.
+
+2. LOS BIENES DE LA PROTECCIÓN SOCIAL
+Y LA COMPETENCIA EN EL TRATADO DE LA UNIÓN EUROPEA
+Las razones expuestas, que ponen de manifiesto los fallos del mercado en
+la cobertura de las necesidades de la protección social, justifica y legitima “a priori”
+la intervención del sector público en los programas sociales, ya que, como hemos
+dicho, el equilibrio competitivo que genera el mercado se corresponde con una asignación de recursos no óptima o ineficiente en el sentido de Pareto. Sin embargo, al
+traspasar a la esfera pública la producción de bienes privados, se corre el riesgo de
+perder un conjunto de ventajas relacionadas con los mercados: no hay competencia,
+y los otros incentivos para una producción eficaz se ven atenuados. De las teorías de
+los fallos del mercado para justificar la intervención pública en la protección social,
+se ha pasado recientemente al análisis de los fallos del sector público para tratar de
+introducir una mayor eficiencia. El camino que parece más seguro para ello es tratar
+de utilizar el mercado en la gestión por el sector público de los programas sociales,
+
+585
+
+
+
+dando entrada a la competencia, estableciendo una clara separación entre la regulación, la provisión (financiación), el aseguramiento y la producción.
+El tema de la competencia en el Sector público me viene preocupando
+desde hace bastante tiempo (Congreso Internacional del Ciriec-España en Valencia)
+y me decidí a abordarlo por primera vez dentro del trabajo que me encargó el Profesor Velarde “Hacia otro Estado del Bienestar”, publicado en la obra coordinada
+por él 1900-2000. Historia de un esfuerzo colectivo, vol. II, junio 2000.
+Contra la fuerte intervención del sector público en la economía se ha producido una reacción a partir de la década de los setenta. Como ha afirmado Gordon Tullock, los fallos de la economía de mercado pueden ser importantes, pero
+los perjuicios ocasionados a la sociedad como consecuencia de las intervenciones
+públicas pueden no ser menores. Por todo ello, las políticas públicas deben ser
+evaluadas comparando las ventajas y desventajas del mercado y del sector público. La evaluación de los programas públicos, destinados a corregir fallos del mercado, debe tener en cuenta no sólo sus objetivos, sino también su ejecución. El
+traspaso a la esfera pública de la provisión de bienes privados genera inconvenientes y ventajas:
+a) Inconvenientes. Hay razones para la actuación del gobierno en los programas sociales, pero, al tratarse de bienes privados y situarlos en la
+esfera pública, se corre el riesgo de perder un conjunto de ventajas
+relacionadas con los mercados, tales como: la capacidad de satisfacer
+las distintas preferencias (necesidades) de los diversos individuos; las
+limitaciones de igualdad impuestas por el Gobierno perjudican a esta
+capacidad; los mercados proporcionan una variedad de mecanismos
+(incluida la competencia) para garantizar la eficiencia, que los productos que realmente se produzcan sean los que los usuarios quieren, y
+que la calidad refleje lo que están dispuestos a pagar; si el productor
+es el Gobierno, no hay competencia, y los otros incentivos para una
+producción eficaz se ven atenuados; los efectos perjudiciales derivados
+del sometimiento al derecho administrativo de los procesos de producción de los bienes privados de la protección social, que perjudican la
+capacidad del Gobierno para funcionar con eficacia.
+b) Ventajas. Pese a las desventajas notables que el gobierno tiene frente
+al sector privado cuando actúa en el campo de la producción de bienes privados, tiene sin embargo ventajas notables cuando actúa dentro
+de la esfera de la regulación, tales como: poder gravar con impuestos,
+mitigar los problemas de riesgo moral, mitigar los problemas de selección adversa y reducir los costes de transacción. Habrá que tener muy
+en cuenta para un buen gobierno de los gastos sociales, la introduc-
+
+586
+
+
+
+ción de lo que Stiglitz denomina “principio básico de la transparencia”,
+no mezclando aspectos relativos a la redistribución con los de seguro
+y ahorro, ya que confunden en vez de clarificar.
+En la Unión Europea la protección social constituye uno de los principales activos de cohesión social. No se plantea la destrucción del sistema, sino adaptarlo al nuevo entorno económico y demográfico, haciéndolo sostenible. J. Stiglitz
+en su obra El papel económico del Estado, propone una tercera vía entre los que
+simplemente suponen que los mercados pueden solucionar cualquier problema y
+los que piensan que el gobierno puede solucionar cualquier problema, si así lo
+quiere. Esta tercera vía, dice, es el reto para las próximas décadas. El ex Primer
+Ministro inglés, Tony Blair, en el Libro Verde: Un nuevo contrato para el bienestar,
+decía que «el Estado del Bienestar tiene que cambiar, porque el mundo ha cambiado radicalmente desde la generación de Beveridge, el mundo laboral no es el mismo, el papel de la mujer y la estructura de la familia se ha alterado, y sin embargo el sistema de protección social ha quedado desfasado con respecto a los cambios
+en el mundo». El Libro Verde pretende dar una respuesta a la pregunta de qué se
+pretende conseguir con el Estado del Bienestar, eligiendo un tercer camino: no
+plantea desmantelar todo el sistema de protección social dejando lo justo e imprescindible para los indigentes; tampoco plantea dejarlo seguir funcionando de una
+manera poco eficaz, lo que se pretende es llevar a cabo una reforma basada en un
+contrato nuevo con el ciudadano para tener un Estado del Bienestar justo y transparente que beneficie a todos, hecho a medida del mundo moderno, eficiente y
+con un coste asumible. Un pacto justo para todas las generaciones. Para Tony Blair,
+la tercera vía ha de estar alejada de dogmatizaciones. Cree que, en la actualidad,
+la economía marca el destino de los pueblos y condiciona la política, pero que la
+gestión económica «no es de derechas ni de izquierdas, es buena o mala».
+¿Por qué la gestión privada puede ser más eficiente que la gestión pública? La respuesta nos la da la teoría moderna de los derechos de propiedad. La
+empresa privada será, en general, más eficaz y funcionará con un precio de coste más bajo, no porque los hombres sean diferentes, ni porque sean más inteligentes o más egoístas, sino simplemente porque la distribución de los derechos
+de propiedad no es la misma. El accionista, incluso de una empresa muy grande,
+es propietario de un título identificable y libremente negociable que le motiva a
+seguir de cerca la evolución de su valor mercantil. Pero el contribuyente no tiene nada de eso, sólo tiene una propiedad “de principio” de los servicios públicos, de la cual no puede ni siquiera capitalizar los beneficios de una buena gestión, si los hay.
+Para esclarecer si la competencia es o no posible en el sector público en
+el presente siglo, debemos plantearnos cuál es el entorno económico que rige en
+la Europa del siglo XXI.
+
+587
+
+
+
+La eficiencia en la asignación de recursos y la estabilidad de la economía
+constituyen principios básicos de la Unión Europea y de sus Estados miembros.
+Respecto al primero, eficiencia en la asignación de los recursos, el artículo 4 del
+Tratado de la Unión Europea (TUE) establece que la acción de la Comunidad y de
+los Estados miembros se realizará respetando el principio de una economía abierta de mercado, donde la competencia es libre. Economía de mercado y competencia constituyen los pilares básicos para una eficiente asignación de recursos.
+El TUE recoge las normas de la competencia aplicable a las empresas públicas; sin embargo nada dice en cuanto a la competencia de los bienes de la protección social. En la elaboración de la Directiva comunitaria relativa a los servicios se ha
+propuesto que queden sujetos a la competencia los bienes de la protección social,
+que no llegó a prosperar ante la oposición de los Sindicatos europeos.
+
+3. POSIBILIDAD DE INTRODUCIR COMPETENCIA
+EN CADA UNA DE LAS PRESTACIONES DE LA PROTECCIÓN SOCIAL
+Vamos a analizar separadamente las prestaciones no contributivas de suministro de servicios (sanidad, educación y servicios sociales) del resto de las prestaciones de la protección social.
+
+3.1. Prestaciones no contributivas de suministros de servicios
+Estas prestaciones tienden a satisfacer públicamente necesidades privadas
+pero que, por las razones que hemos expuesto anteriormente, se financian a través
+de los presupuestos de los entes públicos con impuestos generales. Constituyen uno
+de los grupos de los bienes de la protección social que compiten en la asignación de
+recursos con los bienes públicos y con las prestaciones de la protección social redistribuidoras de la renta. Las prestaciones a las que nos estamos refiriendo tienden a
+cubrir las cargas que resultan para los individuos o los hogares de la aparición de los
+riesgos de enfermedad y de exclusión social, así como de la necesidad que sienten
+los individuos de recibir educación. Estos riesgos o necesidades se cubren a través
+del suministro de asistencia sanitaria, de servicios sociales y de educación.
+3.1.1. Sanidad
+En el servicio de sanidad la eficiencia ha de constituir el pilar básico para
+introducir competencia, conservando el principio de equidad actualmente existente. Para conseguir la eficiencia debería introducirse criterios de mercado en la producción de la sanidad, que es un bien privado, lo que podría dar lugar a eliminar
+
+588
+
+
+
+las ineficiencias que se producen cuando la producción de un bien privado se traslada a la esfera del sector público. Dice Wolf1 que «en un contexto de no mercado
+las internalidades aumentan de modo excesivo los costes del organismo, desplazando hacia arriba sus curvas de costo de oferta, por encima de lo que sería técnicamente factible, dando lugar a unos costes unitarios más altos y a unos niveles más
+reducidos de producción real del no mercado, que los que serían socialmente eficientes, existiendo por tanto un fallo del no mercado». Wolf cita concretamente las
+dos siguientes externalidades que se dan en las actividades públicas:
+a) crecimiento presupuestario (más es mejor). Al faltar el beneficio como
+criterio de motivación y valoración del rendimiento, un organismo de no mercado
+puede considerar el tamaño del presupuesto como su principal externalidad.
+b) progreso tecnológico (lo nuevo y lo complejo es mejor). En medicina
+puede producirse un sesgo a favor de la atención sanitaria de la máxima calidad.
+Dado que los hospitales públicos no pretenden maximizar sus ingresos netos, no
+se plantean si el coste adicional de la nueva tecnología queda compensado por los
+progresos curativos. El desarrollo de nuevos sistemas que incorporan la tecnología
+más reciente se toma como un imperativo organizativo.
+La introducción de criterios de mercado para ganar eficiencia ha de efectuarse tanto a nivel macro de introducir la competencia dentro del mercado público
+de la sanidad, como a nivel de los centros públicos que producen el servicio de sanidad, que deben tener estructuras organizativas y sistemas de gestión análogos a los
+de las empresas privadas. Cuando hablamos de la necesidad de crear un mercado
+competitivo de la sanidad no queremos decir que se vuelva a la situación primitiva
+de una necesidad privada financiada vía precio, sino que, permaneciendo la provisión pública, se establezca una competencia entre los agentes productores del servicio de sanidad y un margen de elección de médico y de hospital por parte de los
+pacientes, sin que para nada se vea afectada la equidad en el acceso a los servicios
+sanitarios. En este mercado competitivo, los costes y la calidad del servicio constituirían los desafíos principales para los hospitales públicos. Se trata en definitiva de crear un mercado regulado de la sanidad, donde se eliminen, en la medida de lo posible, las ineficiencias generadas en el sistema público de la sanidad caracterizado por
+la planificación de las necesidades sanitarias públicamente definidas, la producción
+pública y el desconocimiento de los deseos individuales de los pacientes que no tienen opción de manifestarse.
+La aprobación de protocolos para los tratamientos serviría como indicador
+de la eficiencia en la gestión sanitaria. Los centros públicos y privados concertados
+
+1
+
+Wolf, Ch., Markets of Governments, 1998.
+
+589
+
+
+
+entregarían a los pacientes facturas de los servicios prestados, de conformidad con
+los precios que corresponda. Si se trata de personas acogidas al régimen general de
+la Seguridad Social u otros regímenes aseguradores concertados por los Servicios
+de Salud de las Comunidades Autónomas, se hará constar en la factura la entidad
+que efectuará el pago de la misma, a la que periódicamente se le remitirán, a efectos del pertinente control asistencial y del abono de la misma.
+La implantación en España del mercado mixto competitivo forzaría a los
+centros sanitarios públicos a adoptar una organización adecuada y sistemas de gestión empresariales y no burocráticos, como los que hoy existe, ya que han de ser
+eficientes para poder competir con el sector privado y no ser expulsados del mercado. Condición necesaria para el funcionamiento del mercado sería delimitar las
+prestaciones a cargo del Estado.
+Para que la eficiencia se alcance, es preciso dotar a los hospitales de personalidad jurídica propia e independiente de los Servicios de Salud de que dependan,
+sometiendo su actividad al ordenamiento jurídico privado y delegando en ellos las atribuciones necesarias para tener autonomía en su gestión. La gestión eficiente de los
+factores de producción y del proceso productivo constituyen en el hospital, como en
+cualquier empresa, el condicionamiento básico para permanecer en el mercado. La
+función de producir el servicio de asistencia sanitaria por los hospitales públicos no
+constituye una función pública propiamente dicha en el sentido de función normativa de gobierno, ya que el mercado puede dar respuesta a esta necesidad, aunque la
+provisión sea pública. Más bien debe entenderse como un proceso técnico-económico, que no debe verse constreñido por ningún condicionamiento de la Administración.
+Si el proceso productivo de los hospitales privados está sujeto al derecho privado,
+cuando la Administración Pública realice dicho proceso en los hospitales de su propiedad, la regulación debe ser la misma: el derecho privado. Imponer cortapisas a través de normas administrativas a la actuación productiva de los hospitales es conducirlos de antemano a ser menos eficientes que el sector privado, y de esta ineficiencia
+surgirán después las peticiones de privatizar la producción que hoy día realizan los
+hospitales públicos.
+La consideración del hospital como empresa, sujeta su actividad al derecho privado, con la correspondiente exigencia de responsabilidad en la consecución de los objetivos fijados, constituye una condición necesaria pero no suficiente
+para que los hospitales públicos actúen con eficiencia. En España está muy generalizada la creencia de que las leyes resuelven los problemas. La dura realidad es
+que las leyes establecen los marcos jurídicos para que actuaciones posteriores de
+los agentes económicos hagan posible resolver los problemas. En el caso que estamos tratando, el marco jurídico que hemos propuesto para que el hospital funcione como una empresa no va a resolver los problemas. El nuevo marco jurídico haría
+posible su solución, siempre que se adoptaran las oportunas medidas de gestión, y
+
+590
+
+
+
+corresponde principalmente a los equipos directivos de los hospitales cambiar la
+mentalidad burocrática y formalista de gestión actualmente imperante por una mentalidad empresarial, introduciendo el espíritu de iniciativa y la generalización de las
+preocupaciones de eficiencia, y un acicate fuerte para ello sería la creación por la
+Administración sanitaria de un mercado competitivo, en el cual los costes y la calidad del servicio constituirían los desafíos principales para que los hospitales públicos no fueran expulsados del mercado.
+El suministro de la sanidad de forma gratuita para todo el mundo, cualquiera que sea el nivel de renta y sin delimitación de las prestaciones da lugar a
+que las fuerzas del mercado que garantizan habitualmente la eficiencia económica
+no entren en juego. Para conseguir la eficiencia es necesario, a juicio de Stiglitz2,
+que el asegurado asuma una parte de los costes médicos, que limite la demanda de
+consumos innecesarios. En todo caso, la implantación del ticket moderador deberá
+tener en cuenta la renta familiar para no perjudicar la equidad en el acceso. De esta
+manera, todo el mundo se enfrentaría con una parte del coste marginal real de las
+acciones, con lo cual el problema de riesgo moral quedaría atenuado. Conceptualmente, al menos, nada impide que se establezcan tickets moderadores del consumo de asistencia sanitaria para corregir ineficiencias3.
+En el mercado competitivo regulado de la sanidad que hemos expuesto,
+deben quedar claramente delimitadas las funciones de regulación a cargo del Estado,
+la de aseguramiento de los Servicios de Salud de las Comunidades Autónomas y las
+de producción, que pueden ser realizadas por centros públicos o privados en competencia. Con este sistema, el riesgo de la prestación del servicio sanitario recaería
+prácticamente en el Estado, como ha sucedido en el pasado, excepto para la suministrada por centros privados.
+Pero si junto a la eficiencia que se pretende conseguir a través del mercado
+mixto competitivo de la sanidad, se elige el modelo de trasladar el riesgo a los productores de la asistencia sanitaria, dando certeza al volumen de gasto público, nos
+encontraríamos con un mercado en el que los oferentes serían compañías aseguradoras del riesgo mediante el pago por la Administración Pública de una prima capitativa
+igual para todos, con ciertas correcciones en función del sexo, edad, etc., para evitar
+la selección adversa de riesgos. La provisión continuaría siendo pública, con opción
+de los asegurados para elegir la compañía aseguradora. En la actualidad este modelo
+se da en la Mutualidad de Funcionarios de la Administración Civil del Estado (MUFACE) y con ligeras variantes en el Hospital de Alcira de la Comunidad Valenciana y los
+ocho hospitales que han sido recientemente construidos de la Comunidad de Madrid.
+
+Stiglitz, J.E., The Economic Role of the State, 1987.
+Barea, J. y Gómez Ciria, A., El problema de la eficiencia del sector público en España. Especial consideración de la sanidad, I.E.E. 1994.
+2
+3
+
+591
+
+
+
+La Ley 15/97 de 15 de abril, sobre habilitación de nuevas formas de gestión en el ámbito del Sistema Nacional de Salud, rompió con el modelo centralista y democrático anterior y abrió la puerta a la creación de centros sanitarios con
+personalidad jurídica y autonomía. La Ley no excluye ninguna forma jurídica concreta para la gestión de centros sanitarios, siempre y cuando tengan naturaleza o
+titularidad pública y mantengan el carácter de servicio público de la asistencia.
+También recoge explícitamente la gestión indirecta de servicios, remitiéndose a la
+Ley General de Sanidad.
+Las limitaciones impuestas por el Pacto de Estabilidad y Crecimiento de la
+Unión Europea en cuanto al déficit público, ha llevado a que tanto el Estado como
+las Comunidades Autónomas hayan buscado la colaboración público-privada en la
+construcción y gestión de infraestructuras públicas. El Manual del déficit y de la
+deuda pública de Eurostat impone el condicionante para que dichas infraestructuras no tengan influencia en el déficit público que tanto el riesgo de construcción
+como el de explotación, en su caso, corran por cuenta del sector privado, y que la
+inversión figure en el balance del agente privado.
+La puesta en marcha en el año 1999 del Hospital de Alcira supuso un hito
+en lo que a gestión sanitaria se refiere, ya que se trataba de la primera experiencia
+de aplicación de la concesión administrativa al sector sanitario en España. La Administración mantiene la titularidad del servicio, pero encomienda la organización y
+explotación del servicio al sector privado. El adjudicatario asume el coste de construcción del centro así como la prestación sanitaria, lo que le da derecho a la correspondiente retribución económica por la actividad desarrollada; la Administración
+controla a través de una Comisión Mixta y un Comisionado la actividad del Centro.
+El acceso a la asistencia sanitaria es de carácter gratuito, público y universal, igual
+que en los restantes hospitales de la Comunidad Valenciana. El pago al concesionario lo efectúa la citada Comunidad en razón de una prima “per capita” por la
+población que le corresponde atender, que es inferior al coste medio por ciudadano en toda la Comunidad Autónoma. Por este importe el adjudicatario no sólo
+atiende a toda la población del Departamento de Salud, sino también financia la
+construcción y mantenimiento tanto del Hospital como de los Centros de atención
+primaria del área.
+
+3.1.2. Educación
+En España la educación básica y la media es obligatoria, y por tanto el
+Estado ha de financiar el coste de su prestación. Pero el hecho de que su provisión
+sea pública no quiere decir que la producción tenga que ser también pública; se
+trata de un problema de eficiencia, y por tanto la producción debe ser realizada por
+el agente más eficiente: el que para una calidad dada la obtenga al menor coste, y
+
+592
+
+
+
+para ello se necesita introducir la competencia, si bien, respetando las razones que
+han justificado su pase al sector público (integración social, equidad en el acceso,
+etc.). El bono escolar es uno de los procedimientos utilizados para introducir la
+competencia y eficiencia en la producción del servicio de educación básica y
+media, pero los agentes privados productores de dicho servicio no podrán establecer barreras de entrada (criterios de selección) ni podrán impartir enseñanzas complementarias, previo pago de las mismas, que conculcaría el principio de integración social, ya que los niños de estratos sociales de menor renta no podrían pagar
+dichas enseñanzas.
+La educación universitaria es cuasi gratuita, pero produce una redistribución negativa de la renta; los estudios empíricos realizados muestran que no hay
+proporcionalidad entre la distribución de los estudiantes universitarios por categorías socioeconómicas y el número de jóvenes en edad universitaria distribuidos por
+las mismas categorías socioeconómicas; distribución que es adversa a los de menor
+renta. Por tanto, atendiendo al principio de equidad, no tiene sentido que la educación universitaria sea gratuita, sino que debería cobrarse a todos el mundo el coste efectivo de la misma, efectuándose en todo caso una deducción a consecuencia
+de las externalidades positivas que genera. Tal decisión debería ir acompañada de
+una amplia política de becas, a favor de los estudiantes de categoría socioeconómica de menor renta (que justificarían con la declaración del IRPF); inclusive se podría
+llegar para determinadas situaciones a becas-salarios, sustitutivas de los ingresos
+que dichos estudiantes proporcionarían a su hogar si estuviesen trabajando. Una
+parte de dicha beca-salario tendría la consideración de préstamo, que sería devuelto cuando el estudiante universitario se incorporara al mercado de trabajo4. El profesor Terceiro ha demostrado5 que el gasto en educación en España ha estado dentro de las pautas de los países de nuestro entorno económico y social, y por tanto
+dice que «de no existir convergencia real en nuestro sistema educativo, los problemas de divergencia tendrían causas que, en contra de la opinión generalmente
+aceptada, no derivan de la escasez de recursos financieros». Los Informes de la
+OCDE, “PISA” y “De la Universidad al trabajo” ponen de manifiesto que los alumnos españoles son incapaces de transforman información en conocimiento, éste en
+innovación y ésta en crecimiento, situándose España en el último tercio de los países estudiados. Consideramos por tanto que se trata de un problema de eficiencia
+en la gestión del proceso productivo de la educación, y por ello la introducción de
+competencia entre centros públicos y privados tendría efecto beneficioso para
+mejorar la calidad de la enseñanza.
+
+4
+Sobre estas cuestiones puede verse: Oroval, E. y Oriol, H., Economía de la Educación, Ediciones
+Encuentro 1998.
+5
+Terceiro, J., “El capital humano y la convergencia real España-UE”. Papeles y Memorias de la Real Academia de Ciencias Morales y Políticas, Vol. IV, 1998.
+
+593
+
+
+
+3.1.3. Servicios sociales
+Para la ONU6, los servicios sociales se definen como «la asistencia prestada a beneficiarios o grupos de beneficiarios con necesidades especiales tales como
+los jóvenes, los ancianos y los incapacitados». Comprende los servicios de asistencia
+social prestados en: instituciones residenciales para niños, ancianos y personas
+incapacitadas; en albergues para personas sin hogar, refugiados, alcohólicos, toxicómanos, inmigrantes, etc.
+En el Sistema Europeo de Estadísticas Integradas de Protección social
+(SEEPROS) existe la función exclusión social, que comprende las prestaciones en
+dinero o en bienes y servicios destinadas a luchar contra la exclusión social, cuando no son cubiertas por otra función (complemento de recursos, albergues, readaptación de alcohólicos y toxicómanos, etcétera).
+Como consecuencia de la evolución demográfica el gasto en asistencia
+social crecerá en el período 2000-2050 el 73% en términos reales, que tendrá su origen en su mayor parte en el envejecimiento de la población. El proceso de modernización de la institución familiar se ha visto impulsado básicamente por la incorporación de la mujer al mundo del trabajo, lo que ha propiciado profundos cambios
+sociales, pero también por la aparición de nuevos modelos de familia. La incidencia de estas transformaciones sobre el gasto en servicios sociales es importante, desde el momento que la mujer deja de asumir el 100% de determinadas responsabilidades que tradicionalmente tenía asignadas, como el cuidado de los hijos y de los
+ascendientes. Por último, la pobreza en España, aunque se ha reducido, sigue existiendo y afecta principalmente a personas mayores de 64 años, hogares monoparentales cuyo sustentador principal es la mujer, personas con problemas de alcoholismo y drogadicción, inmigrantes7.
+Para lograr una mayor eficiencia en el suministro de estos servicios debería tenerse en cuenta:
+— El menor coste que supone la prestación domiciliaria de los mismos
+en relación con la creación de residencias de ancianos.
+— El papel de las instituciones sin fines de lucro en la producción de
+estos servicios, que daría lugar a una fuerte reducción en la provisión
+de los mismos.
+
+6
+Departamento de Asuntos Económicos y Sociales, Clasificación de las funciones de las Administraciones
+Públicas, 1980.
+7
+Sobre estos temas puede verse: Barea, J. et al., El gasto público en servicios sociales, Vol. I; “Marco teórico y metodología para su cuantificación”, Ministerio de Trabajo y Asuntos Sociales, 1996.
+
+594
+
+
+
+Por razones de equidad y dado que todo gratuito para todo el mundo
+cualquiera que sea su nivel de renta es imposible, sería necesario el cobro de una
+parte de los servicios a los hogares a los que pertenezcan los beneficiarios, y si
+éstos son pensionistas, un porcentaje de la pensión quedaría a favor del centro que
+suministra los servicios sociales.
+
+3.1.4. La reforma del Estado del Bienestar en Suecia
+Hace ya quince años que Suecia abandonó el sistema estatista de protección social que lleva su nombre a consecuencia de la grave crisis económica que
+padeció a comienzos de los 90. Como dice el autor del libro Reinventando el Estado del Bienestar, Mauricio Rojas (2008), Suecia ha adoptado un nuevo modelo con
+una combinación dinámica de la responsabilidad pública por la equidad con un
+pujante capitalismo del bienestar y una libertad ciudadana de elección cada vez más
+amplia. Este experimento se encuentra todavía en marcha.
+Cuenta el autor que cuando llegó a Suecia en 1974 era impensable que los
+ciudadanos pudiesen elegir la escuela para sus hijos o el centro médico en el cual
+ser atendidos. Uno “le pertenecía” a un hospital público y los hijos de uno “le pertenecían” a una escuela pública determinada, aquélla que se le hubiera asignado de
+acuerdo al área donde residían.
+Como dice Mauricio Rojas, el eje fundamental de las reformas emprendidas ha sido la ruptura de los monopolios estatales sobre la provisión de los servicios del bienestar. Se sale de una economía planificada cerrada para crear un sistema de bienestar mixto, basado en la participación y colaboración del Estado, el
+empresariado y los ciudadanos. El sector empresarial participa en la producción de
+servicios en condiciones lo más cercanas posible a un mercado plenamente competitivo, con libertad de elección por parte de los ciudadanos. La provisión seguirá siendo pública y se conserva el marco de equidad y pleno acceso de todos los
+ciudadanos a los servicios producidos. La libertad de elección se garantiza a través
+de los bonos de bienestar, donde el interesado puede elegir el centro escolar público o privado. Este sistema se ha ido extendiendo paulatinamente a la elección de
+la atención médica y hospitalaria producida por centros públicos y privados, así
+como a los servicios sociales.
+Estos cambios al nivel de demanda y de oferta no han tenido influencia en
+la financiación de los servicios básicos, que excluye la posibilidad para el consumidor de pago extra por un acceso preferencial a algún servicio o para obtener un servicio de más alta calidad. Esto no excluye un cierto cobro por los servicios recibidos de salud y de atención de ancianos, donde el copago está generalizado, pero el
+cobro tiene que ser igual para todos e independiente de quien preste el servicio.
+
+595
+
+
+
+3.2. Resto de prestaciones de la protección social
+Comprende las prestaciones contributivas sustitutivas de rentas (pensiones contributivas y desempleo contributivo) y las prestaciones de redistribución de
+la renta (pensiones no contributivas y desempleo no contributivo).
+Las prestaciones de la protección social sustitutivas de renta o redistribuidoras de la renta no supone una producción de servicios en los que pueda darse
+competencia entre agentes públicos y privados para conseguir una mayor eficiencia. Sin embargo, en el caso de las pensiones contributivas se plantea el problema
+de si no sería más eficiente la gestión del mismo por el sector privado a través de
+un sistema de capitalización.
+La evolución demográfica no tendría incidencia en este sistema. Sí tendría
+fuerte incidencia sobre el déficit y la deuda, y, en su caso, sobre la presión fiscal,
+resultando por ello inviable el paso de uno a otro sistema. En efecto, como las
+cotizaciones sociales se destinarían a constituir fondos que garantizaran las pensiones futuras de los actualmente en activo, quedarían sin cobertura financiera las
+pensiones actualmente en vigor, así como las en curso de perfeccionamiento. La
+única forma de evitar tan fuerte incidencia sobre el déficit es elevar la presión fiscal, pero en un mundo cada vez más globalizado, sometido a una fuerte competencia, no sería posible.
+Otra alternativa sería pasar a un sistema mixto reparto-capitalización, gestionado el de capitalización por el sector privado. El déficit del sistema de reparto irá incrementando a medida que los trabajadores opten por el sistema de capitalización; en la misma cuantía aumentaría la deuda pública.
+No existe aumento de la presión fiscal; la aportación total al nuevo sistema sería obligatoria e idéntica a la que se hubiera efectuado al sistema de reparto. Para los que permanezcan en el sistema de reparto, total o parcialmente, subsistiría la falta de proporcionalidad del sistema, haciéndolo inviable.
+La solución que propongo para pasar del sistema de reparto al de capitalización, sin incidir en el déficit, en la deuda y en la presión fiscal, es la siguiente:
+El pase al régimen de capitalización del sistema de pensiones públicas de
+reparto estaría integrado en el marco del SEC-95, y tiene el condicionante de que
+la gestión del sistema de capitalización sea pública, es decir, se efectúa por una
+organismo público de la Seguridad Social con personalidad jurídica independiente (en lo sucesivo Fondo de Capitalización de Pensiones de la Seguridad Social,
+FCPSS).
+
+596
+
+
+
+Paso a exponer esquemáticamente el estudio realizado8 para solventar los
+retos demográficos y de equidad, sin que ello suponga incidencia en el déficit
+público ni en la deuda; puede pensarse que ésta es la cuadratura del círculo. La
+propuesta es la siguiente:
+Primero. En este sistema de capitalización, las cotizaciones sociales de los
+empresarios serían ingresadas en el FCPSS. En Contabilidad Nacional dichas cotizaciones aparecerían en el Sector Administración Públicas (SS) como un recurso
+de la cuenta de distribución secundaria de la renta, y las pensiones pagadas por
+el FCPSS figurarían como empleo en el mismo Sector. La materialización de las
+reservas específicas para hacer frente a los compromisos de pensiones futuras a
+los cotizantes aparecerá en la cuenta financiera del Sector Administraciones Públicas SS (AAPP.SS).
+Segundo. El pago de las pensiones vigentes del sistema de reparto aparecerá en el Sector AAPP.SS contabilizado como empleo en la cuenta de distribución
+secundaria de la renta como pensiones pagadas por la SS (sistema de reparto).
+Tercero. De lo expuesto se deduce que el sistema de capitalización de
+pensiones de la SS (FCPSS) tendrá capacidad de financiación del mismo importe
+que la necesidad de financiación del sistema de reparto de la SS, con lo cual el pase
+de un sistema de reparto a capitalización gestionado públicamente no tiene incidencia sobre el déficit público.
+Cuarto. La necesidad de financiación del sistema de reparto se cubre a través de la emisión de deuda por la SS, que es tomada por el FCPSS para materializar sus provisiones técnicas. La deuda deberá estar avalada por el Estado, y no se
+computa a efectos de determinar la deuda pública en circulación a final del año, ya
+que se eliminaría en el proceso de consolidación.
+Quinto. El tipo de interés de la deuda pública estaría en el entorno del
+3%. Dichos intereses suponen un aumento de las reservas técnicas, pudiendo considerarse, de acuerdo con el SEC, como una prima complementaria correspondiente a las rentas generadas por la inversión de las provisiones.
+Sexto. La introducción del sistema de capitalización en las pensiones públicas contributivas deja sin cobertura financiera a las pensiones de los que estén trabajando en el momento en que se produzca el cambio del sistema, ya que la Seguridad Social no ha constituido las provisiones técnicas para hacer frente a los
+8
+Con mayor amplitud puede encontrarse en “Una visión para la viabilidad financiera del sistema de pensiones contributivas”, Academia de Ciencias Morales y Políticas, Centenario de la Seguridad Social, Papeles y Memorias, VIII, Julio 2002.
+
+597
+
+
+
+derechos en curso de adquisición. Según estimaciones efectuadas, el importe de
+dichas provisiones sobrepasaba en el año 1995 el PIB.
+Es evidente que los derechos en curso de adquisición, o al menos las cotizaciones ingresadas por cada trabajador en el curso de su vida laboral, habría que
+restituírselos a los cotizantes en el momento de su jubilación para ingreso en el
+FCPSS. Para garantizar tal derecho es necesario constituir la oportuna provisión
+¿Cómo hacerlo?
+Séptimo. El SEC-95 ha incorporado al sistema los flujos que afectan directamente al patrimonio, y que no se deben por tanto a operaciones de bienes y servicios, de distribución o financiación. Entre ellos figura la rúbrica “Otras variaciones del volumen de los activos financieros y pasivos n.c.o.p” (K-10). El SEC-95
+considera como variaciones patrimoniales las que resultan en un sistema de pensiones de prestaciones definidas que proceden de cambios de la estructura de las
+prestaciones. Este flujo no tiene por tanto incidencia en la necesidad de financiación de las Administraciones Públicas.
+Octavo. Con cargo a la provisión para pensiones en curso de perfeccionamiento habría que entregar al FCPSS el importe que corresponde a los trabajadores
+que se vayan jubilando, que serviría, junto a las cotizaciones que haya ingresado en
+él y sus correspondientes rendimientos, para calcular la pensión a percibir del FCPSS.
+Noveno. Para financiar tales entregas, la Seguridad Social tendrá que emitir deuda pública avalada por el Estado, que servirá al FCPSS para materializar sus
+provisiones técnicas. La deuda que se emita no computa a efectos de determinar la
+deuda pública en circulación, ya que se consolida.
+Décimo. La gestión del sistema propuesto podría ser privatizada en el
+momento en que desaparecieran los pensionistas del sistema de reparto, si bien en
+ese supuesto se imputarían como deuda pública la emitida para pagar las pensiones
+reconocidas al entrar en vigor el régimen de capitalización (deuda implícita) y la
+emitida para hacer frente a los derechos de los actuales cotizantes (deuda invisible)
+Con Lindbeck diría que la idea básica que late detrás de lo que he expuesto, es salvar el sistema público de pensiones, que constituye el mejor instrumento
+de cohesión social de la Unión Europea, y como él, opino que hoy día el Estado del
+Bienestar se encuentra más amenazado por algunos de sus amigos más fervorosos,
+que pugnan por reglas que tienden a minar su base económica, que por sus propios
+enemigos.
+Como conclusión de todo lo que he expuesto, podríamos decir que ha
+quedado confirmada la hipótesis que formulé al principio de mi intervención de que
+
+598
+
+
+
+la introducción de criterios de mercado, y por tanto de la competencia, producirá
+una mayor eficiencia en la producción de los bienes de la protección social, lo que
+daría lugar a una disminución de su coste y por tanto de la financiación pública.
+
+599
+
+
+
+

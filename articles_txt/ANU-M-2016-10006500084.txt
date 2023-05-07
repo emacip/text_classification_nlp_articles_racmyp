@@ -1,0 +1,859 @@
+EL LABERINTO UTÓPICO DE TOMÁS MORO
+Por el Académico de Número
+Excmo. Sr. D. Raúl Morodo Leoncio*
+
+INTRODUCCIÓN
+En el próximo año 2016 se conmemorará el quinto centenario de la
+aparición de una obra, escrita en latín por un político humanista inglés y publicada en Lovaina, que, por su novedad, imaginación y transgresión, es reconocida como un texto clásico de la cultura europea renacentista: la Utopía de
+Tomás Moro1. El término que acuña Moro, Utopía (del griego, u-topos, nolugar), con larga fortuna de género literario, fue precedido por una voz latina,
+Sophia, a efectos de conformar un díptico irónico coloquial con el Moriae Encomium erasmista, dado el juego que permitía el apellido Moro: así, contraponer
+Elogio de la Locura (Moría) y Elogio de la Sabiduría (Sophia). Más tarde, Moro
+y Erasmo hablarán de Nusquama (del latín, también, “en ninguna parte”) y al
+final se decide Moro por Utopía2. A su vez, empleará otro término griego:
+Eutopía (lugar feliz) y así el no-lugar (Utopía) se convertirá en lugar existente
+y feliz3.
+
+* Sesión del día 17 de noviembre de 2015.
+1
+El término Utopía aparece en la primera edición de 1516. En el frontispicio, se lee que la obra es un “verdadero libro de oro (libellus vere aureus), no menos saludable que festivo, sobre la óptima República y la nueva Isla de Utopía (“de optimo reipublicae statu deque nova insula utopia”). Se añadía que su autor era Tomás Moro, ciudadano y vicejuez/alcalde (vicecomite) de Londres, que la edición estaba a cargo de Pedro Egidio (Gilles), impresa en los talleres de
+Teodoro Martens, que aparecía por vez primera, y con permiso y privilegio. Cfr. André Prévost: L’Utopie de Thomas More,
+Mame. Paris, 1978. p. 219.- Egidio o Gilles, amigo de Erasmo, era un humanista erudito flamenco, impulsor de la edición y
+el que, por sus relaciones, conseguirá cartas y prefacios para la obra, lo mismo que Erasmo vid. Prévost, ibid. pp. 656-657.
+2
+Sobre la génesis del nombre final de Utopía, vid. Prévost, op. cit. pp. 215 y ss. También J.H. Hexter, en The
+Complete Works of St. Thomas More, vol. 4, edit. por Edward Surtz, SJ y J.H. Hexter, Yale University Press, New Haven y Londres, 3ª reimp. 1974, pp. XV y ss. (en adelante, citaré esta extraordinaria edición de las Obras Completas de Moro, en 15
+volúmenes, como ed. Yale).
+3
+El término Eutopía (eu-topos, lugar feliz) la acuñará Moro en un poema, incluido también en la edición como
+para-texto, con el pseudónimo de Anemolio. La traducción literal del poema, que debo a mi antiguo maestro, amigo y
+
+65
+
+
+
+Si el título tuvo su pequeña historia, no menos fueron también los preparativos de la edición. Utopía iba a ser el lanzamiento de Moro como humanista en Europa, pero, por la posible interpretación heterodoxa (política o religiosa) de la obra, necesitaba apoyos: “no sólo de académicos, sino especialmente
+de hombres de Estado”, le pedirá Moro a Erasmo4. La obra tendrá un gran éxito:
+el selecto colectivo trans-nacional humanista europeo, la lee y se vuelca en
+elogios5. Habrá reimpresiones y ediciones en latín, primero, y más tarde, en las
+lenguas vernáculas europeas (francés, alemán, italiano). Sin embargo, la traducción al inglés de la edición latina de Utopía será tardía, en 15516, por precaución o temor. Y significativa también la traducción española (Medinilla): no
+aparecerá hasta después de un siglo largo, en 1637, expurgada y reducida (y
+con sólo el Libro Segundo). Quevedo, que hace uno de los prólogos, hablará
+de esta cuestión7. Y hay que señalar que España no ha dado utopías relevan-
+
+colega, Alfonso López Quintás, dice: “Llamada por los antiguos, por insólita Utopía / ahora soy competidora de la ciudad
+que Platón ideó / y tal vez vencedora, pues lo que ella con letras/delineó la mejoré yo / en cuanto a personas y recursos
+y óptimas leyes / Con razón debo ser llamada con el nombre de Utopía”. En general, para las citas de Utopía sigo la excelente traducción, no estrictamente literal, de Pedro Rodríguez Santidrián: Utopía de Tomás Moro, Alianza, Madrid, 2012 (se
+cita como PRS). He utilizado también otras dos traducciones: la de Agustín Millares, con el estudio preliminar de Eugenio
+Imaz (FCE, México, 6ª reimp., 1980) y la de Emilio García Estébanez, con el estudio de Antonio Poch (Tecnos, 1987). Para
+algunas consultas puntuales del texto original latino he seguido la edición de Basilea (marzo, 1518), en el vol. 4 ed. Yale
+(Surtz y Hexter).
+4
+Vid. Edward Surtz (ed. Yale), p. cl xxxiii. Desde la primera edición de Utopía, y siguientes, se incorporarán
+a ella una serie de prefacios, documentos finales, incluso poemas, llamados también para-textos, que coadyuvan a la intención unitaria de la obra y le sirven de reconocimiento protector, como pedía Moro. Son los siguientes: Carta de Erasmo a
+Juan Froben (edición de Utopía, Basilea), carta de G. Budé a Th. Lipset, Sexteto de Moro-Anemolio, Alfabeto [de Gilles] de
+la lengua utopiana, carta de Gilles a J. Busleiden, carta de Tomás Moro a Gilles, carta de J. Burleiden a Moro, poemas de
+Gerardo de Niruega y de Cornelio Schrijver, colofón simbólico de Froben. Vid. PRS, Utopía, PRS, pp. 49-77 y pp. 258-261.La carta de Beato Renanus a G. Pirckheimer, en Utopía, ed. Yale, p. 252. En esta edición, se incluyen dos mapas de Holbein de la isla utopiana, la de 1516 y la de 1518 y en esta última, a diferencia de la primera, los edificios relevantes de la
+isla se han incorporado el símbolo cristiano de la cruz, con evidente intencionalidad. Ibid., pp. 16-17.
+5
+Entre otros humanistas y políticos, que cita Prévost, se encuentran: Lupset, lord Montjoy, Budé, Warham,
+Tunstal, Pace, Le Sauvage, Ruelle, Cop, Desmarais, Busleiden, Schrijver, Martin Lutero, Pirkheimer, Beatus Rhenanus, Bonvisi, Marliano. Cf. Prévost, op. cit., p. 650. Habrá que añadir, entre otros más, a Luis Vives, gran admirador y amigo de Moro.
+Sobre Vives, vid. Antonio Truyol: Historia de la Filosofía del Derecho y del Estado, 2. Del Renacimiento a Kant, Alianza,
+Madrid, 1975, pp. 22-26.
+6
+Las cinco primeras ediciones en latín de Utopía, fueron: Lovaina, 1516; París, 1517; Basilea, 1518 (marzo y
+noviembre), consideradas éstas como las ya definitivas, en que intervino Moro; Florencia, 1519. Crf. Utopía, edición de Emilio G. Estébanez, Grupo Z, Madrid, 1980-82, p. 62.- Al alemán se traducirá en 1524 por Claudius Cantiuncula von Metz; al
+francés, en 1550, por Jean Leblond; y al inglés, en 1551, por Ralph Robynson. Ibid., pp. 62-64.
+7
+La primera edición española se publicará en Córdoba, en 1637, traducida por don Jerónimo de Medinilla y
+Porres, y la segunda edición en 1790 (en ambas, con sólo el Libro Segundo). Se incluyen diversos prólogos y poemas de
+autores españoles. En especial, es obligado citar el de Quevedo (“una noticia, juicio y recomendación de la Utopía y de
+Tomás Moro”). En esta noticia, Quevedo hace un gran elogio de Moro (“su erudición”, “vida ejemplar, muerte gloriosa”).
+Interpreta Quevedo Utopía como un texto contra la “tiranía de Inglaterra” y contra “los desórdenes de los más de los príncipes de su edad”. Saldrá al paso de la posible heterodoxia de Moro (sus doctrinas “son vasallas de la Iglesia Católica”). Como
+epílogo a la edición, se añade un resumen de la Historia Eclesiástica de Inglaterra, del jesuita Pedro de Ribadeneyra, referente a Moro. Narra su vida y, en especial, su conflicto con Enrique VIII. Sólo, ya al final, hablará con reservas de Utopía,
+justificando las expurgaciones: “Moro quiso manifestar la perfección a que podía llegar una República conduciéndose sólo
+por las luces de la religión natural, y prescindiendo de la divina revelación: por lo cual no se debe extrañar que la figura
+con los extravíos de que es capaz la razón humana quando camina sin el auxilio de la soberana luz” (Utopía de Medinilla,,
+op. cit., pp. 230-231), de la edición de 1790.- Sobre Moro y España, vid. Francisco López Estrada: Tomás Moro y España,
+Ed. Complutense, Madrid, 1980. Del mismo autor: Quevedo y la Utopía de Tomás Moro, en el Libro-homenaje al profesor
+Giménez Fernández, vol. II, Sevilla, 1967, pp. 155-196 .
+
+66
+
+
+
+tes, pero sí se proyectará algo en América (obispo Quiroga, en México, Paraguay)8.
+La complejidad define también a Utopía, en cuanto obra astutamente
+laberíntica: Moro actúa, si utilizamos a Jünger9, como un emboscado, que introduce al lector en un laberinto enigmático: una emboscadura, con el fin de
+impulsarle a reflexionar y, en su caso, descubrir el enigma con este juego de
+ingenio e ironía. Y esto significa modernidad humanista. Con todo, Moro siempre mantendrá el suspense sobre su intencionalidad política real. Utopía puede
+ser novela de Estado —como recogerá Schumpeter10, pero con hechos políticos, sociales y económicos concretos. Por otra parte, como Erasmo hará con los
+textos neotestamentarios11, Moro crea también, metodológicamente, un novum
+instrumentum, con el cual la política pueda ser observada con un nuevo
+prisma, es decir, conectando realidad y ficción y con vía oblícua (ductus
+obliquus), bien analizada por Leo Strauss12.
+Sin duda, las lecturas alegóricas y literarias (lítote) de Utopía son muy
+enriquecedoras, pero el factor dominante es la política: Moro, fundamentalmente,
+trata de investigar sobre De optimo Respublicae. Así, Utopía, es la obra política
+emboscada de un político humanista, pero el desdoblamiento y ambigüedad
+morianos llevarán a interpretaciones y apropiaciones múltiples. Así, a la vez,
+encontramos un Moro moderno y medieval, puritano y abierto, racionalista y
+
+8
+Moro estará muy presente en los proyectos utópicos del obispo Vasco de Quiroga, con los pueblos-hospitales en Michoacán (México). Cf. M. Bataillon: Erasmo y España, FCE, México, 1ª reimp., 1982, pp. 819-820; y, especialmente,
+Silvio Zavala: Recuerdo de Vasco de Quiroga, Porrúa, México, 1965. José Antonio Maravall hablará de Las Casas como utopista, vid. Luis González Seara: El poder y la palabra. Idea del Estado y vida política en la cultura europea, Tecnos, Madrid,
+1995, pp. 163-164, y, en general, el cap. III, Razón de Estado y sueño utópico, pp. 121 y ss. Y, también, vid. Eugenio Imaz:
+Estudio preliminar a la Utopía de Moro, ed. FCE, México, 6ª reimp., 1980, pp. 16-17.
+9
+Los conceptos de “emboscado” y “emboscadura” los desarrollará Ernst Jünger en su obra La emboscadura,
+Tusquets, Barcelona, 1988. Anteriormente, el propio Jünger había escrito un ensayo-novela utópica (Euseswill, Seix Barral,
+Barcelona, 1980). En gran medida, Jünger, en esta distopía, trata veladamente de analizar su propia actitud ambigua durante
+el nazismo. Por su parte, José María Beneyto ha novelado, con gran perspicacia, esta paralela ambigüedad conformista en
+Carl Schmitt, en su novela Los elementos del mundo, Espasa, Madrid, 2009.
+10
+J.A. Schumpeter distinguirá entre novelas de Estado (Staats-romane) de los siglos XVI y XVII y el socialismo
+utópico, que utilizarán Marx y Engels para diferenciarlo de su “socialismo científico”. Cfr. Joseph A. Schumpeter: Histoire
+de l’analyse économique, Gallimard, París, 1983, especialmente, su “nota sobre las utopías”, tomo I, pp. 289-292 y T. III, p.
+304, nota 3 (sobre la invención de Moro del concepto de oligopolio).- Engels, refiriéndose a Moro y a Campanella, hablará
+de “pinturas utópicas de una sociedad ideal” y de “comunismo ascético”. Vid. F. Engels: Anti-Dühring, Ed. Sociales, París,
+1977, pp. 48-49.
+11
+La traducción de Erasmo del Nuevo Testamento, del griego al latín, en 1516, el mismo año que aparece Utopía, desde el punto de vista teológico, tuvo un gran impacto entre los humanistas e influirá decisivamente en Moro. En la
+interpretación alegórico-espiritualista que hace el ilustre moriano A. Prévost, le llevará a considerar este año (1516) como
+un “annus mirabilis”. Cf. A. Prévost, op. cit., p. 127. También, Bataillon, op. cit., pp. 40-43, 72-76
+12
+La expresión latina ductus obliquus será utilizada por Moro en su Historia de Ricardo III, en cuanto vía indirecta de analizar un hecho o situación, pero también como acomodación reformista (lo menos malo). Vid. Richard S. Sylvester: The History of King Richard III (de Moro), ed. Yale, vol. 2, 1752; y Surtz-Hexter, ed. Yale, p. 393 (obliquo ducto, atque
+arte tratandum), es decir, como principio de acomodación Leo Strauss recuperará la expresión medieval (cfr. Un art d’ecrire oubliè, in Poétique, nº 98, 1979, pp. 244 y ss.) y Miguel Abensour, en un estudio muy agudo, lo desarrollará ampliamente como uno de los ejes claves para interpretar la Utopía de Moro. Cf. Miguel Abensour: L’Utopie de Thomas More á Walter Benjamin, Sens/Tonka, París, 2000, pp. 29-37.
+
+67
+
+
+
+místico, un revolucionario, reformista o tradicionalista, incluso un Moro pre-colonialista inglés. Que, al mismo tiempo, Moro fuese reconocido en la Plaza Roja del
+comunismo soviético y elevado a los altares por el Vaticano (1935), algo tardíamente, expresa claramente la complejidad del autor y de su obra utópica.
+¿Por qué en la insular Inglaterra nace Utopía? Carl Schmitt, se planteará esta cuestión en su Nomos de la Tierra 13. No dirá que es producto de la
+excentricidad inglesa, pero sí que es extraño. Hobbes y Disraeli pueden reflejar los verdaderos arquetipos ingleses, pero no Moro. El hecho es que, desde
+la insularidad, será un inglés el adelantado que lanzará al mercado global nombre y creará un género de esta novedad. En otras palabras, Moro verá en América posibles experimentos14 y no como continuidad, en el sentido institucional
+español. Moro, con su Utopía, y, más tarde, Bentham y John Stuart Mill, con sus
+contrapuntos filológicos, inventarán distopía (kakós-topos-topos, mal país)15 o
+dys-topos (mal lugar). Y serán también, en principio, ingleses del siglo XX, los
+primeros en novelar las distopías totalitarias: Georges Orwell, con 1984, y
+Aldous Huxley, con El mundo feliz.
+
+1. CONTEXTO VITAL, INFLUENCIAS, ESCRITOS
+Tomás Moro nace en Londres, el 7 de febrero de 147816, años en que
+Inglaterra aún se debatía en conflictos bélicos aristocráticos y dinásticos: la
+larga guerra de las Dos Rosas. Con la derrota y muerte del rey Ricardo III, que
+
+13
+C. Schmitt, debelador y mistificador, no hará de Moro su autor favorito inglés, a diferencia de su dedicación
+a Hobbes. Sin embargo, le dedicará unas breves y ambiguas reflexiones, en su Nomos de la Tierra y en sus notas de recuerdos (Ex captivitate salus). Dirá, en efecto, que Utopía es “extrañamente inglesa”, para añadir a continuación que “sólo pudo
+ser creada por aquel entonces y únicamente en la isla inglesa” (Nomos…, p. 170). Y, sorprendentemente, considerará la obra
+no tanto como Utopía, sino como Eutopía, reconociendo así implícitamente la intencionalidad moriana de proyecto político (Nomos…, p. 171). Por otra parte, ya en sus recuerdos, Moro le servirá a Schmitt de autojustificación personal y política: “Moro —dirá— pasó por muchos estadios e hizo concesiones asombrosas al tirano [Enrique VIII-Hitler] antes de convertirse en santo y mártir” (Ex captivitate.... p. 23). Cf. Carl Schmitt: El Nomos de la Tierra en el Derecho de gentes del ius
+publicum europaeum, Comares, Granada, 2002; y Ex captivitate Salus, Porto Editores, Santiago de Compostela, 1960.
+14
+Desde su descubrimiento, América se vinculará a sueño utópico y fantasía de la novedad. Los cuatro viajes de
+Américo Vespucio (1507) iniciarán esta idea, continuada por los cronistas y reelaborada en siglos posteriores (inocencia, mito
+del buen salvaje, asentamiento de nueva sociedad). Moro había leído a Vespucio y, en boca de Hytlodeo, expresará la novedad realista del Nuevo Mundo, alejada de los mitos de la ambigüedad. Vid. PRS, Utopía, I, p. 88. Cf. Isaac J. Pardo: Fuegos bajo
+el agua: la invención de Utopía, Biblioteca Ayacucho, Caracas, 1990; y Arturo Uslar Prieto: Nuevo Mundo/Mundo Nuevo, Bib.
+Ayacucho, Caracas, 1998, pp. 117-123. También, Jean Deluneau: El miedo de Occidente, Taurus, Madrid, 1989, pp. 72 y ss.
+15
+El término distopía se acuñará, en efecto, en la cultura inglesa por John Stuart Mill, en 1868, y, anteriormente, en 1819, Jeremías Bertham, con el mismo sentido de anti-utopía, la voz cacotopía, que se generalizará menos. En el
+Oxford Dictionary se introducirá en su definición la expresión de “mal lugar” y “lugar totalitario”. El registro académico español aparecerá en 2014, definiendo distopía como “representación ficticia de una sociedad futura con características negativas causantes de la alienación humana”. Vid. DRAE, Real Academia Española, Edición del Tricentenario, Madrid, 2014.
+16
+Aunque sobre la fecha de nacimiento de Moro ha sido polémica, si fue en 1477 o 1478, se acepta ya comúnmente esta última. Sobre Moro, al principio, las hagiografías dominan sobre las biografías, siendo la cuestión religiosa (“la gran
+cuestión del Rey”) la más destacada. Así, las que escriben su yerno (William Roger: la Vida de sir Thomas More, edición muy
+
+68
+
+
+
+Moro historiará17, y que influirá en Shakespeare18, sube al trono Eduardo VII, la
+Casa Tudor. Inglaterra, así, se pacifica e inicia el rumbo hacia el Estado
+moderno, absolutista y centralizado, con la matización de su Parlamento, que
+J. Fortescue resaltará (iura et libertates, dominium regale et politicum)19. Con los
+dos monarcas Tudor (Enrique VII y Enrique VIII) se desarrollará toda la vida
+de Moro: los conocerá personalmente y con el segundo llegará a ser amigo,
+consejero, speaker de los Comunes, primer Canciller laico en la historia de
+Inglaterra, siempre fiel servidor y, al final, su víctima.
+Moro, de familia “no célebre; pero sí honrada”, como dirá en su epitafio20, es decir, burgués pero su padre nombrado caballero y juez, tendrá excelentes conexiones con la Corte (poder político) y con la City (poder económico). Por ello, el adolescente Moro, podrá entrar como paje en el palacio del
+arzobispo-Canciller John Morton, más tarde cardenal y aparecerá en Utopía y
+muy elogiado, aunque sin mucho fundamento real. Por Morton, Moro ingresa
+en Oxford. Y será allí, todavía adolescente, interesado por el latín y el griego,
+en donde se asienta su vocación humanista. Esta vocación le llevará a contactar con el grupo inglés como Colet, Lily, Grocyn, Linacre, Latimer. Pronto, Moro
+deja Oxford, y se incorpora a una de las Escuelas Oficiales de Derecho, en Londres. A los 23 años obtendrá el título de barrister: gran éxito profesional, con
+
+documentada de Alvaro Silva, Eunsa, Pamplona, 2000) y la de Nicholas Harpsfield (The Life and Death of Sir Thomas More,
+edición preparada por E.V. Hitchoak, con notas de Raymond Chambers, Londres, 1932). Sobre este itinerario biográfico, puede
+verse Richard Marius: Thomas More. A biography (Collins, London, 1986, introducción, pp. Xiii-xxiv). Esta obra de Marius,
+autor también de una biografía de Lutero, junto con la de Raymond Chambers (The Life of Thomas More) (Cape, paperback,
+Londres, 1976, con primera edición de 1935), son las que he tenido más en cuenta. Últimamente, con una dirección apologética, pero con buena documentación, vid. Peter Ackroyd (The Life of Thomas More, 1988, con edición española (Edhasa, Barcelona, 2003) y Andrés Vázquez de Prada (Tomás Moro, Lord Canciller de Inglaterra, Rialt, Madrid, 1999).
+17
+Moro comienza a escribir su Historia de Ricardo III en 1513, obra inacabada, precisamente el mismo año en
+que Maquiavelo termina El Príncipe (aunque no se publicará hasta 1532, pero que circulará en copias, incluso en Inglaterra). La relación Morton-Moro, en relación a esta obra, es tema polémico: la Historia de Ricardo III, entre otras cosas, actúa
+de propaganda a favor de Eduardo VII, para la deslegitimación de Ricardo. Vid. Surtz-Hexter, ed. Yale, p. 314. La visión
+moriana podría, así, estar influida por Morton o con notas suyas. Vid. R. Marius, op. cit., pp. 98 y ss.; Chambers, pp. 116117. Como tema policiaco, ha sido también novelada por J. Tey: La hija del tiempo, RBA, Barcelona, 212.
+18
+Sobre la cuestión de una obra colectiva sobre Moro, con participación de Shakespeare, en mayor o menor
+medida, vid. Joseph Pearce: Tomás Moro, extracto de la versión castellana en Anthony Munday, Henry Chettle, William Shakespeare, Thomas Dekker, Thomas Heywood: Tomás Moro [Ed. Rialp, Madrid, 2012], en el número monográfico sobre Moro
+de Nueva Revista, nº 146, 2013, pp. 135-143.
+19
+John Fortescue, exponente del derecho consuetudinario inglés, marcará la diferencia constitucional entre
+Inglaterra y Francia, por el papel que en la primera juega el Parlamento, sobre todo, en materia impositiva y Moro conocía
+bien la obra de Fortescue (Monarchia, or Governance of England). Vid. Jean Touchard: El ocaso de la Edad Media, Historia
+de las ideas políticas, Ed. Tecnos, Madrid, 3ª ed., 1969, pp. 181-183.
+20
+En 1532, Moro escribe su epitafio, después de presentar su renuncia a la Cancillería y ser aceptada. Señalará,
+entre otros temas personales, que su conducta política “no mereció desaprobación real” y que “no se hizo odioso ni a
+nobles, ni al pueblo”, considerándose así como hombre prudente y de mediación; reconocerá su beligerancia e intolerancia con respecto a los herejes (“causó pesar a ladrones, homicidas y herejes”; y, en fin, expresará su deseo de retirarse a la
+vida privada. Texto del epitafio en A. Vázquez de Prada, op. cit., pp. 386-388. Sobre el luteranismo, vid. los volúmenes 5,
+6 y 8 de la ed. Yale (Obras Completas de Moro): Responsio ad Latherum (ed. de John M. Headley, 1969; A Dialogue Concerning Heresies (ed. Thomas M. C. Lawler, Germain Marc’hadour y Richard Marius, 1981; The Confutation of Tyndale’s
+Answer (ed. L. Mertz, R. Marius, J. Lusarde y R. Echoeck, 1973). También, Álvaro Silva: Tomás Moro. Un hombre para todas
+las horas, Pons, Madrid, 2007, pp. 137-172.
+
+69
+
+
+
+buenos clientes dentro de las pujantes corporaciones mercantiles de la City21.
+Veinteañero, tendrá una crisis religiosa, pero optará por el matrimonio22. Escribirá algunos poemas y pequeños escritos, dictará algunas conferencias (San
+Agustín) y trabaja en sus Epigramas23. Y, por esta misma época, comienza propiamente su carrera política: diputado en los Comunes y vice-alcalde/juez de
+Londres y en misión diplomática-comercial en Flandes24. En tres direcciones,
+por tanto, se manifestará la polivalencia vital de Moro: humanismo cristiano,
+profesionalidad jurídica y juez/alcalde (abogado) y actividad política ascendente.
+Tendrá fama de gran lector, no frecuente en estos tiempos, con la imprenta poco
+extendida y más todavía en Inglaterra: en 1500 había sólo 4 imprentas frente a
+73 en Italia25. Sus autores preferidos serán los griegos, menos los latinos y apenas los ingleses26. Aunque hay diferencias entre el humanismo del norte (bíblico)
+y del sur (pagano o sincrético) europeos27, Platón, predomina y ya no Aristóteles, que queda aparcado. Así, en el texto utópico, Platón es varias veces citado
+como creador del mito de la República justa, pero Moro se ve con fuerzas para
+revisarlo y democratizarlo28. En su desdoblamiento, como Moro-Anemolio, en su
+Hexastichon, Utopía aparece como competidora de la República platónica y “tal
+vez —dirá— vencedora”29.
+
+21
+Vid. R. Chambers, op. cit., caps. II, III y IV; R. Marius, op. cit., caps. 1-3; P. Ackroyd, op. cit., cap. 1-3; A. Vázquez de Prada, op. cit., cap. VI Y, en general, vid. Frank E. Manuel y Fritz P. Manuel: La pasión de Moro, en El pensamiento
+utópico occidental, T. I, parte II, Madrid, Taurus, 1981.
+22
+En el Testimonio/panegírico de su yerno, William Roper, habla que Moro vivió “religiosamente” en la Cartuja de Londres cuatro años. Es, sin embargo, más verosímil que sólo participase como externo en ceremonias o retiros. Vid.
+William Roper: La vida de Sir Tomás Moro, ed. citada y preparada por A. Silva, p. 8, así como la interpretación razonable
+que ofrece Silva (p. 96, nota 14).
+23
+Circa 1503, Moro invitado por su amigo Grozyn, dará unas conferencias en una iglesia londinense sobre la
+Civitas Dei de San Agustín, hoy perdidas. Vid. A. Prévost: Tomás Moro y la crisis del pensamiento europeo, Ed. Palabra,
+Madrid, 1972, pp. 57-58; y del mismo autor, Utopía, op. cit., pp. 47-49.- El género epigramático, muy caro a Moro, como
+señalará Erasmo (Carta a von Hutten, Obras Escogidas de Erasmo, Madrid, Aguilar, 1964, p. 1405).- Sobre los Epigramas morianos, vid. L. Bradner y Ch. A. Linch (ed.): The Latin Epigrams of Thomas More, Chicago, 1953.
+24
+Según señala R. Chambers, el cargo de vice-alcalde de Londres (vicecomite, under-sheriff) tenía el carácter
+legal-judicial, de asesoramiento decisorio y permanente. Vid. R. Chambers, op. cit., p. 103.
+25
+Según Prévost, las imprentas en otros países europeos eran: 51 en Alemania, 39 en Francia y 24 en España.
+En volúmenes publicados, la diferencia Europa continental e Inglaterra es también notable: Inglaterra, 207 frente a 4.156,
+en Italia. Vid. A. Prévost, T. Moro y la crisis..., op. cit., p. 45, nota 35.
+26
+Vid. A. Silva: Tomás Moro, Un hombre para todas las horas, cap. 2 (Moro, lector), op. cit., pp. 57-96.
+27
+El humanismo renacentista inglés, a diferencia del pionero italiano (Academia neo-platónica florentina), tenía
+un carácter más religioso y bíblico. En el italiano coexistirán sincretismo, paganismo y realismo. La mayoría de los humanistas ingleses serán clérigos (Colet, Grozyn), con gran influencia en Moro. Vid. Bertrand Russell: Historia de la Filosofía,
+RBA, Barcelona, 2015, pp. 558-568; Antonio Truyol: Historia d ela Filosofía del Derecho y del Estado. Del Renacimiento a
+Kant, Alianza Editorial, Madrid, 2ª ed., 1982, pp. 25-30; E. Tierno Galván: Tradición y modernismo, en Obras Completas,
+Madrid, Civitas, 2008 T. II, pp. 699 y ss. Sobre realismo/utopismo, Moro-Maquiavelo, vid. Felice Battaglia: Política realista
+y política utópica, comentando a G. Ritter, Studi Senesi, vol. LVII, 1943, pp. 4-21.
+28
+Utopía, PRS, I, 84, 114, 125, 127; II, 195.- En consonancia con Erasmo (“las leyes de Platón eran para su
+época”), Moro establece en Utopía el principio igualitario económico, no de castas, ni aristocrático. De ahí, la consideración
+por algunos doctrinarios (Kautski, Morton, Bloch) de antecedente del comunismo. Vid. Ernst Bloch: El principio esperanza,
+Madrid, Aguilar, 1959, t. II, pp. 79-92; Lewis Munford: La Utopía, la Ciudad y la Máquina, en Frank Manuel (ed.), Utopías y
+pensamiento utópico, Espasa-Calpe, Madrid, 1982, pp. 81 y ss.- Juan Trías: Utopía y realidad histórica en Platón, in R. García
+Cotarelo (ed.): Las utopías en el mundo occidental, UIMP, Santander, 1981, pp. 53 y ss. Sobre el distanciamiento radical de
+Moro con respecto a Platón, vid. Ignacio Sotelo: De la utopía a la razón utópica, Instituto Alemán de Cultura, Madrid, 1986.
+29
+Utopía, PRS, 64
+
+70
+
+
+
+De Luciano de Samosata, el sirio helenístico, recogerá Moro su estilo
+ágil y lleno de humor satírico y su “extravagante fantasía”30. Aún siendo pagano
+y ateo, Moro verá en Luciano coincidencias, no solo de carácter, sino también
+de valores: idea de la justicia, supremacía de la moral, tolerancia, elogio del placer, crítica a la hipocresía social. Aceptará y resaltará el hedonismo de Luciano,
+pero cristianizándolo. Moro, y Erasmo traducirán los Diálogos de Luciano, que
+saldrán en París, en 150631. Tal vez, por Colet, Moro leerá y también traducirá
+a Pico de la Mirándola32. El humanismo satírico de Luciano da paso aquí a un
+florentino aristócrata, con imaginación desbordante, que pretenderá ensamblar
+un multiculturalismo y sincretismo religioso (Kabala, Biblia, Corán, Platón,
+Patrística) y misticismo. La idea de virtud, que Pico desarrolla en su De la dignidad del hombre, la tomará como paradigma, y la propia personalidad de Pico
+le fascinará a Moro33.
+El conocimiento de Erasmo, en camino de ser el príncipe giróvago de
+los humanistas, será para Moro un gran acontecimiento y revelación intelectual.
+Desde 1499, será gran amigo, con complicidad permanente. Muchas coincidencias ayudaban a esta amistad: en la ironía y en el humor, en la importancia
+dada la educación, en superar el formalismo escolástico, en la atención especial al Nuevo Testamento, en la reforma eclesiástica, aunque desde dentro del
+catolicismo 34. En estos años de pre-Utopía la simbiosis intelectual será sin fisuras: Moro defenderá a Erasmo de las críticas a su Elogio de la Locura (carta a
+Dorp)35 y Erasmo será el promotor de Utopía, pero más tarde, con la vorágine
+de las reformas luterana y anglicana, tendrán posiciones distanciadas, por las
+dudas e independencia de Erasmo36.
+
+30
+La recuperación de Luciano se producirá a partir del Renacimiento por su “sátira corrosiva” y será muy popular. La Utopía, en cierta medida, es lucianesca. Vid. Luis González Seara, El poder y la palabra, op. cit., p. 27; A. Prévost: Utopía,
+op. cit., pp. 39-40. Erasmo, en su carta a von Hutten, dirá que Moro, “más que con ningún otro autor, se deleitaba con Luciano”,
+vid. Carta de Erasmo a von Hutten, en Erasmo, OO. CC., op. cit., p. 1405. También Surtz-Hexter, ed. Yale, p. 469.
+31
+Vid. Moro: Translations of Luciano, ed. Yale, vol. 3. Esta traducción de Moro-Erasmo tuvo siete ediciones con
+gran éxito. Vid. R. Marius: Tomás Moro, op. cit., pp. 86-87; y Ackroyd, op. cit., p. 140.
+32
+Vid. Anthony S. G. Edwards, K. Gardiner Rodgers y C. Miller (ed.): Life of Pico (de Moro), ed. Yale, vol. 1, 1997.
+33
+Vid. E. Tierno Galván: La obsesión de la virtud, en Obras Completas, op. cit., T. III, pp. 163-165; L. González Seara: El poder y la palabra, op. cit., pp. 129-131, 159-161.- De Existen bastantes traducciones del Discurso de Pico (vid.
+Discurso sobre la Dignidad del hombre, Barcelona, PPU, 2002).
+34
+Moro y Erasmo se conocerán personalmente, en Londres, en 1499: Moro, con 22 años, y Erasmo, con 34. Aunque todavía no había publicado Erasmo sus grandes obras, era un humanista muy conocido: entre 1500 y 1516, y muy en
+contacto con Moro, aparecerán sus Adagios (1500), su Euchiridion Militis Christiano (1501), sus Comentarios a la Epístola
+de los Romanos (1501); con Moro, en 1505, traducirán a Luciano; y en 1511, publica su famoso Elogio de la Locura y, en
+1516 tres de sus obras claves: Nuevo Testamento, Justificación del Príncipe Cristiano y su Querela Pacis.
+35
+Vid. Daniel Kinney (ed.): Letter to Martin Dorp, ed. Yale, vol. 15. También, Surtz-Hexter (ed. Yale), More and
+Erasmus, vol. 4, pp. lvii-lxiv.
+36
+Erasmo no compartirá, la beligerancia radical de Moro con respecto al luteranismo: queriendo mantener su
+independencia, se instalará en una ambivalencia de no-compromiso (entre católicos y protestantes), aunque, al final, optará
+por Roma. Sobre la distancia personal entre ellos, cierta historiografía pro-Moro, basándose en W. Roper, que sólo cita a
+Erasmo una vez, y, sobre todo, por una carta de Erasmo a Latonus (en 1935), ya en la situación dramática de Moro, se desea
+resaltar mezquindad o ingratitud de Erasmo. Así, A. Vázquez de Prada, op. cit., pp. 372 y ss, que recogerá también A. Poch,
+en su Introducción a Utopía, op. cit., p. XXXVII. Con su lucidez habitual, Bertrand Russell dirá que Erasmo nunca fue ni
+
+71
+
+
+
+2. UTOPÍA: DOS LIBROS EN UNO
+Utopía es presentada, en la primera edición, como un libellus (libellus
+aureus), libelo en su sentido latino de “pequeña obra o pequeño tratado”. Es,
+pues, una obra que va a describir una óptima República que la estructura en
+dos partes: el Libro Primero, escrito con posterioridad al Segundo, tendrá el
+carácter de una introducción teatralizada: con diálogos diversos, muy vivos y
+múltiples actores. En el Libro Segundo, el formato cambiará: prácticamente no
+hay diálogos (salvo al final), los personajes se reducen y el protagonista, Hytlodeo, expondrá, en un monólogo, las instituciones, leyes y costumbres de Utopía37. El nombre griego del protagonista, que Moro-autor inventa, lo mostrará
+con sentido irónico y mesiánico: puede significar tanto “contador de cuentos,
+de naderías” como “ardiente visionario” y Rafael llevaría, como señala Prévost,
+a una significación bíblica: arcángel Rafael, del libro de Tobías, mensajero que
+da luz38.
+
+LIBRO PRIMERO
+Se inicia con la presentación de este protagonista de toda la obra,
+Hytlodeo: un portugués, rico y generoso, compañero de viajes de Américo Vespucio, gran conocedor de la filosofía griega. Regresa de Utopía a Europa para
+relatar la vida e instituciones de lo que considera una República feliz, contrapuesta a la Europa cristiana. Dentro del esquema teatral —como sugiere Abensour39—, en este Libro Primero, habrá distintas escenas y secuencias con temas
+varios, pero con sentido de unidad. En estas digresiones coloquiales aparecerá
+la crítica a la filosofía escolástica tradicional, como anacrónica; la sátira a los
+frailes mendicantes, la corrupción, la denuncia de las guerras40. Comentaré dos,
+
+intolerante, ni héroe, y Moro eligió el martirio (Historia.…, op. cit., p. 558 y ss.).- Tal vez, una interpretación más ecuánime,
+dentro del contexto de la época, podría ir por esta dirección: aceptando, desde luego, la prudencia de Erasmo, éste vio siempre a Moro como un político y no como un teólogo y hubiese deseado que, por su peligrosidad, dejase la “teología a los
+teólogos”, a los que, por otra parte, los subestimaba y como personas irascibles.
+37
+Se ha señalado que la intencionalidad de Moro podría ser Inglaterra,, y, en efecto, en algunos aspectos lo
+recuerda, sobre todo, en el Libro Segundo. Otros autores (A.E. Morgan, habla, de Perú e, incluso, Brockhaus, de los Estados Pontificios). Inglaterra reflejaría el Libro Primero (lo que es) y Utopía, el Segundo, lo que debería ser. Vid. Surtz-Hexter, ed. Yale, p. 384.
+38
+También recibirá otras connotaciones: salvador, emisario, médico celeste (Pico). Vid. A. Prévost, Utopía, op.
+cit., p. 660.
+39
+Cfr. Miguel Abensour: L’Utopie de Thomas More..., op. cit., pp. 37 y ss.
+40
+Con todo, Aristóteles aparece en Utopía, que llevan los navegantes: Moro distinguirá entre la aristotelización
+de la teología por los comentaristas y la filosofía realista propiamente de Aristóteles. Vid. Surtz-Hexter, Utopía, ed. Yale, p.
+468. Y, así, directamente, el escolasticismo se ve en Utopía como algo inútil, “simple entretenimiento” (Utopía, PRS, I, 123124). De igual modo la crítica a los teólogos y a los frailes mendicantes “vagabundos por excelencia, ridiculizándolos (Utopía,
+PRS, T. I, 111-112). Y, sobre las guerras entre príncipes cristianos para conseguir anexiones de ciudades o territorios, resaltará que convencieron a su rey de limitarse a gobernar sólo su reino (los acorianos), vid. Utopía, PRS, I, 116-117).
+
+72
+
+
+
+que tienen el mismo hilo conductor: el diálogo sobre un asunto jurídico —la
+pena de muerte por robo—, que se extenderá a sus raíces sociales y económicas; y la eventual eficacia del consejo de los filósofos a los príncipes.
+En el coloquio sobre la pena de muerte por robo41, uno de los personajes, un jurista conservador, defenderá esta dura ley, en cuanto oportuna y
+justa, pero se extrañará de que, a pesar de ello, el robo sigue extendiéndose.
+Hytlodeo le replica: la pena que se impone, dirá, no solo es injusta ni útil, sino
+ineficaz: el problema está en arbitrar “medidas de vida —dirá— para evitar la
+necesidad de robar”42 El robo, añadirá Hytlodeo, es producto de las guerras, de
+la falta de trabajo al regresar los soldados, de la explotación que hacen los
+nobles, abades y terratenientes a los colonos. Y dirá una frase considerada clásica: la causa son las ovejas-devoradoras-de-hombres, (oves inquam....ut homines
+devorent ipsos)43. Moro-autor, se referirá al hecho generalizado de la sustitución
+de la agricultura por la ganadería (ovejas), con los denominados cercados que
+los grandes propietarios rurales establecían, produciendo paro y miseria y, al
+mismo tiempo, inflación y concentración de la propiedad. En el marco de este
+análisis, Moro inventará otro neologismo que, en economía, se sigue utilizando:
+el oligopolio. “Las ovejas, —dirá Hytlodeo— devoran hasta los mismos hombres, devastando campos y asolando casas y aldeas.... Nobles, hombres ricos y
+abades.... no dejan nada para cultivos..... lo cercan todo.... y si bien no existe un
+monopolio, sí existe un oligopolio.... el negocio de la lana ha caído en manos
+de unos pocos....”44. Así los precios suben, hay inflación y la falta de trabajo
+lleva a mendigar y a robar. Análisis que Marx, en El Capital, recogerá de Moro
+y de Bacon45.
+El segundo gran tema se centrará en la relación filosofía/política. A la pregunta que le hacen a Hytlodeo, del por qué no aconseja a los príncipes, éste contestará que es un filósofo independiente y, sobre todo, porque serían inútiles 46.
+
+41
+En esta secuencia/coloquio, aparecerá el cardenal Morton, ya canciller, como hombre prudente y de mediación entre el radicalismo de Hytlodeo y el jurista conservador (“Un laico versado en leyes”). Vid.. Utopía, PRS, I, 92 y ss.
+42
+Vid. Utopía, PRS, I, 93.
+43
+Oves inquam vastiae, quae tam mites esse, tamque exiguo solent ali, nunc (uti fertur) tam edaces atque indomatae esse coepermut, ut homines devorent ipsos, agros, domos, oppida vastent ac depopulentur. Vid Surtz-Hexter, Utopía,
+ed. Yale, pp. 64-66.
+44
+Utopía, PRS, I, 99-100.
+45
+K. Marx, explícitamente, cita la célebre frase de Moro de las ovejas-devoradoras-de hombres y al historiador
+Bacon. Cfr. K. Marx: Le Capital, en Oeuvres Complétes, Économie, t. I, XXVII, ed. M. Rubal, nrf, Gallimard, París, p. 1174;
+igualmente, la obra de Francis Bacon (The Reign of Henry VII, London, 1837), p. 1175.- Este análisis, a efectos de considerar a Moro un debelador del capitalismo mercantil y como anticipador comunista, se reiterará en la literatura política soviética y, anteriormente, en doctrinarios sociales. Cfr. V.S. Pokrovski: Historia de las ideas políticas, Grijalbo, México, 1966, pp.
+161 y ss. Sobre Karl Kautski, revisionista marxista (Tomás Moro y su Utopía, 1888, con edición inglesa, 1933), vid. Jesús Fueyo:
+Tomás Moro y el utopismo político, REP, Madrid, 86-88 (1956), p. 63 y ss.
+46
+Este coloquio se plantea en dos momentos de la obra. En el primero, el tema lo inicia Pedro Egidio (P.
+Gilles), sumándose enseguida Moro-personaje (Utopía, PRS, I, 89-92). Y, en el segundo, reiterando Hytlodeo la inutilidad
+de los consejos a príncipes, frente a la posición reformista y gradualista de Moro (ductus obliquus). Utopía, PRS I, 123-126.
+
+73
+
+
+
+A los príncipes —argumentará— solo les interesan las guerras, aumentar los
+dominios, establecer impuestos, no gobernar bien. Moro-personaje asentirá,
+pero, al mismo tiempo, hará defensa con su ductus obliquus, de un reformismo
+del mal menor, reformismo que Hytlodeo rechaza, y que éste enfáticamente
+asentará: “en donde hay propiedad privada y donde todo se mide por el dinero,
+difícilmente se logrará que la cosa pública se administre con justicia...... no hay
+sino un camino para salvar la República: la aplicación del principio de la igualdad de bienes....”47. Moro-personaje, escéptico, replicará: “es algo, que ni siquiera
+me atrevo a imaginar”48.
+
+LIBRO SEGUNDO
+El Libro Segundo es, propiamente, la descripción por Hytlodeo de Utopía: su fundación, territorio, población, principios ordenadores, leyes y costumbres. Como la obra permite libertad de interpretación, he optado por un planteamiento de artificio constitucionalista: Utopía es un Estado con sus elementos y
+fines, y tiene también una Constitución, al menos en el sentido clásico49.
+Quien funda Utopía es un personaje legendario, el dux Utopus, príncipe novus, que le da nombre a la Isla, antes Abraxia50. Utopus es un caudillo
+militar conquistador de la Isla y también filósofo. Utopía nace, pues, por una
+decisión constituyente unipersonal: este “momento” constituyente”51, para Moroautor, no radicará en esquemas contractualistas (lejanos están todavía Hobbes,
+Locke o Rousseau), sino que la legitimidad de Utopus procede exclusivamente
+de una victoria militar y con una voluntad adicional de establecer un hombre,
+una sociedad y un Estado nuevos52. Moro-autor acentuará, esta excepcionalidad
+
+47
+Hytlodeo si bien acepta que puede haber leyes reformistas, éstas sólo aliviarían el problema, pero no su solución. Su conclusión será tajante: suprimir la propiedad privada como la causa que impide llevar a cabo una justicia distributiva. Incluso, sibilinamente, apuntando a la violencia: “no se puede dar nada a nadie sin quitárselo a los demás”. Vid.
+Utopía, PRS, I, 128-129.
+48
+Ambos interlocutores (personajes Moro y Gilles) responderán con escepticismo las manifestaciones de Hytlodeo, como inviables y subversivas (Utopía, PRS, I, 129), apoyándose en la experiencia e inteligencia europeas (Gilles, Utopía,
+PRS, I, 130). A su vez, Hytlodeo, en su réplica, hará referencia a que los utopianos proceden de los egipcios y romanos, y
+de ahí su conocimiento, y que si bien es cierto que los europeos tienen más inteligencia, les falta organización y son más
+felices (Utopía, PRS, I, 130-131). El Libro Primero termina aquí, con el escepticismo de Moro y Gilles, pero también con alta
+curiosidad: que Hytlodeo, que ha vivido en Utopía, les narre lo que ha visto.
+49
+C. Schmitt, en referencia al mundo clásico (Aristóteles, Isócrates), dará la primera acepción de Constitución
+de un Estado (politera), en sentido absoluto y primario: como unidad política y ordenación social. Vid. C. Schmitt: Teoría
+de la Constitución, Editora Nacional, México, 1981, p.4.
+50
+Moro toma de Erasmo la leyenda mítica de Abraxia. Vid. Surtz-Hexter, ed. Yale de Utopía, p. 386; también,
+A. Prévost, Utopía, op. cit., p. 675.
+51
+Cfr. J.J. Gomes Canotilho: Direito Constitucional e Teoría de la Constituçao, Almediana, Coimbra, 7ª ed., pp. 65-68.
+52
+En gran medida, el hombre nuevo utopiano que proyecta Moro, resultado de sus instituciones, entre ellas de
+su base religiosa —de religión natural deísta— y también de los referentes griegos, pero que podría llegar al encuentro con
+la humanitas cristiana, a su vez, renovada. Sobre el hombre nuevo, humanismo y puritarismo, calvinismo y su itinerario pos-
+
+74
+
+
+
+ex-novo, tanto en el texto de la obra, como en el para-texto de Pedro Egidio
+(Gilles)53.
+Como en todo Estado, Utopía tiene territorio y población concretos. En
+su juego de dar verosimilitud a la ficción, Moro-autor describirá, con mucho
+detalle estos dos elementos esenciales del Estado: superficie de la Isla, ciudades, ríos, plazas, calles, casas, población urbana y rural, incluyendo colonias54.
+Inventará nombres griegos jugando con el ingenio, la contradicción irónica y
+la autoprotección 55. Y reiterará que todo en Utopía está planificado y controlado, uniformizado y regulado: una “sociedad disciplinada” en términos de Foucault56.
+El elemento humano se distribuye en ciudades y campos: todos los
+utopianos tienen la misma lengua, instituciones y leyes. La familia es la base
+—en cuanto régimen patriarcal/corporativo agrario— de la organización social
+y política de Utopía57. Se regula el número de familias para cada ciudad58. Y hay
+control poblacional: si surgen alteraciones, se llevan a cambios desplazamientos. Y si hay super-población, se fundan colonias y entienden el colonialismo
+de derecho natural59.
+
+terior, vid. Dalmacio Negro: El mito del hombre nuevo, Ed. Encuentro, Madrid, 2009, Introducción, pp. 11-42 y, concretamente su comentario a la obra de Lothel Bossle, p. 23.
+53
+Utopía, PRS, I, 137, y en el cuarteto de Egidio (Gilles), ya citado, Utopía, PRS, I, 65-66.
+54
+Sin ningún preámbulo, Hytlodeo, hombre serio y sin humor, comenzará la narración por los aspectos físicos
+de la Isla, para describir enseguida el componente humano. En su juego, Moro-autor no querrá que Utopía tenga localización precisa. Vid. Utopía, PRS, II, 135-136.
+55
+Aunque Moro-autor refleja algunos nombres latinos (Republica, questor, Mentirano), dominan los términos
+inventados griegos. Con carácter irónicos y contradictorios. Así, entre otros, Mentirano (capital de Utopía, del latín mentiri,
+mentir) y que ya, a partir d ela segunda edición, a la capital la denominará Amauroto (del griego, ciudad oscura, fantasma,
+eclipse); Anydre (río sin agua), Ademos (rey sin pueblo), filarca (jefe de tribu, amigo del poder), traniboro (jefe inasequible), butrescos (hombres muy religiosos); aplicará, de igual modo, nombres griegos inventados para pueblos no-utopianos:
+macarianos (hombres felices), zapoletas (pueblo sin ciudades), nefelogatos (habitantes de las nubes), alapolitos (ciudad
+deshabitada), acorianos (pueblo sin territorio). Tanto Surtz-Hexter, ed. Yale, como A. Prévost analizarán filológicamente
+estos vocablos.
+56
+Basándose en la conceptualización de Michel Foucault, de “sociedad disciplinaria” (Vigilar y Castigar:
+nacimiento de la prisión, Siglo Veintiuno, Buenos Aires, 2003), y con referencias al Panóptico de J. Bentham, Germán Bidegain interpretará que en Utopía hay rasgos que podrían calificarla de anticipación de las sociedades disciplinarias (autoritarias) de la modernidad. Vid. G. Bidegain: La Utopía de Tomás Moro, una sociedad disciplinaria, en Revista Pléyade, III-6
+(2010), pp. 2-26. Con mucha anterioridad, Jesús Fueyo llegaría a una conclusión más radical: que Moro en Utopía, en el
+fondo, anunciaba la anti-Utopía, es decir, Utopía como distopía. Vid. J. Fueyo, cit., p. 96
+57
+El paterfamilias romano tendrá modificación en Utopía: en efecto, la autoridad principal es el miembro familiar de más edad, padre o madre, y no se conoce la tutela marital. Sin embargo, existe una cierta subordinación de la mujer
+al marido. Vid. A. Prévost, op. cit., 679. Utopía, PRS, II, 156-157.
+58
+Utopía se compone de 54 ciudades, como los condados ingleses, y cada ciudad de 6.000 familias, y una
+familia integra entre 10 y 16 adultos, más hijos menores y siervos. Ilustres morianos, Prévost y Surtz-Hexter, dan estimaciones diferentes por lo que respecta a la población total: entre 5/13 y 8/9 millones de habitantes. Vid. Prévost, op. cit., p. 679.
+59
+Entre los utopianos rige el principio de estabilidad poblacional, de ahí los desplazamientos inter-urbanos y
+hacia el exterior (colonias). No se señala si, en ambos, son voluntarios o forzosos (Utopía, PRS, II, 157). Sobre el colonialismo no tendrán escrúpulo alguno: ex naturae praescripto, de base sociática. Entienden, así, que si necesitan tierras, por
+exceso de población, ocuparlas, pacífica o violentamente, es legítimo: derecho de supervivencia sobre el supuesto de que
+todo es común. Utopía, PRS, II, 158. Vid. Surtz-Hexter, ed. Yale, 416.
+
+75
+
+
+
+PRINCIPIOS ORDENADORES DEL ESTADO UTOPIANO
+Primer principio: el autogobierno popular. Moro-autor, no acudirá a
+Aristóteles para tipificar el Estado utopiano. Se distanciará totalmente del absolutismo europeo y, en parte, de la estructuración feudal (poliarquías)60. Sus
+fuentes institucionales más importantes estarán en el mundo greco-latino
+(Esparta, Atenas, Roma). La tradición inglesa parlamentaria no estará, con todo,
+ausente.
+El Estado utopiano es una República, en donde el pueblo (populus)
+ejercita el poder, por medio de representantes elegidos por los ciudadanos integrados en clanes familiares61. El príncipe o gobernador es vitalicio, pero electo,
+no es hereditario y cabe destitución62. No tiene fundamentación sacral o divina,
+y sus símbolos carecen de fastuosidad (un ramo de espigas)63. No existe aristocracia, ni jerarquías eclesiásticas con poder político64. Los poderes públicos
+actúan en colaboración, no-separación. Todos los representantes son electos y
+renovados anualmente y cumplen tanto funciones legislativas, como ejecutivas, judiciales y de control. El príncipe preside el Senado y un Consejo ejecutivo. A este esquema, unirá Moro-autor el parlamentarismo singular inglés: ciertas garantías procedimentales para tomar decisiones en el Senado y también
+para evitar la tiranía65.
+
+60
+No está muy claro si, realmente, el Estado utopiano es confederal, centralista unitario o federal. Prévost se
+inclina por una federación y Surtz-Hexter con dudas fundadas. La homogeneización total existente en Utopía —leyes, costumbres, idioma, religión— apuntan a que parece ser centralista o autonomista en algunos puntos (la importancia de los
+clanes familiares). Así, el concepto de poliarquía medieval no tendría asiento. Vid. H. Heller: Teoría del Estado, sección tercera, pp. 141 y ss., FCE, México, 1992 (reimpresión de la primera edición española de 1942).
+61
+El epígrafe de Utopía dedicado a los poderes públicos, muy breve, y probablemente, con intención, algo confuso, lo denomina Moro-autor De Magistratibus. Vid. Utopía, PRS, II, 145-148. Richard Marius, por ejemplo, en el tema de
+la representación política, le dará una interpretación más corporativa que individualista (clan familiar como determinante).
+Vid. R. Marius, op. cit., p. 163. Prévost, por el contrario, se sitúa en una dirección más moderna (separación de poderes,
+feración/confederación, individualismo) Vid. Prévost, PRS, II, 106-108.
+62
+En la versión latina original de Utopía, al magistrado superior se le denomina príncipe (Utopía, ed. Yale, 122124), en las traducciones inglesas (Surtz-Hexter) y francesas (Prévost), en cambio, gobernador (governor, gouverneur). En
+las españolas, príncipe (de Medinilla en adelante), y dado el carácter no monárquico de Utopía, habría que entender la voz
+príncipe en su acepción genérica de magistrado que ocupa el primer puesto de la República.- La elección del príncipe es
+indirecta y por votación secreta: el pueblo propone cuatro candidatos y un colectivo, formado por 200 filarcas, elige a uno
+de ellos (Utopía, PRS, II, 145-146). Su mandato, vitalicio, puede ser revocado, si hay sospecha de tiranía (Utopía, PRS, II,
+146). A pesar de la gran estabilidad que reina en Utopía, se prevén garantías para evitar alteraciones de la pax utopiana
+(tumultos, conspiraciones). Así, con pena capital se castigará a aquellos que realicen actividades políticas fuera del Senado
+o de las asambleas populares (Utopía, PRS, II, 147), con destierro, los que provoquen “tumultos” por cuestiones religiosas.
+63
+El sentimiento anti-monárquico, en cuanto representación de fastuosidad y lujo, se expresa por el símbolo
+sencillo de un ramo de espigas que el príncipe lleva consigo (Utopía, PRS, II, 206).
+64
+En el Libro Primero, la nobleza —junto con abades— será fuertemente criticada, como se ha señalado. En el
+Segundo, sin embargo, Moro, en su reflexión mental contra Hytlodeo, hablará de la nobleza como una de las raíces del
+“esplendor del Estado” (Utopía, PRS, II, 248). Sobre el no-poder político de los sacerdotes, véase más adelante, al reseñar
+la Religión, notas 80 y ss.
+65
+Por su experiencia en los Comunes, Moro-autor será sensible en la defensa de la tradición parlamentaria
+inglesa (ya señalada en Fortescue). Y, así, en Utopía la proyectará: que las leyes se discutan previamente en el Senado, que
+no se tomen decisiones en el mismo día al presentarlas, que se estudien antes por las asambleas de los filarcas y que participen las familias (Utopía, PRS, II, 147-148).
+
+76
+
+
+
+Segundo principio: la paz, pero, de hecho, con práctica de guerra (De re
+militari)66. Los humanistas, resaltarán como bestial y anti-cristiana la guerra
+(Erasmo), y en Utopía se dirá “que los utopianos abominan de la guerra con todo
+corazón”67. Pero, la guerra es lo que se narra: prevenirla, definir casus belli, estrategias y técnicas militares. Las guerras serán, pero no totalmente, por intereses
+económicos68. Desde la infancia, hay instrucción militar obligatoria y tienen ingenio para inventar máquinas de guerra69. Entre los casus belli incluirán tanto la guerra defensiva, como la preventiva y la ofensiva. Utopía, de facto, es un Estado
+hegemónico y lucharán, así, ofensivamente, para “liberar” a pueblos tiranizados
+o para “vengar agravios o reparar injusticias”, considerándose jueces, y con la lex
+utopiana. Otro casus belli, se contempla por la necesidad de espacio vital (exceso
+de población en Utopía). La real-politik prevalecerá sobre la humanitas, pero se
+justificará en base a la ley natural de que todo es de todos. Preferirán siempre evitar la guerra, utilizando la persuasión y la razón, pero, si no lo consiguen, todo
+es lícito: “habilidad, ingenio y engaño”70. De esta manera, promueven —con oro
+y dinero— disensiones internas entre los enemigos, estimulan el asesinato de sus
+jefes, incluyendo a sus príncipes y magistrados. Salvo en caso de guerra defensiva,
+el utopiano es libre o no de ir a la guerra y prefieren acudir a mercenarios. Tendrán en un pueblo, caracterizado por su crueldad y degeneración (los zapoletas,
+traficantes) a sus mercenarios favoritos, dándoles excelentes soldadas71. El oro,
+que acumulan, despreciado y sin valor en Utopía, cumple aquí un papel de
+corrupción y de instrumento bélico útil72. Hay, así, un maquiavelismo pre-publicación de El Príncipe. Su humanitas cristiana tendrá, sin embargo, una proyección dulcificadora de la guerra: no matan a los vencidos, observan las treguas, no
+arrasan las tierras conquistadas, no queman las mieses, no saquean, ni toman
+botín73. De las guerras, en fin, obtienen beneficios los utopianos: los vencidos
+entregan oro y tierras y en éstas los utopianos establecen colonias74.
+Utopía, PRS, II, De re militari, el arte de la guerra, pp. 212-225.
+Erasmo había escrito que “la guerra es tan cruel que es más propia de las fieras que de nombres” (Elogio a
+la Locura, Alianza Ed., Madrid, 3ª ed., 2011, 151). Moro que, en el Libro Primero, había ya estigmatizado las guerras, incorpora aquí esta caracterización de “bestial” (Utopía, PRS, II, 212).
+68
+No aparece en Utopía el elemento religioso como causa bélica: en 1516, todavía, las guerras religiosas europeas no habían comenzado, pero se avecinaban. Junto a las causas preferentes económicas, de espacio vital, los utopianos
+contemplan también “razones humanitarias”, es decir, liberar a pueblos oprimidos por tiranías, desde su posición de Estado
+hegemónico (Utopía, PRS, II, 212).
+69
+Utopía, PRS, II, 212, 221, 223.
+70
+Los utopianos consideran estas prácticas bélicas no como “crimen o fechorías”, sino resultado de una “sabiduría superior”, como acto de “humanidad y misericordia”, para evitar muertes inocentes, en defensa de los pueblos y en
+contra de la “vesania” de los príncipes (Utopía, PRS, II, 2017).- La cuestión de la guerra, así planteada de moralidad, remite
+a la conexión de Moro con Maquiavelo, en un planteamiento realista/ético. Para un excelente análisis sobre este tema, vid.
+Jean Louis Fournel: La guerre de l’Utopie. Considérations sur Thomas More, Francisco Patrizi et Tommaso Campanella, en
+Justice et armes au XVI siècle, ENS, París, 2010, pp. 129-154.
+71
+El tema de los mercenarios, tratado ya en el Libro Primero, se extiende aquí, en el Segundo, con más extensión. Los suizos constituían, por antonomasia, este tipo de soldados. Sin embargo, en las ediciones ne varietur (Basilea,
+marzo/noviembre, 1518) desaparecerá esta referencia concreta. Utopía, PRS, II, 218-219).
+72
+Utopía, PRS, II, 216.
+73
+Utopía, PRS, II, 222.
+74
+El Estado utopiano, en estas tierras ocupadas, las administra un cuestor, que las administran y que llevan una
+vida “suntuosa”. En esta administración colonial se contempla, compensatoriamente, préstamos. Utopía, PRS, II, 225.
+66
+67
+
+77
+
+
+
+Tercer principio: libertad, tolerancia y diversidad religiosa. Su tratamiento
+es novedoso, audaz y anticipador: desdogmatizar la teología dominante e introducir un sentido pragmático y utilitario. En el texto se dice que fue Utopus el que
+estableció este principio como garantía de paz y cohesión social internas75. Comprobó que su conquista se había debido a las disensiones y guerras religiosas
+que, entre sí, tenían habitantes de pre-Utopía. Y llegó a una conclusión: la intolerancia crea conflicto, decretando que “cada uno sea libre de practicar la religión
+que le pluguiera”76. Cualquier religión será aceptada siempre y cuando se introduzca sin violencia, sólo por la persuasión y la razón. En Utopía hay un consensus monoteísta o deísta flexible (numen eterno, ignoto Deo) llamado Mitra, de origen gnóstico-persa, que conforma una religión natural77. También, genéricamente,
+se acepta la vida transcendente y la providencia divina78. El ateísmo se rechaza,
+pero no tanto por cuestiones teológicas, sino por razón de Estado. Sin embargo,
+a los discrepantes se les permite el proselitismo, pero con la condición de noviolencia, de no injuriar o crear “tumulto”79. Hytlodeo cuenta que, durante su
+estancia, un utopiano, converso al cristianismo, por su vehemente proselitismo
+será condenado al destierro. Su condena “no fue —dirán— por desprecio a la
+religión establecida, sino por promover “tumulto”80.
+En Utopía hay religiosos, clero secular y culto en los templos: no tiene
+el clero poder político y son muy pocas las iglesias y pocos los sacerdotes81. Son
+elegidos por el pueblo, se casan y existe el sacerdocio femenino, y a todos se
+les considera en alta estima y con un privilegio: no pueden ser juzgados82. Los
+sacerdotes tienen, sobre todo, funciones sociales, además de las del culto: asesoran y educan83. Los utopianos, conocen la confesión, pero no ante el sacerdote, sino dentro del clan familiar84.
+
+Utopía, PRS, II, 229.
+Utopía, PRS, II, 229-220.
+77
+Vid. Surtz-Hexter, ed. Yale, 517-518.
+78
+Utopía, PRS, II, 179.
+79
+Ibid. 231.
+80
+En Utopía, Moro pretenderá ensamblar, la religión natural utopiana, basada en la razón, con un cristianismo
+que debería renovarse, es decir, tolerante y que persuada con la inteligencia. Hytlodeo, en este sentido, hablará de la “buena
+disposición” de los utopianos cuando se les habla de las primeras comunidades cristianas y de la vida en común (Utopía,
+PRS, II, 227-228).
+81
+En la dirección erasmista, Moro proyectaría en Utopía una Iglesia sencilla, austera, no involucrada en guerras, ni en intereses económicos, ni en lujo, al contrario de papas belicosos y con fastuo (el Julius exclusus, de Erasmo).
+Vid. Surtz-Hexter, ed. Yale, 519.- Utopía, PRS, II, 235-239).
+82
+La aceptación del sacerdocio femenino tiene claras connotaciones greco-latinas y, con ello, Moro-autor resaltará el papel de la mujer en la Iglesia, así como el matrimonio en los sacerdotes. Erasmo mantenía que, con respecto a este
+segundo punto, que habría existido esta posibilidad. Vid. Surtz-Hexter, ed. Yale, p. 545.- Sobre el fuero judicial de los sacerdotes, tema polémico, adoptará una posición (a través de la narración de Hytlodeo) de acomodación conservadora. Utopía,
+PRS, II, 237.
+83
+A los sacerdotes de les encomienda por el Estado la educación de la niñez y la juventud, a efectos de salvaguardar las instituciones públicas (Utopía, PRS, II, 236) y actúan como mediadores en las guerras (Ibid., 236 y 238). Los pocos
+templos existentes tienen una función integradora de la diversidad religiosa, unificando oraciones y ritos.
+84
+Utopía, PRS, II, 240-241.
+75
+76
+
+78
+
+
+
+Cuarto principio: comunidad de bienes. La comunidad de bienes
+(igualdad económica) y sociedad sin dinero son los principios ordenadores
+centrales en donde se asienta la sociedad utopiana85. Para Hytlodeo, la República de Utopía, dirá, “es la única digna de llevar este nombre”, en cuanto en
+las demás Repúblicas se “buscan sólo intereses personales” y “no el interés
+público”86 En el Estado utópico, “todo es de todos” y da seguridad plena. Frente
+a este Estado justo, añadirá, “hay repúblicas florecientes que son como una
+gran cuadrilla de gentes ricas y aprovechadas que, a la sombra y en nombre
+de la República, trafican en su provecho”. La dialéctica ricos/pobres es planteada frontalmente: ricos ociosos y explotadores, con amparo de las leyes y
+pobres con un trabajo insuficiente para vivir. Estas Repúblicas son injustas y
+aborrecidas87.
+Quinto principio: la felicidad como principio y como fin del Estado. En
+el poema citado de Anemolio, Moro-Anemolio, indica la transformación de Utopía (no-lugar) en Eutopía (lugar feliz): “Eutopía sum nocanda nomine” (con
+razón debo ser llamada Eutopía). ¿Dónde se encuentra la felicidad?, se preguntan los utopianos, y su respuesta será epicúrea: “el placer como la única y principal fuente de la felicidad humana”88. El hombre utopiano piensa que la vida
+está conforme con la naturaleza y, que esta vida buena y honesta se conoce por
+la razón, y que la virtud, conduce al placer y a la felicidad. Placer y felicidad
+están, así, unidos: “todas nuestras virtudes están abocadas al placer como a su
+fin y felicidad”89. El epicureísmo, con todo, es matizado: el placer, así, debe ser
+honesto, conforme a la naturaleza racional, que afecta al cuerpo y al alma90,
+rechazando los falsos placeres (vanidad, avaricia, juego, tabernas, la caza, la
+manía de la nobleza, el lujo).
+
+LEYES, LIBERTADES Y DERECHOS
+DE LOS UTOPIANOS
+Los principios ordenadores expuestos, vienen a ser normas fundamentales con vigencia continuada. Sin embargo, en la Constitución utopiana, las
+
+85
+La cuestión de la comunidad de bienes tiene, mucho antes de Moro, un largo itinerario que E. Bloch ha desarrollado (además de Platón, las fábulas helenísticas (la Isla de tol, de Yambuto) y Joaquín de Fiora. Vid. E. Bloch, op. cit.,
+II, 47 y ss.). En los dos Libros de Utopía, este tema es recurrente e irá constituyendo un núcleo central de la obra, junto con
+la cuestión religiosa. Explícitamente, lo manifestará cuando in mente está en desacuerdo con Hytlodeo: lo que es el máximo
+fundamento de todas las instituciones (quod maximun totius institutionis fundamentum est), vivir en común sin dinero. (
+Utopía, Surtz-Hexter, ed. Yale, 244).
+86
+Utopía, PRS, II, 243.
+87
+Utopía, PRS, II, 246.
+88
+Ibid. Utopía, 178.
+89
+Utopía, Ibid., p. 179.
+90
+Ibid., p. 180.
+
+79
+
+
+
+novedades no se rechazan: no es sociedad estática91. A pesar de la regulación
+y planificación estrictas existen conflictos, por eso hay leyes y jueces. Las leyes
+son pocas, breves y claras, en contraposición a la profusión y confusión legislativa europea (civil y canónica). No hay abogados en Utopía: el ciudadano se
+defiende a sí mismo y los jueces son muy estimados92.
+En cuanto Estado básicamente igualitario y colectivista, los derechos
+sociales tienen fuerte primacía sobre los individuales: así, el derecho a la educación, que parte desde la infancia, y se extiende en continuas actividades cultural-sociales93; la protección a la salud, por medio de hospitales públicos y
+médicos competentes en todas las ciudades y el cuidado especial a la vejez, en
+cuanto sociedad gerontocrática y la vivienda digna y garantizada94. La sociedad
+es una gran familia y el Estado, valedor de esta concepción de seguridad socialcomunitaria.
+Con todo, ciertos derechos y libertades propiamente individuales se
+atisban (Frank Manuel). Así, el utopiano es ciudadano, no hay esclavitud en
+Utopía, pero aparece como sobrevenida (por condena judicial) y no se extiende
+a los hijos de esclavos95. La igualdad ciudadana generalizadamente afecta por
+igual a los dos géneros, aunque exista cierta subordinación social-familiar de
+la mujer al hombre, destacándose así una anticipación insólita de la mujer en
+actividades de participación pública (Delineau, Silva, Spinoza)96.
+
+91
+Si en la República platónica el cambio es malo, configurando así una sociedad estática (Karl Popper: La
+sociedad abierta y sus enemigos, Paidos, Buenos Aires, 1957, p. 66), en la Utopía moriana, en principio, las novedades no
+se rechazan, siempre y cuando se les persuada con la razón. De ahí, que el cristianismo podría introducirse, como las novedades europeas (no conocían la brújula o la imprenta, y las asumieron). (Utopía, PRS, II, 229). En los mapas, diseñados
+por Holbein, de las ediciones de Utopía (Basilea, 1518) están dibujadas cruces cristianas en los edificios, no en la edición
+de 1516.
+92
+La crítica a las leyes y a la dualidad de ordenamientos jurídicos era común a los humanistas, así como a los
+abogados. Vid. en para-texto de Utopía (Carta de J. Budé a Th. Lipsot, Utopía, PRS, II, 53). Moro, por su parte, dará gran
+relevancia a los jueces, frente a los abogados (Utopía, PRS, II, 207-208). Igualmente, los tratados internacionales serán rechazados en Utopía, considerando que con el principio de comunidad de la naturaleza humana es suficiente (Utopía, PRS, II,
+210-211).
+93
+La educación y la instrucción es universal, para hombres y mujeres, pero la idea de control es contínua. El
+ocio-honesto, está reconocido: hay tiempos libres para ocio y estudio, aunque puede (el estudio) ser obligatorio para la clase
+letrada (Utopía, PRS, II, 156).
+94
+Utopía, PRS, II, 160-161.
+95
+Ibid., 198.
+96
+Con reiteración en la obra se habla de hombre y mujer, para acentuar el igualitarismo de género. Y, en efecto,
+la mujer tiene educación y participa en actividades públicas, queriendo marcar diferencias con la Europa cristiana: incluso,
+como se ha señalado, puede desempeñar el sacerdocio. La dignificación de la mujer tiene una anticipación relevante. El gran
+historiador Jean Delumeau ha analizado bien el discurso oficial sobre la mujer en los siglos XVI y XVII europeos y el contraste con Utopía es patente (El miedo en occidente, Taurus, Madrid, 1989, pp. 305 y ss.). La naturaleza de la mujer se ve,
+en el mejor de los casos, como “débil” y, por tanto, sometida a su marido o padres, quedando fuera de la participación política. Todavía, más de 150 años de publicarse Utopía, uno de los fundadores de la democracia moderna, Spinoza, defenderá
+esta posición ante la mujer (B. Spinoza, Oeuvres Complétes, Gallimard, París, 1954, pp. 1043-1044, en su Traité de l’autorité
+politique). Pero, por otra parte, en Utopía, se mantiene cierta sumisión de la mujer al hombre (Utopía, PRS, II, 240). Vid. A.
+Silva, op. cit., cap. 4, pp. 97-136).
+
+80
+
+
+
+La libertad de circulación (territorio nacional y extranjero) se contempla, pero con muchas limitaciones97. La de residencia y domicilio, en cambio,
+son inexistentes98. Dentro de las esferas de la libertad de pensamiento, las leyes
+utopianas son abiertas, con sentido de liberalidad y muy amplia la libertad religiosa, ya apuntada. No aparecen prohibiciones cultural-políticas, con el único
+límite de no atentar contra la paz social99. El matrimonio es monógamo y altamente considerado: parece que hay libertad de elección por parte de los cónyuges, pero, en cambio, se castigan con dureza las relaciones pre-matrimoniales (amores furtivos) y el adulterio, que afecta por igual al hombre y a la mujer,
+se condena con una radicalidad puritana extrema, que puede llevar incluso a
+la muerte100. Sin embargo, por contraste, en Utopía hay divorcio por consenso,
+por incompatibilidad de caracteres, y también por adulterio101. La muerte digna,
+la eutanasia, se reconoce y se recomienda, pero, en cambio, no el suicidio y
+no hay referencia al aborto102.
+Por lo que se refiere al trabajo, en Utopía está muy reglamentado en
+base a su misma concepción corporativa estatista. El trabajo del campo —como
+sociedad agraria— es común a todos, hombres y mujeres, y también obligatorio tener una profesión u oficio103. Es una sociedad sin clases, en cuanto no
+diferenciadas por razones económicas (no hay dinero), pero sí por el estatus
+que da su trabajo manual, intelectual o sacerdotal —y estas dos últimas clases
+están exentas de trabajo rural104. Utopía es un Estado rico y económicamente
+autárquico, aunque realiza comercio exterior (falta el hierro)105. El trabajo está
+dignificado, es gratificante, pero controlado: solo seis horas diarias, que “consideran suficientes”, incluyendo una conventual y generosa siesta o descanso
+
+97
+Viajar, en grupo o individualmente, es permitido, siempre bajo la idea de control: se necesita la autorización
+expresa de un magistrado (filarca, príncipe), que se obtiene —se dice— con facilidad (Utopía, PRS, II, 165-166). Los viajes
+en grupo los organiza el Estado, en todos los aspectos. El viaje-ocio se complementa con trabajo, en las casas donde vayan
+a residir. Los viajes individuales, por cuenta propia, exigen también un salvoconducto especial y, de no solicitarlo y obtenerlo, hay “castigo severo”, que, con reincidencia, llevaría a la esclavitud. Vid. Utopía, ibid., 166.
+98
+Vid. nota 57.
+99
+R. Marius interpreta que el epígrafe sobre los magistrados, que la libertad de manifestación política no se permite en los marcos institucionales, y penalizada con la muerte si se realiza fuera (R. Marius, op. cit., p. 147). De una lectura
+literal, se puede desprender que esta norma va dirigida, no a los ciudadanos, sino al príncipe y a los filarcas. Vid. Utopía
+PRS, II, 147.
+100
+Moro, en Utopía, diferirá de Erasmo sobre el matrimonio: alta consideración para Moro y mucho menos
+para Erasmo. Con respecto a la elección de cónyuges, se evidencia una diferencia con respecto a Europa, es decir, cierto
+mutuo consensus entre los cónyuges. Vid. Surtz-Hexter, ed. Yale, 479-480.- El puritanismo utopiano/moriano es radical con
+respecto a las relaciones pre-matrimoniales y, sobre todo, con el adulterio (esclavitud, muerte). Utopía, PRS, II, 203.
+101
+Moro, en relación al divorcio, seguirá la línea de Erasmo, incluso más acentuada. Vid. Surtz-Hexter, ed. Yale,
+482.- En Utopía que no siguen las costumbres de los pueblos vecinos (poligamia), sino la monogamia, como vínculo conyugal de por vida, sin embargo, establecerán el divorcio (por común acuerdo o por adulterio), y con estudio y autorización
+del Senado (Utopía, PRS, II, 202-203).
+102
+Utopía, PRS, II, 199-200.- Según Prévost, la eutanasia se entiende como un acto moral, sagrado y comunitario, dada la ausencia de felicidad con enfermedad incurable. A. Prévost, Utopía, II, 699-700.
+103
+Vid. Utopía, PRS, II,148-149.
+104
+Ibid. II, 175, 153-154.
+105
+Ibid., 167-168.
+
+81
+
+
+
+de dos horas106. El ocio se contempla, aunque de forma inocente o puritana :
+un ocio honesto de actividades físicas, juegos de virtudes contra vicios, lecturas en común, música, tertulias107.
+
+CONCLUSIONES
+Desde esta lectura de Utopía, en donde el Estado y su Constitución
+reflejarían, en principio, un tipo ideal de sociedad comunista, con una economía sin dinero, agraria e igualitaria, pero con mensaje de armonización con el
+cristianismo primitivo, muchas son las cuestiones que se plantean. Entre ellas:
+¿cuál era la intencionalidad finalista de Moro con Utopía? ¿en qué medida hay
+coherencia, contradicción o simulación en su juego laberíntico? ¿Evasión, sátira
+o proyecto político encubierto? ¿Modernidad o medievalismo?
+El contexto de Moro fue el de una gran transición y él es, así, un hombre de transición, a la vez, moderno y medieval. En este sentido, Utopía-obra
+sería su respuesta ante las grandes novedades emergentes: América, con la fantasía que produce, crítica al capitalismo mercantil pujante, búsqueda de un
+reformismo político, religioso y eclesiástico intra-muros, y todo ello, con una
+monarquía absoluta con su razón de Estado en auge. Utopía es denuncia y
+propuesta modernas, con un nuevo método que lleva a reflexionar la nueva
+realidad: Moro lo hará indirectamente (ductus obliquus), y por medio de la ficción e ironía, y Maquiavelo, su contemporáneo, utilizará la frontalidad desinhibida y realista. En esta etapa de Utopía, Moro es, así, un revolucionario en
+su planteamiento, en cuanto hay un proyecto ideal de cambio radical (Hexter,
+Bloch), pero, como hombre conservador, lo que desea es, realmente, un reformismo, entre la esperanza y el escepticismo. Dirá así, en su frase final de Utopía [Alfonso Quintás]:
+“así como no puedo asentir a todo lo dicho [por Hytlodeo],.... también reconozco que
+en la República utopiense hay muchas cosas que desearía para nuestras ciudades,
+aunque no confío en que esto suceda” .
+
+Pero, Moro es también hombre medieval y, en la segunda etapa de su
+vida, como político ocupando los máximos cargos del Reino, el motor utópico
+[Tierno] y el ductus obliquus se irá desvaneciendo: el monarca Tudor, de Defensor de la Fe católica pasa a nacionalizar la Iglesia y Moro se introduce en batallas político-teológicas (“la gran cuestión del Rey”, el divorcio), que pierde. Y
+
+106
+107
+
+82
+
+Ibid. II, 150 y ss.
+Ibid. II, 151.
+
+
+
+ni siquiera se le permitirá la evasión o la neutralidad: tendrá que elegir dramáticamente entre la nueva realidad de la razón de Estado nacional, que la modernidad impone —legalizada por su Parlamento (nobles, obispos, comunes) y la
+antigua legitimidad con su fidelitas tradicional. Y Tomás Moro, en solitario,
+decidirá permanecer en las fides de la antigua Cristianitas y de la supremacía
+espiritual de los Papas: fides que amparaba su libertad de conciencia.
+En fin, Tomas Moro anticipó y abrió caminos para la fluyente reflexión
+política (sobre religión y guerra, seguridad y felicidad, libertad e igualdad). Las
+creaciones utópicas posteriores, constantes ya en la cultura europea, actuarán
+de revulsivos e irán ideológicamente plasmando, con atenuación o radicalidad,
+buenas o malas repúblicas: así, las utopías como eutopías o como distopías.
+Este podría ser el legado dual de Moro que, en muchos aspectos sigue teniendo
+vigencia después de 500 años.
+
+83
+
+
+
+

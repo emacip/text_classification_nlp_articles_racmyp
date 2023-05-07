@@ -1,0 +1,603 @@
+DESIGUALDAD: PIKETTY SIETE AÑOS DESPUÉS
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez*
+
+1. INTRODUCCIÓN
+En mi intervención hace seis años (2014) comenté el libro recién publicado del economista francés Thomas Piketty, El capital en el s. xxi, que, a raíz
+de su traducción al inglés, se convirtió en un best seller mundial por tres razones. La primera, porque era una brillante y exhaustiva investigación, que aportaba ingente evidencia sobre la evolución de la desigualdad en el seno de las
+economías desarrolladas a lo largo de los siglos xix, xx y comienzos del xxi, un
+tema objeto de muy escasa atención por la investigación económica académica,
+pero que ha pasado a ocupar un lugar privilegiado en el debate sobre las consecuencias de la crisis iniciada en 2008 y por sus efectos políticos. La segunda
+razón era que formulaba un sencillo modelo que predecía una tendencia difícil
+de evitar al aumento de dicha desigualdad, iniciada en la década de los años 70
+del pasado siglo. El tercer motivo del éxito fue que en Estados Unidos, aunque
+no en Europa, se consideró que el trabajo de Piketty era un alegato general
+contra el capitalismo por lo que el establishment conservador salió en tromba
+contra el francés 1 que, obviando el rotundo y algo provocador título del libro,
+
+Sesión del día 10 de marzo de 2020.
+Recuérdese que el conservador Financial Times encargó a su redactor jefe Chris Giles una revisión crítica de los cálculos de Piketty que fue un ejemplo de arbitrariedad y prejuicios, totalmente desacreditada. O la crítica del American Enterprise Institute, un influyente y conservador think tank estadounidense
+que consideró de escaso interés el tema tratado por Piketty.
+*
+
+1
+
+5
+
+
+
+se mostraba como un reformista preocupado por el futuro del capitalismo y no
+como un radical que deseara su próximo y deseable final.
+La abundante evidencia aportada por Piketty demostró que en la Belle
+Époque o en la Época Dorada que cubre de 1870 a 1914, los niveles de desigualdad fueron muy elevados, el discurso político marcadamente antiigualitario y la
+proporción riqueza/renta se situó en torno a un valor de 6. Tras la II Guerra
+Mundial, en la era socialdemócrata, dicha proporción cayó hasta un valor de 3 y
+se redujo la desigualdad, al menos para los nativos blancos, aunque también se
+redujeran las brechas de género y raza, dando lugar a un menor poder de la élite de ricos. A partir de la crisis del crudo iniciada en 1973, pero sobre todo de la
+desaparición del comunismo en la Europa del Este tras la caída del muro de
+Berlín a fines de 1989, la desigualdad inició una senda ascendente de la mano de
+la revolución ultraliberal de los gobiernos de Margaret Thatcher y Ronald Reagan,
+senda que se perpetúa en la actualidad.
+La tesis de Piketty puede sintetizarse telegráficamente en tres puntos:
+1. En la medida en que la rentabilidad del capital —neta de impuestos— crece a mayor tasa que la renta nacional la proporción riqueza/renta aumenta, lo que conduce, dada la constancia de la tasa de ahorro, a una mayor
+concentración de la riqueza y al aumento de la desigualdad.
+2. Esto implica un mayor peso de la riqueza no ganada, es decir sociedades más heredocráticas, lo que genera descontento social que se manifiesta,
+entre otras cosas, en una deslegitimación de la democracia.
+3. Las fuerzas que dieron lugar a una menor desigualdad tras la II Guerra Mundial, tales como el alto crecimiento y la fiscalidad progresiva, perdieron
+fuerza a partir de la década de los 70’s del pasado siglo en que se entró en una
+dinámica de desigualdad creciente.
+Aparte las implicaciones políticas y sociales de este proceso, desde el
+punto de vista del análisis económico, la investigación de Piketty demostró la
+debilidad de dos hipótesis que habían sido dominantes en la parca discusión
+académica sobre el tema de la desigualdad.
+La primera es la llamada curva de Kuznets (Kuznets 1955), según la
+cual la desigualdad crece en las primeras fases de la industrialización, al producirse un trasvase de trabajadores agrícolas, con niveles salariales bajos, hacia la
+industria, con mayores niveles salariales. A medida que la economía tiende a su
+fase de madurez, el efecto se revierte, de forma que la curva temporal de la
+desigualdad tiene una forma de U invertida.
+
+6
+
+
+
+La segunda es la apoyada en las leyes de crecimiento formuladas por
+Nicholas Kaldor (Kaldor 1966) que permitían concluir que el problema de la
+desigualdad en las etapas iniciales del crecimiento económico dejaría de ser un
+problema en la segunda mitad del s. xx.
+Siete años después, tras otra larga investigación, Piketty nos presenta
+un nuevo trabajo, Capital e ideología, un libro heredero de El capital en el s. xxi
+pero con importantes diferencias. La primera, que en su primera obra el análisis
+se limitaba a cinco economías occidentales desarrolladas (EE. UU., Reino Unido, Francia, Alemania y Suecia) y en Capital e ideología la mejora en la disponibilidad de datos ha permitido ampliar el estudio a otros países (Brasil, Corea,
+Hungría, India, Líbano, Polonia, Sudáfrica, Taiwan y, de forma más limitada,
+China y Rusia). La segunda diferencia, que en el primer trabajo los cambios
+políticos e ideológicos que justificaban la evolución de la desigualdad eran tratados, cuando se los consideraba, como un dato, como una «caja negra» omitiéndose el análisis de la evolución de las ideologías desigualitarias, mientras
+que en la segunda entrega el análisis de las ideologías y su influencia sobre la
+desigualdad constituyen un objetivo central del estudio.
+Simplificando hasta el límite, puede afirmarse que Capital en el s. xxi
+tenía como objetivo medir la evolución de la desigualdad en la distribución de
+la riqueza y la renta individuales en los países avanzados y ofrecer una explicación, una hipótesis, sobre su probable evolución futura. Capital e ideología
+tiene como objetivo principal proporcionar una explicación al origen de la
+desigualdad, una explicación válida no solo para países desarrollados y no circunscrita a los últimos dos siglos, sino a toda la historia de la humanidad y
+proponer una batería de medidas para revertir la situación. Un plan mucho más
+ambicioso y, por tanto, más susceptible de críticas.
+Los ataques, como ya señalé, acompañaron desde el principio a la publicación en 2013 del primer libro de Piketty. Los más inmediatos ya fueron
+comentados en mi intervención de hace seis años, pero la discusión del texto
+ha seguido ocupando un lugar fundamental en la literatura de estos años. Pese
+a ser un libro de economía, la mayor parte del debate inicial se centró en aspectos políticos y filosóficos, hasta que un nutrido y relevante conjunto de
+economistas académicos publicaron en 2017 el After Piketty.
+Pese a la importancia del problema del nivel alcanzado por la desigualdad, su explosión con la reciente crisis y su preocupante tendencia creciente,
+sigue habiendo, como en el caso del cambio climático, negacionistas, que consideran que el problema no es grave. En muchos casos no se trata de ignorantes, sino de defensores a ultranza del capitalismo en su versión actual que temen que la crítica al funcionamiento del sistema en las últimas décadas que
+implica el aumento de la desigualdad termine dando alas a los críticos más radicales. Dos argumentos suelen utilizar estos negacionistas.
+
+7
+
+
+
+El primero es que lo importante no es la desigualdad, sino la pobreza y que el mundo ha mejorado, incluso a lo largo de la reciente crisis, disminuyendo drásticamente el número de personas que se encuentran en situación de pobreza extrema y no alcanzan los dos dólares diarios de ingresos.
+En otras palabras: lo importante no es que los pobres de las sociedades
+avanzadas mejoren su posición relativa, sino que la gente no se muera de
+hambre. El argumento para tratar de quitar importancia al tema de la desigualdad es muy endeble. Por una parte, la pobreza es otro problema, sin
+lugar a dudas muy importante, pero a nadie se le ocurre decir que el envejecimiento de la población, o el cambio climático, que son dos grandes problemas para el futuro de la humanidad, implican que el tema de la pobreza
+no sea importante. En segundo lugar, convendría recordar que la mejora de
+las estadísticas de pobreza se debe, en gran medida, al desarrollo de economías como la china y algunos países subsaharianos, que no parecen un modelo de capitalismo.
+El segundo argumento de los negacionistas es que lo relevante no es
+tener más o menos que el vecino, sino tener lo suficiente, es decir que nuestras
+preferencias se deberían definir sin relación a lo que tienen los demás. Aparte
+de que esto no pase de ser un deseo no acorde con la evidencia disponible, ya
+que el efecto demostración en el consumo goza de abundante evidencia empírica, incluso los defensores más extremos de esta posición (Frankfurt 2016)
+admiten que la mejora de la desigualdad solo puede venir de la mano de la
+justicia, la democracia y una economía de mercado con más reglas y controles
+que la actual y no del liberalismo económico extremo, y supuestamente autorregulado, que la ha acrecentado.
+Unas pocas cifras permiten visualizar la magnitud de la desigualdad y
+seré muy selectivo para no cansar con muchos datos, ya que pueden encontrar
+todos los que deseen en el libro de Piketty:
+• En 2015 las 62 fortunas mayores del mundo acumulaban una riqueza
+mayor que la mitad de la población mundial, algo más de 3.500 millones de personas. Dos años después, el 1% más rico poseía la mitad de la riqueza mundial total. Y estas diferencias no solo se dan
+entre países ricos y pobres, sino que se manifiestan dentro de los
+países más desarrollados: con los últimos datos disponibles, las 20
+mayores fortunas de los EE. UU. poseen la mitad de la riqueza estadounidense y el top 1% acumula el 20%.
+• Con los datos disponibles correspondientes a 2018, en EE. UU. el
+50% más pobre de la población poseía el 2% de la riqueza total y el
+10% más rico el 72%, y en Europa (representada por la media del
+Reino Unido, Francia y Suecia) la mitad más pobre alcanzaba el 6%
+de la riqueza total y el 10% más rico el 55%, cifras inferiores a los EE.
+
+8
+
+
+
+UU. pero muy relevantes, solo superadas por los datos previos a la
+I Guerra Mundial, época en que la desigualdad alcanzó máximos
+históricos.
+• Para las tres décadas que median entre 1987 y 2017, el crecimiento
+real medio anual de los grandes patrimonios es muy significativo.
+Comparando la media de EE. UU., Europa y China con el mundo, se
+observa que las tasas de todos los indicadores del primer grupo son
+muy superiores a la media mundial, pese a que el PIB total crece
+menos en el área más rica y el crecimiento de la renta media por
+adulto es similar en ambas áreas.
+En resumen, el problema de la desigualdad actual, aparte de consideraciones de justicia y ética en las que no entraré, implica una degradación de
+las condiciones de mérito, un peso creciente de la riqueza no ganada con el
+propio esfuerzo, una menor movilidad social, dudas sobre la sostenibilidad de
+los programas sociales, en suma, un aumento de la inestabilidad social y política y una deslegitimación del sistema democrático. En palabras del juez estadounidense del Tribunal Supremo Louis Brandeis «Podemos o bien tener democracia en este país o podemos tener una gran riqueza concentrada en manos de
+unos pocos, pero no podemos tener ambas».
+En particular, el tema de la menor movilidad intergeneracional es muy
+importante porque frustra las expectativas familiares de que las nuevas generaciones accedan a mayores niveles de bienestar al estar altamente correlacionado el nivel de renta familiar con la obtención de una buena educación que resulta determinante para el perfil temporal de ingresos a lo largo de la vida.
+Viene a cuento aquí citar a Li Andersson, Ministra de Educación Finlandesa, es
+decir, del país que arroja los mejores resultados en casi todos los rankings educativos preuniversitarios: «Las escuelas no tienen herramientas suficientes al
+crecer la desigualdad».
+La creciente desigualdad es, por tanto, un problema muy relevante a
+cuyo análisis merece la pena dedicar esfuerzo y que, inevitablemente, conduce
+a proponer cambios significativos en las reglas de juego que han prevalecido
+en nuestras sociedades en las últimas cuatro décadas.
+Dedicaré el resto de mi intervención a comentar las críticas, avances e
+interpretaciones que se han producido en el mundo académico al primer trabajo de Piketty, las posteriores a mi intervención de 2014, y tras esto comentaré
+algunos aspectos del nuevo trabajo del economista francés.
+
+9
+
+
+
+2. AFTER PIKETTY
+El libro, publicado en 2017 y que ha sido traducido al castellano en
+2018 con el expresivo título de Debatiendo con Piketty. La agenda para la economía y la desigualdad, contiene un conjunto de 21 ensayos de académicos
+relevantes sobre distintos aspectos del libro de Piketty. Dada la imposibilidad
+de comentar todas las aportaciones, trataré de ofrecer una síntesis de las conclusiones de los trabajos, señalando las debilidades y fortalezas detectadas por
+los autores.
+Algunas críticas tienen un recorrido corto o señalan insuficiencias inevitables en un trabajo de estas características, aunque apuntan hacia posibles
+formas de completar el enfoque de Piketty. Así, se ha señalado que el tipo de
+desigualdad resulta relevante y que existen diversos valores de la misma: para
+unos problemas lo relevante es el nivel de la desigualdad, pero para otros lo es
+su variación; el foco de atención ¿debe dirigirse hacia la concentración de riqueza del top 1%, hacia los efectos sobre las clases medias o hacia la desigualdad en los pobres? Otros comentarios señalan que el papel de las instituciones,
+la historia y la estructura política apenas juegan papel alguno en el enfoque de
+Piketty. Por ejemplo, no se da importancia al hecho de que la capacidad de las
+élites para bloquear medidas encaminadas a reducir la desigualdad solo se debilita por acontecimientos tales como las guerras (el importante papel jugado
+por la II Guerra Mundial) o las revoluciones globales (como la soviética), fenómenos que tienen un impacto que va disminuyendo con el paso del tiempo,
+hasta que se vuelve a una situación «normal», tesis que apoya la idea de que el
+aumento de la desigualdad es la tendencia natural del capitalismo.
+Parte de los comentaristas y críticos albergan dudas sobre ciertas hipótesis del modelo de Piketty. Por ejemplo, un aumento de la relación riqueza/
+renta no tiene que dar lugar inevitablemente a un aumento de la desigualdad si
+el rendimiento neto de impuestos del capital se reduce. La evolución futura de
+la desigualdad depende de cual sea la tasa de ahorro y la evolución de la población. Es cierto que la evolución futura de la desigualdad depende de estos
+factores —y de muchos otros—, pero los supuestos de Piketty (4-5% del rendimiento del capital; 10% de la tasa de ahorro y proyecciones de población en la
+media de las utilizadas por los organismos internacionales) parecen dibujar un
+escenario central y, por tanto, bastante probable.
+Un grupo de comentarios señalan que el concepto de capital utilizado
+resulta relevante para los resultados y que el utilizado por Piketty no es el único posible y, para algunos razonamientos, ni siquiera el más conveniente. En
+efecto, el francés considera como únicos activos reales fuentes de riqueza los
+activos físicos (instalaciones, maquinaria, vivienda, etc.), los privilegios públicos, la amortización de la deuda y el posible control de las actividades financieras, pero no tiene en cuenta el capital humano. La omisión es cierta, pero en la
+
+10
+
+
+
+medida que la correlación entre capital humano y riqueza es muy elevada, no
+parece que su inclusión en los cálculos sobre la desigualdad pueda alterar de
+forma significativa los resultados.
+También se han destacado entre las omisiones el análisis de los efectos
+del factor geográfico ( Jones 2017). En particular, si la única forma de revertir los
+efectos de ampliación de la desigualdad es la fiscalidad, la resistencia del capital a esta solución es mayor por la difuminación de las fronteras económicas.
+Un factor fundamental del proceso de industrialización fue la creación del Estado nación en Europa, que fue un poderoso instrumento para la formación de
+capital, pero ahora el capital es transfronterizo y existen nuevas formas de protección del mismo. El comentario señala una insuficiencia en el análisis de Piketty pero, de nuevo, en la dirección de una mayor dificultad para revertir la
+tendencia al aumento de la desigualdad.
+El modelo de Piketty es, por otra parte, excesivamente sencillo en el
+sentido de no tener en cuenta muchos factores que afectan a la distribución de
+la riqueza. En concreto, una alta relación entre riqueza y renta no basta para
+garantizar una desigualdad creciente e incluso un modelo agregado sencillo
+indica una pluralidad de variables, algunas de difícil medición, de las que depende la evolución de la desigualdad. En otras palabras, existen diversas formas
+de obtener distribuciones de riqueza que presenten colas paretianas (De Nardi,
+Fella y Yang, 2017).
+Un bloque muy importante, por sus implicaciones de política económica, de los comentarios a la tesis de Piketty se refiere a la discusión de cómo una
+desigualdad elevada puede afectar al crecimiento y sus las oscilaciones cíclicas
+y en qué medida afecta a la estabilidad económica.
+Respecto a los efectos de la desigualdad sobre el crecimiento se han
+señalado al menos tres variables no consideradas por Piketty que deben tenerse en cuenta (Zando 2017): el empleo industrial cualificado, el grado de cualificación de la inmigración y el envejecimiento de la población. En primer lugar,
+el empleo industrial cualificado que proporciona salarios medios apreciables y
+que cuando por efecto de las innovaciones se pierde resulta muy difícil volver
+a recuperarlo, por lo que el porcentaje de empleo industrial es una variable
+relevante en la explicación de la desigualdad. Un segundo factor es el grado de
+cualificación de la inmigración porque si recae en trabajadores poco cualificados, presionará a la baja sobre los salarios menores y aumentará la desigualdad.
+Por último, el envejecimiento de la población también es relevante, porque los
+más viejos reciben menores ingresos y consumen más patrimonio, lo que también tiende a aumentar la desigualdad. La evidencia parece indicar que si bien
+los efectos de una mayor desigualdad no son muy relevantes a la hora de explicar la tasa de crecimiento del PIB en economías avanzadas, sí que afectan a
+su comportamiento cíclico. La importancia de los efectos riqueza en sociedades
+
+11
+
+
+
+más desiguales hace que los ciclos sean más frecuentes, amplios y duraderos.
+Por ejemplo, el comportamiento procíclico del ahorro de las rentas altas y de
+los ricos, condujo a que en los EE. UU. entre 1990 y 2002 la tasa de ahorro se
+redujera en 10 puntos porcentuales.
+Respecto a la estabilidad económica y financiera (Morelli 2017), posiblemente el efecto más importante es el comportamiento cada vez más rentista
+de las élites económicas: la transmisión de privilegios económicos de una generación a otra tiende a fomentar la captura de los reguladores y políticos, por
+lo que sociedades en que la riqueza heredada es muy importante respecto a la
+creada y las rentas elevadas por diferencias en las oportunidades tienen mayor
+peso que las rentas derivadas del mérito, son sociedades más inestables, sobre
+todo desde el punto de vista financiero.
+Un último comentario breve sobre un aspecto algo más técnico que
+tiene que ver con el marco neoclásico subyacente al modelo discutido y que
+apunta a otro elemento a tener en cuenta para analizar la evolución previsible
+de la desigualdad. Todo el modelo está basado en el supuesto de sustituibilidad
+entre los factores de producción, entre trabajo y capital, pero el proceso de
+cambio tecnológico ha conducido a que la fuente principal de riqueza no sean
+tanto los activos físicos como la información, una situación en la que el capital
+y el trabajo son complementarios y, en este marco, es más fácil que la desigualdad tienda a crecer.
+En resumen, quizá la expresión más sintética de la importancia del
+primer trabajo de Piketty sean las palabras que cierran el ensayo de Paul Krugman en el After Piketty: «El Capital en el s. xxi es un libro extremadamente importante. Piketty ha transformado el debate económico: nunca volveremos a
+hablar del mismo modo sobre riqueza y desigualdad» 2 (Krugman 2017, p. 108).
+
+2. CAPITAL ET IDÉOLOGIE
+El libro, en palabras del autor, trata de «presentar una historia razonada
+de los regímenes desigualitarios, desde las antiguas sociedades esclavistas trifuncionales hasta las modernas sociedades poscoloniales hipercapitalistas»
+(p. 1144) que sirve de base para una propuesta encaminada a «superar el actual
+sistema capitalista y trazar lo que podrían ser las bases de un nuevo socialismo
+participativo de cara al s. xxi […] basado en la propiedad social, la educación y
+en compartir el conocimiento y el poder» (p. 1145).
+
+2
+En las citas se indica la paginación de la edición castellana por mayor facilidad de acceso y
+consulta, en su caso, para el lector.
+
+12
+
+
+
+Lo primero a destacar es que el libro tiene tres partes claramente diferenciadas, cabría decir que se trata casi de tres libros. El primero —de más de
+400 páginas— trata los regímenes desigualitarios y los sistemas esclavistas y
+coloniales; el segundo —unas 350 páginas— trata de lo que el autor denomina
+«la gran transformación del s. xx». El tercero —de casi 300 páginas— tiene un
+título tan explícito como «Repensar las dimensiones del conflicto político». Omitiré en mi análisis el primero porque, aunque proporciona una visión muy interesante de las ideologías dominantes subyacentes a sociedades que justificaban
+niveles de desigualdad terribles y por fortuna desaparecidos, poco aporta a los
+problemas actuales de desigualdad en nuestro mundo y también por carecer de
+conocimientos históricos suficientes para poder valorar de forma competente
+sus aportaciones.
+Por tanto trataré solo dos aspectos del libro. El primero, el papel de la
+ideología en la evolución de la desigualdad. Por último, centraré la atención
+sobre las propuestas contenidas en la parte final del libro.
+Señalaré, por último, que Piketty ofrece información exhaustiva —al
+igual que hizo con El capital en el s. xxi— sobre las fuentes que utiliza en sus
+cálculos, las series históricas que emplea, los métodos seguidos para la medición de todas las variables y las fuentes históricas utilizadas, de forma que todas
+sus afirmaciones pueden ser contrastadas y sus cálculos replicados.
+2.1 El papel de las ideologías en la justificación
+de la desigualdad.
+Cualquier sociedad necesita disponer de una justificación de las desigualdades existentes en su seno que las presente como las necesarias y, a poder ser, mínimas, para garantizar la cohesión social. Las ideologías (derivaciones en términos paretianos), en suma, describen y defienden una forma
+concreta de organización de la sociedad y, en lo esencial, dos aspectos fundamentales de la misma:
+1.º Los derechos de los miembros de la sociedad: derechos individuales y la forma en que se toman las decisiones colectivas. Es decir, definen el
+poder de y sobre las personas.
+2.º Los derechos sobre las cosas: las distintas formas en que la propiedad resulta admisible así como los procedimientos que garantizan dicha propiedad. Es decir, definen el poder sobre las cosas.
+Ambos aspectos afectan a muchas variables sociales entre las que destacan dos que tienen especial relevancia en la determinación del grado de desigualdad admisible: el sistema educativo en la medida que es el vehículo prin-
+
+13
+
+
+
+cipal de promoción individual, y el sistema fiscal por su doble efecto
+redistributivo tanto por el lado de los ingresos como por el de los gastos.
+Piketty es especialmente crítico con dos enfoques ideológicos: el conservador y el marxista. La posición conservadora considera que la desigualdad
+tiene fundamentos naturales y que cualquier intento de modificarla traerá consigo grandes daños sociales. La historia, sin embargo, demuestra lo erróneo de
+esta posición: con carácter general las rupturas y los procesos revolucionarios
+han dado lugar a reducciones de la desigualdad y se encuentran en el origen
+de las instituciones que más han ayudado a mejorar la calidad de vida: la educación gratuita y obligatoria, el sufragio universal, el seguro médico universal o
+la progresividad fiscal. El enfoque marxista considera que las relaciones de
+producción y el estado de las fuerzas económicas determinan de forma unívoca
+la superestructura ideológica, de tal forma que esta última es la mera resultante
+del nivel tecnológico y de la estructura de clases. También en este caso la historia demuestra lo erróneo de la concepción: con similares relaciones de producción y estructura de clases, distintas sociedades han evolucionado de forma
+muy distinta, dando lugar a ideologías que van del comunismo hasta el capitalismo en sus distintas variantes, más algunas terceras vías.
+De este análisis crítico se obtiene una conclusión importante: aunque
+los factores tecnológicos y económicos sean relevantes en la determinación del
+grado de desigualdad de una sociedad, el origen último de la desigualdad no
+es económico o técnico, sino político e ideológico.
+Una larga parte del libro está dedicada a delinear el proceso histórico
+por el cual las sociedades estamentales europeas y las esclavistas se convierten
+en sociedades propietaristas, coloniales y postesclavistas en el s. xix y como
+estas últimas entran en crisis en el s. xx por efecto, fundamentalmente, de las
+guerras mundiales y el desarrollo de los sistemas comunistas. La pérdida de
+importancia de los enfoques propietaristas entre 1914 y 1945 —el, periodo que
+cubre ambas guerras mundiales—, las mejoras que supone la época socialdemócrata en el periodo 1950-80 y el resurgir del propietarismo a partir de ese
+momento por el agotamiento de un largo ciclo expansivo y el cambio en la
+ideología socialdemócrata que convierte en un objetivo político fundamental
+demostrar que ella es tan buena gestora del capitalismo como los conservadores. No hay mucho de original en el análisis, aunque tengan cierto interés dos
+aspectos del mismo: el primero, el énfasis crítico en el papel de la desaparición
+de la URSS en este proceso; el segundo, la pauperización de muchos países
+que, en las décadas anteriores, se etiquetaban con optimismo como «en vías de
+desarrollo».
+Para Piketty el fracaso y la desaparición de la URSS en 1991 ha sido un
+hecho que ha favorecido el resurgir del liberalismo económico en sus formas
+más extremas dado dando lugar a la sacralización de nuevas formas de propie-
+
+14
+
+
+
+dad privada, hasta el punto de señalar que el postcomunismo (Rusia, China) ha
+sido y es el mayor aliado del hipercapitalismo.
+Califica al sistema económico ruso de los últimas tres décadas de «cleptocracia» generadora de una nueva oligarquía que ha llegado al extremo de que
+el total de activos off-shore rusos localizados en paraísos fiscales sea en la actualidad muy superior al de los activos legales declarados. Esto no debe, sin
+embargo, sorprendernos demasiado. Las sociedades con una larga práctica institucional autocrática no es posible que pasen de golpe de un sistema fuertemente centralizado en que los procesos de asignación de recursos son determinados por una administración corrupta carente de control externo alguno a un
+sistema basado en la propiedad privada y el mercado. El enorme y veloz proceso de privatización que la caída del sistema implica es decidido por un reducido número de oligarcas con poder político suficiente, por lo que resulta inevitable que se rija no por principios de competencia sino por una dinámica de
+exclusivo interés personal de la nueva nomeklatura plagada, por otra parte, de
+miembros supervivientes de la antigua. No hay que ir demasiado lejos, salvando
+las distancias sobre todo institucionales: el análisis de los procesos de privatización en muchas democracias occidentales a partir de la década iniciada en 1980
+muestran sesgos de este tipo.
+Tras la caída de la URSS la desigualdad es, para los defensores de un
+liberalismo económico extremo, aún más justificable, porque si todos tienen
+iguales posibilidades de acceso al mercado y a la propiedad y se postula una
+meritocracia mucho más radical que la defendida a comienzos del s. xx, «los
+pobres son responsables de sus destinos». El corolario es, además, inmediato y
+sirve a otros fines: si el culpable de la mala situación económica es la persona,
+la sociedad no tiene responsabilidad alguna en la desigualdad y los programas
+de lucha contra la desigualdad solo servirán para financiar a individuos que no
+están dispuestos a hacer el esfuerzo necesario para mejorar en la escala social.
+En el límite, hay quienes llegan a defender la privación de derechos ciudadanos
+a los perceptores de ingresos públicos 3.
+Respecto a la pauperización de algunos Estados atrasados, Piketty realiza un análisis de los efectos negativos que ha tenido la forma en que se llevado a cabo el proceso de liberalización comercial, es decir, la globalización.
+Considera que el proceso ha sido demasiado rápido para los países más atrasados, por lo que no han dispuesto del tiempo necesario para sustituir los ingresos por aduanas, que en la década de 1970 representaban en torno al 6% del
+
+3
+Hayek, por ejemplo (Hayek 1982, tomo 3) llega a defender la existencia de asambleas gubernamentales elegidas no por sufragio universal, sino excluyendo del voto a los funcionarios, pensionistas y
+perceptores de transferencias públicas. Y que las leyes civiles, mercantiles y fiscales, así como las que afecten
+a los derechos de propiedad deberían ser aprobadas por una Asamblea de mayores de 45 años, cuyo mandato durara 15.
+
+15
+
+
+
+PIB, una cifra muy apreciable en países cuyos sistemas fiscales tienen capacidad recaudatoria muy modesta.
+En efecto, el proceso de globalización se ha llevado a cabo bajo los
+principios del llamado Consenso de Washington 4 impuesto por los organismos
+internacionales y que se guio por los intereses de las economías más desarrolladas, con un gran protagonismo de los EE. UU. Una forma de globalización
+que, por utilizar la síntesis de Stiglitz (2002, 2006) o Milanovic (2016), ha perjudicado a los países menos industrializados, ha priorizado los valores materiales
+sobre los problemas a largo plazo (medio ambiente, educación, sanidad), ha
+erosionado la democracia al ser gestionada de una forma que ha limitado drásticamente la soberanía de las naciones y de la que una parte relevante de la
+población no se ha beneficiado.
+Los principios defendidos Consenso de Washington puede decirse que
+afectaban a todos los aspectos relevantes de la política económica Y su plasmación fue el conocido decálogo: no permitir grandes déficits, reducción de subsidios, tipos impositivos moderados, tipos de interés de mercado, tipos de cambio competitivos, liberalización comercial, levantamiento de barreras a la
+inversión extranjera directa, privatización de empresas públicas, desregulación
+y seguridad jurídica de los derechos de propiedad. En síntesis el eslogan «reducir el tamaño del Estado, privatizar, desregular, liberalizar», recetario que se
+impuso a todos los países subdesarrollados y en vías de desarrollo por los organismos internacionales y que fue seguido por los gobiernos conservadores
+de los países desarrollados desde la década iniciada en 1980.
+La globalización ha tenido otro componente importante, como ha señalado hace pocos días Lamo de Espinosa (2020), el cultural, manifestado en el
+supremacismo de unas élites cultas formadas por ciudadanos que cabría calificar de internacionales, pero Piketty solo discute los motivos económicos de la
+globalización reciente.
+2.2 Repensando el conflicto político.
+La tercera parte de Capital e ideología, como he dicho, cabría decir que
+el tercer libro, se ocupa de las propuestas y se centra en el análisis de tres temas
+centrales: la educación, la propiedad y el federalismo internacional. Omitiré su
+análisis de la evolución de la educación, sus efectos y la necesidad de lograr lo
+que denomina la «justicia educativa» y me centraré en el tema de la propiedad
+porque es el principal en el enfoque del francés.
+
+4
+Término acuñado en 1989 para definir el conjunto de principios de política económica defendidos por el Banco Mundial, el Fondo Monetario Internacional y el Departamento del Tesoro estadounidense.
+
+16
+
+
+
+En el tema analiza dos posiciones que denomina «derecha de mercado»
+e «izquierda brahmánica». La primera no necesita explicación alguna por ser la
+ideología dominante en el mundo desde 1980, pero la segunda requiere alguna
+precisión. Primero, conviene tener presente que Piketty aplica el calificativo de
+izquierda no necesariamente a lo que son posiciones políticas de izquierda sino
+a las que se autodenominan así, lo que indica que no cree que los brahmanes
+sean de izquierda realmente aunque así se proclamen. Pero este es un tema
+secundario.
+En su análisis de la evolución electoral entre derecha e izquierda desde
+el final de la II Guerra Mundial, Piketty insiste en el hecho de que la izquierda
+ha pasado de tener su caladero de votos en los trabajadores y los estamentos
+sociales más desfavorecidos a ser votada por los titulados, lo que denomina la
+izquierda brahmánica, señalando que «el partido de los trabajadores se ha convertido en el partido de los ganadores del sistema educativo, separándose paulatinamente de las clases populares» (p. 901). Y señala también la existencia de
+cierta complementariedad entre los valores y experiencias de la derecha de
+mercado y la izquierda brahmánica: ambas creen en el mérito (académico o en
+los negocios), defienden la acumulación (de titulaciones, conocimientos y capital humano o de capital financiero), y ambas comparten una valoración positiva
+del actual sistema económico y de la globalización tal y como se ha llevado a
+cabo, ya que los beneficiarios de la misma son las élites intelectuales y las élites
+financieras. Y ambas consideran, con matices, aceptable un grado de desigualdad significativo.
+El equilibrio entre ambas posiciones es, sin embargo, precario, como
+demuestra la continuada tendencia a la disminución de la participación en los
+procesos electorales y el fortalecimiento por una parte de una izquierda más
+radical y redistributiva y, por otra parte, de una derecha nacionalista partidaria
+de un repliegue identitario y de un social-nativismo antiinmigratorio. Y es en
+este contexto político e ideológico donde Piketty plantea sus propuestas de
+reforma del capitalismo.
+Piketty sostiene la idea de que una sociedad justa es la que facilita acceder a los bienes fundamentales de la forma más amplia posible a todos los
+ciudadanos, lo que no implica igualdad absoluta o uniformidad individual, una
+posición en la línea de Rawls (1971, 1993), y basa sus propuestas en tres pilares:
+el cambio en la gobernanza de las empresas, la propiedad temporal y la fiscalidad progresiva y el federalismo a escala mundial.
+Basándose en una valoración positiva de las experiencias centroeuropeas y nórdicas desde la década de 1950 sobre la cogestión, en que los trabajadores disponen entre el 30 y el 50% de los puestos del Consejo de Administración, Piketty propone ampliarlas y completarlas con la limitación de los
+derechos de voto de quienes tengan más del 10% de capital social. Piketty no
+
+17
+
+
+
+presenta una propuesta cerrada y cuantificada, señalando que la solución final
+debe ser resultado de una larga discusión y experimentación y debe ser una
+regla cuyos topes sean distintos para grandes que para pequeñas y medianas
+empresas. Nada que objetar, pero para el cambio del modelo de sociedad que
+persigue Piketty, esta propuesta es muy insuficiente, porque el núcleo del problema es evitar la concentración de capital ilimitada o excesiva.
+Para ello, el instrumento más potente, y quizá único, es la fiscalidad y
+en este campo sí que existe una propuesta bastante detallada basada en retomar los impuestos progresivos sobre sucesiones y renta que tan importantes
+fueron en la mayor parte del s. xx, complementados con un impuesto progresivo sobre el patrimonio.
+¿Por qué el patrimonio? Por una parte, resulta menos manipulable que
+la renta y el hecho de que un propietario obtenga rendimientos muy bajos o
+nulos de su patrimonio inmobiliario no le exime de pagar impuestos sobre el
+mismo en los casos de la property tax estadounidense o la taxe foncière francesa. Además, el patrimonio es un indicador de capacidad de pago más preciso
+que la renta para los grandes propietarios habida cuenta de las posibilidades de
+ingeniería fiscal. Por otra parte, es más eficaz que un impuesto progresivo sobre
+sucesiones tanto por adaptarse más rápidamente a los cambios en la riqueza y
+capacidad de pago del contribuyente, como por encontrar menos oposición
+social, sobre todo por parte de quienes han conseguido acumular un modesto
+capital a lo largo de su vida y temen que un impuesto sobre sucesiones impida
+legarlo a sus descendientes y consolidar así su mejora en la escala social.
+Para dar una idea de órdenes de magnitud Piketty aporta un ejemplo
+con un impuesto sobre el patrimonio (tipos del 0,1% al 90% para patrimonios
+20.000 veces superiores al patrimonio medio), un impuesto sobre sucesiones
+(entre el 5% y el 90% de nuevo para herencias 20.000 superiores a la media) y
+un impuesto sobre la renta 5 (tipos entre el 10% y el 90% para rentas superiores
+a 10.000 veces la renta media). Los mínimos exentos en los tres casos serían
+para valores de cada variable inferiores al 50% del valor medio. El sistema recaudaría el 45% del PIB (la presión fiscal media de los países avanzados europeos), proviniendo el 40% de la renta y el 5% de la imposición sobre la propiedad. Los impuestos sobre la propiedad financiarían una dotación de capital
+para cada joven de 25 años.
+El ejemplo no es más que un ejercicio numérico destinado a señalar
+que manteniéndose la presión fiscal media, se puede realizar una redistribución
+muy significativa que reduciría la concentración de capital y, por tanto, la desigualdad y el autor señala que no es una propuesta numérica cerrada y que su
+
+5
+
+18
+
+Que incluye cotizaciones sociales y el impuesto al carbono.
+
+
+
+aplicación podría ser paulatina. El problema radica no solo en cuestiones de
+aceptación social y viabilidad política, sino en el hecho de habría que saber qué
+efectos podría tener el cambio sobre la dinámica del PIB al generar una modificación profunda en la estructura de incentivos de la economía. Aunque la
+carencia es importante, no convendría que se rasgaran las vestiduras quienes
+han aceptado durante décadas tratar los problemas fiscales exclusivamente en
+términos de eficiencia y crecimiento económico, ignorando los aspectos distributivos. Aquellas lluvias trajeron estos lodos.
+El cambio más importante que acarrea la propuesta de Piketty es que
+conduce a la consolidación de una propiedad temporal y no permanente, es
+decir, un concepto de propiedad con un mayor equilibro que el actual entre los
+componentes privado y social. Este cambio ya se inició a finales del s. xix y
+principios del s. xx con medidas tendentes al reparto del poder en las empresas
+(en algunos países) y la fiscalidad progresiva (con carácter más general) y se
+truncó con la revolución neoconservadora de 1980-90, aunque haya vuelto a
+tomar fuerza con la crisis iniciada en 2008. La argumentación de Piketty es muy
+clara: la propiedad es una relación social por lo que la justificación de la propiedad basada en derechos naturales e inviolable a nivel individual es una posición ideológica, no un dogma irrefutable o un derecho fundamental. La acumulación de capital depende de factores públicos tales como la educación, el
+sistema legal y la fiscalidad, por lo que resulta justificable que quienes hayan
+acumulado muy por encima de la media devuelvan a la sociedad parte de lo
+acumulado.
+Piketty es consciente de que un cambio de este calado, aunque se
+mantenga dentro del sistema capitalista, es muy complejo y se ve dificultado
+porque el proceso de globalización ha restado competencias a los Gobiernos
+de cada país sin que exista una autoridad supranacional que permita evitar arbitrajes de todo tipo (fiscal, comercial, regulatorio). Su propuesta en este campo
+va en la línea de «repensar el federalismo a escala mundial», con un catálogo de
+propuestas (registro financiero público con intercambio de información entre
+Gobiernos y autoridades fiscales, justicia transnacional, etc.) que no entraré a
+valorar por carecer de opinión competente sobre el tema.
+Por último, señalar que las dos últimas páginas del libro, bajo el epígrafe «Sobre el papel cívico y político de las ciencias sociales» deberían ser de
+lectura obligada para economistas. Las ciencias sociales juegan un papel fundamental en el debate político y, entre ellas la economía, pero apunta que «Estoy
+convencido de que una parte del malestar democrático contemporáneo proviene del excesivo empoderamiento del conocimiento económico con respecto a
+otras ciencias sociales y a la esfera cívica y política. Este empoderamiento es,
+en parte, consecuencia de su tecnicidad y de la creciente complejidad del ámbito económico. Pero también es el resultado de una tentación recurrente por
+parte de los profesionales de este campo, ya trabajen en la Universidad o en el
+
+19
+
+
+
+mundo empresarial, de apropiarse de un monopolio de conocimientos y de una
+capacidad analítica que no tienen. De hecho, solo cruzando los enfoques económico, histórico, sociológico, cultural y político podremos avanzar en la comprensión de los fenómenos socioeconómicos» (p. 1232). La larga cita merece la
+pena.
+Tras más de 2.000 páginas, lo que parece quedar es, en primer lugar, la
+evidencia empírica irrefutable de que desde finales del s. xix el único periodo
+en que la desigualdad ha disminuido es entre 1950 y 1980, ligado a las políticas
+socialdemócratas, con un fuerte repunte a partir de ese momento, exacerbado
+por la crisis iniciada en 2008, lo que parece apuntar a que el funcionamiento
+normal del capitalismo genera niveles de desigualdad que, por las razones que
+sean, las sociedades actuales consideran inaceptables. Aunque los resultados
+empíricos y la explicación proporcionada por Piketty transmiten una cierta sensación de que en las sociedades capitalistas el futuro de elevada desigualdad
+está predeterminado, esto depende de muchos factores de los que aún conocemos poco, aunque la mayoría de ellos abundan en esa dirección.
+La segunda conclusión es que el grado y dinámica de la desigualdad
+alcanzada por una sociedad no es un fenómeno que depende ineluctablemente de la tecnología y las restricciones o la racionalidad económica, sino que es
+un fenómeno ideológico. Por tanto carece de sentido, como se ha convertido
+en norma, utilizar cuando se habla de medidas contra la desigualdad el calificativo «ideológico» como un arma arrojadiza para invalidar automáticamente las
+posiciones progresistas. A esto hemos ayudado, quizá inconscientemente, los
+economistas al sacralizar que el PIB es sinónimo de bienestar, que las restricciones económicas son determinantes cuando son solo una restricción, que
+disponemos de modelos universales que explican cualquier problema con independencia de otras variables y opciones.
+La tercera conclusión es que los niveles de desigualdad alcanzados,
+crezcan o no en el futuro, implican unas economías algo menos dinámicas y
+mucho más inestables lo que, desde el punto de vista político, implica riesgos
+de desligitimación del sistema democrático, de los que ya tenemos experiencias
+recientes.
+La cuarta conclusión es que las reglas económicas imperantes en las
+últimas cuatro décadas han agotado su potencial, con independencia del juicio
+que se tenga sobre las mismas y sus efectos, por lo que es crucial discutir los
+cambios de todo tipo (políticos, institucionales, económicos, regulatorios, educativos) necesarios para lograr lo que Stiglitz (2020) ha denominado, con cierto
+optimismo, como un capitalismo progresista, aunque a muchos les parezca un
+oxímoron.
+
+20
+
+
+
+La quinta conclusión es que reducir los efectos nocivos de la excesiva
+concentración de la riqueza de todo tipo pasa, inevitablemente, por una profunda reforma de la fiscalidad y la recuperación de los impuestos progresivos
+sobre renta, patrimonio y sucesiones. Y también por una reforma de la educación y de la gobernanza de las empresas.
+Y, como el autor señala, sus propuestas no constituyen un plan cerrado
+o un programa preciso, sino que persiguen reabrir el debate sobre la desigualdad, su dinámica, sus efectos y las posibles formas de corregirlos. No se trata
+de zanjar la discusión, sino de avivar el debate.
+No es poca herencia, aunque exija la lectura de más de 2.000 páginas.
+REFERENCIAS BIBLIOGRÁFICAS
+Delong, J. B., H. Boushey y M. Steinbaum (2017), After Piketty, Cambridge, Mass: Harvard University Press. Existe traducción al castellano, Debatiendo con Piketty. La agenda para la
+economía y la desigualdad, Barcelona: Ediciones Deusto (2018).
+Hayek, F. (1960), The Constitution of Liberty, Chicago: Chicago University Press. Existe traducción
+al castellano, Los fundamentos de la libertad, Madrid: Unión Editorial.
+Jones, G. (2017), «La geografía del Capital en el s. xxi. Desigualdad, política económica y espacio»,
+cap. 12 de Delong et. al. (2017).
+Kaldor, N. (1966), Causes of the Slow Rate of Economic Growth of the United Kingdom, Cambridge:
+Cambridge University Press.
+Krugman, P. (2017), «Por qué estamos en una nueva Edad Dorada», cap. 3 de Delong et.al. (2017).
+Kuznets, S. (1955), «Economic Growth and Income Inequality», American Economic Review, 45
+(1), pp. 1-28.
+Lamo de Espinosa, E. (2020), «La indignación no encuentra respuestas», El País, 1 de marzo, Ideas, pp. 2-3.
+Milanovic, B. (2016), Global Inequality: A New Appoach to the Age of Globalization, Cambridge,
+Mass: Cambridge University Press. Existe traducción al castellano, Desigualdad mundial: un Nuevo enfoque para la era de la globalización. Méjico: Fondo de Cultura
+Económica (2018).
+Morelli (2017), «Desigualdad creciente y estabilidad económica», cap. 17 de Delong et. al. (2017).
+De Nardi, M. C., Fella, G. y Yang, F. (2017), «Modelos macro de desigualdad de la riqueza», cap.
+14 de Delong et. al. (2017).
+Piketty, T. (2013), Le capital au XXIéme siècle, Paris: de Seuil; versión inglesa de 2014, Capital in
+the Twenty-first Century, Cambridge, M. A.: Bel Knap Press, Harvard University Press.
+Existe traducción al castellano, El capital en el s. xxi, Madrid: Fondo de Cultura Económica (2014) y otra traducción con el mismo título editada en Barcelona: RBA (2015).
+— «Technical Appendix to chapter 10. Addendum: Response to FT», http://piketty.pse.ens.fr/capital21c, 28 mayo de 2014.
+
+21
+
+
+
+— (2019) Capital et idéologie, Editions du Seuil. Existe traducción al castellano, Capital e ideología, Barcelona: Editorial Planeta (2019).
+— (2019) http://piketty.pse.ens.fr/ideologie contiene las series estadísticas, gráficos y tablas de
+Capital et Idéologie.
+Rawls, J. (1971), A Theory of Justice, Cambridge, Maas.: Harvard University Press. Existe traducción
+al castellano, Teoría de la Justicia, Méjico: Fondo de Cultura Económica (1979).
+— (1993), Political Liberalism, New York: Columbia University Press Existe traducción al castellano como Liberalismo Político, Barcelona: Crítica, 2004.
+Rodrik, D. (2011), The Globalization Paradox: Democracy and the Future of World Economy, W.
+W. Norton and Company, New York. Existe traducción al castellano, Barcelona: Editorial Antoni Bosch (2012).
+Scheidel, Walter (2017), The Great Leveler (Violence and the History of Inequality from the Stone
+Age to the Twenty-first Century), Princeton and Oxford: Princeton University Press.
+Stiglitz, J. E. (2002), Globalization and its Discontents, New York: W. W. Norton and Company.
+Existe traducción al castellano, La globalización y sus descontentos, Madrid: Editorial
+Taurus (2002).
+— (2006), Making Globalization Work, New York: W. W. Norton and Company.
+— (2019), People, Power and Profits: Progressive Capitalism for an Age of Discontent, Penguin
+Random House. Existe traducción al castellano Capitalismo progresista. La respuesta a
+la era del malestar, Barcelona: Taurus (2019).
+Zandi, M. (2017), «Qué implica el aumento de la desigualdad para la economía», cap. 16 de Delong et. al. (2017).
+
+22
+
+

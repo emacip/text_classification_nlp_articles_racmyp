@@ -1,0 +1,725 @@
+LAS FLUCTUACIONES FINANCIERAS
+Y LA POLÍTICA MONETARIA
+Por el A cadém ico de Número
+Excmo. Sr. D. Luis Angel Rojo *
+
+1
+
+Hace treinta años, los sistemas financieros de la gran mayoría de los paí­
+ses estaban sometidos a fuertes intervenciones. Las autoridades determinaban las
+operaciones que podía realizar cada tipo de instituciones financieras, así como los
+instrumentos que podía utilizar; influían en la canalización de los fondos de prés­
+tamo hacia sus destinos finales y fijaban, con frecuencia, los tipos de interés; man­
+tenían barreras de entrada al negocio bancario y, en general, a la industria de ser­
+vicios financieros y controlaban los movimientos de capitales a través de las
+fronteras. El resultado de todo ello era el predominio de unos sistemas financieros
+con costes elevados de intermediación, una baja eficiencia en la asignación del aho­
+rro y una escasa apertura al exterior.
+Los cambios registrados, desde entonces, en el ámbito financiero han sido
+muy profundos: los sistemas nacionales han vivido procesos intensos de desregula­
+ción, de innovación y de apertura y aparecen, hoy, fuertemente relacionados a tra­
+vés de unos mercados internacionales, libres y potentes, que comienzan a aproxi­
+marse al concepto de mercados financieros globales. El mundo registra, hoy, un
+grado de integración financiera desconocido desde el período del patrón oro ante­
+rior a 1914 y que se extiende a una buena parte de los países en vías de desarrollo.
+* Sesión de mayo de 2002.
+
+475
+
+
+
+Las transformaciones registradas en los mercados financieros nacionales e
+internacionales a lo largo de los últimos años los han hecho más competitivos y efi­
+cientes; los han permitido cumplir mejor sus funciones de canalización de recursos
+desde las unidades de ahorro hasta las unidades de gasto, de asignación y diversi­
+ficación de riesgos y de suministro de liquidez y han facilitado también la atracción
+de capitales hacia los países emergentes con ventajas, en muchos casos, para sus
+procesos de crecimiento. Al mismo tiempo, sin embargo, esos sistemas financieros
+más libres, competitivos y complejos son más vulnerables e inestables y, como
+tales, pueden actuar, en unos casos, como generadores de inestabilidad económi­
+ca y acentuar, en otros, la amplitud de las fluctuaciones propias del sector «real» de
+las economías. La liberalización de los sistemas nacionales y de los flujos interna­
+cionales de capitales facilita la extensión de las perturbaciones financieras en cada
+país y su contagio a través de las fronteras, lo cual tiende a aumentar la frecuencia
+y la amplitud de las fluctuaciones en el ámbito internacional —como ha podido
+observarse a lo largo de los veinte últimos años— .
+La experiencia de este período muestra que la introducción de políticas de
+mayor liberalización financiera en una economía puede generar, en sus primeras
+fases, elementos importantes de inestabilidad: empresas y familias ven facilitado su
+acceso a la financiación al tiempo que las instituciones financieras, antes sometidas
+a fuertes regulaciones y enfrentadas ahora a una mayor competencia, pueden aden­
+trarse en expansiones excesivas del crédito y asumir riesgos para cuya valoración
+y gestión estén mal preparadas. Los resultados pueden ser crisis como las registra­
+das por las asociaciones norteamericanas de préstamo y ahorro o por los sistemas
+bancarios de varios países nórdicos europeos en los años ochenta o como las más
+graves padecidas por los diversos países emergentes, latinoamericanos y asiáticos,
+en la década de los noventa.
+Ahora bien, aun superados los problemas de transición en los procesos
+desreguladores, los sistemas financieros resultantes, competitivos e innovadores,
+que ofrecen una mayor eficacia ventajosa para el crecimiento de las economías,
+contienen también un mayor potencial de inestabilidad. La presión de la compe­
+tencia sobre los márgenes estimula a las instituciones financieras a asumir mayores
+riesgos; la desintermediación bancaria puede afectar negativamente a la calidad
+media de las carteras de préstamos y créditos de las entidades bancadas, debilitar
+la función evaluadora de riesgos que los bancos han desempeñado tradicional­
+mente y conducir, en consecuencia, a una degradación de los riesgos en el con­
+junto del sistema; la ampliación de las operaciones bancadas «fuera de balance» y
+la rápida expansión de los derivados financieros plantean serios problemas de
+exposición a riesgos de difícil evaluación y control; la creciente apedura de los mer­
+476
+
+
+
+cados nacionales de servicios financieros y la liberalización de los movimientos de
+capitales, al hacer más intensas las relaciones transfronterizas de instituciones y
+mercados, facilitan la obtención de financiación y la toma de riesgos de más difícil
+valoración y seguimiento y favorecen el contagio de problemas a través de las fron­
+teras. En definitiva, el mantenimiento de la estabilidad en los actuales sistemas
+financieros refuerza la importancia de que las empresas y las entidades financieras
+cuiden sus métodos de medición, gestión y control de los riesgos y dispongan de
+unas estructuras adecuadas a un contexto en continuo proceso de innovación y de
+complejidad creciente; y hace más necesario que los países dispongan de sistemas
+adecuados de regulación y supervisión de las instituciones y los mercados finan­
+cieros.
+Los últimos años han presenciado un avance considerable de las técnicas
+de medición y gestión de riesgos con la consiguiente mejora en la evaluación de
+los riesgos relativos y particulares de instrumentos y deudores. Sin embargo, la
+valoración del componente de riesgo relacionado con el contexto económico gene­
+ral es menos firme, se ve frecuentemente afectada por variaciones en las expecta­
+tivas de los agentes sobre el futuro a medio plazo de la economía que, a través del
+comportamiento de los precios de los activos y del crédito, pueden generar impor­
+tantes fluctuaciones financieras con efectos considerables sobre la evolución cícli­
+ca de la actividad económica.
+Cuando las fluctuaciones financieras se limitan a reflejar la evolución de
+la economía real, la evolución financiera tiende a favorecer la amplitud de las osci­
+laciones cíclicas reales pero no actúa como una fuente independiente de inestabi­
+lidad económica. En otros períodos, sin embargo, el comportamiento de las varia­
+bles financieras se desviará, alentado por oleadas de optimismo y de pesimismo,
+respecto de las sendas correspondientes a la evolución de los factores fundamen­
+tales de la economía: el optimismo puede conducir a lo que Greenspan denomi­
+nó clima de «exuberancia irracional», expresado en elevaciones rápidas y excesi­
+vas de los precios de los activos normalmente acompañadas de fuertes avances del
+crédito; y cuando el optimismo deje paso al pesimismo y la burbuja generada en
+el auge ceda, la revisión a la baja de las expectativas inducirá un enrarecimiento,
+posiblemente profundo, de las condiciones financieras de la economía. Puesto que
+esta volatilidad financiera basada en lo que suele denominarse «psicología del mer­
+cado», no en factores fundamentales, ejerce efectos significativos sobre la econo­
+mía real, se convierte en una fuente potencialmente importante de inestabilidad
+económica.
+
+477
+
+
+
+En los actuales sistemas financieros, las fluctuaciones de los precios de los
+activos, en respuesta a variaciones en las expectativas, han reforzado su papel
+como posible origen de inestabilidad debido a una pluralidad de motivos: prime­
+ro, porque se ha registrado un fuerte aumento de la proporción de riqueza mante­
+nida por los inversores en forma de activos negociables en los mercados —des­
+plazamiento que ha sido alentado por las políticas públicas dirigidas a fomentar los
+mercados de capitales, por las mejoras tecnológicas adoptadas por estos últimos,
+por el desarrollo de los sistemas de pensiones privados, por las reducciones de la
+imposición sobre ganancias de capital, etc.—; además, la rápida respuesta a las
+variaciones al alza de las expectativas se ve favorecida por un acceso más fácil a la
+financiación; finalmente, se ha establecido una conexión mas estrecha entre el valor
+de los activos y los gastos de consumo y de inversión, resultante de la cómoda
+accesibilidad a la toma de préstamos con garantía de activos.
+En las fases de auge, iniciadas por factores financieros o reales, la revisión
+al alza de las expectativas de los agentes sobre el rendimiento de los activos y la
+tendencia a reducir las primas de riesgo requeridas impulsan la elevación de los
+precios de los activos. La consiguiente mejora en los balances de familias y empre­
+sas favorece el acceso de unas y otras a la financiación en los mercados y en las
+instituciones financieras. Las empresas colocarán sus emisiones y obtendrán recur­
+sos financieros en los mercados en condiciones ventajosas. Los bancos, contagia­
+dos del clima dominante, se mostrarán dispuestos a ampliar su toma de riesgos
+sobre empresas y familias a través de expansiones rápidas del crédito estimuladas
+por bajas valoraciones del riesgo, una confianza en los altos valores del colateral
+ofrecido por los clientes y aumentos del beneficio facilitados por una relajación de
+la política de dotación de provisiones por impagos probables. La fuerte expansión
+del crédito alentará las alzas de precios de los activos así como éstas favorecen el
+crecimiento de aquel; y esa interacción reforzará la dinámica del auge que acen­
+tuará, a su vez, el proceso de expansión real de la economía: las facilidades de
+financiación estimularán las demandas de inversión productiva de las empresas y
+residencial de las familias, mientras que la demanda de consumo de los hogares se
+verá alentada tanto por la expansión del crédito como por el «efecto riqueza» indu­
+cido por el mayor valor de los activos que poseen; y ello otorgará, por su parte,
+nuevos impulsos al avance financiero.
+El proceso de auge no se mantendrá, sin embargo, indefinidamente: aca­
+bará desacelerándose y dando paso a una fase de baja cíclica como consecuencia
+de una sobreinversión en capital físico, de un descenso de los beneficios resultan­
+tes de un aumento de costes, de una creciente conciencia de los desequilibrios
+financieros generados en la expansión, etc. Cualquiera que sea la combinación de
+478
+
+
+
+causas, la fase bajista se caracterizará por el deterioro de las expectativas, la caída
+del precio de los activos, las pérdidas registradas por las instituciones financieras y
+por las empresas no financieras, la contracción del crédito y el endurecimiento
+general de las condiciones de obtención de liquidez. Todo ello afectará negativa­
+mente a la demanda de bienes y servicios, la actividad económica y el empleo, lo
+cuál generará mayores dificultades financieras. Cuanto mayores hayan sido los
+excesos y las malas asignaciones de recursos acumulados durante el auge, más dura
+será la posterior etapa contractiva; y, en todo caso, el ritmo de la contracción finan­
+ciera tenderá a ser mas intenso que el que mostraron los avances de las variables
+financieras en la etapa de expansión. La generación, durante la fase expansiva , de
+un exceso importante de capital productivo o de una intensa expansión en el sec­
+tor de la construcción ligada a fuertes aumentos en los precios de la propiedad
+inmobiliaria, la elevación exagerada del precio de los activos financieros en la eta­
+pa de optimismo, el excesivo endeudamiento general de la economía y la debili­
+dad del sector bancario son factores que tienden a hacer más duros los ajustes bajis­
+tas y más lentos los procesos posteriores de recuperación de la actividad.
+La experiencia sobre las graves consecuencias económicas de las pertur­
+baciones y las crisis financieras ha llevado, con el paso del tiempo, al estableci­
+miento de sistemas públicos de regulación y supervisión tanto de las entidades
+bancadas como de los mercados de capitales, con los objetivos últimos de prote­
+ger a depositantes e inversores y de reducir el riesgo sistémico. Los sistemas de
+regulación y supervisión bancada se han ocupado de establecer esquemas de esti­
+mación de riesgos que permitan calcular unos requerimientos de capital adecuados
+para preservar la solvencia de los bancos siguiendo, en buena medida, en los últi­
+mos años, los criterios y recomendaciones del Comité de Supervisión Bancada de
+Basilea —en estos momentos, en proceso de revisión— . Por su pade, la regulación
+y supervisión de los mercados de capitales, más fragmentada y menos desarrollada
+que la relativa a los bancos —excepto en los pocos países donde los mercados de
+valores desempeñan un papel comparable al de la banca en la financiación de la
+economía—, ha centrado su atención en el logro de sistemas de negociación, com­
+pensación y liquidación eficaces y transparentes y en la provisión de una informa­
+ción adecuada a los inversores para sus tomas de decisiones.
+Un sistema débil de regulación y supervisión favorece la inestabilidad de
+instituciones, mercados y sistemas financieros, eleva los riesgos que acompañan a
+la introducción de políticas desreguladoras y aumenta la probabilidad de que una
+contracción lleve a una crisis financiera y bancaria que haga más duros y más pro­
+longados los ajustes de la economía —como ha mostrado el caso de Japón en los
+últimos años— . No cabe confiar, sin embargo, en que sistemas sólidos de regula­
+479
+
+
+
+ción y supervisión basten para eliminar las fluctuaciones financieras asociadas a
+fases de optimismo y pesimismo sobre el futuro de la economía, aunque puedan
+moderar sus más graves consecuencias. Una buena prueba de ello es la ofrecida
+por la reciente fluctuación financiera registrada en Estados Unidos y expresada,
+principalmente, en una violenta oscilación de los precios de las acciones, especial­
+mente de las correspondientes a los sectores de nuevas tecnologías.
+Esta experiencia americana ha reavivado, en los últimos tiempos, la dis­
+cusión sobre si la política monetaria debería proponerse, junto a su objetivo bási­
+co de mantener la estabilidad de los precios de los bienes y servicios —objetivo
+consolidado con generalidad desde los años ochenta del siglo xx—, la tarea de
+moderar las fluctuaciones en los precios de los activos financieros. Podría pensar­
+se que las autoridades deberían actuar para frenar el alza de los precios de dichos
+activos al menos cuando considerasen que estos registran una sobrevaloración
+generalizada respecto de los precios justificados por los que se entiende que son
+los valores fundamentales de la economía de cara al futuro.
+El problema para aplicar tal prescripción radica en que resulta muy difícil
+determinar en qué cuantía un auge bursátil contiene una sobrevaloración generali­
+zada de las acciones. No hay razones para suponer que los Bancos Centrales sean
+capaces de prever el futuro mejor que unos mercados bien informados; y las auto­
+ridades no pueden ignorar los efectos desestabilizadores, financieros y reales, que
+podrían seguirse del intento de «pinchar» una supuesta burbuja financiera si la
+actuación resultara errónea, tardía o demasiado vigorosa. Es comprensible, por tan­
+to, que los Bancos Centrales se resistan a asumir los riesgos implícitos en un endu­
+recimiento de la política monetaria orientada a frenar un proceso de elevación de
+los precios de los activos que consideren excesivo; como lo es también que esa
+resistencia sea mayor si el auge financiero va acompañado de una evolución razo­
+nablemente estable de los precios de los bienes y servicios —como sucedió en la
+expansión financiera de los años ochenta en Japón o como ha sucedido en la
+reciente expansión financiera de Estados Unidos—, porque, en tal caso, el público
+comprenderá menos la actuación restrictiva de las autoridades y éstas habrán de
+afrontar mayores censuras si sus decisiones tienen efectos negativos.
+Ocurre, sin embargo, que una tasa baja y estable de inflación mantenida
+durante un período, incluso largo, de auge no garantiza la estabilidad financiera;
+puede, de hecho, actuar como un estímulo al avance de los precios de los activos
+en la medida que induzca al público a reducir la prima de riesgo incorporada en
+el tipo de descuento que aplica a los rendimientos esperados de los activos para
+determinar el precio actual de éstos y, alentar así un auge financiero que acabe
+480
+
+
+
+desembocando en una aceleración de la inflación. Por ello, la política monetaria de
+estabilidad de precios podría ser interpretada de un modo flexible que la indujera
+a reaccionar preventivamente ante expansiones financieras excesivas que, a través
+de sus efectos sobre la demanda de bienes y servicios, amenazaran con acabar
+generando presiones inflacionistas significativas. Sin embargo, pocos economistas
+se muestran inclinados a cerrar los ojos ante los peligros desestabilizadores de tal
+propuesta de política monetaria; y los Bancos Centrales solo asumirán los riesgos
+de esa política si existe una evidencia muy sólida de que se está fraguando un
+potencial inflacionista importante.
+No hay que esperar, por tanto, en general, actuaciones significativas de
+política monetaria para frenar procesos intensos de alza en el precios de los acti­
+vos, excepto cuando estos estén muy avanzados y hayan generado ya incrementos
+significativos de la tasa de inflación. Cabe esperar, sin embargo, políticas moneta­
+rias de signo expansivo cuando el auge deje paso a una contracción financiera,
+especialmente si ésta es fuerte y rápida. Tal asimetría en el tratamiento de la expan­
+sión y la contracción puede introducir un problema de «azar moral» y añadir más
+ímpetu a los auges, pero no es probable que el esfuerzo de las autoridades por res­
+tablecer la confianza y evitar los efectos negativos de una posible crisis financiera
+sobre la economía real suscite críticas capaces de desalentar dicha actuación expan­
+siva.
+
+2
+
+Los problemas de la inestabilidad financiera y de su tratamiento en el mun­
+do actual han quedado recientemente ilustrados, en los países industriales, por las
+fluctuaciones vividas, primero, en Japón, que conoció una fortísima expansión
+financiera en los años ochenta y su posterior desplome en los primeros años
+noventa y, más tarde, en Estados Unidos, cuyo auge financiero avanzó con fuerza
+creciente en la década de los noventa para dejar paso a una fase de fuerte debili­
+dad desde mediados del año 2.000. Las consecuencias de ambas fluctuaciones con­
+dicionan, en buena medida, la situación actual de la economía mundial.
+La economía japonesa registró, en los años ochenta, un período de inten­
+so crecimiento real, apoyado en fuertes avances de la inversión y de la productivi­
+dad, que situó la tasa de incremento anual del producto en torno a un 5% en la
+segunda parte de la década. A pesar de tan fuerte expansión, la balanza de pagos
+por cuenta corriente mostró una gran solidez y la inflación se mantuvo en tasas
+muy bajas, favorecida por el avance moderado de los salarios, al descenso en el
+481
+
+
+
+precio del petróleo, el bajo coste de la financiación, el crecimiento de la producti­
+vidad y la fortaleza del yen. La inflación sólo-comenzó a dar señales de tensión en
+1989, ya muy avanzado el auge.
+Japón conoció, paralelamente, una espectacular expansión financiera en
+los años ochenta: los valores bursátiles registraron una elevación superior al 400 %
+y los precios de las viviendas mostraron una escalada casi tan fuerte como las accio­
+nes. Las familias se endeudaron intensamente con los bancos para adquirir accio­
+nes y viviendas con la garantía prometida por el valor creciente de unas y otras.
+Las empresas, por su parte, también aprovecharon las ventajosas condiciones finan­
+cieras para emitir acciones y para endeudarse fuertemente a fin de ampliar su capa­
+cidad productiva y mejorar su tecnología. Así, la expansión financiera contribuyó a
+alimentar la presión de la demanda agregada de bienes y servicios.
+Las autoridades mantuvieron, entretanto, una política monetaria laxa que
+alentó, sin duda, la expansión financiera y que solo comenzó a endurecerse en
+1989, cuando inició, por fin, su subida la tasa de inflación. Las causas de aquella
+laxitud monetaria fueron varias. Por una parte, los demás países industriales —y,
+especialmente, Estados Unidos— veían con complacencia que Japón, cuyos exce­
+dentes, intensos y persistentes, de la balanza de pagos por cuenta corriente le
+habían convertido en el primer acreedor mundial, viviese un largo período de fuer­
+te crecimiento que habría de contribuir —según esperaban— a un mayor equilibrio
+en los pagos internacionales. Por otra parte, las autoridades japonesas pensaban
+que los más altos ritmos de crecimiento real podían deberse a una mejora estruc­
+tural de la economía que no se atrevían a dañar con el considerable endurecimiento
+monetario que podría requerir la contención de la expansión financiera, y menos
+aún mientras la tasa de inflación se mantuviera a niveles muy bajos. Desde la pers­
+pectiva actual, no cabe duda de que la política monetaria japonesa, con su tónica
+acomodante, fue inadecuada, especialmente en los últimos años del proceso de
+expansión.
+El Banco de Japón procedió, finalmente, a elevar con fuerza sus tipos de
+interés en 1989-1990 y la burbuja financiera no tardó en explotar. En 1990, los pre­
+cios tanto de las acciones como de la propiedad inmobiliaria iniciaron un desplo­
+me profundo y este fue el llamativo comienzo de una fuerte contracción de la eco­
+nomía que se expresó, en los años siguientes, en una rápida caída de las demandas
+de inversión productiva y en viviendas y del gasto de consumo y en una consi­
+guiente desaceleración del producto que, en 1993, se situó en tasas de variación
+negativas. La política monetaria adoptó entonces una tónica más expansiva en un
+intento de contener la contracción, pero tampoco fue suficientemente enérgica en
+482
+
+
+
+esos años si se tiene en cuenta el margen de actuación que le ofrecía el repliegue
+de la tasa de inflación hacia cotas cercanas a cero.
+El desplome financiero y la contracción de la demanda y la actividad rea­
+les dejaron, por lo demás, al descubierto un panorama sombrío resultante de los
+excesos, distorsiones y desequilibrios generados durante el proceso de auge. Las
+empresas —especialmente, las integradas en los grandes grupos industriales—
+registraban importantes excesos de capacidad y fortísimos endeudamientos, prin­
+cipalmente con la banca; también estaban intensamente endeudadas con los ban­
+cos las familias, que habían obtenido créditos con la garantía de acciones o de
+viviendas cuyos precios estaban descendiendo con rapidez. Como contrapartida,
+los bancos aparecían cargados de créditos de mala calidad y de carteras de accio­
+nes en proceso de intensa depreciación. En el auge, un mal sistema de regulación
+y supervisión había hecho posible que los bancos se adentraran en una fuerte
+expansión del crédito para la compra de bienes inmobiliarios con una subvalora­
+ción de los riesgos asumidos y había permitido que la articulación entre el Gobier­
+no, los bancos y los grandes grupos industriales llevase a la acumulación, en los
+balances bancarios, de carteras muy pesadas de acciones y de créditos sobre
+empresas que implicaban unos riesgos potenciales muy elevados. El derrumbe
+cíclico activó esos riesgos y puso en evidencia la debilidad del sistema financiero
+japonés: los créditos impagados alcanzaban grandes proporciones al tiempo que el
+valor de las garantías se hundía, el valor de mercado de las carteras de activos bur­
+sátiles caía dramáticamente y la banca japonesa registraba, en consecuencia, una
+situación crítica.
+Si la política macroeconómica y las políticas de regulación y supervisión
+financieras presentaron graves fallos durante la intensa fluctuación pasada, el com­
+portamiento de una y otras tampoco ha sido brillante con posterioridad. La econo­
+mía japonesa se ha instalado, desde 1993 hasta la actualidad, en una etapa de cre­
+cimiento muy lento en la que los amagos de recuperación han tenido una vida
+efímera y han ido seguidos pronto por la vuelta a una situación de cuasi-estancamiento o de recesión. Las dudas, vacilaciones y retrocesos que han rodeado a las
+políticas macroeconómicas han erosionado gravemente el potencial expansivo de
+una política monetaria que ha acabado llevando los tipos de interés nominales a
+niveles muy bajos —prácticamente nulos en los tipos a corto plazo— y de una polí­
+tica fiscal que, con el paso del tiempo, ha conducido los déficit públicos a porcen­
+tajes del PIB cercanos al 8,0% y ha situado la deuda pública en un 133% del PIB.
+Paralelamente, la indecisión en el tratamiento de la crisis del sistema finan­
+ciero ha hecho de ésta una gravísima rémora para la recuperación de la economía
+483
+
+
+
+japonesa. Los políticos, los banqueros y los gestores de grandes grupos industria­
+les que presidieron la acumulación de los problemas han venido resistiéndose a
+reconocer la situación real. La reestructuración de las grandes empresas no finan­
+cieras —sobreinvertidas y sobreendeudadas— está siendo muy lenta y el sistema
+público de regulación y supervisión financiero, a pesar de los cambios institucio­
+nales introducidos en 1998, continúa permitiendo prácticas perturbadoras. Los ban­
+cos siguen clasificando incorrectamente sus préstamos y valorando inadecuada­
+mente las garantías depreciadas que los respaldan; y continúan defendiendo
+artificialmente sus cifras públicas de beneficios resistiéndose a provisionar en la
+medida adecuada y a dar de baja los créditos malos de sus balances. Hasta la publi­
+cación de nuevas normas el pasado mes de septiembre, los bancos se resistían a
+valorar a precios de mercado (en lugar de hacerlo a precios de adquisición) sus car­
+teras de acciones —una parte de las cuales pueden contabilizarse como capital— .
+La situación «real» de los bancos japoneses no la conoce nadie: la estimación de los
+créditos malos ofrecida por la Agencia de Supervisión Financiera es la mitad de las
+estimaciones elaboradas por instituciones extranjeras, alguna de las cuales sitúa el
+volumen total de los créditos dudosos en torno a un sexto del PIB de la economía
+japonesa. Y el problema proyecta su sombra sobre el futuro: el esfuerzo de los ban­
+cos por defender sus resultados a corto plazo les ha llevado a cortar sus inversio­
+nes en nuevas tecnologías con perjuicio para su competitividad a mas largo plazo;
+y su temor a ampliar sus carteras de activos dañados les ha inducido a reducir sus
+créditos no sólo a las empresas tradicionales con graves problemas sino también a
+empresas jóvenes y prometedoras.
+Sobre este trasfondo, el programa de reconstrucción financiera, elaborado
+para abordar la difícil situación mediante el cierre de bancos inviables, la ayuda
+masiva al saneamiento de algunos mediante la compra de activos dañados, la nacio­
+nalización de otros para sanearlos y reprivatizarlos más tarde, etc., ha avanzado con
+lentitud y en medio de fuertes polémicas relativas al elevado uso de recursos públi­
+cos que el programa entraña y al papel dominante que en él desempeña el sector
+público. Los políticos continúan dudando sobre la forma más adecuada de atacar
+el problema y soñando, al parecer, con una solución imposible que evitara tanto la
+inyección masiva de mas fondos públicos como el abandono de sus puestos por
+parte de muchos altos dirigentes bancarios con graves responsabilidades en la
+generación de la situación actual. El lento ritmo del proceso de reestructuración
+financiera y las vacilaciones que lo rodean, así como los reducidos márgenes de
+actuación de que disponen, hoy, en Japón, las políticas monetaria y fiscal, también
+objeto de graves dudas, alejan las perspectivas de recuperación de la economía
+japonesa que se encuentra, en estos momentos, en una fase de recesión —la ter­
+cera desde 1992— acentuada por una deflación de precios y por la desfavorable
+484
+
+
+
+situación internacional. Las previsiones más optimistas para el producto en el año
+2002 apuntan a un crecimiento entre el -0,5 % y el —1 %.
+La economía de Estados Unidos es mucho más potente y flexible que la
+de Japón, su política monetaria es mas enérgica y su sistema de regulación y super­
+visión financiera es mucho más eficaz y estricto que el japonés; todo ello no ha
+impedido, sin embargo, que Estados Unidos haya vivido una intensa fluctuación
+reciente cuya expresión financiera mas llamativa ha sido una oscilación muy fuer­
+te en el precio de las acciones. Los hechos se han encargado así de refutar las posi­
+ciones de quienes consideraban, en los últimos años, que la economía norteameri­
+cana había alcanzado unas condiciones que la protegían frente a las fluctuaciones
+cíclicas y sus efectos perturbadores.
+En efecto, los defensores de las ideas constitutivas de la denominada Nue­
+va Economía pensaban que el aumento de la competencia resultante de los proce­
+sos de globalización económica y de desregulación de los mercados y la aplicación
+de nuevas tecnologías a temas tales como la gestión de existencias habían hecho
+más flexible la economía de Estados Unidos; que la política monetaria de estabili­
+dad de precios de los bienes y servicios y la política fiscal orientada al equilibrio
+presupuestario la habian hecho más estable; que los avances tecnológicos —en
+especial, en los ámbitos de la informática y las comunicaciones— y la extensión de
+su uso a múltiples sectores de actividad estaban elevando sustancialmente el ritmo
+de avance de la productividad y, en consecuencia, impulsando un crecimiento
+vigoroso de la economía y conteniendo la inflación en tasas muy bajas; y que,
+como resultado de todo ello, esa economía dinámica, innovadora, flexible y esta­
+ble había dejado atrás las fluctuaciones cíclicas y justificaba unas expectativas opti­
+mistas sobre los rendimientos de las acciones y unas bajas primas de riesgo capa­
+ces de suscitar alzas muy considerables de los valores bursátiles sin riesgo serio de
+provocar perturbaciones importantes.
+El período de auge que la economía de Estados Unidos inició en 1992 se
+aceleró a partir de 1995, cuando las tasas anuales de crecimiento real del PIB se
+situaron por encima del 4% para alcanzar ritmos del orden del 5% a lo largo de
+1999 y los primeros meses del año 2000. Durante esta etapa de expansión, la tasa
+de paro descendió hasta el 4 % de la población activa, porcentaje dos puntos infe­
+rior al que se había venido estimando como tasa natural de paro o tasa no acele­
+radora de la inflación en la economía americana. El ritmo de inflación se redujo,
+paralelamente, hasta situarse por debajo del 2% en la segunda parte de los años
+noventa; sólo en 1999 inició un movimiento ascendente que había de conducirlo a
+una tasa del orden del 3,5% en el año siguiente. Y este período de auge, largo,
+485
+
+
+
+intenso y sin tensiones inflacionistas, se vió acompañado de una fortísima expan­
+sión financiera centrada en los precios de las acciones, que se multiplicaron por
+cuatro entre 1990 y los primeros meses del año 2000 para la agrupación S & P 500
+y por casi diez para las acciones tecnológicas y mostraron un ritmo de avance espe­
+cialmente intenso en los cinco últimos años de ese período, impulsados, básica­
+mente, por las acciones de empresas de los sectores de alta tecnología. Tan fuerte
+elevación de los valores bursátiles facilitó, por los cauces que ya hemos comenta­
+do, la financiación de empresas y familias en los mercados y en el sistema bancario e indujo una mayor propensión al gasto de los hogares, contribuyendo así al
+avance de las demandas tanto de inversión como de consumo. Hay que señalar, sin
+embargo, que el precio de las viviendas subió menos que el de las acciones y que
+la expansión en el sector de la construcción fue menor, en términos relativos, que
+la registrada en Japón unos años antes.
+Para los representantes de la llamada «Nueva Economía», el mayor ritmo
+de crecimiento de la productividad, atribuible al avance y a la extensión en el uso
+de las nuevas tecnologías, era —según hemos indicado— el factor básico para
+explicar el fuerte crecimiento del producto con bajas tasas de paro y de inflación
+en la economía norteamericana, especialmente a partir de 1995. La realidad de ese
+fuerte aumento en el ritmo de avance de la productividad y del carácter persisten­
+te, no puramente cíclico, que para él reclamaban los «nuevos economistas» fue obje­
+to, desde luego, de largas discusiones: eran muchos e importantes los escépticos
+que no encontraban evidencia suficiente para aceptarla, pero fue abriéndose paso
+con el tiempo, hasta acabar siendo asumida —no sin algunas reservas— por la
+autoridad monetaria americana, es decir, por la Reserva Federal y su Presidente
+Alan Greenspan. Este afirmaba, en efecto, en el año 1999, que la evolución eco­
+nómica reciente de Estados Unidos no podía explicarse de modo satisfactorio sin
+hacer referencia al formidable impulso aportado por los sectores de nuevas tecno­
+logías, aunque advertía que aún le parecía prematuro concluir que ello fuera a
+redundar en una mejora sostenida —no meramente cíclica— del ritmo de expan­
+sión productiva de la economía.
+A pesar de la aceleración económica y financiera registrada a partir de
+1995, la Reserva Federal no había endurecido su política monetaria por temor, sin
+duda, a quebrar un proceso que estaba impulsando el producto potencial con vigor
+y manteniendo la inflación en tasas muy bajas. Por otra parte, el descenso de la
+cuota de ahorro de las familias hacia cero a lo largo del período, el serio deterioro
+del saldo financiero anual del sector privado y su reflejo en un déficit abultado y
+creciente de la balanza de pagos por cuenta corriente no parecían, a las autorida­
+des, motivos de preocupación en una economía cuyo dinamismo atraía el ahorro
+486
+
+
+
+extranjero con intensidad, provocando una fuerte apreciación del dólar, y donde
+las cuentas públicas mostraban una evolución persistente hacia el equilibrio e inclu­
+so el excedente. Tampoco se pensaba que la protección de la estabilidad del siste­
+ma aconsejara frenar la expansión puesto que los intermediarios financieros no
+mostraban signos de fragilidad. Cuando las perturbaciones financieras que sacu­
+dieron la economía internacional en 1998 —especialmente, tras la crisis rusa y sus
+efectos de contagio— amenazaron con dañar el tejido financiero americano y pro­
+vocar una crisis de liquidez, la Reserva Federal se apresuró a bajar sustancialmen­
+te su tipo de interés en los meses de octubre y noviembre. Superada la situación
+con rapidez, aquella reducción de tipos, que se mantuvo durante bastantes meses,
+otorgó un nuevo y último impulso monetario a la expansión financiera y real de la
+economía.
+La actitud de la Reserva Federal sólo cambió a mediados de 1999. Alan
+Greenspan, que, hasta entonces, se había limitado a recomendar, reiteradamente,
+prudencia a los inversores, pasó a indicar su convicción de que los precios de las
+acciones registraban una sobrevaloración generalizada sobre los niveles que podí­
+an considerarse sostenibles. Esta opinión era cada vez más compartida, pero los
+precios de los valores continuaban subiendo. Al mismo tiempo, Greenspan se mos­
+traba crecientemente convencido de que la expansión financiera estaba alimentan­
+do un exceso de demanda de bienes y servicios, de modo que la mejora de pro­
+ductividad, resultante de las nuevas tecnologías, estaba induciendo, a través de la
+elevación de los precios de los valores bursátiles, un crecimiento de la demanda
+agregada superior al avance de la oferta potencial, con graves riesgos para la esta­
+bilidad económica y financiera. Y así, la Reserva Federal decidió, finalmente, abor­
+dar un endurecimiento preventivo de su política monetaria que, iniciado en junio
+de 1999, elevó progresivamente el tipo de interés de intervención en un punto y
+medio porcentual en once meses.
+Esta subida de los tipos de interés, junto con los efectos de la elevación
+del precio del petróleo iniciada en los primeros meses de 1999 y la sensibilidad pro­
+pia de una muy larga expansión que había situado, en su última etapa, el creci­
+miento del producto y la inversión en tasas excesivas y las cotizaciones bursátiles
+en niveles insostenibles —especialmente, en los sectores de alta tecnología—, lle­
+varon a un cambio profundo en el panorama de la economía americana. De hecho,
+el cambio fue bastante mas allá del «aterrizaje suave» de la economía que las auto­
+ridades esperaban inducir con su política monetaria: los precios de las acciones,
+tras alcanzar sus niveles más altos en los primeros meses del año 2000, iniciaron
+un movimiento de descenso que se acentuó en la segunda parte del año y persis­
+tió en el año 20021-afectando mas a los valores de los sectores de nuevas tecnolo­
+487
+
+
+
+gías que a los valores de los sectores tradicionales— en un clima marcado por con­
+tinuos anuncios de las grandes empresas sobre caídas de beneficios y reducciones
+de plantillas; el producto real, por su parte, registró una desaceleración muy fuer­
+te en el segundo semestre del año 2000 que continuó en el primero del 2001 has­
+ta situar su tasa de crecimiento en la zona del 1 %, mientras la inversión se hundía
+—especialmente, de nuevo, en los ámbitos de informática y comunicaciones— y el
+avance del consumo se veía amenazado por el aumento previsible en la tasa de
+paro.
+El temor a que la desaceleración de la economía se hiciera más profunda
+y llevara a una recesión grave llevó a la Reserva Federal a iniciar, a comienzos de
+2001, una política de rápidas y fuertes reducciones de su tipo de interés de inter­
+vención, que descendió dos puntos porcentuales y medio en los ocho primeros
+meses del año. El supuesto era que una política monetaria tan enérgica lograría, a
+pesar del grave deterioro de las expectativas y del inevitable retraso en el desplie­
+gue de sus efectos, frenar la contracción y reconducir el crecimiento de la econo­
+mía hacia una senda estable del orden del 2,5% al 3% en un plazo no largo, apo­
+yándose en el persistente impulso esperado de la incorporación de las nuevas
+tecnologías. El Presidente Bush, apenas comenzado su mandato, reforzó la política
+de reactivación mediante un programa, puesto pronto en práctica, de reducciones
+importantes de impuestos.
+Los atentados terroristas del 11 de septiembre pasado y la evolución pos­
+terior de los acontecimientos generaron efectos negativos adicionales: generales,
+unos, porque las expectativas se vieron afectadas por el aumento de la incerti­
+dumbre, y concretos, otros, que dañaron a sectores particulares de actividad. La
+reacción de las autoridades americanas fue vigorosa: la Reserva Federal acentuó,
+con rapidez, el proceso de descenso de sus tipos de interés hasta situar el tipo de
+interés de intervención en un 1,25%, el nivel más bajo desde los años sesenta, y
+las autoridades fiscales, a través de reducciones de impuestos, incrementos de gas­
+to y ayudas de emergencia, han completado un impulso fiscal que podría alcanzar
+el 1,5 del PIB en este año —el impulso más fuerte practicado desde 1975— . Esta
+combinación de políticas monetarias y fiscales, la más expansiva que se ha aplica­
+do en contracción alguna de la historia americana, no logró detener la caída de la
+actividad en el tercer trimestre del 2001, pero si lo ha conseguido en el cuarto, lle­
+vando incluso a una tasa estimada de crecimiento interanual del 6 % en los tres pri­
+meros meses de este año 2002. Esta última tasa ha contenido un componente muy
+importante de reposición de existencias, de modo que los trimestres inmediata­
+mente posteriores registrarán tasas de avance más modestas. Los principales indi­
+cadores apuntan hacia una recuperación de la economía americana; pero, como
+enseguida veremos, ésta puede tardar aún varios trimestres en consolidarse.
+488
+
+
+
+3
+
+Las economías de Japón y de Estados Unidos han vivido, en resumen, fluc­
+tuaciones cíclicas intensas con una diferencia de un decenio: la japonesa conoció
+su desplome en los primeros años noventa para dejar paso, desde entonces, a una
+etapa de estancamiento y recesión de la que aún no ha salido; la norteamericana
+inició, a mediados del año 2000, una fase bajista cuya intensidad ha sido limitada
+e incluso parece haberse detenido. Las semejanzas y diferencias entre ambas fluc­
+tuaciones dan pié para elaborar algunas reflexiones.
+Una y otra fluctuación se han caracterizado por etapas de auge real inten­
+sas y de muy larga duración, alentadas por expansiones financieras muy fuertes que
+han estimulado y prolongado el impulso cíclico del sector real. En ambos casos, el
+auge ha ido acompañado de aumentos significativos en los ritmos de crecimiento
+de la productividad que —especialmente en Estados Unidos— han sido interpreta­
+dos, en alta medida, como mejoras estructurales y no simplemente cíclicas. Y, en
+ambos casos, los precios de los bienes y servicios han mostrado una notable esta­
+bilidad que se ha mantenido hasta momentos ya muy avanzados del auge y que ha
+tendido a actuar como un factor de confianza y un estímulo adicional de la expan­
+sión. Las fases bajistas han puesto, en fin, de manifiesto, en uno y otro país, impor­
+tantes desequilibrios y distorsiones acumulados en los períodos respectivos de
+auge, cuya corrección requiere reajustes costosos para que las economías puedan
+adentrarse en procesos de recuperación; pero la alta flexibilidad de la economía y
+una política económica más enérgica parecen haber acortado el proceso de rece­
+sión en los Estados Unidos.
+La mayor diferencia en el panorama de los desequilibrios incubados
+durante el auge y aflorados, más tarde, en uno y otro país se refiere al estado de
+los respectivos sistemas financieros: básicamente sano el de Estados Unidos y afec­
+tado por problemas muy graves el de Japón. Esta diferencia refleja, a su vez, la exis­
+tente entre las políticas correspondientes de regulación y supervisión financiera,
+exigentes y objetivas en Estados Unidos y débiles y sometidas a la influencia de la
+articulación Gobierno-bancos-grupos-industriales en Japón, donde consintieron una
+excesiva acumulación y concentración de riesgos en las instituciones financieras
+durante la etapa de expansión y donde han tendido, después, a disimular los gra­
+ves problemas resultantes al tiempo que se han mostrado indecisas y lentas en
+cuanto a la forma de abordarlos. Las dificultades del sistema financiero serán, por
+tanto, previsiblemente, un obstáculo mucho menor a la recuperación económica en
+Estados Unidos que en Japón.
+489
+
+
+
+En cuanto a las políticas macroeconómicas —monetaria y fiscal— , las
+practicadas por Estados Unidos ante los primeros desarrollos de la fase bajista del
+ciclo han sido mucho más agresivas y rápidas que las instrumentadas en Japón. Sin
+embargo, en la etapa de expansión las políticas monetarias de uno y otro país fue­
+ron bastante similares: en ambos casos, la gran dificultad de estimar, con confian­
+za, el grado en el que los precios de los activos aparecían desviados respecto de
+los «valores de equilibrio» justificados por los fundamentos básicos de la economía;
+la intuición, ampliamente compartida, de que las mejoras observadas en el ritmo de
+avance de la productividad tenían un carácter predominantemente estructural, no
+cíclico, y, por tanto, justificaban los altos rendimientos esperados de los activos y
+hacían potencialmente más negativo cualquier freno introducido en el proceso, y,
+en fin, el mantenimiento de tasas de inflación bajas y estables hasta muy avanzado
+el proceso de expansión alimentaron la resistencia de las autoridades monetarias
+de uno y otro país a endurecer sus políticas monetarias para moderar el auge.
+La Reserva Federal ha respondido, para el caso americano, a la crítica de
+quienes señalan la asimetría, que juzgan excesiva, de su política monetaria—moro­
+sa en la contención del auge, enérgica en el esfuerzo por combatir la contracción—
+señalando que la asimetría es imputable a los mercados, no a la política monetaria;
+es decir, que los precios de los activos se elevan, habitualmente, de modo gradual,
+pero descienden a un ritmo mucho más brusco y que ello explica el distinto com­
+portamiento de la política monetaria en el auge y en la contracción. Hay quienes,
+cercanos a los mercados, piensan que la actuación de la Reserva Federal hubiera
+debido ser aún más asimétrica porque estiman que el endurecimiento de la políti­
+ca monetaria entre 1999 y el año 2000 resultó excesivo y fue responsable de la pos­
+terior caída de los valores bursátiles y de la economía. Esta posición es difícil de
+sostener si se tienen en cuenta las presiones a las que estaba sometida la econo­
+mía de Estados Unidos en el período de referencia: una mayor dilación en la actua­
+ción monetaria sólo hubiera conducido a un mayor recalentamiento de la econo­
+mía y a una contracción posterior más profunda y duradera. Parece mas razonable
+criticar la política monetaria americana por lo contrario: por haber sido demasiado
+acomodante a partir de 1995 en su deseo de no perturbar una expansión que se
+consideraba sólidamente basada en avances intensos y persistentes de la tecnolo­
+gía y la productividad. Una política monetaria más estricta habría moderado la
+expansión económica y financiera y, con ella, los excesos y desequilibrios consi­
+guientes, haciendo menores los ajustes posteriormente requeridos.
+Las recientes fluctuaciones de Japón y de Estados Unidos —especialmen­
+te, esta última— han dejado, en definitiva, sobre la mesa el problema de en qué
+medida y en qué condiciones unas autoridades monetarias centradas en el mante­
+490
+
+
+
+nimiento de la estabilidad de precios de los bienes y servicios deberían decidirse a
+intentar moderar una expansión financiera que se haya adentrado, a su juicio, en
+el terreno de la «exuberancia irracional». El juicio de las autoridades estará siempre
+afectado por la incertidumbre, y su intento de preservar la estabilidad financiera
+—no siempre asegurada por la estabilidad monetaria— correrá el riesgo de gene­
+rar efectos perturbadores contrarios a sus propósitos. Sin embargo, cuando los pre­
+cios de los activos estén alcanzando niveles difícilmente compatibles con la racio­
+nalidad —es decir, difícilmente justificables desde una apreciación razonable de las
+variables fundamentales de la economía— y amenacen con proseguir su avance
+acumulando desequilibrios precursores de ajustes dolorosos, los riesgos de la inac­
+tividad de las autoridades pueden resultar mayores que los inherentes a su actua­
+ción.
+Pocos consideran, hoy, inadecuadas las políticas monetaria y fiscal, fuer­
+temente expansivas, que vienen desarrollando las autoridades americanas para
+combatir las fuerzas contractivas que pesan sobre su economía, especialmente des­
+de los ataques terroristas del pasado mes de septiembre. Ahora bien, sin negar los
+efectos negativos de dichos ataques y de la incertidumbre posterior, las causas de
+las actuales dificultades son anteriores: se encuentran básicamente en los desequi­
+librios y desajustes económicos y financieros generados durante el auge excesivo
+de la segunda parte de los años noventa; y esos desequilibrios son capaces de
+entorpecer los impulsos expansivos de las autoridades y de dificultar la recupera­
+ción de la economía.
+Las empresas registran importantes excesos de capacidad que sólo se
+están absorbiendo lentamente; además, están fuertemente endeudadas y sus bene­
+ficios han descendido mucho en el último año y medio y continúan cayendo; así
+que no es fácil que la baja de los tipos de interés consiga una recuperación rápida
+de la inversión empresarial, que aún registra un descenso del 5,5% anual. Las fami­
+lias también se endeudaron fuertemente en el auge y se lanzaron al gasto de inver­
+sión en viviendas y de consumo, con su tasa de ahorro en descenso hacia cero; en
+estas condiciones de tensión financiera es sorprendente que las familias americanas
+hayan continuado endeudándose durante los últimos trimestres y hayan actuado
+como elemento básico de resistencia a la contracción de la economía con el avan­
+ce de sus gastos de consumo y de inversión en viviendas. Pero el mercado de tra­
+bajo no ofrece buenas expectativas: la tasa de paro está alcanzando el 6% de la
+población activa —el porcentaje más alto desde 1994—; y no es claro que el des­
+censo registrado en las cotizaciones bursátiles haya eliminado ya, plenamente, los
+excesos generados durante el auge financiero. Así que es posible que todo ello per­
+turbe la resistencia mostrada, hasta ahora, por la demanda de consumo.
+491
+
+
+
+Las políticas fuertemente expansivas que se están aplicando han detenido
+la fase bajista de la economía americana; pero cabe dudar de que ésta registre una
+tónica de abierta recuperación en un horizonte muy cercano. Seguramente habrá
+que esperar más tiempo hasta que esa recuperación se consolide, favorecida por el
+mantenimiento de altos ritmos de crecimiento de la productividad.
+En todo caso, si las políticas expansivas acelerasen artificialmente la recu­
+peración, quedarían en pie algunos desequilibrios graves acumulados durante el
+auge: el bajísimo ahorro de las familias, el importante déficit financiero ahorroinversión —ahora acentuado por la rápida eliminación del superávit presupuesta­
+rio— y, en consecuencia, el elevado déficit de la balanza de pagos por cuenta
+corriente, situado por encima del 4% del PIB.
+Las fases bajista tienen una función depuradora de los desequilibrios acu­
+mulados durante los auges precedentes. Impedir los ajustes desequilibradores y
+arrastrar las distorsiones hacia el futuro puede conducir, más adelante, a contrac­
+ciones más importantes que las que se haya conseguido superar por medios artifi­
+ciales excesivamente rotundos.
+Si a lo anterior se suman la rapidez y la intensidad con las que la debili­
+dad de la economía americana ha afectado al resto del mundo a través de las
+corrientes comerciales y financieras y de las expectativas, perdiendo así elementos
+exteriores de soporte, cabe dudar de que las políticas expansivas consigan la recu­
+peración de la Economía de Estados Unidos en el plazo relativamente breve que
+muchos esperan. Ahora que parece haberse popularizado el lema: Todos somos keynesianos, conviene recordar: primero, que las políticas expansivas de demanda,
+adecuadas para frenar un proceso de contracción, no pueden reducir a voluntad
+los lentos procesos de reajuste necesarios para superar los desequilibrios hereda­
+dos del auge y reconducir la economía a una senda de recuperación; y, segundo,
+que Keynes siempre recomendó políticas monetarias moderadoras de los auges
+excesivos para prevenir los graves males de las contracciones intensas.
+
+492
+
+

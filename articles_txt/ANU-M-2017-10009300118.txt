@@ -1,0 +1,975 @@
+SOBRE EL CONCEPTO DE CONSTITUCIÓN
+Por el Académico de Número
+Excmo. Sr. D. Gregorio Robles Morchón*
+
+INTRODUCCIÓN
+Equivocidad del término “Constitución”. La palabra “Constitución” es
+de uso común en el lenguaje ordinario, en el cual posee múltiples acepciones.
+La más sobresaliente es la que se refiere a la estructura básica de un ente, sea
+éste el que sea. Es muy corriente referirla a los organismos, como cuando se
+dice: “la constitución del cuerpo humano”. En el Derecho se usa también en
+referencia a realidades dispares, como por ejemplo la constitución de una compañía mercantil1 o la constitución de una asamblea2. Pero se utiliza, sobre todo,
+en relación a la estructura esencial del Estado, y particularmente al conjunto
+normativo supremo que establece y determina las líneas básicas de dicha
+estructura. Del Estado se ha extendido su uso analógicamente a otras entidades jurídicas, como p.ej. a la Unión Europea3, o incluso a la comunidad que forman las naciones4.
+
+* Sesión del día 13 de diciembre de 2016.
+1
+Significa tanto el acto de constituirse en sociedad, como los estatutos sociales que son consecuencia de dicho
+acto y a los que es frecuente denominar “constitución de la sociedad”. Cfr. JOAQUÍN GARRIGUES, Curso de Derecho Mercantil.
+Séptima edición, revisada con la colaboración de Alberto Bercovitz. Tomo I. Madrid 1976:306 y ss.
+2
+Así es frecuente el uso de expresiones tales como “constituirse en asamblea”, “la constitución de la asamblea”
+tuvo lugar en tal día y en tal lugar, y similares.
+3
+Tanto la doctrina como la jurisprudencia del Tribunal de Justicia de la Unión Europea usan la expresión
+“Constitución de la Unión Europea” para referirse al Derecho primario, esto es, a los Tratados fundacionales y a los Tratados posteriores que han modificado y ampliado los fundacionales. Así, RICARDO ALONSO GARCÍA, Derecho Comunitario. Sistema Constitucional y Administrativo de la Comunidad Europea. Editorial Centro de Estudios Ramón Areces. Madrid
+1994:212. El Tribunal de Justicia de la UE en su sentencia “Los Verdes” (294/83) califica al Tratado de “carta constitucional
+básica”. Cfr. también T.C. HARTLEY, The Foundations of European Community Law. An Introduction to the Constitutional and
+Administrative Law of the European Community. Oxford University Press, 2003:93 y ss.
+4
+ALFRED VERDROSS y BRUNO SIMMA, Universelles Völkerrecht. 3ª ed. Duncker & Humblot. Berlin 1984:59 y ss: “Die
+Verfassungsgrundsätze der Staatengemeinschaft” (Los principios constitucionales de la comunidad de los Estados):69 y ss.:
+“Die Verfassung der Vereinten Nationen” (La Constitución de Naciones Unidas).
+
+93
+
+
+
+A esta equivocidad de la palabra “constitución”, derivada del uso del
+lenguaje ordinario y jurídico, hay que añadir otras manifestaciones de dicha
+equivocidad provenientes, por una parte, de la historia, y por otra, de las diversas ideologías o concepciones filosóficas.
+En referencia a la historia, baste recordar ahora que en el Derecho
+Romano se denominaban “constituciones” a un género de normas jurídicas, no
+equiparable al concepto moderno5, y lo mismo ha ocurrido en etapas posteriores6. Según Karl Loewenstein, “el concepto ‘constitución’ fue usado por primera vez en el sentido actual por Cicerón (De Republica I:40). Posteriormente
+se designaron las leyes imperiales como Constituciones (Ulpiano, Digesto, I:3,
+1, 2). Este uso fue recogido por la Iglesia y permaneció durante toda la Edad
+Media. La designación actual de la palabra como totalidad de las normas fundamentales de la comunidad, también de las no escritas, no aparece hasta el
+siglo XVII”7.
+Las que derivan de las ideologías o de las concepciones filosóficas se
+caracterizan por defender distintas maneras de entender lo que es o debe ser
+una Constitución8. Así, por ejemplo, mientras unos la ven como un pacto entre
+el monarca y el pueblo, otros consideran que una Constitución ha de ser exclusivamente la expresión de la voluntad popular. Estamos, pues, ante un concepto sobre cuyo significado no hay acuerdo. Cosa nada extraña, pues es lo
+que sucede siempre con las “grandes palabras”.
+En lo que sigue me voy a referir a algunas de las acepciones de la
+palabra “Constitución” en el uso que se ha hecho y se hace de ella tanto en el
+lenguaje ordinario como en la Filosofía Política (epígrafes I, II y III), para, a
+continuación, abordar la cuestión de su significado desde la perspectiva de la
+Teoría comunicacional del Derecho (epígrafe IV), la cual distingue —respecto
+de cada problema o concepto jurídico— tres perspectivas o niveles de consideración: los propios de cada una de sus partes (Teoría formal, Teoría de la
+Dogmática y Teoría de las Decisiones).
+
+5
+ANTONIO FERNÁNDEZ DE BUJÁN, Derecho Público Romano. 16ª ed. Civitas, Pamplona 2013:199-200: “Formalmente no se reconoce hasta el siglo II la actividad legislativa del Príncipe. Sin embargo, éste interviene, en atención a su
+protagonismo político en todos los ámbitos, en una serie de actos a los que se dota de carácter normativo y se designan
+con el nombre de constituciones imperiales.” Estas constituciones imperiales adoptan diversas formas: Edictos, mandatos,
+decretos, epístolas y rescriptos.
+6
+Por ejemplo la denominada “Constitutio criminalis Carolina”, del año 1532. Vide HEINRICH MITTEIS, Deutsche
+Rechtsgeschichte. Ein Studienbuch (neubearbeitet von Heinz Lieberich. 12. Auflage. Beck, Munchen 1971:215.
+7
+KARL LOEWENSTEIN, Teoría de la Constitución. Traducción y estudio sobre la obra por Alfredo Gallego Anabitarte. Editorial Ariel. Barcelona et alt. 1979:150 (N.1).
+8
+ERNST-WOLFGANG BÖCKENFÖRDE, “Geschichtliche Entwicklung und Bedeutungswandel der Verfassung” en: E.W. BÖCKENFÖRDE; Staat, Verfassung, Demokratie. Studien zur Verfassungstheorie und zum Verfassungsrecht. Suhrkamp.
+Frankfurt am Main 1991:29-52.
+
+94
+
+
+
+I
+La constitución como documento. Es la acepción más común o vulgar.
+Si en España se pregunta a la gente por la calle qué entiende por Constitución,
+la respuesta más probable será que se trata de un libro titulado precisamente
+así, “Constitución Española”, o, para ser más exactos “Constitución Española de
+27 de Diciembre de 1978”. Documento que fue aprobado por un referéndum,
+y que contiene las normas más importantes del Estado español. La Constitución,
+así entendida, sería simplemente el texto escrito, aprobado de un modo especial por el conjunto del pueblo y proclamado solemnemente; un texto dividido
+en partes con diversos rótulos (títulos, capítulos, etc.) y éstos, a su vez, en artículos que recogen las disposiciones que organizan los poderes supremos del
+Estado y determinan los principios básicos de acción política, así como los
+derechos fundamentales de las personas. Tenemos, por consiguiente, un primer
+significado del concepto de Constitución: el texto aprobado solemnemente
+como tal, esto es, el “documento constitucional”; la “Constitución escrita”.
+Sin embargo, si echamos una ojeada a la Historia llegamos enseguida
+a la conclusión de que las Constituciones escritas son un fenómeno bastante
+reciente, generado a partir de la fundación de los Estados de Norteamérica a
+finales del siglo XVIII, casi todos con su propia Constitución, y que tendrían su
+continuidad en la Constitución de los Estados Unidos de América, aprobada en
+1787. Poco después se promulgarían las Constituciones en Francia, a partir de
+la Revolución de 1789, siendo la primera de ellas la de 1791. Puede sostenerse
+que la primera Constitución escrita en el sentido moderno es la Constitución
+de los EEUU de América, y como consecuencia, la francesa. A partir de ahí se
+extenderían al resto del Continente europeo y a los países de Iberoamérica.
+Si se acepta que la escritura en un texto constitucional unitario, y solemnemente proclamado, es el rasgo esencial de toda Constitución, es evidente que
+habrá que sostener que todos aquellos Estados que no hayan cumplido en el
+pasado o no cumplan en el presente ese requisito carecían o carecen de Constitución. De acuerdo con este criterio, el Reino Unido habría carecido siempre
+de Constitución, pues ni ha dispuesto en el pasado ni dispone actualmente de
+semejante documento unitario escrito y proclamado solemnemente como tal.
+Tesis esta que no se puede aceptar de ninguna manera.
+Así lo subraya un clásico del Derecho constitucional británico, Albert
+Venn Dicey en su sobresaliente libro titulado Introduction to the Study of the Law
+of the Constitution, publicado en 1885. Sostiene Dicey que el Derecho constitucional, tal como es usado este término en Inglaterra, incluye todas aquellas normas (rules) que directa o indirectamente afectan a la distribución o al ejercicio
+del poder soberano del Estado. Estas normas o reglas las divide en dos categorías básicas: leyes —tanto escritas como no escritas, “statutory and customary”—
+denominadas usualmente Common Law, que se caracterizan por ser impuestas
+
+95
+
+
+
+por los jueces (enforced by the courts); y en segundo término, aquellas normas
+o reglas que no poseen esta característica, pero que constituyen prácticas usuales de los políticos y de los funcionarios públicos, y a las cuales Dicey denomina
+“political” o “constitutional morality”, y también “conventions of constitution”9.
+Luís Sánchez Agesta caracteriza la Constitución inglesa de esta manera:
+“Hay que destacar, en primer lugar, su naturaleza histórica, no revolucionaria.
+(…) este carácter histórico alude a su origen tradicional y su formación evolutiva, por lenta y gradual transformación y desarrollo de principios que apenas
+se hallan declarados en ningún texto legal. (…) su naturaleza consuetudinaria,
+ya que esta formación histórica se ha realizado, más por fijación de prácticas y
+convenciones, que por la formulación de preceptos constitucionales; hasta tal
+punto que casi una mitad de la Constitución inglesa tiene ese carácter de práctica no escrita, sedimentada en el tiempo y transformada y desenvuelta en su
+propio uso. Por este mismo hecho se nos presenta en cierta forma como una
+Constitución invisible, ausente en gran parte de las colecciones legales, en oposición al carácter escrito y codificado de las Constituciones continentales, redactadas en un texto unitario y sistemático; como tal puede definirse como una
+Constitución no codificada y, en gran parte, no escrita”10.
+Por su parte, Manuel García-Pelayo sostiene que “el Derecho constitucional británico se deriva de las siguientes fuentes: A) De la legislación (statute
+law), que no se diferencia de la ordinaria ni por el órgano del que emana, ni
+por los métodos de su creación o reforma. Se trata, pues, de leyes constitucionales en el sentido material, pero no en el formal. (…) B) Del Derecho judicial
+(case law), es decir, el Derecho derivado de las decisiones judiciales (…). C) Las
+convenciones (…) [las cuales] responden a la nota de flexibilidad y de empirismo que caracteriza a la política y al Derecho británicos, y vienen a ser la vía
+de integración de nuevas situaciones en el esquema tradicional de las instituciones inglesas, dándoles a éstas un nuevo sentido. (…) Desde el punto de vista
+dinámico, podemos, pues, considerarlas como la clave de la Constitución británica”11.
+Teniendo en cuenta estos caracteres, hay que concluir que si se exige
+al concepto de Constitución la existencia de un texto normativo unitario y solemnemente proclamado, habría que sostener que el Reino Unido ni ha tenido ni
+tiene Constitución; lo que no puede sostenerse de ningún modo, habida cuenta,
+entre otras cosas, del hecho de que Inglaterra es la cuna de la democracia libe-
+
+9
+A.V. DICEY, Introduction to the Study of the Law of the Constitution (1885). Liberty Classics. Indianapolis 1982.
+Véase el Prólogo de ROGER MICHENER p. xix; la “Introducción” del propio Dicey; y 277 y ss.
+10
+LUÍS SÁNCHEZ AGESTA, Curso de Derecho Constitucional Comparado. Sexta edición, revisada. Universidad de
+Madrid. Facultad de Derecho. Madrid 1976:111.
+11
+MANUEL GARCÍA-PELAYO, Derecho Constitucional Comparado. Séptima edición. Revista de Occidente. Madrid
+1964:285-287.
+
+96
+
+
+
+ral así como de las doctrinas políticas que suelen ser calificadas como “constitucionalistas”.
+Similares argumentos son aplicables a todos aquellos Estados que han
+existido en la historia y en los cuales no se conoce semejante texto escrito;
+habría que decir que han carecido de Constitución. Ahora bien, a pesar de eso
+no se les puede negar su condición de Estados. Hay que aclarar entonces si la
+Constitución es un componente esencial de todo Estado, un concepto básico
+y consustancial a cualquier Estado, o si, por el contrario, es razonable sostener
+que existen Estados carentes de Constitución por el simple hecho de no tenerla
+escrita en un texto unitario y proclamado solemnemente. Es posible mantener
+cualquiera de las dos posturas. Ahora bien, si se sostiene que todo Estado, para
+tener Constitución, precisa del documento escrito, habrá que encontrar otro
+término —y otro concepto— para las normas que establecen la forma de
+gobierno y las relaciones básicas del Estado con los individuos. Pues estos
+aspectos son sustanciales en todo Estado, lo que quiere decir que todos los
+Estados los poseen, tengan o no Constitución escrita en un texto unitario.
+La Teoría del Derecho tiene como objetivo la reflexión teórica sobre el
+Derecho posible, de tal modo que descubra conceptos de aplicación universal
+a todos los ordenamientos jurídicos. En el asunto que tratamos, si no se acepta
+el concepto de Constitución para todos los Estados, habrá que acuñar otro concepto, aplicable a todos ellos, tanto a los que disponen de Constitución escrita
+como a los que no. La propuesta que parece más razonable consiste en adoptar el concepto de Constitución para aquella norma o conjunto de normas que
+establecen esos elementos básicos que todo Estado ha de definir12 y se presentan necesariamente como reguladores de los poderes supremos, con independencia de que las normas que lo establezcan sea resultado de un proceso constituyente que desemboca en un documento escrito o lo sea de un proceso
+constituyente diferente, prolongado a lo largo del tiempo y que no se concreta
+en un documento único aprobado con ciertas solemnidades. Hay que desechar,
+por consiguiente, la equiparación entre el concepto de Constitución con el de
+Constitución escrita en un documento unitario.
+
+II
+Descartado por estrecho el concepto vulgar de Constitución, tenemos,
+en segundo lugar, el concepto político de Constitución. Dicho concepto político se caracteriza por exigir el cumplimiento de determinados requisitos de
+12
+Este sentido genérico o amplio de Constitución es el que defiende CARLOS RUIZ DEL CASTILLO: “Aunque los pueblos no han carecido nunca de Constitución —que equivale a orden esencial—, es lo cierto que hasta el advenimiento del
+Régimen que por antonomasia se denomina constitucional, han carecido de una Constitución expresa, casi siempre codificada (…)”. (Manual de Derecho Político. Ed. Reus. Madrid 1939:22.
+
+97
+
+
+
+carácter político o ideológico para poder atribuir a un Estado la cualidad de
+tener una Constitución. O sea, para atribuirle la cualidad de ser un “Estado
+constitucional”. Ya no sería entonces imprescindible el hecho de que la Constitución venga recogida en un texto escrito aprobado solemnemente, sino que
+lo decisivo sería el carácter del régimen político.
+El ejemplo típico de este concepto político de Constitución es el
+famoso artículo 16 de la Déclaration des droits de l’homme et du citoyen, aprobada en la Asamblea Francesa el 26 de Agosto de 1789. Según el mencionado
+precepto, “toda sociedad en la cual la garantía de los derechos no esté asegurada ni la separación de poderes establecida carece de Constitución.” Aunque
+el artículo dice expresamente toute société 13, es evidente que se refiere al Estado
+como forma política de organización de la sociedad. Nos encontramos así ante
+un concepto de Constitución propio del liberalismo, esto es, de una ideología
+política determinada; esto es, ante un concepto político de Constitución.
+Es muy frecuente defender un concepto político de Constitución y
+hasta podríamos decir que dicha defensa es algo “políticamente correcto”. Egregios constitucionalistas lo proclaman con gran convicción. Así, por ejemplo,
+Francisco Rubio Llorente y Manuel Aragón Reyes. El primero sostiene: “No hay
+otra Constitución que la Constitución democrática. Todo lo demás es (…) simple despotismo de apariencia constitucional”14. Palabras que hace suyas el
+segundo autor citado, y que refuerza con sus propios argumentos. Dice Aragón:
+“De ahí también la necesidad, desde el punto de vista del constitucionalismo
+teórico, de defender el sentido unívoco de racionalidad política. La ‘gloria del
+Estado’ sólo es posible con la ‘libertad política de los ciudadanos’, pues eficacia y libertad, utilidad y control no son más que dos caras de la misma moneda.
+Con ello, además, se refuerza el carácter supremo de la Constitución, carácter
+que no está basado sólo en un requisito de la técnica jurídica o de la organización burocrática del Estado contemporáneo, sino que descansa en un principio político que presta coherencia a éstos: la soberanía popular por encima
+del poder estatal, el individuo por encima del Estado, la legalidad preñada de
+legitimidad”15 (énfasis: G.R.).
+Personalmente, en el terreno ideológico, soy partidario de aceptar este
+concepto y reclamar así un régimen político democrático-liberal. Creo que en
+
+13
+El artículo 16 de la Déclaration des Droits de l¨Homme et du Citoyen, de 26 de agosto de 1789, dice así:
+“Toute société dans laquelle la garantie des droits n’est pas assurée, ni la séparation des pouvoirs déterminée, n’a point de
+constitution.”
+14
+FRANCISCO RUBIO LLORENTE, “La Constitución como fuente del Derecho”, en: La Constitución española y las
+fuentes del Derecho. Instituto de Estudios Fiscales. Madrid 1979, vol. I:61.
+15
+MANUEL ARAGÓN REYES, Estudios de Derecho Constitucional. Centro de Estudios Políticos y Constitucionales.
+Madrid 1998:92-93. Una posición distinta es la sostenida por RODRIGO FERNÁNDEZ-CARVAJAL, quien denomina “Constitución” a
+las Leyes Fundamentales vigentes durante el régimen político (dictatorial) del General Franco. Cfr. R. FERNÁNDEZ-CARVAJAL,
+La Constitución Española. Editora Nacional. Madrid 1969.
+
+98
+
+
+
+el lenguaje de la Filosofía política es legítimo defender la idea de que todo
+Estado debe garantizar el equilibrio de los poderes máximos —legislativo, ejecutivo y judicial—, así como la protección de los derechos de los individuos y
+el principio político de la soberanía popular. En el terreno ideológico es perfectamente aceptable afirmar que carecen de Constitución aquellos Estados que
+no respeten esos principios.
+Sin embargo, el problema enfocado desde el punto de vista teórico —
+y no bajo el sesgo ideológico o político— hay que verlo de otra manera. Pues
+la Teoría del Derecho no debe manejar conceptos sesgados ideológicamente,
+ya que su tarea consiste en acuñar los conceptos jurídicos generales, aplicables
+a cualquier ordenamiento jurídico (tanto estatal, como de cualquier otro tipo:
+internacional, eclesial, comunitario europeo, etc.). Si, desde esa perspectiva,
+buscamos un concepto general y, por tanto, neutral de Constitución, es evidente que el concepto liberal del artículo 16 de la Déclaration, o cualquier
+otro de carácter político como el que exige el calificativo “democrática”, no
+nos sirve.
+Tampoco nos serviría un precepto similar, pero de signo político
+opuesto, que dijera en la Constitución escrita de un Estado comunista lo
+siguiente: “Todo Estado en el que no estén abolidas las clases sociales y en el
+que la economía no esté en manos de los poderes públicos carece de Constitución.” Semejante definición correspondería a la ideología propia del comunismo, sería un concepto comunista de Constitución. De igual manera a como
+no se puede aceptar un concepto liberal de Constitución desde la perspectiva
+de la Teoría del Derecho —y subrayo esta perspectiva, pues desde la Política
+sería otro el planteamiento— así tampoco es aceptable un concepto de Constitución que exija lo que los comunistas pretenden implantar como rasgos de
+una sociedad justa.
+
+III
+Una tercera acepción corresponde a lo que puede denominarse concepto social o socio-histórico de Constitución. La perspectiva adoptada para
+definir la Constitución tiene en este caso una resonancia política indudable,
+pero su punto central no es la política sino la realidad social. Entienden quienes la defienden que la Constitución de un país no es otra cosa que la misma
+estructura social de dicho país, es decir, el conjunto de los poderes sociales de
+diverso tipo (políticos, económicos, religiosos, culturales, intelectuales, etc.) y
+sus relaciones recíprocas. Esta concepción ha adquirido dos modalidades: la
+historicista y la sociológica. Ambas tienen un punto en común: el fijarse más
+que en las normas en los hechos, más que en lo escrito en lo vivido. No obstante, su significado ideológico suele ser diferente. Mientras que el historicismo
+
+99
+
+
+
+es proclive al conservadurismo, la concepción sociologista tiende a mantener
+posiciones que pueden calificarse de “progresistas”.
+La concepción historicista y la concepción sociologista miran a los
+hechos. Para la primera los hechos son las tradiciones y las costumbres. Para la
+segunda los hechos son los hechos sociales (políticos, económicos, etc.) del
+presente. La primera tiende a la continuidad; la segunda, a la ruptura de lo establecido o, al menos, a su transformación.
+La concepción historicista hace hincapié en la idea de “Constitución
+íntima”, “Constitución histórica” o “Constitución entrañable”16. Los pueblos tienen su historia, a veces de siglos e incluso milenios, y su estructura social básica
+es como un río que fluye lentamente, menos cuando las aguas bajan turbulentas debido a una revolución, golpe de Estado o cualquier otra circunstancia
+turbadora del orden existente. Esta idea es muy del gusto del siglo historicista
+por excelencia, el siglo XIX, siglo romántico y exaltador de los ideales nacionalistas. La encontramos en Alemania vinculada, como es natural, a la llamada
+Escuela histórica del Derecho, sobre todo en su vertiente germanista; en Inglaterra, Edmund Burke, crítico del espíritu revolucionario de 1789 y de lo que
+dicho espíritu conllevaba; en Francia, inspirados por Burke, la defienden los
+doctrinarios; y en España ha gozado y goza de gran predicamento, tanto por
+parte de los que conciben a España como una Nación, como de aquellos que
+o bien la conciben como una “Nación de naciones” o simplemente como un
+“Estado plurinacional”.
+Si el iusnaturalismo racionalista de la Ilustración adopta el contrato o
+pacto (social) como punto de partida para explicar y justificar la Constitución,
+el historicismo pone dicho punto de partida explicativo y justificador en la
+herencia. Esta es la idea básica que, respecto de lo que tratamos aquí, aparece
+en la obra de Edmund Burke, Reflexiones sobre la Revolución francesa, publicada en 1790. Dice Burke: “(…) desde la Carta Magna hasta la Declaración de
+Derechos ha sido siempre la constante política de nuestra Constitución la de
+reclamar y defender nuestras libertades como una herencia vinculada que llega
+a nosotros desde nuestros mayores para ser transmitida a nuestra descendencia. (…) Por este medio, nuestra Constitución conserva una cierta unidad en la
+inmensa variedad de sus partes. Tenemos una Corona hereditaria, unos Pares
+hereditarios, una Cámara de los Comunes y un pueblo que ha heredado, a través de una larga línea de antepasados, sus privilegios, franquicias y libertades”.
+“(…) la idea de herencia proporciona un principio seguro de conservación y
+principio seguro de transmisión, sin que esto excluya el principio de innova-
+
+16
+“Constitución entrañable” es la expresión que usa NICOLÁS PÉREZ SERRANO en referencia a la Constitución “no
+improvisada, esencial y arraigada en un pueblo, cuya unidad política ha ido creando estructura adecuada para su desenvolvimiento orgánico.” (El Poder Constituyente. Real Academia de Ciencias Morales y Políticas. Madrid 1947). Sobre el “valor de
+la Constitución histórica” véase SANTIAGO MUÑOZ MACHADO, Vieja y nueva Constitución. Crítica. Barcelona 2016, cap. IV:57-73.
+
+100
+
+
+
+ción”17. La herencia vincula a las generaciones en una misma empresa común
+que se desarrolla a lo largo de la historia conservando e innovando cuando
+fuera necesario, pero sin romper los vínculos sagrados con el pasado y las
+generaciones anteriores.
+Desde la Sociología se mantiene una posición similar, pero con un sesgo
+diferente. Si el historicismo tiende a ver las instituciones —y asimismo la Constitución— en su fluir, como resultado de un proceso histórico que hay que respetar en sus tradiciones más profundas y, en consecuencia, responde a una
+mentalidad esencialmente conservadora e incluso retrógrada, desde la perspectiva sociológica, que también se abre paso en el siglo XIX, el punto decisivo es
+comprender que la Constitución de un país no es otra cosa que el conjunto de
+fuerzas político-sociales realmente existentes en la sociedad. Recarga el acento,
+más que en la tradición histórica, en el presente de la sociedad. La Constitución
+viva viene a ser el conjunto de poderes y fuerzas sociales realmente existentes
+en la sociedad actual, factores estos que constituyen la esencia de la Constitución; y cuando ésta se pone por escrito en un documento lo razonable es que
+refleje lo más fielmente posible el mencionado juego de poderes y fuerzas sociales. Si no sucede de ese modo, la Constitución escrita será “papel mojado”,
+expresión de deseos del grupo político que la ha elaborado, pero carecerá de
+vigencia social.
+Tal viene a ser en sustancia la posición defendida por Ferdinand Lassalle, en su famoso escrito titulado Über Verfassungswesen (Sobre la esencia de la
+Constitución), publicado en Berlín en 1862, y traducido al español con el título
+¿Qué es una Constitución? 18 Lassalle fue fundador del Partido Socialdemócrata
+alemán, filósofo influido por Hegel y también por Marx, jurista con una gran
+obra sobre los derechos adquiridos, y activista político destacado. Este autor
+sostiene que la Constitución es “la suma de los factores reales de poder que
+rigen” en un país. La elaboración de una Constitución jurídica es para Lassalle
+una tarea sencilla: “Se cogen esos factores reales de poder, se extienden en una
+hoja de papel19, se les da expresión escrita, y a partir de este momento, incor17
+EDMUND BURKE, Reflexiones sobre la Revolución francesa. Prólogo y traducción de ENRIQUE TIERNO GALVÁN. Centro de Estudios Constitucionales. Madrid 1978:92-95.
+18
+FERDINAND LASSALLE; ¿Qué es una Constitución? Introducción de Eliseo Aja. Traducción al español y Prólogo de
+WENCESLAO ROCES, Editorial Ariel. Barcelona-Caracas-Madrid 1976. La primera edición española es del año 1931, con introducción histórica de FRANZ MEHRING (Editorial Cenit, Madrid). Una edición posterior, de 2012, añade un Epílogo muy sustancioso
+de ALEJANDRO NIETO, precisamente en la línea de defender la concepción sociologista (a la que podemos denominar también
+“realista”, en el sentido del realismo escandinavo o americano). El profesor Nieto afirma lo siguiente, en referencia a la Constitución española de 1978: “La Constitución no es hoy un instrumento capaz de organizar la realidad, porque ésta es ya demasiado compleja. Su destino ha sido quedarse —con buena o mala voluntad— en una hoja de papel. (p. 161). “Los sistemas
+no se legitiman con un papel (que se cumple o no), sino con sus actuaciones.” (p. 164). “España no ha tenido un pasado,
+sino varios: tantos como autonomías reconocidas en la Constitución de 1978.” (p.165). “La interpretación y aplicación de la
+Constitución es un frente más de la lucha política.” (p.173). “Lo que, con todo, a nuestro propósito más importancia tiene es
+la perspectiva realista. Desde ella lo que cuenta es lo que sucede, no lo que está escrito: lo vivido, no lo previsto.”
+19
+Parece ser que la expresión “hoja de papel”, con matiz despectivo, la utilizó el rey de Prusia, Guillermo
+Federico IV, cuando advirtió que entre Dios, que le había otorgado el poder a él como rey, y el pueblo no podía interponerse una “hoja de papel”. ELISEO AJA, “Introducción”, op.cit.:7.
+
+101
+
+
+
+porados a un papel, ya no son simples factores reales de poder, sino que se han
+erigido en Derecho, en instituciones jurídicas, y quien atente contra ellos atenta
+contra la ley, y es castigado”20.
+La concepción sociológica o sociologista también encontró eco en la
+época de Weimar, sobre todo en la obra de Hermann Heller Staatslehre, cuya primera edición alemana es de 193421. El enfoque metódico de Heller es el de la
+Ciencia política22, muy próximo a la Sociología si no se confunde en definitiva
+con ella, pues “trata de describir las diferencias histórico-sociales en toda su
+variedad y explicarlas en sus causas y consecuencias”23. Desde esa perspectiva;
+Heller distingue entre normatividad y normalidad, y aplica esta dualidad al Derecho constitucional: “Si se prescinde de la normalidad social positivamente valorada, la Constitución, como mera formación normativa de sentido, dice siempre
+muy poco. La mayoría de sus preceptos jurídicos y, sobre todo, los más importantes, cobran únicamente un sentido practicable cuando se ponen en relación
+con los principios jurídicos que son expresión de la estructura social”24. Las reflexiones de Heller son del máximo interés y matizan notablemente el sociologismo
+algo tosco de Lassalle. Su inclinación a la Sociología no le hace perder de vista
+el aspecto meramente normativo de la Constitución en ese juego que él estudia
+entre “normalidad” (Normalität) y “normatividad” (Normativität), para concluir
+en su tesis básica de la “Constitución real” que “consiste en las relaciones reales
+de poder”25, tesis que concuerda plenamente con la de Lassalle, aunque, como
+digo, los desarrollos más en detalle de Heller sugieren una visión menos simplificada y que podríamos caracterizar como la necesidad de esclarecer, respecto
+de toda Constitución, la relación entre la validez de las normas escritas y la eficacia de las mismas, así como la incidencia de la “normalidad social” en la “normalidad normativa”, lo que a la postre conduce a la cuestión de si las normas
+constitucionales sólo tienen su origen en lo escrito o si, por el contrario, se complementan con su vigencia práctica y con un género de normas que provienen
+de la sociedad como Derecho constitucional real o consuetudinario.
+
+F. LASSALLE, op.cit.:70.
+HERMANN HELLER, Staatslehre, herausgegeben von Gerhart Niemeyer. A.W. Sijthoff’s Uitgeversmaatsschappij N.V.
+Leiden 1934. Versión en español: HERMANN HELLER, Teoria del Estado. Edición y prólogo de GERHART NIEMEYER, versión española de LUÍS TOBÍO. Fondo de Cultura Económica. México 1941, varias reimpresiones. Cito por la sexta reimpresión, de 1971.
+Véase el estudio de ENRIQUE GÓMEZ ARBOLEYA, “Hermann Heller”, publicado primero en el Boletín de la Universidad de
+Granada, abril y junio de 1940, y recogido después en: E. GÓMEZ ARBOLEYA, Estudios de Teoría de la Sociedad y del Estado.
+Prólogo de M. FRAGA IRIBARNE. Semblanza con el título “Enrique Gómez Arboleya (1910-1959)” por LUÍS DIEZ DEL CORRAL. Instituto de Estudios Políticos. Madrid 1962:15-124.
+22
+Se queja de la escasa atención que la Ciencia política ha tenido en Alemania. Ibidem:20: “(…) la presente
+Teoría del Estado, por la forma como se plantean en ella los problemas, se halla más cerca de la ‘Política’ en el sentido de
+Dahlmann, Waitz y Droysen o de la Enciclopedia de las Ciencias del Estado de Mohl, ese último intento académico de comprender al Estado según amplias conexiones. Semejante concepto de la Política, que los pueblos latinos e Inglaterra también conocen bajo las denominaciones de science politique, scienza política, ciencia política y political science, no se ha
+desarrollado por desgracia entre nosotros en Alemania.”
+23
+Ibidem:22.
+24
+Ibidem:276.
+25
+Ibidem:278.
+20
+21
+
+102
+
+
+
+La concepción histórico-social que comento tiene, en su conjunto, su
+razón de ser. El Derecho en general no puede ser contemplado desvinculado
+de la realidad social, y esto mismo es aplicable al Derecho Constitucional,
+incluso con mayor motivo dadas sus características (sobre todo, su apego a la
+vida política y, por tanto, su dependencia de las situaciones). Sin embargo, en
+este aspecto hay que hacer algunas matizaciones, pues no es lo mismo considerar el fenómeno constitucional en épocas pasadas que contemplarlo en algunos países occidentales de la actualidad. Si en el pasado muchas Constituciones escritas eran en gran parte programáticas y, por tanto, necesitadas en
+prácticamente todos los puntos de ser completadas por la legislación y por el
+Derecho consuetudinario, lo cierto es que las cosas han cambiado notablemente después de las dos guerras mundiales. No obstante, hay que considerar
+en todo momento la “fuerza normativa de lo fáctico” (Jellinek), también en
+relación con la determinación y alcance de las normas constitucionales a lo
+largo del tiempo. Pero vayamos ahora a la perspectiva estrictamente jurídica,
+representada por el punto de vista de la Teoría del Derecho.
+
+IV
+Desde la perspectiva de la Teoría comunicacional del Derecho no
+puede equipararse sin más el conjunto de poderes fácticos con la Constitución
+de un Estado. No cabe la menor duda de que los poderes fácticos influirán lo
+que puedan tanto en la elaboración y aprobación de una Constitución como en
+el modo de interpretarla; así como en los procesos de reforma o cambio. Pero
+la génesis fáctica y los influjos externos que actúan sobre la Constitución es
+un asunto que pertenece a la Sociología jurídica. Desde la Teoría del Derecho
+—disciplina que adopta el punto de vista propio del jurista— lo que interesa
+es precisar qué poder es el constituyente, cómo se articula el proceso constituyente y cuál sea el contenido de la Constitución que se lleva en efecto a la
+práctica jurídica por parte de todas las autoridades del ordenamiento; esto es,
+de los poderes legislativo, ejecutivo y judicial. Es el punto de vista jurídico el
+que hay que aplicar, por mucho que los poderes y fuerzas sociales influyan en
+la configuración de los elementos citados.
+Llegamos así al concepto de Constitución desde la perspectiva de la
+Teoría del Derecho; más en concreto, desde la perspectiva de la Teoría comunicacional del Derecho. Como he subrayado repetidamente en otros lugares la
+denominación “Teoría comunicacional del Derecho” responde a la postura
+que se adopta para entender los fenómenos jurídicos en su conjunto, y también
+—como es lógico— el fenómeno constitucional. Lo esencial de dicha postura
+es que concibe el Derecho como un conjunto complejo de procesos de comunicación que se dan dentro de cada ámbito jurídico. El concepto más comprensivo es el de ámbito jurídico, dentro del cual tienen lugar todos los procesos
+
+103
+
+
+
+de comunicación relevantes para un ordenamiento jurídico determinado. El
+ordenamiento se refleja en el sistema, el cual es el resultado de la construcción
+hermenéutica por parte de la Dogmática jurídica, y desde el eje hermenéutico
+ordenamiento/sistema se califican y valoran todo lo que “sucede” dentro del
+ámbito. Los procesos de comunicación generan textos (escritos u orales) y, a
+su vez, dichos procesos son también textualizables. La Teoría comunicacional
+se define como Teoría de los textos jurídicos y también como Análisis del lenguaje de los juristas.
+En la Teoría comunicacional del Derecho pueden distinguirse tres niveles de análisis, correspondientes a la Teoría formal, la Teoría de la Dogmática
+jurídica y la Teoría de las Decisiones jurídicas. Estos tres niveles corresponden
+a los que en la Filosofía del Lenguaje se denominan, respectivamente, Sintaxis,
+Semántica y Pragmática.
+Aplicado este esquema al problema de la Constitución obtenemos los
+resultados que se exponen a continuación. Hay que tener en cuenta que estos
+tres niveles tienen algo en común: su enfoque común de mirar el Derecho
+desde dentro. La perspectiva adoptada es la interna, la propia del jurista. Ahora
+bien, teniendo eso en común, cada uno de los tres niveles se fija en aspectos
+distintos.
+La Teoría formal del Derecho (Sintaxis jurídica) se propone la investigación de los conceptos jurídicos formales, esto es, universales, aplicables a
+cualquier sistema jurídico; así como también de las relaciones mutuas entre los
+conceptos jurídicos formales.
+La Teoría de la Dogmática jurídica (Semántica jurídica) tiene por cometido entender cómo operan las disciplinas propias de la Ciencia de los juristas
+a la hora de comprender un ordenamiento jurídico concreto y transformarlo en
+el sistema jurídico que lo refleja y lo completa. La Teoría de la Dogmática jurídico-constitucional hace esto mismo, pero limitándose a una parte del ordenamiento jurídico: la Constitución.
+La Teoría de las Decisiones jurídicas (Pragmática jurídica) tiene por
+objeto la investigación de los diferentes tipos de decisiones que se generan en
+los ámbitos jurídicos, tanto de las decisiones generadoras de texto ordinamental, potencialmente normativo, como de las decisiones que preceden o acompañan a los actos que tienen significado jurídico. En el campo constitucional,
+obviamente este enfoque se traduce en el estudio de la decisión o decisiones
+constituyentes, generadas por el poder constituyente, así como en las propias
+del poder reformador establecido en la Constitución.
+El concepto central de la Teoría de las Decisiones jurídicas es el concepto de decisión jurídica (acto lingüístico, acto comunicacional). El de la Teo-
+
+104
+
+
+
+ría formal del Derecho, el de norma jurídica (expresión lingüística, formulación
+comunicacional, resultado del acto de decisión). El de la Teoría de la Dogmática jurídica, el de institución jurídica (unidad de plurales expresiones lingüísticas sobre un aspecto parcial de la realidad humana). Decisión, norma e institución constituyen la tríada conceptual básica de la Teoría comunicacional del
+Derecho26.
+
+IV. 1
+La Teoría formal tiene por objeto, como digo, destacar y analizar los
+conceptos formales presupuestos por todos los ordenamientos jurídicos. Se
+trata, pues, de conceptos jurídicos universales. Desde esa perspectiva puramente formal, la Constitución no es otra cosa que un texto (escrito o no escrito,
+como sucede en el caso de una Constitución consuetudinaria27) en el que se
+establece la forma de gobierno, esto es, la determinación de los poderes máximos del Estado. Esa forma de gobierno puede ser democrática, liberal, o por
+el contrario, absolutista o dictatorial. Para un concepto meramente formal de
+Constitución es indiferente el régimen político de que se trate. Desde una perspectiva meramente formal todo Estado tiene su Constitución, sea ésta democrática o autocrática, liberal o totalitaria.
+El razonamiento que subyace a este planteamiento es sencillo. Es
+impensable un Estado en el que no se pueda determinar la estructura básica
+de los poderes supremos, con independencia de cuáles sean éstos. Esa determinación de poderes supremos es lo que conforma el núcleo esencial de la
+Constitución. Dicho núcleo forma la Constitución mínima o, dicho de otro
+modo, el contenido mínimo de toda Constitución.
+El razonamiento anterior lo podemos ampliar de la siguiente manera.
+Si nos preguntamos por cuáles sean los elementos o aspectos esenciales —esto
+es, imprescindibles— del ordenamiento jurídico mínimo, no hay otra respuesta
+que ésta: el ordenamiento jurídico mínimo está formado por la Constitución
+mínima. La Constitución mínima supone tan sólo el establecimiento de la forma
+
+26
+Sobre las diferencias y similitudes entre este enfoque “tridimensionista” —tal como lo denomina Diego Medina
+Morales— y los tradicionales “tridimensionalismos” (el de Carl Schmitt, excluyente; el de Miguel Reale, ontologista e incluyente) véase DIEGO MEDINA MORALES (ed.), La Teoría Comunicacional del Derecho a examen. Ed. Civitas. Pamplona 2017 (con
+trabajos, además del de Medina, de JOSÉ ALBERT MÁRQUEZ, ADOLFO SÁNCHEZ HIDALGO y ANGELO ANZALONE).
+27
+Una Constitución completamente consuetudinaria es aquella cuyos preceptos se manifiestan originariamente
+en costumbres o usos, que se transmiten de generación en generación. Tanto su manifestación originaria como su transmisión requiere en todos los casos del uso del lenguaje. Por tanto, aunque su origen sea diferente al de una Constitución escrita,
+la Constitución consuetudinaria tiene en común con ésta que también hace uso del lenguaje. Mientras que la primera usa
+del lenguaje escrito, la segunda lo hace del lenguaje oral. Pero ¿acaso no puede ponerse por escrito este último? Aunque la
+Constitución consuetudinaria no deje de serlo, la Dogmática jurídica podrá, en su construcción hermenéutica del sistema
+dogmático-constitucional, poner por escrito las palabras que expresan dicha Constitución.
+
+105
+
+
+
+de gobierno. En esta última frase se contiene todo el misterio de la Constitución desde el punto de vista meramente formal. La Constitución mínima la establece o impone alguien: ese alguien es el poder constituyente. Ese alguien, que
+es poder constituyente, lleva a cabo su tarea mediante una decisión: la decisión
+constituyente. La decisión constituyente se expresa en lenguaje mediante la
+norma constitucional, cuyo contenido mínimo precisamente es la determinación de la forma de gobierno.
+Esto quiere decir que una decisión (la constituyente) crea una norma
+(la Constitución), la cual establece una institución (la forma de Gobierno).
+Obsérvese que, cuando hablamos de forma de gobierno, no nos estamos
+refiriendo a ninguna en particular, sino a todas las posibles. Este es un tema clásico de la Filosofía política desde los griegos hasta hoy. Es indiferente que la
+forma de gobierno sea una u otra, lo relevante es que la Constitución en su contenido mínimo es pensable como una expresión preceptiva que determina la
+forma del gobierno, lo mismo sea una dictadura o una democracia, o cualquier
+otra. Basta con que determine quién manda o, dicho de otra manera, a quién se
+debe obedecer. Una constitución mínima podría decir simplemente: “Imperator
+es la autoridad suprema del Estado”; o, lo que viene a ser lo mismo: “Es obligatorio jurídicamente prestar obediencia a los mandatos de Imperator”.
+Desde luego, no puede haber duda de que lo usual es que el poder
+constituyente determine en la Constitución —escrita o no— más aspectos de
+los que componen el contenido mínimo de la misma, esto es, la forma de
+gobierno. Está en su poder el ampliar dicho contenido e introducir aquellos
+aspectos que, por considerarlos relevantes, prefiera ordenarlos en el texto constitucional —escrito o no— para que después los órganos inferiores (esto es, los
+poderes constituidos) se guíen por ese mandato expreso. Esto es lo que conocemos, sobre todo, en las Constituciones de la Edad contemporánea. En ellas
+el poder constituyente introduce otros aspectos además de los organizativos
+(esto es, la “parte orgánica” de la Constitución), en especial los derechos de los
+individuos en sus relaciones con el poder estatal, así como los fines y principios básicos de actuación jurídico-política de todos los órganos del Estado
+(aspecto este que corresponde a la llamada “parte dogmática” de las Constituciones)28.
+En conjunto, hay que aceptar las tesis básicas que a este respecto
+expuso Georg Jellinek en su magnífica obra Teoría general del Estado 29. Estas tesis
+
+28
+Para mayor amplitud puede consultarse GREGORIO ROBLES, Teoría del Derecho. Fundamentos de Teoría comunicacional del Derecho. Volumen I. Thomson-Reuters, Civitas. Pamplona, 6ª ed. 2015:105-137.
+29
+GEORG JELLINEK, Allgemeine Staatslehre. Tercera edición, séptima reimpresión. Hermann Gentner Verlag. Bad
+Homburg vor der Höhe, 1960. La primera edición de esta obra data de 1900. Versión en español (deficiente): Teoría general del Estado. Traducción de la segunda edición alemana y prólogo por FERNANDO DE LOS RÍOS. Editorial Albatros. Buenos
+Aires, 1970. La segunda edición alemana es de 1905. La traducción de los textos de Jellinek en este estudio es nuestra.
+
+106
+
+
+
+son las siguientes: A) Todo Estado tiene necesariamente una Constitución30; no
+es posible concebir un Estado que carezca de Constitución. Obviamente, Jellinek, cuando afirma esto, maneja un concepto general de Constitución, desligado de exigencias o connotaciones políticas. Para él, la Constitución es el
+orden propio de un grupo social permanente, sobre todo, del Estado, que es
+el grupo social permanente por excelencia31. B) El concepto del “mínimo de
+Constitución”, que yo prefiero denominar “Constitución mínima”. Jellinek sostiene que es suficiente con que exista un poder fáctico capaz de mantener la
+unidad del Estado para poder hablar de Constitución32. Tiene razón Jellinek,
+pero a mi juicio el concepto de Constitución mínima es aplicable no sólo a una
+situación de poder fáctico no expresada aún en normas jurídicas explícitas,
+sino asimismo es aplicable a aquellas situaciones en las que se hace explícita
+en normas la situación de poder o poderes supremos desde el momento en que
+el grupo estatal se forma. C) En los pueblos dotados de un alto grado de civilización, lo normal, la regla, es que la Constitución esté formada por preceptos o disposiciones jurídicas. Esta tesis de Jellinek me parece que habría que
+matizarla añadiendo que dichas disposiciones han de ser explícitas; la mejor
+manera de explicitarlas es ponerlas por escrito, aunque no la única (p.j., las
+constitutional conventions inglesas son explícitas aunque no estén “codificadas”). D) Jellinek mantiene un concepto de Constitución que encaja perfectamente en el que es propio de la Teoría formal del Derecho. Para él, lo que
+podemos llamar contenido ordinario de la Constitución de los mencionados
+“pueblos culturales” (Kulturvölker) (los únicos a los que, en definitiva, el teórico de la Constitución está inclinado a prestar atención) está formado por los
+siguientes elementos: a) determinación de los órganos supremos; b) el modo
+de su creación; c) sus relaciones mutuas; d) su marco de actuación o competencia; e) la posición básica del individuo respecto del poder estatal33.
+Por su parte, Hans Kelsen en su Teoría general del Estado 34, del año
+1925, trata el problema de la Constitución desde la perspectiva de su concepción general según la cual el Estado es el orden jurídico y, por tanto, aborda
+30
+JELLINEK, op.cit.:504. “Notwendig hat daher jeder Staat eine Verfassung.” (Por tanto, todo Estado tiene necesariamente una Constitución).
+31
+Ibidem. “Jeder dauernde Verband bedarf einer Ordnung, der gemäss sein Wille gebildet und vollzogen, sein
+Bereich abgegrenzt, die Stellung seiner Mitglieder in ihm und zu ihm geregelt wird. Eine derartige Ordnung heisst eine V e r
+f a s s u n g.” (Todo grupo social permanente precisa de un orden de acuerdo al cual se forme y se ejecute su voluntad, se
+delimite su ámbito, y se regule la posición de sus miembros en dicho grupo así como la que tienen en relación con él. Un
+orden u ordenación semejante se denomina C o n s t i t u c i ó n).
+32
+Ibidem. “Es genügt das Dasein einer faktischen, die Staatseinheit erhaltenden Macht, um dem Minimum von Verfassung zu genügen, dessen der Staat zu seiner Existenz bedarf.” (Es suficiente con que exista un poder fáctico que sostenga
+la unidad del Estado para dar satisfacción a un mínimo de Constitución, el que precisa el Estado para su propia existencia).
+33
+Ibidem. “Die Verfassung des Staates umfasst demnach in der Regel die Rechtssätze, welche die obersten
+Organe des Staates bezeichnen, die Art ihrer Schöpfung, ihr gegenseitiges Verhältnis und ihren Wirkungskreis festsetzen, ferner die grundsätzliche Stellung des einzelnen zur Staatsgewalt”. (En consecuencia, la Constitución del Estado comprende
+por lo general las disposiciones jurídicas que determinan los órganos estatales supremos, el modo de crearlos, su relación
+recíproca y su marco de actuación, así como también la posición básica del individuo con respecto al poder estatal).
+34
+HANS KELSEN, Allgemeine Staatslehre. Julius Springer, 1925. Traducción directa del alemán por LUÍS LEGAZ
+LACAMBRA. Ed. Labor. Barcelona 1934.
+
+107
+
+
+
+el problema desde la perspectiva de la estructura jerárquica del ordenamiento.
+Distingue entre la Constitución en sentido lógico-jurídico y la Constitución en
+sentido jurídico-positivo. La primera es “la norma fundamental [Grundnorm],
+en la que se basa la unidad del orden jurídico, cuando instituye un órgano creador del Derecho.” La segunda “surge como grado inmediatamente inferior en
+el momento que dicho legislador establece normas que regulan la legislación
+misma”35.
+Además, Kelsen distingue entre Constitución en sentido formal y en
+sentido material, y dentro de este concepto distingue entre Constitución en
+sentido estricto y Constitución en sentido amplio. “Por Constitución en sentido
+material se entiende aquellas normas que se refieren a los órganos superiores
+(Constitución en sentido estricto) y a las relaciones de los súbditos con el poder
+estatal (Constitución en sentido amplio). (…) Se habla de Constitución en sentido formal cuando se hace la distinción entre las leyes ordinarias y aquellas
+otras que exigen ciertos requisitos especiales para su creación y reforma. Es
+indudable que entre estas últimas pueden incluirse también ciertas normas que
+por su contenido no pertenecerían, en rigor, a la Constitución en sentido material, sin perjuicio de lo cual pueden revestir la forma de leyes constitucionales,
+cuando así conviene a ciertos intereses políticos”36.
+En su libro Teoría general del Derecho y del Estado, publicado en EEUU
+en 1945, Kelsen introduce algunas consideraciones muy interesantes respecto
+de las modificaciones que sufren las Constituciones (incluso las “rígidas”, según
+la terminología de Bryce) por vía consuetudinaria. “Incluso la más rígida de las
+Constituciones —afirma— es ‘rígida’ solamente con respecto al Derecho estatuido, no con respecto al consuetudinario. No hay ninguna posibilidad jurídica
+de evitar que una Constitución sea modificada por la costumbre, aun cuando
+tenga el carácter de Derecho estatuido, es decir, aun cuando sea de las llamadas ‘escritas’”37.
+En 1964 Kelsen publicó un breve escrito con el título “La función de
+la Constitución”38, que concluye así: “La función de la Constitución es fundamentar la validez”. Sin renunciar a ninguna de sus tesis anteriores, introduce sin
+embargo un matiz que resulta de interés. Con carácter general afirma que, dentro de la jerarquía de las normas jurídicas, “la norma superior tiene, respecto
+de la inferior, carácter de Constitución”; y argumenta: “pues la esencia de la
+Constitución consiste en regular la producción de normas. Así, la ley, al reguIbidem:325.
+Ibidem:330.
+37
+HANS KELSEN, Teoría general del Derecho y del Estado. Traducción de EDUARDO GARCÍA MAYNEZ. Universidad
+Nacional Autónoma de México (UNAM). México 1969:308.
+38
+HANS KELSEN, “Die Funktion der Verfassung”. Forum 1964:583-586. Recogido ahora en: Die Wiener rechtstheoretische Schule. Schriften von Hans Kelsen, Adolf Merkl, Alfred Verdross. Herausgegeben von Hans Klecatsky, René Marcic,
+Herbert Schambeck. Europa Verlag et alt. Salzburg-München, 1968; volumen 2:1971-1979.
+35
+36
+
+108
+
+
+
+lar el procedimiento por el que los órganos aplicadores, especialmente los tribunales, crean las normas individuales, es Constitución en relación al procedimiento de dichos órganos, de igual modo a como la Constitución en el sentido
+estricto y específico de la palabra lo es en relación al procedimiento legislativo,
+y como lo es la Constitución en el sentido lógico-trascendental en relación con
+la primera Constitución desde el punto de vista histórico, esto es con la Constitución en sentido jurídico positivo.” Y añade: “De esta manera se relativiza el
+concepto de Constitución”39.
+Este concepto de Constitución, según el cual habría que señalar en
+cada escalón de la estructura jerárquica de las normas jurídicas la parte de
+“Constitución” que dicho escalón presenta respecto de las normas inmediatamente inferiores, al prever su producción, por interesante que sea no puede ser
+aceptado, ya que es incompatible con el lenguaje de los juristas, tanto teóricos
+como prácticos. A mi juicio, la función primaria de la Constitución es determinar el poder o poderes supremos del Estado, esto es, la determinación de la
+forma de gobierno, y no los sujetos creadores —en general, esto es, en todo
+los escalones del ordenamiento— de normas jurídicas y sus respectivas competencias. Cierto es que los poderes supremos del Estado tienen la competencia última para legislar, pero eso no autoriza a extender el concepto de Constitución a cualesquiera poderes dentro del Estado. Si así fuera, el concepto de
+Constitución habría de concebirse como un concepto en perpetuo cambio,
+motivado por la continua creación de órganos estatales entre cuyas funciones
+estuviese la creación normativa, y además perdería su carácter esencial: el ser
+la norma o conjunto de normas superiores del ordenamiento jurídico. Estaríamos ante un concepto “diluido” de Constitución.
+
+IV. 2
+Con ello pasamos al segundo nivel de análisis en la TCD, el que corresponde a la Teoría de la Dogmática jurídica, también denominada Ciencia de
+los juristas o simplemente Ciencia del Derecho, o Jurisprudencia.
+Tanto el jurista dogmático —el tratadista— como el jurista práctico —esto
+es, el abogado, el juez, el funcionario— tienen en mente su propio ordenamiento, aquel que han estudiado y al que sirven. Para este tipo de juristas, la
+Constitución es sencillamente la Constitución de su propio Estado. Por tanto,
+algo muy concreto, no el concepto general de Constitución, que es —como
+acabamos de ver— el que contempla la Teoría formal. Para el jurista español,
+la Constitución es la Constitución Española de 1978. Para el jurista alemán la
+
+39
+
+Ibidem:1978.
+
+109
+
+
+
+Constitución es la Ley Fundamental (Grundgesetz) de 1949. Para el jurista británico la Constitución es la Constitución del Reno Unido, esto es, un conjunto de
+documentos escritos más otro conjunto de prácticas convencionales y de usos
+constitucionales que ha sedimentado la historia a lo largo del tiempo. La Ciencia de los juristas en su versión dogmática consiste en el estudio de un ordenamiento jurídico y, por consiguiente, en el estudio de una Constitución, la del
+ordenamiento correspondiente. Suele decirse —correctamente— que la Ciencia de los juristas es una ciencia idiográfica, ya que su objeto es “individual”;
+esto es, un ordenamiento jurídico. Esta característica no debe perderse de vista
+para entender el enfoque de la Dogmática. El concepto que manejan los juristas en su trabajo dogmático, así como los prácticos, suele ser éste: el propio del
+ordenamiento jurídico al que sirven. Por eso podemos denominar a este concepto como concepto ordinario de Constitución.
+Así las cosas, la perspectiva dogmática —y también la propia de la
+práctica del Derecho— está mediatizada por el principio de relatividad de todo
+lo jurídico. Me refiero, claro es, al Derecho positivo, dejando ahora al margen
+la cuestión del Derecho natural y de si es un deber moral obedecer siempre los
+mandatos del legislador —y también del poder constituyente. Desde el punto
+de vista del Derecho positivo, toda cuestión jurídica tiene su respuesta en cada
+ámbito jurídico, esto es, aplicando las calificaciones e interpretaciones presupuestas en el ordenamiento y desarrolladas en el sistema jurídico concreto dentro del cual estemos trabajando. Esto mismo es aplicable a la Constitución. Para
+los juristas españoles la Constitución es el texto escrito denominado “Constitución Española de 1978”.
+Ahora bien, en la realidad del Derecho positivo español, ¿es sólo eso,
+es tan sólo el texto del libro-documento aprobado a finales de 1978? Hay que
+responder así a esta pregunta: En modo alguno, la Constitución española es
+algo mucho más complejo y más rico en contenido que el libro-documento
+mencionado. Hay que añadirle algo más, algo decisivo. Para los juristas españoles la Constitución es, sí, el texto aprobado solemnemente por el pueblo en
+diciembre de 1978, pero añadiendo esto: tal y como dicho texto es interpretado
+por el Tribunal Constitucional.
+El Tribunal Constitucional español se caracteriza por ser el órgano
+supremo de interpretación de la Constitución. Ostenta, en este sentido, el “monopolio interpretativo” del texto de 1978. “Monopolio interpretativo” no quiere decir
+que los demás órganos del Estado carezcan de autorización para interpretar la
+Constitución. Al contrario, todos los órganos del Estado tienen el deber de
+someterse a la Constitución Española de 1978 y de hacerla valer como norma
+de aplicación obligatoria y directa, por lo cual también tienen el deber de interpretar el texto constitucional. Lo único que ocurre es que, en materia de interpretación de dicho texto, se reserva la última palabra al Tribunal Constitucional. El que el Tribunal Constitucional tenga la última palabra en materia de
+
+110
+
+
+
+interpretación de la Constitución Española puede expresarse, algo impropiamente, diciendo que tiene el “monopolio interpretativo”40.
+Una cuestión básica, que aquí se plantea, es si precisamente debido a
+que el Tribunal Constitucional tiene la competencia suprema de interpretar la
+Constitución no adopta un papel que corresponde al poder constituyente. No
+faltan autores que sostienen que, al no ser el Tribunal Constitucional elegido
+directamente por el pueblo, su función interpretadora y por consiguiente conformadora del sentido del texto constitucional introduce un factor perturbador
+en el carácter democrático de la Constitución41.
+Si se lee con detenimiento la Constitución Española de 1978 se observará enseguida que, junto a aspectos esenciales de toda Constitución (la regulación de la forma de gobierno y de la relación de los individuos con el Estado,
+por medio básicamente de los derechos fundamentales), contiene asimismo
+preceptos menos relevantes, algunos de los cuales fueron probablemente producto de la necesidad de alcanzar el consenso entre las diversas fuerzas políticas que participaron como protagonistas en el proceso constituyente. Algunos
+de estos preceptos pueden ser incluso considerados como la expresión política
+de una mentalidad historicista anti-moderna. Tal puede ser el caso del tratamiento peculiar de determinados “derechos históricos”, a los que se refiere la
+famosa Disposición Adicional Primera42. Hay que preguntarse si la Constitución
+Española de 1978 no ha hecho así tabula rasa del principio de igualdad entre
+todos los ciudadanos españoles, por mucho que lo proclame en su artículo 14,
+y ha permitido cauces —la realidad está ahí, patente ante nuestros ojos, y lo
+demuestra día a día— para la segregación y la separación en aras de sedicentes “derechos históricos” (probable eufemismo para designar auténticos “privilegios”, esto es, “leyes privadas”), de difícil fundamentación desde un planteamiento de estricta racionalidad política.
+Este último concepto (“racionalidad política”) equivale obviamente, en
+nuestro contexto, a la “racionalidad democrática”. No vamos a negar que, de
+hecho, en la Teoría política se usa el concepto de “razón” en muy diversos
+sentidos y con distintas consecuencias. Pero parece natural que una Constitución democrática, propia de un Estado social y democrático de Derecho, sea
+consecuente con lo que constituye la guía básica de toda democracia: la igual-
+
+40
+Utilizo aquí esta calificación de “monopolio interpretativo” en sentido similar a como se usa en el Derecho
+comunitario europeo en referencia al Tribunal de Justicia de la UE. “Órgano supremo de la interpretación de la Constitución
+y de la interpretación constitucional de la ley”, es la caracterización que a este respecto hace MANUEL ARAGÓN REYES, op.
+cit.:138, al comentar el artículo 1º de la Ley Orgánica del Tribunal Constitucional (“intérprete supremo de la Constitución”).
+41
+En esta línea crítica se sitúa a tesis doctoral de DONALD BELLO HUTT, titulada Republicanismo y deliberación:
+Un análisis crítico de la revisión judicial de las leyes. Valladolid, 2015. Del mismo autor, “Against Judicial Supremacy in
+Constitutional Interpretation”, en: Revus – Journal for Constitutional Theory and Philosophy of Law, nº 31, 2017.
+42
+La Disposición Adicional Primera en su primer párrafo dice así: “La Constitución ampara y respeta los derechos históricos de los territorios forales”.
+
+111
+
+
+
+dad de todos los ciudadanos ante la ley. La tesis de los “derechos históricos”
+supone una ruptura de esa igualdad y, en definitiva, una quiebra de la racionalidad democrática.
+IV. 3
+En el tercero de los niveles, el de la Teoría de las Decisiones jurídicas,
+ya se ha señalado que la Constitución es el texto —escrito o no— que resulta
+de la decisión constituyente, la cual es adoptada por el poder constituyente tras
+un proceso de elaboración y debate que se denomina proceso constituyente43.
+El proceso constituyente se caracteriza por ser un conjunto de pasos (debates,
+deliberaciones, consensos, acuerdos parciales) que son previos a la adopción
+de la decisión constituyente. En esta desemboca el proceso constituyente. Tanto
+el proceso constituyente como la decisión constituyente y la Constitución se
+concretan en textos o, en otro supuesto, son textualizables.
+Desde un punto de vista teórico el concepto de poder constituyente es
+aplicable a todo ordenamiento jurídico estatal, y también es aplicable en principio a cualquier otro ordenamiento jurídico si se acepta la tesis de que este último
+concepto conlleva el de Constitución44. Históricamente, el concepto de poder
+constituyente surge y se teoriza a partir de la Revolución francesa, como una
+noción vinculada estrechamente al movimiento político denominado “constitucionalismo”. Sigue siendo imprescindible en este aspecto la amplia y documentada monografía que Egon Zweig dedicó a este tema45.
+En una monarquía absoluta el poder constituyente reside en el monarca,
+y en una dictadura, en el dictador. En una democracia el poder constituyente
+tiene su titular en el pueblo o en la nación. Es normal que el pueblo o la nación
+deleguen, explícita o implícitamente, la función de debate y elaboración en una
+asamblea o en una comisión representativa de las fuerzas políticas, las cuales,
+llegado el consenso sobre el texto constitucional, lo somete a referéndum del
+pueblo para su aprobación46.
+
+43
+E.-W, BÖCKENFÖRDE (op.cit.:94) define así el poder constituyente: “Es aquella fuerza o autoridad (política) que
+está en situación de generar, sostener y suprimir a la Constitución en su pretensión de validez normativa. No se identifica
+con el poder constitucional del Estado, sino que precede a dicho poder.” Para Böckenförde se trata de una fuerza o autoridad extrajurídica, de naturaleza política. En términos de la Teoría comunicacional se trataría de una fuerza o autoridad extraordinamental, pero no extrajurídica, por pertenecer al ámbito jurídico. Sobre el concepto de ámbito jurídico véase G. R OBLES,
+Teoría del Derecho. Fundamentos de Teoría comunicacional del Derecho. Volumen I. 6ª ed., citado, capítulo 14.
+44
+Véase G. ROBLES, op.cit.:109 y ss.
+45
+EGON ZWEIG, Die Lehre vom Pouvoir Constituant. Ein Beitrag zum Staatsrecht der französischen Revolution.
+Verlag von J.C.B. Mohr (Paul Siebeck), Tubingen 1909.
+46
+He desarrollado con mayor amplitud la teoría del poder constituyente en su relación con la teoría de las decisiones jurídicas en mi Teoría del Derecho. Fundamentos de Teoría comunicacional del Derecho, vol. I, 6ª ed. 2015, ya cit.
+:105 y ss. (Epígrafe X: La decisión constituyente. XI: El poder constituyente. El proceso constituyente. XII: La constitución.
+XIII y XIV: Las decisiones intraordinamentales o intrasistémicas.
+
+112
+
+
+
+En el poder constituyente radica la soberanía. En un Estado democrático la soberanía reside en el pueblo. Antes de la existencia de una Constitución,
+el pueblo es la entidad política que aprueba la Constitución y, por consiguiente
+el Estado. Una vez consolidado el Estado como entidad político-jurídica independiente, con sistema institucional autónomo y propio sistema de fuentes del
+Derecho, el pueblo es la población del Estado. A dicha población se la denomina también nación.
+La soberanía es indivisible, por lo que no es posible la separación de
+una parte del territorio o de la población del Estado sin el consentimiento del
+pueblo de dicho Estado en su conjunto. Así, un referéndum en una de las partes del Estado al que acudieran exclusivamente los habitantes empadronados
+en dicha parte, y que prescindiera del resto de la población, constituiría un
+acto ilícito jurídicamente e ilegítimo políticamente.
+Además de ser indivisible, la soberanía es irrenunciable, por lo que ni
+siquiera en el supuesto de que los partidos políticos estuvieran de acuerdo en
+la segregación de una parte del territorio y de la población respecto del conjunto
+del Estado, sería eso posible dentro de las coordenadas normales de la vida jurídico-política del Estado. Un paso de ese estilo podría ser considerado o bien una
+revolución o bien un golpe de Estado. En cualquiera de los dos casos, nuevamente estaríamos en presencia de un acto delictivo.
+Por tanto, tampoco es aceptable la tesis de que el Estado, al incorporarse a la Unión Europea, haya renunciado a su soberanía, ni tampoco que
+haya renunciado a competencias soberanas. Sí es correcto, por el contrario,
+sostener que el Estado ha renunciado al ejercicio de competencias que derivan
+de su soberanía47; pues renunciar únicamente al ejercicio significa que no se
+renuncia a la titularidad de dichas competencias ni, por consiguiente, a la
+soberanía misma. Esta es en sí misma irrenunciable. Una soberanía renunciable, en todo o en parte, constituye una contradictio in terminis. En el supuesto
+de que un Estado renunciara, total o parcialmente, a su soberanía, estaría autodestruyéndose, dejaría de ser un Estado. Si al entrar en la Unión Europea los
+Estados miembros hubieran renunciado a su soberanía, no podrían tomar después la decisión de abandonarla, lo que sin ninguna duda está dentro de sus
+posibilidades. El día en que los Estados miembros no puedan salir de la Unión
+Europea, si tal situación llega a darse, significará que la Unión Europea se ha
+convertido en un Estado; y en el supuesto de que haya tomado la forma de un
+Estado federal, los Estados miembros habrán dejado de ser Estados soberanos
+para transformarse en Estados federados.
+
+47
+Así lo proclama, muy correctamente, el artículo 93 de la Constitución Española, en su inciso primero:
+“Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución”.
+
+113
+
+
+
+El poner el acento en la decisión como elemento clave del ordenamiento jurídico, y más en concreto de la Constitución, le ha llevado a Carl Schmitt
+a distinguir entre el concepto de “Constitución” propiamente dicha (Verfassung) y el concepto de Leyes (meramente) constitucionales (Verfassungsgesetze)48. Constitución, en el sentido de Schmitt, sería el conjunto de disposiciones que forman parte del texto constitucional y que son expresión de lo que
+denomina las decisiones políticas (politische Entscheidungen), que son aquellas que por su relevancia definen las líneas maestras del régimen jurídico-político, mientras que leyes meramente constitucionales son, para el ilustre jurista,
+el restante conjunto de disposiciones que no tienen ese carácter político básico,
+definidor del régimen político-jurídico, pero que también forman parte del texto
+constitucional49.
+Dice Schmitt, cuando expone lo que denomina “el concepto positivo
+de Constitución”, que considera como “la Constitución como decisión global
+sobre el tipo y la forma de unidad política”50, sostiene lo siguiente: “Un concepto de Constitución sólo es posible, si se diferencia entre Constitución y Ley
+constitucional. No es admisible disolver la Constitución en una pluralidad de
+Leyes constitucionales particulares y, a continuación, caracterizar la Ley constitucional por cualquier signo externo o por el método para modificarla. De
+este modo se difumina un concepto que es esencial en la Teoría del Estado y
+que es el fundamental en la Teoría de la Constitución”51.
+Dejando ahora otros aspectos —discutibles— de la concepción schmittiana, la diferenciación entre “Constitución” y “Leyes meramente constitucionales” o que forman parte del texto constitucional sin ser “Constitución” propiamente dicha, es sumamente pertinente, e incluso relevante para entender el
+funcionamiento interno del texto constitucional, y en su relación con el resto del
+ordenamiento jurídico52. Así, por ejemplo, no tendría el mismo carácter el artículo 2 CE, que proclama “la indisoluble unidad de la Nación española”, precepto
+
+48
+Según G. JELLINEK, ya en el Agreement of the People de Cromwell se diferencia entre “disposiciones fundamentales y disposiciones no fundamentales” Las primeras comprenden “el Derecho inalienable de la Nación” (“das unveräusserliche Recht der Nation”). Cfr. G. JELLINEK, op.cit.:510-511.
+49
+CARL SCHMITT, Verfassungslehre (1928). Zehnte Auflage. Duncker & Humblot. Berlin 2010, passim, especialmente:20-21, 24.
+50
+Ibidem:20. “Der positive Verfassungsbegriff (Die Verfassung als Gesamtentscheidung über Art und Form der
+politischen Einheit”. Ayala traduce así: “El concepto político de Constitución (La Constitución como decisión de conjunto
+sobre modo y forma de la unidad política”) (versión española, cit.:45).
+51
+Ibidem:20-21. “Ein Begriff von Verfassung ist nur möglich, wenn Verfassung und Verfassungsgesetz unterschieden werden. Es ist nicht zulässig, die Verfassung erst in eine Vielheit von einzelnen Verfassungsgesetzen aufzulösen und
+dann das Verfassungsgesetz an irgendeinem äusserlichen Kennzeichen oder sogar nach der Methode seiner Abänderung zu
+bestimmen”.
+52
+MANUEL GARCÍA PELAYO, respecto de “la distinción entre Constitución propiamente dicha y leyes constitucionales”, afirma lo siguiente: “No es cuestión de hacer aquí unas reflexiones críticas sobre el decisionismo, ni sobre la distinción tajante entre Constitución y Leyes o normas constitucionales. Diré solamente que, aun partiendo del supuesto de que
+todos los preceptos incluidos en el texto constitucional son proposiciones igualmente vinculatorias, hoy no parece dudarse
+de que no todas son de la misma especie, rango, efectividad o capacidad engendradora o acuñadora de otras normas”. (Epílogo a: CARL SCHMITT, Teoría de la Constitución (1934). Alianza Editorial. Madrid 1982:376.
+
+114
+
+
+
+que encarna una decisión política fundamental, y el artículo 73.1 que dice que
+“las Cámaras se reunirán en dos períodos ordinario de sesiones: el primero, de
+septiembre a diciembre, y el segundo, de febrero a junio” que, obviamente,
+tiene un carácter distinto, menos relevante desde el prisma de la definición de
+un régimen político-jurídico.
+La distinción entre Constitución, por una parte, y Leyes o disposiciones
+meramente constitucionales, por otra, esto es, entre los preceptos que conforman el meollo sustancial del texto constitucional, lo fundamental del régimen
+político-jurídico, y aquellos preceptos que podrían ser de otro modo, o tienen
+una relevancia secundaria, permitiría, llegado el caso, emitir un juicio de inconstitucionalidad sobre disposiciones que, aunque aparecen en el texto del documento constitucional, podrían atentar contra el núcleo esencial de la misma,
+esto es, contra aquellas partes del texto que son expresión de las decisiones
+políticas fundamentales. Así, podríamos calificarlas de Leyes meramente constitucionales que, sin embargo, podrían ser inconstitucionales por atentar contra
+los principios básicos de la Constitución. Existiría la posibilidad de hablar de un
+“Derecho constitucional inconstitucional” o “anticonstitucional”. Tal sería el caso,
+por ejemplo, si se entendiera que el término “nacionalidades” ha de equipararse al concepto de “Nación”. En suma, se trataría en estos casos de leyes o disposiciones constitucionales que, al dotárseles de determinadas interpretaciones,
+podrían ser declaradas anticonstitucionales. La cuestión de si, en el texto de la
+actual Constitución Española, se encuentran disposiciones que, a pesar de estar
+contenidas en ella, podrían ser inconstitucionales, es una cuestión sumamente
+relevante que habría que discutir en algún momento.
+En mi opinión, los llamados “padres de la Constitución” realizaron una
+tarea que puede ser calificada de “ecléctica” a la hora de organizar el Estado.
+Hicieron lo que pudieron, dadas las circunstancias del momento, presididos por
+la buena fe y por la esperanza en la lealtad política de todos. De la noche a la
+mañana, España pasó de ser un Estado centralizado a ser un Estado con estructura federal o cuasi-federal. Bajo el lema, simpático ciertamente, del “café para
+todos”, surgió el invento del Estado de las Autonomías y, dentro de él, el
+reconocimiento —con todo lo que implica esta palabra— de “los derechos históricos de los territorios forales”. España, un país entonces de 35 millones de
+habitantes y con escasa cultura federalista, se convirtió en un Estado con 17 Parlamentos con sus respectivos Gobiernos (aparte, claro, del Parlamento y del
+Gobierno españoles, del conjunto del Estado); y, por tanto, dividido en 17 clases
+o grupos políticos regionales reclamando mejoras y ventajas, y protestando frecuentemente contra su deber constitucional de solidaridad. No sólo esto. En algunos de los territorios más favorecidos surgió la llama de la secesión, llama que
+no cesa en la política española actual y que se muestra difícil de extinguir.
+Me pregunto: ¿Puede un Estado soportar que partidos políticos y autoridades del Estado pretendan destruirlo desde dentro? ¿No es un absurdo polí-
+
+115
+
+
+
+tico, no es la negación del Estado mismo, la contradicción más radical en su
+propio seno, el hecho de que se permita la existencia de poderes estatales antiestatales?
+Muchas veces se alaba el acierto y la generosidad de la llamada transición política española. Sin duda, hubo generosidad; pero ¿hubo acierto en
+todo? ¿No parece excesivamente triunfalista afirmarlo así? Hay que preguntarse
+ahora: ¿Acaso no sobró ingenuidad a la hora de estructurar el Estado, acaso no
+les faltó a aquellos hombres sagacidad política para vislumbrar lo que estaban
+sembrando para el futuro? Gobernar siempre es difícil, pero lo es en grado
+máximo si hay que contentar a muchos grupos políticos, algunos de los cuales
+parecen no pretender otra cosa que más y más poder, aun a costa de romper
+la convivencia. ¿No se ha concedido demasiado, con la finalidad de integrar a
+todas las “sensibilidades” en el seno de la comunidad política, y, sin embargo,
+como respuesta no se ha obtenido, al menos en gran parte, sino deslealtad a
+dicha comunidad? ¿Es acaso verdad la afirmación del profesor Alejandro Nieto,
+según la cual las fuerza políticas españolas se han rebelado contra el texto de
+1978 y no le dan otro valor que el de una hoja de papel?53
+Soy consciente de que, a estas alturas, quizás no haya otra solución que
+contentarse con el Estado de las Autonomías. Es una realidad que está ahí. Pero
+es una realidad que no está consolidada, sino en proceso continuo de transformación y muchas veces en detrimento del equilibrio global del conjunto del
+Estado. Si se pensó que, con el diseño autonómico, España podía alcanzar una
+forma estatal estable y carente de tensiones, hoy sabemos que el decurso de
+los cuatro decenios últimos no ha transcurrido en esa dirección. No es solución,
+en ningún caso, la asimetría, que es lo que reclaman algunos partidos nacionalistas. Asimetría equivale a desigualdad, a privilegio, a discriminación en favor de
+unos y en perjuicio de otros54. Mucho menos aceptable es aún la admisión de
+procesos de secesión. Se han cometido graves errores en la cesión de competencias. La educación, sobre todo, no debió nunca de dejarse en manos de las
+Comunidades Autónomas. Pues el cemento que une a una nación son los sentimientos de los individuos que la forman. En gran parte al menos, se ha dejado
+el cultivo de esos sentimientos en manos de quienes pretenden separarse.
+¿Puede haber mayor disparate?
+
+53
+ALEJANDRO NIETO, “Epilogo” a FERDINAND LASSALLE, ¿Qué es una Constitución? Ariel. Barcelona 2012:182. “La
+Constitución es, en suma, una hoja de papel inter alios facta, de contenido ambiguo, que llega hasta donde quieren —y pueden— los que tienen fuerza, sea oficial o real, para imponerla o limitarla. En la actualidad el nivel de la solidaridad y del
+consenso ha bajado tanto que el árbol de la Constitución ha quedado con las raíces en el aire y, falto de apoyo, puede caer
+si un viento lo empuja.”
+54
+No se olviden las sabias palabras del Abate Sieyès: “Todos los privilegios son, por su propia naturaleza, injustos, odiosos, y están en contradicción con el fin supremo de toda sociedad política.” (EMMANUEL-J. SIEYÈS, “Ensayo sobre los
+privilegios”, en: EMMANUEL-J. SIEYÈS, ¿Qué es el Estado llano? , precedido del Ensayo sobre los privilegios. Prólogo de VALENTÍN ANDRÉS ÁLVAREZ. Traducción de JOSÉ RICO GODOY. Centro de Estudios Constitucionales:5-6.
+
+116
+
+
+
+Miremos a nuestro alrededor. Todas las naciones europeas están formadas por grupos humanos heterogéneos, cada país es un mosaico más bien
+complejo. Pero aquellas naciones que vemos consolidadas y sin problemas
+internos de secesión son las que han sabido cultivar los sentimientos comunes
+de pertenencia a la gran nación que forman. Francia ha sabido unificarse desde
+la Revolución, e incluso antes, como muy bien describe Alexis de Tocqueville
+en su obra L’Ancien Régime et la Revolution 55. Alemania, tras la segunda guerra mundial, se ha constituido como un Estado federal, pero la descentralización jurídica no ha impedido construir la unidad de la nación alemana sobre
+la base de fomentar aquellos aspectos que unen a los alemanes. En la base de
+convivencia entre los Länder y sus pobladores está un arraigado sentimiento
+de pertenencia a la deutsche Gemeinschaft, a la comunidad alemana. Ésta
+hunde sus raíces en la cultura y en los sentimientos compartidos, en los que
+tiene una función básica el conocimiento profundo y el uso constante por parte
+de todos de la lengua común, la que denominan Hochdeutsch 56. Por tanto, dos
+modelos distintos, el centralizado y el federal, pero con una conquista que les
+es común a ambos: la unidad del Estado sobre la base de la comunidad de la
+Nación. Nosotros, los españoles, todavía tenemos pendientes esta tarea; y ello
+a pesar de ser un Estado nacional cuyos orígenes se remontan nada menos
+que a fines del siglo XV.
+
+55
+ALEXIS DE TOCQUEVILLE, L’Ancien Régime et la Révolution. Introduction par Georges Lefebvre. Note préliminaire
+de J.-P.MAYER en Oeuvres Complètes. Tome II (2 vols.). Gallimard. Paris 1952/1953. Versión española: ALEXIS DE TOCQUEVILLE,
+El Antiguo Régimen y la Revolución. Traducción por DOLORES SÁNCHEZ DE ALEU. 2 vols. Alianza Editorial. Madrid 1982. Cfr
+sobre todo:107 y ss, y 244 y ss. del vol. I de la edición francesa:77 y ss, y 202 y ss. de la versión española. Al aristócrata
+Tocqueville no le entusiasma, sin embargo, la centralización administrativa, ni la política. Véase a este respecto ALEXIS DE
+TOCQUEVILLE, De la Démocratie en Amérique. Introduction par HAROLD J. LASKI. Note préliminaire de J.-P. MAYER. (2 vols.). En:
+Oeuvres Complètes; vol. 2:304 y ss.
+56
+Se denomina “Hochdeutsch” (literalmente “alto alemán”) al idioma común de todos los alemanes, que se
+enseña en todas las instituciones públicas. En un libro de Gramática alemana puede leerse que, independientemente de las
+modalidades linguísticas existentes en Alemania, “en la escuela los niños aprenden y usan el alemán común (die
+hochdeutsche Schriftsprache), aun cuando en su casa hablen con sus padres” otras modalidades linguísticas (Mundarten),
+“pues un alemán de la costa norte no puede entender a otro de los Alpes bávaros si cada uno habla en su propio idioma”.
+(HEINZ GRIESBACH y DORA SCHULZ, Deutsche Sprachlehre fur Ausländer (Grundstufe, 2.Teil). Max Hueber Verlag. 5. Auflage.
+Munchen 1966:13.
+
+117
+
+
+
+

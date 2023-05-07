@@ -1,0 +1,749 @@
+E L D E S P ID O D E U N T R A N S E X U A L
+Por el Académico de Número
+Excmo. Sr. D. Manuel Alonso Olea*
+
+-Una vez más sepide al Tribunal una interpretación de la Directiva del Con­
+sejo 76/207/CEE, de 9 de febrero de 1976 sobre aplicación del principio de
+igualdad de trato entre hombres y mujeres en cuanto a l acceso a l empleo,
+formación y promoción profesionales y condiciones de trabajo. La novedad,
+ciertamente no pequeña, está en que quien busca [en el caso] el amparo de
+la directiva es un transexual. Por ello... el Tribunal debe estudiar la transexualidad desde elpunto de vista de la prohibición de discriminación por ra­
+zón de sexo: ¿puede un transexual, si él o ella es despedido porque él o ella
+es transexual, en especial cuando él o ella se ha sometido a una reasigna­
+ción de sexo, ampararse en la Directiva?
+(Ag. § l ) 1
+
+El título que doy a esta disertación no es una ocurrencia mía; antes
+bien, forma parte del de la sentencia del Tribunal de Justicia de las Comunidades
+Europeas, en el Asunto C-13/94, de 30 de abril de 1996, título que dice a s í: «Igu a l­
+dad de trato entre hombres y mujeres. Despido de un transexual».
+
+* Sesión del día 25 de febrero de 1997.
+1 Las abreviaturas de que se va a usar en la présente disertación con alguna frecuencia,
+son: AG, Abogado General (el 5 numerado que sigue a AG, es el de su informe en
+el caso); ST, Sentencia del Tribunal de Justicia de las Comunidades Europeas (el §
+numerado que sigue a ST, es el de la sentencia dictada en el caso); Dir., Directiva
+seguida de su número. En todo lo que sigue, salvo que otra cosa diga, las cursivas
+son siempre mias.
+Hemos traducido de AG § 1 -reasignación de sexo-, literalmente del inglés (idioma
+del caso), •g e n d e r reassigm ent-, Del informe del AG, manejo el texto inglés. De la
+ST el texto español. En lo que toca a la frase a que nos estamos refiriendo, sin du­
+da refleja el Tribunal su duda terminológica respecto de la traducción al español.
+Sería extremadamente interesante estudiar en este contexto las similitudes y dife­
+rencias entre sexo y género en nuestro idioma y sus equivalentes sex y g e n d e r en
+
+237
+
+
+
+Es el de la transexualidad problema cuya vertiente jurídica está apa­
+reciendo desde hace algún tiempo en contextos múltiples, a alguno de los cua­
+les tendré ocasión de referirme, pero que dejo citados desde ahora.
+Aparece en efecto, entre otros lugares:
+1.2 En la Recomendación de 29 de septiembre de 1989 del Conse­
+jo de Europa sobre «Condición de los transexuales», pidiendo al Consejo de Mi­
+nistros que requiera a los Estados miembros que legislen sobre ella.
+2.3 En varias decisiones de la Comisión y sentencias del Tribunal
+Europeo de Derechos Humanos, espaciadas entre los años 1972 y 1992. Señala­
+damente, en la sentencia del caso Rees, año 1986, a la que me volveré a referir.
+3.a En la legislación o en las decisiones judiciales de numerosos Es­
+tados miembros, que el Abogado General cita (AG § 10; notas 8 a 15).
+4.9 En nuestro Código Penal vigente (LO 10/1995, de 23 de no­
+viembre), cuyo artículo 156 d ice:«el consentim iento válida, libre, consciente y ex­
+presamente em itido, exime de responsabilidad p e n a l... en los supuestos d e ... [en­
+tre otros]... ciru gía transexual realizada p or facu ltativo-, (El precepto procede
+de la modificación del Código Penal de 1973 —texto refundido aprobado por De­
+creto 3096/1973, de 14 de septiembre— por LO 3/1989, de 21 de junio).
+5.a En, ya puede hablarse de numerosas, sentencias del Tribunal
+Supremo: me refiero a las de la Sala de lo Civil, de 7 de marzo de 1980 (Art. 1.111),
+2 de julio de 1987 (Art. 5.045), 15 de julio de 1988 (Art. 5.722), 3 de marzo de
+1989 (Art. 19) y 19 de abril de 1991 (Art. 2.725), y en los comentarios doctrinales
+sobre ellas2.
+6.s En el decreto sobre prestaciones san itarias del Sistema N acio­
+n a l de la Salu d (Real Decreto 63/1995, de 20 de enero, publicado en el BOE de
+20 de febrero siguiente); al relacionar las «prestaciones que no son financiables
+
+inglés, y los significados de ambos vocablos en ambos idiomas; no puedo hacerlo
+aqui, ni aquí me parece estrictamente necesario para la disertación.
+2 Citaré en adelante estas sentencias refiriéndome a la de 1980, 1987, 1988, 1989 y
+1991, según sea el caso. Anticipo que no pretendo comentar estas sentencias, tan
+superlativamente interesantes como, aunque se pudieran aceptar sus fallos, de dis­
+cutible fundamentación.
+Haré referencia a ellas en puntos concretos de esta disertación.
+
+238
+
+
+
+con cargo a la Seguridad Social o fondos estatales destinados a la asistencia sa­
+nitaria», menciona expresamente (Anexo III.4), »la cirugía de cambio de sexo, sal­
+vo la reparadora en estados intersexuales patológicos»3.
+7.s Para concluir, en los estudios doctrinales ya existentes, que por
+cierto, nos dicen que, pocos relativamente los transexuales, las cifras crecen en cuan­
+to se manejan los grandes números absolutos.«En Europa uno de cada 30.000 hom­
+bres y una de cada 100.000 mujeres buscan cambio de sexo quirúrgicam ente »4.
+Hay que convenir, pues, con el Abogado General: en el caso -el de­
+recho se encuentra ante un a realidad y está destinado a encontrarse con ella ca ­
+da vez más. Esto es inevitable» (AG. § 9).
+Esto mismo es lo que ha motivado la elección del tema de la diser­
+tación; esto y, de un lado, mi oficio de profesor de Derecho del Trabajo, porque
+es sobre un despido sobre lo que la sentencia decide; y de otro, que al existir una
+interpretación general de una directiva comunitaria a través, como también ve­
+remos, de la decisión prejudicial que vamos a comentar, aquélla pasa a formar
+cuerpo con la directiva interpretada, y cómo ésta, como Derecho comunitario, a
+ser vinculante para los jueces y tribunales españoles5.
+*
+
+*
+
+*
+
+3 Hago la indicación de que el Sistema Español de Salud no sufraga estos gastos por­
+que el Servicio Nacional de Salud Británico si los sufraga; asi lo afirma sin contra­
+dicción el recurrente en el caso que estamos estudiando (AG § 5), y lo da como
+probado la sentencia en el caso R ees {-...el Servicio Nacional de Sanidad corrió con
+los gastos de la asistencia médica, incluidas las operaciones- [§ 14]; «...el Reino Uni­
+do, por medio de su Servicio Nacional gratuito de Sanidad, ha costeado los gastos
+de las intervenciones quirúrgicas y los demás tratamientos módicos a que se so­
+metió el demandante- [§ 41]). La sentencia no concede relevancia especial a esto;
+mejor dicho, niega que la tenga (§ 47).
+4 «Según datos dados por el interesado- (AG. § 9, nota 6).
+En A. Miras y D. Malicier, C hirurgie et Transexualisme, datos grosso m odo iguales,
+1 de 50.000 a 100.000 {11 ° C ongreso M undial d e D erecho M édico, Sun City, Africa
+del Sur, 1996, «Actas-, vol. 2, pág. 63).
+En todos los casos judiciales españoles fueron hombres los que se sometieron a la
+reasignación quirúrgica de sexo.
+5 Desde la sentencia en el caso B rasserie, de 5 de marzo de 1996, tal se tiene como
+doctrina firme del Tribunal de Justicia de las Comunidades Europeas. Sobre el ca­
+so citado R. Alonso García, La respon sabilidad d e los Estados m iem bros p o r in fra c­
+ció n d e l D erech o com u n ita rio, Madrid, 1997, cap. II; sobre la reiteración y firmeza
+de la doctrina doquiera en este mismo libro.
+
+239
+
+
+
+Comencemos aventurando una noción relativamente clara acerca de
+lo que la transexualidad es; lo que no resulta nada sencillo. En efecto:
+— En el Diccionario de la Española, edición de 1992, transexu alidad
+es la «cualidad o condición de transexual» y transexual «dícese de la persona que
+mediante tratamiento hormonal adquiere los caracteres sexuales del sexo opuesto».
+— Para el Abogado General, siguiendo, parece, la recomendación
+citada del Consejo de Europa, «transexualidad es un síndrome caracterizado por
+una personalidad dual, una física y otra psicológica, junto con una convicción tan
+profunda de pertenecer al otro sexo, que la persona transexual está decidida a
+pedir la correspondiente “corrección” corporal» (AG. § 8).
+— La sentencia que se va a comentar, a su vez tomando la defini­
+ción de una de las del Tribunal Europeo de Derechos Humanos (la ya citada sen­
+tencia Rees, de 17 de octubre de 1986) dice que «se entiende usualmente por «transexuales» aquellas personas que aún perteneciendo físicamente a un sexo, poseen
+el sentimiento de pertencer al otro; intentan con frecuencia acceder a una iden­
+tidad más coherente y menos equívoca a través de tratamientos médicos e inter­
+venciones quirúrgicas destinados a adaptar sus características físicas a su psico­
+logía». Como complemento de la definición —prosigue la sentencia que se comenta
+con la cita de la de Estrasburgo— «los transexuales operados forman, por consi­
+guiente un grupo bien determinado y definible» (ST 16; la cita es de Rees § 38).
+Puede añadirse que en la propia sentencia Rees (§ 47) «el Tribunal
+comprende la gravedad de los problemas con que se tropiezan estas personas [los
+transexuales] y la angustia que sufren»; lo que le lleva a subrayar «la necesidad de
+medidas legales adecuadas [que] debe traducirse en un estudio constante, te­
+niendo en cuenta especialmente el desarrollo científico y social»6; no obstante lo
+cual, dicho sea de paso, aunque con esta admonición, la decisión impugnada se
+deja incólume7.
+
+6 Decidiendo también un caso británico, la sentencia R ees es una pieza judicial in­
+ternacional importante. Dictada, en aplicación del C onvenio eu ro p eo p a ra la p r o ­
+tecció n d e los d e rech o s h u m a n os y liberatados fu n d a m en ta les (Roma, 4-11-1950;
+ratificado por España en 26-9-1979; BOE 10-10-1979), por el Tribunal Europeo de
+Derechos Humanos, contiene un estudio profundo de la transexualidad en general
+y a efectos matrimoniales y de inscripción registral. Fue una sentencia polémica;
+ya la op in ión de la mayoría de la Comisión fue acompañada por dos pareceres di­
+sidentes, y la propia sentencia por un voto particular de tres magistrados.
+7 -En definitiva, se respeta el derecho del Estado afectado a mantener su propia nor­
+mativa en la materia-, reenviándole la cuestión, como bien dice el traductor y co­
+mentarista de la sentencia J.M .a Tejera Victory.
+
+240
+
+
+
+— En la sentencia del Tribunal Supremo de 1897 ico n sid era n d o 2.a)
+— con expresiones que ic o n sid era n d o 3-Q)— son «hechos... que pertenecen al
+acervo cultural y que pueden aceptarse por la vía de reglas de experiencia... [los]...
+que caracterizan al transexual por el irresistible sentimiento de pertenencia al se­
+xo contrario, rechazo del propio y deseo obsesivo de cambiar la morfología ge­
+nital». En el voto particular, discrepante del de la mayoría que puso la sentencia
+ico n sid era n d o 1.a), se nos dice que el término transexual debe ser entendido co­
+mo «expresivo de una incongruencia entre lo psíquico y lo orgánico y, en defini­
+tiva, en una determinación de su voluntad consistente en el cambio de sexo atri­
+buido por la naturaleza por el que pretende agenciarse sobre la base, aparte de
+los efectos de la operación quirúrgica, de una invocada manera femenina de con­
+cebir su personalidad». Nos dice también el voto que «la diferencia del hombre
+respecto de la mujer radica fundamentalmente en el sexo... condición orgánica...
+que viene determinada específicamente por los genes», distintos los del hombre
+de los de la mujer. «El examen cromosomático del ser humano nos da la pauta de
+su individualidad social hombre o mujer»... En conclusión, «el sexo es cualidad
+inmanente del ser humano... [que] ... aún con componentes sico-somáticos tie­
+ne... un ingrediente de carácter físico-biológico».
+— En el trabajo de Miras y Malicier citado, «la transexualidad se ca­
+racteriza por una confusión de la identidad individual. El paciente tiene la con­
+vicción de pertenecer al sexo biológico opuesto». «La ausencia de correlacción
+perfecta entre su sexo biológico y su condición personal, lleva [al transexual] a
+un estado de malestar moral profundo, que puede conducirle al suicidio ...alter­
+nativa del cual es la desaparición de los atributos odiados de un sexo que él [el
+transexual] rehúsa»; de ahí que sea la suya -—citando ahora nosotros la sentencia
+del Tribunal Supremo de 1989— » una personalidad atormentada viviendo per­
+manentemente en un estado de ansiedad».
+— En el comentario de Angel Yagüez a la sentencia de 1987, la tran­
+sexualidad «es un trastorno heterogéneo de identidad sexual, consistente en un
+sentimiento persistente de malestar e inadecuación respecto al propio sexo ana­
+tómico y el deseo también persistente de liberarse de los propios genitales y de
+vivir como miembro del otro sexo»8.
+— En el comentario de J. Diez del Corral Rivas a la sentencia de
+1980, el que llama «síndrome transexual»... se caracteriza esencialmente por el de­
+
+8 R. de Angel Yagüez,
+(1987-4).
+
+C om entario a la STS, Sala 1 “ d e 2 d e ju lio d e 1987, en «La Ley*
+
+241
+
+
+
+seo obsesivo de cambiar de sexo... En el individuo existe un conflicto dramático
+por la divergencia entre su sexo aparente, masculino o femenino, y el sentimiento
+profundo e inexplicable que tiene de su género femenino o masculino»9.
+*
+
+*
+
+La tra n sex u a lid a d y e l esta d o civil. (En to m o a la sen ten ­
+cia d e l Tribunal S uprem o d e 7 d e m arzo d e 1980), en «Anuario de Derecho Civil-,
+
+9 J. Diez del Corral Rivas,
+
+tomo XXXIV, fase. III, 1981 (págs. 1077-1088). Muy interesante comentario este, to­
+mando por base una sentencia irrelevante a los efectos que aquí nos importan, da­
+do que el recurso de casación fue desestimado sin entrar en el fondo, por mor de
+un tecnicismo procesal: los dictámenes periciales —el del forense en el caso— no
+eran documentos ni actos auténticos para la casación civil por error de hecho; no
+lo eran conforme al antiguo artículo 1.692.7.2 de la Ley de Enjuiciamiento Civil, me­
+nos lo son conforme al actual articulo 1.692. Si lo eran, y por consiguiente habría
+el Tribunal Supremo entrado en el fondo, en una casación social — como lo hu­
+biera sido la del caso de la sentencia de Luxemburgo que se está comentando, un
+despido— conforme al artículo 167.5.B de la Ley de Procedimiento Laboral vigente
+al decidirse sobre el caso; y probablemente lo siguen siendo.
+Así son las cosas procesales, creo, y asi aqui las dejo.
+Por cierto, en el comentario de Diez del Corral se llama la atención sobre que -en
+España, el DNI, a diferencia del pasaporte, menciona el sexo- de su titular, si no
+explícitamente, sí implícitamente a través expresiones -hijo de- o -hija de-.
+Por curiosidad simple he indagado esto en mis propios DNI y pasaportes y de es­
+ta entretenida indagación ha resultado lo siguiente:
+— En el que yo creo que fue mi primer DNI, expedido en 1952, se menciona el se­
+xo. En cambio, en el segundo, expedido en 1958, ni en el tercero, expedido en
+1964, hay referencia al sexo.
+— En el cuarto, expedido en 1981, no aparece la mención; pero en la relativa a
+■Grupo sanguíneo-, quien expide el documento no dice nada respecto del gru­
+po sanguíneo y escribe, en cambio, -Sexo V». En el quinto, expedido en 1986,
+aparecen las menciones relativas a -Grupo sanguíneo», que tampoco se rellena
+ahora, y al sexo, que sí se rellena, con una -V».
+— En el último, expedido en 9 de octubre de 1996, aparece con claridad, e inde­
+pendiente, la mención -sexo-. Por cierto que en este, sin duda por la edad del
+identificado — bien porque no se le den diez años más de vida, bien porque si
+se le dan no merezca ya la pena reidentificarle, bien por dejarle de una vez en
+paz, benévola interpretación que asumo— el D.N.I. se expide con -VALjlDEZ]
+PERMANENTE-,
+Cuando se usan abreviaturas, como es frecuente, las menciones se rellenan con V
+o H, según el sexo masculino o femenino. La identificación indirecta de que habla
+Diez del Corral no existe, pues el dato sobre la filiación se pide siempre en mas­
+culino (-hijo de...-).
+Los pasaportes efectivamente no tenian mención relativa al sexo, hasta que se ins­
+tauraron los expedidos por España como País miembro de la Comunidad Europea,
+en los cuales-sexo/sex/sexe- aparece explícitamente y se rellena -mujer» o -varón»
+sin abreviatura.
+
+242
+
+
+
+Por supuesto, sin entrar ni remotamente en consideraciones médi­
+cas, parece evidente que se están manejando en las definiciones que se acaban
+de listar, tres tipos, mejor grados, de transexualidad:
+1 ° La pura y simple, aunque realmente es la verdadera u origina­
+ria transexualidad, consistente en el sentimiento de pertenecer a sexo distinto del
+inmutable cromosómico que se tiene10.
+2.2 La anterior, acompañada a la decisión de someterse a los trata­
+mientos médicos y/o quirúrgicos conducentes a la «reasignación» de sexo11, esto
+es a la alteración de sus caracteres fenotípicos, incluidos los genitales.
+3.a Las dos anteriores, tras el sometimiento a los tratamientos cita­
+dos, especialmente a los quirúrgicos. Es de ellos, de los «transexuales operados»,
+de los que dice el Tribunal Europeo de Derechos Humanos, se recordará, que
+«forman... un grupo bien determinado y definible»12.
+*
+
+*
+
+*
+
+Lo que tan resumidamente dejó expuesto me ha parecido necesario
+para el estudio y comentario de la sentencia del Tribunal de Justicia de las Co­
+munidades Europeas, de 30 de abril de 1996, que de una vez comienzo.
+*
+
+*
+
+*
+
+En la inscripción del nacimiento en el Registro Civil desde luego ha de constar el
+sexo de nacido, según el que figure en el C uestionario p a ra la d ecla ra ció n d e n a­
+cim ien to en e l R egistro civ il [Sexo ( 2 )
+(2) varón mujer»], a su vez congruente con
+el que figure en el P arte d e l fa cu lta tiv o q u e asistió a l n a cim ien to [«CERTIFICO el
+nacimiento de un ... (varón o hembra)...»].
+C uestionario y p a r te han visto sus «modelos oficiales» modificados por O.M. Justi­
+cia de 15 de noviembre de 1996, mirando la modificación «a establecer rápidamente
+su [del niño] identidad», conforme al artículo 8.a del C onvenio d e las N aciones Uni­
+d a s so b re los D erechos d e l Niño de 20-11-1989, ratificado por España en 30-11-1990
+(BOE de 31-12-1990).
+10 Sobre esto, por lo demás hasta hoy científicamente incontrovertible, insisten las
+sentencias del Tribunal Supremo: «...por razón de unas característics que, como las
+cromosómicas, son inmutables» (sentencia de 1989); «...en cuanto respecto... del
+punto de vista biológico... no puede haber cambio de sexo, ya que continúan in­
+mutables los cromosomas [en el caso] masculinos» (sentencia de 1991).
+11 Completo la información de la nota 1 para decir que la expresión «reasignación de se­
+xo» se utilizó ya en 1987 por R. dr. Angel Yagüez en su Comentario..., cit., pág. 170.
+12 En las tres sentencias 1988, 1989 y 1991, los casos fueron de este grupo, esto es,
+de transexuales que se habían sometido a operaciones quirúrgicas de reasignación.
+
+243
+
+
+
+Los hechos son los siguientes (AG §§ 5-6; ST §§ 3-4):
+La parte demandante (P.) — repárase en que la sentencia al usar la
+denominación procesal («la parte») se ahorra asignar ella un sexo13— era admi­
+nistradora de un establecimiento docente en el que prestaba sus servicios desde
+abril de 1991. Un año después de su contratación, en abril de 1992, comunicó a
+sus superiores «su intención de someterse a una operación de cambio de sexo,
+[lo que] comenzó por un período de prueba [de modo de] vida Qife test) durante
+el cual P. se vistió y comportó como una mujer». A este período sucedieron una
+serie de operaciones quirúrgicas de carácter menor... [seguidas de]... la operación
+definitiva, todas ellas «destinadas a proporcionar a P. los atributos físicos de una
+mujer».
+Tras de haberse sometido a estas operaciones quirúrgicas menores
+durante el verano de 1992, en septiembre de ese año recibió de su empleador un
+preaviso de despido que había de surtir sus efectos el 31 de diciembre siguiente.
+La operación definitiva tuvo lugar después del preaviso, pero antes de que expi­
+rara el tiempo de éste, antes pues de la consumación jurídica del despido.
+Aunque el empleador alegó que el despido había sido debido a la
+amortización del puesto de trabajo de P. —y aunque efectivamente era cierta la
+necesidad de tal amortización— «la auténtica razón del despido fue la intención
+de P. de someterse a una operación de cambio de sexo». Esto se da como hecho
+probado, del que por tanto hubo que partir y se partió.
+P. recurrió ante el Tribunal Industrial [británico] — un Tribunal que
+no una Court, esto es, un órgano administrativo, no judicial— alegando que «ha­
+bía sido víctima de una discriminación por razón de sexo».
+Es el Tribunal Industrial quien plantea la cuestión pre-judicial al am­
+paro del artículo 177 del Tratado de la Comunidad Europea14 en relación con la
+Directiva 76/207/CEE, en los términos siguientes (AG § 7; ST § 10):
+
+13 No así el informe del Abogado General, que nos dice: «Me referiré a esta persona,
+identificada como P.
+como a una mujer; subrayando que hago esto sin tomar en
+consideración ni su sexo originario (varón) en su certificado de nacimiento, ni el
+resultante de su cambio físico de sexo como resultado final de la operación qui­
+rúrgica- (AG § 4).
+14 No entro aquí en el tema procesal comunitario de las -cuestiones prejudiciales- a
+que se refiere el articulo 177 del Tratado de Roma. Remito a lo que brevemente de­
+jé indicado al comentar la sentencia también dictada al amparo del mismo por el
+
+244
+
+
+
+«1) Vista la finalidad de la Directiva 76/207 que, según su artículo
+1 ,Q, es la aplicación del principio de igualdad de trato para hombres y mujeres en
+lo que se refiere al acceso al empleo, etc... ¿infringe la Directiva el despido de un
+transexual a causa de un cambio de sexo (“gender reassignment‘0?
+2) ¿Prohíbe el artículo 3.a de la directiva, que se refiere a la discrimi­
+nación por razón de sexo, tratar a un empleado en función de su transexualidad?»15.
+Obligado es citar las normas de la Directiva 76/207 cuya interpreta­
+ción se pide y sobre las que van a girar los fundamentos de la sentencia que se
+está comentando.
+
+Tribunal de Justicia de las Comunidades Europeas — competente para resolverlas—
+de 14 de junio de 1994 en D espido d e la m u jer em barazada: versión com u n itaria,
+comunicación discutida en el Pleno de Académicos de Número de la Real Acade­
+mia de Jurisprudencia y Legislación de 22 de mayo de 1995 y publicada en el núm.
+25 de sus -Anales*. Y también como ésta en un caso de despido.
+Ampliamente el tema en R. Alonso García, D erecho C om unitario, Madrid, 1994,
+págs. 325-351; y una exposición escueta y acertada del mismo contemplada desde
+el ordenamiento español, en el co n sid era n d o 2.a de la sentencia del Tribunal Cons­
+titucional 201/1996, de 9 de diciembre.
+15 El Tribunal Industrial — nos dice AG § 3— hizo constar que la Sex D iscrim ination
+A ct británica, no contiene ningún precepto que refiera a los transexuales, ni siquiera
+a aquéllos que se han sometido a una operación de reasignación de sexo; en el Rei­
+no Unido, toda persona retiene el sexo masculino o femenino que él o ella tenía al
+nacer. Es imposible por lo tanto, alterar en el Registro de Nacimientos, Matrimo­
+nios y Fallecimientos, el sexo que originariamente se ha atribuido a una persona*.
+Los llamados en la terminología británica -Tribunales*, como el -Industrial* que for­
+mula la cuestión, no forman parte de la organización judicial, no son courts, ni sus
+miembros Judges-, las decisiones de aquéllos son recurribles ante estos. La traduc­
+ción del inglés al español, o del español al inglés tribunal-tribunal, es un error cra­
+so; algo así como traducir acto o acta por act, o ley por law.
+Con todo lo In du strial Tribunals, creados en 1963-65 han adquierido una gran im­
+portancia, precisamente a partir de la Sex D iscrim nation Act d e 1965 (I.N. Stevens,
+C onstitutional a n d A dm inistrative Law, Plymouth. 1984, pág. 280).
+Sobre los Tribunals en general, breve y reciente, la 3.a ed., Oxford, 1996, de P. Ca­
+ñe, An In trod u ction to A dministrative Law, cap. 19.a; sobre las Courts, con suficiente
+detalle, también reciente, L. Jason-Lloyd, The English Legal System, Londres, 1997.
+Por cierto que Jason-Lloyd al relacionar los Tribunales ( courts ) ingleses, menciona
+entre ellos el Tribunal de Justicia de las Comunidades Europeas explicando que
+-como consecuencia de la creciente integración de la Unión Europea, el Tribunal
+esta siendo cada vez más una parte integrante de nuestro sistema judicial*, (pág.
+43). Lo que es muy cierto si se atiende a la frecuencia con la que los Tribunales bri­
+tánicos, Cámara de los Lores incluida, plantean cuestiones prejudiciales ante el Tri­
+bunal Europeo; tema al que me referí en D espido d e la m u jer em barazada: versión
+com u n ita ria , en -Anales de la R.A.J.L.*, núm. 25, 1995.
+
+245
+
+
+
+La Directiva 76/207 del Consejo [de las Comunidades Europeas] de
+9 de febrero de 1976, «relativa a la aplicación del principio de igualdad de trato
+entre hombres y mujeres en lo que se refiere al ...trabajo», en lo que de momen­
+to aquí importa, dice así:
+Artículo 1.a. 1:
+«La presente Directiva contempla la aplicación en los Estados miembros del
+principio de igualdad de trato entre hombres y mujeres en lo que se refiere
+al acceso al empleo, incluida la promoción, y a la formación profesional, así
+como a las condiciones de trabajo...»
+Artículo 2 .Q.1:
+«El principio de igualdad de trato... supone la ausencia de toda discrimina­
+ción por razón de sexo, directa o indirecta...».
+Artículo 5 .B.1:
+«La aplicación del principio de igualdad de trato en lo que se refiere a las
+condiciones trabajo comprende [las condiciones de] el despido [e] implica
+que se garantiza a hombres y mujeres las mismas condiciones sin discrimi­
+nación por razón de sexo».
+
+Respecto de estas normas, dice bien el Abogado General que «aunque
+es desde luego cierto que la Directiva prohíbe cualquier discriminación por razón
+de sexo, igualmente es indiscutible que la redacción del principio de igual trato
+que establece, refiere a la dicotom ía tradicional hombre/mujen (AG § 16); y que la
+Directiva, datada en 1976, «tuvo en cuenta lo que puede ser descrito como realidad
+“normal". Es lógico que no tom ara expresamente en consideración, una cuestión
+y una ralidad que sólo com enzaban a “descubrirse” en aquel tiempo» (AG. § 23).
+Repárase además que, todo su profundo fondo no obstante, el caso
+lo es estrictamente de ruptura de un contrato de trabajo, de un despido, que se
+reputa injustificado por discriminatorio. Quiero decir que, el problema de la transexualidad tiene otras muchas y más importantes vertientes que ésta socioeco­
+nómica de si puede ser despedido un transexual por ser tal. Si se me permite el
+anacronismo de la comparación, ocurre algo parecido a lo que caracteriza los es­
+tudios sobre la esclavitud, en los cuales el hecho de trabajar forzosamente para
+otro, es una circunstancia menor que otras muchas relativas a la libertad y a la
+personalidad, mejor dicho, a la falta de ambas del esclavo y de la esclava.*
+*
+
+246
+
+*
+
+
+
+La sentencia, brevísima en sus fundamentos de derecho, dedica los
+dos primeros (ST §§ 15 y 16) a la cita del caso Rees, a propósito de que «los transexuales operados... son un grupo bien determinado y definible», con lo que re­
+chaza el argumento del Gobierno del Reino Unido, que se había opuesto a la de­
+manda, alegando «que P. habría sido igualmente despedido si anteriormente
+hubiera sido una mujer y se hubiera sometido a una operación quirúrgica a fin
+de convertirse en hombre», siendo el seguro sentido de esta alegación que pues­
+to que en el supuesto contrario se hubiera hecho lo mismo que en el caso, no se
+da en éste la discriminación por razón de sexo —varón o mujer— que la Direc­
+tiva prohíbe, superferolítico argumento muy propio de un barrister británico.
+Pasa después la sentencia a decirnos, tras la cita de los artículos y
+apartados de la Directiva 76/207 que han quedado transcritos (ST § 17), que és­
+ta, «no es sino la expresión... del principio de igualdad, que es uno de los fun­
+damentales del derecho comunitario» (ST § 18), conforme al cual, «como ha de­
+clarado el Tribunal de Justicia [en sentencias reiteradas] el derecho a no ser
+discriminado por razón de sexo, constituye uno de los derechos humanos fun­
+damentales, cuyo respeto [el Tribunal] debe garantizar» (ST § 19).
+Tras todo lo cual y tan importante como non sequitur, eje apodíctico de la decisión, salvo la referencia genérica a la igualdad de ST § 18, lo siguiente
+en ST § 20:
+Por consiguiente, el ám bito de aplicación de la D irectiva no puede
+reducirse únicam ente a las discrim inaciones que se derivan de la pertenencia a
+uno u otro sexo. En atención a su objeto a los derechos que pretenden proteger, la
+D irectiva debe aplicarse igualm ente a las discrim inaciones que tienen lugar, co­
+mo en el presente caso, a consecuencia del cam bio de sexo del interesado.
+Si parara aquí la sentencia carecería de fundamento claro, es decir,
+de un claro encaje de los hechos con el derecho. Por eso, inmediatamente ST §
+20 va seguido por una módica explicación en ST § 21:«tales discrim inaciones [las
+discriminaciones de que la sentencia acaba de hablar, las que tienen lugar a con­
+secuencia del cambio de sexo del interesado] se basan [también esencialm ente,
+si no exclusivam ente, en el sexo del interesado. Si esto es así — pero reposando
+ya sobre la interpretación extensiva del texto de la Directiva que se aplica— es
+en efecto mantenible que, «cuando una persona es despedida por tener intención
+de someterse o haberse sometido a una operación de cambio de sexo, recibe un
+trato desfavorable frente a las personas del sexo a las que se consideraba que
+pertenecía antes de la citada operación», resultando así violado el principio de
+igualdad.
+
+247
+
+
+
+Con y tras lo cual puede seguir manteniéndose la sentencia en al pla­
+no general de la igualdad (ST § 18) y aún ascender a un nuevo y más elevado pla­
+no, porque.
+Tolerar tal discrim inación supondría atentar contra el respeto a la
+d ign idad y a la libertad a que esa persona tiene derecho y que el Tribunal de Ju s ­
+ticia debe proteger.
+Aunque brevísimo y ya llegando la sentencia a las postrimerías de
+su argumentación (ST § 22) este razonamiento no lo es a mayor abundamiento;
+no ya porque será impropio jugar obiter con derechos fundamentales en la evi­
+dente inteligencia del Tribunal superiores al de igualdad, sino porque sin él ca­
+recería la sentencia del poder de convicción del que precisa. A la postre, lo que
+el Tribunal nos dice oscuramente es que lo esencial es tratar a la persona como
+persona16, derecho supremo, esté o no expresamente declarado17.
+Con todo, el razonamiento concluye y en el último considerando
+(STS 24) el fallo reposa exclusivamente sobre el principio de igualdad, «de igual­
+dad de trato entre hombres y mujeres, en lo que se refiere... a las condiciones tra­
+bajo», único que la Directiva de cuya interpretación se trata lo consciente: «el apar­
+tado 1.a del artículo 5.a es contrario al despido de un transexual por un motivo
+relacionado con su cambio de sexo» (ST § 24; fallo).
+
+ST § 23 hace una importante salvedad, a saber, dejaría el despido de
+ser discriminatorio y por consiguiente no sería contrario al artículo 5.a. 1 de la Di­
+rectiva, «si... pudiera justificarse al amparo del apartado 2, del artículo 2.a» [de la
+propia Directiva].
+Dice así el artículo 2.a.2 de la Directiva 76/207:
+
+16 De alguna forma el argumento es que no ya se debe rechazar el tratamiento arbi­
+trario que deriva de la violación del principio de igualdad, sino impedir -que se sea
+tratado como n o d eb e s e r tratado u n s e r humano* (T.H. Hill, Jr., The M essage o f Affirm a tiv e A ction, en S. M. Chan, ed., -The Affirmative Action Debate-, Nueva York,
+1996, pág. 175; del original las cursivas).
+17 No entro aquí en el tema de los derechos fundamentales en el Derecho Comunita­
+rio, ni por tanto, en la discusión hoy en torno al artículo F.2 del Tratado de la Unión.
+
+248
+
+
+
+Artículo 2 . Q.2\
+
+«La presente directiva no obstará a la facultad que tienen los Estados miem­
+bros de excluir de su ámbito de aplicación las actividades profesionales y,
+en su caso, la formación que a ellas conduzca, para las cuales el sexo cons­
+tituye una condición determinante en relación de su naturaleza o de las con­
+diciones de su ejercicio».
+Conforme a este precepto, pues, no hay discriminación si no se em­
+plea a mujeres para un trabajo que es característico o, más que ésto, a lo que pu­
+diera objetarse que tiene una cierta connotación tradicional, si no se emplea a
+mujeres para un trabajo que «por su naturaleza o... su ejercicio» pide precisamente
+in trabajador varón.
+O viceversa.
+Lo que ocurre es que estos trabajos por su naturaleza masculinos o
+femeninos, apenas puede decirse que existan hoy, al borrarse de los ordena­
+mientos jurídicos las que en el español — Estatuto de los Trabajadores artículo
+17.1— se denominan «discriminaciones fa v o ra b les [antes protectoras] o adversas
+en el empleo... por circunstancias de sexo», regla que básicamente refiere al se­
+xo femenino, históricamente discriminado18, pero que en su generalidad es extensible a ambos sexos.
+Quizá el único o uno de los muy pocos trabajos que por «las condi­
+ciones de su ejercicio» excluye a las mujeres es el de interior en las minas y aún
+con todo, una extremadamente desafortunada sentencia del Tribunal Constitu­
+cional19 y una no menos desafortunada denuncia por nuestro país del artículo
+8.Q4.¿>) de la Carta Social Europea de 1961, que España había ratificado en 198020,
+
+18 Alguna referencia habría de hacerse aquí a las sentencias del Tribunal Constitu­
+cional que hemos agrupado bajo las rúbricas -Varón discriminado» y «Viudo discri­
+minado» para significar que se pretendió aplicar el principio de igualdad del artí­
+culo 14 de la Constitución extendiendo a los hombres normas protectoras de la
+mujer.
+Remitimos al respecto a las sentencias reseñadas en las entradas *V iudedad... dis­
+criminación por razón de sexo» y "D iscrim inación... discriminación del varón... viu­
+do discriminado», en los índices refundidos, tomos I a X, de M. Alonso Olea Ju ris­
+p r u d en cia C on stitu cion al so b re Trabajo y S egu ridad Social, Madrid, Civitas, 1994.
+19 Sentencia 229/1992, de 14 de diciembre, comentada en Ju risp ru d en cia C onstitu­
+cio n a l so b re Trabajo y S egu n d a d S ocial (tomo X, ref. 684).
+20 Al respecto, Alonso Olea-Casas Baamonde, D erecho d el Trabajo, 15.a ed., Madrid,
+1997, págs. 115-118, en especial, notas 4 y 5.
+
+249
+
+
+
+declararon que discriminaba contra la mujer prohibir para ellas este tipo de tra­
+bajo; apartándose en esto del Derecho comparado más próximo. Y aún más le­
+jano; digo esto último porque recibí de mi colega la Prof.a Zhen Ai-Ging de la
+Universidad de Pekín (hoy Beijing) la Ley de Contrato de Trabajo china, que en­
+tró en vigor en 1 de enero de 1995 (Orden del Presidente de la República Popu­
+lar de China n.e 28. Ley de Trabajo de la República Popular de China aprobada
+en la 8.a Reunión del Comité Permanente del 8.s. Congreso Nacional del Pueblo
+de la República de China el 5 de julio de 1994... que entrará en vigor el 1 de ene­
+ro de 1995); una ley breve, lo que no obsta para que dedique uno de sus artícu­
+los, el 59, para prohibir expresamente el trabajo de las mujeres en el interior de
+las minas21.
+La digresión esta aparte, son hoy extremadamente anómalos los tra­
+bajos exclusivamente masculinos o femeninos22.
+Situemos al transexual en el contexto del transcrito artículo 22 de la
+Directiva.
+Para su caso, la conclusión sería que en principio son discriminato­
+rias las decisiones — el despido en el caso de la sentencia que se comenta— que
+se basen en la «reasignación de sexo». Es decir, que es discriminatoria una deci­
+sión que, por la sola circunstancia de la reasignación, perjudique o empeore la
+situación de quien teniendo las características externas propias del hombre, pa­
+sa a tener las de la mujer, o viceversa.
+Si nos fijamos de nuevo en la reserva contenida en el § 2 de la sen­
+tencia, lo que en ella se nos dice, precisamente para el caso de la transexualidad,
+que está juzgando, es que en la «reasignación de sexo» puede haber «condición
+determinante en relación de su naturaleza o de las condiciones de su ejercicio
+que hagan no discriminatorio lo que en principio lo es».
+Pero el propio ST § 23 nos instruye que en el caso «ningún elemen­
+to de los autos permite suponer que ello suceda». Lo que si no exactamente es
+un hecho probado positivamente, si es en el caso un hecho admitido, en el sen­
+tido de no haber habido alegación en contrario.
+
+21 Manejo la edición inglesa que me envió la Prof.a Zhen Ai-ging. El texto, en un in­
+glés peculiar, dice:
+
+■It isp roh ib ited to a rra n g efem a le workers to en g a n g e in work dow n th ep it o f m ines-.
+R everse D iscrim ination, en Afir-
+
+22 Para una demostración pugnaz de esto S. Hook,
+m ative A ction..., cit., págs. 145-152.
+
+250
+
+
+
+Repárese que la cuestión tal y como la planteó el Tribunal Industrial,
+no se refería para nada al tipo de trabajo que se estaba realizando, sino que en
+él se habló genéricamente del «despido de un transexual por motivo relacionado
+con la reasignación de sexo (AG § 10; ST § 7). Con estas premisas, hay que en­
+tender que efectivamente el transexual ha sido discriminado q u a transexual, en
+virtud de su apariencia sexual, mudada por la «reasignación».
+Por lo que hay que preguntarse entonces es a qué viene la reserva
+de ST § 23. Se puede aventurar que siendo la «parte demandante... Administra­
+dora de un centro docente», tenida por y vestida como hombre, que después de­
+be aparecer con atributos de mujer y vestida con mujer, esto puede causar un im­
+pacto en la población estudiantil.
+Pero si al Tribunal no le consta que este impacto existiera — «ningún
+elemento de los autos permite suponedlo]» (ST § 23) menos le puede constar al
+intérprete.
+Habría de indagarse en qué consistía exactamente el cargo de «administrador/a» {m a n a g er &n la versión inglesa de AG § 5); si tenía relación direc­
+ta con los estudiantes, y si las había tenido ya en el caso; y características, tales
+como la composición, o las edades del censo estudiantil del «centro docente» que
+se administraba y si se daban y a quienes, clases «de aula».
+
+Volvamos al comienzo y convengamos de nuevo con el Abogado Ge­
+neral (AG 9) en las muchas dificultades del caso, no obstante las cuales su reali­
+dad hace inevitable enfrentarse con ellas; solo que añadiendo ahora que las difi­
+cultades son más aún de las enfrentó la sentencia; y repárase, decíamos, que las
+dificultades sobre las que se decide, y estas más entrevistas, con ser muchas, no
+son las mayores de entre las que la transexualidad plantea, especialmente la de
+los del «grupo bien determinado y definible» formado por quienes se han some­
+tido a la operación quirúrgica de «reasignación».
+Las dificultades mayores dicen por supuesto, de su vida futura per­
+sonal y familiar, tan distinta según el sexo que se asigne en vitud de la «reasigna­
+ción» y precisamente por formar el grupo definible y determinado de los transexuales que, digamos socialmente, ya que no biológicamente, en su definición
+misma se apartan de la dicotomía tradicional varón-mujer. De ahí que los prece­
+dentes, señaladamente en nuestro país el significado por la sentencia del Tribunal
+Supremo de 2 de julio de 1987, se centren sobre la modificación en la inscripción
+
+251
+
+
+
+registral del nacimiento, con su asignación pública y formal de sexo de la cual se
+quieren hacer derivar efectos sustanciales para aquél a quien se reasigna.
+Pero todo ello exigiría un estudio en el que esta disertación delibe­
+radamente no entra y ello no porque «la argumentación exigiría un esfuerzo ma­
+yor del que merece su objeto» (Platón, Timeo, 38e), sino precisamente por lo con­
+trario, dadas las limitaciones de tiempo y, sobre todo, de las del disertante, por
+mucho que haya querido ilustrarse para eliminar algunas.
+Con todo, en vista de esta ilustración, cabría añadir lo que sigue:
+Sin pretensiones, ni siquiera al expresarlo, el sexo depende o está en
+los cromosomas (XX, mujer; XY varón). Aún en el supuesto extremo de la anomalía
+conocida como «síndrome de Morris» — del varón que no tiene receptores celulares
+de hormonas masculinas y cuyos caracteres sexuales, por ello, son femeninos desde
+su infancia— nos hallamos ante un varón, cromosómicamente XY23. El fenotipo fe­
+menino enmascara, por así decirlo, el genotipo masculino; y más que lo enmascara,
+porque quien padece el síndrome no puede tener hijos como varón ni como mujer.
+Enlaza esto también con pasajes importantes de la tan citada sen­
+tencia Rees que, interpretando el artículo 12 del Convenio Europeo de Derechos
+Humanos (celebrado en Roma en 1930 por el Consejo de Europa, cuyos Estados
+signatarios eran miembros del mismo; ratificado por España el 26 de septiembre
+de 1979 [BOE 10-10-19791), según el cual:
+«A partir de la edad nubil, el hombre y la mujer tienen derecho a casarse y
+a fundar una familia, según las leyes nacionales que rijan el ejercicio de ese
+derecho».
+Interpretando este artículo, digo, la sentencia Rees decidió que (§ 49):
+«El artículo 12, al garantizar el tradicional derecho de casarse, se refiere al
+matrimonio tradicional entre dos personas de distinto sexo biológico».
+
+23 En algún comentario de la sentencia que nos ocupa (L. Flynn, en «Common Market
+Law Rev.», vol. 34, núm. 2, 1997), sin que se aprecie claro si es parecer del comenta­
+rista o alegación del recurrente, se dice (pág. 368) que «aun siendo los cromosomas
+y gónadas [de P] los de un varón..., había nacido con un G ender Id en tity D isorder
+( “desorden de identidad sexual”, traducimos)... como resultado del cual tenía un ce­
+rebro hormonalmente feminizado»; si esto es posible y cierto, añade un dato fisioló­
+gico, digamos, a la transexualidad.
+
+252
+
+
+
+Decisión unánime del Tribunal en este respecto, y concordante tan­
+to con sus prcedentes24 como con la opinión unánime en el caso de la Comisión
+que, se nos dice en la sentencia (§ 53):
+“Llegópor unanimidad a la conclusión de que no se violó elprecepto invocado’,
+Esto es, no se violó el artículo 12 citado del Convenio por la decisión
+británica, de la que en definitiva se desprendía la prohibición de su matrimonio
+como hombre (que fue el «sexo reasignado» en el caso) porque, se concluye en un
+voto particular concurrente, «... un Estado... puede excluir del matrimonio a las
+personas cuyas características sexuales implican una incapacidad física para pro­
+cesar, bien absolu ta ( caso d el transexual), bien relativa en relación al sexo del
+otro contrayente (individuos del mismo sexo)», en cuanto se oponen «a la natura­
+leza del matrimonio y a su fin social» (§55. in fin e, mías las cursivas).
+Conclusión a la que también ha llegado el Tribunal Supremo: «los even­
+tuales matrimonios del individuo sujeto al cambio [de sexo] serán nulos»; «... en la
+actualidad y por virtud de lo dispuesto en el artículo 73.4.a del Código civil, tales
+matrimonios serían nulos»; «...tales matrimonios serían nulos por inexistentes, como
+se deduce de los artículos 44 y 73.4.a del Código Civil y 32.1 de la Constitución»25.
+En definitiva, pues, como se reseña, por un autor, aunque discre­
+pando de la conclusión26, «... el sexo biológico... [esto es, el cromosónico]... es el
+decisivo desde el punto de vista del derecho a contraer matrimonio».
+*
+
+24 Cossy versu s United Kingdom, conforme a la cual, así mismo, el derecho al matri­
+monio garantizado p o r el artículo 12, -se refiere al matrimonio tradicional entre dos
+personas de sexo biológico opuesto* (no he consultado este sentencia; tomo la ci­
+ta que aparece, con la autoridad de R. Navarro-Valls, en El D erecho a n te las u n io ­
+n es hom osex uales, -Aceprensa*, 153/96).
+25 Respectivamente, de las sentencias de 3 marzo 1989, co n sid era n d o 3.s; 15 de julio
+de 1988, co n sid era n d o 11.“; 19 de abril de 1991, co n sid era n d o 3.Q: La interpreta­
+ción, pues, no ya razonable sino única posible, del art. 32.1 de la constitución (*el
+hombre y la mujer tienen derecho a contraer matrimonio*) y del artículo 44 del Có­
+digo civil, del mismo literal tenor, es que el hombre y la mujer tienen derecho a
+contraer matrimonio en tre s í y solo en tre sí.
+Es de destacar que en las tres sentencias la reserva en cuanto al matrimonio se ha­
+ce pese a que en ellas, como en la de 1987, se autoriza el cambio resultante de la
+reasignación de sexo en la inscripción del nacimiento en el Registro Civil.
+26 J.M. Espinar Vicente: El m a trim on io y las fa m ilia s en e l sistem a esp a ñ o l d e D erecho
+in tern a cio n a l p riva d o, Madrid, 1996, pág. 28.
+
+253
+
+
+
+Pero una cosa es que no se pueda casar el transexual con persona
+de su mismo sexo biológico, pese a la «reasignación» de sexo contrario, y otra co­
+sa distinta es que se pueda despedir al transexual que tiene un sexo «reasignado»
+distinto del biológico. Con lo que Rees, del Tribunal Europeo de Derechos Hu­
+manos, y P. versus S. y Cornwall County Council, del Tribunal de Justicia de las
+Comunidades Europeas, no se oponen y aún entre sí son congruentes. De ahí que
+la segunda, la comentada, ya que no enteramente reposar, si pueda ampliamen­
+te descansar sobre la primera, como lo hace.
+
+254
+
+

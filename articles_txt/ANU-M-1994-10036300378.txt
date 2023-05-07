@@ -1,0 +1,659 @@
+CRITERIOS PARA LA REVISIÓN DE ALGUNOS
+PROGRAMAS DE PROTECCIÓN SOCIAL EN ESPAÑA
+por el Académico de Número
+Excmo. Sr. D. Julio
+
+S egura S ánchez *
+
+INTRODUCCION
+A lo largo de las dos últimas décadas, y desde muy distintas perspectivas que
+cubren el abanico que va de las posiciones neoliberales a las neomarxistas, el es­
+tado del bienestar ha sido objeto de un análisis fuertemente crítico.
+Frente al consenso entre socialdemócratas y conservadores sobre el tema, ca­
+racterístico de las décadas de los años 50 y 60, las criticas al estado del bienestar
+abarcan desde comienzos de los años 70 a multitud de aspectos de carácter po­
+lítico, social y económico, que han llegado a cuestionar, en parte, su función de
+legitimación política, el pacto social entre clases que subyace tras el mismo, el
+papel del sector público en las economías capitalistas desarrolladas, y un largo
+etcétera. Las críticas mencionadas han sido desarrolladas por autores muy diver­
+sos — que van de Buchanan y Nozik hasta O’Connor, Gaugh y Offe— , y aunque
+su contenido y propuestas de reforma son, como cabria esperar, dispares, apun­
+tan con frecuencia al mismo tipo de problemas.
+Simultáneamente, y desde una perspectiva más limitada a los efectos econó­
+micos del estado del bienestar, se ha señalado con reiteración la generación de
+incentivos negativos a la actividad de algunas prestaciones sociales; la existencia
+de un exceso de protección ante ciertas contingencias individuales; la tendencia
+incrementalista del gasto social que, en situaciones depresivas, agudiza los pro­
+
+* Sesión del día 19 de abril de 1994.
+
+
+
+blemas del equilibrio financiero público; el carácter redistribuidor no equitativo
+de algunos programas protectores; o la discutible eficacia con que se gestionan
+ciertas prestaciones.
+Una forma sintética de mostrar la evolución gradualista de los sistemas pro­
+tectores y la progresiva ampliación de sus objetivos, a veces contradictoria con
+el diseño inicial de los mismos, es comprobar la convergencia que se ha produ­
+cido entre los dos modelos originales de protección social.
+Como es bien sabido, el primero, llamado bism arkian o o continental, se ca­
+racterizaba por ser profesional: los colectivos protegidos pagaban contribuciones
+para poder hacer frente a contingencias concretas (sobre todo enfermedad y de­
+sempleo-jubilación, es decir, situaciones de inactividad laboral), siendo los be­
+neficios proporcionales a los ingresos obtenidos en situación de actividad nor­
+mal. El segundo, derivado del In form e Beveridge, y denominado con frecuencia
+anglosajón, era un sistema universal, financiado con cargo a impuestos no fina­
+listas, cuyos beneficios eran fijos e idénticos para todos los ciudadanos. En po­
+cas palabras, el primero era en lo esencial un sistema de seguro profesional y el
+segundo un programa de lucha contra la pobreza.
+Sin embargo, el desarrollo experimentado en las décadas de los años 50 y 60
+hizo que la separación de ambos sistemas se diluyera, hasta el punto de que hoy
+en día todos los sistemas son mixtos. Los continentales han recurrido en forma
+creciente a la financiación genérica ante la insuficiencia de las cuotas, y han unl­
+versalizado muchas prestaciones. Los sistemas anglosajones, por su parte, han
+tendido a pagar beneficios proporcionales a los ingresos mantenidos en situación
+de actividad normal, han eliminado el requisito de necesidad (la prueba de in­
+gresos insuficientes) para ciertas prestaciones e, incluso, han instituido el pago
+de cuotas para determinadas contingencias.
+En suma, y con independencia de la valoración que pueda hacerse de este pro­
+ceso de convergencia, lo cierto es que los diseños iniciales se han desvirtuado, pro­
+duciéndose una amalgama, por una parte, entre enfoques universales/profesionales
+y por otra entre objetivos de seguro/lucha contra la pobreza, que han alterado sen­
+siblemente los objetivos y el contenido redistribuidor de las prestaciones sociales.
+Pese a que el debate ha sido dilatado en el tiempo, y con frecuencia rispido
+en su contenido, debido a que en el fondo se plantean visiones difíciles de re­
+conciliar sobre el equilibrio entre la economía social y el mercado, las modifica­
+ciones prácticas que han experimentado los sistemas protectores de los países oc­
+cidentales han sido muy modestas, orientándose básicamente en tres líneas que
+tratan de hacer frente, sobre todo, al incrementalismo progresivo de los gastos
+públicos. Estas tres lineas son:
+1.a La obtención de recursos adicionales para financiar los programas pro­
+tectores, tales como los aumentos de cuotas o tipos impositivos, la creación de
+
+364
+
+
+
+algunas figuras fiscales finalistas, el pago parcial por el usuario de ciertas presta­
+ciones o el aumento de la contribución individual ya existente, y el gravamen de
+algunos beneficios sociales antes libres de impuestos.
+2.
+a El endurecimiento de los requisitos para acceder a ciertas prestaciones,
+tales como el aumento de los períodos mínimos de cotización, la exigencia de
+demostración de ingresos insuficientes, o la prohibición de acumular varios tipos
+de beneficios si con ello se supera un cierto valor umbral de ingresos.
+3.
+a Las reducciones de la cuantía y duración de algunos beneficios, tales co­
+mo acortamientos de los períodos del seguro de desempleo, limitaciones a los
+beneficios por incapacidad laboral, o eliminación de la indiciación con la infla­
+ción (o la renta) de ciertos beneficios.
+Por otra parte, los procesos de privatización han sido prácticamente inexis­
+tentes. Basta para comprobarlo observar la experiencia del Reino Unido bajo los
+Gobiernos conservadores de Thatcher, en que sólo se han privatizado las resi­
+dencias de ancianos y enfermos crónicos — es decir, aquellos aspectos de la pres­
+tación sanitaria que tienen mayor contenido de hostelería y menores requerimientos
+de equipamiento y especialistas médicos— y ciertos servicios auxiliares como el
+transporte, las cafeterías, o la limpieza en los hospitales y escuelas públicas.
+El resultado global de todo ello ha sido que, pese a las críticas y exigencias
+de recorte de los déficit públicos, en la década de los años 80 los gastos medios
+en protección social de la OCDE han aumentado en 1,5 puntos porcentuales del
+PIB (el gasto público total en 3,5 puntos), con comportamientos muy expansivos
+en Italia (7,9) y España (7,0); significativamente crecientes en Noruega (3,7), Ca­
+nadá (3,5), Francia (3,3) o Estados Unidos (3,2); más moderados en el Reino Uni­
+do (0,6); y contractivos sólo en Bélgica (-8,6), Irlanda (-6,6), Alemania antes de
+la reunificación (-2,6) y Suecia (-1,7).
+Como habrá podido observarse de esta relación por países, España es, tras
+Italia, la economía que en mayor medida ha expandido sus gastos sociales en la
+década de los años 80. Ello ha sido así en gran medida por la posición de parti­
+da, ya que en la década considerada en nuestro país se ha producido la univer­
+salización de la sanidad pública (por mandato constitucional), la gratuidad total
+de las enseñanzas primarias y medias, la creación de un sistema de pensiones no
+contributivas — complementado con programas de salario de inserción social en
+algunas Comunidades Autónomas— , el aumento en más de 35 puntos porcen­
+tuales de la cobertura de las percepciones por desempleo, y la indiciación con el
+IPC de la práctica totalidad de las prestaciones.
+Pese al considerable esfuerzo realizado, que presenta indudables aspectos po­
+sitivos desde el punto de vista de la equidad y la solidaridad, España aun se en­
+cuentra 4 puntos porcentuales del PIB por debajo de la media de los países de la
+Unión Europea — aunque el gradiente del gasto sea muy acusado— lo que, en
+365
+
+
+
+todo caso, muestra un déficit relativo de protección social. Pero precisamente es­
+ta combinación de factores — esfuerzo absoluto realizado, gradiente del gasto, e
+inicio de la consolidación del estado del bienestar— es lo que hace aun más im­
+portante en nuestro caso el análisis crítico de los programas protectores.
+Toda la evidencia comentada señala la dificultad política, social y técnica de
+introducir modificaciones radicales en los sistemas de protección social y la con­
+veniencia, por tanto, de examinar con cuidado cada uno de los distintos progra­
+mas, tratando de identificar los problemas más relevantes que, en su caso, pue­
+dan plantear, y de aportar soluciones parciales y factibles a los mismos. Este
+enfoque limitado y fraccionado es el que seguiré en mi exposición, pasando re­
+vista, con énfasis muy distinto, a los programas protectores básicos. En concreto,
+dedicaré pocas palabras al sistema educativo, las prestaciones por desempleo y
+la ayuda familiar, centrando mis comentarios sobre todo en los programas de pen­
+siones de jubilación y de salud.
+La elección es, por supuesto, arbitraria, pero sigue dos criterios. El primero es
+la importancia cuantitativa de los programas protectores: el sistema de pensiones
+se encuentra en nuestro país en torno a los 6 billones anuales de gasto, y el siste­
+ma nacional de salud ronda los 2,5 billones, representando entre ambos el 15% del
+PIB; mientras que el desempleo apenas sobrepasa los 1,5 billones en condiciones
+fuertemente depresivas, la educación — incluyendo investigación— supera leve­
+mente el billón y cuarto y la ayuda familiar apenas sobrepasa los 100.000 millones.
+El segundo criterio de selección me ha conducido a excluir aquellos programas so­
+bre los que existe un consenso social razonable (como la educación), o son muy
+complejos en la definición de sus instrumentos y se mezclan con consideraciones
+relativas a otras políticas (como la ayuda familiar y la política de familia).
+Existe un tercer criterio, aunque por su carácter pedagógico no sea relevante
+para el colectivo al que hoy me dirijo: el análisis de las pensiones y la sanidad
+permite ejemplificar, respectivamente, los límites de las acciones públicas en el
+campo de la protección social, y los límites de la iniciativa privada en la solución
+de este tipo de problemas.
+Terminaré esta introducción señalando las tres razones por las que creo que
+no es posible la llamada opción cero, es decir, congelar los programas en sus va­
+lores actuales de gasto, sin modificar en mayor o menor medida su forma de fi­
+nanciación, el tipo de beneficios que proporcionan y la eficacia de su gestión y
+provisión.
+La primera razón es empírica: no es posible, ni en España ni en ningún otro
+país, fijar unos topes rígidos al máximo gasto efectivo anual de algunos progra­
+mas. Una vez definidas las prestaciones y las condiciones de acceso a los bene­
+ficios, el gasto es el resultado de cómo evolucione la situación económica y de
+los comportamientos individuales. Esto es algo obvio en el caso de la prestación
+366
+
+
+
+por desempleo, pero también sucede en educación — por variación en las co­
+hortes poblacionales— , en sanidad — por aparición de nuevas enfermedades— ,
+o en programas de lucha contra la pobreza — por la incorporación progresiva de
+nuevos colectivos.
+La segunda razón es de carácter lógico. Si la reducción del déficit presupues­
+tario constituye una prioridad básica de la política económica, no plantearse la
+reforma de los programas de protección social conducirá, antes o después, a una
+solución ‘quirúrgica’, es decir, a su reducción por razones del gasto. Un recorte
+de estos programas derivado exclusivamente de las limitaciones presupuestarias
+puede desvirtuar el objetivo perseguido por los mismos.
+La tercera razón es de solidaridad. En la medida en que la opción cero ter­
+mina implicando el recurso al déficit público, se produce una creciente insolida­
+ridad intergeneracional. En la medida en que no se reforme el sistema, una po­
+sibilidad de mantener la restricción presupuestaria es congelar los beneficios y
+sus perceptores. Pero esta es una solución insolidaria con las nuevas formas de
+pobreza y marginación social, o con las nuevas enfermedades o necesidades edu­
+cativas que aparezcan en el futuro.
+
+COMENTARIOS MARGINALES SOBRE DESEMPLEO, EDUCACION
+Y AYUDA FAMILIAR
+Pese a ocuparme con mayor detalle de los programas sanitario y de pensio­
+nes, haré algunos breves comentarios sobre las prestaciones por desempleo, el
+sistema educativo y la ayuda familiar.
+Respecto a las prestacion es p o r desempleo, la propuesta más radical de cambio
+es la que sugiere sustituir el principio de universalidad por el de necesidad. No
+creo, sin embargo, que dicha alternativa sea posible en nuestro caso, por dos ra­
+zones. La primera es que, al menos en teoría, el seguro de desempleo es de carác­
+ter contributivo, por lo que el pago de cuotas genera derechos subjetivos exigibles
+ante los tribunales. Otra cosa es el subsidio, que es en sentido estricto un progra­
+ma de lucha contra la pobreza y que, por tanto, es un candidato idóneo al princi­
+pio de necesidad. Sin embargo, existe una dificultad importante para la aplicación
+del principio de necesidad en España: para que sea automática y no requiera un
+acto de voluntad expresa del beneficiario: la única información disponible es la fis­
+cal. Dado que el fraude en rentas de trabajo por cuenta ajena es muy moderado,
+pero en rentas de comerciantes, profesionales, autónomos, agricultores y rentas de
+capital es muy elevado, el sistema resultante sería notoriamente injusto.
+La percepción del subsidio previa demostración por parte del interesado de
+encontrarse por debajo de una línea definida de pobreza, plantea problemas de
+367
+
+
+
+rechazo individual que es preciso tener en cuenta. Y aun quedaría por resolver
+si la necesidad se define en función de los ingresos del individuo, de la unidad
+familiar o de la unidad efectiva de convivencia.
+Un segundo aspecto relativo a las prestaciones por desempleo es su impor­
+tante nivel de fra u d e, agravado por el fuerte aumento de la cobertura experi­
+mentado en el último lustro — que ha pasado del 30 por 100 a más del 70 por
+100. Aquí el tema principal es el de la d isp on ibilid ad del perceptor, tanto para
+comparecencias como para la realización de actividades formativas. Y, también
+para la realización de trabajos cuya rentabilidad de mercado es muy pequeña, pe­
+ro la social alta: actividades relacionadas con asistencia domiciliaria a ancianos,
+defensa del medio ambiente, acompañamiento de escolares, y un largo etcétera.
+Por último, una posibilidad de carácter más estratégico. No estoy nada segu­
+ro de que la percepción por adelantado en forma acumulada de la totalidad del
+seguro de desempleo condicionada a la creación de una actividad haya dado los
+resultados esperados. Sin embargo, sí merece la pena plantearse el hecho de que
+sí, por media, un parado cuesta el erario público un millón de pesetas, esta cuan­
+tía podría destinarse mejor a subvencionar la contratación de parados de larga
+duración por un período, por ejemplo, no inferior a dos años. Ello repercutiría
+tanto en una reducción de los costes por desempleo, al menos de igual cuantía a
+la de la subvención, y favorecería la creación de empleo (o, al menos, no la per­
+judicaría).
+Unas pocas palabras sobre el sistem a educativo. España goza de un más que
+aceptable consenso social en lo que se refiere al bloque de enseñanza obligato­
+ria y gratuita (enseñanzas primaria y media), por lo que sólo los dos extremos del
+sistema pueden presentar problemas: la enseñanza preescolar y la universitaria.
+Y, desde el punto de vista que nos ocupa, el tema crucial es el de la financiación.
+Mi posición sobre el tema es que el objetivo debería ser llegar a una situación en
+que la en señ an za p reescola r fu e r a gratu ita y la universitaria se fin a n c ia r a con
+cargo a l usuario en su p rá c tica totalidad.
+La gratuidad de la enseñanza preescolar se basa en el argumento de igualdad
+de oportunidades. Esta se gesta en los períodos iniciales de la vida de las perso­
+nas, donde el tipo de familia en que se nace, su nivel cultural y económico, con­
+diciona fuertemente el ejercicio efectivo de dicha igualdad. Además, la enseñan­
+za preescolar tiene un contenido de bien preferente o público significativo. Esto,
+sin embargo, no sucede con la enseñanza universitaria.
+Si existe de hecho igualdad real de oportunidades educativas desde el naci­
+miento hasta los 18 años, un razonable sistema de becas universitarias, cierta­
+mente menos costoso y más equitativo que el actual, permitiría mantener dicha
+igualdad. Las tasas académicas deberían acercarse a los costes efectivos de la en­
+señanza, ser distintas por centros y titulaciones para evitar las subvenciones cru­
+368
+
+
+
+zadas, penalizar a los malos alumnos y generar incentivos al escaso porcentaje
+de estudiantes que pueden considerarse ‘profesionales’ en las condiciones ac­
+tuales de nuestro país, donde un 30 por 100 de alumnos abandonan antes de ter­
+minar sus estudios superiores tras haber dilapidado cuantiosos recursos públicos,
+y sólo un 5 por 100 tiene expedientes medios de notable o superiores.
+Para terminar este recorrido telegráfico por los programas protectores que no
+constituyen el núcleo de esta exposición, unas reflexiones sobre la a y u d a f a m i ­
+liar. El problema fundamental se encuentra en que los ben eficios están defin idos
+en fu n c ió n d el tipo d e fa m ilia típica d e las d éc a d a s d e los a ñ os 5 0 y 60: pareja de
+duración indefinida, con un único perceptor de renta, mujer dedicada a la admi­
+nistración doméstica y cuidado de los hijos y una media de tres hijos, con obli­
+gaciones en ciertos casos respecto a los ascendientes de algún cónyuge.
+El proceso de incorporación de la mujer al trabajo, la normalización del fe­
+nómeno del divorcio y el aumento de su número, el crecimiento de la vida en
+pareja no matrimonial y del número de familias monoparentales, ha hecho ob­
+soleto el sistema protector existente. Los temas centrales son, en suma, cómo ha­
+cer frente a las necesidades generadas por un número creciente de mujeres in­
+corporadas tardíamente — en términos de su historia contributiva— al mercado
+de trabajo; el tratamiento de la interrupción de las carreras profesionales por cui­
+dados familiares (no sólo hijos, sino también ancianos y disminuidos); y, por úl­
+timo, la protección de familias monoparentales que no perciben pensiones por
+alimentos.
+El tema es poco relevante desde el punto de vista cuantitativo en los Presu­
+puestos actuales, pero si se tiene en cuenta que los sistemas de protección "du­
+ra» sólo son accesibles desde el mercado de trabajo, no estaría de más apuntar en
+la agenda de cualquier Gobierno sensato una modificación sustancial de los ob­
+jetivos e instrumentos de la ayuda familiar en un marco integrado de programas
+protectores.
+
+EL SISTEMA DE PENSIONES
+Expresado en forma simplificada, el problema del sistema de pensiones es­
+pañol es que los objetivos fijados en 1973 implican un déficit público a todas lu­
+ces insostenible dada la evolución demográfica y económica. Por ello, en este ca­
+so, es preciso — en ausencia de una recuperación impensable, en mi opinión para
+siempre, de antiguos niveles de empleo— optar por una reducción neta de las
+cargas del sistema público de pensiones.
+Para analizar esta posibilidad, es conveniente separar con nitidez dos partes
+del sistema: la contributiva y la no contributiva. La segunda constituye un pro­
+369
+
+
+
+grama de lucha contra la pobreza encaminado a garantizar a todo ciudadano unos
+ingresos mínimos, cuya financiación ha de correr a cargo de los ingresos fiscales
+del Estado. Por tanto, nuestro interés se centra en el sistema contributivo.
+La primera pregunta que surge es: ¿por qué tiene el sector público que or­
+ganizar un sistema de pensiones contributivas obligatorio?. La contestación es
+muy simple: de no hacerlo así se plantearía un claro problema de riesgo moral
+que pondría en peligro las finanzas del Estado. La expectativa cierta de que nin­
+gún Gobierno dejará en la indigencia a los jubilados que no hayan querido o po­
+dido asegurar sus ingresos futuros, sobre todo si su número es elevado, condu­
+ciría a un aseguramiento subóptimo y a unos costes netos enormes para el erario
+público.
+En consecuencia, el objetivo de un sistema público de pensiones obligatorio
+y contributivo, no es redistribuir la renta entre generaciones o entre clases so­
+ciales, sino garantizar una cierta redistribución de la renta personal dentro del ci­
+clo vital de cada individuo. Si esto es así, cualquier reforma debe girar en torno
+a dos temas:
+(i) Aproximar la financiación del sistema a un modelo actuarialmente equi­
+librado, y
+(ii)
+
+Determinar qué tipo de beneficios debe proporcionar el sistema.
+
+Respecto al primer punto, existen dos modelos polares de financiación: el de
+reparto y el de capitalización. En el primero, las cuotas ingresadas hoy por los
+activos se utilizan para pagar las pensiones de los hoy jubilados. En el segundo
+las cuotas de cada individuo se acumulan en un fondo cuyos rendimientos tras
+la jubilación constituyen la pensión. No es difícil comprender el porqué de que
+los sistemas públicos de pensiones sigan, en todos los países, el modelo de re­
+parto. Un sistema que cuando la proporción cotizantes/beneficiarios se encuen­
+tra por encima de 2 es saneado, pero cuando cae hasta proporciones de 1,5 es
+fuertemente deficitario. Cabe, por supuesto, preguntarse por qué cuando el sis­
+tema arrojaba fuertes superávit no se utilizaron estos para constituir fondos que
+introdujeran elementos de capitalización, pero tiene poco interés en este tema
+evacuar responsabilidades políticas de hace décadas.
+Respecto al tema de los beneficios, dos son las preguntas clave. La primera,
+la cuantía de las pensiones que debe garantizar el sistema público: ¿proporcio­
+nales a los ingresos en activo?, ¿iguales para todos?, ¿mínimas?, ¿con máximo li­
+mitado?. La segunda es la relativa a los requisitos exigibles para ser beneficiario
+del sistema.
+Identificados los problemas, me atreveré a proponer las líneas básicas de un
+esquema de pensiones públicas articulado en cuatro niveles, que es una ligera
+variante del que propuse hace ya 7 años.
+370
+
+
+
+Nivel 1 (n o con trib u tivo)
+Todos los ciudadanos tienen derecho a una p en sión m ín im a como parte de
+un programa de lucha contra la pobreza. Su financiación correría a cargo de los
+ingresos generales del Estado y su percepción exigiría una prueba de ingresos in­
+suficientes.
+Nivel 2 (con trib u tiv o )
+Todo trabajador en activo pagaría una cuota sobre sus ingresos salariales cal­
+culada de forma tal que permitiera, como mínimo, financiar una p en sión b ásica
+tras, por ejemplo, 25-30 años de cotización.
+Nivel 3 (sem icon trib u tivo)
+Todo trabajador que cotizara menos de 25-30 años tendría garantizada la pen­
+sión mínima del Nivel 1, más una parte de la diferencia entre ésta y la básica en
+función de su historia como cotizante.
+Nivel 4 (p rivad o com p lem en tario)
+Un sistema desarrollado de fondos de pensiones privado regulado, con in­
+centivos fiscales que favorezcan más a los niveles inferiores de renta.
+Un sistema de este tipo se caracteriza porque el sector público gestiona sólo
+pensiones básicas, iguales para todos los ciudadanos y mayores que la mínima.
+¿Por qué iguales para todos?, ¿por qué básicas y no mínimas?, ¿por qué un nivel
+complementario privado?.
+Iguales para todos porque el objetivo que persigue el sistema público contri­
+butivo es garantizar una pensión suficiente para no generar incentivos a no aho­
+rrar (el problema de riesgo moral antes señalado). Para ello es preciso que la pen­
+sión básica sea superior a la que define la línea de pobreza, la mínima. Por último,
+podría defenderse la existencia de un nivel 5: un sistema complementario públi­
+co y voluntario. Mi opinión, sin embargo, es contraria a ello porque ni creo que
+sea una función del sector público ofrecer pensiones a la carta, ni se obtendría
+beneficio social alguno de la gestión pública del sistema complementario.
+Este esquema de propuesta plantea un problema típico de cualquier cambio
+de sistema: el tratamiento de las generaciones intermedias. Expresado en otros
+términos, mientras que los entrantes en el nuevo sistema van formando su fondo
+de pensiones público, es preciso seguir pagando las pensiones vivas. Esto re­
+quiere un conjunto de medidas diversas que pudieran aliviar la carga del perío­
+do transitorio, entre las cuales cabe mencionar:
+371
+
+
+
+— Retrasos de la edad de jubilación.
+— La posibilidad de, a partir de cierta edad, mantener situaciones mixtas de
+pensión parcial y salario parcial.
+— La congelación durante cierto tiempo de las cuotas en sus niveles actua­
+les, más que suficientes para garantizar pensiones básicas, aunque no propor­
+cionales a los ingresos en activo.
+— La posibilidad de que las contribuciones individuales tuvieran un compo­
+nente de progresividad, en el sentido de que los salarios más altos estuvieran gra­
+vados con cuotas que, capitalizadas, permitieran pagar pensiones superiores a la
+básica.
+Un último problema se relaciona con el hecho de que los fondos privados de
+pensiones no permiten defender el poder adquisitivo ante inflaciones no espe­
+radas una vez que se ha empezado a percibir la pensión. Un problema que tam­
+bién presenta un sistema público no indiciado con el IPC.
+La propuesta comentada no es compatible con que la pensión básica se en­
+cuentre indiciada con la inflación realmente experimentada, aunque sí con la que
+se considere como ‘normal’ o ‘media’. Esto implica que las cuotas deben calcu­
+larse en función de una pensión básica de poder adquisitivo constante para una
+tasa media dada de inflación, que existen posibilidades de ajuste a inflaciones
+medias no previstas durante el período de cotización (mediante el cambio en las
+cuotas), pero que el ajuste no es posible una vez iniciada la percepción de la pen­
+sión. Esto también tiene un aspecto positivo: hacer más sensibles a los pensio­
+nistas respecto a la conveniencia de una economía que trate de defender el po­
+der adquisitivo luchando contra la inflación y no indiciando las rentas nominales
+a posteriori.
+Unos comentarios finales sobre el concepto de pensión mínima. Creo que uno
+de los objetivos esenciales del estado del bienestar es la lu ch a con tra la p o b rez a
+en el sentido pasivo de garantizar ingresos de supervivencia a todos los ciuda­
+danos de un país (y en el activo también, pero este es otro problema externo al
+estado del bienestar). En primer lugar, porque cualquier sociedad desarrollada
+debe perseguir esta finalidad. En segundo lugar, por el carácter claramente re­
+distribuidor de rentas de esta actividad que garantiza el mismo en el sentido ade­
+cuado — de ricos a pobres— y no en el menos defendible de redistribución en­
+tre clases medias. Pero el objetivo señalado tiene un ámbito muy limitado: evitar
+situaciones de pobreza extrema. Por ello, la definición de pensión mínima, que
+es en esta concepción realmente un sistema de ingreso mínimo garantizado, de­
+be lograr que el individuo no caiga por debajo de una línea de pobreza, no que
+la supere con amplitud, y ello exige:
+(i) Una definición estricta de pobreza, a actualizar con un índice de inflación
+adecuado, que refleje la estructura de consumo de las decilas inferiores de renta.
+372
+
+
+
+(ii) El cómputo dentro de esta pensión mínima de cualquier beneficio per­
+cibido por el individuo, tanto en metálico como en especie, de otros programas
+protectores, y otras rentas.
+(iii) La petición expresa del interesado que incluya la prueba de que sus in­
+gresos no alcanzan el mínimo.
+Creo que un sistema de estas características cumpliría, con la mayor econo­
+mía de recursos financieros y de gestión, los objetivos de un sistema de pensio­
+nes: evitar las situaciones de pobreza extrema; redistribuir los ingresos indivi­
+duales dentro del ciclo vital en la cuantía precisa para evitar comportamientos
+estratégicos de los ciudadanos; y fomentar decisiones responsables de ahorro, di­
+ficultadas por la expectativa de que el sistema de pensiones garantiza unos in­
+gresos proporcionales a los obtenidos en el período activo relativamente autó­
+nomos respecto a la historia individual de cotización y a la tasa de inflación.
+
+EL SISTEMA NACIONAL DE LA SALUD
+Los Sistemas Nacionales de Salud (SNS) empezaron a crearse cuando el ac­
+ceso a la salud era poco costoso, sus efectos externos marginales muy positivos,
+y la medicina privada no era un negocio mas que para una parte insignificante
+de la población. En estas condiciones cualquier análisis coste-beneficio tenía que
+dar resultados muy halagüeños.
+Sin embargo, la progresiva universalización de los SNS, el fuerte progreso téc­
+nico — en parte redundante— en diagnóstico y prevención, el aumento de la de­
+manda de servicios de salud derivada del fuerte aumento de los niveles de renta
+en las décadas centrales de este siglo, y el propio éxito de los SNS disminuyen­
+do la tasa de morbilidad y aumentando la esperanza de vida de las poblaciones,
+han tendido a crear fuertes presiones sociales sobre el gasto público sanitario (el
+único, junto con la educación, que los ciudadanos se encuentran dispuestos a ex­
+pandir a costa de mayores impuestos), y han hecho que el mero mantenimiento
+de las prestaciones exija mayor gasto por unidad de producto.
+Además, el p rod u cto salu d es muy complejo (educación, prevención, vacu­
+nación, diagnóstico, curación o sostenimiento digno), los inputs numerosos y muy
+heterogéneos (servicios profesionales, medicación, equipamiento hospitalario,
+hostelería), y su gestión, por ello mismo, compleja.
+Se trata, en suma, de un programa de gasto muy importante, que se encuen­
+tra en nuestro país en período de consolidación (aunque la universalización sea
+ya un hecho), por lo que la garantía del objetivo de equidad y la mejora de su
+eficiencia son tareas de prioridad indiscutible.
+373
+
+
+
+Trataré, en consecuencia, los tres tipos de problemas básicos de un progra­
+ma de estas características: su financiación, su eficiencia y la provisión de los ser­
+vicios de salud.
+Me resulta fácil empezar con una afirmación en apariencia radical: el p rin c i­
+p io d e eq u id a d exige la fin a n c ia c ió n p ú b lica. El acceso a la salud es un derecho
+universal, y la existencia de una correlación negativa entre salud y nivel de ren­
+ta hace necesaria la financiación pública del SNS. Además, un sistema no públi­
+co daría lugar a un efecto redistribuidor regresivo habida cuenta del problema de
+selección adversa de riesgos inherentes a un SNS: la financiación privada se ha­
+ría cargo de los buenos riesgos, entendidos como procesos sanitarios de bajo cos­
+te en relación al resultado terapéutico, y la financiación pública tendría que ha­
+cerse cargo de los altos riesgos, es decir de las prestaciones de alto coste de los
+perceptores de rentas altas y de los servicios de los grupos de alto riesgo. Te­
+niendo en cuenta que, en España, el 4 por 100 de la población realiza casi el 50
+por 100 del gasto sanitario total, la importancia del fenómeno de selección ad­
+versa es difícil de exagerar.
+Por otra parte, este es el mecanismo que rige para el sistema educativo en su
+tramo obligatorio y gratuito universal, donde la financiación es pública, lo que
+no es óbice para que quienes no quieran obtener la provisión de servicios edu­
+cativos de centros públicos o privados concertados, recurran a la enseñanza pri­
+vada no subvencionada. Pero ello no les exime de contribuir, a través del pago
+de impuestos, a la financiación del sistema público universal y gratuito.
+La segunda hipótesis fundamental de mi análisis es que la eficien cia exige qu e
+la provisión no tenga lu gar p o r m edio d e m ercados desregulados. Esto se debe a
+la presencia en la prestación sanitaria tanto de comportamientos estratégicos co­
+mo de fallos de mercado.
+Como ejemplos de comportamientos estratégicos, que hacen que los equili­
+brios de mercado no sean competitivos, bastará con citar el de los facultativos
+que persiguen el mantenimiento de sus ingresos, el de las empresas suministra­
+doras de equipamiento hospitalario, o el de las multinacionales farmacéuticas.
+' to m o ejemplo de fallos de mercado, comentaré sólo uno de los varios exis­
+tentes: la información asimétrica. El demandante de servicios de salud tiene una
+información muy limitada frente al oferente de los mismos. Esto, unido al hecho
+de que la demanda se encuentra determinada por la oferta, hace del mercado li­
+bre un mecanismo de asignación ineficiente, y con problemas insolubles de fal­
+ta de calidad en el servicio.
+No obstante lo anterior, la ausencia total de mecanismos de competencia cons­
+tituye una fuente indeseable de ineficiencias en la provisión de los servicios de
+salud, por lo que lo crucial desde el punto de vista de una administración eficaz
+de los recursos públicos es la introducción de competencia en dicha prestación.
+374
+
+
+
+Esto no es sino la aplicación de un principio bien conocido de que, en presen­
+cia de fallos de mercado y/o comportamientos no competitivos de los agentes, el
+mercado desregulado no puede asignar de forma eficiente: lo importante es la
+competencia — que es un objetivo— y no el mercado — que es un instrumento.
+Por tanto el tem a central d e la gestión y provisión eficiente es cóm o introducir
+com petencia en la prestación d e los servicios d e la salud. Y para ello existen dos al­
+ternativas: la competencia entre aseguradoras y la creación de mercados internos.
+La com p eten cia entre aseg u rad oras — el sistema estadounidense— presenta
+diversos problemas que la convierten, en mi opinión, en una alternativa inade­
+cuada para introducir competencia en el sector. Esto no implica que no puedan
+existir aseguradoras privadas en dicho ámbito y que, incluso, algunas de ellas
+puedan ser objeto de regímenes de concierto con la sanidad pública en un mar­
+co de prestación regulada de servicios. Pero veamos por qué la competencia en­
+tre dichas aseguradoras no es una solución eficaz.
+Para que la provisión privada aumente la eficiencia de un bien de mérito fi­
+nanciado públicamente deben cumplirse cuatro características. Veamos como ello
+no es así en el caso de los servicios de salud:
+a) Los costes de transacción del sistema han de ser reducidos. La experien­
+cia del sistema de EE.ÚU con un 25 por 100 de gastos de administración frente a,
+por ejemplo, el 7 por 100 británico indican claramente que los costes de tran­
+sacción y de la monitorización de contratos son altos.
+b) El sector público debe recuperar una parte del excedente de los produc­
+tores. De nuevo la experiencia demuestra que en un bien como la salud, la po­
+sibilidad de traspasar a mayores cuotas cualesquiera ineficiencias del sistema, im­
+pide la apropiación pública de parte del excedente.
+c) Los proveedores han de ser diversos y, en particular, no coludir en sus
+ofertas, algo que se incumple en un mercado caracterizado por los comporta­
+mientos estratégicos de los agentes ya señalados.
+d) El sistema, en todo caso, ha de ser regulado, entendiendo como tal la de­
+finición y garantía de cumplimiento de unos estándares determinados de servicio
+y calidad de las prestaciones, y la cobertura de costes sólo eficientes. Este es un
+problema al que, en cualquier caso, tiene que hacer frente cualquier SNS y sobre
+el que haré algunos comentarios enseguida.
+Descartada por tanto la opción de mejorar la eficiencia del SNS por medio de
+la competencia entre aseguradoras, analicemos la propuesta de crea ción d e m er­
+cad os internos.
+La idea central de esta propuesta es que los centros de salud compitan entre
+sí en la captación de clientes, y que la financiación siga a estos últimos y no se
+dirija a priori al centro. Esto implica, en forma sintética que:
+375
+
+
+
+1) El SNS defina unos objetivos de cantidad y calidad en los servicios y con­
+trole su cumplimiento efectivo en los centros de salud.
+2) La gestión de los centros de salud sea discrecional, con responsabilidad
+de los gestores.
+3) Existan unos incentivos adecuados para los colectivos que participan en
+la prestación sanitaria.
+4)
+
+Los costes sean adecuados, y existan incentivos a su reducción.
+
+El primer punto — el mantenimiento de niveles de calidad y cobertura— , es
+característico de cualquier SNA, y es razonable pensar en que el control y eva­
+luación de los centros corriera a cargo de una Agencia Especializada indepen­
+diente del Ministerio de Sanidad y Consumo, como forma de evitar una excesiva
+proximidad entre regulador y regulado. Insisto en el hecho crucial de que con
+restricción presupuestaria efectiva e información asimétrica, se generan con faci­
+lidad situaciones en que se logra la cobertura exigida a costa de menor calidad
+en el servicio (un fenómeno obvio en la enseñanza).
+La gestión discrecional implica un cambio jurídico importante. Los centros de
+salud no deberían regirse por el Derecho Administrativo, ni estar gestionados por
+funcionarios inespecíficos que terminan convirtiéndose en meros sancionadores
+a posteriori de las decisiones que se generan en el centro, con capacidad como
+máximo meramente interventora. Han de ser profesionales de la gestión someti­
+dos a régimen laboral.
+Esto último se relaciona con el tercer punto: el sistema de incentivos. Este de­
+be ser consistente y, en el ámbito de la salud, existen muchas posibilidades de
+incentivos no directamente vinculados con los ingresos salariales: la estabilidad
+en el empleo de quienes son funcionarios, la promoción técnica, el tiempo de es­
+tudio, el acceso a tecnologías más modernas, etc.
+Por último, el tema de los costes es crucial: la eficiencia debe repercutir en el
+logro de los objetivos definidos por el SNS a los menores costes posibles. Esto
+plantea el tema del resarcimiento de los costes a los centros de salud, que no pue­
+de guiarse por el principio administrativo de recuperación de los costes sobre­
+venidos, sino que ha de tener un carácter modular. La determinación de módu­
+los adecuados es un aspecto técnico crucial del sistema porque la aplicación de
+módulos muy simples (v. gr: coste standard cama/día) desincentiva la aplicación
+de tratamientos potencialmente muy eficaces (v.gr: la cirugía ambulatoria, la asis­
+tencia domiciliaria). Pero este es un tema que tiene solución técnica.
+No puede terminarse el análisis de la eficiencia del SNS en España sin una re­
+ferencia explícita a los costes farm acéu ticos, que en la última década han creci­
+do a un ritmo anual el 16 por 100 y que, hoy día, representan el 20 por 100 del
+gasto sanitario total, frente al 12 por 100 de la media de los países de la OCDE.
+376
+
+
+
+La estructura media del precio de un producto farmacéutico es, en España, la
+siguiente: 58 por 100 la industria, 8 por 100 los mayoristas, 4 o 5 por 100 de IVA
+y 30 por 100 el margen de las oficinas de farmacia. Este último componente es
+revelador, máxime si se le compara con el 3 por 100 sueco o el 4 por 100 esta­
+dounidense. Por tanto, el núcleo del problema se encuentra en las oficinas de far­
+macia y, en segundo lugar, en la forma de recetar.
+Respecto a las oficinas de farmacia es obvio que se trata de un negocio ab­
+solutamente protegido: márgenes del 30 por 100 fijados por ley; imposibilidad de
+instalación a menos de 250 metros de otra oficina; horarios de apertura y cierre
+fijos; prohibición de venta de específicos en otros establecimientos; precios de
+venta fijos sin posibilidades de descuento; prohibición de servicio a domicilio;
+prohibición de guardias voluntarias.
+El argumento que sé utiliza para sostener tan prolija regulación y el margen
+del 30 por 100 es que así se garantiza la instalación de farmacias en núcleos de
+población que no superen los 1000 habitantes. Pero resulta injustificable que, pa­
+ra lograr este objetivo, haya que proteger a todo un sector comercial, garanti­
+zándole unos ingresos extra de monopolio que, en las estimaciones más recien­
+tes y moderadas, se sitúa en torno a los 160.000 millones de pesetas anuales. Este
+problema se puede resolver por medios mucho más económicos, como botiqui­
+nes ampliados municipales.
+La prohibición de venta de específicos en otros establecimientos comerciales
+se defiende argumentando que la garantía del producto requiere su despacho por
+un profesional cualificado. Pero la garantía de un específico la proporciona la ca­
+sa fabricante, la fecha de caducidad y, en su caso, las técnicas de conservación
+(no distintas de las del pescadero), y no el farmacéutico que, con frecuencia, no
+es quien expide las medicinas.
+Esta situación de negocio sobreprotegido se refleja en los precios de traspa­
+so de las farmacias (en media unos 100 millones en ciudades grandes, aparte el
+valor de los locales), que incorporan unas rentas monopólicas garantizadas. Por
+tanto, la primera línea de reforma tiene que venir de la liberalización d el com ercio
+a l p o r m en or d e p rodu ctos farm acéu ticos.
+El segundo y último aspecto que querría mencionar es el de la forma de re­
+cetar y de expedir las medicinas. Todos los antibióticos, las sulfamidas, los anti­
+piréticos, los antiistamínicos, sueros, y un largo etcétera, son idénticos desde el
+punto de vista terapéutico. ¿Por qué no se recetan genéricos y en la farmacia exis­
+te la obligación de servir el especifico más barato?. Los tratamientos por enfer­
+medades infecciosas más frecuentes suelen consistir en 21-24 pastillas (3 tomas
+diarias durante 7-8 días). Sin embargo, no es posible obtener 21 pastillas de un
+fármaco, porque los envases son, por ejemplo, de 12 o 36. Se financia con dine­
+ro público la adquisición de 36 unidades de las que se tiran un tercio o, lo que
+377
+
+
+
+es peor desde el punto de vista sanitario, se guardan para posteriores automedicaciones.
+Para terminar, una breve nota sobre fármacos y enfermedades. Un SNS fi­
+nanciado con dinero público no debe permitir adquirir cualquier fármaco, sino
+sólo aquellos que garantizan la mejor relación coste/rendimiento, y, por supues­
+to, no debe tolerar la compra de placebos. De ahí la necesidad de una lista res­
+tringida de fármacos recetables por el SNS.
+Un SNS debe cubrir las necesidades colectivas de salud (prevención, vacuna­
+ción, diagnóstico y tratamiento), pero existen afecciones que no constituyen en­
+fermedades en el sentido estricto de la palabra, o servicios que carece de senti­
+do financiar con dinero público. Una gripe (si no se pertenece a un grupo de alto
+riesgo), los dolores de cabeza, el estreñimiento, y un largo etcétera son moles­
+tias, no enfermedades, y reflejan un hecho natural que ningún SNS puede tratar
+de resolver: la distribución desigual de las dolencias entre los ciudadanos. De ahí
+la importancia de catálogos sensatos de prestaciones positivas garantizadas por
+un SNS.
+
+378
+
+

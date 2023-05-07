@@ -1,0 +1,455 @@
+CRECIMIENTO ECONÓMICO, DESIGUALDAD
+Y POBREZA
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+INTRODUCCIÓN
+Diseñar la política económica más adecuada para el logro de un determinado objetivo es, sin duda, una de las áreas de la Teoría Económica con mayor trascendencia social. El problema es siempre complejo, pues es preciso estimar las interrelaciones que existen entre los instrumentos disponibles así como la magnitud de
+sus posibles efectos sobre el objetivo escogido, para poder decidir cuáles son los instrumentos idóneos y la intensidad con que deben utilizarse. Y la elección previa de
+objetivo es crucial, puesto que la política económica que es óptima para el logro de
+un determinado fin, no lo será para conseguir un objetivo diferente.
+Pero ¿cuál debe ser el objetivo elegido? Habitualmente, la política económica se diseña alrededor de las perspectivas de crecimiento sostenido de un determinado país o área económica, y discrepancias en la tasa de crecimiento alcanzada,
+tan pequeñas que podrían explicarse por los niveles de precisión estadística con que
+se trabaja, son a menudo objeto de un encendido debate. Pero existen también instituciones internacionales, como el Banco Mundial o el Centro de Desarrollo de la
+OCDE, que tienen como objetivo potenciar el desarrollo económico y, concretamente, la lucha contra la pobreza. Parecen preocupaciones diferentes, y conviene
+preguntarse acerca de la posible sintonía o, en su caso, antagonismo, entre la persecución del crecimiento económico por un lado, y la eliminación de la pobreza, por
+otro. Este será el contenido de mi intervención.
+
+* Sesión del día 21 de junio de 2011.
+
+419
+
+
+
+Antes de comenzar, fijemos algunos criterios: me referiré como pobreza
+absoluta al número de ciudadanos que en un determinado país viven por debajo de
+un cierto umbral de renta, que el Banco Mundial suele fijar en 1$ ó 2$ por día, traducido a moneda y precios locales. Claramente, este concepto se refiere a la capacidad de satisfacer las necesidades mínimas de subsistencia. Por su parte, la pobreza
+relativa se mide a través del número de ciudadanos con renta inferior a un determinado umbral específico de cada país, como puede ser el 50% de su renta media. Por
+último, la intensidad de la pobreza se mide mediante la denominada “brecha de
+pobreza” (poverty gap), que tiene en cuenta no sólo la proporción de pobres, sino
+el grado en que lo son.
+En 1970, 1.400 millones de personas, casi un 40% de la población mundial,
+vivía bajo la línea de pobreza de 1$/día; en 1990, dicha tasa de pobreza se había
+reducido al 26% pero, debido al crecimiento poblacional, el número de pobres era
+el mismo. En el año 2000 la población mundial excedía de 6 mil millones de personas. Una de cada 5 personas, 1.200 millones, vivían con menos de 1$/día. La mitad
+de la población mundial, casi 3 mil millones de personas, vivía con menos de 2$ por
+día. En la OCDE, con 1.300 millones de personas, no había incidencia de pobreza
+absoluta.
+La desigualdad es un concepto diferente, pero relacionado con la pobreza,
+al que aludiré extensamente. Se refiere habitualmente a las diferencias de renta entre
+ciudadanos, y se mide mediante la comparación entre la renta percibida por determinados porcentajes de la población de mayor y menor renta: a modo de ejemplo,
+podría decirse que la renta del 10% de la población con mayor renta en un determinado país es 15 veces superior a la del 10% de la población con menor renta. Alternativamente, la desigualdad puede medirse a través de los índices de Gini o de Atkinson, que se basan en toda la distribución de la renta.
+En 2000, el 20% más rico recibía el 74% de la renta mundial, y el 2% más
+rico de la población mundial poseía la mitad de la riqueza mundial, mientras que el
+20% más pobre recibía únicamente el 2% de la renta. El Producto Interior Bruto de
+las 48 naciones más pobres, una cuarta parte de los países del mundo) es menor que
+la riqueza de las tres personas más ricas. Por mucho que sean conocidas, estas cifras
+revelan la tremenda magnitud del drama humano que se vive fuera del reducido
+núcleo de nuestras sociedades desarrolladas.
+Además, creo que el análisis y la evaluación de las implicaciones que tienen la pobreza y la desigualdad debe realizarse de manera diferenciada en tres tipos
+de países: las economías desarrolladas, las economías en desarrollo que presentan
+una evolución positiva de su renta media, y los países que forman lo que P. Collier
+denomina el Club de la Miseria (Bottom Billion), pues la incidencia de la pobreza
+absoluta y la gravedad de las implicaciones de las situaciones de desigualdad y
+
+420
+
+
+
+pobreza es muy distinta de uno a otro grupo. Es evidente que las consecuencias de
+tener una renta inferior a un 50% de la media nacional no son las mismas en países
+como EEUU o España que en países del África sub-Sahariana. Por otra parte, en los
+países de la OCDE no hay incidencia de pobreza absoluta, pero hay situaciones claras de desigualdad y pobreza relativa.
+En The Spirit Level, Richard Wilkinson y Kate Pickett, utilizan datos del
+Human Development Report de 2006, calculando las veces que la renta del 20% de
+ciudadanos de mayor renta excede de la del 20% de ciudadanos con menor renta.
+Entre los 23 países considerados, Singapur con 9,8 veces, EE.UU. con 8,2 veces y Portugal con 8,0 aparecen como los 3 países con mayor desigualdad, mientras que Japón
+con 3,8 veces, y Finlandia, Noruega, Suecia y Dinamarca, con niveles ligeramente
+más altos, aparecen como los países con menor desigualdad. En esta relación, España
+aparece en la zona media, con un índice de 5,4, similar al de Francia y Canadá.
+Establecidos estos conceptos básicos, volvamos a considerar los posibles
+objetivos de la política económica. Indudablemente, una rápida eliminación de la
+pobreza absoluta debe ser el objetivo prioritario de la economía del desarrollo. Para
+ello, está bastante establecido que el mejor mecanismo es un crecimiento económico robusto1 pues, dada una determinada distribución de la renta, la pobreza absoluta es consecuencia de una reducida renta media. Por su parte, la pobreza relativa
+está relacionada con la desigualdad en la distribución de la renta; su reducción es
+un objetivo menos urgente que la lucha contra la pobreza absoluta, pero es asimismo importante. De modo que los cambios en pobreza se producen, bien por
+variaciones en la renta media, o bien por cambios en la distribución de la renta y,
+por tanto, el verdadero reto en el diseño de la lucha contra la pobreza reside en
+entender las posibles interacciones entre crecimiento económico y distribución. En
+este análisis de relaciones entre crecimiento, desigualdad y pobreza, resaltaré lo que
+considero que son los tres resultados fundamentales, antes de analizar las propuestas de política económica apropiadas para la lucha contra la pobreza.
+
+EL EFECTO DEL CRECIMIENTO SOBRE LA DESIGUALDAD
+Parece razonable pensar que la preocupación última de un gobierno debe
+ser el bienestar de sus ciudadanos. Por consiguiente, si la política macroeconómica
+se define en torno a la tasa de crecimiento del Producto Interior Bruto es porque se
+considera que establecer el entorno que permita desarrollar las posibilidades de cre-
+
+1
+K. Deininger y L. Squire (197), “Economic Growth and Income Inequality: Reexamining the Links”, Finance
+and Development, march, 38-41. Dollar y Kraay (2002), “Growth is good for the poor”, Journal of Economic Growth,
+7:195-225. M. Ravallion (2001), “Growth, Inequality, and Poverty: Looking Beyond the Averages”, World Development,
+29 (11), 1803-15, Bourguignon (2004), “The poverty-growth-inequality triangle”, The World Bank, manuscrito.
+
+421
+
+
+
+cimiento de una economía y mantenerlas de manera estable es un buen modo de
+maximizar el bienestar. Y, sin embargo, la tasa de crecimiento del PIB, utilizada en
+la presentación y seguimiento de la política macroeconómica, proporciona una indicación muy incompleta de lo que sucede en el país, al no recoger el modo en que
+la renta generada por dicho crecimiento se distribuye entre la población.
+El crecimiento económico influye sobre la asignación de recursos entre sectores productivos, sobre los precios relativos de los bienes, sobre las remuneraciones que reciben los factores productivos (trabajo, capital físico, capital humano, tierra) y, por consiguiente, también sobre la distribución de la renta. Salvo que ésta
+creciera en la misma proporción para todos los ciudadanos, su distribución variará
+con el crecimiento, aunque es fácil imaginar circunstancias bajo las cuales dicho crecimiento pueda conducir tanto a una distribución de la renta más igualitaria como a
+una distribución más desigual. Cuál sea el sentido de tal efecto dependerá de muchos
+factores, como cuáles sean las fuentes del crecimiento, la participación de los factores en la generación de la renta, o el grado de concentración en la propiedad de los
+medios de producción y, en definitiva, de los mecanismos de distribución. Pero es
+claro que, si se persigue la reducción de la pobreza, el efecto que el crecimiento
+pueda tener sobre la distribución de la renta es un aspecto fundamental, por lo que
+también lo es entender los condicionantes del impacto redistributivo del crecimiento
+económico. Pasemos a analizar esta cuestión.
+Hasta hace no muchos años, la hipótesis de Kuznets (1955) y Lewis (1954)2
+era la ley más conocida acerca de dicho impacto redistributivo: en las fases iniciales
+de desarrollo se produce un trasvase de trabajadores desde sectores de baja productividad y baja desigualdad a sectores de alta productividad y desigualdad media, generándose así un aumento en la desigualdad global. Este proceso desaparece con el
+mayor desarrollo, por lo que incrementos adicionales de renta reducen entonces la
+desigualdad. El resultado final es que la desigualdad aumenta inicialmente con el desarrollo, reduciéndose posteriormente a partir de niveles suficientemente altos de renta.
+Pero, como explicó nuestro compañero Jaime Terceiro Lomba en su ponencia de 2006 en esta Academia (“Sobre la desigualdad”), contrariamente a los resultados obtenidos en los estudios iniciales, la evidencia empírica no ha sido favorable a
+esta hipótesis. Conviene hacer un paréntesis metodológico: Hay tres razones por las
+que puede no aparecer evidencia empírica acerca de una hipótesis de este tipo: una,
+que el efecto que se busca no exista prácticamente en ningún país; otra, que el efecto
+exista y sea del mismo signo en todos los países, pero siendo muy heterogéneo en
+
+2
+Kuznets, S. (1955), “Economic growth and income inequality”, American Economic Review, 45:1-28. Lewis,
+W.A. (1954), “Economic development with unlimited supplies of labour”, Manchester School of Economic and Social
+Studies, 22(2):139-91.
+
+422
+
+
+
+intensidad, su magnitud se mida con una precisión muy reducida; una tercera, que
+el efecto exista en unos países, mientras que en otros se produzca el efecto contrario, y la compensación de resultados puede generar un efecto estimado nulo, que
+puede conducir a interpretaciones equívocas. Lo que sugiere además que, como
+muestra un número creciente de trabajos, el análisis del desarrollo de cada país como
+un caso específico puede resultar más fructífero.
+Esta última interpretación es la que considero aplicable a la hipótesis de
+Kuznets-Lewis. La dificultad para detectar empíricamente un efecto del ritmo de crecimiento económico sobre la desigualdad no se debe a que dicho efecto no exista,
+sino a que es específico de las condiciones de cada país, como muestran los estudios de casos disponibles. A modo de ejemplo, Ferreira y Paes de Barros (1998) y
+Bourguignon, Ferreira y Lustig (2003) explican cómo el débil crecimiento en Brasil3
+durante el prolongado período desde 1976 a 1996 no tuvo grandes consecuencias
+negativas sobre la desigualdad debido a que una mayor escolarización, unida a un
+descenso en la tasa de natalidad, ambos con un efecto reductor de la desigualdad,
+compensaron el incremento en ésta que pudiera haberse derivado del débil crecimiento.
+Este es el primer resultado que quiero resaltar: el crecimiento económico
+tiene efectos prácticamente inevitables sobre la desigualdad, aunque el signo e intensidad de tales efectos dependen, por un lado, de la velocidad y de los aspectos
+estructurales del crecimiento y, muy en particular, del mecanismo distributivo dominante, que está determinado en buena medida por la calidad de las instituciones
+políticas y económicas. Pero, de acuerdo con la conceptualización de la dinámica institucional de Acemoglu, Johnson y Robinson (2005)4 las instituciones políticas y económicas son de naturaleza endógena, evolucionando en un proceso en el que las instituciones políticas de facto, o instituciones políticas informales, junto con los valores
+sociales vigentes, delimitan la estructura de las instituciones económicas; éstas, a su
+vez, influyen sobre el resultado económico y determinan la distribución de la renta,
+y el mecanismo distributivo determina la estructura futura de las instituciones políticas y los valores sociales dominantes.
+Precisamente la peculiaridad de efectos que el crecimiento económico
+tiene sobre la desigualdad sugiere que, si bien hay lugar para políticas intervencionistas que favorezcan un posible impacto redistributivo del crecimiento, a las que
+
+3
+Bourguignon, F., F. Ferreira y N. Lustig (2005), “The Microeconomics of Income Distribution Dynamics in
+East Asia and Latin America”, Washington, DC: The World Bank, así como la discussion general en Bourguignon, F.
+(2004),”The Effect of Economic Growth on Social Structures,” (The Handbook of Economic Growth, Aghion y Durlauf,
+editores, Amsterdam: Elsevier).
+4
+Acemoglu, D., S. Johnson y J.A. Robinson, 2005, “Institutions as a fundamental cause of long-run growth”,
+cap. 6 en Handbook of Economic Growth, vol. 1, Aghion y S.N. Durlauf editors, Elsevier.
+
+423
+
+
+
+luego me referiré, éstas deben ser diseñadas específicamente para cada caso, y no
+tiene sentido trasplantar políticas de un contexto económico institucional a otro
+muy diferente.
+
+EL EFECTO DE LA DESIGUALDAD SOBRE EL CRECIMIENTO
+A diferencia de la diversidad de efectos que el crecimiento puede tener
+sobre la desigualdad de la renta, parece claro que la desigualdad puede ser un freno
+al crecimiento económico, a través del deterioro institucional y de la ausencia de
+incentivos al esfuerzo. Hay varios canales a través de los cuales se produce este
+impacto.
+Una primera línea explicativa se basa en argumentos de calidad institucional. El crecimiento está determinado por la acumulación de distintos tipos de activos productivos, incluyendo capital físico y capital humano, y del conocimiento preciso para la producción. Los incentivos para poner en marcha tales procesos de
+acumulación, aprendizaje e innovación descansan en la capacidad de los ciudadanos de apropiarse privadamente del fruto de su esfuerzo y esta capacidad depende,
+a su vez, de las políticas impositivas y regulatorias y de la calidad de las instituciones económicas y políticas, en definitiva. La desigualdad contribuye al deterioro institucional, con instituciones políticas informales (de facto) deficientes. En tales sociedades, pequeños grupos acumulan un importante poder político que les permite
+hacer lobby proponiendo políticas que les benefician, pero que pueden ser dañinas
+para el resto de la economía y para el crecimiento, y su capacidad para bloquear
+cambios normativos que podrían contribuir a reducir significativamente la pobreza
+es enormemente contraproducente. El clientelismo político excluye entonces de la
+generación de rentas a una parte de la población, los no afines a la clase dirigente,
+que pueden tener mayor potencial de dinamismo. En estas sociedades con importantes conflictos distributivos se aplicarán políticas menos propensas a la apropiación
+privada y más favorables a la desviación de rentas (rent-seeking) por parte de los grupos afines al poder, con una menor protección de los derechos de propiedad, y con
+la natural consecuencia de una menor acumulación de activos y un menor crecimiento. En estas condiciones, plantearse “políticas de corrección de la desigualdad”
+para mejorar el crecimiento es un ejercicio académico fútil.
+Un segundo canal lo constituyen las imperfecciones en los mercados de
+capitales. Los individuos pobres no tienen las mismas oportunidades que los ricos
+porque no pueden permitirse los mismos niveles de educación, o porque no pueden acceder a los créditos que precisan para comenzar sus negocios, o al seguro que
+permita cubrir las posibles contingencias de una hipotética actividad productiva. La
+imperfección de los mercados puede venir en la forma de un mayor coste de acceso
+al crédito, o de mayores exigencias de colateral. Por este mecanismo, la asimetría
+
+424
+
+
+
+informativa característica de los mercados financieros hace que los países con mayor
+desigualdad y alta pobreza absoluta infrautilicen su potencial productivo y de crecimiento respecto de los países con un menor número de pobres o con una distribución de renta más igualitaria, pues préstamos que serían buenos no son concedidos,
+y los solicitantes continúan siendo más pobres de lo que podrían ser si el mercado
+de crédito hubiese funcionado correctamente. Este mecanismo no explica cómo se
+origina la desigualdad inicial, pero explica que la denominada “trampa de pobreza”
+o “poverty trap” pueda persistir durante mucho tiempo.
+Un tercer mecanismo surge como consecuencia de la ausencia de incentivos5, que ayuda a explicar cómo un nivel ”muy reducido” de desigualdad de rendimientos son contraproducentes para el crecimiento: por un lado, una distribución de
+renta artificialmente igualitaria, al imponer la igualdad de remuneración al esfuerzo
+(como se ha observado en economías de Europa del Este durante el régimen comunista) difiere de la distribución óptima, que se basa en valorar las diferencias de
+talento, mérito y esfuerzo y, por ello, inhibe el crecimiento al reducir los incentivos
+al esfuerzo y estimular un comportamiento de free-rider. Sin embargo, también existe
+evidencia empírica acerca de que una cierta desigualdad de rendimientos en la parte
+alta de la distribución de la renta, que refleje la capacidad de los potenciales inversores de apropiarse de la rentabilidad de sus proyectos de innovación, puede ser
+positiva para el crecimiento.
+Por último, los costes asociados a una elevada desigualdad pueden asimismo erosionar la cohesión social, pues al aumentar la brecha entre ricos y pobres,
+aumentan las actividades criminales e ilegales junto con los costes de transacción
+relativos a la seguridad en la actividad empresarial y al cumplimiento de los contratos. Una desigualdad elevada puede generar asimismo una mayor inestabilidad política, conduciendo a niveles de inversión subóptimos6. Adicionalmente, los niveles de
+violencia, generalmente más elevados en sociedades más desiguales7 (Latinamérica,
+África sub-Sahariana) y en regiones de rápido crecimiento (Europa del Este, Asia
+Central, Rusia) constituyen una carga social y económica que puede frenar el crecimiento, tanto por los recursos necesarios para su eliminación, como por la incertidumbre que generan acerca del respeto a los derechos de propiedad, entre otros
+aspectos.
+El segundo resultado que quiero resaltar es que el efecto negativo de la desigualdad sobre el crecimiento se debe a tres factores: a) la dificultad de acceso a los
+5
+F. Ferreira y M. Ravallion (2010), “Poverty and inequality: the global context”, cap. 24 en The Oxford
+Handbook of Economic Inequality.
+6
+G. Bertola (1993), “Factor shares and savings in endogenous growth”, American Economic Review,
+83:1184-98.
+7
+A. Alesina y R.R. Perotti (1996), “Income distribution, political instability, and investment”, European Economic Review, 40(6):1203-1228.
+
+425
+
+
+
+medios económicos que posibiliten el desarrollo; b) una excesiva igualdad de rendimientos del esfuerzo, y c) la naturaleza de las instituciones políticas y económicas.
+Así pues, las instituciones vigentes juegan un doble papel, condicionando tanto los
+efectos distributivos del crecimiento, como el freno que la desigualdad puede imponer sobre el crecimiento económico.
+
+CRECIMIENTO ECONÓMICO Y LUCHA CONTRA LA POBREZA
+Aun con todos los condicionantes que imponen los niveles de desigualdad, existe clara evidencia empírica acerca de que un crecimiento económico más
+rápido viene generalmente asociado con una mayor reducción de la pobreza. De
+hecho, es difícil encontrar países en los que la pobreza y la renta per cápita hayan
+crecido o decrecido simultáneamente durante periodos amplios de tiempo. ¿Pero
+qué grado de reducción de pobreza puede esperarse mediante un impulso al crecimiento? Las estimaciones disponibles sugieren que un 1% de incremento en renta o
+en el gasto en consumo en la población total reduce la proporción de personas
+viviendo por debajo del umbral de pobreza, en media, entre un 2% y un 3%, y este
+es un efecto notable8. Sin embargo, no es el único factor explicativo de las variaciones en pobreza pues, como muestra F. Borguignon (2003), el ritmo de crecimiento
+de una economía explica sólo un 26% de los descensos en el número de pobres,
+reflejando la existencia de otros factores determinantes relevantes, posiblemente las
+diferencias en calidad institucional.
+Esto explica que exista mucha heterogeneidad: unos países experimentan
+rachas de crecimiento elevado sin apenas reducción de pobreza, mientras otros han
+conseguido descensos en pobreza con un crecimiento limitado. El tercer resultado
+que quería destacar, se obtiene en el análisis comparado de los episodios de reducción de pobreza en una amplia muestra de países9 indica que la capacidad del crecimiento económico para reducir la pobreza es menor cuanto mayor sea el grado de
+desarrollo del país, y también cuanto mayor sea el nivel inicial de desigualdad pues,
+como ya he analizado, la desigualdad condiciona la distribución de los nuevos recursos. Pero existe un efecto adicional, pues como comenté al inicio, la desigualdad
+varía con el crecimiento, si bien en un sentido no unívocamente determinado; de
+modo que si el crecimiento económico genera desigualdad, entonces el efecto total
+del crecimiento sobre la pobreza será menor que el efecto parcial, que resultaría
+manteniendo constante la distribución de la renta. Si se produce un fuerte deterioro
+en desigualdad, la pobreza podría llegar a aumentar en respuesta al crecimiento eco-
+
+8
+M. Ravallion y S. Chen (1997), ‘What Can New Survey Data Tell Us about Recent Changes in Distribution
+and Poverty?’ World Bank Economic Review, 11/2:357-82.
+9
+F. Bourguignon (2003) [“The growth elasticity of poverty reduction”, en Inequality and Growth: Theory
+and policy implications, editado por T. Eicher y S. J. Turnovsky].
+
+426
+
+
+
+nómico. En definitiva, los cambios en desigualdad inducidos por el crecimiento,
+favorables o desfavorables, son totalmente relevantes en la lucha contra la pobreza.
+La desigualdad es éticamente cuestionable en sí misma, y como tal surge con
+frecuencia en los debates en esta Academia y, por sí solos, los aspectos éticos ya justificarían una intervención sobre el posible efecto redistributivo del crecimiento. Existe
+también una creciente inquietud entre los investigadores en ciencias sociales acerca
+de la desigualdad como fuente de problemas y conflictos sociales y económicos de
+muy diverso cariz, desde sanitarios a educativos y de seguridad, suficientes para justificar la lucha contra la desigualdad. En su libro The Spirit Level, Richard Wilkinson
+y Kate Pickett aportan evidencia empírica a este respecto, argumentando que la desigualdad dentro de un país está en la raíz de muchos males, desde la incidencia de
+enfermedades, a los malos resultados escolares, la violencia, la esperanza de vida, los
+embarazos de adolescentes, resultados educativos, consumo de drogas, etc., una
+visión que parece estar ganando en aceptación. Que la evidencia empírica en su libro
+provenga de economías desarrolladas (los países de la OCDE) o de los estados de
+EEUU, la hace aún más significativa, pues no cabe sino esperar que la influencia de
+la desigualdad como posible causa de tales problemas sea aún mayor en economías
+menos desarrolladas. Pero, desde la óptica de la lucha por la eliminación de la
+pobreza, los resultados que antes apunté confieren pleno sentido a dedicar esfuerzos en la reducción de la desigualdad, logrando lo que se conoce como un doble dividendo: en igualdad de condiciones, una menor desigualdad permite lograr un mayor
+crecimiento, y también que éste tenga un mayor impacto reductor de la pobreza.
+Al definir los elementos de la batalla para reducir la desigualdad, considero
+importantes los recientes enfoques que sugieren distinguir entre desigualdad de oportunidades, por un lado, y desigualdad en el rendimiento económico obtenido del
+esfuerzo, por otro. Discutir acerca de qué entendemos por igualdad de oportunidades podría llevarnos a un debate de enorme interés, pero muy lejos del objetivo de
+esta intervención, y de la capacidad de quien les habla. En un sentido ético o de justicia social, podríamos quizá vincular la igualdad de oportunidades a las “capacidades” definidas por Sen y Nussbaum10. Pero desde una perspectiva estrictamente económica, que es la que me orienta en esta intervención, cabe entender la igualdad de
+oportunidades en un triple plano: a) igualdad de acceso a la educación; b) igualdad
+en el acceso al crédito, y c) igualdad en el tratamiento de todos los ciudadanos por
+parte de la Administración, con un cumplimiento anónimo de las normas.
+
+10
+M.C. Nussbaum, (2011), “Creating capabilities: the human development approach”, The Belknap Press of
+Harvard University Press. A. Sen, (1999), Development as freedom, New York, Knopff. A. Sen, (2009), The idea of justice, Harvard University Press, Cambridge, MA. Según Nussbaum ((2011), p. 33), un orden político decente debe asegurar a todos sus ciudadanos al menos un nivel mínimo de diez capacidades centrales (en inglés): 1) Life, 2) Bodily
+health, 3) Bodily integrity, 4) Senses, imagination and thought, 5) Emotions, 6) Practical reason, 7) Affiliation, 8) Other
+species, 9) Play, 10) Control over one’s environment: a) Political, b) Material.
+
+427
+
+
+
+No cabe sino esperar que la desigualdad de oportunidades tenga un efecto
+negativo sobre el crecimiento; de hecho, ya comenté sobre las dificultades de acceso
+al crédito por parte de la población como un canal por el cual la desigualdad frena
+el crecimiento económico. Por otro lado, la desigualdad de rendimientos del esfuerzo
+puede tener una relación positiva o negativa con el crecimiento. En tal situación, la
+relación empírica entre desigualdad global y crecimiento es ambigua y puede resultar nula, en función de cuál de los dos componentes predomine en un país. Trabajar en aras de la igualdad de oportunidades es central en la lucha contra la pobreza,
+aunque se trate de un proceso lento, porque este tipo de desigualdad puede frenar
+el proceso de reformas que impulsa el crecimiento, mientras que las políticas contra la desigualdad de rendimientos suelen ser contraproducentes.
+
+IMPLICACIONES PARA LA POLÍTICA MACROECONÓMICA
+Desde la perspectiva de la política económica, ¿cómo debe establecerse la
+lucha contra la pobreza? En países donde hay una clase dominante próxima a los
+gobernantes, las instituciones políticas y económicas pondrán en marcha un mecanismo redistributivo deficiente, en el que la clase dirigente se apropiará de la renta
+generada con el crecimiento económico, y la reducción de la pobreza será mínima.
+Desafortunadamente, existe una notable correlación entre el grado de desigualdad
+y la existencia de tal clase dominante, por lo que los países con una mayor incidencia de pobreza absoluta son los que tienen mayores problemas institucionales para
+salir de tal situación. En estos casos, el crecimiento económico sólo reducirá la
+pobreza si el mecanismo distributivo de la renta es suficientemente equitativo, permitiendo el acceso de nuevos ciudadanos a las clases dirigentes y posibilitando con
+ello que sus valores sociales pasen a jugar un papel en el proceso de definición de
+las instituciones formales e informales. Por esto es necesario combinar políticas de
+crecimiento con políticas redistributivas que eliminen los posibles efectos negativos
+del crecimiento económico sobre la desigualdad.
+Desde la visión que he desarrollado, la lucha contra la pobreza requiere de
+una decidida actuación en tres áreas: 1) diseñando normas y políticas macroeconómicas adecuadas para impulsar el crecimiento; 2) impulsando la seguridad jurídica
+que posibilite el desarrollo económico, y 3) aliviando el efecto que sobre la desigualdad tiene el crecimiento mediante una mejoría en la igualdad de oportunidades.
+Examinemos los tres tipos de actuación.
+Como nos recuerda el profesor Carlos Sebastián en su excelente trabajo
+Instituciones y Economía realizado para la Fundación Areces11, la promulgación de
+11
+C. Sebastián (2008), “Calidad institucional y crecimiento económico”, cap. 1, en Sebastián, C., G. Serrano,
+J. Roca, y J. Osés, (2008), Economía e Instituciones, Fundación Ramón Areces.
+
+428
+
+
+
+normas que regulan la actividad de los agentes económicos puede estar justificada
+en muchos casos por la existencia de información imperfecta entre los participantes
+en distintos mercados, pero pueden resultar ineficientes para la inversión productiva
+y la innovación. Así, una deficiente regulación industrial puede potenciar situaciones de falta de competencia; el sistema impositivo puede condicionar negativamente
+las decisiones de inversión y el esfuerzo laboral, y la regulación del comercio exterior puede generar un excesivo proteccionismo o dificultar la competitividad exterior. Una correcta política macroeconómica acerca de la inflación, el endeudamiento,
+el tipo de cambio y los tipos de interés, debe evitar distorsiones macroeconómicas
+mediante las cuales los grupos dirigentes pueden desviar rentas a su favor12. Generalmente las normas de mala calidad, entorpecedoras del crecimiento, son consecuencia de intereses de grupos de poder político o económico, o del interés recaudatorio del propio Estado, quienes se benefician de las malas regulaciones. Tales
+distorsiones reducen el crecimiento económico pero, por otra parte, su eliminación
+no acelera el crecimiento. Y, como he podido mostrar en investigación realizada con
+C. Sebastián, para explicar las tasas de crecimiento observadas en países en desarrollo son más importantes los factores institucionales que los indicadores de las políticas macroeconómicas puestas en práctica.
+La segunda línea de actuaciones se refiere a mejorar la seguridad jurídica y
+a configurar una Administración de Justicia eficaz e independiente, y todo ello subordinado a los valores sociales y códigos de conducta que influyen en la aplicación
+e interpretación de las normas. Si se opta por luchar contra la pobreza mediante el
+crecimiento económico, se precisa generar actividad productiva. Pero las decisiones
+de creación de empresas, inversión, innovación y trabajo están condicionadas por las
+normas en vigor, por la seguridad que se perciba en dicho marco normativo, y por
+la confianza en poder disfrutar del fruto del esfuerzo, ya que la actividad empresarial y especialmente la innovación, son apuestas a futuro. Si los agentes perciben la
+posibilidad de obtener una rentabilidad mayor y menos incierta acercándose al poder
+cuando éste se ejerce de forma sesgada, y llevando a cabo actividades ineficientes
+o incluso actividades que no conllevan generación de rentas, preferirán hacerlo a
+acometer actividades innovadoras. Para evitarlo, es necesario que exista una cultura
+de cumplimiento de contratos y acuerdos, debido a que los incumplidores reciben
+la censura social y la acción correctiva de la justicia. No se puede esperar que aparezcan empresarios innovadores en equipos y procesos productivos, mejorando la
+productividad de los actuales procesos y abriendo nuevos mercados, si estos no confían en el cumplimiento de las leyes y de los contratos. Por la misma razón, la protección de los acreedores es fundamental para que se desarrollen unos mercados de
+capitales donde los empresarios puedan financiarse13.
+12
+D. Acemoglu, S. Johnson, J. Robinson y Y. Thaicharoen (2003), “Institutional causes, macroeconomic
+symptoms: volatility, crises and growth”, Journal of Monetary Economics, 50:49-123.
+13
+C. Sebastián (2008), op. cit., pp. 2 y 3.
+
+429
+
+
+
+La tercera línea de actuación se refiere a la búsqueda de la igualdad de
+oportunidades, que debe hacer posible el acceso de todos los ciudadanos al crédito
+y, con él, al sistema educativo y a las oportunidades de inversión y de creación de
+empresas y, para ello, los mecanismos redistributivos deben ser adecuados. Conviene resaltar que es la redistribución de riqueza, no la distribución de la renta lo que
+puede generar tal efecto positivo para el crecimiento. De hecho, transferencias de
+renta no finalistas pueden tener un efecto negativo sobre el crecimiento, al reducir
+la rentabilidad del capital físico y humano y desincentivar el ahorro y la inversión,
+lo que ha llevado a cuestionar algunos de los formatos tradicionales de la Ayuda al
+Desarrollo.
+Existen diversos sistemas adicionales que pueden favorecer la acumulación
+de activos productivos o de conocimiento y, con ello, la igualdad de oportunidades.
+Entre ellos, un cierto tipo de banca concentrada en la concesión de los denominados microcréditos puede tener un elevado impacto reductor de la pobreza. Otro
+mecanismo en esta dirección es la concesión de seguros frente a posibles fluctuaciones de renta, que eviten que en una situación económica desfavorable las familias
+precisen desahorrar o sacar a los hijos de la escuela para ponerlos a trabajar, a la vez
+que permitan asumir oportunidades productivas de autoempleo. Desde hace unos
+años viene creciendo asimismo la importancia de las llamadas transferencias
+inteligentes de renta (“smart transfers”) que incluyen algún elemento de condicionalidad, como el compromiso de asistencia de los niños a la escuela o las visitas al
+médico.
+Pero no conviene olvidar que, aunque determinadas políticas redistributivas pueden beneficiar a los pobres directa e indirectamente, lo harán solo si la redistribución no dificulta la inversión. Esto puede explicar que en el pasado, algunas
+políticas redistributivas hayan fracasado a menudo en su intento de beneficiar a los
+más pobres. Por ejemplo, la redistribución de la tierra entre campesinos pobres como
+se llevó a cabo en Perú, no trae como inevitable consecuencia ni el desarrollo económico ni la derrota de la pobreza. Debe garantizarse la difusión del ‘know how’
+empresarial. La pérdida del personal técnico y gerencial que laboraban en las haciendas más modernas fue, al convertirse en cooperativas de producción, una de las
+razones principales para que estas fracasaran. No hubo una política decidida de formación de cuadros técnicos que reemplazaran a los desplazados.
+La igualdad de oportunidades requiere asimismo eficacia y transparencia de
+las Administraciones públicas, evitando los sesgos en la aplicación de las normas, la
+venta de derechos públicos y licencias, el clientelismo político, y la intervención
+directa de los gobiernos. Es preciso que las normas se apliquen de manera anónima,
+que se cumplan sin distinción, y que la regulación no imponga restricciones innecesarias. Los sesgos se producen a favor de grupos o empresas ya establecidos, que
+gozan de relaciones especiales con los poderes públicos, por lo que entorpecen o
+
+430
+
+
+
+incluso impiden el desarrollo de emprendedores que pudieran dinamizar los mercados y los sectores productivos. También es precisa una eficiente dotación de capital
+público y una adecuada distribución territorial del mismo, así como una Administración Pública preparada, elementos estos que pueden ir en contra de los intereses de
+grupos afines al poder14.
+Cuando se buscan elementos concretos con los que configurar las políticas
+económicas en las tres líneas de actuación que he descrito: normas y políticas macroeconómicas adecuadas, seguridad jurídica e igualdad de oportunidades, se aprecia
+que la experiencia reciente de éxitos de crecimiento es tan diversa en cuanto a la
+base de políticas económicas que la sustenta, que no permite una simple caracterización de recomendaciones. Esta observación ha movido a investigadores de la Universidad de Harvard a puntualizar convincentemente la inefectividad de políticas
+excesivamente genéricas como las basadas en la triple recomendación de estabilizar,
+liberalizar y privatizar, que constituyeron el núcleo del denominado “consenso de
+Washington”, y que no han sido una garantía de éxito. Ni los países que las pusieron en marcha experimentaron un claro crecimiento, ni los países que crecieron significativamente habían aplicado este tipo de políticas.
+Por el contrario, estos investigadores enfatizan la conveniencia de centrarse en la capacidad de los países de alcanzar cuatro objetivos generales de política económica que podrían enmarcarse dentro de las tres líneas de actuación que
+he descrito15. Proponen asimismo que las estrategias de crecimiento sean diseñadas
+según el diagnóstico obtenido en el análisis de tres aspectos: a) la posible escasez
+de fondos para la inversión junto, posiblemente, con el alto coste del capital; b) una
+rentabilidad social a la inversión privada excesivamente reducida, y c) una rentabilidad social elevada, pero con dificultad para que los inversores privados hagan
+suya dicha rentabilidad. Una vez identificada cuál de las tres áreas plantea la restricción más severa, procede analizar cuáles son las causas de la misma. Si es el elevado coste doméstico del capital, puede deberse a un bajo nivel de ahorro doméstico, a una deficiente intermediación financiera, o una escasa integración en los
+mercados financieros internacionales; si se identificó el reducido rendimiento social
+como restricción más severa, podría deberse a una baja calidad del factor trabajo,
+a deficientes infraestructuras o a una difícil geografía; mientras que si el principal
+problema reside en la dificultad de apropiación de la rentabilidad de una inversión
+privada, ésta puede deberse a unos impuestos elevados, una alta corrupción, fuertes riesgos macroeconómicos, o a externalidades de mercado: información asimétrica, fallos de coordinación.
+
+C. Sebastián (2008), op. cit., p. 9.
+R. Hausmann, D. Rodrik y A. Velasco (2004), “Growth Diagnostics”, Harvard University, manuscrito, y
+D. Rodrik (2004) “Rethinking growth policies in the developing world”, manuscrito.
+14
+15
+
+431
+
+
+
+Tal descripción no hace sino ilustrar las limitaciones de los modelos económicos existentes, insuficientes para considerar tan amplia gama de posibilidades
+de actuación, y silenciosos en aspectos tan centrales como la calidad institucional o
+el nivel de seguridad jurídica. Los economistas tenemos por delante un difícil reto
+metodológico cuyas enormes implicaciones sociales deben constituir el estímulo preciso para acometerlo.
+
+432
+
+

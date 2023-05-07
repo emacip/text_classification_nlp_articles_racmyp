@@ -1,0 +1,796 @@
+LAS AYUDAS PÚBLICAS A LOS ESTABLECIMIENTOS
+DE CRÉDITO: UNA REACCIÓN DE LA COUR DE
+COMPTES FRANCESA
+Por el Académico de Número
+Excmo. Sr. D. Juan Velarde Fuertes*
+
+UN PRELUDIO OBLIGADO PARA ESPAÑOLES
+Dentro del ámbito de los Tribunales de Cuentas, no exactamente iguales,
+por supuesto, pero con un evidente parecido, como es, respecto al español, la Cour
+de Comptes francesa, ha surgido una novedad: de qué modo reaccionar ante las
+ayudas, ciertamente considerables, que el Sector Público ha tenido que conceder al
+sistema financiero, en Estados Unidos, en el Reino Unido, en Francia o en España,
+para que no se produjese su hundimiento, y uno derivado, por lógicos motivos sistémicos de toda la economía nacional de estos países. ¿De qué modo se vigila esto?
+¿Qué recomendaciones se derivan? El disponer del muy reciente documento francés
+—está fechado el 29 de junio de 2009— titulado Rapport Public. Les Concours publics
+aux etablissements de credit. Premièrs constats, premières recommandations, puede
+servir para aclarar cuestiones importantes relacionadas con la política a adoptar en
+relación con la actual crisis. Quizá tenga algún valor dentro de la serie de aportaciones que aquí han hecho nuestros compañeros, a partir del trabajo de Jaime Terceiro
+en 2003, sobre el nacimiento, evolución, tratamiento y salidas posibles de esta realidad tan preocupante. Soy consciente de la aridez de la exposición que sigue. Solo
+la justifica la importancia del problema.
+En primer lugar conviene ofrecer una exposición de lo que podría calificarse de prólogo obligado para españoles, con el fin de que se comprenda mejor el
+interés que para nuestra patria tiene este trabajo francés. Y todo debe iniciarse indi-
+
+* Sesión del día 6 de octubre de 2009.
+
+7
+
+
+
+cando que preludios siempre existen, pero realmente la crisis financiera hizo irrupción cuando un importante banco de inversión norteamericano, el Bear Stearns,
+señaló el 18 de julio de 2007 que pasaba a tener serios problemas de liquidez en dos
+fondos que estaban vinculados con apuestas fuertes en el mercado hipotecario de
+alto riesgo. El 31 de julio de 2007, esta situación se manifestaba en un tercer fondo
+también gestionado por Bear Stearns y, en esa misma fecha, por su excesiva exposición en el mercado inmobiliario de Estados Unidos, se supo que varios bancos alemanes experimentaban notables pérdidas.
+A partir de ese momento, la situación de crisis se amplió de modo tal que
+el 9 de agosto de 2009, el Banco Central Europeo inyectó en el mercado 94.841
+millones de euros y la Reserva Federal, 24 mil millones. El 13 de agosto de 2009, el
+Banco Central Europeo volvía a inyectar 65.000 millones de euros adicionales; la
+Reserva Federal, 2.000 millones de dólares, y el Banco Central de Japón, amplió
+notablemente sus desembolsos para su mercado financiero nacional. El 18 de diciembre de 2007, la Reserva Federal, el Banco de Inglaterra, el Banco Central Europeo,
+el Banco Nacional Suizo y el Banco de Canadá, hicieron público un plan para inyectar 100.000 millones de dólares en fondos de emergencia. Por otro lado, la Reserva
+Federal comenzó a reducir sus tipos de interés el 18 de septiembre de 2008, en un
+proceso que ha continuado hasta ahora. Las Bolsas se derrumbaron y, en todas partes los más importantes Gobiernos decidieron, para frenar de algún modo esta crisis
+galopante, que el Sector Público debería orientar su gasto público, en porcentajes significativos, a impedir un cataclismo en el Sistema financiero.
+Es evidente que, en estos momentos, aunque con menos gravedad que en
+la primera etapa de la crisis económica y que en otros países, a causa de las provisiones a que fue obligado, el sistema crediticio español se encuentra con problemas
+muy serios. Pero como dice José Pérez en su artículo Reflexiones sobre la crisis financiera y sus remedios, publicado en Perspectivas del Sistema Financiero, 2009, nº 95,
+“ello no aísla de las consecuencias del proceso, en la medida en que la conexión de
+la banca con los mercados ha ido creciendo en todo el mundo sin que nadie quede
+a salvo de las fluctuaciones financieras”. Hizo a nuestra Banca muy vulnerable la
+expansión de un sector —el de la construcción— que se ha visto que era excesiva,
+igual que el de las economías domésticas, basadas en gran medida en la abundancia
+de tipos de interés reales negativos. Como se indica en el libro de Joaquín Maudes
+Villarroya y Juan Fernández de Guevara Radoselovics, El sector bancario español en
+el contexto internacional. Evolución reciente y retos futuros (Fundación BBVA, 2008),
+“el crédito bancario relacionado con la vivienda (actividades inmobiliarias+construcción+crédito a los hogares para la adquisición de viviendas)... (suponía)
+en España el 59,5% del total de crédito concedido a otros sectores residentes, lo que
+supone un aumento de casi 20 puntos porcentuales respecto a 1997. En relación con
+los países de la Eurozona, España es, junto con Portugal, el país con una concentración más elevada en préstamos para la compra de viviendas, representando a fina-
+
+8
+
+
+
+les de 2007 en España el 21,1% del balance de las instituciones financieras monetarias, frente al 11,7% de la Eurozona”. Pero también el aumento de la morosidad; la
+necesidad de acudir a través del interbancario a fuentes de financiación cada vez más
+caras, del mercado de capitales o con la titulación de activos; una red de sucursales
+creciente y costosa; un uso muy limitado de los recursos TIC; unas mayores necesidades de recursos propios; la existencia de ciertas rentas monopolísticas que la globalización financiera va a destruir, llevaba a Maudes y Fernández de Guevara a sostener que no era conveniente “sobrevalorar la solidez y la fortaleza de la Banca
+española desde la amenaza” que se deriva del actual contexto de turbulencias financieras nacido tras la crisis de las subprime norteamericanas en el verano de 2007.
+Todos estos motivos los repetirá, actualizando algún dato, Joaquín Maudes en su
+artículo El sector bancario español en el entorno de crisis financiera internacional,
+aparecido en Economía Exterior, primavera 2009. No están muy lejos de las advertencias del Gobernador del Banco de España, Miguel Fernández Ordóñez, efectuadas el 11 de septiembre de 2009 en San Sebastián al clausurar el curso Crisis global:
+hacia un nuevo modelo económico y social, cuando señaló que en estos momentos
+se “plantean retos importantes a las entidades de crédito españolas, especialmente
+a aquellas que han desarrollado estrategias menos prudentes o han mostrado otras
+debilidades de gobierno interno”. Y estos desafíos son: “la presión sobre los márgenes” de beneficios; “el reto de la financiación”, porque “la excesiva dependencia de
+los mercados de capitales se ha revelado como una fuente de vulnerabilidad”; “el reto
+del capital”, que exige que las entidades reflexionen “sobre su capacidad de generar nuevos recursos propios de la máxima calidad de manera estable... y sobre las
+limitaciones que dicha capacidad impone al desarrollo de su negocio”; “el reto de la
+eficiencia” que obliga, entre otras cosas, a “reducir costes, mejorando o manteniendo
+a la vez la calidad de los servicios prestados”; la necesidad de abordar “la calidad de
+los activos”; finalmente, que no se debe “olvidar que un sistema financiero débil
+puede aumentar las restricciones en la oferta de crédito y dificultar las posibilidades
+de recuperación”. Añádase lo que también indicó Fernández Ordóñez en relación
+con las entidades bancarias que incluso no habían tenido” los problemas que se han
+observado en otros países”, al sostener “que serán necesarias nuevas estrategias para
+obtener rentabilidades que garanticen su futuro en el medio y largo plazo”, y desde
+luego, para las que tienen “mayores dificultades”, se ha creado el FROB. Me atrevo
+a decir que subyacen cosas parecidas en el importante trabajo, Central Banks: from
+politically independent to markert-dependent institutions, (Institute of Economic
+Affairs, 2009) de nuestro compañero Pedro Schwartz y de Juan Castañeda, con la
+sombra, detrás, de Hayek y su Denationalisation of Money (Institute of Economic
+Affairs, 1976) y de M. King, en su aportación Challenges for Monetary Policy: New and
+Old (http://www.bankofengland.co.uk/publications/speeches/1999/speech51.pdf).
+Todo esto debe ligarse al fuerte endeudamiento exterior español que en
+parte notable se había facilitado a través de un fácil crédito interbancario concedido
+por parte de establecimientos financieros extranjeros. Esto anestesiaba, de momento,
+
+9
+
+
+
+el que la expansión se hubiese desarrollado a causa del avance de sectores en los
+que la competencia extranjera no podía realizarse de ningún modo, o en sectores no
+competitivos, pero desde luego creó un déficit continuo y creciente en la balanza por
+cuenta corriente que, el Banco de España, de modo clarísimo en su Informe Anual
+2008, destaca cómo a nivel internacional, en relación con nuestras necesidades, se
+produjeron fenómenos de “endurecimiento de las condiciones de financiación, crisis de confianza, caída de la riqueza, descenso en los flujos comerciales”, con lo que
+se produjo una trasmisión de esto a la economía española sometida a las condiciones ya señaladas, que puede sintetizarse así: “En sus etapas iniciales, la prácticamente nula exposición directa e indirecta de las entidades de crédito españolas a las
+hipotecas de alto riesgo estadounidenses, junto con su favorable situación financiera,
+atenuó el impacto de estas perturbaciones sobre su posición patrimonial. A ello también contribuyó la dilatada vida media de la deuda viva emitida, que hizo que las
+necesidades de refinanciación fueran moderadas. No obstante, el bloqueo de los
+mercados de financiación mayoristas afectó de una manera creciente a los intermediarios españoles por su elevada dependencia del ahorro exterior, que hubieron de
+reaccionar sustituyendo las emisiones de valores a largo plazo por instrumentos a
+corto plazo y captando fondos en los mercados interbancarios, incluyendo el recurso
+del Eurosistema”. Precisamente, “ante el agregamiento de las tensiones financieras en
+los últimos meses de 2008, y el rápido deterioro de la actividad, el Gobierno se sumó
+a las políticas de estímulo de la demanda y de apoyo al sistema financiero... Con
+estos objetivos en el mes de octubre (de 2008) se elevó el umbral del Fondo de
+Garantía de Depósitos (y) se creó un fondo para la adquisición de activos financieros financiado por el Tesoro y se aprobó la concesión de garantías públicas a las emisiones de bonos de las entidades. También se abrió la posibilidad de que el Estado
+pudiera adquirir valores de renta variable, si en algún momento se juzgara necesario recurrir a este instrumento para capitalizar entidades. Más adelante, en la exposición citada, señaló Fernández Ordóñez que se creaba el FROB.
+En España, pues, a lo largo del periodo que ya transcurre de 2009, el problema de nuestro sistema financiero no es precisamente baladí. Lo exponía así José
+Manuel Campa en su artículo Un año sin liquidez —aparecido en El Mundo el 6 de
+julio de 2008— al señalar: “Se han hecho muchas analogías entre la situación actual
+y la experimentada el siglo pasado durante la Gran Depresión. Una de las grandes
+innovaciones en la teoría económica en aquel periodo fue la famosa trampa de la
+liquidez. Ahora estamos en otra de las trampas y, sin duda, la gran aportación de esta
+crisis a la Historia será la de cómo vivir en un mundo de liquidez restringida”. O
+como señala Javier Suárez en su artículo La gestión de los problemas de confianza en
+tiempos de crisis sistémica, aparecido en Perspectivas del Sistema Financiero nº 95, 2009,
+la actual crisis de liquidez “se caracteriza... por una súbita preferencia por lo que se
+ha venido a llamar atesoramiento de liquidez por parte de los anteriores proveedores netos de financiación en los mercados de deuda a corto plazo... De forma muy
+parecida a lo que ocurre con los depositantes presos de pánico en las descripciones
+
+10
+
+
+
+teóricas e históricas de los pánicos bancarios, los inversores con capacidades financieras de corto o más largo plazo dejaron de estar dispuestos a invertir en pasivos
+bancarios”. Y en este sentido es preciso tener en cuenta que en el artículo muy clásico de Douglas Diamond y Philip Dybig, Banks runs, deposit insurance, and liquidity, aparecido en el Journal of Political Economy en 1983, como sintetiza ahora Suárez “las expectativas destructivas que alimentan un pánico bancario tienen el
+potencial de autoconfirmarse, haciendo que el pánico sea compatible con la racionalidad del cálculo económico de los agentes involucrados”. O como completa Daniel
+Navia Simón en su artículo La gestión de la liquidez de las entidades financieras:
+una perspectiva tras la crisis de 2008, publicado en ese mismo número de Perspectivas del Sistema Financiero, “una pauta que se ha repetido a lo largo de la crisis ha
+sido el traslado de problemas de un mercado de financiación a otros segmentos,
+especialmente a los mercados interbancarios. De esta forma, los problemas de instituciones específicas se han trasladado a competidores con una situación en principio saludable. Se reúnen así dos condiciones relevantes que justificarían un mayor
+grado de intervención: carácter sistémico y riesgo elevado de contagio”.
+Casi simultáneamente, el 14 de junio de 2009, Luis de Guindos, también en
+El Mundo, y en relación muy concreta con esta cuestión, en el artículo Un fondo
+para reestructurar la banca, nos señalaba cómo el sistema crediticio español, con
+las previsiones que se podían hacer, de modo solvente, sobre la caída del PIB, el
+aumento del paro, la evolución del Euribor y la tasa de mora, “habría consumido la
+totalidad de la provisión anticíclica... Además se trata de una cifra media, alrededor
+de la cual puede existir bastante dispersión por instituciones”, aparte de que la caída
+del Euribor “se trasladará en toda su intensidad al activo que los Bancos en la
+segunda parte del año, y que, aunque supondrá un alivio importante para la evolución de la morosidad, sin embargo estrechará los márgenes bancarios notablemente
+en un entorno de contracción de la concesión de crédito y de continuación del ajuste
+del precio de los inmuebles... Con todas las variables anteriores, la industria bancaria (española) puede necesitar una recapitalización de entre 25.000 y 75.000 millones de euros en los próximos trimestres para apuntalar su actual solvencia... Sería
+fundamental... que las ayudas no sean indiscriminadas. Sería un error su generalización, tanto desde el punto de vista de la señal que se envía sobre el conjunto del sector y la eliminación del exceso de capacidad existente en el mismo, que se estima
+en un tercio del total... La percepción de ayudas públicas por parte de una institución será una decisión delicada que debe estar bien fundamentada, ya que tendrá consecuencias importantes. Debe hacerse con la máxima transparencia. Además, es prioritario evitar situaciones de distorsión de la competencia. Todo esto exigirá arrinconar
+el debate público sobre un tema tan sensible y llegar a un acuerdo a priori sobre
+cómo se va a actuar en los casos que se vayan produciendo”.
+Agréguese, en el caso de España, que se encuentra muy viva la situación
+especial de las Cajas de Ahorros. Como se lee en el trabajo de Fernando Maravall,
+
+11
+
+
+
+Silviu Glavan y Afi, coordinado por Francisco J. Valero, Eficiencia y concentración
+del Sistema bancario español (Fundación de las Cajas de Ahorros, 2009), al comparar los Bancos y las Cajas, empleando la técnica estadística multivariante conocida
+como Análisis discriminante, se refuerza “la opinión ampliamente extendida de que
+si bien las Cajas se han acercado mucho en sus políticas de activo y pasivo a la
+Banca, al amparo de la legislación liberalizadora, también han conservado unos elementos relevantes de su actividad tradicional, y como consecuencia de todo ello,
+han podido desarrollar una estrategia por el lado del pasivo que les ha permitido
+ganar una importante cuota de mercado a los Bancos en los últimos años. Al canalizar estos recursos ajenos de manera más concentrada que los Bancos hacia los créditos hipotecarios y los sectores inmobiliario y construcción, se encuentran actualmente en una posición de mayor riesgo ante la recesión económica, más expuestas
+a la depreciación de activos y al aumento de la morosidad”. El control que las Cajas
+de Ahorros experimentan en manos de entidades de derecho público, especialmente
+por parte de las Comunidades Autónomas, crea unos enlaces especialmente significativos con el Sector público, con consecuencias obligadas.
+Esto es importante porque, como se indica en el trabajo dirigido por Fernando Fernández y Fernando Navarrete, La reforma del Sistema Financiero Internacional. Una propuesta con las lecciones de la crisis (FAES, 2009, págs. 95-96), una
+peculiaridad del sistema financiero español es que las Cajas de Ahorros representan
+aproximadamente la mitad del sistema bancario. Los informes de la OCDE y del FMI
+avisan del riesgo diferencial que supone la peculiar naturaleza jurídica de las Cajas
+de Ahorros y las deficiencias de su gobierno corporativo. “Este riesgo diferencial responde a que: a) Su gestión ha exhibido una evidente politización que se ha traducido en una política de inversiones que no estaba guiada con criterios de rentabilidad
+económica; b) Su política de expansión fuera de su lugar de origen se ha intensificado en los últimos años del ciclo inmobiliario, lo que las ha llevado a trabajar con
+clientes con mayor perfil de riesgo; y c) Además, las Cajas de Ahorro presentan dificultades técnicas y políticas para su recapitalización y reestructuración eficiente”. De
+ahí que se considerase (págs. 97-98) por los autores de este libro, que “la aplicación
+de mecanismos eficientes de colaboración público-privada en los procesos de recapitalización de las Cajas de Ahorros hace imprescindible dotar a las cuotas participativas de derechos políticos no restringidos y reformar la configuración de sus Órganos Rectores para permitir la imprescindible entrada y disciplina del capital privado
+que avale la viabilidad del modelo de negocio, “llegando incluso a agregar estos
+autores, que “la eventual privatización de las Cajas de Ahorros a la que puede conducir este mecanismo, ayudaría a reducir la vulnerabilidad del sistema financiero
+español y a mitigar su riesgo diferencial”. Sobre esto no es posible dejar de anotar,
+de la mano de Michaela Romani —en su artículo La solvencia de los bancos españoles supera la prueba, en Expansión, 12 septiembre 2009— que, según estimación de
+los analistas de City, y con lo que parece plantea el Comité de Basilea sobre el límite
+de riesgo en el core capital —capital más reservas en porcentaje de activos ponde-
+
+12
+
+
+
+rados por riesgo, que parece se va a situar en el 7%—, con “los datos de cierre del
+pasado ejercicio, prácticamente la mitad de las 45 Cajas españolas tenían un core
+capital inferior al 7%. En los próximos trimestres, además, muchas Cajas podrían
+tener dificultad para mejorar su solvencia mediante la acumulación de beneficios,
+debido a la crisis. La alternativa para aumentar… (core capital) pasaría, entonces, por
+la emisión de cuotas participativas… o la reducción de activos de riesgo”.
+Todo lo señalado conduce a un amplio conjunto “de medidas de apoyo
+público al sector bancario en todos los países” —como se muestra en el cuadro 1,
+tomado del OECD Economic Outlook, Interim Report, marzo 2009—, las cuales plantean nada menos la cuestión de “hasta qué punto la intermediación financiera puede
+seguir considerándose una actividad privada y sometida a las mismas reglas de juego
+que han estado en vigor durante las últimas décadas”.
+
+CUADRO 1
+Medidas de apoyo a los Bancos en países significativos de la OCDE,
+desde mediados de 2008 a marzo de 2009
+Países
+
+Estados Unidos
+Irlanda
+Holanda
+Alemania
+Francia
+Reino Unido
+Austria
+Italia
+Japón
+España
+Australia
+Suiza
+Canadá
+
+Aumento garantía
+depósitos
+
+Avales deuda
+bancaria
+
+Inyección capital
+
+Estatificación
+
+X
+X
+X
+X
+X
+X
+X
+X
+
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+
+X
+X
+X
+
+x
+x
+x
+
+x
+
+x
+x
+
+Para tratar de conocer algo más la cuestión, hay que señalar que se complica en relación con el artículo 87 (1) del Tratado de la Unión Europea, donde se
+habla de la incompatibilidad de ayudas estatales con las reglas del mercado comunitario, por si pueden tener consecuencias en la competencia y el comercio de los
+miembros de la Comunidad. Por supuesto que muestra excepciones. Ahora esas
+posibles barreras se han saltado, como muestra el cuadro 2, donde vemos la situa-
+
+13
+
+
+
+ción española comparada, de acuerdo con los datos originales facilitados por el trabajo de Sandra Jódar-Rosell y Jordi Gual, Ayudas públicas en el sector bancario: ¿rescate
+de unos, perjuicio de otros?, en Documentos de Economía “La Caixa”, abril 2009, nº 13,
+sobre la cuantía de estas ayudas desde enero de 2008 a 16 de marzo de 2009.
+
+CUADRO 2
+Importe de las ayudas al Sector bancario desde enero 2008 a 16 de marzo de 2009
+(en millones de euros)
+Países
+
+Alemania
+Austria
+Bélgica
+España
+Estados Unidos
+Francia
+Holanda
+Italia
+Reino Unido
+Suiza
+
+Recapitalizaciones
+públicas
+
+Garantías sobre deuda
+(Importes aprobados)
+
+Garantías sobre activos
+tóxicos
+
+50.300
+100
+12.200
+0
+192.308
+13.500
+29.800
+0
+39.959
+3.919
+
+400.000
+90.000
+1.800
+100.000
+180.000
+320.000
+200.000
+Importe indeterminado
+271.577
+—
+
+—
+—
+—
+—
+324.806
+—
+30.233
+—
+635.490
+—
+
+En total, como señaló José Manuel González-Páramo en el discurso pronunciado en Madrid, en el Club Siglo XXI, el 25 de mayo de 2009, Las finanzas en la
+encrucijada: Enseñanzas de la crisis, “los gobiernos han puesto a disposición de las
+entidades de crédito de la zona del euro hasta 180 mil millones de euros en inyecciones de capital, 1,7 billones en garantías para la emisión de bonos y unos 200 mil
+millones en esquemas de protección de activos. Por distintos motivos, su utilización
+efectiva es todavía reducida, si bien su volumen total parece adecuarse a las potenciales pérdidas derivadas de préstamos fallidos y activos dañados. Las medidas adoptadas deben aplicarse de forma que se mantenga una situación de igualdad de condiciones en el mercado financiero único de la Unión Europea y se minimice la carga
+para las finanzas públicas”.
+El fenómeno fue general a partir del momento —octubre de 2008— que los
+Estados Unidos introducen el llamado “Troubled Asset Relief Program” (TARP) o sea,
+un “programa de alivio de activos preocupantes”, con unas posibilidades de comprar
+activos por parte del Tesoro hasta los 700 mil millones de dólares. Para sus derivaciones, véase, de Olivier Blanchard, el IMF Working Paper Nº 09/80, The Crisis: Basic
+Mechanisms and Appropriate Policies, que originó inmediatamente revuelos: Uno,
+
+14
+
+
+
+bien cercano a España, fue el artículo de Jacques Attali, La bulle Geithner, publicado
+en L’Express, 16 abril 2009, donde, tras exponer la esencia del Plan Geithner, que
+hace posible, financiados por el Presupuesto federal norteamericano, a los fondos de
+inversión y a los bancos adquirir los activos tóxicos de los otros bancos, y que al
+completarse con un nuevo plan contable, que permite a los bancos valorar estos
+activos a un precio elevado, asegura que se organizará “una burbuja de valores de
+activos, financiada enteramente por el contribuyente”, añade: “Se preguntará la opinión ¿cómo un presidente demócrata habrá podido ponerse al servicio de una maniobra tan escandalosa para que algunos banqueros rehagan su fortuna con el amén de
+los contribuyentes, sin que éstos tengan el menor poder sobre los bancos?” Concluye solicitando que la Unión Europea oriente de otro modo la reforma de su sistema financiero.
+Por supuesto que parece fuera de toda duda que dicha actividad de auxilio al sistema crediticio, debe desarrollarse, en condiciones normales, y de forma
+mayoritaria, en el ámbito de la propiedad privada, lo cual no es óbice para anticipar
+un cierto periodo de tiempo de coexistencia de capital público, de forma parcial y
+minoritaria en muchas entidades, o incluso mayoritaria en algunas, antes de dar paso
+a probables procesos de retorno hacia la propiedad privada en fases ulteriores. Como
+señala el citado Interim Report, marzo 2009, de la OCDE. sin menoscabo de ese
+retorno al ámbito privado, “esa presencia temporal del sector público… dejará un
+poso en la forma de hacer banca que afectará básicamente a un mayor compromiso
+con el crecimiento y el flujo de crédito hacia la economía, en detrimento de la rentabilidad esperada del negocio… Otra derivada clara de la actual crisis va hacia nuevos
+esquemas regulatorios que incorporarán… mayores exigencias de recursos propios
+básicos, así como una mayor penalización de las actividades más generadoras de riesgo.
+El resultado de ello debe ser un negocio bancario con menor percepción de riesgo, y
+por tanto con menores exigencias de rentabilidad para el accionista. Es decir una tendencia hacia lo que los anglosajones denominan narrow banking o vuelta a lo
+básico, con la consiguiente consideración del negocio bancario como algo cercano
+a una utility, o empresa de servicios públicos, con esquemas retributivos, acordes con
+esa menor percepción de riesgo”, tal como una y otra vez ha solicitado el profesor
+Torrero, y todo ello aparte de muchas otras modificaciones que impone esta actual
+crisis financiera. En el fondo esto se sintetiza con el titular de uno de los artículos
+del informe especial publicado en The Economist el 16 de mayo de 2009, Rebuilding
+the banks, que rezaba así: “El contrato entre la sociedad y los bancos pasará a ser
+más estricto”.
+Todos estos esfuerzos deben tener en cuenta algo que expuso así José Luis
+Malo de Molina, en su conferencia Los retos de la economía española en la crisis
+financiera internacional pronunciada el 12 de febrero de 2009 en la Fundación
+Ramón Areces, al mostrar cómo las medidas expansivas “también deben ser diseñadas como impulsos transitorios de manera que sean compatibles con el manteni-
+
+15
+
+
+
+miento de una perspectiva de estabilidad presupuestaria a medio plazo, pues si no
+es así se corre el peligro de que los efectos negativos sobre los tipos de interés a largo
+plazo, la confianza de los agentes o las expectativas de subidas futuras de impuestos, esterilicen sus impulsos expansivos”.
+De todo ello se desprende la imperiosa necesidad de vigilar esa conducta
+de ayudas del sector público a las entidades crediticias. Eso, en España, corresponde,
+al Tribunal de Cuentas. En Francia, a la Cour des Comptes. De ahí el interés de conocer qué es lo que se está haciendo en el vecino país en relación con esta cuestión.
+Quizá merezca la pena, una vez más, contemplarnos en el espejo galo.
+
+EL PLANTEAMIENTO DE LA COUR DES COMPTES
+El documento de la Cour presentado a la sociedad francesa se titula: Las
+ayudas públicas a los establecimientos del crédito: Primeras comprobaciones, primeras recomendaciones. Considera en él que era necesario responder a seis preguntas,
+y al formularlas, se observa que no son impertinentes para España. La primera: ¿Por
+qué la puesta en marcha de este dispositivo de ayuda ha parecido que era necesaria? Y a esta siguen las siguientes: ¿Se han alcanzado sus objetivos? ¿Las obligaciones
+asumidas por los bancos beneficiados, están en el buen camino de que van a ser respetadas? ¿Cuál es el impacto para la Hacienda Pública? ¿Cuáles son las condiciones
+de salida del dispositivo puesto en marcha? Finalmente, ¿de qué garantía dispone el
+Estado para defender el interés general y sus intereses patrimoniales en estos establecimientos crediticios?
+La contestación a la primera cuestión, la del motivo de la puesta en marcha de un dispositivo de ayuda que se considera necesario, se ofrece así: “La Cour
+(ya) destacaba... (en su Informe público anual de febrero de 2009) que la crisis que
+atravesaba el sistema financiero mundial a partir del verano de 2007, confirmaba que
+era esencial mantener el modelo francés de «contigüidad» del control bancario en el
+Banco de Francia”. Pero además, era obligado “consolidar fuertemente este control:
+a) Por un refuerzo de la coordinación de la Comisión Bancaria —Commission Bancaire Française— con otras autoridades de regulación y de supervisión, y un compromiso permanente más fuerte del Estado en la regulación, y no sólo en tiempo de
+crisis; b) Por una adaptación de los estatutos y procedimientos por los que la Comisión Bancaria está encargada de ponerlos en acción para sancionar los defectos profesionales; y c) En fin, por un refuerzo de los medios y una adecuación mejor en su
+empleo, a (causa de) los riesgos existentes”.
+Toda la situación inicial tenía como fondo una importante crisis de liquidez
+en el mercado interbancario, porque “aunque los bancos no dejaban de tener liquidez, se convirtieron en muy reticentes a la hora de conceder créditos, que se deri-
+
+16
+
+
+
+vaba de la profunda crisis de confianza de los expertos sobre la solidez y el valor
+real de los balances bancarios. El tráfico de liquidez entre los bancos de la zona euro
+se interrumpió”.
+Por supuesto que el conjunto del sistema bancario francés “parece haber
+superado mejor la crisis financiera que la mayor parte de sus homólogos extranjeros”, porque el modelo habitual, de banca universal “permite una diversificación
+mejor de los riesgos y de las fuentes de ingresos”. Pero es indudable que estos mismos bancos, “sin embargo, deberán soportar, en el 2009 y en el 2010, los efectos de
+una segunda vuelta de la crisis financiera, tras la primera, derivada de los efectos
+directos de la crisis financiera, a causa del alza de las carencias de pago de las empresas, del aumento del coste del riesgo por estar unido al riesgo de contrapartida”,
+debido todo al desmoronamiento del conjunto de los actores del proceso económico.
+Pasemos ahora a los CDS, o sea los “credit default swaps”, o sea los seguros emitidos por un inversor contra la posible falta de pago de una empresa que ha
+emitido una obligación. Estos CDS se intercambian en un mercado específico que
+también sirve para determinar el coste de la garantía del Estado. El 4 de mayo de
+2009, las primas de riesgo derivadas del mercado de CDS —con todas las críticas que
+se han hecho a la significación de estas cifras, a causa del funcionamiento de este
+mercado— eran para los mayores bancos internacionales, las que se registran en el
+cuadro 3, con una aceptable presencia francesa, salvo el caso de Natixis, un banco
+de inversión nacido de pactos entre el Grupo Caisse d’Epargne y el Banque Populaire. La Cour des Comptes, en relación con la primera pregunta y tras estos datos
+propios, llega a la conclusión, por otro lado lógica, de que “en todos los países del
+mundo, la quiebra del sistema bancario habría supuesto un coste insoportable para
+los depositantes, para la economía y para el empleo”. Por eso, afirma que “era absolutamente necesaria una respuesta de los Estados. Los planes de ayuda a los bancos
+son siempre preferibles a la inacción, incluso si son costosas para la Hacienda
+Pública. Su coste es importante, pero se mantiene a largo plazo por debajo de los
+daños potenciales que hubieran experimentado los depositantes y la economía”. La
+respuesta a la primera pregunta parece muy clara.
+Casi de inmediato llega la contestación a la segunda, la de si se han alcanzado los objetivos propuestos: “El Plan de ayuda francés ha permitido evitar que los
+bancos se hayan expuesto a un riesgo sistémico... Se ha contribuido igualmente a evitar todo riesgo de movimientos de pánico entre los ahorradores... En fin, se ha favorecido el mantenimiento de una actividad como prestamista por parte de los bancos
+franceses, pese a los fallos de mercado que limitaron su acceso a la financiación.
+Todo esto, además, se considera que ha sido una respuesta coordinada a nivel internacional, gracias a acciones (también) coordinadas de los Bancos centrales por un
+lado, y por otro, por movilizaciones de los Estados y de las organizaciones internacionales”.
+
+17
+
+
+
+CUADRO 3
+Primas de Riesgo
+
+Citi Group (USA)
+Morgan Stanley (USA
+Bank of American (USA)
+Natixis (F)
+Wells Fargo (USA)
+Goldman Sachs (USA)
+RBS (UK)
+Barclays (UK)
+J.P. Morgan (USA)
+Credit Suisse (CH)
+Rabobank (NL)
+Deustche Bank (D)
+HSBC (UK)
+Unicrédito (I)
+BBVA (E)
+Santander (E)
+Crédit Agricole (F)
+Sociétè Generale (F)
+Intesa San Paolo (I)
+BNP P (F)
+
+593
+364
+304
+296
+245
+237
+189
+186
+169
+157
+148
+140
+125
+120
+118
+115
+110
+110
+95
+91
+
+Estas acciones, en el caso de Francia se orientaron hacia el pasivo de los
+bancos —esto es, sobre sus fondos propios y sus deudas— y no como en el caso de
+Estados Unidos, Reino Unido y Alemania, sobre los activos. Concretamente en Francia se ha creado la Sociétè de Financement de l’Economie Française (SFEF), propiedad conjunta de los bancos y del Estado, cuyas emisiones están garantizadas por el
+Estado y que financiada por estos fondos efectúa préstamos a la Banca. A la SFEF se
+añade la SPPE, la Sociétè de Prise de Participation de l’Etat. Ambas han pasado a ayudar al Crédit Agricole, al Crédit Mutuel, a la Sociétè Générale, a BNP Paribas, al grupo
+Caisse d’Epargne y al grupo Banque Populaire. Además la SFEF ha ayudado a siete
+entidades financieras más. El papel de la SFEF es claro: no interviene directamente
+para financiar la economía, sino para contribuir a la refinanciación de los préstamos
+otorgados por los establecimientos de crédito, mejorando así su acceso a la liquidez
+gracias a la garantía de refinanciación que la SFEF otorga. Debe añadirse que la SFEF
+ha creado un mecanismo de financiación de las exportaciones, tras un acuerdo firmado en abril de 2009, entre la propia SFEF, el Estado, y cinco bancos (Crédit Agricole, Sociétè Générale, BNPP, Caisse d’Epargne y Banque Populaire), con plazos de
+cinco años, frente a los dos y tres años de las operaciones actuales.
+
+18
+
+
+
+En cuanto al papel de la SFEF y la SPPE, de la nueva Dexia —una entidad
+franco-belgo-luxemburgesa de crédito local que se va a orientar según se señala en
+este documento, hacia Francia, Italia, España y Alemania— y del que es un grupo
+cooperativo por sus orígenes, Natixis, parece que ha sido el adecuado, tal como lo
+contempla la Cour des Comptes. Las entidades ayudadas han de admitir compromisos, tanto en su crecimiento como en el aumento de los créditos que han de otorgar y, como respecto a ciertos talantes éticos, particularmente en lo que respecta a
+la remuneración de sus dirigentes.
+Pero la pregunta siguiente se refiere a si todas estas obligaciones van a ser
+respetadas. Para ello “las convenciones (establecidas) preveían una información mensual” sobre qué cuantía de crédito conceder, a través de un mecanismo de vigilancia en el que intervienen tanto el Banco de Francia como la publicación de los datos
+consolidados. Además, a partir del 27 de enero de 2009, se reúne periódicamente un
+Comité de Seguimiento del Dispositivo de Sostenimiento, con representación de las
+Asambleas parlamentarias, y presencia del Gobernador del Banco de Francia, del
+Director General del Tesoro y de la Política Económica y el Director del Presupuesto.
+El asunto merecía la pena, porque el plan de apoyo francés a la banca preveía ya
+entonces una suma total de 360 mil millones de euros, de los cuales 265 mil millones para refinanciación de las entidades crediticias, de lo que se ocupa la SFEF; 40
+mil millones de recapitalización y 55 mil millones de garantías a Dexia, aunque
+parece evidente que el esfuerzo financiero total del Estado será menor, porque lo fundamental pasará a ser que el mercado financiero tenga conciencia de que ese respaldo existe. Pero no se puede dejar a un lado que sobre el presupuesto existe la
+carga de 445 mil millones de euros como dotación para el capital de la SPPE. Y el
+motivo que justifica para la Cour de Comptes tal acción es que “no resulta imaginable que un gran banco de depósito pueda quebrar sin un daño aun mayor para el
+conjunto del sistema, por lo que el Estado no tenía otra opción que ayudar a los bancos”. Por lo que se refiere a la refinanciación, ese techo de 265 mil millones no se
+calcula que pueda alcanzarse a corto plazo; a fines de 2009 se estima que el total de
+créditos otorgados por ese motivo puede alcanzar los 93 mil millones.
+Añádase a todo lo indicado la dificultad que tiene el seguimiento de las
+operaciones de crédito, a causa de la confidencialidad del negocio bancario, una
+debilidad que la Cour des Comptes destaca, y muy en concreto, en relación con el
+control de los activos transferibles que sirven de garantía para el reembolso de un
+préstamo, en caso de que el beneficiario de éste no pudiese hacer frente a sus obligaciones de pago.
+Simultáneamente, la SPPE, con autorización de la Comisión Europea, había
+aportado el 11 de diciembre de 2007, 10.500 millones de euros de fondos propios a
+los Bancos Crédit Agricole, BNPP, Sociétè Générale, Crédit Mutuel, Caisse d’Epargne,
+y Banque Populaire, cifras que se ampliaron hasta el 31 de agosto de 2009, opera-
+
+19
+
+
+
+ción en la que participan el BNPP y la Sociétè Générale exclusivamente, aparte de
+que la SPPE ha entrado en el capital de Dexia, donde existen problemas derivados
+de su filial norteamericana FSA, y que se han inyectado 5 mil millones de fondos del
+Estado a través de la SPPE para eliminar problemas en el nacimiento de Natixis,
+unión, como se ha señalado, de los grupos Caisse d’Epargne y Banque Populaire.
+Pero he ahí que en el primer trimestre de 2009 Natixis ha experimentado pérdidas
+por un total de 1.200 millones de euros.
+Tal realidad, expuesta de modo quizá prolijo, muestra algo que subyace
+en todo esto: la dificultad, y eso en Francia como en cualquier otro país, de valorar
+los activos tóxicos, esto es, los no negociables en su mercado habitual, por lo que
+pasan a no tener liquidez. Y existe una espada de Damocles en el convenio firmado
+por el Estado y los bancos porque éste determina que “el Estado se reserva la posibilidad de replantear las condiciones de aplicación, en especial las financieras, del
+presente convenio (en caso de no haberse cubierto la obligación bancaria de financiación de empleo, y de apoyo a las economías domésticas y a las colectividades
+territoriales de acuerdo con un objetivo cifrado). En tal caso, el Estado tendrá en
+cuenta la evolución de la situación económica y financiera”. El problema es que los
+datos estadísticos de la concesión de créditos, que facilita el Banco de Francia, ofrecen cifras globales pero no dan información sobre los factores de esta evolución, por
+lo que no permiten discernir lo que se debe a las condiciones de la oferta o a las de
+la demanda de crédito, aunque otros indicadores cualitativos “sugieren un endurecimiento en las condiciones de acceso al crédito dentro de un contexto de debilitamiento de la demanda”, que es el problema tercero a dilucidar. Por ejemplo, la separación entre el tipo medio de los créditos a corto plazo y el Euribor a tres meses, que
+casi ha doblado en el espacio de seis meses. La Cour des Comptes ha acudido a la
+AFTE —la Asociación Francesa de Tesoreros de la Empresa— concretamente en
+mayo de 2009, y así ha podido mostrar una restricción cuantitativa del crédito, una
+degradación de las condiciones financieras y un endurecimiento de las cláusulas de
+los contratos de préstamo. Y por supuesto, existe un claro endurecimiento en los criterios de concesión de créditos a las economías domésticas. Como se ve, no sucede
+en Francia algo esencialmente diferente a lo que ocurre en España.
+Dígase lo mismo de la obligación, señalada en los convenios, sobre la
+puesta en marcha de mecanismos de diálogo entre los Bancos, las empresas, los particulares beneficiarios de créditos-puente y las colectividades territoriales. Pero, además, ¿cómo pueden aumentar los créditos si se hunde la actividad económica? No
+es ocioso señalar que los expertos convocados mensualmente por The Economist
+preveían en agosto de 2009 una caída de un 2,8% del PIB en el año 2009 respecto
+al 2008, y la OCDE, según las últimas informaciones de finales de agosto de 2009,
+en las noticias relacionadas con los famosos “brotes verdes”, considera que esta caída
+del PIB en el 2009 será del 2,1%. De ahí la imposibilidad de saber si la baja de los
+créditos se debe a factores restrictivos de la oferta, por parte de la Banca, o a la debi-
+
+20
+
+
+
+lidad de la demanda, ante la persistencia, con todas las perspectivas favorables que
+se quieran, de una muy seria crisis económica. De ahí una dificultad básica para
+saber si el apoyo estatal al crédito en Francia ha servido seriamente para algo en relación con una mayor capacidad de financiación de los sectores productivos y de las
+familias, salvo para impedir una catástrofe económica.
+No es tampoco muy diferente lo que puede señalarse en cuanto a la eficacia del acceso al crédito de las pymes, aunque la figura en Francia de la denominada
+Mediación del Crédito, una institución departamental vinculada a redes profesionales,
+como son las Cámaras de Comercio e Industria, Cámaras Artesanales y de los Oficios,
+etc., ha permitido que exista un complemento importante, y nada despreciable, para
+facilitar el acceso al crédito. Todo esto en algo ha compensado la disminución de los
+créditos a las pymes por parte de los seis grandes grupos bancarios. Lo señalado
+hasta aquí sirve para comenzar a conocer la cuestión planteada antes, de si las obligaciones asumidas por los bancos beneficiados se mueven, o no, por el buen camino
+de que vayan a ser respetadas.
+El asunto siguiente es el que se refiere al impacto de todo esto en la
+Hacienda Pública. Aunque la Cour des Comptes, en relación con este asunto crucial,
+anuncia la publicación en el futuro del impacto global de las ayudas en el conjunto
+de las cuentas públicas, ofrece ya algunos anticipos interesantes. La deuda del Estado
+francés alcanzaba a finales de abril de 2009 la cifra de 1 billón 87 mil millones de
+euros, y este trabajo de la Cour des Comptes estima que “el conjunto del plan de
+ayuda a los bancos podría tener un impacto importante en el nivel del endeudamiento estatal”. Agréguese a esto la inquietud de los mercados financieros ante el
+fuerte aumento de los déficit públicos y las emisiones de deuda pública. Un dato a
+tener en cuenta era que, al cerrar la redacción de este trabajo, el 3 de septiembre de
+2009, el diferencial, (spread) con el bono alemán a 10 años era, para el francés, de
++0,35% para España de +0,65% y de +0,25% para el bono del Tesoro de los Estados
+Unidos (+0,55% en el caso de España y este bono), según la información de Thomson Reuters. Es un panorama éste que no existía prácticamente antes de las noticias
+negativas de 2007. Tal cosa preocupa a la Cour des Comptes. De ahí las reservas que
+muestra esta última institución —piénsese que las de la española tendrían que ser
+mayores— porque el aumento permanente de ese “spread” o diferencial de 0,1 puntos porcentuales “podría significar un incremento de la carga de intereses del Estado
+de mil millones de euros”. Si no se tiene esto en cuenta, es imposible cifrar de
+manera adecuada el coste del plan de apoyo para la Hacienda.
+Con estos datos preocupantes en la mano, consideraba la Cour des Comptes
+que era preciso subrayar la magnitud de ese conjunto amplísimo de ayudas precisas
+para intentar escapar de una crisis capaz de provocar un hundimiento fortísimo de
+la economía, con objeto de mostrar tal apoyo como algo transitorio, algo que no
+debe prolongarse más allá de los límites vinculados al amparo del sistema bancario,
+
+21
+
+
+
+pero que una vez conseguido esto, debe ser eliminado. Considera sin embargo este
+trabajo de la Cour des Comptes que “la salida del dispositivo será larga y compleja.
+Planteará, además, cuestiones de cooperación internacional”. La causa es simple. Se
+considera que “Francia debe limitar su apoyo a lo estrictamente preciso”, pero añade:
+“la banca francesa no debería resultar penalizada en relación con sus concurrentes
+extranjeros, en la hipótesis de que los planes de apoyo fuesen mantenidos por otros
+Estados miembros de la Eurozona, de la Unión Europea, o de la comunidad internacional”. Parece ser evidente que todo esto anuncia la aparición de un proteccionismo del sector bancario que no dejará de tener consecuencias al poseer esta
+implantación cada vez más un carácter general. La Banca, así ayudada, aumenta el
+gasto público y crea, por eso mismo, problemas financieros serios que dificultan el
+desarrollo económico —sin ir más lejos, esos diferenciales de tipos de interés—, lo
+que obliga a mantenerlos, por cierto, para no ser perjudicados por una competencia subvencionada, en todos los países, lo que crea un efecto de causación acumulativa negativa —para seguir la expresión de Myrdal— muy preocupante. En otro
+proteccionismo, el comercial en relación con la Gran Depresión, esto fue dibujado
+con el caracol contractivo de Kindleberger. No sería esto muy favorable para la salida
+de la crisis, y desde luego, es pertinente esa alusión a la cooperación internacional.
+Esta salida de la situación existente obliga, desde el punto de vista de la
+Cour des Comptes, en primer lugar, a concluir el saneamiento de los balances bancarios. El caos derivado de la titulización aun continúa. Según el FMI, en su informe
+sobre la estabilidad financiera mundial aparecido en abril de 2009, “el sistema bancario mundial debería experimentar una pérdida total a causa de la crisis, y repartida entre 2007 y 2010, de 2,5 billones (millones de millones) de dólares norteamericanos, o sea, unos 1,8 billones de euros”. Esto supone el 61% de todas las pérdidas
+experimentadas por el conjunto de las instituciones financieras, unos 3 billones de
+euros. El conjunto del sistema bancario europeo —sin el Reino Unido— tiene unas
+pérdidas de 1,1 billones de euros, una cifra prácticamente igual a la japonesa. El
+Informe de la Cour des Comptes considera esta estimación, al emplear extrapolaciones semejantes a lo que sucede en Norteamérica, exagerada. Según Basilea II, en
+vigor desde enero de 2008, las cifras parecen ser más reducidas.
+Naturalmente estas incertidumbres se deben a la gran variedad de los activos, porque los famosos activos tóxicos, sin liquidez por definición, porque se convierten en “no negociables”, no responden a un concepto contablemente único y
+armonizado. Pero, ¿no tienen absolutamente ningún valor? Y por lo que se refiere
+a las carteras de créditos, ¿cómo medir exactamente, dice este Informe, “la cuantía
+del riesgo derivado de la crisis económica?”, porque, ¿cuál está siendo la magnitud
+de ésta? El consejo de la Cour des Comptes es claro: al ser la transparencia la clave
+para que se restablezca la confianza —como había recordado Trichet, el presidente
+del Banco Central Europeo poco antes de elaborarse este Informe—, es preciso que
+la Banca continúe “mostrándose muy rigurosa en la contabilización de sus previsiones,
+
+22
+
+
+
+de acuerdo con las recomendaciones del Forum de Estabilidad Financiera por lo que
+respecta a la publicación de las exposiciones de riesgo sensibles”. Y desde luego, la
+Cour de Comptes señala que “en cuanto a la realización de los activos invendibles,
+corresponde a los accionistas cumplir con su deber. Si bien el Estado se encuentra
+obligado a intervenir en casos particulares, no debe hacerlo más que de modo residual”. Y a esto debe añadirse la seguridad de que, a lo largo de 2009 y 2010, la
+Banca va a experimentar “las consecuencias del impacto de la recesión sobre su
+clientela, tanto empresarial como en las economías domésticas”.
+Con esos puntos de apoyo se considera que la SFEF, y no es muy diferente
+lo que se plantea para la SPPE, “no debe ser un instrumento permanente que dispense
+a los Bancos de volver a los mercados para conseguir su propia refinanciación, a partir del momento en que se aleje la amenaza de un hundimiento del sistema financiero”.
+En Francia lo complican aun más todo los mecanismos de ayuda a la industria del automóvil y el mecanismo de apoyo a los créditos a la exportación. La Cour
+des Comptes, cree que la salida de este dispositivo de ayuda debe coordinarse a
+nivel europeo, por el daño que podría originarse por las plazos dispares de salida
+en unos u otros países. Claro que este planteamiento tiene una dificultad: “La situación de la Banca de los otros países no se conoce con certeza”. Y, entones, ¿como
+actuar, a no ser que exista esa coordinación relacionada con la política económica
+europea? Toda esta postura de la Cour des Comptes lleva, obviamente, al terreno, de
+la necesidad de un fortalecimiento del poder relativo de la Unión Europea como tal,
+más concretamente, en el ámbito de la Eurozona. En otro caso —y ahí está el trabajo de Eichengreen titulado The break-up of Europe, para que meditemos sobre él—
+existen riesgos evidentes para la propia pervivencia del área monetaria del euro. La
+bibliografía sobre esto es muy amplia, desde el artículo inicial de Mundell en The
+American Economic Review en 1961, hasta aportaciones tan notables como las de
+Nitsch Volker en su trabajo Have a break: Have a... National Currency: when do
+currency unions fall apart (CESifo Working Paper, 1.113, enero 2004) y Barry Eichengreen, Prueba de tensión para el euro, en la publicación del FMI, Finanzas & Desarrollo, junio 2009. Dígase lo mismo en cuanto a la coordinación que debería existir
+dentro de Europa entre los supervisores bancarios de cada país y la propia Comisión
+Europea, publicando los resultados, para analizar, de modo coordinado, los stress tests,
+o test de resistencia de Basilea II, que obliga a que los establecimientos de crédito
+comprueben su capacidad de resistencia ante choques macroeconómicos y financieros, midiendo el impacto de éstos sobre su ratio de solvencia. Se supone que esto
+puede tener un impacto favorable paralelo al muy positivo originado por la publicación, por el regulador norteamericano, de los test de resistencia de los Estados
+Unidos, porque mostró la rapidez con la que los bancos de este país consiguieron
+disponer de nuevos fondos propios. Y esta petición de fuerte armonización europea
+también se considera muy conveniente por lo que respecta a las normas de prudencia y a las contables, así como para poner límite —la polémica ha llegado a la reu-
+
+23
+
+
+
+nión del G-20 en Pittsburgh— a las remuneraciones de los dirigentes bancarios y de
+los operadores de los mercados financieros. Lo que evidentemente late ahí es aquella
+frase premonitoria de Tobin, en su artículo aparecido en 1984 en la Lloyd’s Bank
+Review, titulado On the efficiency of the financial system, bastante antes, pues, de que
+se provocase el actual cataclismo en los mercados financieros mundiales: “Confieso
+un incómodo recelo fisiocrático, quizás impropio de un académico, de que estamos
+empleando cada vez más nuestros recursos, incluyendo lo mejor de nuestra juventud, en actividades financieras alejadas de la producción de bienes y servicios, concretamente en activos que generan altas recompensas privadas, desproporcionadas
+respecto a su productividad social. Sospecho que el inmenso poder de los ordenadores está ligado a esta «economía de papel» no para hacer las mismas transacciones
+de forma más económica, sino para inflar las cantidades y variedad de los intercambios financieros”. Esta es una cuestión, debe insistirse, muy polémica, y sobre la que,
+muy posiblemente, merecería la pena volver monográficamente sobre ella en esta
+Real Academia. Por ahí van, por ejemplo, desde párrafos de la encíclica Caritas in
+veritate de Benedicto XVI, a mil noticias a lo largo de todo el largo apartado titulado
+Las remuneraciones, de este informe de la Cour des Comptes, que muestran, en este
+documento, la postura muy crítica, respecto a la realidad legal francesa por parte del
+Informe que estoy resumiendo de este órgano de control externo.
+Esta cuestión no puede por menos de ponerse en relación con el anuncio que
+nuestro compañero, Julio Segura hizo en San Sebastián, en un curso de verano en la
+Universidad del País Vasco, organizado por la Federación de Cajas Vasco-Navarras con
+el título de Crisis global: hacia un nuevo modelo económico y social, según resumen
+de M. A. Fuentes en el artículo La CNMV exige más transparencia en la remuneración
+a los consejeros. Propuesta a Economía. El órgano supervisor quiere evitar los incentivos “cortoplacistas” que pueden complicar la actuación de los gestores, dañando incluso
+los intereses de empresas y accionistas, publicado en Expansión el 12 de septiembre de
+2009 y Carmen Larrakoetxea, en La CNMV propondrá a Economía regular los sueldos
+de los consejeros, con el objetivo de que sean más transparentes y evitar conflictos de
+intereses, aparecido en El Economista, 12 de septiembre 2009. Según estas informaciones, Julio Segura anunció que el órgano supervisor (CNMV) “va a enviar una propuesta
+al Ministerio de Economía para introducir en la regulación española las recomendaciones de la Comisión Europea lanzadas el pasado abril, sobre una mayor transparencia
+de los sueldos de los consejeros y otras mejoras sobre los sistemas retributivos y sus
+riesgos... La propuesta plantea un «sistema híbrido» que combina las nuevas exigencias
+de transparencia obligatoria —que requerirán cambios legislativos— con las normas y
+recomendaciones del Código de Buen Gobierno... El mejor conocimiento de los pagos
+a los consejeros y de las políticas retributivas de las entidades emisoras podría evitar,
+o al menos hacer más difícil, la implementación de «incentivos cortoplacistas» destinados a los gestores. A… juicio (de Segura) existe abundante evidencia de que este tipo
+de pagos «han provocado un sesgo en las decisiones de los gestores en contra de los
+intereses de las empresas y de sus accionistas»”.
+
+24
+
+
+
+Finalmente debe plantearse la cuestión de cómo proteger el interés patrimonial del Estado, dado que, en Francia, como se ha señalado, a través del SPPE,
+éste se ha convertido en un accionista importante del sector bancario. Debe apuntarse que la Cour des Comptes había hecho recomendaciones sobre tal cuestión, en
+febrero de 2008, en su Informe público titulado L’Etat actionnaire: apports et limites
+de l’Agence de Participations de l’Etat. En esencia, esta doctrina, tanto en el actual
+documento como en el de este Informe de 2008, se orientará a que “el Estado debe
+dotarse de un talante adecuado de “accionista bancario”, incluso en el caso de que su
+presencia no tenga vocación de ser perpetua. En particular, debe precisarse qué
+comportamiento piensa adoptar en caso de una OPA hostil, en caso de... disminución del porcentaje que posee como consecuencia de un aumento del capital o de
+una fusión, o frente a demandas de protección reforzada en caso de dificultades”.
+Naturalmente, asimismo se plantea la participación del Estado en los Consejos de
+Administración y otros órganos de gobierno de estas empresas. Y esto porque buena
+parte de los títulos emitidos, muy parecidos a los de la deuda, así como las acciones
+preferentes, no dan al Estado ni derechos de voto ni de conversión en acciones ordinarias. Se ha creado así en Francia una situación en la que el Estado “soporta los mismos riesgos que un accionista normal —por ejemplo, puede ser obligado, como
+todo accionista, a soportar el coste de malas decisiones en la gestión—, pero al no estar
+representado en los órganos de gobierno, no puede emitir su opinión sobre estas
+decisiones de gestión, privándose de este modo de una fuente de información de primera importancia”. El Informe, por eso, considera que “en la hipótesis de que se flanquee un umbral de participación en el capital de, por ejemplo, el 20%, el Estado
+debería poder nombrar administradores en los órganos de gobierno de los bancos,
+comprendidos los comités adjuntos a los Consejos de Administración”. Y tal política
+debería acentuarse, si la presencia del Estado se prolongase más allá del 2010, con el
+nombramiento de un comisario del Gobierno en el establecimiento bancario.
+
+*
+
+*
+
+*
+
+En Francia, pues, los problemas de la crisis financiera, al golpear a la Banca
+generan consecuencias forzosas. La conclusión general final de este documento traspasa, a mi juicio, las fronteras del país vecino, al indicar que “estas primeras comprobaciones y primeras recomendaciones procuran, asimismo, tanto corregir el dispositivo actual (bancario) como preparar el porvenir. La utilidad global de la
+intervención pública se medirá también en el seno de los cambios observados en los
+comportamientos bancarios, con el fin de eliminar los factores que han conducido
+a la crisis financiera y a sus consecuencias sobre el conjunto de la economía. En
+todo caso, la regulación y la supervisión de las investigaciones financieras debe ser
+reforzada”.
+
+25
+
+
+
+

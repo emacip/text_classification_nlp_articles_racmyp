@@ -1,0 +1,1740 @@
+CÓM O IN V ERTIR :
+FANTASM AGORÍAS Y REA LID A D ES
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+Es bien sabido que el ahorro, aquella parte de nuestros ingresos no
+dedicados al consumo, es clave para la financiación de los procesos de inver­
+sión y, por consiguiente, de la actividad empresarial, que es el motor básico de
+la creación de riqueza en sociedades como la nuestra. En un sentido amplio,
+el sistema financiero es el que busca el destino de esos recursos para otros
+fines, tanto de consumo como de inversión. En otras palabras, las diversas ins­
+tituciones financieras tienen, entre otras funciones, la de coordinar a los aho­
+rradores con los prestatarios, captando el excedente de aquellos para dirigirlo
+a estos.
+Los mercados financieros se comportan, en muchos aspectos, como
+cualquier otro mercado, en el sentido de que el precio de los recursos prestables, o tipo de interés, se fija de acuerdo con las fuerzas de la oferta y de la
+demanda. Como contraprestación a la cesión temporal de sus recursos y al
+riesgo que corren con ella, los ahorradores reciben de los prestatarios una
+determinada retribución o interés sobre el capital cedido. Un cambio en el tipo
+de interés afecta de manera determinante al comportamiento de estos dos agen­
+tes, ahorradores y prestatarios, condicionando la cuantía y el momento en que
+se llevan a cabo las decisiones de consumo e inversión.
+Los mercados financieros ofrecen a los agentes económicos una gran
+variedad de productos para satisfacer sus necesidades y preferencias. El pro­
+ceso de competencia e innovación que se da en ellos genera, frecuentemente,
+productos que pueden resultar complejos para el ciudadano medio. Es por esta
+
+* Sesión del día 31 de octubre de 2017.
+
+5
+
+
+
+razón por la que, por ejemplo, la Comisión Europea está prestando especial
+atención a la educación financiera, en el convencimiento de que contribuirá a
+la estabilidad económica, favoreciendo un ahorro y una inversión más diversi­
+ficados y, por lo tanto, más seguros. El objetivo sería conseguir que no solo las
+personas, sino también las pequeñas y medianas empresas, puedan elegir los
+productos y servicios más adecuados a los fines que persiguen. Desde este
+punto de vista, este trabajo pretende, aunque sea de forma sencilla y parcial,
+contribuir a este propósito.
+En todo caso, la educación financiera debe configurarse como un com­
+plemento y no como un reemplazo de la asesoría profesional financiera. Como
+en muchas otras actividades, la toma de decisiones en esta materia requiere
+una experiencia profesional y un rigor teórico y empírico que este tipo de edu­
+cación no puede proporcionar, ni lo debe pretender. Más bien al contrario, un
+conocimiento solo superficial de la materia puede conducir, como con frecuen­
+cia sucede, a la elección de invertir en determinados activos que no son en
+absoluto adecuados a las personas que así actúan.
+Existe una conocida tradición intelectual que consiste en que al abor­
+dar problemas de hoy se busque su solución, o posible esclarecimiento, en
+textos de escritores clásicos. En no pocos casos, esta forma de proceder arroja
+alguna luz sobre asuntos contemporáneos. Sin embargo, como nos recuerda el
+profesor Mankiw, si se siguiera el consejo que Polonio le da a su hijo Laertes
+en el Hamlet de Shakespeare, cuando le dice: «nunca pidas prestado ni pres­
+tes tú», todo lo que sigue sería absolutamente superfluo y, por consiguiente, se
+debería terminar esta exposición aquí. Pero no lo haremos, ya que la práctica
+totalidad de los economistas no estamos de acuerdo con esta afirmación de
+Polonio.
+El trabajo se divide en seis apartados. El primero de ellos analiza el
+conjunto de alternativas que el mercado presenta para invertir, haciendo espe­
+cial énfasis en los activos de carácter financiero. A continuación, se plantean las
+estrategias de inversión activa y pasiva, así como sus costes asociados. El ter­
+cer apartado se dedica a la comparación, desde la realidad empírica, de la ren­
+tabilidad obtenida en los distintos activos financieros considerados, utilizando
+estas dos modalidades de inversión. El núcleo del trabajo consiste en el análi­
+sis de esta diferencia, no solo desde un punto de vista empírico, sino también
+teórico.
+Dado los claros resultados a favor de la gestión pasiva, en el cuarto
+apartado se contemplan diversos aspectos de la industria de la gestión de acti­
+vos, así como las estrategias que sigue para enfrentarse a este proceso de inno­
+vación. El penúltimo apartado es el más teórico y extenso del trabajo. Aquí se
+intenta recoger, y analizar críticamente, la literatura básica del funcionamiento
+de los mercados financieros, y la utilización que de ella se hace en la práctica.
+6
+
+
+
+Se ha pretendido poner al alcance de los potenciales lectores ideas y modelos
+que para su cabal entendimiento requieren una cierta formación econométrica.
+No obstante, se ha hecho un esfuerzo para que, incluso cuando se carezca de
+esa formación, su lectura pueda ser provechosa.
+Se termina el trabajo con unas consideraciones sobre la manera de
+aproximarse a la gestión pasiva. Reconociendo la importancia de una asesoría
+financiera profesional e íntegra, también se subraya que resultados tan desati­
+nados como los obtenidos por la gestión activa no serían aceptables en ninguna
+otra actividad o industria.
+
+EN DÓNDE INVERTIR
+
+Muchas y distintas son las actitudes de los humanos frente al ahorro.
+Dependen, entre otros, de factores tales como el nivel de sus ingresos, de su
+formación, del contexto familiar, de la edad y de la incertidumbre que vislum­
+bran ante el futuro. Además, estos factores suelen cambiar con el transcurso del
+tiempo, tanto por razones endógenas como exógenas. Cada persona es un
+mundo.
+Sin embargo, en mi opinión, derivada no solo de mi experiencia pro­
+fesional, sino también de mi propio comportamiento personal, un factor bas­
+tante común a todos nosotros es el poco tiempo y el poco rigor que utilizamos
+en las decisiones relacionadas con el empleo de nuestros ahorros. Esto con­
+trasta con el mucho tiempo que le dedicamos a otras decisiones de inversión.
+Por ejemplo, cuando compramos una casa o cuando decidimos cuestiones rela­
+cionadas con nuestra formación o la educación de nuestros hijos y, por tanto,
+con la creación de capital humano. En estas ocasiones analizamos minuciosa­
+mente todas las alternativas a nuestro alcance, valorando con detenimiento sus
+ventajas e inconvenientes. Más representativa es aún la situación en la que las
+decisiones son menos relevantes y de puro consumo, como el coche que com­
+pramos o el lugar en el que pasamos las vacaciones. A ellas las solemos some­
+ter a un escrutinio incomparablemente mayor que a las que atañen a nuestro
+ahorro.
+Un activo es un bien del que se espera en el presente y en el futuro
+algún tipo de beneficio, no necesariamente económico. Numerosas son las
+alternativas de inversión que se presentan en los diversos tipos de activos a
+nuestro alcance. En primer lugar, hay que señalar que la inversión más irreba­
+tible es la que se puede hacer en uno mismo, con el propósito de mejorar
+nuestras capacidades intelectuales y profesionales. Sin duda, la mejor inversión
+
+7
+
+
+
+es aquella que conduce a incrementar nuestro capital humano. Tenemos que
+extender nuestra capacidad de aprendizaje a lo largo de nuestra vida activa
+todo lo que sea razonable, y este proceso puede llegar a requerir un flujo con­
+tinuo de recursos tanto monetarios como no monetarios.
+Dicho esto, en nuestra cultura, y en especial en España, está muy arrai­
+gada la idea de que la siguiente prioridad a la hora de invertir debe ser la com­
+pra de una casa propia, siempre que los flujos de renta y consumo lo hagan
+posible. En muchos casos, esta inversión, así como afrontar el pago de la pro­
+pia hipoteca, representa el mejor incentivo para ahorrar. Sin embargo, y como
+pronto veremos, no necesariamente constituye la mejor de las alternativas dada
+la muy baja revalorización que la vivienda tiene a largo plazo en términos rea­
+les. Este arraigo sugiere que, en nuestra cultura, son de otra naturaleza las
+recompensas que se obtienen con esta forma de ahorro, incluso más allá de las
+ventajas fiscales de las que ha dispuesto.
+Los mercados financieros ofrecen hoy un conjunto de alternativas para
+el ahorro a las que no tenían acceso generaciones anteriores. De ahí que la pro­
+piedad inmobiliaria les ofreciera una seguridad que no encontraban con otras
+opciones. Hay que recordar que, a lo largo del siglo XIX, aun en los países más
+desarrollados, los mercados de productos financieros, y especialmente el de
+acciones, eran, en la práctica, un territorio de especuladores y agentes que
+manejaban información privilegiada. Desde luego, no estaban al alcance de
+cualquier inversor con un aceptable nivel de aversión al riesgo. Fue Edgar L.
+Smith (1925) el primero que justificó empíricamente que el mercado de accio­
+nes debería ser considerado como una alternativa válida para el ahorro de los
+ciudadanos.
+Entre los activos financieros nos referiremos a los bonos, tanto a largo
+como a corto plazo, y a las acciones. Los bonos son instrumentos financieros
+de deuda utilizados por entidades privadas y por instituciones públicas. Cuando
+compramos un bono entregamos una cantidad de dinero a la entidad emisora
+de tal bono, que se compromete a devolvérnosla al final del plazo establecido
+junto a un tanto por ciento de interés. El titular de bonos u obligaciones de una
+empresa es un acreedor de esta y tiene derecho, cuando vence el plazo que se
+pactó, a la devolución de la cantidad desembolsada más los intereses deven­
+gados. Los bonos u obligaciones se consideran inversiones en renta fija. Tres
+son los tipos de riesgos en los que se incurre al invertir en un bono: el riesgo
+de mercado, que se vincula con la variación de los tipos de interés durante el
+tiempo que falta hasta su vencimiento, de tal forma que un aumento de los
+tipos de interés de mercado genera una disminución del valor del bono, y vice­
+versa; el riesgo de liquidez, que deriva de la posibilidad de que no se encuen­
+tre contrapartida en el mercado y, por tanto, de que no se pueda vender el pro­
+ducto sin afectar negativamente a su precio; y, finalmente, el riesgo de crédito,
+que procede de la posibilidad de que la entidad emisora no haga frente a los
+8
+
+
+
+pagos de los compromisos adquiridos. Los dos primeros afectan únicamente a
+aquellos inversores que no pretenden mantener el bono hasta su vencimiento.
+Una acción representa una parte alícuota del capital social de una
+sociedad anónima. El titular de un determinado número de acciones es propie­
+tario de la empresa en la parte proporcional que representa ese número res­
+pecto al total de acciones y, por lo tanto, está sujeto al riesgo que se deriva de
+la evolución de la empresa en el mercado. Al adquirir acciones obtiene la cate­
+goría de socio de la empresa, de tal manera que contrae unos determinados
+derechos y obligaciones. Si la empresa obtiene beneficios, podrá participar de
+ellos mediante los correspondientes dividendos.
+La compra de un bono equivale a ofrecerle un préstamo a la entidad,
+pública o privada, que lo emite. Desde el punto de vista del emisor del bono,
+la cantidad prestada se sitúa en su pasivo exigible, porque es una deuda. Mien­
+tras que, con la compra de acciones, se está adquiriendo parte de la sociedad
+y convirtiéndose en socio, por lo que para la empresa el capital invertido en
+acciones se sitúa en su capital social, dentro del patrimonio neto.
+Como alternativas de inversión en otros activos reales, se considerarán
+la vivienda y el oro: la vivienda, por el fuerte arraigo que, como hemos seña­
+lado, tiene entre nosotros; el oro, como ejemplo representativo de inversiones
+alternativas en materias primas y como base tradicional de refugio. También por
+haber sido anclaje de las monedas, hasta que en 1971 EE. UU. lo abandonó.
+Veamos todo este tipo de alternativas de inversión con una cierta pers­
+pectiva temporal. Para ello en el gráfico 1 se representa la rentabilidad, en tér­
+minos reales, de distintos tipos de activos en EE. UU. para el período que trans­
+curre del año 1926 al 2016. Estas rentabilidades se calculan suponiendo que se
+reinvierten los dividendos de las acciones y los cupones de los bonos. Además,
+en ellas se ignoran el efecto de los impuestos y cualquier coste de transacción.
+En el caso de la vivienda solo se incluye la rentabilidad derivada de su aumento
+de precio en términos reales, y no se tienen en cuenta los flujos de ingresos
+procedentes de su potencial alquiler. En todo lo que sigue siempre se hará
+referencia a la rentabilidad en términos reales, ya que este dato es el relevante
+para los inversores. No obstante, la industria de gestión de activos tiende a
+proporcionar solo la rentabilidad en términos nominales,
+Nótese que en este gráfico se utiliza una escala logarítmica. Esta escala
+permite observar mejor las tasas de variación de la rentabilidad, en lugar de
+fijarnos en la evolución del valor absoluto de la inversión realizada en el ori­
+gen. En efecto, la misma distancia vertical en cualquier parte del gráfico repre­
+senta el mismo porcentaje de cambio en la serie. Por ejemplo, un incremento
+del 50% de 10$ a 15$, viene representado por la misma distancia vertical que
+hay entre 100$ y 150$, ya que también supone un incremento del 50%. Ade­
+
+9
+
+
+
+más, este tipo de escala espacia la evolución de las distintas curvas y facilita su
+interpretación individual.
+Entre los activos financieros consideramos, dentro de la renta variable,
+las acciones de grandes empresas, que hoy tienen su equivalente en el índice
+S&P 500, y las acciones de pequeñas empresas. En renta fija, los bonos a largo
+plazo de las empresas, los bonos a largo plazo del Estado y las letras del Tesoro.
+Además, representamos también la evolución de la rentabilidad del oro y de la
+vivienda. Las fuentes utilizadas son las siguientes: para los activos financieros,
+SBBI (2017); para los datos de la vivienda, los proporcionados por Robert J. Shi11er (2005) y actualizados en su página web; por último, para los que se refie­
+ren al oro, los datos de Only Gold (2017).
+Son varias las razones por las que elegimos analizar en este largo hori­
+zonte temporal activos relativos a la economía de EE. UU. En primer lugar, por­
+que ya desde comienzos del siglo XX, y tras superar al del Reino Unido, el
+mercado de EE. UU. es el mayor del mundo. A finales de 2016 representaba el
+53,2% de la capitalización del mercado global. Además, es la economía más
+internacionalizada, puesto que, aproximadamente, la mitad de los ingresos de
+las empresas cotizadas allí proceden de mercados en el exterior. Por último, son
+las series de datos que para un período de tiempo tan amplio son más homo­
+géneas desde un punto de vista estadístico.
+Hay que señalar, sin embargo, que tal y como ponen de manifiesto
+Dimson, Marsh y Staunton (2017), las conclusiones que aquí obtendremos
+sobre la evolución en el tiempo de activos de EE. UU. son aplicables, en tér­
+minos generales, a los 23 países que estos autores anualmente analizan, entre
+los que está España, que por el tamaño de su mercado de activos financieros
+ocupa el lugar decimocuarto.
+Existen series temporales publicadas anteriores al año 1926, que aquí
+tomamos como año inicial, y que empiezan a comienzos del siglo XIX; véanse
+por ejemplo Siegel (2014) y el capítulo once de Dimson, Marsh y Staunton
+(2017). Sin embargo, como estos autores señalan, no son suficientemente fia­
+bles. En todo caso, debe observarse que el período de 91 años aquí conside­
+rado, de 1926 a 2016, engloba la mayoría de todos aquellos episodios que cual­
+quier inversor ha vivido y puede vivir en el futuro. Incluye períodos de guerra
+y de paz, de fuerte crecimiento económico y de grandes crisis, de inflación y
+de deflación, y, en fin, de tremendos cambios tecnológicos.
+Muchas son las conclusiones que se pueden obtener a partir del aná­
+lisis de la evolución de las series temporales en este gráfico, así como de los
+datos subyacentes a ellas. Las vamos a agrupar en tres categorías. La primera
+de ellas tiene que ver con la evolución, a lo largo de todo este período, del
+valor de las inversiones realizadas en los siete tipos de activos que hemos con­
+10
+
+
+
+siderado. Así, un dólar invertido en 1926 en acciones de grandes empresas
+americanas ha generado en términos reales 455$, o lo que es lo mismo, ha
+aumentado su capacidad de compra 455 veces. Si la inversión se hubiera hecho
+en un índice de pequeñas empresas, el resultado es que ese dólar se hubiera
+convertido en 2.698$ en el año 2016. Si la inversión se hubiera llevado a cabo
+en renta fija a largo plazo, la revalorización habría sido muy inferior. Así, la
+inversión en bonos de grandes empresas americanas se habría multiplicado
+por 13,1, y en bonos del Estado por 8,7. El oro se habría revalorizado solo 3,9
+veces y la vivienda 2,3 veces, siempre en términos reales. Por otra parte, la
+inversión en letras del Tesoro de un dólar en 1926 lo habría convertido en 1,4$
+al final del período, protegiéndola de la inflación, ya que un dólar de 1926 al
+final de 2016 habría perdido prácticamente todo su valor si no se hubiera inver­
+tido en activo alguno, puesto que tendría una capacidad de compra de 7 cen­
+tavos.
+Dicho en otros términos, la inversión más rentable ha sido la realizada
+en empresas de tamaño pequeño con una rentabilidad media anual del 9,1%,
+con una diferencia apreciable respecto a la obtenida en la inversión en empre­
+sas grandes, que fue del 7,0%. La inversión en bonos a largo plazo de empre­
+sas ascendió al 2,9%, y fue algo superior a la de los bonos a largo plazo del
+Estado, a la que correspondió un 2,4%. La inversión en letras del Tesoro ape­
+nas ha mantenido el poder adquisitivo del dólar, ya que tuvieron una rentabi­
+lidad del 0,4%. Además, la vivienda tuvo una rentabilidad anual del 0,8% y el
+oro del 1,6%. Como hemos señalado, hay que tener en cuenta que esta renta­
+bilidad de la vivienda es la derivada solo del incremento de su precio en tér­
+minos reales, ya que no incorpora la componente adicional obtenida de su uso
+o de las rentas por alquiler. Tomaremos como referencia para estas rentas la
+rentabilidad de los bonos a largo plazo del Tesoro. Por consiguiente, si tene­
+mos en cuenta los altos costes de mantenimiento y de gestión asociados a la
+propiedad de una vivienda, y dada su baja revalorización del 0,8%, podemos
+asignarle una rentabilidad anual equivalente a la de estos bonos. La tradición
+inflacionaria de España hace que todavía invertir en vivienda se siga conside­
+rando como una forma de proteger la inversión frente a incrementos en el nivel
+general de precios.
+Cabe advertir que los valores de las correspondientes rentabilidades
+anuales medias se han obtenido utilizando la media geométrica y no la aritmé­
+tica de las rentabilidades anuales. Desafortunadamente, con frecuencia se uti­
+liza la media aritmética, que tiende a sobreestimar las rentabilidades anuales,
+tanto más cuanto mayor sea su variabilidad en el tiempo.
+La segunda categoría de conclusiones que podemos obtener hace refe­
+rencia al riesgo implícito en cada una de estas inversiones. Es habitual equipa­
+rar el riesgo a la volatilidad, es decir, a la variación de la rentabilidad de un
+activo respecto a su valor medio en un período de tiempo determinado. Aun­
+11
+
+
+
+que, realmente, el riesgo debiera medirse por la probabilidad de que la inver­
+sión, o parte de ella, se pierda en un horizonte de tiempo determinado. No obs­
+tante, la volatilidad es el indicador que con más asiduidad se utiliza, en la lite­
+ratura académica y profesional, para valorar el riesgo de una inversión. La
+volatilidad se caracteriza por la desviación estándar, que es una medida de la
+dispersión de los distintos valores respecto a su valor promedio. Esta es una de
+las características básicas que se debe tener presente a la hora de fijar el riesgo
+máximo que está dispuesto a aceptar un inversor. Sin embargo, la aversión al
+riesgo de un inversor no es una característica fácilmente medible, puesto que
+depende de múltiples variables asociadas a su actitud frente al ahorro e inver­
+sión.
+Hoy, los intermediarios financieros están obligados por la Directiva
+Europea de Mercados Financieros, Markets in Financial Instruments Directive
+(MiFID) por sus siglas en inglés, a realizar a sus potenciales clientes unas deter­
+minadas pruebas para estimar sus umbrales aceptables de riesgo. Este tipo de
+evaluación de idoneidad se reforzará en la MiFID II, que, previsiblemente,
+entrará en vigor en enero de 2018.
+Los datos analizados para este período de 91 años ordenan, de mayor
+a menor, la volatilidad de los rendimientos en los siete activos analizados, de
+acuerdo con su desviación estándar, de la siguiente forma: acciones de peque­
+ñas empresas, 31,9%; acciones de grandes empresas, 20,3%; oro, 19,9%; bonos
+a largo plazo del Estado, 11,2%; bonos a largo plazo de empresas, 9,8%;
+vivienda, 5,2%; y letras del Tesoro, 4,0%.
+De la secuencia de datos anterior se deduce, en términos generales,
+que la rentabilidad media está directamente relacionada con la volatilidad, con
+la excepción del oro, que a pesar de su baja rentabilidad tiene una volatilidad
+en el período considerado relativamente grande. Por otra parte, la justificación
+básica, desde un punto de vista financiero, de haber invertido en vivienda, es
+la baja volatilidad que ha tenido a lo largo del tiempo comparada con la de las
+inversiones alternativas.
+A los dos grupos de conclusiones generales a los que acabo de hacer
+referencia hay que añadir un tercero: este es el hecho de que la rentabilidad
+de los distintos activos, así como de la volatilidad asociada a ella, dependen de
+forma determinante, dentro del período de 1926 a 2016, del origen de la inver­
+sión y del momento en el que, en su caso, se intente su reembolso.
+Por ejemplo, en el período de 20 años transcurridos entre 1997 y 2016,
+las rentabilidades medias anuales, en términos reales, han sido las siguientes,
+en orden decreciente: acciones de pequeñas empresas, el 8,4%; acciones de
+grandes empresas, 5,6%; bonos a largo plazo de empresas, 5,2%; bonos a largo
+plazo del Estado, 5,0%; oro, 3,7%; vivienda, 1,9%; y letras del Tesoro, 0,0%. En
+12
+
+
+
+este período de 20 años, el dólar ha perdido el 52% de su capacidad de com­
+pra, es decir, al final de 2016 se habría convertido en 0,48 dólares.
+Vemos, pues, que en el período de los últimos 20 años que ha termi­
+nado en 2016, los resultados son significativamente distintos a los del período
+completo que hemos considerado a partir del año 1926. Pero para poner de
+manifiesto, todavía de forma más evidente, la importancia del subperíodo que
+podamos considerar, analicemos el comportamiento de los mencionados siete
+tipos de inversión, ahora para los 17 años completos del siglo XXI. Estos son
+los datos correspondientes a las rentabilidades medias para este período: accio­
+nes de pequeñas empresas, 7,8%; oro, 6,3%; bonos a largo plazo de grandes
+empresas, 5,5%; bonos a largo plazo del Estado, 5,2%; acciones de grandes
+empresas, 2,4%; vivienda, 1,5%; y letras del Tesoro, -0,5%.
+Asimismo, los resultados de estos últimos 17 años difieren no solo de
+los del período completo de 91, sino también del período de los últimos 20. Sin
+embargo, sería un error generalizar los resultados obtenidos en lo que va de
+siglo para defender, por ejemplo, la conveniencia de invertir en oro respecto a
+las otras alternativas. Como es natural, a la hora de invertir no tenemos que
+pensar que el mundo ha comenzado con el siglo XXI. El hecho de que en el
+año 2000 finalizara una fase en la que el mercado de acciones fue tremenda­
+mente alcista, hasta el estallido de la conocida burbuja tecnológica, condiciona
+sobremanera la rentabilidad relativa del mercado de acciones respecto a la de
+los bonos y a la del oro en lo que va de siglo. Este tercer grupo de observa­
+ciones nos muestra que los mercados proporcionan, para los distintos activos,
+resultados muy diferentes dependiendo de los diversos intervalos de tiempo
+que se consideren.
+En todo caso, la conclusión general que se obtiene es que, una vez
+fijado un cierto nivel de aversión al riesgo, la decisión adecuada a largo plazo,
+desde el punto de vista de su rentabilidad, es la de invertir en activos financie­
+ros. Puesto que las acciones son las que mayor volatilidad soportan, la estrate­
+gia básica suele ser asignar los recursos disponibles entre acciones y bonos,
+dada la menor volatilidad que estos últimos tienen respecto a las acciones. De
+esta forma, se modula la aversión al riesgo del inversor mediante la proporción
+que en su cartera tiene la renta fija. Una asignación típica es la de invertir el 60
+% del patrimonio disponible a largo plazo en acciones y el 40 % restante en
+bonos. Caben, desde luego, otras alternativas, y a los criterios de asignación de
+capital me referiré más tarde, puesto que es un elemento determinante en la
+rentabilidad última de cualquier cartera.*
+*
+
+*
+
+13
+
+
+
+FORMAS D E INVERTIR Y SU COSTE
+
+Una vez tomada la decisión de invertir en alguno de los activos finan­
+cieros hasta aquí analizados, hay dos posibilidades de hacerlo. La primera sería
+invertir directamente en alguno o en varios de estos activos, y constituir de
+esta manera una cartera propia de activos financieros. Esta estrategia requiere
+disponer de los medios, del tiempo y, sobre todo, del conocimiento adecuado
+para llevarla a cabo. Si así se intentara hacer, hay que ser conscientes de que
+se estaría compitiendo a título individual y, normalmente, con conocimientos
+sin duda precarios, con infinidad de instituciones financieras y analistas que
+operan muy profesionalmente en estos mercados. Con frecuencia, en esta des­
+igual confrontación, cuando el inversor individual cree haber descubierto una
+oportunidad porque determinado activo está barato y decide comprarlo, exis­
+ten sólidas razones por las que el mercado le asigna ese precio y no uno supe­
+rior. Además, la inversión directa en activos financieros está penalizada fiscal­
+mente respecto a la alternativa de invertir en este tipo de activos a través de
+fondos de inversión, proceso que se facilita por el hecho de que los mercados
+financieros ofrecen una inmensa variedad de estos vehículos de inversión.
+Un fondo de inversión es una institución de inversión colectiva cuyo
+patrimonio está formado por aportaciones de un número variable de inverso­
+res o partícipes, que son propietarios del fondo en proporción a su aportación
+a este. El fondo lo crea una gestora, que es aquella que invierte el patrimonio
+en los diferentes activos financieros. Esta política de inversión, así como otras
+características del fondo, tales como las comisiones que cobra o el riesgo que
+asume, están especificadas en el conocido como folleto informativo del fondo.
+La regulación a la que están sometidos los fondos de inversión les exige un
+nivel mínimo de diversificación, de liquidez y de transparencia. Los fondos
+actualizan diariamente sus valores liquidativos. Un inversor que pretendiera
+reproducir su participación en el fondo comprando individualmente los activos
+de los que se compone incurriría en costes de transacción muy elevados. La
+ventaja fiscal que tienen los fondos respecto a la tenencia individual de los
+activos financieros es que las plusvalías o dividendos que potencialmente se
+pueden generar están exentas de pagar impuestos hasta el momento en el que
+se vendan las correspondientes participaciones.
+Un reciente vehículo de inversión son los fondos de inversión cotiza­
+dos, más conocidos por sus siglas en inglés, ETF (Exchange Traded Funds). Los
+ETF llegaron a Europa en el año 2000, a las bolsas de Londres y Francfort, y a
+España en 2006, al amparo del nuevo Reglamento de Instituciones de Inversión
+Colectiva. Son fondos de inversión cuya principal característica es que se nego­
+cian en mercados secundarios de valores, como las acciones o los bonos.
+Existen gestores de otro tipo de activos, que se engloban bajo el nom­
+bre de inversión alternativa y que gestionan fondos de capital riesgo, hedge
+
+14
+
+
+
+funds y prívate equity, aunque no nos referiremos a ellos, entre otras razones,
+por la diferente naturaleza de riesgo que incorpora la gestión de estos tipos de
+inversión alternativa y porque representan una proporción del mercado relati­
+vamente más pequeña. Esta observación es relevante para evitar una lectura
+sesgada de las páginas que siguen. En particular, desde el llamado mundo de
+la «banca privada», que para determinado tipo de inversores puede aportar algún
+valor añadido, aunque, por su propia naturaleza, no existe información sobre
+esta actividad análoga a la que en este trabajo vamos a utilizar. Por ejemplo,
+Warren E. Buffett, que es la referencia en el mundo de los inversores, en donde
+demostró su clarividencia ha sido básicamente, en operaciones de prívate equity,
+esto es, comprando y vendiendo empresas que no cotizaban en los mercados.
+Pese a ser utilizado con frecuencia, este no es el mejor de los ejemplos para
+defender el tipo de gestión activa, a la que nos referiremos a continuación.
+Así pues, en lo que sigue consideraremos, exclusivamente, la inver­
+sión en activos financieros a través de fondos que invierten en activos que coti­
+zan en mercados regulados con suficiente liquidez y transparencia. Esto equi­
+vale a decir que se pueden comprar y vender en cualquier momento a un
+precio conocido.
+Ahora bien, es necesario distinguir con claridad los fondos de gestión
+activa de los fondos de gestión pasiva. Esta diferencia y su análisis es la que jus­
+tifica, prácticamente, este trabajo. La gestión activa está fundada en la posibili­
+dad de que el gestor sea capaz de incorporar al patrimonio del fondo aquellos
+activos que, tras un análisis previo de estos, supone que van a subir de precio,
+para así venderlos posteriormente a un precio superior. Por el contrario, cuando
+su análisis le conduce a pensar que un activo va a bajar, o bien no lo incorpora
+al fondo, o, si está ya en él, lo vende. Aunque, en la práctica, la decisión no es,
+simplemente, la de incorporar o eliminar determinados activos del fondo, dado
+que, en la terminología al uso, los gestores activos lo que dicen que hacen es
+sobreponderar o infraponderar en el patrimonio del fondo determinados acti­
+vos del mercado. Es decir, este gestor, que hemos llamado activo, toma las deci­
+siones sobre la base de análisis previos que le indican el potencial de ganancias
+o pérdidas implícitas en los diferentes activos cotizados en los mercados.
+Dos son los tipos de análisis que llevan a cabo los gestores activos. El
+más básico de ellos es el llamado «Análisis Técnico», que es un conjunto de pro­
+cedimientos que se utilizan para realizar previsiones a corto plazo sobre el pre­
+cio de los activos financieros. La comunidad académica sabe bien que los aná­
+lisis de este tipo no tienen una base teórica mínimamente aceptable y, por tanto,
+carecen de capacidad predictiva alguna. En todo caso, asombra la cantidad de
+recursos y personas dedicados, todavía hoy, a esta clase de experimentos que,
+como se ha dicho, están al margen de los conocimientos más básicos de series
+temporales. Es difícil entender cómo páginas enteras de la prensa económica
+especializada e informes de intermediarios financieros siguen empapados de
+
+15
+
+
+
+análisis de esta naturaleza. Para personas mínimamente formadas en economía
+cuantitativa, el lenguaje que en ellos se utiliza, así como las conclusiones a las
+que llegan, no alcanzan un rigor siquiera comparable al de la astrología.
+El llamado «Análisis Fundamental» parte del supuesto de que el precio
+es función del valor del activo. Por tanto, el propósito último de este tipo de
+análisis es calcular el valor de ese activo, que se obtiene como la suma de los
+flujos monetarios futuros que genera ajustados a su valor presente. Una idea
+clave es la del cálculo del valor presente, que es la forma de valorar hoy los
+flujos de dinero que recibiremos mañana. Obviamente, no es lo mismo recibir
+hoy una determinada cantidad de renta generada por nuestra inversión que
+recibirla diez años más tarde. Para ello se utiliza la tasa de descuento, cuya
+determinación, como veremos, no está exenta de dificultades. Este análisis, tan
+sucintamente así descrito, es aplicable a la valoración de cualquiera de los acti­
+vos que hemos considerado, incluso a aquellos no financieros.
+Son varias las posibilidades que la literatura sobre valoración de empre­
+sas considera al definir los flujos monetarios que generan. Así, en lugar de los
+beneficios que se distribuyen, se puede considerar, por ejemplo, el beneficio
+después de impuestos, el cash flow o el EBITDA, que equivale a la cifra de
+beneficios antes de intereses, impuestos, depreciaciones y amortizaciones.
+Vemos, entonces, que los dos problemas fundamentales en este tipo de
+análisis son el cálculo de los beneficios futuros de la empresa, o cualquier otro
+flujo que se considere equivalente, y la determinación de la tasa de descuento
+que tenemos que aplicar a estos flujos.
+En cuanto al primero de ellos, es difícil pensar que de forma sistemá­
+tica un determinado analista de inversiones pueda predecir la evolución futura
+de estos flujos con más fiabilidad de la que lo hace el mercado, al estar incor­
+porada en él toda la información pública de la que se dispone sobre esa
+empresa. Esta situación es compatible con la evidencia de que estos mercados
+presentan siempre problemas de información asimétrica que los conduce a
+situaciones lejos de la eficiencia. Cosa distinta es que se esté en condiciones de
+poder beneficiarse de esa ineficiencia. Quizás quepa recordar aquí el caso de
+Enron, que llegó a ser la séptima empresa de EE. UU. en el año 2001, y poco
+antes de su desaparición 16 de los 17 muy reputados analistas que valoraban
+su evolución recomendaban públicamente su compra, sobre la base de cálcu­
+los de esta naturaleza. Aunque en este caso se presentó, también, un clamo­
+roso problema de asimetría en la información, ya que los estados financieros
+formulados por los gestores no respondían a la realidad de la empresa.
+Respecto a la segunda variable, la tasa de descuento, cabe también
+considerarla como un coste de oportunidad, en la medida en la que al invertir
+en una determinada empresa dejamos de hacer otro tipo de inversiones o de
+
+16
+
+
+
+consumir otros productos. La tasa de descuento que se utiliza para los flujos
+generados por la actividad de una determinada empresa es equivalente a su
+coste medio ponderado de capital, WACC ( Weighted average cosí o f capital)
+por sus siglas en inglés. Para su cálculo se utiliza el modelo de valoración de
+activos financieros, en inglés el Capital Asset Pricing Model (CAPM), desarro­
+llado por Sharpe (1964). En la práctica, este coste tiene dos componentes: el
+coste sin riesgo y la prima de riesgo multiplicada por un parámetro que en el
+modelo recibe el nombre de beta. Ambas tienen una fuerte componente sub­
+jetiva, aun dentro de la racionalidad que el modelo conlleva. El coste sin riesgo
+se asocia normalmente al tipo de interés de los bonos emitidos por el gobierno
+del país en el que se realiza la inversión, y este no es, por definición, un valor
+unívoco. Como ya hemos comentado para la economía de EE. UU., este valor
+oscila en el tiempo para los bonos a largo plazo y también lo hace para bonos
+con plazos menores.
+En cuanto a la determinación del segundo de los sumandos, en la lite­
+ratura de valoración de empresas es frecuente trabajar con primas de riesgo que
+varían entre el 2 y el 6%. Es importante señalar que la elección de un valor que
+difiera de otro solo en un 1% cambia sustancialmente el valor de la empresa
+analizada.
+Por otra parte, y como es bien sabido, cuando el parámetro beta se
+estima, por los procedimientos adecuados, se pone de manifiesto que su valor
+se modifica a lo largo del tiempo. De hecho, el modelo CAPM es el ejemplo clá­
+sico que se utiliza en los procedimientos de estimación de parámetros cam­
+biantes; véase, a título de ejemplo, ÑERA (2016). Situación que se entremezcla
+con la incorrecta especificación del modelo, y a la que me referiré más tarde
+en un apartado algo más técnico.
+Como en alguna otra ocasión ya he señalado, puesto que la variable
+WACC no es observable, su cálculo, para intentar conseguir un valor de refe­
+rencia estable a largo plazo, requiere formular algunas hipótesis muy determi­
+nantes para el valor así estimado y, como consecuencia, el resultado obtenido
+no es lo robusto que sería de desear. Vemos, entonces, la dificultad que entraña
+la implementación de las técnicas de gestión activa para poder alcanzar resul­
+tados satisfactorios y así poder determinar el valor correcto de las acciones. Es
+sorprendente que, con estas fuentes de incertidumbre, circulen por el mercado
+análisis de valoración de empresas que terminan utilizando cifras para el coste
+de capital con hasta dos decimales. Este es un ejemplo clásico de lo que podrí­
+amos llamar «falsa precisión». Si las herramientas de la gestión activa tienen
+tales limitaciones, está claro que los precios de los activos siempre serán inco­
+rrectos. Sin embargo, la dificultad estriba en saber, con un cierto nivel de fia­
+bilidad, si en un momento concreto están infravalorados o sobrevalorados.
+
+17
+
+
+
+El texto clásico del «Análisis fundamental» es el de Graham y Dodd
+(1934), cuya sexta edición se publicó en el año 2008 todavía con un prólogo
+de Warren E. Buffett, quien lo considera como su libro de cabecera, y a Ben­
+jamín Graham como su maestro. Justo es reconocer que bastantes años después
+de la publicación de su libro, Graham (1976) llegó a reconocer, en una entre­
+vista en el Financial AnalystJournal, que ya no creía que este tipo de análisis
+pudiera permitir una elección de activos en el mercado que consiguieran com­
+pensar los costes en los que se incurre al llevarlos a cabo. En efecto, pese a que
+estas técnicas tienen una coherencia teórica incuestionable, no hay una evi­
+dencia empírica significativa que ponga de manifiesto que su utilización per­
+mite de forma sistemática señalar las empresas que están infravaloradas o
+sobrevaloradas. La dificultad básica radica en que la incertidumbre asociada a
+las predicciones de flujos futuros y a la elección de la tasa de descuento, o
+coste de capital, es tan relevante, que introducidas adecuadamente en los
+modelos de las correspondientes valoraciones incorporaría intervalos de con­
+fianza tan grandes que en ellos estaría comprendido el precio de la empresa
+en el mercado. Graham está considerado como el padre de una de las estrate­
+gias que hoy se encuentran tan de moda, y que se conocen como estrategias
+de inversión en empresas apoyadas en determinados factores, o fuentes de
+rentabilidad, en inglés factor investing. En este caso, invertir en compañías
+baratas desde el punto de vista del análisis fundamental (factor valué). A este
+tipo de estrategias me referiré más tarde.
+La gestión pasiva implica invertir a través de fondos que tengan la
+misma evolución que un determinado índice que se toma como referencia. En
+general, este tipo de fondos se construye de tal forma que su patrimonio inte­
+gra las acciones de las empresas que cotizan en un cierto mercado en propor­
+ción a su valor o capitalización bursátil. Así podemos hablar de un «fondo
+índice» del IBEX 35 o del S&P 500. Pero no necesariamente el índice que se
+toma como referencia es el de una economía en su conjunto, ya que pueden
+elegirse solo determinados sectores de ella. También el índice puede abarcar
+mercados de más de un país, incluso se pueden considerar fondos de inversión
+pasiva de carácter global. La industria ofrece hoy múltiples posibilidades de
+elección entre fondos de gestión pasiva. Cabe decir, entonces, que el propó­
+sito de los fondos de gestión activa es mejorar o batir al mercado, o a la parte
+de él que se tome como referencia, mientras que el objetivo de los de gestión
+pasiva es simplemente replicarlo. Un elemento fundamental para comparar los
+resultados de estos dos tipos de gestiones es la clara y previa definición del
+índice que se toma como referencia.
+Desde finales de los años setenta los fondos índice ya se introdujeron
+en el mercado recogiendo la evidencia empírica de, entre otros, trabajos como
+los de Harry M. Markowitz (1952) y William F. Sharpe (1964), que años más
+tarde compartirían con Merton H. Miller el premio Nobel en 1990. De hecho,
+el primer fondo índice lo gestionó Wells Fargo para el fondo de pensiones de
+18
+
+
+
+Samsonite. Sin embargo, no fue hasta mediados de 1976 cuando John C. Bogle
+fundó Vanguard para lanzar desde allí al mercado los primeros fondos índice
+o de inversión pasiva. No obstante, el crecimiento de este tipo de fondos fue
+muy lento durante décadas. Lo fue hasta que la evidencia empírica a su favor
+se hizo abrumadora con el paso del tiempo y a ella se unió también el soporte
+teórico que el ámbito académico le ofreció. Aunque tienen su origen en la
+década de los 90, en los últimos años han tenido un espectacular desarrollo los
+fondos índice ETF. Como hemos señalado, estos fondos cotizan en los merca­
+dos de forma análoga a las acciones, a diferencia de los fondos índice tradicio­
+nales que actualizan su valor liquidativo solo al final de cada jornada.
+Si el criterio de inversión es seguir una estrategia pasiva, es obvio que
+no hacen falta las herramientas que utiliza la gestión activa y, al menos en parte,
+tampoco es necesaria la muy sofisticada y costosa industria de bancos de inver­
+sión y de gestión de patrimonios, que tan grande desarrollo y beneficios ha
+tenido en las últimas décadas. La primera consecuencia de seguir estrategias de
+inversión tan distintas, como son la activa y la pasiva, es que las comisiones
+que se cobran al inversor son muy desiguales. Durante mucho tiempo la indus­
+tria de la gestión activa ha cobrado altas comisiones sobre el patrimonio admi­
+nistrado que, como veremos, casi nunca estuvieron justificadas por los resulta­
+dos o rentabilidades que obtenían. Por ejemplo, estas comisiones han llegado
+a alcanzar hasta el 3% en la gestión de los planes de pensiones en España, que
+actualmente tienen un tope legal máximo del 1,5%, a la que hay que añadir un
+0,25% de la relativa a la comisión de depósito. En cuanto a otros fondos de ges­
+tión activa, las comisiones oscilan, aproximadamente, entre el 1 y el 3%. Por el
+contrario, el mercado ofrece hoy fondos de gestión pasiva con comisiones tan
+bajas cómo del 0,1%, con una capacidad de reproducir el índice fijado de ante­
+mano casi absoluta. Algunos ETF tienen comisiones incluso del 0,05%. Es impor­
+tante señalar que, por ejemplo, un punto porcentual de diferencia en la comi­
+sión cobrada en la gestión de un fondo genera una diferencia muy apreciable
+en el patrimonio que se alcanza en horizontes no solo de largo plazo, sino tam­
+bién de medio plazo. Ilustremos con un ejemplo esta afirmación tan relevante.
+Si tomamos como referencia el citado informe de Dimson, Marsh y
+Staunton (2017), en su página 42, veremos la rentabilidad anual media del mer­
+cado de acciones y de bonos del Estado correspondientes a España; concreta­
+mente para el período de 50 años comprendidos entre 1967 y 2016, así como
+para el de los 17 años de este siglo, es decir, para el intervalo desde el año 2000
+a 2016. Pues bien, en el ejercicio que vamos a realizar, supondremos que se ha
+construido una cartera al principio de cada uno de estos dos períodos con el
+50 % de ella en un fondo que replicó el mercado de acciones y el otro 50 %
+en otro fondo que replicó el mercado de bonos del Estado a largo plazo. La ren­
+tabilidad anual correspondiente a la cartera, así definida, hubiera sido, para el
+período de 50 años, del 3,85%, y para el de 17 años, del 3,7%, siempre en tér­
+minos reales.
+
+19
+
+
+
+Contemplemos tres escenarios distintos, en los que las comisiones paga­
+das por la gestión de estas dos carteras hayan sido del 2%, del 1% y del 0,2%,
+respectivamente. Supondremos, también, que la cartera se reequilibra todos los
+años para mantener la misma proporción de acciones y bonos en ella, que,
+como hemos visto, es la que refleja una determinada aversión al riesgo. Estos
+serían los resultados obtenidos a finales del pasado año: para la cartera mante­
+nida durante el período de 50 años, un euro invertido en el año 1967 se habría
+convertido en 2,50 con la comisión del 2%, en 4,08 con la comisión del 1%, y en
+6,00 con la del 0,2%; para la cartera construida en el año 2000, un euro de ese año
+se habría convertido en 2016 en 1,33, en 1,57 y en 1,79, respectivamente.
+Estos datos muestran con claridad el contundente efecto de las comi­
+siones en la rentabilidad final alcanzada. Por ejemplo, la bajada de un punto por­
+centual, del 2 al 1%, en las comisiones pagadas representa un incremento del
+patrimonio administrado del 18 % en el período de 17 años. Si la competencia
+que hoy está ya en el mercado se llegara a establecer con comisiones del 0,2%,
+el incremento del patrimonio, al cabo de estos 17 años, habría sido del 35%. Sin
+duda, el efecto acumulativo de las comisiones se incrementa muy significativa­
+mente con el plazo de la inversión. Así, para los 50 años, un punto porcentual
+habría significado un incremento del patrimonio del 63%. Considerando una
+comisión del 0,2%, esta cifra se dispararía al 140%. Tales diferencias pueden
+parecer sorprendentes, pero en la conocida expresión de John C. Bogle, sola­
+mente son el resultado de «las implacables reglas de la humilde aritmética».
+*
+
+*
+
+GESTIÓN ACTIVA V ER SU S GESTIÓN PASIVA
+
+Estas altas comisiones de la gestión activa estarían justificadas si el
+conocimiento y la destreza de los analistas hicieran posible obtener mejores
+rendimientos que el mercado en términos agregados o que un determinado
+sector de él que se tome como referencia o benchmark. Como hemos adver­
+tido, este supuesto se puso en entredicho hace ya algunas décadas. Desde
+entonces el debate entre inversión activa y pasiva se ha hecho interminable.
+Veamos que dicen los datos.
+Desde el año 2002, S&P Dow Jones Indices ha venido publicando
+semestralmente los resultados de comparar el desempeño de la gestión activa
+y de la gestión pasiva de los fondos de inversión en las siguientes áreas o paí­
+ses: Australia, Canadá, Europa, India, Japón, América Latina, África del Sur; y
+EE. UU., véase SPIVA (2017a), (S&P Indices Versus Activé). La conclusión a la
+que, en términos generales, llega esta ingente y rigurosa comparación viene
+expresada en los siguientes términos:
+
+20
+
+
+
+-Los fondos gestionados activamente han tendido históricamente a
+tener una rentabilidad menor que los índices de referencia, tanto a corto como
+a largo plazo. Esto ha sido cierto, con muy pocas excepciones, en todos los paí­
+ses y regiones analizadas. En aquellos casos en los que los fondos gestionados
+activamente de una determinada categoría han superado el índice de referen­
+cia en un período de tiempo dado, por lo general, no han sido capaces de
+superarlo en sucesivos períodos de tiempo. Esta última afirmación es relevante,
+ya que la única forma posible de diferenciar el bien y documentado juicio, o
+habilidad, de la mera suerte en la gestión de un fondo activo es que consisten­
+temente obtenga mejores resultados en sucesivos períodos de tiempo que la
+equivalente gestión pasiva».
+Aunque son varios los análisis disponibles en la literatura que abordan
+este mismo problema, hemos tomado SPIVA como referencia por la amplitud
+de mercados que abarca, por su fácil y gratuito acceso en la red, por su perio­
+dicidad semestral y por su rigor. Por ejemplo, corrige el conocido sesgo de
+supervivencia. De hecho, una cantidad apreciable de fondos se liquidan o se
+fusionan con otros, como consecuencia de su mal comportamiento, durante el
+período de tiempo que se está analizando. Sin embargo, para alguien que toma
+una decisión de invertir al principio del período, estos fondos forman parte del
+conjunto de oportunidades para invertir en ellos. A diferencia de otros infor­
+mes análogos, los Scorecards SPIVA tienen en cuenta este hecho, considerando
+todas las opciones de inversión disponibles al principio del período analizado,
+para evitar así el llamado sesgo de supervivencia. De no tener en cuenta este
+sesgo, se sobrevalorarían los resultados, en cualquier caso mediocres, de la
+gestión activa. Para dar una idea de la importancia de tener en cuenta este
+sesgo, hay que señalar que, en el período de 15 años que termina en 2016, el
+58 % de los fondos de acciones en el mercado de EE. UU. se fusionaron o sim­
+plemente desaparecieron del mercado.
+Sin ánimo de aburrir con cifras, merece la pena citar de forma con­
+creta alguna de ellas, tomando como referencia los datos relativos a diciem­
+bre del pasado año, de 2016. El 66% de los fondos de gestión activa de gran­
+des empresas que tienen como referencia el índice S&P 500 tuvieron
+resultados inferiores a tal índice en ese año. Si se considera el período de tres
+años finalizado en diciembre de 2016, el 93,4% de los fondos de gestión activa
+de esta naturaleza tuvo un rendimiento inferior a los del índice. Si el período
+se alarga a los 5 años anteriores, el 88,3% ha tenido un rendimiento inferior
+al S&P 500. Estos pobres resultados se extienden también a la gestión de los
+fondos pasivos de pequeñas empresas. Así, el 85,5% no superaron el índice
+en el año 2016, y el 96,6 no lo superaron en el período de cinco años ante­
+riores a 2016.
+Las cifras son todavía más determinantes si consideramos los quince
+años que finalizan en 2016. En este caso, el 91,1% de los fondos activos de
+
+21
+
+
+
+grandes empresas no superaron el índice, y el 93,1% de los correspondientes
+a pequeñas empresas también quedaron debajo del suyo.
+Una vez que hemos puesto tanto énfasis en el impacto que las comi­
+siones cobradas por la gestión activa de los fondos tienen en su rentabilidad
+neta, una cuestión relevante sería comparar también los resultados de la ges­
+tión activa en términos brutos, es decir antes del cobro de comisiones, con el
+correspondiente índice. Se trata, entonces, de averiguar qué tipo de resultados
+ofrece la gestión activa, incluso sin tener en cuenta las altas comisiones que
+cobra, respecto a los de la gestión pasiva.
+A esta pregunta responde el reciente informe de SPIVA (2017b), en el
+que se analiza el efecto de las comisiones en el debate sobre la gestión activa
+y pasiva. La conclusión básica que se obtiene de este cabal análisis es que, aun
+sin tener en cuenta las comisiones, la gestión activa obtiene rendimientos sis­
+temáticamente inferiores a los de sus índices de referencia. Veamos algunos
+resultados del citado informe, que acota para su análisis el período de diez
+años que termina en diciembre de 2016. Por ejemplo, cuando se consideran
+todos los fondos de EE. UU. y se comparan con la referencia, en este caso, del
+índice S&P 1500, el 82,9% de todos ellos han tenido una rentabilidad neta de
+comisiones inferior al índice, pero incluso sin tener en cuenta las comisiones
+que cobran, el 67,1%, tampoco lo ha podido superar. Si nos ceñimos solamente
+a los fondos de grandes empresas, y la referencia es el S&P 500, el 84,4% no
+supera el índice cuando se incluyen comisiones y el 68,2% tampoco lo hace
+cuando no se tienen en cuenta. Las cifras para los fondos de empresas peque­
+ñas son el 95,6 y el 81,4%, respetivamente, siendo la referencia en este caso el
+S&P SmallCap 600. Como bien se señala en el informe, este último resultado
+pone en cuestión «el mito de que en el mercado de las empresas de baja capi­
+talización los gestores activos se pueden beneficiar de su mayor ineficiencia».
+Vemos, pues, que los resultados obtenidos en la gestión activa no justifican las
+comisiones que cobran y también que sus resultados, sin tenerlas en cuenta,
+raramente mejoran los de la gestión pasiva.
+Estas conclusiones no debieran ser en absoluto sorprendentes, puesto
+que ya el premio nobel Daniel Kahneman (2011), nos recordó los trabajos de
+Barber y Odean (2000), en los que demuestran que los inversores más activos
+son los que obtienen peores resultados. También estos dos autores, Odean y
+Barber (2001), ponen de manifiesto que los hombres suelen tomar decisiones
+sobre la base de ideas inútiles con más frecuencia que las mujeres; por eso
+ellas invierten mejor que ellos. Pero, en fin, esto ya me llevaría mucho más
+lejos de lo que quiero llegar.
+Como hemos indicado, un dato más relevante todavía es observar la
+persistencia de los resultados. Es decir, la capacidad que tienen aquellos fon­
+dos de gestión activa que haciéndolo mejor que el índice en un año, siguen
+
+22
+
+
+
+haciéndolo mejor en años sucesivos. Francamente, aquí los resultados son toda­
+vía más decepcionantes para la llamada gestión activa. Para ello utilizaremos
+la información más reciente de SPIVA (2017c), que toma como referencia los
+resultados relativos al primer trimestre de 2017. Pues bien, solamente el 0,92%
+de los fondos de las grandes empresas que estaban en el primer cuartil de ren­
+tabilidad tres años antes siguen estando en ese primer cuartil en marzo de 2017.
+También, solo el 2,26% de los correspondientes a pequeñas empresas perma­
+necen en el primer cuartil en esa fecha tres años después.
+Además, existe una relación inversa entre el horizonte temporal que se
+considere y la capacidad que tienen los mejores fondos de gestión activa en un
+año para mantener esa condición en el tiempo. Por ejemplo, ninguno de los
+fondos de grandes y de pequeñas empresas que estaban en el primer cuartil
+cinco años antes permanecen en ese cuartil en marzo de 2017. Finalmente, por
+medio de las matrices de transición que se utilizan, se comprueba que existe
+una apreciable probabilidad de que aquellos fondos que están en el primer
+cuartil un año pasen al último cuartil cinco años después, y viceversa. Por ejem­
+plo, el 27,6% de los que estaban en el primer cuartil pasaron al último en el
+período de cinco años que finalizó en marzo de 2017.
+Obviamente, estos datos dan un resultado pésimo respecto a la persis­
+tencia a largo plazo de los fondos de gestión activa. Desde luego, el estudio no
+lo pretende, pero cabría afirmar que, en este caso, es aplicable la máxima bíblica
+de que: «muchos que son primeros serán últimos; y los últimos, primeros».
+A la vista de esta realidad, nos podemos preguntar qué sentido tienen
+estas convocatorias anuales, anunciadas a bombo y platillo, para reconocer a
+las mejores gestoras un determinado año. La evidencia empírica nos dice que
+aquellos fondos de las gestoras que ocupan los primeros puestos del ranking
+de fondos comparables en un año concreto, tienen una probabilidad no des­
+preciable de estar en los últimos puestos en años sucesivos. Desde luego, siem­
+pre existe la estrategia comercial de que, dada la gran variedad de fondos que
+tienen las gestoras, se pueda elegir uno de entre ellos que un determinado año
+tenga un comportamiento mejor que el índice de referencia correspondiente.
+Utilizando la analogía de John C. Bogle, la mayoría de los que se con­
+sideran inversores estrellas no son tales. Son simples cometas, brillan durante
+un tiempo y terminan apagándose después, esparciendo sus cenizas sobre la
+superficie terrestre o, en este caso, sobre muchos de los inversores que siguie­
+ron sus consejos.
+Se podrá decir que los resultados a los que acabo de hacer referencia
+se limitan al mercado de EE. UU. Sin embargo, las consideraciones generales
+a las que nos conducen, y que tan sucintamente hemos resumido, muestran las
+mismas tendencias para los distintos países analizados en horizontes de medio
+
+23
+
+
+
+y largo plazo. Lógicamente lo que varían son los datos concretos, pero no las
+conclusiones que de ellos se obtienen.
+A título de ejemplo, si tomamos como referencia el índice S&P Eurozone BMI, el resultado que corresponde a los países de la eurozona es el
+siguiente: el porcentaje de fondos activos que no mejoran este índice en hori­
+zontes de uno, tres y cinco años, son, respectivamente, el 80%, el 84,5% y el
+87,8%.
+Hasta aquí solamente hemos hecho referencia a los fondos de gestión
+activa de acciones respecto a los de gestión pasiva. No obstante, resultados
+igualmente mediocres se obtienen para las rentabilidades de los fondos de ges­
+tión activa de renta fija. Con el propósito de no alargar este texto con profu­
+sión de cifras, nos remitimos a la referencia más reciente en SPIVA (2017d).
+Como hemos señalado, existen otras reconocidas fuentes de informa­
+ción que comparan los resultados de la inversión activa y la pasiva. Todas ellas
+obtienen resultados similares. Cabe destacar, entre las más recientes, la de Morningstar (2017).
+*
+
+*
+
+*
+
+SOBRE LA INDUSTRIA DE LA GESTIÓN DE ACTIVOS
+
+La industria de gestión de activos ha tenido una reacción muy lenta a
+la evidencia empírica de que solamente en muy pocos casos, y en circunstan­
+cias especiales y transitorias, la gestión activa justifica las comisiones que cobra.
+Sin embargo, no hay que sorprenderse por ello. Por ejemplo, los activos en ETF
+ya han alcanzado, en el mercado global, la cifra de 5 billones europeos de
+dólares (o trillones americanos), gestionados con una comisión media del 0,2%.
+Pero de haber estado invertida esta cifra en fondos de gestión activa tradicio­
+nales con una comisión media del 1%, los ingresos anuales adicionales que
+estaría percibiendo esta industria, solo por este hecho, serían de 40 mil millo­
+nes de dólares [resultado de (1% - 0,2%) x 5 billones = 40 mil millones]. Si tene­
+mos en cuenta que la cifra del 1% es, en muchos casos, conservadora y que los
+ETF solo son una parte del mercado de gestión pasiva, puede entenderse lo
+mucho que está en juego. Sobre todo, si consideramos que el mercado global
+de acciones y bonos es inmenso, dado que a finales del pasado año había
+alcanzado los 67 billones de dólares para el mercado de acciones, 40 billones
+para el mercado de bonos de empresas y 50 billones para el mercado de bonos
+de gobiernos. Véase la reciente opinión del responsable de investigación en
+Morningstar, Rekentháler (2017). A la vista de estas cifras, se comprenden las
+trabas, de todo tipo, que los fondos de gestión pasiva han tenido para introdu­
+
+24
+
+
+
+cirse en el mercado. Incluso trabas fiscales, ya que todavía hoy los ETF no tie­
+nen el mismo tratamiento fiscal, por ejemplo en España, que los restantes fon­
+dos de inversión.
+Este proceso de innovación de la industria es muy saludable y en mi
+opinión requiere cambios muy sustanciales en ella, y no debemos sorprender­
+nos porque así sea. No tenemos más que ver lo irreconocibles que son para las
+nuevas generaciones actividades que nosotros hemos vivido y ellas consideran
+hoy anacrónicas. Piénsese en la industria de los medios de comunicación, de
+la distribución y venta de productos de consumo, de los taxis y agencias de
+viaje y, en fin, de la industria de los relojes.
+Cosa distinta es prever cuál va ser la reacción del sector frente a esta
+realidad. Caben dos salidas: la más deseable es la de la innovación, de la que,
+por ejemplo, los fondos indiciados y los ETF son buenos ejemplos, aunque
+seguramente en el futuro aparecerán muchos otros; la segunda, es seguir
+negando la evidencia y, por ejemplo, prolongar la situación de falta de trans­
+parencia en el necesario servicio que se le debe prestar al inversor, o no reco­
+nociendo las ventajas de la inversión pasiva, atribuyéndole problemas que en
+realidad no tiene. En todo caso, hay que recordar, en palabras del novelista nor­
+teamericano Upton Sinclair, que «es difícil hacer que un hombre entienda algo
+cuando su salario depende de que no lo entienda».
+En las últimas décadas pienso que la actividad de gran parte de la
+industria de gestión de activos ha enfocado su estrategia en una dirección que
+ya hoy, y sobre todo en los próximos años, se ha puesto, y se pondrá, de mani­
+fiesto que no es la correcta. Cierto es, sin embargo, que esa estrategia le ha
+reportado enormes beneficios, hasta que análisis académicos solventes y evi­
+dencia empírica abrumadora, junto con las nuevas tecnologías, han puesto en
+evidencia lo obsoleta que es tal forma de proceder.
+El primer error ha consistido en tratar de definir su actividad, en casi
+su totalidad, como aquella que conduce a mejorar los resultados que el mer­
+cado en su conjunto proporciona, y cuando lo conseguían no hacer explícitos
+los riesgos en los que hacían incurrir a los inversores. Este es el fenómeno que
+Kahneman denomina como «espejismo de la destreza» (illusion ofskill).
+El segundo de los errores fue el derivado de la falta de una regulación
+adecuada que estableciera una mayor competencia en la industria. Indudable­
+mente se ha visto beneficiada de las estrictas regulaciones a las que está some­
+tida la actividad bancaria, sobre todo como consecuencia de la crisis, con la exi­
+gencia de aumentos significativos en sus ratios de capital. Básicamente, los
+bancos se financian a corto plazo y están sometidos a riesgos de solvencia y
+liquidez. Por el contrario, en la industria de gestión de activos son los inverso­
+res quienes soportan todo el riesgo de este proceso de desintermediación. Inne­
+
+25
+
+
+
+cesario es reseñar aquí lo vastos que han sido sus márgenes de beneficio, no
+solo en términos absolutos, sino también comparados con los de la actividad
+bancaria.
+El tercero de los errores es que se ha puesto mucho más énfasis en los
+márgenes del negocio, y en las comisiones cobradas, que en un servicio válido
+y transparente para el cliente. Por extraño que pueda parecer, en la relación
+entre los gestores de inversión y sus clientes se ignoran aportaciones básicas de
+la teoría económica. En particular, el hecho de que una asignación eficiente de
+recursos requiere un cierto reparto del riesgo entre el principal y el agente, es
+decir, entre el inversor y el gestor. Como se ha señalado, no solo recae todo el
+riesgo de la operación en el inversor, sino que en este tipo de gestión activa
+siempre se cobran, de forma invariable, idénticas y altas comisiones indepen­
+dientemente de los resultados alcanzados con ella. La accesibilidad a los fondos
+de inversión pasiva debiera modificar la actividad que esta industria lleva a cabo
+y que tan importante es para el buen funcionamiento de nuestras economías.
+Probablemente la crítica más generalizada a la gestión pasiva es aque­
+lla que señala que en la medida en la que gane cuota de mercado, los volúme­
+nes de negociación decaerán, la liquidez disminuirá, los costes de transacción
+aumentarán y, en definitiva, se minará la capacidad del mercado para fijar los
+precios de los activos de forma eficiente. En la situación límite, así se razona,
+en la que toda la inversión fuera pasiva el mercado se habría terminado. Nadie
+compraría, nadie vendería, habría una falta total de liquidez y el mercado se
+tendría que dar por cancelado.
+Censuras más matizadas incluyen afirmaciones tales como que la inver­
+sión pasiva dificultará que los precios puedan reflejar los valores fundamenta­
+les de las empresas, al no distinguir entre las empresas bien y mal gestionadas.
+Indirectamente esta situación propiciará que los malos gestores no puedan ser
+penalizados, con el consiguiente deterioro del gobierno de las empresas.
+Sin embargo, una vez más, la evidencia empírica no confirma este tipo
+de visiones pesimistas, dado el incremento sostenido de la gestión pasiva en
+los últimos años. En efecto, tal y como hemos demostrado, los mercados no
+parecen haberse hecho más ineficientes en estos años, a la vista de la incapa­
+cidad de la gestión activa para descubrir esas ineficiencias y así poder superar
+las rentabilidades que genera la gestión pasiva. Por otra parte, tal y como las
+cifras indican, los volúmenes de negociación en el mercado han seguido cre­
+ciendo.
+Nada de extraño hay en esta situación, ya que a preocupaciones de
+esta naturaleza le dieron respuesta hace años Grossman y Stiglitz (1980). En este
+trabajo los autores señalan que si los mercados fueran eficientes no tendría sen­
+tido alguno la inmensa actividad de las instituciones y analistas que obtienen sig­
+
+26
+
+
+
+nificativos beneficios con su gestión activa en ellos. Pero, por otra parte, si nadie
+estuviera dispuesto a pagar por esta actividad es difícil que los mercados hubie­
+ran alcanzado el nivel de eficiencia que tienen. En otras palabras, los mercados,
+en determinados contextos, siempre tendrán un nivel de ineficiencia tal que
+permitirán, al menos, a los mejores asesores y analistas de inversión identificar
+aquellos activos mal valorados y obtener una retribución por su trabajo.
+Cuestión distinta, es que el juicioso incremento de la gestión pasiva
+esté poniendo en entredicho mucha de la actividad, de los beneficios y del
+empleo en el sector. No solamente la industria tradicional bancaria ha estado,
+y sigue estando, sobredimensionada. En mi opinión, también lo está la indus­
+tria de gestión de activos, que todavía está dando los primeros pasos en su
+reestructuración. Es incuestionable que la gestión activa juega un papel rele­
+vante en la determinación de los precios de los activos y en el nivel de liqui­
+dez del mercado. Sin embargo, hay que señalar que aún estamos muy lejos de
+aquel punto de equilibrio en el que la gestión activa, teniendo en cuenta las
+comisiones, pueda igualar los resultados de la gestión pasiva. Cuando, even­
+tualmente, esta situación se alcance, es cuando podría volver a estar justificada
+otro tipo de gestión activa, que necesariamente conllevará comisiones sustan­
+cialmente menores que las que en el pasado reciente ha devengado y todavía
+sigue cobrando.
+
+FUNDAMENTOS TEÓRICOS
+DEL COMPORTAMIENTO DEL MERCADO
+
+El hecho de que los fondos pasivos se construyen ponderando las
+acciones de un determinado índice, por ejemplo el IBEX 35 o el S&P 500, por
+su capitalización bursátil, puede conducir a situaciones que tiendan a sobreva­
+lorar algunas de ellas. Esto es lo que sucede, por ejemplo, cuando una deter­
+minada empresa entra en el índice tomado como referencia, ya que en este
+proceso tiende a ser sobrevalorada, como consecuencia de que se anticipan las
+compras que de ella van a realizar los fondos indiciados. Bajo la hipótesis de
+eficiencia de los mercados, en el sentido de que en todo momento el precio
+de cada acción refleja el verdadero valor de la empresa, este tipo de fondos
+ofrece los mejores resultados dada la elección de compromiso entre rentabili­
+dad y riesgo. Sin embargo, la realidad demuestra que el mercado no opera
+siempre bajo estas condiciones. Con el propósito de tener en cuenta este tipo
+de situaciones, la industria de gestión de activos se ha desarrollado de manera
+notable en los últimos años. El reciente libro de Villalba (2016), además de
+analizar las ventajas e inconvenientes de la gestión activa y pasiva de carteras,
+desarrolla de forma extensa muchas de las variantes de la gestión activa.
+
+27
+
+
+
+Fue Markowitz (1952) el primero que planteó el problema de la selec­
+ción de carteras de activos y que, además, le dio una solución satisfactoria. Lo
+hizo proponiendo la generación de la frontera eficiente, que es aquella que
+está formada por carteras que para un nivel de riesgo dado generan la máxima
+rentabilidad esperada. Cualquier otra cartera no situada en esta frontera sería
+ineficiente. De hecho, sus contribuciones son la base de todos los desarrollos
+posteriores en la teoría y práctica de las finanzas. En cierta medida, este autor
+trasladó el debate desde la rentabilidad de activos concretos a la idea de diver­
+sificación de la cartera.
+Años más tarde Sharpe (1964) formuló su conocido modelo CAPM, que
+expresa la rentabilidad de un activo o un fondo concreto, que excede la que
+ofrece el activo sin riesgo, como una función lineal de la rentabilidad que propor­
+ciona el mercado en su conjunto que excede la del activo sin riesgo. Este modelo
+puede interpretarse como un caso particular de una regresión lineal simple, para
+cuyo parámetro independiente se ha acuñado el nombre de alfa. El parámetro que
+afecta al factor o variable explicativa, que es la rentabilidad del mercado que
+excede la del activo sin riesgo, es el conocido por beta. De tal forma que la ren­
+tabilidad de un determinado activo o fondo de inversión, en la jerga al uso, se
+caracteriza por su alfa y su beta. El parámetro beta se interpreta como una medida
+de la sensibilidad que tiene la rentabilidad del activo o fondo considerado respecto
+a variaciones de la rentabilidad del mercado en su conjunto.
+Hay que tener en cuenta que la forma clásica de estimación de este
+modelo de regresión, por mínimos cuadrados, proporciona un valor de beta
+que es igual al producto del coeficiente de correlación entre ambos excesos de
+rentabilidad, multiplicado por la volatilidad relativa, es decir, la volatilidad del
+exceso de rentabilidad del activo dividida por la volatilidad del exceso de ren­
+tabilidad del mercado. Por eso, aunque suele afirmarse que una beta mayor que
+la unidad representa un activo más volátil que el mercado y una beta inferior
+a la unidad representa uno menos volátil, el valor de referencia de beta para
+medir la volatilidad del activo no es uno, sino el de la correlación entre ambos
+excesos de rentabilidad. En efecto, de acuerdo con la citada estimación, un
+valor de beta superior a esa correlación reflejará una volatilidad del activo supe­
+rior a la del mercado, mientras que un valor de beta inferior a esa correlación
+expresará una volatilidad inferior. Por ejemplo, si estimamos un valor de beta
+para un determinado activo de 0,8 al que corresponde una correlación entre el
+exceso de rentabilidad del activo y el del mercado de 0,4, la volatilidad rela­
+tiva será 0,8/0,4 = 2. Es decir, en este caso, para un valor de beta de 0,8 el
+activo tendrá dos veces la volatilidad del mercado.
+Al incorporar un nuevo activo a un fondo, cambiará el antedicho coe­
+ficiente de correlación y también su beta. Pues bien, si el cociente entre esta
+nueva beta del fondo ampliado y su coeficiente de correlación con el mercado
+es mayor que el cociente calculado antes de la incorporación del nuevo activo
+28
+
+
+
+al fondo, ello querrá decir que la incorporación de este activo habrá aumentado
+la volatilidad del fondo. Por el contrario, cuando este cociente sea menor que
+el original, habrá disminuido la volatilidad del fondo con la incorporación del
+nuevo activo. Por eso, el parámetro beta se considera básico a la hora de cons­
+truir una determinada cartera, desde el punto de vista del riesgo que tiene aso­
+ciado. El parámetro alfa se interpreta como la capacidad que tiene un activo o
+fondo para generar una rentabilidad no asociada al riesgo de mercado. Se dice
+entonces que un gestor activo supera al mercado cuando el valor de alfa es
+positivo.
+También fue Sharpe el primero que señaló que es un error equiparar
+la eficiencia del mercado con la incapacidad de los inversores activos, como
+grupo, de superar a los índices pasivos. Un simple ejemplo ilustra por qué esto
+es así. Clasifiquemos a los inversores en dos grupos; en el primero, los inver­
+sores pasivos que toman como referencia un índice del mercado en su conjunto
+y, en el segundo, los inversores activos que intentan a través de sus análisis
+superar al mercado. Supongamos que en un año concreto, la rentabilidad
+correspondiente al índice que representa el mercado es del 6%. Por definición,
+los inversores pasivos tendrán la rentabilidad del índice, que es del 6%. Pero,
+desde luego, también el grupo de inversores activos, en su conjunto, obtendrá
+una rentabilidad del 6%. Uno y otro grupo, antes del pago de comisiones, con­
+siguen la misma rentabilidad. Dado que los costes de la gestión activa son sen­
+siblemente superiores a los de la gestión pasiva, en términos netos el grupo de
+inversores activos tendrá una rentabilidad inferior al grupo de inversores pasi­
+vos. Como destaca Sharpe, este resultado no tiene nada que ver con la eficien­
+cia del mercado, sino que es una simple identidad aritmética y, como todos
+sabemos, y remedando la famosa expresión de aquel ministro de Hacienda ita­
+liano: «aunque todas las opiniones son respetables, la aritmética no es una opi­
+nión». Incluso en el mercado más salvajemente ineficiente, los inversores pasi­
+vos seguirían superando a los inversores activos como grupo, cuando se tienen
+en cuenta los costes adicionales que suponen las comisiones.
+Ahora bien, la indudable claridad conceptual que introdujo el modelo
+CAPM, para definir de forma precisa el riesgo y la rentabilidad, se hace a costa
+de su sencillez y de las fuertes hipótesis implícitas en su formulación. Se usa,
+como se ha señalado, en el cálculo del coste de capital o para valorar los resul­
+tados en la gestión de fondos de inversión. Sin embargo, a partir del trabajo de
+Fama y French (1992), muchos análisis cuestionaron la equívoca utilización del
+modelo CAPM para predecir rentabilidades, y lo hicieron introduciendo en su
+formulación factores explicativos adicionales. Por ejemplo, este trabajo consi­
+dera dos variables explicativas adicionales: la primera incluye el factor tamaño,
+diferenciando la rentabilidad de las acciones de empresas de pequeña capita­
+lización con respecto las de empresas de mayor capitalización, mientras que la
+segunda variable incluye un factor valor relacionado con la diferencia entre
+valor bursátil y valor en libros.
+
+29
+
+
+
+Desarrollos empíricos posteriores de múltiples autores, incluyendo
+Fama y French (2015), introdujeron otros tipos de factores, o variables expli­
+cativas, con el propósito de mejorar, al menos para un cierto intervalo de años,
+la capacidad predictiva de estos modelos factoriales. Este tipo de factores son,
+básicamente, de carácter macroeconómico y microeconómico. Entre los prime­
+ros, podemos señalar la tasa de crecimiento del PIB, la inflación o la curva de
+tipos de interés. Los segundos hacen referencia a una gran variedad de métri­
+cas financieras de la actividad empresarial. También se incluyen, con frecuen­
+cia, factores relacionados con las aportaciones de la conocida como «economía
+del comportamiento («behavioural econom ice}. Es el desarrollo de este tipo
+de modelos factoriales el que ha dado lugar a los fondos conocidos como
+«smart beta- o «beta inteligente», que tan de moda están en los últimos años y
+que, consiguientemente, han captado una parte relevante del mercado, que
+supone el 20% de la inversión en ETF.
+A las dificultades de poder predecir la evolución futura de las métricas
+financieras de las empresas ya nos hemos referido cuando pusimos de mani­
+fiesto las limitaciones del análisis fundamental. Por otra parte, es bien sabido
+que la capacidad predictiva de la ciencia económica no es alta y, desde luego,
+no tiene herramientas válidas, con carácter general, para predecir el comienzo
+y la intensidad de las crisis. Sin embargo, sí permite poner de manifiesto que
+cuando se incumplen algunos principios económicos básicos, la probabilidad
+de que en algún momento se desencadene una crisis es muy alta. Pero este tipo
+de conocimiento no es suficiente para poder ser ütilizado con el propósito de
+batir los muy competitivos mercados de activos financieros. Otro ejercicio que
+los gestores activos están acostumbrados a hacer es tratar de interpretar las
+manifestaciones de los ministros responsables de asuntos económicos y de los
+gobernadores de los bancos centrales. Es aquí cuando hay que recordar la
+réplica del que fue presidente de la Reserva Federal, Alan Greenspan, desde
+1987 a 2006. En un encuentro con empresarios y analistas de inversiones una
+vez que contestó a una de las preguntas que le hicieron, inmediatamente pre­
+cisó: «si le he parecido suficientemente claro, posiblemente haya entendido mal
+lo que dije». Con información de esta naturaleza, procedente de los bancos
+centrales y de los ministerios de Economía, tienen que hacer los analistas sus
+conjeturas sobre la evolución de la curva de los tipos de interés.
+Muchos son los factores que, en determinadas circunstancias, pueden
+aumentar la capacidad predictiva del modelo. Así lo ponen de manifiesto los
+muy variados trabajos teóricos y empíricos que se han desarrollado en las tres
+últimas décadas dirigidos a lo que podríamos llamar la «búsqueda de nuevos
+factores». Tal situación, ha llevado, ya en el año 2011, a que el profesor John
+H. Cochrane de la Universidad de Chicago, en su condición de presidente de
+la Asociación Americana de Finanzas, llegara a acuñar el término de «zoo de
+factores», ya que la academia y la industria han llegado a considerar más de 600
+distintos, y la cifra sigue incrementándose. Con mucha frecuencia este tipo de
+
+30
+
+
+
+ejercicios incurren en el conocido problema de la variante no deseada de data
+mining, es decir, la búsqueda incesante de, al menos, un conjunto de factores
+que se ajuste a los datos correspondientes a un determinado período de tiempo
+y, solamente, bajo delimitadas circunstancias. Como bien afirmó el nobel
+Ronald Coase (1995), -si los datos se torturan adecuadamente, terminaran con­
+fesando». Hay que tener siempre presente, que sin una explicación lógica y
+consistente de los resultados, no se puede tener confianza alguna en la capa­
+cidad explicativa de los modelos.
+Esta cantidad tan desbordante de factores se justifica en la dificultad
+que entraña identificar un número aceptable de ellos que permita seleccionar
+un fondo de inversión que, de forma consistente, genere mejores rentabilida­
+des que la del mercado en su conjunto. Es decir, este conjunto deseable de
+factores tendría que ser persistente, en el sentido de que debería mantener su
+capacidad explicativa a lo largo del tiempo y en distintas situaciones del ciclo
+económico. Desafortunadamente, la evidencia empírica acumulada hasta ahora
+ha puesto de manifiesto que los factores que son válidos en un período de
+tiempo dejan de serlo en el siguiente. También este tipo de fondos así defini­
+dos debieran ser fácilmente implementables en la práctica, teniendo en cuenta
+los costes de transacción implícitos en su construcción. El subconjunto más rei­
+terado, en la práctica, de factores microeconómicos está compuesto por los
+cinco siguientes. Valor: empresas baratas desde el punto de vista del análisis
+fundamental; tamaño: aquellas de baja capitalización bursátil; momentum: las
+que presentan un mejor comportamiento reciente; volatilidad: aquellas de baja
+volatilidad; y dividendos: compañías de alta rentabilidad por dividendo.
+En el trabajo ya citado de Dimson, Marsh y Staunton (2017), que se
+publica anualmente, se analiza el comportamiento a lo largo del tiempo de este
+tipo de inversión. En él se concluye que en los mercados de EE. UU. y Reino
+Unido, los fondos que incorporan el factor valor han sido los más rentables en
+el pasado ejercicio de 2016. Sin embargo, también se subraya que en años ante­
+riores este tipo de fondos tuvieron resultados muy mediocres. En fin, la con­
+clusión que se alcanza es que la evidencia empírica disponible no permite refu­
+tar la idea de que las primas de riesgo que se alcanzan con estos factores sean
+transitorias, es decir, una vez identificadas desaparecen rápidamente.
+Aun con el penetrante marketing con el que la industria tradicional está
+promocionando este tipo de nuevos fondos, que llaman de forma equívoca semipasivos, en mi opinión, no se justifica el abandono de los genuinos fondos índice,
+construidos de acuerdo con la capitalización bursátil de las empresas. Esta valo­
+ración se refuerza todavía más cuando se tienen en cuenta las comisiones que
+unos y otros conllevan, y la perspectiva a largo plazo de la inversión.
+La dificultad de encontrar una especificación del modelo adecuado,
+con un número de factores relativamente pequeño y una capacidad explicativa
+
+31
+
+
+
+relevante, no es exclusiva de este ámbito de la economía financiera. Es un pro­
+blema más general que afecta a la dificultad de modelizar comportamientos
+económicos, que no siempre se caracterizan por su racionalidad.
+En este ámbito concreto, cualquier curso básico de econometría nos
+enseña que las estimaciones de los acreditados parámetros alfa y beta del
+modelo de regresión simple están sesgadas, como consecuencia de las variables
+relevantes que no incluye, tal y como ponen de manifiesto las especificaciones
+alternativas que la literatura académica ha propuesto, y que sí las incorporan.
+Especificaciones que, por lo demás y como hemos señalado, solamente son váli­
+das transitoriamente, ya que no mantienen su capacidad explicativa a lo largo
+del tiempo, lo que dificulta su utilización para fijar criterios de inversión esta­
+bles y a largo plazo. En la práctica econométrica esta situación se suele abordar
+permitiendo que tales parámetros puedan variar en el tiempo. Como ya se ha
+recordado, la estimación de estos parámetros es un ejercicio clásico en los pro­
+cedimientos de estimación de parámetros cambiantes. En este contexto, carecen
+de sentido alguno las afirmaciones que se suelen hacer sobre la capacidad de
+generar alfa que tienen algunos fondos de inversión, o poner especial énfasis
+en su riesgo medido por un determinado valor del parámetro beta. Así, por
+ejemplo, cuando se dice que un fondo genera un cierto alfa, lo más frecuente
+es que, en realidad, ese fondo esté expuesto a un determinado factor o facto­
+res que introduce un riesgo adicional. De tal manera, que una vez ajustada la
+rentabilidad a este incremento de riesgo el alfa desaparece, véase, por ejemplo,
+el trabajo de Barber y otros (2016). Y esta es una cuestión crucial, ya que es
+necesario diferenciar si el incremento de rentabilidad se debe a una exposición
+mayor al riesgo o a errores cometidos por otros inversores; véanse Kent y otros
+(2002 y 2015). Obviamente, si el aumento de rentabilidad es debido a una mayor
+asunción de riesgo el resultado de la aparente generación de alfa no es muy
+atractivo. De hecho, una de las aportaciones fundamentales de los modelos fac­
+toriales es la identificación adecuada de las causas de riesgo. Llama francamente
+la atención que gestores que pasan por estar formados y ser competentes pon­
+gan tanto énfasis en los valores de estos dos célebres parámetros a la hora de
+seleccionar y juzgar un fondo.
+En todo caso, ninguno de los resultados a los que hemos aludido hasta
+ahora, aun siendo tremendamente favorables a la inversión pasiva respecto a la
+activa, excluye la posibilidad de que algunos gestores activos puedan batir al
+mercado. Cuestión distinta es que lo hagan de forma consistente en el tiempo.
+Comoquiera que estas situaciones se dan en la práctica, la cuestión relevante,
+en estos casos, es discernir si este tipo de resultados se ha obtenido por mera
+suerte o por destreza y conocimiento del gestor del fondo. Varios son los traba­
+jos que han abordado esta cuestión.
+Tal como sucede en muchos otros órdenes de la vida, el fenómeno de
+confundir suerte con destreza está muy extendido. Ha quedado ya indicado
+
+32
+
+
+
+que Kahneman (2011), después de décadas de investigación, está en lo cierto
+cuando afirma que la industria de la gestión de activos está asentada sobre un
+espejismo de la destreza. Este no es un extravío individual, ya que está firme­
+mente arraigado en la cultura y en los comportamientos de la industria el espe­
+jismo de poder batir al mercado. Además, la evidencia que lo contradice sim­
+plemente no se toma en consideración por ella.
+Es obvio que poder distinguir entre una y otra, suerte y maestría, es
+muy relevante, ya que la maestría y el conocimiento es una característica rela­
+tivamente inmutable y la suerte o, simplemente, la pura serendipia, por defini­
+ción, no lo es. La dificultad estriba en que, como muchos acontecimientos en
+la vida, el éxito en el proceso inversor es una combinación de suerte y sabidu­
+ría, y ello dificulta que estas dos características puedan ser observadas de forma
+independiente.
+Son varios los trabajos académicos que tratan de contestar a esta pre­
+gunta. A título de ejemplo, citaremos dos de ellos: el de Fama y French (2010)
+y el de Pástor y otros (2015). Resumir los resultados de este tipo de análisis no
+es fácil, pero puede hacerse en los siguientes términos: aproximadamente solo
+el 2% de los gestores activos genera un valor de alfa positivo, y aunque la
+capacidad y formación de los analistas en la industria ha ido creciendo, este
+hecho no se ha transformado en la obtención de mejores resultados en la ges­
+tión activa. Probablemente, por la simple razón de que esta industria es mucho
+más grande y competitiva que hace tres décadas. Cuando el tanto por ciento
+de los inversores que baten al mercado es tan pequeño, del orden del 2%, es
+difícil distinguir, con las muestras utilizadas, esta cifra de la que se obtendría
+por simple suerte o pura serendipia.
+Veamos un ejemplo algo más intuitivo. El experimento consiste en
+pedir a mil personas en una sala que se someten a la prueba de lanzar sucesi­
+vamente una moneda al aire, de tal manera que aquellos a los que le sale cara
+sean los ganadores. Para muchos, la diferencia obvia entre este experimento y
+la toma de decisiones en el mercado bursátil es que el comportamiento de este
+es más predecible pero, en todo caso, en ambos contextos se dan resultados
+binarios. Pues bien, los resultados que se obtienen en el experimento pro­
+puesto son los siguientes: después de cinco lanzamientos treinta personas,
+habrán obtenido siempre cara; después de ocho lanzamientos, cuatro personas
+habrán logrado siempre cara; en fin, después de diez lanzamientos, una entre
+las mil personas habrá conseguido en todos ellos cara. Como es natural, el así
+proclamado ganador siempre podrá encontrar una justificación en principios
+básicos de la mecánica de fluidos y la termodinámica, por ejemplo, remarcando
+hechos tales como que, para obtener este resultado, ha tenido en cuenta la
+altura del lanzamiento de la moneda, la velocidad de giro, la temperatura del
+aire y su coeficiente aerodinámico. Ustedes podrían juzgar la validez de tales
+teorías y la credibilidad del ganador en su defensa. Pero probablemente, como
+
+33
+
+
+
+bien dice John C. Bogle, el fundador de Vanguard, a la persona que obtuviera
+unos resultados semejantes en sus decisiones en el mercado de valores se le
+reconocería como un genio.
+Hemos puesto énfasis en la dificultad de obtener mejores resultados a
+través de una gestión activa que los que el mercado proporciona. Fama (1970)
+es el considerado padre de la teoría del mercado eficiente, que supone que los
+precios de las acciones incorporan toda la información pública disponible y,
+como consecuencia, no es posible batir al mercado de forma consistente. Sin
+embargo, como también hemos señalado, de aquí no debe deducirse que el
+mercado es siempre eficiente y que los precios reflejan los valores que un
+correcto análisis fundamental podría proporcionar. Aún sabiendo lo difícil que
+es concluir, a priori, que unos determinados valores fundamentales son los
+correctos, algunos académicos así lo hicieron. Por ejemplo, Campbell y Shiller
+(1998) demostraron que el mercado estaba claramente sobrevalorado, como a
+posteriori así se comprobó. Una vez más, Shiller (2000) advirtió de la exube­
+rancia irracional y de que era difícil justificar la volatilidad en el mercado de
+acciones con las variaciones en los resultados y actividad de las empresas.
+Por otra parte, existen numerosas evidencias del comportamiento gre­
+gario de los inversores en el mercado, y muchos de los participantes en él distan
+de tener un comportamiento racional. La economía del comportamiento es muy
+explícita al respecto, véase Thaler (2016). Si en los mercados se está ganando
+mucho dinero con inversiones en nuevas tecnologías o en vivienda, tal y como
+ha sucedido antes de las dos últimas burbujas bursátiles, la tentación de inver­
+tir en ambos sectores es perfectamente humana.
+El hecho de que en la práctica el gestor individual de inversiones admi­
+nistra dinero de terceras personas o instituciones y no el suyo, introduce deter­
+minados incentivos en su gestión. Así, en circunstancias concretas del mercado,
+el gestor puede tomar decisiones que no solo induzcan pérdidas en el patrimo­
+nio de su cliente, sino también en la cuenta de resultados de la empresa para
+la que trabaja. Este tipo de decisiones las tomará, y lo hará de forma racional,
+si es consciente de que su comportamiento gregario minimiza la probabilidad
+de ser tildado de mal gestor y de perder su trabajo. Vemos, pues, que los mer­
+cados se pueden comportar de modo irracional precisamente en situaciones en
+las que los participantes en ellos toman decisiones racionales de acuerdo con
+sus incentivos. Por el contrario, también los mercados pueden tener un compor­
+tamiento racional, aun en el caso de que muchos de los participantes en él no
+lo tengan. Toda esta serie de investigaciones cuestiona la teoría de los merca­
+dos eficientes.
+El premio Nobel que le fue concedido a Fama y Shiller en 2013, y que
+compartieron con Lars Hansen, aparentemente por defender dos teorías opues­
+tas, lo que en realidad pone de manifiesto, como con sagacidad ha señalado
+
+34
+
+
+
+varias veces el profesor Rodrik (2013, 2015), es que la mayor parte del tiempo
+los mercados tienen comportamientos que encajan relativamente bien en el
+modelo de Fama pero en ciertas ocasiones lo hacen de acuerdo con la teoría de
+Shiller. A diferencia de las ciencias de la naturaleza, la economía rara vez puede
+proporcionar resultados válidos para cualquier instante de tiempo y circunstan­
+cias. En economía, el contexto lo es todo. De lo que generalmente se dispone,
+es de una diversidad de modelos que para su formulación requieren el cumpli­
+miento de un cierto número de hipótesis. Al analizar una situación concreta, la
+clave es elegir el modelo adecuado. Por eso, y como es frecuente en el debate
+económico, y sobre todo político, cuando la elección se hace de forma dogmá­
+tica el despropósito está asegurado.
+El ejemplo más llamativo, por reciente y por ser una de las principales
+causas de la crisis que todavía estamos padeciendo, es el haber tomado dogmá­
+ticamente, y en mi opinión de forma equivocada, la hipótesis de la eficiencia de
+los mercados como uno de los soportes teóricos de la desregulación de los mer­
+cados financieros en EE. UU. En palabras de Rodrik, en aquellos años «hubo
+demasiado Fama y poco Shiller».
+*
+
+*
+
+CONSIDERACIONES FINALES
+
+Muchos son los libros, artículos e informes que se han escrito con el
+propósito de recomendar una determinada política de inversión para personas
+físicas y jurídicas. El propósito en esta ocasión no es generar un escrito más con
+este fin. Al principio de este trabajo, se argumentaba que cada persona es un
+mundo y que tomar, por sí solo y con conocimientos limitados, decisiones de
+esta naturaleza puede conducir a resultados pésimos. Por eso, hay que reiterar
+que el papel de un asesor financiero, profesional e íntegro, es muy importante.
+El inversor debe tener claro el servicio que se le presta. Debe conocer mediante
+una información legible y explícita cuánto paga por él, y si este coste está jus­
+tificado por la rentabilidad que obtiene de sus recursos teniendo en cuenta los
+índices de referencia que se hayan fijado de antemano. No se puede sostener
+actividad empresarial alguna que desatienda repetidamente los intereses de sus
+clientes.
+A modo de resumen de lo ya expuesto hasta aquí, terminamos haciendo
+algunas consideraciones. Cuando se tiene la responsabilidad de desarrollar cual­
+quier tipo de actividad, en este caso la administración del dinero de terceros, es
+importante saber o, en su defecto, saber lo que no se sabe. Y como se ha tra­
+tado de poner en evidencia, los análisis teóricos más solventes y, desde luego,
+la evidencia empírica disponible, nos enseñan que es una tarea muy difícil y
+
+35
+
+
+
+llena de riesgos intentar mejorar los rendimientos de un determinado índice ges­
+tionando los activos que ese índice engloba.
+La defensa de la gestión pasiva no puede entenderse como una crítica
+general a la capacidad técnica de los profesionales que desarrollan su actividad
+en la industria de la gestión de inversiones. Más bien al contrario. De hecho, el
+conjunto de agentes y expertos que se implican en los mercados hacen relati­
+vamente bien su función, al incorporar la información disponible a los precios
+de los activos. Por tanto, el problema no es de insuficiencia profesional. Con el
+transcurso de los años, y con la competencia entre un número creciente de
+agentes cualificados participando en mercados tan abiertos, se hace muy difícil
+poder beneficiarse de posibles errores en la valoración de consenso para los acti­
+vos cotizados en esos mercados, que esta ingente actividad alcanza. Y más difí­
+cil, todavía, es que ese incierto beneficio compense las comisiones que el poten­
+cial inversor tiene que pagar por su hallazgo. Por eso, puede parecer sarcástico
+que defender las estrategias pasivas sea un reconocimiento al trabajo de los lla­
+mados expertos en gestión activa, cuyas opiniones recomendamos, en general,
+no seguir.
+Seguramente que la estrategia de invertir en fondos pasivos no es, para
+cualquier instante de tiempo y circunstancias, la mejor posible, pero, desde
+luego es ilimitado el número de alternativas de gestión activa que son peores.
+Como hemos señalado la realidad empírica al respecto es determinante. Resulta­
+dos tan desatinados no serían aceptables en ninguna otra actividad o industria.
+Un ejemplo paradigmático es el de la gestión de los fondos de pensio­
+nes en España que se empezaron a comercializar en 1988. Como es bien
+sabido, esta forma de ahorro a largo plazo tiene un régimen fiscal favorable,
+dado que las aportaciones realizadas se reducen de la base imponible del IRPF.
+Pues bien, los resultados obtenidos por sus gestores son singularmente llama­
+tivos y decepcionantes. Por ejemplo, en los últimos 17 años a duras penas el
+1% de estos fondos superó la rentabilidad de los bonos a largo plazo del
+Estado. Si cambiamos el período de tiempo considerado, y sustituimos la refe­
+rencia a los bonos a largo plazo del Estado por otros índices alternativos de
+carácter mixto que incluyan, por ejemplo, una parte de la inversión en el IBEX
+35, los resultados son igualmente calamitosos. Tal escenario es consecuencia
+directa de una gestión activa muy mediocre, asociada al cobro de altas comi­
+siones que, a la vista está, no estuvieron justificadas. Este es un ejemplo rele­
+vante, ya que a 30 de junio de este año afectaba a un número de partícipes que
+se elevaba a 9,7 millones de españoles, que habían aportado ahorros por más
+de 107 mil millones de euros a estos fondos de pensiones.
+Una vez aceptado el criterio de la gestión pasiva, son muchas las deci­
+siones que todavía hay que tomar de forma activa. En todo caso, cualquier
+decisión debe posponerse a un balance previo de los activos que se tienen, con
+
+36
+
+
+
+el propósito de ser conscientes de los riesgos ya asumidos. Un análisis de esta
+naturaleza casi siempre llevará a constatar que hay un exceso de concentración
+de riesgo en el entorno en el que se desarrolla la actividad profesional y per­
+sonal.
+Son dos las estrategias básicas que se siguen para definir la composi­
+ción de una cartera de activos. La que proporciona la rentabilidad esperada
+máxima fijado el umbral de riesgo admisible, o bien la que minimiza el riesgo
+de la cartera fijada su rentabilidad esperada. Variables esenciales para este tipo
+de asignación óptima son la rentabilidad y la desviación estándar de cada activo
+y la correlación de cada activo con los restantes. De esta forma, y dentro de los
+activos financieros que hemos considerado, se determina la distribución de la
+inversión entre renta variable y renta fija. Esta primera decisión de asignación
+de recursos, a uno y otro tipo de activos, va a influir de forma determinante en
+la rentabilidad final que se obtenga. El gráfico 2 es bastante explícito al res­
+pecto. En él se representan las rentabilidades anuales de las carteras compues­
+tas con proporciones distintas de bonos y acciones de las grandes empresas de
+la economía de EE. UU. para el período de 1926 a 2016. También se reflejan
+las máximas pérdidas y máximas ganancias que en un determinado año tuvie­
+ron cada una de estas carteras en ese espacio de tiempo.
+Por ejemplo, si la inversión se hubiera llevado a cabo toda ella en
+acciones, la rentabilidad anual en términos reales habría sido del 6,8%. Para ello
+habríamos tenido que soportar pérdidas anuales en el valor de la inversión del
+43% en un determinado año. Por el contrario, si la inversión se hubiera hecho
+en bonos la rentabilidad anual media hubiera sido del 2,5%, y en este caso,
+solamente, habríamos tenido que soportar en un cierto año unas pérdidas anua­
+les del 8%. A la clásica recomendación que se compone del 60% de acciones
+y del 40% de bonos, está asociada una pérdida anual máxima del 27% y una
+rentabilidad media anual del 5,5%. En todo caso, un aspecto fundamental para
+estimar el riesgo máximo aceptable es considerar el plazo de la inversión, dado
+por la probabilidad de que tengamos que disponer del capital invertido en una
+fecha concreta.
+En fin, el criterio de elección de fondos pasivos nos dejaría mucho más
+tiempo disponible para centrarnos en las cuestiones realmente importantes.
+Por ejemplo, en la elección del fondo o fondos en los que se desea invertir en
+acciones y en bonos, ya que el mercado ofrece todo tipo de posibilidades. O
+en analizar detenidamente los aspectos fiscales de las inversiones, tanto de las
+realizadas en el pasado, como de las planificadas en el futuro.
+Si la actividad profesional y personal se desarrolla en el mundo del
+euro, es razonable analizar la oportunidad de invertir en fondos denominados
+en otras monedas, por ejemplo, en dólares. Teniendo siempre presente las ven­
+tajas de la diversificación en todo tipo de inversiones, y el riesgo que entrañan
+
+37
+
+
+
+los cambios en el valor relativo de las monedas. Pero aun la decisión de inver­
+tir solamente en euros ofrece múltiples posibilidades y combinaciones.
+Tampoco se deben dejar al margen análisis periódicos sobre el nivel
+de precios que tienen los índices en los que se han realizado las correspondien­
+tes inversiones. Especial consideración hay que darle a esta métrica en la cir­
+cunstancia inicial de la inversión, para tratar de saber cómo se compara el nivel
+de precios en el momento de tal inversión con sus valores históricos, para así
+evitar, en la medida de lo posible, entrar en mercados sobrevalorados. La
+métrica utilizada para ello es el PER (Price to Earnings Ratió), es decir, el pre­
+cio de un activo dividido por sus beneficios. Shiller (2000) demostró que para
+el S&P 500 este parámetro, ajustado al ciclo, que se conoce como CAPE ( Cyclically Adjusted Price to Earnings Ratió) osciló entre 12 y 17 durante largos perí­
+odos de tiempo. Valores inferiores a 12 y superiores a 17 correspondieron a
+momentos relativamente excepcionales. Estos dos valores suelen tomarse, junto
+con otras referencias, como umbrales de posibles infravaloraciones o sobreva­
+loraciones del mercado. Entre estas referencias hay que considerar los tipos de
+interés, que son una variable clave en el cálculo del precio de un activo. Por
+ejemplo, en situaciones de bajos tipos de interés de la deuda pública a largo
+plazo el umbral superior puede elevarse significativamente por encima de un
+CAPE de 17. En todo caso, de este tipo de consideraciones, sobre estas u otras
+métricas, no debe desprenderse la idea de que por medio de ellas las rentabi­
+lidades futuras son predecibles.
+Definir la cartera que mejor se ajusta a un inversor concreto que pre­
+viamente ha hecho explícitos sus objetivos dista mucho de ser una actividad
+rutinaria. En el transcurso del tiempo, la aversión al riesgo del inversor puede
+cambiar, y ello requerirá un reequilibrio en su composición. También puede
+cambiar su situación fiscal. En definitiva, todos estos tipos de análisis deben rea­
+lizarse periódicamente, con el asesoramiento adecuado que incorpore expe­
+riencia y profesionalidad, para tratar de mejorar la conducta de ahorro de los
+clientes.
+Pero en cualquier caso, una vez definida la estrategia de inversión a
+largo plazo, no es recomendable analizar la evolución de la inversión a diario.
+Veamos por qué. De acuerdo, por ejemplo, con la información subyacente al
+gráfico 1, el índice S&P 500, desde su creación en el año 1957 hasta finales de
+2016, ha tenido una significativa rentabilidad media anual del 6,1% en términos
+reales. Pues bien, si se observan las variaciones diarias en ese período de
+tiempo, en más del 46% de los días de cotización este índice ha bajado; véase
+Wolfers (2015). Dado que como bien observó el profesor Daniel Kahneman,
+una pérdida de valor tiene un impacto psicológico negativo dos veces superior
+al efecto positivo que tiene una ganancia, no es conveniente tener este afán de
+escrutinio diario como hábito. Cuando así se hace, se suelen tomar decisiones
+de inversión puramente emocionales y equivocadas. La validez de este tipo de
+
+38
+
+
+
+G ráfico 1
+
+Rentabilidad real d e activos d e EE. UU.
+1926-2016
+
+— — A ccione» dtpaqur if a t i npw m
+
+— — taponad*grande*em presas
+
+—— L*tr** d el Tesoro
+
+— - O ro
+
+—— Bonn*a torpepfaaod» empresa»
+
+Bono*a largopfaa>delEstodo
+
+VM enda
+
+E lab o ració n pro pia a partir d e las siguientes fuen tes: para los activos fin an cieros, S B B I (2 0 1 7 );
+para lo s d atos d e la viviend a, lo s p ro p o rcio n ad o s p o r R o bert J . Sh iller (2 0 0 5 ) y actualizados e n su página
+w e b ; para lo s q u e se refieren al o ro , los datos d e O n ly G old (2 0 1 7 ).
+
+inversiones tiene que comprobarse a medio y largo plazo y, además, una acti­
+tud más paciente nos aumentará nuestra tolerancia a la volatilidad.
+Para terminar, cabe reforzar la opinión anterior con un consejo de una
+autoridad en esta materia. Es aquel que el profesor Richard H. Thaler, que el
+pasado día 9 de noviembre recibió el premio Nobel de Economía, dirige a las
+personas que, a pesar de todo, deciden observar con excesiva frecuencia la
+evolución de sus inversiones. Dice así: inmediatamente después de esa diaria
+revisión deben limitarse a: «Inhale, Exhale. Repeat. Then watch ESPN» («Entertainment and Sports Programming Networfe). Es decir, inhalar, exhalar, y vol­
+ver a hacerlo. A continuación, ver el canal de televisión de entretenimiento y
+deportes. Dicho de otro modo, hacer cualquier otra cosa menos tomar decisio­
+nes sobre la base de esta información diaria.
+Como se ha demostrado, el exceso de activismo en la gestión de las
+inversiones genera pésimos resultados. Por eso creo que, al menos en este
+ámbito, la pereza está infravalorada. Además, un menor afán en esta materia
+
+39
+
+
+
+permitiría asignar más tiempo y energía a aquellas actividades en las que, de
+verdad, se tengan ventajas relativas.
+
+G ráfico 2
+
+Rentabilidades anuales y volatilidad máxima
+de distintas composiciones de la cartera de bonos y acciones
+de grandes empresas de EE. UU.
+1926-2016
+
+Composición de c a te n :
+Bonos
+A c c io n e s
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+60%
+
+90%
+
+100%
+
+E la b o ra c ió n p ro p ia c o n la in fo rm a ció n d e S B B I (2 0 1 7 )
+
+40
+
+
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+B arber, B. M. y T. O dean, -Trading is Hazardous to Your Wealth: The Common Stock Investment
+Performance of Individual Investors», TheJournal ofFinance, vol. LV, n.Q2, abril 2000,
+págs. 773-806.
+-------, «Boys will be Boys: Gender, Overconfldence, and Common Stock Investment», Quarterly
+Journal o/Economics, vol. 116, n.a 1, febrero 2001, págs. 261-292.
+B arber, B., X. Huang y T. O dean, «Which Risk Factors Matter to Investors? Evidence from Mutual
+Fund Flows», Review o f Financial Studies, vol. 29, n.a 10, 2016, págs. 2600-2642.
+Campbell, J. Y. y R. J. Shiller, «Valuation Ratios and the Long-Run Stock Market Outlook». TheJour­
+nal o f Portfolio Management, vol. 24, n.° 2, 1998, págs. 11-26.
+Coase, R., Essays on Economics and Economists, University of Chicago Press, Chicago, 1995.
+Dimson, E., Marsh, P. y M. Staunton, «Credit Suisse Global Investment Retums», Yearbook 2017.
+Summary Edition. Consultado en octubre de 2017 en httpsj/publications.credit-suisse.
+com/tasks/render/file/?fileID=B8FDD84D-A4CD-D983-12840F52F61BA0B4
+Fama, E. F., «Efficient Capital Markets: A Review of Theory and Empirical Work», The Journal o f
+Finance, vol. 25, mayo 1970, págs. 383-417.
+Fama, E. F. y K. R. French, -The Cross-Section of Expected Stock Retums», TheJournal ofFinance,
+vol. 47, n.e 2, junio 1992, págs. 427-465.
+-------, «Luck versus Skill in the Cross-Section of Mutual Fund Returns», The Journal of Finance,
+vol. LXV, n.a 5, octubre 2010, págs. 1915-1947.
+-------, «A Five-Factor Asset Pricing Model», Journal of Financial Economics, vol. 116, n.Q 1, abril
+2015, págs. 1-22.
+Graham, B, «A Conversation with Benjamín Graham», Financial Analysts Journal, vol. 32, n.a 5,
+Sep.-Oct. 1976, págs. 20-23.
+Graham, B. y D. Dodd, Security Analysis, McGraw-Hill, New York, 1934. 6.a ed., 2008.
+Grossman, S. y J. Stiglitz, «On the Impossibility of Informationally Efficient Markets», American
+Economic Review, vol. 70, n.a 3, junio 1980, págs. 393-A08.
+Kahneman, D., Thinking, FastandSlow , Alien Lañe, London, 2011.
+Kent, D., D. Daniel, D. Hirshleifer y Siew Hong T eoh, «Investor Psychology in Capital Markets:
+Evidence and Policy Implications», Journal ofMonetary Economics, vol. 49, n.a 1, 2002,
+págs. 139-209.
+Kent, D. y D. Hirshleifer, «Overconfldent Investors, Predictable Returns, and Excessive Trading»,
+Journal o f Economic Perspectives, vol. 29, n.a 4, 2015, págs. 61-88.
+Markowitz, H. M., «Portfolio Selection», TheJournal ofFinance, vol. 7, n.a 1, marzo 1952, págs.
+77-91.
+Morningstar, «Active/Passive Barometer Mid-Year 2017: Active Funds 1-Yr Results Substantially
+Improve, But Long-Run Results Remain Poor», 22 de agosto de 2017. Consultado en
+octubre de 2017 en https://corporatel.momingstar.com/ResearchLibrary/article/822655/
+activepassive-barometer-mid-year-2017-active-funds-l-yr-results-substantially-improvebut-long-mn-results-remain-poor/
+
+41
+
+
+
+ÑERA, Estimating Equity Betas: What can a time-varying approach add?, 2016. Consultado en
+octubre de 2017 en http://www.nera.com/content/dam/nera/publications/20l6/PUB_
+Estimating_Equity_Betas_09l6.pdf
+O nly G oU), 2017. Consultado en octubre de 2017 en http://www.onlygold.com/Info/HistoricalGold-Prices.asp
+Pástor, L’., R. F. Stambaugh y L. A. Taylor, «Scale and skill in active management», Jo urn al o f
+Financial Economics, vol, 116, n.B 1, 2015, págs. 23-45.
+Rekenthalf.r, J, «The Latest Salvo Against Indexing-, Morningstar, 19 de septiembre de 2017. Con­
+sultado en octubre de 2017 en http://news.morningstar.com/articlenet/article.aspx?id=
+825976
+Rodrik, D., «Economics: Science, Craft, or Snake Oil?«, Institutefor Advanced Study. Thelnstitute
+Letter Fall 2013, Princeton, New Jersey, 2013.
+-------, Economic Rules, Oxford University Press, Oxford, 2015.
+SBBI, 2 0 1 7 SBBI Yearbook. Stocks, Bonds, Bills, and Inflation. U.S. CapitalMarkets Perform ance
+by Asset Class 1926-2016, Roger Ibbotson, Roger J. Grabowski, James P. Harrington,
+Carla Nunes, John Wiley & Sons, New Jersey, 2017.
+Sharpe, W. F., «Capital Asset Pnces: A Theory of Market Equilibrium Under Conditions of Risk»,
+The Journal o f Finance, vol. 19, n.Q3, septiembre 1964, págs. 425-442.
+Shiller R. J., en Irrational Exuberance, Princeton University Press, 2000, [2.a ed., 2005; 3.a ed.,
+20151. Los precios de la vivienda están actualizados en su página web:
+http ://www. econ.yale.edu/-shiller/data .htm.
+Siegel, J. J., Stocksfor the Long Run, Me Graw Hill, New York, 2014.
+Smith, E. L., Common Stocks as Long-Term Investment, Macmillan, New York, 1925.
+
+SPIVA (2017a), S&P Indices Versus Active. Consultado en octubre de 2017 en http://us.spindices.
+com/spiva/#/.
+SPIVA (2017b), SPIVA® Institutional Scorecard: How Much Do Fees Affect the Active Versus Passive Debate?, 8 de agosto de 2017. Consultado en octubre de 2017 en http://us.spindices. com/search/?ContentType=SPIVA&_ga=2.122127563.1122813595.15067842631337697528.1489141742
+SPIVA (2017c), Does Past Perform ance Matter? The Persistence Scorecard, junio 2017. Consultado
+en octubre de 2017 en http://us.spindices.com/search/?ContentType=SPIVA
+SPIVA (2017d), SPTVA® U.S. Year-End 2016, 12 de abril de 2017. Consultado en octubre de 2017 en
+http://us.spindices.com/search/?ContentType=SPIVA&_ga=2.45180384.590578527.15075
+62627-1337697528.1489141742
+T haler, R. H., «Behavioral Economics: Past, Present, and Future-, American Economic Review, vol.
+106, n.° 7, julio 2016, págs. 1577-1600.
+Villalba, D., Teoría y Práctica de la Gestión de Carteras, Bolsas y M ercados Españoles, Madrid,
+2016 .
+
+Wolfers, J., «How Emotion Hurts Stock Returns», The New York Times, 24 de agosto de 2015.
+Consultado en octubre de 2017 en https://wrww.nytimes.com/2015/08/25/upshot/howemotion-hurts-stock-returns.html
+
+42
+
+

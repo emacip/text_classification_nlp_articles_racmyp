@@ -1,0 +1,1099 @@
+CAMBIO CLIMÁTICO Y REFORMA ELÉCTRICA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+El pasado mes de mayo el observatorio situado en el volcán de Mauna
+Loa, en Hawái, véase Mauna Loa Observatory, registró, por primera vez, una
+concentración media diaria de CO2 en la atmósfera de 400 partes por millón
+(ppm). Estos datos los ha hecho públicos la Administración Nacional Oceánica
+y Atmosférica de EE. UU. (NOAA, en sus siglas en inglés) que, además, ha confirmado que esta cifra está creciendo alrededor de dos ppm cada año. Que se
+haya franqueado esta cantidad ha pasado prácticamente inadvertido en los
+medios de comunicación pese a que, como certifica la evidencia científica, los
+riesgos que entraña esta dinámica son inmensos, ya que podría condicionar
+severamente la permanencia de la civilización tal y como hoy la entendemos.
+He considerado oportuno volver otra vez sobre este problema, a pesar
+de haberme referido extensivamente a él aquí, hace algo más de cinco años, en
+mi intervención sobre Economía del Cambio Climático. Sé que la constancia es
+una virtud, pero también estoy seguro de que, en algunas situaciones, la insistencia puede ser un defecto. Espero en mi intervención de hoy no caer en él.
+Entiendo que la situación económica actual y, en especial, la española
+puede inducirnos a creer que existen problemas más urgentes a los que debemos prestar atención prioritaria. Pero quizás sea adecuado recordar que la crisis financiera que estamos viviendo tuvo su origen, básicamente, en que
+durante demasiado tiempo se ha puesto un énfasis excesivo en el corto plazo,
+tanto en la política de beneficios como en la política de incentivos de los agentes económicos y, además, se han gestionado y valorado equivocadamente los
+precios y los riesgos, lo que ha producido un exceso de activos tóxicos y de
+endeudamiento de estos agentes.
+* Sesión del día 29 de octubre de 2013.
+
+123
+
+
+
+Pues bien, errores de la misma naturaleza estamos cometiendo respecto
+al cambio climático (CC), ya que se está poniendo excesivo énfasis en los problemas a corto plazo y utilizando tasas de descuento excesivamente altas para
+otros que, como en este caso, se mostrarán en toda su crudeza en el medio y
+largo plazo. Durante algún tiempo el sistema financiero ha generado un exceso
+de activos tóxicos y también la infraestructura energética actual lleva ya muchas
+décadas produciendo un exceso de gases de efecto invernadero (GEI).
+De manera análoga, hoy estamos valorando mal los riesgos, dadas las
+características básicas de las externalidades negativas que generan las emisiones de GEI: globalidad, largo plazo en su impacto, incertidumbre y capacidad
+de generar daños radicales e irreversibles. Esta errónea valoración conduce a
+que el precio de los combustibles fósiles no refleje los costes medioambientales, sobre todo los de emisión de GEI, y por tanto envía señales equivocadas
+al mercado respecto a los verdaderos costes de producción. Y es bien sabido,
+que esta divergencia entre los costes privados y sociales de las emisiones
+reduce la eficiencia económica. En la medida en la que en la utilización de
+combustibles fósiles no se tengan en cuenta las externalidades negativas que
+generan, especialmente las emisiones de GEI, cabe afirmar que la energía realmente subvencionada es la que tiene este origen.
+Pienso que no se necesitan justificaciones adicionales para volver sobre
+este problema pero, por si fueran necesarias, hago mío el primer párrafo del
+capítulo 1 del The Oxford Handbook of Climate Change and Society, véase
+Dryzek, J.S. et al. (eds.) (2013), en el que sus tres editores escriben lo siguiente:
+«El cambio climático probablemente representa el desafío más difícil al que
+jamás se ha enfrentado nuestro sistema económico, político y social. Es mucho
+lo que nos jugamos, ya que los riesgos y las incertidumbres son severos, la
+economía controvertida, la ciencia está acorralada, la política amargada y
+complicada, la psicología desconcertante, los posibles impactos son devastadores, y las iteraciones con otros problemas ambientales y no ambientales surgen en muchas direcciones. Las herramientas e instituciones de las que hoy
+disponemos para solucionar problemas de esta naturaleza no fueron diseñadas,
+y no han evolucionado, para hacer frente a cuestiones, tan interrelacionadas,
+de tanta importancia, tamaño y complejidad. No tenemos precedente alguno.
+Hasta ahora, hemos fracasado en abordar este desafío adecuadamente. Una
+de las cuestiones sociales, económicas y políticas de este siglo es: ¿qué debemos
+hacer en esta situación?»
+No pretendo en este momento responder a esta pregunta, ni tampoco
+me volveré a referir a los aspectos de regulación económica del problema que
+expuse en mi intervención de hace cinco años. Hoy describiré, en primer lugar,
+la actualización de la evidencia científica acerca del CC y de sus causas antropogénicas. A continuación, me referiré con cierto detenimiento a las razones
+que utilizan los negacionistas y escépticos de las medidas para mitigar el CC y
+
+124
+
+
+
+que, a mi entender, justifican el recelo que una parte de la sociedad y de sus
+responsables políticos tienen sobre la gravedad de este problema y sobre la
+contundencia de las afirmaciones científicas que así lo avalan. También discutiré las complejidades que se encuentran al abordar este problema, que entraña
+materias científicas, éticas, económicas y políticas de una considerable dificultad. Pienso, como James Hansen, exdirector del Instituto Goddard de Estudios
+Espaciales de la NASA, que, frente a los problemas actuales, el consenso científico que existe sobre el CC no se está trasladando adecuadamente a la opinión pública. Se le transmite que una economía de bajas emisiones de carbono
+va a representar privaciones de todo tipo, lo que no es verdad. La historia nos
+demuestra que siempre que las nuevas tecnologías han desbancado a las viejas ha sido en beneficio de la civilización.
+La segunda parte de mi intervención la dedicaré a analizar este problema
+desde la perspectiva de nuestra economía, y más concretamente realizaré un
+conjunto de consideraciones sobre la reciente propuesta de reforma de nuestro
+sector eléctrico. Intentaré poner de manifiesto que los problemas básicos que
+pretende abordar, fundamentalmente relacionados con los costes del sistema y
+el déficit de tarifa, están mal especificados y, como consecuencia, mal resueltos.
+SOBRE LA EVIDENCIA CIENTÍFICA
+La actualización de la evidencia científica la haré al hilo de la reciente
+publicación por el Grupo Intergubernamental de Expertos sobre el Cambio Climático (el IPCC, en sus siglas en inglés) del Informe del Grupo I, que fue aprobado, el pasado 27 de septiembre, en su reunión de Estocolmo, véase IPCC
+(2013). Este grupo de trabajo es el responsable de actualizar la base científica
+del CC (The Physical Science Basis). Los Grupos II y III son los responsables
+de evaluar los impactos del CC en los sistemas humanos y naturales, así como
+los medios para afrontar el desafío que representa. Los resultados de ambos
+grupos se publicarán en marzo y abril de 2014. Con ellos se completará el ciclo
+del V Informe de Evaluación del IPCC, que se dará por concluido con la publicación de su Informe de síntesis en octubre de 2014.
+Debe recordarse que el IPCC fue creado en 1998 por la Organización
+Meteorológica Mundial y por las Naciones Unidas, y que no lleva a cabo investigaciones propias, sino que en sus informes utiliza el material de la literatura
+científica más acreditada y revisada. El primer Informe del Grupo fue publicado
+en el año 1990 y los siguientes en 1995, 2001 y 2007. En el año 2007 el Grupo
+recibió el Premio Nobel de la Paz.
+También utilizaré la reciente publicación, de julio de este año, del Consejo Nacional de Investigación de las Academias Nacionales de EE. UU. titulada
+Cambio Climático: Evidencia, Impactos y Opciones, que está accesible en su
+
+125
+
+
+
+página web, véase Consejo Nacional de Investigación de las Academias Nacionales (2013).
+Hay que tener presente que hace ya tres años la revista Science (2010)
+a la hora de hacer un balance de la primera década del presente siglo, destacaba, entre los diez principales logros científicos de ese periodo, que se había
+alcanzado un acuerdo en la comunidad científica sobre tres cuestiones básicas:
+que existe un aumento de la temperatura; que la causa directa es la actividad
+humana; y que la propia evolución de la naturaleza no será capaz de neutralizar este proceso, véase Kerr y Kintisch (2010).
+El efecto invernadero es el nombre por el que se conoce un fenómeno
+natural originado por varios gases presentes en la atmósfera, que condicionan
+la temperatura de la Tierra y sin los cuales esta sería, aproximadamente, 21 ºC
+menor, lo que la haría inhabitable. Además del vapor de agua, el protocolo de
+Kioto considera que los principales gases de efecto invernadero (GEI) son los
+siguientes: dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hexafluoruro de azufre (SF6), los compuestos perfluorinados (PFC) y los hidrofluorocarburos (HFC). Aunque la concentración atmosférica y las características de
+cada uno de estos gases son distintas, en particular su capacidad para absorber la radiación terrestre, en la práctica su efecto conjunto se convierte en términos de concentración equivalente de CO2. En todo caso, hay que resaltar
+que el principal GEI es el CO2, que en los últimos tres siglos ha contribuido,
+aproximadamente, a un 80% de dicho efecto.
+El proceso de efecto invernadero, puede describirse de manera elemental como sigue: la Tierra recibe la energía procedente del Sol en ondas de
+alta frecuencia que traspasan la atmósfera con suma facilidad y que se reflejan
+en la superficie terrestre; esta, a su vez, las devuelve hacia el espacio, pero en
+una frecuencia sensiblemente menor, debido a que su temperatura es más baja.
+No obstante, no todas estas radiaciones vuelven al espacio, puesto que, al tener
+una capacidad de penetración menor que las que proceden directamente del
+Sol, una parte sustancial de ellas es absorbida por los GEI. Se alcanza así un
+equilibrio térmico cuando la energía que proviene del Sol se compensa con la
+que se radia al espacio.
+Resulta obvio que este equilibrio térmico puede verse seriamente afectado si, por cualquier causa, los GEI aumentan su concentración en la atmósfera. Esto produciría una mayor absorción de las radiaciones reflejadas en la
+superficie terrestre y una reducción en la expulsión de calor al espacio, todo
+lo cual se traduciría en un mayor calentamiento del planeta. Esto es lo que se
+conoce como efecto invernadero.
+Las propiedades de los GEI ya fueron analizadas por el físico francés
+Jean-Baptiste Fourier en la década de 1820, y fue el químico sueco Svante
+
+126
+
+
+
+Arrhenius, premio Nobel en 1903, quien por primera vez sostuvo que los niveles de concentración de CO2 afectan al balance térmico de la Tierra. Hace,
+pues, casi 200 años que la ciencia se está pronunciando sobre este grave problema.
+Como recordaba al comienzo de mi intervención, en mayo de este año
+se alcanzó un nivel de CO2 en la atmósfera de 400 ppm, que son las unidades
+en las que se expresan este tipo de concentraciones. Sin embargo, y como
+hemos señalado, el CO2 no es el único gas de efecto invernadero. La medición
+media del año 2012, que figura en la página web de la Administración Nacional Oceánica y Atmosférica de EE. UU., véase NOAA (2012), corresponde a
+una concentración en la atmósfera de gases de efecto invernadero equivalente
+en términos de CO2 de 476 ppm, con una tasa de crecimiento anual que siempre ha sido superior al 1% en todos los años del presente siglo y que llegó a
+alcanzar el valor de 1,6% en el año 2006. Si esta pauta de crecimiento continuara, se alcanzarían concentraciones superiores a las 850 ppm en los próximos cien años. Esta situación conduciría con una probabilidad comprendida
+entre el 30 y el 50% a un incremento en la temperatura media de la superficie
+de la Tierra de 4 a 5 grados centígrados respecto al valor de mediados del siglo
+XIX, que es el que frecuentemente se toma como referencia. En tales condiciones, la distribución de la población en el mundo tendría que cambiar radicalmente, ya que áreas hoy habitables serían desiertos mientras que otras terminarían bajo el nivel del mar.
+Algunas de las conclusiones del Informe del Grupo I del IPCC, véase
+IPCC (2013), que como he señalado, es el que tiene la tarea de evaluar los
+aspectos científicos del CC, se resumen a continuación.
+La influencia humana en el CC es evidente. Se manifiesta en el calentamiento de la atmósfera y de los océanos, en los cambios del ciclo del agua,
+en la pérdida de superficie y masa de hielo y nieve, en el aumento del nivel
+del mar y en la aparición de nuevos fenómenos climáticos.
+Cada una de las tres últimas décadas ha tenido temperaturas más altas
+que la anterior, y también más altas que ninguna anterior a 1850. En el hemisferio norte, las tres últimas décadas han sido probablemente las más calurosas
+de los últimos 1.400 años.
+El calentamiento de los océanos, que ocupan el 70% de la superficie de
+la Tierra, se debe a que es el principal almacén de energía del sistema climático.
+Es prácticamente seguro que su capa superior, hasta los 700 metros, se haya
+calentado en los últimos cuarenta años y es probable que lo hiciera desde 1870.
+En las dos últimas décadas, las capas de hielo de Groenlandia y de la
+Antártida han perdido superficie y masa. Los glaciares han seguido disminu-
+
+127
+
+
+
+yendo en todo el mundo y los hielos del Ártico y la superficie de nieve del
+Hemisferio Norte se han reducido. El nivel del mar ha crecido más desde
+mediados del siglo XIX que en los dos milenios previos. En los últimos 100
+años el nivel del mar creció 19 centímetros.
+La concentración de gases de efecto invernadero en la atmósfera ha
+alcanzado niveles sin precedentes en los últimos 800.000 años. Esta concentración ha aumentado un 40% desde la época preindustrial. Los océanos han
+absorbido el 30% de las emisiones de gases de efecto invernadero originadas
+por la actividad humana y esta es la causa de su acidificación.
+El flujo continuo de gases de efecto invernadero, ocasionado por la
+actividad humana, será la causa de un calentamiento global y de cambios adicionales en todos los componentes del sistema climático. Los cambios en el
+ciclo del agua en este siglo no serán uniformes. Se incrementará el contraste
+entre regiones y estaciones húmedas y secas. La tasa de crecimiento del nivel
+del mar muy probablemente supere a la habida en las últimas décadas, como
+consecuencia de que seguirán aumentando el calentamiento y la pérdida de
+masa de glaciares y hielos. El CC afectará al proceso natural del ciclo de carbono de tal manera que realimentará el incremento de CO2 en la atmósfera.
+El stock de gases de efecto invernadero acumulado en la atmósfera
+determinará, en gran medida, la dinámica del incremento del calentamiento
+global. Este efecto será duradero y permanecerá durante siglos, incluso si a
+partir de un determinado momento los flujos de GEI disminuyeran drásticamente.
+Por la propia naturaleza del problema, pocas son las afirmaciones
+rotundas que hace el Informe. Para caracterizar el grado de certeza se utilizan
+las siguientes expresiones: prácticamente seguro (99%-100%), muy probable
+(90%-100%), probable (66%-100%), no tan probable (33%-66%) e improbable
+(0%-30%). Existe un acuerdo muy generalizado que incrementos de temperatura por encima de los 2 grados centígrados probablemente conduzcan ya a
+situaciones de mucho riesgo. Para no traspasar la frontera de los 2 grados se
+pueden llevar a cabo diversas estrategias, que fundamentalmente están comprendidas entre las que reducen mucho las emisiones a corto plazo y menos
+en años posteriores, y aquellas otras que reducen menos hoy y más en el
+futuro.
+Las grandes cifras que nos conducen, sin traspasarla, a la frontera de
+los 2 grados son las siguientes. El flujo anual de GEI de 50 mil millones de
+toneladas deberá reducirse a 35 mil millones en 2030 y por debajo de 20 mil
+millones en 2050. En términos de emisiones per cápita habría que pasar de
+una cifra de 7 toneladas de hoy a 4 en 2030 y a 2 toneladas en 2050. Si tenemos en cuenta que el consumo per cápita en EE. UU. es de 20 toneladas, en
+
+128
+
+
+
+Europa y Japón 12 toneladas, en China 7, en el África subsahariana 3 y en India
+por debajo de 2, existe un claro problema de equidad a la hora de decidir
+quién y a qué ritmo ha de disminuir las emisiones. Cualquier estrategia debe
+tener también en cuenta que los países desarrollados son los causantes de alrededor del 75% de las emisiones, y que el CC lo sufrirán en mayor medida los
+países menos desarrollados. No entraremos aquí en el examen de los criterios
+de asignación de flujos en el tiempo y entre países.
+Como bien señala el informe, actualizado en julio de este año, sobre
+Cambio Climático: Evidencia, Impactos y Opciones del Consejo Nacional de
+Investigación de las Academias Nacionales de EE. UU. (2013), el dióxido de carbono ( CO2) es generado y consumido en muchos procesos naturales que son
+parte del ciclo de carbono. Sin embargo, una vez que la humanidad procedió
+a extraer formas de carbono enterradas en un pasado remoto, como el carbón
+y el petróleo, quemándolos para producir energía, empezó a liberarse CO2 adicional hacia la atmósfera de forma más acelerada que la liberación natural de
+carbono. Otras actividades humanas, como la producción de cemento y la tala
+y quema de los bosques (deforestación) también añaden CO2 a la atmósfera.
+Hasta la década de los años cincuenta, muchos científicos pensaban que los
+océanos absorberían la mayoría del exceso del CO2. Tanto las nuevas teorías
+como las exhaustivas mediciones de CO2 en la atmósfera, han demostrado que
+los océanos no podían absorber todo el CO2 emitido. En efecto, los datos hoy
+muestran que, durante al menos dos mil años antes de la Revolución Industrial,
+las concentraciones de CO2 atmosférico se mantuvieron constantes y luego
+comenzaron a incrementarse alrededor de 1800. Hoy, y tal como también
+afirma el último Informe del IPCC, las concentraciones de CO2 atmosférico son
+el 40% más elevadas que los niveles preindustriales y, conforme a los datos de
+los núcleos de hielo, son más elevadas que en cualquier momento durante los
+últimos 800.000 años.
+Indudablemente, alrededor de estas tendencias básicas así identificadas, existen múltiples causas que generan oscilaciones de diversa naturaleza y
+frecuencia. La actividad solar puede variar tanto cíclica como aleatoriamente.
+Las partículas que originan la erupción de los volcanes pueden evitar de
+manera transitoria que algún tipo de radiación alcance la superficie terrestre y,
+en fin, las variaciones en la órbita alrededor del Sol, de decenas de miles de
+años, pueden también introducir ciertas perturbaciones. Sin embargo, los resultados científicos más contrastados nos dicen que el proceso de emisión de GEI
+y, como consecuencia, el aumento de su stock en la atmósfera, conduce a una
+significativa tendencia positiva en la evolución de la temperatura que no tiene
+antecedente alguno en la historia.
+Hasta aquí el breve resumen de lo que hasta hoy nos dice la investigación científica más solvente.
+
+129
+
+
+
+NEGACIÓN Y ESCEPTICISMO
+SOBRE EL CAMBIO CLIMÁTICO
+El tipo de estrategias que se siguen, algunas de ellas muy vociferantes,
+para tratar de desvirtuar estos resultados son de distinta naturaleza. Cabría agruparlas de la forma que veremos a continuación.
+En primer lugar, hay que señalar que puesto que la mayor parte de
+estas afirmaciones se hacen en términos de probabilidad, está claro que no
+cabe pronunciarse con certeza sobre los resultados que la ciencia proporciona.
+Dada esta situación, los escépticos y negacionistas tienden entonces a reducir
+esas probabilidades a valores bajos o próximos a cero, al menos, dicen, hasta
+que se demuestre lo contrario.
+La respuesta que la comunidad internacional ha dado a esta cuestión
+aparece recogida en el artículo 3 de la Convención Marco de las Naciones Unidas sobre Cambio Climático, véase UNFCCC (1992), en vigor desde 1994, donde
+entre otras afirmaciones se mantiene que: «Cuando haya amenaza de daño
+grave o irreversible, no debería utilizarse la inexistencia de total certidumbre
+científica como razón para posponer la toma de medidas».
+Por otra parte, la infravaloración de las afirmaciones científicas representa bien un trastoque absoluto de la evidencia teórica y empírica, o bien una
+gran ignorancia de la teoría básica de la toma de decisiones en presencia de
+riesgo. En efecto, en este escenario es relevante examinar y comparar las consecuencias de los dos tipos de error que podemos cometer. Veamos. Las consecuencias de actuar sobre la base de que los resultados científicos están equivocados son afrontar niveles de concentración de GEI muy altos. Pero si los
+resultados fueran correctos sería imposible volver atrás desde la situación de
+catástrofe a la que estos niveles nos conducirían. Por otro lado, la consecuencia de actuar bajo el supuesto de que los resultados del consenso científico no
+son correctos sería disponer de un conjunto de nuevas tecnologías de energía
+renovable que propiciase una economía más limpia, diversificada y sostenible.
+Con razón puede decirse que esta deseable situación se alcanzaría a un significativo coste, al menos en las décadas venideras. En efecto, en este caso, si la
+ciencia de hoy no estuviera en lo cierto, o se hubieran exagerado sus resultados, se podría haber incurrido en el error de habernos excedido en la inversión en energías renovables, con el coste de oportunidad que esta decisión
+entraña. En todo caso, es obvio que incurrir en el primer tipo de error es mucho
+más preocupante y grave que incurrir en el segundo.
+Pero aunque no sea el objeto de mi intervención de hoy, quiero referirme, brevemente, a este coste para así poder situarlo en el contexto de nuestra realidad económica. Los escépticos utilizan, con mucha frecuencia y en
+todas direcciones, el alto coste de una transición a las energías renovables como
+
+130
+
+
+
+una razón para defender el statu quo actual. Afirman que este proceso de innovación se traduciría en detraer recursos de la actividad económica y generaría
+menor crecimiento, como consecuencia de encarecerse la energía, que es un
+input básico de la actividad humana.
+A la espera de la actualización de las cifras, en el informe que será
+publicado por el Grupo III del IPCC en abril del 2014, utilizaremos las que están
+resumidas en el último Informe de Síntesis, véase IPCC (2007). Aun fijando la
+meta más ambiciosa, que supone estabilizar la concentración de GEI en el rango
+de 445 a 535 ppm, el coste representaría una caída del PIB global en 2050 del
+5%.Para calcular el valor actual del importe que supone el 5% del PIB del año
+2050, la tasa de descuento apropiada es la misma que la utilizada para el cálculo del crecimiento hasta esa fecha, por tratarse de magnitudes reales y no
+nominales. Por tanto, al adoptar la misma tasa de crecimiento real que hemos
+supuesto para alcanzar dicho valor del PIB, el resultado que obtenemos es también el 5% del PIB actual. Esta cifra del 5% corresponde a una ralentización del
+crecimiento medio anual hasta el año 2050 del 0,12%. Eso sí, este coste será
+tanto más alto cuanto más se tarde en abordar el problema. Objetivos menos
+ambiciosos no tendrían impacto significativo en el PIB global en esa fecha.
+Inversiones que alcanzan estas magnitudes, que se miden en decenas
+de billones de euros, se perciben como prohibitivas, no solo por el ciudadano
+normal que puede dudar incluso de cuantos ceros implica la métrica de un
+billón, sino también por profesionales del análisis económico que están familiarizados con estos órdenes de magnitud y, además, son conscientes del coste
+de oportunidad de toda inversión. Se suele decir que estas cifras son astronómicas, pero con este adjetivo se le presta un mal servicio a la astronomía porque, como recordaba el Nobel Richard Feynman, en la galaxia solamente hay
+cientos de miles de millones de estrellas. Se tendría que hablar de cifras "económicas" en lugar de "astronómicas".
+Para tener un mejor entendimiento de estas cifras es conveniente analizarlas desde otra perspectiva. De acuerdo con un didáctico trabajo de Azar
+(2010), si suponemos un crecimiento global anual alrededor del 2,5%, en el
+año 2050 el PIB mundial representará el 250% del PIB actual. Bajo este
+supuesto, inversiones de billones de dólares para mitigar el CC tendrían como
+consecuencia que el PIB de hoy se multiplicaría por 2,5 no el año 2050, sino
+un par de años más tarde. Desde esta perspectiva de largo plazo, vemos el
+muy limitado efecto que inversiones de esta naturaleza tendrían en el bienestar de generaciones futuras.
+Afirmar, en horizontes de tiempo en los que el PIB se incrementará
+hasta alcanzar el 250% de su valor actual, que introducir una caída del 5% es
+un problema relevante no tiene sentido alguno, aunque solo sea porque todos
+estas cifras tienen un nivel de incertidumbre sustancialmente mayor. En todo
+
+131
+
+
+
+caso, es importante resaltar que asumir estos costes conlleva beneficios, o mejor
+dicho evita daños, que son varios órdenes de magnitud superiores, tal como
+con todo rigor fue puesto de manifiesto ya en el informe Stern (2007).
+También un orden de magnitud de estas cifras nos lo puede dar el coste
+global de la crisis económica que estamos viviendo. Como en alguna otra ocasión he señalado, este coste es muy superior a las ayudas que el sistema financiero ha recibido de los gobiernos. Para caracterizarlo hay que reparar en las
+externalidades negativas que ha generado y que han padecido el resto de los
+agentes económicos y sociales. Gran parte de las consecuencias no tendrán un
+simple carácter estático, sino que se prolongarán durante años y algunas otras
+serán permanentes. Bajo este planteamiento, diversos trabajos han cuantificado
+el coste de la crisis. En el Anexo 1 del trabajo del Banco Internacional de Pagos,
+BIS (2010), se resume esta literatura. En particular, el trabajo de Haldane (2010)
+cifra este coste, en valor presente, entre el 90% y el 350% del PIB global.
+En fin, la simple comparación de los costes de abordar el problema del
+CC y los derivados de la última crisis financiera pone de manifiesto los distintos órdenes de magnitud que comportan. Difícilmente se pueden justificar, a la
+vista de estas cifras, la inviabilidad económica de abordar con urgencia las
+medidas para limitar las emisiones de GEI.
+Los párrafos anteriores tienen solo el simple propósito de considerar
+las cifras en términos relativos, y así tener una idea más cabal de su magnitud.
+Pero la cuestión fundamental es que no se debe considerar la inversión para
+mitigar el CC como un ejercicio que consiste en detraer una determinada cantidad de recursos del bienestar social, más bien hay que considerarla como la
+elección de una senda distinta para el desarrollo tecnológico y económico, que
+conducirá al uso de energías renovables con el propósito de evitar riesgos
+inmensos y no poco probables.
+No me resisto a volver a traer aquí un argumento que ya di alguna otra
+vez. La disculpa para no invertir en energías renovables suele sustentarse en
+que, al no ser tecnologías maduras, cuentan aún con mucho margen futuro de
+mejora, lo que aconseja ralentizar su expansión, por ejemplo, acordando una
+demora en su desarrollo, tal y como han realizado ya algunos pocos gobiernos,
+entre ellos el nuestro. Es la clásica posición de resistencia al cambio, y a la
+defensa del statu quo tecnológico actual. Es la negación de una tesis básica de
+la economía de mercado, la destrucción creativa de Schumpeter, que consiste
+en la tendencia a que nuevos problemas e incentivos propicien la desaparición de viejas empresas y la creación de otras nuevas y más eficientes. Dicho
+de otra forma, sugiere volver a nuestro Unamuno, y al «¡que inventen ellos!».
+Cabe recordar, que se necesitaron cuarenta años desde que se introdujo la luz incandescente a finales de la década de 1870 hasta que llegó a ser
+
+132
+
+
+
+competitiva con la luz de gas, ya que en un principio era cuatro veces más
+cara. Hoy la luz artificial cuesta tres mil veces menos que en 1800 y 140 veces
+menos que en 1900, aunque durante mucho tiempo fue más barato iluminarnos con candiles y candilejas de aceite.
+Los economistas solemos pensar que no parece siempre una buena
+idea extender la vida de viejas tecnologías, en mercados regulados, con el propósito de dificultar la entrada a las tecnologías del futuro. Parece más lógico
+pensar que las nuevas tecnologías deben reemplazar a las viejas, y no al revés.
+El segundo tipo de razones que plantean los escépticos del CC son
+aquellas que expresan que, puesto que las medidas entrañan un coste muy significativo, lo razonable es esperar hasta que las incertidumbres se despejen y
+mientras tanto abordar problemas más urgentes. Esta actitud y las propuestas
+que conlleva tienen dos graves inconvenientes. El primero de ellos es que en
+la espera sigue agravándose el problema y aumentando el stock de GEI a tasas
+muy significativas, con el riesgo de traspasar determinados umbrales de concentración. El segundo es que también, y mientras tanto, se siguen construyendo infraestructuras de energía fósil y comprometiendo inversiones y capital en cifras tremendamente elevadas.
+En efecto, continuar con este tipo de inversiones entraña una llamativa
+contradicción. En la Conferencia de las Naciones Unidas sobre CC celebrada en
+Cancún hace tres años, los gobiernos alcanzaron un acuerdo para reducir las
+emisiones de GEI tendente a no superar un incremento de la temperatura de
+2 grados respecto al nivel anterior a la Revolución Industrial. Incluso, y dependiendo de los avances científicos, se abrió la posibilidad de revisar esta cifra
+hasta 1,5 grados. Pues bien, los análisis más solventes, entre ellos los de la
+Agencia Internacional de la Energía, véase CTI (2011), demuestran que la cantidad máxima de emisiones de GEI hasta el año 2050 para alcanzar este objetivo está entre los 565 y 886 miles de millones de toneladas (Gt) de CO2. Tal y
+como ha señalado recientemente el Instituto Grantham de Investigación sobre
+el Cambio Climático y el Medio Ambiente, de la London School of Economics,
+véase CTI y Grantham Research Institute on Climate Change and the Environment (2013), esta cifra máxima, conocida como el presupuesto de emisiones,
+es solo una fracción del CO2 contenido en las reservas de combustibles fósiles
+que hoy están reconocidas, y que ascienden a 2.860 mil millones de toneladas
+de CO2. Dicho en otros términos, la situación más probable es que solamente
+el 20 % de las actuales reservas de combustibles sólidos puede ser quemada
+antes del año 2050. Los flujos de GEI admisibles a partir de ese año para no
+traspasar la cota superior de los 2 grados no deben superar los 75 mil millones
+de toneladas de CO2 hasta final de siglo, lo que equivale a solamente dos años
+de emisiones a las tasas actuales. Por consiguiente, esta parte tan sustancial de
+los activos de las empresas que tienen reservas de combustibles sólidos está claramente sobrevalorada. En terminología actual estamos en presencia de una
+
+133
+
+
+
+llamativa burbuja, esta vez, de activos de combustibles fósiles. Situación que en
+modo alguno podrá verse mitigada por los faraónicos y muy caros proyectos
+de almacenamiento de CO2 que la industria afectada está intentando promocionar como aparente solución al inmenso problema que está creando.
+Las reservas de combustibles fósiles que hoy están en los balances de
+las 200 principales compañías cotizadas ascienden a 762 mil millones de toneladas de CO2, de las que solo serían utilizables el 20% como valor más probable y el 40% como máximo, lo que limitaría su capacidad de emisión, o presupuesto de CO2, a una cifra comprendida entre los 125 y 275 mil millones de
+toneladas. Obviamente, esta situación por sí sola entraña un riesgo para los
+inversores, ya que deberían reconocer que entre el 60 y el 80% de las reservas
+de las compañías de energía fósil no son utilizables.
+Pero a pesar de esta realidad, estas doscientas compañías han invertido, en el año 2012, 674 mil millones de dólares tanto en la búsqueda de nuevas reservas como en el desarrollo de nuevas tecnologías para su explotación.
+Siguiendo a este ritmo de inversión durante la próxima década se asignaría una
+cifra superior a los 6 billones de dólares a desarrollos relacionados con reservas que nunca llegarán a explotarse.
+También en este tipo de inversiones se deben incluir las reservas de la
+energía del gas pizarra, que por otra parte entrañan otro tipo de riesgos. En
+efecto, las técnicas utilizadas plantean serios problemas e incertidumbres relacionadas con la naturaleza, tales como la contaminación de las aguas subterráneas, determinados efectos sísmicos, el importante consumo de agua dulce, y
+la emisión de metano, que es un potente GEI. En todo caso, su utilización no
+resuelve el problema del CC, ya que al quemarse emite también CO2; eso sí,
+solamente el 50% del que se emite al quemar carbón. De hecho, la fracturación
+hidráulica es un proceso tremendamente complejo, que requiere el desarrollo
+previo de nuevos estándares y regulaciones que controlen y acoten los riesgos
+que, indudablemente, conlleva.
+Los mercados no están valorando adecuadamente esta situación, ya
+que pienso que los analistas están suponiendo que todo este tipo de reservas
+reflejadas en el activo de las compañías se llegarán a desarrollar y a poner en
+el mercado en un futuro próximo, y que los ingresos así obtenidos se reinvertirán de nuevo en el mismo proceso. Desde luego, este propósito nunca podrá
+convertirse en realidad si los acuerdos alcanzados para limitar el incremento de
+temperatura en la Tierra se llevan a la práctica. Pues bien, esta es la situación
+a la que nos está conduciendo la postura de los escépticos del CC, que consiste en esperar a que la ciencia confirme, sin duda alguna, la existencia del CC.
+Con estos datos en mente, es fácil entender la oposición tan extrema que las
+muy influyentes empresas relacionadas con las energías fósiles ofrecen a la evidencia científica del CC.
+
+134
+
+
+
+En otros ámbitos, sin tantos intereses económicos y políticos en
+juego, no se ha procedido de esta manera. Valga como ejemplo el sector de
+las tecnologías de la comunicación e información, y la revolución que en él
+estamos viviendo. Pero también tenemos pruebas no tan recientes y en otras
+áreas de conocimiento. Todo estudiante de salud pública conoce bien cómo
+el mapa del cólera de John Snow, médico inglés precursor de la epidemiología, evitó la expansión de esta epidemia en Londres en el año 1854. Snow utilizó un mapa de la ciudad para localizar en él a los cerca de 700 londinenses
+que habían fallecido como consecuencia de esta enfermedad. Así llegó a la
+conclusión de que aquellos que habían bebido de una fuente de agua de
+Broad Street eran los que mayor riego corrían de contraer este mal, incluso
+si no vivían en la misma zona. En el mes de septiembre de ese año Snow persuadió a las autoridades para que clausurasen esa fuente como muy probable origen de la enfermedad. Así, utilizando la mejor evidencia disponible en
+ese momento, se pudo evitar miles de muertes adicionales. Está claro que si
+las autoridades de Londres le hubieran exigido a Snow una certeza absoluta,
+la epidemia se habría extendido otros 30 años, por lo menos, hasta que en
+1885 el médico alemán Robert Koch estableció la causa bacteriana del cólera
+en forma inobjetable. Por cierto, Robert Koch recibió el premio Nobel de
+Medicina en 1905, 51 años después de la elaboración del mapa de Snow.
+Una situación análoga a la de la industria de los combustibles sólidos
+la protagonizó la industria tabacalera durante décadas. Además de fabricar y
+promocionar productos derivados del tabaco organizó poderos grupos de presión y campañas publicitarias destinadas a crear incertidumbre respecto a sus
+verdaderas consecuencias en la salud humana. En cierta manera, la duda científica era también su producto. De suerte análoga, los escépticos del CC están
+interesados en seguir diciendo que «el debate científico sigue abierto», para
+persuadir a los ciudadanos, y votantes, de que no existe consenso alguno en
+la comunidad científica sobre el calentamiento de la Tierra. Es indudable que
+la incertidumbre favorece el statu quo alcanzado por las muy poderosas compañías de energías fósiles. Definitivamente los escépticos no disponen de las
+pruebas que sustenten sus afirmaciones, pero sí tienen mucha mayor capacidad de influencia económica y política. El profesor Stern recomienda para este
+tipo de indagaciones, y yo también lo hago, el libro de la profesora Oreskes
+de la Universidad de Stanford titulado Merchants of Doubt, véase Oreskes y
+Conway (2010). Su lectura, entre otras enseñanzas, nos vuelve a un principio
+básico: aquel que consiste en utilizar la mejor evidencia, teórica y empírica,
+disponible, y no exigir certeza donde no la hay.
+El tercer tipo de razones que los escépticos esgrimen son las relacionadas con un conjunto de evidencias científicas y estadísticas que tratan de
+refutar. A continuación me referiré a las más utilizadas.
+Algunas son en efecto rudimentarias, pero asequibles y muy utilizadas, como aquellas que confunden interesadamente las oscilaciones de la tem-
+
+135
+
+
+
+peratura alrededor de una tendencia dada con la imposibilidad de caracterizar
+de forma adecuada esta tendencia. Es decir, confunden la componente tendencial con la componente cíclica y la componente irregular de los datos que analizan. Un ejemplo de esta manera de proceder ha tenido lugar este mismo mes
+de octubre de 2013 inmediatamente después de la publicación, a finales de
+septiembre, del Informe del IPCC (2013), al que me referí al comienzo de esta
+intervención. En una conferencia organizada en Londres entre otras entidades
+por el Instituto Heartland se afirmó que la temperatura no está aumentando, ya
+que está estabilizada desde 1998, cuando se alcanzó el valor máximo de los últimos años. Se certifica entonces que la predicción del IPCC era errónea. Sin
+embargo, y como debiera ser bien sabido, los quince años transcurridos desde
+entonces no son un periodo suficiente para colegir, de esta aparente estabilización de la temperatura, que no exista tal tendencia. Es probable que una
+generación y media sea tiempo suficiente para hacer juicios sobre muchos comportamientos, pero no lo es para hacerlos sobre el CC. En este caso, el fenómeno de calentamiento transitorio originado en el océano Pacífico en el año
+1998, conocido como El Niño, ha dado lugar a esta situación. Es obvio que no
+es razonable para hacer este tipo de deducciones elegir arbitrariamente el año
+de referencia. Si, por ejemplo, la comparación se hace entre la década que
+empezó tras el año 2000 y la anterior se comprueba que las predicciones del
+IPCC son correctas. Pero aún así tampoco esta última comparación validaría,
+por sí sola, la afirmación de una tendencia creciente en la serie de la temperatura. Hay que recordar que The Economist (2012) reconoció que el Heartland
+Institute es el think tank más prominente en la promoción de opiniones escépticas sobre el origen antropogénico del CC.
+Argumentos análogos en cuanto a su falta de rigor son los utilizados
+por Václav Klaus en su libro Planeta azul (no verde), véase Klaus (2008), y
+hago referencia a él porque fue objeto de una desusada publicidad cuando
+una conocida fundación española lo tradujo al español. Además, también nos
+puede dar una idea respecto a la calidad del debate sobre el CC en España.
+Entre los llamativos errores en los que incurre este autor está el de confundir
+el tipo de externalidades que generan los GEI con las que generan otros gases
+contaminantes, y así justificar la curva de Kuznets para esta situación. Recuérdese el tipo de externalidades negativas que los GEI generan: la globalidad de
+su efecto, el largo plazo de su impacto, la incertidumbre y su capacidad potencial de generar cambios radicales e irreversibles. Pero también se atreve a intentar refutar la evidencia del calentamiento global con un rudimentario análisis
+de regresión utilizando 86 observaciones de las temperaturas en la ciudad de
+Opava tomadas por el Instituto Hidrometeorólogico Checo entre los años 1921
+y 2006. Es un ejemplo paradigmático de la falta del rigor más elemental en este
+tipo de análisis, en su caso no solo del trabajo original, sino también de la traducción realizada al español en la que al «análisis de regresión» se le llama
+«análisis regresivo en línea recta».
+
+136
+
+
+
+En su visita a Madrid para la presentación de su libro, el expresidente
+checo, Václav Klaus, hizo una afirmación que es moneda común entre los escépticos: «la comunidad internacional debe prestar mayor atención a otros asuntos
+más preocupantes que el aumento en unos grados de la temperatura global y el
+calentamiento global lo están aprovechando grupos ecologistas radicales para
+llevar a cabo sus objetivos». Si con ello se quiere reconocer que el mundo ecologista no se caracteriza siempre por contrastar sus opiniones con la realidad, mal
+se pueden confundir esos grupos de personas con los centros de investigación,
+públicos y privados, más prestigiosos del mundo. En cuanto a su otra observación, sobre la prioridad en la asignación de recursos a otro tipo de problemas,
+alguno de ellos aparentemente más acuciantes en el tiempo, ya me he referido
+a este falso planteamiento de prioridades en anteriores ocasiones.
+Otros análisis que se ofrecen para pretender refutar la evidencia son
+algo más sofisticados desde el punto de vista estadístico y econométrico. No es
+este el momento de entrar aquí en ellos. Pero para los lectores interesados cabe
+citar los recientes trabajos de los profesores de la Universidad de Oxford, David
+Hendry y Felix Pretis, véase Hendry y Pretis (2013) y Pretis y Hendry (2013). En
+ellos se ponen en evidencia los llamativos errores en los que incurren los autores que han tratado de refutar la teoría de que los GEI son la causa del calentamiento global. En especial, se alude a un artículo difundido el año pasado que
+utilizando las series temporales de temperatura y de la emisión de GEI para el
+periodo comprendido entre 1850 y 2011 afirma que no existe relación causal
+alguna entre ellas. Tres son los errores básicos que detectan: el modelo no está
+correctamente especificado, existen errores fundamentales en las fuentes de los
+datos que utilizan y en ese intervalo de años existen dos periodos claramente
+diferenciados.
+Argumentos adicionales que se reiteran, una y otra vez, son aquellos
+que sugieren que aunque los cambios antropogénicos, los debidos a la actividad del hombre, son una realidad, hay otro tipo de efectos naturales que
+afectan en mayor medida a la variación de la temperatura. Sin embargo, la
+evidencia científica demuestra que el efecto básico proviene de la actividad
+humana. Finalmente se subraya la importancia del vapor de agua frente a
+otros GEI y, en efecto, la tiene por el comprobado hecho de que amplifica
+su efecto.
+En último lugar, en la lista de razones para no considerar el proceso
+de CC están aquellas que se esgrimen como consecuencia de errores de diversa
+naturaleza que se han detectado en la literatura científica. El hecho de que
+algunos trabajos y artículos contengan algún tipo de error no debe invalidar el
+conjunto. Más bien es el propio proceso de desarrollo teórico y empírico el
+que los va corrigiendo. En todo caso, aun aislando la aportación de este grupo
+de trabajos la evidencia del CC es abrumadora.
+
+137
+
+
+
+Entre este tipo de razones, especialmente relevante fue la interferencia
+de un conjunto de correos electrónicos escritos por científicos de la Unidad de
+Investigación Climática (CRU por sus siglas en inglés) de la Universidad de East
+Anglia, véase Oxburgh et al. (2010), de los que podría llegar a deducirse la ocultación de alguna evidencia contenida en los datos que utilizaban respecto al CC.
+Una vez más, aunque se prescindiera de los resultados de los investigadores de
+esta Universidad, la evidencia científica a favor del aumento de temperatura es
+determinante. Pero en todo caso, las indagaciones posteriores sobre la calidad
+del trabajo de estos científicos llevadas a cabo por centros universitarios y científicos del mayor prestigio demostraron la absoluta integridad profesional y científica de estos investigadores. Entre ellas están las llevadas a cabo por el panel
+formado por la propia universidad, previa consulta a la Royal Society, que dictaminó que «las conclusiones [alcanzadas por la CRU] representan una interpretación de los datos honesta y justificada científicamente». Incluso el Parlamento Británico se pronunció en el sentido de que «la reputación científica del
+profesor Jones y la CRU permanecen intactas», véase House of Commons Science
+and Technology Committee (2010). También la revista Nature (2009) afirmó en
+un editorial que «Una lectura imparcial de los correos electrónicos no revela nada
+que respalde las teorías conspirativas de los negacionistas». Sin embargo, el
+impacto que en los medios de comunicación tuvo este incidente fue tremendo,
+sobre todo porque la interferencia de los correos electrónicos se produjo de
+forma estratégica en noviembre del año 2009, inmediatamente antes de la importante y crítica conferencia sobre mitigación del CC que celebrarían las Naciones
+Unidas en Copenhague el 7 de diciembre de ese año. Téngase en cuenta, por
+ejemplo, un artículo en The Wall Street Journal, véase Johnson (2009), en el que
+se llegó a afirmar que «Los mensajes de correo electrónico incluyen discusiones
+de los esfuerzos aparentes para asegurarse de que los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático, un grupo de las Naciones
+Unidas que monitoriza la ciencia del clima, incluyeran sus propios puntos de
+vista y excluyeran otros. Además, los correos electrónicos muestran que los científicos del clima se negaron a poner sus datos a disposición de aquellos científicos cuyas opiniones estaban en desacuerdo con ellos».
+No debe olvidarse que en los medios de comunicación internacionales se llegó a acuñar el término de Climategate, para de esta manera asimilarlo
+al escándalo del Watergate, véase Satter (2010). Es evidente, una vez más, que
+los desproporcionados intereses detrás de la energía fósil no tienen la razón
+científica, pero tienen el amparo de la mayor parte de los medios de comunicación.
+A título de ejemplo cabe decir que pocos meses después, en junio de
+2010, se publicó un documento, A Business Plan for America’s Energy Future,
+véase AEIC (2010), que fue suscrito no por científicos, sino por destacados ejecutivos empresariales, entre otros Bill Gates, fundador de Microsoft, Norman
+Augustine, presidente de Lockheed Martin, Chad Holliday, presidente de Bank
+
+138
+
+
+
+of America, Ursula Burns, primera ejecutiva de Xerox, y Jeff Immelt, presidente
+y consejero delegado de General Electric. En este texto se advertía del peligro
+que conlleva la utilización de energías fósiles y de la muy baja inversión en
+energías renovables en EE. UU., destacando especialmente los fallos de mercado que se presentan, asimetrías en la información y externalidades positivas,
+a la hora de financiar tales inversiones, lo que conduce a un nivel de inversión
+inferior al deseable. Tal documento pasó prácticamente inadvertido para los
+medios de comunicación.
+Thomas Friedman recuerda en su reciente libro, véase Friedman
+(2008), que la última y gran innovación en el sistema de producción energética fue la energía nuclear de fisión, hace ya más de cincuenta años, y se pregunta si hay algún sector industrial competitivo en EE. UU. en el que el último
+desarrollo significativo haya tenido lugar hace más de medio siglo. La razón
+concluyente es fácil de encontrar, ya que, como recordaba un miembro de la
+Comisión de la Energía de California, las compañías energéticas en EE. UU.
+invierten menos en I+D que las compañías de alimentos para animales domésticos. Una opinión análoga la ha expresado también, hace más de seis años, Jeffrey Immelt, presidente y consejero delegado de General Electric, en los
+siguientes términos. Decía que en sus 26 años en la empresa había vivido de
+ocho a nueve generaciones distintas de equipos médicos, y todas ellas habían
+incorporado innovaciones y cambios tecnológicos muy relevantes; por el contrario, en plantas de producción de energía había visto solo una, que era en
+esencia el mismo modelo que existía cuando entró en la empresa. Terminaba
+afirmando que «realmente uno no puede mirar atrás los últimos treinta años y
+decir que el mercado de la energía ha funcionado». Es obvio, hay que añadir,
+que cuando la política de precios y el entorno institucional y de incentivos no
+es el correcto este mercado no puede funcionar.
+Tal y como ya se afirmaba hace más de cinco años en el primer párrafo
+del capítulo sobre CC del World Economic Outlook del Fondo Monetario Internacional (2008), «el CC es una externalidad global potencialmente catastrófica
+y uno de los mayores problemas de acción colectiva a nivel mundial». Por ello,
+a mi juicio, la auténtica causa de esta formidable oposición al reconocimiento
+del CC estriba en que solventarlo requiere intervenir decididamente para cambiar los incentivos que tienen los agentes económicos cuando su actividad
+genera GEI.
+En este sentido, el denominador común de tales comportamientos,
+cuando no defienden intereses concretos, es el convencimiento de que cualquier regulación económica es, cuando menos, no deseable. Tienden a oponerse siempre a cualquier intervención pública, y recelan de ellas, sin duda,
+muchas veces con motivo. Puesto que son conscientes de que admitir que el
+libre uso de combustibles fósiles conlleva costosas externalidades de carácter
+global y, como consecuencia, una decidida intervención pública de la que
+
+139
+
+
+
+muchos desconfían, intentan evitarla tomando el camino más fácil, que es
+poner en entredicho lo que la ciencia afirma. Puesto que para ellos la intervención pública no es aceptable, niegan la relevancia de los resultados científicos.
+Desde este punto de vista, podríamos afirmar que la oposición a la evidencia
+del CC climático tiene más que ver con la ideología que con la ciencia.
+La experiencia teórica y empírica demuestra que no es razonable transferir al mercado responsabilidades económicas y políticas que corresponden a
+los gobiernos democráticos, y que debieran corregir sus conocidos fallos, ya
+que el resultado final es un deterioro del mercado y de las reglas básicas de su
+funcionamiento.
+Si bien se observa, las personas o científicos que niegan el origen
+antropogénico del CC nunca llevan sus razones a los espacios de las instituciones científicas, siempre las llevan a los pasillos del debate político y de la opinión pública. Y así lo hacen porque la gran mayoría de sus opiniones ya fueron rechazadas previamente por la comunidad científica, y las restantes, por
+absurdas, ni siquiera fueron alguna vez consideradas.
+En el debate actual, los negacionistas y escépticos del CC han pasado
+indistintamente de negar el consenso que existe en la comunidad científica, a
+preguntarse qué sucedería si tal consenso estuviera equivocado; nos remiten,
+entonces, como ejemplo paradigmático a Galileo. Argumento, por otra parte,
+no solo bastante singular, sino también completamente erróneo. Galileo fue
+censurado por las instituciones políticas y religiosas, no por la comunidad científica, que en gran parte estaba de su lado. Además, y al contrario que Galileo,
+los escépticos y negacionistas del CC no tratan de superar una vieja creencia,
+sino de restablecerla, volviendo a la sabiduría convencional que afirmaba que
+la simple actividad humana no puede desviar el curso de la naturaleza, sobre
+la base de que los grandes cambios habidos en el muy distante pasado han
+tenido otro origen. Unos y otros, al insistir en su postura se acercan más, desde
+luego, a la posición de la Iglesia de entonces que a la de Galileo, al que aquella le siguió todavía disputando la razón durante cien años más.
+Para concluir este tipo de observaciones quiero señalar que, en general y en cualquier disciplina, las valoraciones de los escépticos son invariablemente enriquecedoras, siempre que se realicen dentro de las reglas del debate
+científico. No lo son cuando se salen de él o cuando, como con tanta frecuencia sucede, responden a intereses que no se hacen explícitos. A menudo, y
+desafortunadamente, muchas valoraciones de este tipo subsisten, sin más, porque encuentran altavoces en los medios de comunicación. Es indudable que la
+crítica fundada desempeña un papel trascendental en el progreso científico,
+hasta tal punto que cabe asumir que ninguna teoría permanecerá con el paso
+del tiempo. Cuestión distinta, en mi opinión, es cuando no se quiere, o no se
+puede, atender a lo que dice la ciencia.
+
+140
+
+
+
+REFORMA ELÉCTRICA
+Y ENERGÍAS RENOVABLES
+El sector de la energía es uno de los pilares básicos del crecimiento y
+desarrollo de las economías modernas. De hecho, cabe afirmar que lo realmente vivido en el siglo XIX no fue una revolución industrial, sino una revolución energética. En efecto, un indicador del estilo de vida en los países desarrollados es el intensivo uso de la energía. El proceso de globalización y de
+convergencia está llevando a un incremento sustancial del consumo de energía per cápita en el mundo y, como consecuencia de la actual infraestructura
+energética, también a un aumento de las emisiones de CO2 per cápita.
+Aproximadamente dos tercios de las emisiones de GEI se originan en
+actividades relacionadas con el uso de la energía y alrededor del 25% en la
+generación de electricidad. Este sector desempeña, pues, un papel clave en el
+desarrollo económico y en el proceso de CC, y a su reciente reforma en España
+me voy a referir en lo que sigue.
+El sector eléctrico se caracteriza por su carácter oligopolístico y su
+fuerte nivel de regulación. Dado el propósito de mi exposición de hoy, me
+centraré básicamente en los aspectos relacionados con las energías renovables.
+A mi juicio, y como seguidamente trataré de justificar, los fallos de mercado y la errónea regulación de la Ley 57/1997 están en el origen de los problemas y de la insostenibilidad de nuestro sector eléctrico. Para escoger solo
+una muestra de la maraña legislativa que lo envuelve, cabe señalar que desde
+el año 2010 entraron en vigor dos RD, tres RDL y la Ley 15/2012, todos ellos
+anteriores al RDL 9/2013 del pasado 12 de julio, de medidas urgentes para la
+estabilidad financiera del sistema eléctrico. Estas normas, en mayor o menor
+medida, tienen un denominador común, que es la penalización de las energías
+renovables.
+Tal y como el Ministerio de Industria, Energía y Turismo (MINETUR)
+ha manifestado en el documento publicado, el pasado 12 de julio, en su página
+web titulado Reforma del sistema eléctrico: una reforma necesaria, véase Ministerio de Industria, Energía y Turismo (2013), los principales problemas que la
+reforma que propone trata de abordar son el déficit de tarifa y la distorsión en
+costes y precios. En mi opinión, estos dos problemas se interpretan, erróneamente, de la siguiente forma. Se afirma que «el precio de la electricidad en
+España está por encima de la media europea» (p. 3) para un consumidor doméstico, y «muy por encima» (p. 4) de esta media para un consumidor industrial.
+Además se certifica que «a pesar del elevado precio y de las medidas ya tomadas,
+todavía persiste un déficit de tarifa» (p. 5); y que «se origina por un crecimiento
+exponencial de los costes del sistema frente a sus ingresos, en especial las primas
+a las renovables y la amortización de la deuda» (p. 6).
+
+141
+
+
+
+Esta interpretación de los dos problemas no es correcta y, por consiguiente, la solución que se les da en la reforma que se ha propuesto en el Proyecto de Ley enviado al Parlamento y en el RDL 9/2013 del 13 de julio no es
+la adecuada. Veamos.
+Ciertamente existe una distorsión en los costes y precios en el sistema
+pero, en todo caso, esta afirmación habría que sustentarla en el análisis de los
+precios finales de la energía para los hogares y para la industria. Digo precios
+finales, es decir, después de impuestos, ya que en el documento citado el
+MINETUR considera los precios antes de impuestos o, lo que es lo mismo, el
+importe que reciben las empresas del sector, pero no el que paga por la electricidad el consumidor final.
+En efecto, si utilizamos la información de Eurostat (2013) más reciente,
+correspondiente al primer semestre de 2012, que es la que también utiliza el
+MINETUR, podemos obtener las conclusiones que a continuación veremos.
+(Nótese que en las estadísticas oficiales, recogidas en la web de la European
+Commission, Eurostat, el precio que se asigna a un año dado es el correspondiente a su primer semestre).
+El documento del MINETUR está en lo cierto cuando afirma que «solo
+en Irlanda y Chipre es más caro que en España el precio de la electricidad antes
+de impuestos para el consumidor doméstico», pero no lo está si consideramos
+el precio después de impuestos, que es el relevante para el consumidor. Si así
+lo hiciéramos, comprobaríamos también que, por ejemplo, Dinamarca, Bélgica
+y Alemania tienen precios para el consumidor doméstico superiores a los nuestros. Una consideración análoga podríamos hacer respecto a los precios de la
+energía eléctrica para uso industrial. Si analizamos estos precios con impuestos, aun excluyendo el IVA, vemos que países como Dinamarca, Italia, Bélgica
+y Alemania tienen valores superiores a España.
+¿A qué viene, entonces, repetir una y otra vez, tanto en documentos
+oficiales como en los medios de comunicación, que nuestra energía eléctrica
+tiene los precios más elevados de Europa excluyendo a Chipre e Irlanda?
+Lo cierto es que este documento oficial del MINETUR, sobre el que
+asienta la reforma que propone, además de tener algunos errores técnicos
+muy notables, a los que me referiré más tarde, también da la impresión de
+haber sido redactado con alguna precipitación, de hecho, aunque la última
+versión del documento accesible en la web ha experimentado modificaciones,
+aún persisten algunos errores. Valgan tres ejemplos: cuando se compara el
+precio de la electricidad en España con los países de la UE se incluyen en
+esta comparación países como Montenegro, Croacia y Noruega, pero en el
+año de la comparación, el 2012, ninguno de ellos formaba parte de la Unión;
+además, las unidades de los precios de la energía son erróneas al indicarse
+
+142
+
+
+
+c€/kWh cuando realmente son €/kWh; finalmente, no se especifica cuál es la
+definición de consumidor medio que se utiliza, sin embargo, en la versión
+publicada inicialmente sí se definía, en su página 7, aunque no coincidía con
+el criterio de Eurostat.
+Es costumbre alarmar, interesadamente, sobrevalorando las tasas de
+incremento de los precios de la electricidad habidas en los últimos años. No se
+tiene en cuenta al hacer este tipo de afirmaciones que en el año 2007 se ha producido un cambio de criterio en la definición de hogar e industria de referencia que adopta Eurostat. Este cambio ha significado para las series temporales
+referidas a España un aparente incremento, que no ha sido real, del 14,7% para
+los hogares y del 37,6% para la industria. Por tanto, las afirmaciones que se
+hacen sobre los incrementos habidos en el precio de la electricidad están sobrevalorados en esas cantidades. Conviene siempre tener en cuenta en el análisis
+temporal de las magnitudes económicas cuándo ha habido un cambio de criterio en su definición. Interpretar los datos adecuadamente no debiera ser
+nunca una tarea menor.
+En todo caso, sí cabe decir que el precio final de la electricidad en
+España comparado con el valor medio de los países de la Unión Monetaria
+(UM) es un 10% más alto para los hogares y un 3,6% más bajo para la industria. Cifras que distan mucho de las que corresponden a los valores sin impuestos que en efecto son, en ambos casos, más altos en un 32,3 y un 20%, respectivamente. Es obvio que en el debate actual existe una estrategia, por parte de
+las compañías eléctricas tradicionales, que exagera los precios y sus incrementos, porque indirectamente la opinión pública se lo puede atribuir, y de hecho
+así lo hace, al desarrollo de las energías renovables. Situación, que como veremos, tampoco responde a la realidad. En resumen, cuando se analizan asuntos tan relevantes, no debiera dar lo mismo ocho que ochenta.
+Por otra parte, la fuerte dispersión de los precios observados en los
+distintos países hace que la media sea poco representativa del conjunto y, a la
+vez, que el precio final de la energía en España pueda considerarse cerca o
+lejos del nivel medio. Igualmente, las diferencias entre precios nacionales
+sugieren el poco sentido económico que tiene hacer conjeturas sobre los efectos del coste de la energía en la actividad industrial, utilizando valores medios
+calculados a partir de los precios observados en países tan heterogéneos en la
+composición sectorial de su actividad económica, en sus ámbitos de consumo
+y en su renta per cápita, como Alemania, Malta y Chipre. Porque realmente ¿a
+qué política industrial nos queremos comparar, a la de Alemania o a la de
+Malta y Chipre?
+Además, resultados muy distintos, y más representativos, se obtendrían
+si en lugar de medias simples se utilizaran medias ponderadas, por ejemplo, por
+el correspondiente valor añadido bruto (VAB) energético de cada país.
+
+143
+
+
+
+Otra limitación relevante en el tipo de análisis que se lleva a cabo en
+el documento del MINETUR es que en los precios de la electricidad de los distintos países se ignoran los marcos de apoyo a las renovables vigentes en cada
+uno de ellos. En efecto, en algunos casos estos apoyos se repercuten directamente en el precio, y en otros como, por ejemplo, el Reino Unido, Italia, Suecia, Bélgica y Polonia, no se hace. Por consiguiente, no cabe incluirlos en los
+mencionados valores medios como elementos de referencia si no se le adicionan los costes correspondientes a las ayudas no reflejadas en las tarifas.
+Valgan estas observaciones para demostrar lo sesgado de los análisis
+referidos al precio de la energía eléctrica en España. Se podría pensar que es
+un simple problema de incompetencia profesional, si no fuera por el hecho de
+que este sesgo siempre se manifiesta a favor del mantenimiento del statu quo
+actual, y en contra de la introducción de las energías renovables en nuestra
+infraestructura energética.
+Este tipo de manipulación en la verdadera evolución de los precios de
+la electricidad se completa con el falso diagnóstico de que esta es una de las
+causas de la pérdida de competitividad de la industria española. Diagnóstico,
+por otra parte, tan querido a todos aquellos que se oponen a la introducción
+de las energías renovables. Sobre esta falsa base se facilita la actividad —y se
+dan argumentos para ella— de los fuertes lobbies que representan tanto a las
+compañías eléctricas tradicionales como a las compañías que en nuestro país
+tienen una actividad muy intensiva en energía.
+En este contexto, puede ser interesante destacar los resultados obtenidos en el informe 2013 Global Manufacturing Competitiveness Index, elaborado y publicado recientemente por Deloitte. A partir de una encuesta realizada
+a quinientos ejecutivos de compañías manufactureras de todo el mundo, se
+llega a la conclusión de que el coste de la energía ocupa el séptimo lugar entre
+los diez principales factores que afectan a la competitividad de sus empresas.
+Por delante están factores tales como la calidad de los científicos, ingenieros y
+mano de obra especializada; el sistema impositivo y la claridad y estabilidad de
+la regulación; el coste y accesibilidad a las materias primas; la calidad de los
+suministradores locales; la legislación laboral; y la infraestructura física, incluyendo redes eléctricas, de comunicación, carreteras, puertos, aeropuertos y
+transporte por ferrocarril. Véase Deloitte (2013). Si revisamos todos y cada uno
+de estos factores comprobaremos seriamente cuáles son los cuellos de botella
+reales, y no figurados, que tiene nuestra infraestructura industrial para poder
+mejorar su competitividad.
+La diferente estructura impositiva genera diferencias muy importantes
+en los precios finales de la electricidad en los países de la UE. Así, por ejemplo, para los hogares en Dinamarca los impuestos representan el 128% del precio sin impuestos, en Alemania el 80%, en Italia el 48%, en Francia el 41% y en
+
+144
+
+
+
+España solamente el 24%. Proporciones análogas se mantienen para los impuestos que gravan el precio para uso industrial.
+La incorporación de instrumentos que corrijan las externalidades que
+generan las energías fósiles se ha concretado en los distintos sistemas fiscales
+en tres clases de impuestos: sobre la energía, sobre el transporte y sobre los
+residuos. Existe en Europa abundante experiencia sobre la capacidad recaudatoria y de internalización de costes de este tipo de impuestos; experiencia que
+sería recomendable utilizar en la reforma fiscal que se nos ha anunciado para
+el próximo año. En este sentido, la lectura de los capítulos 10, 11 y 12 del
+Informe del profesor Mirrlees (2013), premio Nobel de Economía, y recién
+publicado en la Editorial Universitaria Ramón Areces, podría ser de gran utilidad a los redactores de esta reforma.
+El segundo problema erróneamente caracterizado en el documento del
+MINETUR —que reitero que es el que justifica la reforma eléctrica propuesta—,
+es el del déficit de tarifa acumulado, que tal como en él se señala ha alcanzado
+hasta mayo de 2013 los 26.062 millones de euros, una vez que se han amortizado hasta esa fecha 10.000 millones de euros.
+Como ya he señalado, el documento del MINETUR afirma que «el
+déficit se origina por un crecimiento exponencial de los costes del sistema frente
+a sus ingresos, en especial las primas a las renovables y la amortización de la
+deuda». Tampoco esta afirmación es correcta. Lo sería si hablara de «costes
+reconocidos del sistema» y le atribuyera a estos costes la causa fundamental
+del déficit. La realidad demuestra que a las compañías eléctricas se le reconocen costes en los que no siempre incurren. La diferencia entre la totalidad de
+los costes reconocidos, en los que no necesariamente se incurre, y los ingresos regulados por las correspondientes tarifas da lugar al denominado «déficit
+de tarifa».
+La posibilidad de que el sistema eléctrico pudiera generar el inmenso
+problema que hoy supone el déficit de tarifa tiene un largo recorrido normativo, que vale la pena recordar. Su origen está en la desafortunada Ley 54/1997,
+de 27 de noviembre, del Sector Eléctrico, que entre sus objetivos decía tener
+el de la liberalización del sector. Esta ley en su disposición transitoria sexta, posteriormente modificada por el artículo 107 de la Ley 50/1998, es la que ha posibilitado la aparición del déficit de tarifa introduciendo los «derechos de compensación» en el caso de la existencia de déficit de ingresos. Más tarde el
+procedimiento se instrumenta en la Orden de 21 de noviembre de 2000 del
+Ministerio de Economía por la que se establece para el año 2000 y siguientes,
+la precedencia en la repercusión del déficit de ingresos en las liquidaciones de
+las actividades reguladas. Posteriormente, esta Orden queda modificada por la
+Orden ECO/1588/2002, de 12 de junio, del Ministerio de Economía. Recuérdese,
+que en aquellas fechas, la Dirección General de Política Energética estaba en
+
+145
+
+
+
+ese ministerio. Esta última Orden establece un texto refundido de todas las normas que acabo de citar, y que tiene como soporte la disposición transitoria
+sexta de la muy desafortunada Ley 54 del año 1997, origen de los problemas
+en el sector eléctrico.
+Como se ve el proceso legislativo que dio lugar, entre 1997 y 2002, al
+hoy denostado déficit de tarifa ha sido realmente complicado. Hay que hacer
+notar que cuando se concibió la idea del déficit de tarifa las energías renovables aún no se habían puesto en marcha, y curiosamente hoy se las responsabiliza de su existencia. Estos enrevesados procesos han sido una característica,
+desde entonces, de toda la legislación sobre nuestro sistema eléctrico. En aquellos años, con el propósito de enmascarar, entre otros problemas, los del incremento del IPC, se crearon artificialmente precios más bajos de la energía que
+los derivados de los costes reconocidos, que no reales, en su generación.
+Las primas a las energías renovables representan el 13% de la factura
+eléctrica pero existen otros muchos conceptos en ella que no están directamente relacionados con la generación de electricidad y que representan el 36
+% de la factura. Eso sí, no se los engloba bajo esta despectiva denominación.
+En estos otros casos, a las ayudas recibidas se las denomina de otra manera, se
+habla entonces de «pagos por disponibilidad», «costes extrapeninsulares» o «costes de transición a la competencia (CTC)». Los CTC se introdujeron también en
+la Ley 54/1997, en la que se fijaba la cantidad máxima de 8.600 millones de
+euros, que ha sido injustificadamente superada hasta alcanzar los 12.000 millones de euros. Algunos de estos pagos, al margen de la generación, no deberían estar en la factura eléctrica, por ejemplo, dado el carácter de política territorial que tienen los costes extrapeninsulares —que representan el 6% de la
+factura—, sino que deberían estar incluidos en los PGE.
+La sobrerretribución a las centrales nucleares e hidráulicas viene dada
+por el procedimiento con el que se retribuyen los distintos grupos de generación. En efecto, estos grupos venden su electricidad en un mercado mayorista
+centralizado a través de un operador del mercado (OMEI). Este mercado es
+marginalista, es decir, el precio que se paga a todos los grupos de generación
+es el mismo y coincide con el que corresponde al último MGWh casado en
+este mercado.
+La primera consecuencia de esta forma de definir el mercado es que
+puesto que todas las tecnologías de generación eléctrica se retribuyen del
+mismo modo no se tiene en cuenta el coste real de cada una de ellas. Por consiguiente, el precio que pagamos por la energía hidráulica y nuclear termina
+indiciado con el precio del petróleo y del gas natural, ya que estas son las últimas tecnologías que entran en funcionamiento. Dicho de otro modo, cada vez
+que el petróleo y el gas suben de precio también sube el coste de la energía
+producida por nuestras centrales hidráulicas y nucleares. Es decir, un verdadero
+
+146
+
+
+
+sinsentido, para el contribuyente y consumidor final, pero no desde luego para
+las compañías eléctricas tradicionales. Esta forma de proceder puede ser la adecuada para determinar la producción de las distintas instalaciones, pero, desde
+luego, no lo es para fijar sus distintas retribuciones independientemente de la
+tecnología que utilicen. No debe olvidarse que la incorporación de las energías
+renovables en nuestra infraestructura energética es una consecuencia de los
+compromisos de España dentro de la UE. Este compromiso define una mixtura
+energética determinada en la que las energías renovables deben adquirir una
+proporción creciente. Es obvio que, definida una mixtura de tecnologías, cada
+una de ellas debe recibir una remuneración acorde con los costes tan dispares
+que tienen unas y otras. No parece razonable interpretar como subvenciones
+o primas las retribuciones a determinadas tecnologías por la simple razón de
+que, dado su estado de desarrollo, incorporen costes mayores que las tecnologías tradicionales. Nuestra dependencia energética aún es del 70,8% frente al
+53,8% de la UE.
+Este exceso de retribución de las centrales hidráulicas y nucleares
+representa desde el año 2005, en el que ya se habían pagado los CTC previstos, una cifra superior a los 27.000 millones de euros. Vemos, pues, que esta
+retribución recibida por las eléctricas es superior al déficit de tarifa, que
+asciende a 26.062 millones de euros. Cabría decir, entonces, que en realidad no
+existe un déficit de tarifa, lo que existe es un exceso en las retribuciones que
+se reconocen a las compañías eléctricas.
+Hay que señalar que del total de la retribución que perciben las centrales hidráulicas y las nucleares solo destinan a sus costes de operación el 1,15
+y el 34,5%, respectivamente. Por ejemplo, la retribución en España a las centrales nucleares es el 42% superior que en Francia, el 62% superior que en Alemania y el 40% superior que en Bélgica. Fuera del marco regulatorio, difícilmente se resolverá este problema de la sobrerretribución, al no verse afectado
+por la competencia, ya que no existe libertad de entrada en estos sectores de
+generación eléctrica.
+En todo caso, es indudable que la incorporación de las energías renovables ha contribuido al encarecimiento de la factura eléctrica, pero desde
+luego no en los términos en los que se suele cuantificar. Incontrolada en
+especial fue la expansión de la energía solar fotovoltaica, en la que como
+consecuencia de haber apostado tempranamente, y sobre todo con un volumen excesivo de inversión, en tecnologías todavía no maduras se elevó con
+desmesura su coste de producción. Sin duda hubiera sido más prudente haber
+ralentizado su crecimiento mucho antes. Sin embargo, estos costes no debieran ignorar el valor de las externalidades que estas tecnologías generan,
+puesto que no todas contribuyen de la misma forma al proceso de CC, a la
+seguridad e independencia energéticas, a la innovación y desarrollo, a nuestra balanza de pagos y, en fin, a la reducción constante de los costes de gene-
+
+147
+
+
+
+ración por el aprovechamiento de las curvas de aprendizaje. Precisamente la
+infraestructura industrial que se ha generado en este campo nos ha situado
+en una posición destacada para, entre otros objetivos, poder cumplir con el
+fijado por la UE de alcanzar una cuota de producción renovable del 40% en
+el año 2020.
+Se podría decir que la propuesta de reforma eléctrica del Proyecto de
+ley y del RDL 9/2013 tiene como objetivo principal, y prácticamente único, la
+eliminación del déficit de tarifa que originó la regulación de la Ley 54/1997.
+Para ello propone un conjunto de medidas de reducción de costes que recaen
+fundamentalmente sobre las energías renovables, sobre los consumidores y
+sobre los contribuyentes. Para tener una idea de lo desigual de esta propuesta
+de reducción, basta señalar que se mantiene la sobrerretribución de las centrales nucleares e hidráulicas, a la que he hecho referencia. Se revisan las retribuciones de transporte y distribución pero solamente para las inversiones futuras
+en estas redes. No se revisan los ingresos recibidos en el pasado, tal como se
+hace con las renovables, pese a que los costes que tienen reconocidos son
+muy superiores a los que en la realidad han incurrido.
+En la reforma se fijan rentabilidades para las distintas instalaciones referenciadas a las Obligaciones del Estado a diez años. En algunos casos con un
+diferencial de 300 puntos básicos, lo que equivale a una rentabilidad del 7,5%,
+y en otros para las que señala como actividades de bajo riesgo con un diferencial de 200 puntos básicos, lo que equivale a una rentabilidad del 6,5%.
+En el RDL 9/2013 se contempla para las instalaciones de energías renovables, también de las instaladas en el pasado, una retribución a la inversión
+realizada del 7,5% antes de impuestos, lo que representa el 5,25% después de
+impuestos. Sin embargo, las retribuciones de transporte y distribución futuras
+se retribuyen al 7,5% después de impuestos. Eso sí, se dice que estas cifras se
+revisarán cada seis años.
+Tanto en el Proyecto de Ley, aprobado el mes pasado por el Consejo
+de Ministros, como en el RDL 9/2013, para fijar las retribuciones de las actividades reguladas, se hacen repetidas referencias al concepto de «empresa eficiente y bien gestionada», sin definir claramente qué se entiende por tal tipo de
+empresa. Situación realmente singular, ya que pretende aplicar tales definiciones no solo a las retribuciones futuras sino también a las pasadas. Es obvio
+que las inversiones anteriores a esta norma se hicieron en situaciones legales
+y económicas distintas. Es decir, estamos en presencia de una definición de
+empresa que aún no se ha concretado y que, además, se va a aplicar con carácter retroactivo. Por otra parte, también se define una rentabilidad referenciada
+a las Obligaciones del Estado a diez años, cuando como es sabido todo regulador fija la rentabilidad de un activo referenciada a su coste de capital (WACC).
+Francamente, es difícil entender, como economista, la relación que puede haber
+
+148
+
+
+
+entre el coste de capital de un determinado proyecto de energías renovables y
+el coste de las Obligaciones del Estado a diez años.
+La Comisión Nacional de la Energía (CNE) ya advirtió, en su Informe
+18/2013 del pasado 4 de septiembre, de los riesgos que entraña esta retroactividad en los siguientes términos: «Adicionalmente, en el caso de las instalaciones existentes, la referida formulación conlleva aplicar a una corriente de
+flujos de caja pasados (basados en los estándares de ingresos medios y costes de
+explotación definidos para cada instalación tipo) una tasa de retribución
+financiera que podría ser distinta a la considerada en el momento en el que se
+adoptaron las decisiones de inversión que generaron dicha corriente de flujos».
+Véase Comisión Nacional de la Energía (2013), pp. 7-8.
+En efecto, debe recordarse que las inversiones realizadas en tecnologías renovables se hicieron al amparo de la regulación vigente entonces. En
+situación bien distinta quedan las instalaciones nucleares e hidráulicas que
+han recibido un exceso de retribución desde el año 2005 de 27.000 millones de
+euros como consecuencia de los mecanismos actuales de fijación de precios,
+cifras que nada tienen que ver con las contempladas en las concesiones originales otorgadas por el Estado. Realidad que no solo no se ha tenido en cuenta
+en la reforma que se propone, sino que esta sobrerretribución aumentará, agravando el problema, en la medida en que lo hagan los precios de los combustibles fósiles.
+Finalmente, cabe recordar también que la reforma propuesta se aleja
+mucho de las recomendaciones que en un documento de trabajo del 30 de
+mayo del pasado año hicieron los servicios de la Comisión Europea (2012), y
+que en uno de sus párrafos afirmaba lo siguiente: «Una competencia insuficiente en el sector energético ha contribuido, al menos en parte, a la constitución del déficit tarifario al favorecer una compensación excesiva de algunas
+infraestructuras, tales como centrales nucleares y grandes centrales hidroeléctricas, ya amortizadas, o al mantener la concesión de subvenciones ineficientes
+y perjudiciales para el medio ambiente a las minas de carbón. [...] España tiene
+uno de los niveles de interconexión más bajos de la UE. La finalización de las
+estructuras de interconexión de la electricidad y el gas con Francia y Portugal,
+actualmente en construcción, contribuiría a intensificar la competencia en el
+sector energético».
+Más allá de la indiscutible inseguridad jurídica que se ha creado con
+la nueva legislación y de los errores implícitos en el diagnóstico de la situación,
+a los que he hecho referencia, de la detenida lectura de los textos correspondientes se obtiene la impresión de un cierto atolondramiento en las medidas
+que se proponen, urgidos por la inestabilidad económica del sistema derivado
+del alto déficit de tarifa acumulado. En nada se clarifica la opacidad de la situación actual. Una vez más, como en tantas materias se hace, se propone lo que
+
+149
+
+
+
+el Gobierno llama una reforma global del sistema, que no resolverá ninguno
+de sus problemas a medio y largo plazo.
+Como ya he dicho en otras ocasiones, en mi opinión, cualquier tipo de
+reforma tiene que identificar bien las condiciones iniciales del problema que
+se pretende resolver. El camino adecuado requiere un proceso previo de análisis de las debilidades específicas del sistema que se quiere regular antes de
+embarcarse en reformas a gran escala, como las que se han prodigado, en las
+últimas décadas, y no solo en nuestra legislación eléctrica. En esta materia,
+como en tantas otras, soy más partidario de la estrategia de acumulación gradual de progresos concretos y cuantificables que, a medio plazo, conduzcan a
+un profundo cambio en la regulación del sector eléctrico. Pienso que en este
+caso, como he dejado dicho, se ha errado en el diagnóstico y, en consecuencia, se han planteado soluciones equivocadas. La reforma propuesta no generará los incentivos adecuados para poder cambiar el statu quo, que seguirá
+generando barreras a la eficiencia económica y dificultando la entrada a las
+tecnologías del futuro.
+
+150
+
+
+
+BIBLIOGRAFÍA
+
+AEIC [AMERICAN ENERGY INNOVATION COUNCIL], A Business Plan for America’s Energy Future, 2010.
+Consultado en octubre de 2013 en http://www.americanenergyinnovation.org/wp-content/uploads/2012/04/ AEIC_The_Business_Plan_2010.pdf
+AZAR, C. «The cost of reducing CO2 emissions», Climate Change Science and Policy, S. H. Schneider, A. Rosencranz, M. D. Mastrandrea y K. Kuntz-Duriseti (eds.), Island Press, Washington, 2010, pp. 211-217.
+BIS [BANK
+
+FOR INTERNATIONAL SETTLEMENTS], An assessment of the long-term economic impact of
+stronger capital and liquidity requirements, Agosto 2010. Consultado en octubre de
+2013 en http://www.bis.org/publ/ bcbs173.pdf
+
+COMISIÓN EUROPEA, «Evaluación del programa nacional de reforma y del programa de estabilidad
+de España para 2012 que acompaña al documento Recomendación de Recomendación
+del Consejo relativa al programa nacional de reforma de 2012 de España y por la que
+se emite un dictamen del Consejo sobre el programa de estabilidad actualizado de
+España para 2012-2015», Documento de Trabajo de los Servicios de la Comisión, SWD
+(2012) 310 final, Bruselas, 30 de mayo de 2012, p. 26. Consultado en octubre de 2013
+en http://ec.europa.eu/europe2020/ pdf/nd/swd2012_spain_es.pdf
+COMISIÓN NACIONAL DE LA ENERGÍA, Informe 18/2013 de la CNE sobre la propuesta de real decreto
+por el que se regula la actividad de producción de energía eléctrica a partir de fuentes
+de energía renovables, cogeneración y residuos, 4 de septiembre de 2013. Consultado
+en octubre de 2013 en http://www.cne.es/cne/doc/publicaciones/cne84_13. pdf
+CONSEJO NACIONAL DE INVESTIGACIÓN DE LAS ACADEMIAS NACIONALES, Cambio Climático: Evidencia,
+Impactos y Opciones, 2013. Consultado en octubre de 2013 en http://nas-sites.org/americasclimatechoices/more-resources-on-climate-change/climate-change-lines-of-evidence-booklet/cambio-climatico-evidencia-impactos-y-opciones/
+CTI [CARBON TRACKER INICIATIVE], Unburnable Carbon –Are the world’s financial markets carrying
+a carbon bubble?, 2011. Consultado en octubre de 2013 en http://www1.carbontracker.org/site/wp-content/uploads/2014/05/ Unburnable-Carbon-Full-rev2-1.pdf
+CTI [CARBON TRACKER INICIATIVE] y GRANTHAM RESEARCH INSTITUTE ON CLIMATE CHANGE AND THE ENVIRONMENT, Unburnable Carbon 2013: Wasted capital and stranded assets, 2013. Consultado en octubre de 2013 en http://carbontracker.live.kiln.it/Unburnable-Carbon-2-WebVer sion.pdf
+DELOITTE, 2013 Global Manufacturing Competitiveness Index. Consultado en octubre de 2013 en
+http://www.deloitte.com/view/en_US/us/Industries/ Process-Industrial-Products/manufacturing-competitiveness/mfg-competi tiveness-index/index.htm
+DRYZEK, J. S.; R. B. NORGAARD, y D. SCHLOSBERG: «Climate Change and Society: Approaches and Responses», The Oxford Handbook of Climate Change and Society, J. S. Dryzek, R. B. Norgaard y D. Schlosberg (eds.), Oxford University Press, Oxford, 2013.
+ECONOMIST, THE, «Climatic scepticism: Toxic shock», 26 de mayo de 2012. Consultado en octubre
+de 2013 en http://www.economist.com/node/ 21555894
+
+151
+
+
+
+EUROSTAT, Energy statistics -gas and electricity prices, 2013. Consultado en octubre de 2013 en
+http://epp.eurostat.ec.europa.eu/portal/page/portal/ energy/data/database.
+FONDO MONETARIO INTERNACIONAL, «Climate Change and the Global Economy», World Economic
+Outlook, Capítulo 4, International Monetary Fund, Washington D.C., 2008. Consultado
+en octubre de 2013 en http://www.imf.org/external/pubs/ft/weo/2008/01/pdf/c4.pdf
+FRIEDMAN, T. L., Hot, Flat, and Crowded: Why We Need a Green Revolution -and How It Can
+Renew America, Farrar, Strauss and Giroux, Nueva York, 2008, pp. 294-295.
+HALDANE, A. G., «The $100 billion question», BIS Review 40/2010. Consultado en octubre de 2013
+en http://www.bis.org/review/ r100406d.pdf
+HENDRY, D. F. y F. PRETIS, «Some Fallacies in Econometric Modelling of Climate Change», University of Oxford, Department of Economics, Discussion Paper Series, n.º 643, febrero 2013.
+Consultado en octubre de 2013 en http://www.economics.ox.ac.uk/materials/
+papers/12620/paper643.pdf
+HOUSE
+
+OF
+
+COMMONS SCIENCE AND TECHNOLOGY COMMITTEE. Parliament of the United Kingdom. The
+disclosure of climate data from the Climatic Research Unit at the University of East
+Anglia, The Stationery Office Limited, Londres, 31 marzo 2010, pp. 52–54. Consultado
+en octubre de 2013 en http://www.publications.parliament.uk/pa/cm200910/cmselect/
+cmsctec h/387/387i.pdf
+
+IPCC [INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE], Climate Change 2007: Synthesis Report, Cambridge University Press, Cambridge, 2007. Consultado en octubre de 2013 en
+http://www.ipcc.ch/publications_and _data/ar4/syr/en/mains5-6.html
+—, Climate Change 2013: The Physical Science Basis, Cambridge University Press, Cambridge,
+2013. Consultado en octubre de 2013 en http://www.ipcc.ch/report/ar5/ wg1/
+JOHNSON, K., «Climate Emails Stoke Debate», The Wall Street Journal, 23 de noviembre de 2009.
+Consultado en octubre de 2013 en http://online.wsj. com/news/articles/SB125
+883405294859215?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB125883405294859215.html
+KERR, R. A. y E. KINTISCH, «Climatologists Feel the Heat As Science Meets Politics», Science, vol.
+330, n.º 6011, 17 de diciembre de 2010, p. 1623. Consultado en octubre de 2013 en
+http://www.sciencemag.org/content /330/6011/1623.short
+KLAUS, V., Planeta azul (no verde), Gota a gota, Madrid, 2008.
+MAUNA LOA OBSERVATORY. Consultado en octubre de 2013 en http://www.esrl. noaa.gov/gmd/
+ccgg/trends/
+MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO, Reforma del sistema eléctrico: una reforma necesaria,
+12 de julio de 2013. Consultado en octubre de 2013 en http://www.minetur.gob.es/eses/gabineteprensa/notasprensa/2013/documents/presentacion_reforma%20el%C3%A9c
+trica120713_v5.pdf
+MIRRLEES, J., Diseño de un sistema tributario óptimo, Editorial Universitaria Ramón Areces, Madrid,
+2013.
+NATURE, «Climatologist under pressure», Nature, vol. 462, 3 de diciembre de 2009, p. 545. Consultado en octubre de 2013 en http://www.nature.com/nature/journal/v462/n7273
+/full/462545a.html
+
+152
+
+
+
+NOAA [NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION], 2012. Consultado en octubre de 2013
+en http://www.ncdc.noaa.gov/sotc/global/2012/13
+ORESKES, N. y E. M. CONWAY, Merchants of Doubt, Bloomsbury Press, Londres, 2010.
+OXBURGH, R., H. DAVIES, K. EMANUEL; L. GRAUMLICH, D. HAND, H. HUPPERT y M. KELLY, Report of the
+International Panel set up by the University of East Anglia to examine the research of
+the Climatic Research Unit, University of East Anglia, 14 de abril de 2010. Contiene una
+adenda al informe de 19 de abril de 2010. Consultado en octubre de 2013 en
+http://www.uea .ac.uk/mac/comm/media/press/crustatements/sap
+PRETIS, F. y D. F. HENDRY, «Comment on “Polynomial cointegration tests of anthropogenic impact
+on global warming” by Beenstock et al. (2012) –some hazards in econometric modelling of climate change», Earth System Dynamics, vol. 4, 2013, pp. 375–384. Consultado
+en octubre de 2013 en http://www.earth-syst-dynam.net/4/375/2013/esd-4-375-2013.
+pdf
+SATTER, R. G., «U K 'Climategate' inquiry largely clears scientists», The Seattle Times, The Associated Press, Londres, 30 de marzo de 2010. Consultado en octubre de 2013 en http://seattletimes.com/html/ nationworld/2011482792_climate31.html
+SCIENCE, «Stepping Away From the Trees For a Look at the Forest», Science, vol. 330, n.º 6011, 17
+de diciembre de 2010, pp. 1612-1613. Consultado en octubre de 2013 en http://www.
+sciencemag.org/site/special/ insights2010/
+STERN, N., The Economics of Climate Change. Cambridge University Press, Cambridge, UK, 2007.
+UNFCCC [THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE], 1992. Consultado en
+octubre de 2013 en https://unfccc.int/essential_background/convention/background
+/items/1355.php
+
+153
+
+
+
+

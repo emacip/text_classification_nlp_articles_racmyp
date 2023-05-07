@@ -1,0 +1,722 @@
+SALUSTIANO DEL CAMPO URBANO
+
+EL TERRORISMO INTERNACIONAL
+
+Anales de la Real Academia de Ciencias Morales y Políticas, núm. 60, 1983
+
+
+
+
+
+El terrorismo internacional (*)
+por el Académico de Número
+Excmo. Sr. D. Salustiano del Campo Urbano (**)
+
+El presente artículo tiene su origen en una visita efectuada a fi
+nes de 1979 a Estados Unidos para conocer de cerca algunas expe
+riencias de investigación desarrolladas en aquel país sobre el terro
+rismo internacional y elevar luego un informe al Grupo Centrista del
+Senado. Por esta razón se ha redactado respetando las líneas genera
+les y la organización de este documento, que permanece inédito.
+
+1.
+
+LAS INVESTIGACIONES DE RAND SOBRE
+EL TERRORISMO
+
+La RAND Corporation ha realizado investigaciones sobre el te
+rrorismo internacional desde 1973. RAND es una empresa californiana, independiente y sin fines de lucro, cuya sede está en Santa
+Mónica y cuyo objetivo es hacer investigación sobre temas de interés
+público: política exterior y cuestiones estratégicas de Estados Uni
+dos, defensa, desarrollo urbano, comunicaciones, educación, sanidad,
+vivienda, energía y otros. Su financiación corre íntegramente a cargo
+de diversos organismos gubernamentales y de instituciones privadas
+que se ocupan de problemas públicos.
+(*) Agradezco al Dr. Brian Michael Jenkins, de RAND Corporation, sus
+orientaciones y ayuda en la preparación de este trabajo.
+(*♦) Disertación en Junta del martes, 15 de marzo de 1983.
+173
+
+
+
+El inicio de sus investigaciones sobre el terrorismo obedece, en
+parte, a su propia iniciativa y, en parte también, a que la gravedad
+de determinados sucesos movieron al Gobierno americano a enfren
+
+tarse con la amenaza terrorista. RAND previo que el terrorismo in
+ternacional se convertiría probablemente en un problema cada día
+más grave, debido a las posibilidades de la tecnología moderna. Los
+aviones a reacción permiten gran movilidad a los terroristas; la te
+levisión, la radio y la prensa difunden ampliamente sus golpes y las
+nuevas armas aumentan su capacidad violenta.
+
+No era fácil determinar de antemano a quién corresponde ocu
+parte de este problema en Estados Unidos, ya que no existe ningún
+órgano gubernamental con competencia exclusiva sobre él. Lo que
+ocurre es más bien que interviene todo el mundo: el FBL el Depar
+tamento de Estado, el Departamento de Defensa, la Administración
+de la Energía, el Servicio Secreto y otros.
+En 1972 acontecieron dos incidentes terroristas que impulsaron
+a muchos gobiernos a tomar medidas para prevenir este tipo de actos
+y reprimirlos llegado el caso: el atentado de tres japoneses contra
+los pasajeros en el aeropuerto de Tel-Aviv, que ocasionó 25 muertos
+y 76 heridos, y el ataque de los guerrilleros palestinos al alojamiento
+de los atletas israelitas en los Juegos Olímpicos de Munich, que aca
+bó con la muerte de todos los rehenes. Poco después el Presidente
+Nixon creó el "Comité Gubernamental para combatir el terrorismo",
+presidido por el Secretario de Estado, del cual forman parte los Se
+cretarios de Defensa, Transporte y Tesoro, el Fiscal General, los
+jefes del FBL la CIA y el Consejo Nacional de Seguridad, el Emba
+jador ante las Naciones Unidas y el Consejero Presidencial' para
+asuntos internos. Al mismo tiempo, el Presidente estableció un grupo
+de trabajo compuesto por representantes de 26 departamentos, que
+se reúne cada quince días. Una vez fundado este Grupo se contrató
+a RAND para que realizara investigaciones sobre el terrorismo in
+ternacional, sufragadas por los Departamentos de Estado y Defensa.
+Inicialmente su objetivo era proporcionar elementos suficientes de
+conocimiento a los funcionarios para entender los orígenes, la teoría,
+la estrategia y la táctica del terrorismo moderno, así como para
+identificar y explorar nuevos aspectos del tema.
+Al terrorismo se le describe a menudo como violencia irracional
+
+y sin sentido, cosa que no es. Es violencia o amenaza de usarla con
+174
+
+
+
+el fin de atraer la atención y amedrentar, que se propone exagerar la
+fuerza de los terroristas o la importancia de su causa. Lo ataques
+de éstos están siempre cuidadosamente orquestados para atraer la
+atención de los medios de información. Apresar rehenes aumenta el
+dramatismo, aunque sean ajenos a la cuestión. El terrorismo se di
+rige contra la gente que mira, no contra las víctimas. Es drama, en
+el sentido figurado de la palabra.
+
+Bajo la rúbrica de terrorismo, RAND incluye investigaciones so
+bre su teoría y su táctica, la organización del gobierno para comba
+tirlo, el análisis de los datos de inteligencia sobre las amenazas te
+rroristas, la construcción de modelos heurísticos y el uso de compu
+tadoras en algunas crisis de bajo nivel, la manera de tratar los se
+cuestros políticos y la toma de rehenes, los efectos de haber sido
+rehén, la capacidad militar de Estados Unidos para emprender mi
+siones no convencionales (rescate de ciudadanos o recuperación de
+locales), la creciente vulnerabilidad de sociedades como las nuestras
+
+que dependen cada vez más de la tecnología, las tendencias y poten
+cialidades del fenómeno y la seguridad nuclear. RAND emplea un
+enfoque multidisciplinario. El director del programa pertinente es un
+historiador y los miembros y consultores son psicólogos, sociólogos,
+psiquiatras, científicos, políticos, estrategas, especialistas en arma
+mento, programadores y matemáticos.
+
+Alrededor del 20 por 100 de todos los incidentes del terrorismo
+internacional consisten en la toma de rehenes (más del 33 por 100 si
+se incluyen los desvíos de aeronaves). Los terroristas apresan a di
+
+plomáticos, empresarios, turistas y a veces sencillamente a quienes
+tienen más a mano, para subrayar así el dramatismo de su acción,
+garantizándose la publicidad y aumentando su capacidad de presión.
+Al empezar RAND sus trabajos se produjeron tres incidentes de esta
+clase que afectaron a otros tantos diplomáticos americanos. Segura
+mente por eso se le pidió que dedicara inicialmente su atención al
+
+secuestro político y, específicamente, a las tácticas de negociación
+de los terroristas. Los investigadores de RAND examinaron la cues
+tión y las tendencias observadas en aquellos países en los que se
+habían producido otros casos, analizando algunos en profundidad.
+Ciertas conclusiones de estos trabajos han visto la luz, mientras que
+otras permanecen aún reservadas.
+
+El estudio de 77 incidentes ocurridos entre 1968 y 1975 puso de
+manifiesto que los diplomáticos americanos eran objetivos preferen175
+
+
+
+tes de los secuestradores, así como que cuando los terroristas actua
+ban en su propio territorio y contaban con una organización clan
+destina de apoyo los secuestros eran la táctica favorita, mientras que
+la toma de embajadas y otros edificios eran más frecuentes si los
+terroristas actuaban en el extranjero, o si carecían de una organiza
+ción clandestina. Se comprobó, además, que apresar rehenes es una
+medida terrorista eficaz y no demasiado arriesgada. Sorprendente
+mente, pocos rehenes odian a quienes los apresaron y los usaron
+como peones humanos. A menudo desarrollan actitudes positivas
+hacia ellos; viven estrechamente unidos con ellos mientras se les
+
+cerca o persigue y, llegado el momento de la liberación, se separan
+como amigos. En ocasiones nace algo muy próximo al efecto y en
+algún caso se enamoran incluso. Se habla del "síndrome de Estocolmo" para describir el brote de estos sentimientos.
+
+Al mismo tiempo se pidió a RAND que estudiase la experiencia
+de los rehenes. ¿Podían haber evitado su captura? ¿Pueden hacer
+algo para no ser asesinados mientras están presos? ¿Cómo se supe
+ran las tensiones físicas y mentales durante el cautiverio? ¿Cómo
+se les debe tratar cuando son liberados? Para responder a estas pre
+guntas se entrevistaron muchos rehenes, tanto americanos como de
+
+otros países, y se obtuvieron algunas conclusiones muy interesantes.
+Otro tema importante es la posibilidad de que algunos extremis
+tas políticos o determinados grupos criminales emprendan una ac
+ción nuclear. En realidad, alrededor del 40 por 100 de los estudios
+de RAND se han centrado en esta pregunta: ¿Se nuclearizará el te
+rrorismo? La posibilidad de que los terroristas amenacen con em
+plear armas nucleares es un asunto muy grave. Muchos de los que
+
+se oponen a la expansión de la industria nuclear afirman que los
+delincuentes y los terroristas constituyen un gran riesgo para las
+instalaciones nucleares, que hay fallos en la seguridad de éstas y que
+se pierde material nuclear. Un alto nivel de seguridad exige siempre
+controles que repugnan por principio a una sociedad verdadera
+mente democrática.
+
+A escala internacional, la multiplicación de reactores nucleares
+y la diseminación de los conocimientos necesarios para el reprocesa
+
+miento aumentarán mucho la producción mundial de plutonio. Cre
+cerán las posibilidades de robo y cabe que aparezca un mercado ne
+gro de materia nuclear, en el que los grupos terroristas podrán adqui176
+
+
+
+rir armas nucleares. A diferencia de lo que pasa con los secuestros,
+se han registrado todavía pocos incidentes relacionados con instala
+
+ciones nucleares, de modo que es difícil formular recomenflaciones
+útiles para hacer frente a los casos que se presenten.
+Los investigadores están estudiando los procesos de formación
+
+de decisiones y las pautas de comportamiento de los grupos extre
+mistas y de los individuos violentos. Se ha considerado la hipótesis
+de que la atracción de los terroristas por las armas nucleares no se
+debe tanto a que con ellas pueden causar muchas víctimas, sino a
+
+que así amedrentarán más fácilmente a la población. Cualquier ac
+ción relacionada con lo nuclear aseguraría a los terroristas una gran
+publicidad y generalizaría el miedo y la alarma. En realidad, son
+pocos los incidentes en los que los terroristas han tratado de matar
+a mucha gente o de causar daños enormes. Lo que quieren son mu
+
+chos espectadores, no muchos muertos, y ello explica por qué no han
+usado ya armas químicas o bacteriológicas, o incluso los explosivos
+convencionales en mayor escala.
+
+En un informe preparado para el Gobierno americano en 1977 se
+ofrecieron siete conclusiones básicas sobre el terrorismo nuclear, ba
+sadas en los estudios realizados hasta entonces: l. Cabe dentro de
+
+lo posible que los terroristas o los delincuentes saboteen una central
+nuclear, fabriquen un explosivo nuclear o diseminen material radio
+activo, ya que todas esas cosas se pueden hacer. 2. Existen extremis
+
+tas políticos y grupos criminales que poseen o pueden conseguir lo
+necesario para obrar así. 3. Hasta ahora no hay pruebas, sin embargo,
+de que tales grupos hayan tratado de obtener material nuclear, aun
+que ha habido incidentes relacionados con instalaciones y almace
+nes. 4. No es previsible una progresión inexorable desde la actual
+situación a otra en la que sean frecuentes los incidentes nucleares.
+5. No puede predecirse si alguno de los actuales grupos terroristas
+se nuclearizará o no. 6. Pueden aparecer algunos nuevos dispuestos
+a hacerlo. 7. La situación actual puede cambiar.
+Meses antes de los sucesos de Entebbe, un informe de RAND
+afirmaba que "no se puede descartar totalmente la acción militar
+
+como opción para hacer frente al terrorismo. En cualquier momento
+puede ocurrir un incidente en el que una banda de extremistas po
+líticos secuestre un elevado número de americanos en territorio ex
+
+tranjero, las negociaciones no tengan éxito, los secuestradores estén
+
+a punto de matar a los rehenes y el gobierno local sea incapaz o no
+177
+
+
+
+quiera proteger a las personas dentro de sus fronteras. La presión
+de la opinión pública no permitirá que los líderes se queden quietos
+mientras se asesina americanos y, por tanto, el gobierno tendrá que
+satisfacer las demandas de los terroristas o emplear fuerzas mili
+tares".
+
+Cabe también que determinadas naciones o grupos incapaces de
+plantear una acción seria en el campo de batalla utilicen terroristas o
+adopten las tácticas terroristas como sucedáneo de la guerra. Es decir,
+que puede muy suceder que, cada vez más, Estados Unidos y otros
+países altamente desarrollados tengan que enfrentarse con conflictos
+de bajo nivel, incluido el terrorismo internacional, y para considerar
+esta posibilidad se organizó una reunión y entre sus conclusiones
+destaca la recomendación de que Estados Unidos se prepare para
+responder a los conflictos de esta clase que puedan presentarse.
+En cuanto al futuro, las tácticas terroristas seguirán siendo un
+
+modo de expresión política, un medio de atraer la atención mundial
+y de lograr objetivos políticos concretos. Aunque rara vez un grupo
+terrorista ha alcanzado sus fines a largo plazo, los incidentes conoci
+dos les han ganado mucha publicidad y concesiones. Poco a poco han
+adquirido experiencia en el empleo de sus tácticas, han mejorado sus
+armas y han aprendido a usar los medios de información. Además
+han ido fortaleciendo sus lazos mutuos, hasta el punto de que han
+surgido grupos terroristas multinacionales que actúan por libre y es
+tán dispuestos a realizar acciones en favor de causas que les son
+simpáticas, o, incluso, a emprender campañas por encargo de clien
+tes colectivos y de gobiernos. Otras tendencias estudiadas incluyen
+la transformación de ciertos grupos terroristas políticamente moti
+vados en organizaciones criminales que trabajan por encargo, así
+como los efectos que producen en la sociedad elevados niveles de
+violencia criminal y política. Un efecto inmediato es que hay que de
+dicar más recursos a la seguridad interna. La protección de políticos,
+diplomáticos, aeropuertos e instalaciones nucleares requieren más
+medios y personal. Los investigadores de RAND prevén un continuo
+aumento del presupuesto de "defensa interna" por parte del gobier
+no, así como de los gastos de seguridad de las empresas privadas que
+eventualmente los trasladarán a los consumidores. Este es un re
+
+pliegue importantísimo desde los perímetros nacionales, cuya segu
+ridad se encomienda a la defensa nacional, a los "perímetros inter
+nos" —instalaciones protegidas, comunidades que establecen sus pro178
+
+
+
+pios servicios de vigilancia, blindados y alarmas en las casas—cuyo
+peso recae progresivamente sobre el sector privado. Geográficamente,
+la sociedad moderna puede transformarse eventualmente en una se
+rie de perímetros separados o solapados, que la gente recorre o atra
+viesa para trabajar o visitar.
+
+Se observa también una tendencia muy inquietante hacia el esta
+blecimiento de regímenes autoritarios. La represión y la vigilancia
+constantes pueden llegar a convertirse en una tentación irresistible
+para los gobiernos al intentar proteger a sus ciudadanos contra la
+violencia ejercida por una pequeña minoría y preservar el orden in
+terno y el internacional. En el futuro se desarrollarán nuevas técni
+
+cas de control social y, según sea la gravedad con la que se perci
+ben las amenazas terroristas, la población, aterrorizada, las tolerará
+y aun apoyará. Lo peor del terrorismo es la atmósfera que crea, que
+corroe la democracia y nutre la represión.
+A su- vez, en el ámbito internacional ciertos cambios podrían al
+terar profundamente los conceptos de seguridad nacional y la orga
+nización política. La creciente vulnerabilidad de nuestra sociedad,
+más la mayor capacidad de violencia que permiten los avances en
+materia de armamentos, implican que grupos cada vez más pequeños
+adquieren un gran potencial de perturbación y destrucción. Es decir,
+pequeñas bandas de extremistas—como las que han existido siem
+pre— se transforman casi insensiblemente en una gran fuerza y las
+consecuencias políticas de este hecho son importantes porque, en
+último término, los Estados sólo pueden afirmarse manteniendo el
+monopolio sobre los medios de violencia.
+
+A medida que el poder militar se desplaza desde los ejércitos re
+gulares a pequeños grupos armados que no representan a ninguna na
+ción en particular, los gobiernos pueden perder su monopolio de la
+violencia en gran escala y nacer entidades permanentes subnacionales y transnacionales. El mundo que se está gestando comprende un
+amasijo inestable de naciones, mini-estados, subestados étnicos autó
+
+nomos, gobiernos en el exilio, frentes nacionales de liberación, grupos
+guerrilleros que aspiran al reconocimiento internacional y a la legi
+timidad usando la violencia y una colección de organizaciones terro
+ristas, efímeras pero perturbadoras, algunas de las cuales están vincu
+ladas a oscuras alianzas, mientras que otras son protegidas por Es
+tados. Se trata de un mundo formalmente en paz, pero con un alto
+grado de violencia política en su seno.
+179
+
+
+
+2.
+
+EL PAPEL DE LOS ORGANOS LEGISLATIVOS
+EN LA LUCHA CONTRA EL TERRORISMO
+
+Las convenciones y los acuerdos internacionales no acabarán con
+el terrorismo, aunque sean útiles para la formación del consenso in
+ternacional contra las tácticas terroristas. Incumbe a los gobiernos
+terminar con el terrorismo, aunque parecen por ahora incapaces de
+lograrlo. Acabar con el terrorismo no es competencia del legislativo,
+sino del ejecutivo. Ahora bien, el legislativo puede desempeñar un
+papel importante en la concepción y formulación de una política para
+combatir el terrorismo y en el desarrollo de los instrumentos nece
+sarios para hacerlo.
+
+El problema principal consiste en la aplicación de una política.
+¿Debe impedirse a toda costa que los gobiernos establezcan discre
+tamente canales de comunicación con grupos que han condonado
+o utilizado tácticas terroristas? ¿Deben establecerse distinciones en
+
+tre los grupos terroristas y, en tal caso, con qué criterios? ¿Debe la
+respuesta del Estado ser la misma ante grupos que atacan a los go
+biernos democráticos utilizando tácticas terroristas, que ante grupos
+
+que secuestran funcionarios o diplomáticos para obtener la libera
+ción de prisioneros detenidos ilegalmente? Si un grupo hace uso de
+tácticas terroristas, ¿qué medidas estará dispuesto a adoptar el Es
+tado?
+
+En Estados Unidos se han aprobado en más de una ocasión leyes
+suspendiendo la ayuda económica a algunos países, rehusando dar
+empréstitos a otros y negando asistencia militar y venta de armas
+a naciones que violan derechos humanos fundamentales dentro de
+sus propias fronteras, o que alientan o amparan al terrorismo inter
+nacional. También se han cortado las comunicaciones aéreas con
+
+países que no han suscrito las convenciones internacionales sobre los
+secuestros de aeronaves, o que han puesto en libertad a terroristas
+convictos, y se han negado derechos de aterrizaje a naciones que no
+sancionan semejantes violaciones.
+
+Puesto que el terrorismo es, por definición, un problema inter
+nacional, hay quien opina que lo mejor es establecer convenciones
+internacionales con objeto de obtener el máximo apoyo posible para
+combatirlo. Según ellos, la mejor manera de hacer frente al problema
+es una cooperación internacional del género de la empleada contra
+
+los piratas en el siglo xix y contra los secuestradores aéreos en el
+180
+
+
+
+XX. Algunos van, incluso, más allá y se pronuncian a favor de la
+
+creación de cuerpos internacionales para poner coto a las exigencias
+terroristas y de tribunales internacionales para juzgar a los terroris
+tas detenidos, así como de prisiones internacionales para encerrarlos,
+exonerando a las naciones individuales del chantaje y la venganza
+terroristas. Otros, en cambio, afirman que es una pérdida de tiempo
+
+buscar el consenso internacional en esta cuestión, ya que el terro
+rismo rara vez se define por el derecho, sino por su punto de vista
+político. Para obtener un apoyo amplio, las convenciones contra el
+terrorismo tienen que redactarse en términos tan omnicomprensivos
+que pierden todo sentido y corren el riesgo de no ser mucho más
+eficaces que la aprobada en 1937 por la Liga de las Naciones. Lo más
+
+que cabe esperar es una colaboración limitada entre unos pocos go
+biernos que comparten puntos de vista similares. Los daños inferidos
+por los terroristas raras veces doblegarán a los intereses nacionales.
+
+No es esta una cuestión de máxima prioridad. Pocos gobiernos están
+dispuestos a emprender acciones vigorosas contra los terroristas ex
+tranjeros o a encerrarlos en prisiones, si con ello han de acarrear a
+
+sus ciudadanos amenazas de venganza, u obstruir sus propios objeti
+vos de política exterior. Otra cosa sucede si los gobiernos son ame
+nazados por terroristas domésticos.
+
+Con la posible excepción de los acuerdos sobre los secuestros de
+aeronaves y acaso también sobre la protección de diplomáticos, los
+
+escépticos han acertado por lo que toca a la factibilidad y utilidad de
+las convenciones internacionales. Las protestas universales que si
+guen a los más terribles actos terroristas duran poco, de modo que
+mejor que buscar el consenso internacional mediante convenios anti
+
+terroristas muy generales es intentar llegar a acuerdos limitados para
+prohibir el empleo de tácticas específicas, o el ataque a determinados
+blancos.
+
+Para afrontar el problema de aquellas naciones que apoyan a de
+terminados grupos terroristas puede servir la noción de responsabi
+lidad compartida. De acuerdo con ella, las naciones que a sabiendas
+asistan a los terroristas en la adquisición de medios de destrucción
+masiva deberán compartir la responsabilidad por los actos que ellos
+realicen.
+
+Los terroristas no han empleado hasta ahora armas de destruc
+
+ción masiva, pero pueden hacerlo en el futuro. Ni siquiera el Go
+bierno de Estados Unidos cuenta con capacidad suficiente para ha181
+
+
+
+cer frente a la amenaza de cometer crímenes en masa. Se ha hecho
+
+algo en el terreno nuclear, pero es necesario explorar las medidas
+que los gobiernos podrían adoptar para anular, o al menos reducir,
+la posibilidad de que ciertos grupos no gubernamentales adquieran
+o fabriquen armas nucleares, químicas o biológicas. Si a pesar de
+todo las consiguen, ¿qué se puede hacer? ¿Se debe tal vez promover
+la idea de que las naciones están obligadas a prevenir como sea los
+actos peligrosos de grupos no gubernamentales, dado que las armas
+nucleares (o biológicas o químicas) no controladas amenazan de he
+cho a toda la Humanidad? Para ser más concreto: ¿debe una nación
+intervenir unilateralmente cuando posee evidencia fidedigna de que
+un grupo no gubernamental está fabricando un arma de destrucción
+masiva con el conocimiento de otro país, o si le consta que la noti
+ficación previa haría imposible la aprehensión de los terroristas y de
+sus armas?
+
+Si el terrorismo perdura, como parece posible, y emprende accio
+nes aún más peligrosas para la seguridad pública que las actuales,
+habrá que considerar muy seriamente la utilización, en casos extre
+mos, de fuerzas militares. Se puede contemplar una acción punitiva
+cuando existe una amenaza de destrucción masiva, o se ha llevado
+
+a cabo. Esto supone atribuir status de beligencia a un grupo subnacional y tales misiones sólo se justificarán en circunstancias muy
+graves. En la actualidad reina una gran confusión acerca de la respon
+sabilidad que corresponde al Departamento de Defensa y a los ser
+vicios militares en cuanto a misiones antiterroristas. Las unidades
+
+militares actuales o son poco móviles, o no están bien preparadas
+para ellas en bastantes oocasiones.
+Como se ha dicho antes, muchos enemigos de la industria nuclear
+alegan que los criminales y los extremistas políticos constituyen una
+amenaza real para las instalaciones nucleares civiles, que ya ha ha
+bido graves fallos de seguridad y que faltan cantidades considerables
+de plutonio. A su parecer, no se puede lograr una seguridad adecua
+da sin imponer controles que suponen un riesgo muy alto para una
+sociedad democrática. Hay también quien, por el contrario, afirma
+que se exagera mucho, dado que la industria nuclear ha funcionado
+durante dos décadas sin que se hayan producido ataques terroristas
+y ningún fallo de seguridad haya puesto en peligro a la sociedad. En
+cuanto al plutonio, su opinión es que no ha salido del sistema. Todos
+coinciden, sin embargo, en que se necesita mayor seguridad.
+182
+
+
+
+La adquisición de armamento ultramoderno y de tamaño redu
+cido por algunos grupos terroristas añade una dimensión nueva a
+las transferencias de armas, sea por venta o por ayuda militar. Es
+pecial interés revisten las municiones guiadas de precisión (PGMs),
+como la americana Redeye o la soviética Strela, porque son armas
+baratas, fáciles de operar, muy destructivas y extremadamente pre
+cisas a la distancia de uno a tres kilómetros. Se pueden utilizar mi
+siles tierra-aire portátiles contra aviones civiles (como sucedió en
+Orly) y misiones anti-tanques contra tribunas de oradores y comiti
+vas. Estas armas, que existen ahora en gran número, las poseen bas
+tantes países del Tercer Mundo, en los que abundan los terroristas
+y es necesario evitar que pasen a sus manos. Hay que explorar tam
+bién la posibilidad de establecer convenios para restringir su distri
+bución y quizás un grupo internacional de trabajo podría acordar
+controles especiales y medidas de seguridad obligatorias para deter
+minadas armas portátiles fáciles de operar, ocultables, muy destruc
+tivas y de alta precisión, así como también para algunas municiones
+utilizables contra objetivos civiles.
+
+Las compañías transnacionales y nacionales son un blanco favo
+rito de los terroristas, que las bombardean o vuelan, matan a sus
+ejecutivos y perciben millones en rescates. Estas industrias sufren
+
+pérdidas cuantiosas por los daños causados a la propiedad, por sumas
+destinadas a pagar rescates, o a sufragar costes de seguridad, tiempo
+de la alta dirección dedicado a estas crisis y hasta pleitos con los
+accionistas por haber entregado cantidades bajo amenaza. Nadie
+sabe a cuánto ascienden estos costes directos e indirectos, ni si
+afectan a las decisiones de invertir e ignoramos el efecto del terro
+rismo en los negocios internacionales y domésticos. Bajo este su
+puesto, ¿debe un gobierno prohibir a sus compañías el pago de res
+cate? La mayoría dice que no, pero algunos sostienen lo contrario.
+
+Hasta este momento ningún grupo terrorista extranjero ha rea
+lizado campañas en el territorio de Estados Unidos, aunque el país
+es utilizado como teatro de operaciones por algunos grupos extre
+mistas domésticos cuyas acciones tienen a veces consecuencias in
+ternacionales; por ejemplo, los cubanos anti-Castro y los separatis
+tas puertorriqueños. Otros grupos que pueden crear problemas inter
+nacionales son los nacionalistas croatas, la Liga de Defensa Judía,
+algunos grupos antisoviéticos y el Frente de Liberación Mundial.
+Ninguno de ellos amenaza la seguridad nacional y la mayoría cuenta
+183
+
+
+
+con menos de una docena de miembros y difícilmente crecerán más.
+
+En el pasado su acción se dirigió principalmerite contra las propie
+dades y rara vez contra las personas, aunque la cosa parece estar
+cambiando. De todos modos, son capaces de provocar serios inciden
+tes internacionales en cualquier momento y de complicar la política
+exterior americana y la solución de cuestiones ya de por sí bastante
+difíciles.
+
+Siquiera sea de pasada, es preciso destacar aquí que el peligro
+que las democracias corren por la acción del terrorismo no es, en
+general, demasiado grande. Los regímenes autoritarios reaccionan
+
+característicamente con tremendas medidas represivas, en tanto que
+las naciones con fuertes tradiciones democráticas sólo limitan cier
+
+tas libertades como precio a pagar por la libertad. No obstante, mien
+tras persista el terrorismo seguirá planteándose un serio conflicto
+entre la necesidad de que se implante un mayor control social y la
+protección de las libertades individuales.
+
+Actualmente no existe en Estados Unidos ningún departamento
+u órgano de la Administración al que competa de modo exclusivo
+la lucha contra el terrorismo. El Comité gubernamental para comba
+tir el terrorismo, ya mencionado, no se ha reunido demasiadas veces
+
+desde que fuera creado en 1972. El Grupo de trabajo de este Comité
+es primordialmente un aparato burocrático coordinador, no una or
+
+ganización operativa. La Oficina para combatir el terrorismo del De
+partamento de Estado consta de cinco funcionarios y dos secreta
+rias. El FBI tiene la misión.de luchar contra la violencia política en
+el interior del país. A escala internacional existe un grupo en el De
+partamento de Estado para estudiar y resolver los incidentes que
+afectan a los ciudadanos americanos en el exterior. Funciona razo
+
+nablemente bien en ciertos casos, pero si los incidentes son muy
+serios se ocupa directamente de ellos la Casa Blanca. En opinión
+de RAND se debería crear una entidad gubernamental, cuya ubica
+ción dentro del gobierno, estructura interna, capacidad y autoridad
+habrá que determinar.
+
+La información sobre los grupos terroristas es muy difícil de
+adquirir. Rara vez pueden ser objeto de vigilancia electrónica, de
+modo que el trabajo de inteligencia tiene que descansar básicamente
+en personas que han de infiltrarse en esos grupos que, como son
+pequeños, a veces requieren años para lograrlo.. En • algunos casos
+184
+
+
+
+los riesgos pueden ser tan grandes que el esfuerzo no vale la pena,
+aparte de que pueden interferirse también otros temas, como el de
+la intimidad de las personas, y complicar mucho las cosas.
+Frecuentemente los agentes se quejan de que sus directrices no
+son claras y de que tienden a ser interpretadas de modo muy con
+servador por los jefes, por miedo a cometer infracciones contra los
+derechos humanos. El resultado es una atmósfera en la que es extre
+madamente difícil recoger y mantener al día información sobre los
+grupos terroristas. Esto aumenta la necesidad de disponer de una uni
+dad concreta encargada de la lucha antiterrorista, cuyas responsabi
+lidades sean nítidas. Su existencia hará superfina la creación de uni
+dades ad hoc, improvisadas y sin autoridad, encargadas de luchar
+contra peligros que ningún organismo está preparado para afrontar.
+Por otra parte, dada la limitación de recursos y la dificultad de
+reunir información sobre el terrorismo, es imprescindible decidir
+
+cuáles son las áreas cruciales en las que concentrarse. Aunque la
+violencia terrorista es siempre deplorable, una nación puede siempre
+sobrevivir, pero hay grupos terroristas cuya capacidad potencial de
+causar daños o perturbaciones es muy superior a la que han ejercido
+hasta ahora. Como ignoramos si piensan o no usarla, lo más prudente
+es concentrar los recursos de inteligencia para conocer, por adelan
+tado, las amenazas de destrucción masiva que resulten intolerables
+para la sociedad.
+
+3.
+
+LA OPINION PUBLICA Y EL TERRORISMO
+
+El público está muy preocupado por la frecuencia cada día ma
+yor con la que se producen secuestros y otros actos terroristas vio
+lentos. A fines de 1977, el 90 por 100 de la población de Estados
+Unidos consideraba que el terrorismo era un problema muy grave
+y, según una encuesta realizada el año siguiente en Gran Bretaña,
+el 85 por 100 de los ingleses pensaba igual. Menos británicos, sin
+embargo, opinaban entonces que el terrorismo era un problema serio
+en su país.
+
+Cuanto más lejos de casa tienen lugar los actos de violencia, me
+nos segura está la gente de que sus autores sean terroristas y no
+luchadores por la libertad. En Gran Bretaña, al IRA lo consideraban
+185
+
+
+
+terroristas el 92 por 100; a la OLP, el 70 por 100, y a las guerrillas
+rhodesianas, el 34 por 100. Los "no sabe" ascienden del 6 por 100
+en el caso del IRA, al 21 por 100 en el de la OLP y al 29 por 100
+en el de las guerrillas rhodesianas.
+
+Las listas de motivos del terrorismo presentadas al público por
+los investigadores de opinión no aclaran demasiado las cosas, porque
+prácticamente todos se consideran causas del terrorismo. Y en cuanto
+
+a las soluciones sucede prácticamente lo mismo: la gente está dis
+puesta a apoyar cualquiera. Así, la aprobación de la pena de muerte
+para los terroristas la aceptan el 55 por 100 de los alemanes, el 55
+por 100 de los norteamericanos y el 71 por 100 de los británicos.
+En Holanda, el 62 por 100 se muestra favorable a someter a una vi
+
+gilancia muy severa a los moluqueños, incluso si el país tiene que
+asemejarse a un Estado policía. El 73 por 100 de los holandeses de
+sean que se tomen medidas vigorosas contra los terroristas y el 44
+
+por 100 creen que los terroristas no tienen los mismos derechos que
+los demás detenidos.
+
+En Alemania, varias encuestas de opinión ponen de manifiesto
+
+la aquiescencia de la gente a sacrificar sus derechos y libertades per
+sonales y a aceptar una mayor influencia del Estado y de la policía,
+si ello sirve para luchar contra el terrorismo. Una amplia mayoría
+de alemanes, el 77 por 100, se muestran conformes con el embargo
+de noticias que el gobierno estableció a los pocos días de que Martín
+Schleyer fuera secuestrado. Lo aprueban, porque así se obstaculiza
+la publicidad que desean los terroristas y porque de este modo los
+políticos pueden decidir con total libertad y sin tener que justificar
+continuamente sus decisiones.
+
+Una encuesta hecha en Alemania Federal en 1978 reveló que la
+lucha contra el terrorismo puede tener serias consecuencias para las
+libertades civiles: el 21 por 100, es decir, uno de cada cinco alemanes
+opinaba que "actualmente uno tiene que tener cuidado con lo que
+dice en la República Federal; siempre se debe evitar ser malenten
+dido y que se sospeche que simpatiza con los terroristas". Y simpa
+tizante, según el 18 por 100 de los alemanes, era el que no quería
+que se aprobase la pena de muerte para los terroristas o, según el
+56 por 100, quien sentía compasión de los terroristas por creer que
+sus crímenes eran fruto de la desesperación.
+186
+
+
+
+4.
+
+NOTA BIBLIOGRAFICA
+
+Existen algunas buenas bibliografías sobre el tema, entre las cua
+les pueden citarse las dos siguientes:
+Mickolus, Augustus R.: The Literatura of Terrorism. A selectively annotated
+bibliography. Greenwood Press, Westport, Conn., 1980.
+
+Norton, Augustus, R., y Greenberg, Martín H.: International Terrorism: An
+annotated bibliography and research guide. Westview Press, Boulder, Col.,
+tercera impresión, 1982.
+
+Para el presente artículo se han manejado, entre otros, los tra
+bajos que se relacionan a continuación:
+Bishop, Joseph W. Jr.: Terrrorism and the corporate executive, U. S. Indus
+trial Council, Nashville, Tenn., 1982.
+
+COMMITTEE ON THE lUDlciARY, XCVII CoNGRESS: Report en Domestic and
+International Terrorism, Washington D. C., 1981.
+
+CoMMiTTEE ON THE JuDiciARY, XCVII CoNGRESS: Hearings on the Origins,
+direction and support of terrorism, April 24, 1981, U. S. S. P., O., Wash
+ington, D. C., 1981.
+
+INCI: Terrorismo Internacional (Documentos de un Seminario dirigido por
+Salustiano del Campo), Madrid (en prensa).
+
+Jenkins, Brian M.: Combatting International Terrorism: The role of Congress. The Rand Corporation, enero 1977.
+— Terrorism in the United States, RAND, mayo 1980.
+
+— Embassies under siege: A review of 48 Embassy Takovers, 1971-1980,
+RAND, Santa Mónica, 1981.
+
+Laqueur, Walter: "El terrorismo. Hechos y ciencia política". Revista de
+Occidente, núm. 2, año 1980, págs. 5-23.
+
+Muñoz Alonso, Alejandro; El terrorismo en España. Ed. Planeta, Barcelo
+na, 1981.
+
+Murphy, John F.: Legal Aspects of International Terrorism: Summary Re
+
+port of an international Conference, West Publishing Company, Washing
+ton, 1980.
+
+Reinares-Nestores, Fernando (Comp.): Terrorismo y sociedad democrática,
+Akal, Madrid, 1982.
+
+Sterling, Claire: The terror network. The secret war of international terror
+ism, New York, Holt, Rinehart and Winston, 1981.
+Wilson, James Q.: "Thinking about terrorism", Commentary, julio 1981.
+
+187
+
+
+
+

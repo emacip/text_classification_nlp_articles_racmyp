@@ -1,0 +1,1084 @@
+LUCES Y SOMBRAS DE LA NUEVA ECONOMÍA
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba *
+
+INTRODUCCIÓN
+
+La expresión Nueva economía (Ne) hace referencia a un conjunto de cam­
+bios tanto cualitativos como cuantitativos que han tenido lugar durante los últimos
+años, transformando la estructura y el funcionamiento de la economía. Algunos
+autores, como Michael J. Mandel, el editor de economía de Business Week y en su
+libro de muy reciente aparición, fijan su puesta en circulación en el 9 de agosto de
+1995, que fue el día en el que Netscape, el buscador de Internet hoy parte de Ame­
+rican Online, salió a Bolsa. En efecto, este hecho fue el comienzo de un significa­
+tivo proceso, al que me referiré más adelante, y que hizo que el precio de salida
+de las acciones se doblara al final de la primera jornada, y que en días sucesivos
+siguiera subiendo hasta hacer millonarios a muchos de los inversores iniciales, en
+una dinámica que ha durado, como poco, los cinco años siguientes.
+Son tres los elementos fundamentales de la nueva economía: la tecnolo­
+gía de la información y comunicación (Tic), el proceso de globalización, y la apa­
+rición de nuevos instrumentos financieros que han hecho posible su financiación.
+Estos tres factores iteran de diversas maneras entre ellos, por lo que su análisis por
+separado es difícil y, además, puede conducir a conclusiones no sólo parciales sino
+también equivocadas. Quiero, no obstante, señalar que en mi exposición haré refe­
+rencia básicamente a los aspectos derivados de la tecnología de la información y
+comunicación. Debido a la limitación de espacio y, sobre todo, de conocimiento
+por mi parte, será parcial e incompleta.
+
+* S e s ió n d e l d ía 7 d e n o v ie m b r e d e 2 0 0 0 .
+
+87
+
+
+
+Como sucede con frecuencia, la mejor manera de llamar la atención, en el
+debate de política económica, es predecir una catástrofe. La segunda mejor mane­
+ra es, por el contrario, predecir una situación de bonanza, a poder ser, indefinida.
+Pues, bien, de acuerdo con esta afirmación dos son las posturas que se mantienen
+en el debate sobre la Ne.
+T a bla 1
+
+El efecto Netscape (*)
+OPV d e Netscape
+A n tes(a)
+
+D espués(b)
+
+3,0
+1,7
+6,6
+3,3
+
+4,3
+2,8
+4,8
+2,3
+
+(%)
+
+Crecimiento del PIB .............................................................
+Crecimiento de la productividad no agrícola .................
+Tasa de desempleo ..............................................................
+Inflación ...................................................................................
+
+(%)
+
+(a) Tasas anuales medidas desde el primer trimestre de 1991 al tercero de 1995.
+(b) Tasas anuales medidas desde el tercer trimestre de 1995 al primero de 2000.
+(*) Un ejemplo de cómo no debe hacerse inferencia estadística.
+Fuente: M. J. Mandel (2000).
+
+La primera de ellas sostiene que representa una amenaza para la justicia y
+cohesión social, enfatiza aspectos tales como la desigualdad de renta entre perso­
+nas y países, la degradación de la naturaleza y el empequeñecimiento del papel
+que juegan las instituciones democráticas en la nueva situación. Por el contrario, la
+otra versión afirma que las actuales y fuertes tasas de crecimiento del PIB son sostenibles, que también lo es el marco de estabilidad de precios y, en fin, que los
+ciclos económicos han desaparecido. Se felicita, además, del residual papel que en
+un futuro tendrán los gobiernos, dada la dificultad de intervenir en procesos que
+evolucionan tan rápidamente y que incorporan una incertidumbre tecnológica tan
+grande.
+Como es natural, hacer matizaciones a una y otra tesis llama menos la
+atención, y seguro que da lugar a una exposición menos entretenida. Ésta es, sin
+embargo, mi posición personal.
+Ordenaré el trabajo de la siguiente manera. Empezaré describiendo las
+que, en mi opinión, son algunas de las características básicas de la Ne. A conti­
+nuación, trataré de justificar la validez de muchos de los procedimientos de análi­
+sis de la vieja economía en la Ne. Haré, también, una breve referencia a los aspec­
+tos de competencia y su regulación. Pasaré, entonces, al análisis de los efectos de
+la Ne en la evolución de la productividad, siguiendo, entre otros, los trabajos de
+Gordon (2000), junto con los llevados a cabo en la Reserva Federal y en la OCDE.
+
+88
+
+
+
+Después realizaré varias consideraciones centradas en la evolución, en los últimos
+años, de los mercados de valores. Terminaré con algunos comentarios, de alcance
+más limitado y personal, sobre la Ne en España.
+
+ASPECTOS GENERALES
+
+Indudablemente si algo no es la Ne es un simple proceso de producción
+en serie. Atrás han quedado los tiempos en los que Henry Ford afirmaba: «Usted
+puede comprar cualquier modelo de Ford, en cualquier color, siempre y cuando
+elija el negro». En efecto, los procesos productivos que utilizan las Tic permiten el
+desarrollo de factorías y oficinas flexibles en las que con incrementos de costes
+pequeños se alcanza una variedad en los productos muy grande. Con objeto de
+alcanzar nuevos mercados, el proceso de producción de nuevos productos y servi­
+cios es constante. Las nuevas tecnologías amplifican la capacidad del conocimien­
+to humano de manera análoga a la que las tecnologías de la revolución industrial
+amplificaron las capacidades físicas.
+Es difícil señalar el comienzo del proceso tecnológico que caracteriza la
+Ne. Porque, ¿cuándo empezó realmente? Veamos. El primer ordenador programable se construyó en 1946. Las grandes plataformas de ordenadores se generalizaron
+a finales de la década de los sesenta, y el microprocesador se inventó en 1971. Fue
+por esos años cuando Gordon Moore, uno de los fundadores de Intel, afirmó que
+la capacidad de procesamiento de los microprocesadores de silicio se duplicaría
+cada 18 meses. Esta afirmación es la que se conoce como ley de Moore. Tal como
+se indica en el Gráfico 1, esto es, aproximadamente, lo que ha sucedido. Además,
+y tan importante como este incremento exponencial de la capacidad de cálculo, ha
+sido el paralelo decrecimiento de su coste de producción, en términos generales un
+25% cada año. Hoy, algunos modelos de automóvil de la casa Ford tienen incor­
+porada una potencia de cálculo comparable a los grandes ordenadores utilizados
+en el programa espacial Apollo de finales de los años sesenta, y que llevó por pri­
+mera vez el hombre a la luna.
+Por otra parte, la capacidad y la velocidad con la que se transmite todo
+tipo de información también se ha incrementado drásticamente. A medida que se
+ha aumentado el ancho de banda los costes de comunicación disminuyeron tam­
+bién de forma muy acelerada, haciendo posible, y factible económicamente, la
+conexión de ordenadores entre sí. La utilidad de estar conectado en tiempo real
+aumenta exponencialmente con el número de conexiones, tal y como señala la lla­
+mada ley de Metcalfe, y a la que más tarde me referiré. Hoy el número de usuarios
+de internet es de 350 millones, y en cuatro años se espera que se triplique.
+
+89
+
+
+
+G r á fic o 1
+L ey d e M o o re
+
+1 0 0 .0 0 0 — f
+
+Pentium III •
+
+10.000 —
+Pentium III
+• Pentium
+.8 0 4 8 6
+
+1.000 —
+. 80386
+80286
+
+100 —
+.8 0 8 6
+
+10 —
+
+. 8080
+. 8008
+
+1 ---1970
+
+I
+
+I
+
+1980
+
+—r~
+1990
+
+2000
+
+Año
+
+Fuente: The Econom ist (septiembre 2000).
+
+En efecto, para este tipo de comportamiento suele acudirse a la forma
+en S que presenta la evolución de la cuota de mercado de los productos tecno­
+lógicos. Esta situación se recoge en el Gráfico 2 en el que se observa que si el
+mercado de ordenadores lleva recorrido la mitad del trayecto, los usuarios de
+internet aún están antes del despegue exponencial, ya que su incorporación ha
+sido muy posterior.
+Pero si como hemos visto es difícil fijar una fecha concreta para el comien­
+zo de las innovaciones tecnológicas que han dado lugar a la Ne, también lo es fijar
+su tamaño. En efecto, intentar delimitar el ámbito de la Ne es un ejercicio compli­
+cado. Por ejemplo, la OCDE asegura que la economía del conocimiento abarca más
+del 50% de la actividad empresarial. Indudablemente esta es una definición exce­
+sivamente amplia, ya que incluye en ella todas las actividades que son relativa­
+mente intensivas en inputs tecnológicos y capital humano. De tal manera que se
+incluyen en este concepto, no sólo los sectores de ordenadores y telecomunicación,
+sino también otros sectores tales como el del automóvil, la química, la salud y la
+
+90
+
+
+
+educación. Posiblemente no sea adecuado poner el adjetivo de «nuevos» a muchos
+de ellos. Por otra parte, el Departamento de Comercio de EE.UU., en varias de sus
+recientes estimaciones, cifró la importancia de la economía digital, concretamente
+el hardware y software de los sectores de ordenadores y telecomunicación, en
+cifras entre el 8% y el 20% del PIB. Sin embargo, puede también plantearse que
+ésta es una definición demasiado amplia, ya que gran parte de los servicios bási­
+cos de telecomunicación, televisión, radio y otra electrónica de consumo, están en
+el mercado desde hace ya algunas décadas. Como consecuencia, definiciones más
+estrictas reducen el sector de ordenadores y telecomunicación a cifras, en todo caso
+inferiores al 8% del PIB.
+Dada la incertidumbre implícita en la definición del sector de nuevas tec­
+nologías, tanto en su tamaño como en la fecha de su aparición y consolidación, no
+son de extrañar las dificultades adicionales, y aún mayores, que los economistas se
+encuentran al tratar de evaluar su verdadero impacto en el crecimiento y producti­
+vidad de la economía. A este problema me referiré, con detenimiento, más tarde.
+Las Tic están cambiando sustancialmente la forma en la que nos comuni­
+camos, trabajamos, hacemos negocios e incluso nos divertimos. Pero, ¿significa esto
+que también están cambiando las reglas de funcionamiento básicas de la economía?
+En mi opinión, no. En efecto, está cambiando la economía como realidad social,
+Gráfico 2
+Curva típica d e evolución de cuota de m ercado
+
+91
+
+
+
+pero no la economía como disciplina. La «new economy» es una realidad, pero la
+■new economics», no. Así las viejas pautas por las que se han desarrollado las tec­
+nologías en el pasado, son hoy, básicamente, aplicables a las Tic. Veamos, resumi­
+damente, siguiendo a Varían (2000), este proceso.
+LA VALIDEZ DE LOS VIEJOS TEXTO S
+EN LA NUEVA ECONOMÍA
+
+Un proceso de innovación tecnológica discurre fundamentalmente a tra­
+vés de las siguientes etapas: Experimentación, Capitalización, Management/Gestión, Competencia y Consolidación.
+En la etapa de Experimentación se empieza a reconocer el potencial de la
+nueva tecnología, y los costes de entrada son bajos. Además es difícil señalar un
+único inventor de una tecnología fundamental. En efecto, ¿quién inventó el auto­
+móvil, el tren o incluso internet? La dificultad en fijar la paternidad de internet a
+hecho, incluso, que uno de los dos candidatos, que hoy se están eligiendo, a la pre­
+sidencia de EE.UU. se la intentara atribuir. Y aunque los textos señalan determina­
+das paternidades, por ejemplo, a Marconi o a los hermanos Wright, lo cierto es que
+un análisis más detenido pone de manifiesto actividades paralelas en este tipo de
+descubrimientos. Podemos tener la seguridad que de no haber existido ni Marconi
+ni los hermanos Wright, la radio y el avión serían hoy también realidad.
+Una vez que los elementos básicos de la nueva tecnología están disponi­
+bles, los técnicos e investigadores experimentan de diversas maneras con distintas
+combinaciones, para crear un nuevo producto. Por ejemplo, entre 1899 y 1905 los
+hermanos Wright, sobre la base de componentes tecnológicos previamente desa­
+rrollados tales como la bicicleta, el aeroplano y el entonces reciente motor de gaso­
+lina, recrearon una combinación de todos ellos que dio lugar a su primer avión,
+eso sí después de probar con más de 200 perfiles de ala en sus túneles aerodiná­
+micos y realizar cientos de vuelos experimentales.
+Un proceso análogo tiene lugar hoy con las Tic. Por ejemplo, el desarro­
+llo de productos y empresas en la red sigue estas pautas. Como siempre ha ocu­
+rrido, la mayoría de estos experimentos fracasarán, y otros, los menos, triunfarán.
+Como también sucedió con las viejas tecnologías se perderá mucho dinero en este
+proceso.
+La etapa siguiente es la de Capitalización. Obviamente las instituciones y
+los mercados financieros han evolucionado sensiblemente, pero, con un nivel de
+sofisticación menor, las operaciones de capital riesgo siempre han estado presen-
+
+92
+
+
+
+G r á fic o
+
+3
+
+La productividad y la nueva economía
+
+Fuente: Elaboración propia a partir de R. J. Gordon (2000).
+
+tes. Muchas innovaciones anteriores también necesitaron de ingentes cantidades de
+dinero. Los ferrocarriles son el ejemplo clásico. Cierto es, que en la década de 1880
+se construyeron más líneas ferroviarias que en ninguna otra década de la historia
+de EE.UU., pero también lo es, que en la década siguiente quebraron más compa­
+ñías de ferrocarril que en ninguna otra época. En efecto, el riesgo de sobreinver­
+sión siempre ha estado presente, y hoy, desde luego, también lo está en muchas
+de las actividades de la Ne. Y la historia puede volver a repetirse. Sin embargo, la
+sobreinversión en Tic tiene un riesgo menor, dada la enorme flexibilidad que las
+caracteriza. Es claro que la única utilización posible de una vía de ferrocarril es la
+circulación sobre ella de trenes. No obstante, una vez que los circuitos de fibra ópti­
+ca están hechos, pueden utilizarse para transportar por ellos una gran variedad de
+productos, por ejemplo, voz, datos, música, imágenes y transacciones bancadas y
+comerciales de todo tipo. Probablemente, la sobreinversión en la industria del
+ferrocarril no hubiera sido tan costosa en términos económicos, si las vías pudie­
+ran haber sido utilizadas para la incipiente industria del automóvil.
+
+93
+
+
+
+Desde luego, la tantas veces aludida flexibilidad de las Tic permite una
+mejor utilización y adaptación a nuevos productos y servicios, más allá de las rigi­
+deces que caracterizan la mayoría de los sistemas de producción del pasado. Esta
+situación podemos visualizarla a través del siguiente ejemplo. Hace 20 años las fac­
+torías de automóvil que analizaban y comprobaban la seguridad de alguno de sus
+modelos, lo hacían en espacios experimentales en los que sometían los coches a
+impactos de diversa naturaleza e intensidad. El coste de cada uno de estos experi­
+mentos era de 60.000 $. Es decir, costaba 1.000 veces más, y era menos represen­
+tativo y válido estadísticamente, que simular el proceso en el ordenador, tal y como
+hoy se hace.
+La siguiente etapa a la de Capitalización es la de Management o Gestión.
+Se trata ahora de definir los productos o servicios, producirlos eficientemente,
+comercializarlos, conseguir una base de clientes, elegir proveedores y, en su caso,
+establecer las alianzas oportunas. Esta es la etapa en la que los autores de la idea
+original ceden o comparten la gestión con otras personas.
+Empieza, a continuación, la etapa en la que los competidores aparecen en
+el mercado y los márgenes se estrechan. Las economías de escala suelen jugar en
+esta etapa un papel decisivo.
+Finalmente está la etapa de la Consolidación. Los protagonistas en el mer­
+cado son aquellos que con éxito llegan a esta etapa, en la que los productos están
+estandarizados, las estrategias de marketing definidas y los flujos financieros relati­
+vamente estables. Las técnicas de valoración no ofrecen cifras tan dispares, ya que
+gran parte de las incertidumbres están despejadas. Los ejecutivos tienen ahora que
+considerar toda una nueva panoplia de intereses, a menudo contradictorios entre
+sí, como son los de los accionistas, empleados, grupos de presión, medios de
+comunicación, políticos y burócratas. Todos pretenden alinear con sus intereses
+particulares la gestión de la empresa.
+Es ésta la etapa de madurez, a la que, desde luego, aún no han llegado la
+mayor parte de las empresas de la Ne. Posiblemente su consolidación dará lugar a
+una estructura de mercado caracterizada, por una parte, por unas pocas y muy
+grandes empresas, y, por otra, por un gran número de mucho menor tamaño con
+mercados más específicos tanto en productos y servicios como en zonas geográfi­
+cas. Las empresas grandes serán posiblemente las proveedoras de servicios básicos.
+Es difícil pensar hoy que las empresas de Tic representen un sector maduro de la
+economía, y, especialmente, aquellas relacionadas con internet. Sin embargo, en
+algún momento lo serán, y entonces aparecerán nuevas fronteras tecnológicas, que
+
+94
+
+
+
+volverán a dar paso a un nuevo proceso, en el que volveremos a creer que nada
+se desarrollará de acuerdo con las pautas anteriores.
+Un aspecto indudablemente nuevo de las Tic es que da lugar a un proce­
+so productivo que trata básicamente con intangibles, fundado más en explotar e
+integrar ideas que componentes materiales. En este contexto, es en el que aparen­
+temente se producen algunos resultados nuevos, ya que esta economía del cono­
+cimiento tiene una característica que parece estar en contradicción con una de las
+restricciones básicas del comportamiento económico: el principio de la escasez. En
+efecto, cuando se vende un producto físico se traspasa su titularidad a otra perso­
+na. Sin embargo, cuando se vende una idea el propietario original todavía la posee,
+y puede, desde luego, venderla una y tantas veces más. La producción de softwa­
+re tiene costes fijos muy elevados pero costes variables muy bajos. Dicho de otra
+manera, los productos de la economía del conocimiento son muy caros de produ­
+cir pero muy baratos de reproducir. Es decir, se generan economías de escala.
+Situación discutida ya por Alfred Marshall en 1890. Quizás, el aspecto nuevo es que
+ahora nos enfrentamos, al menos en ciertas actividades, con economías de escala
+mucho más acusadas. Por ejemplo, en industrias como las de la energía o las del
+automóvil, que a lo largo de este siglo se han venido caracterizando por significa­
+tivas economías de escala, se puede afirmar que duplicar el tamaño permite redu­
+cir los costes unitarios medios el 10%. Sin embargo, hoy una compañía de softwa­
+re duplicando su tamaño, puede llegar a reducir sus costes unitarios medios el 50 %.
+Estamos también aquí en presencia de monopolios naturales, siendo más probable
+su presencia en esta nueva situación.
+En mi opinión, dos de las características más relevantes en el debate sobre
+las actividades de la Ne son el efecto red y el efecto fidelización. Sobre uno y otro
+haré a continuación algunas consideraciones. En todo caso, decir que el efecto red
+equivale a la presencia de economías de escala no desde el lado de la oferta, a las
+que ya hemos aludido, sino por el lado de la demanda, que se traducen en el hecho
+de que cuantos más personas utilicen un producto más aumenta su utilidad y su
+valor. Obviamente, la combinación de ambas: economías de escala por el lado de
+la oferta y por el lado de la demanda aumentan tremendamente la posibilidad de
+dominio de mercado.
+Decimos que un producto tiene efecto red, si su valor se incrementa con
+el número de usuarios. Las instalaciones de fax son el ejemplo clásico. Si solamen­
+te 100 personas tuvieran acceso a su utilización, su valor estaría tremendamente
+limitado. Si, por el contrario, a su uso acceden 100 millones de personas su utili­
+dad aumenta dramáticamente.
+
+95
+
+
+
+Cuando los efectos de red son muy grandes, las políticas de crecimiento
+rápido están justificadas. En este caso puede ser razonable, y en algunos casos es
+decisivo, hacer fuertes inversiones en períodos cortos de tiempo que permitan un
+rápido establecimiento en el mercado con una cuota de mercado significativa. Este
+tipo de mercados suele estar caracterizado por el hecho de que muy pocas empre­
+sas, en algunos casos una o dos, disfrutan de una posición dominante, el ejemplo
+clásico es Microsoft.
+Sin embargo, con frecuencia tiende a pensarse, muy equivocadamente,
+que todos los productos tecnológicamente nuevos se caracterizan por el efecto red.
+Y, claramente, este no es el caso. Por ejemplo, la empresa Dell, que es el fabricante
+de mayor éxito hoy de ordenadores personales en los EE.UU., con una cuota de
+mercado del 20%, no disfruta del efecto red. Es claro, que yo no tengo incentivo
+alguno en comprar un ordenador personal de esta marca por el simple hecho de
+que mis colegas lo tengan. El valor de la empresa Dell dependerá, entre otros fac­
+tores, de la bondad de sus políticas de producción, de investigación y desarrollo,
+de servicio al cliente, de control de calidad y de gestión de stocks. En este su sen­
+tido, su valoración dependerá de factores análogos de los que dependen otras
+industrias, como, por ejemplo, los electrodomésticos. No dependerá, sin embargo,
+del que hemos llamado efecto red y que resulta ser prácticamente no significativo
+para los fabricantes de ordenadores personales.
+La segunda de las características a la que hemos aludido, en el mercado
+de nuevas tecnologías, es la fidelización de los usuarios, que es directamente pro­
+porcional a las dificultades que éstos encuentren al cambiar de proveedor. Para
+todos nosotros es familiar esta idea. Por ejemplo, en las dificultades que tenemos
+en cambiar de banco cuando a través de él realizamos un conjunto de actividades
+tales como pagar una serie de recibos, pólizas de seguro o los distintos plazos del
+préstamo hipotecario con el que hemos comprado nuestra casa. Dificultades de la
+misma naturaleza se encuentran cuando se quiere cambiar el proveedor de inter­
+net. Como sucede con los bancos, la naturaleza de los servicios que prestan influi­
+rá decisivamente en la estabilidad o nivel de fidelización de su base de clientes. De
+hecho, el valor de mercado de muchas compañías depende crucialmente de este
+factor. O dicho de otro modo, del valor capitalizado de los beneficios futuros que
+se puedan hacer trabajando con ellos. Es obvio que un riesgo implícito en este tipo
+de valoraciones es minimizar la posibilidad de que los clientes se cambien de pro­
+veedor, bien porque el nuevo le ofrezca mejores servicios, o bien porque un cam­
+bio tecnológico le ofrezca productos y servicios mejores y distintos. En este senti­
+do, nada nuevo hay en esta característica que no haya estado, y esté, presente en
+la actividad comercial y empresarial de la vieja economía. Los mercados reconocen
+
+96
+
+
+
+y valoran positivamente la base de clientes, pero también miden su estabilidad futu­
+ra en presencia de una competencia creciente.
+Volviendo al efecto red, cabe, como he señalado, atribuírselo a productos
+o actividades que no lo tienen. Pero cabe también la posibilidad de sobrevalorar­
+lo. Veamos.
+Con frecuencia, la fuerte capacidad de generar rendimientos crecientes
+que tienen las actividades de la nueva economía se le atribuye al efecto red. El
+soporte teórico en el que se fundamenta es la llamada Ley de Metcalfe, que dice lo
+siguiente: «la utilidad de una red es proporcional al cuadrado del número de per­
+sonas conectadas a ella». Nótese que este número es igual al de posibles conexio­
+nes entre ellas.
+Si todas las actividades de la Ne estuvieran bajo el paraguas de la llamada
+Ley de Metcalfe, la dinámica económica estaría fuertemente condicionada por este
+hecho. Pero, en contra de la opinión de muchos defensores a ultranza del nuevo
+paradigma económico, ésta no es la pauta con la que se desarrollan este tipo de
+mercados. Recogiendo una idea expresada repetidas veces por DeLong, y con un
+sencillo ejemplo numérico tomado de Krugman (2000), es fácil comprobar la afir­
+mación anterior.
+Supongamos un país en el que sus habitantes viven en ciudades de 100
+habitantes. Hipótesis irreal, por dos razones: las ciudades no son de igual tamaño
+y el tamaño fijado es arbitrario. Veremos, a continuación, que la hipótesis de igual
+tamaño es crucial para defender los rendimientos crecientes de la actividad econó­
+mica. Sin embargo, la elección de 100 habitantes se hace solamente para simplifi­
+car la aritmética del problema.
+Pasemos a la justificación numérica. Si empezamos invirtiendo dinero en
+la construcción de una línea de comunicación entre dos de estas ciudades, ello hará
+posible 10.000 comunicaciones, como resultado de conectar cada habitante de una
+ciudad con todos los de la otra, es decir: 100 por 100 igual a 10.000. Si a conti­
+nuación afrontamos la inversión para comunicar una tercera ciudad, añadiríamos a
+la red anterior otras 20.000 comunicaciones posibles, como consecuencia de comu­
+nicar a todos y cada uno de los habitantes de la tercera ciudad con los de las dos
+primeras, es decir: 100 por 200 igual a 20.000. La conexión de una cuarta ciudad
+incrementaría la red en 30.000 nuevas conexiones, y así sucesivamente.
+Fácilmente se comprueba que la incorporación a la red de una nueva ciu­
+dad comporta una inversión análoga a la incorporación anterior, pero, por el con­
+
+97
+
+
+
+trario, aumenta la red en una cantidad que, a cada nueva conexión, se hace signi­
+ficativamente mayor. Dicho en otros términos, aunque la conexión de las primeras
+ciudades no incorpore a la red una base de clientes que justifique las altas inver­
+siones iniciales, sí pueden quedar ampliamente justificadas dada la dinámica cre­
+ciente de la red.
+Sin embargo, tal y como hemos señalado, esta dinámica depende crucial­
+mente de la hipótesis de igualdad del tamaño de las ciudades. Desde luego, no sus­
+tentada en la evidencia empírica. Por ejemplo, Krugman (2000) señala que el tama­
+ño de las ciudades en EE.UU. responde, aproximadamente, al comportamiento
+siguiente. La segunda de las ciudades tiene la mitad de población que la primera,
+la tercera la tercera parte, y así sucesivamente. Si con objeto de simplificar los cálcu­
+los aceptamos estas pautas de comportamiento, veamos cuál es ahora la dinámica
+de incremento de la red.
+Si suponemos que la ciudad mayor tiene 120 habitantes, la segunda ten­
+drá 60, la tercera 40 y la cuarta 30. Bajo estos supuestos, la conexión de las dos pri­
+meras ciudades proporcionará una red de 7.200 posibles comunicaciones, es decir,
+120 por 60 igual a 7.200. La incorporación de la tercera ciudad, con 40 habitantes,
+incorporará a la red otras 7.200 posibles comunicaciones, resultado de multiplicar
+120 más 60 por 40, cifra igual, y no mayor, a la anterior. Ahora bien, la incorpora­
+ción siguiente incrementaría el número de comunicaciones en solamente 6.600,
+cifra que seguirá disminuyendo con incorporaciones posteriores. A pesar de que la
+base de clientes es cada vez mayor el efecto dominante es el tamaño decreciente
+de las ciudades.
+¿Qué podemos deducir de este sencillo ejercicio?. En primer lugar, que con
+frecuencia se suelen sobreestimar los efectos red. En segundo lugar, que son posi­
+bles los rendimientos crecientes en las actividades de la llamada Ne, pero, desde lue­
+go, también lo son los rendimientos decrecientes. En general hay que tener presen­
+te que las conexiones iniciales son aquellas que incorporan mayor valor a la red, ya
+que proceder de otra manera no tendría mucho sentido económico. Alguna eviden­
+cia en el pasado valida esta forma de pensar. Por ejemplo, las redes de telégrafo
+aumentaron en EE.UU. 600 veces en los seis años comprendidos entre 1846 y 1852,
+a los que sucedieron incrementos significativamente inferiores los años sucesivos.
+
+COM PETENCIA Y SU REGULACIÓN
+
+Como he señalado, las características de las Tic propician, en algunas acti­
+vidades, y de manera más acusada que en el pasado, la aparición de monopolios.
+
+98
+
+
+
+Ello sugiere un papel más relevante, pero de distinta naturaleza, a las Autoridades
+de Defensa de la Competencia y en general a la Regulación Económica.
+Con frecuencia se afirma que las viejas normas de la competencia no son
+válidas en la Ne. Se asegura que el cambio tecnológico hace poco significativas
+altas cuotas de mercado en un determinado sector, ya que, se dice, habrá mono­
+polios, pero sólo temporalmente. Una y otra vez se trae como ejemplo a IBM, que
+en 1965 tenía 2.500 competidores y 30 años más tarde tenía 30 veces más compe­
+tidores, y, por ejemplo, hoy tiene una cuota de mercado de ordenadores persona­
+les en EE.UU. de solamente el 6%, ocupando el cuarto lugar en el ranking de ven­
+tas.
+Los defensores de la no regulación de este tipo de mercados en la Ne, lle­
+gan a afirmar que la rotura de los monopolios así formados puede llegar a perju­
+dicar al consumidor. En efecto, los monopolios tradicionales maximizan beneficios
+restringiendo la oferta y elevando los precios. Pero, como hemos visto, en algunos
+casos los bienes informativos tienen economías de escala de oferta y de demanda,
+y como consecuencia el efecto es el opuesto: incrementan la producción y redu­
+cen el precio. Existe, por tanto, el riesgo de que regulaciones que limiten la cuota
+de mercado induzcan a un incremento de precios. En este contexto el punto de vis­
+ta no intervencionista tiende a subrayar que el fuerte cambio tecnológico es sufi­
+ciente para retirar del mercado comportamientos no eficientes.
+Sin embargo, no es ésta la opinión general. En efecto, autores tales como
+Paul Romer (1990), afirman que el cambio tecnológico no es exógeno, sino que res­
+ponde a incentivos económicos concretos. De tal manera que puesto que la apari­
+ción de nuevas tecnologías tiende a poner en peligro situaciones de monopolio, las
+empresas que se benefician de esta situación tendrán enormes incentivos en retar­
+dar los cambios tecnológicos con objeto de fortalecer su posición en el mercado.
+Si éste es el caso, las políticas reguladoras de la competencia tienen hoy más impor­
+tancia que en el pasado, ya que existen muchas más posibilidades de ralentizar el
+proceso de innovación.
+Recordemos, no obstante, que los efectos red no son aplicables a todas las
+actividades de la Ne, y como máximo lo son en una cifra que representa alrededor
+del 10% del PIB de EE.UU. Habrá una tendencia al monopolio en tales actividades,
+pero, en el 90% restante del PIB, las Tic no disminuyen, sino que incrementan la
+competencia.
+Fuera del ámbito de determinadas actividades, las Tic reducen las econo­
+mías de escala ya que incrementan la posibilidad de subcontratar determinadas acti­
+
+99
+
+
+
+vidades (outsourcing), disminuyendo apreciablemente los costes fijos. Se reducen
+las barreras de entrada ya que es más barato establecerse online y los consumido­
+res tienen mejores instrumentos para comparar precios y calidad de servicio.
+Como consecuencia las integraciones verticales de las empresas pueden
+estar menos justificadas, ya que los costes de transacción y los problemas de infor­
+mación limitada se reducen drásticamente. En efecto, frente a la tendencia a pro­
+ducir en la propia empresa los componentes, servicios y otros inputs necesarios,
+existe ahora la posibilidad de acudir al mercado a comprarlos. Tradicionalmente,
+debido a problemas de información y costes de transacción, la empresa tendía a
+realizar internamente la mayor parte de estas actividades. En el futuro les compen­
+sará concentrarse en aquello que mejor sepan hacer y comprar en el mercado el
+resto. Esto tenderá a reducir su tamaño y a transformar su estructura vertical.
+
+NUEVAS, VIEJAS REVOLUCIONES INDUSTRIALES
+Y PRODUCTIVIDAD
+
+Los entusiastas de la Ne afirman que representa un cambio tan funda­
+mental como el habido con los grandes adelantos que tuvieron lugar tanto en Euro­
+pa como en EE.UU. durante el período 1860-1900. Es éste el período de tiempo que
+se conoce como la segunda revolución industrial, utilizando una terminología acu­
+ñada para el período 1760-1830 de la primera revolución industrial en Inglaterra. A
+la segunda revolución industrial es a la que corresponden aumentos de producti­
+vidad nunca antes conocidos.
+Siguiendo a Gordon (2000) es conveniente clasificar en cinco grupos los
+grandes inventos y desarrollos que indujeron a gran parte del desarrollo económi­
+co del siglo veinte, y que han surgido en el período 1860-1900.
+1. Electricidad: Energía eléctrica, motores eléctricos, refrigeración y otros
+electrodomésticos e instalaciones de aire acondicionado.
+2. Motor de combustión interna: Coches, transportes y aviones.
+3. Petróleo, gas natural, productos químicos y plásticos.
+4. Comunicación y Entretenimiento: Telégrafo, teléfono, fonógrafo, foto­
+grafía, radio y TV.
+5. Infraestructura urbana: Agua corriente y alcantarillado.
+Este conjunto de 5 grandes invenciones ha originado un incremento en la
+productividad y en la renta per cápita que mejoró sostenidamente los niveles de
+100
+
+
+
+vida en el período 1913-1972, con una tasa media anual de crecimiento de la eco­
+nomía del 3,1 %.
+No es momento de un detenido análisis del impacto de todas y cada una
+de ellas y su comparación con la que se ha venido en llamar la revolución de las
+Tic. Pero sí pensar, simplemente, en la importancia de la energía eléctrica alargan­
+do el día para actividades de trabajo y ocio. O de los motores eléctricos y de com­
+bustión interna en los procesos de producción y transporte de personas y mercan­
+cías.
+Desde luego las Tic están cambiado sustancialmente los sistemas organi­
+zativos y de producción de las empresas, pero, ¿lo están haciendo en mayor medi­
+da que cuando la electricidad llevó la producción de las casas a las fábricas y se
+introdujo la producción mecanizada en cadena?
+El test más importante para medir la relevancia de un cambio tecnológico
+es su impacto en la productividad de la economía. En efecto, la productividad es,
+posiblemente, como indicador individual el más relevante de la economía. Es aquél
+que de manera más compacta puede reflejar el nivel de vida de los ciudadanos.
+En términos generales puede decirse que a partir de la década de los
+setenta y hasta mediados de los noventa ha habido una ralentización de la pro­
+ductividad que quedó situada en una tasa anual media del 1,4%. Sin embargo, y a
+partir de 1995 ha habido un sostenido incremento de la productividad de la eco­
+nomía de EE.UU., que ha supuesto el pistoletazo de salida para los múltiples defen­
+sores del paradigma económico que representa la Ne.
+Los trabajos del Prof. Gordon posiblemente fueron los primeros en cues­
+tionar la genérica afirmación de que la Ne, al parecer súbitamente y precisamente
+a partir de 1995, ha sido el elemento determinante del crecimiento de la economía
+de EE.UU., y de su apreciable aumento de productividad. Puesto que esta es una
+cuestión de enorme relevancia, y como quiera que la tesis de Gordon representó,
+en el entorno acrítico de los defensores del nuevo paradigma, una postura dife­
+renciada, no es de extrañar la enorme cantidad de trabajos que el mundo acadé­
+mico, ha producido, y está produciendo, para refutar o matizar las afirmaciones de
+Gordon, a la vez que se realimenta a sí mismo en el competitivo mercado de las
+publicaciones científicas. Es, en verdad, muy difícil recoger en poco espacio esta
+reciente e ingente cantidad de trabajos. Pretendo, a continuación, resumir las con­
+clusiones que considero más relevantes.
+101
+
+
+
+La preocupación por el impacto de las Tic en la productividad se remon­
+ta a la afirmación de 1987 del Prof. Robert Solow, premio Nobel de economía, de
+que: Jos ordenadores se encuentran en todas partes excepto en las estadísticas de
+productividad». Es lo que se conoce como la paradoja de la productividad. Una sen­
+cilla explicación para esta situación puede derivarse del Gráfico 3, pero, obvia­
+mente, también caben explicaciones más convincentes.
+Para empezar es conveniente tomar dos precauciones. La primera, que,
+desafortunadamente, y como sucede con frecuencia, la información estadística dis­
+ponible no es lo suficientemente rica y fiable como para poder llegar siempre a
+conclusiones definitivas. La segunda, lo importante que es acertar desechando des­
+de un principio trabajos que no cumplen, no ya con el mínimo rigor estadístico,
+sino que en algunos casos, y por sorprendente que parezca, no aciertan a seguir
+las más elementales reglas de la aritmética.
+Valga como ejemplo extremo, de estos últimos, algunas de las afirmacio­
+nes contenidas en el reciente libro, ya citado, de Mandel (2000). Entre las que pode­
+mos destacar la siguiente. Sobre la simple consideración de los datos de la Tabla 1,
+atribuye a lo que él llama el efecto de la oferta pública de acciones de Netscape,
+el crecimiento económico, el aumento de productividad en la economía no agríco­
+la, la generación de empleo, y, en fin, la baja tasa de inflación, habidas durante los
+últimos cinco años. Es éste un ejercicio totalmente equivocado que vulnera los prin­
+cipios más básicos de inferencia estadística. Con frecuencia el soporte de muchas
+de las afirmaciones que pretenden validar una de las dos posturas a las que he
+hecho referencia no tienen una validez empírica mayor que ésta.
+Al principio de mi exposición he señalado la dificultad de medir el ámbi­
+to de la Ne. A esta dificultad se añade otra, que es definir el momento en el tiem­
+po en el que empieza a operar, más allá de las arbitrarias elecciones como la de la
+OPV de Netscape. Éste es un aspecto, el de los retrasos o adelantos temporales,
+especialmente relevante en el estudio de relaciones causales temporales.
+La consideración de los retardos en este tipo de relaciones es muy impor­
+tante. Así, hay autores, como David (1990), que sostienen que el proceso de inno­
+vación ha empezado, mucho antes que el fenómeno Netscape, concretamente en
+1971, con la introducción de los microprocesadores, de tal manera que los benefi­
+cios derivados de su utilización sólo se han podido obtener después de un perío­
+do de veinte años. De igual manera sucedió, por ejemplo, con el motor de com­
+bustión interna y desarrollos aparejados en el cambio de siglo, en relación al
+impacto en la productividad que tuvieron en la década de los años veinte. David
+102
+
+
+
+afirma que los efectos de una determinada tecnología empiezan a ser significativos
+cuando ha penetrado en el 50% del mercado. Internet está en el 50% del mercado
+potencial de EE.UU., treinta años después de ser inventado y siete después de que
+se lanzara comercialmente. Y ello parece corresponderse con el incremento de la
+productividad de la economía de EE.UU. de los últimos años.
+Dos son las preguntas relevantes en este contexto. ¿Qué parte de este
+incremento se debe a las Ne?, y ¿son estas tasas de crecimiento de la productividad
+sostenibles?
+Una cuestión previa e importante es señalar que en este debate se consi­
+deran dos definiciones distintas de productividad. La primera es la productividad
+del trabajo, que hace referencia al producto por hora trabajada. La segunda es la
+productividad total de los factores, que hace referencia a los incrementos de pro­
+ducto que no son atribuibles directamente al trabajo y al capital. Es decir, mide la
+eficiencia con la que se utilizan el trabajo y el capital, pudiendo reflejar avances
+tecnológicos, pero también cualquier otro desarrollo que incrementa la eficiencia
+en la utilización de tales inputs, por ejemplo, una mejor organización de las tareas
+dentro de la empresa. En todo caso, un incremento en la productividad total de los
+factores conlleva un incremento de la productividad del trabajo, aun cuando el
+cociente capital /trabajo permanezca constante.
+Para la mayoría de nosotros la definición más relevante es la productivi­
+dad del trabajo, ya que, en último término, es la que determina el nivel de vida, y
+es la más fácil de calcular y de interpretar. Sin embargo, en el análisis que hoy nos
+ocupa, la productividad total de los factores es muy relevante, ya que representa la
+posibilidad de crecimiento sin incrementar los factores escasos que son el capital y
+el trabajo.
+Existe un consenso generalizado en que ha habido un incremento de la
+productividad muy acusado en el sector directamente vinculado a la producción de
+Tic que representa, aproximadamente, el 12% de la economía de EE.UU. Por el
+momento el desacuerdo afecta, ni más ni menos, que al 88% restante de la eco­
+nomía. Así, Gordon (2000) afirma que, una vez tenida en cuenta la componente
+cíclica, el incremento de productividad del trabajo que ha tenido lugar a partir de
+1995 tiene tres causas. La primera es un incremento en la productividad total de los
+factores en el sector concreto de ordenadores. La segunda, un enorme incremento
+en las inversiones en ordenadores que hizo más intensivos en capital muchos sec­
+tores. La tercera un incremento de la productividad total de los factores en el res­
+to de los sectores de bienes duraderos, que incluyen el sector de las comunicacio­
+
+103
+
+
+
+nes. Se llega a afirmar que más allá del sector de bienes duraderos la Ne no ha con­
+ducido ni a un incremento de la productividad total de los factores, ni, tampoco, a
+un incremento de la productividad del trabajo, a pesar de las tremendas inversio­
+nes realizadas que los han hecho más intensivos en capital. En mi opinión, una de
+las matizaciones y objeciones que cabe hacer a los resultados de Gordon es el pro­
+cedimiento de descomposición de los datos en sus componentes de tendencia y de
+ciclo. Es éste un problema econométrico especialmente delicado en el no me exten­
+deré aquí. Otra posible objeción, es que su análisis se concentra excesivamente en
+el comportamiento último del consumidor, dejando de lado las relaciones entre
+empresas que utilizan Tic, por ejemplo, lo que se conoce como comercio B2B, acti­
+vidades que son muy recientes y por tanto aún no se manifiestan en las mejores de
+productividad.
+Como he señalado, otro conjunto de trabajos cuestionan los resultados ante­
+riores. Entre ellos cabe destacar el de Oliner y Sichel (2000) de la Reserva Federal.
+Estos autores llegan a la conclusión de que casi el 50% del aumento de la producti­
+vidad del trabajo en los últimos cinco años se debe a las sustanciales inversiones de
+capital en Tic. El otro 50 % se debe al aumento de la productividad total de los fac­
+tores, y de esta mitad el 40% a ganancias en eficiencia en la producción de ordena­
+dores. Concluyen afirmando que, aproximadamente, el 66% del incremento habido
+en la productividad del trabajo se debe directamente a la producción y a la inversión
+en ordenadores. Posiblemente, este análisis es el que haya inducido a un progresivo
+cambio de opinión en la Reserva Federal, que se puede constatar en las últimas mani­
+festaciones públicas de su Presidente, Alan Greenspan, que atribuye a la Ne Un mayor
+protagonismo en el aumento de la productividad del que le atribuía unos meses
+antes, descartando, ahora, que se deba exclusivamente a causas cíclicas.
+Otros análisis, entre los que destacan los realizados por Jorgenson y Stiroh
+(2000), de la Universidad de Harvard, confirman esta última tesis, pero, sin embar­
+go, afirman que el aumento de la productividad total de los factores, que sí encuen­
+tran, en sectores distintos del de los ordenadores no parece estar claramente rela­
+cionada con las Tic. En efecto, estos autores observan que aquellos sectores que
+más han invertido en Tic son los que aportan un incremento de productividad
+menor.
+Es importante observar, y no es un aspecto menor, que Gordon se formula
+una pregunta distinta a la de sus críticos. En efecto, se pregunta si los sectores que
+utilizan Tic han incrementado sustancialmente su productividad total de los facto­
+res. Mientras que los otros análisis responden a la cuestión de si las Tic han incre­
+mentado la productividad del trabajo. Y la diferencia es relevante, ya que lo es tam­
+
+104
+
+
+
+bién diferenciar los componentes del aumento de la productividad del trabajo. Si el
+aumento de productividad del trabajo se debe fundamentalmente a la inversión en
+capital, en la medida que el coste de las Tic siga disminuyendo, la productividad
+seguirá aumentando. Pero si por el contrario el progreso tecnológico se ralentiza­
+ra, recuérdese la Ley de Moore, la productividad se vería afectada por una doble
+vía: la caída de la productividad total de los factores en el sector de Tic, y la caída
+de la inversión en Tic en el resto de los sectores.
+Hay que resaltar que el tremendo descenso relativo en el precio de los
+productos y servicios relacionados con las Tic que ha tenido lugar en los últimos
+años, es aún mucho mayor si los correspondientes valores se ajustan con el aumen­
+to de calidad. Así, las cifras oficiales para la economía de EE.UU. señalan que
+durante la década de los noventa ha habido un incremento en el gasto nominal
+anual en Tic del 14 %, sin embargo, esta cifra corregida proporciona un valor supe­
+rior al 40% anual. Es claro, que estos valores dependen mucho de los supuestos
+que se hagan de evolución de precios y de calidad de estos productos.
+Existe un relativo consenso en que, al menos en la próxima década, la
+continuidad de las innovaciones tecnológicas seguirá propiciando una caída de los
+precios, lo que aseguraría los correspondientes aumentos de productividad. En
+todo caso, hay que poner de manifiesto la enorme sensibilidad de estos resultados
+a la descomposición en sus dos sumandos, y, en particular, al procedimiento utili­
+zado en el cálculo de la productividad total de los factores, que requiere la previa
+especificación de la función de producción. Y muy sabido es, la falta de acuerdo
+que existe entre los economistas a la hora de especificar tales funciones. Hay que
+señalar, que en situaciones caracterizadas por sectores intensivos en capital y
+cocientes capital/trabajo muy variables, que es precisamente la que nos ocupa, la
+productividad del trabajo y la productividad total de los factores no evolucionan
+paralelamente.
+Además, hay que tener presente que dar por hecho el continuo aumento
+en memoria, capacidad de cálculo y velocidad de transmisión, no asegura su direc­
+ta asimilación por el sistema económico y social, dadas las obvias limitaciones de
+capacidad y tiempo que caracterizan el comportamiento humano. Los clásicos tra­
+bajos de Gary Becker nos pueden enseñar algo en este contexto. Desde este pun­
+to de vista puede, por tanto, parecer muy optimista la afirmación de continuos ren­
+dimientos crecientes que se le atribuye a la Ne.
+La evidencia empírica que utiliza datos agregados no es, en algunos aspec­
+tos, muy determinante, sin embargo alguna otra que utiliza información de empre­
+
+105
+
+
+
+sas consideradas individualmente, parece que estima más concluyentemente los
+efectos de las Tic en la productividad. Posiblemente los análisis microeconómicos
+ayuden a responder algunas de las cuestiones analizadas de manera mas satisfac­
+toria.
+La discrepancia de los resultados puede también tener su origen, al menos
+parcialmente, en el hecho de intentar estimar la posible existencia de un cambio
+estructural en el comportamiento de la productividad a partir de 1995. Ello equiva­
+le a estar manejando, dado el carácter trimestral de la mayor parte de las variables
+consideradas, una serie temporal de 20 observaciones. Período muestral bastante
+corto para la complejidad de los problemas econométricos que se intentan resol­
+ver, a la que, como he señalado, se añade la incertidumbre en la especificación de
+las funciones de producción utilizadas. Además de escasa, hay que recordar aquí
+las fuertes revisiones a las que se someten cifras ya publicadas, y que cuando se
+hacen definitivas aparecen sustancialmente modificadas y con un gran retraso.
+Muchas de ellas como consecuencia de cambios de criterios en la Contabilidad
+Nacional tan significativos como considerar todo tipo de compras de software como
+inversión en lugar de consumo.
+Así las cosas cabría reformular la paradoja de la productividad de Solow
+diciendo que “los ordenadores se encuentran en todas partes, y por el momento
+sólo algunos los encuentran en las estadísticas de productividad». En definitiva, aún
+es pronto para que la información estadística disponible permita responder satis­
+factoriamente a las preguntas que nos hemos planteado.
+Lo que sí cabe son ejercicios más modestos que consistan en comparar la
+situación actual, y los crecimientos de productividad que de ella se esperan, con las
+habidos en otros tiempos de fuerte innovación tecnológica, en particular, con la que
+hemos llamado la Segunda Revolución Industrial. Si las tasas de crecimiento de la
+productividad se sostienen en el valor medio anual de estos últimos cinco años, que
+ha sido del 3%, ello representa el 50% más que el crecimiento debido a la electrici­
+dad, el automóvil y el teléfono. A su consideración dejo la validez de esta hipótesis.
+Si el problema se muestra complicado centrándolo en el análisis de la eco­
+nomía de EE.UU., las dificultades aumentan cuando se quiere hacer extensivo a los
+países de la Unión Europea (UE), en los que la disparidad de criterios en la medi­
+ción de las variables relevantes es muy significativa. El intento más reciente de un
+análisis de este tipo se llevó a cabo en la OCDE por Bassanini, Scarpetta y Visco
+(2000). Llega a la conclusión, una vez corregido el ciclo, que la productividad total
+de los factores ha aumentado en EE.UU., Australia, Canadá y los países nórdicos,
+pero no lo ha hecho ni en Japón ni en la UE.
+106
+
+
+
+En ausencia de evidencia más contundente caben algunas justificaciones
+para este comportamiento tan dispar entre EE.UU. y la UE. En primer lugar, las que
+podríamos llamar de infraestructura social, es decir, mercados laborales más flexi­
+bles, mercados financieros más innovadores, regulación de la competencia más
+transparente e independiente, mayor control de las empresas por parte de sus pro­
+pietarios (los accionistas), y, en fin, una mayor capacidad para entender el fenó­
+meno de la inmigración. En segundo lugar, esta diferencia está sin duda amplifica­
+da por la fuerte componente cíclica, presente de forma más acusada en la economía
+de EE.UU. que en la UE. En tercer lugar, el hecho de que en EE.UU. se ha inverti­
+do más y antes en Tic, por lo tanto el efecto sobre la productividad se está mani­
+festando antes y con mayor intensidad que en Europa.
+
+NUEVA ECONOMÍA Y MERCADO D E VALORES
+
+Otra de las características que se le atribuye a la Ne, es que los procedi­
+mientos tradicionales de valoración de las empresas no son válidos en un entorno
+de cambios tecnológicos tan acusados. En mi opinión, tampoco ésta es una afir­
+mación correcta, ya que el único camino posible para valorar una empresa es poder
+estimar su capacidad de generar beneficios, presentes y futuros. Cierto es, que en
+los procedimientos de valoración tradicionales se parte de una predicción de los
+beneficios y cash floios libres generados, para a continuación descontar estos valo­
+res en un horizonte temporal dado, y, cierto es, que éste es un ejercicio relativa­
+mente simple cuando la empresa valorada tiene una evolución estable de sus flu­
+jos financieros y compite con otras empresas análogas en el mercado. Sin embargo,
+ésta no es la situación frecuente en las llamadas empresas de la Ne, que se carac­
+terizan por no cumplir ninguno de estos requisitos. Sin embargo, ello no invalida
+los procedimientos tradicionales, sino que exige hacer predicciones sobre un con­
+junto de variables, que dado el entorno en el que operan, están sometidas a un
+mayor nivel de incertidumbre. Como consecuencia, las valoraciones son enorme­
+mente sensibles a las hipótesis que necesariamente hay que hacer, dando lugar a
+escenarios de valoraciones muy dispares. Mi impresión, es que, en muchos casos,
+se están escogiendo supuestos demasiado optimistas, tanto en evolución de cuota
+de mercado como en niveles de competencia futura.
+Situaciones análogas de innovación tecnológica se han vivido en el pasa­
+do, y la historia algo nos puede decir al respecto. Para ello es conveniente analizar
+los Gráficos 4, 5 y 6, tomados del libro de Shiller (2000). En el primero de ellos
+puede verse un comportamiento reciente relativamente distinto a situaciones aná­
+logas en el pasado, y, en particular, extraordinariamente alcista en comparación con
+la más pausada evolución de los beneficios empresariales. Aun relativizando los
+
+107
+
+
+
+Gráfico 4
+C o t iz a c io n e s y b e n e fic io s , 1 8 7 1 -2 0 0 0
+
+Fuente: R. J. Shiller (2000).
+
+Gráfico 5
+P E R (p r e c io /b e n e fic io ), 1 8 8 1 -2 0 0 0
+
+108
+
+
+
+fuertes crecimientos de los años veinte y cincuenta con el menor tamaño de los
+mercados de entonces, parece claro que la evolución que empezó en los años
+ochenta, y se aceleró a mediados de los noventa, no admite comparación posible
+con el impacto que otros cambios tecnológicos muy relevantes han tenido en el
+mercado de valores. Esto se pone especialmente de manifiesto en el Gráfico 5. Los
+descubrimientos de finales del siglo xix dieron lugar al máximo de 1901, al final de
+la década de los veinte se alcanzó otro máximo, en 1929, correspondiente a de­
+sarrollos previos derivados de la electricidad y el automóvil. Como queda patente,
+la evolución de los beneficios empresariales, en todo caso crecientes, no parece
+razón suficiente para justificar la evolución del precio de las acciones. Si, en esta
+materia, la historia sirve de algo, alguna evidencia empírica adicional puede obte­
+nerse a partir del análisis del Gráfico 6. Con el propósito de hacerlo legible sólo se
+recogen en él los valores correspondientes al mes de enero de los años compren­
+didos entre 1881 y 1989- En el eje de abscisas se representa el PER correspondienG r á fic o 6
+
+Rendimiento en términos reales a diez años anualizado (% )
+
+P E R c o m o p r e d ic t o r d e l r e n d im ie n to a d ie z a ñ o s
+
+109
+
+
+
+te, y en ordenadas los rendimientos de la inversión realizada en el año señalado y
+que se habrían obtenido durante los diez años siguientes, suponiendo que los divi­
+dendos se reinvierten hasta el final del período. La conclusión general que puede
+obtenerse de la forma de la «nube de puntos» es que los rendimientos que se obtie­
+nen son tanto más altos cuando mas bajo es el PER del año en el que se invierte.
+Nótese que el PER correspondiente al año 2000 cae fuera del rango considerado en
+el Gráfico 6, y, por consiguiente predecir los comportamientos de posibles inver­
+siones realizadas hoy en el plazo de los próximos diez años, dependerá en gran
+medida del tipo de curva que se ajuste a la nube de puntos. Es suficiente señalar,
+que la evidencia histórica recogida en el gráfico predice, en media, rendimientos
+pequeños e incluso negativos para el horizonte de los próximos diez años.
+Aun en la hipótesis de un mantenimiento de los incrementos de produc­
+tividad de los últimos años que condujera a un crecimiento del PIB del 4 %, los PER
+actuales sugieren incrementos de beneficios en términos reales, para la próxima
+década, de cerca del 20%, y, aun también, suponiendo que la prima de riesgo fue­
+ra nula, el crecimiento de los beneficios llegaría al 10%. Cifra, en mi opinión, desor­
+bitada por dos razones. La primera, como hemos visto, es que salvo situaciones
+transitorias de monopolio, la competencia que se establecerá con las Tic tenderá a
+bajar los márgenes empresariales y no a subirlos. La segunda, es que si estas pau­
+tas de crecimiento tan desiguales para el PIB y para los beneficios empresariales
+fueran sostenibles, ello supondría que la participación de los beneficios en la Ren­
+ta Nacional crecería tremendamente, situación que contrasta con la estabilidad his­
+tórica de este valor, incluso en períodos de fuertes cambios tecnológicos, como la
+tantas veces mencionada Segunda Revolución Industrial.
+Señalar, para terminar esta breve consideración sobre la evolución del
+mercado de valores en EE.UU., que también los mercados europeos han crecido en
+los últimos cinco años, pero no tan significativamente como en EE.UU.
+NOTA SOBRE LA NUEVA ECONOMÍA EN ESPAÑA
+
+Pocas son las referencias que hasta ahora he hecho sobre la realidad espe­
+cífica de España. Fundamentalmente las referencias tanto explícitas como implíci­
+tas han sido a la economía de EE.UU. Y no podía ser de otra manera, ya que es
+allí donde existe una evidencia empírica mayor para poder analizar el fenómeno.
+Quizás, la manifestación mas clara de la Ne en el mundo empresarial espa­
+ñol se ha dado en la entrada de grandes empresas, bancos, eléctricas y constructo­
+ras, en el mercado de las comunicaciones. Posiblemente, hay otras actividades rele­
+vantes pero ninguna de la importancia económica de ésta.
+110
+
+
+
+Afirmaba al principio de mi intervención que la Ne no es sólo un fenó­
+meno tecnológico, sino también financiero y de carácter global. Sin acceso al mer­
+cado de capitales la Ne en los EE.UU. no se hubiera desarrollado de la manera que
+lo ha hecho y lo está haciendo. El capital que ha financiado la mayor parte de las
+iniciativas empresariales en EE.UU. no ha sido un capital cualquiera, sino aquel dis­
+puesto a asumir los riesgos que conlleva la creación de nuevas empresas a partir
+de nuevas tecnologías. Un panorama distinto a éste existe en Europa, y en especial
+en España. En efecto, el deficiente funcionamiento de los mercados financieros,
+junto con la práctica ausencia de capital riesgo ha hecho que las Tic se estén intro­
+duciendo en España por vías radicalmente distintas a las de EE.UU. Así, podemos
+comprobar que los protagonistas en el mercado de las telecomunicaciones son
+empresas ya establecidas, preocupadas, más que de innovar, de mantener su base
+de clientes actual, que en muchos casos procede de situaciones de monopolio con
+mercados cautivos y precios regulados.
+La aportación de estas empresas, o en algunos casos subsidiarias de ellas,
+no es en absoluto tecnológica, ya que todos los consorcios constituidos para optar
+a las distintas licencias han incorporado siempre un socio tecnológico extranjero.
+En todo caso, las operaciones de entrada en las Tic han generado expectativas de
+extraordinarios beneficios. Véase, por ejemplo, la valoración de Telefónica Móviles,
+de próxima salida parcial a bolsa, con un valor estimado entre 7 y 9 billones de
+pesetas. O bien, la valoración de Airtel, representada por las últimas transacciones
+entre sus accionistas, de 5 billones de ptas., obtenida, en muy pocos años, a partir
+de una inversión inicial de 150.000 millones de ptas. O bien, el holding, recién
+constituido, Aúna ( formado por Endesa, Telecom Italia, Unión Fenosa) ya opti­
+mistamente valorado en 6 billones de ptas. con unos recursos propios de 170.000
+mil millones. Se da la paradoja de que los protagonistas de la llamada vieja eco­
+nomía, son los mismos de la Ne. Algunos de ellos, y en ciertas operaciones, han
+realizado plusvalías que, en muchos casos, son del mismo orden de magnitud que
+los recursos propios de las empresas que han sido generados a lo largo de muchas
+décadas. Puesto que así son las cosas, cabe preguntarse qué clase de incentivos
+pueden tener los gestores de esas empresas de la vieja economía en introducir efi­
+ciencia en sus actividades tradicionales, cuando se han mostrado tan eficientes en
+mejorar su cuenta de resultados a costa de su repentina inmersión en la Ne. Como
+ya hemos señalado, y la historia de los cambios tecnológicos así lo enseña, la mayor
+parte de estas expectativas de beneficios no terminaran consolidándose.
+Obviamente el factor político-empresarial más relevante de estas situaciones,
+ha sido la concesión, por los gobiernos de tumo, de las correspondientes licencias
+para operar en estos nuevos mercados. Es éste, sin lugar a dudas, un muy fértil cam­
+111
+
+
+
+po de análisis para que la Teoría de la Elección Pública arroje alguna luz sobre la for­
+ma en la que políticos, burócratas, empresarios y otros grupos de presión intentan
+distribuir estas nuevas rentas y configurar los nuevos espacios empresariales.
+También aquí surge una nueva paradoja: por una parte, como he señala­
+do, las Tic dificultan y debilitan la actividad reguladora clásica de los gobiernos,
+pero, por otra, definen a favor de ellos derechos de propiedad antes inexistentes,
+no sólo de una enorme importancia económica, sino también estratégica. Piénsese
+en las adjudicaciones de licencias con tecnología GSM que han dado lugar a las
+plusvalías que antes he señalado, o las adjudicaciones más recientes con tecnolo­
+gía UMTS del espacio radioeléctrico que se han hecho en España y otros países de
+la UE, y que, como es conocido, han dado valoraciones distantes entre sí varios
+billones de ptas., dependiendo de que las adjudicaciones se hubieran hecho a tra­
+vés de subastas o de concursos, a los que un reciente editorial del Financial Times
+calificaba de «concursos de belleza». Situación que está dando lugar a sobreinver­
+siones con niveles de endeudamiento inaceptables, que también han estado pre­
+sentes en otros períodos de cambios tecnológicos. Con todo, en mi opinión, lo más
+relevante no es la valoración realizada en un determinado instante de tiempo de
+estas licencias, sino el impacto que su adjudicación puede tener en el desarrollo
+económico del país, desde puntos vista tales como su capacidad futura para com­
+petir, innovar y desarrollarse.
+Porque, y termino, cabe preguntarse si es razonable que el proceso de
+concentración empresarial que se está promoviendo hoy en España, esté conside­
+rando la posibilidad de dar lugar a la operadora eléctrica con el mayor número de
+clientes (36,7 millones) del mundo, y, en un principio, prácticamente, la segunda
+por potencia instalada (52.579 megavatios). Sí estas cifras las comparamos con
+nuestro PIB, el tamaño se sale de cualquier escala razonable. Y esto se propone
+cuando la actual concentración en el proceso de generación eléctrica, entre las dos
+empresas que se fusionan, impide de hecho la adecuada formación de precios en
+el mercado mayorista. En los procesos de liberalización los aspectos regulatorios
+son de enorme importancia, y lejos de ser conceptos excluyentes deben ser com­
+plementarios.
+Antes de abordar procesos de esta naturaleza, es necesario definir una
+política clara, fiable y estable en materia de competencia, los mercados la necesi­
+tan. En mi opinión, se ha optado por un modelo que limita sensiblemente el poder
+y la independencia de las instituciones reguladoras, reservando al ejecutivo la últi­
+ma decisión, lo que hace aumentar sensiblemente los riesgos de condicionar des­
+de el gobierno la estrategia de las empresas.
+112
+
+
+
+REFERENCIAS
+B a ssa n in i ,
+
+D a v id .
+
+A. S.; S c a r o et t a m S., y I. Visco (2000), «Knowledge, technology and economic
+growth: recent evidence from OECD countries», OCDE, Econom ics D epartment
+Working Papers no. 259, http://www.oecd.org/eco/eco.
+
+P. A. (1990), «The dynamo and the Computer: An economic historical perspective on
+the modern productivity paradox», A m erican E conom ic Review (Papers a n d Proceedings), vol. 80, no. 2, págs. 355-361.
+R. J. (2000), «Does the New Economy measure up to the great inventions of the
+past», Northwestern University, Working paper, http://faculty-web.at.northwestern.edu/economics/gordon.
+
+G ordon,
+
+D. L., y S t ir o h , K. J. (2000), «Raising the speed limit: US economic growth in the
+information age», OCDE, E conom ic Department, working paper, no. 26l, http://
+www.oecd.org/eco/eco.
+
+J o r g e n se n ,
+
+K rugm an,
+
+M a n d el ,
+
+P. (2000), Networks and increasing returns: A cautionary tale, http://www.mit.
+edu/~krugman/.
+
+M. J. (2000), The Corning Internet Depression, New York, Basic Books.
+
+O l in e r ,
+
+S. D., y S ic h e l , D. E. (2000), «The resurgence of growth in the late 1990s: Is infor­
+mation technology the story», F ederal Reserve Board, F in an ce a n d Econom ics Discussion Series Paper, http://www.bog.frd.fed.us/pubs/feds.
+
+Rom er,
+
+P. (1990), «Endogenous technological changq-, Jo u rn a l o f Political Economy, vol. 98,
+págs. 71-102.
+
+S h a p ir o ,
+
+C., y V a ría n , H. R. (1999), Inform ation Rules: An Stragegic G uide to the NetWork E co­
+nomy, Boston, Harvard Business School Press.
+
+S h iller ,
+
+R. J. (2000), Irrational Exuberance, Princeton, Princeton University Press.
+
+V arían ,
+
+H. (2000), 5 habits of highly effective revolution, http://www.sims.berkeley.edu/~hal/.
+
+113
+
+
+
+

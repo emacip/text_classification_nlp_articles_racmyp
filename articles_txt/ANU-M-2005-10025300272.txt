@@ -1,0 +1,821 @@
+POBREZA Y CRECIMIENTO
+P o r el A ca d ém ico d e N úm ero
+Excm o. Sr. D. Jaime T erceiro Lom ba *
+
+INTRODUCCIÓN
+Los economistas utilizamos la renta per cápita para caracterizar el estado
+de bienestar de los ciudadanos. Obviamente, la gente se preocupa de su renta, pero
+también se preocupa de otras cosas, por ejemplo su salud, su educación su liber­
+tad política y social, el medioambiente o el grado de igualdad o desigualdad de la
+sociedad en la que viven. Probablemente Amartya Sen (2001) es el economista más
+influyente que defiende la incorporación de estos otros factores a una correcta
+medición de los niveles de desarrollo.
+En cualquier caso, la caracterización del grado de bienestar económico
+tendría que considerar, además de los niveles de renta per cápita, su distribución
+personal. Pero esto no es suficiente, ya que la renta es una variable flujo y, como
+tal, no considera directamente las dotaciones o stocks de recursos productivos que
+una generación deja a las siguientes, entre los que cabe destacar los stocks de capi­
+tal tangible, tanto público como privado, junto a los de capital intangible. Entre los
+primeros, las infraestructuras de transporte y de comunicación pueden ser muy
+relevantes, como también lo son los recursos naturales disponibles; los segundos
+hacen referencia al capital humano y tecnológico. Finalmente, otro aspecto a tener
+en cuenta es el de la protección social frente a distintas situaciones, tales como
+desempleo, enfermedad o retiro.
+
+* Sesión del día 1 de marzo de 2005.
+
+253
+
+
+
+Si, a partir de estas cuatro dimensiones del bienestar económico: renta,
+distribución, dotación y protección, pretendemos elaborar un indicador único, nos
+enfrentaremos a tres tipos de problemas referidos a los datos disponibles, a la elec­
+ción del índice y a la ponderación de cada una de las cuatro dimensiones. Los dos
+primeros problemas representan los aspectos estadísticos, y el tercero, el sistema de
+valores, como por ejemplo la mayor o menor preferencia por criterios de equidad
+frente a crecimiento. Ni unos ni otro suponen tareas fácilmente abordables.
+Las observaciones anteriores ponen de manifiesto lo limitado de conside­
+rar la renta per cápita como el indicador adecuado y único para analizar los proble­
+mas de pobreza y crecimiento de los países. Sin embargo, es el indicador general­
+mente admitido y al que haré referencia a lo largo de este trabajo.
+El tema que hoy voy a tratar está de especial actualidad, ya que este año
+tendrán lugar varias reuniones clave en la lucha contra la pobreza: la cumbre del
+G8 sobre África, la sesión especial de la Asamblea de la ONU sobre los Objetivos
+del Milenio, acordados en el 2000 con horizonte 2015 y, en fin, la VI Conferencia
+de la Organización Mundial del Comercio.
+
+SOBRE LA POBREZA DE PAÍSES Y PERSONAS
+La renta per cápita entre países difiere hoy más de lo que lo hacía en el
+pasado reciente y remoto. Estas diferencias eran relativamente pequeñas hasta el
+siglo xix, y empezaron a divergir con la revolución industrial. Después de la segun­
+da guerra mundial la disparidad en renta per cápita entre los países desarrollados
+ha disminuido, pero, sin embargo, la diferencia entre países ricos y pobres ha
+aumentado.
+En efecto, de acuerdo con los datos de Maddison (2001), en el año 1000
+el producto per cápita en África, Japón y el resto de Asia excluyendo Japón era,
+respectivamente, el 4, el 6 y el 12,5 por 100 más alto que en Europa. En contraste,
+a finales del siglo xx en Europa occidental era trece veces mayor que en África y
+seis veces mayor que en Asia excluyendo Japón. Por otra parte, la renta per cápi­
+ta del conjunto de Australia, Nueva Zelanda, Canadá y Estados Unidos era veinte
+veces la de África y seis veces la de Asia excluyendo Japón.
+Al mismo tiempo, el número de países que se podrían considerar en situa­
+ción intermedia ha disminuido, dando lugar a una cierta polarización-, un club de
+países ricos y otro de pobres. Esta afirmación está validada empíricamente en un
+254
+
+
+
+original trabajo de Durlauf y Qua (1999), en el que se calcula la probabilidad de
+transición de la renta per cápita de 105 países desde el año t al año t + 15, para el
+período 1961 a 1988, con el siguiente resultado. La probabilidad de que un país de
+renta alta permanezca dentro de su grupo es alta, y lo mismo sucede con los países
+de renta baja. Sin embargo, los países de renta media tienen una probabilidad
+mayor de pasar al grupo de renta alta o al de renta baja que la que tienen de
+permanecer en su grupo de origen. Con este comportamiento de las probabilida­
+des de transición, la distribución correspondiente converge a un modelo bipolar.
+El crecimiento económico se mide como la tasa de variación de la renta
+per cápita. Crecimientos diferentes, en prolongados períodos de tiempo, dan lugar
+a divergencias en los niveles de vida muy acusadas. Por ejemplo, un país que crece
+al 3 por 100 anual dobla su renta per cápita en veintitrés años, y si lo hace al 1 por
+100 tardará setenta años. Es claro que el proceso de convergencia o divergencia
+vendrá determinado por esta variable.
+De lo dicho hasta aquí, y en resumen, puede concluirse que el proceso de
+divergencia en renta per cápita entre países pobres y ricos es creciente, y que el
+mapa final tiende a una cierta bipolarización. Es esta afirmación la que está en la
+base de las, en mi opinión, mal fundadas críticas al sistema de economía de merca­
+do y al proceso de globalización al que está dando lugar. En primer lugar, porque
+esta afirmación pude matizarse desde otros puntos de vista, y en segundo lugar,
+porque no es razonable, como veremos, imputar a la globalización el atraso econó­
+mico de los países.
+Las afirmaciones sobre el incremento de la desigualdad global requieren
+análisis previos sobre la metodología utilizada. Tres son las dificultades que se
+presentan. La primera es medir lo que los ciudadanos, especialmente los de los
+países pobres, consumen. La segunda es valorar adecuadamente este consumo con
+objeto de que se puedan hacer comparaciones razonables entre países y en distin­
+tos períodos de tiempo. Finalmente, la tercera dificultad es definir un criterio apro­
+piado de comparación.
+Una pregunta que podemos hacernos es la siguiente. ¿Qué es más rele­
+vante, la desigualdad entre países o la desigualdad entre los ciudadanos del mundo,
+independientemente del país en el que vivan? Tal y como hemos señalado, la desi­
+gualdad entre países es creciente. Supongamos, por un momento, que también la
+desigualdad entre los ciudadanos de todos y cada uno de los países es creciente.
+Parecería lógico deducir que en ambas situaciones la desigualdad global entre
+ciudadanos es también creciente. Pues no necesariamente tiene que ser así y, de
+255
+
+
+
+hecho, los datos ponen de manifiesto lo contrario. Ello es debido a que a las dos
+afirmaciones anteriores se añade una tercera, y es que un número reducido de
+países pobres, que representa una parte sustancial del número de personas pobres
+en el mundo, está creciendo significativamente. En efecto, ésta es la situación que
+se ha dado en la práctica en las dos últimas décadas del siglo pasado, debido a los
+sustanciales crecimientos en renta per cápita habidos en China y la India. Recor­
+demos que en el año 2000 China tenía 1.270 millones de habitantes y la India 1.000
+millones, frente a una población mundial de 6.000 millones.
+Este hecho lo ha puesto claramente de manifiesto muy lúcidamente Stan­
+ley Fischer (2003), en un trabajo en el que aporta básicamente dos gráficos en los
+que en abscisas representa el producto per cápita en el año 1980, y en ordenadas
+su tasa de variación para las dos décadas 1980-2000. En el segundo de ellos la nube
+de puntos del primero se modifica, convirtiendo cada punto en un círculo cuya área
+es proporcional a la población del país al que hace referencia. El primer gráfico da
+una idea de la evolución de los países, el segundo, de las personas. En términos
+generales, puede decirse que los países divergen y los ciudadanos convergen. Ello
+es debido fundamentalmente a dos hechos. El primero, al llamativo crecimiento de
+China e India durante las dos décadas y al impacto de sus poblaciones sobre el
+resultado final. El segundo, a la proximidad de muchos países del área subsaharia­
+na al origen de coordenadas, países caracterizados en su mayoría por paupérrimos
+niveles de renta per cápita, y en algunos casos por un estancamiento total o inclu­
+so por crecimientos negativos. Dos elementos diferenciales de África son el marco
+de incertidumbre bélica y las pandemias, especialmente la malaria y el sida, que
+llega a alcanzar en algunos países al 30 por 100 de la población.
+Ya a estas alturas de la exposición tenemos algún elemento para no tomar­
+nos en serio la relación globalización-divergencia. Gran parte del crecimiento de
+China e India, que, como hemos visto, condiciona el mapa descrito (en conjunto
+2.300 millones de personas), tiene su origen en la creación de mercados y su aper­
+tura al exterior de sus fronteras; eso sí, llevada a cabo de manera ciertamente hete­
+rodoxa, al menos cuando se compara con el así llamado Consenso de Washington
+(Williamson, 1990), al que más tarde me referiré. Por el contrario, la mayoría de los
+países del área subsahariana combinan un intercambio prácticamente nulo con el
+exterior con políticas e instituciones muy mediocres. La pregunta relevante no es,
+a mi entender, si el proceso de globalización es bueno o malo, sino por qué a algu­
+nos países le es tan difícil integrarse en este proceso.
+Es posible hacer referencia al término desigualdad bajo tres criterios distin­
+tos. El primero, la desigualdad entre países. El segundo, la desigualdad global entre
+256
+
+
+
+personas al margen del país al que pertenecen. El primero tiene sus limitaciones,
+ya que, por ejemplo, asigna a Dinamarca y a China el mismo peso, sabiendo que
+un crecimiento de China afecta a casi 1.300 millones de personas. También el
+segundo presenta, como instrumento para abordar los problemas del subdesarro­
+llo, carencias evidentes, puesto que las causas de la pobreza residen, en última
+instancia, dentro de las fronteras de los países. A diferencia de lo que sugiere John
+Lennon en su maravillosa Imagine, no es razonable, en este caso, pensar que no
+existen países ni fronteras. El tercer criterio es el que mide la desigualdad de las
+personas dentro de cada país. Un indicador frecuentemente utilizado es el coefi­
+ciente de Gini, que toma valores comprendidos entre 0 y 1, valores bajos indican
+una mayor igualdad de la distribución de la renta. Valores orientativos para distin­
+tos países son los siguientes. Para los países europeos, Japón y Canadá el coefi­
+ciente de Gini ha permanecido relativamente estable durante las dos últimas déca­
+das del siglo pasado, entre 0,25 y 0,35. En Estados Unidos ha aumentado hasta un
+valor de 0,45. En los países emergentes y subdesarrollados su medición es difícil.
+Por ejemplo en Corea, y pese a sus altas tasas de crecimiento, el índice ha perma­
+necido bajo, alrededor del 0,3. En Brasil, con un moderado crecimiento económi­
+co, ha permanecido alto, alrededor del 0,6. En las sociedades occidentales existen
+diversas percepciones sobre los distintos niveles de distribución de la renta, y algu­
+nos autores piensan que la desigualdad no es el problema real; el verdadero
+problema, afirman, es la pobreza.
+
+MEDICIÓN DE LA POBREZA Y SUS PROBLEMAS
+La medición y evolución de la pobreza no es una tarea fácil. El primer
+problema técnico que se presenta es la elección del procedimiento para estimar el
+consumo. Dos son las vías utilizadas: las encuestas familiares y la contabilidad
+nacional. Reconciliar los resultados de los dos procedimientos no es fácil, ya que,
+como convincentemente ha demostrado Deaton (2004), difieren sustancialmente.
+Los resultados a partir de la contabilidad nacional tienden a ser más optimistas que
+los derivados de las encuestas directas a familias. Las encuestas miden la pobreza
+desde el punto de vista del consumo de las personas, la contabilidad nacional, el
+producto bruto por persona. Por consiguiente, la -pobreza de consumo» será distin­
+ta de la «pobreza de la renta», ya que el producto bruto es algo más que la renta
+de las familias, y en esta situación específica habría que tener en cuenta, por ejem­
+plo, el ahorro privado, en la medida en que exista, y el gasto público. En todo caso,
+los resultados son muy sensibles al diseñó de la encuesta y a su periodicidad. El
+Banco Mundial utiliza básicamente encuestas para abordar este problema — véase
+Chen y Ravallion (2001)— , mientras que otros autores (Bhalla, 2002, y Sala-i-Martin,
+257
+
+
+
+2002) utilizan las contabilidades nacionales. Las últimas estimaciones del Banco
+Mundial están realizadas sobre la base de más de un millón de entrevistas en hoga­
+res seleccionados de forma aleatoria en 100 países que representan el 93 por 100
+de la población subdesarrollada.
+Un criterio generalmente aceptado para cuantificar la situación de extrema
+pobreza es el de un dólar estadounidense de renta y/o consumo por día. Además
+de las críticas que se pueden hacer al poco realismo de la cifra, existe una dificul­
+tad práctica al fijar el umbral de pobreza en ese nivel, ya que a su alrededor está
+concentrada una parte significativa de la distribución de renta de la población
+mundial. Como consecuencia, la utilización de una u otra fuente estadística, o la
+ligera alteración del umbral de un dólar, puede cambiar en centenares de millones
+las personas por debajo o por encima del umbral de pobreza.
+Para tener un orden de magnitud del problema, demos ahora algunos
+datos y observemos la discrepancia entre ellos. Los últimos datos actualizados por
+el Banco Mundial en 2004, y a los que hace referencia Ravallion (2004), son los
+siguientes. La proporción de la población mundial que vive debajo del umbral de
+pobreza, definido por un dólar diario en paridad de poder de compra (PPC) de
+1993, ha pasado del 33 por 100 en 1981 (aproximadamente 1,5 billones de perso­
+nas) al 18 por 100 en 2001 (aproximadamente 1,1 billones de personas). De acuer­
+do con el trabajo de Sala-i-Martin (2002), esta proporción pasó del 13 al 7 por 100
+en 1998. Se observa que hay una diferencia sustancial (aproximadamente 0,6 billo­
+nes de personas) en las cifras absolutas, pero en cambio la tasa de pobreza en
+ambos trabajos se ha reducido a la mitad. A pesar de las diferencias metodológicas,
+puede afirmarse que bajo este criterio ha habido una sustancial reducción de la
+pobreza.
+Aunque los datos anteriores representan una buena noticia, cabe matizar­
+los de la siguiente manera. En primer lugar, los 400 millones de personas que aban­
+donaron el umbral de la pobreza de un dólar por día aún siguen siendo extrema­
+damente pobres en relación con los niveles de renta media de sus países. Además,
+si tenemos en cuenta que solamente en China también aproximadamente 400 millo­
+nes de personas abandonaron este umbral, se deduce que en el mundo subdesa­
+rrollado, excluyendo China, la ingente cifra de personas extremadamente pobres no
+ha cambiado significativamente. Lo anterior lleva a la conclusión de que la dimen­
+sión espacial de la pobreza ha variado drásticamente, pudiendo afirmarse que el
+número de pobres ha disminuido en Asia y aumentado en el resto de los continen­
+tes, especialmente en África, en donde se ha duplicado, de tal manera que en 1980
+uno de cada diez pobres del mundo vivía en África, y hoy vive uno de cada tres.
+258
+
+
+
+También el Banco Mundial estima que el número de personas que vive
+bajo el umbral de dos dólares se ha elevado de 2,4 a 2,7 billones de personas en
+las dos décadas consideradas. Como vemos, una simple traslación de la línea de
+pobreza a dos dólares diarios deja los satisfactorios resultados anteriores en entre­
+dicho. Parece claro que la situación no da motivos para la complacencia.
+Y no hay motivos para la complacencia, ya que, fijando de manera rígida
+el umbral de la pobreza en una cierta cantidad, coincidiríamos con la afirmación de
+Mr. Micawber, personaje de la novela David Copperfield, de Dickens, cuando dice:
+
+«.Ingresos de 20 chelines y gastos de 19 chelines y 6 peniques, conducen a la felici­
+dad. Ingresos de 20 chelines y gastos de 20 chelines y 6 peniques, conducen a la
+miseria». N o es posible justificar con rigor el tratamiento diferenciado que reciben
+las personas justamente debajo del nivel de pobreza respecto de las que están justa­
+mente por encima, sea su diferencia de 6 peniques o de 6 céntimos de cualquier
+otra moneda. Tampoco tiene sentido alguno tratar conjuntos de personas tan análo­
+gos de manera tan diferente, aun en el supuesto de que estuviéramos en condi­
+ciones de definir y medir el umbral de pobreza con precisión, situación, que como
+hemos visto, estamos lejos de conseguir. Es más, cualquier política de reducción de
+la pobreza que mida solamente el número de personas por debajo de ese umbral
+podría conducir a estrategias perversas, como sería la transferencia de cantidades
+marginales de recursos a los que están inmediatamente debajo del umbral a expen­
+sas de los que, estando también por debajo del umbral, están significativamente
+alejados de él.
+La gran cantidad de trabajo empírico realizado sobre las pautas de consu­
+mo y los niveles de renta de la población situada en el entorno de los umbrales de
+pobreza no ha puesto de manifiesto ningún tipo de discontinuidad en los datos
+— es decir, un punto en el cual los comportamientos cambien significativamente—
+que pueda ser tomado como referencia clara para caracterizar el nivel de pobreza.
+Técnicamente, este problema del simple recuento del número de personas
+debajo del umbral de pobreza, el problema de Micawber, puede resolverse tenien­
+do en cuenta el grado de pobreza. En efecto, la tasa de pobreza puede y debe
+completarse con información adicional sobre la distancia de las rentas individuales
+inferiores al umbral de pobreza, construyendo así la llamada «brecha de pobreza».
+En este nuevo indicador las personas próximas al umbral se ponderan menos que
+las alejadas de él, y en términos algebraicos se expresa como el producto de la ratio
+de pobreza por la fracción de la renta media de las personas debajo del u m bral La
+dificultad de explicar este tipo de indicadores y hacerlos legibles en el debate en
+los medios de comunicación actúa como un freno a su utilización fuera de los
+ámbitos académicos, y ello a pesar de sus ventajas teóricas.
+259
+
+
+
+Los datos manejados en el estudio del problema que nos ocupa tienen a
+menudo contradicciones derivadas de las distintas metodologías utilizadas en su
+elaboración. Por otra parte, existen también problemas estadísticos como conse­
+cuencia de la poca fiabilidad y escasez de las series utilizadas. Un problema no
+menor es el del cálculo de la paridad de poder de compra (PPC), utilizada para
+convertir una moneda en otra preservando el poder de compra. Mientras la cesta
+de bienes nacional se utiliza para ajustar la renta en distintos períodos de tiempo,
+la comparación entre países requiere una cesta internacional que trate de recoger
+un consumo representativo a escala internacional. La evolución de la cesta inter­
+nacional en los últimos años ha supuesto la incorporación de un conjunto de servi­
+cios en detrimento de bienes básicos, como los alimentos, lo que responde al
+hecho de que el patrón de consumo de la cesta internacional se aleja del de los
+países subdesarrollados, y en particular, dentro de éstos, del correspondiente al
+conjunto de la población debajo del umbral de pobreza. Dicho en otros términos,
+los tipos de cambio en PPC no han sido elaborados con el propósito de medir los
+niveles de pobreza y, por consiguiente, no existe garantía alguna de que se convier­
+tan adecuadamente los niveles de pobreza de un país a otro. De hecho, la simple
+revisión o actualización de estos tipos de cambio produce drásticas fluctuaciones
+en las tasas de pobreza de la gran mayoría de los países. Con frecuencia se ha dado
+la situación de atribuir mejoras sustanciales de las tasas de pobreza a determinadas
+acciones políticas o económicas, cuando en realidad la razón última era simple­
+mente la actualización de la paridad de poder de compra.
+En todo caso, los datos aquí resumidos validan la afirmación de que, en
+términos de países, la desigualdad ha aumentado, pero en términos de población
+global ha disminuido. Sin embargo, esta disminución se debe a la evolución de
+Asia, y especialmente al gran peso de China derivado de su fuerte crecimiento y de
+su población, próxima a los 1.300 millones de habitantes.
+
+CONSIDERACIONES SOBRE LAS POLITICAS
+DE CRECIMIENTO ECONÓMICO
+¿Por qué algunos países son ricos y muchos otros son pobres? Los econo­
+mistas se han planteado esta pregunta con reiteración y desde muy diferentes pers­
+pectivas. Adam Smith ya la formuló con precisión, y después de más de doscien­
+tos años no ha tenido una contestación satisfactoria.
+Aunque algunas contribuciones en la línea de los trabajos de Romer (1990)
+y Lucas (1988) son importantes, hoy parece claro que no son capaces por sí solas
+260
+
+
+
+de explicar los verdaderos fundamentos del proceso de crecimiento económico.
+Con frecuencia se recurre a explicaciones del tipo: la inversión en I+D no es sufi­
+ciente, el capital humano es escaso y se requiere más inversión en infraestructuras.
+Son explicaciones vacías, ya que, como North y Thomas (1973, pág. 2) ponen de
+manifiesto, «los factores que con frecuencia se mencionan ( innovación, economías
+
+de escala, educación, acumulación) no son las causas del crecimiento, ellos son el
+crecimiento». En efecto, desde el punto de vista de estos autores, tales factores son
+las causas inmediatas del crecimiento, pero la explicación fundamental de éste resi­
+de en la calidad de las instituciones.
+Las instituciones son importantes para el crecimiento económico porque
+condicionan los incentivos de los distintos agentes económicos y sociales, en parti­
+cular influyen decisivamente en las inversiones de capital físico, humano y tecno­
+lógico, así como en la organización de la producción. Los factores económicos y
+culturales juegan también un relevante papel. Las instituciones económicas son
+endógenas, y vienen determinadas a través de un proceso de elección colectiva. Es
+decir, las instituciones y su calidad son tanto el resultado como la causa de la pros­
+peridad económica. N o existe garantía alguna de que todos los individuos y grupos
+prefieran las mismas instituciones, ya que la diferencia entre ellas conduce a distin­
+tas distribuciones de recursos.
+Caracteriza North (1990) las instituciones por tres de sus dimensiones. En
+primer lugar, la dimensión formal, es decir, el conjunto de normas legales, organi­
+zaciones políticas, económicas y sociales creadas tanto por el gobierno como por
+la iniciativa privada. En segundo lugar, la dimensión informal, representada por los
+sistemas de valores y convenciones sociales que rigen y condicionan el comporta­
+miento de los ciudadanos. En tercer lugar, los mecanismos que garantizan el
+cumplimiento de las normas y contratos.
+En este año cervantino, puede dar la impresión de que este planteamien­
+to de North lo hemos visto reflejado antes en la carta que Don Quijote envió a
+Sancho cuando éste actuaba como gobernador en la imaginada ínsula de Barataría.
+Decía Don Quijote: -No hagas muchas pragmáticas, y si las hicieres, procura que
+
+sean buenas, y sobre todo que se guarden y cumplan, que las pragmáticas que no
+se guardan, lo mismo es que si no lo fuesen; antes dan a entender que el Príncipe
+que tuvo discreción y autoridad para hacerlas, no tuvo valor para hacer que se
+guardasen: y las leyes que atemorizan y no se ejecutan, vienen a ser como la viga,
+Rey de las ranas, que al principio las espantó, y con el tiempo la menospreciaron, y
+se subieron sobre ella-.
+
+261
+
+
+
+Las instituciones, según North, constituyen las reglas de juego de una
+sociedad, es decir, el conjunto de restricciones desarrolladas a lo largo del tiempo
+que conforman la interacción humana. La complejidad de las sociedades actuales
+requiere una mayor formalización de las restricciones que complementan e incre­
+mentan la eficacia de las restricciones informales, que, aun siendo de difícil espe­
+cificación, tienen una gran importancia. Aunque las reglas formales pueden cambiar
+en un corto plazo de tiempo como resultado de decisiones políticas o económicas,
+tanto las informales como los mecanismos de cumplimiento de unas y otras lo
+hacen en períodos de tiempo mayores. Como consecuencia, en la práctica existe,
+frecuentemente, una visible divergencia entre la norma y la realidad, entre los resul­
+tados y las intenciones.
+Quizás un ejemplo adecuado para ilustrar lo anterior es la incorporación
+de las tecnologías de la información y la comunicación en la sociedad española y
+en sus procesos productivos. Es éste un fenómeno que se presentó con intensidad
+solamente a mediados de la década anterior, por consiguiente no cabe hablar estric­
+tamente en esta materia de retrasos históricos. Sin embargo, a los pocos años de su
+introducción, como reconoce la Comisión Europea en los informes de los últimos
+años sobre competitividad, España ha acumulado, en tan corto espacio de tiempo,
+un considerable retraso en el uso de este tipo de tecnologías. Formalmente es difí­
+cil encontrar las causas de tal situación; la legislación comunitaria es, obviamente,
+común a todos los países, las normas nacionales son similares y, por ejemplo, se
+da la paradoja de tener la más favorable legislación fiscal por inversiones en I+D
+de los países de la Unión Europea. Se creó en su día un Ministerio de Ciencia y
+Tecnología, reiteradas veces nos hemos fijado el objetivo de alcanzar la media euro­
+pea en el porcentaje del PIB dedicado a I+D, y se han definido varios planes, como
+el Info XXI, que pretendían impulsar la utilización de estas tecnologías. También se
+han privatizado y, teóricamente, liberalizado los antiguos monopolios relacionados
+con ellas, se han establecido los órganos de regulación y defensa de la competen­
+cia y, en fin, se han incorporado a la población activa las cohortes de ciudadanos
+mejor formadas de nuestra historia, y todo ello ha tenido lugar en un período de
+fuerte crecimiento económico. Y pese a este conjunto, aparentemente exhaustivo,
+de condiciones formales, nos hemos distanciado negativamente de los países de la
+Unión Europea.
+Dos de los trabajos pioneros en la contrastación empírica de la importan­
+cia de las instituciones en el crecimiento económico son los de Hall y Jones (1999)
+y Acemoglu, Jonhson y Robinson (2001). La dificultad en los análisis empíricos de
+esta naturaleza es que la calidad de las instituciones es una variable endógena. El
+problema econométrico que se presenta cuando se pretende estimar el efecto de
+262
+
+
+
+una variable x sobre otra variable y, en la situación en la que la variable x no es
+exógena, sino endógena, es que el efecto así estimado está sesgado. Este proble­
+ma del sesgo en la estimación se evita utilizando técnicas alternativas mediante la
+definición previa de variables instrumentales. Una variable instrumental de x es una
+variable exógena z que está correlacionada con x, y no lo está con los residuos de
+la relación entre x e y. La dificultad en este tipo de análisis es encontrar las varia­
+bles instrumentales adecuadas para la calidad de las instituciones.
+Varias son las propuestas que se han hecho en la literatura para encontrar
+las variables instrumentales adecuadas. El análisis del proceso de colonización por
+los europeos es una de ellas. En América del Norte, Australia y Nueva Zelanda los
+europeos se establecieron de forma permanente y crearon instituciones que prote­
+gían la propiedad privada y limitaban el poder de los gobiernos. Por el contrario,
+en África y América Latina los europeos no se establecieron de una manera tan
+determinante y se concentraron en otro tipo de actividades más relacionadas con
+los recursos naturales. A su vez, estas distintas estrategias estuvieron condicionadas
+por la situación geográfica, que definía en mayor o menor medida la situación sani­
+taria de los colonizadores en contraste con la de los nativos, que eran inmunes a
+determinadas enfermedades. Como quiera que pocas variables distintas de la
+geografía pueden ser tan claramente exógenas en términos económicos, no es de
+extrañar que muchas de las variables instrumentales utilizadas tengan este origen.
+Ahora bien, no es ésta la única vía posible a seguir, ya que, de lo contrario, sería
+difícilmente explicable la situación tan distinta de países nunca colonizados por
+europeos, como los que en un extremo puede representar Japón y en el otro Etio­
+pía y Afganistán.
+Otra dificultad adicional es definir y poder obtener indicadores adecuados
+de la calidad de las instituciones. Indicadores frecuentemente utilizados son: el ries­
+go de expropiación, la eficacia del gobierno medida por ciertas características de la
+Administración, incluida su independencia, y las restricciones impuestas al ejecuti­
+vo. Como hemos observado, la idea de restricción es central a la definición de insti­
+tuciones dada por North. Se requieren también indicadores adicionales de los nive­
+les de democracia para distinguir las situaciones en las que, por ejemplo, se decide
+respetar los derechos de propiedad por un dictador del respeto de tales derechos
+en un régimen democrático en el que, por su propia naturaleza, no cabe decidir
+tal cosa, ya que se está obligado a ella. Como señalan Glaeser et al. (2004), la
+evidencia empírica resultante puede dividirse en dos grupos. El primero de ellos
+pone mayor énfasis en el efecto causal de las instituciones sobre el crecimiento,
+proponiendo, por tanto, empezar con instituciones adecuadas, y con razonables
+derechos políticos y civiles. El segundo, por el contrario, pone mayor énfasis en la
+263
+
+
+
+dotación inicial de capital físico y humano como punto de arranque a una poste­
+rior consolidación de la infraestructura institucional. Lo que, en otros términos,
+equivale a decir que no hacen falta grandes reformas para iniciar el proceso de
+crecimiento, pero sí son necesarias estas reformas para su posterior consolidación.
+Y ésta es una buena noticia, ya que, si así no fuera, tendríamos que ser muy pesi­
+mistas, puesto que el establecimiento y desarrollo de instituciones comparables a
+las de los países desarrollados sólo se puede conseguir en horizontes de tiempo
+muy dilatados.
+Tal y como señala Rodrik (2004), la paradoja más llamativa en la econo­
+mía del desarrollo y de la pobreza es la tremenda divergencia que hay entre el
+consenso mayoritario que existe entre los economistas sobre las decisiones a tomar
+para luchar contra el subdesarrollo y los resultados obtenidos aplicando tales rece­
+tas. Los países que en mayor medida se han guiado por tales recetas no son los que
+más éxito han tenido. Por el contrario, países del Asia oriental, China sobre todos
+ellos, a los que se les debe, tal y como hemos señalado, el favorable cambio habi­
+do a escala mundial en la tasa de pobreza, se han caracterizado por comporta­
+mientos que, en términos del consenso citado, tendríamos necesariamente que
+catalogar como heterodoxos. El consenso aludido es el conocido como Consenso
+de Washington (C W ) — Williamson (1990)— , recogido en el siguiente decálogo:
+1. Disciplina fiscal y equilibrio presupuestario. 2. Eliminación de subsidios y prio­
+ridad a educación, sanidad e infraestructuras. 3- Reforma tributaria, manteniendo
+tipos bajos. 4. Tipos de interés de mercado. 5. Tipos de cambio competitivos.
+6. Liberalización comercial, especialmente de las importaciones. 7. Liberalización de
+la inversión extranjera. 8. Privatización. 9. Desregulación, 10. Seguridad jurídica,
+especialmente en lo que hace referencia a los derechos de propiedad.
+A todos nosotros nos son familiares estas recetas, que, como vemos,
+ponen el mayor énfasis en la estabilidad macroeconómica como remedio al subde­
+sarrollo. Solamente en la última de las recomendaciones se introducen, como seña­
+la Sebastián (2004), de manera tímida los factores institucionales como la causa del
+subdesarrollo de los países. Existen múltiples caminos que conducen a derechos de
+propiedad mal definidos en los países subdesarrollados, y así es, con independen­
+cia de que en su ordenamiento jurídico se consagre su defensa. El CW estaba desti­
+nado a alcanzar los siguientes objetivos: 1. Crecimiento económico. 2. Inflación
+moderada. 3. Balanza de pagos sostenible. 4. Mejor distribución de la renta.
+La evidencia empírica, como recuerda Rodrik (2004), ha puesto de mani­
+fiesto el fracaso del CW. Es más, los países que en mayor medida lo han seguido,
+como son los de América Latina (véase Lora, 2001) son los que se han estancado
+264
+
+
+
+en su crecimiento económico; de hecho, en ellos la tasa de pobreza se ha mante­
+nido constante, mientras que el número de personas debajo del umbral de pobre­
+za ha aumentado durante las dos últimas décadas del siglo pasado. Recuérdese que
+el CW pretendió sustituir a las políticas de la década anterior, la llamada década
+perdida en terminología de la Comisión Económica para América Latina (CEPAL),
+que se habían caracterizado por muy bajos crecimientos, situaciones de hiperinflación y una industria improductiva que vivía de fuertes subsidios, todo ello envuel­
+to en políticas populistas ancladas en un estatismo tremendamente proteccionista.
+Se pensaba entonces que la receta de estabilizar, liberalizar y privatizar daría los
+resultados perseguidos. Y no ha sido así. Las explicaciones del fracaso, desde el
+punto de vista del seguimiento estricto del CW, son varias, y en mi opinión ningu­
+na plenamente satisfactoria. Veamos algunas de ellas. No se ha profundizado sufi­
+cientemente en las reformas, queda mucho por hacer y lo hecho hasta ahora no es
+suficiente. Los beneficios de las reformas están por llegar, hay que seguir insistien­
+do; en terminología anglosajona: «el dinero está en el correo». En fin, que la falta
+de éxito se debe a razones exógenas; por ejemplo, al bajo crecimiento del sector
+industrial en el conjunto de la economía.
+Sin embargo, ninguna de estas razones se lleva bien con la evidencia
+empírica de otros países que sí han aportado mucho a la disminución de la pobre­
+za en las últimas décadas, y que en términos del CW han aplicado políticas hete­
+rodoxas. Por ejemplo, el éxito económico de Corea del Sur y Taiwan se caracteri­
+zó por una política industrial muy activa utilizando fuertes subsidios estatales a
+industrias incipientes, que estuvieron fuertemente protegidas de las importaciones.
+Pero probablemente el ejemplo más significativo, cúalitativa y cuantitativamente,
+sea el de China. Todas las economías prósperas de hoy se han construido sobre la
+base de la propiedad privada. El establecimiento de una estructura estable y segu­
+ra de derechos de propiedad fue un elemento clave del desarrollo de Occidente y
+el inicio del crecimiento económico moderno. N o habrá incentivo para acumular e
+innovar si no existe capacidad para controlar el resultado de la actividad producti­
+va e innovadora. Tenemos, pues, dos palabras claves: propiedad y control. Los
+derechos de propiedad formales no son de utilidad si, a la vez, no confieren el
+derecho de control. Por ejemplo, en la economía rusa actual se da la situación de
+derechos de propiedad formalmente constituidos a favor de los accionistas, quie­
+nes, por otra parte, carecen de un control efectivo sobre sus empresas. Por el
+contrario, las empresas municipales y rurales de China, las famosas Township and
+Village Enterprises (TVE), son un ejemplo en el que los derechos a controlar el
+resultado de la actividad han supuesto un incentivo fundamental al crecimiento y,
+en este caso, a la disminución de la pobreza en China. Este tipo de organización
+empresarial y/o gubernamental no es, desde luego, una empresa, tal y como se
+265
+
+
+
+entiende en la ortodoxia occidental, pero tiene algunas características que generan
+incentivos suficientes para que la actividad sea productiva. En ellas existe un coste
+relativamente bajo en la aplicación de los acuerdos, y la dictadura comunista de
+Beijing, después del desastre de las decenas de millones de personas muertas en el
+gran salto hacia delante, se ha retirado gradualmente permitiendo el florecimiento
+de este tipo de actividad. Todo esto dentro de un marco en el que los derechos de
+propiedad privada están prácticamente ausentes y que, pese a ello, ha sido capaz
+de generar confianza suficiente para atraer ingentes inversiones del exterior. Estas
+innovaciones institucionales y empresariales están en el corazón de las cifras de
+crecimiento de la economía china durante las últimas décadas, próximas al 9 por
+100. La integración de China a los mercados internacionales tampoco se ha hecho,
+desde luego, de acuerdo con el CW, ya que ha seguido pautas tremendamente
+proteccionistas superpuestas a la creación de zonas económicas especiales, que han
+estado al margen de las reglas del comercio internacional. Por mucho que nos
+extrañe, el asombroso éxito de China, desde 1978, se debe a una estrategia funda­
+da en dobles estándares, gradualismo y experimentación. Reformas gradualistas
+que han seguido todos los países del Este asiático, posiblemente con la única
+excepción de Hong Kong.
+Los análisis que solamente resaltan los aspectos de estas reformas más
+acordes con la ortodoxia occidental, es decir, la creación de mercados y la apertu­
+ra al exterior que realmente ha tenido lugar, no debieran ignorar las componentes
+de heterodoxia que las caracterizan. Un economista occidental que aterrizara en
+China en 1978 con el mensaje de estabilidad, flexibilidad y privatización, tal y como
+reza el credo de Occidente, difícilmente recomendaría el tipo de reformas que han
+sido llevadas a cabo, y posiblemente la radicalidad de sus recetas se hubiera estre­
+llado contra las instituciones preexistentes y, lo que es más importante, la drástica
+reducción de los niveles de pobreza no habría tenido lugar.
+N o debe malinterpretarse esta situación. Seguramente la estrategia segui­
+da en China entraña multitud de problemas que se pondrán de manifiesto en un
+futuro más o menos próximo, pero de lo que se trata aquí es de resaltar que en
+muchos casos los planteamientos formales no son lo relevante, sino que lo rele­
+vante es conseguir una estructura de incentivos y un nivel adecuado de confianza
+en el que desarrollar la actividad. Por ejemplo, en Rusia están formalmente prote­
+gidos los derechos de propiedad privados por un sistema judicial también formal­
+mente independiente. En China, hasta muy recientemente, y de forma tímida, no
+han existido tales derechos, y el sistema judicial no es, obviamente, independien­
+te. Pues bien, en los últimos veinte años los inversores internacionales se sintieron
+más protegidos en China que en Rusia. Por consiguiente, la simple contrastación
+
+266
+
+
+
+empírica de que los derechos de propiedad son claves, no ofrece ayuda alguna
+sobre la manera en la que pueden establecerse de forma efectiva. Otro ejemplo de
+una situación análoga es el de América Latina, en donde se han confundido los
+instrumentos con los objetivos al aplicar el CW. Dicho de otro modo, se ha consi­
+derado más importantes el equilibrio presupuestario o el proceso de privatización,
+en sí mismos, que los resultados a los que han dado lugar en materia de creci­
+miento económico o atenuación de la pobreza.
+Constatado el fracaso del CW, a finales de los noventa empezaron a surgir
+formulaciones adicionales, que podrían resumirse en el CW ampliado (Williamson
+y Kuczynski, 2003). Esta ampliación pone mayor énfasis en las reformas institucio­
+nales y en el buen gobierno. Las reformas que propone se conocen como reformas
+de segunda generación. Me ahorro aquí la enumeración detallada del nuevo decá­
+logo que se incorpora al anterior. Sí quiero señalar que, en gran parte, adolece del
+mismo error que el planteamiento original: considerar que el establecimiento
+formal de las instituciones es el objetivo final de los problemas de desarrollo. Es
+obvio el consenso sobre la caracterización de los países pobres. Estos países son
+aquellos que tienen unas bajas dotaciones de capital físico, tecnológico y humano;
+el capital que tienen lo utilizan muy ineficientemente; carecen de instituciones o las
+tienen de ínfima calidad; arbitran políticas fiscales y monetarias equivocadas y errá­
+ticas; carecen de incentivos para fomentar inversiones y adoptar tecnología, y, en
+fin, suelen estar aislados de los mercados internacionales. Afirmar solemnemente
+que para que estos países salgan de la pobreza tienen que cambiar este panorama
+es de muy poca ayuda y, además, es una consideración tautológica. Obviamente,
+si Bolivia no tuviera estos problemas, sería Suecia, y no tendría necesidad de cono­
+cer la respuesta a la pregunta relevante: ¿cómo puede un determinado país salir de
+la pobreza?
+El inconveniente de estos listados interminables de recomendaciones es
+que siempre será posible atribuir el fracaso de un determinado país al incumpli­
+miento total o parcial de alguna de ellas. Y lo cierto es que esta situación tiene justi­
+ficación teórica. En efecto, si una economía tiene n problemas, solucionar n-k no
+garantiza una situación económica mejor. Si se quiere que una reforma parcial
+proporcione resultados satisfactorios, se deben analizar cuidadosamente las áreas y
+materias a reformar para que no interfieran negativamente con las no reformadas.
+La dificultad estriba en que el análisis ex ante de este tipo de interferencias suele
+ser complicado.
+El problema básico es que no existe una correspondencia biunívoca entre
+tales recomendaciones y los objetivos que se proponen. Los objetivos se pueden
+267
+
+
+
+alcanzar con otros instrumentos, y la utilización de los instrumentos propuestos
+puede alcanzar objetivos distintos a los planteados. La dificultad estriba en que
+estos principios universales de buen gobierno no son operativos por el solo hecho
+de enunciarlos, y de ellos no se derivan estructuras institucionales claramente, y
+unívocamente, definidas. Alguna evidencia, ya señalada, existe al respecto en
+China, Rusia y América Latina. La razón más importante del éxito de las estrategias
+gradualistas es que se adaptan mejor al comportamiento informal de las institucio­
+nes preexistentes.
+Entiéndase bien, no estoy diciendo, ni siquiera sugiriendo, que los princi­
+pios económicos básicos operan de manera diferente en distintos lugares. Lo que
+sucede es que, como mucho, lo que la teoría y la práctica empírica dicen es que si
+se cumplen ciertas condiciones a, b y c, la política x conduce, con un determina­
+do nivel de probabilidad, al resultado y. Con frecuencia nos olvidamos de verificar
+el cumplimento previo de las condiciones, que en los países subdesarrollados se
+suelen cumplir con una probabilidad muy baja, lo que se traduce en la puesta en
+práctica de estas políticas independientemente del país y momento del que se trate.
+Como recuerda North (1994), la teoría económica ha prestado muy poca atención
+a dos variables cruciales en este tipo de análisis: las instituciones y el tiempo.
+Una estrategia adecuada debe tener como objetivo identificar, en primer
+lugar, cuáles son las restricciones más activas en el proceso de crecimiento. En
+segundo término, poner en práctica las políticas que conduzcan a su debilitamien­
+to, teniendo presentes los efectos no deseables a los que pudiera dar lugar. Final­
+mente, se debe tratar de consolidar e institucionalizar los resultados alcanzados. Por
+ejemplo, una pobre regulación del sistema financiero puede no ser una restricción
+activa cuando los procesos de intermediación son rudimentarios, pero puede gene­
+rar una situación explosiva a partir de ciertos niveles de desarrollo.
+No es un procedimiento acertado abordar el problema del desarrollo de
+los países con la pretensión de aplicar rutinariamente principios, valores y normas
+que, por otra parte, no están generalmente aceptadas en los países sólidamente
+establecidos en entornos democráticos y plenamente desarrollados. Seré algo más
+explícito con un par de ejemplos, con los que terminaré mi intervención.
+En un reciente libro de Alesina y Glaeser (2004) se abordan las grandes
+diferencias que existen en la Europa continental y en Estados Unidos en los proce­
+dimientos para abordar la lucha contra la pobreza y en los criterios utilizados por
+los gobiernos para su distribución. Veamos algunas cifras. El gasto público en Esta­
+dos Unidos es el 30 por 100 del PIB, en Europa es el 45 por 100. La proporción de
+268
+
+
+
+este gasto dedicado a actividades sociales es también menor, en Estados Unidos el
+16 por 100, es decir la mitad, mientras que en Europa es el 26 por 100, casi los dos
+tercios. Esta diferencia se sustenta en opiniones y valores distintos. Así, mientras
+que el 60 por 100 de los europeos pensamos que la pobreza es una situación de
+la que los ciudadanos no se pueden evadir con facilidad, solamente el 29 por 100
+de los americanos opinan lo mismo. Mientras que el 54 por 100 de los europeos
+creemos que el nivel de renta está condicionado por la buena o mala suerte, sola­
+mente un 30 por 100 de los americanos piensan de esta manera. Un escaso 26 por
+100 de los europeos afirman que los pobres son unos holgazanes, frente al 60 por
+100 de los americanos que afirman lo mismo. Opiniones de esta naturaleza no se
+extraen de una clara evidencia empírica, más bien forman parte del conjunto de
+valores o principios que caracterizan a una y otra sociedad, forman lo que North
+llama instituciones informales. Y estas instituciones generan comportamientos muy
+diferenciados frente a problemas y situaciones diversos, y que desde luego van más
+allá de desacuerdos específicos sobre problemas concretos.
+También en materia de política económica existen sus diferencias — eso sí,
+distorsionadas, como nos recordaba hace un par de semanas el The Economist
+(2005), por una serie de estereotipos— en el debate que tiene lugar en los países
+de la Unión Europea y Estados Unidos. Aquellas afirmaciones que pasan como
+verdades que dicen recoger el estado de la cuestión requieren alguna puntualización. Entre nosotros esta situación ha sido especialmente llamativa en los últimos
+años de desmesurado halago al modelo de crecimiento de la economía española
+frente, se decía, y se sigue diciendo, a los males de la economía europea encabe­
+zados por Alemania. Hoy sabemos que, entre otros, la economía española tiene un
+grave problema de productividad y de sector exterior, que por cierto se generaron
+y los tenía ya hace varios años, pero entonces no se resaltaban. Pues bien, hoy
+también sabemos, por ejemplo, que los costes laborales alemanes han disminuido,
+desde la integración monetaria, un 10 por 100 respecto a la media de la Unión
+Europea y un 18 por 100 respecto a los españoles siendo el 6 y el 7 por 100, respec­
+tivamente, de estas variaciones consecuencia de un mejor comportamiento de la
+productividad. También, a diferencia de la economía española, ha reducido sustan­
+cialmente el endeudamiento de familias y empresas; hoy las familias alemanas
+ahorran el 11 por 100 de su renta bruta disponible, mientras que en España y en
+Estados Unidos esta cifra ronda el 0 por 100. Desde 1995 la productividad alema­
+na ha crecido al mismo ritmo que la americana, y en los últimos cinco años las
+exportaciones alemanas han crecido tres veces más rápido que las americanas,
+haciendo que Alemania sea el principal país exportador del mundo. Es el único
+entre los siete países más ricos del mundo, los G7, que ha incrementado su parti­
+cipación en las exportaciones mundiales, y ello a pesar de la muy creciente compe­
+269
+
+
+
+tencia de China y de la revaluación del euro respecto al dólar. Pero aún hay más.
+El mercado alemán de acciones durante los dos últimos años se ha comportado
+mejor que Wall Street, con un PER medio que sugiere que comprar empresas
+alemanas es mejor que comprar empresas americanas. Estados Unidos tiene un
+déficit de la balanza de pagos por cuenta corriente del 6 por 100 del PIB, España
+una cifra similar, mientras que Alemania tiene un superávit del 3 por 100. Cierto
+es que el menor ahorro y el mayor endeudamiento de las economías americana y
+española, en nuestro caso especialmente durante la última década, han impulsado
+el consumo interno, que ha sido la fuente principal de nuestro crecimiento. Pero,
+¿hasta cuándo podremos seguir así? En efecto, tal y como afirma The Economist
+(2005), referencia, por cierto, nada sospechosa sobre el modelo económico y
+social anglosajón, si un marciano llegara a la Tierra con el libro de la ortodoxia
+económica en la mano, afirmaría que las economías que hoy necesitan profundas
+reformas son, por ejemplo, la americana y, desde luego, la española, pero no la
+alemana.
+Seguro que la economía alemana tiene muchas reformas pendientes, la
+menor no es la de su sector público, estado asistencial y cuentas públicas inclui­
+das, pero hay que entender la dificultad de llevarlas a cabo, sobre todo cuando este
+tipo de políticas ha contribuido a la elevada calidad de vida que la sociedad alema­
+na ha disfrutado durante los últimos cincuenta años. Y nosotros, desde España,
+también deberíamos entenderlo, porque ellos han sido los contribuyentes netos
+más destacados a nuestro bienestar de hoy.
+Cuando se escucha el reiterativo discurso, recomendado también a los
+países subdesarrollados, de la no suficiente aplicación de los principios de estabi­
+lización fiscal, flexibilización y privatización dirigido a Europa, tiene uno la impre­
+sión de que se le hecha en cara no hacer aquello que precisamente no quiere hacer,
+que es incorporar un conjunto de instituciones informales, es decir un conjunto de
+valores y principios, que la desvirtuarían. Posiblemente es bueno que así sea, ya
+que para despejar muchas de las incertidumbres políticas, económicas y sociales
+que hoy están presentes en los países subdesarrollados, la experiencia europea es
+a priori tan relevante como la de Estados Unidos, por muy atractiva que esta últi­
+ma nos parezca a muchos, en varias de las facetas que la definen. Debemos saber
+combinar en las políticas de desarrollo aspectos de uno y de otro modelo, depen­
+diendo de las circunstancias particulares de cada país. Dice un conocido bolero:
+«cómo se pueden querer dos mujeres a la vez, y no estar loco», y sigue la letra: «esto
+merece una explicación». Espero haberla dado, al menos en parte.
+
+270
+
+
+
+REFERENCIAS
+A cemoglu , D., S. Jonhson y J. A. Robinson (2001), «The colonial origins o f comparative deve-
+
+lopment: An empirical investigation», American Economic Review, vol. 91, no. 5,
+págs. 1369-1401.
+A lesina, A. y E. L. G laeser (2004), Fighting Poverty in the US and Europe: A World o f Diffe-
+
+rence, Oxford, Oxford University Press.
+B halla, S. (2002), Imagine Tbere’s no Country: Poverty, Inequality, and Growth in the Era o f
+
+Globalization, Washington DC, Institute for International Economics.
+Chen , S. y M. R avallion (2001), «How w ell did the w orld’s poorest fare in the 1990s?-, Review
+
+o f Economic and Wealth, vol. 47, no. 3, págs. 283-300.
+D eaton , A. (2004), Measuring poverty. Research Program in Development Studies, Pnnceton
+
+University, http://www.wws.princeton.edu.
+D urlauf, S. N. y D. T. Q ua (1999), «The new empirics o f economic growth-, en J. B. Taylor
+
+y M. W oodford (eds.), Handbook o f Macroeconomics, vol. 1A. Amsterdam. Elsevier.
+
+Economist, The (2005), «Germany’s economy. A contrarían view o f the german economy» 17
+de febrero.
+F isher , S. (2003), «Globalization and its challenges»,
+
+American Economic Review Papers and
+
+Proceedings, vol. 93, no. 2, págs. 1-32.
+de Silanes y A. Shleifer (2004), D o Institutions Cause
+Growth?, Nacional Bureau o f Economic Research, http:www.nbr.org/papers/
+
+G laeser, E. L., R. La P orta , F. López
+w
+
+10568.
+
+H all, R. E. y C. I. Jones (1999), «Why do some countries produce so much more output per
+worker than others?», Quarterly Journal o f Economics, vol. 114, págs. 83-116.
+Lora , E. (2001), «Structural reforms in Latín America: What has been reformed and how to
+
+measure it», Washington D. C., Inter-American Development Bank, working paper
+466, http://www.iadb.org/res/index.cfm?fuseaction=Publications.View&pub_id=
+W P-466.
+Lucas , R. E. (1988), «On the mechanics o f economic development-, Journal o f Monetary
+
+Economics, vol. 22, págs. 3-42.
+M addison , A. (2001), The World Economy, París, OECD.
+N orth , D. C. (1990), Institution, Institutional Change, and Economic Performance, N ew
+
+York, Cambridge University Press.
+—
+
+(1994), «Economic performance through time», The American Economic Review,
+vol. 84, no. 3, págs. 359-368.
+
+271
+
+
+
+N orth , D. C. y R. P. T homas (1973), The Rise ofthe Western World: A New Economic History,
+
+Cambridge, Cambridge University Press.
+Ravaillon, M. (2004), «Pessimistic on poverty?», The Economist, abril 2004.
+Rodrik , D. (2004), Rethinking Growth Policies in the Developing World, Harvard University,
+
+http://ksghome.harvard.edu/~drodrik/growthstratlO.pdf
+Romer, P. M. (1990), «Endogenous technical change», Journal o f Political Economy, vol. 98,
+
+págs. 71-102.
+Sala - i-M artin, X. (2002), «The world distribution o f income», National Burean o f Economic
+
+Research, working paper 8933, http://papers.nher.org/papers/w8933.
+Sebastián , C. (2004), «Política macroeconómica, instituciones y desarrollo», en J. P érez,
+
+C. Sebastián y P. T edde (ed.), Estudios en homenaje a Luis Ángel Rojo, vol. I,
+págs. 545-579, Madrid, Editorial Complutense.
+Sen , A. (2001), Development as Freedom, Oxford, Oxford University Press.
+W illiamson, J. (1990), «What Washington means by policy reform», cap. 2 en J. W illiamson
+
+(ed.), Latín American Adjustment: How much has happened?, nueva edición 2002,
+Washington D. C., Institute for International Economics.
+W illiamson, J. y P. P. Kuczynski (2003), After the Washington Consensus: Restarting Growth
+
+and Reform in Latín America, Washington D. C., Institute for International Econo­
+mics.
+
+272
+
+

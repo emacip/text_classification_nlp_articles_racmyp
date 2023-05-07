@@ -1,0 +1,805 @@
+JOSE CASTAÑEDA CHORNET
+
+EL CENTENARIO DEL MARGINALISMO
+
+Anales de la Real Academia de Ciencias Morales y Políticas, núm. 50, 1974
+
+
+
+
+
+El Centenario del Marginalismo
+por el Académico de número
+Excmo. Sr. D. J osé C astañeda Chornet (*)
+
+Hace más de medio siglo, en un aula del claustro de la Universidad
+valentina, presidido por la estatua del filósofo de la claridad medite­
+rránea, Juan Luis Vives, explicaba las asignaturas de Economía Política
+y Hacienda Pública don José María de Zumalacárregui, nuestro primer
+maestro de Economía, a quien tenemos el honor de suceder en la me­
+dalla de la Academia y a cuya memoria dedicamos modestamente estas
+palabras.
+Con su verbo flúido y preciso don José María, recordando las ense­
+ñanzas que algunos años antes había recibido directamente de Vilfredo
+Pareto, señalaba uno de los más importantes acontecimientos de la His­
+toria de las doctrinas económicas, la simultánea formulación, alrededor
+del año 1870, de los principios fundamentales del marginalismo, asen­
+tados sobre la base de las leyes de la igualdad de las utilidades y de las
+productividades marginales ponderadas, llevada a cabo independiente­
+mente por Menger en Viena, Jevons en Manchester y Walras en Lausana.
+Para conocer la significación de estas leyes, recordemos que, según
+Adam Smith, no existe relación entre el valor de uso o utilidad de un
+bien y su valor de cambio para obtener otro bien. Por consiguiente, el
+valor de uso, es decir, la utilidad de un bien no sirve para explicar los
+precios relativos, esto es, las relaciones de cambio de los bienes. Por
+ello se buscó por otro camino la respuesta a la cuestión acerca de qué
+
+(*)
+
+Disertación en junta del 9 de mayo de 1972.
+
+
+
+156
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+és lo que determina las relaciones recíprocas de cambio de los bienes.
+El resultado, según es conocido, fue que en la libre competencia y tra­
+tándose de artículos reproducibles a voluntad, son los costes de pro­
+ducción los que determinan los precios relativos. En el caso de bienes
+no reproducibles y dadas unas existencias, el precio vendría determinado
+por la demanda.
+Los costes de producción son así considerados como algo dado, ob­
+jetivo, independiente de las relaciones relativas de intercambio. Pero los
+costes de los artículos no son otra cosa que las sumas de los precios de los
+factores empleados en su producción. Y tales precios de los factores,
+como observa Wicksell, no son dados de antemano; su determinación
+constituye un problema de la misma naturaleza que el de la formación
+de los precios de las mercancías; problema aquél que no puede resolverse
+con independencia de este último. Los costes de producción de los bie­
+nes, continúa Wicksell, y sus valores de cambio o precios relativos, no
+guardan, como suponía Ricardo, una simple relación de causa a efecto,
+sino que se condicionan recíprocamente como diferentes miembros de
+un mismo sistema económico. El gran mérito de Menger, Jevons y Walras consiste en poner de relieve que es imposible admitir que los costes
+de producción constituyen la explicación teórica de los valores de cam­
+bio de las mercancías (1).
+*
+
+*
+
+*
+
+Karl Menger nació en 1840. En 1871 publicó los “Grudsatze der
+Volkswirtschaftlehre” , obra escrita como Memoria para el concurso de
+acceso a la cátedra que, desde 1873, ocupó en Viena hasta 1903. La
+cátedra tenía a su cargo la asignatura de Economía Política en la Fa­
+cultad de Derecho, y aunque, según Schumpeter, los futuros abogados
+y funcionarios no podían inclinarse mucho por esos estudios, Menger
+acabó por imponerse y encontró discípulos personales de la mejor cali­
+ficación con los que constituyó escuela, que ejerció notoria influencia
+internacional hasta después del fallecimiento del maestro en 1921. La
+introducción escrita por Von Hayek para el primer volumen de sus
+obras completas en su edición inglesa es la mejor fuente de información
+sobre Menger como pensador y como hombre (2).
+(1) V. Schneider , Teoría Económica, III, trad. española, Aguilar, Madrid,
+1967, págs. 189-190.
+(2) V. Schumpeter , History of Economic Analysis, trad. española con el
+título Historia del Análisis Económico, pág. 905.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+157
+
+Según Menger, los bienes adquieren valor cuando las existencias
+disponibles de los mismos no son suficientes para cubrir las necesidades
+que satisfacen o son tan justas que sin las unidades de cuya estimación
+se trata ya no serían suficientes. Por el contrario, carecen de valor
+aquellos bienes que existen en tan abundante cantidad que no sólo cu­
+bren completamente todas las necesidades para cuya satisfacción sir­
+ven, sino que todavía queda un remanente que no puede emplearse. Las
+distintas necesidades humanas tienen diferente importancia y el valor
+de un bien se mide por la importancia de la necesidad concreta o par­
+cial menos importante entre las necesidades cubiertas con las existencias
+totales disponibles del bien correspondiente. A su vez, dentro de la sa­
+tisfacción de cada necesidad, las sucesivas unidades de un bien producen
+satisfacciones decrecientes, siendo decisiva para la cuantía del valor la
+satisfacción producida por la última unidad del bien o utilidad margi­
+nal (3).
+*
+
+*
+
+*
+
+William Stanley Jevons nació en 1835. Primero estudió ciencias na­
+turales y más tarde Lógica y Economía. En 1866 fue designado profe­
+sor en Manchester, y en 1875, en Londres. En 1871 se publicó en Lon­
+dres su “The Theory of Political Economy” , verdaderamente revolucio­
+naria en Inglaterra, donde se consideraba la Economía Política clásica
+como la perfección suma de esta ciencia.
+Durante su vida, Jevons fue más conocido por sus escritos sobre
+dinero y Hacienda, o sobre otros puntos, como su teoría de los ciclos,
+basada en las manchas solares, que por la aportación que había de ha­
+cerle inmortal. Quizá por su gran modestia no dejó discípulos persona­
+les. Le faltó brillantez. Su obra no estaba bien acabada y, sin embargo,
+Jevons ha sido, según Schumpeter, uno de los economistas más origina­
+les de la historia. No tuvo noticia de sus precursores sino cuando había
+llegado a sus resultados. Aunque debía más de lo que creía a Mili, cu­
+yos “Principies” había de utilizar en su actividad docente, se ha podido
+decir que Jevons había construido los elementos esenciales de su doc­
+trina con ladrillos cocidos por él mismo (4).
+
+(3)
+(4)
+
+V. Schneider , op. til., págs. 193-198.
+V. Schumpeter , op. cit., págs. 903-4.
+
+
+
+158
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+Jevons es uno de los principales entre los autores que han introdu­
+cido la orientación matemática en la Economía, a cuya difusión en In­
+glaterra contribuyó de modo decisivo. Concibió la utilidad de un bien
+como función matemática de la cantidad poseída del mismo. El “grado
+de utilidad” era la utilidad relativa o unitaria, proporcionada por cada
+unidad del artículo, y lo que determinaba el precio era el grado final de
+utilidad o utilidad marginal, que no era otra cosa que el coeficiente di­
+ferencial o derivada de la función de utilidad total. Esta podrá, pues,
+considerarse como integral o suma de las utilidades marginales corres­
+pondientes a las sucesivas unidades poseídas del bien. La utilidad total
+era una función creciente, pero los crecimientos eran cada vez menores,
+porque la utilidad marginal es decreciente, o sea, que su función deri­
+vada, o derivada segunda de la utilidad total, era negativa.
+El cambio de dos bienes se efectuaba de modo que las utilidades
+marginales de las mercancías fueran proporcionales a sus precios, por­
+que en esa situación la última unidad monetaria invertida en cada bien,
+cualquiera que fuera éste, producía al sujeto el mismo incremento de
+satisfacción (5).
+*
+
+*
+
+*
+
+Marie Esprit León Walras nació en 1834. Schumpeter hace resaltar
+que Walras era francés no sólo por su lugar de nacimiento — Evreux— ,
+pues el estilo de su razonamiento y la naturaleza de su logro son ca­
+racterísticamente franceses, en el mismo sentido en que lo son los dra­
+mas de Racine y la matemática de Poincaré.
+La carrera de Walras muestra, según Schumpeter, la típica incapa­
+cidad del pensador de nacimiento para resolver los problemas prácticos
+de la vida personal. Era demasiado original para tener éxito en la en­
+señanza. Su preparación de ingeniero de minas, a la que debía sus
+conocimientos matemáticos, no le sirvió para ganarse la vida, de modo
+que se dedicó al periodismo, en el que llegó a ser director de “Le
+Travail” , órgano del movimiento cooperativista. Por un azar afortuna­
+do asistió en 1860 a un congreso internacional de temas fiscales que se
+celebró en Lausana. Allí leyó una ponencia, que fue bien acogida por
+el auditorio, en el que se encontraba el que fue más tarde director del
+Departamento de Educación del cantón de Vaud, que en 1870 fundó
+(5)
+
+V. Schneiler, op. cit., vol. III, págs. 214-224.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+159
+
+una cátedra de Economía Política en la Facultad de Derecho de la Uni­
+versidad de Lausana y la ofreció a Walras. Este se lanzó al trabajo y
+continuó en el mismo después de dejar la cátedra en 1892, hasta su
+muerte en 1910.
+Cuando en la actualidad no hay prácticamente ni un teórico que
+no reconozca la valiosísima influencia de Walras, sorprende saber que
+apenas tuvo discípulos personales y que sólo después de muchos años
+ha pasado su obra a constituir el cimiento de la Escuela de Lausana (6).
+La obra de Walras “Elementes d’Economie Politique Puré” fue
+publicada en 1874, pero sus ideas fundamentales habían sido expues­
+tas en el año anterior, en una Memoria titulada “Principes d’une
+théorie mathématique de l’échange” , que leyó ante la Corporación
+fraterna nuestra, la Academia de Ciencias Morales y Políticas de París,
+y se insertó en el número de 1874 de los “Compte-rendu des séances
+et travaux” de dicha Corporación, así como en el número de abril del
+mismo año del “Journal des Economistes” .
+Walras hacía depender el valor de la “rareté” , que no era solo la
+escasez o insuficiencia de la cantidad disponible para satisfacer la ne­
+cesidad sentida, sino que definía matemáticamente como la derivada
+de la utilidad efectiva respecto a la cantidad poseída, concepto que
+coincide exactamente con el de utilidad marginal.
+Partiendo de la “rareté” , determinaba Walras las curvas de deman­
+da de los bienes y por procedimientos analíticos y gráficos obtenía la
+condición para que el cambio de los bienes proporcionase a los sujetos
+la mayor satisfacción, que no es otra sino el principio equimarginal.
+*
+
+*
+
+*
+
+.
+
+Puede decirse que la difusión y el arraigo de la teoría marginalista,
+hasta que muchos autores la identificaron con el eje de toda teoría eco­
+nómica y financiera, arranca del hecho que hemos sañalado de la
+publicación casi simultánea, pero independiente, de las obras de Menger, Jevons y Walras. La triple coincidencia era la consecuencia de que
+los principios de dicha teoría habían sido formulados anteriormente en
+obras poco conocidas y se hallaban como subyacentes en el ambiente
+científico de la época.
+Estimulado Walras por expresar su reconocimiento a los predece­
+sores de sus doctrinas, publicó en el “Journal de Economistes” de
+(6)
+
+V. Schumfeter , op. cit., págs. 906-7.
+
+
+
+160
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+abril y mayo de 1885, un artículo titulado “Hermann-Heinrich Gossen,
+un economista desconocido” , en el que refiere que en 1854 había apa­
+recido una obra de este autor, que llevaba el largo título “Entwicklung
+der Geasetze des menschlichen Verkehrs und der daraus entspringenden
+Regeln des menschlichen Handeln” . A esta obra le concedió Gossen
+mucha importancia y había puesto grandes esperanzas en su publica­
+ción; pero la forma matemática, que constituía su originalidad, impidió
+que causara sensación alguna y aun que se leyera, sino por escaso nú­
+mero de personas. Al fracaso se sumaron las enfermedades, que en
+1858 pusieron término a su vida.
+Tanto Walras en su artículo citado como Jevons en el prólogo a
+la segunda edición de su obra, proclamaron el mérito que corresponde
+a Gossen por la prioridad de su aportación. Especialmente los autores
+de lengua alemana han puesto de relieve la trascendental importancia
+de la obra de Gossen, dando el nombre de Primera Ley de Gossen a
+la de saturación de las necesidades o de decrecimiento de la utilidad
+marginal, según la cual, la sucesiva aplicación de cada unidad de un
+bien produce satisfacciones cada vez menores, hasta llegar a la satu­
+ración, y designando como Segunda Ley de Gossen la que recoge el
+principio de que cada sujeto obtiene el máximo de satisfacción cuando
+en todas sus distintas necesidades alcanza el mismo grado de saturación,
+lo que es otra forma de enunciar la ley de la igualdad de las utilidades
+marginales ponderadas, que puede designarse de la manera más sintética
+como “principio equimarginal” . En cuanto a terminología, cabe obser­
+var que Walras conservó el vocablo “rareté” ; Gossen hablaba de “uti­
+lidad del último átomo” ; Jevons introdujo el “grado final de utilidad” ,
+y Wieser es el que aportó el término “Grenznutzen” o utilidad límite
+o marginal. Wicksteed sugirió la denominación de “fractional utility” .
+Con anterioridad a la publicación en 1871 de su “The Theory of
+Political Economy”, Jevons había expuesto su pensamiento en una
+breve nota leída en una sesión de la “British Association” en Cambridge,
+en 1862, de la que se dio cuenta en los “Reports of Sections” y cuyo
+original completo se publicó, en 1866, en el “Journal of íhe London
+Statistical Society” .
+Por su parte, Walras declara haber utilizado dos trabajos publi­
+cados por su padre. “De la nature de la richesse et de l’origine de la
+valeur”, en 1831, y “Théorie de la richese social” , en 1849, en los
+cuales, además de sostenerse que la Economía Política es una ciencia
+matemática, se afirma que el valor de cambio se funda en la doble
+condición de la utilidad y de la limitación de la cantidad y sugiere la
+
+
+
+CENTENARIO DEL MARGINAL ISMO
+
+161
+
+analogía existente, por un lado entre los conceptos mecánicos de velo­
+cidad, tiempo y espacio, y por otro entre los económicos rareza, can­
+tidad y utilidad.
+Remontando hacia años precedentes el curso del tiempo, a partir
+de la célebre triple coincidencia del alrededor de 1870, hay que señalar
+de modo destacado a los franceses Dupuit y Coumot. El primero co­
+laboró en los “Annales des Ponts et Chaussées” con los artículos “De la
+mesure de l’utilité des travaux publics” , de 1844, y “De l’influence des
+péages sur l’utilité des voies de communication” , de 1849, que aplica­
+ban con gran claridad los principios del marginalismo y despertaron
+la atención de los ingenieros.
+Al gunos años antes, en 1838, Antoine Augustin Coumot había pu­
+blicado la obra “Recherche sur les principes mathématiques de la théorie des richesses” , que puede ser considerada como el primer tratado
+sobre aplicación sistemática de las matemáticas a la economía. Frente
+a anteriores vaguedades, Cournot sostiene que la demanda sólo puede
+ser expresada por el conjunto de cantidades demandadas en relación
+con los diferentes precios alternativos, es decir, que la demanda de
+una mercancía es una variable que depende del precio de la misma.
+Conocida la forma de esta función, se conocería lo que llamamos “ley
+de la demanda” . Esta depende del grado de utilidad de la cosa, de
+la naturaleza de los servicios que puede proporcionar o de las satis­
+facciones que procura, de los hábitos y costumbres de cada pueblo, de
+la riqueza media y de la escala según la cual está repartida la ri­
+queza.
+El estudio de la formación de los precios lo aborda Cournot par­
+tiendo del caso de monopolio y aplicando a la función del beneficio
+la regla del cálculo diferencial para determinar el máximo, solución
+que, como es sabido, ha quedado incorporada a la teoría económica
+con el nombre de “Punto de Coumot” . Extendidos sus análisis al duopolio y otras cuestiones no menos interesantes, Coumot opera con los
+conceptos de grado de utilidad, ingresos, gastos, beneficios, etc., es
+decir, los caracteres del marginalismo, aunque no los designa con esta
+denominación. Asimismo examina el comportamiento creciente o de­
+creciente de los gastos al aumentar la cantidad del bien, según el desen­
+volvimiento de la función de demanda, lo que equivale a analizar la
+elasticidad de la misma, nombre que no le fue dado hasta muchos
+años más tarde por Marshall.
+*
+
+*
+
+*
+n
+
+
+
+162
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+Estos son los predecesores inmediatos de Menger, Jevons y Walras,
+que ya expusieron, como hemos visto, con una u otra terminología, las
+ideas fundamentales del marginalismo. Otros autores, anteriores en
+el tiempo, pueden considerarse como precursores, pero conviene, para
+la más clara y estrecha conexión de sus aportaciones, agruparlas según
+tres líneas de desenvolvimiento, que constituyen otras tantas partes in­
+tegrantes de la teoría marginalista. Una, la del fundamento subjetivo
+del valor, que lo basa en la utilidad; otra, el tratamiento matemático
+del Análisis económico, y otra, por último, la consideración de que
+es la última porción de las magnitudes económicas, ya sean la utilidad,
+el coste, el beneficio, etc., es decir, sus valores finales o marginales, lo
+decisivo para las determinaciones de los sujetos, tanto consumidores
+como productores.
+En cuanto la teoría marginalista desecha la concepción clásica de
+que el trabajo es el único fundamento del valor, y en su lugar establece
+que la base de éste se encuentra en la utilidad o capacidad de los
+bienes para satisfacer las necesidades humanas, pueden considerarse
+como precursores los filósofos hedonistas, desde Epicuro hasta Bentham,
+pasando por Helvetius y Beccaria, quienes son citados por los autores
+opuestos al marginalismo, precisamente en apoyo de su oposición.
+Como primeros autores que aplicaron las matemáticas a la eco­
+nomía, especialmente para el análisis del valor y de la formación de
+los precios, cuestiones que estudiaron en conexión con la probabilidad,
+puede citarse a Bemoulli, por su “Specimen teoriae novae de ménsula
+sortis” , de 1738, a quien se le estima como uno 3e los primeros, si
+no el primero, en reconocer que el valor no es una propiedad intrínseca
+de las cosas, sino una relación entre una persona que valora o estima
+y las cosas valoradas o estimadas; se cita asimismo a Buffon, por
+su “Essai d’Aritmétique morale” ; Laplace, por su “Théorie analytique
+des probabilités” , de 1812, y su “Essai philosophique sur la théorie des
+probabilités” , de 1840, y Quetelet, por sus “Lettres sur la théorie des
+probabilités” , de 1846.
+Ya anteriormente se habían utilizado formulaciones algebraicas y
+cálculos numéricos por los llamados aritméticos políticos, pudiendo
+citarse a Briscoe, Ceva y Condillac. Pero el uso de cifras o fórmulas
+como ejemplo de un razonamiento no matemático no debe incluirse
+en esta corriente de pensamiento. Por esta razón no habíamos citado a
+Canard, Isnard y Whewell (7).
+(7)
+
+V. Schumpeter, op. cit., págs. 1040-1.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+163
+
+La consideración de que en las magnitudes económicas, ya sean
+existencias de bienes, costes, beneficios u otras, lo decisivo es el grado
+final o magnitud marginal constituye lo característico del análisis marginalista. Este principio fue conocido por Bourlamaqui (1694-1748),
+como señala Walras, y no pasó inadvertido a Anderson, que al for­
+mular la ley del rendimiento decreciente de la tierra sostuvo que el coste
+que determinaba el precio era el de la última unidad de producto, así
+como también enunció y publicó un ejemplo particular de la ley general
+del decrecimiento de la utilidad marginal. Sin embargo, el primer inves­
+tigador que desarrolló y expuso explícitamente este instrumento con
+claro conocimiento de su alcance fue Johan Heinrich von Thünen.
+Este, a quien Marshall decía haber amado más que a todos sus demás
+maestros, en su obra “Der isolierte Staat...” , cuyo primer volumen
+se publicó en 1826 y el segundo en 1850, estableció por primera vez
+el principio de la distribución según la productividad marginal. Decía
+textualmente: “La utilización de la última pequeña porción de capital
+empleado determina la altura del tipo de interés” ; “el salario es igual­
+mente el aumento de producto que en una explotación proviene del
+último trabajador empleado” : “el salario que obtiene el último tra­
+bajador utilizado debe determinar normalmente el salario para todos
+los trabajadores de igual habilidad y de la misma industria, puesto que
+iguales servicios no pueden ser pagados con retribuciones diferen­
+tes” (8).
+A Von Thünen se debe la formulación explícita del principio de sus­
+titución, indispensable en la construcción lógica de la utilidad marginal.
+Este principio afirma que, toda vez que las distintas unidades o por­
+ciones de un bien son perfectamente reemplazables entre sí, es decir,
+que la satisfacción que proporcionan depende únicamente del orden
+en que se consumen, el aprecio que se hace de una unidad corresponde
+siempre, cualquiera que sea dicha unidad, a la utilidad que reporta
+la última poseida, o sea la utilidad marginal. Si se le quita a un sujeto
+una cualquiera de las unidades que posee de un bien, la utilidad per­
+dida es la que le proporcionaba la última de las unidades que poseía.
+En esta línea puede considerarse a Ricardo como precursor del
+marginalismo, cuyo principio se encuentra en el fondo de su teoría de
+la formación de los precios y de la renta de la tierra, en cuanto estable­
+ció que los rendimientos decrecientes aparecen cuando sucesivos incre(8)
+
+y 577.
+
+V. T hünen , “Der isolierte Staat...’’, 2.a parte, ed. 1930, págs. 557, 560
+
+
+
+164
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+mentos de trabajo aplicado a una tierra originan cantidades cada vez
+menores de cosecha. Dentro de su concepción de que el precio se de­
+termina según el coste de producción, Ricardo observa que las empre­
+sas actúan en condiciones diferentes de coste, pues hay algunas de
+costes bajos y otras de costes altos, pudiendo ser ordenadas en sentido
+creciente de los costes, pero el precio no puede ser inferior a los costes
+de la empresa que los tiene más elevados. Esto se condensa en su
+afirmación de que “el valor real de una mercancía se regula por las
+dificultades reales encontradas por el productor menos favorecido” .
+De aquí pasa Ricardo a analizar lo que ocurre dentro de una misma
+empresa, en que partes diferentes del producto pueden acarrear costes
+distintos, por ejemplo, por cultivar parcelas de diversa fertilidad, y
+también se pueden distinguir, dentro de un mismo producto, los costes
+de las sucesivas porciones obtenidas, siendo el decisivo para la deter­
+minación del precio el coste de la última unidad, el más elevado dentro
+del supuesto de los rendimientos decrecientes, lo que no es otra cosa
+que el principio marginal (9).
+Cerraremos esta ojeada a los principales precursores del marginalismo citando a Lloyd, que en 1833 pronunció en la Universidad de
+Oxford una conferencia, con el título “A lecture on the Notion of Va­
+lué” , que a pesar del lugar en que se expuso fue poco conocida hasta
+que la redescubrió Seligman, que por ello asignó a Lloyd el enorgullecedor lugar que corresponde al primer pensador de cualquier país que ha
+propuesto lo que hoy se llama teoría marginalista del valor y ha expli­
+cado la dependencia del valor respecto de la utilidad marginal (10).
+*
+
+*
+
+*
+
+Volviendo a la señalada triple coincidencia del Menger, Jevons y
+Walras, no debemos dejar de recoger que ha constituido uno de los
+hitos más salientes de la historia del pensamiento económico, que ha
+merecido conocerse con la significativa denominación de “la revolución
+marginalista” .
+Arrancaba Menger, según hemos dicho, del análisis de la aplicación
+de los bienes a la satisfacción de las necesidades, y establecía las dos
+leyes fundamentales que ya hemos expuesto y que son conocidas como
+primera y segunda ley de Gossen el precursor. Partiendo de dichas
+(9) V. Schumpeter,
+(10)
+
+op.
+
+cit., págs. 743-5.
+
+V. Schumpeter , o p . c i t . , pág. 1146,
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+165
+
+leyes se demostraba en primer término que la utilidad marginal basta
+para deducir las razones de cambio de las mercancías en los mercados
+de libre competencia. Pero lo más importante estriba en que el análisis
+de la utilidad marginal crea una herramienta analítica de aplicabilidad
+general a los problemas económicos, lo que explica el alcance de la revo­
+lución marginalista.
+Los conceptos de utilidad marginal y utilidad total se refieren a las
+necesidades y los deseos de los consumidores. Por eso no tienen sen­
+tido directo más que con referencia a bienes y servicios cuyo uso satis­
+faga necesidades de los consumidores. Pero Menger añade que los
+medios de producción o, en su terminología, bienes de orden superior,
+caen también dentro del concepto de bienes económicos por el hecho
+de que producen también la satisfacción de los consumidores, aunque
+sea indirectamente, por el hecho de que contribuyen a producir cosas
+que satisfacen directamente necesidades de los consumidores. Los fac­
+tores o agentes de la producción adquieren por su aplicación un valor
+indirecto de uso, en el que se funda, gracias al mismo principio de
+la utilidad marginal, su valor de cambio, que constituye para las em­
+presas sus costes de producción. El principio de la utilidad marginal,
+que rige la demanda de los consumidores, se aplica también al fenó­
+meno del coste, o sea al lado de la oferta (problema de la producción)
+y al de la asignación de recursos o teoría de la distribución. El cuerpo
+entero u “organón” de la economía pura queda explicado a la luz
+de un principio único, el de la utilidad marginal, que revela el formi­
+dable alcance de la revolución marginalista.
+Aunque hay que reconocer a Jevons la visión de los hechos, el
+mérito de la elaboración sistemática de la teoría, con sus claros y rigu­
+rosos fundamentos, corresponde, según Schumpeter, a Menger y sus
+continuadores austríacos.
+Un paso más hacia la unificación de la ciencia es la concepción
+de un cosmos económico, comprensivo de un conjunto de cantidades
+entre las que existe la interdependencia derivada de la acción de fuer­
+zas entrelazadas. Su establecimiento fue la hazaña realizada por Walras
+con su sistema del equilibrio general, que toma como base el principio
+de la utilidad marginal, pero lo deja claramente superado. El análisis
+del esquema de Walras muestra que la utilidad marginal fue de hecho
+la escalera por la cual se elevó hasta la altura de su sistema del equi­
+librio general. El principio de la utilidad marginal perdió su decisiva
+importancia una vez alcanzado aquel plano, pero, de todos modos, fue
+
+
+
+166
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+imprescindible heurísticamente. Esta observación ilumina de un modo
+nuevo los resultados de Jevons y los austríacos. También ellos dieron
+con la escalera, pero su insuficiencia técnica les impidió alcanzar la
+altura, aunque llegaran tan arriba como se lo permitió su técnica. Dicho
+de otro modo: en la teoría de la utilidad de Jevons y Menger debe
+percibirse una teoría embrionaria del equilibrio general (11).
+*
+
+*
+
+*
+
+Después de la triple formulación por Menger, Jevons y Walras, la
+teoría de la utilidad marginal se extendió muy despacio y hasta la últi­
+ma década del pasado siglo no sustituyó efectivamente a la Economía
+clásica. Durante quince años, a partir de 1871, nadie se dio cuenta de
+la similitud existente entre las tres obras. Jevons murió en 1882 sin
+saber que Menger había publicado una obra acerca de la teoría de la
+utilidad en 1871, la cual se parecía prodigiosamente a la suya. Walras,
+en 1886, fue el primero en juntar los nombres del triunvirato, pero
+durante algún tiempo las descripciones austríacas de la historia de la
+utilidad marginal no reconocieron a Walras como uno de sus descu­
+bridores. La mayoría de las historias generales del pensamiento eco­
+nómico publicadas entre 1870 y 1890 ni siquiera mencionan la utili­
+dad marginal y en ninguna historia del pensamiento económico se da
+detallada cuenta de la teoría hasta después de iniciado el nuevo siglo.
+La marginalista fue una revolución cuyo existencia no se llegó a admi­
+tir por completo hasta después de transcurrir más de una generación a
+partir del momento de su iniciación.
+*
+
+*
+
+*
+
+Después de la tantas veces señalada triple coincidencia que dio ori­
+gen al marginalismo, la teoría se fue desarrollando según diferentes lí­
+neas. Una de ellas es la que, arrancando de Menger y tomando apoyo
+todavía anterior en Gossen, continuó con Wieser y Bóhm-Bawerk, que
+generalizaron, en el sentido que ya hemos expuesto, el principio margi­
+nal a la producción y la distribución, con gran finura de pensamiento,
+a pesar de que no empleaban formulaciones matemáticas. La Escuela
+de Viena constituyó una de las más apreciadas corrientes del pensa­
+miento económico, que desde la utilidad marginal continuó por los cam­
+(11)
+
+V. Schumpeter , op. cit., págs. 993-1004.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+167
+
+pos de la teoría del capital y el interés y contó con buen número de
+distinguidos cultivadores, entre los que deben citarse, además de los ya
+nombrados, Sax, por sus estudios sobre finanzas, y Philippovich, autor
+de un tratado verdaderamente magistral.
+En Inglaterra se destaca Marshall, personalidad de primera magni­
+tud, que ocupó la cátedra de Economía de Cambridge desde 1885 a
+1908. Se formó en la tradición clásica de Smith, Ricardo y J. S. Mili y
+también expresa él mismo un cauto reconocimiento de la influencia de
+Coumot y Von Thünen, pero no la de Jevons, con el cual se entrecru­
+zaron algunos primeros esbozos.
+Aunque se atribuye a Marshall la frase de que “todo está en Adam
+Smith” , la publicación de sus “Principies” en 1890 es uno de los tres
+acontecimientos que tuvieron lugar en dicho año, a partir de los cuales
+hay que fechar, según lord Keynes, “la edad moderna de la Economía
+británica” . (Los otros dos acontecimientos fueron la fundación de la
+Royal Economic Society y la terminación del Diccionario de Economía
+Política de Palgrave, aunque esto último ocurrió en 1893) (12).
+A pesar de su formación y su propósito de continuar la obra de los
+clásicos, Marshall realizó una revisión de sus doctrinas a la luz de los
+principios del marginalismo. Su estructura teórica es fundamentalmente
+la misma de Jevons y Menger, e incluso la coincidencia es mayor con
+Walras, a pesar de las apariencias. Aunque Marshall aplicó los instru­
+mentos analíticos para estudiar los fenómenos que se producen en sec­
+tores reducidos de la Economía, sería injusto no ver en Marshall sino al
+maestro del análisis parcial, porque en algunas ocasiones no ha dejado
+de formular explícitamente la concepción más amplia de la interdepen­
+dencia general de todas las cantidades económicas.
+En la construcción científica de Marshall se ha apreciado, como he­
+mos dicho, que la estructura era de Jevons, Menger y Walras, pero que
+las habitaciones estaban innecesariamente abarrotadas de herencia ricardiana. Aunque Marshall mismo y sus discípulos se han negado — un
+tanto irritados— a aceptar esta interpretación, son muchos los autores
+que rebajan su nivel a la condición de ecléctico que intentaba conciliar
+los principios de la Escuela clásica inglesa con los de la utilidad mar­
+ginal, en el sentido principalmente de Jevons y los austríacos.
+Puede citarse un ejemplo muy significativo de Marshall. El princi­
+pio del ”coste de producción” y el principio de la “utilidad final” son,
+(12)
+
+V. Schumpeter, op. cil., págs. 912-3.
+
+
+
+168
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+sin duda, partes componentes de la ley suprema de la oferta y la de­
+manda; cada uno de ellos se puede comparar con una hoja de tijera.
+Cuando se corta, manteniendo quieta una hoja y accionando la otra,
+es posible describir descuidadamente el hecho diciendo que la que corta
+es la que se mueve; pero no es posible enunciar formalmente esa breve
+descripción incorrecta y sostenerla deliberadamente como una teoría.
+Como es sabido, la consideración del lado de la demanda, frente a la
+del lado de la oferta, es la posición de Malthus frente a la de Ricardo.
+Pero los marginalistas, como observa Schumpeter, no necesitaban
+que se les diera la lección de las dos hojas de las tijeras de Marshall.
+Lo que ellos pretendían demostrar es que las dos hojas constan del
+mismo material; que igual la demanda que la oferta, ya se trate de un
+intercambio de mercancías existentes, ya de un caso de producción, se
+pueden explicar por medio de la utilidad.
+Al lado de Marshall figuraron otros contemporáneos, entre los que
+sólo citaremos a Francisco Isidro Edgeworth, profesor de Oxford, el
+que primero empleó la técnica de las “curvas de indiferencia” , y Philip
+Wicksteed, famoso por su obra sobre las leyes de la distribución. A es­
+tos autores y otros de menos relieve, se les aplica la calificación de
+neoclásicos, que Myint define con gran precisión al decir que “la pala­
+bra neoclásico se utiliza aquí con la significación de una nueva mezcla
+de ideas, que nació de la unión de las ideas económicas clásicas y las
+de la Escuela de la utilidad marginal. Esta unión, fundida con el prag­
+matismo nativo del sentido común, dio al pensamiento económico in­
+glés entre 1890 y 1920 un carácter distintivo propio, diferente del
+clasicismo puro de John Stuart Mili y del enfoque puro de la utilidad
+marginal, representado por Jevons, Walras, Menger y J. B. Clark” (13).
+*
+
+*
+
+*
+
+En la línea encabezada por Walras hay que señalar que, por me­
+diación de Pantaleoni, encontró su brillante discípulo y sucesor en la
+cátedra en Pareto, que muchos autores consideran como verdadero fun­
+dador de la Escuela de Lausana.
+Pareto perfeccionó el sistema del equilibrio general abandonando la
+consideración de la utilidad como una magnitud medible, cardinal, que
+(13) V. M yint , Postúlate of Welfare bionomics, trad. española con el título
+Teorías de la Economía del Bienestar, Madrid, 1962, pág. 205.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+169
+
+habían aceptado todos los autores que la sometían a análisis cuantita­
+tivos, y sustituyéndola por la consideración de magnitud meramente
+intensiva u ordinal, tratada según las funciones índices de utilidad. La
+doctrina marginalista alcanzó gran difusión en Italia, siendo las prime­
+ras figuras Barone, Antonelli, Marco Fanno y Amoroso.
+La teoría marginalista se extendió también a otros países, como
+Holanda, en donde debe citarse la personalidad de Pierson, y de modo
+muy especial en los países escandinavos, donde contó con autores tan
+destacados como Davidson, Wicksell y posteriormente Cassel, cuyo li­
+bro de texto es una vulgarización de la doctrina de Walras. La cita
+de Wicksell ha de ser muy destacada, porque suele estimarse que sus
+obras son la mejor exposición de las teorías marginalistas, tanto la ti­
+tulada “Über Wert, Capital und Rente” como sus “Lecciones” o curso
+elemental.
+En los Estados Unidos de Norteamérica hay que citar por lo menos
+tres figuras: John Bates Clark, Irving Fisher y Taussig. El primero re­
+formuló la teoría de la distribución y puso de relieve la analogía exis­
+tente entre las tres rentas fundamentales, por la que no sólo la de la
+tierra, sino cualquiera de ellas podía explicarse tanto como resto que
+dejaban las otras dos o bien como productividad marginal.
+
+*
+
+*
+
+*
+
+Esta rápida ojeada nos ha mostrado la difusión del marginalismo
+en el primer medio siglo de su existencia, o sea, hasta 1920. En el se­
+gundo medio siglo se ha desarrollado por todos los países, quedando
+incorporado, con uno u otro alcance, a la teoría económica. No vamos
+a formular una lista, que por larga que fuera adolecería de lamenta­
+bles omisiones, pero sí diremos que en Estados Unidos, donde después
+de la Segunda Gran Guerra se ha concentrado buena parte de la in­
+vestigación científica, el campo de la Economía ha contado como in­
+superable aportación con un buen número de profesores europeos, que
+las vicisitudes políticas habían arrojado de su país, especialmente los de
+una de las más finas Escuelas, la de Viena.
+Como hitos más importantes en el avance de los conocimientos se­
+ñalaremos tan sólo los que en la teoría de la utilidad, para eliminar toda
+traza de subjetivismo, han representado la creación y aplicación por
+
+
+
+170
+
+ANALES DE LA REAL ACADEMIA DE CIENCIAS MORALES
+
+Hicks del instrumento llamado relación marginal de sustitución y la
+formulación por Samuelson de la teoría de la preferencia, llamada re­
+velada, o, mejor, manifiesta.
+•fc
+
+A pesar de su general aceptación, se reprocha al marginalismo el
+estar basado en la filosofía hedonista. Contra esta aseveración puede
+citarse la autoridad de Schumpeter, que afirma que la teoría que funda
+el valor en la utilidad marginal es del todo independiente de cualquier
+postulado hedonista, pues no afirma ni implica nada acerca de las ne­
+cesidades o los deseos humanos, ni establece hipótesis sobre la función
+del egoísmo en el comportamiento del hombre (14).
+También se achaca al marginalismo el haber adquirido en algunos
+casos una connotación política, hasta convertirse en un monstruo reac­
+cionario dispuesto a defender el capitalismo y sabotear la reforma so­
+cial. Según Schumpeter eso no tiene ningún sentido. El principio marginalista no puede tener “a fortiori” influencia alguna en la política o
+en la filosofía social. Lo único que puede tenerlas es la interpretación
+que se dé a los resultados del análisis marginal (15).
+De otros reproches, como el oponer al marginalismo la programa­
+ción lineal, no vale la pena de considerarlos, por las duras restricciones
+que esta última impone y que sólo cabe admitir como simplificación de
+aplicación muy limitada.
+En conclusión, puede afirmarse sin género alguno de dudas, que la
+teoría marginalista ha quedado incorporada a la ciencia económica, pero
+esta incorporación puede operarse con muy distinto alcance. Los me­
+nos adictos a esta teoría afirman que en la utilidad marginal lo más
+importante es el adjetivo, y no el sustantivo. Pero, aun con esta signifi­
+cación tan restrictiva, hay que reconocer que el marginalismo es en sí
+mismo, como afirma Schumpeter, un instrumento analítico cuyo uso se
+impone sin más en cuanto el análisis llega a la edad adulta.
+Puede entenderse que la utilidad marginal no ha conseguido más
+que un esquema del valor de uso, para la estática económica, interna­
+mente completo, subrayando que no todos los temas de la Economía
+
+(14)
+(15)
+
+V. Schumpeter ,
+V. Schumpeter ,
+
+o p . c i t .,
+o p . c it.,
+
+pág. 1148.
+págs. 950-4.
+
+
+
+CENTENARIO DEL MARGINALISMO
+
+171
+
+pura se pueden resolver unívocamente mediante la teoría de la utilidad
+marginal.
+Pero también puede considerarse con alcance mucho más intenso y
+extenso la teoría de la utilidad marginal, que explique no sólo el con­
+sumo, sino también la producción y la distribución, como un principio
+básico unificador, que culmina en el equilibrio general.
+Como ejemplo de ello señalemos, para terminar, lo que ocurre ac­
+tualmente con uno de los problemas abiertos en la ciencia económica,
+la determinación de los precios no relativos, sino absolutos, de los bie­
+nes y servicios, en función de un dinero no mercancía, para salvar así
+el vacío que separa la Microeconomía de la Macroeconomía. Según la
+Escuela de Chicago, con Milton Friedman al frente, la solución se ob­
+tiene insertando el dinero, por medio de los saldos de caja, en las fun­
+ciones índices de utilidad, lo que pone de relieve que la teoría de la
+utilidad marginal se halla en la base general de la ciencia económica.
+Y por si esto fuera poco, obsérvese que los saldos de caja no son otra
+cosa que los “encaisses desirées”, creación de Walras.
+
+

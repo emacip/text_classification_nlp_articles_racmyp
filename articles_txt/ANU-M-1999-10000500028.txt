@@ -1,0 +1,1192 @@
+UNA INTRODUCCIÓN A LA TEORÍA Y LA POLÍTICA
+DE LA CONVERGENCIA REAL
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez *
+
+El objetivo de este trabajo es presentar una panorámica descriptiva de los
+aspectos analíticos y empíricos más destacados de la convergencia real (CR), y ha­
+cer algunas reflexiones sobre su relevancia para el caso de la economía española.
+Trataré de desarrollar la exposición en siete apartados. En el p rim ero ex­
+pondré las definiciones más al uso de la CR y las distintas formas de medir dicha
+convergencia. En el segundo haré algunos comentarios sobre las relaciones entre
+convergencia real y nominal. En el tercero discutiré brevemente el estado actual de
+la teoría del crecimiento económico, tratando de enumerar los factores determi­
+nantes del mismo.
+En el cu arto apartado pasaré revisión a la abundante literatura empírica
+que se ha generado en la última década sobre la CR, entendida en lo fundamen­
+tal como el proceso de acercamiento o alejamiento relativo de las economías de
+la OCDE a la economía estadounidense, tratando de evaluar si existe lo que en
+la literatura económica ha dado en llamarse un «club de convergencia», y si las di­
+ferencias entre países desarrollados y en vías de desarrollo se han ampliado o dis­
+minuido.
+En el quinto apartado aportaré alguna evidencia sobre la CR de la econo­
+mía española, entendida —como todo fenómeno de convergencia— como un pro­
+
+* Sesión del día 13 de octubre de 1998.
+
+5
+
+
+
+ceso histórico, y discutiré en qué medida se adecúa o diverge de las pautas gene­
+rales establecidas en los apartados anteriores.
+En el sexto apartado trataré de discutir el papel del sector público en el
+proceso de CR y los problemas que éste plantea desde el punto de vista del dise­
+ño de una estrategia de gasto público encaminada al logro de dicha convergencia.
+Por último, aparece un breve epígrafe de conclusiones referido a España.
+En este trabajo no trataré ni la teoría ni la evidencia, muy abundante, so­
+bre convergencia regional (véase Sala-i-Martín, 1994, y Raymond, 1995).
+
+CONVERGENCIA REAL: SIGNIFICADO, CONCEPTO Y MEDICIÓN
+
+El sentido genérico de la CR entre un grupo de países — o de regiones de
+una misma nación— es intuitivamente muy simple, y se refiere al acercamiento en­
+tre los valores de ciertas variables económicas reales de los mismos. Estas variables
+deben ser significativas de los resultados y comportamiento de las economías y, en
+cierta manera, ser indicadores del nivel de bienestar económico alcanzado por és­
+tas, o de la calidad de sus resultados económicos. Por ello, las variables más co­
+múnmente utilizadas son el producto interior bruto o renta p e r c á p ita (PIBc), la pro­
+ductividad total de los factores (PTF) o la productividad del trabajo (PT). La primera
+es una aproximación simple al bienestar social —aunque omita factores distributi­
+vos— , y las dos últimas, indicadores del grado de eficacia con que se utilizan los
+factores productivos.
+Las ideas fundamentales sobre la existencia o no de un proceso de acer­
+camiento o convergencia provienen de los estudios históricos sobre el creci­
+miento económico de Kuznets (1951), Gerschenkron (1952) y Abramovitz (1956,
+1986), en los que, aunque con enfoques y resultados distintos, se sostiene la idea
+central de que existen fa s e s o etap as comunes en el desarrollo de las distintas eco­
+nomías nacionales. Si ello es así, cabe pensar que todos los países tienden, de
+una u otra forma, hacía un estadio final de crecimiento, pasando por etapas su­
+cesivas semejantes, es decir, convergiendo hacia los países que ocupan las posi­
+ciones más avanzadas. E incluso cabe suponer que economías que se encuentren
+en la misma etapa de su desarrollo tendrán fuertes semejanzas y dinámicas de
+crecimiento parecidas. Esto no garantiza p e r se la convergencia, porque los paí­
+ses de referencia —los más avanzados— también prosiguen su crecimiento, pero
+sí señala una senda común caracterizada por el hecho de que las ganancias rela­
+tivas que se logran en las fases iniciales del crecimiento son mayores que las de
+la etapa final.
+6
+
+
+
+Aunque se trata de ideas muy embrionarias, y contrastadas de forma muy
+somera, sirven para señalar algunos aspectos relevantes sobre la convergencia real
+entre países. En primer lugar, que la CR es un p roceso histórico que, por tanto, ha
+de analizarse y contrastarse con una perspectiva temporal amplia. En segundo lu­
+gar, que posiblemente tenga sentido distinguir entre la convergencia intragrupo, re­
+ferida a los países que se encuentran en la misma fase de su desarrollo, y la glo­
+bal, o entre grupos de países distintos. En tercer lugar, que lo relevante desde el
+punto de vista de la política económica es tratar de buscar los determinantes del
+paso de una fase a otra.
+Tratar de precisar con exactitud qué es y cómo se puede medir la CR es,
+por desgracia, más engorroso que hablar de las etapas del crecimiento económico.
+En la literatura al uso se han llegado a distinguir hasta nueve acepciones distintas
+del término convergen cia (véase Baumol et.al., 1994, cap. 1, o Quah 1993). Sólo
+daré una idea precisa de algunas de ellas, las que resultan más relevantes para el
+análisis de los apartados 2 y 31. La hom ogen eización hace referencia a la disminución de la dispersión
+de los valores de una variable entre un conjunto de economías. En la literatura téc­
+nica esto se conoce con el nombre de convergen cia o.
+2. El catching-up, o acortamiento de distancias, se defíne como la re­
+ducción en la proporción del desfase de una variable entre distintas economías. Un
+ejemplo claro de catch-up: en 1959 la PT media en los países de la OCDE era un
+45% de la de los Estados Unidos; en 1990 era el 85%.
+3- Existe convergencia bruta cuando se acercan entre sí los valores de la va­
+riable estudiada sin descontar efecto alguno. Por ejemplo, si al analizar la variable PIBc,
+en una muestra de economías para un período de tiempo, existe una correlación ne­
+gativa entre los PIBc iniciales y el ritmo de crecimiento del PIBc, esto es indicativo de
+que los países más pobres (menor PIBc inicial) crecen más deprisa que los ricos (ma­
+yor PIBc inicial). En la literatura técnica esto se conoce como convergencia p.
+4.
+Existe convergen cia residu al cuando ésta tiene lugar una vez que se
+ha descontado de la evolución de los valores de la variable analizada la variación
+explicada por determinados factores. Por ejemplo, puede no observarse conver­
+gencia P en los PIBc de una muestra de países, pero existirá convergencia residual
+si, una vez descontado el efecto sobre la tasa de crecimiento de los PIBc de los gas­
+tos en educación e I+D, la variable resultante muestra convergencia p.
+Las relaciones entre estos distintos conceptos son complejas, y simple­
+mente formularé, sin demostrar, algunas de ellas (para un análisis preciso, véase de
+
+7
+
+
+
+la Fuente, 1997): la convergencia p es condición necesaria, pero no suficiente, pa­
+ra la convergencia O; la conveigencia residual (bruta) no es condición ni necesaria
+ni suficiente para la bruta (residual).
+Más interés tiene para nuestros objetivos señalar la relevancia relativa de
+algunos de estos conceptos desde el punto de vista interpretativo. Me referiré sólo
+a dos de ellos.
+La convergen cia bruta del PIBc es la más significativa desde el punto de
+vista del bienestar social. En efecto, a los ciudadanos de un país poco les importa
+que converjan los residuos no explicados por mil variables de su PIBc, si el propio
+PIBc no converge. Sólo la convergencia P entre PIBc asegura que los países más
+atrasados se acercan a los más ricos.
+La convergencia residu al del PIBc es la más relevante desde el punto de
+vista de la política económica. Por una parte, porque exige haber detectado los fac­
+tores fundamentales explicativos de la tasa de crecimiento del PIBc, y sólo sobre
+este conocimiento se pueden diseñar medidas de política económica destinadas a
+optimizar dicha tasa de crecimiento. Por otra parte, porque la evaluación del com­
+portamiento de un país en términos de la evolución de su PIBc sólo puede hacer­
+se en relación con la posición que debería ocupar en la jerarquía de convergencia.
+Un país tendrá unos buenos resultados solamente si llega más allá de lo que la con­
+vergencia le «garantiza» por sí misma. Aunque presente ritmos apreciables de creci­
+miento de su PIBc, si éstos son inferiores a lo que la convergencia — en su grupo
+de países de referencia— señala como dinámica media del grupo, la evaluación de
+sus resultados ha de ser negativa.
+En resumen, el logro de la CR en términos del PIBc —con los países cen­
+trales de la Unión Europea (UE), con los Estados Unidos— es un tema de impor­
+tancia para la economía española. En el fondo, converger es crecer más deprisa y
+más sostenidamente que los países de referencia, y para ello es preciso conocer los
+factores determinantes del crecimiento de la economía. A ello nos ayudará, en una
+primera aproximación, el análisis de las enseñanzas que pueden obtenerse de la te­
+oría económica del crecimiento.
+
+UNA DIGRESIÓN SOBRE CONVERGENCIA REAL Y NOMINAL
+EN LA UNIÓN MONETARIA (UM E)
+
+Como es bien sabido, en el Tratado de la Unión se establecieron unos cri­
+terios nominales cuyo cumplimiento en la fecha del examen de convergencia per­
+8
+
+
+
+mitió a España, junto a otros diez países, formar parte del núcleo inicial de la Unión
+Monetaria Europea (UME).
+Nadie ha discutido la necesidad de la convergencia nominal para formar
+parte de la UME, pero sí ha existido un fuerte debate sobre si, además, era nece­
+sario o no cumplir ciertos requisitos de CR para que la UME funcionara adecuada­
+mente.
+La base legal en que se apoyaban los defensores de la exigencia de CR es
+el artículo 109 j9 del Tratado de la Unión, que menciona los «resultados de la inte­
+gración de los mercados», «la balanza por cuenta corriente» y los «costes laborales y
+otros índices de precios» como elementos a evaluar conjuntamente con los criterios
+de convergencia nominal en el examen final de los países candidatos.
+La base económica de los defensores de la CR, muy sólida, es la necesi­
+dad de que, para el adecuado funcionamiento de un área monetaria común, exis­
+ta cierta similitud entre las economías, con objeto de evitar colapsos en algunas va­
+riables (v.gr.: exportaciones) derivados del no recurso a devaluaciones, y de
+minimizar los efectos distorsionadores de eventuales perturbaciones asimétricas por
+el lado de la demanda (v.gr.: comportamientos cíclicos muy distintos) o de la ofer­
+ta (v.gr.: shocks de precios de materias primas).
+La presidencia británica (véase discurso de J. Major de febrero de 1995 en
+Goldman Sachs, 1995) fue quien más énfasis puso en la exigibilidad de criterios de
+CR, y se apuntaron algunos, entre los que cabe destacar:
+1. Tasa de desempleo que no exceda en dos puntos porcentuales a la
+media del área, para evitar niveles muy distintos de desempleo estructural.
+2.
+° Déficit exterior por cuenta corriente no superior al 2% del PIB, para
+evitar colapsos de la exportación.
+3.
+° Tasa de crecimiento del PIB no mayor ni menor que 1,5 puntos por­
+centuales de su crecimiento medio en la última década, para evitar una excesiva
+desincronización en el perfil cíclico.
+4.
+° Deterioro de la competitividad respecto a Alemania no superior al
+10% respecto al último realineamiento voluntario de paridades, para limitar las di­
+vergencias entre el tipo de cambio real de cada país y su tipo de equilibrio a largo
+plazo.
+9
+
+
+
+Como es bien sabido, estos criterios no fueron exigidos, pero señalan lo
+crucial que resulta la similitud, homogeneidad o CR entre economías que se inte­
+gran en un área monetaria común. El peligro de dicha área es la dificultad de ha­
+cer frente a perturbaciones que afecten de forma muy distinta a unos miembros que
+a otros. Los shocks asimétricos cambiarios desaparecen en la UME y la probabilidad
+de shocks monetarios o financieros se minimiza (la experiencia de la reciente crisis
+es significativamente positiva). Por tanto, los riesgos se concentran en shocks de
+oferta o de demanda, que son tanto menos probables cuanto mayores sean el gra­
+do de convergencia entre las economías y el nivel de coordinación entre las polí­
+ticas económicas de los miembros.
+En resumen, el mantenimiento de la convergencia nominal sigue siendo
+un requisito imprescindible para el logro de la CR. Pero esta última es un objetivo
+relevante en una economía como la española. Y no sólo porque ello suponga me­
+jorar los niveles de bienestar de la sociedad, sino porque la única forma de poder
+aprovechar plenamente las ventajas potenciales que ofrece un club como la UME,
+y evitar los riesgos de crisis asimétricas con altos costes potenciales en términos de
+producción y empleo, es sincronizando lo más posible nuestra economía con las
+centrales del área.
+
+FACTORES DETERMINANTES DEL CRECIMIENTO ECONÓMICO:
+TEORÍA Y MODELOS
+
+Como señala con agudeza Stem (1991a), el crecimiento económico fue un
+tema central de la economía clásica —Ricardo, Malthus, Marx— , pero se perdió
+hasta bien entrado el siglo xx, cuando renació bajo el influjo del trabajo de Harrod
+(1939), dando lugar a una fuerte expansión desde comienzos de la década de los
+años cincuenta hasta fines de la de los sesenta. Durante veinte años, el tema del
+crecimiento desapareció de entre las prioridades de los teóricos para reaparecer, de
+la mano de las llamadas teorías del crecimiento endógeno, a finales de la década
+de los años ochenta, y experimentar un fuerte desarrollo hasta la fecha.
+El trabajo de Harrod consistió, en lo sustantivo, en dinamizar el equilibrio
+macroeconómico keynesiano, dando por tanto como resultado principal que la va­
+riable crucial a corto y medio plazos era la tasa de ahorro de la economía. A largo
+plazo, sin embargo, el crecimiento podía verse restringido, aun en presencia de una
+tasa de ahorro suficiente, por las limitaciones de los factores no producibles y, en
+particular, por la escasez relativa de oferta de trabajo.
+El gran auge que se produce en las décadas de los años cincuenta y se­
+10
+
+
+
+senta tiene su origen en el trabajo pionero de Ramsey (1928), pero fue formulado
+en el trabajo seminal de Solow (1956) y profundizado en los posteriores de Cass
+(1965) y Koopmans (1965).
+La idea central es que el aumento de la tasa de ahorro puede conducir a
+un aumento del ritmo de crecimiento económico a corto plazo, pero que a medio
+y largo plazos ese aumento se verá compensado por el crecimiento en la misma
+proporción de la relación capital/produCto, de forma tal que la tasa de crecimien­
+to volverá a sus valores iniciales que, en equilibrio a largo plazo con rendimientos
+constantes de escala y en ausencia de progreso técnico, coincidirá con el de la ta­
+sa de crecimiento de la población, que es una variable exógena. En resumen, la
+economía se hará más intensiva en el uso de capital, pero el ritmo de crecimiento
+no experimentará cambios.
+¿Hasta qué punto las variaciones en las dotaciones de factores productivos
+determinan el crecimiento de la renta de una economía? Con una función de pro­
+ducción agregada muy sencilla, Solow definió el llamado desde entonces factor re­
+sidual como la parte del crecimiento del producto no explicada por el aumento de
+las cantidades disponibles de capital y trabajo.
+¿Qué se esconde tras este factor residual? Por una parte, las m ejoras en la
+ca lid a d d e los factores; por otra parte, toda una serie de elementos institucionales
+difíciles de censar. Las mismas cantidades de capital y trabajo, pero de una mayor
+calidad, traerán consigo un mayor crecimiento económico. Y parece obvio deducir
+que la -calidad» del capital hace referencia a la tecnología que incorporan los bie­
+nes de equipo, es decir, al progreso técnico; y la del trabajo, al nivel de conoci­
+mientos y cualificación de la mano de obra.
+¿Es cuantitativamente importante el factor residual? Las estimaciones reali­
+zadas desde Solow (1957) hasta nuestros días señalan una regularidad infrecuente
+en los estudios empíricos. En los países desarrollados el factor residual es respon­
+sable de más o menos la mitad de la tasa de crecimiento; en los en vías de des­
+arrollo, de una cuarta parte (Chenery, 1983).
+Este planteamiento ¿aporta alguna luz sobre el tema de la convergencia?
+En efecto, proporciona un tipo de explicación que Baumol (1994) ha bautizado
+acertadamente como «convergencia por fuerzas comunes». Si un conjunto de países
+tienen elementos comunes (de nivel tecnológico, institucionales, de desarrollo his­
+tórico, etc.) que hacen que su tasa de crecimiento de equilibrio estacionario sea se­
+mejante, tenderán a converger hacia ésta a una velocidad relacionada con la dis­
+11
+
+
+
+tanda que les separa de la misma. Ello es así porque el rendimiento del capital es
+decredente, y ésta es la «fuerza común» que conduce a la convergencia, y también,
+en este caso, al catching-up.
+Expresado en términos menos técnicos: de entre un conjunto de países ri­
+cos, los más avanzados se encontrarán más cerca de la meta —la tasa de creci­
+miento de equilibrio estadonario— , y los subsiguientes aumentos de capital apor­
+tarán cada vez menos al aumento del producto, mientras que los relativamente más
+rezagados obtendrán mayores aumentos de renta de un mismo esfuerzo de inver­
+sión en bienes de equipo.
+A partir de los trabajos dtados, el interés por la teoría del crecimiento ca­
+si desaparece de la literatura teórica. Posiblemente porque la década de los años
+setenta supuso el fin de las dos décadas doradas de credmiento del mundo occi­
+dental que siguieron al final de la II Guerra Mundial, lo que, entre otras cosas, co­
+mo se verá en el siguiente apartado, truncó el proceso de convergenda en el mun­
+do desarrollado. Cuando, a fines de los años ochenta, los países industrializados
+habían absorbido los efectos de las crisis de 1973 y 1979, y habían vuelto a expe­
+rimentar un largo proceso expansivo, reapareció el interés por el crecimiento eco­
+nómico.
+Y reapareció de la mano de la llamada teoría d el crecim ien to en dógen o, li­
+gada a los trabajos de Romer (1986,1990) y Lucas (1988), y también en parte
+—siempre existe un avanzado en su época— al trabajo se Uzawa (1965).
+Sintetizando, y combinando con cierta libertad las dos variantes de estos
+modelos, éstos pueden resumirse diciendo que en una economía que presenta ren­
+dimientos constantes de escala —globales y también sólo respecto al capital— , no
+es necesario que se produzca progreso técnico exógeno ni aumento de la dotación
+de factor trabajo para que exista crecimiento económico. Basta con que se genere
+progreso técnico endógeno y mejora en la calidad de la mano de obra. El motor
+de este crecimiento puede ser la existencia de un sector que genera conocimientos
+que aumentan la productividad de la economía al ser utilizados por los sectores que
+producen los bienes de consumo e inversión.
+La variable clave del crecimiento no es, por tanto, ni el progreso técni­
+co exógeno, llovido como el maná del cielo y, por ende, no explicado por el pro­
+pio modelo teórico, ni siquiera la tasa de inversión. Lo relevante pasa a ser la can­
+tidad de recursos que se dedican al sector generador de innovaciones del
+conocimiento.
+12
+
+
+
+Estas teorías ¿aportan alguna explicación relativa a los fenómenos de con­
+vergencia? En efecto, del tipo de convergencia que Baumol (1994) bautizó «con­
+vergencia por contagio». Los países atrasados tienen más que aprender, y lo crucial
+pasan a ser los mecanismos por los que se produce el contagio de los países más
+atrasados por los más avanzados. Y de entre estos mecanismos hay uno que juega
+un papel fundamental: la transferencia de tecnología, es decir, de ideas y conoci­
+mientos.
+Pero, al mismo tiempo, la teoría del crecimiento endógeno proporciona
+explicaciones plausibles para la existencia de un club de países avanzados conver­
+gentes entre sí, pero progresivamente más distanciados de los pobres. Si el rendi­
+miento de la inversión es función creciente del stock de capital (físico, conoci­
+mientos, activos específicos) acumulado por una economía, la tasa de crecimiento
+del PIBc aumenta con el stock inicial de capital y con el nivel de renta. El progre­
+so técnico endógeno puede sostener crecimientos indefinidos del PIBc y, por tan­
+to, aumentar las desigualdades entre países.
+Como ha señalado acertadamente Lucas (1993) en su análisis de los «mi­
+lagros» económicos, el elemento esencial para el crecimiento económico es el ca­
+pital humano, es decir, el avance del conocimiento, y este avance se produce no
+sólo por medio de los procesos formativos e investigadores —la escuela, la Uni­
+versidad, los organismos de investigación— , sino también produciendo bienes (el
+proceso de leam in g by doin g señalado tan tempranamente como 1962 por Arrow)
+y comerciando. La acumulación de capital físico es importante, pero subsidiaria, lo
+crucial es que el avance del conocimiento y el progreso técnico se incorporen al
+capital humano y no humano para tener impacto sobre el crecimiento económico
+(véase Maddison, 1994).
+De todo este apretado recorrido por sesenta años de evolución de la teo­
+ría económica del crecimiento, cabe obtener algunas conclusiones sobre los facto­
+res determinantes de éste y, por derivación, sobre las razones en favor de la exis­
+tencia o no de procesos de convergencia de uno u otro tipo. Una síntesis podría ser:
+1. Los factores fundamentales del crecimiento económico son el capital
+humano y el progreso técnico.
+2. La eficacia con que estos factores coadyuven al crecimiento depende­
+rá no sólo de su intensidad, sino de su coordinación, por lo que hay que añadir a
+la lista de factores cruciales aspectos de m anagem ent y organización de carácter
+más institucional, así como las infraestructuras.
+13
+
+
+
+3. En la medida en que las ideas, las innovaciones y los conocimientos
+generan considerables efectos externos positivos y son progresivamente de más di­
+fícil apropiabilidad, el mercado por sí mismo genera un crecimiento subóptimo, lo
+que abre campo de actuación al sector público como ineentivador del desarrollo.
+4. Tanto por la existencia de fuerzas comunes (la más importante, el de­
+crecimiento de la productividad marginal del capital) como por razones de conta­
+gio (el más importante, la transferencia de tecnología), hay motivos para suponer
+la existencia de fenómenos tendenciales de convergencia, aunque no necesaria­
+mente de catching-up.
+5. El marco institucional y la estructura de incentivos son aspectos esen­
+ciales para favorecer o dificultar la inversión en capital humano y físico. Por ello,
+las condiciones de estabilidad macroeconómica resultan relevantes como factor ex­
+plicativo de la convergencia. Es decir, la convergencia nominal es una condición
+inexcusable para la real.
+
+LA EVIDENCIA DISPONIBLE
+
+El reciente interés por contrastar la hipótesis de CR se debe, en parte, a la
+evolución de la teoría del crecimiento resumida en el epígrafe precedente y, en par­
+te no despreciable también, a la aparición de algunos estudios fundamentales de
+construcción de series históricas, como los de Bairoch (1976), Maddison (1982,
+1989), Summers y Heston (1988), y Barro (1989).
+Analizaré la evidencia agrupando los trabajos en dos bloques. En el pri­
+mero incluiré los estudios cuyo objetivo básico es tratar de detectar la existencia o
+no de convergencia (véase de la Fuente, 1997, y Párente y Prescott, 1993). En el se­
+gundo, los que persiguen cuantificar el peso de distintos factores explicativos del
+crecimiento. La separación es posible, aunque los trabajos del primer grupo que tra­
+tan de contrastar la existencia de convergencia residual (no sólo bruta) también
+aportan evidencia sobre la importancia de los factores determinantes del creci­
+miento de las naciones.
+
+Estudios so b re co n v erg en cia b ru ta y resid u al
+
+El trabajo seminal en el área empírica es el de Barro (1991), para 98 paí­
+ses en el período 1960-1985, en el que se formula la idea de relacionar la tasa de
+14
+
+
+
+crecimiento del PIBc con el valor inicial de esta variable. El coeficiente de regre­
+sión simple para el conjunto de países resultó positivo, señalando la tendencia a
+partir de 1960 a que los países ricos de la muestra crecieran más deprisa que los
+pobres. Es decir, el resultado de Barro apuntaba a la existencia de divergencia bru­
+ta o no condicionada.
+Sin embargo, cuando se introducen variables adicionales explicativas en la
+regresión —aparte del valor inicial del PIBc—, aparecen resultados que apoyan la
+existencia de convergencia residual de tipo 13. Las variables introducidas por Barro,
+todas las cuales mostraron los signos esperados en sus coeficientes, fueron: capital
+humano inicial y tasa de inversión, ambas con signo positivo, e inestabilidad polí­
+tica y distorsiones de precios, ambas con signo negativo. El residuo no explicado
+mostraba una convergencia de valor muy estable en el tiempo y apreciable que se
+situaba en el 2% anual.
+Poco antes, o a partir del trabajo de Barro, aparecen otros varios que tra­
+tan de contrastar la misma tesis para países y períodos distintos, con bases de da­
+tos diferentes. Entre ellos merece la pena citar los de Dwrick y Niguyen (1989),
+Baumol (1986), Baumol y Wolff (1988), Ram (1991) y Maddison (1982).
+Todos muestran divergencia bruta o incondicional para el total de la mues­
+tra analizada en cada caso, pero convergencia bruta o residual 13 cuando, respecti­
+vamente, se hacen submuestras de países por niveles de PIBc o se introducen va­
+riables explicativas. En particular, Dwrick y Niguyen obtienen convergencia bruta
+cuando consideran sólo los países más ricos de la OCDE, definidos por tener un
+PIBc no inferior al 25% del de Estados Unidos; y convergencia residual para todos
+los países de la OCDE cuando introducen como variables explicativas el creci­
+miento de la población y la relación entre inversión y producto interior bruto.
+Del conjunto de estos estudios puede obtenerse una conclusión muy
+fuerte en favor de la hipótesis de la divergencia bruta entre países con distintos
+niveles de desarrollo o, expresado en términos más coloquiales, en favor de la
+idea de que a lo largo de siglo y medio, los países más ricos se han hecho cada
+vez más ricos y los más pobres se han alejado progresivamente de aquéllos. En
+la distribución de países por niveles del PIBc, las colas de la distribución se han
+ampliado.
+Un cuadro de Maddison (1994) puede proporcionar una panorámica de
+este fenómeno (más significativo todavía si se tiene en cuenta que en la periferia
+europea se incluye España, que, por el valor de su PIBc, se encontraba en el nú­
+15
+
+
+
+cleo en 1990, y Japón entre los asiáticos, responsable del salto observado entre
+1950 y 1973) (ver cuadro 1).
+Cuadro 1
+
+P IB «per cápitaCS PPC)
+Países (núm.)
+
+1820
+
+1870
+
+1890
+
+1913
+
+1950
+
+1973
+
+1990
+
+Núcleo (14)
+Perif. Europa (7)
+Latinoamérica (6)
+Asia (9)
+Africa (7)
+Máximo/mínimo
+
+1.055
+868
+570
+532
+400
+4:1
+
+1.723
+1.028
+785
+591
+400
+6:1
+
+2.191
+1.217
+998
+653
+400
+8:1
+
+3.068
+1.641
+1.350
+712
+580
+10:1
+
+4.813
+2.381
+2.180
+730
+1.044
+
+10.298
+6.089
+
+14.228
+7.931
+4.033
+4.484
+1.660
+39:1
+
+26:1
+
+3.661
+
+2.284
+1.636
+36:1
+
+El perfil temporal del fenómeno analizado puede sintetizarse en pocas pa­
+labras:
+• El liderazgo inicial es del Reino Unido, que incorpora a su órbita a me­
+diados del siglo xix a Bélgica, Holanda, Francia, Estados Unidos y, poco más tarde,
+a Alemania. Todos estos países pertenecen al núcleo.
+• El liderazgo es asumido por los Estados Unidos a finales del siglo xix,
+observándose convergencia bruta (aunque no acortamiento de distancias) para los
+ocho países más avanzados entre 1870 y la crisis de 1929; convergencia que se pier­
+de hasta 1945 por razones evidentes.
+• En las dos décadas doradas de crecimiento (1950-1973), se observa tan­
+to convergencia bruta como acortamiento de distancias, duplicándose el grupo de
+países que convergen, que pasa de veinte a cuarenta.
+• Tras 1970, la desaparición de los impactos, de una vez por todas, de la
+segunda posguerra mundial y las crisis de los años setenta hacen aparecer una di­
+vergencia moderada, pero apreciable.•
+• Dentro de cada uno de los grupos del cuadro 1, se aprecia convergen­
+cia bruta para el período total contemplado. En conjunto, y para el período com­
+pleto analizado, si se diferencia entre un grupo de treinta economías líderes y trein­
+ta y siete seguidoras, se detecta una divergencia bruta global y un proceso de
+alargamiento de distancias, debiéndose este último fenómeno, desde 1950, más al
+16
+
+
+
+escaso crecimiento de los países muy pobres que a buenos resultados de los del
+núcleo.
+
+Estudios so b re fa cto re s d eterm in an tes d el crecim ien to
+
+Estos estudios se cuentan por docenas, y son muy heterogéneos por las
+bases de datos que utilizan, la definición de variables explicativas, la muestra de
+países y el período temporal utilizado. Por ello, haré una selección muy restrictiva
+de unos pocos de ellos.
+1.
+La evidencia más abundante es, sin duda alguna, la relativa a la im­
+portancia del progreso técnico, la inn ovación y, por tanto, los gastos en I+D sobre
+el crecimiento económico. Restringiéndonos a la industria de los países de la
+OCDE, en el período 1960-1990, los trabajos de Dollar y Wolff (1988, 1994) sobre
+la convergencia en la PTF son una buena muestra de ello.
+En 1963, Estados Unidos presentaba ventajas en el total de los 28 sectores
+analizados en la PTF, derivadas de su liderazgo en términos de productividad del
+trabajo. Y, además, presentaba mayor peso del capital: no por composición secto­
+rial — es decir, porque el peso relativo de las industrias intensivas en capital fuera
+mayor— , sino porque todas las industrias presentaban mayores intensidades de ca­
+pital en Estados Unidos que en los países de la OCDE. Veinte años después, en
+1982, Estados Unidos había perdido el liderazgo en 18 de las 28 industrias analiza­
+das, y ocho países de la OCDE lo habían alcanzado en al menos una actividad.
+Esta situación inicial, y el proceso subsiguiente, pueden interpretarse de
+dos formas, y ambas evidencian la importancia del progreso técnico. Una es que la
+existencia de progreso técnico incorporado en los bienes de equipo, unida a una
+alta tasa de inversión, generara fuertes crecimientos de la PTF. Otra, que un alto rit­
+mo de mejora de la PTF, en presencia de progreso técnico no incorporado en los
+bienes de equipo, aumentara las tasas de beneficio y, por tanto, atrajera capital. Cuál
+sea la explicación más plausible es irrelevante en este contexto, porque ambas exi­
+gen un alto ritmo de progreso técnico para explicar el fenómeno observado.
+Esta interpretación de la importancia del factor tecnológico se acentúa en
+mayor medida si se tiene en cuenta que la modesta convergencia en la PTF que tie­
+ne lugar tras 1970 sólo se explica por la acumulación de capital, y no por cambios
+en el empleo, observándose una drástica reducción de las diferencias en el grado
+de capitalización de las distintas industrias entre Estados Unidos y los restantes paí­
+ses de la OCDE a finales de la década de los años ochenta.
+17
+
+
+
+2. El segundo bloque de evidencia relevante se refiere a la importancia
+de la ed u cación y la cu alificación de la mano de obra. Pese a las dificultades de
+medida tanto de niveles educativos como de stocks de capital humano, la cantidad
+de evidencia existente permite sostener con solidez algunas regularidades básicas.
+Los trabajos de Mankiw et. al. (1992), Grundlach (1995), Knight et. al. (1993), Krueger (1966) y Baumol et. al. (1994) proporcionan suficiente base.
+En general, las elasticidades estimadas del PIB respecto al capital humano
+nunca se encuentran por debajo de 0,25, llegando hasta 0,65. Más de la mitad de
+las diferencias de renta p e r cápita entre Estados Unidos y muestras de países en vías
+de desarrollo se explican por diferencias entre sus respectivos stocks de capital hu­
+mano. Entre los países atrasados, si no se incluye la educación, la convergencia es
+caótica, no siguiendo regularidad alguna; pero si se incluye, se observa que los paí­
+ses con niveles educativos semejantes convergen entre sí, aunque no se percibe
+acortamiento de distancias respecto a los países que parten de niveles educativos
+superiores. Si a esto se unen, por ejemplo, los resultados de Psacharopoulos (1985),
+que estiman la tasa de rendimiento social de la inversión en educación primaria por
+encima del 25% anual en el Africa subsahariana, Asia y Latinoamérica, o los de Lee
+et. al. (1994), relativos al papel de la educación en el «milagro» de Taiwán, no pa­
+rece caber duda alguna de la importancia de la educación en los procesos de cre­
+cimiento económico y convergencia, en todas sus fases.
+3. Otro factor relevante en la explicación de la CR es la inversión públi­
+ca en infraestructuras. En general, el capital público no militar presenta una alta
+contribución al crecimiento, sobre todo el referido a transporte, energía y el ciclo
+del agua (véase Aschauer, 1989 a,b), y en menor medida el utilizado en sanidad,
+educación y servicios generales. La explicación parece sencilla: la existencia de
+efectos externos positivos en actividades en que la exclusión no es fácil hace que
+la inversión privada sea subóptima, y el complemento de la pública resulta funda­
+mental para el crecimiento económico.
+4. Por último, la evidencia sobre otros factores de carácter institucional
+es más difícil de obtener, porque su medición resulta muy compleja. No obstante,
+existen piezas significativas, comenzando por el trabajo ya comentado de Barro
+(1991), en que tanto el grado de inestabilidad política como las distorsiones de pre­
+cios — indicativas de funcionamientos no competitivos de los mercados— mostra­
+ban un claro efecto negativo sobre el ritmo de crecimiento del PIBc. O como el tra­
+bajo de Fisher (1993) sobre el papel de la estabilidad macroeconómica en la
+sostenibilidad de los procesos de crecimiento.
+
+18
+
+
+
+Además existe evidencia del papel jugado por las instituciones en conjun‘ ción con los procesos de I+D. Parte de la homogeneización entre países avanzados
+se ha producido por el acercamiento del marco institucional de las empresas en los
+distintos países, y por la aproximación de las condiciones económicas internas de
+éstos. Otra parte relevante del acortamiento de distancias ha venido generada por
+el aumento relativo de los esfuerzos en I+D. El primer tipo de factores hace refe­
+rencia a la importancia de las estructuras de incentivos y de accesibilidad de los
+mercados en los procesos de acortamiento de distancias, al menos entre países del
+núcleo. El segundo, a las decisiones de los países para mejorar su base tecnológi­
+ca, que en buena parte depende de los incentivos y la apropiabilidad de la inno­
+vación.
+
+ALGUNA EVIDENCIA SOBRE LA CONVERGENCIA
+DE LA ECONOMÍA ESPAÑOLA
+
+Dado el objetivo del trabajo, este epígrafe será breve, pudiendo ampliar­
+se en Fuentes Quintana (1995), Martín (1995, 1997) y Raymond (1993, 1995).
+En general, los estudios sobre la CR de la economía española, por razo­
+nes de disponibilidad de datos, no comienzan antes de 1960, de forma que como
+España sigue la pauta de convergencia de los países avanzados (OCDE, Europa),
+se observa:
+1. Un período de convergencia entre 1960 y 1973, y de catching-up, que
+sitúa nuestro PIBc en el 76,6% de la media de la UE desde el 59% inicial.
+2. Un período de ampliación de distancias y divergencia real entre 1976
+y 1985, en que se alcanza el 70,3% del PIBc medio de la Unión Europea.
+3. Un período de nueva convergencia hasta 1993, en que se alcanza el
+76% del PIBc europeo.
+Estas cifras no deben conducir a una interpretación errónea por simplista.
+La fuerte convergencia de PIBc entre 1960 y 1973 se debe, en gran medida, a lo ba­
+jo del punto de partida y a la CR generalizada de todas las economías occidenta­
+les. El posterior mantenimiento de nuestro PIBc relativo no es interpretable como
+un estancamiento económico. En primer lugar, porque desde 1973 hasta 1985 se
+produce un ajuste tardío y muy costoso a la crisis de 1973, por la resistencia de los
+gobiernos de la época a reconocer sus efectos. En segundo lugar, porque España
+vive un proceso de transición de la dictadura a la democracia. Por último, porque
+19
+
+
+
+el mantenimiento del porcentaje del PIBc se produce sobre unos valores que cre­
+cen con fuerza a lo largo de estos años. Baste pensar que, tomando como referen­
+cia el PIBc alemán, aunque no ha habido CR neta en los últimos veinticinco años,
+nuestro PIBc real ha aumentado en un 90%.
+Quizá la forma más simple de resumir el proceso descrito es el cuadro 2
+(Raymond, 1995), donde se cuantifica el mismo: convergencia y acortamiento de
+distancias en 1960-1975, aumento de distancias en 1976-1985 y nuevo acortamien­
+to en 1986-1993. Además se observa que la fuente fundamental de crecimiento di­
+ferencial ha sido, en los dos primeros subperíodos, el aumento de la productividad,
+y en el tercero, el grado de utilización de los factores productivos.
+
+C uadro 2
+
+Variación del PIBc: España y la UE. Factores explicativos
+(Tasas de crecimiento anual reales)
+Período
+
+España
+Inputs
+PTF
+
+VE
+Inputs
+
+PTF
+
+(E )- VE
+Inputs
+PTF
+
+1 9 6 0 -1 9 7 5
+
+1 ,7
+
+4 ,9
+
+1 ,2
+
+3 ,0
+
+0 ,5
+
+1 ,9
+
+1 9 7 6 -1 9 8 5
+
+-0 ,3
+
+1 ,9
+
+0 ,7
+
+1 ,6
+
+- 1 ,0
+
+0 ,3
+
+1 ,3
+
+1,1
+
+1 ,1
+
+0 ,7
+
+0 ,2
+
+1 9 8 6 -1 9 9 3
+
+1 ,8
+
+Respecto a la PTF, cabe destacar que el 70% de su crecimiento viene ex­
+plicado por la distancia a la frontera eficiente de producción, lo que permite inter­
+pretar 3,4 puntos porcentuales del total de 4,9 del subperíodo 1960-1975 como de
+convergencia automática.
+Como puede observarse, el perfil temporal de la CR española en términos
+del PIBc es muy procíclico: tasas positivas diferenciales importantes en las expan­
+siones, y diferenciales negativas acusadas en las recesiones. Además, la CR se logra
+en mucha mayor medida por las mejoras en la PTF y no por el grado de utilización
+de los recursos; y, aun así, a ritmos moderados si se descuenta de la evolución del
+PIBc relativo el efecto cíclico y de distancia a la frontera de producción eficiente.
+Todo esto apunta hacia dificultades futuras del proceso de CR española:
+1.
+La política monetaria única y la mayor coordinación de las políticas fis­
+cales europeas —y de otras políticas— conducirá a un comportamiento cíclico de
+20
+
+
+
+las economías de la UE mucho más homogéneo que el actual, de forma que las ga­
+nancias relativas por desfases cíclicos tenderán a desaparecer.
+2. Dado el nivel de paro español, las mayores ganancias potenciales de
+CR se encuentran en la mayor utilización de factores. Si la tasa de paro española
+fuera la media de la UE, nuestro PIBc se aproximaría en 7,7 puntos percentuales al
+PIBc de la UE (Raymond, 1995). Pero este proceso es extremadamente difícil y exi­
+ge reformas estructurales e institucionales de gran calado. Y, en todo caso, así co­
+mo las ganancias de empleo son reversibles con el ciclo, las de PTF tienen mayor
+permanencia.
+3. Si nuestra CR ha de seguir descansando en la PTF, es de señalar que
+el crecimiento de ésta, a lo largo de los tres subperíodos considerados, ha sido de­
+creciente tanto en la UE como en España, de forma que volver a lograr diferencia­
+les positivos significativos requeriría un salto cualitativo en la PTF española; y, por
+tanto, un salto cualitativo en las actividades de generación, adquisición y asimila­
+ción de conocimientos, es decir, en las políticas de I+D y educativas.
+Resumiendo: en ausencia de reformas institucionales de gran calado y de
+un cambio estructural — cuantitativo y cualitativo— en las políticas de I+D, educa­
+ción e infraestructuras generales, no se producirá CR de la economía española. Y,
+además, p olíticas continuadas, porque, al igual que ocurre con la estabilidad macroeconómica — que requiere tiempo para cambiar las expectativas de las socieda­
+des y sus comportamientos— , lo más perjudicial con las políticas de I+D y educa­
+tivas son las discontinuidades, porque este tipo de capital se hace obsoleto y se
+deprecia con mucha facilidad si no se mantiene.
+Esto no es una condena, porque el 75-80% del PIBc de la actual UE nos
+permite colocamos entre la docena de economías más desarrolladas del mundo.
+Pero sí indica que mejorar esta posición relativa requiere esfuerzos continuados y
+cambios relevantes. Es posible, por tanto, que la sociedad española no desee pa­
+gar los costes que conlleva una mejora de 4 o 5 puntos porcentuales de nuestro
+PIBc relativo.
+Por último, respecto a los factores determinantes, existe una fuerte evi­
+dencia en favor de la importancia tanto del capital humano y del no humano (Ray­
+mond, 1993 y 1995; Martín, 1995, y González-Páramo, 1994) como del gasto en in­
+fraestructuras (Draper y Herce, 1993; Mas, et. al., 1993, y Argimon, et. al., 1994) y
+la estabilidad macroeconómica (Raymond, 1995).
+
+21
+
+
+
+EL SECTOR PÚBLICO Y LA CONVERGENCIA REAL
+
+Cuando se discute sobre el papel del sector público en los procesos de
+crecimiento económico, suele omitirse con frecuencia que existen tres tipos de paí­
+ses muy distintos. Uno primero, formado por aquellos países más pobres (menos
+de 200$ de PIBc al año según el BIRD), en que los problemas no son de diseño
+del sector público, sino de ausencia de las condiciones sociales y políticas que per­
+miten la existencia de una organización supratríbal. Un segundo grupo, formado
+por los países en vías de desarrollo que presentan deficiencias institucionales sig­
+nificativas, en los que el sector público no ha realizado aún las tareas de provisión
+de una red infraestructural moderna, ni poseen un grado de protección aceptable.
+El tercer grupo está formado por los países del núcleo. Las generalizaciones son im­
+posibles, y me referiré brevemente a este último grupo de economías, entre las que
+se encuentra la española. E incluso dentro de este último grupo las comparaciones
+entre economías como la estadounidense, la japonesa y la alemana, por ejemplo,
+plantean serios problemas de marco institucional y condicionantes históricos del
+proceso de crecimiento económico.
+Huyendo de simplificaciones tan al uso, los argumentos que justifican la
+presencia del sector público son numerosos y bien conocidos (fallos de mercado;
+pobreza y distribución; garantía del derecho de acceso de bienes de mérito; paternalismo; derechos de las generaciones futuras; provisión de un marco institucional
+y de una estabilidad que permita el desarrollo de la actividad privada); y sus fallos
+también (exceso de gravamen; captura de rentas; ciclo político). Y todos sabemos
+también que el énfasis de la acción pública en materia económica se ha trasladado
+desde la intervención en el área de la producción vía propiedad pública y contro­
+les físicos hacia la generación de incentivos y la regulación (véase Stern, 1991b).
+El tema sobre el que deseo reflexionar en esta ocasión es uno que surge
+inmediatamente de la exposición realizada sobre la CR. El sector público de los pa­
+íses desarrollados absorbe y genera porcentajes de la riqueza nacional en torno al
+40-45%, y presenta problemas bien conocidos de limitación del incrementalismo de
+ciertos programas de gasto y de topes a las rentas públicas derivados de cómo és­
+tas afectan a los incentivos de una economía capitalista de propiedad privada.
+Existe una fuerte evidencia en los países de la UE de que los gastos so­
+ciales han jugado y jugarán un papel fundamental en la cohesión social y, por tan­
+to, en el equilibrio institucional de las sociedades; es decir, en el mantenimiento de
+las condiciones políticas que permiten el crecimiento. Existe también una clara evi­
+dencia de que las inversiones en infraestructuras básicas, educación e I+D son fac­
+22
+
+
+
+tores esenciales del crecimiento. Y de que, por las características de este tipo de
+inversiones, la iniciativa privada no puede proveer por si misma la cantidad ópti­
+ma de las mismas. Por último, existe también fuerte evidencia de que las condi­
+ciones de estabilidad macroeconómica son cruciales para el crecimiento económi­
+co sostenido y, entre ellas, la drástica limitación de los déficit públicos.
+¿Cómo casar todo esto? Cabe suponer que se trata de un problema típico
+para los economistas: recursos escasos (simplificando, gasto público) y usos alter­
+nativos (protección social e inversión en I+D, educación e infraestructuras básicas).
+Pero es algo más que esto. Es un problema político: ¿qué peso relativo tiene sobre
+el bienestar social uno y otro tipo de gastos? Y también un problema económico
+más amplio: ¿cómo se obtienen las rentas públicas?, ¿pueden financiarse de otra for­
+ma algunos programas de gasto?, ¿cómo pueden mejorarse los objetivos persegui­
+dos por estos programas y su eficacia?
+Todo esto llama a la reflexión sobre un tema de la máxima importancia,
+más allá de discusiones bizantinas y pendulares sobre el tamaño del sector públi­
+co: ¿cómo utilizar los recursos públicos de forma que favorezcan la CR? Y esto im­
+plica reflexionar, entre otros, sobre los siguientes temas:
+1. Los ingresos públicos: su nivel, sus efectos sobre los incentivos, sus
+efectos sobre la distribución de la renta.
+2. Las fuentes de ingresos públicos: qué se debe gravar, cómo instru­
+mentar las transferencias de tanto alzado, el papel de la imposición indirecta, la de­
+fensa del patrimonio medioambiental.
+3. Posibilidades de financiación extrapresupuestaria en algunos progra­
+mas de gasto.
+4. Los programas de gasto público protector: qué se debe proteger, có­
+mo se debe proteger, protección incondicional frente a igualdad de oportunidades.
+5. Los programas de gasto favorecedores del desarrollo: qué tipo de in­
+versión educativa (escuela, Universidad, centro de excelencia, formación profesio­
+nal, en la empresa); qué gastos en I+D (asimilación, generación, transferencia, in­
+novación de proceso y de producto, investigación básica, aplicada, efectos de
+arrastre del sector público); qué gastos en infraestructura (básica, transportes, co­
+municaciones, redes comerciales, energía, etcétera).
+
+23
+
+
+
+CONCLUSIONES
+
+Parecen existir pocas dudas respecto a la existencia de ciertas característi­
+cas de los procesos de CR en el mundo. Los países del núcleo desarrollado han
+convergido por media en los últimos ciento treinta años, y a la nómina inicial de
+miembros del club se han incorporado algunos países (entre ellos, España, Japón,
+Italia). Los países pobres, por el contrario, se han alejado progresivamente de aqué­
+llos. Entre los países del núcleo, la fuerza básica de convergencia parece ser el co­
+nocimiento (tecnología y cualificación de la mano de obra). Entre los países más
+atrasados, la educación. Y en todos ellos, las infraestructuras básicas (redes) y las
+condiciones de estabilidad política y económica (convergencia nominal) explican
+buena parte de las diferencias observadas en sus resultados de convergencia real.
+España ha seguido la pauta de CR de los países del núcleo desde el final
+del aislamiento de posguerra civil, alcanzando en la actualidad niveles de PIBc que,
+con ciertas oscilaciones cíclicas, se encuentran situados en el 75-80% de la media
+del PIBc de la UEM. Este es un nivel de privilegio en términos globales, que nos
+sitúa dentro del grupo de doce países más ricos del mundo. Mantenerlo, sin mejo­
+rarlo, no es, pues, algo baladí.
+Los mayores logros conseguidos por la economía española en los últimos
+años se han situado en el campo de la estabilidad macroeconómica y la conver­
+gencia nominal. Y sostenerlos es fundamental porque resultan imprescindibles pa­
+ra mantener, aun sin mejorar, los niveles alcanzados. Cualquier intento de mejorar
+la convergencia real española sin mantener la nominal conduciría a un alejamien­
+to relativo de los países del núcleo.
+Fijar como objetivo de la política económica española el logro de la CR es
+loable, pero entraña, a medio y largo plazo, problemas muy complejos. Una polí­
+tica estable de educación, I+D e infraestructuras civiles que permita un salto cuali­
+tativo en la evolución de la PTF requiere compromisos políticos de largo plazo y
+es costosa en términos presupuestarios. Una política de reformas institucionales
+que permitiera mejorar significativamente el grado de utilización del trabajo es po­
+líticamente costosa y aumentaría el grado de incertidumbre personal, que debería
+ser compensado por una mejor protección e igualdad real de oportunidades. Y es­
+to también es costoso en términos presupuestarios. Además, la población españo­
+la envejece a ritmos fuertes, y ello impone restricciones adicionales por el lado del
+gasto público.
+Es, por todo ello, posible que la opción política mayoritaria de la sociedad
+española no sea, realmente, la CR, sino la no divergencia; es decir, el manteni24
+
+
+
+miento de nuestra posición rejtaÉtatík Porque en una economía globalizada, como la
+actual, conservar la posición relativa requiere mucha disciplina y huir de los «ata­
+jos», y el catching-up respecto a la actual UEM presenta costes políticos y econó­
+micos en el corto y medio plazos muy considerables. Sería, por tanto, útil saber si,
+más allá de las meras declaraciones de intención políticas, o de los sueños de to­
+dos — cualquiera desearía tener el PIBc alemán— , existe base en la sociedad es­
+pañola para un compromiso duradero en el objetivo de CR, conociendo bien los
+costes en términos de bienestar a corto y medio plazos que ello tiene.
+En caso de que ese compromiso no sea posible, sería mucho más realista
+aceptar la posición relativa actual —insisto, de privilegio— y fijarse como objetivo
+mantenerla; mejorando — o no, es una opción política— aspectos distributivos y de
+igualdad de oportunidades. Este objetivo, por modesto que pueda parecer, no es
+desdeñable, y requiere, también, comportamientos económicos muy disciplinados
+y programas de ingresos y gastos públicos más eficientes y equitativos que los ac­
+tuales.
+
+BIBLIOGRAFÍA
+A bram ovitz ,
+
+M. (1956), «Resource and output trends in the United States since 1870», Ameri­
+
+can Economic Review (Papen and Proceedings), 46, págs. 5-23.
+—
+
+(1986), «Catching-up, forging ahead and falling behind», Journal o f Economic History,
+46, págs. 385-406.
+
+A rgimón ,
+
+I.; G onzález -P áramo , J . M.; M artín , M. J ., y R oldán , J . M. (1994), «P rod uctividad e
+Moneda y Crédito, 198, p á g s. 207-241.
+
+in fraestru ctu ras e n la e c o n o m ía esp añola»,
+A rrow ,
+
+K. J. (1962), «The economic implications of learning by doing», Review o f Economic
+
+Studies, 29, págs. 155-173D. (1989a), «Is public expenditure productive?», Journal o f Monetary Economics,
+23, págs. 177-200.
+
+A schauer ,
+
+—
+
+(1989b), «Back to the G-7 pack: Public inverstment and productivity growth in the
+group of seven», Federal Reserve Bank of Chicago, Working Paper 89.
+
+B airoch , P.
+
+(1976), «Europe’s gross national product, 1800-1973», Journal ofEuropean Eco­
+
+nomic History, 5, págs. 213-340.
+B arro ,
+
+R. J. (1989), «A cro ss -co u n try stu d y o f g ro w th , sav in g a n d g o v em m en t» , NBER Wor­
+
+king Paper 2855,
+
+fe b re ro .
+
+25
+
+
+
+B arro, R. J. (1991), «Economic growth in a cross-section of countries», Quarterly Journal o f
+Economics, 106, págs. 407-443W. J. (1986), «Productivity growth, convergence and welfare: What the long run da­
+ta show», American Economic Review, 76, págs. 1072-1085.
+
+B aumol ,
+
+W. J., y W olff , E. N. (1988), «Productivity growth convergence and welfare. Reply»,
+
+B aumol ,
+
+American Economic Review, 78, págs. 1156-1159.
+W, J.; N elson , R. R., y W olff, E. N. (eds.) (1994), Convergence o f Productivity (CrossNational Studies and Historical Evidence), Nueva York, Oxford University Press.
+
+B aumol ,
+
+C ass ,
+
+D. (1965), «Optimal growth in an aggregative model of capital accumulation», Review o f
+Economic Studies, julio, págs. 233-240.
+
+C henery ,
+
+H. B. (1983), «Interaction between theory and observation in development», World
+
+Development II, 10, págs. 853-861.
+D., y W olff , E. N. (1988), -Convergence of industry labor productivity among advanced economies, 1963-1982», Review o f Economics an d Statistics, 70, págs. 549-558.
+
+D ollar ,
+
+—
+
+(1994), «Capital intensity and TFP convergence by industry in manufacturing, 19631985», en B aumol, et. al. (eds.), op. cit., cap. 7, págs. 197-224.
+M., y H erce , J. A. (1993), «Infraestructuras», Documento de Trabajo 9305, FEDEA.
+
+D raper ,
+
+S., y N iguyen , D. (1989), «OECD comparative economic growth, 1930-1985: Catchup and convergence», American Econom ic Review, dic., págs. 1.010-1.030.
+
+D w rick ,
+
+S. (1993), «The role of macroeconomic factors in growth», Journal ofM onetary Eco­
+
+F isher ,
+
+nomics, 32, págs. 485-512.
+F uente ,
+
+de la,
+
+A. (1997), «The empirics of growth and convergence: A selective review», Jour­
+
+nal o f Economic Dynamics and Control, 21, págs. 23-73.
+E. (1995), «El modelo de economía abierta y el modelo castizo en el des­
+arrollo de la España de los 90», en F uentes Q uintana y otros, Problemas económicos
+españoles en la década de los 90, Barcelona, Galaxia Gutenberg-Círculo de Lectores,
+págs. 61-176.
+
+F uentes Q uintana,
+
+A. (1952), «Economic backwardness in historial perspective», en The Progress
+(H oselitz , B. F. ed.), Chicago, University of Chicago Press,
+págs. 3-29.
+
+G erschenkron ,
+
+o f Underdeveloped Areas,
+
+G oldman S achs
+
+26
+
+(1995), The UK Economic Analyst, 10, núm. 3-4, págs. 1-26.
+
+
+
+G onzález -P áramo ,
+
+J. M. (1994), -Sanidad, desarrollo y crecimiento económico*, Documento
+
+de Trabajo 9405, Facultad Ciencias Económicas y Empresariales, UCM.
+E. (1995), -The role of human capital in economic growth: New results and alternative interpretations», Weltwirtschaftliches Archiv, 131, págs. 383-402.
+
+G rundlach ,
+
+H arrod ,
+
+R. F. (1939), «An essay in dynamic theory», Economic Journal, 49, págs. 14-33.
+
+M.; Loayza , N., y V illanueva, D. (1993), -Testing the neoclassical theory of economic
+growth: A panel data approach», IMF Staff Papers, vol. 40, págs. 512-541.
+
+K night ,
+
+K oopmans ,
+
+T. C. (1965), -On the concepts of optimal economic growth», en The Econometric
+
+Approach to Development Planning, Amsterdam, North Holland.
+A. O. (1966), -Factor endowments and per capita income differences among countries», Economic Journal, 78, págs. 641-659.
+
+K rueger ,
+
+K uznets ,
+
+S. (1951), -The State as a unit in study of economic growth», Journal o f Economic
+
+History, págs. 25-41.
+L ee ,
+
+M. L.; Liu , B. C h ., y W ang , P. (1994), «Growth and equity with endogenous human capi­
+tal: Taiwan’s economic miracle revisited», Southern Economic Journal, 51, págs. 435444.
+
+L ucas,
+
+R. E., Jr. (1988), -On the mechanics of economic development», Journal ofM onetary
+
+Economics, 22, págs. 3-42.
+—
+
+(1993), «Making a miracle», Econometrica, 61, 2, págs. 251-272.
+
+M ad dison ,
+
+A. (1982), Phases o f Capitalist Development, Oxford, Oxford University Press.
+
+—
+
+(1989), The World Economy in the 20th Century, París, OECD Development Centre.
+
+—
+
+(1994), -Explaining the economic performance of nations, 1820-1989», en B aumol
+et. al. (eds.), op. cit., cap. 2, págs. 20 -6 1 .
+N. G.¡ R om er , D., y V eil, D. N. (1992), «A contribution to the empirics o f economic
+growth», Quarterly Journal o f Economics, 107, págs. 408-437.
+
+M ankiw ,
+
+C. (1995), -La convergencia real en Europa: un referente clave para la política mo­
+netaria española», Papeles de Economía Española, 63, págs. 2-17.
+
+M artín ,
+
+—
+
+(1997), España en la Nueva Europa, Madrid, Alianza Editorial.
+
+M as , M .; M a u d o s , J.; P érez ,
+
+F., y U riel, E. (1993), «Competitividad, productividad industrial y
+dotaciones de capital público», Papeles de Economía Española, 56, págs. 144-160.
+
+27
+
+
+
+Párente ,
+
+S., y P rescott , E. (1993), «Changes in the wealth of nations», Federal Reserve Bank
+
+o f MlnneapoÜs Quarterfy Review, 17, págs. 3-16.
+G. (1985), «Retums to education: A further intemational update and implications", Journal o f Human Resources, 20, págs. 583-604.
+
+P sacharopoulos ,
+
+D. (1993), «Galton's fallacy and tests of the convergence hypothesis», Scandinavian
+
+Q uah ,
+
+Journal ofEconomics, 95 (4), págs. 427-443.
+R am ,
+
+A. (1991), «Education and the convergence hypothesis: Additional cross-country evidence», Economía Intem azionale, mayo-agosto, págs. 244-253.
+
+Ramsey ,
+
+F. P. (1928), «A mathematical theory of saving», Economic Journal, 38, págs. 543-559.
+
+R aymond , J.
+
+L. (1993), «Acortamiento de distancias, convergencia y competitividad en los paí­
+ses de la Europa de los doce», Papeles de Economía Española, 56, págs. 78-97.
+
+—
+
+(1995), «Convergencia real de España con Europa y divergencias regionales en Espa­
+ña», en F uentes Q uintana y otros, Problemas económicos españoles de la década de los
+90, Barcelona, Galaxia Gutenberg-Círculo de Lectores, págs. 517-552.
+
+R om er ,
+
+P. M. (1986), «Increasing retums and long-rate growth», Journal ofPolitical Economy,
+94, págs. 1.002-1.037.
+
+—
+
+(1990), «Endogenous technical change», Journal ofPolitical Economy, 98, págs. 71-102.
+X. (1994), «La riqueza de las regiones. Evidencia y teorías sobre crecimiento
+regional y convergencia», Moneda y Crédito, 198, págs. 13-80.
+
+S ala- i -M artín ,
+
+S o lo w ,
+
+R. M. (1956), «A contribution to the theory of economic growth», QuarterfyJournal o f
+
+Economics, febr., págs. 65-94.
+—
+
+(1957), «Technical change and the aggregate production function», Review ofE cono­
+mics an d Statistics, vol. XXXIX, págs. 312-320.
+
+S tern ,
+
+N. (1991a), «The determinants of growth», Economic Journal, 101, págs. 122-133.
+
+—
+
+(1991b), «Public policy and the economics of development», European Economic Re­
+view, 35, págs. 241-271.
+R., y H eston , A. (1988), «A new set of intemational comparisons of real product and
+pnce levels estimates for 130 countries», Review afincóm e and Wealth, marzo, págs. 1-25.
+
+S ummers,
+
+U zawa,
+
+H. (1965), «Optimun technical change in an aggregative model of economic growth»,
+
+International Economic Review, 6, págs. 18-31.
+28
+
+

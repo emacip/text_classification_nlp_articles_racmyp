@@ -1,0 +1,971 @@
+DEL IDEALISMO LINGÜÍSTICO ACTUAL
+Por el Académico de Número
+Excmo. Sr. D. José Luis Pinillos Díaz *
+
+Como les ocurre a todos los vocablos importantes, «idealismo» es un térmi­
+no polisémico y polémico, aunque el Diccionario de la Real Academia Española
+(DRAE), que es un Diccionario de uso, haya concedido a la entrada «idealismo»
+sólo dos definiciones. Una primera, próxima a la psicología: «Aptitud de la inteli­
+gencia para idealizar», donde «idealizar» significa a su vez «elevar las cosas sobre la
+realidad sensible por medio de la inteligencia o la fantasía». Y una segunda, clara­
+mente filosófica: «Condición de los sistemas filosóficos que consideran la idea como
+principio del ser y del conocer».
+Ahora bien, el idealismo tiene una larga historia. De hecho, hunde sus
+raíces intelectuales en Grecia. Es la filosofía estoica la que añade a la lógica formal
+aristotélica la categoría de «algo» (ti en griego, aliquid en latín), de la cual se deri­
+van otras dos: la categoría de lo que «es» (tó ón, participio presente de eimí, ser)
+plasmada en lo corpóreo, y la categoría de «lo meramente pensado» (tó lektón), de
+lo que sólo existe verbalmente. Y justo esta diferencia entre las cosas y las formas
+incorpóreas del alma o la conciencia que las representan es, en realidad, el punto
+de apoyo arquimedeo de la teoría del conocimiento de la modernidad: ¿cómo es
+posible pensar una relación de respectividad entre lo corpóreo y lo mental?
+Como psicólogo, tiendo a pensar que idealismo es ver las cosas de acuer­
+do con la idea que cada cual se ha formado de ellas, conforme a lo que uno cree
+
+*
+
+S e s ió n d e l d ía 21 d e ju n io d e
+
+2005.
+
+379
+
+
+
+que son o quiere que sean. Visto así, todo idealismo tendría de algún modo un tras­
+fondo subjetivo. El propio Hegel calificó alguna vez de subjetivo a su idealismo
+absoluto, y en la Enciclopedia de las ciencias filosóficas se deja decir que, después
+de todo, objetividad de pensamiento en el sentido kantiano también es hasta cier­
+to punto subjetivo:
+«Según Kant, aunque son categorías universales y necesarias, los pensa­
+mientos son tan sólo nuestros — están separados por un infranqueable abismo de
+la cosa, tal como existe aparte de nuestro conocimiento. Pero la verdadera objeti­
+vidad del pensar significa que los pensamientos, lejos de ser meramente nuestros,
+al mismo tiempo deben ser las esencias reales de las cosas y de todo lo que sea un
+objeto para nosotros»1.
+Como veremos más adelante, en esta ocasión Hegel no llega al fondo de
+la filosofía kantiana, y lo que más bien viene a dejar claro es que es él quien entien­
+de que los pensamientos son las esencias reales de las cosas y hace de la lógica
+una ontología. Realmente, las bases del idealismo moderno las establece Descartes
+con un dualismo metafísico que como se sabe divide al hombre en dos substancias
+— pensamiento y extensión— que supuestamente estarían comunicadas por la glán­
+dula pineal. Descartes no logra probar su teoría, recurre entonces a la buena fe de
+Dios y deja a la filosofía sumida en un profundo impasse. De un lado el raciona­
+lismo de Leibniz, que por cierto ha usado ya el término «idealista» con referencia a
+Platón y sus ideas, y el de su discípulo Wolf. De otro, el escepticismo de Hume, y
+entremedias nada, un insondable abismo metafísico.
+Kant es la figura universal que tiende entre ambas orillas del abismo el
+puente de su idealismo trascendental. Esta magna operación tropieza, sin embar­
+go, con dificultades que no son del caso ahora. En relación con nuestro problema,
+la principal dificultad para el Kant de La crítica de la razón pura es la clásica distin­
+ción, que hace suya Galileo, entre cualidades sensibles secundarias (com o el color)
+que existen sólo en nuestra representación, y cualidades primarias (com o la masa
+o la forma) que realmente pertenecen a las cosas y se dejan reducir a número, figu­
+ra y movimiento. Ya en los Prolegómenos Kant empieza a distanciarse de esta duali­
+dad y, como recordó hace tiempo Torretti1
+2, en la Crítica delju icio dice que «el color
+verde de los prados pertenece a la sensación objetiva, como percepción de un obje­
+to sensible; pero lo agradable del mismo pertenece a la sensación subjetiva, que
+no representa objeto alguno, es decir, al sentimiento...».
+
+1 En ciclop ed ia , $ 41Z, págs. 67-68.
+
+2
+
+R .
+
+T
+
+o r r e t t i
+
+,
+
+M a n u e l K a n t. E stu d io s o b r e los f u n d a m e n t o s d e la filo so fía crítica,
+
+561, Ediciones de la Universidad de Chile, 1961.
+380
+
+p á g s .
+
+560-
+
+
+
+La diferencia que establece Kant entre el idealismo trascendental y el idea­
+lismo kat’exokhén, es sin embargo terminante. Lo que afirma el idealismo, dice Kant
+en los Prolegómenos, es que sólo hay seres pensantes; las otras cosas que creemos
+percibir en la intuición son sólo representaciones de los seres pensantes, a las
+cuales en verdad no corresponde ningún objeto que se encuentre fuera de ellos Y
+yo, subraya Kant, por el contrario afirmo que las cosas nos son dadas como obje­
+tos de nuestros sentidos, objetos situados fuera de nosotros; aunque de lo que
+puedan ser en sí mismas nada sabemos, sino que conocemos sólo sus fenómenos,
+esto es, las representaciones que producen en nosotros al afectar nuestros sentidos.
+En definitiva, para Kant, «todo lo que nos es dado como objeto debe sernos dado
+en la intuición»3. Lo puesto por el entendimiento es el concepto. Y en la Introduc­
+ción a la Crítica de la razón pura, llama trascendental »a todo conocimiento que no
+se ocupa tanto de los objetos, como del modo de conocerlos, en tanto este modo
+sea posible a priori ». Kant, pues, en modo alguno trata de reducir el mundo real a
+ideas.
+Pues bien, como verán, la actitud de Hegel es bien distinta, más bien
+cabría decir que piensa lo contrario:
+«Es un error imaginar que los objetos que forman el contenido de nuestras ideas
+son lo primero que llega a nuestra mente y que es nuestra actividad subjetiva la que sobre­
+viene después y, mediante la ya citada operación de abstraer, enlazando los puntos poseí­
+dos en común por los objetos, forma los conceptos de ellos. Más bien, el concepto es autén­
+ticamente lo primero, y las cosas son lo que son merced a la actuación del concepto que en
+ellas reside y se manifiesta»4.
+
+Hegel, pues, arranca de la intuición intelectual del concepto que constitu­
+ye las cosas: idealismo en estado puro. Las cosas son lo que son, ya lo han oído,
+merced a la actuación del concepto que en ellas reside y se manifiesta. Resulta
+entonces que es una intuición intelectual la que permite a Hegel intus legere, o sea,
+hacer una lectura interior de la actuación del concepto que reside y se manifiesta
+en las cosas y hace de ellas lo que son. Habla como si no hubiera habido un nomi­
+nalismo, como si Vesalio no hubiera dejado atrás las definiciones substanciales de
+Galeno o Galileo hubiera seguido manejando las cualidades ocultas de la filosofía
+natural aristotélica.
+
+3 P ro le g ó m e n o s a toda m etafísica f u t u r a q u e p u e d a p resen ta rse c o m o cien cia , $ 13, Obser­
+vación I, 287.
+4 Cf. The C a m b r id g e C o m p a n io n to H egel, pág. 102 ( EnL. 163 Z2 ; 8, 313), Cambridge University Press, 1993.
+
+381
+
+
+
+Lo que sostiene Kant en líneas generales es que la intuición sensible debe
+subordinarse a un concepto que determine la forma de juzgar en general con
+respecto a esta intuición. Y este concepto es un concepto puro a priori del enten­
+dimiento, no una intuición intelectual de lo que son las cosas merced a la actua­
+ción de su concepto inmanente, como afirma Hegel. Los puntos de vista de ambos
+filósofos difieren, pues, notablemente y, antes de considerar la dimensión lingüís­
+tica del idealismo, haremos un intento más de aclarar la naturaleza de esta dife­
+rencia, que es clave para nuestro asunto.
+A lo que se opone Hegel no es a la lógica trascendental de Kant, sino al
+modo en que la desarrolla, pues a su juicio ese m odo conlleva una visión subjetivista del concepto. Hegel no acepta que la objetividad sea una creación mental y
+Kant tampoco, si se analizan sus argumentos sin un previo partiepris. En todo caso,
+si el idealismo trascendental de Kant según algunos bordea un subjetivismo mentalista, cosa que dista de haber sido probada, el idealismo absoluto de Hegel incurre
+por su parte en un claro logicismo subjetivo. Como han hecho notar Charles Tylor
+y Thomas E. Wartenberg, Hegel es un idealista conceptual para quien los concep­
+tos determinan la naturaleza de la objetividad. Hegel presupone que lo real es el
+Todo que define como Idea: la Idea es el Todo en desarrollo. En otras palabras, el
+idealismo absoluto significa que no existe nada que no sea la manifestación de la
+Idea, que no sea resultado de una necesidad racional. Por ello Hegel supone que
+der Geist, el Espíritu, no procede de la Naturaleza, sino de sí mismo, y es el proce­
+so creador que permite existir a todo lo demás. La realidad sólo existe como resul­
+tado del intento de existir del Geist. A última hora, para Hegel el idealismo filosó­
+fico consiste en reconocer que lo finito no posee un verdadero ser. Lo finito no sólo
+se altera como todas las cosas con el cambio: además, deja de ser, se volatiliza. La
+diferencia entre los idealismos estriba en cuán lejos llevan sus autores este princi­
+pio de volatilización de lo finito. Hegel lo llevó tan lejos que en su sistema el ser
+humano queda reducido a una cantidad despreciable Su idea del hombre es la que
+aplican los totalitarismos sin excepción, sean de derechas o de izquierdas. N o
+obstante, su pensamiento ha contribuido también a abrir caminos creadores al
+lenguaje que es menester reconocer. Kant, en cambio, siempre pensó que la perso­
+na humana no es un instrumento, un medio que deba utilizarse para fines ajenos
+a los que le son propios. La ciencia actual continúa refiriéndose constantemente a
+él. Las aproximaciones de Hegel a la ciencia no fueron en general muy felices.
+Hegel ha influido más en el mundo de lo humano; por lo pronto, no sólo, en la
+manera de concebir el tiempo histórico.
+Me parece, pues, que hay razones suficientes para sostener que el idealis­
+mo hegeliano es absoluto, y el idealismo de Kant es trascendental, bien entendido,
+382
+
+
+
+claro es, que «trascendental» significa la existencia de una relación necesaria de la
+mente a los objetos y de los objetos a la mente. Y aunque ya comprendo que la
+discusión sobre este asunto podría ser muy larga, a lo que vamos a atenernos aquí
+es a un hecho nada dudoso, que sin embargo es decisivo para diferenciar la signi­
+ficación que Kant y H egel tienen con respecto al problema del idealismo lingüísti­
+co. Kant no acepta en absoluto la existencia de una intuición intelectual en el ser
+humano y afirma, por el contrario, que la intuición sensible es absolutamente nece­
+saria para situar los objetos en el tiempo y el espacio y tener una experiencia de
+ellos, una experiencia de objeto. Para Hegel, en cambio, la intuición intelectual es
+un elemento primario de su pensamiento y ello hace que la experiencia de objeto
+se vaporice y que a la «impresión de realidad» de que hablaba Zubiri le ocurra tres
+cuartos de lo mismo. Con Hegel, la realidad se le va a uno de las manos, los refe­
+rentes reales se diluyen, acaban en nada y ello facilita la construcción lingüística
+del simulacro en que, andando el tiempo, se convertiría lo real para la postmoder­
+nidad que critica Baudrillard.
+Hechas estas consideraciones preliminares acerca de las diferencias que
+separan los sistemas de Kant y H egel en relación con el lenguaje, intentemos
+ahora situar mínimamentela posición de Hegel respecto a la cuestión del tiempo
+histórico.
+
+LA CONFIGURACIÓN DEL TIEMPO HISTÓRICO
+Aparentemente, la navegación por el mar de la historia no dispone de
+radiofaros que marquen con exactitud los cambios de rumbo que de cuando en
+cuando se producen en ella. A la hora de determinar el origen de una época o de
+un movimiento intelectual, los candidatos no son pocos. Para algunos la Edad
+Moderna se inicia con la caída de Bizancio, según otros comienza con el Descu­
+brimiento de América, hay quien opta por el Renacimiento, por la nueva ciencia
+del siglo
+, por la Ilustración, la Revolución francesa o quién sabe por qué más.
+Ultimamente, hay quienes piensan haber resuelto el problema negando la existen­
+cia de las épocas o de la historia misma. En su excelente monografía On the Future o/History. The Postmodernist Challenge and its Aftermath, Ernst Breisach descri­
+be puntualmente y con un equilibrado juicio crítico los pros y contras relativos a
+este intento de acabar, como Hegel, con la historiografía tradicional y, por tanto,
+con la historia o por lo menos con la historia «convencional»5.
+x
+
+v
+
+i i
+
+5 E.
+
+B
+
+r e is a c h
+
+,
+
+O n the F u tu r e o fH is to ry , University o f Chicago Pres, 2003.
+
+383
+
+
+
+Desde bastante antes del trivium y el quadrivium, entre las ciencias y las
+letras siempre han existido diferencias. No obstante, todavía en los siglos x v y x v i
+sus fronteras eran muy permeables, podían cruzarse con facilidad. Eugenio Garin,
+en La cultura del Rinascimento 6 cuenta, por ejemplo cómo León Battista Alberti
+(1404-1472), un humanista y escritor notable en latín y en italiano, era matemático,
+escribió tratados de arquitectura, pintura y escultura, y llevó a cabo también inte­
+resantes experimentos de óptica. Asimismo Paolo Toscanelli (1397-1492) fue un
+astrónomo notable, geógrafo, un gran matemático y médico.
+En el siglo xvu, los lenguajes de las humanidades y la ciencia comienzan
+a ser ya incompatibles. Es cierto que el pensamiento de los grandes humanistas del
+Renacimiento como Lorenzo Valla, Coluccio Salutati, Leonardo Bruni, Marsilio Ficino, Pico della Mirándola y tantos otros, no contaba con un discurso unificado que
+pudiera oponerse como un todo a la aún non nata ciencia de los «nuevos filóso­
+fos». Pero no creo que haga falta insistir en que la visión del mundo y de la vida
+en él de los humanistas sería difícilmente compatible con la mecánica de Galileo y
+la vatio cartesiana. Los humanistas exaltaban en sus escritos la espontaneidad y la
+libertad del hombre — Pico della Mirándola llegó a decir que el hombre podía ser
+lo que quisiera— mientras que, por el contrario, la mecánica de Galileo había
+borrado de su vocabulario toda idea de espontaneidad de la materia. Del principio
+de inercia, dedujo Galileo una serie de leyes y corolarios absolutamente incompa­
+tibles con la manera de pensar típica del humanismo renacentista.
+A partir de ese momento, entre el humanismo y la nuova scientia se alza
+una barrera lingüística difícil de salvar. Las virtudes o rasgos de carácter que más
+contaban en la rinascita, tales como la la iniciativa o la libertad del individuo
+quedaron excluidos por principio de una ciencia radicalmente objetiva en su meto­
+dología, cuyo primer principio teórico era la inercia — la tesis de que ningún cuer­
+po puede iniciar, detener o cambiar de dirección por sí mismo si no es por la acción
+de otro— y cuyo lenguaje obligado era de naturaleza matemática. La mecánica de
+Galileo excluía toda posibilidad de que un cuerpo iniciara, dirigiera o detuviera sus
+propios movimientos. Los cuerpos no tenían physis. Del nominalismo los científi­
+cos habían aprendido que las cosas no se explicaban por los universales o en virtud
+de su propia esencia, sino que se explicaban unas por otras, esto es, por sus rela­
+ciones externas, observables y manipulables.
+Se comprende, pues, que el hombre del Renacimiento, tan vinculado a la
+intencionalidad de sus proyectos, no iba a acatar sin más el imperio de una mecá-6
+
+6 E.
+
+384
+
+G
+
+a r in
+
+,
+
+La cu ltu ra d el R in a sc im e n to , pág. 135, EST, Milán, 1988.
+
+
+
+nica cuyas leyes universales, válidas urbt et orbi, válidas en todo tiempo y lugar,
+que impusieran condiciones a su empeño y castraran su libertad. El humanista fran­
+cés Montaigne (1533-1592), vaya por caso, una generación anterior a la de Galileo,
+pero conocedor de sus teorías, sostuvo que intentar resolver problemas individua­
+les deductivamente, esto es, como si fuesen casos de una regla general, era justifi­
+car la opresión y, como terminaría diciendo Lyotard, terminaría abriendo el cami­
+no a lo sublime terrorífico. O sea, Montaigne era ya un postmodernista avant la
+lettre, un partidario del método del caso en los asuntos humanos y un enemigo de
+la totalidad.
+Es curioso, pero no quiero dejar de mencionar el hecho, que ya después
+de Montaigne, a principios del siglo xvii, surge algo así como una vaga vislumbre
+del idealismo que dos siglos después desarrollará Hegel en su filosofía. John
+Barclay es un autor que, en su Icón animorum (1614), sostiene la tesis dé que cada
+siglo posee un «espíritu» o genio particular que inclina el alma de los mortales en
+alguna dirección: «Omnia saecula genius habent, qui mortalium ánimos in certa
+studia inflectere». La tesis de Barclajus fue compartida por otros autores de la época,
+como Petrus Firmanio o como el autor anónimo de la Germania milite destitutam,
+que estaban convencidos de que las acciones humanas dependían de un anima
+temporis, de un alma o espíritu del tiempo cuyo influjo nadie podía resistir a la
+larga. En esta interpretación del cambio histórico hay, a mi entender, un sesgo idea­
+lista que hace del espíritu, entendido como Geist, el factor ideal que configura las
+épocas históricas1.
+Durante el siglo siguiente, el siglo de las Luces, se emplea con frecuencia
+la palabra francesa esprit, despojada de sus connotaciones animistas y asociada al
+refinamiento de las costumbres, para designar fenómenos de convergencia históri­
+ca. Montesquieu (1689-1755), por ejemplo, habla de un espíritu general que guía la
+conducta humana, del que da razón acudiendo al influjo de factores naturales o de
+signo cultural. En El espíritu de las leyes (XLX, 4 y 5), el autor responde a la pregun­
+ta «Qué es el espíritu general», y dice que son muchas cosas las que gobiernan a
+los hombres: el clima, la geografía, pero también la religión, las leyes, los recuer­
+dos del pasado o las costumbres. De todo lo cual resulta, dice, un espíritu general
+que el legislador debe respetar en lo que pueda, porque es siguiendo su genio
+natural como los pueblos hacen las cosas m ejor7
+8.
+
+7 Sobre este asunto, R u d o l f E u c k e n , La s g r a n d e s corrien tes d el p e n s a m ie n to c o n tem p o rá n eo ,
+pág. 353, Editorial Jorro, 1919.
+8 Para una detenida exposición de este problema, véase el libro de
+l o
+
+,
+
+J
+
+u a n
+
+V
+
+a l e t
+
+d e
+
+G
+
+o y t is o
+
+-
+
+M o n te s q u ie u . Leyes, g o b ie r n o s y p o d eres, Editorial Civitas, Madrid, 1986.
+
+385
+
+
+
+Hegel está de acuerdo en eso, excepto que el genio natural o el espíritu
+de que habla Montesquieu es para él der Geist, una palabra alemana de connota­
+ción idealista. Hegel la emplea en su Filosofía de la Historia Universal9 al afirmar
+que los pueblos alcanzan el cénit de su historia cuando realizan su concepto: «Los
+pueblos, dice, son el concepto que el “espíritu” (.Geist) tiene de sí mismo». Excep­
+to que el sentido en que Hegel emplea la palabra Geist es el de un idealismo abso­
+luto, no el histórico y «sociológico», digámoslo así, que tenía la palabra esprit, en
+Montesquieu. En la obra citada más arriba, Hegel subraya el error en que a su juicio
+incurre siempre la historiografía convencional cuando habla de estas cosas:
+«el historiógrafo corriente que cree y pretende conducirse receptivamente, entregándose a
+los datos recientes, no es en realidad pasivo en su pensar. Trae consigo sus categorías y ve
+a través de ellas lo que hay. Excepto que lo verdadero no se ve en la superficie visible».
+
+Hegel parece olvidar que también él lleva consigo unas categoría y ve a
+través de ellas lo que hay y lo que no hay. Sólo que las suyas se diferencian de las
+tradicionales en una trasposición del plano de realidad, de forma que lo que llama­
+mos real «sólo existe en y para el pensamiento» 9
+101
+. Por supuesto, Hegel tiene todo el
+derecho del mundo a manifestar lo que piensa, y debo decir que lo que pensó no
+fue ninguna banalidad. Pero el hecho es que por más que pretenda distinguir una
+historia inmediata, de una historia reflexiva y de una historia filosófica, su histo­
+riografía no es a la postre muy distinta de la que han practicado toda la vida los
+historiógrafos corrientes, o sea, intentar definir períodos, fases, estructuras, épocas,
+configuraciones u otras discontinuidades o «cortes» del proceso histórico, de acuer­
+do con lo que cada cual piensa que es la naturaleza de este.La clasificación es la
+misma de siempre, aunque la interpretación varíe: «historia universal», «mundo
+oriental», «mundo griego», «mundo romano», «mundo germánico», «edad media»,
+«edad moderna», «esferas» como «idealismo subjetivo», «idealismo objetivo», y, final­
+mente, como «idealismo absoluto», sin olvidar por cierto los «fundamentos geográ­
+ficos» que han contribuido a la «formación (Bildung) del aspecto no-libre, dado en
+la figura» 11. Hegel determina las peculiaridades y caracteres distintivos de los
+pueblos y les pone nombres. Es lo que se hace en la Historia Natural con los perío­
+dos glaciales, como por ejemplo el de la última glaciación, la llamada ice age, edad
+del hielo, que empezó hace unos 75.000 años y duró hasta hace unos 15.000 o
+13.000. El historiador, para no perderse en una interminable procesión de «sucesos
+
+9 J. G.
+
+W .
+
+H
+
+e g e l
+
+,
+
+L eccio n es s o b r e la filo so fía d e la historia u n iversa l, traduc.
+
+d e
+
+José Gaos,
+
+Revista de Occidente, Madrid, 1928.
+10 O p. cit., pág. 3311 G. W . F . H e g e l , D ife r e n c ia e n tr e los sistem as d e filo so fía d e F ich te y Schelling, pág. 18,
+nota 4, Tecnos, Madrid, 1990.
+
+386
+
+
+
+sucesivos», carentes de todo hilo conductor y puntos de referencia que pongan
+sentido en el proceso histórico, necesita de períodos que lleven nombres que sirvan
+para identificar las relativas, pero reales estabilidades de las épocas. Hegel, también.
+A última hora, los «cortes» de que habla Agnes Heller en su Teoría de la historia son
+necesarios «para comprender la continuidad en la discontinuidad» 12.
+Por lo que optó Hegel fue por ordenar las etapas del proceso histórico a
+través de una razón dialéctica de la Idea, en la que fácilmente todos gatos son
+pardos. No sé. En última instancia, Arón Guriévich subraya en Las categorías de la
+cultura medieval13 que «cada época es interesante e importa por sí misma, inde­
+pendientemente de su relación con el posterior curso de la Historia». A mí también
+me lo parece.
+La palabra época viene, como se sabe, del término griego «épokhé*, «para­
+da», «detención», «lugar del cielo donde un astro se detiene». Por extensión, pues,
+una época vendría a ser como el alto que la historia hace en su camino para que
+brille el momento estelar de un pueblo o de una civilización. Repito que el concep­
+to de época se ha empleado sin grandes dificultades en la historia natural para
+designar períodos climáticos: el Pleistoceno comienza 1.600.000 años a. de C. y
+finaliza en el 10.000 de la misma era. La historia del hombre ha usado también este
+concepto para distinguir lapsos de tiempo o períodos que presentan una cierta
+homogeneidad, unas características propias, distintas de las que caracterizan a otros
+períodos. Sin embargo este concepto de época o edad, que se utilizó principal­
+mente desde el siglo
+hasta principios del xx en la enseñanza de la historia, ha
+sido objeto de una interminable discusión entre los historiadores partidarios del
+«continuismo» histórico y los que sostienen que en la historia hay «rupturas» o cortes,
+cambios rápidos y profundos, que determinan en ella transformaciones significati­
+vas. En cualquier caso, sin estos puntos de referencia, la historia sería una especie
+de flujo caleidoscopio, un torrente de datos inconexos. En el mejor de los casos
+cabría establecer en ella conjuntos de agregación, pero no conjuntos de totaliza­
+ción, no «totalidades» o configuraciones con una entidad propia como «clasicismo»,
+«mundo antiguo», «edad media», «renacimiento», «ilustración», «romanticismo», «edad
+moderna», «modernidad». La periodización es el vía crucis de la historia, pero nos
+guste o no, lo cierto es que la demarcación de períodos o «cortes» en el proceso
+histórico es un problema tan difícil de resolver como de evitar. La historia da la
+impresión de ser una fluida corriente de sucesos, pero es porque los hechos han
+x
+
+12 A.
+
+H
+
+e l l e r
+
+13 A.
+
+G
+
+u r ié v ic h
+
+,
+
+v
+
+i i i
+
+Teoría d e la historia, pág. 133, Editorial Fontamara, Barcelona, 1982.
+,
+
+Las ca tegorías d e la cu ltu ra m ed ieva l-, págs. 24-25, respectivamente, Taurus,
+
+1990.
+
+387
+
+
+
+sido organizados previamente en épocas o totalidades identificables. Si no fuera por
+ese hilo interior que los une y da figura, no habría res gestae, es decir, no habría
+historia. Al fin y al cabo, esto es lo que también hizo a su modo Hegel.
+La substitución que lleva a cabo del concepto tradicional de época por una
+dialéctica del espíritu está ya de algún modo presente en su primera obra filosófi­
+ca, La diferencia entre los sistemas filosóficos de Fichte y Schelling (1801). En esta
+obra de juventud, Hegel bosqueja los rasgos esenciales de su filosofía. «Escisión»
+entre el entendimiento y la vida es, a su juicio, la fuente de la necesidad de una
+filosofía en la que los opuestos recuperen su genuina función dialéctica.
+«Cuanto más firme y espléndido es el edificio del entendimiento, tanto más se agita
+el impulso de la vida que está presa en él com o una parte que pugna por salir en busca de
+la libertad... La necesidad de la filosofía surge cuando el poder de unificación desaparece de
+la vida de los hombres y los opuestos pierden su viva relación e interacción y cobran auto­
+nomía» 14.
+
+En otras palabras, Hegel dice que si desaparece de la vida humana la capa­
+cidad de totalizar, de integrar en una totalidad «dialéctica» lo que acontece en el
+mundo alrededor, se puede hablar «del fallecimiento del mundo real». El hombre
+termina desentendiéndose de la vida social y la política. Pierde así algo tan valio­
+so como es su mundo, su época, pero lo que gana es todavía mejor. De una parte
+se libera de la red de relaciones que le limitan y a la vez integran en una totalidad
+política determinada, pero al mismo tiempo inicia un proceso de emancipación de
+su autoconciencia, a cargo de un yo autónomo que le libra de los particularismos
+de la época que restringían su visión del mundo y de la vida en él. A este proce­
+so Hegel lo denomina Aufklarung, no en cuanto movimiento cultural del siglo x v iii ,
+sino como una fase de la historia que se configura siempre que el yo emerge como
+algo autónomo, como la conciencia de su propia mismidad.
+En sus Lecciones sobre la filosofía de la historia universal, al hablar del
+Estado griego, Hegel dice que, hacia la primera mitad del siglo v a. de C., los sofis­
+tas fueron los primeros que introdujeron la reflexión subjetiva, la doctrina de que
+cada cual debe obrar según su propia convicción. Pero aquí no habla de las trage­
+dias de Esquilo (525-456 a. de C.) que fueron el punto de partida de un estudio de
+la conciencia de sí en la Antigüedad, en toda su concreción y profundo dramatis­
+mo humano. Hay en esta historia filosófica de Hegel demasiada distancia de lo vivo
+a lo pintado. Las ideas no sangran; las víctimas de las ideas, sí. Las ideas no sufren,
+
+14 Op. cit., 18-19.
+388
+
+
+
+pero quienes padecen persecución por la justicia son los hombres y mujeres de
+carne y hueso que han decidido que es preferible morir a dejar de pensar aparte,
+a tener que soportar los dictados de la familia, de los arcontes de la polis o de los
+mismos dioses. Se me podrá argüir entonces que el ánimo, el thymós que sostenía
+toda esa lucha era al fin y al cabo subjetivo. Sí, desde luego lo era. Excepto que si
+como pensaba Platón es real todo lo que produce efecto, realísimas fueron tanto
+las decisiones y voliciones subjetivas de quienes ordenaron esas muertes, como las
+de los héroes y heroínas que murieron por pensar aparte. Eso no se arregla alegan­
+do que la espiritualidad del mundo consiste en que sólo la idea es real y todo lo
+demás se pulveriza en la nada. Por ese camino se llega pensar que el hombre es
+una cantidad despreciable, algo que se pulveriza en aras de la Idea: de una idea
+constitutiva, no meramente regulativa de la realidad. O sea, de la Idea que han
+manejado todos los totalitarismos para justificar la eliminación de quienes se empe­
+ñan en pensar por su cuenta y razón.
+En fin, no tiene sentido seguir intentando demostrar lo obvio. A alguien
+que le preguntó lo que era el logos, Sócrates le contestó que el logos era algo de
+lo que no se debía hablar con quien no lo tenía. Hegel evidentemente lo tenía. Es
+claro que el pensamiento de Hegel no ha sido ajeno al curso de la historia. Entre
+las muchas e importantes repercusiones que su pensamiento ha tenido en el mundo
+real, una de ellas ha sido el materialismo dialéctico y, en cierto modo, también el
+idealismo lingüístico de nuestro tiempo. Hegel sobrevoló el mundo real desde la
+altura de un idealismo absoluto que ha tenido unos efectos que han sido bien
+reales. Falta por ver cuál ha sido la cualidad moral de todo eso. Lo que defiende
+Kant en su filosofía es que la persona humana es un fin en sí misma, no un medio
+o instrumento que se consume en aras de una Idea, por mayúscula que sea la I con
+que se encabeza la palabra.
+La defensa de la emancipación del pensamiento en la Ilustración de la
+Grecia clásica no se logró sin más, sólo por la conversión interior de un yo autó­
+nomo. Se logró en una dura lucha real y efectiva, una lucha a muerte de algunos
+héroes o heroínas que dejaron la vida en el empeño. En este drama pasa lo que en
+el toreo: los críticos hablan desde detrás de la barrera, pero los toreros mueren de
+verdad en la arena. Liberarse de la red de relaciones reales del tiempo en que se
+vive cuesta «sangre, sudor y lágrimas». 2.500 años han transcurrido desde que Antígona, Sócrates o Ajax murieron por pensar aparte, pero el número de personas que
+han muerto en el siglo xx por las mismas causas no ha disminuido. Mecanismos tan
+reales y efectivos como Auschwitz facilitaron la tarea.
+En fin, no voy a seguir intentando demostrar lo obvio. El idealismo abso­
+luto fue cosa de Hegel. Para él, no había más filosofía verdadera que el idealismo.
+389
+
+
+
+A última hora, el Espíritu, der Geist, no era un resultado de la Naturaleza, era un
+resultado de sí mismo. Para Kant, en cambio, la intuición de las cosas siempre fue
+condición necesaria para que el entendimiento y sus categorías pudieran esque­
+matizarla y elaborar su concepto. Más aún, los conceptos puros y trascendentales
+sólo pueden surgir del entendimiento, y tienen que hallar en la intuición la condi­
+ción que les determina en el espacio y en el tiempo.
+Entendámonos. No estoy diciendo que el pensamiento de Hegel haya sido
+ajeno al curso de la historia. Entre las muchas e importantes repercusiones que su
+filosofía ha tenido en el mundo real, una de ellas ha sido, aparte del materialismo
+dialéctico marxista, el influjo que sus ideas han tenido en el giro lingüístico del
+siglo xx, esto es, en la crítica a que están siendo sometidos el universalismo del
+proyecto de la Ilustración y las nociones de «realidad», «objetividad» y «verdad» que
+han sustentado la historiografía clásica y de algún modo también la lingüística y la
+filosofía del lenguaje tradicionales. El fracaso de Hegel con respecto a la ciencia
+natural y a su lenguaje ha sido estrepitoso. Lo cual no impide, sin embargo, que su
+manera de pensar sea la que prevalece hoy en el lenguaje de lo humano. Va perfi­
+lándose, pues, paso a paso, el concepto de «idealismo lingüístico». ¿Sera acaso que
+las palabras son capaces de crear realidades de naturaleza extralingüística?
+Tratemos ahora de encontrar algunos hilos conductores o eslabones que
+medien entre la filosofía de Hegel y el idealismo lingüístico del siglo xx.
+
+LOS PIONEROS DEL IDEALISMO LINGÜÍSTICO
+Más o menos, cuando la física del siglo xix multiplica y precisa sus
+lenguajes, también en la lingüística tienen lugar innovaciones importantes. Las
+palabras empiezan a tener más relaciones entre sí que con sus referentes exterio­
+res. Justo en el año 1800, el genial jesuíta y filólogo español Lorenzo Hervás y
+Panduro dice que «el orden de las ideas es según el artificio de las lenguas», o lo
+que es lo mismo, da razón de por qué el lenguaje no es un espejo de la realidad,
+no es un reflejo neutro del mundo real. En la Introducción, artículo III, l.°, del
+Catálogo de las lenguas publicado en Madrid el año 1800, pueden leerse estas
+memorables palabras:
+«Todos los hombres, al empezar a hablar una lengua, empiezan a dar a sus ideas
+el orden que a las palabras de ellas se da según su propio artificio gramatical. En unas
+lenguas, la partícula negativa, por ejemplo, se pone siempre al principio de la oración, en
+otras al fin, y en otras se introduce en m edio de las sílabas que componen la dirección llama­
+da verbo... Esta misma variedad sucede con las direcciones que se llaman artículos, y con
+
+390
+
+
+
+otra clase de dicciones, y según ella los hombres en sus respectivas lenguas hablan, y
+también piensan. Una nación, pues, que habla y piensa según el artificio gramatical de su
+lengua no muda jamás este método de hablar y de pensar... El orden de las ideas en cada
+hombre es según el de las palabras de su lengua; o es según el orden que el artificio grama­
+tical de ésta da a las palabras»
+
+Veinte años después, en 1820, Wilhelm von Humboldt sostiene que la
+palabra es «la forma interior del pensamiento» y publica un notable estudio Sobre
+
+la diferencia de estructura de las lenguas humanas y su influencia en el desarrollo
+intelectual de la humanidad que, a diferencia del Catálogo de Hervás, tiene un
+importante eco en su país. Wilhelm Wundt apoya en la teoría de Humboldt su
+Vólketpsychologie, su gran tratado de psicología de los pueblos, y Lazams y Steinthal fundan una revista dedicada a la relación del pensamiento y el lenguaje. Es
+decir, el estructuralismo lingüístico emprende ya su marcha en el siglo xix.
+Probablemente, la pérdida de las colonias y la propia política española
+contribuyeron a que los importantes descubrimientos de Hervás y Panduro no
+hallaran la difusión que deberían haber tenido. La intervención de Estados Unidos
+en el 98, en la guerra de Cuba, en Filipinas y en Puerto Rico despertaron el interés
+de algunas Universidades Norteamericanas por las lenguas indígenas. Por ejemplo,
+Edward Sapir (1834-1939), profesor de la Universidad de Ann Arbor, Michigan,
+sugiere en 1929 que «el orden de lenguaje no está significativamente a merced de
+las pautas de interacción no-lingüística 15. Franz Boas (1858-1942), un antropólogo
+y etnólogo alemán, pasa a la Universidad de Ottawa y luego a la de Columbia, e
+investiga la interrelación de las categorías gramaticales de las lenguas indígenas con
+la cultura. En suma, en la primera mitad del siglo xx, son ya muchos los lingüistas
+americanos — Boas, Bloomfield, W horf entre otros— que cultivan un estructuralis­
+mo lingüístico aplicable a las lenguas indígenas de América. Y en ellas claramente
+se comprueba que el lenguaje no es una representación mental objetiva, como un
+espejo de la realidad; se le entiende más bien como una mediación constructiva y
+sesgada del mundo extralingüístico. Esta corriente americana incidió fuertemente
+en la antropología social, como se recoge en la monumental obra de Dell Hymes,
+Language and Culture in Society16, y posteriormente en el psicoanálisis 17. Pero el
+paso decisivo lo habían dado antes dos figuras singulares de las que, por fin, vamos
+a hablar.
+
+15 Cf.
+
+K
+
+e n n e t
+
+L. P ike, L a n g u a g e in R ela tion to a U n ifie d T h eory o f the S tructu re o f H u m a n
+
+B e h a v io r, Second Edition, pág. 665, *On the “Grammar” o f Society», Mouton & Co., La Haya, París.
+
+16 D.
+
+H
+
+y m e s
+
+,
+
+L a n g u a g e a n d C u ltu r e in Society, Harper and Row, Nueva York, 1964.
+
+17 Cf.
+
+P
+
+e t e r
+
+L
+
+o e w e n b e r g
+
+,
+
+D e c o d in g the Past. The Psych oh istorica l A p p ro a c h , University o f Cali­
+
+fornia Press, 1969.
+
+391
+
+
+
+FE R D IN A N D D E SAUSSURE Y CHARLES SANDERS PEIRCE
+
+A principios del siglo xx, dos autores que habían nacido en el siglo xix y
+nunca llegaron a saber uno del otro, dieron el pistoletazo de salida al estructuralismo lingüístico del siglo xx. Fueron el lingüista suizo Ferdinand de Saussure (18571913), con su Curso de lingüística general, que vio la luz el año 1915, en el que
+por cierto no habla del estructuralismo, y el pragmaticista norteamericano Charles
+Sanders Pierce (1839-1914) cuyo inacabado opus mágnum, que debería haberse
+titulado A System o f Logic, considered as Semiotic, jamás llegó a publicarse.
+En su célebre Curso, Saussure estableció una distinción entre el signifi­
+cante y el significado — de algún modo congruente con la tradicional oposición
+entre la materia y el espíritu— que ejerció en seguida un profundo influjo en el
+pensamiento francés y también, aunque posteriormente y en menor medida, en el
+mundo anglosajón, a partir de un renombrado encuentro entre franceses y ameri­
+canos que en los años sesenta tuvo lugar en Baltimore. La «semiología» de Saussu­
+re, que también llamó así a su sistema lingüístico, nació con una deriva idealista
+que se desarrolló y propagó en los años treinta bajo el signo polisémico de un
+estructuralismo lingüístico multiforme. En Estados Unidos fue en cambio la «semió­
+tica» de Charles Sanders Peirce — que también bautizó así sus reflexiones— la pers­
+pectiva que prevaleció inicialmente. La diferencia principal entre ambas teorías
+estribó quizá en que Saussure no consideró nunca seriamente la relación de su
+sistema con el mundo real, y Peirce, más realista que él, se interesó a fondo por las
+matemáticas, la epistemología y las ciencias de la naturaleza.
+Saussure decidió que los signos lingüísticos de su sistema estaban forma­
+dos por tres componentes inseparables: el significante (serie de sonidos de habla
+o marcas en una página) el significado, que era el concepto o la idea que subya­
+cía al signo y el nexo o valeur que los unía. Saussure derivó así hacia el idealis­
+mo, reconociendo que el significado del signo era un concepto y no un objeto.
+Sostuvo también que cada significante adquiría su valor semántico por virtud de
+la posición diferencial que ocupaba en la estructura del sistema lingüístico, o sea,
+por su diferencia u oposición con los significados de otras palabras del sistema, y
+no por su relación con las cosas. Como hemos dicho, Saussure nunca llegó a
+considerar de hecho el problema de si un mundo objetivo le era o no esencial al
+lenguaje. En definitiva, para él, el significado era algo que en el fondo tenía más
+que ver con la posición que el signo ocupaba en su sistema lingüístico cerrado
+que con el mundo a que hacía referencia. Estas teorías de Saussure, y muchas otras
+puntualizaciones suyas que no es posible señalar en esta disertación, han sido
+seminales para el desarrollo de la gramática estructural, del estructuralismo lingüís392
+
+
+
+tico, del postestructuralismo, del deconstructivismo y del postmodernismo en
+general. Saussure nunca negó que los signos pudieran guardar algún tipo de rela­
+ción natural con las cosas a que se referían. Simplemente el tema era ajeno a sus
+planteamientos y no le preocupó. Sólo que como su teoría dejaba en un equilibrio
+precario la relación entre el significante y el significado, el valeur, hubo quien fue
+más allá y negó de plano la relación natural del signo con su significado. El postes­
+tructuralismo se quedó con el carácter diferencial del signo, pero prescindió de su
+valor referencial.
+Este giro teórico, tematizado por autores como Derrida, Roland Barthes,
+Bataille, Lacan, Foucault, Lyotard y más tarde por Ian Hacking ha tenido un fuerte
+eco en las lenguas modernas de Occidente y constituye una clave para entender el
+idealismo lingüístico de nuestro tiempo. De hecho, el valor de los referentes reales
+ha ido desvaneciéndose en el habla y el lenguaje del presente, en parte como resul­
+tado de las teorías que redujeron el lenguaje a un sistema de signos que expresa­
+ban significados arbitrarios, esto es, términos que no remitían a significados esta­
+bles o esenciales.
+Peirce consideró el lenguaje no sólo, pero ante todo, como un vehículo
+que depositaba en la mente algo que venía de fuera. Un signo era para Peirce
+«some thing which stands to somebody for some thing», o sea, «algo que represen­
+ta algo para alguien». En Postmodern Semiotics18, M. Gottdiener ha sugerido que la
+lección esencial de Peirce es que «el Objeto nunca es destruido; tan sólo está ausen­
+te (¿inadvertido?)». Pero si se mira bien, tanto Saussure como Peirce estaban dando
+tácitamente por supuesta la observación de Hervás y Panduro, según la cual el
+lenguaje no era el medio neutral de representar las cosas que se había supuesto, o
+dicho de otro modo, que nunca fue un espejo que reflejara las cosas tal como eran.
+Zubiri dijo alguna vez que logos era la palabra que decía lo que son las cosas. Sólo
+que eso es lo que justamente está bajo sospecha en el idealismo lingüístico de
+nuestro tiempo, como yo mismo tuve ocasión de recordar hace ya años en esta
+casa. Bajo este latente supuesto es posible considerar, creo, lo ocurrido en el giro
+lingüístico del siglo xx.
+Al comenzar esta ponencia, dije que tal vez en todo idealismo hubiera un
+rescoldo de subjetividad. En los tres o cuatro úlümos decenios se ha reavivado este
+rescoldo; es ya una brasa que alimenta el fuego de la subjetividad lingüística de
+nuestro tiempo. Incide poco en el lenguaje de las ciencias naturales, algo más en
+
+18
+M. G
+Blackwell, Cambridge, Mass., 1995.
+
+o t t d ie n e r
+
+,
+
+Postmodern Semiotics. Material Culture and the Form of Postmodern Life,
+
+393
+
+
+
+el de las ciencias humanas y, de lleno, en lo que Francisco Rodríguez Adrados ha
+descrito como La lengua en el mundo de lo humano 19.
+Peirce, más favorable que Saussure a tener en cuenta los referentes de las
+palabras, de todos modos coincidió con él en la necesidad de flexibilizar la rela­
+ción de los significados con los referentes y no tuvo reparo en criticar a los lógicos
+por su resistencia a desarrollar sistemas de lógica borrosa. A última hora, sin embar­
+go, Peirce piensa que el mundo objetivo subyace siempre de algún modo a la rela­
+ción cognitiva entre lo que el llama «reprentatem>• y el «interpretante, que vienen a
+ser respectivamente el significante y el significado de Saussure. Pero no por ello
+admite que todos los sistemas culturales sean verdaderos como pretenden los
+«translingüistas» del sistema de Saussure. Por supuesto, el sistema semántico de Peir­
+ce no está libre de problemas, pero es más potente que el de Saussure. En primer
+lugar, reconoce la existencia de objetos extralingüísticos reales, evitando así el idea­
+lismo. Además contiene una clasificación semiótica de signos que permite analizar
+todos los sistemas de significación, incluidas las formas que poseen una estructura
+axiológica. Finalmente, como en Peirce todos los símbolos son interpretados por
+otra idea que es en sí misma un signo, no hay significados correlacionados especí­
+ficamente con los significantes. El significado es siempre concebido como un
+proceso interpretativo volátil, lo cual es precisamente el elemento central del
+deconstruccionismo y el anhelo de un postmodernismo contrario a la moral de la
+uniformidad.
+En líneas generales, el «estructuralismo» puede definirse como lo hace el
+DRAE, con una definición de mínimos como «teoría y método científico que consi­
+dera un conjunto de datos como una estructura o sistema de interrelaciones». La
+definición conviene formalmente a todos los sistemas de esa clase, los cuales, sin
+embargo, distan de ser sólo lingüísticos. A bote pronto, recuerdo que hay por lo
+menos los siguientes:
+Estructuralismos antropológicos (Claude Lévy-Strauss, Structural Análisis in
+Linguistics and Anthropologie. Gilbert Durand, Les structures anthropologiques de l ’imaginairé), y estructuralismos etnográficos («indigenous structure», «idiosyncratic structure o f
+feelings» en relación con el sujeto).
+
+Estructuralismos económicos iberoamericanos, absorbidos por el funcionalismo
+norteamericano.
+
+19
+
+F.
+
+R
+
+o d r íg u e z
+
+A
+
+d r a d o s
+
+,
+
+«La lengua en el mundo de lo humano», I V J o r n a d a s d e lingüística,
+
+13-25, Universidad de Cádiz, 17 y 18 de noviembre, 1998.
+
+394
+
+
+
+Estructuralismos lingüísticos (Saussure, Trubetzkoy, Jakobson, Hjelmslev y un
+larguísimo etcétera que Don Gregorio Salvador y Don Francisco Adrados conocen mucho
+mejor que yo).
+
+Estructuralismos lógicos (Piaget, Gentzel, Kantor, Godel).
+Estructuralismos matemáticos (el seudónimo Bourbaki, Albert Lautment).
+Estructuralismos psicológicos (Wundt, Krüger, Titchener, Kenneth L. Pike, Towards
+a Theory o f the Structure o f Human Behavior. Maurice Merleau-Ponty, La structure de
+comportmeni).
+Estructuralismos sociológicos (Durkheim, Parsons, Merton).
+
+De otra parte, en un pequeño pero agudo libro sobre el estructuralismo,
+Jean Piaget ha dedicado especial atención al papel desempeñado por el concepto
+de estructura en física y biología (Max Planck, Claude Bernard), en filosofía, en el
+marxismo, en las Sciences humaines francesas y yo me permitiría añadir, en la histo­
+riografía, donde el concepto de época es también de naturaleza claramente estruc­
+tural. Asimismo, sentidos y usos del término estructura, de Bastide y otros20.
+En suma, aunque una definición genérica pueda convenir formalmente a
+todos los estructuralismos, la heterogeneidad de sus contenidos más bien exige que
+excluye la necesidad de distinguir unos de otros. Así lo ha hecho, por ejemplo, el
+Oxford English Dictionary en su última edición, donde además de una definición
+de mínimos del estructuralismo überhaupt define también varios estructuralismos
+específicos, entre ellos el lingüístico, y asimismo el postestructuralismo:
+
+Estructuralismo (lingüístico): «Toda teoría en la que el lenguaje se consi­
+dera como un sistema de signos que se relacionan entre sí a varios niveles».
+Postestructuralismo: «Extensión y crítica del estructuralismo, especialmen­
+te tal como se usa en los análisis de textos que cuestionan los conceptos de repre­
+sentación y, por tanto, destacan la importancia de la pluralidad y posibilidades del
+significado».
+Por supuesto, estas indicaciones son insuficientes. Cubren los rasgos bási­
+cos de los principales estructuralismos y posestructuralismos lingüísticos europeos,
+pero no los de los lingüistas y etnólogos americanos. Añadiré, para terminar, dos
+breves observaciones. En un libro sobre la evolución del caos 21, Catherine Hayles
+
+20 Publicados ambos en Paidós.
+
+21K .
+p orán ea s,
+
+N . H a yle s , L a e v o l u c i ó n d e l c a o s . E l o r d e n d e n t r o d e l d e s o r d e n e n la s c ie n c i a s c o n t e m ­
+
+Gedisa, Barcelona, 1993-
+
+395
+
+
+
+describe las etapas principales por las que el proceso disolutorio del significado ha
+invadido, a su juicio, la cultura contemporánea. En su primera fase, dice, se desna­
+turalizó el lenguaje, es decir dejó de considerársele una representación de la natu­
+raleza de las cosas. Luego se desnaturalizó el contexto, como resultado de la fisu­
+ra semántica establecida entre el signo y su referente. Después se desnaturalizó el
+tiempo, eliminando la secuencia temporal del «antes y el después» que asegura, a
+través de la memoria, la identidad de la persona. Finalmente, una vez desnaturali­
+zados lenguaje, contexto y tiempo le tocó el turno al hombre mismo, que por virtud
+de lo anterior quedó privado de una naturaleza en que apoyar sus decisiones. Es
+interesante, pero sin embargo tengo para mí que el proceso de disolución del signi­
+ficado a que se refiere Kantherine Hayles tiene dos caras, no es tan sólo negativo.
+En una de sus últimas publicaciones, Historical Ontology 22, Ian Hacking
+ha escrito dos páginas que titula escuetamente Linguistic idealism, idealismo
+lingüístico. Recuerda en ellas que la idea filológica que Georg Hamann, el amigo
+de Kant, tenía del logos era la misma que la de San Juan Evangelista: «Sin palabras,
+no hay razón, no hay mundo. En la palabra reside la fuente de toda creación y
+orden». Hacking hace dos lecturas de esta frase. Una hacia atrás, y otra hacia delan­
+te. En la primera, de acuerdo con San Juan, Hamann dice que el lenguaje y el
+mundo fueron creados a la par por el logos divino, por la palabra de Dios. Y en la
+segunda lectura, que llama «verbalismo», dice que nada existe sin lenguaje. Se trata
+de un idealismo bastante común en nuestra época, muy similar al dictum de Berkeley: «ser es ser mencionado». Una frase que, según el propio Hamann, es un error
+sintáctico, un solecismo, dado que «idealismo lingüístico» es la doctrina de que sólo
+existen las ideas. Un nombre mejor, propone Hacking, sería «idealismo lingüístico»,
+una expresión que, con un significado ligeramente distinto, introdujo Elizabet
+Anscombe en 1976, y ha sido utilizada también por otros autores, como Hilary
+Putman.
+Según Hamann, la fábula de San Juan es un malentendido. N o hubo cosas
+a las cuales Dios o el hombre pusieran un nombre. Las cosas individuales sólo exis­
+ten cuando hay palabras que las describan. Esas palabras no son artefactos priva­
+dos que discurren dentro del alma de un Adán de la Ilustración. Son palabras de
+lo que ha sido la primera comunidad humana. En suma, para Hamann el lenguaje
+era profundamente no-representativo. Era lo opuesto de lo que afirmaban las
+teorías lingüísticas de la Ilustración.2
+
+22
+Mass., Londres, 2002.
+
+396
+
+I.
+
+H
+
+a c k t n g
+
+,
+
+H isto rica l O n to lo g y , págs. 138-139 y 150, Harvard University Press, Cambridge
+
+
+
+El lenguaje, comenta Hacking, es creativo, a él le debemos la existencia y
+la estructura de nuestros pensamientos sobre el mundo, la forma y la lógica de lo
+que llamamos razonamiento. Excepto que, por una aparente circularidad que a
+Hamann le parece comprensible, este lenguaje creativo existe sólo en el seno del
+uso y la tradición. El ser humano verdaderamente original no es el que posee un
+pensamiento privado que después hace público. Original es el hombre capaz de
+cambiar el lenguaje con que en realidad pensamos y utilizamos de verdad. Es,
+concluye Hacking, nuestra versión comunal del mundo, tanto del interior como del
+exterior la que cuenta. Unas páginas después, Hacking añade que aunque él mismo
+hubiera dicho de Hamann que era un «verbalista» homologable con los «idealistas
+lingüísticos» o «lingualistas» de nuestro tiempo, esta comparación era equívoca,
+podía inducir a error. Para Hamann, sin palabras no habría mundo ni razón. A su
+juicio, la historia de Adán poniendo nombre a las cosas en el paraíso es completa­
+mente falsa. Dios no creó primero las cosas y luego las asignó unos nombres que
+impartió a Adán. El verbalismo de Hamann no es el incoherente y trivial idealismo
+lingüístico de nuestro tiempo, incluso si ha sido precursor. Porque es una teoría de
+la creación, de cómo lo material viene de la palabra. Incoherente, quizá, pero no
+trivial. Es una teoría de la continua creación que llevamos a cabo los humanos
+cuando al cambiar nuestro lenguaje nos cambiamos a nosotros mismos. Para bien
+o para mal, habría que añadir.
+Pero déjenme decir, que el término «lingualismo» que se propone como
+sustituto edulcorado de «idealismo lingüístico», en castellano presenta estrechas
+asociaciones con la forma en que hacen uso de la lengua los vertebrados supe­
+riores para calmar la sed o para otras funciones. «Idealismo lingüístico» es un térmi­
+no más refinado, que requiere hablar de nuevo de la categoría que los estoicos
+llamaron to lektori, lo meramente pensado, lo que sólo existe verbalmente, o mejor
+dicho, lo que aunque se haya pensado y dicho, como ha ocurrido con el unicor­
+nio, no existe realmente. La cuestión es que si retomamos la definición platónica
+de realidad — real es todo lo que produce efectos— habremos de reconocer que
+el Amadís de Gaula y los libros de caballerías crearon un mundo literario, unas
+formas sociales y unos modos de pensar y de sentir que ponen de manifiesto hasta
+qué punto lo que se piensa, si se expresa verbalmente, puede afectar a la conduc­
+ta de los hombres y generar realidad, es decir, cambiarla.
+Cuando refiriéndome a Hegel dije que las ideas no sienten ni padecen, dije
+una verdad a medias. Las ideas no sienten ni padecen, pero cuando se expresan
+verbalmente pueden hacer sentir y padecer ah ser humano, determinar cambios
+importantes en su comportamiento. Llamaré, pues, «idealismo lingüístico» a toda
+forma de habla o escritura que suscite fantasías, ideas o creencias en la mente del
+397
+
+
+
+hombre y, eventualmente, en su conducta. Cuando se traducen en palabras esas
+vivencias subjetivas pueden producir cambios materiales y sociales importantes. La
+trasposición de la palabra al hecho es una de las mediaciones que Hegel «el oscu­
+r o ha sabido manejar como ninguno. Podemos llamarlo «pensar como querer». ¡De
+acuerdo! Pero aun así, de todos modos no debemos olvidar que, para bien o para
+mal, esa mediación es poderosa y funciona en las ideologías. Integrar esta media­
+ción en la razón práctica es lo que hizo, entre otras muchas cosas, ese filósofo de
+referencia para la modernidad que ha sido y sigue siendo Manuel Kant.
+En fin, es mucha le tela que queda por cortar y, obviamente, ya no hay
+tiempo para más. Haría falta una segunda parte, de esas que tienen mala fama, para
+puntualizar las formas que los estructuralismos, los postestructuralismos, decons­
+truccionismos y postmodernismos de turno han adoptado dentro del género que
+hemos venido designando idealismo lingüístico. Dejaré, pues, la tarea para otra
+ocasión, si es que la hay y los señores académicos y nuestro Presidente consideran
+que esta segunda parte puede merecer la pena. Muchas gracias.
+
+398
+
+

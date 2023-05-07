@@ -1,0 +1,591 @@
+LOS RETOS DE LA ERA DIGITAL
+Por el Académico de Número
+Excmo. Sr. D. Juan-Miguel Villar Mir *
+
+El objeto de esta presentación es poner de manifiesto que el factor fundamental de los grandes cambios tecnológicos que se están sucediendo en todos los
+sectores de la sociedad son las personas. Son ellas las que tienen la responsabilidad
+de definir y de realizar un uso inteligente de las nuevas tecnologías para conseguir
+el valor añadido esperado. Y también son ellas, las personas, quienes se enfrentan
+a nuevos retos y a nuevos desafíos morales, en números antes desconocidos.
+LÁMINA 1
+
+Estructuraré mi intervención en seis
+partes diferenciadas:
+
+1. Comenzaré haciendo referencia a
+las que se han denominado revoluciones industriales, y especialmente a “la llamada cuarta revolución industrial” y a los avances tecnológicos asociados.
+2. Analizaré a continuación cuál es la
+esencia y en qué consiste la denominada
+Transformación Digital y cuáles son sus principales elementos y componentes.
+3. Pasaré luego a abordar la estrategia y la organización necesarias en
+la Transformación Digital, para dar una respuesta eficaz a la implantación de los
+avances tecnológicos.
+4. Presentaré unas reflexiones sobre el impacto humano y moral en la
+Transformación Digital.
+5. Comentaré algunas ideas sobre la Inteligencia Artificial.
+
+*
+
+Sesión del día 26 de febrero de 2019.
+
+241
+
+
+
+6. Y terminaré presentando, de modo abreviado y rápido, algunos
+ejemplos representativos de últimas tecnologías dentro de este ámbito; ejemplos en la industria, en la medicina y en la Inteligencia Artificial.
+1. LA LLAMADA CUARTA REVOLUCIÓN INDUSTRIAL
+Como es sabido, la historia del Homo
+sapiens, desde su aparición hace unos ciento cincuenta mil años, ha sido un ejemplo de cambio
+permanente. En su inicio, un cambio lento durante milenios, hasta que con la aplicación de
+energías distintas de las animales, aparecen
+en 1776 las máquinas de vapor y surge la llamada
+revolución industrial. En los años transcurridos
+desde entonces, los avances científicos y tecnológicos vienen impulsando cambios cada vez más
+acelerados, surgiendo así lo que hoy llamamos sucesivas revoluciones industriales.
+LÁMINA 2
+
+En efecto, a finales del siglo xviii y gracias al invento del escocés James
+Watt, de lograr el aprovechamiento eficaz de la energía del vapor, fue posible
+sustituir el trabajo manual del hombre y de otros animales por el de las máquinas.
+En esa primera revolución industrial, los talleres se transformaron en fábricas y
+nacieron los conceptos de obreros industriales y de ingeniería industrial.
+La aparición del gas y del petróleo como nuevos combustibles y del motor
+eléctrico como nueva fuerza motriz fueron la base de la que se ha dado hoy en
+llamar segunda revolución industrial, a principios del siglo xx. Se inicia entonces un
+avance gigantesco dentro de industrias como la química, el petróleo, la electricidad
+o el acero, avance en el que destaca la introducción por Henry Ford, en la industria
+y en los primeros años del siglo xx, de la cadena de montaje en movimiento.
+Entrada la segunda mitad del siglo xx, la revolución producida por el
+ordenador dio lugar a lo que se definió como la Sociedad de la Información,
+desencadenante de la hoy llamada tercera revolución industrial.
+LÁMINA 3
+
+242
+
+Y de esta tercera estamos pasando
+ahora a la llamada cuarta revolución industrial
+o Industria 4.0, con la denominada era digital
+que gira en torno a un gran avance de la informática y de las comunicaciones, en un proceso de integración hombre-máquina.
+
+
+
+LÁMINA 4
+
+Como dato significativo, actualmente
+el ranking de los valores de mercado de las
+principales empresas del mundo, las de mayor
+capitalización en la Bolsa, está liderado por
+empresas del sector tecnológico (esencialmente, informática y comunicaciones), que en la
+mayoría de los casos se han creado en los últimos 20 años; como Apple, Microsoft, Amazon y Google.
+
+Industria 4.0 es un término acuñado para significar la integración de las
+prácticas industriales y de fabricación tradicionales con el mundo tecnológico.
+Fue oficialmente presentado por parte de consultoras alemanas en el Congreso
+de las Tecnologías de la Información celebrado en Hannover en 2013. Este concepto de Industria 4.0 se alterna con el de “fábrica inteligente” en los distintos
+foros sobre los avances tecnológicos. Y lo que algunos llaman la “democratización de las tecnologías” alude a que las medianas y pequeñas empresas también tienen la oportunidad de acceder a las nuevas tecnologías, lo que supone
+la eliminación de las barreras hasta ahora existentes para que las pequeñas
+empresas puedan competir con las grandes organizaciones.
+La Industria 4.0 se basa, por tanto, en sistemas que combinan estructuras
+físicas con software informático y tecnología de comunicaciones, donde el llamado internet de las cosas (IoT, por las siglas en inglés de Internet of Things), consiste en el intercambio de información entre diferentes elementos; y parece llamado a jugar un papel fundamental en la economía mundial en los próximos años.
+Este concepto de Industria 4.0 nacido y promovido en Europa convive
+con iniciativas similares lanzadas en otras áreas geográficas. Estas iniciativas no
+se limitan al ámbito industrial, sino que alcanzan todos los ámbitos de la sociedad (gobierno, educación, sanidad y otros).
+Es también interesante y representativa la iniciativa llamada Society 5.0,
+que ha sido acuñada y presentada en 2017 por parte de entidades japonesas y
+que alude a un conjunto de nuevos desafíos en la sociedad nipona, similares a
+los que vivimos en Europa. Por ejemplo, los nuevos desafíos del envejecimiento de la población con un 26,3 % mayor de 65 años, el aumento de las enfermedades crónicas, la gestión de los desastres naturales o el elevado coste del
+mantenimiento de las infraestructuras.
+La llamada Society 5.0 se creó para aplicar a la sociedad, en su conjunto y a
+todos sus sectores, el potencial que aportan las nuevas tecnologías. Esta iniciativa japonesa merece una reflexión por su objetivo de impactar globalmente en la sociedad.
+Pretende resolver diversos retos y problemas sociales “incorporando las innovaciones
+y tecnologías que acompañan a la cuarta revolución industrial —como el internet de
+
+243
+
+
+
+las cosas, la Inteligencia Artificial y los robots— a cada sector industrial y a la vida
+social. Pretenden de esta manera que la sociedad futura pueda estar creando de forma permanente nuevos servicios con más valor añadido, consiguiendo que la vida
+de las personas sea más confortable y sostenible”, como expresa el texto del Gobierno del Japón: Una Sociedad Digital para una Población que Envejece.
+2. LA TRANSFORMACIÓN DIGITAL
+LÁMINA 5
+
+¿Qué es el mundo digital?
+La Real Academia Española define el
+término digital como: “Dicho de un dispositivo
+o sistema, que crea, presenta, transporta o almacena información mediante la combinación
+de bits”. El término digital se refiere a aplicaciones informáticas comunicadas; es decir, se
+refiere al uso de las TIC (Tecnologías de la
+Información y las Comunicaciones).
+
+Toda esta tecnología se basa en el sistema binario, que es la base del funcionamiento de las computadoras, las cuales almacenan y transmiten la información empleando secuencias en base 2, que solo tienen dos dígitos, el cero y el uno.
+La Real Academia Española define el bit como: “Unidad de medida de
+cantidad de información, equivalente a la elección entre dos posibilidades
+igualmente probables”. Y esas dos posibilidades en el sistema binario y en la
+informática son siempre el cero y el uno.
+La unidad básica de las computadoras es el byte, término que acuñó
+en 1957 el científico informático Werner Buchholz. Un byte a su vez se compone
+de ocho bits, es decir, ocho dígitos binarios que sólo pueden ser ceros o unos, y
+con cuya combinación se puede representar cualquier número, letra o símbolo.
+Principales magnitudes:
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+244
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+byte = 8 bits.
+kilobyte (kB o kbyte) = 103 bytes.
+megabyte (MB o Mbytes) = 106 bytes.
+gigabyte (GB o Gbytes) = 109 bytes.
+terabyte (TB o Tbytes) = 1012 bytes.
+petabyte (PB o Pbytes) = 1015 bytes.
+exabyte (EB o Ebytes) = 1018 bytes.
+zettabyte (ZB o Zbytes) = 1021 bytes.
+yottabyte (YB o Ybytes) = 1024 bytes.
+
+
+
+Según la compañía francesa SOGETI (Société de Gestion des Entreprises et de Traitement de l’Information), desde 2006 se han generado más datos
+de los que se habían producido en toda la historia de la humanidad hasta entonces, y sus estimaciones indican que el volumen de información digital alcanzará en 2020 los 35,2 zettabytes.
+La humanidad se encuentra inmersa en un nuevo mundo donde ya
+existe una gran dependencia de los medios digitales, tanto en nuestros lugares
+de trabajo como en nuestros propios hogares, e incluso mientras disfrutamos de
+nuestras actividades de ocio. De hecho, el 53 % de la población mundial ya
+utiliza internet, lo que se traduce en 4.000 millones de usuarios. De ellos, 3.200
+millones se relacionan a través de las redes sociales y 3.000 millones utilizan
+plataformas de mensajería instantánea como WhatsApp.
+LÁMINA 6
+
+La página de internet Worldometers,
+cuyas fuentes de información proceden de organismos como Naciones Unidas y la Organización Mundial de la Salud, aplica sus propios algoritmos para producir y comunicar estadísticas
+en tiempo real de los principales parámetros de
+crecimiento a nivel mundial. La American Library Association la valoró en 2011 como una
+de las mejores páginas de internet de referencia.
+
+Algunos parámetros que podemos consultar:
+–
+–
+–
+–
+–
+
+Población mundial.
+Número de fallecimientos.
+Usuarios de internet.
+Emails enviados.
+Emisiones de CO2.
+
+Estamos ya en un nuevo escenario que pone a nuestra disposición una
+cantidad enorme de información en formato digital, a la que podemos acceder
+de forma muy simple desde multitud de dispositivos: ordenadores, televisiones,
+teléfonos, vehículos, e incluso a través de cualquier sensor donde se instale un
+chip (circuito integrado con material semiconductor capaz de grabar y almacenar números en base dos).
+Así, el volumen de información que se almacena en formato digital
+(en base dos) es enorme y prácticamente la gran mayoría de los documentos que actualmente se generan ya son digitales, así como los principales
+medios de información. A esto se añade el hecho de que las principales
+bibliotecas del mundo, los museos y las hemerotecas ya se han transformado en digitales.
+
+245
+
+
+
+Por otro lado, las relaciones y los trámites con las distintas administraciones públicas, así como con las entidades financieras, se realizan ya hoy mayoritariamente a través de internet y, además, el comercio electrónico o e-commerce (la
+compraventa de productos y servicios a través de internet) ya es algo habitual
+para el 22 % de la población mundial. En el caso concreto de España, el 58 % de
+los consumidores ya realizan compras a través de internet en tiempo real.
+Las computadoras pueden tratar toda esta información digital de forma
+mucho más rápida y mucho más eficiente que los seres humanos. Y ya en la
+actualidad existen sistemas analíticos que, en base a sus algoritmos, se encargan
+de buscar, seleccionar e interpretar la información.
+Por ejemplo, importantes compañías aseguradoras se basan en estos
+sistemas para realizar el cálculo de las primas de sus pólizas.
+Todo esto se encuadra dentro del paraguas de lo que se denomina
+Transformación Digital, que pretende englobar los cambios asociados con la
+adopción de la tecnología en todos los ámbitos de la sociedad humana; en la
+industria, en la ciencia, en las relaciones sociales y en los negocios.
+LÁMINA 7
+
+Una característica de esta revolución
+digital es la aceleración existente en la incorporación de las nuevas tecnologías a los distintos ámbitos y sectores de la sociedad. Hemos pasado de necesitar 75 años para
+alcanzar 50 millones de usuarios en telefonía
+clásica a principios del siglo xx, a los 2 años
+que se necesitaron para lograr esta misma cifra en las redes sociales.
+
+Esta rápida aparición e incorporación de las tecnologías en los distintos
+sectores y ámbitos de la sociedad (tanto a nivel empresarial como personal) es
+lo que algunos denominan el Tsunami digital.
+Este cambio imparable genera incertidumbres, riesgos, oportunidades
+y retos, siendo necesario entender cómo “reinventarse” continuamente para
+aprovechar este escenario completamente nuevo.
+En julio de 1960, un prestigioso economista alemán y profesor de la Harvard
+Business School, Theodore Levitt, escribió su célebre artículo “La miopía del marketing”. Dicho artículo ilustraba ejemplos reales de empresas que languidecieron por no
+haber entendido el mercado en el que estaban, ni las necesidades de sus clientes.
+Es importante que ante las oportunidades sociales y de negocio que
+nos aportan las nuevas tecnologías, las empresas y la sociedad en su conjunto
+
+246
+
+
+
+sepan definir correctamente su estrategia digital, sean certeras al estimar el impacto de dichas tecnologías en sus sectores, y se den cuenta de que esta revolución ya se encuentra entre nosotros y ha venido para quedarse. Las oportunidades que ofrecen estas tecnologías no esperan.
+Como decía Charles Darwin: “No es la más fuerte de las especies la que sobrevive, y tampoco la más inteligente. Sobrevive aquella que mejor se adapta al cambio”.
+3. LA ESTRATEGIA Y LA ORGANIZACIÓN
+EN LA TRANSFORMACIÓN DIGITAL
+LÁMINA 8
+
+La Transformación Digital no es solamente un asunto de tecnología. Hablamos de
+cómo cambiar los modelos de negocio y la forma en que se involucran todos los actores implicados.
+
+Con frecuencia se utiliza erróneamente
+este término y las empresas en ocasiones lo emplean para indicar que han “digitalizado” sus documentos, para obtener una reducción del uso
+del papel o para automatizar sus procesos. Pero la “digitalización de documentos”
+es solamente una de las tecnologías dentro del mundo de la Transformación Digital.
+La Transformación Digital en su conjunto es un proceso estratégico
+mediante el cual las organizaciones se transforman y crean nuevos modelos de
+negocio y de cultura mediante las diferentes tecnologías.
+La Transformación Digital comienza por la ESTRATEGIA y las nuevas
+formas de PENSAR. Éstos son los factores que permiten avanzar con éxito en
+esta revolución digital.
+Las tecnologías son catalizadores para plasmar la estrategia digital en
+ventajas competitivas, consiguiendo nuevos clientes y mercados, optimizando
+las eficiencias internas y externas, mejorando la calidad del servicio de las empresas a sus clientes y del servicio público a los ciudadanos.
+Una vez que se defina el modelo de negocio digital adecuado, será el
+momento de establecer las tecnologías digitales que se necesita aplicar. Con
+ello no se está reinventando la rueda. Ningún directivo puede seleccionar un
+sistema de gestión informático para su empresa sin realizar un análisis previo
+de cuáles son sus objetivos, su estrategia, un estudio coste-beneficio, una revisión de la madurez de su organización y de sus procesos. Y lo mismo ha de
+suceder al seleccionar unos procesos y unos medios digitales.
+
+247
+
+
+
+Las tecnologías relacionadas con la Transformación Digital son en muchos casos novedosas, pero en otros son tecnologías existentes desde hace
+años que se han integrado y fortalecido con las últimas tendencias tecnológicas.
+El adjetivo digital también ha venido para quedarse. No es un extra
+opcional en la estrategia de la empresa. Estamos experimentando un cambio
+total en nuestros hábitos de pensamiento, de consumo, de forma de trabajar, de
+colaborar y de interrelacionarnos.
+Es importante destacar lo que están analizando nuestros competidores y
+otras empresas de diferentes sectores en relación con el fenómeno digital. Pero
+más importante es considerar que para cada empresa la Transformación Digital
+tiene significados y resultados diferentes. Copiar simplemente el camino que recorren los demás, genera el riesgo de que dicho camino no sea el correcto para
+nuestro caso.
+Esto se debe a que en cada industria la intensidad, la manifestación y
+las circunstancias del fenómeno digital difieren, sobre todo porque cada empresa es única. Cada organización debe establecer su propia estrategia digital y su
+propia hoja de ruta.
+El gran reto al que se enfrentan las empresas para adaptarse a la Transformación Digital es identificar su rasgo diferencial y el objetivo propio que
+deben seguir para continuar su expansión.
+Para poder avanzar, es necesario “pensar en digital”.
+4. EL IMPACTO HUMANO Y MORAL
+EN LA TRANSFORMACIÓN DIGITAL
+LÁMINA 9
+
+En general, la Transformación Digital
+tiene un 10 % de componente tecnológico y
+un 90 % de componente humano. Veamos algunos de los motivos que llevan a enunciar
+esta afirmación:
+
+– La estrategia digital la definen y la
+ejecutan las personas.
+– La Transformación Digital está dirigida a personas. Los productos y servicios se
+adaptan cada vez más a las necesidades de la sociedad.
+– La “democratización” de las nuevas tecnologías facilita el acceso a las
+mismas tanto de las personas como de todas las organizaciones, mayores y
+menores.
+
+248
+
+
+
+La Transformación Digital supone un cambio nunca visto anteriormente por su impacto y velocidad. Ello puede producir en muchos casos una visión
+de lo digital como un enemigo.
+Esa Transformación Digital crea nuevas tareas laborales, pero también
+acelera la obsolescencia de algunos perfiles profesionales existentes, lo que
+obligará a realizar cambios en la educación. Según datos del Institute for the
+Future of California, el 85 % del total de los empleos que existirán en 2030 todavía no se conocen hoy. Por otro lado, se espera que profesionales como los
+recepcionistas, los traductores, los agentes de viajes o los taxistas, por poner
+algunos ejemplos, se vean poco a poco remplazados por la tecnología.
+Las nuevas tecnologías digitales obligan a un nuevo modelo de formación en el ámbito laboral que adapte los perfiles profesionales actuales. Hoy, la
+tecnología se está colocando muy por delante de los planes formativos, creando
+una brecha muy significativa entre la demanda de profesionales y su formación.
+Uno de los aspectos fundamentales de la transformación digital, que ha
+tenido un gran impacto en la sociedad por su influencia en la forma en que las
+personas interactúan entre ellas, son las redes sociales. La forma de interrelacionarse a través de ellas es muy sencilla: una persona crea su propio perfil en la red
+e invita a sus amigos a conectarse con ella, y estos amigos invitan a más amigos
+a su vez, de modo que se pueden crear grupos muy numerosos de personas en
+un breve espacio de tiempo. Dentro de estos grupos se intercambia información
+de manera digital y totalmente gratuita; se publican fotos, vídeos y todo tipo de
+documentos, al tiempo que se describen hábitos tanto de la vida privada como
+de la profesional. Todo ello genera una importante cantidad de información que
+se almacena y se comunica digitalmente, de manera totalmente gratuita.
+Una de las principales redes sociales es Facebook que fue creada, por Mark
+Zuckerberg en 2004 cuando cursaba su segundo año en la Universidad de Harvard,
+con el objetivo de conectar a los estudiantes del campus. Un año después de su lanzamiento, Facebook ya tenía presencia en quinientas universidades estadounidenses
+y contaba con más de un millón de usuarios. En 2006 pasó a ser un servicio abierto a
+todo el público, y solo seis años después, salió a Bolsa y fue valorada en 80.000 millones de dólares. En la actualidad, Facebook cuenta con más de 2.100 millones de usuarios y se ha convertido en la red social con mayor presencia del mundo. Según la revista Forbes, los usuarios de esta red le dedican aproximadamente 1 hora y media al
+día (además del tiempo que dedican a otras redes sociales como Twitter o Instagram).
+A la vista de estos datos, las redes sociales y la información que se recibe a través de ellas tienen indudablemente un gran impacto en la vida de las
+personas. Según un estudio publicado en la revista norteamericana Science, la
+información en papel que hoy recibe el hombre es solo el siete por mil del
+total de la información recibida.
+
+249
+
+
+
+En tal escenario la manipulación de la información o la suplantación de identidades son realidades ante las cuales las personas debemos
+estar en actitud de especial alerta. En el año 2017, Facebook admitió
+que 126 millones de usuarios en EE. UU. habían podido acceder a través de
+su red a ciertos contenidos generados por unos supuestos agentes rusos,
+que publicaron noticias falsas con la intención de influir en el panorama
+político de EE. UU.
+Por otro lado, también es importante destacar el poder de las redes
+sociales como fuerza democratizadora que ha cambiado la realidad de los movimientos políticos. Recordemos, por ejemplo, la Primavera Árabe en 2011,
+donde las redes sociales se utilizaron como una herramienta fundamental para
+que los ciudadanos se movilizaran y se organizaran, permitiendo también que
+el resto del mundo siguiera los acontecimientos a través de las propias redes
+sociales en tiempo real.
+Además, las redes sociales han contribuido a crear la aparición de una
+nueva figura, los llamados influencers. Se trata de personas que cuentan con un
+gran número de seguidores en las redes sociales y son capaces de influir sobre
+la opinión de otras y sobre sus hábitos de consumo. Un ejemplo de ello es el
+presidente Donald Trump, que tiene más de 50 millones de seguidores en la
+red social de Twitter.
+Así, podríamos referirnos a las redes sociales como “aceleradores” de
+los procesos que están transformando la forma de interrelacionarse las personas. Esta nueva forma de comunicarse es un arma muy potente y del uso que
+hagamos de ella dependerá sin duda el futuro de la comunicación entre los
+humanos.
+Todo esto nos lleva a plantearnos: ¿qué riesgos se derivarán en un futuro de una posible manipulación de la información y del poder de influencia
+de unas personas sobre otras?
+5. EL SER HUMANO Y LA INTELIGENCIA ARTIFICIAL
+LÁMINA 10
+
+250
+
+El inicio de lo que más tarde se conocería como Inteligencia Artificial se atribuye a
+Alan Turing con la publicación de su artículo
+“Computing Machinery and Intelligence”
+en 1950. De él surgió el que más tarde se denominó el Test de Turing, que trataba de demostrar si una máquina era inteligente o no, y
+que ha servido como fundamento de muchos
+estudios actuales y posiblemente futuros.
+
+
+
+Sin embargo, habría que esperar hasta 1956 para presenciar el nacimiento oficial del término “Inteligencia Artificial”, que se acuñó por primera vez en la conferencia de Dartmouth (EE. UU.), organizada por el
+matemático John McCarthy, con el objetivo de construir una máquina inteligente.
+A partir de ese momento se despierta el interés por el estudio de dicho
+campo. En 1961, Marvin Minsky (cofundador del laboratorio de Inteligencia
+Artificial del Instituto Tecnológico de Massachusetts, MIT) publica el artículo
+“Pasos hacia la Inteligencia Artificial”, que posteriormente también serviría de
+inspiración a otros investigadores.
+En los años 80 se inició la eclosión de la Inteligencia Artificial, que vino
+de la mano de los japoneses y de su gran “Proyecto de Sistemas Informáticos
+de Quinta Generación”, el cual volvió a despertar de nuevo el interés por este
+campo en el resto del mundo.
+A partir de ese momento fueron surgiendo proyectos, como en 1987
+cuando se definieron los atributos de un computador inteligente y aparecieron los primeros programas de conversación, como el proyecto ALICE (Artificial Linguistic Internet Computer Entity) del científico norteamericano Richard Wallace.
+LÁMINA 11
+
+De este modo, la Inteligencia Artificial
+se alineaba cada vez más con el ser humano,
+algo que se intuía desde su creación, empezando a interactuar con éste y llegando incluso a superarlo en alguna ocasión, como
+en 1997 cuando Deep Blue, un superordenador de IBM creado para jugar al ajedrez, consiguió ganar a Gari Kaspárov, cuando éste era
+el campeón mundial de este deporte.
+
+¿Pero dónde estamos actualmente?
+La Inteligencia Artificial se basa en el comportamiento del cerebro
+humano, el cual adquiere el conocimiento a través de la experiencia. El modelo que se aplica se estructura en diferentes capas: unas encargadas de recoger la información; otras que realizan los cálculos o procesos y, por último,
+otras que proporcionan los resultados. Las máquinas continúan aprendiendo,
+incluso por sí mismas, ya sin necesidad del factor humano. Tomando como
+base los patrones iniciales que se les proporcionan, mediante el análisis de
+la ingente cantidad de información existente, consiguen optimizar los patrones inicialmente aportados. A esto se le denomina como Deep Machine Learning (Aprendizaje profundo de las máquinas).
+
+251
+
+
+
+¿Cuál es el rumbo de la Inteligencia Artificial?
+LÁMINA 12
+
+En el estudio de reciente publicación
+“When Will AI Exceed Human Performance? Evidence from AI Experts”, realizado por Katja Grace,
+John Salvatier, Allan Dafoe, Baobao Zhang y Owain
+Evans, profesores de la Universidad de Oxford y de
+la Universidad de Yale, se pregunta a diferentes
+expertos acerca del rumbo que tomará la Inteligencia Artificial en los próximos años. Las conclusiones que se extrajeron fueron las siguientes:
+
+– La Inteligencia Artificial mejorará y superará a los humanos en la
+traducción de idiomas en 2024.
+– También será capaz de escribir comentarios de texto mejor que los
+alumnos de instituto en 2026.
+– Alcanzará una mayor confianza, con respecto a los humanos, en la
+conducción de transportes pesados a partir de 2027.
+– Nos superará en las relaciones comerciales en 2031.
+– Será capaz de escribir un best seller en 2049.
+– Realizará de forma autónoma cualquier tipo de cirugía en 2053.
+Todo ello nos debe hacer pensar y plantearnos: ¿qué pasaría si esto
+realmente se hiciera realidad?
+Elon Musk, fundador de la compañía TESLA y que es uno de los principales innovadores en Inteligencia Artificial, afirmó en un discurso en 2017, en
+una reunión de la Asociación Nacional de Gobernadores de los Estados Unidos
+celebrada en Rhode Island, que “la Inteligencia Artificial es un riesgo fundamental para la existencia de la civilización humana”, instándonos a ser proactivos en la regulación de esta tecnología.
+Por mi parte, como mero espectador de estos procesos, considero
+que solo el fundamento en valores éticos y morales aportará un contexto
+social con mayores cotas de progreso y satisfacción. Y que, como siempre,
+la integridad y el respeto de los valores morales son condiciones indispensables para un avance estable y un bienestar creciente en la humanidad. De
+hecho, muchos gobiernos están ya trabajando en desarrollar normativas
+concretas sobre Inteligencia Artificial. En esta línea surgió en septiembre
+de 2016 la asociación de Partnership on AI, impulsada por Amazon, Apple,
+Google, IBM y Microsoft, con el fin de conseguir las mejores prácticas en
+este ámbito.
+Entonces, ¿cuál es el futuro de esta Inteligencia Artificial? ¿Qué pasará
+si las “máquinas” continúan aprendiendo?
+
+252
+
+
+
+No debemos olvidar que la Inteligencia Artificial tiene una gran ventaja respecto de la humana; la de poder acceder a toda la información digital existente y analizarla a una velocidad impensable para un humano. El
+hombre, en cambio, tendrá que buscar, leer y analizar a una velocidad muy
+inferior a la de las máquinas para llegar a un análisis adecuado. Por ejemplo,
+en el caso del ordenador capaz de jugar al ajedrez, éste calcula todas las
+posibles jugadas que se pueden realizar, y con cada nuevo movimiento de
+su rival, este cálculo se actualiza de manera instantánea. Además, tiene información relativa a todas las partidas de los mejores jugadores del mundo
+en formato digital y define su propia estrategia “aprendiendo” de toda esa
+información. Ya hemos mencionado el ejemplo de cómo la máquina consiguió vencer al campeón mundial Gari Kaspárov en 1997, lo que marcó un
+antes y un después.
+Para terminar, mostraré muy brevemente algunos ejemplos de las tecnologías de esta nueva era digital y sus aplicaciones; en la industria, en la medicina y en algunos ejemplos de la Inteligencia Artificial.
+6.1. ALGUNAS TECNOLOGÍAS EN LA INDUSTRIA
+BITCOIN
+El Bitcoin es una moneda digital
+que actualmente se está extendiendo por
+todo el planeta. Permite realizar cualquier
+tipo de transacción económica, y permite
+su custodia universal. El Bitcoin se puede
+adquirir ya hoy en la mayoría de las entidades financieras, incluso desde cajeros automáticos. Desde ese mismo momento el importe adquirido en moneda digital queda
+identificado con la persona o la entidad jurídica que ha realizado la citada
+operación.
+LÁMINA 13
+
+Esto obliga a plantearse las posibles consecuencias. Por ejemplo, la
+identidad de las personas, tanto jurídicas como físicas, que adquieren unos
+bitcoins podría quedar ligada a todas las actuaciones y operaciones que se
+realizasen con esas monedas, incluidos todos aquellos productos o servicios
+que se adquieran. De este modo, se podría identificar de forma sencilla e
+inmediata a las personas y sus pertenencias, así como los hábitos de cada
+una de ellas, dado que todo ello formará parte de una cadena denominada
+“Blockchain”.
+
+253
+
+
+
+HYPERLOOP
+LÁMINA 14
+
+Es un nuevo medio de transporte de
+pasajeros y mercancías de alta velocidad,
+con el cual se pretende viajar a velocidades
+superiores a los 1.200 kilómetros/hora.
+
+Está basado en una nueva tecnología
+de tubos al vacío que albergan las cápsulas de
+transporte, las cuales se desplazan por levitación mediante electromagnetismo de reducido
+consumo energético. Dichas cápsulas tienen aproximadamente el diámetro del
+tubo, para limitar al máximo el aire y de este modo minimizar la fricción.
+La idea inicial fue de Elon Musk, a quien ya hemos mencionado anteriormente, el cual dejó el proyecto inconcluso y abierto para que cualquier
+persona pudiera continuar su desarrollo. Esto ha generado una especie de carrera para finalizar e implementar mejoras en el proyecto.
+LÁMINA 15
+
+Una de las principales empresas que
+se ha comprometido en este proyecto es Virgin Hyperloop One, que va a llevar a cabo el
+primer Hyperloop que unirá Dubái y Abu
+Dhabi: un recorrido de 140 kilómetros que se
+realizará en aproximadamente 12 minutos.
+
+En España, la empresa Zeleros, con
+sede en Valencia, también está desarrollando
+esta tecnología, con el objetivo de participar en el desarrollo del Hyperloop a
+nivel europeo y conseguir su propia infraestructura y espacio de prueba en
+nuestro país.
+LÁMINA 16
+
+254
+
+Veamos a continuación un vídeo, de
+un minuto de duración, del futurible transporte.
+
+
+
+6.2. ALGUNAS TECNOLOGÍAS EN MEDICINA
+QUIRÓFANOS INTELIGENTES
+Son salas quirúrgicas equipadas con
+la tecnología necesaria para realizar diagnósticos e intervenciones. Imágenes de alta calidad,
+tomografía intraoperatoria y resonancias magnéticas están presentes en la misma sala, con
+lo que el proceso de las intervenciones quirúrgicas se optimiza. A su vez, permiten al cirujano tener acceso a toda la información digitalizada sobre el historial del paciente, así como a
+la información de intervenciones similares. Además, le permite tener el control
+absoluto de todo lo que sucede durante la intervención a través de sistemas
+táctiles, controles de voz o sensores de movimiento.
+LÁMINA 17
+
+El uso de estos quirófanos minimiza los riesgos de los pacientes, dado
+que posibilita diagnosticar e intervenir al mismo tiempo, evitando los traslados
+entre las distintas dependencias del hospital para realizar las pruebas necesarias
+en cada caso.
+Este tipo de quirófanos se pueden complementar con la tecnología
+creada ya para realizar telecirugía a través del robot quirúrgico Da Vinci, gracias
+al cual se podrían llegar a realizar operaciones con una precisión milimétrica,
+sin necesidad de que el cirujano estuviese en el mismo quirófano, sino incluso
+a kilómetros de distancia.
+LÁMINA 18
+
+A continuación, veamos un vídeo sobre estas últimas tecnologías que acabamos de
+mencionar de un minuto y cuarenta segundos.
+
+255
+
+
+
+6.3. INTELIGENCIA ARTIFICIAL
+CHATBOTS
+LÁMINA 19
+
+Es uno de los términos de moda en el
+ámbito del marketing y el soporte.
+Son robots, con programas capaces
+de mantener una conversación con una persona. Y son cada vez más frecuentes en las aplicaciones de atención al cliente.
+
+Dichos chatbots incorporan un sistema conversacional que prácticamente simula una conversación entre dos humanos, capaces de ir recabando la información necesaria para la labor para la
+que han sido programados.
+Esta tecnología se encuentra implementada en centros de atención al
+público de algunas principales compañías del mundo, pudiendo ofrecer un
+nivel de soporte las 24 horas, los 365 días del año.
+Termino formulando dos grandes preguntas.
+Primera pregunta:
+¿Puede el hombre llegar a ser prescindible en la ecuación Futuro = Ser
+humano + Inteligencia Artificial?
+Y segunda pregunta:
+¿Puede el hombre conseguir que la Inteligencia Artificial respete los
+valores morales?
+
+256
+
+

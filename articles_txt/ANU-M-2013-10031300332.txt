@@ -1,0 +1,703 @@
+NEUROMEJORA MORAL:
+¿UN CAMINO PROMETEDOR ANTE EL FRACASO DE
+LA EDUCACIÓN?
+Por la Académica de Número
+Excma. Sra. Dª Adela Cortina Orts*
+
+1. EL PROMETEO CONTEMPORÁNEO
+El deseo de mejorar es consustancial al ser humano. La educación y el
+entrenamiento han permitido mejorar sus capacidades desde el origen1. No es
+extraño, pues, que desde las últimas décadas del siglo XX y en el comienzo de
+este siglo XXI este afán por mejorar permanezca.
+Ocurre, sin embargo, que en este tiempo los avances de las ciencias biomédicas (la genética y las neurociencias) hacen posible mejorar la biología
+humana con nuevos métodos. Descubiertas habitualmente a raíz del estudio de
+casos patológicos, las tecnologías biomédicas se emplean de forma rutinaria
+para mantener o restaurar la salud, pero pueden usarse también para alterar las
+características de las personas tenidas por sanas, pueden utilizarse para mejorar
+a los individuos que se consideran normales. Mutatis mutandis, y haciendo pie
+en la psicología positiva de que nos hablaba en una de las últimas sesiones
+Helio Carpintero, también el uso de la biomedicina podría dirigirse, no tanto a
+la clínica, como al empoderamiento de capacidades tenidas por normales.
+Evidentemente, en cuanto surgen posibilidades de este tipo un buen
+número de problemas éticos sale a la luz, sobre todo dos: ¿son éticamente acep-
+
+* Sesión del día 8 de enero de 2013
+1
+Este estudio se inserta en el Proyecto de Investigación Científica y Desarrollo Tecnológico FFI2010-21639-C0201, financiado por el Ministerio de Ciencia e Innovación (actualmente Ministerio de Economía y Competitividad) con Fondos FEDER de la Unión Europea, y en las actividades del grupo de investigación de excelencia PROMETEO/2009/085 de la
+Generalitat Valenciana y de la Red de Excelencia ISIC 2012/017 de la Generalitat Valenciana.
+
+313
+
+
+
+tables las intervenciones de mejora, o lo son sólo las terapéuticas?, y en el caso
+de que la respuesta fuera afirmativa, ¿es moralmente obligatorio mejorar las capacidades “normales”, sean cognitivas, físicas, se refieran a la memoria o a la atención, si es que existe esa posibilidad?2 A fin de cuentas, si aceptáramos el enfoque de las capacidades de Amartya Sen, mejorar las capacidades de los seres
+humanos sería una forma de empoderarles. Y si tomamos en serio la afirmación
+kantiana de que el ser humano es a la vez fin limitativo y fin positivo de nuestras acciones, mejorar sus capacidades sería una forma de tomar al hombre como
+fin positivo de las actuaciones científicas.
+Ciertamente, dado el aumento de posibilidades que ofrecen las ciencias biomédicas, el asunto de la mejora se ha convertido en un tema estrella en
+el ámbito de lo que algunos llaman “ética práctica”, o bien, si se refiere a intervenciones neurológicas, “Neuroética”, tomada como Ética de la neurociencia3.
+Porque en principio se trata de averiguar si determinadas intervenciones son
+aceptables, o incluso obligatorias, pero desde la perspectiva de teorías éticas
+con las que ya contamos. Si es una obligación moral utilizar todos los medios
+a nuestro alcance, también las tecnologías biomédicas, para mejorar las capacidades humanas. Ésta sería la aspiración del nuevo Prometeo, del nuevo Frankenstein contemporáneo.
+Pero, ¿es esto verdad? ¿Es éste un sueño de la Neuroética, compartido
+por cuantos trabajan en ella? ¿Pretenden las ciencias biomédicas convertirse de
+algún modo en el Prometeo contemporáneo?
+2. EL DEBATE SOBRE LA MEJORA CON MEDIOS BIOMÉDICOS
+El primer problema con que se enfrenta el nuevo proyecto de mejora
+es el de determinar qué se entiende por “mejora”. Aunque el número de caracterizaciones es grande, podemos admitir en principio dos de ellas. Según Allen
+Buchanan, “una mejora biomédica es una intervención deliberada, aplicando la
+ciencia biomédica, que pretende mejorar (to improve) una capacidad existente,
+que tienen de forma típica la mayor parte de los seres humanos normales, o
+todos ellos, o crear una capacidad nueva, actuando directamente en el cuerpo
+o en el cerebro”4. Por su parte, Julian Savulescu caracteriza la mejora en el
+siguiente sentido: “X es una mejora para A si X hace más probable que A lleve
+una vida mejor en las circunstancias C, que son un conjunto de circunstancias
+naturales y sociales”5.
+2
+John Harris, “Enhancements Are a Moral Obligation”, en Julian Savulescu and Nick Bostrom (eds.), Human
+Enhancement, Oxford University Press, 2009, pp. 131-154.
+3
+Enrique Bonete, Neuroética práctica, Desclée de Bouwer, Bilbao, 2010; Adela Cortina, Neuroética y neuropolítica, Tecnos, Madrid, 2011.
+4
+Allen Buchanan, Beyond Humanity?, Oxford University Press, Oxford, 2011, p. 23.
+5
+Julian Savulescu, ¿Decisiones peligrosas?, Tecnos, Madrid, 2012, pp. 313 y 314.
+
+314
+
+
+
+Como es fácil observar, en el primer caso topamos con la dificultad de
+decidir cuál es la forma típica en que los seres humanos gozan de una capacidad, mientras que en el segundo caso adoptamos una posición utilitarista: no
+importa si la capacidad del individuo puede considerarse normal o no, lo que
+importa es que vivirá mejor si la potenciamos.
+Un segundo problema consiste en decidir qué posición ética adoptar al
+respecto, si estamos dispuestos o no a aceptar las mejoras con medios biomédicos, o únicamente son admisibles las intervenciones terapéuticas, es decir, los
+tratamientos. Y en este punto es posible detectar al menos dos posiciones, que
+reciben diversos nombres. Es curioso que esos nombres resulten expresivos no
+sólo de las posiciones que se pretende describir con ellos, sino también de las
+posturas de aquellos que se los asignan.
+En la Introducción al libro Human Enhancement, los editores, Savulescu y Bostrom, distinguen dos posturas enfrentadas en este debate: los transhumanistas y los bioconservadores 6. Ellos mismos se reconocen como transhumanistas, hasta el punto de que Nick Bostrom fundó en 1998, junto con
+David Pearce, la World Transhumanist Association, con el propósito de proporcionar una base organizativa para todos los grupos transhumanistas. También son los responsables de la Declaración Transhumanista y del nacimiento
+de la revista Journal of Transhumanism, que más tarde cambió su nombre por
+el de Journal of Evolution and Technology 7.
+Para definir el “transhumanismo” resulta de gran utilidad recurrir a la
+caracterización de quien acuñó el término, el biólogo Julian Huxley, hermano
+de Aldous Huxley, quien fue el primer director general de UNESCO. En efecto,
+en Religion without Revelation (1927) escribe: “La especie humana puede trascenderse a sí misma, si lo desea, trascenderse a sí misma —no sólo esporádicamente, un individuo aquí de un modo, otro allá de otro modo—, sino en su
+totalidad, como humanidad. Necesitamos un nombre para esta nueva creencia.
+Tal vez transhumanismo pueda servir: el hombre permaneciendo hombre, pero
+trascendiéndose a sí mismo, al actualizar nuevas posibilidades de y para su
+naturaleza humana”8.
+El transhumanismo se distanciaría de una posición como la de Nietzsche, que pretende el autotrascendimiento de algunos individuos con capacidad
+y voluntad de hacerlo, porque los transhumanistas se proponen como objetivo
+el autotrascendimiento de toda la humanidad, y además no sólo tratando de
+
+6
+7
+
+Julian Savulescu y Nick Bostrom (eds.), Human Enhancement, Oxford University Press, 2009, pp. 1-24.
+Nick Bostrom (2005): “A History of Transhumanist Thought”, Journal of Evolution and Technology, vol. 14, 1,
+
+pp. 1-30.
+8
+Julien Huxley, Religion without Revelation, London, 1927; citado por J. Hughes, Citizen Cyborg: why democratic societies must respond to the redesigned human of the future, Westview Press, Cambridge, MA, 2004.
+
+315
+
+
+
+encarnar la fórmula “llega a ser el que eres” de Píndaro y Nietzsche, sino “llega
+a ser más de lo que eres”.
+En cualquier caso, los transhumanistas han tenido y están teniendo
+buen cuidado en distanciarse de anteriores proyectos de modificar a la especie humana de cuño totalitario, levantando la bandera progresista y ligando
+sus propuestas cada vez más al liberalismo cultural, la democracia política y al
+igualitarismo. Es el caso, entre otros, de James Hugues, quien considera que la
+biopolítica está emergiendo como una nueva dimensión de la opinión política.
+En Citizen Cyborg propone un “transhumanismo democrático”, que articula la
+biopolítica transhumanista con la política social democrática y económica y
+con la política liberal cultural. Entiende que conseguiremos el mejor futuro posthumano cuando aseguremos que las tecnologías son seguras, accesibles a
+todos y se respetan los derechos individuales en el control de los propios cuerpos. Los beneficios han de llegar a todos, y no sólo a una élite, y en esto el
+Estado debe intervenir.
+En el polo contrario se situarían los bioconservadores, que se oponen
+a cualquier uso de las tecnologías para ampliar las capacidades humanas o
+para modificar aspectos de nuestra naturaleza biológica. Al parecer, la Tesis de
+los Bioconservadores diría así: “Aun cuando fuera técnicamente posible y legalmente permisible comprometerse en la mejora biomédica, no sería moralmente
+permisible hacerlo”9. No es fácil determinar qué nombres componen la nómina
+de los bioconservadores, pero resulta bastante plausible introducir en ella a
+Leon Kass, Presidente del Consejo de Bioética de Bush, Francis Fukuyama, que
+también formó parte de ese consejo y publicó su célebre libro Our Posthuman
+Future. En su artículo “Transhumanism” llegó a decir que el transhumanismo
+es “la idea más peligrosa del mundo”10. Michael Sandel es otro de los clásicos
+de esta posición sobre todo con su libro Contra la perfección 11. Por su parte,
+bioeticistas, como George Annas, Lori Andrews y Rosario Isasi han propuesto
+una legislación para que sea un “crimen contra la humanidad” la modificación
+genética heredable en seres humanos.
+Sin embargo, estas denominaciones (transhumanistas/bioconservadores) se transforman en manos de Allen Buchanan en otras menos significativas
+políticamente. Según Buchanan, no hay grupos de autores “pro-mejora”, porque en buena ley nadie puede estar a favor de cualquier mejora sin tener en
+cuenta de cuál se trata, en qué contextos y con qué consecuencias. Sí los hay
+9
+Thomas Douglas, “Moral Enhancement”, Journal of Applied Philosophy, vol. 25, n. 3 (2008), p. 228. Douglas
+reconoce, sin embargo, que algunos autores no se oponen a toda suerte de mejoras, sino que son selectivos (ibid., nota 7,
+p. 243).
+10
+Francis Fukuyama, Foreign Policy, 2004 September/October.
+11
+Michael Sandel, The Case Against Perfection: Ethics en the Age of Genetic Engineering, Harvard University
+Press, Cambridge, MA, 2007; Francis Fukuyama, Our Posthuman Future, Profile Books; Leon Kass, “Ageless Bodies, Happy
+Souls”, The New Atlantis, 1 (2004), pp. 9-28.
+
+316
+
+
+
+“anti-mejora”, y ésa es una de las críticas que se les hace: cómo es posible estar
+en contra de cualquier mejora. Y el grupo restante ya no sería algo tan aparatoso como transhumanista, sino sencillamente “anti-anti-mejora”, porque creen
+que es preciso estudiar caso por caso en las determinadas situaciones12. En él
+se incluiría a Jonathan Glover, Savulescu, Agar, Brock, Bostrom, DeGrazia, Sanberg, Buchanan13, entre otros. Consideran que no existe una separación tajante
+entre los métodos de mejora tradicionales y los biomédicos, no hay una diferencia moralmente relevante entre el aprendizaje, que a fin de cuentas es una
+mejora fisiológica, y la intervención.
+Los argumentos de este debate, de forma muy resumida, serían los
+siguientes.
+Quienes están en contra de la mejora se opondrían por considerar, en
+principio, que la búsqueda de mejora socava la virtud de la gratitud por lo
+dado. Sin embargo, sus oponentes replican acertadamente que no hay razón
+para privilegiar como sagrado lo que se considera el funcionamiento normal,
+no hay razón para dotarle de una normatividad moral. A fin de cuentas, es bien
+difícil distinguir lo no natural de lo natural, la función normal no es sino una
+generalización estadística que no tiene por qué pretender normatividad.
+En segundo lugar, dicen los anti-mejora, parece que el afán de mejora
+lleva entrañado el interés por conseguir el total dominio de las condiciones de
+la existencia humana, el de alcanzar la perfección. Pero replican sus rivales
+que intentar mejorar no es buscar la perfección. Como diría en otro contexto
+Julián Marías, no se trata de buscar lo bueno, sino lo mejor.
+También los pro-mejora —dicen sus oponentes— parecen pretende la
+inmortalidad con esas intervenciones. Pero la réplica es sencilla: no se busca
+la inmortalidad, sino una mejor calidad de vida.
+Y la última acusación de los anti-mejora consistiría en afirmar que este
+meliorismo llevaría a una sociedad estratificada e insolidaria, que despreciaría
+a quienes padecen discapacidades y socavaría el compromiso con la justicia distributiva14.
+Entre ambos grupos de situarían quienes consideran que las intervenciones no pueden practicarse en la línea germinal, como Habermas o Annas,
+
+Allen Buchanan, Beyond Humanity?, Oxford University Press, 2011, 13.
+Allen Buchanan, por su parte, propone embarcarse en una “empresa de mejora” (enhancement enterprise),
+que continúe la línea de la humanidad, que siempre ha tratado de mejorar. Se trata de construir una sociedad que dé libertad a individuos y organizaciones para que desarrollen las técnicas de mejora, dediquen recursos públicos a la investigación, creen un debate público e informado sobre el tema y desarrollar políticas moralmente posibles sobre el tema.
+14
+Michael Sandel, o.c., pp. 89-92.
+12
+13
+
+317
+
+
+
+porque pueden pasar a las futuras generaciones. Mientras que los anti-anti
+mejora sí las aceptan, pero dándose cuenta de los peligros que entrañan y no
+creen que sea permisible en el presente.
+La reflexión sobre el tema se extiende hoy a una gran cantidad de ámbitos, como es el caso del rendimiento deportivo, tan relacionado con cuestiones
+de dopaje, las relaciones amorosas, la mejora cognitiva, la mejora genética o la
+cuestión de los organismos modificados genéticamente, incluidos animales y
+plantas. Algunos músicos toman beta-blockers para calmar los nervios, muchos
+estudiantes toman metilfenidato (Ritalín) para rendir más en los exámenes (el
+Ritalín puede paliar disfunciones neurobiológicas), también el Modavigil y la
+cafeína son estimulantes cognitivos. Las tecnologías que están ya al alcance o
+lo estarán muy pronto y pueden transformar radicalmente al ser humano son la
+realidad virtual, el diagnóstico genético preimplantatorio, la ingeniería genética,
+los fármacos para mejorar la memoria, la concentración, el insomnio y el humor
+(mood), las drogas que mejoran la peformance, la cirugía cosmética, operaciones de cambio de sexo, prótesis, medicina antienvejecimiento. Todas estas posibilidades abren preguntas éticas, pero no es de ellas de las que nos vamos a ocupar aquí, sino de un tipo concreto de mejora: la mejora moral.
+3. LA CUESTIÓN DE LA BIOMEJORA MORAL
+3.1. La biomejora moral es permisible
+Algunos autores como Thomas Douglas se preguntan si es permisible
+la mejora moral, en principio, como un instrumento para desmontar la posición
+de los bioconservadores, que se oponen a cualquier forma de mejora15. Alegan
+los bioconservadores que algunas formas de mejora pueden beneficiar a los
+sujetos en los que se practica, pero pueden perjudicar a terceros y, en tal caso,
+no se podrían permitir16. Se refieren sobre todo a lo que podríamos llamar
+“bienes posicionales”: si una persona gana en inteligencia, dejará en desventaja
+a los que no han sido mejorados y tendrá más oportunidades que ellos a la hora
+de competir por un puesto de trabajo17; si aumenta la estatura de un individuo
+normal, tiene más posibilidades que los demás, que acabarán quedando por
+debajo de la línea de normalidad. Sin embargo —dice Douglas— hay un tipo
+de mejora que beneficia al sujeto y también a terceros, y es la mejora de los
+motivos para actuar18. Con ello no se trata de conseguir mejores personas, sino
+15
+Para un comentario sobre la posición de Douglas ver Olga Campos, “La mejora del carácter moral en la evaluación de las técnicas de mejora biológica”, Dilemata, 2010, nº 3.
+16
+G.A. Annas, “Cell división”, Boston Globe, 21 April 2002; Fukuyama, o.c., p. 97.
+17
+A. Buchanan, D. Brock, N. Daniels y D. Wikler, From Chance to Choice: Genetics and Justice, Cambridge University Press, 2000, 188-191; Sandel, o.c., 8-12.
+18
+Por “motivos” entiende Douglas “estados o procesos psicológicos —mentales o neuronales—, que inducen
+a una persona a actuar, en ausencia de motivos opuestos” (Douglas, o.c., 229).
+
+318
+
+
+
+que “una persona se mejora a sí misma si se altera a sí misma de tal modo que
+pueda esperarse razonablemente que, tomados en conjunto, tenga motivos futuros mejores moralmente que los que habría tenido de otro modo”19. Una mejora
+de este tipo no puede perjudicar a los demás.
+Como ejemplo señala Douglas dos emociones que todas las teorías
+morales estarían de acuerdo en atenuar, considerando este debilitamiento como
+una mejora moral: la aversión a ciertos grupos raciales y el impulso a la agresión violenta. Se producirían mejoras morales, pues, cuando debilitamos emociones de este tipo.
+Como hay trabajos en genética conductual y neurociencia que han llevado a una comprensión creciente de las bases de la agresión, modificarlas
+supondría una mejora moral permisible. Hay evidencia de la implicación de
+un polimorfismo en el gen A de la monoamino oxidasa (MAO) y, en el nivel
+neurofisiológico, de los trastornos en el sistema neurotransmisor de la serotonina. El racismo se ha estudiado menos, pero un conjunto de estudios de imagen de resonancia magnética funcional sugiere que la amígdala juega un papel
+importante. Dado el progreso en las neurociencias parece posible practicar
+modificaciones. Es, pues, permisible que las personas intenten mejorarse moralmente a sí mismas.
+3.2. La biomejora moral es un imperativo ético
+Más interesante es la propuesta de Julian Savulescu y de Ingmar Persson,
+según la cual, intentar una mejora moral de la humanidad por medios biomédicos no sólo es moralmente lícito, sino que es también un imperativo moral 20.
+El hilo de la argumentación hasta llegar a una conclusión tan rotunda es el
+siguiente.
+Riesgos a los que nos enfrentamos
+La mejora cognitiva mediante fármacos, implantes e intervenciones biológicas, incluidas las genéticas, puede acelerar el avance de la ciencia, pero
+tiene que ir acompañada de la investigación en mejora moral. En caso contrario, unos pocos individuos, dotados de una capacidad cognitiva superior al
+resto, pueden dañar a todos los demás, al tener más conocimientos que los
+que tenemos ahora (216). La mejora cognitiva requiere una mejora moral para
+evitar un daño semejante.
+Douglas, o.c., 229.
+Julian Savulescu, o.c., cap. VI; Julian Svulescu y Ingmar Persson (2012): “Moral Enhancement”, en Philosophy Now, July/August, pp. 24-26.
+19
+20
+
+319
+
+
+
+Pero, en cualquier caso, el poder científico y tecnológico de la humanidad ha crecido exponencialmente y tiene la posibilidad de destruir la tierra.
+Ésta es una advertencia que ya habían formulado claramente Karl-Otto Apel y
+Hans Jonas en los años sesenta y setenta del siglo pasado. ¿Cuál es la especificidad de la nueva lectura?
+Según Apel, el problema consistía en que las consecuencias de la ciencia y la técnica eran universales, mientras que la ética se reducía a la microesfera y la mesoesfera, cuando necesitábamos una ética universal de la responsabilidad por las consecuencias de la ciencia y de la técnica. Propuesta en la
+que, en una versión diferente, le acompañaba Jonas. Los melioristas no reclaman una ética universal, sino que detectan que las presiones de la evolución
+no han desarrollado una psicología moral que nos permita abordar los problemas morales que crea nuestro nuevo poder. Hay problemas como el del cambio climático o la guerra que necesitan una moral distinta, una preocupación
+por los lejanos, por las generaciones futuras e incluso por todos los seres vivos.
+Así las cosas, se hace necesario legislar para conseguir cambios efectivos, pero esto han de hacerlo los políticos y sucede que a los votantes no les
+interesan los problemas de los lejanos en el espacio y en el tiempo. Nuestra
+motivación moral sigue ligada a la preocupación por el pequeño grupo. ¿Por
+qué?
+Historia
+Desde la aparición del homo sapiens sobre la tierra, hace unos 150.000
+años, los seres humanos hemos vivido en grupos pequeños la mayor parte de
+ese tiempo. Gracias a la evolución nos adaptamos al entorno físico, psicológico
+y social a través de nuestras disposiciones morales. El paso a la agricultura
+requeriría cooperación, además de tecnología, y además con tales niveles de
+confianza que pudieran dividirse las tareas y esperar durante meses sin recompensa. Lo que nos habría permitido trascender el egoísmo sería el grupalismo,
+porque ganarían los grupos más cohesionados, los que tienen capacidad de
+seguir normas sociales, compartir emociones, crear instituciones y obedecerlas,
+incluida la religión.
+Como bien dice Tomasello, “nunca veréis a dos chimpancés llevando
+juntos un tronco”, la capacidad de cooperar es propia de la especie humana.
+De ahí que, según nuestros melioristas, “nuestra versión preferida de
+la moralidad” conste de una disposición al altruismo, a simpatizar con otros
+seres, a querer que sus vidas vayan bien, pensando en ellos, y de un conjunto
+de disposiciones desde el que se origina el sentido de la justicia o la imparcialidad, basado en sus formas más simples en el “toma y daca”.
+
+320
+
+
+
+Evidentemente, con esta comprensión de la moralidad los melioristas
+citados están exponiendo uno de los tópoi en los que coinciden los análisis de
+los biólogos evolutivos, los psicólogos evolutivos, los matemáticos experimentales y los neurocientíficos. Durante el periodo de formación del cerebro
+humano los hombres vivían en pequeños grupos que pudieron sobrevivir gracias al altruismo interno y la ayuda mutua, ésas fueron las disposiciones morales que quedaron grabadas evolutivamente para permitir la producción y reproducción de la especie. Por eso, y a pesar de la insistencia de autores como
+Dawkins en la disposición al egoísmo como clave de la conducta, incluso a
+pesar de la idea de Hamilton del altruismo genético, parece que los grupos
+humanos que han sobrevivido son los que han aceptado un tipo de modelo
+contractual, basado en la reciprocidad, sea fuerte (Hauser) o indirecta, o en el
+mutualismo (Tomasello)21.
+Al parecer, los seres humanos no estamos dotados de una racionalidad
+maximizadora, ni siquiera en la actividad económica, sino que la figura del
+homo oeconomicus, maximizador de su ganancia debe ser sustituida por la del
+“homo reciprocans”, por un hombre capaz de dar y recibir, capaz de reciprocar, capaz de cooperar, y que además se mueve también por instintos y emociones, y no sólo por el cálculo de la máxima utilidad22.
+Un ejemplo es el célebre juego del ultimátum, en el que los jugadores
+no tratan de maximizar su ganancia, sino de conseguir lo máximo posible,
+teniendo en cuenta que el respondente tiene un sentido de la justicia y no va
+a permitir humillaciones23. Lo más interesante del caso es que quienes sí han
+mostrado tener una racionalidad maximizadora son los chimpancés. Así lo han
+mostrado experimentos en los que los chimpancés jugaban al juego del ultimátum, adaptado para ellos, y resultaba ser que los “proponentes” casi siempre
+hacían propuestas egoístas, y los “respondentes” casi siempre aceptaban cualquier oferta que no fuera nula, lo cual indica que no actuaban de forma indiscriminada24. Son, pues, los chimpancés los que maximizan el beneficio sin aten21
+Martin A. Nowak y Karl Sigmund, “Shrewd Investments”, Science, 288 (2000), 819; Marc D. Hauser, La mente
+moral, Paidós, Barcelona, 2008, p. 340; Tomasello, o.c.; Adela Cortina, Neuroética y neuropolítica, Madrid, Tecnos, 2011, cap. 5.
+22
+Nowak y Sigmund, o.c., 819; Daniel Kahneman (2011): Thinking, fast and slow, Penguin Books, London; Jesús
+Conill, “Neuroeconomía y neuromárketing”, en Adela Cortina (ed.), Guía Comares de Filosofía Práctica, Comares, Granada,
+2012, 39-64.
+23
+En él un jugador, el “proponente”, cuenta con un determinado lote de créditos y tiene que dar una parte a
+otro jugador, el “respondente”, que puede aceptar la oferta o no. Si acepta, ganan los dos lo que han convenido; en caso
+contrario, ninguno gana nada. Si fuera verdad que la racionalidad humana es la que trata de maximizar el beneficio, los respondentes racionales deberían aceptar cualquier oferta que fuera superior a cero, porque más vale tener algo que no tener
+nada. Y, por su parte, el proponente racional debería ofrecer la cantidad más cercana posible al cero para ganar más. Pero
+resulta ser que no es ése el desarrollo del juego, sino que los respondentes tienden a rechazar ofertas inferiores al 30% del
+total, porque prefieren no recibir nada a recibir una cantidad humillante. Si no es en una situación de miseria, en la que algo
+es mejor que nada, las gentes rechazan la humillación, y por eso los proponentes tienden a ofrecer del 40 al 50% del total
+para poder ganar una parte y no quedarse sin nada. M.A. Nowak et alii, “Fairness versus reason in the Ultimatum Game”,
+Science, 289 (2000), 1773-5. Muy similar al juego del ultimátum es el del dictador.
+24
+Se ponían frente al primer jugador dos bandejas en las que el alimento estaba dividido previamente, una parte
+para él y otra para el segundo jugador. Por ejemplo, “ocho uvas para mí y dos para ti” contra “cinco para cada uno”. El pri-
+
+321
+
+
+
+der a más consideraciones, mientras que las personas se percatan de que es
+más razonable presentar propuestas que pueden ser aceptadas por todos. Buscar el beneficio mutuo es más razonable que empeñarse en el máximo a cualquier precio.
+Estas formas de altruismo requieren que quienes las practican estén ya
+equipados con un bagaje psicológico de envergadura, compuesto al menos por
+las siguientes capacidades: cuantificar los costes de lo que se da y los beneficios que cabe esperar, recordar interacciones anteriores y calibrar si cabe confiar en obtener beneficios, reconocer la dependencia entre dar y recibir, calcular cuánto tardan en llegar los beneficios y estar dispuesto a aceptar el desfase
+entre el acto inicial de dar y el de recibir. Pero también otras tres capacidades
+esenciales, que dan al juego de la cooperación un carácter menos risueño de
+lo que parece a primera vista: la capacidad de detectar a los que violan las normas de la reciprocidad, la de descubrir la intención de quienes actúan, porque
+si no es imposible descubrir a los violadores, y la capacidad de castigar a los
+que defraudan para impedir futuras infracciones.
+Al comprobar que el juego de dar y recibir resulta beneficioso para el
+grupo y para los individuos que lo componen, este juego ha ido cristalizando
+en normas de reciprocidad que forman el esqueleto sobre el que se sustenta
+la encarnadura de una sociedad.
+El problema
+Parece que la especie humana ha permanecido esencialmente igual a
+nivel biológico y genético durante los últimos 40.000 años. Mientras tanto tenía
+lugar la mayor parte de un desarrollo cultural sin precedentes, gracias al desarrollo del lenguaje oral y escrito. Pero continuamos con la moral de los pequeños grupos, en que cooperamos internamente, pero no con los de fuera, una
+moral que prestó su servicio cuando los hombres vivían en grupos pequeños.
+Pero desde hace ya tiempo el entorno social y físico ha cambiado. Vivimos en sociedades millonarias en seres humanos, y los límites de la humanidad alcanzan ya a un mundo global, que de algún modo incluye a las generaciones futuras y a seres vivos no humanos25.
+
+mer jugador tenía que empujar la bandeja tan lejos de sí como pudiera en la dirección del segundo, y éste tenía entonces
+la opción de cerrar el trato arrastrando hacia sí la bandeja o de no hacerlo. Los seres humanos rechazan la primera propuesta
+cuando la segunda es “cinco para cada uno”. Pero los chimpancés no. K. Jensen, J. Call y M. Tomasello, “Chimpanzees are
+rational maximizers in an ultímate game”, Science, 318 (5847) (2007), pp. 107-109; Michael Tomasello, ¿Por qué cooperamos?,
+Katz, Buenos Aires, 2010, pp. 56 y 57.
+25
+Desde hace 8.000 años se produce la revolución agrícola, y los avances científicos y técnicos aumentan mil
+veces la población. Las sociedades humanas consisten en millones de gente, el ritmo del cambio científico es exponencial,
+pero ¿ha ido al mismo paso nuestra psicología moral?
+
+322
+
+
+
+Sin embargo, la motivación moral de los individuos no se ha modificado, sino que, como dijo Lorenz Kohlberg, las instituciones de los países con
+democracia liberal se legitiman desde una concepción postconvencional de justicia, mientras que los ciudadanos de esos países se encuentran en el nivel preconvencional o en el convencional. ¿No es posible que exista un desequilibrio
+entre las exigencias morales que presentan esas instituciones para funcionar de
+forma adecuada y las motivaciones morales de los individuos, que siguen aferrándose a los códigos más primitivos de supervivencia? Los individuos pueden
+argumentar perfectamente apelando a los intereses de la humanidad, como es
+propio del nivel postconvencional, y, sin embargo, actuar movidos por emociones que no están a la altura de ese nivel.
+En este sentido, Hume dirá expresamente que “En general puede afirmarse que en la mente de los hombres no existe una pasión tal como el amor
+a la humanidad, considerada simplemente en cuanto tal y con independencia
+de la cualidades de las personas, de los favores que nos hagan o de la relación
+que tengan con nosotros”26. Y Kant, por su parte, entenderá que “La benevolencia, en el caso del amor universal a la humanidad, es, pues, ciertamente la
+mayor en cuanto a la extensión, pero la menor en cuanto al grado, y cuando
+digo: me intereso por el bien de este hombre, en virtud únicamente del amor
+universal a los hombres, el interés que me tomo en este caso es el menor posible. Simplemente, no soy indiferente con respecto a ese hombre”27.
+¿Qué hacer para cambiar las actitudes de los ciudadanos? Porque el
+gran problema es el de la motivación moral: importa reforzarla para que actuemos mejor en relación con los lejanos en espacio y tiempo28.
+Como es evidente, el problema de la motivación moral no se plantea
+aquí en relación con las ansias personales de felicidad y plenitud, sino con la
+posibilidad de ir construyendo una sociedad en la que los fines que son buenos para uno mismo (bienes prudenciales) puedan articularse con los bienes
+para todo el conjunto (bienes morales). “Es una idea familiar que lo que define
+la moralidad es armonizar los fines prudenciales de la gente, de modo que
+puedan encontrar satisfacción no excluyente”29.
+A pesar del interés de estos autores en construir sus propuestas
+tomando como matriz a Hume y Darwin, resulta difícil no encontrar aquí resonancias del Reino kantiano de los Fines, de ese “enlace sistemático de distintos
+David Hume, Tratado de la Naturaleza humana, II, Editora Nacional, Madrid, p. 704.
+Immanuel Kant, La metafísica de las costumbres, Tecnos, Madrid, 1989, p. 321.
+Una pléyade de autores intenta hoy en día organizar el sistema emocional de los ciudadanos para que puedan responder a las exigencias de una sociedad democrática, como fue el caso pionero de George E. Marcus en The sentimental citizen y más tarde es el de Sharon R. Krause Civil Passions. Moral Sentiment and Democratic Deliberation, en el
+que intenta mostrar que la imparcialidad puede ser una emoción .
+29
+Julian Savulescu, o.c., p. 216.
+26
+27
+28
+
+323
+
+
+
+seres racionales por leyes comunes”, en que puede pensarse “un todo de todos
+los fines (tanto de los seres racionales como fines en sí, como también de los
+propios fines que cada cual pueda proponerse)”30. Y resulta difícil no recordar
+la distinción rawlsiana entre lo racional y lo razonable, teniendo en cuenta que
+lo racional para cada individuo es perseguir su idea de bien prudencialmente,
+con conciencia de que debe someterse al marco de lo razonable, es decir, de lo
+justo.
+Ante una constatación semejante diversos autores avanzan distintas
+propuestas, cada una de las cuales es expresiva de su forma de entender lo
+moral. La propuesta que estamos comentando se centra en la motivación moral
+y en la necesidad de mejorarla para actuar moralmente. La educación, la argumentación y el razonamiento son muy importantes, pero es imprescindible
+modificar también las emociones, que son las que están ligadas a la motivación.
+Nuestras disposiciones morales están basadas en nuestra biología y, por lo tanto,
+no son un producto cultural, como sí que lo son la comprensión de una lengua o de las leyes.
+Como sabemos, las emociones pertenecen al equipaje más antiguo de
+nuestros cerebros y muchas de ellas están ligadas a actuaciones instintivas de
+supervivencia, aunque otras son derivadas31. Lo bien cierto es que afectan a la
+motivación. Y resulta ser que para que el juego del “toma y daca” funcione
+con bien es necesario que en él se movilicen adecuadamente un conjunto de
+emociones, como son la gratitud ante el favor recibido por altruismo y el deseo
+de devolver el favor, lo cual anima para hacer nuevos favores, el enfado cuando
+alguien daña a otro, el deseo de represalia, que disuaden de futuras agresiones, el remordimiento y el sentido de culpa, la vergüenza, el orgullo, la admiración, el desprecio o la capacidad de perdonar. Según los melioristas, estas
+emociones son útiles cuando se extienden a la mayor parte de la población. Si
+conseguimos fortalecerlas, pero de una forma adecuada para que sean útiles,
+conseguiríamos mejorar la motivación moral.
+El método tradicional ha sido la educación, pero con tantos siglos de
+educación, sobre todo en los dos últimos milenios, no parece haber tenido
+demasiado éxito. Sin embargo, hay otra posibilidad complementaria: nuestro
+conocimiento de la genética y la neurobiología están empezando a permitirnos
+afectar directamente a las bases biológicas de la motivación moral, sea a través
+de fármacos, implantes, a través de la selección genética, la ingeniería genética,
+o utilizando instrumentos externos que afecten al cerebro o a los procesos de
+aprendizaje. Como tienen una base biológica sí pueden afectarse estas bases
+mediante un tratamiento biomédico o genético.
+
+30
+31
+
+324
+
+Immanuel Kant, La fundamentación de la metafísica de las costumbres, Espasa-Calpe, Madrid, 1967, p. 90.
+Ignacio Morgado (2010): Emociones e inteligencia social, Ariel, Barcelona.
+
+
+
+Según los autores con los que venimos dialogando, es un imperativo
+moral, pues, proseguir las investigaciones e intentar mejorar la motivación
+moral con medios biomédicos, complementando así la educación. Puede objetarse que si no se ha conseguido gran cosa en miles de años de educación, la
+biomejora moral está en sus comienzos, con lo cual hemos llegado demasiado
+tarde. Pero hay que intentarlo igualmente: la ciencia y la tecnología ofrecen
+instrumentos que pueden ayudar en este sentido. Tal vez también fracase, pero
+poner la biomejora moral sobre la mesa es importante.
+4. LUCES Y SOMBRA DE LA PROPUESTA
+DE UNA BIOMEJORA MORAL
+4.1. Virtualidades de la propuesta
+Las propuestas de mejora moral con medios biomédicos sacan a la luz
+un conjunto de reflexiones de sumo interés, sobre todo en lo que se refiere al
+diagnóstico.
+1) En principio, constatan que nuestras disposiciones morales tienen
+una base biológica, cuyo sentido consiste en lograr la eficacia adaptativa de los
+individuos, pero esa base está preparada para responder a un entorno social y
+físico periclitado.
+2) La evolución de nuestras disposiciones biológicas, que nos prepara
+para sobrevivir en unas situaciones determinadas, no coincide con el progreso
+moral en el nivel cultural. Como hemos dicho, parece que la especie humana
+ha permanecido esencialmente igual a nivel biológico y genético durante los
+últimos 40.000 años, mientras se producía el desarrollo cultural, gracias sobre
+todo al desarrollo del lenguaje oral y escrito.
+Aunque Habermas hable de una “teoría de la evolución social”, adaptando el proceso ontogenético del que trata Kohlberg al filogenético, es en realidad una teoría del progreso en la conciencia moral social, concretamente, en
+la formación de juicios acerca de la justicia. Una cosa es evolución biológica,
+otra, progreso en la cultura y el juicio moral. A pesar de que se hable de evolución “biosocial”, más bien parece que es en el caso de cada persona en el que
+hay que intentar seguir la línea del progreso moral, educando su juicio para que
+se sitúe en el nivel postconvencional. Por eso el progreso queda en el ámbito
+del razonamiento y no cala en las motivaciones.
+Tal vez este desajuste entre convicción racional, argumentada, y motivación enraizada en emociones acuñadas en el cerebro de forma milenaria esté
+en la base del dictum latino video meliora proboque deteriora sequor, que recoge
+el desconcierto de Medea “pero me arrastra involuntariamente una nueva fuerza,
+
+325
+
+
+
+y una cosa deseo, la mente de otra me persuade. Veo lo mejor y lo apruebo,
+pero sigo lo peor”32, y el de S. Pablo: “no hago el bien que quiero, sino que obro
+el mal que no quiero”33.
+3) Sin embargo, la pregunta sobre qué disposiciones es preciso reforzar saca a la luz en realidad lo que entendemos por “moral” y, por supuesto, no
+tiene sólo una respuesta evolutiva. Si sólo se trata de aquellas disposiciones que
+favorecen el juego de la cooperación, se reforzaría el mecanismo evolutivo y
+entenderíamos por “moral” el juego de la cooperación como es hoy habitual.
+Así lo reconocen una gran cantidad de autores, entre otros, Haidt
+cuando afirma: “Los sistemas morales son conjuntos engranados de valores,
+virtudes, normas, prácticas, identidades, instituciones, tecnologías y mecanismos psicológicos evolucionados, que trabajan conjuntamente para suprimir o
+regular el autointerés y hacer sociedades lo más cooperativas posible”34 (2012,
+220). Se trata de un utilitarismo durkheimiano, no de un individualismo: maximizar el bien, teniendo en cuenta nuestro ser en sociedad. Sólo los grupos
+capaces de crear compromiso pueden suprimir a los polizones y crecer.
+Así entendida la moralidad, las modificaciones biomédicas la refuerzan,
+como en el caso de la oxitocina. “La oxitocina —dirá Haidt— liga a la gente
+selectivamente a sus grupos, no a la humanidad. Las neuronas espejo ayudan a
+empatizar con otros, pero particularmente con los que comparten la misma matriz
+moral. Sería hermoso que los seres humanos estuviéramos diseñados para amar
+a todos incondicionadamente. Hermoso, pero improbable desde una perspectiva
+evolutiva. El amor parroquial, disparado por la competición con otros grupos y
+ampliado por la semejanza, un sentido compartido y la supresión de los polizones puede ser lo más que podamos conseguir. La moralidad une y ciega”35.
+Sin embargo, a mi juicio, el progreso moral alcanzado en el siglo XXI
+no exige sólo favorecer la cooperación en el seno de un grupo, haciendo posible la selección de grupos, sino que se entiende por “disposiciones morales”
+aquellas que favorecerían tener en cuenta a cualesquiera seres humanos. En
+caso contrario, no importarían problemas como los de la justicia global ni se
+propondrían proyectos como los Objetivos de Desarrollo del Milenio, tan ligados a la protección de los derechos humanos36.
+
+32
+33
+34
+
+Ovidio, Metamorfosis, LIBRO VII, pp. 19-21.
+San Pablo, Epístola a los Romanos, VII, p. 19.
+Jonathan Haidt, The Righteous Mind: Why People are Divided by Politics and Religion, Pantheon Books, New
+
+York, p. 220.
+Jonathan Haidt, o.c., p. 201.
+Ciertamente,“nuestro altruismo parroquiano y limitado no es suficientemente fuerte como para tener una
+razón para abandonar nuestro estilo de vida consumista en beneficio de nuestros descendientes o de quienes viven lejos”
+(Savulescu y Persson, p. 25).
+35
+
+36
+
+326
+
+
+
+Y es en esa dirección en la que habría que cultivar las emociones de
+modo que las motivaciones impulsen a las personas a tener en cuenta a cualquier ser humano.
+4) Lo que los melioristas señalan con acierto es que la educación es un
+buen medio, pero no ha tenido demasiado éxito, a pesar de la gran labor llevada a cabo durante siglos. Ahora bien, la oferta de complementarla con
+medios biomédicos, parece —a mi juicio— más que discutible.
+Hay hallazgos importantes, como que la oxitocina promueve la confianza, los inhibidores selectivos de la recaptación de serotonina (ISRS) incrementan la cooperación y reducen la agresión, el ritalín reduce la agresión violenta. Además el desorden de la personalidad antisocial puede tener una base
+biológica, y se ha relacionado la criminalidad con una mutación de la enzima
+monoamino oxidasa (MAO) en el cromosoma X, en especial cuando se combina con privación social37. Pero, ¿realmente es éste el camino para mejorar la
+motivación moral?
+4.2. Los límites de la propuesta
+La propuesta de la mejora moral con medios biomédicos presenta grandes limitaciones, tanto en lo que se refiere al procedimiento como en lo relativo a su comprensión de lo moral.
+En primer lugar, las investigaciones se encuentran todavía en los
+comienzos y sería muy difícil indicar cómo hacerlo y con qué consecuencias
+al medio y largo plazo. Sería preciso ir paso a paso, analizando caso por caso,
+valorando los medios que se emplean como elemento clave y la eficacia que
+puede tener la medida en cuestión. No es lo mismo intentar una modificación
+genética que propiciar una inhalación de oxitocina. Proseguir las investigaciones siempre es interesante, pero no un imperativo moral.
+Y, como bien dijo Helio Carpintero en la sesión en que se leyó este
+texto, no parece que en los tiempos que corren sea muy prudente gastar en
+mejoras cuando ni siquiera estamos atendiendo a las más elementales terapias.
+2) En segundo lugar, cualquier intervención de mejora de las disposiciones morales debería venir precedida por la obtención del consentimiento
+cuidadosamente informado de la persona a la que se somete a la intervención.
+Éste es un requisito indispensable que cobró presencia histórica con el Código
+
+37
+Savulescu, 2012, pp. 240 y 241. La monoamino oxidasa es una enzima que cataliza la oxidación de las monoaminas y la degradación de algunos neurotransmisores, como por ejemplo, la serotonina.
+
+327
+
+
+
+de Nüremberg de 1947, elaborado después de la II Guerra Mundial y referido
+a la experimentación con humanos, cuyo punto 1º dice expresamente “Es absolutamente esencial el consentimiento voluntario del sujeto humano”, y quedó
+consagrado en el Informe Belmont. En cualquier caso, la exigencia de consentimiento refleja lo que Habermas ha llamado la “autocomprensión ética de la
+especie”, que radica en la autonomía.
+3) Puede objetarse que en ese caso la persona que deseara someterse
+a una intervención para mejorar sus disposiciones morales estaría ya motivada
+moralmente, desearía acompasar sus afectos a este interés, pero se daría cuenta
+de las dificultades con las que se encuentra a la hora de intentar ajustar su conducta a sus convicciones razonadas. En realidad, no habría mucha diferencia
+entre estar de acuerdo en inhalar oxitocina para tener reacciones más confiadas o ingerir litio en el caso del trastorno bipolar, aunque en el segundo caso
+habláramos de tratamiento y en el primero, de mejora.
+Pero justamente lo que pretenden lograr los melioristas morales es que
+refuercen sus motivaciones los que no parecen muy interesados en ello. Ante
+esta pretensión sólo caben tres salidas: o bien el Estado ofrece incentivos a
+quienes quieran oficiar de cobayas, o bien elabora un plan de mejora moral
+para toda la población, o bien el Ministerio de Educación de cada país hace un
+proyecto para tratar de mejorar la motivación moral de los niños.
+En el primer caso, tendríamos una nueva versión de La naranja mecánica, que no resulta aconsejable repetir.
+En el segundo, planea de nuevo el peligro de un Estado autoritario,
+que recuerda la eugenesia autoritaria, por mucho que los melioristas morales
+insistan en que es preciso legislar atendiendo a exigencias democráticas. Justamente, el hecho de que se plantee la necesidad de mejora moral sobre la
+base de que afrontar los riesgos a los que se enfrentan el planeta y las generaciones futuras hace necesario contar con gentes con una motivación moral
+diferente, hace temer que se esté reclamando, aun sin quererlo, una planificación estatal.
+Si recordamos, a comienzos de este siglo hizo su aparición lo que dio
+en llamarse “eugenesia liberal” para diferenciarse de la “eugenesia autoritaria”
+practicada en el siglo anterior en diferentes países.
+Eugenesia liberal y autoritaria se distinguirían entre sí por los siguientes pares de rasgos: neutralidad del Estado, frente a un estado que diseña e
+impone las leyes eugenésicas; extiende las libertades procreativas, en vez de
+privar de ellas; el consejero genético es un experto que apoya a los padres, no
+es un agente del Estado; se pretende una mejora individual, no una pureza
+racial de la especie; se busca la eficiencia económica, no es una ideología polí-
+
+328
+
+
+
+tica la que la respalda; son los padres quienes deciden, como sucede en el
+caso de la educación, no el Estado38.
+La respuesta suele ser en estos casos que se trata de complementar el
+proceso educativo, lo cual requeriría un plan en las escuelas, organizado por
+el Estado. Cosa que ya se ha hecho sin necesidad de hablar de mejora moral,
+y que despierta en exceso el recuerdo de distopías como El mundo feliz de
+Aldous Huxley.
+4) En cualquier caso, y en lo que refiere a la concepción misma de lo
+moral, no existe el chip moral, no hay fármaco ni implante que sustituya a la
+paciente formación voluntaria del carácter, ni tampoco las modificaciones de los
+móviles cooperativos parecen dar con el móvil moral. Atender a lejanos y cercanos por motivos morales exige cultivar la capacidad de apreciar lo que es
+valioso por sí mismo, y no sólo por el beneficio en feliz convivencia que puede
+reportar. Es lo que Kant llamaba el sentimiento de respeto ante lo que vale en
+sí mismo y no para otras cosas. Tratar de convertir en experiencia vital ese sentimiento sería la clave. Pero no creo que haya medio biomédico que lo logre.
+
+38
+Nicholas Agar, “Liberal Eugenics”, pp. 171-181; Habermas, Die Zukunft der menschlichen Natur. Auf dem
+Weg zu einer liberalen Eugenik?, Suhrmap, Frankfurt, 2001.
+
+329
+
+
+
+BIBLIOGRAFÍA
+NICHOLAS AGAR (1999): “Liberal Eugenics”, en Helga Kuhse y Peter Singer (eds.), Bioethics. An
+Anthology, Blackwell, Oxford, pp. 171-181.
+KARL-OTTO APEL (1973): Transformation der Philosophie, II, Suhrkamp, Frankfurt.
+ENRIQUE BONETE (2010): Neuroética práctica, Desclée de Bouwer, Bilbao.
+NICK BOSTROM (2005): “A History of Transhumanist Thought”, Journal of Evolution and Technology, vol. 14, 1. 1-30.
+ALLEN BUCHANAN (2011): Beyond Humanity?, Oxford University Press, Oxford.
+ALLEN BUCHANAN, DAN BROCK, NORMAN DANIELS y D. WIKLER (2000): From Chance to Choice: Genetics and Justice, Cambridge University Press, 2000
+OLGA CAMPOS (2010): “La mejora del carácter moral en la evaluación de las técnicas de mejora
+biológica”, Dilemata, nº 3.
+HELIO CARPINTERO (2012), “Una vista sobra la psicología positiva”, sesión de la RACMYP del 4-XII2012.
+JESÚS CONILL (2012): “El mejoramiento del hombre desde la perspectiva nietzschena”, en Estudios
+Nietzsche, nº 12, pp. 41-52.
+— “Neuroeconomía y neuromarketing. ¿Más allá de la racionalidad maximizadora?”, en Adela Cortina (ed.), Guía Comares de Filosofía Práctica, Comares, Granada, 2012, pp. 39-64.
+ADELA CORTINA (2011): Neuroética y neuropolítica. Sugerencias para la educación moral, Tecnos,
+Madrid.
+— (ed.) (2012): Guía Comares de Neurofilosofía práctica, Comares, Granada.
+THOMAS DOUGLAS (2008): “Moral Enhancement”, Journal of Applied Philosophy, vol. 25, n. 3, pp.
+228-245.
+FRANCIS FUKUYAMA (2002): Our Posthuman Future, Profile Books.
+JÜRGEN HABERMAS (2001): Die Zukunft der menschlichen Natur. Auf dem Weg zu einer liberalen
+Eugenik?, Suhrmap, Frankfurt, 2001.
+JONATHAN HAIDT (2012): The Righteous Mind: Why People are Divided by Politics and Religion, Pantheon Books, Nueva York.
+JOHN HARRIS (2009): “Enhancements Are a Moral Obligation”, en Julian Savulescu y Nick Bostrom
+(eds.), Human Enhancement, Oxford University Press, pp. 131-154.
+MARC D. HAUSER (2008): La mente moral, Paidós, Barcelona.
+DAVID HUME (1977): Tratado de la naturaleza humana, Editora Nacional, Madrid, 2 vols.
+J. HUGHES (2004): Citizen Cyborg: why democratic societies must respond to the redesigned human
+of the future, Westview Press, Cambridge, MA.
+JULIEN HUXLEY (1927): Religion without Revelation, E. Benn, Londres.
+HANS JONAS (1979): Das Prinzip Verantwortung, Insel Verlag, Frankfurt.
+JAVIER JÚDEZ (2011): “Mejora (ético)”, Carlos Romeo Casabona (dir.), Enciclopedia de bioderecho
+y bioética, Comares, Granada, II, pp. 1120-1127.
+DANIEL KAHNEMAN (2011): Thinking, fast and slow, Penguin Books, Londres.
+
+330
+
+
+
+IMMANUEL KANT (1967): La Fundamentación de la Metafísica de las costumbres, Espasa-Calpe,
+Madrid.
+— (1989): La Metafísica de las costumbres, Tecnos, Madrid.
+LEON KASS, “Ageless Bodies, Happy Souls”, The New Atlantis, 1 (2004), pp. 9-28.
+IGNACIO MORGADO (2010): Emociones e inteligencia social, Ariel, Barcelona.
+THOMAS H. MURRAY (2007): “Enhancement”, en Bonnie Steinbock (ed.), The Oxford Handbook of
+Bioethics, pp. 491-515.
+MARTIN NOWAK y KARL SIGMUND (2000): “Shrewd investments”, Science, vol. 288, nº 5467, pp. 819-820.
+OVIDIO, Metamorfosis.
+INGMAR PERSSON y JULIAN SAVULESCU (2012a): “Moral Enhancement”, Philosophy Now, Julio/Agosto,
+pp. 24-26.
+— (2012b): Unfit for the Future: The Need for Moral Enhancement, Oxford University Press,
+Oxford.
+MICHAEL SANDEL (2007): The Case Against Perfection: Ethics en the Age of Genetic Engineering, Harvard University Press, Cambridge, MA.
+SAN PABLO, Epístola a los Romanos.
+JULIAN SAVULESCU (2012): ¿Decisiones peligrosas?, Tecnos, Madrid.
+JULIAN SAVULESCU y NICK BOSTROM (eds.) (2009): Human Enhancement, Oxford University Press,
+Oxford.
+JULIAN SAVULESCU y INGMAR PERSSON (2012): “Moral Enhancement”, en Philosophy Now, Julio/Agosto,
+pp. 24-26.
+MICHAEL TOMMASELLO (2010): ¿Por qué cooperamos?, Katz, Buenos Aires.
+
+331
+
+
+
+

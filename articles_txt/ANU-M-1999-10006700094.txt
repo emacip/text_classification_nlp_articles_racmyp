@@ -1,0 +1,2082 @@
+E L CA PITA L. HUM ANO Y LA CO N V ERG EN CIA
+R EA L ESPA N A -U E
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba
+
+Capital humano es un viejo y fértil concepto que, como tantos otros, tiene
+sus raíces formales en Adam Smith. El primer intento de aplicarlo se atribuye a
+William Petty, cuando, en el año 1676, en sus trabajos sobre contabilidad nacional,
+comparó la pérdida de material de guerra con la pérdida de vidas humanas. A pesar
+de su larga vida, solamente hace cuarenta años que se ha introducido en el deba­
+te político y económico.
+Empezaré el trabajo con un conjunto de consideraciones de carácter gene­
+ral. A continuación me referiré a los factores determinantes del crecimiento econó­
+mico y, en particular, al impacto del capital humano. Después analizaré la relación
+entre recursos educativos y rendimiento académico, en un intento de reflejar la difi­
+cultad de calcular empíricamente la función de producción agregada de los servi­
+cios educativos. Seguidamente, discutiré el gasto en educación en España en rela­
+ción con los países de la UE y de la OCDE, haciendo especial referencia al gasto
+universitario. La última parte de mi intervención la dedicaré al análisis de los resul­
+tados más recientes sobre el rendimiento de nuestro sistema educativo, terminan­
+do con un conjunto de conclusiones y recomendaciones específicas, todas ellas sus­
+tentadas en los datos expuestos.*
+
+* Sesión del día 10 de noviembre de 1998.
+
+67
+
+
+
+INTRODUCCIÓN
+
+Dos son las aproximaciones principales al análisis de los beneficios eco­
+nómicos y sociales que proporciona la educación: la teoría del capital humano,
+Schultz (1960, 1961) y Becker (1964), y la hipótesis del filtro, Arrow (1973) y Stiglitz
+(1975).
+La teoría del capital humano explica la demanda de educación como con­
+secuencia del incremento de utilidad que el individuo deriva de ella. En efecto, la
+decisión de acceder a más educación es análoga a la decisión empresarial de inver­
+tir en bienes de capital, y con ella el individuo incurre en costes explícitos y en cos­
+tes de oportunidad. Desde este punto de vista, la educación tiene un componente
+de consumo, en cuanto a los beneficios que genera a corto plazo, y de inversión,
+en cuanto a aquellos otros que proporciona a largo plazo.
+En la década de los setenta, surgieron teorías alternativas a la justificación
+de invertir en educación. Sin cuestionar la racionalidad de la decisión individual, la
+teoría del filtro ofrece otra interpretación. En efecto, el mensaje central de la teoría
+del filtro es que a partir de un determinado nivel básico, la educación no incre­
+menta la productividad y, de hecho, las empresas utilizan niveles superiores de
+educación simplemente como filtro para seleccionar individuos capaces. Esta teo­
+ría asocia educación y productividad, pero no las relaciona causalmente.
+La validación empírica de una y otra teoría está llena de dificultades y de
+resultados contradictorios, dada la ambigüedad de la relación entre educación y
+crecimiento económico, tanto en lo que se refiere a su intensidad como a la direc­
+ción de la relación causal. Poco más puede afirmarse con rigor, excepto que nin­
+gún país ha experimentado un crecimiento económico sustancial hasta que una
+parte relevante de su población accedió a los niveles básicos de educación.
+En el pasado, los costes de producir bienes manufacturados consistían
+básicamente en costes de trabajo, de instalaciones y de materias primas. Hoy esta
+identidad ha cambiado. Recursos intangibles, dependientes de conocimientos espe­
+cíficos, tales como creatividad, capacidad tecnológica y de innovación, relación con
+los consumidores y determinadas características de la infraestructura social repre­
+sentan, por ejemplo, el 80% del valor añadido en productos de alta tecnología.
+A diferencia de las economías del pasado, una parte muy importante del
+producto de las economías de hoy se presenta en forma intangible. Es decir, servi­
+cios cuyos efectos no son fácilmente medibles a través de los métodos contables
+68
+
+
+
+tradicionales de cantidad y volumen. Hoy el capital físico es menos relevante.
+Como Alan Greenspan, presidente de la Reserva Federal, ha señalado, el producto
+total de la economía americana es hoy el mismo que hace den años medido en
+toneladas, y ello a pesar de que su tamaño se ha multiplicado por veinte en térmi­
+nos reales.
+Hasta hace poco, «dónde» se desarrollaba algo condicionaba «qué» se hada
+en ese lugar. Es dedr, recursos tales como la tierra, la localizadón geográfica y las
+materias primas eran componentes esenciales del proceso productivo. Algunas de
+las ideas básicas que guiaban las decisiones sobre la asignadón de capital también
+han cambiado. Los mercados globales de hoy hacen las decisiones impersonales,
+exentas en muchos casos de criterios nacionales o geográficos y de consideracio­
+nes a largo plazo. En efecto, un nuevo ambiente de volatilidad envuelve la econo­
+mía mundial. A título de ejemplo, puede señalarse que más del 70% de las 500
+empresas citadas en la revista Fortune de 1955 simplemente han desaparecido.
+¿Cómo deben replantearse nuestras pautas educativas en este nuevo en­
+torno?
+Como, con acierto, se ha señalado, difícilmente cabe pensar en actividad
+alguna que haya quedado tan estancada como la educativa. Básicamente, el «pro­
+ceso de enseñar» no ha cambiado en los últimos doscientos años, y aún hoy puede
+caracterizarse por un grupo de alumnos en un aula cerrada a los que atiende un
+profesor. Dentro de este esquema, gran parte del debate se ha centrado, simple­
+mente, en determinar el número máximo de alumnos que reciben enseñanza en
+cada aula.
+En mi opinión, el profundo cambio tecnológico y cultural al que he hecho
+breve referencia pondrá en entredicho la mayoría de las pautas que siguen los
+actuales sistemas educativos. Obligará a replantear muchos aspectos fundamenta­
+les, entre los que, desde luego, estará la función del profesor, tal y como hoy la
+entendemos. En este nuevo marco, todos, alumnos, padres y profesores, tendrán
+algo que enseñar y algo que aprender. Las nuevas tecnologías no deberán enten­
+derse simplemente como instrumentos que permiten hacer más eficientemente lo
+que hoy hacemos, sino como la posibilidad de introducir nuevos recursos en la
+producción de servicios educativos.
+Antes de entrar en materia, quiero al menos mencionar un aspecto del
+problema que está relacionado con el tema que voy a tratar, pero al que no me
+volveré a referir. Se ha analizado, desde múltiples puntos de vista, el impacto que
+69
+
+
+
+los cambios en la estructura de la población tienen en la viabilidad económica del
+Estado del bienestar, y especialmente en lo que hace referencia a los programas de
+seguridad social y sanidad pública. Sin embargo, un aspecto relevante, tratado muy
+parcialmente, es el efecto que el cambio en la estructura de la población, en el caso
+de España hacia el envejecimiento, tiene en la viabilidad política de los programas
+públicos dirigidos a la población joven, entre los que destaca especialmente el
+gasto en educación. Si los ciudadanos deciden los programas de gasto que votan
+de acuerdo con sus intereses, tal y como suponen los modelos de la teoría políti­
+ca, a medida que una sociedad envejece tenderá a retirar su apoyo a los programas
+de gasto público en educación. Tendencia que se acentuará si se le añade el efec­
+to adicional del aumento del número de hogares sin hijos y, en general, el proce­
+so de debilitación progresiva de los vínculos que conectan la población vieja y la
+joven. El reciente trabajo de Poterba (1998) recoge alguna de la evidencia empíri­
+ca en esta dirección.
+
+CAUSAS DEL CRECIMIENTO ECONÓMICO
+
+Los primeros intentos para analizar las causas que explican el crecimiento
+económico pusieron de manifiesto que su mayor parte no podía explicarse a tra­
+vés de las formulaciones convencionales que incorporaban simplemente capital y
+trabajo como variables relevantes. Posteriormente, se comprobó que la «calidad» del
+trabajo, es decir, el capital humano, podría ser un elemento determinante de esa
+componente no explicada o residuo, en la terminología de Solow (1956). Fue
+Schultz (1960) quien primero abordó el problema de estimar el efecto que el siste­
+ma educativo tiene en la formación de capital humano y, posteriormente, el de
+medir el impacto de éste en el crecimiento agregado. Con la información estadísti­
+ca de la que dispuso, y con los métodos econométricos que utilizó, llegó a la con­
+clusión de que explicaba, aproximadamente, el 20%.
+La diferencia más relevante entre los análisis realizados hasta el final de
+los años ochenta y los de la última década estriba en el mayor énfasis que hoy se
+pone en la contrastación empírica de las distintas teorías y, por consiguiente, en
+analizar la capacidad explicativa y predictiva de los modelos que se proponen.
+Por otra parte, los modelos recientes derivan el crecimiento de forma
+endógena, haciendo explícitos el progreso tecnológico y la calidad del trabajo. En
+efecto, una de las características diferenciales de la nueva teoría del crecimiento es
+la decisiva importancia que en ella tienen la inversión en capital humano y tecno­
+lógico, como factores incuestionables en el aumento de la productividad; veáse
+70
+
+
+
+Novales y Sebastián (1999, cap. 8). La validación empírica de estos modelos se ha
+llevado a cabo no sólo con diversas técnicas econométricas, sino también utilizan­
+do muy diferentes bases de datos que incluyen distintas variables, países y hori­
+zontes temporales. Bajo estas condiciones, es explicable que la evidencia empírica
+no sea todo lo general y concluyente que sus autores pretenden, ya que con fre­
+cuencia se inclina hacia los prejuicios teóricos o políticos de los que se parte. Valga,
+a titulo de ejemplo, escoger, como ya lo he hecho en otras ocasiones, los tan cita­
+dos trabajos de Aschauer (1989,1991), en los que se asegura una determinante rela­
+ción entre el gasto en infraestructuras y el crecimiento económico, llegando a afir­
+mar que la disminución de este gasto ha sido una causa fundamental de la ralentización del crecimiento de la economía americana en los años setenta y ochenta.
+Aunque algunas investigaciones recientes apoyan los resultados de Aschauer, hay
+otras que, en mi opinión, con mayor rigor econométrico y utilizando sus mismos
+datos, no las aceptan. En todo caso, de su no aceptación no cabe inferir la ausen­
+cia de relación entre una y otra variable, sino, simplemente, que la evidencia que
+pretendidamente la justifica no es correcta. Para consideraciones adicionales de esta
+naturaleza, veáse Hulten y Schwab (1995).
+La evidencia empírica más solvente es la que hace referencia a la impor­
+tancia de la tecnología y la innovación, del capital humano y de la llamada infra­
+estructura social como tres factores fundamentales del crecimiento económico.
+Existen sin embargo, sustanciales discrepancias en la cuantificación concreta de los
+efectos de estos tres factores, oscilando su capacidad explicativa individual entre el
+10 y el 60% del crecimiento económico. Es ésta una variabilidad excesivamente
+alta, sobre todo cuando se pretende utilizar los resultados, así obtenidos, para dis­
+criminar entre distintas alternativas de política económica. Estos factores de creci­
+miento generan externalidades positivas y tienen, en mayor o menor intensidad,
+características específicas de los bienes públicos. Es decir, ausencia de rivalidad (su
+utilización por alguien no impide su utilización por otros) y no exclusividad (no es
+fácil impedir que, una vez generados, puedan ser utilizados por otros). Estas carac­
+terísticas tienen importantes implicaciones económicas, ya que, como es bien cono­
+cido, en un sistema competitivo la inversión privada en la producción de estos fac­
+tores tenderá a ser inferior a la óptima. Surge así la necesidad de la intervención
+pública y la importancia de desarrollar derechos de propiedad de estos productos
+o factores, e incluso de incentivar su desarrollo, permitiendo un cierto poder de
+monopolio durante un tiempo determinado. Sin embargo, en mi opinión, aún está
+bastante lejos el consenso entre economistas sobre las formas en que el gobierno
+debe intervenir para mejorar estas situaciones.
+Antes de evaluar la evidencia empírica disponible, es conveniente hacer
+71
+
+
+
+referencia a la dificultad de encontrar indicadores razonables de capital humano, lo
+que conduce a la necesidad de interpretar con prudencia los resultados que de
+ellos se derivan. Uno de los primeros intentos de medir el stock de capital huma­
+no se debe a Psacharopoulos y Amagada (1986), quienes caracterizaron, para una
+muestra de 99 países, la población laboral por sus niveles de estudio y por los años
+medios de escolarización. Entre los intentos más recientes y solventes, cabe citar el
+de Barro y Lee (1993), quienes elaboraron información de 129 países para el perío­
+do 1960-1985, con intervalos quinquenales, sobre los años de escolarización de la
+población mayor de veinticinco años, clasificándola por sus distintos niveles edu­
+cativos. Pese a que en los últimos años se ha avanzado significativamente en la ela­
+boración de este tipo de indicadores, es mucha todavía la ambigüedad e incerti­
+dumbre que presentan los datos utilizados, que indudablemente condicionan la
+robustez de los resultados empíricos que se obtienen.
+Trabajos recientes como, por ejemplo, los de Barro (1997) y Mankiw et alt.
+(1992), y el de Hall y Jones (1998) para el N ational B u reau o f E conom ic R esearch,
+llegan a la conclusión de que el capital físico explica una pequeña parte de la sig­
+nificativa diferencia que existe entre las pautas de crecimiento de los países que
+consideran, poniendo especial énfasis en los tres factores a los que hemos hecho
+referencia.
+Describiremos, parcialmente, los resultados de Hall y Jones. Estos autores
+analizan las causas del crecimiento económico con una muestra de 127 países. Para
+ello, descomponen el producto por persona ocupada en tres términos multiplicati­
+vos: la contribución del capital físico por unidad de producto, la contribución del
+capital humano por persona ocupada, y una componente adicional que recoge,
+bajo la expresión genérica de productividad, los factores no incluidos en los térmi­
+nos de capital físico y humano, y que se calcula de forma residual. El análisis lo
+desarrollan a partir de una función de producción de tipo Cobb-Douglas.
+En el cuadro 1 se recogen los resultados de esta descomposición, con
+datos correspondientes a 1988. Para facilitar la comparación, los valores numéricos
+que en ella aparecen se expresan en relación con los valores de Estados Unidos.
+Por ejemplo, la contribución del capital físico por unidad de producto y el pro­
+greso técnico en Canadá tienen los mismos valores, aproximadamente, que en
+Estados Unidos, mientras que la contribución del capital humano es el 90,8%. De
+tal manera que la multiplicación de sus correspondientes valores numéricos da
+lugar al 94,1% del producto por persona ocupada de Estados Unidos.
+También, de acuerdo con la opinión generalizada, la Unión Soviética tiene
+solamente el 42% del producto de Estados Unidos, pese a tener el 23% de más
+72
+
+
+
+C uadro 1
+
+Causas del crecimiento económico (*)
+C ontribución de
+País
+
+Productc/Pob. ocup.
+Q ipitalfkicc/P roducto
+
+Capital bum ano/Pob. ocup.
+
+Productividad
+
+Estados Unidos
+Canadá
+Hong Kong
+Singapur
+Japón
+Méjico
+Argentina
+URSS
+India
+China
+Kenya
+Zaire
+
+1,000
+0,941
+0,608
+0,606
+0,587
+0,433
+0,418
+0,417
+0,086
+0,060
+0,056
+0,033
+
+1,000
+1,002
+0,741
+1,031
+1,119
+0,868
+0,953
+1,231
+0,709
+0,891
+0,747
+0,499
+
+1,000
+0,908
+0,735
+0,545
+0,797
+0,538
+0,676
+0,724
+0,454
+0,632
+0,457
+0,408
+
+1,000
+1,034
+1,115
+1,078
+0,658
+0,926
+0,648
+0,468
+0,267
+0,106
+0,165
+0,160
+
+Media
+
+0,296
+
+0,853
+
+0,565
+
+0,516
+
+Desviación estándar
+
+0,268
+
+0,234
+
+0,168
+
+0,325
+
+<*) Datos correspondientes al año 1988.
+Fuente: Hall y Jones (1998).
+
+capital físico y el 72% de su capital humano. La diferencia se debe, fundamental­
+mente, a los factores residuales de productividad.
+De estos resultados puede deducirse que el producto por persona ocupa­
+da es para los cinco mejores países 31,7 mayor que el correspondiente a los cinco
+peores. Sin embargo, para estos dos grupos de países, las diferencias de capital físi­
+co y humano son solamente de 1,8 y 2,2, respectivamente, mientras que los térmi­
+nos de productividad contribuyen con un factor de 8,3- Dicho de otro modo, si la
+diferencia en los factores residuales de progreso técnico no existiera, la diferencia
+derivada solamente de los factores de capital físico y humano daría lugar a un dese­
+quilibrio mucho menor, ya que el factor de 31,7 veces mayor producto por perso­
+na ocupada se reduciría a un factor inferior a 4. Por tanto, la dificultad en difundir
+y adoptar las innovaciones tecnológicas, que conducen a un aumento de la pro­
+ductividad, es la característica diferencial de ambos grupos de países.
+Los autores citados, y con ellos una gran parte de la reciente teoría empí­
+rica sobre crecimiento económico, atribuyen gran parte de la capacidad explicativa
+adicional a lo que denominan infraestructura social, entendiendo por tal el conjun­
+to de instituciones que delimitan y condicionan el entorno económico-social en el
+que individuos y empresas se forman y toman decisiones, crean y transfieren ideas,
+73
+
+
+
+y producen bienes y servicios. Estos factores institucionales son los que condicio­
+nan el desarrollo, difusión y adopción de las innovaciones tecnológicas. Son los
+gobiernos los principales proveedores de infraestructura social, pero, paradójica­
+mente, también son, con demasiada frecuencia, aquellos que más la deterioran,
+propiciando ineficiencias y falta de equidad.
+El cuadro 2 recoge los resultados correspondientes a los países de la UE,
+también con datos de 1988. De ellos se desprende que el capital físico por producto
+de España coincide con la media de la UE, mientras que el cociente de capital
+humano y población ocupada es el 80% del valor medio de los países de la UE.
+Uno y otro, junto con el factor de productividad, dan un producto por población
+ocupada del 94% respecto a la media de la UE y del 68% respecto a Estados
+Unidos. Estas cifras ponen de manifiesto que la mayor ganancia potencial está en
+una mayor ocupación de nuestra población activa y en mejorar el nivel de nuestro
+capital humano. Sin embargo, estas afirmaciones, al igual que otras de la misma
+naturaleza, requieren algunas matizaciones adicionales, ya que, tal como hemos
+señalado, queda aún mucho terreno por recorrer en la definición y elaboración de
+Cuadro 2
+
+Causas del crecimiento económico. Unión Europea (*)
+País
+
+Producto/Pob. ocup.
+CapitalJtsico/Producto
+
+Capital bum ano/Pob. ocup.
+
+Productividad
+
+1,000
+1,098
+0,978
+1,207
+0,912
+
+Estados Unidos
+Luxemburgo
+Bélgica
+Italia
+Alemania
+Francia
+Holanda
+Suecia
+Finlandia
+Reino Unido
+Austria
+Dinamarca
+
+1,000
+0,986
+0,83 6
+0,834
+0,818
+0,818
+0,806
+0,787
+0,734
+0,727
+0,709
+0,690
+
+1,000
+1,116
+1,023
+1,063
+1,118
+1,091
+1,060
+1,029
+1,179
+0,891
+1,076
+1,082
+
+1,000
+0,805
+0,836
+0,650
+0,802
+0,666
+0,803
+0,853
+0,855
+0,808
+0,674
+0,905
+
+España
+
+0,682
+
+1,018
+
+0,946
+0,897
+0,728
+1,011
+0,979
+0,705
+
+0,605
+
+1,107
+
+Irlanda
+Grecia
+Portugal
+
+0,577
+0,469
+0,366
+
+1,052
+1.023
+0,960
+
+0,773
+0,680
+0,504
+
+0,709
+0,674
+0,755
+
+Media simple
+
+0,723
+
+1,052
+
+0,748
+
+0,910
+
+Desviación estándar
+
+0,150
+
+0,066
+
+0,108
+
+0,153
+
+(*) Datos correspondientes al año 1988.
+Fuente: Hall y Jones (1998).
+
+74
+
+1,126
+
+
+
+indicadores fiables de capital físico y humano. En cuanto a los resultados que esta­
+mos comentando, Hall y Jones evalúan el capital humano de acuerdo con la evi­
+dencia empírica de Psacharopoulos (1994), de tal manera que suponen que los cua­
+tro primeros años de escolarización tienen una tasa de rendimiento del 13,4%; los
+siguientes cuatro, del 10,1%, y más allá de ocho, el 6,8%. Es éste un criterio están­
+dar de valoración de los niveles de capital humano, pero, en cierta medida, lo que
+está midiendo no es tanto el resultado del proceso educativo sino, simplemente,
+uno de los recursos (años de escolarización) utilizados en este proceso. Como a
+continuación veremos, no siempre es tan obvia la relación entre uno y otros. En
+todo caso, los valores de España del cuadro 2 infravaloran el nivel de capital huma­
+no de hoy, ya que la generalización de la enseñanza obligatoria, y la ampliación de
+la no obligatoria, a una gran parte de la población ocupada es posterior a 1988.
+Las causas inmediatas del crecimiento económico son los factores de capi­
+tal y el progreso tecnológico. Sin embargo, las fundamentales, y anteriores a aqué­
+llas, provienen de la infraestructura social, que a su vez está condicionada por el
+nivel de desarrollo económico. En efecto, países con bajos niveles de desarrollo
+pueden no haber alcanzado el nivel mínimp de recursos necesarios para promover
+una aceptable infraestructura social. Las estimaciones econométricas del trabajo
+citado reconocen explícitamente el carácter endógeno de las variables de infraes­
+tructura social y tienen en cuenta la relación causal bidireccional entre ellas y el
+producto por persona ocupada. La consideración de variables de esta naturaleza es
+relativamente reciente en el análisis empírico, pero no lo es en la abundante lite­
+ratura económica que tiene sus orígenes en Olson (1965), y de la que son mues­
+tras más recientes North (1990), Alston et al. (1996) y Clague (1997).
+
+RECURSOS EDUCATIVOS Y RENDIMIENTO ESCOLAR
+
+A partir del trabajo de Coleman y sus colaboradores en 1966, se sucedió
+un amplio conjunto de investigaciones para tratar de identificar y estimar la función
+de producción del sistema educativo. Los resultados que de ellas se desprenden
+están condicionados por diversos factores. En primer lugar, las definiciones de los
+recursos utilizados y de los resultados obtenidos en el proceso educativo están lle­
+nas de ambigüedades, lo que origina una enorme inconsistencia en la información
+empírica disponible. Todavía se requiere un sustancial trabajo estadístico para
+caracterizar los recursos utilizados y el resultado final del proceso educativo, como
+paso previo a su aplicación en posteriores trabajos empíricos.
+La educación dista mucho de los procesos industriales, en los que, a par­
+tir de una tecnología dada, la combinación de un conjunto predeterminado de
+75
+
+
+
+Cuadro 3
+
+Efectos estimados de los recursos educativos sobre el rendimiento académ ico
+Núm ero de
+estim aciones
+
+Núm. alumnos por profesor
+Formación del profesor
+Experiencia del profesor
+Salario del profesor
+Gasto por alumno
+Recursos administrativos
+Instalaciones
+
+277
+171
+207
+119
+163
+75
+91
+
+Efecto
+estadísticam ente
+significativo
+
+Efecto
+estadísticam ente
+no significativo
+
+Positivo
+
+Negativo
+
+Positivo
+
+Negativo
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+m
+
+15
+9
+29
+20
+27
+12
+9
+
+13
+5
+5
+7
+7
+5
+5
+
+27
+33
+30
+25
+34
+23
+23
+
+25
+27
+24
+20
+19
+28
+19
+
+20
+26
+12
+28
+13
+32
+44
+
+Indeterm inado
+
+Fuente: Hanushek 0 9 9 © .
+
+recursos proporciona un resultado concreto. En la práctica, no resulta fácil identifi­
+car la función de producción educativa. En efecto, la extensa literatura sobre esta
+materia presenta resultados ambiguos y contradictorios. Esta situación la describe
+Hanushek (1996) en un trabajo reciente, del que hemos tomado el cuadro 3, en el
+que se recogen los efectos estimados de los recursos educativos, citados en la pri­
+mera columna del cuadro, sobre el rendimiento académico. Estos resultados hacen
+referencia a 90 trabajos empíricos publicados hasta 1995 y a las 377 estimaciones
+que en ellos aparecen. La significación estadística de estas estimaciones se caracte­
+riza en las últimas cinco columnas, y viene dada en porcentajes del número de esti­
+maciones correspondiente. Por ejemplo, solamente en el 15% de las 277 estima­
+ciones en el que aparece el cociente alumnos/profesor como variable explicativa
+se encuentra una relación positiva significativa.
+Como con frecuencia se ha dicho, una persona con un reloj sabe la hora
+que es. Si tiene dos relojes, no está segura. De manera análoga, y a la vista de estos
+resultados, un economista con un modelo econométrico siempre tiene una res­
+puesta precisa. Cuando dispone de varios, está lleno de dudas. Hay razones de
+carácter econométrico, Hanushek et al. (1996), que justifican parcialmente algunas
+de estas discrepancias, y que fundamentalmente están relacionadas con los proble­
+mas de utilizar información agregada en el caso en el que se omiten variables en
+la especificación del modelo. Aunque no aludiré a ellos, hay que señalar que, teni­
+dos adecuadamente en cuenta, los resultados permanecen en la misma zona de
+indefinición.
+La correcta interpretación de los resultados del cuadro 3 requiere hacer
+dos observaciones importantes. La primera es que hacen referencia a las escuelas
+76
+
+
+
+actuales, con los recursos que hoy tienen y en la forma en la que los administran.
+De estos resultados no debe desprenderse que recursos adicionales no proporcio­
+narían, bajo supuesto alguno, un mejor rendimiento, sino que no es razonable
+esperar mejores resultados si se incrementan los recursos a las escuelas tal y como
+hoy operan. Organizadas de otra manera, y en particular con un sistema de incen­
+tivos distinto, más recursos pueden conducir a mejores resultados. Segunda obser­
+vación: los resultados tampoco dicen que nunca los recursos, es decir, indepen­
+dientemente del nivel que han alcanzado, han tenido efectos significativos en el
+rendimiento académico.
+Análisis más desagregados ponen de relieve que existen diferencias muy
+significativas entre los rendimientos escolares de distintas escuelas, e incluso de dis­
+tintas regiones, pero no es fácil relacionarlos de manera estable y sistemática con
+los recursos educativos que utilizan.
+La pregunta básica en cualquier política de gasto público no debería ser
+la de si gastar más o menos en una determinada actividad, sino cómo conseguir
+resultados mejores en esa actividad a partir de incrementos marginales en el gasto.
+Nadie puede defender un gasto nulo en educación, como tampoco puede defen­
+derse un gasto ilimitado. Pero, sin embargo, la evidencia empírica más solvente
+señala que los sistemas educativos tradicionales, no sólo en España, sino también
+en la mayoría de los países de la OCDE, no utilizan los recursos disponibles efi­
+cientemente, tal y como, parcialmente, ya reconocen los últimos informes de este
+organismo; véase OCDE (1997a, capítulo 1).
+
+GASTO EN EDUCACIÓN
+
+La educación tiene las características de bien preferente o de mérito, es
+decir, debe ser financiado aunque los ciudadanos no lo demanden, ya que genera
+beneficios superiores a los que ellos perciben. O, dicho de otro modo, genera
+externalidades positivas. Existe una convincente evidencia empírica que pone de
+manifiesto que las externalidades positivas de los niveles básicos de educación son
+claramente superiores a las de la educación universitaria. Sin embargo, la cuantificación de las externalidades positivas de la enseñanza es muy difícil, ya que requie­
+re la medición de utilidades no monetarias.
+Por otra parte, la existencia de problemas de información en el mercado
+educativo y la imperfección de los mercados de capitales son razones que justifi­
+can, también, la intervención pública en el sistema educativo. La naturaleza y mag­
+77
+
+
+
+nitud de uno y otro problema no han sido objeto de estudios sistemáticos, dificul­
+tando sensiblemente la cuantificación de los recursos públicos necesarios, ya que
+no basta con justificar teóricamente la intervención pública, sino que se hace nece­
+sario cuantificar, al menos de forma aproximada, los recursos financieros que deben
+ser asignados.
+Pese a que, como hemos señalado, es difícil identificar la función de pro­
+ducción educativa, es decir, formular reglas de carácter general que relacionen los
+resultados académicos con los recursos utilizados, con demasiada frecuencia se
+confunden unos y otros, recursos y resultados, llegándose a comparar los sistemas
+educativos entre sí simplemente por los recursos que a ellos se asignan. Aun dando
+por bueno este criterio, erróneo, de comparación, las conclusiones que de él se
+extraen son también, con frecuencia, equivocadas. Veamos.
+En el cuadro 4, se recoge el cociente entre gasto público en educación
+(GPE) y el producto interior bruto (PIB) para los países de la OCDE, con especial
+referencia a los de la Unión Europea, y que corresponde a la información disponi­
+ble más reciente, del año 1995, tomada de la OCDE (1998). Se incluyen los datos
+correspondientes a Bélgica, Luxemburgo, Portugal y Reino Unido, tomados de otra
+fuente, con objeto de disponer de una visión más completa. Sin embargo, estos paí­
+ses no se consideran en el análisis de regresión posterior, al no proceder su infor­
+mación de la fuente utilizada en todo el trabajo, que es la OCDE. Tal y como en
+otras ocasiones he señalado, una consideración superficial del contenido de este
+cuadro conduce a la conclusión de que los países con menor cociente deben
+aumentar la magnitud de su numerador, es decir, el gasto en educación, con obje­
+to de homologarse con los países que se consideran como referencia. Así, el cua­
+dro 4 pone de manifiesto que la proporción de gasto público respecto al PIB tiene
+para España el valor de 4,9, y que los valores medios para los países de la OCDE
+y de la UE son 5,5 y 5,6, respectivamente. Se concluye, entonces, que el gobierno
+español debe incrementar el gasto en educación en casi un 1 % del PIB para poder
+alcanzar el nivel medio de los países de la UE y de la OCDE. De esta forma, se
+entiende, con mucha frecuencia, el proceso de convergencia real en materia edu­
+cativa, y debo decir también que en muchas otras.
+Este tipo de conclusión se puede descalificar desde diversos puntos de
+vista. En otras ocasiones he considerado estas críticas con detenimiento, y aquí me
+referiré muy brevemente a ellas. En todo caso, sugerir una alteración del GPE es
+actuar sobre la variable efecto y no sobre la causa, dada la relación causal que se
+desprende del cociente considerado.
+En primer lugar, la simple consideración de las desviaciones estándar de
+78
+
+
+
+los valores medios pone de manifiesto que el valor correspondiente a España no
+es estadísticamente distinto de ese valor medio. Un sencillo análisis de regresión
+pone, también, de relieve que la relación lineal correcta no es entre GPE y PIB, sino
+entre sus logaritmos, y que ninguno de los países sale fuera de esta pauta, tal como
+se desprende del gráfico 1, en el que se representan las desviaciones de los distin-
+
+Cuadro 4
+
+Cociente entre gasto público en educación y PIB. Año 1995
+(Porcentaje)
+País
+OCDE
+
+Unión Europea
+
+Alemania
+Australia
+Austria
+Bélgica (*)
+Canadá
+Corea
+Dinamarca
+
+4,8
+5,1
+5,6
+5,7
+6,6
+3,6
+8,0
+
+4,8
+
+España
+
+4,9
+
+4,9
+
+Estados Unidos
+Finlandia
+Francia
+Grecia
+Holanda
+Hungría
+Irlanda
+Islandia
+Italia
+Japón
+Luxemburgo (*)
+Méjico
+Noruega
+Nueva Zelanda
+Portugal (*)
+Reino Unido (*)
+República Checa
+Suecia
+Suiza
+Turquía
+
+5,1
+7,3
+6,0
+3,7
+5,3
+5,1
+5,2
+4,9
+4,7
+3,6
+4,4
+4,6
+8,0
+
+Media ponderada
+
+5,0
+
+5,3
+
+Media simple
+
+5,5
+
+5,6
+
+Desviación estándar
+
+1,2
+
+1,2
+
+5,6
+5,7
+8,0
+
+7,3
+6,0
+3,7
+5,3
+5,2
+4,7
+4,4
+
+—
+
+5,8
+5,2
+5,2
+7,8
+5,6
+—
+
+5,8
+5,2
+7,8
+
+(•) Fuente: Eurostat.
+Fuente: OCDE (1998).
+
+79
+
+
+
+G ráfico 1
+
+Residuos tipificados del modelo lnGPE¡ = a+b+lnPIBl + vt
+OCDE
+
+UE
+
+
+
+tos países respecto a esa relación estable de comportamiento. Por otra parte, hacer
+que una determinada magnitud sea el numerador de una fracción y otra el deno­
+minador no implica necesariamente una relación causal entre ambas, y mucho
+menos implica que estas magnitudes no estén relacionadas con otras no conside­
+radas explícitamente en ese cociente.
+Con frecuencia se señala, acertadamente, que el gasto en educación
+depende no sólo del número de estudiantes, sino también de la renta p e r cápita.
+Para tener en cuenta ambos efectos, se utiliza un indicador alternativo, definido
+como el cociente entre el gasto total, público y privado, por estudiante (GTE/PE) y
+el PIB p e r cápita (PIB/PT). Los valores correspondientes, para la OCDE y la UE, se
+recogen en el cuadro 5. Con estas dos variables explicativas adicionales, población
+total (PT) y población estudiantil (PE), siguen siendo válidas las observaciones ante­
+riores. En particular, el gráfico 2 pone de manifiesto la validez de la relación lineal
+entre los logaritmos de los cocientes así definidos.
+Estas cifras agregadas no hacen referencia a las diferencias entre Comuni­
+dades Autónomas, que, tal y como señalan Uriel et alt. (1997), son varias y signifi­
+cativas. La disparidad entre las cifras de gasto por alumno, tanto en la enseñanza
+pública como en la privada, es muy relevante. Además, esta diferencia ha aumen­
+tado sustancialmente en el período 1980-1992. Por ejemplo, en el curso 1990-1991,
+el gasto por alumno en la enseñanza pública en el País Vasco fue un 50% superior
+al de Andalucía, y un 70% también superior en la enseñanza privada, mientras que
+estas cifras eran, en 1981-1982, 15 y 25%, respectivamente.
+Los cuadros 4 y 5 muestran el gasto agregado del sistema educativo, sin
+considerar su asignación entre los distintos niveles educativos. Creo que es de inte­
+rés hacer alusión, aunque sea breve, al gasto en el sistema universitario y a la
+población a la que se dirige. Para ello, en el cuadro 6 se pone de manifiesto, a par­
+tir de datos de la OCDE (1997a, 1997b, 1998), que la proporción de estudiantes uni­
+versitarios respecto a la población total es en España el 70% superior al valor medio
+de los países de la OCDE y de la UE. Cuando el parámetro que se considera es el
+de la población universitaria respecto a la población potencial (pob. 15-24 años),
+entonces el número de universitarios excede en el 40% al correspondiente valor
+medio de la OCDE y de la Unión Europea.
+En el cuadro 7 se pone de relieve la práctica inexistencia en España de
+alumnos de enseñanza terciaria no universitaria, en contraste con las significativas
+cifras de los países de la OCDE y de la UE. En el cuadro 8 se observa que el gasto
+en educación terciaria es en España el 1,1 % del PIB, pero si se tiene en cuenta que
+81
+
+
+
+C uadro 5
+
+Cociente entre gasto total en educación por estudiante y PIB por habitante
+Año 1995 (Porcentaje)
+GTB/PB
+PIB/PT
+OCDE
+
+Unión Europea
+
+Alemania
+Australia
+Austria
+Bélgica (*)
+Canadá
+Corea
+Dinamarca
+
+29,1
+25,3
+32,8
+23,1
+32,0
+22,6
+27,8
+
+29,1
+
+España
+
+23,6
+
+Estados Unidos
+Finlandia
+Francia
+Grecia
+Holanda
+Hungría
+Irlanda
+Islandia
+Italia
+Japón
+Luxemburgo (*)
+Méjico
+Noruega
+Nueva Zelanda
+Portugal (*)
+Reino Unido (*)
+República Checa
+Suecia
+Suiza
+Turquía
+
+29,6
+29,7
+25,1
+16,4
+22,1
+26,0
+19,0
+
+23,6
+28,0
+32,0
+29,0
+16,7
+
+32,0
+
+Media simple
+
+25,4
+
+25,4
+
+4,4
+
+4,4
+
+Desviación estándar
+
+32,8
+23,1
+27,8
+
+23,6
+29,7
+25,1
+16,4
+22,1
+19,0
+
+—
+
+26,5
+22,8
+—
+19,9
+28,0
+24,2
+—
+
+26,5
+—
+
+—
+
+23,6
+
+(*) Datos correspondientes a 1994.
+Puente: OCDE (1998).
+
+más del 98% de este gasto corresponde al sector universitario, su valor se sitúa en
+la media de la OCDE y por encima de la media de la UE. Por consiguiente, cuan­
+do se reclama un mayor gasto universitario por estudiante, es necesario decir tam­
+bién que el número de estudiantes es el 70% superior al valor medio de la OCDE
+y de la UE, y que los recursos totales que a ellos se dedican son comparables en
+porcentaje del producto interior bruto.
+82
+
+
+
+GrAfico 2
+Residuos tipificados del m odelo ln(GTE/PEt)
+OCDE
+
+UE
+
+=
+
+c+d ln(PIB/PT¡)
+
+=
+
+u>.
+
+
+
+C uadro 6
+
+Estudiantes universitarios respecto a población total y a población potencial
+Año 1995 (Porcentaje)
+Universitarios/Pob. total
+
+Universitarios/Pob. 15-24 años
+
+País
+OCDE
+
+UE
+
+OCDE
+
+UE
+
+Alemania
+Australia
+Austria
+Bélgica
+Canadá
+Corea
+Dinamarca
+
+2,3
+2,5
+2,4
+1,4
+2,9
+3,4
+1,6
+
+2,3
+
+20,1
+
+20,1
+
+2,4
+1,4
+
+18,8
+11,3
+
+España
+
+3,7
+
+1,6
+3 ,7
+
+18,8
+11,3
+21,2
+17,8
+11,9
+
+22,2
+
+22,2
+
+Estados Unidos
+Finlandia
+Francia
+Grecia
+Holanda
+Hungría
+Irlanda
+Islandia
+Italia
+Japón
+Luxemburgo
+Méjico
+Noruega
+Nueva Zelanda
+Portugal
+Reino Unido
+República Checa
+Suecia
+Suiza
+Turquía
+
+2,5
+2,8
+—
+2,0
+—
+
+2,8
+—
+2,0
+—
+
+—
+
+1,7
+2,2
+2,9
+2,0
+—
+
+1,3
+1,7
+2,7
+2,2
+1,8
+1,4
+—
+
+1,7
+2,9
+—
+
+2,2
+1,8
+—
+
+16,2
+
+18,5
+22,9
+—
+13,2
+—
+—
+9 9,7
+14,3
+20,4
+13,2
+—
+6,2
+12,7
+17,5
+13,6
+13,4
+8,4
+—
+
+11,9
+
+22,9
+—
+13,2
+—
+9,7
+20,4
+—
+
+13,6
+13,4
+—
+
+8,4
+6,5
+
+1,0
+1,3
+
+Media ponderada
+
+2,3
+
+2,4
+
+14,8
+
+18,0
+
+Media simple
+
+2,2
+
+2,3
+
+14,7
+
+16,1
+
+Desviación estándar
+
+0,7
+
+0,6
+
+4,9
+
+4,6
+
+Fuente: OCDE (1997b), (1997a) y (1998).
+
+Queda demostrado que el gasto en educación en España está, y ha esta­
+do en el pasado reciente, dentro de las pautas de los países de nuestro entorno
+económico y social. Así pues, de no existir convergencia real en nuestro sistema
+educativo, los problemas de divergencia tendrán causas que, en contra de la opi­
+nión generalmente aceptada, no se derivan de la escasez de recursos financieros.
+84
+
+
+
+RENDIMIENTO DEL SISTEMA EDUCATIVO
+
+El intento más reciente de evaluación del sistema educativo español,
+publicado este año y correspondiente al curso 1996-1997, ha sido llevado a cabo
+en el Instituto Nacional de Calidad y Evaluación ONCE), para alumnos de catorce
+y dieciséis años, en las siguientes materias: lengua castellana, matemáticas, ciencias
+de la naturaleza y geografía e historia. Es decir, se ha considerado el último tramo
+de la enseñanza obligatoria. De una primera valoración de este informe, cabe extra­
+er las siguientes conclusiones.
+• En referencia a las materias básicas de aprendizaje, el 25 % de los alum­
+nos de catorce años se sitúan en el límite inferior de la distribución, con resultados
+claramente insatisfactorios y muy alejados de los mínimos aceptables. El rendi­
+miento medio de los alumnos de dieciséis años es aún menos satisfactorio que el
+obtenido por los alumnos de catorce, ya que en este caso el 33% se sitúa por deba­
+jo del mínimo exigible. Estos datos confirman, en un ámbito más general, resulta­
+dos anteriores, como los del Informe sobre la Enseñanza Primaria publicado por el
+INCE en 1995, en el que se afirmaba que solamente un 51 % y un 64 % de los alum­
+nos de doce años alcanzaban resultados aceptables en matemáticas y lengua espa­
+ñola, respectivamente.
+• Solamente el 30% de los alumnos de catorce años y el 22% de los de
+dieciséis alcanzan resultados satisfactorios sin reservas. Por otra parte, el proceso
+de evaluación revela que aproximadamente el 40% de los alumnos de ambas eda­
+des se sitúa en tomo a la media, en un amplio intervalo de resultados dudosos que,
+para su mayor parte, cabe calificarlos como mediocres.
+• Dentro del grupo de alumnos que obtienen resultados satisfactorios, es
+muy reducida la proporción que corresponde a alumnos de alto rendimiento aca­
+démico, y se mueve, dependiendo de las materias, en el intervalo comprendido
+entre el 2% y el 4%.•
+• En cuanto a las diferencias entre Comunidades Autónomas, existen algu­
+nas significativas en términos estadísticos, que llegan a alcanzar una diferencia entre
+valores medios de una desviación típica. Las Comunidades pueden, de acuerdo con
+ellas, clasificarse en dos grupos relativamente bien diferenciados, para todas y cada
+una de las materias consideradas. El grupo de valores medios superiores a la media
+general está formado por Aragón, Asturias, Castilla y León, Galicia, La Rioja, Madrid,
+Navarra y el País Vasco. En el segundo grupo, aquél con valores inferiores a la
+media, se encuentran Baleares, Cataluña, Ceuta y Melilla, Extremadura, Murcia y
+85
+
+
+
+C uadro 7
+
+Estudiantes de enseñanza terciaría y su reparto entre universitaria y no universitaria
+Año 1995
+Estudiantes d e enseñanza terciaria
+País
+
+Toal Terciaria
+OCDE
+
+Universitaria
+OCDE
+
+UE
+
+OCDE
+
+UE
+
+86,9
+
+13,1
+
+82,9
+
+98,4
+
+13,1
+45,9
+9,0
+55,8
+46,9
+27,2
+17,1
+
+Alemania
+Australia
+Austria
+Bélgica
+Canadá
+Corea
+Dinamarca
+
+2.155.728
+840.873
+212.669
+332.540
+1.667.112
+2.111.256
+102.172
+
+2.155.728
+
+102.172
+
+España
+
+86.9
+54,1
+91,0
+44,2
+53,1
+72,8
+82,9
+
+1.470.381
+
+1.470.381
+
+98,4
+
+188.272
+
+54,9
+77,3
+
+Estados Unidos
+Finlandia
+Francia
+Grecia
+Holanda
+Hungría
+Irlanda
+Islandia
+Italia
+Japón
+Luxemburgo
+Méjico
+Noruega
+Nueva Zelanda
+Portugal
+Reino Unido
+República Checa
+Suecia
+Suiza
+Turquía
+
+12.262.613
+188.272
+—
+
+296.357
+284.744
+87.626
+112.249
+7.251
+1.755.018
+3.778.957
+—
+1.354.426
+126.956
+143.814
+286.852
+1.507.041
+171.140
+230.437
+133.884
+1.107.320
+
+No universitaria
+
+UE
+
+212.669
+332.540
+
+—
+
+296.357
+284.744
+
+—
+
+69,4
+—
+
+91,0
+44,2
+
+77,3
+—
+
+69,4
+—
+
+—
+
+112.249
+1.755.018
+—
+
+286.852
+1.507.041
+230.437
+
+54,6
+82,5
+94,6
+66,4
+—
+
+89,9
+59,9
+67„0
+77,6
+67,4
+83,6
+—
+
+53,8
+73,2
+
+9,0
+55,8
+
+17,1
+
+1,6
+
+1,6
+
+45,1
+22,7
+
+22,7
+
+—
+
+30,6
+—
+
+—
+
+30,6
+—
+
+—
+
+54,6
+94,6
+—
+
+77,6
+57,4
+—
+
+45,4
+17,5
+5,4
+33,6
+
+45,4
+
+—
+
+—
+
+10,1
+40,1
+33,0
+22,4
+32,6
+16,4
+—
+
+5,4
+
+22,4
+32,6
+—
+
+46,2
+26,8
+
+Fuente: OCDE (1997a).
+
+Comunidad Valenciana. Cantabria y Castilla-La Mancha, dependiendo de la mate­
+ria, fluctúan entre uno y otro grupo. El Informe del INCE no incluye la evaluación
+de Andalucía y Canarias.
+Sin duda, y aunque el fracaso escolar es un tema recurrente y en cierta
+medida derivado de la generalización de la escolaridad, los datos anteriores son, en
+términos absolutos, preocupantes. Pero también lo son en términos relativos, ya
+que, con los datos disponibles para países de nuestro entorno económico y social,
+no se derivan cifras superiores al 20%.
+
+86
+
+
+
+C uadro 8
+
+Gasto en educación terciaria (universitaria y no universitaria)
+Año 1995 (Porcentaje)
+GTE terciaria/P IB
+Total Terciaria
+
+País
+
+Alemania
+Australia
+Austria
+Bélgica
+Canadá
+Corea
+Dinamarca
+
+(*)
+
+España
+
+No universitaria
+
+Universitaria
+
+OCDE
+
+UE
+
+OCDE
+
+UE
+
+OCDE
+
+UE
+
+1,1
+1,8
+1,0
+—
+2,5
+1,9
+1,3
+
+1,1
+
+0,0
+
+0,1
+
+1,0
+1,5
+0,9
+—
+1,5
+1,5
+1,2
+
+1,0
+
+1,3
+
+0,0
+0,3
+0,1
+—
+0,9
+0,4
+0,1
+
+1 ,1
+
+1 ,1
+
+0 ,0
+
+0 ,0
+
+1 ,1
+
+0,4
+0,3
+
+0,3
+
+Estados Unidos
+Finlandia
+Francia
+Grecia
+Holanda
+Hungría
+Irlanda (•)
+Islandia
+Italia
+Japón
+Luxemburgo
+Méjico
+Noruega
+Nueva Zelanda
+Portugal
+Reino Unido (*)
+República Checa
+Suecia
+Suiza
+Turquía (**)
+
+2,4
+1,7
+1,1
+0,8
+1,3
+1,0
+1,3
+0,7
+0,8
+1,0
+
+Media simple
+Desviación estándar
+
+1,3
+0,5
+
+—
+
+1,0
+—
+
+1,7
+1,1
+0,8
+1,3
+1,3
+0,8
+—
+
+1,1
+—
+
+—
+
+—
+
+0,2
+—
+—
+0,5
+0,0
+0,0
+0,1
+—
+—
+
+0,2
+—
+
+0,5
+0,0
+—
+
+—
+
+—
+
+—
+
+1,0
+1,0
+1,0
+1,7
+
+0,1
+—
+
+1,0
+1,0
+1,7
+
+—
+
+—
+0,2
+0,1
+—
+
+1,2
+
+—
+0,2
+
+0,3
+
+0,2
+
+1,2
+1 ,1
+
+1,3
+—
+
+0,7
+1,3
+0,8
+0,8
+—
+
+—
+
+—
+0,2
+
+1,0
+0,8
+1,0
+
+1,0
+0,8
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,3
+
+2,0
+1,3
+—
+0,7
+1,3
+1,0
+0,8
+0,6
+0,8
+0,9
+—
+1,1
+—
+
+0,9
+—
+
+—
+0,1
+0,2
+
+1,1
+0,3
+
+0,8
+0,2
+
+(•) Datos estimados
+(**) Datos correspondientes a 1994
+Fuente: OCDE (1998).
+
+Por otra parte, las diferencias observadas entre comunidades autónomas ponen
+de manifiesto que la mayor cantidad de recursos educativos, tanto humanos como mate­
+riales, que determinadas comunidades utilizan, no se corresponden con mejores resul­
+tados cuando se comparan con otras con menos recursos y mejores rendimientos. Entrar
+en las razones que expliquen esta aparente paradoja es obligado, teniendo en cuenta
+que el proceso de transferencias educativas está próximo a ser concluido.
+87
+
+
+
+El reciente informe de la OCDE (1998, cap. F) contiene un conjunto de
+indicadores sobre el rendimiento académico en los países de la OCDE, que, en este
+caso, hacen referencia solamente a la materia de matemáticas. Estos indicadores
+fueron elaborados por la In tern acion al A ssociation f o r the E valu ation o f
+E du cation al A chievem ent, y corresponden al año 1994-1995 para alumnos de nueve
+a trece años. En la edad de trece años, que es aquella para la que hay más infor­
+mación, los alumnos españoles ocupan, en rendimiento académico, el lugar 22 de
+un total de 25 países. También en este informe, se lleva a cabo un interesante inten­
+to para explicar qué parte de la variación en el rendimiento académico de los alum­
+nos de cada país tiene su origen en variables dependientes del alumno (actitud
+hacia las matemáticas, nivel educativo de los padres, número de libros en su casa),
+o en variables dependientes de la escuela (frecuencia y duración de las clases, tra­
+bajos a realizar, tamaño de la clase). La conclusión que se obtiene es que las varia­
+bles dependientes del alumno explican una mayor varianza que las dependientes
+de la escuela. Pero, en todo caso, unas y otras no explican en país alguno más del
+25%. En el caso de España, solamente justifican el 14% de las diferencias en el ren­
+dimiento de los alumnos. Tal como el informe señala, posiblemente existan varia­
+bles significativas no tenidas en cuenta, y que caracterizan situaciones y países con­
+cretos, pero que no se consideraron relevantes en todos y cada uno de ellos. Estos
+resultados confirman, desde otro punto de vista, la conclusión que hemos expues­
+to acerca de la dificultad de estimar una función de producción del proceso edu­
+cativo, y validan los resultados del cuadro 3, en el que se pone de manifiesto la
+baja significación estadística del efecto de los recursos educativos sobre el rendi­
+miento académico.
+
+CONCLUSIONES
+
+El capital humano y el progreso técnico son factores determinantes del
+crecimiento económico. Sin embargo, la evidencia empírica disponible ofrece una
+gran variabilidad en la cuantificación de estos efectos. Análisis recientes demues­
+tran, también, la importancia de factores institucionales, caracterizados con el nom­
+bre de infraestructura social. Es difícil encontrar indicadores de estos factores, de
+calidad aceptable, que proporcionen resultados empíricos precisos y robustos.
+Es extraordinariamente complicado determinar una función de producción
+del sistema educativo. Por tanto, parece conveniente trasladar el debate, que hoy
+se centra exclusivamente en los recursos utilizados, hacia la evaluación de los resul­
+tados obtenidos. En todo caso, hemos demostrado, en contra de la opinión gene­
+ralmente aceptada, la suficiencia del gasto en educación en España en comparación
+con los países de la OCDE y de la Unión Europea.
+88
+
+
+
+A la vista de las consideraciones realizadas, y más allá del proceso circu­
+lar de petición-concesión o negación de recursos adicionales, creo razonable refle­
+xionar y debatir sobre las siguientes ideas:
+1. R esultados educativos. Las cifras de fracaso escolar y, en general, los
+mediocres resultados que las recientes evaluaciones del rendimiento escolar ponen
+de manifiesto no deben conducir a una situación de rechazo del sistema en su con­
+junto, pero sí a profundizar seriamente en las causas de esta situación, y a tomar
+las medidas necesarias para ponerle remedio.
+2. P rofesorado. Los economistas sabemos bien que los incentivos impor­
+tan, también en el desarrollo y gestión del sistema educativo. La relación entre los
+incentivos, monetarios y no monetarios, del profesor y los resultados académicos
+debe ser tenida en cuenta, en contraposición a la idea predominante de vincular­
+los simplemente a los años de experiencia y antigüedad. Cuando Adam Smith ense­
+ñaba en la Universidad de Glasgow, las retribuciones de los profesores provenían
+directamente de los estudiantes. El gran economista era partidario de este sistema.
+No se trata de proponer la vuelta a él, pero sí de vincular adecuadamente los incen­
+tivos de los profesores con los resultados académicos. Con las actuales reglas de
+juego, es evidente que el personal administrativo y el docente, en particular, nos
+jugamos muy poco en los mejores o peores resultados académicos de nuestros
+alumnos. Sin embargo, hay que señalar también, que una nueva política de incen­
+tivos está llena de incertidumbres, ya que en la práctica se dispone de experiencias
+muy limitadas.
+3. E stándares educativos. Es necesario delimitar claramente las materias
+a enseñar, vinculándolas a las necesidades económicas y sociales. De esta forma,
+será posible realizar una adecuada evaluación, a diferencia de lo que hoy ocurre
+que se evalúa la educación que se tiene y no la que se debería tener. Con fre­
+cuencia se critican las evaluaciones diciendo que inducen a que la enseñanza se
+dirija exclusivamente hacia ellas, lo que se ha venido en llamar «enseñar para el
+examen*. Sin embargo, si están bien definidas —por ejemplo, exigiendo respuestas
+que requieran capacidad de síntesis, aplicando en la práctica conocimientos teóri­
+cos adquiridos previamente— precisamente «enseñar para el examen» es lo que se
+necesita. Posiblemente, una cuestión controvertida sea acordar si los estándares
+educativos deben establecerse con carácter general para todo el Estado o de mane­
+ra diferenciada en las distintas Comunidades Autónomas. Se corre el riesgo, al
+menos en algunas materias, de que estándares educativos que reciban el apoyo de
+todas las Comunidades sean tan ambiguos que terminen por resultar inútiles.
+
+89
+
+
+
+4. D irección d e los centros. Aunque la comunidad del sistema educativo
+parece, en líneas generales, conforme con las pautas de gestión y dirección de los
+centros, tanto públicos como privados, creemos que la correcta definición de las
+tareas directivas, junto con una administración eficiente de los recursos disponibles,
+deberá ser un tema de atención preferente. Al igual que debe serlo la participación
+que, en la práctica, tienen los padres, alumnos y personal administrativo, frente a
+la de los profesores y a la de la dirección del centro. No debe tratarse a los profe­
+sores y a la dirección como si fueran trabajadores manuales en una cadena de pro­
+ducción, y a los padres como si no tuvieran la capacidad de elegir adecuada e inte­
+ligentemente el centro educativo.
+5. C om petencia entre centros. Es obvia la afirmación de que la produc­
+ción de servicios educativos se desarrolla en un entorno no competitivo. Un análi­
+sis necesario e importante es el de cómo se canaliza, en la práctica, la necesaria
+financiación pública de la enseñanza, con objeto de incrementar la productividad
+y facilitar la elección de centro. Como en otros ámbitos del sector público, una
+posible solución es introducir competencia, no sólo entre escuelas públicas, sino
+también por medio de la producción privada, en aquellas situaciones en las que la
+producción pública no se justifique ni por razones de eficiencia ni de igualdad de
+oportunidades.
+6. N úm ero y equ idad. Una vez cubierto el objetivo de la generalización
+de la educación, queda seguramente un amplio terreno para el debate sobre la
+equidad y eficiencia en los correspondientes niveles de enseñanza elemental y
+media. Pero donde existe evidencia empírica determinante es en la necesidad de
+una reasignación de los recursos públicos dentro del sistema universitario. Está rei­
+teradamente confirmada la regresividad de la distribución de la financiación públi­
+ca en la educación universitaria, sin que el sistema de becas contribuya eficazmente
+a aliviar esta situación, tal y como el trabajo de Calero (1996) pone de manifiesto.
+Además, y como hemos visto, la información más fiable y reciente resalta la des­
+proporcionada cantidad de estudiantes de la Universidad española en relación con
+las de los países de nuestro entorno. Pese a lo cual, se sigue expandiendo el siste­
+ma universitario con criterios tales como fijar, con carácter general, tasas académi­
+cas por importes seis veces inferiores al coste real del servicio. Es éste un proceso
+en el que aparentemente todos ganan, pero que en realidad viola principios ele­
+mentales de igualdad de oportunidades y, desde luego, deteriora la calidad de la
+enseñanza. Es llegado el momento de analizar propuestas y, en su caso, de llevar­
+las a la práctica para modificar los criterios de acceso, las tasas de matrícula, el sis­
+tema de becas, e introducir posibles programas de crédito educativo. Creo que hay
+pocas instituciones que combinen de forma tan contradictoria aquello que dicen ser
+90
+
+
+
+y representar con una desconsideración tan evidente de lo que sus usuarios y fínanciadores esperan de ella.
+7.
+Experim entación y evalu ación d e las reform as. Se requiere un proce­
+so previo de análisis y reflexión profunda sobre los problemas, y sus posibles solu­
+ciones, antes de embarcarse en reformas a gran escala. Como he señalado, en mi
+opinión, la situación actual no requiere necesariamente de la dotación de mayores
+recursos, dados de forma indiscriminada, ni, desde luego, deben introducirse modi­
+ficaciones que no tengan un soporte empírico previo.
+
+BIBLIOGRAFÍA
+A l st o n ,
+
+L.;
+
+E g g e r t s s o n , J.
+
+T., y N o r t h , D. C. (1996), EmpiricalStudies in Institutional Change,
+
+Cambridge, Cambridge Universlty Press.
+A rrow ,
+
+K. J. (1973), «Higher education as a filter», Journal o f Public Economics, 2, págs. 193-
+
+216.
+D. A. (1989), «Is public expenditure productive?*, Journal ofM onetary Economics,
+23, págs. 177-1200.
+
+A sch a u er,
+
+—
+
+(1991), Public Investment and Prívate Sector Growtb: The Economic Benefits o f
+Reducing America ’s Third Déficit, Washington D. C., Economic Policy Institute.
+R. (1997), Determinants o f Economic Growth, Cambridge, The MIT Press.
+
+B arro ,
+
+R., y
+
+B arro ,
+
+Le e ,
+
+J. W. (1993), «International comparisons of educational attainment*, Journal
+
+ofM onetary Economics, 32, págs. 363-394.
+G. S. (1964), Human Capital: A Tbeoretical an d Empirical Analysls with Special
+Reference to Education, Nueva York, Columbia University Press (3.a edición: Chicago,
+
+B ecker,
+
+The University of Chicago Press, 1993).
+B u r t l e ss ,
+
+G. (editor) (1996), Does Money Matter?, Washington, Brookings Institution Press.
+
+C a l e r o , J.
+
+(1996), Financiación de la Educación Superior en España, Bilbao, Fundación BBV.
+
+C. (1997), Institutions and Economic Development, Baltimore, The Johns Hopkins
+University Press.
+
+C la g u e ,
+
+J. S.; CAMPBELL, E.; HOBSON, C .; McPORTLAND, J.; MOOD, A.; WEINFALL, F., y YORK, R.
+(1966), Equality o f Educational Opportunity, Washington D. C ., Government Printing
+Officee, Department of Health, Education and Welfare.
+
+COLEMAN,
+
+91
+
+
+
+Griuches, Z. (1996), «Education, human capital and growth: A personal perspective», National
+Bureau ofEconom ic Research, Working paper, núm. 5426, Cambridge, NBER
+Hall, R. E., y J ones, C. I. (1998), «Why some countries produce so much more output per
+worker than others?», National Bureau o f Economic Research, Working Paper,
+núm. 6564, Cambridge, NBER.
+Hanushek, E. A. (1996), «School resources and student performance*, en G. B urtless (editor),
+Does Money Matter?, Washington D. C., Brookings Institution Press.
+Hanushek, E. A.; Rtvkin, S. G., y Taylor, L. L. (1996), «Aggregation and the estimated effects
+of school resources», The Review o f Economics and Statistics, 78(4), págs. 611-627.
+Hulten, C. R., y Schwab, R. M. (1995), «Infrastructure and the economy», en Pogodzinski (edi­
+tor), Readings in Public Policy, Oxford, Basil Blackwell.
+INCE (1998), Elementos para un Diagnóstico del Sistema Educativo Español. Informe Global,
+Madrid, Ministerio de Educación y Cultura, Instituto Nacional de Calidad y Evaluación.
+Mankiw, G.¡ Romer, R., y Weil, D. (1992), «A contribution to the empirics of economic
+growth», QuartelyJournal o f Economics, CVII, págs. 407-437.
+North, D. (1990), Institutions, Institutional Change an d Economic Performance, Cambridge,
+Cambridge University Press.
+Novales, A., y Sebastián, C. (1999), AnálisisMacroeconómico, Madrid, Marcial Pons.
+OCDE (1997a), Education Policy Analysis. Centrefo r Educational Research an d Innovation,
+Indicators o f Education Systems, París, OECD.
+—
+
+(1997b), Education at a Glance, Centre for Educational Research and Innovation,
+París, OECD.
+
+—
+
+(1998), Education at a Glance, Centre for Educational Research and Innovation, París,
+OECD.
+
+O lson, M. (1965), The Logic o f Collective Action, Cambridge, Cambridge University Press.
+Poterba, J. (1998), «Demographic change, intergenerational linkages, and public education»,
+
+The American Economic Review, Papers an d Proceedings o f the Hundred an d Tentb
+Annual Meeting ofth e American Economic Association, mayo, págs. 315-320.
+Psacharopoulos, G. (1994), «Retum to investment in education: A global update», World
+Development, 22, págs. 1325-1343.
+Psacharopoulos, G., y Arriagada, A. (1986), «The educational composition o f the labour
+forcé», International Labour Review, 125, págs. 561-574.
+
+92
+
+
+
+Schultz, T. W. (1960), «Capital formation by education-, Journal o f Political Economy, 68,
+págs. 571-583.
+—
+
+(1961), «Investment in human capital*, American Economic Review, 51, págs. 1-17.
+
+Solow, R. (1956), «A contribution to the theory of economic growth», Quarterly Journal o f
+Economics, 70, págs. 65-94.
+Stiglitz, J. E. (1975), «The theory of screening, education and the distribution o f income»,
+American Economic Review, 65, págs. 283-300.
+Uriel, E.; Moles, M. L.; Pérez, F.; Aldás, J., y Cucarella, V. (1997), Las Cuentas de la Edu­
+cación en España, Madrid, Fundación Argentaría.
+
+93
+
+
+
+

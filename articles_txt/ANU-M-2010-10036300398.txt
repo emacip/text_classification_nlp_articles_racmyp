@@ -1,0 +1,1410 @@
+LA SECULARIZACIÓN
+UNA CUESTIÓN DISPUTADA
+
+Por el Académico de Número
+Excmo. Sr. D. Pedro Cerezo Galán*
+
+Quisiera plantear hoy una cuestión mayor que concierne directamente a
+las relaciones intestinas, a menudo tensas y conflictivas entre la teología y la filosofía en la cultura occidental: la secularización. Me mueve a ello el hecho de que
+vuelvan a cundir en nuestro país, quizá como réplica a un criptoconfesionalismo o
+a planteamientos nostálgicos del antiguo régimen confesional del Estado, posturas
+maximalistas de signo laicista radical. Es esta una cuestión pendiente en nuestra
+cultura política que se reabre de continuo y, a veces, con notable crispación que
+nada coadyuva a la concordia civil. Pero antes de abordarla en un plano sociológico y político, que dejaré para otra ocasión, convendría demorarse en un análisis
+filosófico del problema. No pretendo con ello ofrecer un panorama de la vasta e
+ingente bibliografía sobre el tema1, sino presentar los nódulos fundamentales del
+problema e incidir con algunas reflexiones personales en una cuestión disputada
+desde el punto de vista de la historia de las ideas. La cuestión se ha vuelto especialmente litigiosa dentro del propio marco de la filosofía, tras la aparición del libro
+monumental de Hans Blumenberg, La legitimación de la edad moderna, en que
+* Sesión del día 11 de mayo de 2010.
+1
+Recomiendo para ello los estudios de Giacomo Marramao, Poder y secularización, Barcelona, Península,
+1989 y Cielo y tierra, Barcelona, Paidós, 1998. Pueden verse igualmente el colectivo Modernité et sécularisation, ed. de
+M. Foesel, J.F, Kervégan y M. Revault, París, CNRS Editions, 2007; Jean-Claude Monod, La querelle de la sécularisation
+(de Hegel a Blumenberg), París, Vrin, 2002. En la vasta literatura alemana del problema, destaco H. Lübbe, Säkularisierung, Freibnurg, Alber, 1975 y G. Rohmoser, Religion und Politik in der Krisie der Moderne, Innsbruck, Styria, 1989. En
+España, José Gómez Caffarena, El enigma y el misterio, Madrid, Trotta, 2007, cap. 3º; José María Mardones, La transformación de la religión, Madrid, PPC, 2003 , y de Juan Antonio Estrada Díaz, Razones y sinrazones de la creencia religiosa, Madrid, Trotta, 2001, cap. 8º, pr. 1; Imágenes de Dios, Madrid, Trotta, 2003, cap. 4º; Por una ética sin teología,
+Madrid, Trotta, 2004, caps. 3º y 4º, pr. 2, y El cristianismo en una sociedad laica, Bilbao, Desclée de Brouwer, 2006.
+En un sentido más sociológico del tema, puede verse Marcel Gauchet, Le désenchantement du monde, París, Gallimard, 1985 y La religion dans la démocratie, París, Gallimard, 1998, y José Casanova, Las religiones públicas en el
+mundo moderno, Madrid, PPC, 1994.
+
+363
+
+
+
+pone radicalmente en cuestión la categoría de “secularización” para la autocomprensión de la modernidad, en contra de lo que ya venía siendo una opinio communis acerca de la procedencia de la conceptualización del mundo moderno desde
+categorías secularizadas de la teología. Según Blumenberg, por el contrario, la secularización, en cuanto implica procedencia de la teología, no hace justicia a la autoafirmación (Selbsbehauptung) de la razón moderna en su acto de fundación soberana, a partir de sí misma, lo que supone una cesura radical con los planteamientos
+anteriores”2. Tan enérgico rechazo de la tesis secularizadora no ha dejado de suscitar problemas de gran calado y reabrir el viejo debate entre Ilustración y fe/religión.
+Dada la amplitud y trascendencia de la cuestión, me limitaré a hacer una historia
+interna del concepto de secularización señalando las matrices del tema en la filosofía moderna y analizando su alcance en la reflexión contemporánea.
+
+1. LA AMBIVALENCIA DEL CONCEPTO DE ‘SECULARIZACIÓN’
+Se suele entender por secularización un proceso histórico, específico de las
+sociedades occidentales, esto es, pertenecientes al área cultural judeo/cristiana, por
+el cual logran una autonomización de las distintas esferas de la cultura, —ciencia,
+derecho, arte, economía, industria, etc— con respecto a la instancia normativa de
+la fe. Tal autonomización supone, pues, una emancipación de la autoridad eclesiástica y de las instituciones religiosas, que administran el orden de la salvación.
+El término secularización, como es sabido, comenzó teniendo un sentido jurídico
+referente al paso del estado religioso regular al estado laico o secular, o bien a la
+transferencia y cambio de titularidad de bienes religiosos que, por expropiación,
+pasaban a manos civiles. Es, pues, una cuestión que se inscribe directamente en el
+contexto jurídico/político del surgimiento del Estado moderno, tras las cruentas guerras de religión, que asolaron a Europa, reclamando como resolución del conflicto
+la neutralidad del Estado en materia de religión. El Estado se afirma así en cuanto
+poder temporal soberano con una legitimación inmanente y propia al margen de la
+fe y la autoridad religiosas. A la par de este acontecimiento secularizante del poder
+político, fue abriéndose paso otro sentido cultural, más profundo y de más amplio
+alcance. Ambos procesos, el jurídico/político y el cultural, se implican y refuerzan
+entre sí, pues el poder temporal se legitima con la aportación específica de la cultura laica o secular, a la que promueve, y ésta se ve confirmada y robustecida por
+aquél. Pero, a la vez, lo paradójico del caso es que el nuevo orden profano, según
+la tesis canónica de la secularización, adquiere su propia autocomprensión mediante
+la absorción y elaboración en su propio elemento de categorías teológicas procedentes del mundo de la fe. Este proceso implica pues, un ‘desprendimiento’ de ciertas categorías teológicas de su núcleo originario y su ‘traspaso’ o aplicación al
+
+2
+
+364
+
+La legitimación de la edad moderna, Valencia, Pre-textos, 2008, p. 136.
+
+
+
+mundo profano. En este sentido, Giacomo Maramao entiende la secularización
+como una “categoría genealógica” acerca del origen y sentido de la edad moderna,
+en cuanto se ha engendrado en la placenta cristiana de la que se ha desprendido
+más tarde para cobrar vida autónoma. De ahí también, como subraya el mismo
+autor, la “ambivalencia estructural de su significado”, a caballo entre su procedencia teológica y su autonomización. Tal ambivalencia se presta a una lectura en distintas claves, ya sea como “des-cristianización” (es decir, de ruptura y profanación
+modernas de los principios de la Christianitas), o bien de “desacralización, cuyo
+núcleo esencial estaría, sin embargo, presente desde los orígenes en el mensaje
+cristiano de salvación”3. Según la primera versión, —la tesis que vamos a llamar
+fuerte—, se trata de un “desprendimiento” de la conciencia moderna de la matriz
+teológica, lo que, por así decirlo, implica una emancipación de la nueva criatura,
+dejando reseca la matriz de que ha surgido. En cambio, según la segunda versión,
+—la tesis débil podríamos llamarla— la secularización estaría inscrita y fomentada
+por el propio desarrollo y madurez de la actitud cristiana en el sentido de una mundanización efectiva del cristianismo en la historia. Ambas dimensiones, no obstante
+sus diferencias, comparten un zócalo significativo común, en lo que ha llamado
+Heidegger, como uno de los caracteres del mundo moderno, la “desdivinación”
+(Entgötterung), término gemelo a lo que entiende Max Weber por “desencantamiento” (Entzauberung) del mundo por obra del nuevo proceder objetivista
+y cosificador de la ciencia. Ahora bien, tal desdivinización no es para Heidegger
+resultado de un planteamiento ateo o negativo de lo divino, sino más bien el fruto
+maduro de una absorción mundana del Cristianismo:
+La desdivinación es un proceso duple, en virtud del cual, por un lado, la imagen
+del mundo se cristianiza, en la medida en que se pone el fundamento del mundo
+en lo infinito, lo incondicionado y lo absoluto, y por otro lado, el cristianismo
+transforma su cristiandad en una visión del mundo (la concepción cristiana del
+mundo), adaptándose de esta suerte a los tiempos modernos4.
+
+Parafraseando el texto heideggeriano, puede afirmarse que el mundo
+moderno se cristianiza porque absorbe en su fundamento, ahora en la autoconciencia, la categorización del mismo en la metafísica ontoteológica, y con ello, paralelamente, el cristianismo, que era ante todo una fe y un régimen de “cristiandad”, al
+adaptarse a las nuevas realidades temporales, deviene una concepción del mundo
+en un nuevo régimen secular. De ser éste el caso, la secularización funciona, como
+replica Blumenberg, como una categoría “derivada”, que presupone de antemano
+una procedencia, y con ello “un sentido originario” teológico que se habría enajenado en su posterior metamorfosis moderna, a modo de una “violenta usurpación”
+Cielo y tierra, Barcelona, Paidós, 1998, p. 18.
+“Die Zeit des Weltbildes” en Holzwege, Frankfurt, Klostermann, 1963, p. 70; Caminos de bosque, trad. esp.,
+de H. Cortés y A. Leyte, Madrid, Alianza Universidad, 1997, p. 76.
+3
+4
+
+365
+
+
+
+a la teología5, o bien que se habría recibido de ésta como un don. En ambos casos
+se genera una mala conciencia de deuda, de estar en falta, que incluso puede prestarse a una demonización de la razón moderna como asalto y expolio de la teología cristiana. Con todo ello quiere romper Blumenberg radicalmente. Bien explícita
+es su actitud en el texto de André Gide que elige como lema de su obra: “es curioso
+cómo el punto de vista difiere, según que sea el fruto de un crimen o de una legitimidad”. Se comprende que Blumenberg rechace la categoría de secularización por
+“derivada” y meramente metafórica, le niegen su condición “genealógica” o matricial, y en su lugar hable sencillamente de un proceso de autofundación legitimadora
+de la modernidad frente al pasado teológico. He aquí la gravedad y amplitud de la
+aporía. Como ha señalado J.C. Monod, las dos actitudes extremas se refuerzan dialécticamente en su oposición, enrocándose frente a la adversaria6. De ahí la necesidad de proceder a un abordaje metódico de la cuestión que fluidifique el conflicto
+entre ambas posiciones.
+
+2. DOBLE SENTIDO DE ‘MUNDANIZACIÓN’
+Como punto de partida, hay una cosa evidente: para que haya un traspaso de un orden al otro se necesita ya de antemano la existencia de ambos. Como
+advierte Heidegger a este propósito:
+En el aspecto decisivo, hablar de secularización constituye un extravío irreflexivo;
+en efecto, para la ‘secularización’, o para la ‘mundanización’, hace falta ya un punto
+en dirección del cual y entrando en el cual se produce la ‘mundanización’7.
+
+En un sentido análogo se expresa Blumenberg. La pareja no-mundanidad/
+mundanidad es así codeterminante. En efecto, “el significado de la expresión ‘mundo’
+sólo habría surgido con aquella traslocación de la esperanza del final de los tiempos”8. Fue tras la quiebra de la expectativa escatológica de la inminente destrucción
+del mundo, cuando se toma conciencia de la realidad persistente de este mundo:
+Antes de la no-mundanidad no se daba la mundanidad. Se trataba de un mundo
+liberado de las garras de lo que es su negación y vuelto hacía sí mismo, dejado a
+su autoafirmación y a sus propios medios, no cualificado, ciertamente, para el
+La legitimación de la edad moderna, op. cit., p. 31.
+“En effet, le refus d’occulter la provenance religieuse d’elements de pensée ou d’intitutions modernes a
+pu nourrir une sorte de réduction inverse: réagissant à unn deni de toute dette, lié à la pretensión moderne au commencement radical, le théorème de sécularisation y répond par un deni de toute nouveauté qui est l’expression même
+du substantialisme historique, en absolutisation arbitraire d’une tradition de pensée”(La querelle de la sécularisation,
+op. cit., p. 281).
+5
+6
+
+7
+8
+
+366
+
+Nietzsche, II, trad, de Juan Luis Vermall, Barcelona, Destino,2000, pp. 122-123.
+La legitimación de la Edad Moderna, op. cit., p. 55.
+
+
+
+asunto trascendente de la verdadera salvación del hombre, pero compitiendo con
+ella con su oferta de consistencia y fiabilidad9.
+
+Es incontestablemente cierto que el mundo profano, etimológicamente, lo que
+queda al margen del templo o lo sagrado, esto es, el mundo terrenal o temporal, subsiste ya de antemano10, junto al mundo de lo sagrado, como condición de cualquier traspaso de uno a otro mundo, y hasta experimenta un fabuloso crecimiento en el origen
+de la Edad Moderna, cuya fecha de inicio suele ponerse en el Renacimiento, dando
+lugar a una reestructuración del espacio cultural, y sobre todo, de las relaciones mismas entre lo sagrado y lo profano11. Es lo que entiende Blumenberg por “genuina
+mundanización”, que “no sería secularización, una transformación de algo dado de
+antemano, sino la cristalización primaria, por decirlo así, de una realidad antes desconocida”12. La Iglesia se ve obligada, en primera instancia, a tomarlo en consideración, y en segunda, a adaptarse a él, aun intentando gobernarlo desde su propio espíritu. Es esto precisamente lo que entiende Hegel por la mala “mundanización” de la fe
+cristiana durante la Edad Media, al contaminarse con las mismas realidades temporales
+a las que quiere infundir su espíritu. “Lo mundanal debe ser solamente algo mundanal;
+pero este régimen mundano de la Iglesia aparece revestido, al mismo tiempo, con la
+autoridad y la dignidad de lo divino”13. Pero en la Edad Moderna, el crecimiento y madurez de este mundo del aquende adquiere una importancia decisiva. Nuevas realidades,
+como la nueva ciencia, el humanismo, el arte clásico, la política de las nuevas monarquías, la técnica de los grandes maestros artesanos, la industria de máquinas o ingenios,
+cobran una relevancia cultural extraordinaria. Entre ellas hay que contar también la
+devotio moderna y la Reforma protestante, a la que convierte Hegel en el fermento
+genuino del espíritu moderno en cuanto tal y al que llama ahora la verdadera y efectiva “mundanización” del Cristianismo. Como se ve, el término mismo de ‘mundanización’ arrastra ya un equívoco, según se lo entienda desde una u otra orilla. Esta es
+la verdadera cuestión: si la mundanización genuina ha de entenderse como la específica legitimidad de este mundo frente a la fe, como quiere Blumenberg, negando la
+categoría de secularización, o bien, en sentido contrario, según Hegel, como la presencia efectiva del Cristianismo en el mundo moderno. El problema no reside, pues, en la
+preexistencia del mundo secular o profano, junto al religioso,—lo que es obvio a todas
+Ídem.
+También la sociedad medieval está estructurada en “ una forma doble”, base de la diferenciación de dos
+esferas —lo sagrado y lo profano— y de dos espadas, —la espiritual y la temporal— (José Casanova, Religiones públicas en el mundo moderno, Madrid, PPC,1994, pp. 28-30), aun cuando prevaleciera la conciencia de la primacía de la
+esfera espiritual.
+11
+Como señala el mismo José Casanova, “la secularización como concepto se refiere al proceso histórico
+real por medio del cual este sistema dual dentro de ‘este mundo’ y las estructuras sacramentales de mediación entre
+este mundo y el otro mundo (el trascendente) se van derrumbando hasta que desparece todo el sistema de clasificación medieval para ser sustituido por sistemas nuevos de estructuración espacial de las esferas. La expresiva imagen
+de Max Weber de la demolición de los monasterios de los conventos sigue siendo quizá la mejor expresión gráfica de
+esta nueva estructuración espacial radical” (Ibíd., p. 30).
+12
+La legitimación de la Edad Moderna, op. cit., p. 55.
+13
+Lecciones sobre la historia de la filosofía, Madrid, Revista de Occidente, 1955, III, p. 157.
+9
+
+10
+
+367
+
+
+
+luces—, sino en su autocomprensión. Lo decisivo está en si el nuevo mundo surge por
+una confrontación y cesura radical con el mundo de la fe o si se autocomprende en
+su legitimidad a la luz de categorías tomadas en préstamo a la teología cristiana.
+
+3. DE LA MUNDANIZACIÓN DEL CRISTIANISMO
+A LA DES-CRISTIANIZACIÓN
+Para movernos en este laberinto hermenéutico sería bueno metódicamente
+analizar las cuestiones por separado. Me parece oportuno comenzar por la tesis
+más débil por ser la más habitual: la secularización como un producto de la misma
+fe cristiana. El caso más paradigmático es la filosofía especulativa hegeliana. “Los
+cristianos están, pues, iniciados en los misterios de Dios —escribe Hegel en su Filosofía de la Historia— y de este modo nos ha sido dada la clave de la historia universal”14, y en ella, cabe añadir, de los acontecimientos y mundos que se fraguan en
+el tiempo. La explicitación de esta clave teológica, traduciéndola al lenguaje especulativo del concepto, esto es, al saber absoluto, constituye la obra genial de la filosofía de Hegel.
+
+3.1. Pensar la encarnación de Dios
+La clave teológica se encierra en el dogma de la encarnación. Antes he
+mencionado que este proceso se ha producido en áreas de cultura judeo/cristiana,
+lo que hace presumir una especial implicación de fe cristiana y cultura secular, que
+no se ha dado, (o, al menos, no en dimensiones significativas) en otras culturas.
+Algunos autores han hecho referencia a la simiente secularizadora que opera en
+planteamientos judaicos15, pero es en el marco del Nuevo Testamento donde se
+encuentra la clave definitiva en el dogma fundamental de la fe cristiana, la encarnación del Verbo, que proclama el Evangelio de san Juan: el misterio de la presencia
+de Dios en el mundo, asumiendo la carne humana y elevándola así a nueva y definitiva dignidad. Creación y encarnación no se replican como categorías antitéticas,
+14
+
+Lecciones sobre filosofía de la historia universal, trad. esp. de José Gaos, Revista de Occidente, Madrid,
+
+1953, I, p. 35.
+15
+Tres han sido los aspectos señalados en este ámbito. Ante todo, la categoría de creación como obra de
+Dios, una voluntad libre frente al cosmos, lo que supone una desacralización de la primordial naturaleza sagrada del paganismo, misteriosa e insondable. Las categorías de éxodo y de pacto refuerzan esta idea de la desacralización y la extienden a otros dominios. La liberación de los israelitas del poder de Egipto puede tomarse como la emancipación del pueblo elegido de una política, sustentada en un orden sacral, y su traspaso hacia la historia y el cambio social, inaugurando
+así un nuevo modo de entender la política como autodirección y responsabilidad del hombre en los asuntos que le conciernen. A su vez, el pacto de Sinaí supuso la relativización de todos los ídolos, valores, ideales de vida, que pretendían
+una significación absoluta y, frente a ellos, la preeminencia del Dios único y absoluto, el Dios vivo, que inicia una historia de fidelidad con su pueblo. En suma, “la trascendentalización radical de Dios en el Antiguo Testamento —“un Dios
+que permanece fuera del cosmos y que actúa históricamente más que cósmicamente en él”—, abre la posibilidad de un
+entendimiento directo con el hombre, y una relación de dominio sobre la naturaleza.
+
+368
+
+
+
+como creía el pensamiento gnóstico,—el Dios que crea el mundo, en su finitud e
+imperfección, y el Dios que viene luego a salvarlo del pecado—, sino que más bien
+se implican en la teología agustiniana como formas progresivas de revelación de la
+profundidad misteriosa de Dios, que crea el mundo y al hombre, y, a la vez, lo
+asume en su Hijo, para llevarlo a su plenitud en el Amor. El misterio de la Trinidad,
+con el círculo de la vida íntima personal de Dios en Dios, que se da a participar en
+el mundo, supera así, según Agustín de Hipona, el esquema gnóstico de un Dios contra Dios. La kenosis o alienación de Dios en el mundo, en la figura de siervo, realiza, en sentido contrario, una apropiación y transfiguración del mundo por el poder
+de Dios. El dogma de la encarnación representa así en una síntesis viviente, la diferencia esencial de Dios y el hombre y su unidad reconciliada en el Dios/hombre. No
+es una ecuación analítica sino sintética, y de ahí su potencial especulativo, como ya
+señaló Hegel, pues pone en relación ámbitos separados y contrapuestos, y, frente a
+toda abstracción desencarnada, deja ver “lo absoluto como espíritu”. En los dogmas
+cristianos de la vida trinitaria y la encarnación, se inspira Hegel expresamente para
+tallar su categoría del espíritu, “el concepto más elevado de todos y que pertenece
+a la época moderna y su religión”16 —dice—, y al que define como “el saber de sí
+mismo en su enajenación” o “el movimiento que consiste en retener en su ser otro
+la igualdad consigo mismo”17. Gracias al movimiento de esta exposición enajenante
+fuera de sí, en el mundo, y de retorno a sí a través de lo otro, se lleva a cabo, según
+Hegel, la mundanización del espíritu conjuntamente con la espiritualización del
+mundo. Esto implica tanto la idea de realización histórica (Verzeitlichung) del espíritu (cristiano) como su “mundanización” (Verweltlichung) o concreción en el contenido sustantivo de la cultura moderna. Ambas dimensiones son el fruto de una
+interiorización del presupuesto dogmático de la encarnación. El espíritu se entrega
+al tiempo, al acontecer histórico, como el elemento de su exposición y manifestación
+(Offenbarung) pero, mientras está en el tiempo, “aún no acabado dentro de sí
+mismo”, hasta alcanzar aquella consumación del tiempo en un presente absoluto.
+“Por tanto, el espíritu no puede alcanzar su perfección como espíritu autoconsciente
+antes de haberse completado en sí como espíritu del mundo”18.
+
+3.2. La secularización como mundanización del espíritu
+Esta consumación se ha llevado a cabo, según Hegel, en el mundo
+moderno. Hasta entonces, en la Edad Media, el cristianismo se había mantenido en
+el mundo, marcando su distancia de no-mundanidad, como la otra ciudad celeste
+frente a la terrestre o mundana. La Iglesia está en el mundo, al que corrige y educa
+con la disciplina de lo universal, pero no logra, en las naciones bárbaras converti-
+
+16
+17
+18
+
+Fenomenología del espíritu, trad. esp., de W. Roces, México, FCE, 1966, p. 19.
+Ibíd., p. 439. Véase igualmente, Lecciones sobre filosofía de la historia universal, op. cit., p. 45.
+Ibíd., p. 469.
+
+369
+
+
+
+das al cristianismo, llegar a ser, según Hegel, un principio interior de configuración
+del mundo. “En forma teológica puede decirse que la Edad Media es, en general, el
+imperio del Hijo, no el del Espíritu, pues éste hállase aún en posesión del sacerdocio”19. Hay así una escisión (Entzweiung) profunda en el seno de la cultura medieval. “El elemento fundamental de la Edad Media es este desdoblamiento, esta duplicación: se nos revelan en ella, dos naciones, dos lenguas” —escribe Hegel— lo
+espiritual y lo temporal, el allende y el aquende, y “hasta dos mundos: el reino de
+la vida y el reino de la muerte”. El espíritu domina este mundo, se lo somete, pero
+no logra penetrarlo sustancialmente:
+En el mundo suprasensible no se advertía la presencia de ninguna realidad de la
+conciencia de sí pensante, general, racional; en el mundo inmediato de la naturaleza sensible, por el contrario, se echaba de menos la divinidad, del mismo modo
+que Dios vivía al margen de ella20.
+
+Pero el espíritu no persigue la dominación de un elemento extraño que se
+le enfrenta, sino alcanzar en él la “reconciliación” consigo mismo. La escolástica se
+afanaba en vano en relacionar ambos mundos, pero por tratarse de una filosofía del
+entendimiento abstracto, ayuno de contenido real, piensa Hegel, sólo conseguía
+una “reconciliación formal y no en y para sí, pues respondía al anhelo del hombre
+de alcanzar una satisfacción en otro mundo”21. Por el contrario, en el afán de dominio, la Iglesia, cuyo espíritu no es de este mundo, acaba contagiándose con la profanidad.
+La Iglesia se organiza, pero acaba siguiendo los caminos de la existencia mundanal, de la riqueza, de los bienes materiales, acaba adquiriendo todas las pasiones
+mundanales de la tosquedad; pues lo espiritual es solamente el principio22.
+
+Es decir, es tan sólo “principio” o comienzo, pero aún no ha llegado a ser fermento de transformación del mundo. Se trataría, pues, de una primera y deficiente
+mundanización del espíritu, en que la Iglesia se contagia de mundanidad, al no lograr
+convertirse en el principio constitutivo interno del nuevo mundo. El desdoblamiento se
+introduce así en el seno mismo de la Iglesia entre el principio espiritual interior y su
+forma exterior y temporal como institución. A la vez, en sentido inverso, mientras la Iglesia se mundaniza, desdoblándose interiormente, el mundo profano crece y reclama
+para sí su reconocimiento como parte de la obra misma del espíritu en el tiempo. Es
+la aurora de la verdadera reconciliación, que acontece en el mundo moderno.
+
+19
+20
+21
+22
+
+370
+
+Op. cit., Lecciones sobre la historia de la filosofía, III, p. 120.
+Ibíd., III, p. 151.
+Ídem.
+Ibíd., III, pp. 114-115.
+
+
+
+Así volvió —concluye Hegel— el espíritu a sí mismo; así se recobró y contempló
+como sus propias manos su propia razón. Este renacimiento del espíritu queda en
+la historia como el renacimiento de las artes y de las ciencias dedicadas a la materia presente, como la época en que el espíritu cobra confianza en sí mismo y en
+su propia existencia23.
+
+Se trata ahora de la verdadera y positiva mundanización (Verweltlichug)
+del espíritu, en el presente histórico moderno, en que, al decir de Hegel, “el cielo
+del espíritu se aclara para la humanidad”24. En virtud de ello, la Iglesia misma, que
+había sido la pedagoga durante la Edad Media del hombre en su destino espiritual,
+purificada ahora por su escisión, acaba recuperando su verdadero espíritu en la interioridad reformada:
+Lo que hizo fue más bien purificar el terreno en que el principio religioso podía
+encontrar su sede y crear en los hombres el sentimiento de la reconciliación real.
+Esta reconciliación tuvo lugar ahora en la realidad del Estado (…) Nos hallamos
+ahora en un punto de vista más alto. Lo superior y verdadero reside ahora en el
+sentimiento de la reconciliación real. La humanidad ha llegado al sentimiento de
+la reconciliación del espíritu en sí mismo, y a una conciencia tranquila en su realidad, en el mundo temporal25.
+
+Ha sido, pues, el protestantismo, el responsable de esta completa mundanización de la fe, con que se inician los primeros pasos secularizadores. Tesis tales
+como la ruptura de la mediación eclesiástica en la interpretación de la palabra y del
+sacramento, confiando su sentido a una revelación directa e interior en cada hombre, o la ética luterana del officium como cooperación a la obra de Dios en el
+mundo, o la ascética calvinista de la renuncia inmediata al goce como modo productivo de bienes y valores, en que se acredita el designio de haber sido elegido,
+propician la mundanización de la fe cristiana al margen de la administración eclesiástica de la salvación. Antes ha mencionado Hegel, como frutos del nuevo tiempo,
+las artes, la industria y la ciencia; pero la sede en que se materializa el espíritu,
+hecho mundo, en su efectiva y concreta universalidad, es el Estado moderno:
+Lo divino deja de ser la representación libre de un más allá. Se descubre que lo
+ético y lo justo, en el Estado, son también algo divino, mandatos de Dios, y que
+no hay nada más alto ni más santo por su contenido26.
+
+23
+24
+25
+26
+
+Ibíd., III, p. 160.
+Lecciones sobre la filosofía de la historia universal, op. cit., II, p. 350.
+Ibíd., II, p. 356.
+Ibíd., II, p. 367.
+
+371
+
+
+
+3.3. La secularización como gnosis del cristianismo
+Toda la historia posterior transcurre en este medio público y objetivo, en
+que acontece el reino del espíritu, la verdadera comunidad universal. Decía antes que
+la filosofía de Hegel lleva a cabo la secularización del cristianismo, entendida como la
+reducción de sus misterios en clave especulativa. Sólo un teólogo protestante con
+una genial dotación especulativa, o dicho a la inversa, un filósofo especulativo de
+formación protestante podía haber concebido un proyecto reductivo secularizador
+de tanto alcance histórico27. A la luz de estos textos, es preciso reconocer que la
+secularización ha sido obra fundamental del protestantismo28. Con razón ha escrito
+Jean Claude Monod que “Hegel sería entonces también el primer filósofo de la secularización, al justificar en el marco de una teodicea filosófica, la Verweltlichung
+(mundanización) del cristianismo”29. Muy taxativamente se afirma en la Fenomenología del espíritu que ”Dios sólo es asequible en el puro saber especulativo y sólo
+es en él y sólo es este saber mismo; y este saber especulativo es el saber de la religión revelada”30. Se trata de una variante especulativa del credo ut intelligam, esto
+es, de una inteligencia interior a la fe, nacida de ella, pero que acaba absorbiéndola
+en filosofía. Y en el mismo sentido, se reitera en las Lecciones de filosofía de la historia universal: “Se ha llegado en los últimos tiempos a tal punto, que la filosofía
+tiene que hacerse cargo del contenido de la religión, incluso contra algunas formas
+de teología”31. En este sentido, hay una diferencia capital entre protestantismo y el
+catolicismo, pues mientras el primero entiende el dogma de la encarnación de modo
+reductivo o asimilativo, en la fórmula de una identidad, dando así origen a su absorción especulativa, y al ser ésta invertida por Feuerbach, al surgimiento del humanismo en los jóvenes hegelianos, la interpretación católica, por el contrario, sostuvo
+siempre la circularidad del doble movimiento del Verbum/caro y el caro/verbum,
+esto es, que con la encarnación de Dios se lleva a cabo una nueva redefinición del
+hombre en el sentido de su referencia constitutiva al misterio de la plenitud de
+Dios32. En esta circularidad se da, pues, una peculiar relación entre trascendencia e
+inmanencia, pues si el Dios trascendente, al encarnarse, se hace presente en la
+inmanencia del mundo es precisamente para desfondarla y abrirla desde dentro al
+misterio mismo de Dios. El catolicismo representa pues, una posición intermedia
+entre el rechazo gnóstico del mundo y la plena acomodación a él. De ahí la inevi-
+
+27
+Hegel, “el último filósofo cristiano, antes de la ruptura de la Filosofía y el Cristianismo”, o más bien, como
+le corrige Monod, después de esta ruptura, que había acontecido antes en el pensamiento ilustrado. (La querelle de la
+sécularisation, op. cit., p. 61-62).
+28
+Como subraya José Casanova, “el protestantismo puede contemplarse no sólo como el solvente corrosivo que hizo sitio a lo nuevo, sino también como la superestructura religiosa del orden nuevo, como la religión de la
+modernidad burguesa” (Religiones públicas en el mundo moderno, op. cit., p. 62).
+29
+La querelle de la sécularisation, op. cit., p. 39.
+30
+Fenomenología del espíritu, op. cit., p. 441.
+31
+Lecciones sobre la filosofía de la historia universal, op. cit., I, p. 31.
+32
+“Karl Rahner, “Para una teología de la Encarnación”, en Escritos de Teología, Madrid, Taurus, 1961, IV,
+especialmente, pp. 142-147.
+
+372
+
+
+
+table tensión en que se mueve entre dos posturas extremas. A diferencia del protestantismo, que progresó hacia una inmanentización de todos los contenidos dogmáticos, el catolicismo siempre ha estado en guardia contra este reduccionismo, en
+que ha visto, en palabras de Karl Rahner, “la eterna tentación de tomar el mundo
+por la revelación definitiva de Dios y de hacer de Dios sentido del mundo, de forma
+que el mundo sea, más bien el sentido de Dios”33. En dirección contraria al protestantismo, el catolicismo ha tendido más que a una mundanización reductiva y secularista de la fe cristiana, hecha mundo moderno, al modo protestante, a una consecratio mundi, es decir, al intento de abrir la potencia obediencial de la razón y con
+ello al sobreelevamiento de las categorías de la mera razón al orden superior de la
+inspiración y la gracia. No es extraño, pues, que el humanismo cristiano renacentista acentuase la participación del hombre en la obra de Dios, como flecha del
+mundo y desenvolvimiento progresivo de su potencialidad.
+
+3.4. La plenitud de los tiempos
+Volviendo de nuevo al planteamiento hegeliano: desde este saber de lo
+acontecido en los últimos tiempos, esto es, en el tiempo último y definitivo (eschaton) de la consumación del espíritu en el mundo moderno, donde concurren la
+Reforma protestante y la Revolución, tanto la industrial como la política, Hegel
+puede trazar las líneas maestras de su filosofía de la historia, entendida como el
+plan de “la exposición del proceso divino y absoluto del espíritu, en sus formas
+supremas, la exposición de la serie de fases a través de las cuales el espíritu alcanza
+su verdad, la conciencia de sí mismo”34. Basta con sustituir la palabra “Dios” por
+“razón universal” que gobierna el mundo para tener la clave de la trasposición secularizadora. No en vano se cierran las citadas Lecciones con la afirmación de que “la
+historia universal es la verdadera teodicea, la justificación de Dios en la historia”35.
+La otra categoría teológica de ‘providencia’ la encuentra Hegel demasiado abstracta,
+porque “no se introduce en lo concreto y determinado”36, y la sustituye por la “astucia” de la razón, que trabaja en la historia, sacando partido incluso de los errores y
+extravíos, de las pasiones e intereses particulares de los individuos y los pueblos,
+para hacer triunfar su plan de conjunto. Se trata, pues, de una “razón divina y universal”, inmanente a la historia y que le confiere a ésta sentido último, a la par que
+la guía y organiza en su transcurso. “El fin de la historia universal —dice Hegel—
+es, por tanto, que el espíritu llegue a saber lo que es verdaderamente y haga objetivo este saber, lo realice en un mundo presente, se produzca a sí mismo objetiva33
+Escritos de Teología, op. cit., III, p. 321. Ésto no es más que idolatría —concluye Rahner—. Y en este sentido, “incluso la filosofía espiritualista de Hegel adora a un ídolo: al espíritu absoluto que se encuentra a sí mismo en
+el hombre y en su evolución esencial” (ídem).
+34
+Lecciones sobre filosofia de la historia universal, op. cit., I, p. 59.
+35
+Ibíd., II, p. 411.
+36
+Ibíd., I, p. 29.
+
+373
+
+
+
+mente”37. Obviamente este fin no es otro que la libertad, como vida interior del espíritu. El curso de la historia es un curso lineal, progresivo, ascendente, lleno de crisis interiores, de las que el espíritu sale transformado en figuras más altas de libertad. Pero Hegel no se refiere a una libertad abstracta, espiritada o puramente
+interior, sino a la libertad real hecha efectivamente mundo o comunidad racional.
+“El Estado es, por tanto, el objeto inmediato de la historia universal. En el Estado
+alcanza la libertad su objetividad y vive en el goce de esta objetividad”38. En esta plenitud escatológica de los tiempos sólo queda la filosofía especulativa (=teología
+secularizada) y el Estado moderno constitucional, verdadera comunidad racional,
+sustituyendo ahora a la comunidad de los creyentes. Dicho en el lenguaje de Hegel,
+de un lado, “lo verdadero como sistema objetivo y desarrollado en la pureza del
+pensamiento”; del otro, lo verdadero hecho mundo en la “ realidad exteriormente
+objetiva” del Estado. Pero esta duplicidad de aspectos es la prueba de que el espíritu ha alcanzado, en la filosofía, la autoconciencia de sí que corresponde a su
+puesta en obra en el Estado. “De este modo, es él el espíritu, que da testimonio al
+espíritu, y está en la realidad también en sí y es por tanto en ella libre”39.
+
+3.5. La secularización como des-cristianización
+Salta a la vista, como ha puesto de manifiesto Karl Löwtih, que la secularización hegeliana del espíritu cristiano encierra una gran ambigüedad, pues es tanto
+una crítica de la religión, como instancia abstracta, separada de la cultura del mundo,
+como una justificación de la misma en su realización histórico/efectiva40. Al plantear
+Hegel tan radical y extremadamente la cuestión como consumación de la libertad en
+el mundo, lo que implicaba tanto la realización política o mundana de la filosofía
+como la interpretación filosófica de la política, situaba la cuestión en un orden histórico/social en que iba a surgir muy pronto el litigio decisivo acerca de cuál sea verdadera libertad del hombre, —del hombre real y efectivo— en un mundo moderno
+donde estallaban de nuevo las contradicciones que se creía haber superado en la
+reconciliación del espíritu absoluto. No es casual que Feuerbach, discípulo de Hegel,
+critique radicalmente su filosofía, viendo en ella una criptoteología secreta, con su
+clave de inspiración en la religión cristiana. En cierto modo prosigue y radicaliza la
+línea secularizadora reductiva de la encarnación, emprendida por Hegel, avanzando
+hacia un “una secularización de la idea, una ensarcosis o encarnación del puro logos”,
+como la llama en carta de 1820 a su maestro. Se mueve así críticamente, a través de
+la línea reductiva de Dios-razón-hombre, “Dios fue mi primer pensamiento —dice en la
+primera de sus Tesis fundamentales de la filosofía— la razón el segundo, el hombre el
+
+37
+38
+39
+40
+
+374
+
+Ibíd., I, p. 59.
+Ibíd., I, p. 93.
+Ibíd., II, p. 410.
+Cit. por J.C. Monod, La querelle de la sécularisation, op. cit., p. 61.
+
+
+
+tercero y el último”, hacia la experiencia antropológica radical del hombre de carne
+y hueso. Pero este humanismo del mero hombre, como estación definitiva de llegada,
+no es un mero extracto de la especulación hegeliana, sino que supone una inversión
+radical del teísmo, al transferir los predicados teológico/especulativos acerca de lo
+divino a la esencia humana, como su verdadero sujeto de inhesión, pues “ el sujeto
+de la divinidad es la razón, pero el sujeto de la razón es el hombre”41. Invirtiendo,
+pues, críticamente la proposición especulativa, en vez de hablar de una enajenación
+de Dios en el mundo (Entfremdung Gottes), Feuerbach analiza y denuncia críticamente, en sentido inverso, la enajenación religiosa del hombre (Entfremdung hominis) por mor del cristianismo, de modo que la des-cristianización sería el rescate humanista de lo que previamente se le había usurpado al hombre por la religión.
+A partir de la crítica feuerbachiana a la filosofía especulativa de su maestro,
+la secularización se invierte de signo, se torna en descristianización militante, agresiva,
+pues los ataques al pensamiento especulativo se vuelven a la postre en una crítica
+radical con respecto a la fe cristiana, en cuanto determinante del curso de la modernidad, tal como lo concibe Hegel. Ya no es mera reducción especulativa de los misterios religiosos cristianos, sino inversión radical de su perspectiva. En lugar de especulación, la filosofía se llama ahora crítica emancipatoria. Además Feuerbach no deja
+de ver que la crítica a la religión es conjuntamente una crítica al Estado, o viceversa,
+en la medida en que la religión ha sido la garante de la comprensión idealista de la
+historia, de la filosofía y de la política. “La religión —dice— sacrifica la razón natural
+a los arbitrarios dogmas de la fe y el Estado sacrifica al arbitrario derecho positivo, el
+derecho natural común”42. Se han sentado así las premisas crítico/antropológicas para
+que, a su vez Marx, aleccionado por Feuerbach, centre su crítica en el Estado hegeliano como una vacua y meramente especulativa reconciliación del espíritu consigo
+mismo, al margen de las contradicciones de la vida social, que sólo pueden resolverse
+por medio de una dialéctica negativa de sentido crítico y revolucionario.
+
+4. LAS MATRICES TEOLÓGICAS DE LA SECULARIZACIÓN
+Tras este pórtico especulativo43, en que he descrito sumariamente el tránsito, por inversión, de la mundanización de la fe cristiana (Hegel) a la des-cristianización (Feuerbach-Marx), quisiera, dando una paso atrás, referirme en concreto a
+
+Grundsätze der Philosophie, en Kleineren Schriften, III, Akadmie Verlag, Berlín, 1971, X, p. 178.
+Ergänzungen und Erläuterungen zum Wesen der Religion, en Kleineren Schriften, op, cit, X, p. 118.
+Desde un planteamiento fundamentalmente sociológico, se ha referido José Casanova a cuatro procesos, a los que califica de “portadores de secularización”, a saber, “la Reforma protestante, la formación de los estados
+modernos, la expansión del capitalismo moderno y la primera revolución científica” (Religiones públicas en el mundo
+moderno, op. cit., p. 38). Puesto que mi punto de vista es fundamentalmente especulativo, prefiero hablar, más que de
+procesos históricos, de líneas matrices de secularización, presuponiendo siempre el protestantismo, como se ha mostrado a partir de Hegel, como el marco ideológico decisivo.
+41
+42
+43
+
+375
+
+
+
+las líneas matrices en que se ha desarrollado el proceso secularizador, entendido al
+modo hegeliano, en cuanto trasposición histórica de categorías religiosas, tomadas
+del mundo de la fe, al mundo profano, con la consiguiente metamorfosis interna de
+las mismas. Ya se ha indicado cómo hay un crecimiento de las realidades temporales —ciencia, técnica, arte, industria, economía—, en el comienzo de la modernidad, pero, con todo, lo decisivo es si el orden profano se autocomprende en su
+autonomía a la luz de categorías tomadas en préstamo a la teología cristiana.
+
+4.1. El éthos del trabajo
+La primera matriz religiosa tiene que ver con la nueva ética del trabajo, tal
+como la ha desarrolla Max Weber en su estudio clásico sobre “La ética protestante y
+el espíritu del capitalismo”. Mediante el giro señalado hacia la mundanización de la
+fe, una religión que se vivía, al modo medieval, como salvación del mundo, comienza
+a entenderse como realización en el mundo del designio de Dios. Ciertamente, la
+ética, tanto la católica como la protestante, ya sea luterana o calvinista, siguió siendo
+una ética religiosa, inscrita en la fe, y pendiente de la salvación del alma, pero ahora
+con una orientación prevalente hacia la relevancia del orden de la profanidad. La
+devaluación de la vida monástica como camino canónico de perfección, efectuada
+por Erasmo y Lutero, redundaba en beneficio de una vita activa, secular, en la que
+la solicitud por los asuntos temporales se entiende como un servicio positivo a la
+voluntad de Dios. Este viraje decisivo fue ejecutado por el protestantismo. En la tradición católica se siguieron cultivando los valores de la vida contemplativa y la
+orientación mística hacia un amor universal, mientras que el protestantismo, carente
+del sentido de lo místico, privilegió el cultivo de la ascética y, en general, de las virtudes cardinales con su incidencia y relevancia en la vida social. Como señala Max
+Weber, “lo absolutamente nuevo era considerar que el más noble contenido de la
+propia conducta moral consistía justamente en sentir como un deber el cumplimiento de la tarea personal en el mundo”44. Lutero inicia este gran giro secularista
+hacia la dignificación del trabajo o de la profesión, precisamente porque está vinculada al nuevo orden civil y tiene redundancia social. Pero es Calvino quien consagra religiosamente el éthos del trabajo, de la solicitud y la procura de los bienes
+materiales, como un signo característico de la nueva fe. Es bien conocida la tesis de
+Wax Weber de la relación entre la moral puritana con el espíritu del capitalismo.
+Según ella, el capitalismo, fenómeno característico de Occidente en cuanto “organización racional del trabajo” con vistas a su productividad y rentabilidad, no se
+debió sólo a un nuevo concepto funcional de razón, a los avances de la técnica,
+especialmente la del cálculo de utilidades, y a “la estructura racional del derecho y
+la administración”, sino a una nueva actitud religiosa, determinante en su formación
+
+44
+
+376
+
+Ensayos sobre sociología de la religión, Madrid, Taurus, 1983, I, p. 63.
+
+
+
+y expansión45. No se trata de un mero utilitarismo, como suele creerse, sino de una
+actitud ascética de exigencia, diligencia y austeridad, de desinterés por el goce y la
+satisfacción personal en la riqueza, de dedicación al deber profesional, que sólo se
+entiende desde raíces religiosas.
+Dos son las vivencias fundamentales del calvinismo, acordes con su dogmática: la majestad infinita y absoluta de Dios, a cuya gloria todo debe ser hecho y
+la inescrutabilidad de sus designios, de modo que la salvación resulta ser enteramente gratuita, un don que nunca se puede merecer. La voluntad de Dios se complace en sus elegidos. Este decreto gracioso de la pre-destinación, pero horrible en
+la vivencia subjetiva de si se está en el número de los escogidos, como subraya
+Weber, “ había de tener como resultado, en el ánimo de una generación que se
+entregó a toda su grandiosa consecuencia, el sentimiento de una inaudita soledad
+interior del individuo”46. A “este radical abandono” en que se encuentra el creyente
+puritano, sin poder contar con ninguna ayuda institucional o sacramental, a solas
+con su destino religioso, lo toma precisamente Weber como una forma del “desencantamiento del mundo”, de destrucción de toda superstición, de negación “de
+todos los elementos sensibles y sentimentales de la cultura y religiosidad subjetiva”47. No se cuenta con ningún apoyo externo, con ninguna prueba, con ninguna
+práctica devota que se lo asegure. “Dios debe ser el único confidente del hombre”.
+¿Cómo saber de estar salvo? ¿Cómo librarse de la angustia acerca del propio destino
+eterno? Ni siquiera el amor al prójimo como vivencia subjetiva o como práctica piadosa es suficiente. Ahora bien,
+Como ‘el amor al prójimo’ —asegura Weber— sólo debe estar al servicio de la gloria de Dios y no de las criaturas, su primera manifestación es el cumplimiento de
+las tareas profesionales impuestas por la lex naturae con un carácter específicamente objetivo e impersonal: como un servicio para dar estructura racional al cosmos social que nos rodea48.
+
+Las tareas seculares se elevan así de plano en su significación. La profesion (Beruf) adquiere el sentido de una llamada o vocación directa de Dios, que
+debe ser realizada escrupulosa y devotamente en honor de su gloria y majestad. “La
+advertencia del Apóstol —prosigue Weber— de ‘mantenerse en la propia vocación
+se considera ahora como un deber de conseguir en la lucha diaria la certeza subjetiva de la salvación y justificación”49. Es la certitudo salutis, la búsqueda afanosa de
+la certeza de estar salvo o de haber sido elegido, la que va a determinar esta nueva
+
+45
+46
+47
+48
+49
+
+Ibíd.,
+Ibíd.,
+Ibíd.,
+Ibíd.,
+Ibíd.,
+
+I, pp. 18-21.
+I, p. 82.
+I, p. 83.
+I, pp. 87-88.
+I, p. 91.
+
+377
+
+
+
+orientación activa y productiva en el siglo. Se produce así una confirmación de la
+certeza religiosa acerca de la salvación en la seguridad del acierto y productividad
+de la profesión, en la autocerteza del triunfo profesional y los frutos del trabajo, en
+la rentabilidad de los negocios, en los bienes producidos. Esta obra profesional en
+el mundo será, por tanto, el testimonio de la otra obra, con que Dios actuaba directamente en el alma del creyente, en cuanto instrumento eficaz en el mundo del
+poder de Dios. Pero este planteamiento supone ya un camino de secularización de
+la matriz religiosa originaria en un éthos de la profesión, como el modo, según la
+certera expresión weberiana, de “dar estructura racional al cosmos social”. De ahí
+que no se haga esperar la conclusión, con que resume Weber su trabajo:
+El poder ejercido por la concepción puritana de la vida no sólo favorece la formación de capitales, sino, lo que es más importante, fue favorable sobre todo para la
+formación de la conducta burguesa y racional (desde el punto de vista económico), de la que el puritano fue el representante típico y el único consecuente;
+dicha concepción, pues, asistió al nacimiento del moderno homo oeconomicus 50.
+
+Todo este planteamiento le merece a Blumenberg un juicio displicente y
+se lo quita de en medio con algún desdén51. Modestamente, estimo que es acreedor
+de más atenta consideración. Desde el punto de vista genealógico son innegables
+las raíces cristianas de la ética moderna, ya se adopte la dimensión del puritianismo
+protestante, como es el caso, o bien la neoestoica, que fue predominantemente una
+síntesis de estoicismo y cristianismo. La nueva ética de Descartes es esencialmente
+neoestoica, y sus conceptos básicos de autonomía y dignidad del hombre tienen la
+marca indeleble de su procedencia, luego plenamente recognoscible en las éticas
+de Rousseau y de Kant.
+
+4.2. La teología política
+La segunda matriz concierne a la teología política de la modernidad, desarrollada en los ensayos de Carl Schmitt. El término no es nuevo; con él se quiere
+significar que en fondo de toda cuestión política late siempre una cuestión religiosa, o más propiamente, una teología, y, viceversa, en toda política, en cuanto se
+formula y lleva a cabo una pretensión de poder, que aspira a ser independiente de
+cualquier otro, se confronta, en última instancia, con una tesis teológica acerca del
+origen del poder. Paradójicamente, la categoría de soberanía, en virtud de la cual
+Ibíd., I, p. 159.
+“Ha de hacerse, finalmente, mención —para documentar la repetición del esquema de aquel tipo de teoría— de la tesis de Max Weber sobre el origen histórico del capitalismo a partir del puritanimo, cuya resonancia entre
+los historiadores fue, mayoritariamente de rechazo y, entre los teólogos, positiva, y esto desde la óptica de una afirmación de culpabilidad en la complicidad escatológica del cristianismo, que no tuvo recato alguno en acercarse a una
+negación mágica del mundo” (La legitimación de la Edad Moderna, op. cit., p. 118).
+50
+51
+
+378
+
+
+
+surgió la tensión histórica entre el poder espiritual y el poder temporal, es un préstamo de la teología a la conceptualización moderna del poder político. Éste es el
+sentido genealógico preciso de la teología política, tal como la entiende Schmitt:
+”todos los conceptos más importantes de la doctrina moderna del Estado son conceptos teológicos secularizados”52. La clave está en la soberanía. La definición que
+de ella da Juan Bodino, “el poder absoluto y perpetuo de una República”53 deja traslucir inequívocamente su derivación de la idea de potestas absoluta divina, manejada por los teólogos, no sometida a ley, en cuanto que ella es su fundamento.
+Poder soberano es, pues, un poder a legibus solutus, y en este sentido ab-soluto, y
+por lo mismo, constante e incondicionado. “La soberanía —dice Bodino— no está
+limitada, ni en poder, ni en función, ni a cierto tiempo”54. No importa su origen. Aun
+cuando haya surgido del pueblo, en su constitución como tal poder tiene que darse
+una transferencia o traspaso que equivale a un desprendimiento o despojo del poder
+del pueblo para investir con él al príncipe. En ésto están de acuerdo Bodino y Hobbes. El príncipe o cabeza del Estado, que implica monopolio del poder, está separado (“dividido”) del pueblo y sólo debe su juramento a Dios, de quien es su “imagen”55. El absolutismo de la monarquía del XVII no es un suceso casual sino fiel
+reflejo de la propia teoría del poder soberano en sus fuentes teóricas originarias.
+Como ha mostrado Jacques Maritain,
+La soberanía, o no significa nada, o significa un poder supremo separado y trascendente —no en la cumbre, sino por encima de la cumbre (por encima de todos
+los súbditos)—y que gobierna desde arriba el cuerpo político entero. Por eso ese
+poder es absoluto (absoluto, es decir, desligado, separado) y, en consecuencia, ilimitado en su extensión y duración y sin responsabilidad ante nadie en la tierra .
+
+De ahí que algunos pensadores hayan sostenido que tal categoría es un
+préstamo nocivo,”un error original de los teóricos de la soberanía”57 —como lo llama
+Maritain, que desfigura o distorsiona a radice el sentido del poder político, al investirlo de una autoridad religiosa y sustraerlo a todo control. Se diría que la soberanía es una noción que propende en la práctica a volverse loca en la hybris de su
+desmesura58.
+
+Teología política, Madrid, Trotta, 2009, p. 37.
+Jean Bodin, De la République, París, Chez Jacques de Puys, 1583, I, cap. VIII, p. 122.
+54
+I, VIII, p. 124.
+55
+I, VIII, p. 156.
+56
+Jacques Maritain, El hombre y el Estado, Madrid, Ed. Encuentro, 1983, p. 48.
+57
+Ibíd., p. 49.
+58
+Ya en el plano antropológico, piensa Hanna Arendt que ha sido un grave error moderno identificar
+libertad con soberanía, pues ésto conlleva a una autocomprensión de la libertad como autarquía desligada, que contradice la precariedad de la existencia humana y su constitutiva versión a la pluralidad de los existentes (La condición
+humana, Barcelona, Paidós, 1996, p. 254). En cualquier caso, se trata para ella de una categoría “espúrea, si la reclama
+una realidad aislada, sea la individual de una persona o la colectiva de una nación”, aunque acepta que asume una
+cierta realidad limitada en el caso de muchos hombres recíprocamente vinculados por promesas (ibíd., p. 264).
+52
+53
+
+379
+
+
+
+Desde supuestos ideológicos distintos, viene a mostrar C. Schmitt que la
+categoría de soberanía, entendida como “poder supremo y originario de mandar”,
+como la define Bodino, se basa en el decisionismo. Una potestad soberana es precisamente la que puede decidir, precisamente en los casos excepcionales a los que
+ya no alcanza el derecho. Es esta situación límite la que nos revela el sentido
+genuino de la soberanía.“Soberano es —dice— el que decide sobre el estado de
+excepción (…) pues la decisión sobre la excepción es decisión en sentido eminente”59. Llegado el caso de extrema necesidad, no puede haber competencias estipuladas constitucionalmente que puedan regular esta situación extraña. La decisión
+soberana “cae, pues, fuera del orden jurídico normalmente vigente sin dejar por
+ello de pertenecer a él, puesto que tiene competencia para decidir si la Constitución
+puede ser suspendida in toto” 60. O, por decirlo, en otros términos, es soberano
+quien “asume el monopolio de la última decisión”61. Pero tal caso límite muestra el
+punto crítico en que “el derecho se suspende a sí mismo” o en que “el Estado suspende el Derecho por virtud del derecho a la propia conservación”62. Aquí se abre
+un desfondamiento del derecho remitiendo al acto soberano de voluntad de que
+emana, como ya ocurría en la teología, especialmente en la voluntarista u ockamista, con la potestas absoluta de Dios. El estado de excepción, que decreta el soberano, sería así equivalente analógicamente al milagro, que suspende las leyes de la
+naturaleza. Conclusión schmitttiana: “También el orden jurídico, como todo orden,
+descansa en una decisión, no en una norma”63.
+Se comprende la inquietud que tal tesis despierta en el racionalismo jurídico, que intenta a toda costa, mediante el Estado de derecho, neutralizar esta instancia volitiva decisionista. “Hay que eliminar radicalmente el concepto de soberanía”64 —afirma Kelsen. Pero el intento de hacer coincidir, como pretende, el Estado
+con el orden jurídico mismo,—situación análoga a la del racionalismo teológico que
+identifica la inteligencia de Dios con el mismo orden racional del mundo— se
+encuentra, en última instancia, le replica Schmitt con la aporía de no poder dejar
+de remitir el problema de la forma jurídica al fondo subjetivo, personal o social, o
+a la “realidad efectiva de la idea social”, de donde emana el derecho. No hay posibilidad de sustituir, según Schmitt, con un ordenamiento impersonal y abstracto este
+punto/límite, donde se escinde el fondo social de la forma jurídica:
+Acaso existen —piensa Schmitt— dos tipos de cientificidad jurídica que se pueden
+definir por la mayor o menor conciencia que se tenga de la peculiaridad normativa de la decisión jurídica. El representante clásico del tipo decisionista —si se me
+
+59
+60
+61
+62
+63
+64
+
+380
+
+Teología política, op. cit., p. 13.
+Ibíd., p. 14
+Ibíd., p. 18.
+Ídem.
+Ibíd., p. 16.
+Citado por Schmitt, ibíd., p. 24.
+
+
+
+permite emplear esta palabra— es Hobbes. La singularidad de este tipo explica
+también que se deba a él, antes que al otro tipo, la fórmula clásica de la antítesis:
+“auctoritas, non veritas, facit legem” 65.
+
+Dejando al margen, por no ser del caso, la discusión acerca de la validez
+de este doble paradigma, es decir si es la auctoritas o la veritas la que hace la ley,
+resulta evidente que se reproducen en estos planteamientos la situación histórica
+acerca del voluntarismo y el racionalismo teológico respectivamente. No se trata, a
+juicio de Schmitt, de meras reviviscencias, sino de “una analogía sistemática entre los
+conceptos teológicos y los jurídicos”66, ya señalada por Leibniz. Más allá de toda hermenéutica espiritualista o materialista de la cultura, se impone la evidencia, desde el
+punto de vista de la sociología de los conceptos jurídicos, de que la conceptualización de la monarquía absoluta expresa inequívocamente la metafísica teológica que
+le subyace. “La imagen metafísica que de su mundo se forja una época determinada
+—concluye Schmitt— tiene la misma estructura que la forma de organización política que esa época tiene por evidente”67. Tal presupuesto suministra claves decisivas
+en la historia de las formas del poder político. Permite entender no sólo la vinculación del teísmo con el derecho de la monarquía absoluta, pues ambos expresan la
+misma relación de “la trascendencia de Dios sobre el mundo o del soberano sobre
+el Estado”68, sino también la relación del deismo ilustrado, con su Dios inmanentizado en el orden natural, con respecto al liberalismo ( de Locke a Kant) del Estado
+de derecho, con la tesis de un “rey que reina, pero no gobierna”, tal como quiere la
+burguesía. “Su constitucionalismo liberal pretende paralizar al rey por medio del parlamento, pero sin quitarle del trono; la misma inconsecuencia comete al deísmo
+cuando tras de quitar del mundo a Dios, quiere mantener su existencia”69.
+La analogía entre teología y jurisprudencia puede perseguirse históricamete
+en otros contextos. Así, por ejemplo, en la identificación de eticidad y religión reformada en el Estado hegeliano, o ya, tras la disolución de la metafísica hegeliana del
+espíritu, en la vinculación de la filosofía política revolucionaria (Proudhon, Marx,
+Engel) con el ateismo, en cuanto negación de toda trascendencia; y, a parte contraria, en la contrarrevolucionaria (Bonald, De Maistre, Donoso Cortés) en un teísmo
+redoblado, supertranscendentalista, que apela a la autoridad de la tradición para justificar su resolución antirerrevolucionaria. Como comenta Schmitt, a propósito de De
+Maistre, “la infalibilidad constituye a sus ojos la esencia de la decisión inapelable;
+infalibilidad del orden espiritual y soberanía del orden político son esencialmente una
+misma cosa”70. Se diría que en su extrema aparición histórica en el conflicto entre
+65
+66
+67
+68
+69
+70
+
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+
+33.
+41.
+44.
+47.
+53.
+50.
+
+381
+
+
+
+revolución y contrarrevolución, la categoría de soberanía arroja todo su fondo decisionista. Así puede concluir Schmitt su Teología política:
+Los filósofos políticos contrarrevolucionarios deben precisamente su significación
+actual a su resolución para decidirse. Tanto exaltan el principio de la decisión, que
+a la postre se aniquila la idea de legitimidad que fuera su punto de partida71.
+
+Conclusión, en verdad, turbadora porque permite establecer que la soberanía, pensada en esta radicalidad decisionista, disuelve, a la postre, toda legalidad
+y legitimidad, y emparenta al poder soberano, mediante el arbitrio de la excepcionalidad, con la dictadura. O bien, sobre supuestos democráticos, con la otra dictadura colectiva, que proviene de la absolutización, contra el derecho, del principio
+de la mayoría. La ambigüedad del estatuto de soberanía se proyecta, al cabo, como
+ha hecho ver G. Marramao, en “la inexpugnable ambigüedad de toda la concepción
+filosófica schmittiana: la dimensión existencial antinormativa asignada a la decisión
+tiende, de hecho, a asumir —apoyada en Nietzsche y, quizás, en Stirner— unas
+veces un carácter nihilista de negatividad y falta de fundamento, que la coloca en
+una drástica ruptura con todas las tradicionales visiones sustancialistas y jerárquicas
+del orden, y otras veces un carácter de positiva radicalidad orientada a reafirmar
+la supremacía de la ‘existencia’ estatal y de su inalienable derecho de conservación”72. Pero, en el fondo, ambas dimensiones se hacen el juego, pues el decisionismo, en cualquiera de sus formas, en la medida en que menoscaba el derecho,
+va a la par con un refuerzo de la autoridad fáctica del Estado73.
+A este planteamiento schimittiano acerca de la teología política, al que llama
+Blumenberg “la forma más fuerte del teorema de la secularización”74, le dedica un
+capítulo en su obra, reduciéndolo a un “esquema metafórico” —del Dios todopoderoso al legislador omnipotente”— montado sobre una mera “analogía estructural” o,
+bien, de una mera “correspondencia especular entre el absolutismo teológico y el
+político”75. Blumenberg pasa por alto, en este contexto, la potencia heurística de la
+metáfora así como la fuerza de los argumentos analógicos, aunque no sean estrictamente probatorios. Pero, sobre todo, no repara en la categoría misma de soberanía
+y su inequívoca procedencia de la teología, así como en la transferencia o trasposición de la idea de corpus mysticum en la del cuerpo social76. Desde sus presupuestos ilustrados, se entiende que Blumenberg rechace el planteamiento decisionista
+
+Ibíd., p. 57.
+El cielo y la tierra, op. cit., p. 72.
+73
+Para una crítica, de base racionalista, a la postura de C. Scmitt, al margen del carácter secularizador de
+su tesis, puede verse de Jürgen Habermas, “La idea kantiana de la paz perpetua”, recogido en La inclusión del otro.
+Estudios de teoría política, Barcelona, Paidós,1999, pp. 179-188.
+74
+La legitimación de la Edad Moderna, op. cit., p. 93.
+75
+Ibíd., p. 94-96.
+76
+Véase a este respecto J.C. Monod, La querelle de la sécularisation, op. cit., p. 147.
+71
+72
+
+382
+
+
+
+schmittiano77, del que piensa que más que teología política es una teología como
+política, aun cuando, a mi juicio, los términos se podrían también invertir, históricamente, en una política como teología. Pero conviene recordar que lo que está en
+cuestión aquí no es el sentido y valor de la tesis política de Schmitt, sino su carácter y alcance genealógico propiamente dicho. En este sentido, lo único que se le
+ocurre a Blumenberg es proponer una inversión del propio método schmittiano,
+“interpretando la fenomenalidad teológica de los conceptos políticos como consecuencia de la cualidad absoluta de las realidades políticas”78. Sin embargo, cabe preguntar ¿por qué estas realidades al pensarse como absolutas, se invisten con una
+categoría teológica como la soberanía del poder creador? Y, por qué y de dónde la
+insistencia en presentar al soberano como imago Dei o al Leviatan como un “dios
+mortal”? ¿Son éstas meras metáforas (como si no pensáramos mediante ellas), o en
+ellas hay en juego una proyección de la vieja teología en la nueva entidad política
+secular? Ateniéndose al canon de Hobbes, piensa Blumenberg que “tampoco la secularización puede ser el resultado de una expropiación de substancias; se trataría —de
+nuevo según el modelo conceptual de Hobbes— de una integración del interés religioso en el interés público”79. Pero Blumemnberg no repara en si tal integración se
+ha hecho posible sobre la previa reducción de la categoría teológica del poder omnipotente en la secular del Estado soberano. Reclama, por lo demás, Blumenberg frente
+a Schmitt, que se trata, en su caso, de la legitimidad y no mera legalidad de la Edad
+Moderna. “La autoafirmación determinaría la radicalidad de la razón —dice— no su
+lógica. La idea de la época como una autofundación que arranca desde la nada, —y
+eso no significa precisamente una autohabilitación80— habría surgido por una necesidad extrema de autoafirmación81. Sin negar tal necesidad histórica de autofundarse
+la razón moderna frente a la teología, esto no significa que no proceda desde la teología misma, frente a la que se afirma, pues de lo contrario, con la ausencia de todo
+antecedente, se trataría más, como le critica Schmitt irónicamente, de una creación
+de la nada, en el sentido más crasamente teológico del término, o, dicho de otro
+modo, “stat pro ratione Libertas, et Novitas pro libertate” 82.
+
+77
+Igualmente se entiende que en su respuesta crítica, Schmitt subraye con ironía la contraimagen ilustrada
+de un Blumenberg extremadamente racionalista, que funda su Hombre nuevo en un acto autoproductivo de la mera
+razón (Teología política, Madrid, Trotta, 2009, pp. 132-133).
+78
+La legitimación de la Edad Moderna, op. cit., pp. 93-94.
+79
+Ibíd., p. 97.
+80
+Como le había reprochado críticamente Schmitt, indicándole que venía a confundir legitimidad con legalidad (Teología política, op. cit., p. 124).
+81
+La legitimación de la Edad Moderna, op. cit., p. 98.
+82
+Teología política, op. cit., p. 133.
+
+383
+
+
+
+4.3 La filosofía de la historia
+Por último, la tercera matriz se refiere a la filosofía de la historia. Ésta nace
+en la Ilustración, fundamentalmente en las obras de P. Bayle y Voltaire, vinculada a
+la idea de progreso, como construcción racional del curso de la historia por la diligencia y previsión humanas. “Hasta que los hombres se consideraron independientes de la providencia —ha escrito J.B. Bury— no fueron capaces de organizar una
+teoría del progreso”83. La categoría de providencia, si se exceptúa la pronoia estoica
+limitada al orden natural del curso del mundo, pertenecía a una historia de salvación, fundada en un pacto o alianza de Dios con su pueblo y en la garantía de que
+Dios era el valedor de su promesa. El profetismo judío, en sus críticas reformadoras al estado existente como en sus expectativas de un futuro mesiánico, era posible sobre la base y seguridad de esta alianza Con posterioridad, toda la teología cristiana de la historia desde san Agustín a Joaquín de Fiore o Bossuet descansa en
+este presupuesto, que, a su vez, se inserta en un designio divino cuyos actos fundamentales son la creación, la encarnación y la parousia final escatológica. Este
+acontecimiento definitivo, que consuma la historia de la salvación, es el que da sentido a la historia. Como escribe Karl Löwith:
+El futuro es el verdadero foco de la Historia, siempre que la verdad more en el
+cimiento religioso del Occidente cristiano, cuya conciencia histórica está ciertamente determinada por una situación escatológica, de Isaías a Marx, de san Agustín a Hegel y de Joachin (de Fiore) a Schelling (…) No solamente delimita este
+eschaton el proceso de la Historia como un fin; también lo articula y lo provee de
+un objetivo final84.
+
+Ahora bien, puesto que la creencia en la providencia implica una confianza
+en un plan y designio de la historia, dependiente de la voluntad de Dios, el hombre
+no estuvo en condiciones de asumir la responsabilidad de su presente hasta tanto se
+fue desvaneciendo esta confianza. Lo paradójico del caso es que, como señala Karl
+Löwith, “al final, sin embargo, la misma doctrina del progreso tuvo que asumir las funciones de la providencia, esto es, prever el porvenir y preparase para él”85. Aunque
+la fe en el progreso se basaba en el depósito de la nueva experiencia acumulada por
+la ciencia y el trabajo y la propia madurez de la conciencia histórica, al proyectarse
+ésta hacia el futuro tenía que reincidir o reproducir esquemas básicos de inspiración
+cristiana. Blumengerg la toma como un ejemplo típico de trasposición o traslocación:
+La idea de progreso fue empujada a una generalización que sobrecarga su volumen de enunciados, al principio regional y vinculado a cosas concretas. Como una
+
+83
+84
+85
+
+384
+
+Apud Karl Löwith, El sentido de la historia, Madrid, Aguilar, 1956, p. 90.
+Ibíd, p. 34.
+El sentido de la historia, op. cit., p. 90.
+
+
+
+de las respuestas posibles a la cuestión sobre la historia en su conjunto, se la introdujo en una función de la conciencia que antes había desempeñado el marco de
+la historia de la salvación, desde la creación hasta el Juicio Final. No dejó de tener
+consecuencias que esta labor explicativa exigiera demasiado a su racionalidad86.
+
+Esta “demasía” consiste en concebir el sentido del acontecer histórico
+desde la anticipación en expectativa de un fin o meta del transcurso. La confianza
+escatológica se torna ahora en la confianza secular en una civilización que reposa
+en el poder de la ciencia, de la moral, del derecho, de la industria, para reformar
+la vida. Según la postura secularista de Voltaire, “el objeto y el significado de la Historia es la perfección de la condición humana, valiéndose de nuestra propia razón,
+convirtiendo así al hombre en menos ignorante, ‘mejor y más feliz’”87. La fe en el
+futuro depende, pues, de la potencia expansiva de un presente, lleno de posibilidades.
+La orientación hacia el futuro se hizo más apremiante en aquellas filosofías de la praxis histórica, de base naturalista pero de intención utópico/revolucionaria, que siguieron a la quiebra del hegelianismo. Como señalé
+antes, Hegel había represado el futuro al entenderlo como el desarrollo interno del
+presente absoluto del mundo moderno. La visión cristiana de Joaquín de Fiore de
+los tres reinos o épocas —el del Padre, el del Hijo y el del Espíritu— estaba ya
+cumplida para Hegel en el reino de la reconciliación definitiva del espíritu consigo
+mismo mediante el Estado constitucional moderno, donde se aúnan la religión, la
+eticidad y el espíritu absoluto. Pero el descubrimiento por los jóvenes hegelianos
+de la “miseria del presente” desencadenó una orientación decisiva hacia el futuro
+como un novum, que suponía un corte radical con toda historia precedente. Feuerbach fue el filósofo que realizó este corte con la vieja filosofía idealista, inspirada
+secretamente en la teología. Frente a la posición conservadora hegeliana de un presente viviente, en cuya memoria se guardan o conservan los espíritus del pasado,
+Feuerbach toma una decisión antiespeculativa sobre la base de un nuevo naturalismo antropológico. “¿De qué lado se encuentra la exigencia auténtica?” —se pregunta en la “Necesidad de una reforma de la filosofía”:
+Del lado que encierra la exigencia del porvenir, que representa la marcha hacia
+delante. La exigencia de conservación no es más que una exigencia artificial y fáctica: no es más que reacción. La filosofía hegeliana no fue más que la síntesis arbitraria de diversos sistemas existentes, insuficientes, pero sin fuerza positiva, por
+carente de negatividad absoluta. Sólo posee la potencia de crear de nuevo aquel
+que tiene el coraje de ser absolutamente negativo88.
+
+86
+87
+88
+
+La legitimación de la Edad Moderna, op. cit., pp. 56-57.
+Ibíd., p. 155.
+Manifestes philosophiques, ed. de L. Althusser, París, PUF, 1960, p. 97.
+
+385
+
+
+
+De Feuerbach a Proudhon o Marx, toda la filosofía de la praxis revolucionaria ha acentuado el principio de la negatividad dialéctica, pero compensándola,
+a la vez, con el anticipo utópico de un fin o sentido de la historia. Las utopías seculares muestran así una profunda afinidad con el profetismo judaico y la escatología
+religiosa, aun cuando tengan que presentar el fin como el cumplimiento inmanente
+de una razón crítica y constructiva inmanente al propio proceso histórico. Incluso
+la filosofía de la historia de Comte, de base positivista y de sentido conservador, no
+renuncia a formular la tesis de una marcha regular y progresiva de la historia, a través de diferentes estadios, —de la teología a la metafísica y de ésta a la edad positiva—, fundada en la potencia liberadora y educadora del método científico. A mi
+juicio, lleva razón Löwith cuando se atreve a asegurar que “la concepción escatológica del Nuevo Testamento ha abierto la perspectiva de una consumación final,
+originalmente más allá, y al fin, dentro de la existencia histórica. Por consecuencia
+de la conciencia cristiana, nosotros poseemos una conciencia histórica, tan cristiana
+por derivación como no cristiana por consecuencia”89.
+Esta última expresión “cristiano por derivación y anticristiano por consecuencia” marca bien la paradoja de la secularización90, que en su transposición de
+categorías teológicas en el nuevo marco de una filosofía racional de la historia, acaba
+disolviendo el propio antecedente o absorbiéndolo en un nuevo nivel de conciencia. Ciertamente Löwith no asume filosóficamente esta perspectiva secularizadora,
+que se limita a exponer, en la convicción de que es fruto de una confusión decisiva
+entre “aconteciminentos redentores y acontecimientos profanos, entre la historia de
+la salvación (Heilsgeschehen) y la historia universal (Weltgeschichte) científica”, lo
+que da título a su libro. Pero se trata de una confusión, que perdura aún en la cultura de Occidente. “La mente moderna aún no ha decidido en realidad si ha de ser
+cristiana o pagana”91 —escribe. En lo que a él respecta, el fracaso de las filosofías utopistas de inspiración escatológica le lleva a romper con el esquema del tiempo lineal
+progresivo y a propiciar la visión nietzscheana circular del “eterno retorno”.
+
+5. EL GIRO RADICAL DE BLUMENBERG
+Y con esto topamos con la cuestión decisiva planteada por Blumenberg:
+el carácter “derivado” de la categoría de secularización, en cuanto supone una procedencia del ámbito teológico, transferida luego al ámbito profano. Es a lo que
+llama Blumenberg el “trasfondo metafórico”92 del término, que, a su juicio, no per-
+
+El sentido de la historia, op. cit., pp. 283-284.
+“El mundo moderno es cristiano y anticristiano a partes iguales, porque es el resultado de un incesante
+proceso de secularización” (ibíd., p. 289).
+91
+Ibíd., p. 298.
+92
+La legitimación de la modernidad, op. cit., p. 30.
+89
+90
+
+386
+
+
+
+mite una identificación estricta y rigurosa del concepto; a lo más, aporta meras “analogías estructurales” entre ambos órdenes, pero que no van al fondo de la cuestión.
+En efecto, si se parte del supuesto de una enajenación del contenido, originariamente teológico, ésto obliga a la modernidad a entenderse a una luz, que ella no
+aporta por sí misma. En discrepancia con H.G. Gadamer, cree Blumenberg que la
+referencia a un “sentido oculto” de procedencia, en que insiste la hermenéutica
+secularizadora, donde estaría la clave de comprensión de la modernidad, devalúa
+la autocomprensión histórica que ésta tiene de sí misma, al rebajarla en su alcance
+como “algo superficial y aparente”93, y hasta la carga con un sentido de culpa por
+el violento despojo a la teología.
+
+5.1. La autoafirmación de la razón
+Para Blumenberg, se trata, por el contrario, de subrayar los factores originarios del mundo moderno como una nueva fundación sobre motivos inmanentes
+a la autoconciencia del hombre, en cuanto fundamentum inconcussum veritatis, lo
+que supone una alternativa radical a la fe cristiana. Es la “revolución copernicana”,
+con expresión de Kant, retomada por Blumenberg, para designar la autoafirmación
+(Selbstbehauptung) cultural de un sujeto soberano, que inaugura un proceso de
+“desencantamiento del mundo”, según la terminología ya clásica de Max Weber,
+sobre nuevas bases antropológicas y el nuevo concepto de “racionalidad”, que le proporciona la ciencia:
+La autoafirmación significa un programa existencial, donde el hombre inserta su
+propia vida en una situación histórica concreta y donde él se hace su propio
+esbozo sobre cómo quiere acometer esta tarea y aprovechar sus posibilidades dentro de la realidad circundante94.
+
+Para cultivar la sensibilidad indagatoria, de que había de surgir la nueva
+ciencia, fue indispensable un proceso humanista, que transcurre desde Petrarca a
+Leonardo de Vincci, Francis Bacon y Galileo, de rehabilitación de la curiositas, que
+había sido condenada teológicamente a lo largo de la Edad Media, por ociosa y
+nociva, —la concupiscentia oculi o la libido sciendi, típica del gnosticismo, contra
+la que habían luchado los apologistas y el propio san Agustín, y que, en cambio,
+ahora, con el fervor humanista, se convierte en un arma poderosa para la indagación y experimentación en el mundo:
+Una rehabilitación de la curiositas sólo podía depender de que fuera posible quitar de ella esa tacha de que se preocupa de lo superficial. Había que asociarla con
+93
+94
+
+Ibíd., p. 25.
+Ibíd., p. 136.
+
+387
+
+
+
+las preocupaciones humanas centrales. Pero el supuesto de esto pasaría por la
+disolución, gracias a una nueva concepción, de aquella lucha competitiva entre la
+necesidad de saber y el cuidado por la salvación95.
+
+Ahora bien, esta liberación de la curiositas de su estigma medieval como
+un vicio tentador, necesitaba de dos condiciones o supuestos que iba a aportar la
+teología ockamista. De un lado, que “el cuidado por la salvación del alma fuera
+sustraído, en gran parte, al ámbito donde el propio hombre puede disponer de sí
+mismo”, puesto que la salvación comenzó a depender para el ockamismo de una
+inescrutable designio de la divinidad, y del otro, que “el mundo como creación ya
+no puede ser referido al hombre como una expresión de la providencia divina”96.
+No era ya mundo para el hombre, sino un modo “hermético y mudo”, tan secreto
+e inescrutable como la propia voluntad de Dios. Blumenberg atribuye una gran
+importancia al papel jugado en ambos supuestos en la Baja Edad Media, por la teología ockamista, en este proceso de liberación de la imagen medieval del mundo,
+aun cuando su aportación fuera meramente desbloqueadora. Con su absolutismo
+teológico, cifrado en la voluntad secreta, omnipotente e incomprensible de Dios, el
+ockamismo iba a barrer de la escena las categorías esencialistas de la física aristotélica y despejar el horizonte para nuevas aventuras intelectuales. Este Deus absconditus, impenetrable en sus designios, produjo una nueva relación del hombre con
+el mundo, piensa Blumenberg, “como si Dios estuviese muerto”, y dejara al hombre
+en la extrema necesidad de tener que buscar por sí mismo la certeza acerca de su
+mundo. De este modo, paradójicamente,
+La exacerbación de la teología hasta su grado máximo frente a la razón tuvo como
+resultado, no deseado, reducir a un mínimo la participación de la teología en la
+explicación del mundo, preparándose así la competencia que pronto le iba a hacer
+la razón, como órgano de una nueva cientificidad, liberada de la tradición97.
+
+La posterior canalización de la curiositas en el método científico, tanto en
+Bacon como en Galileo, va a determinar el nuevo órgano del saber, como la ayuda
+indispensable ante los nuevos requerimientos. Es la “nueva seriedad” que sobreviene al hombre cuando comprende que su relación con el mundo depende enteramente de sus fuerzas, pues “los condicionamientos metafísicos no lo dejan ninguna salida ni hacia fuera ni hacia dentro”. Se diría que en esta situación, desasistido
+de toda apoyatura, el hombre se vió forzado a crear el mundo de nueva planta, es
+decir, a una autofundación originaria de la verdad. En todo este contexto, la obra
+de Copérnico fue realmente decisiva por haber establecido con su nuevo sistema
+
+95
+96
+97
+
+388
+
+Ibíd., p. 347.
+Ídem.
+Ibíd., p. 349.
+
+
+
+“una nueva exigencia de verdad de carácter universal”98, para la que ya no hay límites
+infranqueables para la penetración en “lo invisible del interior del mundo”. De aquí
+arranca la nueva cosmología, que va a consumarse en la mecánica celeste de Galileo y Newton. Como subraya Blumenberg, “el significado de la exigencia copernicana de verdad sólo iba a comprobarse y confirmarse cuando Galileo y Newton se
+desprendan de la física aristotélica e introduzcan la mecánica en los cálculos anticipatorios correspondientes al cosmos”99. Fue precisamente Giordano Bruno, a quien
+toma Blumenberg por “el metafísico del copernicalismo”, el que sacó, a partir de
+Copérnico, la conclusión de la existencia de infinitos mundos posibles, tesis que
+entrañaba consecuencias corrosivas para la teología, y muy especialmente, para el
+dogma de la encarnación.
+
+5.2. El gesto heroico de Descartes
+Ahora bien, aun cuando el nuevo comienzo procede de la ciencia y es
+cosmológico en su base, la justificación última del mismo se la va a dar la metafísica de Descartes. A juicio de Blumenberg, donde más fácilmente se percibe el tránsito del absolutismo teológico al nuevo comienzo es en la posición cartesiana. La
+hipótesis del genio maligno (el deus fallax), experimento inspirado en el Dios
+voluntarista del ockamismo, significa en la experiencia de Descartes precisamente
+una instancia absoluta, que no sólo fuerza a una duda universal acerca de la verdad, sino a través de ella, a la búsqueda de certeza, de un punto inexpugnable en
+que poder asegurarse. Es a lo que llama Blumenberg “la heroicidad de Descartes”.
+Al hacer del cogito, de la autoconciencia, el fundamentum inconcusum veritatis,
+Descartes inicia el gesto de la emancipación definitiva de la razón. En términos de
+Blumenberg, “Descartes ha borrado y negado cuidadosamente los vestigios de su
+trasfondo histórico, a fin de construir el mito del comienzo radical de la razón”100.
+Un nuevo sentido de libertad entra en juego: el no “dejarse engañar” y el poder asegurarse de las condiciones en que descansa el nuevo mundo. Con este giro, el absolutismo teológico del Dios inescrutable del ockamismo deja paso al absolutismo de
+la razón, que en su inmanencia, tiene en la evidencia de su acto la garantía de toda
+verdad. Como escribe Blumenberg, “la Edad Media tocaba a su fin cuando, dentro
+de su sistema conceptual, ya no era posible seguir sosteniendo la credibilidad del
+carácter providencial de la idea de creación, circunstancia que hacía cargar sobre
+el ser humano todo el peso de su autoafirmación”101. De ahí que, sobre esta nueva
+base, la modernidad constituya, a juicio de Blumenberg, la superación verdadera del
+gnosticismo, después de la primera y fallida superación de la gnosis por el agusti-
+
+Ibíd., p. 363.
+Ídem.
+100
+Ibíd., p. 185.
+101
+Ibíd., p. 136.
+98
+99
+
+389
+
+
+
+nismo, pues no se trata, en el comienzo de la modernidad, de cargar sobre el hombre la responsabilidad del mal en el mundo, como hizo Agustín, sino la responsabilidad por la misma suerte del mundo, edificado de nueva planta:
+La desaparición del orden viene vinculada, a su vez, con un nuevo concepto de la
+libertad humana. Pero la carga que corresponde llevar en este caso al hombre es
+de una naturaleza distinta a la impuesta por Agustín. Se trataría de una responsabilidad por el estado del mundo, como una exigencia que apunta hacia el futuro,
+y no como producto de una culpa originaria del pasado102.
+
+Ahora, en virtud del poder de la razón, ésta se hace cargo del nuevo orden
+del mundo, que ella instaura, y en lugar del punto de fuga de la esperanza humana
+en un más allá del mundo, como ocurría en la antigua gnosis salvadora, es la propia libertad del hombre la que está en condiciones de aceptar su plena responsabilidad por la marcha del mundo y de su historia.
+Y, sin embargo, el gesto heroico con que se describe la fundación cartesiana deja ver la rivalidad que está en juego. Sostiene Blumenberg que el aire a primera vista secularizador de ciertas fórmulas modernas se debe a que sus afirmaciones responden a cuestiones planteadas con anterioridad por la tradición teológica
+premoderna, —“la Edad Moderna se hizo cargo de una serie de problemas, como
+si éstos hubieran sido dejados a su propia suerte”103—. Pero hay algo más, desde el
+punto de vista formal: era también “la respuesta a un reto, y la respuesta debía
+hacer algo absoluto porque el reto era absoluto”104. El hecho de que las nuevas fórmulas afronten este reto, dejándose tomar por la lógica de sus cuestiones planteadas, y se hagan valer competitivamente contra ellas, sustituyendo las antiguas tesis
+teológicas, esto es, poniéndose en su lugar, indica ya en qué medida estaban incursas en el juego equívoco de la secularización. Blumenberg se hace cargo de la cuestión y hasta lo consigna, eso sí, reduciéndola en su alcance:
+Lo que ha ocurrido, en la mayoría de los casos —con pocas excepciones e recognoscibles y específicas, al menos hasta ahora— en el fenómeno interpretado como
+una secularización no puede ser descrito como una trasposición de contenidos
+auténticamente teológicos, en un proceso de autoenajenación a lo secular, sino
+como una sustitución de determinadas posiciones, que han quedado vacantes105.
+
+Me pregunto cómo una fórmula puede sustituir a otra, ocupando su lugar,
+es decir, la economía de su función, sin mantener alguna afinidad con ella, sea fun-
+
+102
+103
+104
+105
+
+390
+
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+Ibíd., p.
+
+135.
+56.
+68.
+71.
+
+
+
+cional o categorial. Blumenberg lo viene a reconocer indirectamente: “O sea que la
+Edad Moderna tuvo que fracasar porque la idea de empezar de nuevo a partir de ella
+estaba en la misma línea de continuidad funcional de la lógica del reto y la autoafirmación de lo anterior”106. Sin embargo, esta continuidad funcional, a mi juicio,
+parece conllevar también, en varia medida, otra continuidad categorial, heredada
+del planteamiento teológico, como documenta la historia de las ideas y la propia
+wirkungsgeschichte de la teología. Y esta transferencia afecta nada menos, aunque
+Blumenberg no repara en esta problemática, que a la misma tesis central de la fundación cartesiana. Pero esto implica que la misma categorización metafísica del fundamento incondicionado, con que la teología pensaba el fundamento teológico del
+mundo, se traspasa o transfiere al nuevo sujeto fundador. Martín Heidegger, en su
+interpretación de Descartes, ha hecho notar cómo la antigua cuestión de la justificación, relativa a la economía salvífica, se convierte en la modernidad en la nueva
+autojustificación del cogito a partir de sí mismo:
+Al comienzo de la Modernidad vuelve a despertar la cuestión de cómo el hombre,
+en la totalidad de lo ente, lo que equivale a decir ante el fundamento más ente de
+todo lo ente (Dios) puede ser y estar cierto de su propia permanencia y estabilidad, esto es de su salvación. Esta cuestión de la certeza de la salvación es la cuestión de la justificación, es decir, de la justicia (iustitia) 107.
+
+¿Cómo se lleva a cabo esta metamorfosis secularizadora? En virtud del
+giro cartesiano a la inmanencia, la autocerteza del cogito, en calidad de subiectum
+(lo que está debajo), que sostiene como un atlante el nuevo mundo, hereda la función que correspondía en la metafísica cristiana al fundamento divino del mundo.
+“Con la proposición cogito sum —precisa Heidegger— se da una nueva determinación de la esencia del ‘fundamento’ y del ‘principium’. Fundamento y principium es
+ahora el subiectum en el sentido del representar que representa”108. La subjetualidad
+de la sustancia infinita aparece ahora, traspuesta de sitio, pero no de función, metamorfoseada en la subjetividad de la mente concipiente. “Pero si el hombre se convierte en el primer y auténtico subiectum, ésto significa que se convierte en aquel
+ente sobre el que se fundamenta todo ente en lo tocante a su modo de ser y su verdad”109. Con ello, toda la ontoteología clásica —el saber del todo de lo ente desde el
+ente supremo—, se conviertem ahora en el saber con que el cogito se asegura del
+mundo como un todo a partir de los principios de su constitución. En virtud de este
+giro, la antigua economía de la gracia y la justificación se trueca en la moderna autojustificación del sujeto por sí mismo. De ahí que pueda concluir Heidegger:
+
+106
+107
+108
+109
+
+Ibíd., p. 68.
+Holzwege, op. cit., p. 226; trad. esp., p. 221.
+Nietzsche, II, Neske, Pfullingen,1961, p. 167; trad. esp., p. 139.
+“Die Zeit des Weltbildes”, en Holzwege, op. cit., p. 81; trad. esp., p. 87.
+
+391
+
+
+
+En la esencia de la verdad como certeza, pensada ésta como verdad de la subjetividad, y ésta como el ser de lo ente, se esconde la justicia experimentada a partir
+de la justificación de la seguridad110.
+
+En suma, la modernidad puede ser pensada como una Antropodicea, en
+que el hombre lleva a cabo el programa integral de su justificación como ser activo
+en el mundo que imparte la nueva justicia objetiva, en la medida en que el sujeto
+moderno, crecido con la absorción de la idea de lo divino, ha ocupado el lugar
+mismo de la fundamentación ontoteológica sustituyéndola por otra de carácter
+ontopraxeológico. Pero no es sólo el discurso fundacional de la filosofía. Hasta la
+misma actitud de la ciencia moderna con su proyecto matemático de organización
+sistémica del orden objetivo, a la que apela constantemente Blumenberg como el
+modelo de la nueva pretensión de verdad, remite como a una de sus posibles raíces (aparte de otros posibles condiciones como el progreso de la curiositas), a la
+conciencia cristiana de la trascendencia absoluta del hombre con respecto al
+mundo de las meras cosas, en cuanto partícipe del poder creador de Dios En virtud de esta trascendencia con respecto a un mundo creado, puede el hombre oponerse al mundo, objetivarlo, como mero término de su indagación y hasta intentar
+someterlo a la orden de su voluntad. Y desde luego, en los proyectos fundacionales del nuevo órgano, tanto en Bacon como en Descartes suena inequívocamente
+la pretensión de ser “señores y dominadores” de la naturaleza como un eco del
+mandato divino. Un cuadro completo de todas estas transformaciones, cuando la
+economía de la certitudo salutis cambia de sentido, al ocupar la autoconciencia el
+lugar del fundamento, nos arroja, según Heidegger una imagen de la envergadura
+del proceso secularizador en la cultura moderna:
+En el lugar de la desaparecida autoridad de Dios y de la doctrina de la Iglesia,
+aparece la autoridad de la conciencia, asoma la autoridad de la razón. Contra ésta
+se alza el instinto social. La huída del mundo hacia lo suprasensible es sustituida
+por el progreso histórico. La meta de una eterna felicidad en el más allá se transforma en la de la dicha terrestre de la mayoría. El cuidado del culto de la religión
+se disuelve a favor del entusiasmo por la creación de una cultura o por la extensión de la civilización. Lo creador, antes lo propio del dios bíblico, se convierte en
+distintivo del quehacer humano. Este crear se acaba mutando en negocio111.
+
+Y no sólo en el comienzo. Tanto el idealismo alemán como la misma Ilustración, si se exceptúa su línea más crudamente naturalista, persisten en la tarea de
+ocupar el lugar vacío de lo absoluto con la instauración de nuevos valores e ideales, que se enmascaran con el brillo y la majestad de lo divino. A mi juicio, resulta
+
+110
+111
+
+392
+
+“Nietzsches Wort ‘Gott is tot’”, en Holzwege, op. cit., p. 226; trad. esp., p. 221.
+Ibíd., p. 203, trad. esp., pp. 199-200.
+
+
+
+innegable que la historia del pensamiento moderno está jalonada con fórmulas que
+denuncian inequívocamente su procedencia teológica, ya se entienda la secularización (pues el proceso se puede interpretar de modo ambiguo) como mundanización
+de la fe, en sentido hegeliano, o como un asalto o expropiación de lo divino por
+parte de la razón, en cuanto restitución humanista de lo que antes se le había enajenado al hombre por la teología. La ambigüedad de la propia categoría se verifica
+en su uso histórico. Como señala Jean-Claude Monod, “el recuerdo de los usos de
+la secularización en el seno del pensamiento alemán de la historicidad muestra en
+efecto que la noción ha sido empleada con intenciones opuestas: por el idealismo
+alemán para dar curso a representaciones cristianas en el lenguaje de la racionalidad
+filosófica, así como también por sus adversarios más decididos con el fin de destruir
+los restos de cristianismo en el pensamiento pretendidamente secularista”112.
+
+5.3. A vueltas con el litigio
+Según ha mostrado la historia, la cuestión de la modernidad se ha jugado
+en el marco de este litigio o encuestamiento permanente entre la fe y la razón; un
+litigio que la Ilustración, (uno de cuyos últimos exponentes es el libro de Blumenberg) creyó haber resuelto con su crítica, cuando no hizo más que ahondarlo en su
+planteamiento. Por mor de esta dialéctica, en la medida en que la teología representaba el absolutismo de un saber de raíz revelada que no dejaba subsistir otro cabe
+ella, el nuevo comienzo en la ciencia “tenía que entrar necesariamente en conflicto
+con esta pretensión de ser algo nuevo y definitivo”. Así lo cree Blumenberg,
+en cambio el carácter definitivo de la autocomprensión cristiana tenía que tratar de
+afirmarse negando la posibilidad de autenticidad a todo acto de fundación histórica de este tipo, obligándole con ello a un uso ilegítimo de una verdad que el cristianismo consideraba propiedad suya113.
+
+Sin embargo este aserto es discutible desde el punto de vista de la teología cristiana como hemos visto en Hegel, al entender la mundanización como un
+fruto del cristianismo protestante114. Ahora bien, si se parte de un absolutismo de la
+fé, la nueva Edad tenía que surgir, en correspondencia y réplica al mismo, como una
+ruptura con las bases teológicas:
+
+La querelle de la sécularisation, op. cit., p. 282.
+Ibíd., pp. 79-80.
+Extraña y sorprende, a la vez, que Blumenberg en ningún caso se hace cargo de la posición de Hegel,
+aun cuando en ella está la matriz histórica de la idea de secularización. Pasarla por alto es un cómodo expediente de
+quitarse de en medio el nudo decisivo de la cuestión. Y, con ello, que la modernidad, entendida hegelianamente, ha
+sido, en gran parte, la gran gnosis asimiladora del cristianismo.
+112
+113
+114
+
+393
+
+
+
+Se haría sospechosa la adquisición intelectual mediante algo así como un traspaso,
+en el sentido más amplio del término. Esto pertenece también al complejo de cosas
+que tienen que ver con la autoafirmación de la razón, que se opone aquí a una
+agudización extrema del factor gracia en la teología y sus equivalentes filosóficos
+(desde la illuminatio hasta el concursus). Su postulado es la autopropiedad de la
+verdad mediante la autoproducción de la misma. El saber mediante la mera enseñanza se convierte en una forma derivada del saber proveniente de la posesión de
+la verdad, que todo sujeto racional podría hacer suya mediante su propia labor cognoscitiva115.
+
+En este punto, se deja ver meridianamente el origen de la actitud ilustrada
+de Blumemnberg contra semejante pretensión por parte de la revelación. El temor
+confesado de Blumenberg reside en que,
+utilizando esta categoría de la secularización, la comprensión histórica ingresaría
+en el campo de la autointerpretación de la religión como un privilegio de la verdad. Asumiría el establecimiento —vinculado necesariamente con la pretensión de
+la revelación—de un conocimiento sin presupuestos inmanentes y que no puede
+ser fundamentado a partir de la historia. Tal comienzo no sólo indicaría una nueva
+formación histórica, sino incluso la definitiva116.
+
+A mi juicio, Blumenberg exagera este temor porque cree que, supuesta la
+anterioridad de la religión, en cuanto matriz de procedencia, y su pretensión de
+verdad originaria o revelada, se pone en riesgo la propia legitimidad de la fundación moderna de la razón. Yo no comparto este temor. Ha sido un destino histórico ineliminable que la cultura moderna haya sido precedida por la fe cristiana, y
+en cierto modo, hasta inducida por ella, como, por regla general, la religión ha sido
+matriz de cultura, y querer desconectar de este destino es un camino abocado al fracaso117. Obviamente Blumenberg no ignora este pasado efectivo, pero neutraliza su
+influjo genealógico. Sin embargo, ésto no entraña que tal precedencia, ni incluso
+siquiera la procedencia de ciertas categorías seculares a partir de una matriz teológica, ponga en cuestión, como teme Blumenberg, la legitimidad de la propia fundación racional. La autonomía de la razón es un factum de la modernidad imprescriptible, y lo seguiría siendo, aun cuando la categoría de autonomía tuviera raíces
+teológicas. Una verdad, más aun, toda verdad, incluso la verdad revelada, por muy
+originaria que sea, sólo es propiamente tal verdad cuando es admitida y reconocida
+por el hombre, en virtud de su propia condición de ser racional, supuesto indecli-
+
+La legitimación de la edad moderna, op, cit., p. 78.
+Ibíd., p. 79.
+117
+Como advierte J.C. Monod, “la categoría de secularización permite tomar acta de ciertas supervivencias,
+positivas o negativas, y de restituir al presente su profundidad histórica sin reducir su relato (récit) al acontecimiento
+de la razón triunfante” (La querelle de la sécularisation, op. cit., p. 288).
+115
+116
+
+394
+
+
+
+nable incluso para que, si Dios habla al hombre, éste pueda entenderlo. Aun cuando
+esta inteligencia no fuera meramente reduccionista, incluso aun cuando supusiera,
+en última instancia, una apertura de la inteligencia al sentido espiritual originario de
+lo que así interpela al hombre, sin el presupuesto de su autonomía, es decir, de su
+capacidad de traer la verdad pretendidamente objetiva al fuero de su propia conciencia y asegurarse de ella discursiva y dialógicamente, no podría hablarse con
+sentido de una verdad para el hombre118. De ahí que en el planteamiento último del
+problema, Blumenberg no deja de llevar razón aun en contra de su propia tesis,
+pues, a fin de cuentas, la legitimidad de la Edad Moderna no reside en estos préstamos secularizados, sino en el modo en que la razón moderna los hace valer frente
+a la antigua economía, o por decirlo de otro modo, en que los reacuña desde la
+nueva pretensión de verdad en la autoconciencia. En ésta reside el nuevo principio. Ella no se entiende a otra luz que no hubiera brotado de sí misma, aun cuando
+sus claves acerca de la verdad procedan de presupuestos teológicos, con los que
+tiene que habérselas críticamente.
+
+5.4. A modo de balance
+Como fruto de la reflexión histórica, cabe concluir, a tenor de lo que ha
+venido siendo la historia efectiva de Occidente, que el mundo moderno no puede
+equipararse en exclusiva ni a la mundanización del espíritu cristiano, como creía
+Hegel, ni a la descristianización en que pensaban Feuerbach, Marx y Nietzsche. Ha
+habido lo uno y lo otro con distinto alcance. En un juicio sumarísimo, podría decirse
+que la secularización como mundanización de la fe ha tenido efectos culturales
+positivos en la emancipación de la conciencia, y ha contribuido eficazmente a la formación de estructuras racionales de convivencia, mientras que la descristianización,
+por el contrario, ha socavado actitudes y valores éticos decisivos. Por lo demás, ni
+una ni otra han acabado con el hecho religioso. La secularización ha operado más
+bien, como señala Monod, como una “neutralización con vistas a la constitución de
+una ciudad que favorezca la determinación más libre posible de las formas de vida
+y de creencias”119. Ambas dimensiones pues, la razón autónoma y la fe, se mantienen vivas y se mantendrán en una confrontación y fecundación permanente. Ni la
+verdad revelada puede ignorar la necesidad de tal reconocimiento, enrocándose en
+un saber místico, extraño y enemigo de la razón, ni la razón ignorar el permanente
+desafío y provocación que le viene de parte de la fe cristiana. Si se ignoran recíprocamente, la fe se vuelve devoradora de todo saber, de todo humanismo, y la racio-
+
+118
+Esto no prejuzga que la verdad revelada tenga que ser forzosamente reducida en su asimilación, sino
+que la inteligencia, para no ser previamente reducida teológicamente, tiene que esclarece desde sí y por sí el modo de
+su propia apertura a lo otro de sí. Sin este presupuesto autónomo, ya no es posible el diálogo, pues se le pide de entrada
+su propio sacrificio.
+119
+Ibíd., pp. 290-291.
+
+395
+
+
+
+nalidad moderna, por su parte, se convierte en una nueva gnosis antirerreligiosa o
+en una especie de religión política secularista120. La lección que hemos aprendido de
+la historia del pensamiento occidental es evitar encallarnos en planteamientos dilemáticos de este género. Lo que ha significado históricamente la secularización, desde
+el punto de vista sociopolítico, no ha sido el triunfo de una nueva religión civil, sino
+la neutralización en el espacio político institucional de las creencias religiosas, para
+dejarlas competir y dialogar en la sociedad civil como estímulos poderosos de motivación ética. Y en el teorético, hemos aprendido de la modernidad la lección del diálogo como forma de racionalidad discursiva, lo que conlleva algo análogo, a saber,
+que una razón que se sabe metodológicamente finita y que, por los mismo, no puede
+cerrarse sobre sí misma en un sistema absoluto, y una fe cuya vocación encarnatoria le exige una presencia efectiva en el seno del mundo tienen que mantenerse en
+una confrontación permanente, tratando de tocarse el alma, de fecundarse y estimularse, sin poder exigirse recíprocamente ni el sacrificio del entendimiento indagador
+ni tampoco el del corazón, que aspira a estribar en la esperanza.
+Por otra parte, la esencial ambigüedad del fenómeno de la secularización
+no deja de tener también rendimientos positivos. Vista desde el cristianismo, si de
+un lado aparece negativamente como pérdida de la influencia histórica de las instituciones religiosas en el mundo, del otro, en su cariz positivo, significa un acrisolamiento y depuración de lo espiritual en su apelación a la conciencia humana sin
+mediaciones de poder eclesiástico o civil, con lo cual gana capacidad para el diálogo
+con la secularidad. Como ha señalado J. Martín Velasco, “se trata de entender la secularización, no como pérdida del sentido de lo religioso, sino como la transformación
+de sus formas de presencia social”121. En correspondencia, se produce paralelamente
+una ambigüedad de parte del saeculum, pues visto positivamente representa la conquista de su autonomía y de su propia verdad, pero visto negativamente representa
+la necesidad de legitimarse ante y frente a la religión, que lo interpela, ya sea en una
+crítica radical de la misma o bien en la búsqueda de un posible entendimiento con
+ella. No quisiera, sin embargo, acabar dando una imagen irenista. Como ha señalado
+Juan Antonio Estrada, lo más grave del problema de la secularización no tiene que
+ver con su aspecto sociológico o político, sino con su otra cara de descristianización,
+hoy ya masiva, y no sólo entre élites culturales, en una época en que “declina la búsqueda de Dios y se pierden valores y criterios que forman parte esencial de la tradición humanista y de la civilización occidental”122. Es la fase del nihilismo, que plantea desafíos más apremiantes y totales a la conciencia religiosa e incluso a la propia
+Ilustración123. No obstante, no está de más recordar que, para la conciencia creyente,
+
+120
+Como sostiene Jean-Claude Monod, “precisamente, la secularización-liquidación, en tanto que pretende
+regir la creencia (y liberar autoritariamente a los individuos de su creencia) en lugar de dejar que cada uno crea lo que
+quiera, se expone al riesgo de volver a una religión secularista” (La querelle de la sécularisation, op. cit., p. 291.
+121
+El malestar religioso de nuestra cultura, Madrid, Paulinas, 1993, p. 31.
+122
+Razones y sin razones de la creencia religiosa, op. cit., pp. 208-209.
+
+396
+
+
+
+también la noche oscura del espíritu, personal o colectiva, ha sido decisiva para una
+experiencia de denudación y repristinación mística de la fe. Y, en cuanto a la otra
+conciencia ilustrada, hasta tanto no afronte y atraviese la crítica nietzscheana a la
+visión moral del mundo, no podrá reivindicar un sentido sobrio y rigoroso de razón
+que haya quemado todos sus ídolos.
+
+123
+
+El tema, por su gravedad y envergadura, merece un tratamiento aparte, y así lo haré, espero, algún día.
+
+397
+
+
+
+

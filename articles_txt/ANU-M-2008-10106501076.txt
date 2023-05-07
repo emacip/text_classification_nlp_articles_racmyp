@@ -1,0 +1,323 @@
+Palabras del Profesor
+Dr. D. Juan Carlos Jiménez
+
+Decía el economista y metodólogo McCloskey (cuando aún era Donald)
+que los mercados son metáforas del lenguaje de los economistas: que nadie había
+visto sobrevolar funciones de oferta o de demanda sobre el cielo de Nueva York.
+Es posible, aunque ya podemos ver dibujadas (con asomarnos a la Red) funciones
+de oferta y de demanda reales —y precios casados con ellas— en los mercados
+(diario e intradiario) de la electricidad en España. Hacer que éstos funcionen competitiva y eficientemente no es una metáfora virtual, sino un desafío real —y crucial— para el buen fin de la nueva regulación energética en España.
+El término regulación, no obstante, se presta a distintas interpretaciones
+que conviene deslindar desde un principio, con el fin de entresacar la que mejor
+se ajusta al sentido actual de la regulación energética. La Real Academia Española
+recoge ese sentido en parte equívoco. La regulación, en efecto, es la acción y el
+efecto de regular. Y regular es, en su sentido etimológico y más primigenio, “reglar”,
+establecer reglas. Reglas guiadas, en general, por principios estables. Quizá sin llegar a una de las acepciones de “regla” como “orden y concierto invariable que guardan las cosas naturales” (o la que hace alusión a los “preceptos fundamentales” de
+una orden religiosa), lo cierto es que la definición de “regular” —que también nos
+ofrece la RAE— como “ajustar el funcionamiento de un sistema a determinados
+fines” parece particularmente acomodada al caso que nos ocupa, entendiendo por
+“sistema” el “sistema económico”, y concretando sus fines en “abastecimiento seguro y universal, al menor coste y con el menor impacto ambiental”.
+Nótese, sin embargo, que la RAE recoge una quinta acepción del término
+“regular”, con indicación expresa de su utilización en Economía, como “reajustar”,
+en el sentido de “aumentar o disminuir algo coyunturalmente”; y el primer ejemplo
+
+1065
+
+
+
+que pone es el de “regular las tarifas” (cabe suponer que las eléctricas, entre ellas).
+Pues bien, la regulación energética se ha ido alejando de esta acepción coyuntural
+del término, para referirse, cada vez más, a la actuación normativa de los poderes
+públicos, fijando reglas de comportamiento estables y transparentes a los agentes
+económicos para el logro de los citados fines. Así es también como hay que entender las funciones del regulador energético en España, la Comisión Nacional de
+Energía.
+Energía y regulación —los dos términos que se unen, precisamente, en el
+título de este libro— van, en efecto, de la mano. Y esto no es una concesión retórica. “Hablar de regulación energética”, decimos en nuestro capítulo introductorio,
+“es hacerlo de un ámbito muy característico de la actuación de los poderes públicos”. La Economía —la Economía Industrial, en concreto— ha tenido desde hace
+décadas en el sector energético uno de sus más prolíficos ámbitos de estudio. Un
+sector —un conjunto de sectores, de hecho— de características tecnológicas,
+empresariales, políticas, geoestratégicas… muy peculiares, y de importancia clave
+—vital quizá como ningún otro— para todo el sistema económico; un sector, además, con tendencia a conformarse según formas de mercado no competitivas, que
+ha requerido universalmente (y en España, como no podía ser de otro modo) de la
+actuación de los poderes públicos, llegando a veces a su más tajante expresión, la
+producción a través de empresas del Estado.
+Hasta no hace mucho, sin embargo, de lo que se hablaba, más bien, es de
+planificación energética. La planificación —volvamos a la Real Academia Española— es un “plan general, metódicamente organizado y frecuentemente de gran
+amplitud, para obtener un objetivo determinado”. Planificación —se nos decía de
+los planes energéticos— indicativa, pero con el respaldo de fuertes empresas
+públicas en la mayoría de los subsectores, comúnmente organizados, además, bajo
+formas monopolísticas de mercado. En ellos, hablar de precios —en vez de tarifas—
+era un simple tropo del lenguaje.
+Frente al dictado de la planificación, hoy, en cambio, se imponen la regulación y el mercado; también, como es lógico, los precios de verdad, los precios
+de mercado. Una regulación, en suma, al servicio de un marco de actuación liberalizado, esto es, atenta sobre todo a fijar las reglas que aseguren una efectiva competencia en los distintos mercados energéticos, antes que interferir en ellos. Objetivo, no obstante, lleno de complicaciones; y más, cabe decir, en un sector de tan
+peculiares características como éste. Se trata —por decirlo en las menos palabras
+posibles— de una regulación que, además de bien orientada a los fines de la política energética de la Unión Europea (seguridad, eficiencia, sostenibilidad), exige
+gran finura en la selección y manejo de sus instrumentos; también órganos de
+supervisión independientes y eficaces en su función; y, tratándose de una política
+supranacional, engarzada coordinadamente con la de nuestros socios comunita-
+
+1066
+
+
+
+rios. De ahí la oportunidad del ciclo de conferencias promovido por la Comisión
+Nacional de Energía a lo largo de 2006 y 2007 bajo el título “Energía y regulación”,
+del que nace la obra que aquí se presenta.
+La estructura del libro no se corresponde con la secuencia temporal de las
+conferencias, sino que éstas han sido reagrupadas en cuatro grandes partes con el
+fin de resaltar otros tantos hilos conductores del ciclo: primero, la regulación desde la perspectiva de las empresas; segundo, el paso de las tarifas del gobierno a los
+precios del mercado en el sector eléctrico; tercero, la política energética europea y,
+cuarto, el difícil objetivo de la sostenibilidad ambiental de un crecimiento económico que requiere de un creciente consumo energético. Hilos conductores, como no
+podía ser de otro modo, entrelazados, como lo están, en muchos aspectos, en el
+contenido de unas y otras contribuciones.
+Así, la parte primera del libro (“Empresas y regulación energética”) se ocupa de las empresas energéticas en España. Puede hablarse de un convencimiento
+—o de una opinión muy general entre los expertos— acerca de que los avances en
+la liberalización de los distintos subsectores energéticos españoles han ido por
+delante de la efectiva competencia dentro de ellos. Empresas públicas se han transformado en privadas, removiéndose con ello situaciones de monopolio u oligopolio público, pero se mantiene un grado de concentración de la oferta (y de integración vertical) en el común de los casos, que nada tiene que ver con los mercados
+competitivos que dicta la teoría (o que prevé el marco regulatorio). Esta perspectiva “empresarial” es la que domina, desde ámbitos muy complementarios, las reflexiones (y los datos) de Germà Bel, Vicente Salas, Francesc Trillas y Emilio Ontiveros y Arturo Rojas.
+— GERMÀ BEL constata la contradicción que ha creado dentro de la política
+energética española el despliegue, primero, en la década de los noventa, de una política de privatización que sacó al Estado de los principales monopolios, es decir, una privatización “a la británica”, y una política
+industrial, luego, de campeones nacionales, una política “a la francesa”.
+Con la doble e indeseada consecuencia, por un lado, del rebrote del
+nacionalismo económico y de las reacciones proteccionistas, y, por otro,
+de la inestabilidad y la incertidumbre regulatoria (uno de los peores
+males que puede aquejar a ésta). Hay que optar, propone Bel, entre empresas privadas y mercados liberalizados, o bien empresas públicas y
+mercados controlados por campeones nacionales. Cualquier opción es
+preferible a la actual inconsistencia.
+— VICENTE SALAS, por su parte, realiza un sugerente análisis empresarial del
+sector energético a través de sus estados contables y financieros entre
+1995 y 2005, distinguiendo entre las empresas eléctricas y las de petró-
+
+1067
+
+
+
+leo y gas. Observa Salas cómo en el sector eléctrico, al menos hasta
+2004 —antes de que en 2005 se disparasen sus resultados—, los casi
+nulos beneficios extraordinarios que promedian sus empresas indican
+un resultado próximo al que predice la libre competencia; pero la productividad total de los factores aparece aquí estancada, e incluso decreciente, de donde se deduce que no se han producido en este sector las
+ganancias de eficiencia que cabría esperar de un marco competitivo.
+En cambio, en el sector de petróleo y gas, donde sí hay beneficios
+extraordinarios, lo que denota un marco no competitivo de actuación,
+aparecen también claros signos de eficiencia dinámica por parte de las
+empresas, que no parecen consistentes con empresas que operan con
+gran dominio de mercado. Conclusiones, pues, que no dejan de contener elementos contradictorios, capaces de suscitar el debate en torno
+de la regulación energética en España.
+— FRANCESC TRILLAS, en un momento como el actual, de grandes movimientos corporativos y lucha de intereses empresariales a escala internacional, analiza —desde otra perspectiva, la del control corporativo en sectores regulados— el comportamiento reciente de las empresas eléctricas
+españolas. Su atención se centra en lo sucedido con las sucesivas operaciones de control corporativo —OPAs incluidas— que se han dado en
+España desde 1996. Y subraya cómo la coexistencia en Europa de grandes empresas eléctricas de capital público con otras plenamente privadas obstaculiza el fenómeno de “selección natural”, de modo que malos
+“cazadores” (es decir, malos adquirientes, empresas del Estado) no lleguen tampoco a convertirse en “presas” (es decir, en buenos objetivos).
+Al contrario, estas empresas que siguen teniendo al Estado como principal accionista tienen acceso a “bolsillos profundos” de donde extraer los
+fondos necesarios para realizar ofertas de adquisición de otras empresas.
+Trillas se plantea, al final de su contribución, algunas cuestiones no poco
+sugerentes: ¿Se están imponiendo en el sector eléctrico español empresas provenientes de países menos liberalizados, cuya protección doméstica podría estar subsidiando las inversiones en el exterior? ¿Está coincidiendo la expansión de las grandes empresas eléctricas con un aumento,
+o bien con una disminución de la competencia en los mercados?
+— EMILIO ONTIVEROS y ARTURO ROJAS cierran esta primera parte de la obra
+con un estudio que arranca de la estrecha y creciente vinculación entre
+el sector energético y los mercados de capitales. Para las empresas
+españolas, de modo muy particular. Y destacan cómo la estimación
+adecuada del coste del capital es esencial para garantizar que las inversiones se realizan de forma eficiente y que los consumidores no soportan un sobrecoste en su financiación. Tres son, a juicio de Ontiveros y
+
+1068
+
+
+
+Rojas, las cuestiones a resolver cuando se trata de determinar el coste
+del capital en actividades reguladas, como las energéticas: cuál es la
+rentabilidad adecuada para los recursos propios; cuál es el valor de
+mercado de estos recursos propios dedicados a la actividad regulada;
+y cuál es la proporción óptima entre recursos propios y deuda. Afrontando estas dificultades de medición, el coste ponderado de capital es,
+en opinión de estos autores, una herramienta fundamental para decidir entre inversiones alternativas, no sólo entre diferentes sectores, sino
+también entre países.
+La parte segunda de la obra —enlazando con la primera— se ocupa, de un
+modo más específico, de la regulación eléctrica en España y, más en concreto, del
+difícil tránsito –con cohabitación de por medio– de las tarifas a los precios. Básicamente, el actual modelo regulatorio del sector eléctrico, concebido sobre bases muy
+concurrenciales, cuadra mal con la estructura de mercado que subsiste. “La liberalización energética no es un simple problema de leyes”; lo decimos en nuestra
+introducción y los autores de esta obra lo ilustran muy bien para el sector eléctrico. Las contribuciones de Ignacio Pérez Arriaga, Miguel Ángel Lasheras y Xavier
+Vives —participantes en su día en una mesa redonda sobre esta misma cuestión—,
+más las de Paulina Beato y Juan Delgado y de Frank Wolak son, dentro de la diversidad de sus puntos de vista, lo bastante complementarias como para que el lector
+se forme una opinión bien fundada al respecto.
+— IGNACIO PÉREZ ARRIAGA sostiene que el problema fundamental de la tarifa eléctrica española —previo incluso a la disyuntiva precios versus
+tarifas— radica en la falta de una metodología completa en su determinación; una metodología de cálculo regida por los principios ortodoxos de suficiencia, transparencia, no discriminación, eficiencia, estabilidad, aditividad, sencillez y consistencia. En España —dice Pérez
+Arriaga—, “debemos empezar por calcular las tarifas como es debido”.
+Reflexión que traslada a las “tarifas por defecto” o “de último recurso”
+que dentro de poco (están anunciadas para enero de 2009) habrá que
+fijar para ciertas categorías de consumidores. Tarifas que no deben
+hacer competencia desleal a la comercialización; que deben basarse en
+precios fiables de mercado; y que no debieran extenderse a los grandes consumidores. No son éstos, lógicamente, los únicos problemas de
+una correcta tarificación “por defecto”: la asignación de cada concepto
+de coste y la traslación del precio de la energía a la tarifa son cuestiones delicadas que también deben acometerse, y sobre las que Pérez
+Arriaga ofrece su siempre fundado criterio.
+— MIGUEL ÁNGEL LASHERAS aborda igualmente, desde un punto de vista
+complementario del anterior, la convivencia —más que difícil, imposi-
+
+1069
+
+
+
+ble— de precios y tarifas eléctricas. Esta convivencia se ha basado hasta ahora en la ilusión de que se controlaban así las rentas de las empresas eléctricas, pero su resultado ha sido otro: el “déficit de tarifas”. La
+conclusión de Lasheras es terminante: “Las tarifas, tal y como hoy son
+concebidas, como herramientas políticas de control de ingresos de las
+empresas eléctricas, deben desaparecer cuanto antes y dejar su lugar a
+unos precios representativos de los costes actuales de producir, distribuir y gestionar la energía”. Condición, además, que es necesaria para
+abordar los procesos de innovación e inversión diversificada que precisa hoy el sector.
+— XAVIER VIVES habla, también sin ambages, de “un modelo agotado”: el
+actual de tarifas políticas y precios distorsionados. La experiencia española muestra la radical inconsistencia de pretender una regulación a
+tarifa para los consumidores y unos mercados competitivos al por
+mayor; inconsistencia que se ha resuelto —“en el peor de los mundos”— a través —incide igualmente Vives en ello— del “déficit de tarifas”. “La regulación”, nos dice, “debe ser estable y consistente temporalmente para asegurar la inversión a largo plazo. La regulación debe
+reforzar el papel del mercado en lugar de intentar suplantarlo (…). El
+objetivo general es fomentar que exista la suficiente competencia en el
+mercado para bien de los consumidores”.
+— PAULINA BEATO y JUAN DELGADO abordan en su contribución algunas de
+las “asignaturas pendientes” en la regulación del sector eléctrico español. Para estos autores, el establecimiento de un mercado competitivo
+de la electricidad en España es un proceso incompleto y en el que se
+ha incurrido en errores, pero no es un proceso frustrado. Partiendo de
+la gran concentración de la oferta existente en España —para ellos un
+obstáculo, antes que una asignatura pendiente—, examinan, una a una,
+esas asignaturas pendientes: las distorsiones actuales del mercado
+mayorista spot; el desarrollo de los mercados a plazo; el desarrollo del
+segmento minorista; la eliminación de las tarifas reguladas; y la conexión entre los servicios prestados por los proveedores de electricidad
+y los ingresos percibidos de sus clientes. Quedaría, en opinión de Beato y Delgado, una asignatura pendiente más, pero que España tiene
+que aprobar de la mano de sus socios europeos: la integración en el
+mercado europeo de la electricidad. La recomendación general es
+avanzar en la liberalización del mercado eléctrico y eliminar los restos
+de las regulaciones intervencionistas heredadas del pasado.
+— FRANK WOLAK, por último, se ocupa de un aspecto quizá más específico, pero sobre el que proyecta su experiencia internacional: la limita-
+
+1070
+
+
+
+ción de la desventaja potencial de la competencia en el mercado mayorista de la electricidad. Se trata, pues, de diseñar el tipo de mercado
+que más ventajas produzca —y menos inconvenientes— como resultado de introducir la competencia mayorista. Wolak considera que “no
+existe la regulación perfecta o el mercado perfecto”, y que “hay que
+elegir entre un mercado competitivo con imperfecciones o un proceso
+de regulación igualmente imperfecto”.
+La tercera parte de la obra se centra en las grandes líneas de la política
+energética europea. “Una energía sostenible, competitiva y segura”, como reza el
+propio título del Libro Verde de la Comisión Europea. Líneas esenciales para el
+común de los países europeos, pero si cabe vitales para uno, como España, que,
+dentro de la Unión, depende relativamente más que casi ningún otro de la energía
+importada; en el que ha crecido excepcionalmente la demanda de energía en estos
+últimos años, al compás de su crecimiento económico; el que más aislado está, junto con Portugal, de las interconexiones eléctricas y gasistas con el resto de Europa,
+y el que más desviaciones acumula respecto de los objetivos de Kioto. Problemas
+nada nuevos, pero no por ello menos acuciantes. De ahí las importantes orientaciones que nos ofrecen los autores de esta parte —José Sierra, José Luis González
+Vallvé, Ramón Folch, Jordi Dolader y Pedro Rivero—, participantes en una mesa
+redonda específicamente dedicada al tema en la Comisión Nacional de Energía bajo
+el título “Una política energética para Europa”.
+— JOSÉ SIERRA, en sus líneas introductorias, traza las coordenadas del contexto energético y medioambiental que enmarca la discusión actual
+acerca de la política energética europea. Señala, entre otras cuestiones,
+la necesidad de mercados eficientes, a lo que se enfrentan dos defectos de diseño: la crónica insuficiencia de las interconexiones y la persistencia de monopolios y oligopolios de hecho.
+— JOSÉ LUIS GONZÁLEZ VALLVÉ traza en su contribución las grandes líneas de
+la política energética europea. Sostenibilidad, seguridad de aprovisionamiento y competitividad son, según se ha indicado ya, los tres vértices
+de la posición comunitaria, y a ellos se dedican, sucesivamente, los
+otros tres capítulos de esta parte.
+— RAMÓN FOLCH se ocupa de la sostenibilidad energética, de la compleja
+relación entre energía, economía y medio ambiente. En su opinión, el
+cambio climático es, ante todo, un problema económico. Y resume en
+varios puntos las bases de la estrategia que propone para conseguir una
+política energética sostenible: la gestión de la demanda, es decir, limitar de manera efectiva la demanda energética, junto con la configuración de un modelo social avanzado; avanzar hacia una fiscalidad que
+
+1071
+
+
+
+desincentive el consumo; perseguir un modelo territorial compacto y
+complejo; establecer sistemas de certificación energética de los edificios; apostar por los vehículos híbridos; seguir reduciendo la intensidad
+ener-gética industrial; aprovechar todas las energías renovables locales;
+incrementar la diversificación de las fuentes energéticas; internalizar
+todos los costes energéticos en los precios finales; y adoptar un modelo de conocimiento que reconozca el papel central de la energía.
+— JORDI DOLADER, por su parte, se ocupa de la seguridad del aprovisionamiento energético. Repasa el contenido de las nueve Comunicaciones
+que la Comisión Europea presentara al Consejo y al Parlamento Europeos en enero de 2007, y sus implicaciones —poco concretadas, en su
+opinión, en objetivos alcanzables— desde el punto de vista de la seguridad de abastecimiento. Concluye que no existe una política energética europea genuina, pero sí un conjunto de Directivas —sobre mercado interior, medio ambiente y fiscalidad— que configuran el entorno
+sobre el que construir una futura política energética común.
+— PEDRO RIVERO aborda, en su contribución, la competitividad de los mercados eléctricos. Opina que la Comisión Europea apunta, como en tantas ocasiones, por el buen camino. Lo que hace falta es que los Estados miembros sean lo suficientemente conscientes y comprometidos
+para adoptar unas decisiones que son necesarias y urgentes en este
+punto. Y concluye: “Es preciso que la verdadera existencia del mercado interior haga menos necesaria una política energética común que lo
+supla”. Para el logro de ese mercado interior de la energía (y de la electricidad) es necesario, ante todo, la concurrencia, comenzando por el
+libre acceso de terceros a las redes. También, la competencia, esto es,
+el código que marque las reglas del juego. Por último, la competitividad, la capacidad para competir. El ahorro y la eficiencia energética es
+el eslabón que puede cerrar el circuito de “productividad, competitividad y medio ambiente”.
+La cuarta —y última— parte de la obra gira en torno de la oferta de recursos energéticos y el problema de la sostenibilidad. La seguridad en el suministro
+energético (clave para el funcionamiento de todo el sistema económico) y el abastecimiento al menor coste posible (clave, en este caso, para la competitividad del
+sistema) han sido los dos grandes objetivos que han guiado tradicionalmente la
+política energética de los distintos países. Hoy, y singularmente en Europa, se añade un tercer vector determinante, que ha terminado, además, por complicar el difícil equilibrio entre los dos principios anteriores: se trata de la protección medioambiental, la sostenibilidad de nuestro modelo de crecimiento. Éste es hoy quizá el
+principal desafío. Cinco contribuciones a esta parte final de la obra aportan la pers-
+
+1072
+
+
+
+pectiva de sus autores. Perspectivas de nuevo diversas, pero de nuevo muy complementarias. Tras el ensayo de Robert Mabro, centrado en la actual geopolítica del
+petróleo, Francisco García Novo, Juan Ormazabal, Pablo Fernández Ruiz y Carlos
+Alejaldre plantean distintas opciones para un desarrollo económico —y energético— sostenible.
+— ROBERT MABRO abre esta parte con su visión de la geopolítica del mercado de petróleo. Examina las estrategias energéticas propuestas en distintos países en relación con la seguridad del suministro. Contrasta, en
+particular, la experiencia norteamericana y europea al respecto. Nos
+dice Mabro: “Estados Unidos se centra fundamentalmente en la tecnología (…). No pretende ‘apretarse el cinturón’ ni reducir el consumo a
+través de mayores impuestos y otras medidas restrictivas. La Unión
+Europea pone relativamente más énfasis en la eficiencia de la energía
+y en contener la demanda”. Y formula otra observación muy perspicaz:
+“La Unión Europea aspira a crear un mercado energético unificado y
+homogéneo en Europa. Esto tiene el mayor sentido para una unión
+económica. Donde puede radicar el error de la UE es en su deseo de
+extender las reglas de un mercado unificado fuera de la Unión, pues
+esto chocaría frontalmente con los intereses de Rusia”.
+— FRANCISCO GARCÍA NOVO se pregunta si estamos optimizando nuestras
+fuentes energéticas y usando la energía de forma adecuada. “El problema”, nos dice, “es cómo hacer partícipe a la sociedad de su gestión energética para conseguir la energía, producirla, distribuirla y consumirla
+óptimamente reduciendo impactos ambientales y sociales”. En este sentido, el resultado de la política energética europea —centrada en crear
+infraestructuras capaces de atender una demanda ubicua— se ha mostrado “económicamente favorable, ambientalmente peligroso e insostenible en el medio plazo”. En su opinión, hay que conducir el desarrollo hacia un equilibrio sostenible en términos ambientales, reduciendo
+el consumo de combustibles fósiles.
+— JUAN ORMAZABAL plantea una “opción energética sostenible”. Parte de
+los efectos que tiene —y tendrá— el cambio climático, cuya velocidad
+y magnitud pueden atenuarse con la reducción de las emisiones de
+gases de efecto invernadero. A la pregunta de qué debe hacerse desde el punto de vista energético, responde con tres tipos de acciones:
+hacer un uso eficiente de la energía reduciendo el consumo; cambiar
+los modos de vida que incitan al despilfarro energético; e intensificar
+los esfuerzos tecnológicos y económicos para buscar nuevas fuentes
+renovables y desarrollar las actuales. El cambio climático, que, como
+nos dice Ormazabal, “lleva camino de convertirse en nuestro gran fra-
+
+1073
+
+
+
+caso como humanidad”, supone al tiempo “una enorme oportunidad
+para modificar nuestros comportamientos de consumo, nuestros comporta-mientos sociales”.
+— PABLO FERNÁNDEZ RUIZ examina en su capítulo la contribución de la ciencia, la tecnología y la innovación a la sostenibilidad energética en Europa. Se pregunta, como antes otros autores, si el sistema energético europeo es sotenible, y se responde con muy serias dudas al respecto. Sobre
+este punto de partida, presenta las líneas de acción con que la Comisión Europea pretende tomar la iniciativa en este terreno, en particular
+a través del Programa Marco de Investigación y Desarrollo, el de Energía, el de Cooperación, el de EURATOM (para el desarrollo de la energía nuclear) y el Plan Tecnológico Estratégico Energético Europeo, junto a otros nuevos instrumentos.
+— CARLOS ALEJALDRE traza los pasos que se están dando hacia una nueva
+fuente de energía, a través del proyecto ITER: “La investigación en fuentes energéticas es una cuestión de supervivencia”, nos dice. A corto y
+medio plazo, están los combustibles fósiles, con horizontes limitados. En
+un planteamiento de largo plazo, contamos con tres fuentes fundamentales: las energías renovables, fundamentalmente la solar, la energía de
+fisión, y la fusión. Dominar a esta última —una fuente de energía segura, potente como ninguna otra de las conocidas, medioambientalmente
+aceptable y prácticamente inagotable— ha dado lugar a importantes
+programas de investigación; su máximo exponente, hoy, es el proyecto
+ITER. Se trata, como bien sabe resumir Alejaldre, de “reproducir en
+nuestro planeta los procesos que nutren de energía a nuestro Sol”.
+Empeño nada fácil, pero ya en marcha, y con importante participación
+de España.
+Hablar de “energía y regulación” es hablar, como se hace en este libro, de
+los grandes problemas del presente; pero no hay que perder, como en ningún otro
+ámbito, y en éste quizá menos, la perspectiva del medio, y aun del largo plazo. En
+pocos terrenos —como en éste de la gestión energética— afrontamos una responsabilidad intergeneracional tan clara y tan grave. Gerald Doucet, presidente del
+Consejo Mundial de la Energía, lanza, en el epílogo que cierra la obra, “una ojeada
+a 2030 y más allá”, donde plantea los distintos —y posibles— escenarios energéticos del futuro. Ninguno de ellos sencillo.
+Esta obra no agota, como es lógico, el amplio catálogo de cuestiones que
+abarca el tema de la energía y la regulación. Destáquese, en todo caso, el rigor en
+el planteamiento de las diferentes contribuciones. También, sin excepción, el sentido crítico: ninguno de los autores, cada uno desde su perspectiva, ha orillado los
+
+1074
+
+
+
+aspectos que podían resultar menos complacientes con la política energética, ya
+fuera española o europea. El libro es fruto de la generosa disponibilidad de quienes primero fueron conferenciantes, y luego, tras revisar sus textos, autores de la
+obra. Pero también lo es —y por eso resulta obligado dar las gracias a la Presidenta— del esfuerzo organizativo, y luego editorial, de la Comisión Nacional de Energía, sin imponer cortapisa alguna a los autores o a los editores. Gracias, pues, a
+todos ellos.
+
+1075
+
+
+
+

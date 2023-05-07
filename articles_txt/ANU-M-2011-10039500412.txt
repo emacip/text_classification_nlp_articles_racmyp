@@ -1,0 +1,565 @@
+NO HAY CIENCIA SOCIAL
+SIN TEORÍA ECONÓMICA
+Por el Académico de Número
+Excmo. Sr. D. Pedro Schwartz Girón*
+
+Nations stumble upon establishments,
+which are indeed the result of human action,
+but not the execution of any human design.
+Adam Ferguson (1767)
+
+La presente disertación tiene por objeto llamar la atención de mis compañeros de la Academia sobre lo útil que puede ser para sus investigaciones la aplicación del método y conclusiones de la ciencia económica. Esta oferta podría parecer un atrevimiento e incluso una impertinencia por mi parte, si no fuera porque
+me veo como un mero aprendiz de la economía, que, cuando he colaborado con
+filósofos, antropólogos, sociólogos, politólogos o juristas en algún trabajo, he visto
+que no tenía respuestas hechas y que esa colaboración me hacía descubrir aspectos nuevos y aplicaciones inesperadas del enfoque económico de los fenómenos
+sociales.
+Cuando hablo de la utilidad de la colaboración entre especialistas de las
+distintas ciencias sociales no quiero hacer una propuesta de estudios interdisciplinarios, que en mi experiencia acaban casi siempre en vaguedades. Pretendo llamar
+la atención de mis compañeros de Academia sobre la ayuda que la economía puede
+prestar a la solución de cuestiones que se les presentan en su campo, así como llamar su atención sobre los interesantes resultados independientemente obtenidos
+por economistas en materias que parecen no corresponderles.
+
+* Sesión del día 31 de mayo de 2011.
+
+395
+
+
+
+Es posible que, al hablar yo de las distintas especialidades representadas en
+nuestra Academia, muestre la extensión y amplitud de mi ignorancia. Una de las críticas que espero y deseo recibir es que mi idea de lo que hacen los sociólogos o los
+juristas o los antropólogos es superficial y equivocada. Así comenzaré a aprender
+algo de lo mucho que no sé. En fin, espero que me perdonen mi atrevimiento, pues
+hablo impulsado por la idea de que esta Academia existe para facilitar el intercambio de conocimientos, como aspiro ocurra en la sesión de hoy.
+
+La ciencia económica, un enfoque de los fenómenos sociales
+Una de las razones por las que la economía es mirada con desvío y hastío
+por los especialistas de otras ciencias es porque se la ve como un mero recetario de
+soluciones de sentido común, como un repositorio de exhortaciones al equilibrio
+contable, o una fuente de profecías a la postre siempre equivocadas. La economía
+es algo distinto.
+De paso quiero lamentar una carencia terminológica del español. La palabra ‘economía’ significa dos cosas distintas: un saber y una realidad social. En inglés,
+economics es distinto de economy, como en classical economics y en the Spanish
+economy. Mi discurso sería mucho más claro si pudiera distinguir entre ‘económica’,
+como en ‘la económica de John Stuart Mill’ y ‘economía’, como la ‘economía británica durante la revolución industrial’. Para evitar la anfibología que señalo, en vez
+de ‘económica’ me veo obligado a decir ‘ciencia económica’ aunque no esté muy
+seguro de que se pueda poner mi materia en el mismo plano que las ciencias duras
+como la física.
+Está muy difundido, como digo, el error de pensar que la económica, perdón, la ciencia económica es un campo de estudio, el campo de las actividades sociales que utilizan el vehículo del dinero. Desde mediados del siglo pasado, sin
+embargo, los estudios económicos han empezado verse como un enfoque, como
+una manera de estudiar fenómenos de los campos más diversos. Es Gary Becker
+quien mejor ha definido “La aproximación económica al comportamiento humano”
+(1976). Las características de esa aproximación a cualquier fenómeno social que
+atraiga la curiosidad del analista son tres: parte de supuesto del comportamiento
+maximizador de los individuos; da por sentada la tendencia de los mercados hacia
+el equilibrio, y asume la estabilidad de las preferencias. (Ello no obsta para que Becker, en el libro Accounting for Tastes (1996), haya escrito también sobre la formación
+de los gustos, tema sociológico donde los haya. Siempre aconsejo a mis amigos
+sociólogos que lo lean.) Becker y sus discípulos han aplicado de forma sistemática
+ese punto de vista para explicar muchos fenómenos sociales: no sólo los que suelen llamarse “económicos”, como el que un aumento de precio disminuya la cantidad demandada o que un impuesto sobre el producto en un mercado reduzca la can-
+
+396
+
+
+
+tidad producida; sino también fenómenos sociológicos, como el diferente número de
+hijos de distintas familias según sus ingresos (cuya abundancia repercute más sobre
+la calidad de los hijos que sobre su número) o la frecuencia de la comisión de delitos según sea la proporción de delincuentes arrestados, juzgados, o condenados (lo
+que más influye son los arrestos). Diré de paso que Becker es catedrático de economía y sociología en la Universidad de Chicago.
+
+Modelos de explicación
+Me atrevería a caracterizar la economía por la divisa de la London School
+of Economics, mi segunda alma mater: “Rerum cognoscere causas”. Esta ciencia
+busca, no sólo describir los hechos sociales y trazar su origen y evolución en el
+tiempo, sino también explicar el porqué de esos fenómenos y su historia. Para ello
+crea representaciones o “modelos” simplificados de la realidad que luego pasa a
+contrastar con los datos. El que esos modelos resulten refutados por la observación
+de los hechos es un plus de las explicaciones de la economía. De los errores se
+aprende.
+La búsqueda de una explicación causal empieza cuando la realidad nos
+sorprende con una observación inesperada. Nos preguntamos por qué ha ocurrido
+lo que no esperábamos. En el principio está un problema, el de entender por qué
+nuestras expectativas se han visto defraudadas. Los economistas formalizamos esos
+intentos de explicación con lo que llamamos un “modelo”, que, dicho de forma
+sucinta, consta de cuatro elementos: a) unas hipótesis sobre las regularidades de
+validez universal en todas las sociedades; b) una descripción de la situación o condiciones iniciales en las que operan esas regularidades; c) una predicción de lo que
+en teoría debería ocurrir por la operación de las regularidades en el contexto de las
+condiciones iniciales, y d) una comparación de esa predicción con los datos estadísticos extraídos de la realidad. La causa sería, pues, la condición inicial que, dadas las
+regularidades supuestas, da lugar al efecto predicho.
+En la práctica de la investigación económica, ese método de investigación
+se complica. Las condiciones iniciales pueden constar de muchas variables, cuyo
+efecto en la realidad puede irse estudiando por separado (lo que se llama “análisis
+multivariante”). Pero no basta con esta separación de variables. Hace falta “testar”
+el modelo en su conjunto. Si no, se corre el peligro de caer en el error de creer que
+la mera deducción nos da la certeza. Por otra parte, las relaciones de causa-efecto
+habrán de depurarse de coincidencias aparentes, de las cuales no es la menos peligrosa la denunciada por el aforismo post hoc non est propter hoc. Los económetras
+o economistas cuantitativos en nuestro seno podrán completar mi disertación explicando cómo realizan ese ejercicio de depuración.
+
+397
+
+
+
+Los cinturones de Peltzman
+Para explicar lo que significa enfoque económico por contraposición a
+campo o materia económica daré el ejemplo de los cinturones de seguridad estudiado por Sam Peltzman (1975). En EEUU el uso de los cinturones de seguridad no
+fue obligatorio hasta 1966. En ese año también se impuso a los fabricantes de automóviles el instalar otros elementos de seguridad, como air-bags y columnas de dirección plegables. El resultado del cuidadoso análisis estadístico de Peltzman indica
+que, dentro de la tendencia a una reducción general de accidentes, aumentó la proporción de muertes de peatones y otros usuarios de calles y carreteras distintos de
+los conductores después de esta regulación.
+Para Peltzman, la explicación económica de este sorprendente fenómeno
+es la siguiente. Los conductores, al sentirse más protegidos, tendían a correr más
+riesgos, porque para ellos había disminuido el coste de sus imprudencias. Eso conducía a mayores daños para terceros. Como contraste empírico de su explicación,
+Peltzman buscó medir cambios en el comportamiento de los conductores en casos
+de accidente tras la reforma legislativa, por medio de indicadores independientes:
+concretamente, observaciones de mayor velocidad así como de mayor ingesta de
+alcohol. Ese aumento, pese a ya estar limitada la velocidad por ley y prohibido conducir bajo el efecto del alcohol, indicaba una tendencia a guiar menos prudentemente.
+Este ejemplo permite comprender el modo de análisis típico del enfoque
+económico. Compara situaciones diferenciadas en un momento de cambio legislativo claramente marcado. Controla con filtros estadísticos el posible efecto de otras
+variables, como sería la edad o el sexo de los conductores. Busca evidencias independientes de la reacción hipotetizada. Por fin, deduce de la reducción de los costes, en este caso el menor coste de conducir imprudentemente, la predicción de una
+conducta contraproducente para los reguladores.
+Como puede verse, no hay intercambio de dinero ni otros elementos de los
+que se suelen llamar económicos. No aparecen prejuicios ideológicos de los que
+típicamente se atribuyen a los economistas pro-mercado. Tampoco hay elementos
+como los que podría usar algún sociólogo típico, como son los intereses de clase o
+la inclinación al consumo conspicuo. El instrumento de análisis principal es la reducción del coste de oportunidad de la imprudencia en términos, no de un precio, sino
+de daño auto-infligido. Hay un supuesto de constancia del gusto por el riesgo, riesgo
+que si las autoridades reducen por un lado, los individuos aumentan por otro. En
+suma, se está enfocando económicamente un campo que en la concepción vulgar
+sería no-económico.
+
+398
+
+
+
+Heurística económica
+En todo caso, quiero recordar algunas conclusiones heurísticas obtenidas
+de una larga experiencia de fracasos explicativos.
+a. La primera es que la economía es la ciencia de las consecuencias inesperadas y no queridas, lo que especialmente concierne a las autoridades planficadoras.
+b. La segunda es que los individuos que toman parte en el juego económico no son inertes ni son meros instrumentos en manos de las autoridades: se mueven a la postre en persecución de sus propios intereses cuando consiguen acumular información suficiente para ello.
+c. La tercera es que, paradójicamente, las predicciones a corto plazo son
+casi imposibles en economía por el ruido que trae consigo la dificultad de los partícipes de informarse sobre lo que realmente ocurre; a
+largo plazo, sin embargo, las tendencias fundamentales se imponen y
+se hace posible predecir. (Es cierto que hay métodos, como el de las
+series temporales que predicen a plazo pero una crisis repentina echa
+sus resultados por tierra.)
+d. La cuarta es que las predicciones de la ciencia económica son condicionales y formulables negativamente. Toman la forma de “si se aplica esta
+medida, entonces ocurrirá esa consecuencia” —si eleva usted el salario
+mínimo por ley, cundirá el paro de jóvenes y mujeres con poca formación. Estas proposiciones condicionales pueden expresarse en forma
+negativa: el mejorar por término medio el nivel de vida de los más
+pobres gracias a elevaciones del salario mínimo es imposible, pues
+aumentará el número de los que se queden sin trabajo. Como dijo el
+torero Guerrita, “Lo que no pué ser, no pué ser, y además es imposible”.
+
+Evitación del holismo
+Como hemos visto en el ejemplo de los cinturones de Peltzman, el método
+económico es analítico, en el sentido originario de esta palabra, de “disolución de
+un conjunto en sus partes”. Ello no quiere decir que se quite todo valor a otros
+modos de acercarse a la realidad social que intenten verla en su conjunto de forma
+no cuantificable. Pero incluso en materias como la antropología social o la filosofía de la historia es posible precisar pensamientos gracias al método empírico característico de la ciencia económica.
+
+399
+
+
+
+Creo que todos los especialistas de las ciencias sociales deberían prestar
+atención a la crítica de la utilización exclusiva de un método holístico en La miseria
+del historicismo (1961) de Karl Popper. Son muchos los pensadores (dice) que
+[…] sostienen que la sociología, como todas las ciencias “biológicas”, es decir,
+todas las ciencias que tratan de objetos vivientes, no deberían proceder de una
+forma atomística. […L]os grupos sociales nunca deben ser considerados como
+meros agregados de personas. El grupo social es más que la mera suma total de sus
+miembros, y también más que la mera suma total de las relaciones meramente personales que existan en cualquier momento entre cualesquiera de sus miembros.
+(Págs. 32-33)
+
+Frente al método totalizador propone Popper lo que defendemos los economistas:
+el individualismo metodológico. Es decir, no descansamos hasta encontrar una explicación de los fenómenos sociales complejos en términos de acciones individuales
+y sus consecuencias no previstas.
+
+I.
+LA ANTROPOLOGÍA, PSICOLOGÍA Y LINGÜÍSTICA ECONÓMICAS
+No sólo la economía, sino también la biología evolutiva tienen algo contrastable que decir a los estudiosos de grandes fenómenos agregados. En el capítulo IV de mi libro En busca de Montesquieu (2006) he querido señalar las consecuencias sorprendentes de la estructura biológica y evolutiva del hombre para
+explicar las contradicciones de la civilización —fenómeno global donde los haya.
+Empecemos pues por las posibles conexiones entre economía y antropología. La visión de la naturaleza humana de los economistas es sumamente estrecha e
+incompleta. Nunca ha faltado quien nos lo eche en cara. El homo oeconomicus es el
+hombre de paja que los cultivadores de otras ciencias sociales alancean sin piedad
+en sus disertaciones sobre el concepto y método de su asignatura. Especialmente
+chocante era que los economistas, para derivar los teoremas del comportamiento
+individual o de la microeconomía, parecían suponer que ese homo oeconomicus era
+racional. Con esto se quería significar que operaba con perfecta información y buscaba distribuir de forma óptima sus ingresos al servicio de sus fines.
+En un famoso artículo de 1953 sobre “La metodología de la economía positiva”, Milton Friedman defendió la idea popperiana de que, para conocer la realidad, no es necesario partir de supuestos realistas. No importaría que la antropología económica fuese en exceso simplificadora si nos permitiese proponer modelos
+fáciles de contrastar con la realidad.
+
+400
+
+
+
+Ello no ha obstado para que, dentro del propio campo de la economía, se
+haya ampliado el modelo de esa representación de la acción humana, a sabiendas
+de que la metodología de Friedman puede no servir para todos los problemas. Herbert Simon, galardonado con el Nobel en 1978, acuñó las nociones “racionalidad
+limitada” (bounded rationality) y “conocimiento suficiente” para explicar cómo
+tomamos nuestras decisiones (satisficing) y de paso criticó fructíferamente la metodología de Friedman. Kahneman, galardonado con el Nobel en 2002, ha estudiado
+el comportamiento de los individuos en condiciones de incertidumbre e información imperfecta. También se ha ampliado el estudio de las recíprocas conexiones
+del comportamiento entre personas que no operan en un mercado amplio con la
+teoría de juegos, iniciada por John von Neumann y Oskar Morgenstern con su Theory of Games and Economic Behavior (1944) —un campo que se ha extendido hasta
+incluir experimentos de laboratorio para evaluar la porción de altruismo en el comportamiento humano. Mucho de esto se ha aplicado a la explicación de conflictos
+en el campo de las relaciones internacionales y los conflictos bélicos, como se vio
+con la teoría de la disuasión nuclear durante la guerra fría. (La teoría de juegos es
+un instrumento indispensable para la teoría de la diplomacia y de la negociación en
+general, cosa que no sé si aplican sistemáticamente los especialistas de Derecho
+internacional público entre nosotros.)
+Pese a todas estas limitaciones y embellecimientos, la explicación del comportamiento humano sobre la exclusiva base de la maximización de la utilidad sujeta
+a la restricción de los recursos sigue viva y sigue dando frutos. Ello se explica por
+dos consideraciones.
+La primera es que los humanos en términos generales nos comportamos
+interesadamente, lo que permite analizar y predecir más fácilmente muchos fenómenos sociales. A menudo, las explicaciones de acontecimientos en términos de
+altruismo resultan contradichas por la evidencia empírica. También ocurre que comportamientos irracionales que parecen inexplicables en términos de propio interés
+resultan más acordes con la maximización de la utilidad en un contexto de incertidumbre o ignorancia de lo que podría parecer a primera vista. El capítulo titulado
+“Historias increíbles de apatía y altruismo” del libro Superfreakonomics de Dubner
+y Levitt (2010, 2011), presenta ejemplos notables de comportamientos clásicamente
+“económicos” cuando las apariencias sugieren otra cosa.
+La segunda es que las principales conclusiones del análisis económico se
+mantienen incluso cuando se supone que los individuos se comportan “irracionalmente”, es decir, de manera distinta que el mítico homo oeconomicus. Parece que
+las leyes económicas fundamentales siguen siendo válidas cuando se supone que
+los individuos son “irracionales” o que se mueven por otros motivos más excelsos
+que los “económicos”. Vale la pena leer el trabajo del mismo Becker “Irrational
+Behavior and Economic Theory”, publicado en 1962, en el que demuestra que las
+
+401
+
+
+
+curvas de demanda y oferta mantienen su inclinación negativa y positiva respectivamente incluso cuando los individuos son indiferentes a los precios y las empresas a las pérdidas.
+Todo ello favorece la posibilidad de separar la antropología económica de
+la antropología clásica cuando los economistas muestren que su escueta antropología obtiene buenos resultados explicativos. Los economistas no descansamos en
+nuestra labor de zapa. Por ejemplo, está a punto de publicarse un trabajo de
+Alonso-Cortés y Cabrillo (Europ. J. of the Hist. Econ. Thought) titulado “From merchants to speakers: The common origin of trade and language”. En él se propone
+la hipótesis de que ¡los lenguajes humanos nacieron para facilitar los intercambios
+comerciales!
+Ya sé que la economía no puede aspirar a explicar más que una pequeña
+parte de los fenómenos antropológicos, pero los antropólogos y los lingüistas quizá
+no perderían el tiempo prestando atención a la labor de los economistas.
+
+II.
+ECONOMÍA Y SOCIOLOGÍA
+Cuando leo y oigo a mis amigos sociólogos a veces me impaciento porque me parece que se contentan con describir situaciones y señalar tendencias de
+evolución. No quiero decir que sus estudios carezcan de interés, muy al contrario,
+sino que me gustaría que pasaran de la recogida y análisis de los datos a su explicación. Todo lo más hacen análisis multivariantes.
+Recuerdo bien la sorpresa que produjeron los estudios de la realidad española dirigidos por Amando de Miguel para FOESSA. Teníamos todos, en especial las
+autoridades, una idea de cómo eran las costumbres y las opiniones de aquel tiempo.
+Los datos pacientemente recogidos por ese grupo de sociólogos nos sorprendieron
+a todos. Nuestro estado inicial es el de mirar al mundo con expectativas arraigadas.
+La sorpresa es el primer paso de la ciencia. La sociología cuantitativa interesa porque recoge situaciones muy distintas de las esperadas. Incluso coloca esos datos en
+el tiempo y muestra una evolución que ahonda nuestra sorpresa. ¿Debemos pararnos ahí? ¿No deberíamos explicar “las causas de las cosas “?
+El matrimonio, la familia y el tamaño de ésta están cambiando de manera
+acelerada, lo que puede causarnos alarma o satisfacción. Pero ¿por qué ese cambio?
+Gary Becker, que, como digo, recibió el Nobel de Economía por ampliar el análisis microeconómico a la explicación de comportamientos fuera del mercado, también se ocupó de los fenómenos como el de la familia.
+
+402
+
+
+
+En su “Análisis económico de la fecundidad” (1960), Becker empezó por
+aplicar a la explicación de los comportamientos de las parejas de progenitores la
+noción económica de coste de oportunidad: el coste neto de los hijos era el resultado de restar el valor presente de los gastos pecuniarios de los padres en los hijos
+más los servicios prestados por los padres a los hijos, por un lado; y sumarle los
+ingresos monetarios obtenidos por los hijos cedidos a los padres más los servicios
+prestados por los hijos a sus padres. El coste de oportunidad de los servicios prestados por los padres a los hijos (cuidados, educación en casa, entretenimiento)
+aumentaría a medida que el tiempo de los padres se hiciera más escaso porque
+ganaban más dinero en el mercado.
+Por el otro lado estaba la demanda. A medida que aumentaban los ingresos, suponía Becker, los padres tenderían a demandar más satisfacción familiar.
+Aquí distinguió Becker entre demandar más cantidad o más calidad de hijos. La
+mejora de la calidad de los hijos suponía, una vez nacidos, gastar crecientemente
+en su educación. Pues bien, concluyó que, a medida que aumentaban los ingresos
+de los padres, éstos tenderían a buscar más calidad en sus hijos.
+El resultado teórico era indeterminado, pues el aumento de los ingresos
+recrecía el coste de oportunidad del tiempo dedicado a ellos pero también permitía gastar más en su educación. La elasticidad de reacción de cada uno de estos factores habría que leerla en los datos. El resultado de la contrastación estadística
+resultó ser que, con la mejora del nivel de vida, el número de hijos por familia caía
+pero los gastos por hijo aumentaban más que proporcionalmente. La excepción la
+daban las familias muy ricas, en las que el número de hijos y la calidad aumentaban ambos.
+Isaac Ehrlich (1974) es conocido como especialista de la economía del
+delito. Son tres los elementos que desempeñan un papel en ese mercado. La oferta
+de delito por parte de posibles delincuentes depende en primer lugar del gusto por
+el riesgo de cada uno de ellos y lo inmediato de su horizonte temporal: este elemento psicológico se puede modelizar siguiendo las mismas líneas que el de la formación de gustos estudiada por Becker. Dada esa mayor preferencia por el riesgo,
+Ehrlich descubrió empíricamente que el miedo a ser descubiertos y detenidos tenía
+un efecto de disuasión más grande que la probabilidad de ser condenados en juicio y aún más la probabilidad de cumplir la pena – sorprendente reacción que quizá
+se debía a la cercanía del horizonte temporal de este tipo de personas.
+Por su lado, la demanda de delito podía ser positiva o negativa. Ejemplo
+de la demanda positiva de delito es la inducida por el consumo de droga, especialmente si los consumidores no son castigados. Ejemplo de demanda negativa o desincentivadora son las medidas protectoras tomadas por las posibles víctimas, desde
+llaves y candados, hasta alarmas y guardas jurados.
+
+403
+
+
+
+El tercer elemento en este análisis del mercado de delito es el comportamiento de las autoridades, policía, juzgados, servicios penales y carcelarios. Este
+elemento ya no es tan individualizado, puesto que se trata normalmente de servicios públicos financiados con impuestos. Un detalle puede mostrarnos el interés de
+este tipo de análisis: en la medida en que tengan éxito los programas de rehabilitación el número de delincuentes disminuye, lo que aumenta los beneficios obtenibles con el delito e incentiva la aparición de nuevos delincuentes.
+
+III.
+ECONOMÍA DEL DERECHO
+Así he empezado a decir algo sobre el tipo de análisis que los economistas llevan a cabo en el campo del Derecho, en ese caso, los estudios de criminología. Mas si levantamos un poco la vista podremos dividir la materia llamada “Law
+and Economics” en tres grandes campos: el de las consecuencias queridas o no
+queridas de las diversas instituciones jurídicas en la vida social, como hemos visto
+en el caso del delito; el de la explicación “económica” (se entiende a la Becker) del
+nacimiento, organización y desempeño de las mismas instituciones jurídicas; y el de
+la influencia del marco institucional en el funcionamiento del sistema de mercado.
+Pocos son los legisladores y los juristas que tienen en cuenta las consecuencias, previsibles e imprevisibles, de normas y sentencias. Por ejemplo, el Derecho del Trabajo se ha desarrollado hasta extremos de obesidad sin un análisis sistemático del efecto que tiene en el mercado laboral. Las numerosas reformas de las
+normas laborales ocurridas en España desde la instauración de la democracia se han
+criticado porque parecen haber elevado permanentemente la tasa de paro “natural”
+o institucional en nuestro país. La razón de esa inutilidad legislativa, según los economistas, es sorprendente. No sé si los especialistas del Derecho del Trabajo han oído
+hablar del “Interdicto de Lucas” (1976), un teorema de la economía que indica que
+las intervenciones continuas de los Gobiernos en el marco legislativo no pueden
+conseguir nunca sus fines. La razón es que los trabajadores y las empresas no son
+materia inerte en manos del legislador, sino que descuentan y evaden la cambiante
+normativa en persecución de sus propios fines. Por eso señaló Robert Lucas que lo
+más que puede hacer un Gobierno es crear reglas estables, claras y sencillas, en
+cuyo marco habrá que dejar que los transactores de desenvuelvan libremente.
+¿Se preguntan alguna vez los especialistas de Derecho Mercantil por qué
+hay empresas? Es verdad que observan cómo funcionan las empresas en el marco
+de la legislación existente y si hay alguna circunstancia que aconseje la reforma de
+ésta. A veces harán esfuerzos para comparar la legislación nacional con las extranjeras, sobre todo en punto a técnica jurídica. Pero brilla por su ausencia el tipo de
+
+404
+
+
+
+reflexión empírica como la iniciada por Ronald Coase con su artículo “The Nature
+of the Firm” (1937). En él cuestionó Coase la tendencia de los economistas de su
+época de suponer que toda la vida económica discurría horizontalmente, con transactores individuales que competían en un mercado “atómico” por así decir. Subrayó
+que una gran parte de la actividad económica ocurría en el seno de instituciones
+piramidales sometidas a reglas de disciplina, que sobresalían como islas flotantes en
+un plato de natillas (la frase es de John Hicks). La razón era que para muchas actividades los costes de contratar en el mercado todos y cada uno de los servicios que
+necesitaban era prohibitivo: preferían funcionar con contratos a largo plazo. Los
+costes de transacción del mercado explican por qué es tanta la actividad económica que ocurre “fuera del mercado”, es decir, dentro de la empresa.
+
+No nace el Derecho como Atenea
+¿Nace el Derecho como Atenea, de la frente de Zeus, armada de pies a
+cabeza? Creo que no. Pensar en una ciencia jurídica auto-contenida, obediente a
+su lógica interna nada más, sin padre ni madre, sin consecuencias reales que valga
+la pena analizar, es colocarse en un plano ideal —en un mundo que se reduce a
+las páginas del Boletín Oficial del Estado, a los códigos en vigor, y la dogmática de
+los juristas en conversación los unos con los otros. El origen del Derecho sería la
+decisión.
+Sobre esto cabe decir que son muchos los estudiosos que creen equivocado comenzar el estudio del fenómeno jurídico con la decisión. Esta visión voluntarista del Derecho deja de lado la idea del “orden espontáneo”, nacido de consecuencias inesperadas y muchas veces no queridas de la acción humana. Desde el
+punto de vista de la antropología evolutiva, primero es el orden y la armonía no
+buscada, y no el conflicto y la decisión que lo zanja.
+Como han sabido ver Adam Smith o Friedrich von Hayek, entre otros
+muchísimos pensadores, el orden espontáneo es característica fundamental de la
+actividad económica. La imbricación de las necesidades y actividades de millones
+de hombres y mujeres que no se conocen ni saben lo que los otros hacen, a través
+del mecanismo de los precios, es casi milagrosa. Nadie ha diseñado el mercado, ni
+creado el dinero, ni el inventado el idioma, ni ideado la propiedad privada: han surgido espontáneamente, junto con las instituciones que facilitan su uso y desarrollo.
+La “decisión” que algunos de nuestros compañeros señalan como el hecho
+jurídico seminal y fundamental no explica la creación del Derecho. Nos ha hecho
+ver Ronald Coase en “The Problem of Social Cost” que las decisiones de jueces y
+árbitro no crean el Derecho sino que facilitan la aplicación de reglas espontáneamente nacidas, cuando los costes de transacción son prohibitivos.
+
+405
+
+
+
+El estudio de la creación espontánea de reglas como consecuencia no querida de acciones y acuerdos de los individuos ha sido coronado otra vez con premios
+Nobel. Ya lo recibió en su día el historiador económico y estudioso de la esclavitud
+en EEUU William Fogel. Ahora en 2009 lo han recibido Oliver Wiliamson y Elinor
+Ostrom. Williamson es el autor del notable The Economic Institutions of Capitalism
+(1985), un libro básico por su teoría de la función de las empresas como estructuras
+de la resolución de conflictos, operantes sin necesidad de normas jurídicas promulgadas por un legislador. También su compañera de Nobel, la profesora Ostrom, estudiosa por cierto del Tribunal de las Aguas de Valencia, se ha distinguido en el análisis del nacimiento espontáneo de instituciones, cuya función no planeada ha
+resultado ser la corrección espontánea de efectos negativos de la acción individual.
+Con estas pinceladas creo haber establecido la necesidad de que los juristas de todas las especialidades presten alguna atención a los trabajos realizados por
+economistas en el campo del Derecho desde hace ya más de medio siglo.
+
+IV.
+ECONOMÍA DE LA POLÍTICA
+Ya no es posible ser un buen politólogo y no estar versado en la materia
+de public choice o decisión pública. Consiste este enfoque del mundo político en
+analizarlo suponiendo que votantes y representantes, ministros y funcionarios actúan
+principalmente para maximizar su propio interés, tras tomar en cuenta los costes de
+sus decisiones. Este tipo de análisis sirve luego para predecir algunos aspectos de la
+vida pública.
+El votante normal sabe que su voto tiene una mínima influencia en la composición de Parlamentos y Ayuntamientos. No es racional gastar demasiado tiempo
+en estudiar la trayectoria pasada de quienes solicitan su favor. Tampoco le vale la
+pena emplear tiempo en el estudio de los programas de los partidos. Por eso se
+moverá por eslóganes y fidelidades, para intuir quiénes pueden favorecer sus intereses. Le disgustará que haya elecciones demasiado frecuentes. Tiene otras cosas
+que hacer en la vida que ocuparse de política.
+El representante tiene un objetivo primordial que conseguir: la permanencia en el escaño. Intentará maximizar el número de votos de ciudadanos que le
+sean favorables. Propondrá un programa que encandile el mayor número posible
+de votantes. Para conseguir la reelección, evitará apoyar medidas impopulares. Sólo
+en momentos de grave crisis podrá atreverse a proponer políticas más extremosas
+o radicales y a apoyarlas con su voto en la Cámara pero sólo cuando cunda el desencanto en la ciudadanía.
+
+406
+
+
+
+El gobernante intentará maximizar su tiempo de permanencia en el cargo
+con medidas populistas, sobre todo cuando se acerque el momento de la posible reelección. Sólo al principio de su mandato se atreverá a aplicar medidas de reforma dolorosas, a la espera de que produzcan efectos favorables antes de la siguiente elección.
+El empleado público, por su parte, sólo obedecerá las órdenes de su jefe
+político si teme las consecuencias de su indisciplina. Su interés está en otra parte:
+estará en el aumento del tamaño de su departamento y del número de subordinados a su cargo. Pese a todas las proclamas en contrario de sus jefes políticos, hará
+todos los esfuerzos posibles por aumentar el peso del Estado y de la Administración
+en la sociedad.
+Los anteriores párrafos no son más que una somera descripción del enfoque económico de la política. Esta materia del public choice es mucho más rica en
+teoremas y predicciones de lo que unas pocas pinceladas puedan sugerir. Desde
+que Buchanan y Tullock escribieron The Calculus of Consent en 1962, las contribuciones de los especialistas han enriquecido notablemente nuestra comprensión de
+los procesos políticos. Por eso cuando oigo a los estudiosos interesados en la cosa
+pública quejarse de que el Gobierno no hace lo que ellos creen que necesita el
+país, me siento tentado de decirles que estudien la economía de la política.
+
+V.
+LOS FILÓSOFOS Y LA ECONOMÍA
+Dos ideas-fuerza de la ciencia económica pueden hacer de espejo para
+que la filosofía evite algunos errores innecesarios: la abundancia de actividades “notuistas” descubiertas por la economía en el mundo social; y la insuficiencia de la
+moralidad individual aplicada a las sociedades abiertas. Para explicarme seguiré las
+exposiciones de Wicksteed y de Hayek.
+
+No-tuismo en el mercado
+Son muchos los filósofos que personalizan, por así decir, todos los aspectos de la vida social. Los economistas analíticos, sin embargo, insistimos en la dificultad de atribuir directamente a la voluntad de los individuos las instituciones y
+accidentes de la vida social. Una cosa es el individualismo metodológico y otra el
+psicologismo reductivista.
+Fue Philip Henry Wicksteed quien, en el capítulo V de The Common Sense
+of Political Economy (1910), señaló el carácter ni egoísta ni altruista de la mayor
+
+407
+
+
+
+parte de las actividades mercantiles. Tuvo el acierto de llamar “no-tuísta” esa
+inmensa cantidad de actividades e intercambios que, desde la prehistoria ocurren
+en las sociedades humanas, en cuanto se abren a otras sociedades e intercambian
+bienes y servicios con ellas. En ese capítulo V,” Wicksteed analizó el “Nexo comercial y económico” (“The business and the economic nexus”). Presentó ahí el intercambio económico como una actividad no personal. Una transacción económica,
+dijo, es una actividad en la cual “yo no considero […] tus deseos excepto como el
+medio para satisfacer los de otro —no necesariamente los míos”. (Pág. 174) Una persona actúa “egoístamente” cuando se considera a sí misma sola; cuando actúe económicamente, considerará a cualquiera, menos la persona con la que está tratando.
+Aclara su pensamiento con un ejemplo. Un ama de casa, cuando prepara
+la comida para su familia, estará actuando en parte altruistamente y en parte egoístamente.
+En cambio, cuando está en el mercado, trata con gente en cuyo bienestar no tiene
+necesariamente ningún interés, pese a que un objetivo de la actividad de éstos es
+la de estar cuidadosamente atenta a sus gustos y susceptibilidades. (Pág. 177)
+
+En esta situación, el ama de casa se mueve por consideraciones “no-tuístas”. Las mismas consideraciones se aplican al hombre de negocios.
+El hombre de negocios medio no es probable que esté pensando en absoluto en los
+“otros” en el momento de la negociación, pero incluso así no sería adecuado aplicarle el término de “egoísta”, porque tampoco está pensando en sí. […] Quiere conseguir un buen trato, y no piensa directamente en nada más. […] Esta en la misma
+posición que un hombre que está jugando al criquet o al ajedrez. (Págs. 180-181)
+
+¡Imagínense lo aburrida que sería una partida de tenis entre dos altruistas
+y lo fea entre dos egoístas!
+
+El inevitable conflicto moral en el corazón de la Sociedad Abierta
+El infinito número de transacciones impersonales en cualquier economía
+por poco abierta que esté hace muy difícil la aplicación de las normas de moralidad privada, o beneficencia, como la llamaba Adam Smith.
+La sociedad […] no puede subsistir entre los que en todo momento están dispuestos a hacerse daño mutuamente. […] La beneficencia es menos esencial para la
+existencia de la sociedad que la justicia. La sociedad puede subsistir, aunque no
+en su estado más agradable, sin beneficencia; pero la prevalencia de la injusticia
+tiene que destruirla del todo. (II.ii.3.3)
+
+408
+
+
+
+En la actualidad interpretamos esta idea de Smith de manera algo más
+nítida, como que los humanos en realidad vivimos en dos mundos morales. Veamos
+En un reciente ensayo, Clark y Lee (2011) han subrayado el hecho de que
+parece haber un rechazo invencible de las conclusiones del análisis económico en
+amplios grupos porque la ética que subyace a ese análisis les repugna. La economía política del mercado, sea acertada o no en sus conclusiones y predicciones fácticas, es vista como inmoral. Se dice que está basada en la codicia, que está falta de
+sentimientos humanos, incluso que mina la propia moral de trabajo, inversión y
+cálculo disciplinado que fue la semilla de su éxito. Estos erróneos diagnósticos
+nacen de un intento de extender la moral personal a la ética del mercado.
+Sería necesario, por el contrario, que se reconociera la distinta naturaleza
+y necesaria autonomía de las dos morales. Clark y Lee sugieren con acierto que
+debemos distinguir entre dos tipos de deontología: la moralidad “magnánima” y la
+moralidad “mundana”.
+La moralidad magnánima puede definirse en términos de la ayuda al prójimo que
+satisface tres características – ayuda intencional, con sacrificio personal, y a beneficiarios identificables. […] La moralidad mundana puede describirse en términos
+generales como la que obedece reglas o normas de conducta generalmente aceptables, como decir la verdad, cumplir las promesas y obligaciones contractuales,
+respetar los derechos de propiedad de los demás, y abstenerse de causar intencionadamente daños a otros. (Págs. 3 y 6)
+
+La moralidad mundana, aunque es esencial para la existencia de la sociedad, carece de atractivo para el común de las gentes y a menudo no se la reconoce
+como moralidad en absoluto. Esto se debe a que no cumple las tres características
+de la moralidad magnánima: es interesada, lucrativa para ambas parte, y se dispersa
+entre transactores anónimos. La dirige la “mano invisible” de Smith —ese concepto
+tan detestado por las gentes de buen corazón. Háganse si no la siguiente pregunta:
+¿cómo ha hecho más bien a la Humanidad Bill Gates, al emprender “Microsoft” o
+al crear la “Fundación Bill y Melinda Gates”? Sin duda lo primero.
+La distinción entre moralidad magnánima y moralidad mundana y el atractivo emocional de la primera permite comprender mejor el porqué del rechazo
+general de la moralidad mundana, aunque sea esencial para la pervivencia de la vida
+social.
+Sin embargo, es esencial el saber que esos dos tipos de moralidad son
+diferentes. Los hombres civilizados por desgracia tenemos que resignarnos a que
+ambas sean inevitablemente incompletas. Como dijo Hayek en (1988):
+
+409
+
+
+
+Si aplicásemos las reglas del microcosmos (es decir, de los pequeños grupos, por
+ejemplo, la familia) al macrocosmos (la civilización en sentido amplio), sin modificarlas y sin limitarlas, como nos lo piden nuestros instintos e inclinaciones sentimentales, lo destruiríamos. Pero, si aplicáramos siempre las reglas del orden extenso a
+nuestros grupos más íntimos, los aplastaríamos. Por tanto debemos aprender a vivir
+en mundos a la vez. (Pág. 18)
+
+Dificultades de aplicación del imperativo categórico
+Lo amplio de las zonas de la sociedad gobernadas por el no-tuísmo y la
+moralidad mundana conducen a pensar que es imposible exigir que apliquemos el
+imperativo kantiano a todos nuestros actos. Señala Wicksteed:
+Sería posible mantener que, desde un punto de vista abstracto, al deber ser toda persona objeto de nuestro interés y benevolencia directas, hay que clasificar como
+amoral e incluso inmoral cualquier relación caracterizada por la ausencia de tal interés [personal]. Pero es ésta una posición virtualmente insostenible. La limitación de
+nuestras capacidades impediría que tomáramos un interés igualmente activo por
+los asuntos de todo el mundo, incluso si todos fuesen igualmente dignos de él.
+
+El no tomar como medio sino como fin a todas las personas que nos rinden un servicio o entregan una mercancía a cambio de ese instrumento que es el
+dinero es imposible en la Sociedad Abierta. Cierto es que Kant nos conminó a no
+utilizar la otra persona sólo como medio sino también como fin. Pero es mi opinión
+que ni siquiera esta regla matizada es aplicable en el inmenso mundo del no-tuísmo,
+que forma el foco de lo que estudian los economistas.
+He aquí, pues, uno de los casos en que la observación de la realidad
+puede servir para refutar una proposición filosófica. La ciencia económica tiene
+algo que decir a todos los especialistas de otros campos presentes en nuestra Academia.
+
+410
+
+
+
+BIBLIOGRAFÍA
+ALONSO-CORTÉS Y CABRILLO (2011), “From merchants to speakers: The common origin of trade
+and language”, European Journal of the History of Economic Thought (pronta publicación).
+BECKER, GARY (1960), “An Economic Analysis of Fertitlity”, reproducido en Becker (1995), pp.
+241-272.
+— (1962): “Irrational Behavior and Economic Theory”, reproducido en Becker (1995), pp. 18-35.
+— (1995), The Essence of Becker, editado con un ensayo introductorio por Ramón Febrero y
+Pedro Schwartz. Hoover Institution y Stanford University. Traducción española, 2ª
+ed. Ariel, Barcelona, 2001.
+— (1996), Accounting for Tastes, Harvard University Press.
+— (2004), “Economic Imperialism”, en Religion and Liberty, vol. 3, nº 2. Acton Institute for
+the Study of Religion and Liberty.
+CLARK, J.R. y LEE, DWIGHT R. (2011), “Markets and Morality”, The Cato Journal, vol. 31, no. 1,
+Winter, pp. 1-25.
+COASE, RONALD (1960), “The Problem of Social Cost”, Journal of Law and Economics, vol. 3,
+pp. 1-44.
+FERGUSON, ADAM (1767, 1967), An Essay on the History of Civil Society. Extracts published in
+The Scottish Moralists on Human Nature and Society, edited by Louis Schneider.
+University of Chicago Press, 1967.
+HAYEK, FRIEDRICH A. (1988), The Fatal Conceit. The Errors of Socialism, The University of Chicago Press and Routledge.
+IANNACCONE, LAURENCE R. (1998), “Introduction to the Economics of Religion, Journal of Economic Literature, vol. 36, nº 3, pp. 1465-1495.
+KAHNEMAN, DANIEL (2002), “Maps of Bounded Rationality: a perspective on intuitive judgment
+and choice”. Nobel Memorial Lecture, December 8, 2002.
+LUCAS, ROBERT E., JR., “Econometric Policy Evaluation: a Critique”, Carnegie Rochester Conference Series on Public Policy (1976), vol. 1, pp. 19-46. Analizado con ayuda de R.
+Febrero: “La moderna macroeconomía neoclásica”, En Paquete de Lecturas II:
+Macroeconomía inter-temporal y política económica, Universidad Complutense de
+Madrid (a ciclostil, 1998).
+NEUMANN, JOHN VON y MORGENSTERN, OSKAR (1944), Theory of Games and Economic Behavior,
+John Wiley & Sons. Nueva York.
+PELTZMAN, SAM (1975), “The Effects of Automobile Safety Regulation”, en Journal of Political
+Economy, vol. 83, nº. 4 (Agosto), pp. 677-725.
+POPPER, KARL (1944, 1961), La miseria del historicismo, Trad. Pedro Schwartz, Taurus, Madrid.
+SIMON, HERBERT A. (1978), “Rational Decision-Making in Business organizations”. Nobel Memorial Lecture, 8, December, 1978.
+
+411
+
+
+
+SMITH, ADAM (1759, 1976), The Theory of Moral Sentiments, en The Collected Works and Correspondence, Edited by D.D. Raphael and A.L. MacFie. Clarendon Press, Oxford
+SCHWARTZ, PEDRO (2006), En busca de Montesquieu, La democracia en peligro, Ediciones
+Encuentro, Madrid.
+— (2011), Lecciones de economía para Zapatero y sus sucesores… en dos tardes, Espasa,
+Madrid.
+WILLIAMSON, OLIVER (1985), The Economic Institutions of Capitalism, Simon and Schuster.
+Nueva York.
+
+412
+
+

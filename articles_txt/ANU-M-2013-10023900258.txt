@@ -1,0 +1,785 @@
+METAFÍSICA Y TRAGEDIA
+CONSIDERACIONES EN TORNO AL EDIPO REY, DE SÓFOCLES
+Por el Académico de Número
+Excmo. Sr. D. Mariano Álvarez Gómez*
+
+I
+Es claro —y quiero dejarlo consignado desde el comienzo— que no
+pretendo hablar de la tragedia en general, tema amplísimo que además se suele
+entender en cada caso de un modo bien diferente. Me restrinjo a una de las tragedias de Sófocles —una de las siete que de él se han conservado: Edipo rey.
+Con anterioridad he escrito tres ensayos sobre otra de sus tragedias, la que se
+considera en cierto modo como la más atractiva por el carácter y valentía de la
+protagonista: Antígona. En concreto, he expuesto la concepción antropológica
+tomando como referencia el texto que canta el coro en el Estásimo primero (vv.
+332-375), que comienza así: “Muchas cosas asombrosas existen y, con todo,
+nada más asombroso que el hombre”1.
+En el segundo ensayo analicé el conjunto de esta pieza bajo el punto
+de vista más bien ético: Antígona o el sentido de la frónesis 2. Por último, bajo el
+título: El drama de la individualidad, he tenido en cuenta también el puesto que
+Hegel le asigna a Antígona en la estructura de su obra, La fenomenología del
+espíritu: nada menos que representar la base del mundo ético, tesis esta que
+expone mediante el análisis de la contraposición entre Antígona y Creonte, valga
+decir, entre la ley divina y la ley humana, entre la persona individual, que ha llegado a su mayoría de edad, es decir, que ha tomado conciencia de sí, y los
+poderes del Estado, a los que no se puede sustraer y está obligada a respetar3.
+
+* Sesión del día 11 de diciembre de 2012
+1
+M. Álvarez Gómez, “La reconciliación en el plano antropológico”, Estudios Trinitarios 28 (1994), pp. 3-19; también en: Pensamiento del ser y espera de Dios, Sígueme, Salamanca, 2004, pp. 479-493.
+2
+M. Álvarez Gómez, “Antígona o el sentido de la frónesis” Ágora 2001, pp. 5-22.
+
+239
+
+
+
+En este caso me ocupo de Edipo Rey, y ello mediante una referencia
+expresa a la Metafísica. Diré muy brevemente por qué. Hace unos años
+comenté con una cierta amplitud el enunciado del que Aristóteles considera
+como el principio más profundo: “es imposible que lo mismo convenga y no
+convenga a lo mismo al mismo tiempo y bajo el mismo aspecto”4. Me detuve
+entonces en las implicaciones de esta formulación5. Pero me llamó mucho la
+atención que Aristóteles, por lo general tan sobrio y moderado en su discurso,
+se irritara sobremanera contra quienes en su opinión niegan ese principio. Protágoras especialmente, y también Heráclito. Y la razón de que Aristóteles se irritara de esa forma no es otra que, si se niega el principio, se da entrada de lleno
+al relativismo, convertido en norma última del pensamiento y de la acción. Tan
+legítimo es, si se niega el principio, afirmar una cosa como la contraria, dar por
+válido hoy lo mismo que sin razón alguna rechazamos mañana.
+Las consecuencias pueden ser entonces la mar de graves en cualquier
+campo de la vida humana, la moral y la política sobre todo. Prometer defender hoy lo que se está dispuesto a negar mañana sin que entre tanto haya surgido nada nuevo puede traer consigo perjuicios terribles, muy difíciles de subsanar. En la vida práctica este principio se viene a negar una y otra vez, con
+frecuencia sin darle a este hecho importancia. Heidegger, tan perspicaz en
+asuntos filosóficos, anota al comentar el principio de contradicción: “Con afirmaciones contradictorias que, sin que nada lo impida puede proferir sobre la
+misma cosa, el hombre abandona la esencia y se coloca en la inesencia, cortando así la referencia al ente en cuanto tal. Esta caída en la inesencia de sí
+mismo tiene con ello algo inhóspito por cuanto siempre acaece como algo
+inofensivo: en medio de ella los negocios y las diversiones continúan exactamente como antes, y en general no tiene demasiado peso qué y cómo se
+piensa, hasta que un día la catástrofe está ahí, un día que quizá necesita siglos
+para surgir de la noche de la creciente falta de pensamiento”6. Con otras palabras, el hombre se contradice, con lo cual infringe el principio supremo, que
+lo que viene a expresar es que la esencia del ser consiste en la permanente
+ausencia de contradicción. Tiene pues un tono dramático el enunciado del
+principio de no contradicción, puesto que si éste es el más firme de los principios y sin embargo se infringe una y otra vez, ello significa que cuando esto
+ocurre se perpetra un atentado contra la esencia misma del ser y en consecuencia contra lo que desde la perspectiva aristotélica debería considerarse
+como el más alto de los valores.
+
+3
+M. Álvarez Gómez, “El drama de la individualidad: Antígona”, en: Liberación y constitución del espíritu. Elementos hegelianos en el pensamiento contemporáneo, Universidad de Salamanca, 2010, pp. 13-25
+4
+Aristóteles, Metafísica IV, 3, 1005b 19-21.
+5
+M.Álvarez Gómez, “La firmeza del principio de no-contradicción según Aristóteles” en: J. M. Hernández Díaz
+(coord..) Cuestiones actuales de Filosofía y Pedagogía, Hespérides, Salamanca, 2001, pp. 17-32.
+6
+M. Heidegger, Nietzsche I, Neske, Pfullingen 1961, p. 63.
+
+240
+
+
+
+Pero ¿cómo hablar de dramatismo en Aristóteles, y sobre todo respecto
+del primero y más firme de los principios, que como tal es inalterable y, por consiguiente, también inviolable? ¿No es este principio el fundamento de la Lógica,
+y no es la Lógica un edificio consistente y coherente en sí mismo? Sin duda
+alguna, Aristóteles es el padre de la Lógica. Durante muchos siglos se ha considerado como definitivamente válida la obra que él llevó a cabo en ese orden.
+Kant consideraba que Aristóteles había construido con su Lógica una ciencia
+perfecta, que por tanto no necesita corrección ni complemento alguno7. No sólo
+Kant. Todavía Heidegger, que sin duda tenía que saber ya de la irrupción de la
+Logística o Lógica formal o Lógica matemática, es de la misma opinión8.
+Sea como fuere en lo que respecta a la Lógica aristotélica y la Lógica formal, es claro que el principio de no contradicción, tal como lo enuncia Aristóteles tiene una expresión formal, por ejemplo, en la fórmula: “Si p, no no-p”. Pero
+el principio de no contradicción es válido —el más firme además— no sólo para
+la Lógica, sino también para la Filosofía primera, es decir, para lo que con posterioridad —desde Andrónico de Rodas— se viene llamando Metafísica. Y si es
+válido para la Filosofía primera, lo es también para toda otra filosofía, que deberá
+tener su fundamento en aquella. Lo imposible a que se refiere el enunciado del
+principio no significa que el hombre no puede decir al mismo tiempo —áma—
+y bajo el mismo aspecto —katá tó autó— sobre una misma cosa, sí y no, una
+cosa y la opuesta. Lo imposible es que por ese procedimiento, el hombre pueda
+conocer lo que pretende en cualquier orden; es decir, que pueda conocer la verdad en absoluto. Vale el principio por tanto para toda ciencia, también por consiguiente para las ciencias que se refieren a la vida, porque el principio expresa,
+como hemos visto, la esencia del ser y por ende de la vida misma.
+Esa irrupción frívola y desenfadada de la contradicción en el modo de
+decir y pensar las cosas en general, por consiguiente sobre la vida misma, y
+sobre todo, sobre la vida humana, es lo que le lleva a Aristóteles a perder la
+paciencia y expresarse en términos duros y contundentes. Baste, como muestra, el texto siguiente:
+Además, si las contradicciones son todas simultáneamente verdaderas dichas de uno
+mismo, es evidente que todas las cosas serán una sola. Pues será lo mismo una trirreme
+que un muro o un hombre, si de todo se puede afirmar o negar cualquier cosa, como
+necesariamente han de admitir los que hacen suyo el razonamiento de Protágoras.
+Pues, si alguien opina que no es trirreme el hombre, es evidente que no es trirreme;
+por consiguiente, también es trirreme, si la contradicción es verdadera. Y resulta entonces lo que dice Anaxágoras, que todas las cosas están juntas; de suerte que nada existe
+verdaderamente. Así, pues, estos filósofos parecen hablar de lo indeterminado, y, cre-
+
+7
+8
+
+I. Kant, Crítica de la razón pura, B VIII.
+Cf. M. Heidegger, Sein und Zeit, 10ª ed. Niemeyer, Tübingen 1963, §33.
+
+241
+
+
+
+yendo hablar del Ente, hablan del No-ente. Pues el Ente en potencia y no en entelequia es lo indeterminado9.
+
+En este contexto, en que sobre la base del principio de no contradicción Aristóteles rechaza rotundamente el relativismo con respecto a lo esencial
+en cada caso, encontramos una de sus caracterizaciones más claras y contundentes de lo que entiende por verdad y falsedad. “Decir, en efecto, que lo que
+es no es o que lo que no es, es, es falso, y decir que lo que es, es y que lo
+que no es no es, es verdadero”10. De forma concentrada expone Aristóteles en
+este Libro IV de la Metafísica en torno a una palabra, mínima en extensión y
+también cabría pensar en significado, la palabra “ser”, tres cosas que han venido
+haciéndose valer, bien que con diferentes matices a lo largo de toda la historia del pensamiento: que el ser en cuanto ser es el objeto de la filosofía primera
+o Metafísica (Heidegger dirá que la filosofía en cualquiera de sus manifestaciones no tiene otro objeto11); que la imposibilidad de que algo sea y no sea lo que
+es, es el principio primero y más firme del pensamiento y que la verdad consiste, dicho escuetamente, en afirmar el ser y en negar lo que no es. Y además
+encontramos otras dos cosas derivadas de las anteriores y que hasta el día de
+hoy continúan siendo objeto de reflexión y crítica: de un lado, el rotundo
+rechazo, como ya hemos visto, del relativismo, y de otro, junto con esto o más
+bien unido a esto mismo, la idea de que lo aparente no puede, en modo
+alguno, ser criterio de verdad:
+Pero si no todas las cosas son relativas, sino que hay también algunas que son en sí
+y por sí, no puede ser verdadero todo lo aparente; pues lo aparente es aparente para
+alguien; de suerte que el que dice que todas las cosas aparentes son verdaderas convierte todos los entes en relativos12.
+
+Podrían condensarse los diferentes aspectos indicados en dos: lo verdadero y lo aparente, que sin embargo no coexisten, de forma neutra o indiferenciada, el uno al lado del otro, sino que lo verdadero tiene la prioridad y
+ostenta además el derecho a imponerse frente a lo simplemente aparente. Esto
+es sin duda doctrina aristotélica, pero con ello desembocamos en el tema que
+aquí nos interesa más directamente. Es como si Aristóteles se hubiera inspirado
+en Sófocles, y más concretamente en el Edipo Rey, para razonar de la forma en
+que lo hace sobre lo aparente y lo verdadero. “Como si” solo, naturalmente. No
+se conoce al parecer ningún texto que documente la relación de dependencia
+
+Aristóteles, Met., IV, 4, 1007b, pp. 18-28.
+Op. cit., 1011b, pp. 27-28.
+11
+“Wir behaupten nun: Das Sein ist das echte und einzige Thema der Philosophie. Das ist keine Erfindung von
+uns, sondern diese Themenstellung wird mit dem Anfang der Philosophie in der Antike lebendig und wirkt sich in der grandiosesten Form in der Hegelschen Logik aus”. M. Heidegger, Die Grundprobleme der Phänomenologie, GA 24, Klostermann,
+Frankfurt, 1975, p. 15.
+12
+Met., IV, 1010, pp. 17-21.
+9
+
+10
+
+242
+
+
+
+de Aristóteles respecto de Sófocles. Con todo, no deja de ser llamativa la sintonía de aquél con éste en un doble sentido. Considera Aristóteles, por una parte,
+que Sófocles ha llevado a la tragedia a su más alta perfección13; y por otra parte,
+no deja duda alguna de que Edipo Rey es para él, aunque no lo llegue a afirmar
+explícitamente, la más lograda y, creo también, la más importante14. Lo cual
+puede deberse, no sólo a su perfección formal, sino, supuesta ésta, a la idea que
+nos transmite Sófocles acerca de la vida humana tanto por sus terribles contradicciones, como también por la exigencia de que se ajuste rigurosamente a
+determinados principios.
+Entrando ya en el contenido de la obra, veamos en qué mito o leyenda
+se apoya. Edipo es hijo de Layo y Yocasta, reyes de Tebas. Antes de nacer,
+Layo había suplicado a los dioses descendencia próspera. El oráculo que recibe
+es que tendrá el hijo que desea, pero que luego moriría a manos de su propio
+hijo. Con el fin de evitarlo, sus padres entregan a Edipo, siendo niño, a un pastor del palacio para que éste lo deje abandonado en el bosque. El pastor se
+compadece y se lo entrega a otro pastor, en este caso del rey de Corinto, quien
+lo adopta como sucesor. Andando el tiempo y siendo ya adulto, Edipo es ultrajado como hijo bastardo y extranjero. Abandona entonces Corinto y acude a
+consultar los oráculos para conocer su origen. En el camino se encuentra por
+casualidad a Layo y su comitiva. En la discusión que surge entre ambos, Edipo
+mata involuntariamente a Layo. Habiendo resuelto después el enigma famoso
+de la Esfinge, que venía exigiendo sacrificios a la población de Tebas, es aclamado por la ciudad como libertador y proclamado rey; se desposa además con
+la reina, de la que tiene cuatro hijos: Antígona, Ismene, Eteocles y Polinices. Por
+desposarse con la que fue su madre ha mancillado gravemente, de modo involuntario también, el lecho materno, lo que provoca la ira y el castigo de los dioses. La peste y una larga epidemia se apoderan de Tebas. Edipo envía entonces a su cuñado Creonte al santuario de Delfos para conocer el remedio del
+mal, el cual vuelve con el mensaje de que era preciso vengar el asesinato de
+Layo. Cuando al fin Edipo reconoce que había sido él mismo el causante de
+ambos crímenes —la muerte del padre y la deshonra de su madre, ésta se suicida y él destruye las niñas de sus ojos.
+Sobre esta leyenda construye Sófocles el mito de Edipo Rey, a partir de
+cuya lectura se pueden formular las cuestiones siguientes:
+1. ¿cómo se produce la inversión del comienzo, en el que Edipo se
+muestra rodeado de la gloria y esplendor de un rey admirado y querido por su pueblo, hasta llegar a un final que supone la negación
+total de lo que aquel comienzo era, o parecía ser?
+13
+Aristóteles, Poética, edición trilingüe de Valentín García Yebra, Gredos, Madrid, 1974, 1449ª, pp. 10-15. García Yebra anota: “Aristóteles considera como el estado natural de la tragedia el grado de desarrollo a que había llegado con
+Sófocles”. L. c., Nota 80, p. 258.
+14
+cf. N. 13, 1452, pp. 22-33.
+
+243
+
+
+
+2. ¿cómo se desarrolla el proceso en el que mediante sucesivos giros
+dialécticos lo que se presenta primero como una realidad que nadie
+cuestiona resulta ser al fin mera apariencia por “la fuerza de la verdad”?.
+3. ¿cuál es el sentido que tienen al fin tanto la apariencia como la verdad o, dicho con otras palabras, cual es la instancia desde la que
+se determina el significado tanto de una como de otra?.
+4. ¿tenemos que ver con un destino ciego o más bien con la búsqueda
+apasionada de la verdad?
+5. ¿cuál es la relación de esta verdad con lo divino y lo sagrado?
+
+II
+Al comienzo, nada da la impresión de que la tragedia se vaya a proyectar sobre Edipo y, menos aún, que termine aniquilando su vida. Lo que de forma
+inmediata se advierte es más bien lo contrario. Existe un grave mal en la ciudad
+y por ello ha acudido al palacio un grupo de ancianos y de jóvenes en actitud
+suplicante para que su rey les salve de nuevo. Y Edipo, consciente de la legitimidad de su poder así como de la aceptación y estima de que goza, se dirige a
+ellos, dispuesto y decidido a atender sus peticiones. Sabe de las desgracias que
+el pueblo está padeciendo, pero quiere que ellos se la expongan:
+porque considero justo no enterarme por otros mensajeros, he venido en persona, yo,
+el por todos llamado Edipo, el famoso entre todos. Así que, oh anciano, ya que eres
+por tu condición a quien corresponde hablar, dime en nombre de todos: ¿cuál es la
+causa de que estéis así ante mí? ¿El temor o el ruego?15
+
+El anciano, sacerdote de Zeus, le dice que la ciudad está devastada en
+todos los sentidos, pero añade con plena convicción:
+la divinidad que produce la peste, precipitándose, aflige la ciudad con fuego abrasador16
+
+Y si bien no considera a Edipo “igual a los dioses”, sí lo ve él y cuantos le acompañan como:
+el primero de los hombres en los sucesos de la vida y en las intervenciones de los
+dioses17
+
+Sófocles, Edipo Rey, en: Tragedias, traducción y notas de Assela Alamillo, Gredos, Madrid, 1981, vv. 6-10.
+Op. cit., vv. 27-28.
+17
+Op. cit., vv. 31-34.
+15
+
+16
+
+244
+
+
+
+Aparecen ya al comienzo de la obra tres niveles diferentes y relacionados entre sí: Edipo, que ostenta el poder, el sacerdote, que hace ostensible
+la presencia de Zeus, Dios supremo, es decir, de lo sagrado en general, y en
+tercer lugar el pueblo mismo que, aunque a partir de ahora desaparece de la
+escena, se revela como una dimensión esencial de la tragedia, puesto que es
+su sufrimiento extremo lo que hace que se manifieste la acción tanto del rey
+como de los dioses.
+A lo largo de la obra es sobre todo el coro quien mantiene vivos los
+derechos e intereses tanto de la divinidad como de la humanidad misma, representada por la desesperada población de Tebas. Pero es bien cierto que de los
+tres niveles que se advierten en la obra y que, sin duda intencionadamente,
+Sófocles tuvo cuidado en poner de relieve ya al comienzo: los dioses, el pueblo y el propio Edipo, es éste quien ocupa el centro de toda la acción. Y lo que
+más llama la atención, ante una mirada retrospectiva de conjunto, es el contraste insalvable entre el Edipo del comienzo y el del final. Cuanto más alto y
+elevado es el personaje, tanto más grave y dolorosa va a ser su caída inexorable. Al principio aparece como refugio y protección de todos, para terminar
+siendo excluido de todos y de todo, privado incluso de la luz del día. Muy por
+encima de lo que ya la misma leyenda decía: que era el hijo de la fortuna a
+quien el éxito le sonríe y que, siendo simplemente un extranjero, gana para sí
+un reino; más allá de esto Edipo es el que ha sido tocado por la gracia de los
+dioses y por ello es capaz no sólo de ayudar, sino también de salvar a su pueblo; el hombre divino, llevado por el favor de los dioses, el guía indiscutido de
+todo un pueblo y que no está ahí para sí mismo, sino para todos, y cuya voz es
+válida para todos18.
+No hay nada que, de entrada, haga dudar a Edipo de su propia seguridad. La “odiosa epidemia” que padece el pueblo le estimula tanto más, pues
+hace que se sienta de lleno en lo que es su tarea y le permite disponerse a ayudar inmediatamente y a solucionar los problemas:
+Piensa —le dice al anciano sacerdote— que yo querría ayudaros en todo. Sería insensible si no me compadeciera ante vuestra actitud19.
+
+Y luego que el sacerdote le expusiera con todo detalle la desgracia en
+que se ve hundido el pueblo, prosigue Edipo:
+Sé bien que todos estáis sufriendo y, al sufrir, no hay nadie de vosotros que padezca
+tanto como yo. En efecto, vuestro dolor llega solo a cada uno en sí mismo y a ningún
+otro, mientras que mi ánimo se duele, al tiempo por la ciudad y por mí y por tí20.
+
+18
+19
+20
+
+Cf. K. Reinhardt, Sophokles, 4ª ed. Frankfurt 1976, p. 105.
+Edipo Rey, vv. 13-14.
+Op. cit., vv. 60-65.
+
+245
+
+
+
+El primer golpe contra la seguridad de Edipo no va a venir tampoco
+de que tuviera que ver, ni siquiera como mención, con el viejo oráculo, según
+el cual él mismo sería el señalado, puesto que según dicho oráculo él iba a asesinar a su padre y deshonrar a su madre; nada de eso. Del nuevo oráculo, que
+él ha solicitado y que está ya a punto de llegar, solo espera que le indique una
+tarea a cumplir. El mismo comunica a quienes le han ido a suplicar:
+El único remedio que he encontrado, después de reflexionar a fondo, es el que he
+tomado: envié a Creonte..., mi propio cuñado, a la morada pítica de Febo, a fin de que
+se enterara de lo que tengo que hacer o decir para proteger esta ciudad21.
+
+Su compromiso de atenerse a las indicaciones de la divinidad es claro.
+Solo cuando más adelante, por boca del vidente Tiresias, es él mismo objeto
+de la acusación se resiste tenazmente a asumir esa situación, convencido de que
+la culpa está lejos de poder afectarle. De momento no solo está dispuesto a
+cumplir la tarea que le encomiende el oráculo, sino que está ya ávido de poner
+manos a la obra:
+Sería yo malvado si, cuando llegue [Creonte], no cumplo cuanto el dios manifieste22.
+
+Es sorprendente ver cómo todas cuantas imprecaciones Edipo considera aplicables de antemano al hipotético culpable, al fin van a recaer sobre él
+mismo. La misma decisión de cumplir diligentemente la tarea encomendada
+por el dios, junto con la convicción de que su propia vida es ajena a cualquier
+riesgo, es sospechosa. El hecho de alejar de sí toda culpa cuando aún nadie le
+pone a prueba sugiere que percibe, aunque confusamente, algo que podría
+poner su vida en peligro. Esto lo deja entrever Sófocles en el diálogo entre
+Edipo y Creonte, una vez que éste llega con el mensaje del oráculo de Delfos:
+Edipo: ¿Con qué respuesta del oráculo llegas?
+Creonte: Con una buena. Incluso las aflicciones, si llegan felizmente a término, todas
+pueden resultar bien.
+Edipo: ¿Cuál es la respuesta? Por lo que acabas de decir, no estoy ni tranquilo ni tampoco preocupado.
+Creonte: si deseas oírlo, estando estos aquí cerca, estoy dispuesto a hablar y también,
+si lo deseas, a ir dentro.
+Edipo: Habla ante todos, ya que por ellos sufro una aflicción mayor que por mi propia vida23.
+
+21
+22
+23
+
+246
+
+Op. cit., vv. 70-73.
+Op. cit., vv. 76-77.
+Op. cit., vv. 86-94.
+
+
+
+A pesar de esta ostentación de energía y de decisión, Edipo adolece de
+una notable inseguridad, que no puede sorprender si se manifiesta. De una
+parte, el asesino aún no está detenido ni siquiera identificado y, por tanto, al
+igual que asesinó a Layo, presumiblemente —piensa Edipo— por ambición de
+poder, también ahora podría intentar asesinarle a él (cf. v. 138). Por otra parte,
+él por su propia trayectoria tiene que ser un hombre inseguro, puesto que vino
+a Tebas huyendo de Corinto, cuando alguien “en plena embriaguez” —y la
+embriaguez es en ocasiones muy lúcida y audaz— le insultó diciéndole que no
+era hijo de su padre. Se lo contó a quienes él consideraba sus padres, que “llevaron a mal la injuria de quien había dejado escapar esas palabras” (vv. 783785). Esta reacción le alegra, pero no le tranquiliza y por ello, sin que sus
+padres lo supieran, se dirigió a Delfos, donde Febo —es decir, Apolo— le manifestó terribles y desgraciadas calamidades: “que estaba fijado que yo tendría que
+unirme a mi madre y que traería al mundo una herencia insoportable de ver
+para los hombres y que yo sería el asesino del padre que me había engendrado”24.
+Esto le confiesa a Yocasta, que ahora es su esposa y que había sido su
+madre, estando convencida en ese momento de que Edipo había muerto de
+niño, abandonado en el bosque, tal como junto con Layo lo había determinado esquivando la maldición del oráculo que pesaba sobre ellos. Edipo, a su
+vez, convencido plenamente de ser hijo de los reyes de Corinto oye del dios
+la terrible maldición y se aparta de su tierra y del que considera su linaje, como
+él ahora reconoce:
+Después de oír esto, calculando a partir de allí la posición corintia por la posición de
+las estrellas, iba, huyendo de ella, adonde nunca viera cumplirse las atrocidades de mis
+funestos oráculos25.
+
+De modo que Edipo es doblemente fugitivo: porque huye de su tierra
+y porque se considera perseguido por la terrible maldición. No puede por tanto
+sentirse seguro, no obstante la ostentación de poder y de gloria que posee, sin
+duda por sus propios méritos. Muestra de esa inseguridad es justamente el tono
+tan prepotente en el que se ha llamado el discurso de las maldiciones.
+Lo uno tiene que ver con lo otro. Al moverse en ese círculo de su
+poder que tiene una base frágil e insegura, Edipo acentúa su mando hasta el
+límite y adopta el tono propio de quien para reforzar su posición necesita un
+enemigo en quien, al margen de cumplir en él la ley, sea el objeto de su agresividad. Solo así se pueden comprender tanto algunas frases del discurso como
+su actitud ante el anciano Tiresias y su cuñado Creonte. Después de ordenar a
+
+24
+25
+
+Op. cit., vv. pp. 791-794.
+Op. cit., vv. pp. 795-798.
+
+247
+
+
+
+todos que quien sepa algo del culpable lo denuncie, sin dilación, manifiesta
+entre otras cosas:
+Prohíbo que en este país, del que yo poseo el poder y el trono, alguien acoja y dirija
+la palabra a este hombre, quienquiera que sea... Mando que todos le expulsen,
+sabiendo que es una impureza para nosotros. Esta es la clase de alianza que yo tengo
+para con la divinidad y con el muerto... e impreco para que, si llega a estar en mi propio palacio y yo tengo conocimiento de ello, padezca todo lo que acabo de desear
+para estos26.
+
+Edipo es naturalmente ajeno a que el destinatario de esa maldición es
+él mismo, aunque sí sabe que, dado el compromiso que ha adquirido con la
+divinidad de hacer ejecutar el castigo y, puesto que lo ha jurado ante el pueblo,
+en la hipótesis de que él terminara siendo el asesino, no podría eludir, aunque
+lo intentara, que sus maldiciones recaigan de lleno sobre él mismo. En la misma
+línea, solo que en un sentido más ominoso, se lee el texto siguiente:
+Ahora, cuando yo soy el que me encuentro con el poder que antes tuvo aquél, en
+posesión del lecho y de la mujer fecundada, igualmente por los dos, y hubiéramos
+tenido en común el nacimiento de hijos comunes, si su descendencia no se hubiera
+malogrado —pero la adversidad se lanzó sobre su cabeza— por todo esto yo, como
+si mi padre fuera, defenderé y llegaré a todos los medios tratando de capturar al autor
+del asesinato... Y pido para los que no hagan esto, que los dioses no les hagan brotar ni cosecha alguna de la tierra ni hijos de las mujeres, sino que perezcan a causa
+de la desgracia en que se encuentran y aún peor que ésta27.
+
+“Como si mi padre fuera”, dice Edipo, completamente ajeno a que de
+hecho es así y que es él mismo quien le dio muerte y, por tanto, aquél sobre
+quien debe recaer todo el peso de su propia maldición. Es como si su mismo
+lenguaje, por una especie de impulso inconsciente, le estuviera ya cercando y
+señalando, envolviéndole en una nube que le aísla de todo y de todos, y arrojándole a una completa soledad. Es como vivir en una mera apariencia. El vive
+de lleno en esa apariencia, que es para él su realidad y se encuentra ya a punto
+de ser arrojado violentamente de la misma. Y para ello nada mejor que alguien
+que lo sabe se presente a decir la verdad, tal como lo exige él mismo, que
+quiere aparecer como aquel que con más decisión y fuerza apremia para que
+esa verdad se desvele.
+Karl Reinhardt, en su libro dedicado a Sófocles —la fecha de 1933, en
+que se publica, podría ser significativa— caracteriza el Edipo Rey como “la tragedia de la apariencia humana”, bien entendido, añade, que conjuntamente
+
+26
+27
+
+248
+
+Op. cit., vv. 236-252.
+Op. cit., vv. 249-273.
+
+
+
+con la apariencia hay que pensar el ser, al igual que junto con la doxa —la opinión— hay que pensar la verdad, aletheia, en Parménides28, a quien Reinhardt
+dedica también una monografía. Heidegger, contra lo que es normal en él,
+encomia la tesis de aquél y la considera “eine grossartige Leistung”, “una aportación grandiosa”29.
+Es sin duda acertado considerar esta tragedia como una tragedia de la
+apariencia humana, tanto más cuanto que Reinhardt no elude la contraposición de apariencia y verdad. Pero la presencia de la verdad no está suficientemente acentuada.
+Yendo de menos a más, habría que distinguir tres significados de apariencia, que se dan en Sófocles, y concretamente en esta tragedia: 1) la apariencia como el aparecer o el manifestarse del ser. Edipo aparece como rey en
+cuanto que es rey. Bajo este aspecto, ser y aparecer tienen una relación intrínseca. 2) Un segundo significado del término apariencia es el que está muy próximo a lo que solemos entender como mera apariencia, es decir, el carácter
+fugitivo, inconsistente, caduco, de todo lo humano. Es lo que el Coro de la tragedia extrae como consecuencia general, una vez que Edipo acaba de caer en
+la cuenta de quién es él:
+¡Oh, descendencia de mortales! ¡cómo considero que vivís una vida igual a nada! Pues
+¿qué hombre, qué hombre logra más felicidad que la que necesita para parecerlo y,
+una vez que ha dado esa impresión, para declinar? Teniendo este destino tuyo, el tuyo
+como ejemplo, oh infortunado Edipo, nada de los mortales tengo por dichoso30.
+
+3) El tercer significado es el que encubre un ser real deslegitimado por
+completo. El segundo significado es un tópico de la literatura griega, y lo es
+también de otras, por ejemplo, de nuestra literatura barroca, pero se puede
+muy bien decir que es lo que la vida misma da de sí. En cambio, según ese tercer significado la apariencia no llega siquiera al umbral de lo que debería ser.
+Edipo nunca habría llegado a ser rey si se hubiera sabido quién era, si él, sobre
+todo, hubiera tenido no ya la certeza, sino la sospecha de quién era verdaderamente. Él mismo se habría apartado horrorizado de esa posibilidad. Su tragedia es el resultado de un yerro, de la “amartia”, que es un mal sin duda, pero
+no físico ni tampoco moral, sino fruto de la ignorancia. Y sólo hay un remedio
+contra él: que ese mal sea vencido por la verdad, con su sola presencia. Por
+eso esta tragedia debería ser considerada como la tragedia del desvelamiento,
+del descubrimiento de la verdad. Es lo que explícitamente se pone de manifiesto en el impresionante diálogo entre Edipo y el anciano Tiresias.
+
+28
+29
+30
+
+Cf. K. Reinhardt, op. cit., p. 108.
+M. Heidegger, Einführung in die Metaphysik, p. 82.
+Edipo Rey, vv. 1188-1196.
+
+249
+
+
+
+Puesto que tanto desea conocer la verdad, Edipo ha mandado traer al
+“sagrado adivino, al único de los mortales, a quien la verdad le es innata”31. Está
+pues Edipo ante la fuente más segura para conocerla. Y así lo reconoce al decir
+a continuación:
+¡Oh Tiresias, que todo lo manejas, lo que debe ser enseñado y lo que es secreto, los
+asuntos del cielo y los terrestres. Aunque no ves, comprendes, sin embargo, de qué
+mal es víctima la ciudad. A ti te reconocemos como único defensor y salvador de ella...
+Sálvate a ti mismo y a la ciudad, y sálvame a mí y líbranos de toda impureza originada
+por el muerto. Estamos en tus manos. Que un hombre preste servicio con los medios
+de que dispone es la más bella de las tareas32.
+
+Edipo cree, como el Coro, que el adivino “ve lo mismo que el soberano Febo” (v. 285). Pero entonces Tiresias empieza por utilizar un lenguaje tan
+sorprendente como contradictorio. Ha venido, pero no debiera haberlo hecho,
+porque su clarividencia le a va perjudicar. Él dice saber lo que ha ocurrido,
+pero se resiste a cumplir con su tarea de adivino; el espectador puede entrever que él tiene algo grave contra Edipo, pero lo dice de tal forma que al mismo
+tiempo lo oculta:
+Todos han perdido el juicio. Yo nunca revelaré mis desgracias, por no decir las tuyas33.
+
+Un tanto críptico en la forma, pero claro en el fondo, pues lo que el
+adivino quiere indicar es que si dice lo que sabe las consecuencias van a ser
+malas para él mismo. Esto no lo advierte en cambio Edipo, quien simplemente
+ve en el lenguaje de Tiresias el deseo de no querer hablar y por tanto de no
+querer ayudar a resolver la situación.
+¿Qué dices? ¿Sabiéndolo no hablarás, sino que piensas traicionarnos y destruir la ciudad?34.
+
+Hay un intercambio de palabras entre los dos, cada vez más agrio,
+hasta tal punto que Edipo le reprocha a Tiresias que calla, porque es culpable,
+porque ha ayudado a “maquinar el crimen” (v. 347). Este reproche le resulta
+ya inasumible para Tiresias, que lanza la primera acusación directa contra
+Edipo:
+...tu eres el azote impuro de esta tierra”35.
+
+31
+32
+33
+34
+35
+
+250
+
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+
+vv. 298-9.
+vv. 300-316.
+v. 328.
+vv. 330-331.
+v. 355.
+
+
+
+Esto exaspera a Edipo, que amenaza con el castigo correspondiente:
+¿con tanta desvergüenza haces esta aseveración? ¿de qué manera crees poderte escapar a ella?36.
+
+Tiresias, lejos de ceder o de expresar el más mínimo temor, se afianza
+en su posición y pronuncia la frase que da sentido a toda la obra:
+Ya lo he dicho [es decir, he pronunciado esa palabra que es precisamente la que me
+va a dejar a salvo]. Pues tengo la verdad como fuerza37.
+
+A partir de este momento todo cambia de signo, puesto que de pronto
+se producen los tres fenómenos siguientes: 1) Tiresias formula la terrible acusación, lo que le va a obligar a Edipo a intentar demostrar que él no es el asesino, en lugar de buscarlo fuera; 2) puesto que “Tiresias ve lo mismo que el
+soberano Febo”, según el Corifeo (v. 285), se da un factor nuevo, cualitativamente distinto: la presencia de lo sagrado en la medida en que esto se manifiesta a través de los dioses; 3) en consecuencia, el Coro va a adoptar una actitud distinta, empezando por dejar entre paréntesis la culpa o la inocencia de
+Edipo, acentuando siempre la gravedad que ha adquirido el asunto.
+A Edipo le resulta de todo punto incomprensible lo que acaba de oír
+de boca del adivino, pero en lugar de despacharlo, le insta a que lo vuelva a
+decir. Tiresias, que se sabe en una posición superior a la de Edipo, afirma ahora
+lo mismo, pero de un modo más explícito:
+Afirmo que eres el asesino del hombre, acerca del cual están investigando38.
+
+La amenaza se endurece ahora:
+No dirás impunemente dos veces estos insultos39.
+
+Ante lo cual Tiresias agudiza aún más la acusación y dice algo que está
+ya implícito en lo anterior, pero que tiene que ser especialmente desagradable
+de oír para Edipo:
+Afirmo que tu has estado conviviendo muy vergonzosamente, sin advertirlo, con los
+que te son más queridos y que no te das cuenta de en qué punto de desgracia estás40.
+
+36
+37
+38
+39
+40
+
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+
+v. 57.
+v. 358.
+v. 363.
+v. 364.
+vv. 365-367.
+
+251
+
+
+
+III
+Sófocles afirma aquí por boca de Tiresias algo que es fundamental para
+la comprensión de la tragedia en general, y muy especialmente de esta. Edipo
+no advierte lo que está haciendo y, por tanto, tampoco puede ser consciente
+de en qué desgracia está. No es culpable en el sentido estricto en que la culpa
+se puede entender moralmente: hacer libremente algo a sabiendas de que está
+mal. Ha hecho algo gravísimo por ignorancia. Es la “amartia”. Aristóteles distingue netamente los actos voluntarios que se han elegido, previa una deliberación, de los actos que son voluntarios, pero que no son deliberados, y por
+tanto son fruto de la ignorancia. La “amartia” es una equivocación, gravísima
+en este caso, que a la vez exige asumir la responsabilidad. Edipo ha cometido
+una acción, que es suya y en ese sentido es libre, pero la ha cometido por
+ignorancia. Eso no le exculpa, puesto que él y solo él es el responsable. Las
+consecuencias que se derivan de esa acción equivocada, que nunca se habría
+producido si lo hubiera advertido, las tiene que asumir. Edipo no piensa ni de
+lejos en que él no es culpable por no saber lo que hacía. Esa hipótesis no es
+válida ni tiene sentido. O lo hizo o no lo hizo. Esa es la cuestión. En ese nivel
+se plantea el enfrentamiento con el adivino. No es extraño que Aristóteles sintiera simpatía por el Edipo de Sófocles, ya que aquí tenemos una aplicación
+manifiesta del principio de no contradicción.
+Se entabla una lucha por la verdad, no una lucha entre la apariencia y
+la verdad, sino pura y simplemente por la verdad, una lucha entre lo que uno
+afirma y el otro también afirma ser verdadero, de forma que la subjetividad
+tiene que quedar eliminada, pues verdad no es lo que uno y otro afirman, sino
+lo que es objetivamente verdad, lo que expresa que lo que ha sido, ha sido así
+efectivamente, lo cual está en sintonía con lo que hemos visto que es lo distintivo de lo verdadero en Aristóteles: decir de lo que es, que es y de lo que no
+es, que no es.
+El distanciamiento entre los dos contendientes se hace cada vez mayor.
+Edipo baja incluso a la descalificación personal, aludiendo a la ceguera del adivino, en tanto que éste, aparte de reafirmarse en la fuerza de la verdad, invoca
+la autoridad de Apolo, que representa la clarividencia y la razón:
+No quiere el destino que tú caigas por mi causa, pues para ello basta Apolo, a quien
+importa llevarlo a cabo41.
+
+Convencido de que él no es en modo alguno el asesino, Edipo niega
+toda credibilidad al adivino y piensa en lo que piensa fácilmente el que ostenta
+
+41
+
+252
+
+Op. cit., vv. 376-377.
+
+
+
+el poder, y más si este poder es omnímodo: que existe una conspiración contra
+él. Y para ello nada mejor que pretender implicar a alguien que le está próximo.
+¿Esta invención es de Creonte o tuya?42.
+
+A lo que Tiresias contesta, sin intentar siquiera defenderse, sino centrándose en lo que es su único objetivo: la verdad, para hallar la cual Edipo solo
+tiene que mirarse a sí mismo.
+Creonte no es ningún dolor para ti, sino tú mismo43.
+
+Pero Edipo no escucha ya ni puede escuchar, sino que convierte la
+sospecha de la conspiración en certeza:
+Creonte, el que era leal, el amigo desde el principio, desea expulsarme, deslizándose
+a escondidas, tras sobornar a semejante hechicero, maquinador y charlatán engañoso,
+que sólo ve en las ganancias y es ciego en su arte44.
+
+Lo obvio, porque tal parece ser a primera vista, es decir que a Edipo
+solo le importa defender su posición, en tanto que lo que le interesa es conservar el poder. Esto es así solo en parte, como veremos, puesto que lo que va
+a determinar su decisión final es la desvelación de la verdad misma. Pero ahora
+se manifiesta con la lógica propia de quien identifica la verdad con su opinión.
+Por ello tendrá que oír de Tiresias el más duro reproche, merecido sin duda,
+porque ha caído de lleno en su propia trampa:
+Puesto que me has echado en cara que soy ciego, te digo: aunque tu tienes vista, no ves
+en qué grado de desgracia te encuentras ni dónde habitas ni con quienes transcurre tu
+vida. ¿Acaso conoces de quienes desciendes? Eres, sin darte cuenta, odioso para los tuyos,
+tanto para los de allí abajo como para los que están en la tierra, y la maldición que por
+dos lados te golpea, de tu madre y de tu padre, con paso terrible te arrojará, algún día,
+de esta tierra, y tú, que ahora ves claramente, entonces estarás en la oscuridad45.
+
+Tiresias se siente respaldado por la autoridad de Apolo para poder
+hablar a Edipo en ese tono:
+Aunque seas el rey se me debe dar la misma oportunidad de replicarte, al menos con
+palabras semejantes. También yo tengo derecho a ello, ya que no vivo sometido a ti,
+sino a Loxias46.
+
+42
+43
+44
+45
+46
+
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+Op. cit.,
+
+v. 377.
+v. 379.
+vv. 385-390.
+vv. 413-420.
+vv. 408-413.
+
+253
+
+
+
+A pesar de la dureza del reproche, que en definitiva se centra en que
+Edipo está en tinieblas, en la no verdad, Tiresias deja una puerta abierta, ya que
+Edipo no sabe en el fondo lo que hace, no se da cuenta.
+El proceso que le llevará por fin a ver la luz es que, en el fondo, aunque quiere conservar el poder, lo que desea prioritariamente es conocer la verdad. Por de pronto, la acusación a Creonte, a quien culpa de querer arrebatarle
+el trono, no puede tener éxito, porque carece de todo fundamento y, además
+a Creonte mismo no le puede interesar:
+No tengo más deseo de ser rey que de actuar como si lo fuera... Ahora lo obtengo de
+tí todo sin temor, pero si fuera yo mismo el que gobernara, haría muchas cosas también contra mi voluntad47.
+
+En este punto, puesto que, en parte convencido por Yocasta, hermana
+de Creonte, no tiene motivo para temer ninguna conspiración, podía Edipo dar
+por terminado el asunto y disfrutar del poder. Al adivino no tiene, evidentemente, por qué temerlo, ya que éste no dispone de medio alguno para hacerle
+daño. Pero hay algo que le intriga: que el adivino le dijera que había dado
+muerte a Layo. De los demás ni se hace caso, puesto que él se tiene por hijo
+de Pólibo y de Mérope, reyes de Corinto. El mató ciertamente a un hombre,
+pero ¿por qué iba a ser Layo, si nadie le acusa de ello? Desea, sin embargo, sin
+que nadie le acuse, conocer la verdad.
+Hablando con Yocasta, descubre que el lugar donde él mató a un hombre podía ser el mismo en que murió Layo, una encrucijada de caminos (v. 717);
+que esa encrucijada estaba también en la misma región, Fócide; que el tiempo
+en que ambos hechos ocurrieron era también el mismo aproximadamente;
+incluso que Layo se parecía a él:
+¡Ay de mí infortunado —dice en este punto Edipo. Paréceme que acabo de precipitarme a mí mismo, sin saberlo, en terribles maldiciones48.
+
+Por vez primera se le ocurre pensar si el adivino no estaría en lo cierto
+al decirle que él había asesinado a Layo; si eso fuera así, tendría ya que abandonar el poder, tanto más cuanto que habría deshonrado el lecho del muerto.
+Pero podría salvarse aún, si es cierto lo que al parecer consta, que le dieron
+muerte unos bandoleros, no una persona sola. Si es así el no habría tenido
+nada que ver con ese hecho. Puede dar por buena la información de Yocasta
+e interrumpir aquí su búsqueda, pero prefiere continuarla, llamando al único
+testigo que aún vive, que entonces servía en el palacio y que una vez que llegó
+
+47
+48
+
+254
+
+Op. cit., vv. 499-502.
+Op. cit., vv. 744-745.
+
+
+
+allí Edipo y fue nombrado rey, prefirió ausentarse y vivir del pastoreo (cf. vv.
+258 y ss., 332). Yocasta, por su parte, le dice que es tal como ella le ha dicho,
+y si el pastor diera otra versión eso no tendría nada que ver con él, puesto que
+lo que había predicho el oráculo es que Layo moriría a manos de un hijo suyo,
+pero “aquel infeliz nunca le pudo matar, sino que él mismo sucumbió antes”
+(vv. 855-856).
+El siguiente en entrar en acción es un mensajero que viene de Corinto
+a notificar que el rey Pólibo ha muerto, con lo cual tanto Yocasta como Edipo se
+alegran en extremo de que los oráculos no se hayan cumplido, pues lo que éstos
+habían anunciado es que él sería el asesino de su padre (cf. vv. 964 y ss.).
+Pero el mensajero comunica otra noticia. Ante el temor de que se cumpla la segunda parte del oráculo y tenga que unirse a Mérope, Edipo decide no
+volver a Corinto para suceder a Pólibo (cf. v. 994 y ss.). Entonces el mensajero
+le comunica que Pólibo nada tenía que ver con su linaje (v. 1016) y que fue él
+mismo quien le encontró abandonado en el bosque y se lo entregó a Pólibo,
+quien le adoptó como hijo (v. 1020 y ss.).
+Edipo entiende claramente con esto quién es él y, a pesar de la insistencia de Yocasta en que se desentienda de ello, afirma que quiere descubrir
+su origen (vv. 1058 y ss.). Yocasta se retira, sabiendo que todo está ya perdido,
+en tanto que Edipo se afirma en su propósito:
+Yo sigo queriendo conocer mi origen49.
+
+Cuando por fin llega el pastor que había mandado venir, éste le confiesa que Yocasta le había entregado el niño con la orden de matarlo (vv. 1175
+y ss.). Edipo ya se da cuenta de quién es él definitivamente:
+Todo se cumple con certeza ¡oh luz del día, que te vea ahora por última vez!50
+
+Luego, un mensajero anuncia la muerte de “la divina Yocasta” (v. 1236)
+y relata con todo detalle la locura de Edipo, quien por fin aparece “con la cara
+ensangrentada, andando a tientas” (v. 1296). Lo demás ya no es esencial, a
+excepción de las palabras del Corifeo:
+¡Oh habitantes de mi patria, Tebas, mirad: he aquí a Edipo... En qué cúmulo de terribles desgracias ha venido a parar. De modo que ningún mortal puede considerar a
+nadie feliz con la mira puesta en el último día, hasta que llegue al término de su vida
+sin haber sufrido nada doloroso51.
+
+49
+50
+51
+
+Op. cit., v. 1078.
+Op. cit., vv. 1083-1084.
+Op. cit., vv. 1224 y ss.
+
+255
+
+
+
+Estas palabras finales y otras del mismo tono permiten legítimamente
+interpretaciones que ven en Edipo Rey el reflejo de la vida humana dominada
+por el miedo, la desesperación, su carácter inconsistente y apariencial, en que
+no cabe la felicidad. La intención de Sófocles, sin embargo, es poner de relieve
+el deseo y voluntad de saber, de conocer la verdad: un impulso que se adueña
+de Edipo hasta el punto de poner en juego su posición y su vida. Le lleva en
+efecto a privarse de la vista corporal, simbolizando así que lo que importa es atenerse al pensamiento y la virtud, pues la verdad que ha conocido es tanto teórica como práctica, ya que trae consigo la purificación y liberación de la ciudad.
+Es, en este sentido, un caso de ejemplaridad extrema y de crítica del poder.
+Edipo se juzga y condena a sí mismo y ejecuta la terrible sentencia en su propia carne.
+La verdad es aquí de tipo empírico. Se trata de saber quién fue el que
+perpetró hecho tan grave y vergonzoso. Pero lo que hace que ese hecho tenga
+tal calificativo es otra verdad, de carácter suprasensible, los valores —diríamos
+hoy—, que se fundan en un principio supremo. Hay “leyes sublimes” de “las
+palabras y de las acciones” —dice solemne el Coro. Y todo mortal las debería
+respetar, pues en ellas mora la Justicia, la poderosa divinidad, principio supremo
+que todo lo rige y ordena.
+Esa presencia de las leyes sublimes, como expresión de la Justicia, es
+capaz de provocar en el espectador el sentimiento de lo sagrado, del que es
+portador la vida humana, pese a su imperfección, y de hacer surgir en él —
+como nos dice Aristóteles en su Poética— mediante la compasión y el temor,
+la catharsis o purificación de las pasiones. Esta caracterización de la tragedia
+ha sido una de las más comentadas. Un aspecto es que la conmoción profunda,
+el horror incluso que despierta el final de Edipo, ϕοβοζ, provoque un sentimiento de lástima y compasión, ελεοζ —y que ambas cosas unidas generen un
+desahogo o liberación de esas pasiones. Pero hay otro aspecto unido a éste,
+consistente en la contemplación de que la verdad y la justicia se han cumplido
+y por tanto el espectador se siente reconciliado.
+
+NOTA FINAL
+En el curso de la elaboración de este trabajo se produjo el fallecimiento
+de cinco muchachas durante la celebración de la fiesta del Halloween en un
+local madrileño —el Madrid Arena— en la madrugada del 1 de noviembre de
+2012. Este suceso causó una conmoción general. Por lo tanto, plantearse si lo
+trágico y la tragedia son temas “actuales” es ocioso. El término “tragedia” fue
+comúnmente utilizado por todos los medios informativos para referirse al terrible acontecimiento.
+
+256
+
+
+
+En el texto aquí presentado se hace referencia a Aristóteles, implícitamente por lo tanto a la relación entre filosofía, en una de sus manifestaciones
+más auténticas, y tragedia. El desarrollo de este tema debería incluir el análisis
+de un trabajo —injustamente preterido— de Helmut Kuhn: Die wahre Tragödie.
+Platon als Nachfolger der Tragiker 52. Además, el estudio a fondo de las implicaciones filosóficas podría ayudar a comprender el significado y alcance de la tragedia en la concepción cristiana.
+
+52
+H. Kuhn, “Die wahre Tragödie. Platon als Nachfolger der Tragiker”, en: K. Kaiser (ed.) Das Platonbild, Olms,
+Hildesheim 1970, pp. 231-323. Este escrito fue publicado en ingles treinta años antes, con el título: The True Tragedy. On
+the Relationship between Greek Tragedy and Plato, Harvard, 1941.
+
+257
+
+
+
+

@@ -1,0 +1,640 @@
+NEUROÉTICA: ¿ÉTICA FUNDAMENTAL
+O ÉTICA APLICADA?
+Por la Académica de Número
+Excma. Sra. Dña. Adela Cortina Orts*
+
+1. UNA CUESTIÓN DECISIVA
+La pregunta que se formula en el rótulo de esta intervención podría parecer, a primera vista, una pregunta gremial, interesante sólo para quienes se dedican
+al oficio de la Filosofía y, muy especialmente, de la Filosofía Moral1. Si la ética se
+ocupa de aclarar el significado del término “moral”, de intentar descubrir sus fundamentos y con ello los principios que la orientan, y también de aplicar esos principios a la vida cotidiana, personal y compartida, averiguar en cuál de estas tres
+tareas está implicada la Neuroética debería importar a los filósofos.
+Sin embargo, no es esa la relevancia del tema. Se trata, por el contrario,
+de una pregunta de tan largo alcance que las posibles respuestas pueden transformar radicalmente nuestra autocomprensión como seres humanos. Si la Neuroética
+es una de las éticas aplicadas, entonces en ella se trata únicamente de aplicar las
+teorías filosóficas que la humanidad ha ido bosquejando a lo largo de la historia a
+los problemas que plantean la investigación y la intervención clínica en el ámbito
+de las neurociencias, como también a las consecuencias de los avances neurocientíficos en temas morales y jurídicos, como es el caso de la confidencialidad de los
+datos cerebrales, el uso de las técnicas de neuroimagen como pruebas ante los tribunales y el posible uso policial o laboral, por mencionar algunos.
+
+* Sesión del día 8 de junio de 2010.
+1
+Este estudio se inserta en los proyectos de investigación científica y desarrollo tecnológico HUM200766847-C2-01/FISO y FFI2010-21639-C02-01, financiados por el Ministerio de Ciencia e Innovación con Fondos FEDER
+de la Unión Europea, y en las actividades del grupo de investigación de excelencia PROMETEO/2009/085 de la Generalitat Valenciana.
+
+453
+
+
+
+Pero si la Neuroética es ética fundamental, si las investigaciones de las neurociencias pueden responder a las seculares preguntas “¿en qué consiste la moralidad?”
+y “¿por qué debemos comportarnos moralmente”, entonces, como quieren algunos de
+los neuroéticos, quedan arrumbadas las teorías éticas ya conocidas y las propuestas
+religiosas, y bastan los conocimientos de las neurociencias para ofrecer respuestas.
+Ciertamente, este afán de sustituir las teorías éticas tradicionales por éticas
+presuntamente científicas no es nuevo en la historia, pero en el siglo XXI se renueva
+con una fuerza inusitada, gracias al avance de las neurociencias.
+Como es sabido, las neurociencias son ciencias experimentales que tratan
+de explicar cómo funciona el cerebro, sobre todo el humano, valiéndose del método
+de observación, experimentación e hipótesis, propio de las ciencias empíricas, y de
+las herramientas técnicas disponibles. Dieron un paso prodigioso al descubrir que
+las distintas áreas del cerebro se han especializado en diversas funciones y que a la
+vez existe entre ellas un vínculo. Las técnicas de neuroimagen, tanto la resonancia
+magnética estructural como la funcional, permiten descubrir no sólo la localización
+de distintas actividades del cerebro, sino también las actividades mismas, el “cerebro en acción”, y son estas técnicas las que han promovido un extraordinario avance
+en las neurociencias.
+Es verdad que las técnicas de neuroimagen no llevan a obtener fotografías,
+como podría creer un público poco informado, y de ahí las advertencias de autoras tan expertas en el tema como Roskies (Roskies, 2008). Pero también es cierto
+que han permitido avances antes impensables, que han alumbrado el nacimiento de
+distintas áreas del saber como la Neurofilosofía, la Neuroteología, la Neuroeconomía, la Neuroestética o la Neuropolítica.
+Teniendo en cuenta lo obtenido hasta el momento con estos avances,
+¿podemos decir que la Neuroética es una ética aplicada, una muy sobresaliente
+dimensión de la Bioética, o es, por el contrario, una disciplina independiente, interdisciplinar por esencia, capaz de descubrir los fundamentos de la conducta humana
+en sus distintas formas de expresión, también en su expresión moral?
+
+2.EL SURGIMIENTO DE LA NEUROÉTICA:
+¿UNA PROVINCIA DE LA BIOÉTICA?
+En el año 1970, Van Rensselaer Potter, bioquímico y profesor de Oncología en la Universidad de Wisconsin, introduce un nuevo término en el mercado del
+saber, el término “Bioética”, al publicar el artículo “Bioethics: the science of survival”
+(1970), al que siguió en 1971 el libro del mismo autor Bioethics: Bridge to the Future.
+Con este nombre pretendía bautizar a una ética de nuevo cuño, que debería incluir
+
+454
+
+
+
+nuestras obligaciones hacia la biosfera en su conjunto, a diferencia de las éticas tradicionales, preocupadas fundamentalmente, si no exclusivamente, por las obligaciones hacia los seres humanos. La ética de las relaciones interpersonales, a juicio de
+Potter, es incapaz de asegurar la supervivencia de la especie humana y la mejora
+de la calidad de vida, de ahí que se haga necesario un nuevo saber, la “Bioética”,
+capaz de tender un puente entre la cultura de las ciencias y la de las humanidades.
+Podríamos decir que Potter asignaba a la Bioética el papel que Karl-Otto
+Apel reclamaba para una necesaria ética universal ya en 1967, en una conferencia
+pronunciada en Göteborg, con las siguientes palabras:
+La civilización científico-técnica ha confrontado a todos los pueblos, razas y culturas con una problemática ética común, sin prestar consideración a las tradiciones
+morales culturales, propias de cada grupo. Por primera vez en la historia del género
+humano los seres humanos se encuentran emplazados prácticamente frente a la
+tarea de asumir la responsabilidad solidaria por los efectos de sus acciones a escala
+planetaria. Podríamos pensar que a esta coacción a la responsabilidad solidaria
+debería corresponder la validez intersubjetiva de normas o, al menos, del principio fundamental de una ética de la responsabilidad (Apel, 1985: 344).
+
+Sólo que la ética que Apel reclamaba es esencialmente antropológica,
+mientras que la bioética, tal como Potter la entiende, prolongaría la tradición iniciada
+por Aldo Leopold en A Sand County Almanac de 1949, un texto que fue clave para
+el nacimiento de la Ecoética.
+Sin embargo, en los orígenes de la Bioética como una nueva forma de saber
+hay otros dos nombres imprescindibles, que le dieron un rumbo distinto al ecológico: André Hellegers, ginecólogo y obstetra, que funda el Kennedy Institute of Bioethics en la Universidad de Georgetown en 1971, y el filósofo Daniel Callahan, cofundador del Hastings Centre en 1969. Como se ha dicho en ocasiones, la Bioética tiene
+un “nacimiento bilocado”, porque desde él se marcan dos tendencias: la Bioética
+médica y la ecológica (Abel, 2001, XIII-XVII). Y resultó ser que de las dos tendencias la que asumió el rótulo e hizo fortuna con él fue la médica, la que cobró un
+fuerte impulso con aquellos principios del Informe Belmont de 1979, que no sólo se
+convirtieron en “los principios de la bioética”, sino que en ocasiones se tomaron
+como principios de las éticas profesionales (Gracia, 1988).
+Las relaciones personal sanitario-paciente centran la atención, especialmente el discurso del consentimiento informado o de la confidencialidad. En la
+década de los ochenta van cobrando importancia las cuestiones de justicia distributiva, la revisión de los sistemas de salud pública, la Ética de la economía de la salud,
+que en los noventa se atreve a entrar en la entraña de las organizaciones sanitarias
+(Conill, 2004, parte IV).
+
+455
+
+
+
+A fines del siglo XX la Bioética parecía estructurarse en tres niveles, estrechamente vinculados entre sí: una Macrobioética, que se identificaría con la Ecoética, una Mesobioética, en la que se incluirían la Economía de la Salud y la Ética de
+las organizaciones sanitarias, y una Microbioética, referida a la Bioética clínica, y la
+GenÉtica.
+Sin embargo, en 2002 irrumpe un nuevo rótulo que viene a poner en cuestión este edificio tan trabajosamente construido: “Neuroética”. El pistoletazo de
+salida de la Neuroética como una presunta disciplina académica se da en el congreso organizado por la Dana Foundation, que se ocupa de la investigación en neurociencia, y se celebró en San Francisco los días 13 y 14 de mayo de 2002. En él se
+reunieron más de 150 neurocientíficos, bioeticistas, psiquiatras y psicólogos, filósofos, profesores de derecho y políticas públicas y también periodistas, con el fin de
+presentar el tema en sociedad.
+En realidad, el término ya había sido utilizado en 1989 por R.E. Cranford
+en un artículo en el que habla del neurólogo como asesor ético y como miembro
+de los comités éticos institucionales. La presencia de expertos en cuestiones neurológicas ayudará a resolver los problemas éticos que se planteen en la práctica neurológica. Sin embargo, es el periodista William Safire quien da a conocer el término
+en un artículo publicado en The New York Times en 2002, y el Congreso de San
+Francisco supone el gran lanzamiento. En 2006 se constituye una Neuroethics Society
+en Asilomar, en 2008 aparece la revista Neuroethics, y hoy existen ya al menos dos
+centros de investigación: el National Core for Neuroethics de la Universidad de Vancouver (2007) y The Wellcome Centre for Neuroethics en Oxford (2009). Pero, ¿qué
+es la Neuroética?
+Los organizadores del congreso la definen como “el estudio de las cuestiones éticas, legales y sociales que surgen cuando los descubrimientos científicos
+acerca del cerebro se llevan a la práctica médica, las interpretaciones legales y las
+políticas sanitarias y sociales” (Dana, 2002, III). Estos descubrimientos se producen
+en los campos de la Genética, la imagen cerebral y el diagnóstico y la predicción
+de enfermedades. La Neuroética ha de examinar cómo han de tratar estos descubrimientos los médicos, jueces, abogados, las aseguradoras y quienes elaboran políticas públicas. Por su parte, Safire en la Introducción caracteriza la Neuroética como
+“el examen de lo correcto e incorrecto, bueno y malo, en el tratamiento del cerebro humano, en su perfeccionamiento, o en la indeseable invasión en el cerebro o
+en su preocupante manipulación” (Dana, 2002: 5).
+Y, ciertamente, a lo largo de las actas no se entiende la Neuroética sino
+como el estudio de las cuestiones éticas, legales y sociales que surgen a raíz de los
+descubrimientos de las neurociencias. Si ésta hubiera seguido siendo la única acepción, la Neuroética sería hoy una rama de la Bioética, una más de las vertientes de
+
+456
+
+
+
+la ética aplicada. Sin embargo, en las diferentes intervenciones del congreso van surgiendo cuestiones y propuestas que avalarán el nacimiento de una segunda acepción.
+En efecto, en su ponencia el célebre bioeticista Albert R. Jonsen reflexiona
+sobre los temas que han surgido en el congreso y, agrupándolos, diseña un mapa
+con tres niveles: 1) El nivel tectónico de las ideas, en que se plantean cuestiones
+como la del determinismo y la libertad, o como el problema del reduccionismo,
+cuestiones que surgen de forma recurrente en el ámbito filosófico, porque son insolubles. 2) El nivel geográfico (montes, ríos, etc.), donde se sitúan las cuestiones
+epistemológicas, en las que se encuentran filósofos y científicos. 3) El nivel local,
+el de los casos concretos, en el que surgen asuntos como la investigación con sujetos humanos, la responsabilidad en asuntos de justicia criminal, el tratamiento y la
+mejora del cerebro.
+Con ello nos abrimos a una segunda interpretación de la Neuroética, que
+reforzará Mobley en su resumen del congreso al asegurar que para entender el cerebro necesitamos nuevos paradigmas y arrumbar los viejos, que el incremento de
+nuestro conocimiento creará libertad, y no la inhibirá, porque “menos mágico no
+significa menos interesante”.
+La Neuroética tendrá entonces dos ramas fundamentales (Roskies, 2002):
+1) La ética de la neurociencia, que intenta desarrollar un marco ético para regular
+la conducta en la investigación neurocientífica y en la aplicación del conocimiento
+neurocientífico a los seres humanos. 2) La neurociencia de la ética se refiere al
+impacto del conocimiento neurocientífico en nuestra comprensión de la ética misma,
+se ocupa de las bases neuronales de la agencia moral. Las cuestiones fundamentales que surgirían en ella serían, a mi juicio: las relaciones mente-cuerpo, el problema
+de la identidad del yo, la ancestral aporía determinismo-libertad —de la que se han
+ocupado entre nosotros Mariano Álvarez, Pedro Cerezo (2007) y Javier Muguerza (2009:
+51 y 52)—, el retorno de la naturaleza humana (a la que cabe acceder mediante un
+método empírico-racional o mediante un método empirista), la peculiaridad de los
+métodos para acceder a las fuentes de lo moral (que pueden ser filosóficos o científicos), la naturaleza de la moralidad y la posibilidad de una ética universal basada
+en el cerebro. Cuestiones todas capitales para la vida personal, pero también para
+los gobiernos y las comunidades, muy especialmente para la educación.
+Me referiré en esta intervención a la “Neuroética” como neurociencia de
+la ética, y concretamente al intento de algunos neuroeticistas de diseñar un marco
+teórico para una ética universal con fundamentos cerebrales.
+Es verdad que desde su nacimiento han proliferado los trabajos dedicados
+a la Neuroética en su doble acepción, y algunos de ellos se han referido a la posibilidad de diseñar los trazos de una ética universal con bases cerebrales. Pero pocos
+
+457
+
+
+
+han intentado llevar a cabo la tarea de esbozar el marco teórico requerido para un
+intento de fundamentación semejante y para organizar las distintas informaciones
+que han ido obteniéndose con el avance de las neurociencias.
+En este sentido, las propuestas más relevantes son, a mi juicio, las de cuatro autores, dos de los cuales (Gazzaniga y Mora) pretenden recurrir lisa y llanamente al método experimental, propio de las neurociencias, mientras que los dos
+segundos (Hauser y Levy) quieren contar también con métodos filosóficos. Me referiré a sus propuestas en dos apartados distintos, tratando de sintetizarlas y de dialogar con ellas, apreciando sus virtualidades y sus límites.
+
+3. UNA FILOSOFÍA DE LA VIDA BASADA EN EL CEREBRO.
+MICHAEL S. GAZZANIGA Y FRANCISCO MORA
+Michael S. Gazzaniga es un neurocientífico cognitivo, que ha venido trabajando sobre cómo el cerebro posibilita el funcionamiento de la mente, cómo se forman y arraigan las creencias, qué tipo de mecanismos subyacen a estos fenómenos.
+Poco después del 11 de septiembre de 2001, bajo el mandato de Bush,
+Gazzaniga recibe una invitación para formar parte del nuevo Consejo de Bioética y
+acepta encantado. Tras el éxito alcanzado con su libro El cerebro social publica,
+entre otros muchos trabajos, El cerebro ético, que ha tenido una gran repercusión.
+Francisco Mora, por su parte, es catedrático de Fisiología Humana, doctor en Neurociencia, y sobre todo en su libro Neurocultura sigue muy de cerca los pasos de
+Gazzaniga en su pretensión de esbozar “una filosofía de la vida basada en el cerebro”, que permita arrumbar las narraciones religiosas y filosóficas tradicionales.
+En efecto, según Gazzaniga (2006: 171), teniendo en cuenta que la función
+esencial del cerebro humano es tomar decisiones, que se trata de un mecanismo de
+toma de decisiones, importa plantear la pregunta: ¿es posible que estén influidas por
+algún tipo de compás de moral universal que todos poseemos? La Neuroética debería intentar responder a cuestiones como esta, porque este saber consiste en “el
+análisis de cómo queremos abordar los aspectos sociales de la enfermedad, la normalidad, la mortalidad, el modo de vida y la filosofía de la vida, desde nuestra comprensión de los mecanismos cerebrales subyacentes (…). Es —dice— o debería ser
+un intento de proponer una filosofía de la vida con un fundamento cerebral” (2006:
+14 y 15; Mora, 2007: 32 y 159).
+Gazzaniga quiere defender la idea de que podría existir un conjunto universal de respuestas biológicas a los dilemas morales, una suerte de ética integrada en
+el cerebro, que convendría sacar a la luz, porque —según él— vivimos de esos principios de manera inconsciente, pero sería mucho mejor hacerlo de manera consciente.
+
+458
+
+
+
+Ahora bien, el camino para comprobar sus hipótesis es —a mi juicio—
+confuso. En principio, parece ser doble.
+En primer lugar, siguiendo a James Q. Wilson, el enfoque que comentamos considera que parecen existir ciertos instintos morales rectores de alcance universal, como por ejemplo, que todas las sociedades creen que el asesinato y el
+incesto están mal, que hay que cuidar a los niños y no abandonarlos, que no debemos mentir ni incumplir las promesas y que debemos ser fieles a la familia.
+Sin embargo, y a pesar de Gazzaniga, estos universales no parecen serlo
+tanto, porque hay culturas, como la egipcia, que apoyan el casamiento de los faraones con sus hermanas, como bien recuerda Carmelo Lisón, el asesinato de los niños
+malformados ha sido práctica habitual en distintos tiempos y lugares y tampoco el
+engaño recibe un rechazo universal. Importa, pues, ver si el segundo camino es
+más prometedor.
+El punto de partida del segundo camino será el habitual en la bibliografía
+neuroética: la formulación de juicios morales. Estos juicios, según la mayor parte de
+los neurocientíficos, son intuitivos y los justificamos post hoc. Contemplamos cómo
+actúan los demás (las neuronas espejo nos permiten comprender las acciones ajenas e imitarlas) y tomamos nuestras decisiones. Pero existe una desconexión entre
+nuestros juicios intuitivos y los razonamientos que aducimos para respaldarlos, en
+el caso de que se nos invite a dar razón. Éste es el punto clave según las reflexiones neurocientíficas acerca de una posible ética universal basada en el cerebro: la
+disonancia cognitiva entre los juicios y sus avales argumentativos.
+En este punto es central la investigación de Jonathan Haidt, psicólogo de
+Virginia, que lo expresó de modo palmario en el título de su famoso artículo “The
+Emotional Dog and Its Rational Tail”, como también en “Moral Dumbfounding: When
+Intuitions Finds No Reason”. Haidt pide a sus encuestados tomar posición ante una
+historia que trata de dos hermanos que tienen relaciones sexuales, habiendo tomado
+precauciones para que ella no quede embarazada. Ante la pregunta del encuestador
+muchos de los interpelados contestan que está mal, pero no saben por qué. Haidt
+entiende que es una respuesta intuitiva, formulada emocionalmente. Lleva a cabo
+nuevos experimentos y llega a la conclusión de que las personas formulan respuestas intuitivas, basadas en la emoción y, cuando se les pregunta, tratan de apoyarlas
+con argumentos. Éste es uno de los puntos clave en el discurso neuroético, porque
+cabe pensar que la perplejidad de los encuestados no depende de que tengan mejores o peores razones, sino del modo como está construido nuestro cerebro.
+Una segunda clave ineludible en la bibliografía neuroética, que Gazzaniga
+y Mora también asumen, viene constituida por los estudios de Joshua Greene y su
+equipo. Greene muestra que las decisiones ante dilemas personales suponen más
+
+459
+
+
+
+actividad cerebral en las zonas asociadas con la emoción y la cognición moral que en
+el caso de los dilemas impersonales (Greene, 2003). ¿No será que tenemos unos códigos inscritos en el cerebro por la evolución, estrechamente ligados a las emociones,
+que nos llevan a interesarnos por los cercanos y a desentendernos de los lejanos?
+Según Wilson, obedecemos a códigos de conducta, fundamentalmente
+emocionales, que se forjaron en el paleolítico, cuando los hombres vivían en poblaciones muy pequeñas y la ayuda mutua era necesaria para la supervivencia. Cuando
+se fue formando el cerebro humano los hombres vivían en grupitos homogéneos
+de raza y costumbres, que no sobrepasaron los 130 individuos; la homogeneidad y
+la cohesión social tenían un gran valor de supervivencia. De ahí que cuando hay
+cercanía física se activen los códigos morales emocionales de supervivencia profundos, mientras que, si no la hay, se activan otros códigos cognitivos más fríos, más
+alejados del sentido inmediato de supervivencia. Por eso nos afecta emocionalmente la situación de la gente necesitada y cercana, cosa que no ocurre con las gentes necesitadas que no conocemos. Las estructuras neuronales que asocian los instintos con la emoción se seleccionaron porque resulta beneficioso ayudar a la gente
+de modo inmediato.
+Las conclusiones que podríamos extraer de la propuesta de estos autores,
+aunque ellos no las extraen tan claramente, serían las siguientes.
+1) Los juicios morales están mediados por las emociones en un alto grado,
+como bien mostró Antonio Damasio (Damasio, 2004). Según Mora, a la
+hora de formular un juicio moral las emociones y sentimientos son centrales como un primer aguijonazo. Las emociones básicas se convierten
+en morales a través del control de la corteza prefrontal, que el individuo ejerce sobre ellas al estar en un contexto social (Mora, 2007: 76).
+2) Es posible, incluso necesario, hablar de una naturaleza humana, a
+cuyos rasgos no se accede a través de métodos propios de la metafísica, sino de las neurociencias.
+3) Nos afectan más los dilemas personales porque llevamos impresos en
+el cerebro esos códigos morales que nos han permitido adaptarnos y
+sobrevivir.
+4) La moral es un mecanismo adaptativo, un conjunto de normas, virtudes o valores que nos sirven para adaptarnos y sobrevivir.
+5) La evolución salva al grupo porque es la forma de salvar a la persona. La
+justicia de las normas tiene, pues, que ver con el interés por sobrevivir que
+induce a vivir siguiendo las directrices de la cooperación interesada.
+
+460
+
+
+
+6) Dado que “nuestra especie necesita creer en algo, en algún orden natural, uno de los cometidos de la ciencia moderna es contribuir a la descripción de ese orden” (Gazzaniga, 2006: 179).
+“La ética universal —dirá Gazzaniga (2006: 179)— nace del hecho de ser
+humano, que es claramente contextual, sensible a la emoción y orientada al refuerzo
+de la supervivencia. (…) Ése es el imperativo de la neuroética: partir de una constatación científica —la observación de que el cerebro reacciona ante las cosas según su
+configuración— para contextualizar y discutir los instintos viscerales que aportan los
+mayores beneficios —o las soluciones más lógicas— en determinados contextos”. Por
+su parte, Mora (2007: 159) cree que con la neurociencia se podrá llegar a “una ética
+universal, a través de la cual se puedan alcanzar valores y normas morales asumidos
+y respetados por todos los seres humanos. Porque la ética, ya no concebida como
+emanada de Dios (diferente para cada grupo social o geográfico), o grupos religiosos sin Dios, sino anclada en las raíces evolutivas del hombre y su cerebro, puede
+encontrar ahora un punto único y común de anclaje. La ética tiene claramente un origen biológico y aunque sea, como lo es, un producto en parte evolutivo, es auténtica y genuinamente humana. Los valores éticos tan diferentes, para grupos étnicos tan
+diferentes, pueden converger en reglas y normas establecidas por la neuroética, basadas en el funcionamiento del cerebro humano, base común de todos los hombres”.
+Como es obvio, este enfoque presenta aportaciones positivas, pero también una gran cantidad de problemas. Sintetizaremos nuestra evaluación en los
+siguientes puntos, algunos de los cuales serán también adecuados para los trabajos
+de Hauser y Levy:
+1) Es indispensable aclarar el punto de partida, referido a la formulación
+de juicios morales. Se afirma que son intuitivos, cuando lo bien cierto
+es que aprendemos socialmente a formular los juicios morales. El
+mismo Gazzaniga reconoce que el cerebro quiere creer, formar creencias y las formamos sobre la base de influencias culturales.
+2) Si lo único que queremos decir es que hay una cierta estructura,
+común a todos los hombres, que permite formular juicios a los que llamamos “morales”, diferentes en distintas culturas, es preciso reconocerlo lisa y llanamente y, sobre todo, aclarar la terminología, porque
+se habla indistintamente de intuiciones morales, instinto moral, sentido moral, competencia moral o capacidad moral para referirse a la
+capacidad humana para distinguir entre el bien y el mal, presuntamente generada por la evolución.
+3) La única semejanza en los contenidos de esos supuestos juicios intuitivos se refiere a los dilemas personales e impersonales. En el caso de
+
+461
+
+
+
+los primeros las zonas del cerebro que más se estimulan son las conectadas con la emoción, mientras que en los dilemas impersonales se
+estimulan más las conectadas con el razonamiento. Una enseñanza
+que es bien interesante para entender todavía mejor la predisposición
+a obrar en favor de los cercanos, como señalaban, entre otros, Hume
+y Kant, aunque sin conocer las bases neurocientíficas.
+4) Ciertamente, es importante prestar una mayor atención a las emociones
+en el terreno moral, pero la dimensión racional sigue siendo imprescindible, como muestra el caso mismo de los dilemas morales aducidos.
+5) La pretensión de extraer una ética universal con contenidos morales desde
+estos códigos cerebrales nos deja en una situación bien embarazosa.
+En principio, si esos códigos nos invitan a actuar en un determinado sentido en el caso de que queramos sobrevivir, no son sino consejos de prudencia,
+con nula legitimidad moral. Tienen la forma de los imperativos hipotéticos de la prudencia “si quieres sobrevivir, entonces tienes que hacer Y”, pero, como bien decía
+Kant, estos imperativos son analíticos en cuanto al querer, pero a posteriori en
+cuanto a los caminos que proponen, porque la meta puede alcanzarse por distintos
+caminos, entre los que tiene que elegir prudencialmente quien quiera sobrevivir.
+Ocurre, además, que lo seres humanos no sólo quieren vivir, sino sobre todo vivir
+bien, hasta el punto de que pueden llegar a sacrificar su supervivencia por valores
+que consideran elevados. Sigue siendo ilegítimo, pues, incurrir en falacia naturalista;
+de los diversos “es” neurocientíficos no surge un “debe” moral.
+Y en lo que se refiere a los caminos concretos que proponen nuestros autores, si es verdad que en el origen evolutivo de las relaciones sociales y durante los
+millones de años de construcción del cerebro humano la homogeneidad y cohesión
+social han tenido un gran valor de supervivencia, de modo que lo que queda fuera
+del grupo genera desconfianza y agresión; si es verdad, como dice Mora (2007: 92)
+que “la diferencia, vista así, siempre ha creado agresión y violencia por la razón evolutiva de que produce inseguridad y desafía la supervivencia”, entonces no tendremos
+más remedio que reforzar las relaciones con los semejantes y precavernos frente a los
+diferentes. Pero esto es justamente lo contrario de lo que parece ser el progreso moral,
+el intento de ampliar el círculo del “nosotros” desde los ciudadanos, incluyendo a
+esclavos, mujeres, negros, incluso animales, y entendiendo que no es moralmente
+justo atender sólo a los que son capaces de “reciprocar” (Cortina, 2007, cap. 2).
+De ahí que los autores que se proponen fundamentar una ética universal
+en bases cerebrales acaben esperando que la evolución nos dote de un sentimiento
+de benevolencia universal, acorde a las nuevas situaciones. De ello hablaremos en
+el próximo apartado.
+
+462
+
+
+
+6) Esta situación crítica se suaviza cuando estos mismos autores nos informan de que el hombre es claramente dependiente de su entorno
+social, y menos de sus genes, porque tras el nacimiento desarrolla casi
+el 70 % de su cerebro en interacción constante con el medio y con los
+demás, de modo que los códigos inscritos en el cerebro pueden ser
+modificados ampliamente. No parece, pues, que sean las bases cerebrales las que determinan nuestra conducta, sino que hay un fuerte
+componente nacido de la relación social.
+Sin embargo, esta nueva información no resuelve los problemas, sino que
+los desplaza hacia una nueva pregunta: ¿desde dónde se deben modificar los códigos cerebrales?, ¿cuáles son los criterios para determinar lo moralmente bueno y malo?
+7) Si el neurocientífico acaba afirmando que es preciso adaptar aquellos
+códigos ancestrales a las nuevas situaciones, que cada persona desarrollará su cerebro en interacción con el medio, y que, a fin de cuentas, lo que permiten descubrir las neurociencias es una estructura de
+los seres humanos a la que podemos llamar “moral”, este ha sido el
+cometido de las teorías éticas de todos los tiempos.
+Pero lo que no parece posible desde la estricta neurociencia es explicar
+que la moral humana sea sólo un mecanismo adaptativo, que nuestras emociones
+morales se hayan universalizado de tal forma que emocionalmente nos preocupan
+también los extraños y cómo podemos distinguir entre el bien y el mal desde una
+ética basada en el cerebro. Parece que para llevar a cabo esas tareas es indispensable recurrir también a la reflexión filosófica, cosa que hacen, intentando esbozar un
+marco teórico, Marc D. Hauser y Neil Levy.
+
+4. UN MARCO EN EL QUE TIENE CABIDA LA REFLEXIÓN FILOSÓFICA.
+MARC D. HAUSER Y NEIL LEVY
+Ciertamente, la propuesta de estos autores no es unitaria ni su campo de
+especialización es el mismo. Hauser es profesor de psicología, biología de los organismos, biología evolutiva y antropología biológica en la Universidad de Harvard,
+mientras que Neil Levy parece tener una orientación más filosófica, además de psicológica. De hecho, Levy pretende en su libro Neuroethics ser el primero en ofrecer una teoría donde se enmarcan los avances de las neurociencias, aunque no opte
+por ninguna posición filosófica concreta. Sin embargo, los dos autores coinciden en
+puntos centrales de sus teorías, hecho por el cual es posible dialogar con ellas
+tomando esos puntos centrales de coincidencia. El hilo conductor será la propuesta
+de Hauser, aludiendo a la de Levy como complementación. Empezaremos por la
+concepción de lo moral.
+
+463
+
+
+
+4.1. Concepción de lo moral
+La concepción de lo moral de estos enfoques es sin duda adaptacionista:
+la moral se refiere a las normas que articulan las sociedades de tal modo que les
+permiten sobrevivir. La moral se liga a expectativas que tenemos respecto de otro
+o de lo que debemos hacer. Se refiere a obligaciones, promesas y compromisos. Una
+visión, por tanto, en la que no tienen cabida ni los tradicionales deberes para consigo mismo, ni tampoco las concepciones de la vida buena.
+Sin embargo, como el mismo Hauser reconoce, este principio adaptacionista, que justifica la existencia de normas, plantea al menos dos problemas: explicar el altruismo y comprender la disonancia entre nuestras intuiciones morales y las
+teorías morales que elaboramos para justificarlas racionalmente.
+
+4.2. La disonancia cognitiva entre juicios y razonamientos morales.
+El método del equilibrio reflexivo
+En lo que se refiere a las disonancias cognitivas entre la formulación de
+nuestros juicios morales, de la que se dice que es intuitiva, y la justificación racional que presentamos en el caso de que se nos pida, de nuevo entra en escena el
+perro emocional con su cola racional, del que habló Haidt. Pero en este segundo
+modelo de marco teórico se busca la ayuda de la reflexión filosófica para esclarecer la disonancia y tratar de encontrar respuestas.
+Tanto Hauser como Levy consideran que es Rawls quien ha abordado este
+problema con mejor tino desde el punto de vista filosófico, porque desde el primero
+de sus artículos, “Esbozo de un procedimiento de decisión para la ética” (1951), pretende diseñar una teoría filosófica adecuada para asegurar objetividad a los juicios
+prácticos. Esta teoría toma como modelo el de las ciencias empíricas, en la medida
+en que el punto de partida lo constituyen una suerte de datos que la teoría debe articular para hacerlos coherentes y comprensibles. En el ámbito práctico las intuiciones ofician de “datos” y el método adecuado para esbozar la teoría que permita articular el mayor número de las intuiciones será el método del equilibrio reflexivo.
+En Teoría de la Justicia Rawls aludirá a esos “datos prácticos” con los términos “intuiciones” y “juicios meditados” y, en efecto, constatará que entran en conflicto en ocasiones, porque no pueden ser todos correctos, y es preciso encontrar
+una teoría que los articule mediante el equilibrio reflexivo.
+Justamente, recurrir al equilibrio reflexivo en Neuroética es una de las opciones que generará serias críticas a la propuesta de Hauser y Levy. Pero continuemos
+con la exposición de los autores antes de entrar en la evaluación de su propuesta.
+
+464
+
+
+
+4.3. Nuestra estructura moral
+El método del equilibrio reflexivo tomaría en este caso como punto de
+partida nuestras intuiciones morales, muy especialmente las respuestas emocionales diferentes en el caso de los dilemas personales y en el de los impersonales, y
+llegaría a unos principios que se mantienen en equilibrio reflexivo con ellas. Sin
+embargo, es Rawls quien llega a unos principios de la justicia, pero no lo hace la
+propuesta que comentamos. Más que llegar a unos principios, al modo rawlsiano,
+llega a un dispositivo: el dispositivo para favorecer a los parientes y otros elementos, como la capacidad de aplazar la gratificación (Hauser, 2008: 169 y 173).
+Los trabajos de Greene, entre otros, nos conducirán de nuevo a esos códigos cerebrales, que nos impulsan emocionalmente a favorecer a los cercanos y a
+rechazar a los lejanos. Pero también un buen número de trabajos de sociobiología
+y de psicología evolutiva nos llevarán a reconstruir la estructura moral del ser
+humano, que será la reciprocidad, ligada a la cooperación. Para estudiar la facultad
+moral —asegura Hauser— es necesario analizar el combate entre el propio interés
+y la cooperación, que era el primero de los problemas planteados al principio adaptacionista: el de la paradoja del altruismo y la cooperación.
+En efecto, “el terreno de la cooperación —dirá Hauser— proporciona el
+fundamento psicológico para comprender nuestro sentido moral, su anatomía y función” (Hauser, 2008: 303). Los estudios de imágenes cerebrales muestran que cuando
+falla la reciprocidad o la oferta no es equitativa, hay importantes niveles de activación de la ínsula interior, que desempeña un papel en las emociones negativas, mientras que al castigar se experimenta alivio, evidenciado por la actividad del núcleo caudado, clave en el procesamiento de experiencias gratificantes. Somos un híbrido de
+homo oeconomicus y de homo reciprocans. Como muestran diversos experimentos,
+la selección natural escoge a los mejor adaptados, a los grupos que cooperan y tienen capacidad para detectar a los tramposos y castigarlos, de ahí que pueda decirse,
+según Cosmides y Tooby, que nuestros antecesores cooperaban en el pleistoceno en
+aras del contrato social: la reciprocidad depende del intercambio justo y de que se
+castigue a los infractores. “Es, pues, probable —dirá Hauser (2008: 324)— que la
+evolución nos haya equipado con una capacidad especial para hacer el análisis costebeneficio de un contrato social”.
+La paradoja de la cooperación humana se explicaría entonces porque
+nuestra mente contractual es propia de grupos reducidos, de la época en que se
+conformaba el cerebro humano, por eso hay una disonancia entre los juicios
+morales intuitivos y los sistemas que generan razones fundadas en principios para
+nuestras acciones, porque el paisaje de hoy sólo muy tenuemente se parece al originario.
+
+465
+
+
+
+Y en este punto tanto Hauser como Levy toman como referente a Chomsky
+y entienden que igual que existe el instinto del lenguaje hay un instinto moral, una
+facultad moral, equipada con una gramática moral universal, una caja de herramientas
+para construir sistemas morales concretos. De ella se dice que se compone de reglas
+o principios abstractos, de un marco en que interviene la educación para guiarnos en
+la adquisición de normas morales. Precisamente, el hecho de que los principios sean
+abstractos —se dice— permite que las distintas culturas les doten de contenido.
+Sería de agradecer, sin duda, que los autores aclararan su terminología y
+no hablaran indistintamente de “instinto moral”, “facultad moral”, “sentido moral”,
+“órgano moral” o “competencia moral”. En realidad se refieren a esa estructura
+moral, que es “una capacidad, producto de la evolución, que posee toda mente
+humana y que, de manera inconsciente y automática, genera juicios sobre lo que
+está bien y lo que está mal” (Hauser, 2008: 201).
+No hemos llegado, pues, a descubrir, unos contenidos morales universales, sino una estructura moral, una “competencia moral”, similar a la competencia
+lingüística, que nos permite traducir unas lenguas a otras. Pero, a pesar de las afirmaciones de los autores, tampoco se trata de principios, ni siquiera abstractos, sino
+de esa estructura a la que accedemos con ayuda de la psicología evolutiva, la sociobiología, la antropología biológica y la reflexión filosófica; una estructura que
+excede con mucho las posibilidades de las bases cerebrales, porque cuenta con el
+quehacer de la cultura y el medio social.
+Pero tratar de desentrañar esa estructura moral es una tarea que han llevado a cabo las reflexiones filosóficas de todos los tiempos, valiéndose de las aportaciones de las ciencias. Resulta imposible no recordar en este punto la fecunda
+distinción que Xavier Zubiri introdujo entre moral como estructura y moral como
+contenido y que José Luis Aranguren asumió de buen grado. Zubiri y Aranguren
+pretendían señalar que no existen hombres amorales, porque su peculiar estructura les obliga a elegir entre posibilidades y, por lo tanto, a tener que justificar la
+elección desde contenidos morales históricamente cambiantes, todos los cuales tienden al bien (Zubiri, 1986, cap. VII; Aranguren, 1994: 206-211). En el caso de Hauser
+y Levy parece que tanto la estructura como los contenidos deben estar orientados
+sólo por el principio adaptativo, lo cual genera grandes problemas.
+
+4.4. Virtualidades y límites de la propuesta
+A mi juicio, aunque Hauser proporciona muchos más datos para la reflexión que los restantes autores, el marco esbozado por Hauser y Levy ofrece, en
+principio, las mismas aportaciones y plantea al menos los mismos problemas que
+el que trazaron Gazzaniga y Mora; hecho por el cual es posible aplicar a este marco
+
+466
+
+
+
+la misma evaluación que la que presentamos en el apartado anterior. Pero añade
+aspectos de gran interés, que proceden del utillaje filosófico empleado, concretamente, del método del equilibrio reflexivo, y del esfuerzo por sentar las bases de
+la benevolencia universal. Es de estos dos puntos de los que nos ocupamos para
+concluir este trabajo.
+1) El equilibrio reflexivo como método
+El método del equilibrio reflexivo, al que recurren actualmente autores tan
+diferentes entre sí como Peter Carruthers, David Crocker, Amy Gutmann, Martha
+Nussbaum, Tom Regan, Amartya Sen o Dennis Thompson, se propone, en su factura rawlsiana, tomar como modelo el método experimental de las ciencias empíricas. Los datos que ofician de punto de partida son ahora las intuiciones morales o
+los juicios meditados y, a partir de ellos, se trata de bosquejar una teoría que pueda
+articularlos del modo más completo posible. El diseño de la teoría puede llevar a
+modificar algunos datos, pero en buena medida tiene que responder al punto de
+partida. De donde se siguen dos problemas al menos.
+En primer lugar, como comentamos, los juicios intuitivos de los que se
+parte están en realidad configurados socialmente, con lo cual mal se pueden comparar con los datos científicos: su objetividad está preñada de intersubjetividad, porque quien juzga ha aprendido a hacerlo en una sociedad y en una cultura determinadas. Pero, en segundo lugar, la teoría que se diseñe debe tratar de sistematizar el
+punto de partida y sólo puede eliminar algunos de los datos que entran en contradicción, pero ha de dar cuenta de la mayor parte de ellos, de suerte que el método
+es más bien coherencial, como en algún momento apuntó Norbert Hoerster (1977),
+y difícilmente la teoría puede ser crítica con las intuiciones de las que parte.
+Como bien señala Peter Singer (1977: 517), la concepción de la moral del
+equilibrio reflexivo, que nos lleva a pensar en nuestros juicios morales particulares
+como datos en relación con los cuales han de comprobarse las teorías morales, propende a llevarnos a error de dos maneras: induce a pensar que las teorías morales
+han de comprobarse sobre la base de los juicios morales formulados por algún
+grupo o consenso, cuando no puede atribuirse significación normativa a los juicios
+de ningún grupo; y, en segundo lugar, incluso si el método sólo dice que no puede
+aceptarse de manera consistente una teoría moral, manteniendo a la vez juicios particulares incompatibles con ella, sitúa esta afirmación en un camino que da demasiado peso a nuestros juicios morales particulares. Estos peligros se ponen en evidencia por el gran peso que da Rawls a los juicios intuitivos particulares, tanto a los
+del consenso asumido como a los del autor mismo en Teoría de la Justicia.
+Y es que, desde un punto de vista metaético, hay al menos dos tipos de
+teorías éticas: las teorías normativas sistemáticas, que ofrecen un criterio para la crí-
+
+467
+
+
+
+tica, como sería el caso de la ética del discurso o el del utilitarismo, y las que fundamentan la ética normativa en nuestros juicios o intuiciones morales comunes. Las
+primeras pueden chocar con nuestros juicios morales comunes y entonces exigen
+corregirlos, mientras que las segundas se basan en el siguiente razonamiento: “Si la
+teoría U es verdadera, en la situación X deberías hacer Y. Pero como sabemos que
+está mal hacer Y en la situación X, entonces U no puede ser verdadera” (Singer,
+2005: 344). Pero en este segundo caso la aceptabilidad de la teoría no está determinada por su coherencia interna, sino por los juicios previos que no queremos
+abandonar. Cuando en realidad una teoría ética normativa tiene que servir de canon
+para la crítica, tiene que permitirnos poner en cuestión los juicios morales habituales en una sociedad (Cortina, 2009: 74-83). En caso contrario, no existe progreso
+moral, sino conformismo y además relativo a la cultura de la que se parte.
+Es curioso que la oposición al método del equilibrio reflexivo una puntualmente a planteamientos éticos tan diferentes como la ética del discurso y el utilitarismo. En su artículo “Ethics and intuitions”, el utilitarista Singer (2005: 350) termina
+apelando a Kant, cosa rara en él, para afirmar que si la moralidad no puede basarse
+en la razón pura, entonces es una quimera. Desde una hermenéutica crítica habría
+que reconocer con Jesús Conill que la razón no es pura, sino impura, pero que es
+preciso recurrir a teorías normativas que permitan poner en cuestión los juicios
+morales habituales (Conill, 2006). Se trata con ello de señalar a la evolución el
+camino que debe seguir, en vez de creer que es la evolución la que nos marca la
+senda del progreso. Lleva razón Singer (2005: 343) cuando afirma que la dirección
+de la evolución ni sigue la senda del progreso moral ni tiene una conexión necesaria con ella. “Más evolucionado” no significa “mejor”.
+Sin embargo, y esta es una nueva crítica al uso que Hauser y Levy hacen
+del equilibrio reflexivo, Rawls abandona en Liberalismo político el constructivismo
+kantiano y opta por el político, con lo cual no pretende construir una teoría ética normativa, sino una teoría moral-política, que más que adoptar un método científico,
+adopta el político de intentar generar consensos en sociedades impregnadas de una
+determinada cultura. El punto de partida ahora será la cultura política de sociedades con democracia liberal, es decir, los valores que se encuentran en la base de
+las instituciones democráticas, y el proyecto de elaborar una concepción moralpolítica de la justicia tiene por objeto atraer un consenso entrecruzado entre las
+doctrinas comprehensivas del bien. La objetividad se refiere exclusivamente a una
+determinada cultura, y Rawls no pretende en modo alguno dar cuenta de la estructura moral de los seres humanos, de su sentido de la justicia, sino de la cultura moralpolítica de una sociedad que ha asumido los principios del liberalismo político.
+Ciertamente, si el neuroético quiere emplear el método del equilibrio reflexivo debería partir de los juicios morales de las distintas culturas, conformados en
+realidad socialmente, y tratar de bosquejar los principios que permitirían sistemati-
+
+468
+
+
+
+zarlos. Pero no es ese el punto de partida ni tampoco el punto de llegada de nuestros autores. Pretenden partir de juicios intuitivos y llegan, no a principios morales,
+sino a una estructura moral, supuestamente común a todos los seres humanos, que
+es descubierta por las neurociencias, pero sobre todo por la psicología evolutiva y
+por la sociobiología. Lo cual, como dijimos, es muy legítimo, pero no supone descubrir las bases cerebrales de la conducta humana desde las que prescribir lo que
+debe hacerse. Obviamente, la estructura no ofrece ningún criterio para dilucidar
+cómo debe obrarse moralmente en los casos concretos para, no sólo vivir, sino vivir
+bien, que es a lo que todos los seres humanos tienden.
+2) Estructura moral y benevolencia universal
+Los autores que han diseñado el marco teórico que comentamos, Levy y
+Hauser, coinciden con Greene en asegurar que nuestras intuiciones morales fundamentales son el producto de una historia evolutiva, forjadas por una presión no
+moral: las tenemos porque, estando dispuestos a responder de esos modos, se incrementó la fitness de nuestros lejanos antecesores. Los materiales más antiguos del edificio de la moralidad consistirían en la disposición cooperativa, en la disposición a
+premiar la cooperación y a castigar la traición de los polizones, como ya señalaron,
+entre otros, de Waal, Wilkinson o Axelrod. Respondemos de esta forma —dirá
+Levy— porque la evolución nos ha dispuesto a hacerlo, pero porque respondemos
+de esos modos, la moralidad existe para nosotros: está construida con esas respuestas, entre otras (Levy, 2007: 302 y 303).
+Por eso —asegura— en este momento hay que esperar de la evolución que
+amplíe nuestro sentimiento de benevolencia, nuestra preocupación universal por los
+con-específicos, y además —continúa— es lo que observamos de hecho: en la adaptación evolutiva la mayor parte de aquellos con los que interactuábamos eran
+parientes, por tanto favorecíamos a nuestros allegados simplemente favoreciendo a
+los con-específicos, pero hoy, en un entorno social en que interactuamos más a
+menudo con extraños que con allegados, tenemos el sentimiento de benevolencia
+universal. Según Levy, es esta una historia especulativa, pero hay evidencia abundante de que la benevolencia universal ha evolucionado. Para cultivar ese sentimiento propone nuestro autor su teoría de la extended mind, en la que no entramos aquí porque no afecta directamente a nuestro tema, pero de la que me ocuparé
+en otro lugar.
+Sin embargo, y a pesar de las afirmaciones de estos autores, no parece
+que la evolución nos haya provisto con ese sentimiento de benevolencia universal
+que nacería de percatarnos de que necesitamos de todos los seres humanos para
+sobrevivir. En una época que había dejado ya en la lejanía la de los cazadores-recolectores decía Hume, uno de los defensores del relevante papel de las emociones
+en la vida moral, especialmente del sentimiento de benevolencia: “En general puede
+
+469
+
+
+
+afirmarse que en la mente de los hombres no existe una pasión tal como el amor
+a la humanidad, considerada simplemente en cuanto tal y con independencia de las
+cualidades de las personas, de los favores que nos hagan o de la relación que tengan con nosotros” (Hume, 1977: 704). Y Kant (1989: 321), por su parte, en la misma
+época aseguraba: “La benevolencia, en el caso del amor universal a la humanidad,
+es, pues, ciertamente la mayor en cuanto a la extensión, pero la menor en cuanto
+al grado, y cuando digo: me intereso por el bien de este hombre, en virtud únicamente del amor universal a los hombres, el interés que me tomo en este caso es el
+menor posible”.
+No parece que los clásicos de la filosofía levantaran acta de la existencia
+de esa benevolencia universal que la evolución habría ido grabando en nuestros
+cerebros. Pero, si nos atenemos a las investigaciones neurocientíficas a las que recurren nuestros autores, parece ser que las respuestas a los dilemas impersonales, dos
+siglos después de Hume y Kant, siguen mostrando que los encuestados tienen una
+escasa benevolencia por el lejano. Parece, pues, que si creemos que el progreso
+moral consiste en incluir a todos los seres humanos en nuestra consideración, será
+necesario recurrir a teorías éticas y justamente a aquellas que hunden sus raíces en
+la tradición del reconocimiento recíproco (Cortina, 2001, 2007 y 2010).
+
+470
+
+
+
+BIBLIOGRAFÍA
+ABEL, FRANCESC (2001), Bioética: orígenes, presente y futuro, Institut Borja de Bioética/Fundación
+MAPFRE Medicina, Madrid.
+ÁLVAREZ, MARIANO (2007), El problema de la libertad ante la nueva escisión de la cultura, Real
+Academia de Ciencias Morales y Políticas, Madrid, pp. 7-191.
+APEL, KARL-OTTO (1985), La transformación de la filosofía, Taurus, Madrid.
+L. ARANGUREN, JOSÉ LUIS (1994), Ética, en Obras Completas, II, Trotta, Madrid, pp. 159-501.
+CEREZO, PEDRO (2007), Discurso de contestación a Mariano Álvarez (2007), Real Academia de
+Ciencias Morales y Políticas, pp. 193-210.
+CHURCHLAND, PATRICIA (1989), Neurophilosophy. Toward a Unified Science of the Mind-Brain,
+MIT Press, Cambridge, Ma.
+CONILL, JESÚS (2004), Horizontes de economía ética, Tecnos, Madrid.
+—— (2006), Ética hermenéutica, Tecnos, Madrid.
+CORTINA, ADELA (2001), Alianza y Contrato, Trotta, Madrid.
+—— (2007), Ética de la razón cordial, Nobel, Oviedo.
+—— (2009), Las fronteras de la persona, Taurus, Madrid.
+—— (2010), Justicia cordial, Trotta, Madrid.
+CRANFORD, R.E. (1989), “The neurologist as ethics consultant and as a member of the Institutional Ethics Comitee. The Neuroethicist”, Neurologic Clinics, nº 7, pp. 697-713.
+DAMASIO, ANTONIO (2004), El error de Descartes, Crítica, Barcelona.
+FOUNDATION, DANA (2002), Neuroethics: Mapping The Field. Conference Proceedings, The Dana
+Press, Nueva York.
+S. GAZZANIGA, MICHAEL (2006), El cerebro ético, Paidós, Barcelona.
+GRACIA, DIEGO (1988), Fundamentos de Bioética, EUDEMA, Madrid.
+GREENE
+
+ET ALII, JOSHUA
+
+D. (2001), “An fMRI investigation of emotional engagement in moral
+judgement”, Science, nº 293, pp. 2105-2108.
+
+—— (2004), “The neural bases of cognitive conflict and control in moral judgement”, Neuron,
+nº 44, pp. 389-400.
+—— (2007), “From neural ‘is’ to moral ‘ought’. What are the moral implications of Neuroscientific Psychology?”, en Walter Glannon (ed.): Defining Right and Wrong in Brain
+Science, Nueva York, Dana Press, pp. 221-229.
+HAIDT, JONATHAN (2001), “The emotional dog and its rational tail: A social intuitionist approach
+to moral judgement”, Psychological Review, nº 108, pp. 814-834.
+
+471
+
+
+
+HAIDT, JONATHAN; BJÖRKLUND, FREDRIK y MURPHY, SCOTT (2005), “Moral dumbfounding: When
+intuitions finds no reason”, manuscrito inédito, Universidad de Virginia.
+HAUSER, MARC D. (2008), La mente moral. Cómo la naturaleza ha desarrollado nuestro sentido del bien y del mal, Paidós, Barcelona.
+HOERSTER, NORBERT (1977), “John Rawls’ Koherenztheorie der Normenbegründung“, en Otfried
+Höffe: Über John Rawls Theorie der Gerechtigkeit, Surkahmp, Frankfort, pp. 57-76.
+HUME, DAVID (1977), Tratado de la Naturaleza humana/2, Editora Nacional, Madrid.
+ILLES, JUDY (2003), “Neuroethics in a new era of neuroimaging”, American Journal of Neuroradiology, nº 24, pp. 1739-1741.
+JONSEN, ALBERT R. (2002), “Mapping the future of neuroethics”, en Dana Foundation, 2002,
+pp. 274-277.
+KANT, IMMANUEL (1989), La metafísica de las costumbres, Tecnos, Madrid.
+LEVY, NEIL (2007), Neuroethics, Cambridge University Press, Nueva York.
+—— (2008): “Introducing neuroethics” en Neuroethics, nº 1, pp. 1-8.
+MORA, FRANCISCO (2007), Neurocultura, Alianza, Madrid.
+MUGUERZA, JAVIER (2009), “Ética y Metafísica”, Isegoría, nº 41, pp. 11-68.
+RASMUSSON, ARNE (2009), “Neuroethics as a brain-based philosophy of life: The case of Michael
+S. Gazzaniga”, Neuroethics, nº 2, pp. 3-11.
+RAWLS, JOHN (1986), “Esbozo de un procedimiento de decisión para la ética” (1951), en Justicia como equidad, Tecnos, Madrid, pp. 1-17.
+RIZZOLATTI, GIACOMO y SINIGAGLIA, CORRADO (2006), Las neuronas espejo, Paidós, Barcelona.
+ROSKIES, ADINA (2002), “Neuroethics for the new millenium”, Neuron, nº 35, pp. 21-23.
+—— (2008), “Neuroimaging and inferential distance”, Neuroethics, nº 1, pp. 19-30.
+SINGER, PETER (1974), “Sidgwick and reflective equilibrium”, en The Monist, nº 58: 3, pp. 490-517.
+—— (2005), “Ethics and intuitions”, en The Journal of Ethics, nº 9, pp. 331-352.
+ZUBIRI, XAVIER (1986), Sobre el hombre, Madrid, Alianza.
+
+472
+
+

@@ -1,0 +1,891 @@
+T EO R IA COM UNICACIONAL
+D E LAS D EC ISIO N ES JU R ÍD IC A S 1
+Por el Académico de Número
+Excmo. Sr. D. Gregorio Robles Morchón*
+
+1 . LA TEORÍA COMUNICACIONAL DEL DERECHO:
+SUS PARTES
+
+La Teoría comunicacional del Derecho (en adelante, TCD) se llama así
+por adoptar la perspectiva de la comunicación, y por tanto del lenguaje*2, para
+estudiar el fenómeno jurídico. No proclama que el Derecho es lenguaje, lo que
+implicaría una posición ontologista3, sino que afirma que el Derecho, todo lo
+que se cubre con esta palabra, se manifiesta por medio del lenguaje. El lenguaje
+se constituye así en el punto de partida de la investigación4.
+
+* Se sió n d el 13 d e feb rero d e 2018. Al finaliza r m i p o n en cia m e h iciero n valiosos com en tarios los
+A cad ém ico s siguientes: D. D alm acio N egro Pavón, D. P ab lo Lucas Murillo d e la Cueva, D. F em an d o Súarez
+G onzález, D. A lejandro Nieto G arcía, D . H elio Carpintero Capell, D. Carm elo Lisón T olosana, D. Pedro Schwartz
+G irón, D . Ju lio Iglesias de U ssel y D . R am ón T am am es G óm ez. A tod os ellos les exp reso m i m ás sin cero agra­
+d ecim ien to. C o m en to b rev em en te sus o b serv acio n es e n distintos lugares d e e ste estu d io e n n o ta a p ie d e
+página.
+2 La perspectiva com unicacional conlleva la perspectiva lingüística, pues la com unicación só lo es posi­
+b le m ediante el lengu aje. H ay q u e en ten der este últim o térm ino e n su sen tid o m ás am plio; p o r tanto, abarca­
+d or n o só lo del lenguaje escrito, tam bién del oral y del m ím ico o gestual. Adem ás, los actos y om isiones, las situa­
+cio n es y relacion es, tien en tam bién la consid eración d e lengu aje e n el sen tid o d e q u e significan algo y, p o r eso,
+p u ed en ser exp resad os e n fiases, aun qu e ellos m ism os n o se m anifiestan prim ariam ente e n tales frases.
+3 La T eoría co m u n ica ció n al del D erech o renuncia al on tologism o. E so significa q u e n o se p ro p on e
+u n a investigación so b re la “e sen cia ” o la “naturaleza” del D erech o . E n ello se d iferen cia de la m ayoría d e las
+p o sicio n es filosófico-jurídicas.
+* T oda c o n ce p c ió n teórica adopta un punto d e partida q u e, p o r regla general, e s u n a obviedad, una
+verdad d e Perogrullo. R ecu érd ese e n este sentido el punto d e partida d e D escartes: “j e pen se, d on e j e suis”. O ,
+e n nu estro terren o, el d e K elsen: “e l D erech o e s no rm a” (e n este últim o ca so la propuesta e s on tologista).
+So b re estos principios co nstru yen los autores m encion ad o s sus gran diosos ed ificios d e pensam iento.
+
+297
+
+
+
+La TCD no desdeña otros posibles enfoques, como pueden ser el
+sociológico, el económico, o el histórico5. Se limita a definir su perspectiva,
+que no es otro que el análisis del lenguaje de los juristas, o para ser más exac­
+tos, el método hermenéutico-analítico sobre los textos jurídicos; y en sus desarro­
+llos trata de ser fiel a ese principio metodológico6. Adopta así el punto de vista
+interno, que es el característico de los juristas7. Se estructura en una “Introduc­
+ción” — dedicada a su justificación epistemológica8— y tres partes. Estas tres
+partes son denominadas: Teoría formal del Derecho9, Teoría de la Dogmática
+jurídica101y Teoría de las Decisiones jurídicas11. En la Filosofía del Lenguaje
+
+5 P o r co nsigu ien te, n o se le p u ed e rep ro ch ar q u e n o se a S o ciolog ía d el D erech o , ni A nálisis e c o ­
+n ó m ico d el D e re ch o , n i H istoria d el D e re ch o . La T C D p re ten d e m an ten erse d en tro d e lo s lím ites q u e ella
+m ism a se m arca, y re c o n o c e la co n v en ien cia e in clu so la n ecesid ad d e otros análisis. A dopta, fren te al fe n ó ­
+m e n o jurídico, el pu nto d e vista intern o, q u e es la p erspectiva d el jurista. D istintas p ersp ectivas a esta so n las
+q u e co rresp o n d en a las disciplinas m encion ad as, y todas ellas se caracterizan p o r ad optar u n a m odalidad de
+p ersp ectiv a extern a. Así, la So ciolog ía d el D e re ch o estudia la vigencia so cial d e éste, su im plan tación social, o,
+c o m o su ele d ecirse, las rela cio n es d e la so cied ad co n el D erech o . El A nálisis e co n ó m ico investiga las cau sas y
+lo s efecto s d e los diversos co m p o n en tes jurídicos e n térm in os d e co stes y b e n eficio s. La Historia d el D e re ch o
+indaga la ev o lu ció n d e las instituciones jurídicas, así c o m o d e lo s m od os d e p en sar y razonas d e lo s juristas a
+lo largo d el tiem po.
+6 D esd e el prism a de la TCD se rech azan las posturas m ixtificadoras, esto es, las q u e — co n sc ien te
+o in co n scien tem en te— m ezclan diversos e n fo q u es ep istem ológ icos y m eto d o ló g icos e n sus tratam ientos te ó ­
+ricos, saltand o d e u n p lan o a otro. P o r lo g en eral, esta m ixtificación e s característica d e algunas esc u elas d e
+p en sa m ien to , p o r ejem p lo , d e la E scu ela d e Frankfurt. E n e ste ca so , la m ixtificación e s co n sc ien te , hab id a
+cu en ta d e q u e es constante.
+7 El jurista m ira al D e re ch o d esd e dentro; el so ció lo g o , el eco n o m ista, el p sicó lo g o lo h a c e n d esd e
+fuera, investigando, respectiv am en te, la rela ció n d el D e re ch o c o n la socied ad , c o n la eco n o m ía y c o n la p si­
+co lo g ía d e las p erson as. A hora b ien , h a y q u e ten er e n cu en ta q u e la m irada d el jurista, q u e e s u n a m irada
+interna, n o siem p re se fija e n los m ism os asp ecto s. P o r ejem p lo, e l ju ez m ira el D erech o d esd e d entro para apli­
+c a r los texto s jurídicos a lo s caso s; el a b o g a d o d efen so r e n u n ju icio p en al tam b ién co n tem p la e l D erech o
+d esd e dentro, p ero su pu nto d e vista a d qu iere otro m atiz: su co m etid o e s d efen d er a su clien te y h a c e r lo p o si­
+b le para q u e el ju ez n o lo co n d en e. O tras perspectivas, d entro d e la g en érica p ersp ectiva interna, so n la del
+legislador, la del notario, la del asesor, e inclu so la del sim ple ciu d ad an o q u e ha d e cum plir las leyes. T od os
+se m u ev en d en tro d e la perspectiva interna q u e p o d em o s llam ar “p ráctica”. El teó rico d el D e re ch o se m ueve
+tam b ién e n la perspectiva interna, p ero n o “p ráctica”, sin o “teó rica”. E so le fuerza a g eneralizar so b re la b ase
+d e su co n o cim ien to d e la exp e rien cia jurídica global, q u e siem p re e s m u ch o m ás am plia q u e la q u e d efin e a
+u n d eterm inad o ord en am ien to y a su resp ectiv o ám bito jurídico.
+8 Tal e s la m ateria desarrollada en : G regorio R obles , In trod u cción a la T eoría d el D erecho. I a ed.
+Ed. D eb a te. M adrid 1988. 6a ed. Ed. D eb ate. B a rcelo n a 20 03. Esta sex ta ed ició n se d iferen cia d e las anteriores
+e n e l am p lio p ró lo g o q u e in co rp o ra y e n el q u e se exp lican las diversa d en om in acio n es: T eoría co m u n icacio nal d el D e re ch o , Análisis d el len g u aje d e los juristas, T eo ría d e lo s texto s jurídicos, y T eoría h erm en éu tico-an alítica del D erech o . Cada u n a d e estas d en o m in acio n es subraya u n asp e cto d el m étod o; n o so n ex clu y e m e sin o
+com p lem en tarias o, m ejo r exp resad o , recíp ro ca m en te inclusivas.
+9 La T eoría form al del D erech o constituye la prim era parte e n la exp o sición d e la TCD . Está exp u esta
+en : G regorio R obles , T eoría d el D erecho. Fu ndam entos d e T eoría com u n icacion al d el D erecho. Volumen I. Edi­
+torial Civitas, I a ed . 1998; 6a ed. Navarra 2015. Las diversas ed icio n es h an ido in corp oran d o m ateria progresi­
+v am en te h asta co m p letar la tem ática.
+10 La T eoría d e la D ogm ática jurídica co nstitu ye la segu n d a p arte e n la ex p o sició n d e la TC D . Está
+exp u esta en : G regorio R obles , T eoría d el D erecho. Fu ndam entos d e T eoría com u n icacion al d el D erecho, Volu­
+m en II. Ed. Civitas. Navarra 2015.
+11 La T eoría d e las D ecisio n es jurídicas constitu ye la tercera p arte e n la e x p o sició n d e la T C D , e n
+actu al ela b o ra ció n , si b ie n las referen cias a las d ecisio n e s e n e l D e re c h o es frecu en te e n las ob ras m en cio n a­
+d as e n las d o s n o tas anterio res (7 y 8). A sim ism o, m e h e o c u p a d o d e las d ecision es jurídicas e n algun os traba­
+
+298
+
+
+
+corresponden, respectivamente, a la Sintaxis (o Morfosintaxis), a la Semántica
+y a la Pragmática12.
+La Teoría formal del Derecho (o Sintaxis jurídica) investiga los concep­
+tos jurídicos formales o universales, como los de norma jurídica, deber jurí­
+dico, derecho subjetivo, relación jurídica, sujeto jurídico, etc.; así como las rela­
+ciones formales entre dichos conceptos, lo que suele denominarse la estructura
+formal del Derecho. Su concepto básico es el de norma jurídica13.
+La Teoría de la Dogmática jurídica o Teoría de la Ciencia de los juris­
+tas es equivalente a la Semántica jurídica. Su campo de investigación lo cons­
+tituyen los modos de interpretar y de construir el sistema jurídico o sistema
+doctrinal. Debido a que todo ordenamiento se organiza internamente en uni­
+dades institucionales, las cuales dan sentido a sus componentes normativos, el
+concepto básico de la Teoría de la Ciencia de los juristas es el de institución
+jurídica. Si se hojea un tratado o un manual de Derecho, podrá comprobarse
+enseguida que su organización responde a las diversas instituciones del orde­
+namiento jurídico de que se trate14.
+jos: G regorio R obles , Epistem ología y D erecho (Ed. Pirám ide, Madrid, 1982), Las R eglas d el D erecho y las Reglas
+d e losJu eg os (Universidad d e Palm a d e M allorca, 1984), “La d ecisión e n el D erech o y la T óp ica jurídica” ( B oletín
+m exican o d e D erecho com parado , Sep.-D ic. d e 1985, núm 54, UNAM, Instituto d e Investigaciones Jurídicas:9519 8 4 ), El D erecho com o Texto (Ed. Civitas. Madrid 1998, 2a ed. 2 0 0 6 ), La Ju sticia en los Ju eg os (Ed. Trotta. Madrid
+20 0 9 ), “So bre el co n cep to d e C onstitución” (A n ales d e la R eal A cad em ia d e C ien cias M orales y P olíticas, LXTX.
+Madrid 2017:9 3 -1 1 7 ).
+12 A Charles Morris (1 9 0 1 -1 9 7 9 ) se d eb e la d iferen ciación d e la Sem iótica e n Sintaxis, Sem ántica y
+Pragm ática, q u e se ha transform ado e n u n lugar co m ú n e n la Filosofía del Lenguaje. La id ea d e corresp on d en ­
+cia entre los tres niveles d e la Lingüística y los p ro p io s d e la T eoría co m u n icacion al la h e m antenid o constan­
+tem en te desde m is prim eros escritos. V éase Epistem ología y D erecho (1 9 8 2 ): 119-129 (au n q u e co n otra term i­
+nología e n lo q u e respecta a lo s n iveles jurídicos); D oxa (1 9 8 4 ); Las R eglas d el D erecho y las Reglas d e los Ju eg os
+(1 9 8 4 ), e n el “A pén dice II”; In trodu cción a la T eoría d el D erecho ( 1 9 8 8 ):1 5 1 -l6 9 , cap. VI: “La T eoría del D ere­
+c h o co m o análisis d el len g u aje d e los juristas”; El D erecho com o Texto (1 9 9 8 ), capítu lo III; La Ju sticia en losJu e­
+g os (2 0 0 9 ):4 9 -9 4 . Mi ob ra prin cipal está construida so b re e s e esq u em a: T eoría d el D erecho. Fu ndam entos d e
+T eoría com u n icacion al d el D erecho, ya d esd e la prim era ed ició n (1 9 9 8 ) hasta la recien te: vol. 1Q(6 a ed. 2015);
+vol. 2Q( I a ed. 2 0 1 5 ). A d ich a tesis D ieg o M edina M orales la h a calificad o d e “tridim ensionista” (ya q u e se trata
+d e las tres d im ensio nes del len g u aje), distinguiéndola n etam en te d e las teorías “tridim ensionalistas” al u so. Cfr.
+D ieg o M edina M orales, "C o m u nicación y D erech o . T rascend encia d e u n a T eoría", en : D iego M edina M orales
+(C oord .), La T eoría C om u n icacion al d el D erecho a Exam en. Ed. Civitas, 2 0 1 7 :2 5 y ss. T am b ién Adolfo Sánchez
+H idalgo , “Los d erech o s fun dam entales e n la T eoría co m u n icacion al d el D e re c h o ”, en : D iego Medina M orales
+(C oo rd .), La Teoría C om u n icacion al d el D erecho a Exam en, op.cii. :81 -105, esp . 85-87.
+13 N o e s p reciso subrayar la gran im portancia d el norm ativism o e n la T eoría del D erech o. E n la TCD
+se form ula u n co n cep to d e n o rm a jurídica y u n m o d elo h e tero g én eo d e n orm as e n el D erech o so b re la b ase
+d e la dualidad d e norm as indirectas de la a cció n y norm as directas d e la acción . Cada una d e estas categorías
+se d esdobla a su vez. V éa se el vo lu m en I a d e m i Teoría d el D erecho, 6a ed. 2015, cit., capítulos 7 a 12:177-430).
+14 Aquí hay q u e ten er e n cu en ta el co n cep to d e institución e n su sen tid o am plio, com prensivo de
+lo qu e M aurice Hauriou d en o m in ó “institutions-personne” e “institutions-chose” ( “Instituciones-persona” e “ins­
+tituciones-cosa”). Ejem plos d e las prim eras serían el Estado, u n m unicipio, un a sociedad m ercantil; d e las segun­
+das, el contrato, la h eren cia, la letra d e cam bio. V éase M aurice H auriou , La T eoría d e la institución y d e la Fun­
+dación . T raducción, p ró lo g o y bibliografía del autor p o r Arturo E nriqu e Sam pay. Ed. A beledo-Perrot. B u en o s
+Aires, 1968. D el m ism o autor, P rincipios d e D erecho P úblico y C onstitucional. T rad ucción, estudio prelim inar,
+notas y ad icio nes p o r Carlos Ruiz d el Castillo. Ed. Reus, Madrid, s/a (e l estud io prelim inar d e Ruiz del Castillo
+
+299
+
+
+
+Por último tenemos la Pragmática jurídica o Teoría de las decisiones
+jurídicas, cuyo concepto central es, obviamente, el de decisión jurídica.
+2 . LA TEORÍA DE LAS DECISIONES JURÍDICAS
+COMO PRAGMÁTICA
+
+La Pragmática es aquella parte de la Lingüística, y de la Filosofía del
+Lenguaje, que investiga los fenómenos comunicacionales desde el punto de
+vista de su dinámica; indaga los sujetos de la comunicación, las situaciones en
+que se encuentran al comunicarse, los actos de comunicación, los destinatarios
+de la comunicación y las modalidades de actos comunicacionales15.
+A la Pragmática jurídica la denominamos, en la TCD, “Teoría de las
+Decisiones jurídicas”, debido a que estudia los mencionados fenómenos en
+relación con las decisiones que aparecen en el Derecho. Mientras que la Teo­
+ría formal del Derecho investiga las formas jurídicas y la estructura formal que
+las vincula, y la Teoría de la Dogmática jurídica se centra en cómo los juristas
+construyen el sistema a partir del texto ordinamental, la Teoría de las Decisio­
+nes jurídicas aborda los aspectos dinámicos del Derecho a partir de la concep­
+ción de éste como un conjunto heterogéneo de procesos de comunicación que
+tienen en común su relación con las decisiones de los intervinientes en dichos
+procesos. Estos, como vamos a ver, son múltiples y variados, y por tanto, tam­
+bién los agentes que en ellos intervienen.
+Todas las decisiones se manifiestan, o bien en actos de comunicación
+explícita, o bien en actos de comunicación implícita.
+Los primeros son aquellos que toman cuerpo inmediatamente en una
+proferencia o proferimiento lingüístico16, y por tanto, en un texto (escrito o no
+escrito). Por ejemplo, la decisión constituyente es un acto comunicacional que
+se concreta en el texto constitucional: la constitución17; la decisión legislativa es
+un acto de comunicación que se concreta en el texto que llamamos ley; la deci­
+está fe ch a d o e n San tiago d e C om po stela, ag o sto d e 1 9 2 7 ). So b re estos asp e cto s v éa se J oaquín R uiz -G iménez,
+La con cep ción in stitu cion alista d el D erecho. R ecien tem en te, e l institucionalism o h a exp erim en tad o u n cierto
+resurgim iento a partir d e la ob ra d e D onald N eil M acC ormick y O ta W einberger , G rundlagen d es Institu tionalistischen Rechtspositivism us. Ed. D u n ck er & H um blot. B erlín, 1985. V éase tam bién: F rancisco J avier Ansuategui R o ig , E lpositivism o ju ríd ico neoin stitu cion alista ( Una aprox im ación ). Ed. D ykinson. Madrid 1996.
+15 U na p an orám ica g en eral y certera p u ed e verse e n el lib ro d e M‘ V ictoria Escandell, In trodu cción
+a la P ragm ática. Ed. Ariel. B a rcelo n a , 201316 D el v erb o “proferir”: “pronunciar, decir, articular p alabras o so n id os.” E m p leo “p ro feren cia” co m o
+sin ó n im o d e “p ro ferim ien to”: “a c c ió n y e fe c to d e proferir” (D RA E). La p roferen cia es, e n principio, oral, p ero
+tam b ién la p o d em o s ex te n d e r a la exp resió n escrita. Así, u n a ley p asa p rim ero p o r e l d eb ate oral y el acu erd o
+oral e n el P arlam en to, para a co n tin u a ció n p o n erse p o r escrito e n e l B o letín O ficial d el E stado
+17 El te x to co n stitu cio n al n o só lo e s el te x to escrito e n e l d o cu m en to constitu cion al, sin o q u e a
+d ich o d o cu m en to h a y q u e añadirle las prácticas, u so s y costu m bres q u e h an alcan zad o el grad o d e p recep tos
+con stitu cion ales. T a m b ién e n el su p u esto d e co n stitu cion es consu etudin arias p u ed e h ab larse d e “te x to consti­
+
+300
+
+
+
+sión judicial es también un acto explícito de comunicación y se concreta en el
+texto que denominamos sentencia.
+Acto de comunicación implícita es el acto que no se manifiesta en una
+proferencia lingüística expresa, sino en un movimiento o en la ausencia de un
+movimiento; por ejemplo, se manifiesta en un movimiento el acto de llamar a
+un taxi, levantando la mano; se manifiesta en la ausencia de movimiento la
+omisión de ayuda, que es hacer una cosa distinta a la de prestar ayuda a la per­
+sona que hemos atropellado con nuestra bicicleta. En todos estos casos hay
+comunicación18, y asimismo hay decisiones de por medio.
+3 . LA DECISIÓN (EN GENERAL)19
+
+En el uso corriente del lenguaje se usa la palabra “decisión” para refe­
+rirnos a determinados tipos de actos: aquellos que tienen por objeto elegir
+entre diversas opciones o alternativas posibles y, además, por regla general,
+poner en práctica lo que la elección adoptada requiere. El acto por el que
+alguien se decide por una de las alternativas u opciones posibles recibe el nom­
+bre de decisión. Ésta presupone, por tanto, la existencia de al menos dos alter­
+nativas u opciones, y la correspondiente elección entre ellas.
+Las decisiones pueden ser individuales o colectivas. Se da el primer
+tipo en aquellas situaciones en las que un individuo elige una de las alternati­
+vas que le ofrece la realidad (o su visión de la misma). Las decisiones colecti­
+vas tienen lugar siempre que son varios (pocos o muchos) los individuos que,
+por un determinado procedimiento más o menos formalizado, se ponen de
+acuerdo para realizar una elección entre diversas alternativas posibles20.
+tu cion al” e n cu an to q u e las co stu m bres so n o b je to de v erb alización e n lo s p ro ceso s co m u n icad o n ales y, p o r
+consiguien te, h an d e ser consid erad as tam b ién co m o textos. Cfr. G regorio R obles , “Sobre el co n cep to d e Cons­
+titución” (2 0 1 7 ), y a citado.
+18 U n acto (a c c ió n ) e s el significado o sentido d e u n m ovim ien to o co n ju n to d e m ovim ientos físicop síqu icos; p o r ser u n significado la a cció n e s u n a realidad herm en éu tica v erb alizab le e n texto. Sobre el co n ­
+ce p to d e a cció n (a cto ), o m isión y co n d u cta e n la T eoría com u n icacion al d el D e re ch o v éa se G. R obles , Teoría
+d el D erecho. Fundam entos d e T eoría com u n icacion al d el D erecho. Volum en 1Q, Civitas (2 0 1 5 ):2 7 1 -3 2 4 . Tam ­
+b ién ; M ercedes G ómez A danero, “La acció n e n la teoría co m u nicacion al del d erech o. La a cció n co m o texto”; F er­
+nando Ris ie r de S ousa Lima, “A a ?a o natural, lógica e co n v en cion al”. A m bo trabajos e n T eoría C om u n icacion al
+d o D ireito: D iálogo en tre B rasil e E spanha. C o ord .: G regorio R obles & Paulo de B arros Cahvalho. Ed. NOESES.
+Sao Paulo, 2 0 1 1 :5 3 3 -5 6 2 , y 5 6 3 -5 6 8 , respectivam ente.
+19 La T eoría d e la D ec isió n e s una disciplina d e gran alcan ce e n la cien c ia m od erna, de aplicacio­
+n e s prácticas so b re to d o e n la e co n o m ía y e n la estrategia b é lica, p ero exten sib le a tod as las cien cias sociales.
+Su o b jeto e s el análisis em p írico o ló g ico d e los actos individuales o co lectiv os e n situacion es e n las q u e hay
+q u e elegir. Su elen distinguirse tres situ acion es b ásicas: la d e certidum bre, la d e riesg o y la d e incertidum bre.
+U na visión general, aun qu e orientada a la eco n o m ía d e la em presa, pu ed e verse en: H elmut Laux, Entschedungstheorie. 71 ed. Springer. B erlín, etc. 2007.
+“ E n el D erech o se d an multitud d e d ecisiones tanto individuales co m o colectivas. Ejem plos d e las
+prim eras: u n individuo d ecid e m atricularse e n la Facultad d e Ciencias E xactas; otro d ecid e com prar un a m ochila
+para llevar sus libros; otro d ecid e robar un b an co ; e n tod os estos caso s, para hablar d e d ecisión propiam ente
+
+301
+
+
+
+Hay decisiones, sean individuales o colectivas, que vienen precedidas
+de una deliberación, también individual o colectiva. En la deliberación se sope­
+san los pros y los contras de cada alternativa: la deliberación va unida a la pon­
+deración21. Y las hay que son calificables de irreflexivas: aquellas que se toman
+sin darse tiempo para sopesar los pros y los contras de lo que se decide. Suele
+suceder que no haya tiempo para la reflexión, como le pasa a un individuo que,
+nadando en el mar, divisa de pronto, en un horizonte no muy lejano, la aleta
+de un tiburón22.
+4 . LAS DECISIONES JURÍDICAS
+
+En la TCD denominamos “decisiones jurídicas” a todas aquellas deci­
+siones que se producen en un ámbito jurídico (AMB)23. Son posibles distintas
+clasificaciones, pero ahora nos centraremos en la siguiente:
+A) Decisiones jurídicas creadoras de textos potencialmente normativos,
+esto es, de textos que forman parte del ordenamiento jurídico (ORD).
+Son las decisiones jurídicas ordinamentales.
+B) Decisiones jurídicas que generan textos que se presentan como parte
+del sistema didáctico-expositivo y como propuestas para ser acepta-
+
+dicha, se tien e q u e producir la a cció n decidida, p u es si al final resulta q u e el prim ero n o se m atricula, el segu nd o
+n o co m pra la m och ila, y el tercero n o ro b a el b a n c o y n i siquiera lo intenta, las respectivas d ecision es habrán
+q u ed ad o sin cum plirse, serán d ecisio n es sin co n creció n , sin existen cia real, co m o n o sea la d el fen ó m en o psi­
+co ló g ico q u e se h a pro du cido e n la m en te d e eso s individuos. Sus d ecision es n o iban “e n serio”. Las verd ade­
+ras d ecisio n es co n llev an la a cció n ( o la om isió n ) decidida. En el D erech o tam b ién en con tram o s nu m erosos
+ejem p lo s d e d ecision es colectivas: la d ecisión del p o d er legislativo se produ ce, para ap robar un a ley, tras u n pro­
+ce s o d e d iscusión y d e v o tacion es, d e a cu erd o c o n el pro ced im iento estab lecid o; lo m ism o su ced e c o n la d eci­
+sió n q u e ad optan lo s m iem bros d e u n tribunal; o la q u e tom a la asam blea general d e u n a socied ad anónim a.
+T a n to las d ecisio n e s individuales c o m o las co lectiv a s su p o n en seg u ir u n p ro ced im ien to, cu ya flexibilid ad
+d ep en d e d el tip o de d ecisión d e q u e se trate.
+21 A lgunos autores co n tem p o rán eo s elev an estos térm inos (deliberación, p o n d eración ) a las alturas
+d e un a e sp e cie d e lengu aje n o v ed o so y al m ism o tiem p o sagrado. C onviene p o r ello llam ar la aten ció n d e q u e
+tanto d eliberar c o m o po nd erar so n acto s intelectuales q u e la hum anidad y los individuos h an h e ch o siem pre.
+La teorizació n d e esto s térm in os tam p o co e s nueva, los griegos y a lo hicieron co n gran brillantez.
+22 N o h a c e falta llegar a tal dram atism o para com p ren d er q u e las d ecision es irreflexivas están a la
+ord en d el día e n la vida d e las personas. A dem ás d e las d ecision es irreflexivas, q u e so n aqu ellas q u e se ad op ­
+tan sin d eten erse a so p esa r los pros y los contras, existen las d ecision es reflexivas errón eas, p ero e n éstas esta­
+m os ante otra problem ática: n o se adopta la d ecisión p o r falta d e tiem po o p o r un a característica d el agente d ecisor, sin o so b re la b a se d e co n o cim ien to s inco m p letos, falsas inform acion es, asesoram ientos equ ivocad os, etc.
+23 Llam o la a ten ció n d el lecto r so b re la im portancia d el co n cep to d e ám bito jurídico e n la TC D . Se
+trata d e u n co n ce p to n o v ed o so e n la T eoría del D erech o . Amplía en orm em en te el cam p o d e referen cia jurídico
+y perm ite exp licar realidades q u e tradicionalm ente la T eoría d el D erech o h a d ejad o fuera d e su consid eración .
+V éase G . R obles , T eoría d el D erecho, vol. 1“ « 7 :4 8 5 -4 9 4 ; tam bién, “El co n cep to d e ám b ito jurídico e n la teoría
+co m u n icacio n al d el D e re ch o ”, en : Nos a d iustitiam ese natos. Coord.: J osé Luís G uzmán D albora. U niversidad de
+Valparaíso - Edelval, v o lu m en II, V alparaíso (C hile) 20 1 1 :1241-1254; tam bién: “O rd enam iento, Sistem a, Ám bito
+jurídico: la fu n ció n co m u n icacion al d e la D ogm ática jurídica”, en : G regorio R obles & Paulo de B arros Cakvalho
+(co o rd s.), La Teoría C om u n icacion al d o D ireito. D iálogo en tre B rasil e E spanha. V olum en 2. Sao Paulo 2017.
+
+302
+
+
+
+dos como textos sistémicos. Son las decisiones jurídicas que generan
+propuestas de textos normativos sistémicos.
+C) Decisiones jurídicas que generan textos normativos, esto es, de textos
+que pertenecen al sistema jurídico propiamente dicho (o sistema jurí­
+dico en sentido estricto: SIS). Son las decisiones jurídicas sistémicos24'.
+D) Decisiones jurídicas productoras de textos que no pertenecen ni al
+ordenamiento ni al sistema, en cualquiera de las dos modalidades de
+éste (esto es, no forman parte ni del sistema didáctico-expositivo ni
+del sistema jurídico propiamente dicho). Son las decisiones jurídicas
+que son a la vez tanto extra-ordinamentales como extra-sistémicas,
+pero pertenecen al ámbito jurídico.
+E) Decisiones jurídicas que no se manifiestan en lenguaje explícito, sino
+por medio de actos que no son expresamente lingüísticos. Las pode­
+mos denominar decisiones jurídicas tácitas o implícitas.
+Analizamos a continuación cada uno de estos tipos de decisiones jurídicas.
+5.
+DECISIONES JURÍDICAS CREADORAS
+DE TEXTOS POTENCIALMENTE NORMATIVOS
+(DECISIONES JURÍDICAS O R D IN A M EN TA LESj
+
+Las decisiones jurídicas creadoras de textos potencialmente normativos
+son las que crean texto ordinamental, esto es, generan una parte del ordena­
+miento jurídico (ORD); por eso las podemos denominar también “decisiones jurí­
+dicas ordinamentalesf’. La doctrina las llama habitualmente “fuentes del Derecho”.
+Ejemplos de este tipo de decisiones, generadoras de textos potencial­
+mente normativos: la decisión constituyente, la decisión de suscribir un tratado
+internacional, la decisión legislativa, la decisión administrativa, la decisión judi­
+cial (esta enumeración no es exhaustiva, sino ejemplificativa). En la TCD las lla­
+madas tradicionalmente “fuentes del Derecho” son las decisiones que crean los
+textos jurídicos ordinamentales, es decir, los textos jurídicos que forman parte
+de la totalidad textual llamada “ordenamiento jurídico”.
+Cada ordenamiento jurídico — se afirma— tiene su propio orden jerár­
+quico de fuentes. Unos ordenamientos aceptan la jurisprudencia de los tribu­
+24
+O bsérvese q u e m anejam o s d os co n cep tos distintos — au n qu e conectad os— d e sistem a: el sistem a
+did áctico-expositivo y el sistem a jurídico e n sen tid o estricto (SIS). El p rim ero e s e l presentad o p o r los autores
+e n su s escritos de D ogm ática jurídica. El seg u n d o está form ado p o r las norm as y p rin cipios q u e las autorida­
+d es co m p eten tes, e n esp ecia l lo s ju eces, in co rp o ran a sus d ecisiones; n o rm alm en te acep tan d o algunas d e las
+d octrinas propuestas po r lo s autores. So b re esto s asp ecto s m e h e exp licad o am pliam ente e n el volu m en 2a de
+m i Teoría d el D erecho. Fundam entos d e T eoría com u n icacion al d el D erecho. Ed. Civitas, 1* ed. 2015, capítulo
+12:545-619.
+
+303
+
+
+
+nales como fuente jurídica, y otro no. Unos ordenamientos contemplan un libro
+religioso como fuente del Derecho, incluso con mayor jerarquía que el resto de
+sus fuentes, y otros no25. En la terminología de la TCD no usamos prioritaria­
+mente la expresión “fuentes del Derecho”, sino la de “decisiones jurídicas gene­
+radoras de textos potencialmente normativos” o “decisiones jurídicas ordinamentales”. Se evita así el carácter “naturalista” de la metáfora26 y se pone el
+acento en el hecho de que todo texto que forma parte de un ordenamiento jurí­
+dico, o que se incorpora a él, es resultado de la decisión de los individuos
+(autoridades) que tienen la potestad de generar texto ordinamental. Hay que
+reconocer que nuestra denominación posee menos fuerza evocativa que la tra­
+dicional, pero tiene la ventaja de que se ajusta más estrictamente a la realidad
+jurídica y hace uso de un lenguaje científicamente más riguroso.
+El ordenamiento jurídico (ORD) es una totalidad textual y está com­
+puesto por un conjunto de textos parciales (constitución, tratados internacio­
+nales, leyes, reglamentos, jurisprudencia de los tribunales, costumbres, etc.)
+que sirven, o son el punto de partida, para configurar las normas jurídicas en
+el sistema jurídico, tanto en el didáctico-expositivo, bajo forma de propuestas,
+como en el sistema jurídico propiamente dicho (SIS). Por eso, a las decisiones
+ordinamentales las calificamos de decisiones generadoras de textos “potencial­
+mente norm ativof : las normas jurídicas no aparecen en ORD sino en SIS, si
+bien ORD proporciona el material (“texto jurídico en bruto”) para que en SIS
+se elabore el sistema (“texto jurídico elaborado”)27.
+Junto a las decisiones ordinamentales explícitas hay que contar con las
+decisiones ordinamentales implícitas-, tal es el caso de las costumbres y de los
+principios jurídicos; pero sólo en el caso de que tengan validez jurídica, lo cual
+supone que en algún momento las autoridades del Derecho los formulen ver­
+balmente como textos28 (texto consuetudinario; texto principial29) incorporán­
+dolos al texto del ordenamiento jurídico.
+
+25 La disciplina “D e re ch o C o m p arad o” tien e, en tre su s prin cip ales o b jetiv o s al estudiar las diversas
+“fam ilias jurídicas”, subrayar las sim ilitudes y d iferen cias en tre lo s d iversos sistem as d e fu en tes q u e caracteri­
+zan a d ich as “fam ilias”. Así p u ed e ap reciarse p o r e jem p lo e n la o b ra d e René D avid, Los g ran d es sistem as ju ríd i­
+cos contem poráneos. Ed. Aguilar. M adrid, 1973.
+26 “F u en tes d el D e re c h o ” y “lagunas d e la ley” so n las d os exp resio n es m etafóricas m ás extendidas.
+Es atractivo su u so y n o h a y razó n para d ejar d e usarlas siem p re q u e se se a c o n sc ien te d e la ca ig a naturalista
+q u e co n llev an . P recisam ente lo q u e en cu b ren e s el carácter d ecision al d el D erech o . Si e ste surge d e unas fu en ­
+tes, nad ie lo d ecid e. Si h a y u n a laguna, ta m p o co nad ie d ecid e q u e haya tal co sa, sim p lem en te existe.
+27 Cfr. G regorio R obles , E l D erecho com o Texto, y a cit., passim .
+28 La co stu m bre surge c o m o rep etició n d e actos e n e l se n o d e un a com unidad, p ero só lo se trans­
+form a e n “co stu m b re jurídica” si la autoridad co m p eten te (legislador, ju e z ) la co n sid era “fu en te d el D e r e c h o ”.
+A lgo p arecid o p u ed e su ced er c o n u n p rin cip io d e naturaleza m oral, o d e otro g én ero: ed ucativa, eco n ó m ica,
+etc. Só lo se transform a e n “prin cipio ju ríd ico” si las autoridades d otadas d e potestad para e llo lo in co rp o ran al
+ord en am ien to jurídico, co n sid erán d o lo c o m o “fu en te d el D e re ch o ”.
+29 Los p rin cipios jurídicos so n form u lab les lingüísticam ente e n texto s escrito s c o m o n o rm as g e n e ­
+rales. P u ed en se r d e diversos tipos. Cfr. F ederico de Castro y B ravo, D erecho Civil d e E spaña. P arte G en eral I.
+Instituto d e Estudios Políticos. M adrid, 1 9 5 5 :4 4 8 y ss. E n p o lém ica c o n R obert A lexy, G reg orio R obles, “El c o n ­
+
+304
+
+
+
+6 . DECISIONES JURÍDICAS GENERADORAS
+DE PROPUESTAS DE TEXTOS NORMATIVOS
+(DECISIONES JURÍDICAS DE PR O PU EST A S N O RM ATIVAS)
+
+No todas las sociedades conocen la Doctrina jurídica o Ciencia de los
+juristas, aunque todas ellas son portadoras de un ordenamiento jurídico. Una de
+las manifestaciones más relevantes de las sociedades culturalmente avanzadas
+es precisamente que, junto al ordenamiento jurídico (conjunto de textos poten­
+cialmente normativos), se desarrolla una doctrina que presenta la materia tex­
+tual ordinamental de manera sistemática, completa y explicativa.
+Si utilizamos una imagen plástica de este fenómeno, que resalte inme­
+diatamente a la vista, podemos decir que, junto a la biblioteca que agrupa en
+sus estantes los textos ordinamentales, tenemos otra biblioteca que acumula los
+textos que explican, sistematizan y completan los textos ordinamentales.
+En la primera biblioteca tenemos, p.ej., el Código civil y las leyes civiles
+especiales, en la segunda tenemos los comentarios a dicho Código y a dichas
+leyes, así como los tratados, manuales y monografías que prestan orden sistemá­
+tico y tratamiento completo (sin lagunas, sin contradicciones, etc.) a los textos de
+esos cuerpos legales. Tenemos, asimismo en la primera biblioteca, el Código
+penal y las leyes penales especiales, y en la segunda, los comentarios, tratados,
+manuales y monografías que explican y sistematizan esos textos legales.
+Cada disciplina jurídica ordena, sistematiza, completa, pule, interpreta,
+conceptualiza una parte del ordenamiento jurídico. El conjunto de las discipli­
+nas jurídicas, así consideradas formando esa amplia biblioteca (mucho más
+amplia que la que forman los textos ordinamentales), es lo que suele denomi­
+narse Ciencia del Derecho, que personalmente prefiero denominar “Ciencia de
+los juristas”30, y que también recibe otros nombres, como Dogmática jurídica,
+Doctrina jurídica y Jurisprudencia31.
+
+c e p to no-positívista d e los d erech o s fundam entales. T eoría d e los principios, d erech os fundam entales y m oral”,
+en: María E lósegui Itxaso (C oo rd .), lo s p rin cip ios y la interpretación d e los derech osfu n d am en tales. Fundación
+G im én ez Abad & M arcial Pons. Zaragoza, 2 0 1 6 :4 7 y ss. So b re el p roced im iento d e in co rp o ración d e lo s prin­
+cip io s jurídicos al D erech o d e la UE p u ed e consultarse: G regorio R obles , “La influen cia d e lo s principios g e n e ­
+rales d el D erech o e n el o rd en am ien to jurídico d e la U nió n Europea y la im portancia d e la jurisprudencia del
+Tribunal d e Ju sticia ”, en : J erónimo Maíllo G onzález-O rús & B elén B ecerril Atienza (C oord s.), T ratado d e D ere­
+ch o y P olíticas d e la Unión Europea. Tomo IV. Lasfu en tes y p rin cip ios d el D erecho d e la Unión Europea. Ed. Aranzadi. Navarra, 2 0 1 1 :3 4 5 y ss.
+30 Al igual q u e la Física o C iencia física e s lo q u e h a c e n lo s físicos y la C ien cia m atem ática, lo q u e
+h a c e n lo s m atem áticos, la C ien cia d el D erech o e s lo q u e h a c e n lo s juristas. Es habitu al discutir e inclu so negar
+el carácter científico d e esta últim a. P ero n o es p o sib le dudar d e q u e la C ien cia d e los juristas e s lo q u e h acen
+lo s juristas y , adem ás, la ú n ica m anera d e co n o c e r el D erech o positivo. O tra co sa e s e l d eb ate so b re si se trata
+o n o d e una “verdadera” C iencia. D ep en d erá obviam en te del m od elo d e C iencia q u e se m aneje.
+31 V éase G. R obles , T eoría d el D erecho, op.cit., cap . 1 ( “La D ogm ática jurídica”).
+
+305
+
+
+
+La Dogmática jurídica o Ciencia de los juristas es una disciplina hermenéutico-analítica cuya función básica es presentar en sistema elaborado el mate­
+rial textual del ordenamiento, de tal modo que este material adquiera orden,
+coherencia y claridad en todos sus extremos. El conjunto de los libros y escri­
+tos doctrinales que reflejan un ordenamiento jurídico lo hemos llamado “sis­
+tema didáctico-expositivo”. En él cada autor hace sus propuestas de cómo deben
+entenderse los textos ordinamentales para ser aplicados a los casos.
+El sistema didáctico-expositivo — que aparece en esa segunda biblio­
+teca, desbordante en amplitud a la de los textos del ordenamiento jurídico—
+es el resultado de una obra colectiva: la realizada por los juristas dogmáticos
+(o científicos del Derecho). Ahora bien, como fácilmente puede comprenderse,
+no existe unanimidad de criterios ni de interpretaciones entre los diversos auto­
+res, sino que, por el contrario, lo usual es encontrar posturas muy variadas, y
+en ocasiones contrapuestas, en la manera de concebir un mismo problema,
+como puede ser la interpretación de un precepto legal o la aplicación de un
+concepto jurídico.
+Los diversos autores hacen propuestas de construcción hermenéutica
+de acuerdo con los criterios que estiman idóneos y con sus propias concepcio­
+nes del Derecho. Lo que piensa un civilista no lo comparte otro; la interpreta­
+ción que un administrativista adscribe a una palabra que aparece en un texto
+legal es contradictoria con la que le otorga otro administrativista; lo que entiende
+un procesalista al explicar un concepto del Derecho procesal no es compartido
+por otros. Las propuestas son resultados en gran parte de las decisiones adop­
+tadas por los autores. Aunque es cierto que el debate interno a la Dogmática se
+da dentro de unos cauces, no lo es menos que el acuerdo brilla por su ausen­
+cia, y mucho más la unanimidad. Lo que caracteriza, en este aspecto, a la Cien­
+cia de los juristas es la disparidad y la variedad de posiciones doctrinales.
+Cada posición doctrinal, realizada por un autor determinado, es una
+propuesta. Todo jurista, al escribir un manual o una monografía sobre una par­
+cela del Derecho vigente, aspira a que sus opiniones salgan vencedoras sobre
+las de sus adversarios doctrinales. Lo que encontramos en los libros de Derecho
+(como, p. ej., en un tratado de Derecho civil o de Derecho penal) son meras
+propuestas porque, para transformarse en Derecho vivo o vigente, necesitan ser
+incorporadas al ordenamiento jurídico, bien en las leyes, bien en la jurispru­
+dencia de los tribunales, bien de alguna otra manera equivalente.
+Cada propuesta doctrinal es el resultado de una decisión, a la que pode­
+mos llamar “decisión de propuestd’, o “decisión de proponer" tal o cual doctrina,
+tal o cual interpretación, tal o cual solución.
+El jurista se enfrenta ante el problema de cómo interpretar un determi­
+nado texto legal. Partiendo de los conocimientos que ha adquirido desde que
+306
+
+
+
+fue alumno de la Facultad de Derecho, razona de un modo o de otro y llega a
+una conclusión. Los presupuestos de los que parte, sus razonamientos y su con­
+clusión los pone por escrito en su tratado, en su manual, en su monografía.
+¿Qué busca con ello? Obviamente, lo que intenta es que las autoridades com­
+petentes incorporen su propuesta al Derecho vigente. Puede tener éxito en la
+empresa, o puede que no. También es posible que no tenga éxito en el presente,
+pero sí en el futuro. O puede suceder que no lo tenga nunca, al no aceptarse
+jamás sus tesis por parte de una autoridad jurídica. Él se limita a exponer su pos­
+tura y se esfuerza en razonarla siguiendo determinados criterios, los criterios
+admitidos como propios del razonamiento jurídico. Detrás de su propuesta hay
+siempre una decisión, una decisión doctrinal-, por eso, de entre las varias posi­
+bilidades que el texto legal le ofrece, se queda con una, la que le parece más
+adecuada, justa, conveniente o funcional.
+La Ciencia de los juristas no es descriptiva sino propositiva. Propositiva,
+no en el sentido en que se emplea esta palabra en el lenguaje empresarial como
+sinónimo de actitud activa y favorable a los valores de diverso tipo que pro­
+mueve una determinada empresa, sino en el sentido de “proponente”, esto es,
+que propone o hace propuestas para que las autoridades competentes las incor­
+poren al ordenamiento jurídico.
+Toda propuesta supone una decisión a favor de la misma, una decisión
+razonada, de acuerdo con los criterios que, en opinión de su expositor, son los pro­
+pios del ordenamiento jurídico de referencia. Pensar que en la Ciencia en general,
+en cualquier Ciencia, no se producen decisiones, es un prejuicio propio del descriptivismo positivista. En la Dogmática jurídica la realidad decisional se percibe
+muy claramente, si comparamos las posturas de unos autores con las de otros.
+7 . DECISIONES JURÍDICAS PRODUCTORAS
+DE TEXTOS NORMATIVOS
+(DECISIONES JURÍDICAS SISTÉM ICAS')
+
+Las autoridades jurídicas — sobre todo, los tribunales de justicia— se
+encuentran, para resolver los casos, con los textos ordinamentales, así como con
+los textos del sistema didáctico-expositivo. O sea, con las dos bibliotecas men­
+cionadas. Nadie duda de que dichas autoridades han de aplicar la ley. Pero tam­
+poco se pone en cuestión el hecho de que las leyes plantean a su vez muchas
+cuestiones interpretativas. Para resolver las dudas las autoridades se sirven, por
+medio de los letrados a su servicio o directamente por ellas mismas, de la doc­
+trina de los autores. Como ésta suele ser variada, lo usual es que se confíen a las
+opiniones expresadas mayoritariamente.S
+i
+Si la opinión de los autores sobre cómo interpretar un texto ordinamental es unánime, es casi seguro que los tribunales se atendrán a esa doctrina. Si
+307
+
+
+
+no es unánime, pero sí mayoritaria, o sea, doctrina dominante, probablemente
+sucederá lo mismo. En todo caso, es muy probable que se guíen por las opinio­
+nes de los juristas de mayor prestigio. Sea de una forma o sea de otra, los tri­
+bunales se apoyan casi siempre en la doctrina jurídica elaborada por la Ciencia
+de los juristas, por la Dogmática. Toman, en definitiva, alguna de las propues­
+tas para incorporarla a sus propias decisiones. En otras palabras: hacen que
+triunfe una de las propuestas doctrinales en liza. Así sucede que la propuesta
+cambia de status: de ser una propuesta doctrinal pasa a ser “jurisprudencia”.
+Con otro nombre, “doctrina jurisprudencial”.
+En este proceso comunicacional que se da entre el legislador, el jurista
+(dogmático) y las autoridades, tenemos las claves para entender cómo se forja
+el sistema jurídico propiamente dicho, o sistema jurídico en sentido estricto, al
+que para abreviar designamos como SIS. Del ORD se pasa al SIS a través de un
+complejo fenómeno de actos comunicacionales cuyos protagonistas son los acto­
+res señalados.
+El sistema jurídico (SIS) está formado por el conjunto de propuestas doc­
+trinales que tienen éxito al incorporarse a las decisiones de las autoridades. Son
+éstas las que dan el “visto bueno” a las propuestas de los autores; y lo hacen a
+través de sus decisiones. Las autoridades, en su función cotidiana, van decidiendo
+caso a caso si admiten o no estas o aquellas propuestas doctrinales. Cuando se
+encuentran con que la doctrina de los autores no proporciona ninguna propuesta,
+o bien que las que hay formuladas no son convincentes, entonces no les queda
+otro remedio que decidir por sus propios medios una respuesta a la cuestión
+planteada. En cualquier caso, siempre han de decidir qué contenidos concretos
+hay que adscribir a los textos ordinamentales; dicho de otro modo: han de deci­
+dir la formulación de las normas jurídicas para los casos contemplados.
+El sistema jurídico (SIS) está formado, en consecuencia, por el conjunto
+de textos doctrinales que han recibido el “espaldarazo” o “conformidad” por
+parte de las autoridades jurídicas, especialmente de los tribunales de justicia,
+así como por los textos que esas autoridades deciden incorporar por su propia
+cuenta. Proceden así por medio de decisiones, a las que denominamos decisio­
+nes jurídicas sistémicas, ya que son estas decisiones las que, tomadas en su con­
+junto, generan el sistema jurídico en sentido estricto (SIS).
+Tenemos, pues, la dualidad ordenamiento (ORD) / sistema (SIS), con un
+intermediario “inteligente”, que es el sistema didáctico-expositivo, generado por
+la Dogmática jurídica. Se manifiesta así claramente la función comunicacional de
+la Dogmática jurídica: actuar de agencia comunicacional intermediaria entre los
+textos ordinamentales y los textos sistémicos, entre el ordenamiento y el sis­
+tema; y esto lo hace de la única manera posible: generando los textos doctrina­
+les que, después, las autoridades incorporan al sistema jurídico en sentido pro­
+pio (SIS).
+308
+
+
+
+En la práctica diaria de los jueces es usual que estos, para resolver el
+caso, no tengan tiempo para consultar la doctrina (y probablemente, ni siquiera
+ganas), y acudan directamente, por un lado, a las alegaciones de los abogados
+de las partes del proceso y, por otro, a la base de datos informática de que dis­
+pongan en busca de un precedente parecido y, una vez encontrado, apliquen
+análoga solución con los matices que la prudencia les aconseje. Este modo de
+proceder no supone en modo alguno la irrelevancia de la doctrina, sino tan sólo
+el acortamiento del procedimiento. Un estudio detenido de las decisiones judi­
+ciales sobre casos similares al planteado nos llevaría con casi total seguridad a
+un punto de partida, y en ese punto de partida jurisprudencial se encontrarían
+las claves de las decisiones posteriores. Con un poco de perspicacia podríamos
+encontrar asimismo las bases doctrinales sobre las que se apoyó la decisión ori­
+ginal, así como las sucesivas decisiones32. El hecho de que los “procedimientos
+acortados” en la elaboración de sentencias sean usuales e incluso necesarios, no
+significa que la Teoría del Derecho tenga que centrarse en ellos exclusivamente.
+Más bien parece que su verdadero cometido es ir más allá de la apariencia, tra­
+tando de desentrañar el conjunto de aspectos que intervienen, directa o indirec­
+tamente, en los procesos comunicacionales de decisión. La práctica, como
+sucede en todos los terrenos de la vida, acorta y tira por el camino más cómodo.52
+
+52 Este párrafo lo h e añadido p o r inspiración del com en tario del p rofesor Pablo Lucas, M agistrado
+del Tribunal Suprem o e n su Sala T ercera de lo contencioso-adm inistrativo, qu ien d estacó q u e e n la práctica dia­
+ria d e los ju eces estos, para resolver los casos, acu den regularm ente a estos tres elem entos: 1. Los principios jurí­
+dicos. 2. Los p reced en tes judiciales. 3. La prudencia. P arece q u e así se exclu ye la relevancia de la doctrina cien ­
+tífica. Sin em bargo, lo s principios h an sid o norm alm ente o b jeto d e elab o ración doctrinal (h ay q u e d escon fiar d e
+los principios “m oralm ente intuidos”). Los preceden tes judiciales tam p oco escap an a e se origen, co m o subrayo
+e n el texto. P o r últim o, la prudencia es una virtud qu e se esp era de los ju eces, p ero q u e n o siem pre se ejerce.
+E n u na línea sim ilar se exp resó el pro fesor N ieto, invocando para ello al juez estadounidense B enjam ín Cardozo
+(1 8 7 0 -1 9 3 8 ). La ob ra teórica d e Cardozo se centra e n u n análisis introspectivo sob re có m o d ecid e él m ism o el
+co ntenid o y fallo d e las sen tencias; constituye una reflexión sob re el h acer judicial — y m ás e n concreto, so b re
+“su” h a cer judicial— e n u n co n texto determ inado: el del ám bito jurídico d e los EEUU a com ienzos del siglo X X ;
+n o exten sib le p o r tanto a otros ám bitos jurídicos del pasad o o del presente. Adem ás d e estas consid eracion es
+hay q u e ten er e n cu enta otra n o m enor, q u e e s la siguiente: la perspectiva teórica global co m o tarea d e la T e o ­
+ría d el D erech o intenta ir m ás allá d e las experiencias particulares, p o r m ás q u e estas pu ed an ser en riqu eced oras para el análisis d e conjunto. Posteriorm ente (2 4 de febrero), el prof. Lucas m e ha enviado u n m en saje p or
+co rreo electrón ico e n el q u e d ice lo siguiente: “Las únicas ob servaciones q u e pu ed o hacerte a propósito d e los
+paso s q u e d am os a la hora d e estab lecer la so lución de u n litigio so n la siguientes. Recurrim os a los principios
+e n los caso s e n q u e el orden am ien to n o n o s ofrece una regla clara para resolverlo. Cuando h ay d isposición apli­
+ca b le y n o entra e n co ntrad icció n co n otra ni suscita dudas, en to n ces n o s lim itam os a extraer d e ella las co n se­
+cuencias. Los principios entran e n ju eg o cu and o n o hay claridad resp ecto d e o e n la regulación aplicable. Nos
+atenem os a la jurisprudencia siem pre q u e existe so b re el p roblem a plantead o para h acer efectiva la igualdad e n
+la aplicación de la Ley y la seguridad jurídica. P od em o s cam biarla justificando las razones q u e n o s llevan a
+h acerlo p ero esto su ced e d e m anera m uy gradual y co n el transcurso del tiem po. Más fácil es bu scar e n el caso
+diferencias q u e perm itan eludir la ap licación de la jurisprudencia consolidada cu and o observarla cond uzca a
+situacion es injustas. E n este sentido, se d eb e subrayar q u e, antes de op erar jurídicam ente, e s fundam ental co n o ­
+cer m uy b ien los h e ch o s y lo s térm inos e n q u e argum entan las partes. A m enudo, eso s h ech o s llevan casi por
+sí m ism os a la respuesta q u e h ay q u e dar. En fin, las po siciones d e las partes lim itan e n m uchas ocasion es las
+op cio n es del juzgador: p o r lo q u e piden o n o piden y p o r có m o argum entan sus p reten sion es”. T én g ase e n
+cu enta q u e está hab land o u n m agistrado de lo contencioso-adm inistrativo. Si fuera d e la Sala Segunda (Pen al)
+p ro bab lem en te pondría e l acen to e n otros aspectos, p .ej., m ás e n la tipificación q u e e n los principios.
+
+309
+
+
+
+Pero el enfoque teórico de los problemas no puede quedarse en ello, sino que
+ha de proporcionar las claves de dichos procesos de decisión. Además, la Teo­
+ría del Derecho no puede quedarse en cómo opera un determinado juez o tri­
+bunal, y ni siquiera en lo que pueda ser habitual en un ámbito jurídico concreto.
+Su perspectiva ha de ser la más amplia posible.
+8.
+DECISIONES JURÍDICAS PRODUCTORAS
+DE TEXTOS JURÍDICO S QUE NO FORMAN PARTE
+NI DEL ORDENAMIENTO NI D EL SISTEMA
+(DECISIONES JURÍDICAS E X T R A -O K D IN AM EN TALES
+Y , A LA VEZ, EX T R A -SIST É M IC A S)
+
+Un cuarto grupo de decisiones lo constituyen aquellas decisiones que
+no generan textos jurídicos pertenecientes al ordenamiento ni al sistema en
+ninguna de sus dos modalidades: sistema didáctico-expositivo y sistema jurídico
+en sentido estricto (SIS). Ejemplos: una demanda presentada en un juzgado, un
+dictamen de un abogado, los debates parlamentarios que han precedido a la
+aplicación de una ley, un documento que actúa como prueba en un proceso,
+etc. Todos estos son textos jurídicos escritos (aunque originariamente hayan
+sido manifestados oralmente), y no son textos ordinamentales, ni tampoco sistémicos. No son preceptos del ordenamiento, ni propuestas doctrinales, ni nor­
+mas jurídicas pertenecientes al sistema jurídico (SIS). Pero sí son textos jurídi­
+cos, ya que pertenecen al ámbito (AMB).
+La Teoría del Derecho se ha desentendido de este tipo de textos, y ha
+centrado su atención sobre todo en los textos ordinamentales, en el ordena­
+miento jurídico. La TCD, precisamente por pertenecer dichos textos al ámbito
+jurídico, los incorpora a su investigación.
+Esta es una diferencia notable entre la TCD y las demás concepciones
+de la Teoría del Derecho (o Teoría general del Derecho). Mientras que el
+modelo dominante de esta disciplina se centra en el ordenamiento jurídico,
+hasta el punto de hacer de ella una teoría del ordenamiento33, la TCD amplía
+notablemente el campo al introducir el concepto abarcador de ámbito jurídico
+(AMB), dentro del cual se comprende al ordenamiento (ORD), al sistema didác­
+tico-expositivo de la Dogmática, al sistema jurídico en sentido estricto (SIS), a
+los actos, situaciones, relaciones jurídicas y cualquier otro elemento con signi­
+ficado para el Derecho.
+
+33
+Tal e s el ca so d e H ans K elsen , T eoría p u ra d el D erecho (In trodu cción a los p roblem as d e la C ien­
+c ia ju ríd ic a ) [Prim era ed ició n d e 1934]. T rad u cción a c a ig o d e G reg orio R ob les y F élix F. Sán ch ez. P resen ta­
+ció n d e G reg o rio R obles. Editorial Trotta. Madrid, 2011. T a m b ién d e Norberto B o b b io , T eoría G en eral d el D ere­
+cho. T ra d u cció n d e Eduardo R ozo A cuña. Editorial T hem is, B o g o tá - C olom bia, 1987.
+
+310
+
+
+
+9- DECISIONES JURÍDICAS QUE NO SE MANIFIESTAN
+EN EXPRESIONES LINGÜÍSTICAS EXPLÍCITAS
+(DECISIONES JURÍDICAS TÁCITAS O IM PLÍC ITA S')
+
+Por último, hay que considerar aquellas decisiones que se concretan
+en actos o en omisiones que, como tales, no se expresan directamente por
+medio de expresiones lingüísticas. Ejemplos: una manifestación sindical por las
+calles de la ciudad; el pago de una deuda; un asesinato; la omisión de socorro
+a la víctima de un atropello en la carretera. En el primer ejemplo, un grupo de
+individuos decide participar en la citada manifestación; en el segundo, una per­
+sona decide pagar su deuda; en el tercero, un individuo decide acabar con la
+vida de otro usando para ello los efectos del veneno; en el cuarto, alguien
+decide no socorrer a quien, víctima de un atropello, se desangra en la carretera.
+Es evidente que estamos ante actos u omisiones jurídicas, ya que su
+significado se obtiene “leyendo” el acontecimiento respectivo desde el marco
+hermenéutico que conforman la dualidad ordenamiento/sistema (ORD/SIS).
+Esos actos y omisiones son resultado de las decisiones correspondientes que
+adoptan los individuos en una situación dada. La decisión que precede a una
+acción u omisión forma parte también del ámbito jurídico (AMB), habida cuenta
+de que el sentido de tales actos y omisiones sólo se puede hallar a partir de
+“leer” e interpretar los movimientos (en el caso de los actos) y la ausencia de
+movimientos (en el caso de las omisiones) desde el prisma de la dualidad orde­
+namiento/sistema (ORD/SIS). De ese modo es posible traducir la acción en
+texto, al desvelar el significado del movimiento ejecutado por el agente, e igual­
+mente la omisión se traduce en texto, también al descubrir el sentido de la
+ausencia de movimiento.
+Manejamos aquí, como ya hemos estudiado en otros lugares, un con­
+cepto hermenéutico-analítico de acción y de omisión, lo que permite contemplar
+esos conceptos como textos. No se manifiestan directamente en actos de len­
+guaje explícitos, pero, al ser incorporados al ámbito jurídico, son percibidos de
+inmediato como actos y omisiones jurídicas en razón de su sentido o significado.
+1 0 . CONCLUSIONES
+
+La exposición anterior evidencia una realidad en el Derecho, que no
+es otra que la omnipresencia de las decisiones. Hay decisiones en los momen­
+tos de creación del ordenamiento jurídico; las hay también cuando se ordena
+interpretativamente el material ordinamental para presentarlo en el sistema
+didáctico-expositivo, haciendo las correspondientes propuestas; nuevamente
+las hay cuando las autoridades jurídicas (p.ej., los tribunales de justicia) selec­
+cionan, de entre las propuestas doctrinales, aquellas que les parezcan perti­
+nentes al asunto que contemplan o al caso que tienen que resolver; las hay asi­
+311
+
+
+
+mismo en el momento de configurar y presentar un escrito que no pertenece
+al ordenamiento ni al sistema en cualquiera de las dos modalidades, pero que
+tiene efectos jurídicos; por último, las hay en los actos y omisiones que se pro­
+ducen dentro del ámbito jurídico.
+Esta manera de contemplar el concepto de decisión jurídica y sus mani­
+festaciones contrasta elocuentemente con lo que es usual en la Filosofía y la
+Teoría del Derecho: tradicionalmente se ha reducido el concepto de decisión
+jurídica, limitándolo a las decisiones de las autoridades que aplican las normas
+de carácter general (leyes, reglamentos, etc.) a situaciones concretas, y espe­
+cialmente se le suele reducir a las decisiones judiciales. Se ha equiparado el
+concepto de decisión jurídica con el de decisión sobre lo concreto y por lo
+general con decisión que resuelve un litigio, esto es, con la decisión judicial.
+En la TCD el tratamiento de las decisiones jurídicas se amplía enorme­
+mente, pues se manifiesta en todos los procesos comunicacionales. No podía
+ser de otro modo, pues todos los procesos de comunicación conllevan nece­
+sariamente actos de decisión. La decisión jurídica es un concepto tan central en
+el Derecho que la Teoría jurídica podría hacer de él la piedra angular de todas
+sus construcciones (al igual que puede construirse una Teoría del Derecho, y
+por consiguiente también una TCD, tomando como punto de partida el con­
+cepto de norma jurídica o el concepto de institución jurídica). La TCD tiene la
+virtualidad de conjuntar las tres dimensiones34 de una manera armónica. Estas
+no son excluyentes35 sino que representan aspectos distintos de una misma rea­
+lidad que se adopta como punto de partida de la investigación. Dicha realidad
+es el lenguaje de los juristas.
+
+34 P o r esta razón, D ieg o M edina M orales la califica d e “teoría tridim ensionista", a d iferen cia d e las
+d enom inad as “teorías tridim ensionales”. Estas se b a sa n e n la co n flu en cia en tre h e ch o , valor y norm a, e n un
+alarde m ixtificador d e perspectivas. La TC D , p o r e l contrario, ap lica e l m ism o m éto d o (herm en éu tico-analítico)
+al lengu aje d e los juristas e n sus tres d im ensiones: sintáctica, sem ántica y p ragm ática. V éase D iego Medina M ora ­
+les (C oo rd .), La Teoría C om u n icacion al d el D erecho a exam en . In trod ucción d e G regorio R obles M orchón. Edi­
+torial Civitas CThomson Reuters), Navarra, 2017. Este v o lu m en integra los siguientes trabajos: D iego Medina Mora­
+les, “C o m u nicación y D erech o . T rascend encia d e una T eoría”; J osé J . Albert M árquez, “Las reglas del D erech o
+y las reglas d e los Ju e g o s. D el análisis del len g u aje d e los juristas a la T eoría C om u nicacion al d el D erech o e n la
+o b ra d e G regorio R o b les”; Adolfo Sánchez H idalgo , “Los d erech os fundam entales e n la T eoría Com unicacional
+d el D e re c h o ”; y Angelo Anzalone, “E l preten did o co n cep to universal d e d erech o subjetivo e n la T eoría C om u­
+nicacio n al del D e re ch o ”.
+35 A d iferen cia d e la tesis p resen tad a p o r Carl S chmtit e n su o p ú scu lo Ü ber d ie d rei A rten des
+rechtsw issenschaftlichen D enkens (1 9 3 4 ) ( “So bre las tres e sp ecie s d e p en sam ien to científico-jurídico”). H ay ver­
+sió n esp añola: Carl S chmtit, Sobre los tres m odos d e p en sa r la cien cia ju ríd ica. Estudio prelim inar, tradu cción y
+notas d e M ontserrat H errero. Editorial T ecn o s, Madrid 1996. Schm itt so stien e q u e existen tres esp ecie s p osibles
+d e p en sam ien to jurídico: el norm ativista, el d ecisionista y el institucionista (o d el ord en con creto ). Estas tres
+e sp ecie s se rep elen recíp ro cam en te, so n exclu yen tes u n as d e otras. La TC D , p o r el contrario, las co m b in a y
+arm oniza, sin m ezclarlas e n lo s tres niveles d e investigación del len gu aje d e los juristas: sintaxis (Teoría form al
+d el D erech o , sem ántica (T eo ría d e la D ogm ática jurídica) y pragm ática (T eoría d e las d ecision es jurídicas).
+
+312
+
+
+
+El panorama decisional se amplía de tal manera que, con él, se abre la
+puerta a la investigación de los numerosos protagonistas que intervienen en los
+procesos de comunicación jurídica en una sociedad avanzada. Lejos de redu­
+cir dichos protagonistas al poder legislativo, no sólo se tienen en cuenta los pro­
+tagonistas de la administración pública y los del poder judicial, sino asimismo
+los agentes que intervienen en los diversos procesos comunicacionales empe­
+zando por el poder constituyente —al que la Teoría del Derecho tradicional­
+mente suele considerar como “extrajurídico”— y siguiendo por los que están
+en la “pelea diaria” del Derecho: abogados, fiscales, juristas asesores, notarios,
+registradores, etc., así como los propios individuos que actúan como destina­
+tarios y como usuarios de los textos jurídicos. El panorama de la TCD se amplía
+considerablemente en cuanto a su campo explicativo, si la comparamos con
+otras concepciones generales del Derecho.
+El término “decisión” suele tener un matiz peyorativo pues, al ir vin­
+culado a la “voluntad” (se decide lo que uno quiere decidir), conlleva una cierta
+sospecha de irracionalidad. Esto es lo que podemos denominar “prejuicio antidecisional” o “anti-decisionista”.
+Ahora bien, una decisión puede ser racional o irracional; o mejor: razo­
+nable o irrazonable. Pero esto mismo es aplicable a una norma, o a un acto. Que
+la voluntad intervenga en la decisión no conduce necesariamente a la “irrazonabilidad”. Precisamente lo que es justo o injusto, equitativo o inequitativo, es
+una condición que se aplica de modo natural y directo a las decisiones y, con­
+secuentemente, a lo que ellas producen como, por ejemplo, las normas.
+Hemos visto en este trabajo cómo las decisiones aparecen en todos
+los momentos de los procesos que se generan dentro del ámbito jurídico
+(AMB). Esto hay que tenerlo siempre presente, pues ayuda a comprender que
+el Derecho no puede equiparase al ordenamiento, ni al sistema, ni siquiera a
+la conjunción de ambos. El ámbito jurídico abarca todos los actos y procesos
+comunicacionales que se generan en relación con la dualidad ORD/SIS.
+Así, por ejemplo, es habitual la tesis de que la decisión constituyente es
+una decisión extra-ordinamental; lo cual, ciertamente, es correcto, ya que dicha
+decisión genera el primer texto ordinamental: la constitución. De ahí, sin
+embargo, la doctrina deriva una afirmación que es falsa: se deriva la idea de que
+la decisión constituyente es “extrajurídica”. Esa tesis sólo se mantiene si se equi­
+para al Derecho con el ordenamiento jurídico. Por el contrario, si se adopta el
+concepto de ámbito jurídico, la decisión constituyente es también una decisión
+jurídica, puesto que es una decisión que pertenece al ámbito jurídico. Adquiere
+su sentido en relación con ORD/SIS y pertenece por eso al ámbito (AMB).
+El análisis propio de la TCD permite además comprender que la rea­
+lidad del Derecho no puede equipararse a la del ordenamiento jurídico, mucho
+
+313
+
+
+
+menos a las leyes — como proclamó el llamado positivismo legalista. La reali­
+dad del Derecho es mucho más compleja y conlleva la actuación de múltiples
+protagonistas. De esta complejidad, en todas sus dimensiones, pretende
+hacerse cargo la Teoría comunicacional del Derecho. Sin embargo, esta se
+manifiesta siempre con una limitación: la TCD se propone representar tan sólo
+el punto de vista de los juristas, el punto de vista interno*. Otros enfoques —
+el sociológico3637, el psicológico, el económico38, el antropológico39, el político40,
+
+36 El p u n to d e vista in tem o p u ed e dirigirse tan só lo a u n ám bito jurídico co n sid erad o e n abstracto,
+esto es, e n u n a p ersp ectiva m eram en te teórica; o b ie n p u ed e se r p u esto e n co n tacto c o n el D e re ch o C om p a­
+rado. Tal su giere el p ro feso r H elio C arpintero al in vo car las m od alid ades d ecision ales q u e p red om inan e n el
+m o d elo co n tin en tal d el D e re c h o eu ro p e o e n co ntraste c o n el m o d elo d el com m on law . La o b je c ió n es certera,
+e n cu a n to q u e n o h a y u n a teoría d e las fu en tes (d ecisio n es) jurídicas q u e se a un iform e para tod os lo s ám bitos
+jurídicos q u e ex isten o h a n existido. A e ste a sp e cto h a y q u e ap licar el prin cipio d e relatividad q u e so stien e la
+TCD : cad a o rd en am ien to jurídico e s p ro d u cto d e sus propias “fu en tes”, q u e p u ed en ser equ ivalentes a las de
+otro s ord en am ien to s, p ero q u e tam b ién ad m ite otro s m od elos.
+37 El p ro feso r Ju lio Iglesias d e U ssel ech a d e m en o s e n el análisis de este trabajo el en garce c o n los
+h e ch o s. Se trata sin duda d e u n a lim itación autoim puesta. Los h e ch o s — su p on g o q u e se refiere a los h e ch o s
+p síq u ico s y, so b re tod o , so cia les— q u ed an para la investigación d e sen d as disciplinas p o seed oras d e su p ro­
+pia tradición: la P sico lo g ía jurídica y la S o cio lo g ía d el D erech o . La TCD n o es n i P sicología, n i Sociolog ía; y
+re c o n o c e la p len a legitim idad d e lo s ca m p o s y los m éto d o s d e am bas. La prim era ad opta el p u n to d e vista
+e x te m o del p sicó lo g o , y la segu nd a el p u n to d e vista tam b ién e x tern o del so ciólog o . La T C D intenta tan só lo
+p o n erse e n la p ersp ectiv a típica d el jurista, c o m o tal jurista.
+38 Mis co n tin u as “d esav en en cias teó rica s” c o n el p ro fesor P ed ro Schw artz, c o n el q u e p o r otra parte
+m e u n e u n a b u e n a am istad, tie n e n su raíz e n q u e m e ech a e n cara q u e n o h ag o A nálisis ec o n ó m ic o d el D e re ­
+ch o . Le d o y tod a la razó n e n q u e n o h a g o tal Análisis, q u e p o r otra parte ap recio m u ch o. M e lim ito a h acer
+T eoría del D erech o , tal c o m o la en tiend o: co m o TCD . Para h acer A nálisis eco n ó m ico d el D e re ch o su p on g o qu e
+h ay q u e se r eco n o m ista, co sa q u e y o — para b ie n y para m al— n o soy. M e ech a e n cara el ser “form alista”, lo
+q u e para u n jurista co nstitu ye m ás b ie n u n a alabanza. D ice q u e red u zco to d o el D e re ch o a lengu aje. No e s así,
+sim p lem en te to m o el len g u aje d e lo s juristas c o m o p u n to d e partida para el análisis d entro d e una c o n ce p c ió n
+com u n icacion al. Es la p erspectiva adoptada. M e critica q u e n o ten g o e n cu en ta las co n secu en cias. C ó m o no:
+las co n se c u e n cia s fo rm an parte d e lo q u e d eben co n sid erar lo s legislad ores, los adm inistradores, lo s ju e ce s, y
+to d o aq u el q u e tom a u n a d ecisión . N orm alm ente su sed e natural será la d elib eración q u e d e b e p re ced er a la
+d ecisión : e n ella se so p e sa n las p o sib les o p revisibles co n se c u e n cia s d e las d ecision es q u e se p reten d en ad op ­
+tar. La p o n d era ció n d e las c o n se c u e n cia s e s u n a sp e cto im portante d e la reflexión q u e d eb e p re ced er a la d eci­
+sión. E n ello tien e m u ch o q u e d ecir e l A nálisis ec o n ó m ic o d el D erech o , p o rq u e perm ite analizar la d ecisión
+e n térm in os d e p ro b a b les co sto s y b e n efic io s so cia les ( o so c io -eco n ó m ico s). U n legislad or pru dente, a la hora
+d e ap ro b ar un a ley, co nsid erará su s p o sib les co n se c u e n cia s e n la realidad social, su im p acto so b re la e c o n o ­
+m ía, la fam ilia, o cu alq u ier otro asp ecto . Solicitará p ro b a b lem en te inform es técn ico s q u e le p ro p o rcio n en algo
+d e claridad so b re la situ ación so cia l d e referen cia y so b re el p o sib le e fe cto d e u n a ley q u e ad op te estas o a q u e­
+llas m edidas. La ex p e rien cia d em uestra, sin em bargo , q u e m uch as ley es so n autén ticos “d isparos e n la oscu ri­
+dad”, dirigidos m ás p o r in tu icion es o “co razo n ad as” q u e p o r co n o cim ien to s fun dam entados e n u n a seria inves­
+tigació n d e la realidad social.
+39 El p ro feso r C arm elo Lisón T o lo san a m e su giere u n a reflexió n antrop ológica so b re la n ecesid ad
+d e ten er e n cu en ta e l trasfon do d e id eo lo gías, cre en cia s y culturas q u e su b y acen a tod os lo s p ro ce so s d ecisio­
+n ales e n e l D erech o . Sin ninguna duda esto e s así; p ero su investigación p erten ece al cam p o d e la A ntropolo­
+gía jurídica.
+■“ A quí v ie n e a p ro p ósito la rela ció n en tre las d ecision es p olíticas y las d ecision es jurídicas, cu es­
+tió n q u e m e su scita u n co m en ta rio d el p ro feso r D alm acio N egro. M erece la cu estió n u n estud io d eten id o.
+A hora p u ed o d ecir q u e e l á m bito d e la p o lítica n o co in cid e n ecesariam en te c o n el d el D erech o ; si b ie n e n un
+Estado d e D e re ch o tod as las d ecisio n e s políticas se ad op tan p o r lo s ca u ces q u e el D e re ch o e stab lece . B ie n es
+verd ad q u e se d an d ecisio n e s q u e p u ed en ser co nsid erad as políticas q u e se extralim itan d el m arco jurídico o,
+
+314
+
+
+
+el ético41— son perfectamente legítimos, pero representan puntos de vista
+externos.
+La separación de planos epistemológicos y metodológicos constituye
+un rasgo esencial de la TCD. No sólo se distingue la TCD de las posiciones
+externas, sino que también reclama la necesidad de distinguir los tres planos
+o niveles que la conforman (el sintáctico, el semántico y el pragmático).
+De esta manera, al entablar un debate, lo primero que es preciso defi­
+nir es el plano en que dicho debate ha de tener lugar. Así, p.ej., si se discute
+sobre los caracteres de los derechos subjetivos, habrá que delimitar el plano de
+discusión, estableciendo si nos situamos en la perspectiva interna, propia del
+jurista, o en la del sociólogo, o la del economista. Y, si adoptamos la perspec­
+tiva del jurista, deberemos indicar además si nos movemos en el plano de la
+Teoría formal, en el de la Teoría de la Dogmática jurídica, o en el de las Deci­
+siones jurídicas42.
+
+para se r m ás exacto s, n o se ajustan a lo e x ig id o jro r las norm as d el D erech o . P ero cu an d o esto su ced e las nor­
+m as d el D erech o su elen ten er prevista la respuesta.
+41 El pro feso r R am ó n T am am es observa una d eficiencia: la au sen cia d e u n tratam iento d e los co n ­
+tenido s m orales d e las d ecisio n es jurídicas. Estoy d e acuerdo: e n e ste trabajo tan só lo se estudian los diversos
+tip os d e d ecisio n es jurídicas. O tros a sp ecto s q u ed an fuera d e consid eración . Se sitúa e l estud io e n lo q u e se
+pu ed e d enom inar T eoría form al d e las d ecision es jurídicas. Ello n o es ó b ic e para q u e la TCD introduzca, en
+u n a ex p o sició n m ás co m pleta, lo q u e p u ed e llam arse un a T eoría m aterial d e las d ecision es jurídicas, o sea, una
+T eoría de la Justicia. A hora b ien , el estatuto ep istem ológico q u e haya q u e otorgarse a dicha Teoría m aterial será
+p ro b ab lem en te diferente al p ro p io d e la T eoría form al d e las d ecision es jurídicas.
+42 So bre esta d iferen ciació n d e planos, dentro d e la TCD , m e h e exp licad o algo d eten idam ente en
+G regorio R obles , T eoría d el D erecho. Fundam entos d e Teoría C om u n icacion al d el D erecho. Volumen /, 6a ed.
+(2 0 1 5 ), cit.:6 3 7 y ss.: “Los d erech o s su bjetivos y las tres perspectivas d e la T eoría C om unicacional del D erech o ”.
+Y tam b ién e n el terren o so cio ló g ico e n G regorio R obles, Sociología d el D erecho. 2* ed. Civitas. Madrid 1997:115
+y ss. La So ciolog ía jurídica tam b ién p u ed e organizarse e n tres niveles, p aralelos a lo s p ro p ios d e la TCD : S o cio­
+logía form al del D erech o , So ciolog ía d e las Instituciones Jurídicas, y So ciolog ía d e las D ecisio n es jurídicas.
+
+315
+
+
+
+

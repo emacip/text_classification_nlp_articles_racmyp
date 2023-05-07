@@ -1,0 +1,798 @@
+SOBRE I A DESIGUALDAD
+P o r el A ca d ém ic o d e N ú m ero
+Excm o. Sr. D. Jaim e T erceiro Lom ba *
+
+El concepto de desigualdad es complejo y multidimensional. Desde
+luego, no basta para explicarlo con la respuesta que Mary Colum le dio a Ernest
+Hemingway: -La única diferencia entre la gente rica y la gente pobre es que la rica
+tiene más d inero-. La preocupación por la distribución de la riqueza tiene viejos
+antecedentes en Platón, quien concluía que en la sociedad ideal la riqueza de la
+persona que más tiene no debía ser mayor que cuatro veces la de la más pobre.
+En términos generales podemos definir la desigualdad como la dispersión de una
+distribución, tanto si se trata de la renta, del consumo, de la salud o de cualquier
+otro indicador o atributo de bienestar de la población. Como veremos la caracte­
+rización cuantitativa de la desigualdad no es tarea fácil, pero en todo caso se
+puede afirmar que nuestra sociedad actual difiere claramente de la recomendada
+por Platón.
+La búsqueda de la frase equivalente en inglés a: -Los ricos están siendo más
+ricos y los pobres más pobres• en G oogle me proporcionó la semana pasada, cuan­
+do estaba escribiendo esta intervención, 10.400 documentos; ligeras variaciones
+gramaticales, que entrañan la misma afirmación y palabras, me facilitaron 26.400.000
+documentos. Pues bien, en mi intervención de hoy pretendo, entre otras cosas, anali­
+zar esta afirmación e intentar contestar a preguntas tales como: ¿crecen las socieda­
+des relativamente iguales más o menos que las menos iguales?, ¿están relacionados
+los niveles de desigualdad y los niveles de pobreza?, ¿está la estabilidad macroeco-
+
+* Sesión del día 17 de enero de 2006,
+105
+
+
+
+nórnica relacionada de alguna manera con la distribución de la riqueza?, ¿hasta qué
+punto las políticas redistributivas afectan a las políticas de crecimiento?
+Para aquellos que piensan que la desigualdad es injusta y socialmente
+destructiva moverse en esa dirección, o estancarse en niveles altos de desigualdad,
+es hacerlo en la dirección incorrecta. Para aquellos otros que creen que la riqueza
+es la recompensa que reciben quienes más contribuyen a la prosperidad, o que
+muchos de los generosos estados de bienestar actuales incentivan la pereza de los
+ciudadanos de rentas más bajas y distorsionan los incentivos de los emprendedo­
+res, la desigualdad les parece deseable o, en el mejor de los casos, inocua. Estaría­
+mos compartiendo, como nos recuerda Paul Krugman (2002), la opinión expresa­
+da en el Business Week que en un número especial sobre -25 Ideas para cam biar
+el m u n d o , una de ellas era «que los ricos sean más ricos está bien y es razonable».
+El debate sobre desigualdad abarca aspectos morales, teóricos y prácticos,
+y como de entrada hay que reconocer que la evidencia empírica no es todo lo
+concluyente que hubiera sido de desear, ambas partes del debate tienden a enfati­
+zar los aspectos morales o los teóricos. Sin embargo, refugiarnos en aspectos mora­
+les y teóricos no hace desaparecer los problemas empíricos, ya que unos y otros
+se sustentan en las consecuencias que la igualdad o desigualdad acarrean.
+En todo caso, hay que subrayar que desde el punto de vista de la desi­
+gualdad es más relevante la forma en la que están distribuidas las oportunidades
+que la forma en la que están distribuidos los resultados. La desigualdad en los nive­
+les de ingresos, de educación y de salud es, y ha sido históricamente, una eviden­
+cia empírica en la vida, tanto dentro de las fronteras nacionales como entre dife­
+rentes países. Cuando estas situaciones tienen su origen en la desigualdad de
+oportunidades hay motivos para una sería preocupación, ya que la desigualdad de
+oportunidades viene acompañada con frecuencia por radicales disparidades de
+influencia, poder y condición social entre personas o entre grupos, por lo que tiene
+una fuerte inercia a su perpetuación.
+La religión, la filosofía y la política han debatido acerca de la desigualdad
+y de la justicia social durante siglos. Lejos de mi intención está introducirme en este
+debate, y sólo haré referencia a él en la medida en que pueda ilustrar algunos de
+los aspectos fundamentalmente económicos de mi exposición. Como afirma Atkinson (1983) ■distintas ideas de justicia conducen a distintos puntos de vista sobre la
+desigualdad>. Las varias caracterizaciones de justicia proporcionan diferentes defi­
+niciones de la función de bienestar social, y dada esta función los economistas,
+simplemente y solamente, podemos juzgar y comparar una determinada distribu­
+
+106
+
+
+
+ción o situación de desigualdad respecto a aquella que es considerada como ópti­
+ma. Sin embargo, el problema estriba en que la función de bienestar no es obser­
+vable y, por tanto, difícilmente verificable desde el punto de vista empírico.
+Las enseñanzas morales y éticas de las tres principales religiones incluyen
+una preocupación por la desigualdad, aunque en muchos casos son ellas las que
+han estado en su origen, e históricamente han mantenido vínculos con estructuras
+de poder desiguales.
+A grandes rasgos, y desde el punto de vista de los distintos criterios de
+distribución de renta, las teorías sociales pueden agruparse, en terminología anglo­
+sajona, en dos grandes bloques: libertarias y liberales, prescindiré de las teorías
+colectivistas dada su nula aportación a mi exposición de hoy.
+Nozick (1974) es el representante más original y brillante de la comente
+libertaria. La opinión que representa pueda considerarse como la más antiigualita­
+ria. Nozick afirma que los resultados son consecuencia de un proceso, y que la
+aproximación correcta al problema de la justicia es fijarnos en este proceso y no en
+la distribución final que, aunque sea desigual, es justa si el proceso lo fue. Una vez
+que las reglas del juego están establecidas el gobierno no tiene legitimidad alguna
+para intentar alterar el resultado de una determinada distribución de la renta.
+El libertarismo empírico de Hayek (1976) duda, por otra parte, de la misma
+idea de justicia social y por tanto no tiene sentido alguno intentar alcanzarla, ya
+que, además, en su búsqueda puede llegar a distorsionarse el orden natural del
+mercado, que es eficiente y representa la única garantía de libertad personal. Una
+determinada circunstancia, afirma Hayeck es justa o injusta si tiene causa en la
+acción u omisión de un concreto individuo o conjunto de individuos. Pero el resul­
+tado de fuerzas impersonales puede ser bueno o malo, pero no justo o injusto. En
+todo caso, los llamados libertarios empíricos están dispuestos a aceptar un austero
+estado de bienestar que implique una mínima interferencia de los gobiernos en los
+mecanismos de un mercado competitivo
+Las teorías liberales pueden recoger desde el utilitarismo clásico de Bentham (1781) y Mili (1863), que se traduce en el objetivo social de */« mayor fe lici­
+dad para el mayor núm ero, hasta el pensamiento de autores contemporáneos tan
+influyentes como Rawls (1971,1993), Sen (1992), Dworkin (1981) y Róeme r (1998).
+En contraste con la aproximación libertaria estos autores conceden al gobierno una
+cierta capacidad redistributiva, y afirman que el mercado no siempre, ni necesaria­
+mente, es el mejor mecanismo de producción y distribución. Un denominador
+
+107
+
+
+
+común a todos ellos, dentro de las indudables diferencias en sus planteamientos,
+es que tienden a concretar la idea de justicia social alrededor del conjunto de opor­
+tunidades en lugar de simplemente considerar el resultado final.
+Bajo el utilitarismo el gobierno debe elegir aquellas políticas que maximizan la utilidad total de los miembros de la sociedad. Parte de la noción de utili­
+dad como la satisfacción o felicidad que una persona recibe a través de sus circuns­
+tancias. La propuesta de redistribución se fundamenta en la hipótesis de la utilidad
+marginal decreciente, o dicho de otro modo, en el hecho de que un euro adicio­
+nal a una persona pobre le es de mayor utilidad que un euro adicional a una perso­
+na rica. Bajo el irreal supuesto de que todos los individuos tuvieran la misma utili­
+dad marginal se llegaría a una situación de equ¡distribución. En efecto, a primera
+vista este tipo de razonamiento utilitario conduciría a que el gobierno debe conti­
+nuar el proceso distributivo hasta el punto en el que todos los ciudadanos tengan
+la misma renta. Así sería si la cantidad a distribuir fuera constante, pero esto no
+responde a la realidad, ya que el proceso de distribución afecta claramente a los
+incentivos para producir, tanto de aquellos de los que se toma la renta como aque­
+llos a los que se le entrega. Desde la perspectiva utilitaria existe un compromiso
+entre los efectos favorables de la igualdad y los desfavorables de la distorsión de
+los incentivos. La maximización de la utilidad total conduce a tal compromiso.
+Además, a todo ello hay que añadir que el proceso de transferencia tiene en si
+mismo un coste.
+La crítica a la aproximación utilitaria hecha por Rawls, en su Teoría de la
+Justicia, consiste en que el proceso de maximizar la utilidad total puede perjudicar
+a los individuos o grupos de individuos menos favorecidos. En este caso la justicia
+es el objetivo principal, y Rawls define la justicia social en función de dos princi­
+pios: el primero hace referencia a la distribución de la libertad, y el segundo a la
+distribución del resto de bienes. La propuesta es entonces que todos los bienes en
+sentido amplio, es decir incluyendo la libertad y el conjunto de oportunidades,
+deben estar distribuidos equitativamente, a menos que cualquier distribución desi­
+gual vaya en beneficio de los menos favorecidos. De acuerdo con Rawls ninguna
+política estará justificada sí no beneficia a los más desfavorecidos, aunque no nece­
+sariamente sólo a ellos. A diferencia del utilitarismo cuyo objetivo es maximizar la
+utilidad total, entendida como la suma de las utilidades individuales, Rawls lo que
+propone es maximizar la utilidad de los más desfavorecidos, es decir maximizar la
+mínima utilidad, de ahí que a tal criterio se le conozca como maximim.
+Una y otra aproximación, utilitarismo y Rawls, tienen implicaciones distin­
+tas. Supongamos que una determinada política beneficia a una persona o a un
+
+108
+
+
+
+conjunto de personas sin perjudicar al resto, es decir, es una mejora de Pareto. La
+aproximación utilitaria consideraría esta política como deseable, aunque los indivi­
+duos beneficiados fueran los de rentas más altas. Sin embargo, el principio de justi­
+cia de Rawls consideraría esta política como inaceptable, a menos que los indivi­
+duos beneficiados fueran los de rentas más bajas. Es decir, un resultado eficiente
+en términos paredaños no es siempre justo en el sentido de Rawls.
+Recuérdese que cualquier cambio o ajuste que mejore la posición de, al
+menos, un individuo, sin empeorar la de los demás, se considera una mejora de
+Pareto. La optimalidad de Pareto denota una situación en la que se han agotado las
+oportunidades para una mejora de Pareto, y una vez alcanzada no es posible mejo­
+rar la situación de un individuo, si no es a expensas de los demás.
+Más allá de la razones religiosas o filosóficas que conlleva la idea de la
+igualdad, existen razones económicas que señalan que el mantenimiento de ciertos
+niveles mínimos dé igualad aumentan las funciones de bienestar individual y social.
+Por ejemplo, en las sociedades en las que existen muy grandes disparidades en
+renta o en educación, se generan extemalidades negativas para la mayoría de la
+población. Veamos, aunque sea de manera incompleta, algunas de estas externalidades negativas.
+Los votantes con un cierto nivel de bienestar se incorporan más satisfac­
+toriamente a los procesos democráticos. Una mejor información conduce, en la
+mayor parte de los casos, a decisiones mejores. Existe una fuerte evidencia empí­
+rica sobre la relación entre altos niveles de desigualdad social y comportamientos
+socialmente indeseables como el crimen o la droga. Se genera un círculo virtuoso
+en la minimización de los niveles de pobreza y desigualad y los recursos utilizados
+para paliarlos. Puede afirmarse que acusadas estructuras de pobreza y desigualdad
+originan una pérdida de potencial productivo y una asignación ineficiente de los
+recursos disponibles. Las desigualdades económicas y políticas están asociadas a un
+desarrollo institucional pobre e imperfecto, y suelen perpetuar las desigualdades en
+cuanto a poder, condición social y riqueza. Los economistas, desde Adam Smith, ya
+advirtieron del peligro que conlleva la capacidad de influir en los gobiernos para
+hacer prevalecer determinados privilegios y situaciones de monopolio, evitando así
+que la llamada mano invisible produzca sus mágicos efectos.
+En un original trabajo Feldstein (1998) defiende que las desigualdades en
+una sociedad no son un problema que requiera preocupación alguna. Afirma, con
+razón, que interpretar negativamente un incremento en el nivel de desigualdad
+choca con el criterio de mejora de Pareto, y en cierta medida equivale a ponderar
+
+109
+
+
+
+negativamente en ia función de bienestar social cualquier aumento de renta en los
+individuos más ricos. Concluye Feldstein afirmando que las políticas redistributivas
+deben estar orientadas hacia la disminución de la pobreza en términos absolutos
+pero en ningún caso hacia la disminución de la desigualdad. N o hay nada malo,
+más bien al contrario, en que se incremente la renta de los más pudientes perma­
+neciendo invariable la del resto de la población.
+La afirmación de Feldstein requiere algunas matizaciones. Por ejemplo,
+aquellas realizadas por la aproximación a la justicia de Rawls. Pero además cabe
+señalar que una preocupación por la pobreza debe interpretarse como la incorpo­
+ración a la función de bienestar de un individuo no solamente de su nivel de renta
+sino también del de otras rentas, en este caso las de aquellas personas por debajo
+de un determinado umbral que define el nivel de pobreza absoluta. Mientras que
+esta situación tiene connotaciones de una preocupación positiva, incorporar en la
+función de bienestar las rentas superiores a las del individuo tiene connotaciones
+negativas, y, en el lenguaje diario, puede llegar a traducirse en la idea de envidia.
+Si embargo, no necesariamente es ésta la situación, ya que la renta que la gente
+recibe por su trabajo no sólo es un m edio para adquirir determinados bienes, sino
+también un instrumento de valoración, o dicho de otro m odo es la expresión social
+del valor y reconocimiento de una persona.
+Por otra parte, la evidencia empírica, más allá de que merezca la califica­
+ción de justicia o de envidia, demuestra que las funciones de bienestar dependen
+de las rentas inferiores y superiores, y establecer una frontera entre ambas es harto
+difícil, véase, a título de ejemplo, los trabajos de Frank (2005) y Solnick y Hemenw ay (2005). Por mucho que esta formulación parezca moralmente reprobable, los
+análisis empíricos señalan que entran mucho más a menudo en la función de
+bienestar las rentas superiores que aquellas claramente inferiores y por debajo de
+un cierto umbral. Dada esta situación, la obligación del análisis económico, a dife­
+rencia de otras disciplinas, es considerar el mundo como realmente es y no como
+debiera de ser.
+La eficiencia de un proceso económ ico tiene que ver con el mejor uso de
+los recursos, siempre escasos, dadas las preferencias de los individuos y la tecno­
+logía disponible. El concepto clave es que los recursos: trabajo, capital, materias
+primas y tierra son escasos, y si se utilizan para un determinado fin no pueden
+utilizarse para otro. La maximización de la función de bienestar dada unas prefe­
+rencias, una tecnología y unos recursos bien definidos, daría tugar a una econo­
+mía de primer óptimo. Cuando aparecen restricciones adicionales como problemas
+de información, externaíidades o bienes públicos, la optimización sin estas restric­
+
+110
+
+
+
+ciones puede dar lugar a situaciones ineficientes o no equitativas. Una economía
+de segundo óptimo es aquella que se enfrenta a este tipo de restricciones adicio­
+nales.
+Un incremento en la eficiencia puede mejorar el bienestar bajo todos los
+criterios de justicia social. Debe ser por tanto un criterio de actuación común a cual­
+quier idea de justicia social. Es importante resaltar que la eficiencia económica tiene
+que ver con el proceso que se sigue para alcanzar determinados fines, pero nada
+dice acerca de cuáles deben ser estos objetivos. Afirmar que una determinada
+economía es eficiente no significa necesariamente que los resultados que propor­
+ciona sean los deseables. Nos hemos referido brevemente al debate alrededor de
+los criterios deseables o justos, dentro de él es fácil considerar unánimemente que
+determinados resultados no son justos, pero en muchos otros casos es más difícil
+llegar a un acuerdo. En estas situaciones el análisis económico no es de ayuda algu­
+na para determinar cuál de las alternativas es la mejor. Pero sí es de ayuda para
+señalar cuándo sacrificando la eficiencia no se obtienen los objetivos que se preten­
+den de igualdad.
+Definitivamente la eficiencia económica no es un fin en sí mismo, que
+deba ser alcanzado a expensas de otros, es solamente el procedimiento a través del
+cual podemos alcanzar más eficientemente un determinado objetivo independien­
+temente de cuál sea éste.
+
+C riterios p a ra m ed ir la desigu aldad
+
+Los problemas de medir las magnitudes económicas y sociales son recu­
+rrentes no sólo desde un punto de vista teórico sino también empírico, y así suce­
+de con la idea de bienestar. Definiremos la renta como el flujo que se deriva de un
+determinado stock de riqueza. La riqueza individual cabe agruparla en tres categorí­
+as. La riqueza física representada por bienes de esta naturaleza, la riqueza financie­
+ra, y el capital humano que tiene, a su vez, dos orígenes diferenciados: uno el deri­
+vado de las inversiones realizadas previamente en educación y aprendizaje, y otro
+el derivado del talento natural. Un ejemplo obvio de talento natural es Mozart, a
+quien por mucha educación o entrenamiento previo que recibamos difícilmente
+podremos emular, pero también se entiende como tal, en sentido más amplio, las
+capacidades físicas e intelectuales. Estos diferentes tipos de riqueza producen flujos
+de renta y, en particular, el capital humano en el tiempo asignado al trabajo genera
+la correspondiente retribución monetaria, y en el dedicado al ocio la satisfacción y
+el placer que obtenemos, y que es difícilmente mensurable en términos monetarios.
+
+111
+
+
+
+Por consiguiente, una correcta definición de renta debe incorporar sus
+dos componentes: la monetaria y la no monetaria. Definida de esta forma es una
+medida del consumo potencial del individuo, es decir su capacidad de consumir
+bienes incluido el ocio. Ahora bien, aparecen ya dificultades evidentes. En primer
+lugar, la imposibilidad de medir la renta no monetaria. Además, el hecho de que
+no exista relación sistemática alguna entre la renta monetaria y no monetaria hace
+que utilizar la primera estrategia que en la práctica estamos obligados a seguir,
+como el valor que representa la renta total sea una aproximación muy grosera de
+la realidad.
+Al utilizar la renta monetaria las desigualdades pueden estar sobreestima­
+das, al menos por dos razones. Dos individuos con gustos y preferencias distintos
+pueden hacer elecciones diferentes en cuanto a su tiempo de trabajo y a su tiem­
+p o de ocio. Pueden también estar en distintas etapas de su vida, por ejem plo en el
+período de aprendizaje, en su madurez profesional o en su etapa de jubilación.
+Una dificultad adicional surge al comparar rentas monetarias de familias
+de distinto tamaño. Por ejemplo, una pareja al tener un hijo genera una caída en la
+renta p e r cápita, de lo que se deriva que las familias de mayor tamaño necesitan
+una renta superior para poder mantener un nivel de vida equivalente. Pero, por otra
+parte, si una pareja decide tener un hijo hay que entender que aunque la renta p e r
+cápita en la familia disminuya, la función de utilidad, en su componente no mone­
+taria, aumenta. Una vez más, la dificultad de medir rentas no monetarias presenta
+problemas de difícil solución.
+Una segunda dificultad hace referencia a la relación entre las rentas indi­
+viduales y familiares, y cómo se distribuyen entre los distintos miembros de la fami­
+lia. Por ejemplo, en la encuesta sobre condiciones de vida realizada por el INE
+correspondiente al año 2004, y publicada recientemente, se utiliza la escala de la
+OCDE, que concede una ponderación de 1 al primer adulto, una ponderación de
+0,5 a los demás adultos y un 0,3 a los menores de 14 años. Finalmente, una terce­
+ra dificultad la entraña la definición del período de tiempo para el que se calcula
+la renta. Hay situaciones en la que los ingresos no tienen por definición una deter­
+minada regularidad temporal.
+La función de bienestar social incorpora las distintas funciones de utilidad
+de cada uno de los individuos. Puesto que estas utilidades son función de la renta,
+la función de bienestar social será un determinado agregado de las rentas de los
+individuos. Las funciones de bienestar social se caracterizan por un conjunto de
+propiedades formales, de tal manera que son: no decrecientes, simétricas, aditivas,
+112
+
+
+
+cóncavas y tienen una aversión constante respecto a la desigualdad. No es el
+momento de considerar detenidamente el significado de cada una de estas propie­
+dades. Sí indicar que este tipo de funciones se utilizan en las llamadas medidas
+normativas de desigualdad
+
+P o breza, d esigu aldad e igu ald ad d e op ortu n id ad es
+
+Los conceptos de pobreza y desigualdad son conceptos distintos y no
+deben confundirse. La definición de pobreza absoluta hace referencia a los niveles
+de vida por debajo de un determinado umbral, es por tanto independiente de la
+forma de la distribución. La definición de pobreza relativa hace referencia a un
+determinado tanto por ciento de un parámetro de esta distribución. Con frecuencia
+se toma como referencia la mediana de la distribución, es decir, el valor corres­
+pondiente al individuo que está en el punto medio de la distribución, dejando igual
+número a su derecha que a su izquierda. Por ejemplo, en la encuesta de condicio­
+nes de vida hecha pública por el INE, el pasado mes de diciembre, se afirma que
+en el año 2004 una de cada cinco personas que reside en España se encuentra por
+debajo del nivel de la pobreza. Pues bien, ese nivel se define como el 60 por 100
+de la mediana de los ingresos, que en cifra absoluta representa la cantidad de 6.280
+euros.
+La idea de desigualdad es mucho más amplia, ya que hace referencia a las
+diferencias que existen entre los distintos grupos de renta. En términos estadísticos
+cabe decir que la desigualdad considera el comportamiento entero de la función de
+distribución de la renta y no sólo uno de sus parámetros.
+Aun siendo distintos los conceptos de pobreza y desigualdad están rela­
+cionados. En todo caso, puede no ser posible reducir ambas simultáneamente.
+Intentar reducir los niveles de desigualdad puede conducir en determinadas situa­
+ciones a incrementar los niveles de pobreza absoluta, por consiguiente es impor­
+tante tener claro cuales son los objetivos que se tienen respecto a la pobreza y desi­
+gualdad.
+La literatura reciente pone especial énfasis en los intentos de definir la
+igualdad de oportunidades. Tratan de incorporar la crítica central que proviene del
+pensamiento libertario, o lo que es lo mismo, que los individuos son responsables
+de la renta total que obtienen. En términos matemáticos podemos decir que existe
+igualdad de oportunidades si es igual para todos los individuos el valor esperado
+de su renta monetaria condicionado a un conjunto de características que dependen
+
+113
+
+
+
+de elecciones individuales o de la edad, siempre suponiendo que no dependa de
+otro conjunto de características de tipo discriminatorio, tales como clase social,
+género, raza o herencia genética. Cuando hablamos de valor esperado pretende­
+mos eliminar la componente aleatoria de las circunstancias humanas y hacer la defi­
+nición independiente del factor suerte.
+El rigor en la definición anterior no debe esconder dos problemas de
+envergadura. El primero es el reiteradamente señalado de utilizar la renta moneta­
+ria como indicador de bienestar, aún condicionándola a la las elecciones indivi­
+duales y a la edad. El segundo, es poder diferenciar entre el tipo de circunstancias,
+sobre las que se condiciona el valor esperado, y el otro tipo de circunstancias que
+son las que comportan discriminación. En algunas situaciones esta diferenciación
+es clara, por ejemplo, las relacionadas con el género, raza o clase social, pero en
+algunas otras no lo es tanto, por ejemplo: ¿dónde pueden establecerse las fronteras
+entre las circunstancias que conducen a una determinada capacidad natural?, ¿qué
+parte se debe al esfuerzo y qué otra parte es innata y por consiguiente exógena? Si
+las razones de la diferencia son las circunstancias de carácter discriminatorio, puede
+hablarse de falta de igualdad de oportunidades, pero si la desigualdad tiene origen
+en circunstancias aleatorias, lo que llamamos suerte, no cabe hablar de injusticia o
+falta de igualdad de oportunidades. En efecto, dos individuos con idénticas prefe­
+rencias y oportunidades, pueden alcanzar resultados distintos. Gráficamente Atkinson y Stiglitz (1980) ponían un ejemplo de esta situación diciendo que: ■algunas
+personas eligen trabajar en empresas que terminan en banca rota, mientras que
+otras deciden invertir en Rank Xerox-. Por cieno, éste es un ejemplo válido en 1980,
+hace un cuarto de siglo, cuando no era imaginable la sociedad digital en la que hoy
+vivimos.
+Volviendo a la idea de igualdad, cabe matizar lo anterior en palabras de
+Okun (1975): ‘E l concepto de igualdad de oportunidades es aún mucho más elusi­
+vo que el de igualdad de renta. ... Con frecu en cia se utiliza el sím il de una carre­
+ra en donde todos los participantes parten de la misma línea de salida... Pero lo
+cierto es que es d ifícil encontrar la línea de salida. En efecto, p o r una parte las
+diferencias en la capacidad natural de los participantes hay que aceptarlas nece­
+sariamente com o una característica relevante a ser contrastada en la misma
+carrera, en lugar de considerarla com o una salida injusta que requeriría, en su
+caso, un cierto handicap. P o r otra, hay que señalar que si el éxito depende de a
+quién conoces en lugar de qué conoces, estamos en una clara situación de desi­
+gualdad de oportunidades, y más desigual aún si lo relevante es a quién conocen
+tus padres'.
+
+114
+
+
+
+Dos son los principios en juego. El principio de responsabilidad, dejar que
+los individuos ejerciten su responsabilidad y afronten las consecuencias sin interfe­
+rir en el resultado, y el principio de compensación que se activará cuando estén
+presentes circunstancias claramente discriminatorias. En fin, es éste un enfoque
+lleno de dificultades, pero las posibilidades que abre son interesantes.
+Probablemente una medición indirecta de la igualdad de oportunidades
+venga dada por la movilidad económica intergeneracional. Con frecuencia en el
+análisis de la desigualdad se tiende a creer que los pobres y ricos, los segmentos
+de menor y mayor renta, lo son año tras año y generación tras generación. Y esto
+no es asi. La movilidad intergeneracional económica entendida como el cambio de
+individuos y familias a distintos estratos de renta a lo largo del tiempo es significa­
+tiva y tiene lugar en todas las sociedades. Existe una abundante y actualizada
+evidencia empírica al respecto, véase Solon (2002a y 2002b), Mazumder (2004) y
+Corak (2004), que no se lleva bien con muchas de las ideas generalmente acepta­
+das en el mundo de la política y de la economía. Por ejemplo, la correlación entre
+el logaritmo de las rentas de padres e hijos es superior a 0,5 en Estados Unidos, el
+Reino Unido, Francia y Sudáfrica, mientras que en Canadá es 0,23, en Alemania 0,34
+y en Suecia 0,28. Con la información disponible, puede afirmarse que entre los
+países industrializados Estados Unidos, Reino Unido y Francia son los que tienen
+menor movilidad social. Como recientemente señaló The Economista2005) la socie­
+dad americana no ve nada malo en convivir con fuertes niveles de desigualdad,
+siempre y cuando haya una fuerte movilidad social. No obstante, el incremento en
+los niveles de desigualdad de las últimas tres décadas ha ido acompañado de una
+disminución de la movilidad social, partiendo ésta ya de valores inferiores a la de
+los países europeos para los que se dispone de evidencia empírica. Todo ello,
+como se ha advertido, en contra de la idea generalizada de que Estados Unidos es
+la tierra de las oportunidades con tradicionales referencias hacia ejemplos como el
+de Benjamín Franklin que siendo el hijo número 15 de un modesto artesano se reti­
+ró a los 42 años con una trayectoria admirable de éxito en el ámbito intelectual,
+político y científico. Tal actitud concuerda con la opinión de Alexis de Tocqueville
+cuando afirmaba que los americanos detestan ios más pequeños privilegios, y con
+las consideraciones del Presidente Roosevelt sobre la aristocracia hereditaria.
+El largo debate que ha tenido lugar a mediados del pasado año en perió­
+dicos tan distantes ideológicamente como el New York Times, el Walt StreetJournal
+o Los Angeles Times, alcanzó la conclusión común de la baja movilidad social de
+Estados Unidos y el Reino Unido, especialmente significativa a partir de 1975.
+
+115
+
+
+
+M edidas de d esigu aldad
+
+El conocimiento y análisis de la distribución de la renta junto con su evolu­
+ción temporal es un instrumento central en el análisis de las sociedades modernas.
+La dificultad en este tipo de ejercicios, que comporta la comparación de dos distri­
+buciones de renta distintas, se intenta resolver utilizando medidas de desigualdad
+que permiten establecer una determinada ordenación entre ellas. El problema teóri­
+co en esta forma de proceder reside en que estos índices conllevan juicios de valor,
+que no se hacen explícitos de antemano, y que se traducen en asignar arbitrarias
+ponderaciones a los diferentes niveles de renta.
+Varias son las medidas de desigualdad que se han propuesto en la litera­
+tura económica, pueden, a grandes rasgos, de acuerdo con Sen (1973) agruparse
+en dos categorías: medidas objetivas y medidas normativas. Las medidas objetivas
+o descriptivas se formulan en términos estadísticos a partir de las distribuciones de
+renta. Las medidas normativas parten de una previa y explícita formulación de la
+función de bienestar social.
+Aunque fue mi propósito inicial, para la exposición de hoy, detenerme en
+el análisis y crítica de este tipo de medidas de desigualdad, voy sin embargo a hacer
+solamente una breve mención de ellas.
+La más elemental de todas ellas es la varianza, que pese a su sencillez
+tiene indudables ventajas. En primer lugar, considera toda la distribución y, en
+segundo, su valor se reduce siempre que la renta de cualquier individuo se acer­
+que al valor medio. Su principal desventaja es su sensibilidad a los valores absolu­
+tos de la renta, por ejemplo, si todos ellos se multiplican por dos su valor lo hace
+por cuatro.
+Para evitar el problema de la dependencia de las unidades de medida que
+tiene la varianza, se utiliza el coeficiente de variación que, resolviendo los proble­
+mas de escala, tiene el inconveniente que es neutral respecto a los niveles de renta
+entre los que tienen lugar las transferencias.
+Si lo que se pretende, como parece razonable hablando de desigualdad,
+es dar mayor importancia en el índice empleado a las transferencias hacia las rentas
+más bajas, podemos utilizar la varianza del logaritmo de la renta, que es invarian­
+te respecto a la unidad de medida. En todo caso, tiene la misma componente arbi­
+traria en su definición que las medidas hasta ahora mencionadas, ya que conside­
+ra solamente las diferencias de renta respecto a su valor medio, para
+
+116
+
+
+
+posteriormente elevarlas al cuadrado. Además, la varianza del logaritmo de la renta
+puede no ser cóncava para ciertos niveles de renta altos, lo que equivale a que su
+valor puede aumentar en presencia de transferencias de rentas altas a rentas bajas,
+lo cual, obviamente, es una indeseable situación en un indicador que mide la desi­
+gualdad.
+Posiblemente el indicador de más frecuente utilización es la curva de
+Lorenz, que en el eje de abscisas representa el porcentaje de individuos o familias,
+y en el de ordenadas el tanto por ciento acumulativo de la renta total. Dicho en
+otros términos, un punto de la curva muestra el porcentaje de la renta total que
+corresponde a un determinado tanto por ciento de individuos de renta más baja.
+En ausencia de desigualdad la curva de Lorenz coincidiría con la diagonal, lo que
+permitiría afirmar, por ejemplo, que el cinco por ciento de la población de rentas
+más bajas tiene el cinco por ciento del total de la renta, o que el treinta por cien­
+to tiene el treinta por ciento. A partir de la curva de Lorenz puede definirse el índi­
+ce de Gin¡, como el cociente del área comprendida entre la curva y la diagonal y
+el área del triángulo formado por la diagonal y los ejes de coordenadas. Vemos que,
+por definición, el índice de Gini está comprendido entre 0 y 1. El valor de 0 corres­
+ponde a la situación de absoluta igualdad y el valor de 1 al de absoluta desigual­
+dad, es decir, cuando un individuo o familia tiene la totalidad de la renta.
+Respecto a los indicadores anteriores el índice de Gini tiene algunas venta­
+jas. Así, compara los distintos valores de renta no sólo con el valor m edio sino con
+todos los otros y, desde luego, evita la ciertamente arbitraría operación de elevar al
+cuadrado. Sin embargo, la curva de Lorenz y consiguientemente el índice de Gini
+también presentan problemas que fueron puestos claramente de manifiesto por
+Atkinson (1983) y por Cowell (1995). El teorema de Atkinson permite relacionar la
+curva de Lorenz con las medidas normativas de desigualdad que, como hemos
+señalado, son aquellas que consideran explícitamente la función de bienestar
+social.
+Cuando las curvas de Lorenz se cruzan, para comparar los correspondien­
+tes niveles de desigualdad es necesario introducir juicios de valor sobre la distri­
+bución, que se concretan dando distintas ponderaciones a los diferentes niveles de
+renta. Esto deberá hacerse necesariamente formulando explícitamente la corres­
+pondiente función de bienestar social, manera de proceder que contrasta con las
+formulaciones meramente descriptivas, como la curva de Lorenz, que incorporan­
+do tales funciones lo hacen arbitrariamente sin especificar los juicios de valor
+previos que llevan consigo, y esta arbitrariedad puede comportar especificaciones
+no aceptables. Solamente en la situación en la que las curvas de Lorenz no se
+
+117
+
+
+
+crucen, y bajo el supuesto del cumplimiento de ciertas hipótesis, puede prescindirse de la función de bienestar social y, en este caso, todas las medidas descripti­
+vas proporcionan resultados no contradictorios.
+El índice de desigualdad de Atkinson, incorpora, sin necesidad de especi­
+ficarla formalmente, una función de bienestar que cumple determinadas propieda­
+des entre las que está la aversión a la desigualdad relativa constante. Bajo esta
+formulación se pueden recoger de forma natural las distintas teorías de justicia
+social. Así, un valor del parámetro de aversión a la desigualdad igual a cero corres­
+ponde a la posición libertaria, en la que la sociedad es indiferente a los problemas
+de desigualdad. Por el contrario, para valores grandes de este parámetro, teórica­
+mente infinito, la sociedad tiene como única preocupación la situación del grupo
+con menor nivel de renta, tal y com o propone Rawls. Las políticas socialdemócratas estarían también representadas por valores altos de este parámetro. El utilitaris­
+mo no fijaría un valor a priori de este parámetro, ya que vendría determinado por
+el valor resultante de maximízar el bienestar total.
+Este tipo de consideraciones son bastante áridas, por la complejidad mate­
+mática y analítica que entrañan, por ello puede ayudar a ilustrar esta exposición
+una simple analogía tomada de Okun (1975), Dos caminantes se pierden en el
+desierto y terminan en dos lugares distintos. En uno de ellos hay mil litros de agua
+y en el otro apenas alguna. Si un hipotético gobierno pudiera trasladar agua de un
+lugar a otro sin coste y sin pérdida alguna de agua, la función de utilidad total se
+maximizaría si trasladara quinientos litros de agua de uno a otro lugar. Ahora bien,
+si com o en la realidad sucede el hipotético gobierno dispone solamente de un reci­
+piente agrietado para hacer el traslado, al final llegará a su destino solamente un
+determinado tanto por ciento de los quinientos litros. Las grietas representan no
+sólo los costes administrativos sino también los desincentivos que afloran en todo
+proceso de redistribución. Y la pregunta a hacerse es cuánta agua deberá perderse
+por el camino, es decir cuántas grietas deberá tener el recipiente, para que no sea
+razonable seguir trasladando agua en viajes sucesivos. En términos del índice de
+desigualdad de Atkinson, la respuesta viene determinada por el parámetro de aver­
+sión a la desigualdad, cuanto más igualitario sea el criterio mayores pérdidas de
+agua estamos dispuestos a aceptar.
+Vemos entonces que el índice de Atkinson, puede interpretarse no sólo
+como una medida de desigualdad sino también como un índice de las ganancias
+potenciales de bienestar que se puede alcanzar por procedimientos de redistribu­
+ción de renta. Su rango de variación es también de 0 a 1. Presenta, sin embargo,
+un problema fundamental derivado del hecho de que supone que la función de
+
+118
+
+
+
+bienestar social es, aproximadamente, la simple suma de las utilidades individua­
+les, Y éste es un supuesto muy restrictivo, ya que excluye situaciones en las que la
+utilidad depende no sólo de la propia renta en términos absolutos sino de la renta
+relativa o de la renta de otros individuos.
+Como es natural la ausencia de un criterio plenamente satisfactorio para
+medir la desigualdad no implica que los análisis empíricos dejen de tener una gran
+importancia. Simplemente hay que interpretarlos con las debidas precauciones.
+Posiblemente la exposición de la evidencia empírica disponible requeriría otra
+intervención adicional y distinta a la de hoy. Pero no dejaré de señalar algunas
+pautas de comportamiento, de acuerdo con los datos más recientes del Banco
+Mundial (2005)- Los indicadores que proporciona son los índices de Gini, una
+variante del índice de Atkinson y el cociente de percentiles, entendiendo por tal el
+cociente de la renta correspondiente a un tanto por ciento determinado de la pobla­
+ción con mayor renta y a la correspondiente al mismo tanto por ciento de la de
+menor renta. Este cociente podría ser interpretado como un indicador de la distan­
+cia social. Los niveles más altos del índice de Gini, es decir las sociedades más desi­
+guales, tienen valores alrededor del 0,6, y en ellos están situados la mayoría de los
+países hispanoamericanos y africanos. Entre los países de la OCDE el índice de Gini
+varía entre 0,25 y 0,4, el valor correspondiente a España en el año 2000 es 0,35.
+Vemos, entonces, que estamos en la franja más alta de desigualdad dentro de estos
+países, con un valor igual al del Reino Unido y ligeramente más bajo que Estados
+Unidos. Sin embargo, esta diferencia se ve sustancialmente incrementada cuando
+se considera el índice de Atkinson, con un valor del parámetro de aversión a la
+desigualdad igual a 1, que es alrededor del 60 por 100 más alto que el correspon­
+diente a los países de nuestro entorno. Por ejemplo, el valor de este índice corres­
+pondiente a España es 0,21 a Francia 0,15 a Alemania 0,12 y a Irlanda 0,16. El
+cociente de los deciles, el 10% de mayor y menor renta, para estos países oscila
+entre 4 y 5, siendo el valor correspondiente a España de 4,74, y el correspondien­
+te a los países hispanoamericanos cuatro veces superior. Desde el punto de vista
+de este indicador, que es el que podría asemejarse al utilizado por Platón, las socie­
+dades de los países industrializados cumplen con el criterio de sociedad ideal.
+Obviamente el resultado no sería el mismo si, acomodándonos más a la propuesta
+de Platón, en lugar del cociente de los 10 por 100, utilizáramos el de los 5 por 100
+ya que en este caso la distancia se duplicaría, y si utilizáramos el de los 1 por 100,
+la diferencia sería siempre superior a treinta veces.
+Otra fuente de datos de desigualdad utilizada en los análisis empíricos es
+la del Luxembourg Incom e Study, en las que se recoge información algo más
+amplia, para diversos años, correspondiente al índice de Gini, al índice de Atkin­
+son para valores del parámetro de aversión a la desigualdad de 0,5 y 1, y a tres
+
+119
+
+
+
+retios de percentiles. Cualquiera que sea la fuente podemos afirmar que en Euro­
+pa los países de mayor renta p e r cápita son los que tienen índices de desigualdad
+menores, esta regularidad empírica no se sostiene en el caso del Reino Unido y
+Estados Unidos.
+
+Crecimiento y desigualdad
+Hasta hace relativamente poco tiempo la hipótesis generalmente aceptada
+sobre la relación entre crecimiento económ ico y distribución de renta era la de
+Kuznets (1955). Esta hipótesis afirma que el crecimiento económico, a partir de los
+niveles de renta de las sociedades predominantemente agrarias, comportaba un
+incremento de la desigualdad que después de alcanzar su máximo valor tendería a
+decrecer a partir de un determinado nivel de renta p e r cápita. Representada esta
+evolución de tal manera que en el eje de abscisas se recoge la renta p e r cápita y
+en ordenadas un índice de desigualdad, se obtiene la conocida como curva de
+Kuznets en forma de U invertida. El soporte empírico de Kuznets residía en el análi­
+sis de las series temporales correspondientes a Inglaterra, Alemania y Estados
+Unidos. La masiva transferencia de población activa de sectores de baja producti­
+vidad, y desigualdad relativamente pequeña, a sectores de mayor productividad
+justificaban este resultado, siempre y cuando se verificara que la desigualdad entre
+sectores fuera mayor que la desigualdad dentro de ellos.
+Los resultados de Kuznets se empezaron a cuestionar seriamente a partir
+de la compilación y análisis de datos llevada a cabo por Deininger and Squire
+(1988). Los datos utilizados consisten en observaciones de distintas variables corres­
+pondientes a 108 países. Estos autores no aceptan la hipótesis de Kuznets en el 90
+por 100 de los países analizados. Ha surgido recientemente lo que podíamos llamar
+una versión modificada de la hipótesis de Kuznets conocida como la versión diná­
+mica, que afirma que durante los períodos de crecimiento rápido tiende a aumen­
+tar la desigualdad. De ser cierta esta afirmación se validarían las críticas que se
+hacen a los períodos de crecimiento tachándoles, genéricamente, como procesos
+de crecimiento desigual. Tampoco los datos confirman esta hipótesis modificada,
+ya que los períodos de crecimiento han estado asociados por igual tanto a incre­
+mentos de la desigualdad como a su disminución.
+A partir de este trabajo la evidencia empírica es formidable para concluir,
+como tantas veces sucede en los trabajos empíricos seriamente realizados, que es
+imposible llegar a conclusión general alguna sobre la relación causal entre creci­
+miento económico, medido por el aumento de la media de la distribución de la
+
+120
+
+
+
+renta, y desigualdad, es decir, cambios en la dispersión de la distribución. Esta afir­
+mación empírica puede verificarse tanto en niveles como en tasas de variación de
+las dos variables. Un trabajo ilustrativo al respecto es la muy completa revisión de
+la literatura empírica realizada recientemente por López (2004). Por consiguiente,
+la dicotomía que, con frecuencia y con carácter general, se establece entre las polí­
+ticas económicas que promueven el crecimiento y las que promueven la igualdad
+es falsa.
+Es importante recordar que no debe confundirse la idea de desigualdad
+con la de pobreza, ya que, por ejemplo, en el contexto de las consideraciones que
+aquí estamos haciendo si cabe afirmar empíricamente la relación causal que existe
+entre crecimiento y pobreza medida en términos absolutos, en efecto el crecimien­
+to económico contribuye a la disminución de la pobreza medida en términos abso­
+lutos.
+El reciente y exhaustivo trabajo de Lindert (2004) llega también a pareci­
+das conclusiones. Las políticas distributivas no han conducido, con carácter gene­
+ral, a un menor crecimiento económico, afirmación que valida especialmente para
+una muestra que abarca los 19 países más desarrollados. Las series temporales que
+utiliza comprenden el período 1880-2000. Por consiguiente, no parece que se
+pueda aceptar, con carácter general, la afirmación de que las políticas distributivas
+van en detrimento del crecimiento económico.
+Como es bien conocido, en una disciplina como la física si los datos, con
+tozudez y reiteración, no aceptan una determinada hipótesis, finalmente termina
+abandonándose. Un científico que pretendiera seguir manteniéndola en pie dos
+días perdería inmediatamente su reputación. Desafortunadamente, en economía las
+cosas no son así de simples, y es moneda corriente presentar como contrapuestos
+el crecimiento y la equidad, cuando existen fundadas razones para fomentar su
+complementariedad. N o necesariamente hay que elegir entre el objetivo de creci­
+miento económico y el de cohesión social.
+Ahora bien, si los incentivos personales se ven menoscabados por políti­
+cas de igualdad que comportan redistribuciones de ingresos que imponen trabas
+excesivas a la inversión y a la producción, el resultado obvio será una reducción
+de la innovación y por consiguiente del crecimiento. La historia del siglo xx está
+plagada de ejemplos, en los que en nombre de la igualdad, se deterioraron grave­
+mente los procesos de crecimiento al poner en práctica políticas al margen de los
+incentivos. Es difícil encontrar el equilibrio entre una adecuada estructura de incen­
+tivos a corto plazo y los beneficios a largo plazo de .sociedades asentadas en insti­
+tuciones integradoras en un entorno de igualdad de oportunidades.
+
+121
+
+
+
+Como recuerda Fuchs (1979), las palabras claves son equilibrio y ponde­
+ración, tanto en los objetivos que se establecen como en las instituciones que los
+promueven. Respecto al deseo de promover situaciones de libertad, justicia y
+eficiencia simultáneamente, lo que la economía nos enseña es que siempre hay que
+renunciar, en parte, a una de ellas, para poder asegurar el cumplimiento parcial de
+las otras. N o es la economía de mucha ayuda en la definición de justicia social, pero
+sí lo es, por ejemplo, para descartar políticas que sacrificando la eficiencia del siste­
+ma no consiguen los objetivos que se proponen en términos de igualdad, situación
+muy frecuente en la práctica de intervenciones públicas en los mecanismos de
+mercado. En todo caso los cambios necesarios en determinadas situaciones están
+muy condicionados por los comportamientos no sólo formales sino también por los
+informales de los ciudadanos, así como por la calidad de las instituciones. Por esta
+razón, no deja de ser una estrategia ingenua intentar trasplantar mecánicamente
+determinadas reglas formales a entornos y sociedades muy distintas.
+
+R eferen cias
+Atkinson , A. (1983), The E eon om ics o f Inequality, seeond edítion, Oxford: Oxford Univerity
+
+Press.
+Atkinson, A., y J, E. Stigutz (1980), Lectures o n P u b lic E eonom ics, New York, McGraw-Hill.
+(2005), W orld D evelop m en t R eport 2 0 0 6 '■ E qu ity a n d D evelopm ent, World
+Bank, http://publications.worldbank.org/ecommerce/catalog/product?ítenwd=
+4849133-
+
+B a n c o M u n d ial
+
+Bentham, J. (1781, 2000), A n In tro d u c tio n to the P rin cip ie s o f M orá is a n d Legisiation, Onta­
+rio, Batoche Books.
+Corak, M, (2004), G e n e ra tio n a l In c o m e M obility, Cambridge, Cambridge University Press,
+Cowell, F.G995), M e a s u rin g Inequality, seeond edition, Wheatsheaf, Pretice Hall.
+D einjnger, K,, y L. Squire (1998), New ways of looking at oíd issues; Inequality and growth.
+
+Journal of Development Eeonomics, vol. 57, no.2, págs. 259-287.
+Dworkin, R. (1981), *What is equality?-, Part 1 and 2, Pbilosophy a n d P u b lic Affairs, vol. 10,
+no. 3.
+Economist T he (2005), -A survey of America-, 14 de julio.
+Feldstein, M. (1998), In c o m e in eq u a lity a n d poverty, Cambridge MA, National Bureau of
+
+Economic Research, Working paper 6770, http://www.nber.org/papers/w6770.
+Frank, R. H. (2005), -Positional externalities cause a large and preventable welfare losses-,
+Papen,' a n d P roceed in gs o f tbe A m e ric a n E c o n o m ic Review,
+
+122
+
+mayo, págs. 137-141.
+
+
+
+Fuchs, V. (1979), -Economics, health, and post-industrial society», H ealth a n d Society, vol, 57,
+no. 2, págs. 153-182.
+H ayek F. A. (1976 ), Law. Legislativa a n d Liberty. The M ira g e o f S o cia l Justice, London,
+
+Routledge and Kegan Paul.
+Krugman, P. (2002), -For fichen How the permissíve capitalism of the boom destroyed Ameri­
+
+can equality», N ew York Times M a ga zin e, 20 Oct.
+K uznets, S. (1955), -Economic growth and income inequality-, A m e ric a n E c o n o m ic Review,
+
+vol, 45, no. 1, págs, 1-28.
+Lindert, P. H, (2004), G row in g P u b lic, S o cia l Spending a n d E co n o m ic G row th since the E igbteentb Century,
+
+Cambridge, Cambridge University Press,
+
+López, J. H. (2004), P r o -p o o r grow th : A review o f what we know (a n d o f w hat we d on ’t),
+
+Washington, World Bank (PREM Poverty Group).
+Luxembourg Income Study. http://www.lisproject.oig/
+B. (2004), S ibling sim ilarities, differences a n d e c o n o m ic inequality, Federal Reser­
+ve Bank of Chicago, Working paper 2004-13.
+
+M azu m d e r ,
+
+M iel, J.
+
+S. (1863), Utilitarianism , London, Parker, Son and Bourn,
+
+Nozjck, R. (1974), A n a rch y, State a n d Utopia, Oxford, Basil Blackwell.
+
+OCDE (2005), W orld D evelopm ent Report, Washington D. C., World Bank.
+O kun, A. M. (1975), E qu a lity a n d E fficiency: The B ig Tradeoff, Washington D. C., Brookings
+
+Institution.
+Platón, The Laws, 745, citado en Cowell (1995), pág. 21.
+Rawls, J. (1971), A Theory o f Justice, Cambridge, MA, Harvard University Press.
+
+—
+
+(1993), P o litic a l Liberalism , New York, Columbia University Press.
+
+Roemfr, J. E. (1998), E qu a lity o f Opportunity, Cambridge, Harvard University Press.
+Sen, A. (1973), O n E co n o m ic Inequality, Oxford, Oxford University Press.
+
+—
+
+(1992), In eq u a lity Reexam ined, Oxford, Oxford University Press.
+
+Solnick, S. J., y D. H emenway (2005), -Are positional concerns stronger in some domains than
+
+in others?-, Papers a n d P roceed in gs o f the A m e rica n E co n o m ic Review, mayo,
+págs. 137-151.
+Soi.o n , G. (2002a), «Cross-country differences in intergenerational earnings mobility-, J o u rn a l
+o f E co n o m ic Perspectives,
+
+vol. 16, págs. 59-66.
+
+Solon G., y L. Chadwick (2002b), -Intergenerational income mobility among daughters-,
+A m e rica n E co n o m ic Review, vol. 92, págs, 335-344.
+
+123
+
+
+
+

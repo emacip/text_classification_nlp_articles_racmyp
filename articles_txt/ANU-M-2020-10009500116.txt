@@ -1,0 +1,778 @@
+EL SECTOR PÚBLICO QUE NECESITAMOS
+TRAS LA PANDEMIA
+Por el Académico de Número
+Excmo. Sr. D. Alfonso Novales Cinca*
+
+Quienes no aspiran a nada, no arriesgan a nada
+y no sirven para nada.
+P. A. de Beaumarchais
+No hay viento favorable para quien no tiene referencia
+del punto al que se dirige.
+Arthur Schopenhauer
+
+1. LA INTERVENCIÓN DEL SECTOR PÚBLICO EN LA ECONOMÍA
+Que el mercado competitivo asigna recursos de manera eficiente cuando no está sujeto a «interferencias» del sector público es una idea que escuchamos frecuentemente. La afirmación es muy relevante, pues sus implicaciones
+respecto al papel del sector público en la economía condicionan por completo
+el diseño de actuaciones de un gobierno y, especialmente, sus políticas domésticas (políticas sociales, política industrial, políticas distributivas, etc.). Pero, precisamente por su trascendencia, es difícilmente comprensible la escasa argumentación que se hace de esta afirmación.
+Es cierto que el análisis económico permite demostrar que, bajo ciertas
+condiciones, el mercado competitivo genera una asignación de recursos que es
+eficiente, en un sentido que describiré más adelante. Esto se hace utilizando la
+
+1
+
+Sesión del día 10 de noviembre de 2020.
+
+95
+
+
+
+lógica formal de los teoremas matemáticos, por lo que es un resultado que no
+está sujeto a discusión. Lo sorprendente es que se mencione sin hacer apelación a los supuestos bajo los cuales se obtiene y haciendo abstracción de su
+significado real.
+Los supuestos son muchos y restrictivos; entre ellos: a) todos los agentes económicos tienen acceso al mercado en cuestión; b) las decisiones de los
+agentes no generan efectos (denominados «externalidades») sobre el bienestar
+de otros agentes, o sobre su capacidad de producir bienes; c) quienes concurren en una transacción tiene la misma información; d) no existen bienes públicos, como la seguridad, los parques o las infraestructuras públicas; d) ningún
+agente económico tiene poder de mercado, es decir, capacidad de influir significativamente sobre los precios de los bienes; e) los bienes deben ser infinitamente divisibles. Ninguna de estas situaciones permitiría aplicar el resultado de
+eficiencia antes mencionado.
+Veamos algunos ejemplos de las situaciones enumeradas, en los que la
+asignación de recursos alcanzada por el mercado competitivo no sería eficiente:
+si la actividad productiva de una empresa genera contaminación (una «externalidad negativa») que reduce el bienestar de los consumidores o afecta a la producción de otras empresas, el nivel de contaminación generado en un contexto
+desregulado será seguramente superior al nivel que sería socialmente óptimo,
+porque el mercado no penaliza al contaminante. Si consideramos que un grupo
+puede llevar a cabo una investigación que quizá redunde en una mayor productividad de todos los demás (una «externalidad positiva»), el nivel de inversión en dicha investigación en ausencia de regulación será inferior al socialmente óptimo, porque el mercado no remunera adecuadamente a quien lleve
+a cabo la investigación. Tampoco la información entre agentes es simétrica:
+cuando suscribo un seguro médico, conozco mejor mi estado de salud que la
+empresa aseguradora; el vendedor de un coche de segunda mano tiene más
+información sobre el estado del coche que el comprador; en estos casos, generalmente se intercambian menos bienes y el precio es más alto que en una solución eficiente. Y, por supuesto, cualquier mercado no regulado en el que una
+empresa actúa como monopolista, o en el que se establecen acuerdos para fijar
+los precios o las cantidades intercambiadas, tampoco conduciría a una asignación eficiente de recursos.
+Tradicionalmente, se denominan estas situaciones «fallos de mercado» 1.
+Los partidarios de un Estado poco intervencionista están conformes con la intervención pública en algunas de estas situaciones porque el análisis económico también muestra cómo, generalmente, pueden diseñarse intervenciones que
+permiten al mercado, bajo la regulación diseñada, alcanzar una asignación de
+
+1
+
+96
+
+Seguramente por una deficiente traducción del inglés.
+
+
+
+recursos más eficiente. Es curiosa la denominación de «fallos» de mercado, porque los ejemplos que he dado seguramente sugieran que no son situaciones
+excepcionales, sino habituales en los mercados, de modo que, sin intervención
+regulatoria, muchos mercados generarán asignaciones de recursos ineficientes.
+También es llamativo que olvidemos el tipo de eficiencia de la cual
+estamos hablando: la eficiencia puede definirse de muchas maneras diferentes,
+y no es evidente cuál de ellas debiera preferirse. En el resultado mencionado,
+se considera que una asignación de recursos es eficiente si no puede encontrarse otra distribución de recursos factible en la que ningún agente económico
+estuviera peor, y alguno estuviese mejor 2. En general, existirá un conjunto, posiblemente amplio, de asignaciones eficientes de recursos de acuerdo con este
+concepto, y algunas pueden ser muy desiguales. Y, puesto que no existe una
+relación general entre eficiencia y equidad, no es evidente que la preocupación
+por la primera como objetivo único de política económica esté completamente
+justificada.
+Por tanto, si bien la intervención regulatoria puede ser necesaria en
+muchos contextos para mejorar la eficiencia económica, dicho objetivo puede
+ser insuficiente. Esto último motiva un segundo argumento para una intervención pública en busca de algún objetivo complementario de la eficiencia, que
+conduzca al mercado a una determinada asignación eficiente entre todas las
+posibles; o a la adopción de otro concepto de eficiencia como objetivo en las
+decisiones de política económica, o a orientar el mercado hacia un tipo de asignación no eficiente, pero que satisfaga otros criterios considerados socialmente
+deseables, como una mayor equidad. Esta es una decisión política sobre la cual,
+la economía como ciencia, no tiene mucho que decir.
+
+2. UN PAPEL PARA EL SECTOR PÚBLICO
+La creencia en una natural falta de eficiencia del sector público, a la vez
+que la convicción en la eficiencia inherente a las actuaciones del sector privado
+(ninguna de ellas convincentemente demostradas), basándose en el resultado
+mencionado y en el funcionamiento de la «mano invisible», conduce a una extendida visión según la cual el primero debe limitarse a proporcionar la seguridad, el aparato judicial y la defensa del estado de derecho: defensa de la propiedad privada, cumplimiento de los contratos, y la seguridad jurídica necesarias
+para proteger la actividad de las empresas.
+
+2
+
+Lo que conocemos como «Pareto eficiencia» en el análisis económico.
+
+97
+
+
+
+Ampliando algo el ámbito de actuaciones, se propone en ocasiones el
+principio de subsidiariedad: que el Estado proporcione aquellos bienes y servicios que el sector privado no tiene interés en proveer. Algo que tiene pleno
+sentido en el caso de algunos bienes públicos, siendo menos evidente que
+pueda reclamarse al Estado cualquier actuación que el sector privado no encuentre beneficiosa para sí mismo, por los incentivos perversos que generaría
+tal estrategia.
+Tomada estrictamente, esta interpretación restrictiva de la intervención
+del sector público en la economía está reñida con el amplio papel que el Estado ejerce en una economía de mercado: actúa como comprador de bienes y
+servicios, es legislador y detenta el poder ejecutivo, organiza la competencia
+entre proveedores en algunos sectores, otorga licencias y permisos, es árbitro
+de los mercados, velando por la innovación, es regulador de las telecomunicaciones, de la electricidad y de los servicios postales y ferroviarios, supervisor
+financiero, y signatario de tratados internacionales que determinan la exposición de los diversos sectores a la competencia extranjera.
+Del sector público dependen, directa o indirectamente, algunas de las
+cuestiones más relevantes para el bienestar de los ciudadanos: la educación, la
+sanidad, la seguridad, las infraestructuras, la regulación laboral, la mejora de la
+competitividad, y gran parte de las condiciones que definen el entorno en el
+que vivimos y trabajamos. Con tales responsabilidades, parece evidente que el
+primer papel del sector público deba ser ocuparse de que ningún ciudadano se
+vea privado del acceso a la sanidad, educación, o al disfrute de bienes públicos
+de calidad, por razón de renta, género, edad, o raza. Lo cual significa que se
+debiera convenir en unos estándares mínimos que han de estar garantizados a
+todos los ciudadanos; es este un debate trascendental, al que nunca hemos
+asistido, a pesar de ser de suma importancia en una sociedad democrática que
+no quiere que nadie quede atrás. En definitiva, el sector público debe situar a
+los ciudadanos y su bienestar en el centro de atención, con una preocupación
+especial de que los más desfavorecidos no se vean privados de oportunidades.
+En esta línea se pronuncia J. Tirole 3, quien afirma que el Estado debe
+evolucionar desde ser un proveedor de empleos y productor de bienes y servicios a ser un Estado árbitro: a) actuando en las situaciones en las que los mercados no son eficientes; pero también b) avanzando en la igualdad de oportunidades; d) garantizando la solidaridad en la cobertura sanitaria; y e) protegiendo
+a los asalariados que no cuentan con información suficiente para orientar su
+carrera laboral y profesional. Debe dejar de ser un mediocre gestor de empresas
+para: c) establecer las condiciones para una competencia sana en los distintos
+
+3
+
+98
+
+Tirole, J., (2016), Economie du bien commun, Presses Unversitaires de France.
+
+
+
+sectores; d) vigilar la estabilidad del sistema financiero 4; e) requerir la rendición
+de cuentas de los actores económicos en cuanto a su comportamiento respecto
+al medio ambiente. Debe imponer unas reglas de juego según las cuales los
+distintos actores económicos sean responsables del coste social de sus decisiones. Pero no debe limitarse a definir las reglas de juego y garantizar el estado
+de derecho; debe jugar un papel relevante como inversor en las áreas de su
+responsabilidad, como son las infraestructuras, la sanidad, la educación y la
+investigación.
+Incluso esta concepción más amplia del Estado se está desbordando en
+los momentos de crisis que, lamentablemente, nos está tocando vivir en este
+primer cuarto del siglo xxi. Durante la crisis financiera y económica de 2008 los
+Estados ofrecieron rescates financieros más o menos completos y explícitos a
+algunas instituciones clave, financieras e industriales, así como ayudas económicas sectoriales, argumentando que se hacía en prevención de males económicos mucho mayores; en algunas ocasiones con comportamientos un tanto
+vergonzantes de los receptores de ayudas 5.
+La pandemia está generando una crisis socioeconómica aún mayor que
+la crisis financiera de 2008, tanto por su intensidad, como por haberse producido bruscamente, y por su carácter global. En muchos países, el Estado ha puesto en marcha mecanismos para sostener rentas privadas y mantener negocios y
+empresas operativos, a costa de elevar significativamente sus tasas de endeudamiento. Como no podía ser de otro modo, en situaciones tan extremas como
+las que vivimos, solo el Estado puede lograr contener los daños. Tras algunas
+dudas iniciales, la Unión Europea aprobó diversos programas de ayuda y líneas
+de crédito, a los que hay que añadir el Next Generation EU y el Marco Financiero Plurianual, que van a ponerse a disposición de países miembros, teniendo
+en cuenta cuál ha sido la incidencia del CIVID-19 en ellos. La UE creó una triple
+red de seguridad para apoyar las finanzas estatales, algunos con fines específicos y con determinada condicionalidad: hasta 240.000 millones de euros del
+fondo de rescate europeo (Mede); 200.000 millones del Banco Europeo de Inversión (BEI) y 100.000 millones de la Comisión para el programa SURE de
+sostenimiento del empleo. A España se le asignaron 21.300 millones de euros
+del fondo SURE para financiar los expedientes de regulación temporal de em4
+Cuya supervisión está crecientemente en manos supranacionales; pero las autoridades financieras nacionales deben seguir con gran atención las evaluaciones periódicas a las que se somete el sistema financiero nacional.
+5
+Ayudas de esta naturaleza, deberían conllevar, al menos: a) la eliminación de bonus a los directivos de las empresas beneficiarias, b) condiciones de devolución de las ayudas que sean contingentes en los
+resultados obtenidos posteriormente, c) la reinversión productiva de una parte sustancial de los beneficios
+futuros, y d) la prohibición de recompra de acciones propias por parte de dichas empresas. Esto evitaría algunos de los comportamientos más vergonzantes que se observaron tras la crisis financiera.
+
+99
+
+
+
+pleo (ERTE) y el cese de actividad de autónomos 6. Además de las actuaciones
+del BCE comprando deuda pública y privada, la CE aprobó, en una histórica
+cumbre endeudarse con 750.000 millones para financiar un estímulo económico extraordinario, 390.000 millones de los cuales en forma de subvenciones y
+360.000 millones en forma de créditos.
+Estos programas tienen una importancia decisiva para financiar en
+España parte del masivo gasto sanitario, los expedientes de regulación de
+empleo (ERTEs), y los programas destinados a la recuperación social y económica. Que los fondos que podrían llegar a España sean cuantiosos no hace
+sino enfatizar la magnitud de los daños que la pandemia está causando en
+nuestro país, solo algunos de los cuales podrán ser aminorados por las ayudas
+que podamos recibir.
+
+3. LA COLABORACIÓN PÚBLICO-PRIVADA
+Tras las actuaciones que se han seguido para responder a las crisis recientes, y para enfrentar satisfactoriamente las posibles crisis futuras, autores
+como Mariana Mazzucato, recomiendan que el sector público asuma sistemáticamente un papel activo en dar forma al tipo de crecimiento económico que se
+persigue, y contribuir a orientar su logro 7. Bajo esta concepción, el Estado debe
+fijar grandes objetivos socialmente deseables, definir las misiones necesarias
+para conseguirlos, recabando información de quienes puedan colaborar en
+identificar tal estrategias; debe invertir en innovación e incentivar que el sector
+privado también lo haga, gobernando el proceso de modo que todos los ciudadanos se beneficien. No se trata de que el sector público asuma tareas productivas, sino de que abra caminos intentando, mediante los incentivos adecuados,
+que las inversiones y actuaciones del sector privado vayan dirigidas hacia una
+senda de crecimiento en línea con los objetivos trazados. Esta visión será más
+prometedora, y socialmente más atractiva, si dichos objetivos se establecen mediante consenso entre distintos agentes políticos, como parecería obligado, así
+como entre estos y un amplio conjunto de agentes sociales (ONGs, asociaciones culturales, ciudadanas, asociaciones del mundo rural), asumiendo además
+todas las partes un compromiso de mantenimiento durante el período establecido. Incluso podría aventurarse que la capacidad de progreso de un país puede estar condicionada por su capacidad para establecer este tipo de acuerdos.
+
+6
+El interés de los préstamos dependerá de la confianza de los mercados en Bruselas, si bien con
+el rating de triple A que otorgan a la Comisión las principales agencias de calificación estos no serán muy
+elevados.
+7
+Mazzucato, Mariana, (2018), The Value of Everything: Making and Taking in the Global Economy,
+Penguin Random House, Nueva York.
+
+100
+
+
+
+Precisamente, la magnitud de la crisis que estamos viviendo ha generado un amplio consenso acerca de la necesidad de que los sectores público y
+privado colaboren en la búsqueda de salidas a la misma, concepto que, si bien
+atractivo, reviste una enorme ambigüedad en cuanto a su formato y requiere
+para su éxito, de fuertes dosis de lealtad y confianza entre ambas partes. Nuestra historia previa en este epígrafe no ha sido muy favorable, en buena medida
+por el inapropiado diseño que se ha hecho de los distintos acuerdos de colaboración y de los concursos públicos, que en muchas ocasiones no han distribuido ni el riesgo, que asumía el Estado, ni el beneficio, que se asignaba a la
+iniciativa privada. Tenemos una larga lista de grandes obras públicas finalizadas
+con elevados sobrecostes, que ha debido subsanar el Estado 8. La Comisión Nacional de los Mercados y la Competencia ha cuantificado en un 25% el sobrecoste medio de la ejecución de contratos públicos en España. Es decir, aproximadamente 47.500 millones de euros al año. Un análisis de la Asociación de
+Geógrafos, cifró en 100.000 millones el derroche en corrupción y obra pública
+ineficiente en 20 años, apuntando que «La interpretación de la colaboración
+público-privada en España es típica del modelo definido como crony capitalism [capitalismo clientelar]: si la inversión reporta beneficios, estos quedan en
+manos de los inversores privados cercanos al poder, pero si arroja pérdidas el
+sector público rescata la inversión y asume las deudas» 9.
+Definir mecanismos adecuados de colaboración requiere también tener
+presente cuál es nuestra estructura empresarial. La empresa es una actividad de
+riesgo, puesto que el objetivo que persigue es incierto. Todos los participantes
+de la actividad empresarial: accionistas, directivos, trabajadores, proveedores, y
+clientes están expuestos a la incertidumbre inherente al resultado empresarial y
+al posible riesgo de quiebra. Pero en las numerosas empresas pequeñas y microempresas españolas que, incluyendo los autónomos sin asalariados, constituyen un 94% de las empresas dadas de alta en S. Social, la propiedad está muy
+
+8
+El diseño de la colaboración entre la Junta de Andalucía y las empresas privadas que construyeron y gestionan los servicios de metro en Málaga y Sevilla obliga a la Administración a destinar más de 100
+millones al año a compensaciones económicas, hipotecando los presupuestos de infraestructuras. El sobrecoste de las autopistas A-1 en Castilla León y C-25 en Cataluña es de 300 millones de euros, que asumió el
+sector público. Pese a las pérdidas, el sector privado «no sufrió casi ningún perjuicio financiero, mientras que
+el socio público estaba contractualmente obligado a abonar importes considerablemente superiores a fin de
+garantizar el mantenimiento pendiente de una autopista infrautilizada». Otro ejemplo son los 1.350 millones
+de euros que ha tenido que pagar el Estado a una filial de ACS por el proyecto Castor, el almacén de gas en
+la costa de Tarragona. El rescate de las nueve autopistas radiales tras quebrar las concesionarias supone un
+gasto para el Estado –para el contribuyente– de 4.000 millones de euros, según la patronal Seopan. En cuanto al Hospital General de Villalba, gestionado por Quirón, uno de los siete centros que el Gobierno de Esperanza Aguirre construyó a partir de 2004 mediante fórmulas CPP tuvo un sobrecoste para el erario madrileño
+de 114,21 millones.
+9
+Cita bibliográfica: Romero, J., Brandis, D., Delgado Viñas, C., García Rodríguez, J. L., Gómez Moreno, M. L., Olcina, J., Rullán, O., Vera-Rebollo, J. F., & Vicente Rufí, J. (2018). Aproximación a la Geografía del
+despilfarro en España: balance de las últimas dos décadas. Boletín de la Asociación de Geógrafos Españoles,
+77, 1–51. doi: http://dx.doi.org/10.21138/bage.2533.
+
+101
+
+
+
+concentrada y el capital apenas tiene liquidez 10. Cuando los propietarios son
+además asalariados, como sucede con frecuencia en estas empresas, la concentración de riesgos es especialmente elevada, pues al riesgo de la propia actividad empresarial se une el de sus puestos de trabajo. Con esta estructura, es
+claro que la colaboración público-privada no debe limitarse a las empresas
+grandes, teniendo además en cuenta que muchas iniciativas prometedoras en
+innovación se llevan a cabo en empresas que nacen con un tamaño lógicamente reducido.
+Esto es importante, porque es especialmente en los procesos de innovación de los que la economía española está tan necesitada, donde la colaboración público-privada puede ser más eficaz. Pero si se quiere que la empresa
+asuma el riesgo adicional de la innovación, una actividad cuyo resultado es
+incierto, cree empleo y sea fuente de progreso, debe tener el entorno institucional adecuado y las condiciones internas apropiadas, especialmente en términos
+de calidad de la gestión empresarial y de capital organizativo. Sin un cambio
+significativo en las condiciones internas y externas en que se desenvuelve la
+actividad productiva, la tradicional llamada a un aumento significativo en el
+presupuesto público asignado a incentivos a la innovación puede ser un desperdicio de fondos. Dado que es en el contexto empresarial que he descrito
+donde se ponen en práctica algunas de las principales políticas macroeconómicas, estas debieran diseñarse teniendo muy en cuenta la estructura de nuestro
+sector productivo.
+¿Qué papel juega y puede jugar el Estado en el proceso de innovación?
+Se presenta habitualmente la visión de que los gigantes empresariales que hoy
+conocemos (Google, Apple, Amazon, Facebook, IBM, junto con algunas grandes empresas farmacéuticas) han surgido gracias a la visión de algunos jóvenes
+empresarios geniales y a la disponibilidad del capital-riesgo a invertir en áreas
+cuyos resultados potenciales son muy inciertos. Sin embargo, la realidad puede
+ser muy diferente [Mazzucato (2013) y (2018)] 11: la innovación es una actividad
+colectiva, en la que participan en distinto grado y momento el Estado, centros
+de investigación, empresas e inversores; está, además, sujeta a largos períodos
+de gestación, de modo que lo que parece una innovación actual es consecuencia generalmente de esfuerzos de investigación realizados desde mucho tiempo
+atrás, y acumula los frutos obtenidos por distintos grupos en una variedad de
+tareas. En Estados Unidos y también en algunos países europeos, el Estado fue
+pionero en la investigación en nanotecnología o en biotecnología, antes de que
+lo hiciera el sector privado. También ha estado detrás de muchas de las principales innovaciones que actualmente impregnan nuestra vida diaria y que han
+10
+Al contrario de lo que sucede en empresas cotizadas, cuyos accionistas tienen la posibilidad de
+desprenderse de su parte de riesgo.
+11
+Mazzucato, Mariana, (2013), The Entrepreneurial State: Debunking Public vs. Private Myths,
+Londres, Anthem Press.
+
+102
+
+
+
+abierto la puerta a sucesivos desarrollos tecnológicos. Internet, las pantallas
+táctiles, el GPS y muchas otras innovaciones, además del desarrollo inicial de
+muchos medicamentos, fueron realizados dentro de proyectos que recibieron
+una sustancial financiación pública. Sobre estos avances, empresas como las
+antes citadas han rentabilizado los efectos de red característicos de las tecnologías modernas, que proporcionan ventajas monopolísticas al primer entrante en
+su sector, y han continuado aumentando su poder de mercado mediante la
+adquisición de empresas que desarrollan productos que puedan representar
+alternativas a los que ellas ofrecen.
+Desde el punto de vista de la teoría de la agencia, la herramienta que
+utilizamos en Economía para analizar situaciones de interacción estratégica entre agentes con distinta información y capacidad de negociación, puede ser
+eficiente que el Estado actúe como primer inversor en sectores de innovación
+que considerándose estratégicos para el país, requieren mucho capital y presentan elevados riesgos tecnológicos y de mercado, dado que el sector privado
+no va a abrir estos caminos. El capital riesgo entrará cuando se perciban indicios de éxito y, por tanto, posibilidades de rentabilidad futura; en ese momento,
+la solución eficiente puede ser una colaboración con distribución eficiente del
+riesgo, pero también de los potenciales beneficios, entre los sectores público y
+privado 12.
+En la mayoría de los países, el sector público ha sido muy generoso no
+persiguiendo rentabilizar sus inversiones en innovación, en la confianza de que
+el progreso económico que de ellas se derivase redundaría en aumentos de
+renta y de recaudación tributaria. Por el contrario, parece socialmente preferible
+que el Estado considere participar en el capital de iniciativas empresariales
+constituidas para el desarrollo de los proyectos de innovación que cuenten con
+apoyo público. Además, como jugador principal que es, el Estado se puede
+permitir configurar una amplia cartera de proyectos de inversión en los que el
+fracaso de algunos se vea compensado económicamente por la rentabilidad
+generada por los proyectos de éxito.
+Para que el Estado pueda desarrollar una estrategia como impulsor de
+la innovación es necesario contar con un sistema nacional de innovación ágil y
+experimentado en la gestión de proyectos y bien conectado con agencias internacionales de evaluación de la investigación; menos preocupado por imponer
+fuertes restricciones administrativas a los investigadores, en prevención de posibles incumplimientos, que con una evaluación exigente de su desempeño a
+posteriori. Es crucial que se realice un esfuerzo robusto y sostenido de estímu12
+Una colaboración eficiente requerirá, generalmente, una adecuada distribución entre ambos
+sectores del riesgo inherente a la iniciativa en cuestión. Lo que es socialmente ineficiente es que el sector
+público asuma todo el riesgo, como ha sucedido con demasiada frecuencia en España; recordemos los casos
+del proyecto Castor y de las autopistas radiales de peaje de Madrid.
+
+103
+
+
+
+lo de la actividad investigadora, que permita el desarrollo de potentes centros
+de investigación, con capacidad para establecer convenios de colaboración e
+intercambio de personal con los centros más relevantes del mundo. Un esfuerzo sostenido es también preciso para garantizar la estabilidad de los puestos de
+trabajo para los investigadores que colaboran en un proyecto, como mínimo
+durante la realización del mismo; no es sostenible que centros y equipos de
+investigación vivan con la angustia permanente de si dispondrán de los fondos
+y las plazas que necesitan en cada ejercicio anual.
+
+4. LA REFORMA DE LA ADMINISTRACIÓN Y DE LA GESTIÓN
+DE LAS POLÍTICAS PÚBLICAS
+Para avanzar en esta línea se precisa una Administración pública moderna, en lo tecnológico y en los procedimientos, que pueda gestionar eficazmente proyectos y políticas, asumiendo definitivamente que está al servicio de
+todos los ciudadanos. El progreso de la sociedad española ha ido dejando de
+manifiesto las deficiencias de nuestra Administración; su posible reforma lleva
+contemplándose muchos años, sin que se haya llevado a cabo 13. La comisión
+CORA (Comisión para la Reforma de la Administración), creada en 2013 inició
+otro proceso de reforma, cuyos avances debían registrarse en los informes trimestrales y anuales de OPERA (Oficina para la Ejecución de la Reforma de la
+Administración; pero el último informe data del segundo trimestre de 2016 y no
+sean vuelto a producir informes anuales; además, como ocurrió con el Plan de
+Modernización de la Administración del estado de 1992, los avances registrados
+en los informes emitidos recogen algunas actuaciones de escasísima relevancia,
+impropias de aparecer incluso en una estrategia rigurosa de reforma o de modernización [Sebastián (2019), cap. 4 y Apéndice].
+La reforma de la Administración es, posiblemente, el eje central del que
+depende la modernización definitiva de nuestra sociedad y nuestra economía.
+Algunos cambios en determinadas líneas podrían mejorar muy significativamente aspectos muy importantes de nuestra vida en sociedad; cambios que
+estarían motivados por el intento de que la esfera política ocupe su lugar y no
+se mezcle de manera inadecuada con la administrativa 14. Mencionaré los cuatro
+aspectos que considero más relevantes.
+13
+Cuyo apartado para el Ministerio de Política Territorial y Función Pública, el Plan Normativo
+2020 incluye una nueva Ley de Función Pública cuyo objetivo es «impulsar la racionalización de la AGE y
+mejorar la calidad de los servicios públicos». La norma, que según fuentes oficiales podría llegar al Consejo
+de Ministros a finales de 2020 o principios de 2021 en un escenario «óptimo», abordará entre otras cuestiones
+«la figura del personal directivo, la evaluación del desempeño y el desarrollo de la carrera del empleado
+público».
+14
+En España Estancada (2016) y Para que España Avance (2019), ambos publicados por Galaxia
+Gutenberg, Carlos Sebastián realiza un riguroso y completo análisis de los aspectos que limitan las posibili-
+
+104
+
+
+
+Agencias autónomas
+El primero sería lograr una clara mejora en la gestión de las políticas y
+programas públicas. El establecimiento de agencias autónomas en las administraciones públicas busca separar las tareas de apoyo técnico y legal a la tarea
+de gobierno de las actividades de control, gestión y regulación. Estas deben
+estar en manos de agencias autónomas, que pueden llevar a cabo sus tareas
+con mayor imparcialidad, favorecer la incorporación de profesionales adecuadamente capacitados para las funciones que han de desarrollar, y dotar de
+mayor agilidad a las decisiones que hayan de tomarse. Este tipo de gestión
+impide la tentación de los gestores políticos de reducir los precios de los servicios para ganar las simpatías de los ciudadanos, aun a costa de dañar la inversión en el sector. También evitan la presión que en ocasiones pueden ejercer
+los lobbies sectoriales potentes, quienes en ocasiones tratan la Administración
+como un coto privado para impedir a toda costa la entrada de la competencia.
+Organismos de esta naturaleza permitirían lograr una democracia más participativa, ciudadanos más críticos y más responsables, que eligen a sus representantes no cada cuatro años, sino todos los días, haciendo escrutinio de su actividad, y pidiendo rendición de cuentas 15.
+La profesionalización de los directivos públicos
+En segundo lugar, necesitamos una Administración independiente, profesionalizada y sin injerencias o intereses espurios. La función pública debe
+estar libre de ataduras políticas para que realmente sirva a los intereses de los
+ciudadanos y de la sociedad, no de los partidos políticos o los lobbies económicos. Son los ciudadanos quienes deben estar en el centro de la gestión pública. Por obvio que parezca, no puede olvidarse en ningún momento que la
+Administración pública «pertenece» a la sociedad civil, no a los gestores públicos, a los políticos o a grupos de interés. La Administración pública no está al
+servicio del Estado, sino al servicio de los ciudadanos.
+
+dades de progreso de nuestro país. Carles Ramió hace una propuesta incorporando algunos de los puntos
+que comento: La gran impostura: la reforma política e institucional de la administración pública en España,
+esPublicoBlog, 29 de marzo de 2016.
+15
+Esther Arizmendi, Comparecencia de la presidenta del Consejo de Transparencia y Buen Gobierno ante el Congreso de Diputados, 2017: «Organismos independientes que trabajan para el interés público, dotándoles de medios y de competencias, y de confianza, de capacidad inspeccionadora y potestad
+sancionadora, para ayudarles a conseguir lo que la Ley de Transparencia dice: lograr una democracia más
+participativa, ciudadanos más críticos y más responsables, que eligen a sus representantes no cada cuatro
+años, sino todos los días, haciendo escrutinio de su actividad, y pidiendo rendición de cuentas.»
+
+105
+
+
+
+La figura del directivo público profesional no se ha desarrollado desde
+1997, en que se aprobó en el Estatuto básico del empleado público 16. Los directivos de la Administración pública continúan siendo nombrados por libre designación, estando su cese también a disposición, en cualquier momento, de la
+instancia política que les ha nombrado. En los últimos cambios de gobierno se
+han producido alrededor de 500 sustituciones de directivos públicos. Sólo podemos imaginar lo que sería si esas plazas se hubiesen cubierto en convocatorias públicas, a través de procesos de selección competitivos, con profesionales
+de acreditada competencia para el ejercicio de las funciones asignadas al puesto, y sin intervención alguna de afinidades políticas. La selección de directivos
+públicos profesionales debe llevarse a cabo, en todas las administraciones, por
+procedimientos transparentes y meritocráticos. La persona contratada para dirigir la agencia o el organismo públicos recibiría un programa de objetivos y un
+presupuesto para su mandato, durante el cual no estaría sujeto a interferencias
+de ningún tipo, ni podría ser cesado, excepto en casos de comportamiento
+probadamente incorrecto; en cuyo caso, el político de quien depende la oficina
+no nombraría a su sucesor en el cargo. Al término del periodo para el cual fue
+nombrado, la gestión del directivo sería sometida a evaluación externa, tomándose una decisión sobre su posible continuidad en el cargo.
+Actualmente, continuamos utilizando los mismos procesos de selección
+y reclutando los mismos perfiles profesionales que hace 30 o 40 años; la atracción de talento a la Administración depende de la estructura salarial, que es
+claramente mejorable en el caso de directivos y altos cargos, y del estímulo
+profesional que puedan suscitar las actividades a realizar, que sería mucho más
+elevado desde agencias públicas autónomas con gestión y responsabilidades
+plenamente profesionales.
+Transparencia, evaluación de políticas, rendición de cuentas
+«En la opacidad está la corrupción y en la oscuridad muere la democracia»,
+Esther Arizmendi
+
+La Administración pública se percibe como una estructura ajena que
+lleva a cabo labores de inspección que pueden generar al ciudadano alguna
+penalización; maneja un lenguaje oscuro, y funciona con lentitud cuando necesitamos que nos aclare una duda o nos resuelva una dificultad. Cuando somos
+llamados a rendir cuentas, vamos con temor, ante la eventualidad de que «algo
+va mal». En definitiva, la administración pública se ve como un enemigo; el polo
+
+16
+De la Nuez, Elisa, (2019), La lenta decadencia de la administración pública, Hay Derecho y
+Expansión, julio 2019.
+
+106
+
+
+
+opuesto a lo que podría ser una labor de asesoramiento al ciudadano y a la
+empresa.
+Como tercera reforma, el trinomio formado por la transparencia en la
+toma de decisiones, la evaluación de políticas y programas, y la rendición de
+cuentas de los directivos públicos debe formar la base sobre la cual sustentar la
+acción de una administración pública al servicio de los ciudadanos, gestionada
+por directivos públicos profesionales independientes del poder político. El manifiesto incumplimiento de este trinomio es la clave de la desafección que los
+ciudadanos sentimos por una administración pública a la que vemos lejana, a
+la que acudimos no sin cierto temor, y cuya función no percibimos que sea la
+de facilitar la resolución de las dificultades laborales, familiares, económicas,
+educativas o de otro tipo con las que nos encontramos.
+Ya no hay excusas para no ser transparente. Contamos con la tecnología, los recursos y los conocimientos para hacer que la Administración sea
+abierta, participativa y capaz de mostrar en todo momento qué hace, cómo
+gasta y cómo decide. La sociedad civil del siglo xxi ya no permite que se proyecten sombras o dudas sobre lo público. La Ley de Transparencia de 2013
+debería garantizar que los datos públicos se conozcan por los ciudadanos de
+manera ágil y sin intermediarios. Dio lugar a la creación del Consejo de Transparencia y Buen Gobierno (CTBG), que ha llevado a cabo una loable actividad
+tratando de proporcionar a los ciudadanos la información sobre el sector público que no pueden conseguir a través de los canales de difusión de las instituciones públicas a las que se refieren. Todo ello, a pesar de la gran limitación de
+medios de que dispone, tanto presupuestarios como humanos, mal que afecta
+a otras agencias y organismos públicos en los que el poder político, de cualquier signo, parece no creer. El CTBG cuenta actualmente con 21 trabajadores
+asalariados, y se ve obligado a utilizar una parte significativa de sus escasos
+medios en atender los recursos que, contra los fallos del Consejo, presentan los
+propios Ministerios ante las instancias judiciales. La presidencia ha estado vacante durante tres años, y los dos vocales que deben nombrar Congreso y Senado han estado vacantes más de 4 años 17.
+En comparación con otros países, nuestra ley de Transparencia, aprobada en 2013 18, es relativamente laxa: algunas agencias quedan excluidas de la
+obligación de cumplir la Ley de Transparencia, aunque no es claro cuáles, y
+también se excluye la obligación de aportar información contenida en informes
+
+17
+Ambos puestos de vocales llevaban vacantes desde octubre de 2015, con el cambio de legislatura. En febrero de 2019 fueron elegidas la diputada Pilar Cortés y la senadora María Auxiliadora Pérez, ambas
+del PP (BOE 14 de febrero de 2019). José Luis Rodríguez Álvarez ha sido elegido Presidente del CTBG en
+octubre de 2020.
+18
+Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+107
+
+
+
+auxiliares internos, lo cual es contraproducente, especialmente por la ambigüedad en la definición de dicho carácter 19. Cumpliendo con la ley, el Portal de
+Transparencia incluye memorias de impacto normativo (MAIN) de las nuevas
+normas, aunque es difícil saber si están todas; generalmente están confeccionadas de modo mecánico, y no contienen la información que debieran: el posible
+impacto de la nueva norma, las consultas realizadas y los dictámenes solicitados
+y consultados para su elaboración, así como la incidencia que tiene sobre las
+normas ya existentes.
+La transparencia del sector público es especialmente necesaria cuando
+España, pendiente de recibir 140.000 millones de euros de la UE, precisa demostrar la máxima credibilidad. Debe complementarse con la evaluación de
+políticas públicas, que permita aprender de los errores y mejorar la gestión
+pública futura, y con la rendición de cuentas de quienes se encuentran al frente de instituciones y agencias públicas. La evaluación es un elemento esencial
+para mejorar la eficiencia de los programas públicos 20, pero la experiencia de
+la Agencia Nacional de Evaluación (Aeval), creada en 2010 y disuelta en 2017
+fue frustrante 21. La «escasa» institucionalización de la innovación «implica que
+hoy día la mayor parte de las evaluaciones dependan de la voluntad política»;
+cuando se realizan han tenido un mínimo impacto, como demuestra el hecho
+de que casi todo el mundo parece ignorar su existencia; pocas veces han sido
+discutidas en el Parlamento, y los medios de comunicación prácticamente nunca han difundido sus resultados. Ni mucho menos se ha realizado un seguimiento de si el resultado de las mismas es utilizado o no 22. Como ejemplo de
+nuestra escasa cultura evaluadora, las propuestas de científicos españoles en
+Lancet de hacer una auditoria de actuaciones seguidas durante la pandemia con
+el objetivo de aprender de los posibles errores, ha sido sistemáticamente desatendida.
+
+19
+En la oposición, el PSOE presentó en 2017 una proposición de Ley de impulso a la Transparencia pero, una vez en el poder se olvidó de ella, y tampoco la oposición se pronuncia al respecto. La esperanza es que la UE exija a las autoridades un comportamiento transparente en su gestión.
+20
+La evaluación de impacto, «ha permitido a Finlandia experimentar con la Renta Básica Universal, a Reino Unido diseñar programas de empleo mucho más baratos y eficaces, o a Dinamarca mejorar la
+recolección de impuestos por medio del uso de nuevas tecnologías».
+21
+La Aeval ejecutó alrededor de 40 evaluaciones de programas y servicios públicos entre 2007 y
+2011 antes de ser vaciada de contenido y recursos a partir de 2012, momento desde el que, aunque hizo alguna evaluación más, solo pudo dedicarse básicamente a hacer guías y a pulir su metodología. La Aeval fue
+disuelta finalmente en 2017, pasando sus funciones a ser asumidas por la Secretaría de Estado de Función
+Pública, a través del Instituto para la Evaluación de Políticas Públicas y de la Dirección General de Gobernanza Pública, del Ministerio de Política Territorial y Función Pública.
+22
+La falta de cultura de rendición de cuentas, asunción de responsabilidades y transparencia ha
+sido apuntada por la Airef, además de por muchos analistas económicos y políticos. La Autoridad Independiente de Responsabilidad Fiscal (Airef), en una presentación en octubre de 2019 del que era su presidente,
+el hoy ministro de Inclusión, Seguridad Social y Migraciones José Luis Escrivá (PSOE), admitía un «déficit
+evaluador» en las políticas públicas por al menos cuatro motivos: 1) falta de cultura de análisis y seguimiento,
+2) falta de cultura de examen basado en la evidencia, 3) inadecuado seguimiento de las recomendaciones,
+4) falta de integración en los presupuestos.
+
+108
+
+
+
+En estos tres aspectos (transparencia, evaluación de políticas públicas,
+y rendición de cuentas) no hemos progresado bien. Siete años después de la
+promulgación de la Ley de Transparencia falta información sobre los costes
+económicos reales (tanto estimados como ejecutados) de los diferentes programas e iniciativas, sobre los impactos de las políticas, sobre las percepciones de
+los ciudadanos acerca de la mayoría de políticas y servicios, e información básica sobre aspectos fundamentales de nuestros propios organismos públicos.
+Necesitamos definir un modelo de inteligencia institucional 23.
+Como ejemplo llamativo, un reciente informe de la AIReF (Autoridad
+Independiente de Responsabilidad Fiscal) denunciaba que en España se conceden más de 14.000 millones de subvenciones al año sin responder a una estrategia concreta ni estar sujetas a control posterior, por lo que podemos sospechar que derrochamos una gran cantidad de dinero público.
+El concepto de «Gobierno abierto» de la OCDE, del que nuestro país es
+firmante, incorpora tres elementos fundamentales: transparencia (estar expuesto al escrutinio público), accesibilidad (para cualquier persona y en cualquier
+lugar) y capacidad de respuesta a las nuevas ideas y demandas. Incorpora de
+manera clara la idea de dialogar e interactuar con el ciudadano, es decir, de
+hacerlo partícipe de las decisiones y considerarlo un emisor con ideas de interés, no un mero receptor pasivo. Todo ello, sobre la base de los principios de
+buen gobierno, tales como la rendición de cuentas, justicia, equidad, eficiencia,
+respeto del imperio de la ley y altos estándares de comportamiento ético. Para
+ello, es imprescindible que la Administración se adapte y cuente con herramientas para escuchar, asimilar y evolucionar en función de las demandas reales de los ciudadanos. Sólo si se articulan mecanismos y estructuras que permitan la comunicación horizontal con la sociedad civil se podrá avanzar, y mejorar
+la participación de la misma en la definición de su propio futuro.
+Burocracia
+En cuarto lugar, habría que aliviar la excesiva y compleja burocracia
+que se interpone entre la administración y los ciudadanos. Es preciso simplificar
+los trámites administrativos de todo tipo, excesivamente complicados en su
+mayoría, facilitar su resolución digital siempre que sea posible, y mejorar la
+coordinación de los distintos niveles de nuestras administraciones públicas,
+aclarando la confusión competencial entre los distintos niveles del Estado, y
+respetando la unidad de mercado en todo el territorio nacional.
+
+23
+Carles Ramió, 2016, La gran impostura: la reforma política e institucional de la administración
+pública en España, esPublicoBlog, 29 de marzo de 2016.
+
+109
+
+
+
+El críptico lenguaje utilizado en las comunicaciones a los ciudadanos y
+en la redacción de las normas, así como su frecuente modificación; la dificultad
+en entablar contacto con la administración, la inexistencia de ventanilla única,
+el insuficiente desarrollo de la administración digital, son aspectos que generan
+inseguridad jurídica y costes innecesarios a ciudadanos y empresas. Cumpliendo la normativa vigente, no se debe requerir al ciudadano información que este
+ya ha entregado en alguna instancia de la Administración pública.
+Conviene enfatizar que las propuestas precedentes no están en el ámbito de las reformas administrativas habitualmente consideradas en el debate
+ocasional sobre la reforma de la Administración, ni tampoco son similares a las
+descritas en algunos de los borradores nunca ejecutados. Los aspectos cruciales
+son: la transparencia en la contratación de directivos profesionales públicos, la
+evaluación de políticas públicas y la rendición de cuentas; no estamos hablando del diseño de concursos públicos, del número de ministerios, de los procedimientos de acceso a la función pública, o del número de funcionarios. Como
+muchas otras reformas en otros ámbitos, pueden ser relevantes, pero no son la
+clave.
+Seguramente minusvaloramos el papel integrador que para la sociedad
+puede jugar un sector público al servicio de los ciudadanos y de su bienestar,
+que coloque a los ciudadanos en el centro de la gestión pública. Posiblemente
+porque, aunque la Administración pública ha alcanzado un amplio desarrollo y
+ofrece servicios que tiempo atrás eran impensables, nunca se ha favorecido su
+papel de asesoramiento, más allá de sus tareas de inspección (por mucho que
+estas sean también necesarias); especialmente en estos tiempos en que la sociedad española experimenta una polarización, que no genera sino falta de confianza en los demás y en las instituciones, y un profundo desaliento. Con todo
+ello es preciso romper, como condición imprescindible para tener un futuro
+próspero.
+
+5. CÓMO UTILIZAR EFICAZMENTE LOS FONDOS EUROPEOS
+La magnitud de los fondos europeos aprobados por la Comisión Europea a través del programa Next Generation EU y del Marco Financiero Plurianual 21-27 genera una situación especial, no sencilla de gestionar, pero que
+no podemos desaprovechar, dada la enorme gravedad de los efectos provocados por la crisis sanitaria. Sería muy ineficiente utilizar los fondos simplemente
+en un intento de volver a la situación de partida, cubriendo los déficits producidos en determinados sectores o empresas porque, por duro que pueda resultar, hay que entender que la situación anterior a la pandemia no es recuperable
+y, en todo caso, con las estructuras disponibles en ese punto, nos enfrentábamos a retos de difícil solución.
+
+110
+
+
+
+Si bien se ha de procurar el mantenimiento de rentas como, en efecto,
+se está haciendo, es momento de tomar decisiones importantes, trascendentales, mirando hacia el futuro. En momentos de profundas crisis algunos países
+han sabido hacer en el pasado grandes transformaciones que les han situado en
+sendas de progreso más avanzado que el previsible antes de la crisis; y ya que
+estamos sufriendo la desgracia de tan grave pandemia, ojalá sepamos también
+diseñar la mejor forma de recuperarnos.
+Antes mencioné la conveniencia de que el Estado fije grandes objetivos
+y defina las misiones necesarias para conseguirlos. Este es uno de esos momentos; la aplicación de los fondos europeos debería hacerse sobre una estrategia
+de futuro, un escenario acerca de cuál es el tipo de sociedad que queremos ser
+en las próximas décadas; algo que debe hacer el Estado, no un gobierno, pues
+concierne a todos los ciudadanos; ningún gobierno debería dar uso a los fondos para cumplir con sus propuestas políticas. Pero no hemos presenciado
+debate ni acerca del modelo de sociedad que perseguimos, ni mucho menos,
+de las actuaciones requeridas para ello. Es evidente que no compartimos todos
+una misma visión de sociedad; precisamente, el esfuerzo que hay que hacer
+consiste en encontrar los mínimos compartidos por todos. Y es preciso que los
+ciudadanos, directamente o a través de sus representantes, puedan tener voz en
+un tema tan trascendente. Sería imperdonable que no se hiciese.
+Siendo una misión de largo plazo, requeriría también el compromiso
+transversal, por parte de nuestros representantes políticos, de mantener dichos
+programas de actuación con independencia de los posibles avatares políticos.
+Y, si bien hemos de intentar minimizar los costes asumidos por nuestra generación, también hemos de procurar que los jóvenes actuales tengan un futuro
+satisfactorio, a la vez que evitamos imponer una excesiva carga sobre las siguientes generaciones.
+No sabemos mucho acerca de la puesta en práctica del Plan de Recuperación, Transformación y Resiliencia presentado por el presidente del gobierno 24 cuya génesis no ha sido precisamente transparente, pero lo que trasciende
+sugiere un enfoque diferente del que he descrito; lejos de definir una estrategia
+para cuyo logro se definieran las actuaciones adecuadas, parece que se espera
+recibir propuestas de inversión dentro de algunas líneas previamente especificadas, que han de estar en coherencia con algunos de los objetivos prioritarios
+establecidos por la Comisión Europea. Aunque no se ha anunciado ninguna
+convocatoria de propuestas por parte del sector privado, se ha hecho público
+que los distintos ministerios han presentado propuestas que exceden de la
+cuantía de los fondos.
+
+24
+Presentado por el Presidente de Gobierno el 7 de octubre de 2020. Disponible en: https://
+www.lamoncloa.gob.es/presidente/actividades/Documents/2020/07102020_PlanRecuperacion.pdf.
+
+111
+
+
+
+También se ha anunciado que las CCAA gestionarán alrededor del 50%
+de los fondos, aparentemente decidiendo cada una de ellas cuáles son los usos
+que considera más adecuados. Es decir, no solo no habría una estrategia nacional, sino que podría haber discrecionalidad a nivel autonómico. Tampoco sabemos cómo se coordinarían actuaciones análogas realizadas en CCAA contiguas.
+Y, por supuesto, en ningún momento se ha recabado a instancias fuera de la
+Administración un plan de actuación que pudiera servir de referencia al plan
+que pudiera diseñarse desde dentro.
+Además de contar con una estrategia claramente definida sobre un diseño de sociedad, la segunda condición para ser eficaces en un contexto tan
+sumamente delicado es tener una gestión eficiente, en lo que la experiencia
+pasada de nuestra Administración no es precisamente muy boyante. Como se
+ha pedido desde muchas instancias, la cuantía de los fondos y la magnitud del
+trabajo de construcción que hay que llevar a cabo hace prácticamente imprescindible contar con una agencia autónoma, con las características que antes
+apunté, para la gestión coordinada de todos los proyectos que se lleven a cabo;
+también requeriría disponer de un sistema de seguimiento y evaluación de las
+actuaciones que permitiese corregir posibles deficiencias durante su desarrollo,
+para no poner en peligro el resultado final. Frente a la recomendación de muchos expertos en este sentido, todos los cargos públicos que se han pronunciado al respecto han rechazado rotundamente esta posibilidad, manteniendo,
+para perplejidad de muchos, que una comisión interministerial puede responsabilizarse de la tarea.
+Un análisis detallado del contenido del Plan de Recuperación, Transformación y Resiliencia presentado por el gobierno de España nos ocuparía una
+sesión de este Pleno, y quizá convendría que así fuese; baste decir que, como
+es habitual, el documento difundido contiene muy buenos deseos y describe un
+futuro color de rosa para nuestra sociedad, pero no explica cómo se pretende
+alcanzarlos, quizá porque sea un documento preliminar; está estructura en 4
+«ejes transversales» y 10 denominadas «políticas palanca», una de las cuales se
+refiere, una vez más, a la reforma de la Administración pública pero es, a mi
+juicio, decepcionantemente desorientada y poco ambiciosa 25.
+
+25
+Mi opinión personal es negativa: se menciona una larga lista de reformas que han estado en el
+debate público desde hace tiempo, que sería conveniente entender por qué no se han materializado para
+comprender por qué ahora se llevarán a cabo; la redacción del documento es poco rigurosa y hace afirmaciones discutibles (entre ellos, un apalancamiento del sector privado en su colaboración en la financiación de
+proyectos con el sector público de 4 a 1. Algunas actuaciones son sorprendentes en relación con el objetivo
+que persiguen: 1) Plan Justicia 2030: el objetivo es desplegar más de 5.000 oficinas en pueblos de toda España para lograr a lo largo de la década una justicia más eficiente y de más calidad, 5) Vertebración territorial:
+programa de rehabilitación de edificios, planes de movilidad urbana, el desarrollo de un sistema de pago «por
+uso de las carreteras de alta intensidad» y, entre otros asuntos, el cierre de los corredores pendientes: Mediterráneo, Atlántico, conexión con Portugal y puerto de Algeciras.
+
+112
+
+
+
+Una vez aprobados los fondos europeos, habiéndose anunciado el 15
+de octubre como fecha inicial para la recepción en Bruselas de planes nacionales de actuación para la reconstrucción económica, y ante la ausencia de información respecto al proceso que se iba a seguir en nuestro país, cuatro catedráticos de economía de distintas universidades acometimos este verano la tarea
+de generar en un breve espacio de tiempo un documento proponiendo una
+relación de programas de actuación, cada uno de ellos con un objetivo específico. Quisimos evitar limitarnos a proponer recomendaciones genéricas («cambio de modelo productivo», «transición ecológica», «recuperación verde», «digitalización», «resiliencia económica», «reforma de la Administración») definiendo,
+por el contrario, actuaciones concretas que pudieran servir de referencia a
+quien pudiera tener responsabilidades en la toma de decisiones a este respecto.
+Estructurado en 8 ámbitos diferentes, el documento incorpora sugerencias recibidas del grupo de 150 firmantes del mismo, algunos de ellos miembros de esta
+Real Academia. Está disponible online 26, y ha llegado a algunos de las personas
+con responsabilidades en la gestión de los fondos y en la materialización del
+Plan de Reconstrucción. Ha tenido cierto eco en los medios de comunicación,
+habiendo sido distribuido por varias instancias, incluidas la oficina de prensa de
+la U. Complutense, pero sin ningún eco hasta el momento en instancias de gobierno. Su comparación con el Plan de Reconstrucción anunciado por el gobierno permite apreciar dos enfoques diferentes del tipo de actuaciones que
+España necesita en la delicada coyuntura en que nos encontramos.
+
+6. EL SENTIMIENTO DE COMUNIDAD
+En los últimos años la crispación ha presidido las relaciones entre los
+grupos políticos parlamentarios, impidiendo la formación de acuerdos y pactos
+en áreas que contarían fácilmente con apoyo mayoritario de los ciudadanos,
+como la educación, la sanidad, y las pensiones. Ha dificultado también la gestión política bajos gobiernos de diferente signo; aprobar la ley de Presupuestos
+ha dejado de ser una cuestión casi de trámite, para convertirse en una enorme
+dificultad que obliga a gobernar con presupuestos prorrogados, diseñados sobre realidades y necesidades de años previos.
+Los partidos políticos renuncian a respaldar una propuesta simplemente porque proviene de un partido de signo opuesto, o a estampar su firma
+junto a la de otro grupo, incluso si la propuesta pudiera resultarle aceptable, y
+reconocidamente necesaria para el bienestar social. No es sorprendente que los
+ciudadanos se sientan no representados por aquellos a quienes eligió para que
+lo hicieran. Estas actitudes chocan de frente con la llamada que antes hicimos
+
+26
+
+www.ucm.es/icae/reconstruccion.
+
+113
+
+
+
+a que el ciudadano y su bienestar estén en el centro de la gestión pública; en
+este caso, en el centro de las gestiones de nuestros representantes parlamentarios, y han tenido dos efectos, algo contradictorios, pero ambos muy negativos.
+Por un lado, el enfrentamiento continuo, explícito y gratuito, entre políticos de distinto signo, con independencia del tema que se trate, es una causa
+más de desafección de los ciudadanos, que sitúan sistemáticamente a los partidos políticos y la política en cabeza de sus preocupaciones en las encuestas del
+Centro de Investigaciones Sociológicas. Por otro lado, como los políticos se
+erigen con gusto en protagonistas mediáticos y los ciudadanos lo aceptan, la
+crispación política se ha transmitido a la sociedad, y hoy lamentamos que muchas relaciones de amistad, e incluso familiares, se han truncado por diferencias
+en puntos de vista sobre política. A pesar del distanciamiento de los ciudadanos
+respecto de los políticos, las opiniones extremas que estos defienden en sus
+confrontaciones son asumidas por los ciudadanos para generar enfrentamientos
+personales que nunca debieran producirse; lo contrario de lo que un país necesita para enfrentarse a los importantes retos que tiene delante de sí, ya se
+trate de la actual crisis sanitaria, con su dramático impacto sobre la economía y
+la vida de muchas personas, y su todavía incierta resolución médica; o los efectos del cambio climático, otra enorme crisis sobre la que debiéramos estar actuando de manera mucho más decisiva.
+El trabajo, la educación de los hijos, el mantenimiento económico y la
+salud de la familia, son elementos básicos en la vida de toda persona. Las potenciales dificultades en estos temas son una fuente de incertidumbre, que generan insatisfacción y preocupación, y confían en que para resolver tales dificultades puedan contar con el apoyo del Estado: si se pierde el empleo, unas
+instituciones laborales eficientes facilitan el encaje del trabajador y la continuidad de su carrera laboral; ante un problema de salud, queremos pensar que el
+sistema público de salud nos atenderá con la mayor garantía científica. Pero las
+deficiencias actuales en la gestión pública distancian al ciudadano de la Administración, a la cual no perciben como una institución que pueda proporcionarles ayuda en caso de dificultad. Además, el contexto de crispación política dificulta que las instituciones públicas funcionen eficazmente, generando falta de
+confianza en los ciudadanos. Por ejemplo, la ausencia de colaboración institucional hace que el entorno normativo sea excesivamente cambiante, generando
+incertidumbre.
+El Estado no debe generar más incertidumbre a los ciudadanos; al contrario, debe preocuparse de reducir la incertidumbre a la que están sujetos en
+la resolución de sus problemas. Para ello es imprescindible que exista un tono
+constructivo entre los representantes políticos; pueden discrepar en cualquier
+punto de su ideario, pero no pueden anteponer sus objetivos de grupo a los
+intereses y al bienestar de los ciudadanos que los han elegido. Puede parecer
+una utopía, pero podría conseguirse fácilmente, sin más que nuestros represen-
+
+114
+
+
+
+tantes políticos decidiesen anteponer el interés de los ciudadanos a sus intereses de grupo, buscando los puntos de acuerdo entre ellos, en relación con la
+búsqueda del bienestar colectivo. La confianza necesaria entre los grupos políticos se logra con consenso, colaboración y compromiso: consenso acerca de
+los escenarios y objetivos que cabe contemplar en los grandes temas que preocupan a los ciudadanos; colaboración para establecer estrategias que permitan
+alcanzar dichos objetivos; y compromiso de mantener los acuerdos; esta es la
+base sobre la que se puede construir un proyecto de futuro.
+Un paso necesario en este proceso sería el de adoptar también un
+acuerdo, con compromiso de mantenimiento, sobre las prácticas que generan
+dudas acerca de la ética de la gestión política: la financiación de los partidos
+políticos, la actuación ante casos de corrupción, la protección frente a los intentos de captura del Estado por parte de lobbies, la existencia de puertas giratorias, y el mantenimiento del estado de derecho y de la separación estricta de
+poderes.
+Desde el sector público se puede y se debe hacer mucha pedagogía,
+que contribuya a apreciar las instituciones, estimule un comportamiento cívico,
+enseñe a valorar la educación y a hacer un buen uso de los servicios públicos,
+que difunda los valores de la cultura, enseñe el respeto a todos los ciudadanos,
+y promueva amplias actividades de voluntariado. La insistencia en esta tarea, en
+un contexto de colaboración entre grupos políticos, capaces de generar un
+sentimiento de comunidad alrededor de un proyecto compartido de país, restablecería la confianza de los ciudadanos en sus representantes y en los demás,
+y reduciría la incertidumbre en su vida diaria.
+Tal confianza es, además, muy necesaria; la evidencia disponible muestra que los países donde la confianza en las instituciones y en los políticos es
+mayor, la política es más eficaz, lo que se ha constatado en la actual crisis sanitaria; en tales entornos, los gobiernos gozan de mayor credibilidad, y los ciudadanos aceptan las normas que se les imponen con un elevado grado de cumplimiento de las mismas.
+Evidentemente, es grave la falta de confianza de los ciudadanos en
+quienes les representan y ostentan el poder legislativo, que son quienes debaten y, en última instancia, tienen la responsabilidad del diseño de las normas
+que van a afectar a todos. Pero es quizá aun más grave que la sociedad adolezca de falta de confianza en los demás ciudadanos. Sin duda que sus causas
+serán múltiples, y algunas pueden tener un origen muy lejano en el tiempo,
+pero la falta de cohesión social es enormemente grave, y sería iluso pensar que
+carece de repercusiones económicas.
+La pandemia nos está mostrando muchas caras; algunas muy dolorosas; otras tienen un potencial regenerador que debemos saber aprovechar. Ha
+
+115
+
+
+
+expuesto nuestra olvidada fragilidad y la dependencia que tenemos unos de
+otros; pero también ha mostrado la importancia de la solidaridad, la generosidad y el altruismo para resistir una crisis, tres virtudes que aparecen naturalmente cuando existe entre los ciudadanos un sentimiento de pertenencia a una
+misma comunidad.
+A nivel local, el sentimiento de comunidad facilita la cooperación de
+sus miembros en proyectos que comparten; en un entorno de proximidad es
+más sencillo ofrecerse de manera altruista para ayudar en la solución de necesidades personales o institucionales, surgiendo de manera natural esfuerzos
+recíprocos. En algunos países, la comunidad local es una fuente de actividades
+culturales (cursos, conferencias, conciertos) que aglutinan a la población, generalmente alrededor de la biblioteca y escuela públicas. Se establecen de este
+modo contactos entre los miembros de la comunidad que permiten compartir
+aficiones y resolver necesidades. En este ámbito local pueden surgir oportunidades laborales, se pueden organizar y estructurar actividades de voluntariado,
+y se puede proporcionar la base de contactos y relaciones personales que todo
+ciudadano necesita para disfrutar de una vida de calidad. A nivel nacional, el
+sentimiento de pertenecer a una misma comunidad, de compartir un proyecto
+de futuro, constituye un elemento de amalgama social que es especialmente
+necesario en los momentos de crisis.
+Para progresar en esta dirección es preciso terminar con la crispación
+política, que ha acabado trasladándose a los ciudadanos. En la mayoría de los
+países con los que nos gusta compararnos, los grupos políticos establecen pactos mantenidos en el tiempo, lo cual requeriría abandonar la política trivial de
+la confrontación constante, y esforzarse para colaborar en el diseño de un proyecto que pueda ser consensuado, asumiendo un compromiso de respeto del
+mismo durante toda su vigencia. Consenso, colaboración y compromiso: requieren la plena comprensión del momento histórico que vivimos, y una firme
+voluntad de actuar en beneficio de todos los ciudadanos; es posible conseguirlo, y es lo que nos debemos unos a otros en este difícil momento.
+
+116
+
+

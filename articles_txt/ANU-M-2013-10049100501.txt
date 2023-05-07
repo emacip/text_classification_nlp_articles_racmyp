@@ -1,0 +1,389 @@
+INTERNET Y LOS DERECHOS FUNDAMENTALES
+Por el Académico de Número
+Excmo. Sr. D. Santiago Muñoz Machado*
+
+La regulación de Internet plantea algunos problemas insólitos para las
+mentalidades ancladas en la difusión de información y opiniones a través de
+los medios convencionales. Considérese que, para cualquier acción política o
+regulatoria, el territorio siempre ha sido un referente esencial (el territorio, se
+dice en los manuales, es un elemento indispensable para la existencia del
+Estado). Sin embargo, el territorio Internet no está gobernado por un único
+soberano. No existe un gobierno universal de la red, ni una gestión unitaria más
+allá de lo imprescindible para gestionar el protocolo Internet, su tecnología y
+los nombres de dominio. Por esta razón, las normas concernientes a la utilización de esa formidable herramienta de conocimiento y comunicación están
+muy fragmentadas y proceden, en la mayor parte, de los Estados.
+Esta configuración del Estado-red repercute, necesariamente, como es
+natural, en la creación y aplicación del Derecho que ha de regular la actividad
+en el ciberespacio. “El Derecho de la red tiene también que estar organizado
+en red. Con múltiples puntos de apoyo y decisión, pluralmente…”, escribí hace
+años en mi libro La regulación de la red. Poder y Derecho en Internet (Taurus,
+Madrid, 2000).
+La diversidad de regulaciones públicas, sumada a los intereses y condicionamientos que imponen las empresas privadas que dominan la prestación
+de servicios esenciales en Internet, ha puesto sobre la mesa la cuestión de si
+los límites constitucionales a la libertad de comunicación, esforzadamente construidos a lo largo de varios siglos, siguen siendo útiles para resolver los problemas que suscita Internet.
+
+* Sesión del día 16 de abril de 2013.
+
+491
+
+
+
+Son estos muy variados, pero podemos obtener una idea cabal de sus
+dimensiones haciendo referencia a los más principales, que, en mi criterio, son
+los siguientes: primero, la reaparición de la censura previa y de algunos tipos
+de intervenciones, públicas y privadas, en el ejercicio de la libertad, que pueden tener un contenido limitativo y asfixiante. Segundo, la cuestión del control
+de los contenidos que pueden distribuirse y circular libremente por las redes, a
+efectos de preservar valores superiores y derechos individuales. Tercero, el acopio, almacenamiento y puesta a disposición del público de datos de carácter
+personal, y su contraste con el derecho de cada individuo a conocer, rectificar
+o enmendar las informaciones concernientes a su persona que estén accesibles
+en cualquier lugar de las redes. Y cuarto, la relevante cuestión cultural y económica de si la propiedad intelectual puede ser desplazada y desconocida por
+la libertad de palabra y la libre comunicación e intercambio de informaciones.
+Me referiré sucesivamente a las cuestiones que afectan a los derechos
+fundamentales reconocidos en la Constitución, que están implicados en las tres
+primeras cuestiones enunciadas, y dejaré para otra ocasión la importante cuestión de la protección de la libertad intelectual.
+Por lo que concierne, en primer lugar, a la censura, no existen en los
+Estados occidentales prohibiciones absolutas o restricciones directas de acceso a
+las redes. Las excepciones están en países que nos quedan lejos. Todavía hay
+Estados en el mundo que privan a sus ciudadanos del acceso a la gran red. Lo
+hacen utilizando diferentes métodos en China, en Arabia Saudita u otros países.
+En esta última, cerrando las fronteras a Internet. En la primera nación, controlando los servidores a los que tienen acceso los usuarios, o los lugares donde
+pueden manejarse terminales de Internet. Pero estos casos están deviniendo progresivamente excepciones en un mundo cada vez más comunicado a través de
+las redes.
+Pero están penetrando en los países occidentales formas de censura,
+que no proceden precisamente de los poderes públicos.
+El Tribunal Supremo de los Estados Unidos ha advertido en su importante sentencia Turner Broadcasting System, Inc. v. FCC 512 US 622, 657 (1994),
+que hay que mantener la atención sobre el abuso potencial de poderes privados sobre una avenida central de la comunicación. En esta sentencia, hizo notar
+que no es posible aplicar, sin más, los estándares deducidos de la Primera
+Enmienda también a Internet. Cada medio de comunicación ha de tratarse de
+forma específica e Internet presenta muchas peculiaridades comparado con
+cualquier otro medio.
+Todos los tribunales de los países occidentales están teniendo que
+enfrentarse a supuestos de este tipo. Algunas formas de censura, llevada a cabo
+por los proveedores de banda ancha o por los servicios de búsqueda, están en
+
+492
+
+
+
+crecimiento. No siempre los casos son fáciles de determinar porque el usuario
+no alcanza a saber en qué supuestos hay una denegación efectiva de servicio o
+cuándo se ha bloqueado voluntariamente un contenido. Pero en Estados Unidos ya han sido cuestión litigiosa supuestos en los que AT&T ha censurado un
+concierto en el que el cantante Eddie Vedder criticaba al Presidente Bush, incluyendo en sus expresiones lemas como “George Bush, leave this World alone” y
+exigía sus responsabilidades por lo sucedido en Iraq; o casos en que AOL ha
+bloqueado el envío de correos que se oponían a cierta política comercial en
+materia de emails, propiciada por la propia empresa; o decisiones de Google de
+no incorporar noticias que no le convenían, o de prescindir de conexiones con
+sitios web cuando están patrocinados, porque hacen competencia a los propios
+patrocinios que exhibe el buscador. Algunas veces estos proveedores de servicios están obligados a practicar algunas clases de censura por determinación
+expresa de las leyes dictados para proteger los datos personales o la propiedad
+intelectual, como diré más adelante. D. C. Nunziato, que ha estudiado muchos
+de estos conflictos, ha concluido que en vivo contraste con la visión utópica de
+que Internet es un foro público abierto que permite el ejercicio de los derechos
+de libertad de palabra de una manera sin precedentes, la red corre actualmente
+el peligro de convertirse en un foro en el cual la palabra esté sujeta a control
+por unos cuantos actores dominantes.
+Las técnicas e instrumentos de control, aplicados a la libertad de comunicación en otros medios, plantea singularidades y necesidades de adaptación,
+como ya he indicado, cuando se han de usar en relación con Internet.
+Un ejemplo muy característico, en la jurisprudencia norteamericana,
+es el concerniente a los matices con los que tiene que usarse la “doctrina del
+foro público” (public forum doctrine), según la cual los espacios públicos pueden ser utilizados sin restricciones para el ejercicio de la libertad de palabra.
+Han existido bastantes conflictos acerca de qué emplazamientos pueden considerarse, y cuáles no, un foro público. Y el problema ha trascendido a Internet. ¿Es Internet un foro público en el sentido en que lo es una plaza de cualquier ciudad? Si lo fuera, la consecuencia, según la doctrina establecida por el
+Tribunal Supremo, es que no se podrían imponer regulaciones restrictivas. El
+asunto se ha planteado en la sentencia del Tribunal Supremo American Library
+Association v. United States. El Tribunal Supremo resolvió que una ley (la Children’s Internet Protection Act-CIPA), que impuso a las bibliotecas públicas la
+obligación de establecer filtros para el acceso electrónico a algunos contenidos,
+era acorde con la Primera Enmienda, argumentando, frente a lo que habían
+mantenido los tribunales federales que conocieron del asunto, que Internet no
+constituye un foro público y que, por tanto, las restricciones a la libertad en ese
+contexto no están sometidas a la Primera Enmienda.
+En Europa la implantación de formas de censura previa, mediante
+regulaciones públicas o interferencias de empresas privadas en Internet, ha
+
+493
+
+
+
+sido objeto de atención en diferentes documentos, tanto del Comité de Ministros del Consejo de Europa (Declaraciones de 28 de mayo de 2003 y 13 de
+mayo de 2005) como de las instituciones de la Unión Europea (Recomendación
+del Parlamento de 26 de marzo de 2009).
+Desde luego pueden adoptarse medidas concretas de prohibición
+cuando se trata de salvaguardar derechos que no pueden ser comprometidos
+por la preferencia de la libertad de expresión. Así, por ejemplo, la Sentencia del
+Tribunal de Justicia comunitario Scarlet extended SA c. Société belge des auteurs,
+compositeurs et éditeurs, de 24 de noviembre de 2011, ha dicho que los titulares de derechos de propiedad intelectual pueden pedir que se dicte una orden
+de prohibición contra los intermediarios cuyos servicios sean utilizados por terceros para atentar contra los derechos de propiedad intelectual, utilizando para
+ello las medidas ejecutivas que existan en el país correspondiente.
+En cambio, las prohibiciones de acceso a Internet, cuando no tienen
+ni la anterior justificación ni ninguna otra de carácter sancionador, deben considerarse contrarias al artículo 10 del Convenio Europeo de 1950. Así lo ha
+reconocido el Tribunal Europeo de Derechos Humanos en la sentencia Ahmet
+Yildirim c. Turquía de 18 de diciembre de 2012, en la que conoció de una
+reclamación planteada por un ciudadano turco al que se le había cortado el
+acceso a su sitio de Internet como consecuencia de un asunto penal que no
+tenía ninguna relación con dicho sitio. El Tribunal de Estrasburgo estimó que,
+en las circunstancias del caso, la decisión de cortar dicho acceso vulneraba el
+precepto citado del Convenio.
+Las posibilidades y límites del poder del Estado para bloquear parcialmente algunos contenidos indeseables ya se ha puesto en juego en algunos
+supuestos muy notables.
+La decisión más ambiciosa en cuanto al control sobre los contenidos,
+y restrictiva de la libertad de comunicación en Internet, fue la que intentó en
+Estados Unidos la Communication Decency Act de 1996. Se dirigía la Ley contra la “utilización obscena, acosadora e incorrecta de las telecomunicaciones”,
+estableciendo que quien “a sabiendas o por medio de un instrumento de telecomunicaciones: 1, haga, cree o solicite, y 2, inicie la transmisión de cualquier
+comentario, petición, sugerencia, proposición, imagen u otra comunicación
+que sea obscena o indecente, sabiendo que el receptor de la comunicación
+tiene menos de dieciocho años de edad… será multado o puesto en prisión un
+máximo de dos años, o castigado con ambas penas”. La Ley contenía otras
+prescripciones diversas contra la posibilidad de mostrar o enviar a través de servicios interactivos contenidos de carácter sexual “claramente ofensivos” de
+acuerdo con los estándares contemporáneos de la comunidad.
+La Ley fue impugnada, primero ante un Tribunal de Philadelphia, que la
+consideró inconstitucional mediante Sentencia de 11 de junio de 1996. La misma
+
+494
+
+
+
+decisión reiteró posteriormente el Tribunal Supremo, al resolver el recurso contra aquella Sentencia (Sentencia del TS Reno v. ACLU de 26 de junio de 1997). Los
+fundamentos de estas detalladísimas Sentencias consistieron en imputar a la Ley
+la utilización de conceptos demasiado vagos, que producían una gran inseguridad y, con ella, restricciones indebidas a la comunicación a través de la red. Las
+medidas legislativas impugnadas adolecían de falta de proporcionalidad ya que,
+para obtener unos fines respetables de protección de los menores, limitaban
+otros derechos que la población adulta ha de tener la posibilidad de disfrutar.
+En todo caso, la utilización de la legislación penal, como a la postre
+pretendía la Decency Act mencionada (que tipificaba infracciones y sanciones
+predominantemente), sigue siendo un cauce de control generalmente utilizado
+en todos los Estados, cuando, a través de la red, se cometen delitos tipificados.
+Pero la cuestión radica en evitar que se puedan difundir o mantener
+en la red contenidos prohibidos, en si, considerando la enorme capacidad de
+redifusión que tiene Internet, es posible conseguir que una determinada información desaparezca cuando sea contraria a la legalidad estatal. Ha habido ejemplos que retan la capacidad de los Estados. A escala europea y mundial, el
+famoso asunto de las caricaturas de Mahoma, aparecidas en un periódico, condenadas por los integristas y difundidas luego masivamente a través de Internet, sin control posible.
+El control de la redifusión de sitio en sitio, a través de infinidad de
+puntos en la red, no es del todo inalcanzable como demuestra el caso de la propaganda nazi. La prohibición en territorio francés de contenidos que ensalcen
+la ideología nazi dio lugar a un conflicto con Yahoo, que alojaba un sitio dedicado preferentemente a esta clase de actividad. El Tribunal de Gran Instancia
+de París dictó una resolución, el 20 de noviembre de 2000, por la que se ordenaba retirar los contenidos nazis a Yahoo. La cuestión de si esto era técnicamente posible fue examinada por los peritos que intervinieron en el caso, cuyos
+informes probaron que un sistema de filtros respecto de los contenidos que se
+difunden en la red puede detectar el origen de la solicitud en el noventa por
+ciento de los casos. El mismo pleito se desarrolló contra Yahoo en Estados Unidos, y concluyó con una sentencia de un Tribunal del Northern District de
+California, de 7 de diciembre de 2001, que declaró la libertad de comunicación
+y la irresponsabilidad de aquella empresa. Es decir, que en diferentes partes del
+mundo Yahoo obtuvo resoluciones judiciales diferentes sobre la legitimidad de
+los contenidos que contribuía a difundir a través de Internet. La solución final
+del caso no deja de ser ejemplar y moralizante para la cuestión del control de
+los contenidos en la red: fue la propia Yahoo la que decidió eliminar los sitios
+que difundían propaganda nazi, aunque no hubiera sido condenada a hacerlo.
+La eliminación de la red de informaciones, comunicaciones, fotografías,
+caricaturas o cualquier clase de contenidos que sean ofensivos de los derechos
+
+495
+
+
+
+al honor, la intimidad personal o familiar, la propia imagen u otros protegidos por
+la Constitución constituye también un ámbito en que las garantías pueden ser
+suficientemente salvaguardadas por los poderes del Estado. No hay ningún obstáculo de principio para aplicar a Internet la misma jurisprudencia que el Tribunal Supremo norteamericano ha deducido de la interpretación de la Primera
+Enmienda, el Tribunal Europeo de Derechos Humanos de la aplicación del artículo 10 del Convenio, y nuestros tribunales de lo que establece el artículo 18 de
+la Constitución. Con la precisión de que, como dijo el primer tribunal citado en
+la también mencionada sentencia Turner, cada medio requiere las convenientes
+adaptaciones de los criterios de valoración o estándares habitualmente utilizados.
+Los primeros conflictos suscitados por noticias o informaciones difamatorias o contrarias a la intimidad plantearon en Estados Unidos la cuestión de
+resolver si los proveedores de servicios podían ser considerados editores o distribuidores del material difamatorio y responsables junto al autor. Una de las
+primeras respuestas se produjo en una Sentencia de un Tribunal de Distrito, de
+1991, en el asunto Cubby Inc. v. Compuserve. Compuserve es uno de los mayores proveedores de Internet a nivel nacional y, en el caso, fue un mero distribuidor de las declaraciones difamatorias que habían sido colocadas en uno de
+sus foros electrónicos. El Tribunal apreció que Compuserve había delegado la
+responsabilidad de organizar el foro a una empresa distinta e independiente del
+proveedor de servicios, por lo que no tuvo ninguna posibilidad de examinar
+los contenidos del foro antes de su publicación on line. De esta circunstancia
+derivó que la Sentencia apreciara la inexistencia de responsabilidad en su conducta. Justamente porque controlaba el contenido de su boletín y podía considerarse editor, un Juzgado de Nueva York estimó, en 1995, que Prodigy (otro
+de los mayores proveedores de servicios de Internet) era responsable de haber
+incluido declaraciones difamatorias.
+Con la experiencia de estos casos, la Ley de Telecomunicaciones de
+1996, que aprobó el Congreso estadounidense, fijó la regla general de que “ningún proveedor o usuario de un servicio interactivo será considerado como editor o comunicador de las informaciones proporcionadas por el proveedor de
+contenidos informativos”.
+La regulación general de estos problemas se hizo efectiva en Europa
+con la Directiva 2000/31/CE, del Parlamento y del Consejo, de 8 de junio de
+2000, de Servicios de la Sociedad de la Información y Comercio Electrónico. Se
+han uniformado así los criterios para toda Europa al incorporarse la Directiva
+a los ordenamientos de los Estados miembros. En nuestro caso, así lo hizo la
+Ley 34/2002, de 11 de julio, de Servicios de la sociedad de la información y de
+comercio electrónico. Se contempla en ella, con carácter general, la posibilidad
+de que los órganos competentes puedan adoptar medidas para interrumpir la
+prestación de servicios o retirar datos que atenten contra el orden público, la
+investigación penal, la seguridad pública y la defensa nacional, la protección
+
+496
+
+
+
+de la salud pública, de los consumidores o usuarios, o no respeten la dignidad
+de la persona o el principio de no discriminación por motivos de raza, sexo,
+religión, opinión, nacionalidad, discapacidad o cualquier otra circunstancia personal o social. Asimismo, cabe la interrupción y la retirada de datos cuando sea
+preciso para la protección de la juventud y la infancia.
+Los prestadores de servicios de intermediación deben colaborar con el
+órgano que hubiera ordenado la interrupción del servicio o la retirada de contenidos, adoptando todas las medidas necesarias para hacer efectiva la resolución (artículo 11).
+Por lo que concierne al régimen de responsabilidad, los criterios en
+que se basa la Ley están expuestos muy pormenorizadamente en los artículos
+14 a 17, y todos se basan en el principio de libertad en la transmisión de datos.
+Se incurre en responsabilidad si se ha participado en su formación o, de no
+haberse hecho, si no se retira inmediatamente en cuanto se tiene conocimiento
+de su ilicitud. Aplicando este criterio general, la Ley desglosa la responsabilidad de los operadores de redes y proveedores de acceso, de los prestadores
+de servicios que realizan copia temporal de datos solicitados por los usuarios;
+o la responsabilidad de los prestadores de servicios de alojamiento o almacenamiento de datos y la de los prestadores de servicios que faciliten enlaces a
+contenidos o instrumentos de búsqueda.
+La propia Ley de 2002 regula, en sus artículos 30 y siguientes, la acción
+de cesación, que puede utilizarse contra las conductas contrarias a la Ley.
+Cuestión distinta, de la responsabilidad por la puesta en circulación en
+la red de comunicaciones o contenidos que puedan ser ofensivos de los derechos de los demás, es si resulta posible difundir a través de Internet, o mantener alojados en cualquier sitio accesible, datos de carácter personal.
+El derecho de autodeterminación informativa (así llamado desde una
+Sentencia del Tribunal Constitucional Federal alemán de 15 de diciembre de
+1983) abarca no sólo la protección de la intimidad, sino cualquier clase de dato
+de carácter personal. En España no está expresamente recogido en la Constitución, ni tampoco se refería a él explícitamente la Ley Orgánica 1/1982, de 5
+de mayo, relativa a la protección del honor, la intimidad y la propia imagen.
+Pero la jurisprudencia, a partir de la Sentencia del Tribunal Constitucional
+292/2000, de 30 de diciembre, lo ha consolidado como un derecho fundamental de última generación, derivado como una necesidad del progreso tecnológico y de la protección de los datos personales frente a las inmensas posibilidades de manipulación que la informática permite.
+Actualmente, el artículo 1 de la Ley Orgánica 15/1999, de 13 de diciembre, determina el ámbito regulado del siguiente modo: “La presente Ley Orgá-
+
+497
+
+
+
+nica tiene por objeto garantizar y proteger, en lo concerniente al tratamiento de
+los datos personales, las libertades públicas y los derechos fundamentales de
+las personas físicas, y especialmente de su honor e intimidad personal y familiar”. La utilización de datos personales por terceros, de acuerdo con las prescripciones de esta norma, sólo es lícita cuando se cuenta con el consentimiento
+inequívoco de los afectados, debidamente informados, o con autorización legal
+explícita. Esta autodeterminación informativa de los interesados se garantiza
+mediante la atribución a los mismos de derechos de información, acceso, rectificación, cancelación y oposición. Todos ellos tienen como contrapunto una
+gama de deberes que se imponen a quienes pretendan tratar información de
+carácter personal. La resolución de los conflictos se atribuye inicialmente a las
+Agencias reguladoras.
+La jurisprudencia del Tribunal Constitucional manejó con dudas e
+imprecisiones el derecho de autodeterminación informativa en una larga serie
+de sentencias de 1998 y 1999, pero, a partir de la ya citada Sentencia 292/2000,
+ha hecho una exposición acertada y completa del régimen jurídico del mismo.
+Se trata, según la Sentencia, de un “instituto de garantía de los derechos a la
+intimidad y al honor, y del pleno disfrute de los restantes derechos de los ciudadanos”. Lo que se ha dado en llamar la “libertad informática” tiene “una
+dimensión positiva que excede del ámbito propio del derecho fundamental a
+la intimidad … y se traduce en un derecho de control sobre los datos relativos
+a la propia persona”. El derecho fundamental a la protección de datos atribuye
+a su titular el “poder jurídico de imponer a terceros la realización u omisión de
+determinados comportamientos cuya concreta regulación debe establecer la
+ley”. Quizá lo más importante es el énfasis que pone la Sentencia, recogiendo
+la opinión consolidada en la doctrina, en que el derecho a la autodeterminación informativa sobrepasa la función y el ámbito del derecho a la intimidad
+(que protege frente a cualquier invasión del ámbito de la vida personal y familiar) ya que el derecho a la protección de datos garantiza un poder de control
+sobre nuestros datos personales, su uso y destino, a fin de impedir su tráfico
+ilícito y lesivo para nuestra dignidad y derechos. Por tanto, no se reduce al
+control de los datos íntimos, sino de cualquier tipo de dato, tenga o no aquella condición, cuyo conocimiento puede afectar a los derechos de una persona,
+tengan o no carácter de derechos fundamentales.
+No es posible, en consecuencia, de acuerdo con esta legislación, que
+es común en todo el ámbito europeo, que circulen en Internet datos de carácter personal sin el consentimiento de las personas afectadas.
+Sin embargo, se han planteado vivamente algunos problemas concernientes a la retirada de datos a solicitud del interesado. Es costumbre de los
+medios de comunicación, de prensa especialmente, mantener accesibles en
+archivos abiertos informaciones pretéritas, que pudieron tener algún interés
+cuando se publicaron pero que se refieren a situaciones pasadas. Cuando, por
+
+498
+
+
+
+ejemplo, conciernen a procedimientos sancionadores administrativos o a la
+implicación de los interesados en procesos penales, es posible que unos y otros
+acabaran incluso sin sanciones o condenas; no obstante lo cual, los archivos
+digitales de los periódicos mantienen la primera información sin consolidarla
+con la definitiva, si es que ésta llegó a publicarse. Estos archivos plantean
+muchas dificultades para el conocimiento de la verdad, que requiere un esfuerzo
+del usuario, que no siempre tiene el interés suficiente para concluir.
+Los perjudicados por estas prácticas se han dirigido habitualmente al
+medio de comunicación en cuya página web puede encontrarse la información, y también al buscador de Internet, normalmente Google, que es el más utilizado para encontrarla. Los periódicos concernidos sostienen habitualmente
+que las noticias que se conservan en sus archivos electrónicos a disposición del
+público se refieren a hechos o contienen opiniones que han ocurrido o se han
+expresado en el pasado, y que se difundieron en el ejercicio de la libertad de
+comunicación que protege el artículo 20 de la Constitución. Por tanto, su eliminación forzosa supondría una vulneración de dicha libertad. Google, por su
+parte, argumenta que la operación de búsqueda o rastreo de datos, a través de
+los motores o arañas electrónicas que la llevan a cabo, no supone ningún tratamiento de datos sino, simplemente, la recogida de los que están disponibles
+en la red. La mecánica de su sistema de búsquedas no permite hacer discriminaciones selectivas, ni Google añade por su cuenta ningún dato que no estuviera ya consignado en las páginas web de las que los motores de búsqueda
+los toman. Añade en sus argumentaciones habituales que los servicios que
+presta a los usuarios requieren amplias operaciones de recopilación de datos,
+de los que no es responsable Google Spain S.L., que es la filial española de
+Google Inc., con sede en California, que es donde están radicadas las máquinas y servidores correspondientes, de manera que, caso de apreciarse alguna
+responsabilidad en el proveedor de servicios de búsqueda, habría que exigírsela a Google Inc., demandando a la sociedad en California.
+Ante la actitud negativa de ambas empresas, uno de los afectados concretos por determinada información que le resultaba inconveniente para su
+persona y actividad comercial, planteó una reclamación ante la Agencia Española de Protección de Datos. No era la primera vez y, reiteradamente, esta institución ha inclinado la responsabilidad del lado de Google, aceptando que las
+páginas web de los medios de comunicación, de los que proceden los datos
+que el proveedor de servicios de búsqueda indexa, recogen contenidos amparados por la libertad constitucional de información.
+Ante esta situación, los interesados han acudido con recursos contencioso-administrativos ante la Audiencia Nacional. En uno de estos recursos,
+dicho tribunal, antes de resolver, decidió plantear una cuestión prejudicial ante
+el Tribunal de Justicia de la Unión Europea sobre los problemas de interpretación que suscita la Directiva 95/46/CE concerniente a la protección de datos de
+
+499
+
+
+
+carácter personal. Los fundamentos de esta cuestión, bien argumentada, expresan las dudas de la Sala de lo contencioso-administrativo de la Audiencia Nacional respecto de diversas cuestiones jurídicas que plantea la actividad de los
+modernos motores de búsqueda, que suponen una innovación técnica relativamente reciente y, sobre todo, un servicio cuya utilización ha crecido exponencialmente en los últimos años. En la cuestión prejudicial planteada por la indicada Sala se suscitan todos los problemas esenciales: el primero de todos, si
+puede considerarse que Google Spain S.L. es realmente un “establecimiento”
+responsable del tratamiento de datos, considerando que la actividad a que se
+dedica es principalmente la venta de publicidad y comercialización de espacios
+disponibles, con los que se financian los servicios de Google, mientras que el tratamiento de datos se genera en California. La cuestión no es sólo técnica sino
+también de protección judicial de los derechos, ya que la Sala aduce la manifiesta indefensión en que quedarían los afectados si, por informaciones que tienen repercusión en España y afectan a derechos que hay que proteger en nuestro territorio, tuvieran que incoar procesos judiciales en California. Es capital la
+cuestión de saber si, aun considerando la limitada actividad de Google Spain
+S.L., puede considerarse que es un establecimiento responsable de tratamiento
+de datos a efectos de la Directiva 95/46 (artículo 4.1.a) de Protección de datos.
+Otro grupo de cuestiones importantes conciernen a si puede imputarse a la empresa que gestiona el buscador Google la responsabilidad por el
+“tratamiento” de datos personales contenidos en las páginas web que indexa,
+y, en tal caso, si puede una autoridad nacional, como la Agencia de Protección
+de Datos hizo en el caso sometido a enjuiciamiento de la Sala que plantea la
+cuestión prejudicial, exigir a Google la retirada de sus índices de una información publicada por terceros sin tener que dirigirse al titular de la página web,
+que en el caso debatido era el periódico que mantenía la información en sus
+archivos electrónicos accesibles al público a través de Internet. Este problema
+tiene diferentes proyecciones, según que la información, existente en la página
+web del medio de comunicación de la que la extrae el buscador, haya sido
+publicada o no lícitamente (es decir vulnerando o no derechos, y aún en este
+caso distinguiendo si se han producido reclamaciones con motivo de la infracción, o no ha habido reacción alguna).
+Y en fin, respecto del derecho de cancelación, también se plantea la
+cuestión de si un interesado puede dirigirse a los buscadores para impedir la
+indexación de informaciones referidas a su persona publicadas en páginas web
+de terceros, sin más fundamento que su decidida voluntad de que tales datos no
+sean conocidos por los usuarios de Internet, por contener información que puede
+perjudicarle o porque desee que sea olvidada. Y todo ello aun en la hipótesis de
+que la información hubiera sido obtenida en su momento lícitamente.
+Sobre estos problemas ya son conocidas las conclusiones del Abogado
+General Niilo Jääskinen, presentadas el 25 de junio de 2013. Para lo que importa
+
+500
+
+
+
+a los efectos de esta nota, el Abogado General considera que una empresa que
+provee el motor de búsqueda, como en el caso de Google, que tiene domicilio
+fuera de un Estado miembro pero con oficinas o filiales establecidas para vender o promover espacios publicitarios en su motor de búsqueda, u orienta su
+actividad a los habitantes de dicho Estado, es, a los efectos de la Directiva citada
+95/46, un “establecimiento” responsable del tratamiento, lo que implica que se
+puede demandar en España a Google Spain, S.L. por las irregularidades en que
+incurra el servicio que presta en el Estado, aunque la operación técnica de que
+se sirve proceda de California.
+Respecto de las cuestiones sustantivas, el Abogado General argumenta
+que un proveedor de servicios de motor de búsqueda en Internet, como Google,
+cuyo motor de búsqueda localiza información publicada o incluida en Internet
+por terceros, la indexa automáticamente, la almacena con carácter temporal y, por
+último, la pone a disposición de los usuarios de Internet, “trata” datos personales. Sin embargo, entiende el Abogado General que el proveedor de servicios no
+es “responsable del tratamiento” de dichos datos siempre que no indexe o archive
+datos personales en contra de las instrucciones o las peticiones del editor de la
+página web. Y por lo que concierne al eventual reconocimiento de un “derecho
+al olvido”, del que sería titular cualquier persona que desee que se eliminen de
+internet datos que conciernan a su vida y actividades pasadas, el Abogado General sostiene que los derechos de cancelación y bloqueo de datos regulados en la
+Directiva 95/46 (artículo 12,b) y el derecho de oposición (artículo 14,a de la
+misma Directiva) no confieren al interesado el derecho a dirigirse a un proveedor de servicios de motor de búsqueda para impedir que se indexe información
+que le afecte personalmente, publicada legalmente en páginas web de terceros,
+invocando su deseo de que los usuarios de Internet no conozcan tal información
+si considera que le es perjudicial o desea que se condene al olvido.
+En definitiva, el Abogado General propone que el Tribunal debe exonerar de toda responsabilidad a Google (y, por extensión, a cualquier otro proveedor de servicios de búsqueda) por los resultados que sus servicios ofrecen
+a los usuarios, incluso cuando aparezcan en ellos datos que conciernen a una
+persona que desea impedir su difusión. El afectado por la información no puede
+impedir la indexación invocando su “derecho al olvido”. Sin embargo, deja
+abierta, como es lógico, el Abogado General la posibilidad de dirigirse contra
+las páginas web de terceros que contengan información ilegal (por ofensiva del
+honor, la intimidad o cualquier otro derecho) para exigir su eliminación, con lo
+que dejaría de estar disponible también para los motores de búsqueda.
+La inminente y esperada sentencia del Tribunal de Justicia de la Unión
+Europea aclarará y pondrá orden definitivo en estos conflictos.
+
+501
+
+

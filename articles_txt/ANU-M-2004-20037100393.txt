@@ -1,0 +1,902 @@
+LA JURISPRUDENCIA ROMANA,
+CUNA DEL DERECHO
+Por el Académ ico Correspondiente
+Excmo. Sr. D. Rafael Dom ingo *
+
+Difícilmente se pueden comprender los actuales ordenamientos jurídicos
+europeos, americanos y algunos del Este asiático (Japón, Corea, Filipinas y Taiwán,
+entre otros) sin los principios que informaron el Derecho romano, es decir, ese
+orden de convivencia conforme a justicia creado por los jurisprudentes de la anti­
+gua Roma republicana y coronado magistralmente, tras la p a x Augusta, por los
+juristas del Principado. Conceptos básicos, constitutivos de nuestra civilización,
+como testamento, buena fe, servidumbre, usufructo, posesión, propiedad, contrato,
+sociedad, condición, etc. fueron elaborados en un momento histórico muy concre­
+to en que las relaciones de justicia entre los ciudadanos y entre los pueblos fueron
+tratadas, como tales, desde una perspectiva científica, que, en el Derecho romano,
+es tanto como decir jurisprudencial. En efecto, de la misma manera que en la Gre­
+cia antigua floreció una cultura filosófica, gracias a la relación de unos hombres
+dedicados apasionadamente a la sabiduría, así también, en Roma, se creó, muy par­
+ticularmente desde mediados del siglo n a.C. hasta mediados del m d.C., un ambien­
+te jurisprudencial del más elevado nivel científico por la concurrencia de unos juris­
+tas expertos en el ars bon i et aequ i, como definió elegantemente uno de ellos,
+Celso, el Derecho (Celso-Ulpiano, D. 1.1.lpr.).
+I.
+
+LOS ORÍGENES DE LA JURISPRUDENCIA ROMANA
+
+Los orígenes de la jurisprudencia romana los conocemos, en parte, gracias
+al discutido «enquiridion» o «manual» de historia del Derecho romano escrito por el
+
+* Ponencia no presentada oralmente.
+
+371
+
+
+
+jurista Pomponio, a mediados del siglo n d.C., con el que ciertamente se inauguró
+un modelo de literatura jurídica en el que ha de enmarcarse esta misma obra sobre
+juristas universales. En esta historia elemental, recogida en el título II del libro I del
+Digesto de Justiniano (D. 1.2.2.6), Pomponio afirma que de la llamada Ley de las
+XII Tablas manó el Derecho civil (lege du odecim tabularum ex bis flu ere coepit ius
+civile). De ahí que esta importante y peculiar ley de en torno al 450 a.C., que Tito
+Livio calificó como fo n s om nis p u b lici privatiqu e inris (Livio 3.34.6), caída ya por
+tanto la monarquía (753 a.C.-509 a.C.) y en período de formación de la república,
+pueda ser — paradójicamente, pues los romanos no se caracterizan como legisla­
+dores— el más genuino punto de partida.
+Pero hay fundamentos del ius civile más antiguos. En efecto, una tradición
+de los llamados posteriormente m ores m aiorum así como de las leyes regias reco­
+piladas por el pontífice Sexto Papirio (ius P apirianum , cfr. Pomponio, D. 1.2.2.2:
+leges sin e ordin e latas in unum com posuit) existen ya desde el siglo vi a.C. Estos
+m ores m aiorum son como la constitución no escrita de un pueblo, por lo que pro­
+piamente nunca fueron derogados, aunque sí adaptados a los nuevos modos de
+vida.
+El propio Pomponio (D. 1.2.2.4) nos dice que esta Ley de las XII Tablas
+fue encargada a un colegio de patricios (decem viri legibus scribundis, de ahí que
+se denomine también como ley «decenviral»), y que éstos, después de pedir infor­
+mación a otras ciudades griegas, probablemente de la Magna Grecia (Sur de Italia),
+las escribieron en tablas de marfil —hecho muy discutible— y ordenaron colocar­
+las en el foro para que fueran conocidas por todos (... in tabu las eboreasp erscrip tas p ro rostris com posuerunt, ut possin t leges apertius p ercipi). Habiéndoseles con­
+cedido a los decenviros la facultad de corregir las leyes, hicieron uso de ellas
+añadiendo, a las diez existentes, dos nuevas tablas; de ahí que sean conocidas con
+el nombre de Ley de las XII Tablas (E. Varela, en Textos d e D erecho rom an o, 2.a ed.,
+Pamplona, 2002, §1, págs. 19-36); más datos históricos nos ofrecen Tito Livio, en el
+libro tercero de su Ab u rbe con dita, y Dionisio de Halicarnaso, en el libro X de sus
+A ntiquitates R om anae.
+Redactada con un estilo sobrio heredado por la jurisprudencia romana
+posterior, contenía breves preceptos funerarios y jurídicos, penales y procesales,
+también de carácter interpretativo o incluso corrector de las costumbres al uso. Por
+desgracia, sólo la conocemos muy parcialmente por citas de autores bastante pos­
+teriores, como Cicerón y Aulo Gelio, y con un lenguaje más moderno, pues al pare­
+cer se perdieron con el saqueo e incendio de Roma por los galos el 387 a.C. Cice­
+rón nos cuenta (D e legibus 2.23.59) que, siendo niño, memorizó, como era
+372
+
+
+
+costumbre, la ley «cantándola»; «discebam us enim p u eri XII ut carm en necessarium ».
+Es probable que esta versión de las XII Tablas tan prestigiada durante los dos últi­
+mos siglos de la República proceda de las Tripertita de Sexto Elio Peto Cato, del
+siglo ii a.C., a la que en seguida me referiré.
+La Ley de las XII Tablas, al reproducir ciertos principios del ius antiquum ,
+vino a limitar el amplio poder discrecional del colegio pontifical, que fue verdade­
+ramente quien, al adaptar las formalidades jurídicas a las prácticas sociales, se eri­
+gió en la fuente principal de creación del Derecho y guardián de este nuevo saber
+práctico. En efecto, los comienzos de un conocimiento jurídico técnico se corres­
+ponden con la actividad desarrollada por el colegio pontifical concretada en la
+interpretación del Derecho vigente (interpretandi scientia) y en la elaboración de
+fórmulas judiciales (actiones) (cfr. Pomponio, D. 1.2.2.6). Esta conexión entre la
+religión y el Derecho, en virtud de la forma constitutiva que los vivifica, justifica
+plenamente la competencia pontifical. A esta interrelación entre Derecho y religión,
+que no llegó empero nunca a una plena identificación, como sucedió en otros
+Derechos de la antigüedad, se refiere el propio Cicerón: «... ius nostrum pontificium, qu a ex p arte cum iure civili coniunctum est...» (Brutus 42.156). Esto explica
+la definición ulpianea de jurisprudencia (D. 1.1.10.1) como divinarum atqu e hum anarum rerum notitia, recogida siglos después por Justiniano al inicio de sus Insti­
+tuciones (Inst. 1.1.1). Por lo demás la auctoritas que revistió a los pontífices no fue
+de distinta naturaleza que la que posteriormente revistió a los juristas laicos.
+Este monopolio jurídico pontifical, que cuidaba celosamente de sus fór­
+mulas, se extendió aproximadamente hasta finales del siglo iv a.C. En efecto, en tor­
+no al 300 a.C., el escriba Gneo Flavio (edil en el 304 a.C.), publicó el libro de accio­
+nes de Apio Claudio el Ciego (Pomponio, D. 1.2.2.7), que vino a denominarse
+«Derecho civil flaviano» (ius civile Flavianum ), al parecer, a semejanza del citado
+ius Papirianum . A Apio Claudio — que fue censor en el 312 a.C. y cónsul en dos
+ocasiones, el año 307 a.C. y el año 296 a.C., y poseedor máximo de la ciencia del
+Derecho (Pomponio, D. 1.2.2.36: m áxim um scientiam babuit)— se atribuye tam­
+bién (Pomponio, D. 1.2.2.36) un libro, de contenido incierto, aunque probable­
+mente contuviera fórmulas de acciones y cauciónales.
+A mediados del siglo m a.C., fue al parecer Tiberio Coruncanio, primer ple­
+beyo que alcanzó el pontificado, quien por vez primera respondió en público (res­
+p on d ere p u blicé) a las consultas de los particulares, privando así al ejercicio juris­
+prudencial del colegio pontifical de su exclusiva. Este m odas operandi de la
+jurisprudencia a través de los responsa o dictámenes orales constituirá durante
+siglos el centro de la actividad jurisprudencial de apoyo fundamentalmente a magis­
+373
+
+
+
+trados jurisdiccionales, a jueces y a particulares. Esta jurisprudencia preclásica es
+llamada también «cautelar» (de cávete) por consistir principalmente su labor juris­
+prudencial en el auxilio a los ciudadanos en la redacción de fórmulas negociales.
+Por último fue actividad típicamente jurisprudencial el agere, es decir, la consisten­
+te en la elaboración de fórmulas procesales. Con todo, el arbitrio de esta actividad
+en los siglos iv y m a.C. mermó sustancialmente con la aparición de las llamadas
+acciones de la ley Qegis actiones), caracterizadas por su rigor formal. A partir de la
+Ley Ebucia, del 130 a.C. aproximadamente, que señala el nacimiento del procedi­
+miento p e r form u las, la actividad jurisprudencial en tema de agere volvió a resur­
+gir hasta la codificación del Edicto en torno al 130 d.C., bajo Adriano (117-138 d.C.).
+Sexto Elio Peto Cato, cónsul en el año 198 a.C. y censor en el 194 a.C.,
+muy respetado por los juristas posteriores, es considerado propiamente el primer
+jurista en sentido pleno. Hermano de Publio Elio, también jurista y cónsul (Pomponio, D. 1.2.2.38: «ut dú o Aelii etiam cónsules fuerint»), su penetrante inteligencia
+justifica precisamente su cognom en «Catus» (agudo). Amplió el número de acciones
+en su obra Tripertita, de la que conservamos algunas referencias (Lenel, Palinge­
+nesia I, cois. 1-2), denominada así por estar dividida en tres partes: un comentario
+a las XII Tablas; una segunda parte destinada a la interpretación y la tercera a las
+acciones (Pomponio, D. 1.2.2.38).
+Junto a los Aelios, atribuye Pomponio la máxima autoridad jurídica a
+Publio Atilio (D. 1.2.2.38: «m axim am scientiam in profiten do habuerunt»), en reali­
+dad Lucio Atilio, de quien dice que fue el primero en ser llamado «Sabio» por el
+pueblo («prim us a popu lo Sapiens appellatus est»), por sus conocimientos en Dere­
+cho (Cicerón, D e am icitia 2.6: -quia pru dens esse in iure civili p u taba tu n ). A los
+tres une la condición de haber comentado la Ley de las XII Tablas (Cicerón, D e legibus 2.59).
+Contemporáneo de Lucio Atilio (Cicerón, De am icitia 2.6) fue M. Porcio
+Catón, el Viejo (234-149 a.C.), cónsul el 195 y censor el año 184 a.C., que, al pare­
+cer, dio responsa como jurista, tras haber combatido felizmente contra los indómi­
+tos habitantes (ferox genus, Livio 34.17) de Hispania y Siria; así como su hijo Mar­
+co Porcio Catón Liciniano, que premurió al padre en el 152 a.C. (Plutarco, Catón,
+el Viejo 24.9 y Aulo Gelio 13.20.9). A Catón Liciniano se atribuye un comentario de
+Derecho civil (Aulo Gelio 13.19-9: «et egregios d e iuris disciplina libros reliquit»),
+aunque no debe descartarse que estos libros recogieran los responsa del padre
+(A. Guarino, Storia del Diritto rom ano, 12.a ed., Nápoles, 1998, § 152).
+A esta jurisprudencia preclásica se deben aportaciones tan importantes
+como la invención de la emancipación, con apoyo en las XII Tablas 4.2b («sip a ter
+374
+
+
+
+filiu m ter venum duuit, filiu s a p atre líber esto»), y del verdadero testamento, que
+evidencia el genio jurídico romano (Á. d’Ors, D erecho privado rom ano, 9.a ed.,
+Pamplona, 1997, § 30).
+
+II.
+
+LA PRIMERA JURISPRUDENCIA CLÁSICA
+
+La ordenación y más plena interpretación del Derecho, precisamente en
+un período crítico de la república romana, viene unida al nombre de tres juristas,
+de mediados del siglo ii a.C., conocidos tan sólo por citas, que son considerados
+por Pomponio (D. 1.2.2.39) como sus fundadores {qu i fu n daveru n t ius civilé), qui­
+zá por haberlo consolidado definitivamente: Manió Manilio, cónsul el año 149 a.C.,
+Marco Junio Bruto, pretor en torno al 140 a.C., y Publio Mucio Escévola, cónsul el
+133 a.C.
+De gran modestia y equidad (Zonaras, Anuales, 9.27, ed. Pinder, pág. 285),
+amigo de Escipión Emiliano (185-129 a.C.) y recordado con admiración por Cice­
+rón {De oratore 3-133), Manió Manilio gozó de gran autoridad como jurisconsulto,
+tanto por sus responsa como por su actividad cautelar. Entre su obra escrita fueron
+famosos sus formularios negociales para la compraventa (M anilian ae venalium
+vendedorum leges). Perteneciente a una ilustre familia cuya nobilitas se remontaba
+al siglo iv a.C., el segundo fundador del ius civile, Marco Junio Bruto, puede ser
+tenido por precursor de la fuerte influencia helenista que sufrirá al poco la juris­
+prudencia romana. Fue autor de una colección de responsa en forma dialogada con
+su hijo, que aparece como interlocutor, conforme al más genuino estilo griego. El
+tercero de los fundadores fue Publio Mucio Escévola, cónsul el 133, como se ha
+dicho, y pon tifex m axim us desde el 131 hasta su muerte el 115 a.C. Pertenecía a
+una estirpe de juristas insignes como su hermano P. Licinio Craso Muciano (Cice­
+rón, Brutus 26.98) — que Pomponio confunde con el orador L. Licinio Craso
+(D. 1.2.2.40)— , su primo Quinto Mucio Escévola, el Augur, cónsul el año 117 a.C.,
+y sobre todo su hijo, cónsul el año 95 a.C., Quinto Mucio Escévola, el Pontífice. No
+se nos ha conservado el título de ninguna de las diez obras que al parecer escribió
+Publio Mucio Escévola (Pomponio, D. 1.2.2.39: -Publius Mucius etiam decem libellos reliquia).
+Una discusión científica sobre la consideración como fruto del hijo de una
+esclava en usufructo, protagonizada por los tres fundadores del ius civile, puede
+constituir un buen ejemplo sobre los intereses de esta primera jurisprudencia clási­
+ca. Cicerón nos da noticia de ella en De fin ibu s 1.12: «an partus an cillae sitne in
+fructu habendus, disseretur ínter principes civitatis P. Scaevolam M ’. qu e Manilium,
+375
+
+
+
+a b iisque M. Brutus díssentiet...»). La opinión de Bruto — a saber, que un hombre
+no puede pertenecer como fruto a otro hombre («ñeque enim in fru ctu bom inis
+hom o esse potest») por lo que el hijo de la esclava usufructuada sería del dueño de
+la esclava y no del usufructuario— fue la que prevaleció en la tradición jurispru­
+dencial (Ulpiano, D. 7.1.68pr.). Otra disputa científica entre los fundadores del ius
+civile versó acerca del posible efecto retroactivo en la aplicación de la lexA tin ia d e
+usucapione (s. II a.C.), que prohibía la usucapión de cosas hurtadas (Aulo Gelio
+17.7.3: *utrumque in post fa c t a m odo fu rta lex valeret a n etiam in an te facía»).
+Discípulos de los fundadores fueron: Publio Rutilio Rufo, cónsul en Roma
+el 105 a.C., a quien se debe, entre otras aportaciones, la incorporación edictal de
+una acción con transposición de personas a favor del bonorum em ptor llamada pre­
+cisamente actio Rutiliana (Gayo 3.35); Aulo Virginio (al que Pomponio, D. 1.2.2.40,
+llama erróneamente Paulo Verginio) y Quinto Elio Tuberón, el Viejo, cónsul el 118
+a.C. Contemporáneos fueron también Quinto Mucio Escévola, el Augur, cónsul el
+117 a.C., el excelente jurista Sexto Pompeyo (Cicerón, B m tus 47.175), Celio Antípatro, más orador e historiador que propiamente jurista, y su discípulo, ya men­
+cionado, L. Licinio Craso, cónsul el 95 a.C., famoso orador y elocuente jurista (Cice­
+rón, Brutus 39.145).
+Dos son las principales características de los juristas republicanos, a saber:
+su auctoritas personal y su mencionada helenización. En efecto, a diferencia de
+los juristas modernos, acostumbrados a dictámenes y sentencias excesivamente
+prolijas, cuyo valor deriva más de la propia argumentación que de su personal
+autoridad, en la jurisprudencia republicana el responsum, es decir, la respuesta al
+caso concreto que se plantea, no estaba motivado pues su valor residía precisa­
+mente en la autoridad del que lo profería. Cuenta Cicerón (De oratore 56. 239-240),
+por boca del orador Marco Antonio, cónsul el 99 a.C., que, en cierta ocasión, un
+campesino se acercó a Licinio Craso Muciano para consultarle un caso y que éste
+le respondió según la verdad y no sus intereses (•■verum m agis qu am a d su am rem
+accom m odatu m »). Entristecido el campesino, se lo comentó al orador Galba, que
+le dio la razón. Habiendo intentado éste convencer a Licinio Craso de que el cam­
+pesino tenía razón, Craso se apoyó en la autoridad (a d auctores confugisse) de su
+hermano Publio Mucio y de Sexto Elio Peto alegando que ellos mantenían el mis­
+mo criterio.
+Claro ejemplo de autoridad personal es el que recoge Cicerón (Brutus
+51.197) a propósito de la conocida cau sa C uriana, quizá del 93 a.C., en la que
+Quinto Mucio Escévola fundó su opinión en la autoridad de su padre Publio, que
+siempre había defendido esa misma posición (... d e auctoritatepatris sui, qu i sem376
+
+
+
+p e r illud ius esse defenderat). Con todo, la personal auctoritas de un jurista cesa
+ante una com m unis opinio o una regula veterum (F. Wieacker, Róm ische Rechtsgeschichte I, Munich, 1988, pág. 498).
+En muchos de estos juristas republicanos se advierte una cuidada educa­
+ción helenística tan propia de la culta aristocracia romana, a la que normalmente
+pertenecían. En efecto, durante este período, la jurisprudencia romana se «heleniza» plenamente. Tanto es así que Fritz Schulz denomina a esta época: "The Hellenistic p erio d o f R om án jurisprudence> (F. Schulz, History o f R om án Legal Science,
+2.a ed., Oxford, 1953, pág. 38). Considera Schulz que la influencia helenista fue
+extraordinariamente importante por hallarse entonces la jurisprudencia romana lo
+suficientemente madura para ser estimulada por la filosofía griega pero también
+para no ser desnaturalizada por ella: «Rom án legal Science con tain ed in itself great
+potentialities, but to release them a n d bring them into activity there was n eed ed the
+solvent energy o f Greeks forrns» (F. Schulz, History o f Rom án Legal Science, 2.a ed.,
+Oxford, 1953, págs. 38 y sigs.).
+Pero con razón observa Franz Wieacker (Rómische Rechtsgeschichte I,
+Munich, 1988, pág. 639) que, si bien la jurisprudencia romana utilizó métodos para
+la formación de conceptos jurídicos o de clasificación propios de la filosofía políti­
+ca o jurídica, la ontología, la retórica o la gramática griegas, no puede hablarse pro­
+piamente de una repentina transformación, por este camino nuevo, de la jurispru­
+dencia romana en un ars inris dialéctico.
+De las tres artes, gramática, retórica y dialéctica, fue la retórica la que se
+introdujo en el foro romano, creando el oficio de abogados no juristas, interesados
+por los fa c t a pero no por el ius, entre los que brilló Cicerón. Los jurisprudentes, en
+cambio, se vieron más atraídos por el método dialéctico de división por géneros,
+excelentemente descrito por Platón en su diálogo sobre El sofista (253 d-e), de ca.
+365 a.C., por boca del extranjero de Elea. Consistía la dialéctica en un método con­
+ducente a la obtención de un orden coherente de conocimientos. En primer lugar
+se distinguían Cdiaireseis, differentia) géneros (y entre estos, especies) del conjun­
+to de conocimientos o de cosas objeto de estudio; en un segundo momento, por
+inducción o analogía, se extraía la regula (o canon, en griego) aplicable a cada
+género o especie e incluso una definición del concepto para finalmente ordenarlos
+lógicamente conforme a un orden racional. En efecto, los juristas romanos incor­
+poraron la técnica divisoria del genus y species para hallar la mejor solución a cues­
+tiones relativas a instituciones singulares, aunque lejos todavía de los proyectos
+ciceronianos — el gran helenista del atardecer republicano— recogidos en su diá­
+logo De oratore (1.41.185-1.42.191), a fin de conseguir la perfección en el arte de
+377
+
+
+
+la jurisprudencia (De oratore 1.42.190:«perfectam artem iuris civilis habebitis...»). De
+los juristas de esta época, tanto Publio Rutilio (De officiis 3.2.10) y Tuberón el Vie­
+jo (Cicerón, D e oratore 3-23.87, Tusculanae 4.2) como Quinto Mucio Escévola, el
+Augur (Cicerón, D e oratore 1.11.45; 1.17.75), tuvieron común maestro a Panecio,
+cuyas doctrinas fueron determinantes en la preparación cultural para el Principado.
+Influencia helenista, por su singular conocimiento de la dialéctica, recibió
+el que quizá fuera el jurista más importante de la res publica-. Quinto Mucio Escé­
+vola, el Pontífice. Utilizando esta técnica de la «diairesis», individuó, por ejemplo,
+entre otros, los gen era tutelae (Gayo 1.188) y los g en era possessionum (Paulo,
+D. 41.2.3.23). Pero además —y esto es realmente lo meritorio— a él atribuye Pomponio la primera ordenación del Derecho, inspirado en el método de la dialéctica,
+en dieciocho libros (D. 1.2.2.41: «... ius civileprim us constituit generatim in libros
+decem et octo redigendo»), conforme a la siguiente clasificación: herencia (testa­
+mento y sucesión intestada); personas (matrimonio, tutela, statuliberi, p a tria potestas-, dom in ica potestas; liberti, apéndice: procu rator y negotiorum gestio'); cosas
+(posesión y usucapión; no uso y libertatis usucapió'), y obligaciones (ex contracta
+y ex delictó) (cfr. F. Schulz, History o f Rom án Legal Science, 2.a ed., Oxford, 1953,
+pág. 95). La importancia teórica y práctica de esta obra (De iure civili libri XVIII,
+P alingenesia I. col. 757-762), decisiva para la posterior ordenación sabiniana, lo
+evidencia el hecho de que fuera extensamente comentada, hasta en el siglo n d.C.,
+por juristas como Lelio Félix (Ad Q. Mucium, Palingenesia I, col. 557-558), Gayo y
+Sexto Pomponio (Ad Q. Mucium libri XXXIX, Palingenesia II, col. 60-79), obra ésta
+fundamental para la reconstrucción del orden muciano. Atribúyese también a Quin­
+to Mucio un líber singularis definitionum, intitulado en griego, del que el Digesto
+nos ha conservado algunos fragmentos (D. 41.1.64; D. 43-20.8; D. 50.16.241;
+D. 50.17.73). La alta creatividad de este jurista, que «non rim ase prigion iero delta
+tradizione civilisticapiú an tica» (M. Bretone, Tecniche e ideologie d ei giuristi rom ani, 2.a ed., Nápoles, 1982, págs. 108 y sigs.), se manifiesta, por citar algún ejemplo,
+en la invención de la caución a la que dio nombre (cautio M uciana), para resol­
+ver el problema de la adquisición de legados sometidos a condición negativa (Julia­
+no, D. 35.1.106; Gayo, D. 35.1.18), de la presunción Muciana, conforme a la cual
+todo lo que recibió la mujer procede del marido (aunque no llamada así por las
+fuentes; cfr. Pomponio, D. 24.1.51pr. y CJ. 5.16.6.1, del 229).
+Muchos fueron los discípulos de Quinto Mucio Escévola, el Pontífice.
+Gozaron de especial auctoritas Aquilio Galo — a quien se debe la stipulatio aqu ilian a (Inst. 3.29.2; Florentino, D. 46.4.18.1), la acción de dolo, quizá como pretor
+peregrino el 66 a.C., y los postum i aqu ilian i (Escévola. D. 28.2.29pr.)— Volcacio,
+Lucilio Balbo, Cayo Juvencio y probablemente Cornelio Máximo (F. Wieacker,
+378
+
+
+
+Róm ische Rechtsgeschichte I, Munich, 1988, pág. 615), maestro de Trebacio Testa
+(Pomponio, D. 1.2.2.45, y Cicerón, A d fam iliares 7.8.2; y 7.17.3).
+Rival de Quinto Mucio, con quien polemizó en su obra R eprehensa Scaevolae capita o Notata Mucii, y discípulo de Lucilio Balbo (institutos) pero princi­
+palmente de (instructus autem m áxim e) de Aquilio Galo (Pomponio, D. 1.2.2.43),
+fue Servio Sulpicio Rufo (ca. 105-43 a.C.), el jurista republicano más importante de
+la generación siguiente a Mucio. Pretor el año 65 a.C. y cónsul el 51 a.C., su buen
+amigo Cicerón, con quien estudió oratoria en la escuela de Molón de Rodas (Cice­
+rón, Brutas 41.151), lo tiene — opinión que debe tomarse con muchas reservas por
+lo dicho hasta ahora— por auténtico fundador de la dialéctica jurídica {Brutas
+42.153). Dedicado al Derecho ya a edad tardía, a causa de la fuerte reprensión de
+Quinto Mucio precisamente por ignorar el Derecho (D. 1.2.2.43: -et ita obiurgatum
+esse a Quinto M ucio), dejó sin embargo muchos discípulos (Pomponio, D. 1.2.2.44:
+«ab h oc plurim i profecerunt»), cuyas obras fueron ordenadas por Aufidio Namusa
+en ciento cuarenta libros. Junto a éste, Pomponio menciona a nueve auditores Ser­
+vir. Alieno Varo, Aulo Ofilio, Tito Cesio, Aufidio Tuca, Flavio Prisco, Cayo Ateyo,
+Pacuvio Antistio Labeón (padre de Marcos Antistio Labeón), Cayo Cinna y Publicio
+Gelio. De éstos Alieno Varo, cónsul suffectus el año 39 a.C., y Aulo Ofilio, amigo
+de César (fam iliarissim us Caesarí) y maestro de Tuberón el Joven, fueron los que
+contaron con mayor autoridad (plurimum auctoritatis), en opinión de Pomponio
+(D. 1.2.2.44).
+Entre los ciento ochenta libros que dejó escritos Servio (Pomponio,
+D. 1.2.2.43), se halla un breve comentario al edicto del pretor, que dedicó a Bruto
+(Pomponio, D. 1.2.2.44: *Servias dúos libros a d Brutum perqu am brevissimos a d
+edictum subscriptos reliquia). Desgraciadamente, no se nos ha conservado ningún
+fragmento de él. En efecto, fue el edicto de los magistrados, muy particularmente
+el del pretor — M asterpiece o f R epublican Jurisprudence» (F. Schulz, History o f
+R om án Legal Science, 2.a ed., Oxford, 1953, pág. 127)— , sin duda, el instrumento
+que permitió a la jurisprudencia republicana compatibilizar la deseada innovación
+con un exquisito respeto a la tradición del ius civile. Elaborado cada año, con la
+ayuda de los juristas, por el pretor correspondiente a partir de los edictos anterio­
+res, servía esta lex an n u a — así la denomina Cicerón (II In Verrem 1.42.109)— para
+completar y, en su caso, rectificar, el ius civile. Fue precisamente el año 67 a.C.
+—es decir, dos años antes de la pretura de Servio Sulpicio Rufo— cuando se pro­
+mulgó la Lex Cornelia d e edictis praetorum o d e iurisdictione. Este plebiscito obli­
+gó a los pretores — lo que no había sucedido hasta ese momento— a quedar jurí­
+dicamente vinculados por sus propios edictos: «utpraetores ex edictis suis perpetuis
+ius dicerent» (Asconio, Pro C om elio d e m aiestate 52; cfr. también Dion Casio,
+379
+
+
+
+36.40.1). Con esta personal vinculación magistradual el edicto pasó a tener una
+importancia mayor y a constituir la principal fuente jurídica de potestad, pues las
+leyes públicas que trataron cuestiones jurídicas fueron muy pocas. A su vez, cum­
+plió una función principalísima en la consolidación del proceso civil p e r form ulas,
+que permitió un desarrollo cabal de la jurisprudencia.
+
+m.
+
+EL APOGEO DE LA JURISPRUDENCIA ROMANA
+
+El máximo esplendor de la jurisprudencia romana coincidió con el «Princi­
+pado» instaurado por Octavio (63 a.C.-l4 d.C.), el año 27 a.C., cuatro años después
+de la victoria en Actium contra Marco Antonio (ca. 83-31 a.C.), y se prolongó hasta
+el final de la dinastía severiana, el 235 d.C. Como simbólico del fin de la jurispru­
+dencia clásica se puede destacar el asesinato del último gran jurista clásico, Domicio Ulpiano, quizá el año 223, a consecuencia de una conjuración de la guardia pretoriana que no pudo ser controlada por el emperador Alejandro Severo (222-235).
+Octavio, sin pretender como César instaurar una monarquía helenística
+(pero sin olvidarse completamente de ella), restauró la vieja república romana, otor­
+gando poderes al Senado y al Pueblo (conforme a la tradicional fórmula republi­
+cana Senatus Populusque Romanas') y encubriendo su personal potestad en su au ctoritas Principis Ésta lo consagraba como guía, protector de la república y como
+«Augusto» que daba plenitud al augurium augustum de la fundación de Roma.
+La instauración del Principado, al desvirtuar a radice la fórmula SPQR, no
+dejó de afectar también a las fuentes de producción del Derecho. En efecto, sabe­
+mos por Pomponio (D. 1.2.2.49) que, para que el Derecho tuviera una mayor auto­
+ridad («ut m aior inris auctoritas haberetun), Augusto dispuso que los juristas pudie­
+ran responder ex auctoritate Principis siempre y cuando así les fuere concedido
+(pro beneficio). Es posible que, en contra de lo que se ha dicho, Augusto preten­
+diera con esta medida menos el control de la misma jurisprudencia que la selecti­
+va protección con su auctoritas de unos cuantos juristas insignes a los que poder
+involucrar en la causa del Principado. En época augusta, sin embargo, no llegó a
+funcionar organizadamente este beneficio imperial sino que hubo que esperar a
+Tiberio (42 a.C.-37 d.C.), que concedió el ius respondendi por vez primera al juris­
+ta Masurio Sabino (D. 1.2.2.48 y 50), que dio nombre a una de las más importan­
+tes escuelas jurídicas.
+En efecto, a comienzos del Principado, surgieron dos corrientes jurispru­
+denciales, llamadas escuelas o sectae (Pomponio, D. 1.2.2.47), formadas, una, por
+380
+
+
+
+«múdanos» (partidarios de las doctrinas de Quinto Mucio Escévola), y, otra, por «ser­
+víanos» (que sintonizaban más con las de Servio Sulpicio Rufo). La primera fue
+denominada «Sabiniana» — en honor a Masurio Sabino— o «Casiana» — por Casio
+Longino— y la segunda, «Serviana» o «Proculeyana» —por Próculo— .
+Pomponio (D. 1.2.2.47) atribuye el nacimiento de ambas escuelas a la riva­
+lidad entre Ateyo Capitón — discípulo de Ofilio— que gozó del favor del príncipe,
+y Antistio Labeón — discípulo de Trebacio Testa— fiel defensor de las ideas repu­
+blicanas. Tácito nos cuenta (Armales 3-75), a propósito de la muerte de Capitón
+(t 22 d.C.), que el servilismo y la sumisión de éste lo aproximaba a los gobernan­
+tes (Capitonis obsequium dom inantibus m agis probabatu r) y le permitió alcanzar
+el consulado, como suffectus, el 5 d.C. Labeón, en cambio, brillaba por su espíritu
+de libertad incorruptible, lo que le hizo más famoso (sed Labeo, incorrupta libertate et ob id fa m a celebratior), a pesar de haber rechazado la más alta magistratura,
+como su maestro Trebacio Testa y Aulo Cascelio. Capitón calificaba esta libertad de
+espíritu labeoniana como nimia e insensata (nim ia atque vecors), pues le impedía
+tener en consideración aquellas nuevas disposiciones de Augusto, Príncipe y domi­
+nador de la república (iam principe et rem pu blicam obtinente), por no haber sido
+sancionadas conforme a los más auténticos usos republicanos (Aulo Gelio, Noctes
+Atticae 13.12.2).
+Plinio el Joven refiere, sin embargo, que el verdadero fundador de la
+Escuela Casiana no fue Capitón — de hecho no se llamó nunca «Escuela Capitoniana»— sino el propio Casio Longino (Epistulae7.24.8:«... qui C assian aesch olaep rin ­
+ceps etp a ren s fu it»), discípulo de Masurio Sabino (Paulo, D. 4.8.19.2), A ella perte­
+necieron juristas como Celio Sabino, Javoleno Prisco, Aburnio Valente, Tusciano, el
+gran Salvio Juliano o Gayo, famoso por sus Instituciones. También pertenecieron
+insignes juristas a la Escuela Proculiana, como Nerva padre, que sucedió a Labeón
+en la dirección de la Escuela (Pomponio, D. 1.2.2.48), el mismo Próculo, discípulo
+de Nerva padre, Nerva hijo, Pegaso — contemporáneo y rival del sabiniano Celio
+Sabino— los Celso (padre e hijo) o Neracio Prisco.
+Si bien entre ambas escuelas debieron de existir ciertas dissenssiones — de
+las que trata especialmente Gayo, más afín a los sabinianos, en sus Instituciones
+(2.79, a propósito de la especificación; 2.123, de la preterición; 2.193-195 y 200, del
+legado vindicatorio; 2.216-217 y 221, del prelegado; 3.140-141, del precio de la
+compraventa; 3-168, de la datio in solutum), pero también Pomponio (D. 30.26.2,
+en tema de legado de partición)— , lo cierto es que la pertenencia a una u otra era
+más una cuestión de sintonía personal con el maestro que de opción por una meto­
+dología o ideología. Así, en dos juristas contemporáneos y pertenecientes a la
+381
+
+
+
+Escuela Proculiana, como son Celso hijo y Neracio Prisco, hallamos talantes com­
+pletamente diferentes: el del primero, práctico e innovador, y el del segundo, más
+teórico y conservador (cfr. Á. d’Ors, D erecho privado rom ano, 9.a ed., Pamplona,
+1997, § 44).
+La rivalidad entre ambas escuelas se superó en época del emperador
+Adriano, pues, a partir de entonces, fue el nuevo por tecnificado consilium Principis, y no las escuelas, el que marcó la pauta en la elaboración y reflexión jurídica,
+y muy particularmente el jurista Salvio Juliano, discípulo de Javoleno Prisco y qui­
+zá último corifeo de los sabinianos, con quien se cierra el citado enchiridion de
+Pomponio (D. 1.2.2.53). El emperador Adriano encargó a este doctísimo jurista, de
+estilo claro y sencillo, una redacción definitiva del edicto d e iurisdictione, que fue
+aprobada por senadoconsulto (cfr. Constitución Tanta § 18: «et divus H adrian u s in
+com positione edicti et senatus consulto, qu od eam secutum es/...»). A partir de ese
+momento, el edicto, principal fuente de potestad en la producción del Derecho,
+capaz de armonizar el ius civile con el llamado ius honorarium , pasó a ser un libro
+de autoridad. La nueva fuente del Derecho impulsada, a cambio, por Adriano, fue­
+ron los rescriptos, emanados de su propia cancillería imperial. En efecto, eran aque­
+llos las respuestas de ésta, siguiendo la tradición plurisecular de los responsa, a las
+consultas elevadas al Príncipe, a través de la secretaría imperial a libellis, suscritas
+en las propias instancias presentadas por los peticionarios. Los rescriptos fueron la
+fuente viva del ius hasta incluido Diocleciano (284-305 d.C.), especialmente en pro­
+vincias, y junto a los discursos imperiales ante un senado deseoso de aclamar la
+voluntad del Príncipe (orationes Principis), configuraron el llamado ius novum.
+Contemporáneo de Juliano fue Celso, cónsul por segunda vez el año 129
+d.C. (Ulpiano, D. 5.3.20.6). De estilo sobrio y elegante, a él debemos la menciona­
+da definición del Derecho como ars bon i et aequ i (Celso-Ulpiano, D. l.l.lp r.), así
+como las todavía hoy famosas reglas de interpretación de las leyes, extraídas de sus
+digesta, de que conocer las leyes no es sólo entender sus palabras sino su sentido
+y su finalidad — -scire leges non hoc est verba earum tenere, sed vim a c potestatem »
+(D. 1.3.17)— y que éstas han de interpretarse en el sentido más benigno: benignius leges interpretandae sunt, quo voluntas earu m conservetun (D. 1.3.18).
+El estilo casuístico de esta época continúa con Sexto Cecilio Africano. De
+origen africano, como señala su cognomen, igual que su maestro Salvio Juliano,
+cuyo pensamiento difundió profusamente, dejó escritos, entre otros, nueve libros
+de quaestiones, que fueron muy aprovechados por los compiladores justinianeos.
+Algo más joven que Juliano y contemporáneo de Africano, fue Sexto Pomponio,
+célebre por su citado enchiridion, quien dejó escrita una vasta obra — más de 300
+obras— , de la que se nos han conservado 86l fragmentos.
+382
+
+
+
+Mención especial merece Gayo. Sólo conocido por el praen om en y nun­
+ca citado por los juristas clásicos, se ha pretendido desacertadamente identificarlo
+con Gayo Casio Longino. Simpatizante de la escuela sabiniana (Instituciones 1.196;
+2.195; 4.79: «Sabinus et Cassius ceterique nostrae scholae ductores»), su nombre fue
+prestigiado en época posclásica por ser uno de los cinco juristas mencionados en
+la famosa Ley de Citas (vid infra) y por el especial afecto que le profesa Justiniano,
+que lo llama en dos ocasiones Gaius noster (constitución Omnem 6; Inst. 4.18.5).
+Tenido por un «pre-posclásico» (Á. d’Ors, D erecho privado rom ano, 9.a ed., Pam­
+plona, 1997, § 52) — pues anticipa en parte la época posclásica— , sus «Institucio­
+nes» constituyen una de las obras jurídicas más influyentes de todos los tiempos por
+dos razones, a saber: en primer lugar, porque, al haber sido halladas, en 1816, en
+el palimpsesto de Verona, no presentan las alteraciones de otros textos jurispru­
+denciales seleccionados en el Digesto, por lo que nos ofrecen una información
+incomparable sobre el Derecho romano clásico, especialmente en tema de proce­
+dimiento, que se remonta incluso a época arcaica. En segundo lugar, porque al
+estar basadas las Instituciones de Justiniano en las de Gayo, comenzando por la dis­
+tinción sistemática entre personas, cosas y acciones, así como la clasificación de las
+fuentes de las obligaciones, el sistema gayano ha tenido una influencia definitiva
+en el Derecho europeo a través de la recepción del Derecho justinianeo.
+Contemporáneo de Gayo, Pomponio y Africano fue, entre otros, P. Pactumeyo Clemente, cónsul suffectus en 138 d.C. y miembro del consilium de Antonino Pío. Sabemos por Capitolino {Vita Pii 12.1) que formaban parte de este conse­
+jo Vindio Vero, Salvio Valente, Volusio Meciano y Ulpio Marcelo. Este último, algo
+mayor en edad, perteneció también al consilium de Marco Aurelio (Marcelo,
+D. 28.4.3) y dejó escritos, entre otras obras, treinta y un libros de digestos (P alin ­
+genesia I, col. 589-632), de los que se nos han conservado 267 fragmentos.
+Consejero directísimo de Marco Aurelio (Flavio Vopisco Siracusano, Vita
+M arci 11.10: «usus autem est Scaevola p raecipu e iuris perito») y agudo jurista fue
+Cervidio Escévola, maestro de Julio Paulo y de Claudio Trifonino, que lo llamaron
+Scaevola noster (Paulo, D. 3.5.18U91-1 y Trifonino, D. 20.5.12.1; D. 49.17.19pr.).
+Estos dos discípulos pertenecen a la última generación de juristas clásicos, ya en
+época severiana, en la que la jurisprudencia perdió la frescura y la creatividad de
+los dos siglos anteriores. Con todo, será en esta etapa epigonal cuando florecerán
+las doctrinas del jurista romano más famoso de todos: Emilio Papiniano, amigo per­
+sonal del emperador Septimio Severo (Esparciano, Vita C aracallae 8.2), del que
+llegó a ser su praefectus praetorio. Su aguda y profunda inteligencia, su fina sensi­
+bilidad ética (Papiniano, D. 28.7.15: m am q u ae f a c í a laedu ntpietatem existimationem verecundiam nostram et, ut generaliter dixerim, contra bonos mores fiunt, nec
+383
+
+
+
+fa c e r é nos posse credendum est»), su estilo oscuro, sobrio y arcaizante, unido a su
+honestidad — que le costó la vida por no haber consentido en el fraticidio de Geta
+por Caracala (Esparciano, Vita C aracallae 8: «non tam fa c ile parricidiu m excu san
+posse qu am f ie n »)— lo situaron durante siglos en la cumbre de la jurisprudencia
+romana. El emperador Justiniano (CJ. 6.42.30, del 529) lo califica como «acutissimi
+ingenii vir et mérito an te alios excellens».
+Asesores de Papiniano, en su época de prefecto pretorio, fueron Paulo y
+Ulpiano. Aunque sea éste más conocido (casi un tercio del Digesto está tomado de
+sus obras), la lectura contrastada, por ejemplo, de sendos comentarios a d edictum
+nos hace pensar en la superioridad de aquél, más original y profundo. La confian­
+za que tenía en su propio criterio jurídico le llevó a desautorizar la opinión de su
+jefe Papiniano — que no admitió excusa finalizado el cargo (officio fin ito excusationem recipi non oportere)— por considerarla injusta: «sed m ihi h oc n equ áqu am
+placet: iniquum enim est...» (Paulo, D. 23.2.60.4).
+Jurista que hace de puente entre lo clásico y lo posclásico fue Herennio
+Modestino. En su monografía de excusationibus, califica a Cervidio Escévola, Pau­
+lo y a su maestro Ulpiano como «príncipes de los juristas» (D. 27.1.13.2) dando así
+por culminado el período de máxima creatividad jurisprudencial. Todavía es men­
+cionado en un rescripto del emperador Gordiano III (CJ. 3-42.5), del 10 de febrero
+de 239, como jurista de no desdeñable autoridad f a non contem n en dae auctoritatis iuris consulto Modestino responsum est»), pero su dogmática tendencia sistemati­
+zadora y su profunda helenización (escribió parte de sus obras en griego) lo dela­
+tan ya como un posclásico.
+
+IV.
+
+LA LITERATURA JURÍDICA CLÁSICA
+
+La jurisprudencia clásica logró altas cotas de perfección doctrinal y creati­
+vidad, pero no una ordenación sistemática precisa. La pasión magisterial de los
+juristas —Labeón dedicaba seis meses a la enseñanza en Roma (Pomponio,
+D. 1.2.2.47)— dejó una literatura jurídica fecunda y variada, que se concreta en
+extensos comentarios a leyes, senadoconsultos, edictos, obras de casuismo jurídi­
+co, colecciones de fórmulas, monografías y otras obras de literatura isagógica, así
+como libros de reglas, definiciones, sentencias y opiniones.
+Gran parte de esta literatura nos resulta fácilmente accesible gracias al
+esfuerzo de Otto Lenel por reordenar por autores en su Palingenesia Iuris Civilis
+(2 vols., Leipzig, 1889, reimpr. con un suplemento de L. Sierl, Graz, 1960, reimpr.
+384
+
+
+
+Aalen 2000) los fragmentos jurisprudenciales que conocemos principalmente por el
+Digesto de Justiniano.
+Entre los libros de comentarios, se pueden destacar los relativos a d edic­
+tum praetorum , a d edictum aedilium curulium y al enigmático edictum provin cia­
+le. Junto a los ya mencionados de Servio Sulpicio Rufo CPalingenesia II, cois. 322 s.)
+y Ofilio (Palingenesia I, cois. 795 ss.), comentaron el edicto, entre otros, Labeón
+(Ad edictum praetoris peregrini, Palingenesia I, col. 501, y Ad edictum praetoris
+urbani, Palingenesia I, col. 502), Masurio Sabino (Ad edictum praetoris urbani,
+Palingenesia II, col. 187); Pomponio (Palingenesia II, cois. 15 ss.), Gayo (Ad edic­
+tum praetoris urbani, Palingenesia I, cois. 182 ss.; A d edictum provin ciale libri
+XXXII, Palingenesia I, cois. 189 ss.), Paulo (Ad edictum libri IXXX, Palingenesia I,
+cois. 966 ss.), Ulpiano (Ad edictum libri LXXXIII, Palingenesia II, cois. 421 ss.) y
+Calístrato (Ad edictum monitorium libri VI, Palingenesia I, cois. 94 ss.). A través de
+los comentarios edictales, especialmente los de Ulpiano, Paulo y Gayo (a d edictum
+provinciale), así como los digesta de Juliano, ajustados al orden edictal, se han ela­
+borado distintas reconstrucciones del Edicto Perpetuo de Juliano, que no se nos ha
+conservado. La más genial fue la de Adolf Friedrich Rudorff (Leipzig, 1896; reimpr.
+Pamplona, 1997); la más completa, aunque todavía lejos de ser definitiva, la de Otto
+Lenel (3.a ed. Leipzig, 1927; reimpr., Aalen, 1985).
+Fueron también, como he dicho, objeto de comentario algunas leyes y
+senadoconsultos: por ejemplo, la Ley de las XII Tablas, de la que se ocuparon La­
+beón (Ad duodecim Tabulas, Palingenesia I, col. 501) y Gayo (Ad legem duodecim
+Tabularum libri VI, Palingenesia I, cois. 242 ss.). Este enigmático jurista escribió
+también un comentario A d legem Iuliam et Papiam libri XV (Palingenesia I,
+cois. 246 ss.), un líber singularis a d senatus consultum Tertullianum (Palingene­
+sia I, col. 26l), de época de Adriano, y otro a d senatus consultum Otfitianum
+(Palingenesia I, col. 261), del 178 d.C. Paulo, por su parte, redactó un comentario
+Ad legem Cinciam, del 204 a.C. (Palingenesia I, col. 1121), otro Ad legem Falcidiam , del 40 a.C. (Palingenesia I, cois. 1121 ss.), y otro a la ley Aelia Sentía sobre
+manumisiones, del 4 d.C. (Palingenesia I, col. 1120 ss.), etc.
+Los comentarios a obras jurídicas precedentes elaboradas por juristas de
+gran auctoritas fueron, en general, muy apreciados por cuanto armonizaban un
+exquisito respeto a la tradición con 4e esigenze di adeguam ento d ei p rin cip i antich i a i novi tempi ed alia nuove visualú (A. Guarino, Storia del Diritto rom ano,
+12.a ed., Nápoles, 1998, § 218). Así los ya mencionados comentarios a la obra de
+Quinto Mucio Escévola, el Pontífice; los comentarios a los tres libri iuris civilis de
+Masurio Sabino elaborados, entre otros, por Pomponio (A dSabinum libri XXXVI [?],
+385
+
+
+
+Palingenesia II, cois. 86 ss.), Paulo (Ad Masurium Sabinum libri XVI, P alingene­
+sia I, cois. 1251 ss.) y Ulpiano (Ad Masurium Sabinum libri II, Palingenesia II,
+cois. 1019 ss.); los comentarios de Javoleno a la obra de Casio (Ex Cassio libri XV.,
+Palingenesia I, cois. 277 ss.) o los de Paulo a la de Neracio Prisco (Ad Neratium
+libri IV, P alingenesia I, cois. 1140 ss.).
+A este mismo género de los comentarios pertenecen las n otae que distin­
+tos juristas escribieron, especialmente en los siglos n y m, a importantes obras jurí­
+dicas anteriores. Así, por ejemplo, sabemos que Cervidio Escévola escribió unas
+Notae a d lu lian i Digesta (Escévola, D. 2.14.54; D. 18.6.11) y otras a los Digesta de
+Marcelo (Ulpiano, D. 23.3.12.1; Ulpiano, D. 24.1.11.6, Fragmentos Vaticanos 82); y
+que, a su vez, los digestos y los libri responsorum de este jurista fueron «anotados»
+por el jurista de origen griego Claudio Trifonino. En muchos casos, las anotaciones
+servían para expresar opiniones contrarias. Así, por ejemplo, Ulpiano, en el libro
+quinto de su comentario edictal, recogido en D. 5.1.16, refiere la censura de cier­
+tos juristas en sus anotaciones hacia la opinión de Juliano, de que se puede enta­
+blar acción contra el heredero del juez que prevaricó: «quae sententia vera non est
+et a multis notata est».
+La obra casuística fue realizada tantas veces por los propios discípulos de
+los grandes juristas, que, en ocasiones, no eran sino libros de responsa ordenados
+conforme al «desordenado» orden edictal — así ironizaba Mommsen (Gesamm elte
+Schriften I, Berlín 1904, pág. 164: «diese Ordnung oder Unordnung ist d ie d esju lianischen Edicts»)— ; otras veces se trataba de libros que recogían quaestiones o disputationes, es decir, casos imaginarios para el aprendizaje de los auditores. Estos
+libros llamados problemáticos son abundantísimos. A modo de ejemplo, se pueden
+mencionar algunos de los que conservamos más fragmentos, como las menciona­
+das Quaestiones de Africano (Palingenesia I, cois. 2 ss.), los XX libros de Q uaes­
+tiones de Cervidio Escévola (Palingenesia II, cois. 271 ss.) así como sus seis libros
+de responsa (Palingenesia II, cois. 287 ss.); los XXXVIII libros de Q uaestiones de
+Papiniano (Palingenesia I, cois. 813 ss.), los XIX Responsorum libri de Papiniano
+(Palingenesia I, cois. 881 ss.); las Quaestiones de Paulo, en XXVI libros (Palinge­
+nesia I, cois. 1181 ss.), así como sus XXIII Responsorum libri (Palingenesia I,
+cois. 1223 ss.). A este género casuístico pertenecían también los llamados «digestos»
+(materias ordenadas), que, siguiendo el esquema edictal, combinaban responsa y
+quaestiones con comentarios tanto de Derecho civil como de Derecho penal, mili­
+tar, etc. Escribieron digesta, entre otros, Alieno (Digestorum libri XL, Palingenesia I,
+col. 37), Celso (Digestorum libri XXXIX, Palingenesia I, cois. 127 ss.), Marcelo
+(Digestorum libri XXXI, Palingenesia I, cois. 589 ss.) y Cervidio Escévola (Digesto­
+rum libri XL, Palingenesia I, col. 215 ss.). Pero quizá los más importantes fueron los
+386
+
+
+
+digestos de Salvio Juliano ([Digestorum libri XC, Palingenesia I, cois. 318 ss.), con­
+siderados como una de las obras más importantes de la literatura jurídica romana.
+Fue también abundante la literatura isagógica. En efecto, a partir de Adria­
+no se hicieron necesarias obras elementales para la formación de los nuevos fun­
+cionarios. Entre ellas, se pueden destacar las ya mencionadas Instituciones de Gayo
+y las de Florentino (citadas todavía tres siglos después en los Scholia Sinaitica
+13-35, Fontes Inris R om ani Anteiustiniani, en adelante FIRA, II. Auctores, 2.a ed.,
+Florencia, 1964, pág. 647), ambas del siglo n, así como las posteriores, ya en el
+siglo iii, de Calístrato, jurista probablemente de origen griego, y Elio Marciano, qui­
+zá funcionario de la cancillería imperial en época de Caracala y Alejandro Severo.
+Una finalidad cercana a la isagógica de las Instituciones cumplieron tam­
+bién los libros de principios abstractos, es decir, de regulae o definiciones (siem­
+pre «peligrosas» en Derecho civil; Javoleno, D. 50.17.202), los de sententiae (colec­
+ciones de disposiciones jurídicas en forma de máxima), opiniones y differentiae
+(conforme al método helenístico de contraposición de conceptos análogos). A
+modo de ejemplo, se pueden mencionar los Regularum libri XV, de Neracio Pris­
+co (Palingenesia I, cois. 774 ss.), el líber singularis Regularum, de Pomponio
+(P alingenesia II, cois. 85 s.), el líber singularis regularum (Palingenesia I, col. 251)
+y los tres libros de reglas de Gayo (Palingenesia I, col. 251), los dos libros de defi­
+niciones de Papiniano (Palingenesia I, cois. 809 ss.), los seis libros de opiniones de
+Ulpiano (Palingenesia II, cois. 1001 ss.), o los nueve libros de differentiae de
+Modestino, a caballo, como se ha dicho, con la época posclásica (Palingenesia I,
+cois. 701 ss.), así como su De differentia dotis líber singularis (Palingenesia I,
+col. 701), del que sólo conservamos un fragmento en el Digesto (D. 23-3.13).
+Como último tipo de literatura clásica se pueden mencionar las monogra­
+fías y los libros de instrucción para algunas magistraturas. Las monografías com­
+prendían los temas más variados sobre personas (De m anum issionibus libri III, de
+Gayo, P alingenesia I, col. 250 s.; D e iure patronatus líber singularis, de Paulo,
+Palingenesia I, col. 1118); herencia (Aburnio Valente, D e fideicom m issis libri VII,
+Palingenesia II, cois. 1202 ss.; Paulo, Ad regulam C atonianam líber singularis,
+Palingenesia I, col. 1221); obligaciones (Gayo, D e verborum obligationibus libri III,
+Palingenesia I, cois. 26l ss.; Venuleyo, D e stipulationibus libriXIX, Palingenesia II,
+cois. 1218 ss.), procedimiento (Venuleyo, D e interdictis libri VI, Palingenesia II,
+cois. 1210 ss.; Calístrato, D e cognitionibus libri VI, Palingenesia I, cois. 81 ss.),
+Derecho criminal (Macro, D e iudiciispu blicis libri II, Palingenesia I, cois. 565 ss.;
+Paulo, De p oen is pagan oru m líber singularis, Palingenesia I, col. 1178), fiscal
+(Calístrato, D e iure fisc i et popu li libri IV, Palingenesia I, cois. 97 ss.); o militar
+387
+
+
+
+(Libros d e re m ilitan escribieron Tarrutenio Paterno, Palingenesia II, cois. 335 ss.;
+Arrio Menandro, Palingenesia I, cois. 695 ss. y Emilio Macro, Palingenesia I,
+cois. 573 s.).
+• Los libros de instrucción a los magistrados fueron escritos en época severiana, con un fin próximo ya al de las constituciones imperiales que recogen. A
+modo de ejemplo, se pueden mencionar los libros de Paulo, De officio adsessorum
+(Palingenesia I, col. 1143), D e officio praefecti urbis (Palingenesia I, col. 1143), De
+officio p raefecti vigilum CPalingenesia I, col. 1144), De officio praetoris tutelaris
+(Palingenesia I, col. 1145); D e officioproconsulis (Palingenesia I, col. 1145).
+
+V.
+
+LA JURISPRUDENCIA POSCLÁSICA
+
+El último período de la jurisprudencia romana —llamado posclásico—
+comprende desde el final de la dinastía de los Severo y comienzo de la anarquía
+militar (235 d.C.) hasta la compilación de Justiniano, en torno al 530. A nuestros
+efectos, ni la división del imperio de Oriente y Occidente consumada definitiva­
+mente tras la muerte del emperador Teodosio I, en el año 395, ni la caída de Roma
+el año 476 en manos de Odoacro, rey de los Hérulos, alteraron la esencia de la
+ciencia jurídica posclásica, marcada por 4he complete victory o f bu reaucracy»
+(F. Schulz, History o f R om án Legal Science, 2.a ed., Oxford, 1953, pág. 263). Esta
+burocratización, sinónimo a todas luces de decadencia jurídica, sí que produjo una
+profunda transformación de la ciencia jurídica, en términos equiparables a la recien­
+te ocasionada por el positivismo legalista como culminación del Estado de Dere­
+cho. En efecto, los ya lejanos independientes juristas republicanos que pronuncia­
+ban sus tan sencillos y solemnes responso en servicio de jueces, magistrados y
+particulares, y que, con el tiempo, pasaron a constituir el consilium Principis de un
+Adriano, un Marco Aurelio o de los mismos Severo, se convirtieron en simples fun­
+cionarios a las órdenes de emperadores soldados muy poco interesados por las
+cuestiones jurídicas, consideradas un límite de su potestad imperial. Por lo demás,
+a partir del emperador Constantino (306-337 d.C.) desaparecieron los rescriptos
+como fuente del Derecho por lo que la ley imperial se erigió en única fuente del
+Derecho.
+Representantes de esta época posclásica son Hermogeniano y Arcadio
+Carisio. Al primero se atribuye una colección de rescriptos de los años 293 y 294,
+en un solo libro, continuadora de otra anterior de un tal Gregorio o Gregoriano
+(C odex Gregorianas'), que compiló los rescriptos desde Adriano al 292, ya pertene­
+cientes a Diocleciano. Escribió también Hermogeniano un epítome en seis libros
+388
+
+
+
+(cfr. D. Liebs, H erm ogenians Iuris Epitomae, Gotinga, 1964). Aurelio Arcadio Can­
+sío, en el siglo iv, escribió tres libros: sobre los testigos, las cargas civiles y sobre
+el prefecto pretorio.
+La tendencia pragmática a la epitomación, que es junto al descuido de la
+forma y de las categorías conceptuales una clara manifestación del vulgarismo
+caracterizante de esta época (cfr. Á. d’Ors, D erecho privado rom ano, 9.a ed., Pam­
+plona, 1997, § 57), se concretó en obras como las llamadas Sentencias d e Paulo,
+atribuidas a este virprudentissim us (así lo denomina Gordiano III en un rescripto
+a Valeria, del 239, recogido en CJ. 5.4.3), el Líber singularis regularum, Tituli ex
+corpore Ulpiani o Epitome Ulpiani {FIRA, II, págs. 259 y sigs.), atribuido a Ulpiano.
+De distinta naturaleza, por fundir jurisprudencia y constituciones imperiales, aun­
+que también formadas por estratos, son la M osaicarum etR om an aru m legum Colla­
+d o {FIRA, II, págs. 541 y sigs.) denominada Lex Dei, de época diocleciana, pero
+reelaborada en el siglo iv, que concatena textos romanos y mosaicos, y los Frag­
+m enta Vaticana {FIRA, II, págs. 46l y sigs.), compilación también occidental, del
+siglo iv o primer tercio del siglo v, para uso de los juristas, descubierta por el Car­
+denal Mai, en 1821, en un palimpsesto de la Biblioteca Vaticana del siglo viii {codex
+Vat. 5766). Posteriores son el Libro siro-romano, del siglo v (ed. G. Bruns y
+E. Sachau, Leipzig, 1880 reimpr., Aalen, 1961; trad. latina de C. Ferrini, FIRA, II,
+págs. 751 y sigs.), conocido a través de algunas versiones posteriores en sirio, ára­
+be y armenio (a este mismo entorno cultural pertenecen las 102 Sententiae Syriacae, del siglo viii, editadas por Walter Selb, en 1990), y la llamada Consultado veteris cuiusdam iurisconsulti {FIRA, II, págs. 591 y sigs.) quizá compilada en el Sur de
+las Galias a finales del siglo v o comienzos del vi.
+Como en todo período de decadencia por falta de creatividad, comenzó a
+ser frecuente, al término de la época clásica, la presentación en juicio de rescriptos
+falsos. De ello tenemos noticia por un rescripto del emperador Alejandro Severo,
+del 227, a Máximo (CJ. 9.22.3.14]), pidiéndole mayor dureza en el castigo de los que
+se sirven de falsificaciones: m aiorem severitatem exigit, ut m erita eorum qu i falsis
+rescriptionibus utuntur dign a p o e n a coercean tu r (cfr. también Modestino,
+D. 48.10.33 y PS. 1.12.1, sobre la lex Cornelia d e falsis'). Constantino, por constitu­
+ción imperial de 28 de septiembre de 321 (CTh. 1.4.1), a fin de acabar con la inter­
+minable controversia {perpetuasprudendum contendones eruere cupientes) sobre la
+autenticidad de las notas a Papiniano, que venían atribuyéndose a Paulo y Ulpia­
+no, ordenó que éstas fuesen destruidas. Pocos años después permitió que se pudie­
+ran citar en juicio todas las obras de Paulo (CTh. 1.4.2, del 3271?]: universa, q u ae
+scriptura Pauli, recepta auctoritate firm a n d a sunt et om ni veneratione celebrando).
+
+389
+
+
+
+Había transcurrido un siglo cuando el emperador de Occidente Valentiniano III promulgó una ley imperial el 7 de noviembre de 426 (CTh. 1.4.3) que
+redujo la posible consulta y utilización en juicio, tanto por jueces como por parti­
+culares, a las obras de Papiniano, Paulo, Gayo, Ulpiano y Modestino. En Oriente,
+sin embargo, esta medida se consideró excesiva, por lo que, cuando se incorporó
+esta ley al Código Teodosiano (del 438) —última compilación legal válida tanto
+para Oriente como Occidente— se reformó admitiendo la posibilidad de citar en
+juicio a aquellos juristas (prácticamente todos) que fueran a su vez mencionados
+por los cinco principales, siempre que se confirmase la autenticidad por el cotejo
+de códices (si tam en eorum libri propter antiquitatis incertum codicum collatione
+firm entur). La Ley de Citas perdió su vigencia con la promulgación de la edición
+del Código de Justiniano de 534 (todavía la mantuvo en el Codex de 529; cfr.
+P. Oxy, 1824, ed. Bernard Grenfell y Arthur Hunt, The Oxyrhynchus Papyri XV,
+Londres, 1922, pág. 220).
+
+VI.
+
+LA COMPILACIÓN DE JUSTINIANO
+
+La obra jurídica que más ha influido en la configuración de la cultura de
+Occidente es, sin duda, el denominado, a partir del siglo xvi, Corpus Inris Civilis,
+es decir, la compilación de leges y ius promulgada por el emperador Justiniano I
+en tomo al 530. Tanto es así, que este hito jurídico justifica por sí mismo la pro­
+longación de esta importante etapa de la ciencia jurídica hasta mediados del
+siglo vi, e incluso el inicio de la ciencia jurídica medieval con el redescubrimiento,
+en Pisa, el año 1050, de un manuscrito del Digesto justinianeo del siglo vi (la lla­
+mada littera Pisana, y en nuestros días, Florentina, por encontrarse en Florencia
+desde 1406).
+Ambicioso, vigoroso y con talento, tras unos meses de gobierno con su tío
+Justino I, el 1 de agosto de 527, Flavio Justiniano tomó las riendas en solitario del
+Imperio romano de Oriente. Fue deseo suyo recuperar la esplendorosa unidad polí­
+tica, religiosa y jurídica del Im perium Romanum. Para satisfacerlo, reconquistó par­
+te del Imperio de Occidente (el norte de África, Italia y una parte del sur de Espa­
+ña), construyó el templo mayor de la cristiandad en Constantinopla, como
+expresión de la unidad entre su Imperio y la Iglesia, y ordenó una compilación del
+ius Rom anorum .
+Esta impresionante obra jurídica, realizada en un tiempo, impensable para
+la época, inferior a los siete años (528 a 534 d.C.), fue posible gracias a la buena
+preparación clasicista de las dos más importantes escuelas jurídicas de Oriente
+390
+
+
+
+—la de Berito y la de Constantinopla— y muy particularmente a la genialidad del
+jurista Triboniano, reconocida expresamente por el propio Justiniano, entre otras
+ocasiones, en la Constitución Deo auctore, núm. 3 sobre la constitución del Diges­
+to, de 15 de diciembre de 530: «... a d tuae sinceritatis optimum respeximus ministerium...».
+La compilación está compuesta de tres partes: unas «Instituciones», en cua­
+tro libros, inspiradas principalmente en las de Gayo; un «Digesto», es decir «ordena­
+ción sistemática» de jurisprudencia clásica, también llamado, en griego,«Pandectas»,
+y un C odex de legislación imperial, en doce libros, llamado Codex Iustinianus. A
+estas tres partes se agregaron ciento sesenta y ocho Novelas (nuevas leyes poste­
+riores de Justiniano), redactadas casi todas ellas en griego, confirmando así la anti­
+gua profecía, del siglo m o iv, referida por el autor bizantino Juan Lido, D e magistratibus 2.12 (ed. E. Bekker, págs. 177 y sigs.), de que la ruina del Imperio romano
+vendría por el desplazamiento del latín por el griego.
+Aunque éste sea el orden de edición, lo cierto es que en primer lugar se
+publicó el Código. Entre la constitución justinianea que ordenaba su elaboración
+—H aec q u a e necessario, de 13 de enero de 528— y la constitución Sum m ae rei
+p u b licae de promulgación, de 7 de abril de 529, no habían transcurrido apenas
+quince meses. La comisión compiladora estuvo compuesta por los funcionarios
+Juan de Capadocia, que actuó de presidente, Leoncio, Focas, Basilides, Tomás, Tri­
+boniano, Constantino; Teófilo, profesor de Derecho de Constantinopla, y los abo­
+gados Dióscoro y Presentino (H aec q u a e necessario 1). Con todo, la fecunda acti­
+vidad legislativa de Justiniano impuso la necesidad de elaborar una segunda
+edición del Codex (codex repetitae praelectionis), promulgado el 16 de noviembre
+de 534 y en vigor desde el 29 de diciembre (cfr. Constitución Cordi 4).
+Los cuatro libros de las Instituciones («Instituía» en la tradición española)
+— divididas en personas, cosas y acciones como las gayanas— fueron elaborados
+por Triboniano, Teófilo y Doroteo, y se publicaron por la constitución Im peratoriam, de 21 de noviembre de 533. Tras su entrada en vigor se convirtieron en el
+texto básico del primer curso de Derecho (Constitución Omnem 2) a fin de que «la
+inteligencia ruda del estudioso, alimentada con estas primeras nociones, pueda lle­
+gar con mayor facilidad al estudio de la jurisprudencia más elevada» (Constitución
+D eo au ctore 11: «ut rudis anim us studiosi simplicibus enutritus fa ciliu s a d altioris
+p ru den tiae redigatur scientiam»').
+Mayor interés tiene el Digesto (o Digestos), que recoge una antología juris­
+prudencial por materias, especialmente pertenecientes a los juristas clásicos tar391
+
+
+
+dios, conforme al orden del Edicto perpetuo combinado con el del Código. Esta
+parte central de la obra justinianea fue encomendada a Triboniano, en esos
+momentos quaestor sa etí palatii, en virtud de la Constitución D eo auctore, de 15
+de diciembre de 530, sobre la concepción del Digesto. En ella, el Emperador le
+ordenó que, en cincuenta libros, a modo de fortaleza Cquasi quodarn m uro vallaturri), recopilara todo el Derecho antiguo, acumulado durante cerca de mil qui­
+nientos años (D eo au ctore 5) eliminando antinomias (Deo au ctore 8) y repeticiones
+(Deo au ctore 9) — cosa que no se logró siempre— y alterando los textos mediante
+interpolaciones — que fueron multa et m axim a según afirma en la Constitución
+Tanta 10— para adecuarlos al Derecho entonces vigente. Triboniano gozó de una
+gran libertad en la elaboración de la comisión (Constitución D eo au ctore 3: «eí iussimus, qu osprobaveris ... a d sociandum laborem eligere»), compuesta por él y los
+siguientes miembros, a saber: Teófilo, profesor de Constantinopla, y su colega Cratino; los profesores de Berito Doroteo y Anatolio; Constantino, ministro y canciller,
+así como once abogados: Esteban, Mena, Prosdocio, Eutolmio, Timoteo, Leónidas,
+Leoncio, Platón, Jacobo, otro Constantino y Juan (Constitución Tanta 9 = D edoken 9). En contra de toda previsión, la obra fue realizada, gracias a las dotes orga­
+nizativas de Triboniano, con una enorme rapidez, aunque no hay que descartar la
+posibilidad de que se contara ya, antes de que la comisión iniciara su labor reco­
+piladora, con abundante material seleccionado. De los más de 9-000 fragmentos
+jurisprudenciales que contiene la compilación, extraídos de 1.625 libros, 6.000
+corresponden a los juristas mencionados en la Ley de Citas. Entre ellos destaca
+Ulpiano (más del 40 por 100), al que sigue Paulo (más del 15 por 100). Los frag­
+mentos de las obras de Papiniano superan el 5 por 100; rozan este porcentaje los
+extraídos de la obra de Quinto Cervidio Escévola. A Pomponio y Juliano corres­
+ponden más del 4 por 100, al que no llega — poco le queda— , Gayo.
+Documento de interés para el conocimiento de la literatura jurídica roma­
+na ha sido el denominado In dex Florentinas, escrito en griego, ordenado hacer por
+Justiniano a los compiladores del Digesto. Este Index, conservado en el C odex Flo­
+rentinas (ed. facsímil de A. Corbino y B Santalucia, Florencia 1988, 4r, 4v y 5r\ así
+como ed. de Th. Mommsen I, 1870, págs. LII y sigs., y Th. Mommsen, P. Krüger,
+ed. 1954, págs. 25 y sigs.) recoge una relación de juristas de cuyas obras se tomó
+algún fragmento para incorporarlo al Digesto; no desgraciadamente las que fueron
+usadas por los compiladores pero no seleccionadas. La relación se inicia con los
+nombres de Juliano, Papiniano y Quinto Mucio Escévola. Un más exhaustivo Index
+librorum ex quibus Digesta com pilata sunt fue cuidado por Paul Krüger (ed.
+Th. Mommsen y P. Krüger, Digesta, Berlín, 1954, págs. 932 y sigs.).
+Este florecimiento jurídico clasicista de Oriente, gracias a las Escuelas de
+Berito y Constantinopla, contrastaba con la trivialidad del Derecho vulgar de Occi­
+392
+
+
+
+dente, que sólo supo ofrecer, al tiempo de la compilación justinianea, como
+monumento de lo que había sido el Derecho romano, un tan magno como pobre
+cuerpo legal conocido como la l e x R om an a Visigothorum o «Breviario de Alarico»
+(del 506 d.C.) (ed. G. Haenel, Leipzig, 1849, reimpr., Aalen, 1962), del rey visigo­
+do Alarico II. Contenía éste, con enormes mutilaciones, el Código Teodosiano
+—último cuerpo legal válido para Occidente y Oriente, promulgado por Teodosio II, el año 438— las leyes teodosianas y posteodosianas, las sentencias de
+Paulo, el epítome de Gayo, algunos fragmentos de los códigos Gregoriano y Hermogeniano y uno tomado de Papiniano, acompañados, en su caso, de interpretationes. El breviario alariciano, tan apreciado por los pueblos germánicos, evi­
+denciaba el anochecer cultural de Occidente. Una vez más, la luz vendría de
+Oriente: ex oriente lux.
+
+VII.
+
+VALORACIÓN DE LA JURISPRUDENCIA ROMANA
+
+Muchas y fecundas son las lecciones que ofrece la jurisprudencia romana
+en la hora presente, pues es inagotable tesoro. Entre ellas, sin embargo, destacaría,
+en estos momentos, la «armonía» de su elegante composición.
+Halló la jurisprudencia romana un profundo equilibrio entre lo privado y
+lo público, entre lo natural y lo civil, entre la ley (lex) y el Derecho (tus), y, den­
+tro de éste, entre su sentido objetivo (ius ratum que) y el subjetivo (iuspotestasque),
+entre la flexibilidad de la fid es y la seguridad de la forma, entre lo propio (ius civile) y lo universal (ius gentium), entre la tradición jurisprudencial romana y la inno­
+vación edictal, entre la abstracción y la causalidad, entre lo personal y lo territorial,
+la justicia y la equidad, la moral y el derecho, lo teórico y lo práctico, sin preten­
+der nunca dividir en partes iguales, uniformar, limitar la libertas, tradicional del
+alma romana. Esto fue posible porque fue el romano, sobre todo y ante todo, un
+«Derecho de juristas» («Juristenrecht», dicen los alemanes), muy poco legislado, que
+construyó ese pilar de nuestra civilización piedra a piedra (caso a caso), es decir,
+jurisprudencialmente, por fiarse más del argumento de autoridad que de la fuerza
+de la potestad. Aquí radica precisamente su carácter imperecedero, es decir, clási­
+co, de modelo para otros muchos sistemas jurídicos y base necesaria para la for­
+mación de un tan deseado Derecho global.
+
+393
+
+

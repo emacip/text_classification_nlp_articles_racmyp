@@ -1,0 +1,2063 @@
+JOSE ANTONIO GARCIA-TREVIJANO FOS
+
+REQUISITOS DE LOS ACTOS
+ADMINISTRATIVOS
+
+Anales de la Real Academia de Ciencias Morales y Políticas, núm. 57, 1980
+
+
+
+
+
+Requisitos de los actos administrativos (*)
+por el Académico de Número
+Excmo. Sr. D. ] osé A ntonio G arcía-T revijano F os (**)
+
+El planteamiento del tema puede observarse desde dos puntos de
+vista: estrictamente privatista y desde la perspectiva pública.
+La división entre actos negocíales y no negocíales ha hecho que
+se sigan las pautas privadas incluso para estos últimos, con la advértencia de la carencia o limitación de la discrecionalidad y, por con­
+siguiente, la menor importancia de la voluntad.
+Se habla de anatomía y fisiología de los actos, al igual que se
+habla de la patología para elaborar la teoría de la invalidez, pero es­
+tos momentos se pueden estudiar conjuntamente o por separado, es
+decir, al estudiar la competencia de los órganos se puede estudiar
+también la incompetencia en sus diversos grados o, por el contrario,
+llevar su tratamiento a un capítulo especial.
+Sin perjuicio de seguir esta última técnica haremos referencia en
+cada caso a ciertas especialidades.
+Todos nos damos cuenta de que existen unos elementos que se
+dan, en mayor o menor medida, en todos los actos, y ellos son los que
+constituyen propiamente los requisitos, y son:
+(*) Este trabajo es un capítulo del tomo IV de mi Tratado, de próxima
+aparición.
+(**) Colaboración presentada en octubre de 1980.
+
+151
+
+
+
+a) Persona jurídica de derecho público.
+b) Organo concreto que emana el acto.
+c) Voluntariedad.
+d) Contenido y objeto.
+e) Causa. Motivación.
+f) Forma.
+No son, a mi juicio, requisitos, ni el fin ni el presupuesto de he­
+cho. El primero, porque está ínsito en la idea de causa, máxime des­
+pués de la evolución de su concepto con las tendencias subjetivas de
+la misma. El segundo, porque está fuera del acto, actúa como condicio juris y no puede ser considerado como elemento del acto.
+Agrupados los requisitos, pueden clasificarse de la siguiente
+forma:
+A) Subjetivos.—Ente público y órgano (capacidad y competen­
+cia), con los problemas inherentes a la investidura del órgano y a la
+voluntad.
+B) Objetivos.—Engloban el objeto, contenido, causa y moti­
+vación.
+C) Formales.—Encuadran la forma, que a su vez incluye el pro­
+cedimiento.
+
+I. PERSONA JURIDICA DE DERECHO PUBLICO
+Sobre los entes de derecho público se ha dicho bastante en el
+tomo II de mi tratado.
+Allí se han dado las notas para que una organización personifica­
+da sea considerada de derecho público, y que son dos:
+a)
+Que tenga forma de asociación o de fundación, es decir, en
+sentido negativo, que las sociedades estatales quedan sometidas al
+derecho privado y precisamente una de las razones, quizá la única,
+para que la Administración utilice este instrumento técnico-jurídico
+es el deseo de someterlas al régimen normal. Una sociedad estatal,
+desde el ángulo jurídico, no puede estimarse como un ente público.
+152
+
+
+
+Otra cosa cabría decir desde el punto de vista económico, porque
+aquí la cuestión cambia. El sector público está formado por una cons­
+telación de entes públicos y sociedades estatales que, a efectos de
+contabilidad nacional, tablas input-output e indicadores macroeconómicos, pueden considerarse en un mismo plano, aunque después se
+encuadren en sectores diversos (ejemplo, sector empresas, sector Go­
+bierno, etc.).
+Un problema lo puede plantear el artículo 6 de la Ley
+Presupuestaria de 4 de enero de 1977 cuando “considera” en
+tado b) como sociedades estatales los actos públicos que se
+al derecho privado. ¿Cómo cabe considerarlos a nuestros
+
+General
+su apar­
+someten
+efectos?
+
+Los entes públicos económicos tienen dos notas diferenciales:
+la de su propia organización y estructura y la de su régimen funcio­
+nal o actividad ad extra. En el plano de sus actos, aunque fue­
+ran unilaterales, quedarían sometidos al derecho privado porque
+ya sabemos que están excluidos del campo del acto administrativo.
+Sin embargo, en el primero, pueden dictar actos administrativos;
+otra cosa sería el régimen de impugnación, pero hemos de tener en
+cuenta que no podemos dejarnos influir por una visión procesalista o
+judicialista de los actos administrativos.
+Dentro del artículo 6 citado cabe incluir RENFE, FEVE, los puer­
+tos en régimen de autonomía, etc., que son entes públicos porque son
+fundaciones, pero que, por una ficción legal, se someten en el régimen
+a las sociedades estatales los efectos de la mencionada Ley.
+El Estatuto de RENFE, por ejemplo (Decreto de 23 de julio de
+1964), declara en su artículo 4 que no se considera Administra­
+ción Pública a efectos de las Leyes de Procedimiento Administrativo
+y de la Jurisdicción Contencioso-Administrativa, actúa en régimen
+de empresa mercantil y se somete al derecho privado. Los artícu­
+los 68 y siguientes tratan de la jurisdicción, y tras volver a recalcar
+el sometimiento al derecho privado, distinguen varios supuestos en los
+que cabe recurso de alzada ante el delegado del Gobierno contra
+acuerdos de la Red (en materia de usuarios, en la de construcción o
+reedificación en la zona de servidumbres del ferrocarril, en materia de
+sanciones a agentes ferroviarios); los actos que dicte el delegado sí
+que se consideran actos administrativos a efectos del recurso contencioso-administrativo, y es indudable que los acuerdos de RENFE
+en estas materias también lo son. De lo contrario habría que admitir
+153
+
+
+
+la «administrativización” de un acto privado mediante una vía de al­
+zada a todas luces inconsecuente.
+b)
+Que estén encuadrados en la organización del Estado (Comu­
+nidad) a través de una situación especial.
+Las dos notas son conjuntas. A veces se han considerado separa­
+damente y resultaría que con la simple nota de la forma cualquier
+asociación de interés público asumiría la naturaleza de entidad de
+derecho público. Esto es absurdo, ya que las palabras “interés públi­
+co” nada tienen que ver con la naturaleza del ente.
+La aparición de los organismos autónomos no enturbian excesi­
+vamente la identificación de las entidades de derecho público. Se les
+ha denominado también “paraestatales”, que, sin embargo, indicarían
+sólo un tipo de ellas, a saber, las que extienden su competencia y ca­
+pacidad a todo el territorio del Estado, al igual que lo hace éste. Pero
+no cabe distinguir, como hace parte de la doctrina, entre personas
+primarias y secundarias, negando a éstas (entre las que se clasifica­
+rían tales entes) la capacidad de dictar actos administrativos. Esta
+postura nace de considerar esencial poseer potestad pública hacia
+afuera para poderlo hacer, sin tener en cuenta que los actos adminis­
+trativos se conectan sí a la faceta pública, lo cual es bien distinto,
+pero pueden no contener mandatos para terceros, sino ser simple­
+mente organizatorios y desplegar sus efectos en el ámbito interno.
+Considerar que la actividad interna no da lugar a actos administrati­
+vos es realmente incomprensible, al igual que negar valor de acto ad­
+ministrativo a los dictámenes. Es insostenible la posición de Sayagqes excluyendo de los actos administrativos los procedentes de las
+personas públicas no estatales.
+No es en la potestad, sino en la organización, sobre la que hay que
+hacer recaer el acento de la posibilidad o no de dictar actos adminis­
+trativos.
+En el tomo I expuse cómo la diferencia entre las ramas del dere­
+cho debía abandonar la vieja dicotomía público-privado, para despla­
+zarse a la de derecho individual-supraindividual. Con esta visión, por
+ejemplo, el derecho de sociedades entraría en el segundo; ahora bien,
+la diferencia entre las organizaciones públicas y privadas vendría mar­
+cada por la existencia de una potestad en las primeras, pero que
+pasaría así a un segundo plano. Si observamos atentamente una so­
+154
+
+
+
+ciedad anónima, por el ejemplo de organización privada más des­
+arrollada, veremos cómo se comporta frente a los socios y a terceros
+al igual que si fuera una entidad de derecho público, y hasta sus
+acuerdos pueden ser impugnados (Junta General) a través de un jui­
+cio especial que recuerda un recurso contencioso-administrativo con­
+tra un acto ya formado. La diferencia empieza en la potestad que
+comporta un monopolio de poder, pero, insisto, esto pasa a segundo
+plano, ya que la esencia es la estructura organizativa (prueba de
+cuanto digo es que en Italia, entre los vicios que se admiten en las
+deliberaciones de las Juntas Generales, se comprende el exceso de
+poder procedente del derecho administrativo).
+Las personas jurídicas de derecho público tienen capacidad en el
+derecho público y en el privado. Podría hipotizarse que sólo tuvieran
+una u otra, pero este supuesto es impensable, limitándose el dere­
+cho positivo a decir que tienen plena capacidad jurídica y de obrar,
+con lo que implícitamente se está diciendo bastante.
+Aparte de esta capacidad in genere, los entes públicos están some­
+tidos a los siguientes principios:
+a) Adherencias al fin, que les obliga a cumplirlo.
+b) Legalidad, con sometimiento al derecho.
+c) Articulación, del que nacen la competencia y la jerarquía.
+d) Normatividad, según el que todos los actos son típicos y fá­
+cilmente reconocibles.
+e) Especialidad, según el que fuera de sus confines, no existe.
+De esto se deduce una consecuencia: como la capacidad jurídicoprivada despliega sus efectos a todos los casos mientras no se pro­
+híba expresamente (y siempre dentro de los principios anteriores), la
+de derecho público únicamente se tiene sobre y para lo que se autori­
+za. Así, por ejemplo, para imponer prestaciones, tributos, etc., preci­
+sa una Ley habilitante.
+Esto no es sino una consecuencia del principio general de que la
+Administración actúa con sometimiento a la Ley y su actividad es
+predeterminada.
+Consecuencia con la delimitación del concepto cuando se trata del
+Estado o de las Comunidades autónomas (no de otros entes públicos
+que no permiten distinguir órgano legislativo, ejecutivo o judicial),
+155
+
+
+
+los actos pueden provenir de cualquiera de ellos (cuando no sean
+leyes normativas o singulares, ni sentencias), y cuando se trata del
+poder ejecutivo incluimos como tales no sólo los que se dictan den­
+tro de su actividad administrativa pura, sino también los que des­
+arrollan la función judicial de la Administración, concretamente
+los que resuelven recursos administrativos, y ello porque, aunque
+la función es similar a la judicial, el origen y su tratamiento debe
+ser el de los actos administrativos. El acto que resuelve un recur­
+so de alzada, de reposición o de revisión, es un acto administrati­
+vo. A efectos de recursos judiciales, esto es claro: el acto que se
+recurre en caso de alzada es el que resuelve ésta y no el inferior;
+en el de reposición, el sustantivo o el que resuelve dicho recurso o
+ambos (artículo 55 de la Ley Judicial), y en el de revisión, el acto
+único que resuelve el expediente.
+Pero existen dentro de las personas jurídicas de derecho público
+unos órganos constituidos en forma de tribunal, cuya ubicación he­
+mos delimitado para determinar si pertenecen al orden judicial o al
+administrativo. Los que pertenecen a éste dictan actos administrativos
+aunque estén dedicados únicamente a desarrollar una función neta­
+mente judicial, sin que pueda hablarse de sentencias. Así, las “resolu­
+ciones” (así llamadas en derecho positivo) de los Tribunales Econó­
+mico-Administrativos, o los “acuerdos” de los de Contrabando (aun­
+que se habla también de “fallos”), no son sentencias, sino actos admi­
+nistrativos recurribles ante la jurisdicción contencioso-administrativa.
+Lo que ocurre es que su naturaleza no encaja en la tipología negocio
+jurídico-mero acto administrativo, no siendo en ningún caso lo
+primero.
+
+II.
+
+LA CUESTION REFERENTE A SI LOS PARTICULARES
+PUEDEN DICTAR ACTOS ADMINISTRATIVOS
+
+Ha quedado dicho antes, y se verá más ampliamente después, que
+los particulares-personas físicas y personas jurídicas de derecho pri­
+vado no pueden dictarlos, aunque sus actos tengan relevancia en el
+derecho público.
+Pero siendo esto cierto, también es verdad que en determinados
+casos, debido a la especial relación que los particulares tienen con la
+156
+
+
+
+Administración, adquieran capacidad dentro del derecho público para
+emanar actos administrativos en sentido técnico-jurídico.
+Esto requiere abordar dos aspectos:
+a) En qué casos esto puede suceder como excepción a la regla
+general.
+b) Cuál es el régimen de tales actos.
+A) Ha de tratarse de una relación especial con la Administra­
+ción en la que ésta otorgue el ejercicio de poderes propios al particu­
+lar. La relación surge normalmente, aunque no necesariamente, de una
+concesión de funciones o de servicios.
+Pero hay que advertir que no toda la actividad del concesionario
+(o autorizado) cae dentro de esta posibilidad de dictar actos adminis­
+trativos, sino que sólo abarca el campo específico de los poderes atri­
+buidos.
+Pueden diferenciarse así dos clases de actuaciones:
+a) Las normales como sujeto sometido al derecho privado; así,
+por ejemplo, la relación con sus empleados, trabajadores y técnicos,
+sometida al derecho laboral, mercantil o civil.
+b) Las que ejercita como órgano indirecto (así se le ha llamado,
+aunque impropiamente, por una parte de la doctrina) de la Admi­
+nistración, cuyos actos son administrativos.
+Ejemplos de lo que estamos diciendo son los siguientes:
+1)
+El ejercicio privado de funciones públicas, concretamente la
+de fe pública notarial, ejemplo que no da lugar a un supuesto de
+relación de empleo público ni al notario lo transforma en funcio­
+nario, sino que es un particular que ejercita una función pública
+mediante la obtención de un título habilitante (aunque se les califi­
+que ambiguamente como profesión liberal y funcionario, contradic­
+ción que explica ya las dudas del legislador). Los actos notariales pro­
+ducidos dentro del poder conferido por la Administración son actos
+administrativos. No puede decirse lo mismo de los registradores, por­
+que son verdaderos funcionarios y sus actos son administrativos per
+se sin tener que acudir a la figura que analizamos.
+Igualmente entran en este caso los que dictan en sus funciones
+públicas los capitanes de buques mercantes, en orden a su actuación
+157
+
+
+
+de policía judicial, de oficiales del Estado civil e incluso de notarios,
+para las personas embarcadas en sus naves. También los agentes de
+Cambio y Bolsa, corredores de comercio, corredores intérpretes de
+buques.
+Lo mismo sucede con los médicos, profesión liberal que emana
+actos administrativos cuando certifican el estado de salud o de enfer­
+medad de una persona.
+2) El ejercicio privado de verdaderos servicios públicos en que el
+concesionario recibe a veces expresos poderes para dictar actos ad­
+ministrativos.
+El artículo 128 del Reglamento de Servicio de las Corporaciones
+Locales, aprobado por Decreto de 17 de junio de 1955, establece que
+la Corporación concedente podrá otorgar al concesionario “la utili­
+zación de la vía de apremio para la percepción de las prestaciones
+económicas que adeuden los usuarios por razón del servicio”. Aparte
+de ello, el arrendamiento de la recaudación de tributos en que la ac­
+tuación que se cumple en el ejercicio de la actividad transferida da
+lugar a actos administrativos. Lo mismo puede decirse de la policía
+de ferrocarriles y de líneas de transporte en general, en que se otorga
+poderes a los agentes de los concesionarios para imponer sanciones.
+Debo indicar que el caso que estoy contemplando no se plantea
+cuando el concesionario es a su vez una persona de derecho público,
+porque entonces su capacidad para dictar actos administrativos es
+completa y sólo vendrá limitada por la división entre actividad públi­
+ca y privada, cuestión de hecho a resolver en cada caso.
+3) Un ejemplo que daría lugar a este supuesto es el de la conce­
+sión de la cualidad de beneficiario para expropiar. Normalmente los
+actos administrativos los dictará la Administración expropiante, pero
+caben supuestos en que el particular sea el beneficiario y tenga esta
+posibilidad.
+B) Los actos que se dictan en los casos especiales mencionados
+anteriormente y otros análogos dan lugar a recursos de alzada ante
+la Administración con el fin de que ésta dicte el acto que pueda ser
+impugnable ante la vía jurisdiccional (que sólo son los actos proce­
+dentes de los entes públicos). Esto no sucede cuando existen precep­
+tos concretos al respecto que regulan otras vías de acceso para recla­
+mar, lo que ocurre, por ejemplo, en los casos de actuaciones notaria158
+
+
+
+les en los que cabe plantear cuestiones entre las partes o exigir res­
+ponsabilidad contra el mismo ejercitante de las funciones públicas en
+vía judicial ordinaria, responsabilidad que no alcanza al Estado.
+El recurso de alzada hay que entenderlo procedente caso de no
+arbitrarse otra fórmula en el derecho positivo, recurso de alzada de
+admisión implícita.
+
+III. COMPETENCIA DEL ORGANO. INVESTIDURA
+DEL TITULAR
+Junto a la capacidad del sujeto, concepto predicable de las perso­
+nas jurídicas, debe existir también la competencia del órgano.
+El problema de la capacidad de los sujetos no personificados ex­
+presamente por el ordenamiento (por las normas positivas, se entien­
+de), teilpersonen de los germanos o sujetos sin personalidad son rea­
+lidades, pero que, sin embargo, tienen una sujetividad en ciertos
+aspectos expresamente reconocidos, así la herencia yacente, las co­
+munidades de bienes que explotan negocios, las uniones de hecho,
+etcétera. A nuestros efectos, tales organizaciones sin, personalidad
+podrían dictar actos administrativos, aunque con una doble impu­
+tación: a ella misma y al ente en que, a fin de cuentas, se incardinan.
+La Ley General Presupuestaria ha terminado con la categoría híbrida
+de los servicios públicos centralizados, bien transformándolos en or­
+ganismos autónomos o en simples órganos.
+Sobre la competencia está dicho en mi tomo II tanto en cuanto a
+su concepto como en lo referente a clases y tipologías.
+Su inversa, la incompetencia, será tratada en su lugar oportuno.
+Valga de momento decir que no todas las clases de competencias
+dan lugar a supuestos inversos de incompetencias como vicio radical
+del acto, ya que distinguiremos, plegándonos al derecho positivo, en­
+tre las incompetencias absolutas y relativas.
+Por lo que se refiere al tema de los actos, digamos que el ordena­
+miento español dicta ciertos principios básicos sobre la competencia:
+a) Artículo 40 de la Ley de Procesamiento Administrativo: los
+159
+
+(
+
+
+
+actos administrativos se producirán por el órgano competente. Es de
+observar que la Ley acierta aquí al hablar de “actos administrativos”
+y no de actuación de la Administración, como hemos visto en otros
+lugares.
+b) Artículo 4 de la L. P. A .: la competencia es irrenunciable,
+salvo en los casos de delegación, sustitución o avocación previstos por
+las leyes. Conceptos todos ellos que nos son familiares.
+Irrenunciable significa que no cabe la sumisión de las partes a un
+órgano determinado, sino que está prevista con carácter rígido y fijo
+mediante normas inderogables o cogentes. En el derecho público,
+salvo el especial y excepcional caso de la sumisión expresa a la com­
+petencia territorial de los Tribunales civiles de un partido determi­
+nado que puedan efectuar las partes, es la irrenunciabilidad de la
+competencia, junto con la sumisión de los administrados, lo que dis­
+tingue un ordenamiento moderno de uno antiguo, es decir, del anti­
+guo régimen. En éste la madeja de las competencias estaba sumida
+en un marasmo de entrecruzamientos de difícil comprensión. Una de
+las tareas, quizá la más importante de los constitucionalistas del si­
+glo xix, fue distinguir unas de otras y fijar reglas rígidas para su
+ejercicio: la competencia no fue ya una facultad, sino una obligación,
+tanto para el órgano como para el administrado.
+c) Artículo 5 de la L. P. A .: presunción de competencia a favor
+de los órganos periféricos en razón a la materia y al territorio, y sien­
+do varios al de competencia más amplia, por ejemplo, regionales fren­
+te a provinciales, tanto para instruir como para resolver. La Ley
+habla de órganos centrales y órganos inferiores, terminología que ya
+criticamos porque los órganos estatales son de dos clases, todos ellos
+centrales: concentrados y desconcentrados, y dentro de éstos cabe
+hablar de desconcentrados internos (ejemplo, una Dirección General
+con funciones resolutarias) o periféricos (un Gobierno Civil, aunque
+el aspecto físico no influya en absoluto, porque tan periférico es el
+Gobierno Civil de Madrid como el de cualquier otra provincia).
+La Ley habla de órganos centrales como aquellos que extienden
+su competencia a todo el territorio nacional, siendo locales los perifé­
+ricos. Estas palabras se traducen en equívocos que conviene evitar,
+máxime al enfrentarnos con los “entes locales”.
+En definitiva, los órganos del Estado forman parte de la Adminis160
+
+
+
+tración Central como opuesta a la Local y, hoy día, a las autonómicas,
+como ruedas territoriales fundamentales. Dentro del Estado habrá
+órganos superiores cuya competencia se extiende a todo el territorio
+y órganos desconcentrados y periféricos con competencia limitada
+una parte de él. Esto mismo es predicable de cada rueda adminis­
+trativa.
+d)
+Artículo 6 de la L. P. A .: los órganos inferiores “dentro” del
+Departamento tienen competencia para resolver aquellos asuntos que
+consistan en la simple confrontación de hechos “o en la aplicación au­
+tomática de normas, tales como libramiento de certificaciones, anota­
+ciones o insscripciones, así como instruir los expedientes, cumplimen­
+tar y dar traslado de los actos de las autoridades administrativas,
+diligenciar títulos, autorizar la devolución de documentos y remitirlos
+a archivo.
+Todos estos actos no son negociales, es decir, no comportan mar­
+gen de discrecionalidad, por ejemplo, la jubilación por edad, el reco­
+cimiento de trienios, la certificación de pruebas preconstituidas, etc.
+La competencia puede ser de muchas clases, ya analizadas, pero
+quiero destacar una en especial: la temporal. A veces se tiene com­
+petencia a “término” o desde un “término” ; en tales supuestos, pa­
+sado el tiempo sin ejercitarla, entran otros órganos (o entes) a hacerse
+cargo de ella, pero no por la vía de la avocación o de la delegación
+implícita, sino sencillamente por el tiempo, que es un criterio compe­
+tencia!. Pusimos en el tomo II el ejemplo de la apertura de farmacias.
+Pero hay muchos más, por ejemplo, las Leyes de Presupuestos habili­
+tan a veces durante su vigencia anual a ejercer ciertas potestades,
+pasada la cual la competencia (o eventualmente, la capacidad, si se
+trata de personas) cesa. Un ejemplo lo ofrecen las Leyes de Presu­
+puestos que han habilitado a RENFE (por tanto, era capacidad) para
+enajenar inmuebles, ¿era una habilitación que había que producir
+en cada nuevo presupuesto o se entendía que vivía más allá de ella?
+Son muchos los actos a término.
+Tengamos en cuenta que hay que distinguir aquí entre “actua­
+ción” y “acto”. Lo primero, aunque se fije un plazo, no da lugar a
+defectos formales, salvo que así resultara de la naturaleza del término
+o plazo, y lo segundo significa que se otorga una específica compe­
+tencia durante ese período de tiempo.
+161
+
+
+
+Sabemos que el órgano se vivifica por su titular, normalmente un
+funcionario, aunque no siempre. Lo que interesa es que la persona
+que lo recubre haya sido nombrada o elegida legalmente. Esto plan­
+tea el problema de la investidura del titular.
+Para ejercer una función pública se precisa legal nombramiento
+y toma de posesión. La carencia de estos requisitos puede dar lugar
+a la comisión de delitos.
+Distingamos, a estos efectos, los siguientes aspectos:
+a) Ha de existir capacidad natural en la persona que recubre el
+órgano. El titular del mismo puede carecer de derechos civiles teóri­
+camente; Santi Romano pone el ejemplo de un esclavo que actúe
+como funcionario; aunque no tuviera derechos en cuanto persona pri­
+vada, manifestaba la voluntad orgánica y, como tal, imputable al ente
+del que forma parte. Esto no es más que una consecuencia de la rela­
+ción de incardinación del acto en la organización de la que forma par­
+te. Pero esta irrelevancia del titular desaparece cuando lo que falta es
+su capacidad natural. Un loco, por ejemplo, viciaría el acto. Ya tratare­
+mos después de esta cuestión.
+b) Ha de existir investidura. Para saber lo que es la investidura
+habrá que acudir al derecho positivo. Nombramiento y toma de pose­
+sión es lo normal, luego si falta alguno de ellos, aquélla no es legal.
+Sin embargo, no puede despacharse de esta forma trivial, problema
+que tiene gran importancia en este momento. Nos encontramos así
+con la cuestión de los titulares “de facto”, concepto más amplio que
+el de funcionarios “de facto”, porque no siempre lo son. La cuestión
+es doble: qué hacer con dichos titulares y qué hacer con los actos
+administrativos que han dictado.
+Suele citarse como antecedente de órganos (mejor titulares) de
+facto el caso del esclavo Barbario Felipe que dio lugar a una Ley
+especial relativa a los actos emanados de un esclavo fugitivo. He aquí
+el texto del Digesto (título XIV, libro I, 3):
+“Barbario Felipe, esclavo fugitivo, solicitó la pretura en Roma y
+fue designado pretor. Dice Pomponio que la esclavitud no le fue im­
+pedimento, como si no hubiera sido pretor, y la verdad es que desem­
+peñó la pretura. Con todo, veamos: ¿qué diremos en el caso de que
+siendo esclavo hubiera desempeñado la dignidad pretoria mientras lo
+162
+
+
+
+ocultó? Lo que editó, lo que decretó, ¿carecía quizá de validez?, ¿o
+la tendrá por la utilidad de aquellos que demandaron ante él en vir­
+tud de la Ley o de otro derecho? Y pienso en verdad que nada de
+aquello debe invalidarse, puesto que esto es más humano, dado que el
+pueblo romano pudo también encomendar a un esclavo este poder,
+pero siempre que hubiera sabido que era esclayo lo habría hecho
+libre. El cual derecho se ha de observar mucho más respecto al Em­
+perador.” (Ulp. 38 Sab.)
+Como se ve, el genio romano daba los argumentos jurídicos en
+pro de una hipotética posibilidad, lo cual es la vida del derecho.
+Esta solución, emineptemente pragmática, fue recogida por el de­
+recho administrativo con el fin de asegurar la estabilidad de las si­
+tuaciones creadas por los actos emanados de tales titulares.
+El derecho canónico conoce el llamado “título colorado”, en vir­
+tud del cual se daba también validez y eficacia a los actos dictados
+por quien no era titular regular de un oficio eclesiástico.
+Precisamente la teoría de la apariencia deriva del “color del títu­
+lo” y legitima la estabilidad de las situaciones generadas.
+Hay que distinguir dos supuestos:
+a) Titular nombrado ilegalmente, pero con una investidura exis­
+tente y patente (plausible) y
+b) Usurpador que carece de los atributos anteriores.
+No siempre es fácil distinguir entre uno y otro caso. Desde el
+punto de vista subjetivo, la investidura es patente y plausible si el ti­
+tular de buena fe cree en la legalidad del título. Objetiva lo es si el
+público cree en tal legalidad. La apariencia ha de ser justificada sin re­
+servas y cualquier persona con la diligencia de un buen administra­
+tivo tiene normalmente que aceptarla.
+De estos dos puntos de vista prevalece el objetivo, ya que se está
+pensando en la creencia popular.
+Además, la cuestión hay que estudiarla en el terreno administra­
+tivo y en el político. En este último, a veces por razones de urgencia,
+se adoptan por personas que nada tienen que ver con la Administra­
+ción, medidas que deben ser aceptadas como buenas y necesarias. En
+estos casos, en lugar de haber sanciones para el titular habría un po­
+163
+
+
+
+sible cuasi-contrato de gestión de negocios sin mandato, similar, aun­
+que no idéntico, a la regulada en el Código Civil (art. 188 y siguientes).
+Como vemos, los titulares de “facto” oscilan entre dos extremos
+diametralmente opuestos: la sanción del titular y la invalidez de sus
+actos y el premio, de su gestión y la validez de los mismos.
+En general cabe afirmar lo siguiente: en caso de usurpación, apar­
+te las sanciones que quepa imponer al titular, sus actos serían inexis­
+tentes y sin efectos; en caso de titular “de facto” con nombramiento
+aparentemente válido que induzca a una creencia razonable sobre su
+existencia y validez, ni el titular sufriría sanción ni los actos serían
+inexistentes, sino actos administrativos válidos y eficaces, con validez
+y eficacia similar a la que tendrían si hubieran emanado de una in­
+vestigación regular.
+Advierte Fragola que tales actos entrarían en la categoría de actos
+aparentes (que a su vez incluye entre los no-actos, es decir, inexisten­
+tes), y cuya eficacia depende de dos circunstancias:
+— La publicidad de las funciones.
+— La buena fe de los sujetos relacionados con los titulares.
+Podrían así distinguirse dos tipos de efectos: efecto para terceros
+y frente a los mismos titulares. Respecto a los primeros la validez
+y la eficacia (y no sólo la segunda) dependerá de la buena fe; respec­
+to a los segundos, de su creencia en la invalidez de su investidura,
+pero esta creencia ha de ser “jurídica”; quiero decir, que, aunque co­
+nozca el alegado defecto del nombramiento, el titular defienda su va­
+lidez. Piénsese, por ejemplo, en un funcionario nombrado en un
+concurso, nombramiento que se recurre por otro participante; mien­
+tras se resuelve el recurso, el nombrado (cuyo nombramiento no haya
+sido suspendido por la Administración) emana actos administrativos
+válidos aún conociendo que había un recurso en marcha y que su título
+estaba discutido; si después la sentencia es favorable para el recurren­
+te y el nombramiento se verifica a su favor, ¿podría afirmarse que el
+primer nombrado actuó con mala fe, que sus actos eran inválidos, que
+los terceros se encontraban ante no-actos y que podría haber sancio­
+nes para el titular “de facto”?
+Creo que esto es excesivo. Por lo pronto, los actos dictados son
+válidos y eficaces (piénsese, por ejemplo, en un profesor oficial que ha
+164
+
+
+
+dictado actos administrativos al calificar a sus alumnos), pero es que
+además el primer titular que ha defendido su título, aunque conocía
+la impugnación de su nombramiento, no puede decirse que tuviera
+mala fe para hacerse acreedor a sanciones.
+Toda esta cuestión está pensada en favor de los terceros y del
+mantenimiento de la estabilidad del orden jurídico; con este horizon­
+te habrá que abordarla en cada caso, pues aquí no se ha hecho más
+que trazar las líneas teóricas.
+Cuestión distinta es la composición del órgano cuando está for­
+mado por varias personas físicas que a su vez pueden representar
+otras personas jurídicas. Esto da lugar al fenómeno de la colegialidad,
+pero no es el único, porque el concurso de varios individuos puede
+conseguirse a través de varios procedimientos. Puede dar lugar a ac­
+tos complejos, como veremos. En todos estos casos en los que no
+actúa la voluntad sola del titular del órgano, aparece la necesidad de
+un procedimiento cuya importancia no puede minimizarse como lo
+demuestra el artículo 47, 1, c), de la L. P. A., cuando sanciona con la
+nulidad de pleno derecho los actos dictados en violación de las nor­
+mas “esenciales para la formación de la voluntad de los órganos co­
+legiados”.
+Estas fases son las siguientes:
+— Convocatoria.
+— Quorum de asistentes.
+— Mayoría requerida en cada caso.
+— Levantamiento de acta.
+Todas ellas deben considerarse esenciales, incluso el levantamien­
+to del acta. En realidad, si en algunos casos podría defenderse la
+teoría de la inexistencia como diferenciada de la nulidad de pleno
+derecho, sería precisamente en esta ocasión, ya que el acto dictado
+por un órgano colegiado infringiendo alguna norma de las mencio­
+nadas daría lugar a un verdadero no-acto, es decir, a su inexistencia.
+Hay que tener en cuenta que las mencionadas fases son suce­
+sivas y afectan a fines diferentes. El quorum se refiere a la válida
+constitución del colegio y es previo a la fase de votación. Esta podrá
+requerir la unanimidad, la mayoría cualificada (3/4, 2/3, etc...), la
+mayoría absoluta (1/2 + 1), la simple o la relativa (el que más votos
+165
+
+
+
+obtenga), pero no basta con el “porcentaje”, sino que precisa cono­
+cer la “base” sobre la que se aplica. Esto es sustancial. En la Constitució nespañola la diferencia entre Leyes orgánicas o integracionistas
+y ordinarias, desde el punto de vista externo, radica precisamente en
+la diferente forma de aprobación, que según el artículo 81 será para
+las primeras mayoría absoluta del Congreso y votación final sobre el
+conjunto del proyecto.
+De aquí que sea preciso distinguir:
+a) Mayoría absoluta de hecho y de derecho. Por ejemplo, un
+órgano de 100 miembros, la segunda sería de 51. La primera, supo­
+niendo la existencia de 10 vacantes, sería de 46. La mayoría de
+derecho se computa sobre el número legal de miembros, y la se­
+gunda, sobre éste menos vacantes legalmente existentes. Se presume,
+en caso de silencio que la mayoría se refiere a la primera (por ejem­
+plo, el artículo 303 de la Ley de Régimen Local se refiere al número
+de hecho).
+tí) Cuando se exige una mayoría para la aprobación de un pro­
+yecto, como ocurre con las Leyes orgánicas, viene a unificarse la
+votación con dicho quorum, que normalmente van separadas, siendo
+éste previo.
+c)
+Entrando ya en el sistema de votación, la aprobación de un
+proyecto o la adopción de acuerdos puede requerir la unanimidad
+(también de derecho o de hecho), prácticamente en desuso, ya que
+conduce a la paralización del órgano por entronizar el derecho de
+veto (de aquí que se utilice sobre todo en el plano internacional,
+cuando algún Estado no quiere ver coartada su soberanía), la mayoría
+absoluta y la simple (cualificada). Pero, como decíamos antes, no bas­
+ta con conocer el porcentaje, sino sobre “qué” base ha de computarse.
+Veamos un ejemplo. Colegio de 100 miembros. Se exige invaria­
+blemente un quorum de la mitad más uno, es decir, que el colegio
+quedará válidamente constituido con 51 miembros. Pero las mayorías
+se computarán de la siguiente forma:
+— Absoluta sobre asistentes: 26 miembros.
+— Absoluta sobre votantes. En este caso no se computan las abs­
+tenciones, aunque sí los votos en blanco. Suponiendo que hubo 30 vo­
+tantes, bastarán 16 votos.
+— Absoluta sobre votos válidos. En este supuesto habrá que
+166
+
+
+
+suprimir de ellos, además, los que resulten inválidos. Por ejemplo,
+de los 30 votos anteriores sólo 20 eran válidos, luego bastarán once
+votos.
+Como vemos, cuantas más exigencias impongamos, la mayoría va
+restringiéndose, pudiendo llegar a aprobar una Ley o adoptar un
+acuerdo un número muy inferior a una mayoría real. La exigencia
+de votos “válidamente” emitidos lo prevé la Constitución en su ar­
+tículo 151 para el acceso privilegiado a la autonomía.
+La L. P. A. dedica el Capítulo II del Título I a los órganos cole­
+giados, si bien tiene carácter supletorio (art. l.°, 2, ídem.).
+Cuestión diferente es la posición del titular del órgano respecto
+de los asuntos administrativos. No basta con la capacidad, es preciso
+también la objetividad de su conducta, persiguiendo el interés público
+y no el personal.
+a) Ante todo existen normas para la selección de los titulares y
+exigencias de requisitos (tomo III).
+b) Idem, sobre sanciones disciplinarias y penas (id.).
+c) La voluntad debe ser libremente formada, y a tal fin, la arran­
+cada con prevaricación, cohecho, violencia u otra maquinación frau­
+dulenta abre la vía del recurso extraordinario de revisión en vía
+administrativa (lo que demuestra que son vicios que afectan a la
+voluntad y que luego trataremos).
+d) Las normas dictan preceptos tendentes a mantener la neutra­
+lidad del titular mediante las técnicas de la abstención o de la recu­
+sación. Las causas de abstención y recusación están contenidas en
+la L. P. A. y son las siguientes:
+— Tener interés personal en el asunto o ser administrador de
+sociedad o entidad interesada, o en otro semejante cuya resolución
+pudiera influir en la de aquél o cuestión litigiosa pendiente con algún
+interesado.
+— Parentesco de consanguinidad dentro del cuarto grado o de
+afinidad dentro del segundo con cualquiera de los interesados, con
+los administradores de entidades o sociedades interesadas y también
+con los asesores, representantes legales o mandatarios que interven­
+gan en el procedimiento.
+167
+
+
+
+— Amistad íntima o enemistad manifiesta con alguna de las per­
+sonas mencionadas en el apartado anterior.
+— Haber tenido intervención como perito o como testigo en el
+procedimiento de que se trate.
+— Tener relación de servicio con persona natural o jurídica in­
+teresada directamente en el asunto (art. 20).
+La sanción por la intervención no es siempre la invalidez de los
+actos en que hayan intervenido, sino que habrá que ponderar la im­
+portancia de la misma, el momento en que se ha producido y, sobre
+todo, examinar si el acto alcanzaría los mismos resultados si no
+hubiera intervenido quien debió abstenerse o haber sido recusado.
+Pero esto no supone que al derecho administrativo le interese sólo
+el resultado objetivo, abstracción hecha de la voluntad del titular,
+tesis que ya hemos criticado anteriormente, sino que el principio
+general favor acti permite mantener actos en los que tales causas
+hayan intervenido sin suficiente peso específico (art. 20, 3).
+Un ejemplo de cuanto se dice es la llamada “prueba de resisten­
+cia” en los órganos colegiados, que permite mantener la validez de
+los acuerdos aun a pesar de la existencia de vicios en la voluntad
+de sus componentes, siempre y cuando se hubiera alcanzado la ma­
+yoría requerida sin tener en cuenta sus votos.
+Las consecuencias de la intervención son distintas. El titular debe
+abstenerse, pues en caso contrario se da lugar a responsabilidad,
+pero, naturalmente, los órganos superiores deben controlar que la
+abstención no sea un simple medio de ahorrarse trabajo.
+Si no se abstienen, bien de oficio o mediante orden superior, se
+puede provocar un incidente de recusación en cualquier momento de
+la tramitación del procedimiento. Planteada ésta por quien resulte
+interesado en el mismo, el recusado manifestará a su inmediato supe­
+rior si se da o no la causa alegada; en el primer caso, el superior
+acordará la sustitución, pero si la niega, deberá resolver en el plazo
+de tres días, previos los informes y comprobaciones que considere
+oportunos.
+Contra el acto administrativo que resuelve este incidente no se
+da recurso alguno, pero puede alegarse la causa de recusación al in­
+terponer el correspondiente recurso administrativo o judicial contra
+el acto que termina el procedimiento.
+168
+
+
+
+En este caso, si prospera la recusación, se habría cometido un
+vicio de forma que obligará a rectificar lo actuado, retrotrayendo el
+procedimiento al momento en que debió ser sustituido el afectado.
+En la esfera local los preceptos son un tanto distintos, siendo la
+L. P. A. supletoria (si bien, como veremos, la tendencia es a aplicarla
+con carácter general).
+También existen la abstención y la recusación regulados en el
+Reglamento de Organización, Funcionamiento y Régimen jurídico
+de las Corporaciones Locales (arts. 227 y 297 a 299).
+El artículo 227 se refiere a la abstención del Alcalde y Concejales
+en asuntos que afecten a sus intereses directos, ya personalmente o
+como encargados o apoderados, o que afecten de igual modo a sus
+parientes hasta el tercer grado, inclusive. En estos casos deberá aban­
+donar el Salón mientras se discuta y vote el asunto, salvo que se
+trate de proposición de censura, en que podrá permanecer y defen­
+derse.
+El artículo 298 prevé la abstención de los funcionarios, dando
+cuenta al Secretario por escrito para que resuelva la sustitución.
+Hay que estimar que el Secretario, como Jefe de Personal, no
+es un simple receptor de la comunicación, sino que puede y debe
+investigar si se da en realidad la causa alegada.
+Las causas de abstención y de recusación son las siguientes:
+— Parentesco de consanguinidad o afinidad dentro del tercer
+grado con alguno de los interesados o sus mandatarios o con cual­
+quier persona a la que pudiera afectar la resolución. Nótese la difelución beneficie o perjudique.
+— Relación de dependencia con la sociedad interesada.
+— Amistad íntima con cualquiera de aquellos a quienes la reso­
+lución beneficie o perjudique.
+— Litigio pendiente con el funcionario de que se trate.
+- - Enemistad manifiesta.
+— Interés personal en el expediente o en otro que con él se
+relacione.
+169
+
+
+
+Puede plantearse la abstención en cualquier momento del proce­
+dimiento. Se reduce a dar cuenta al Secretario. Si es de éste, se dará
+cuenta al Presidente, y si es de éste, al Gobernador civil.
+Las consecuencias son similares a las previstas en la L. P. A. en
+el caso de intervención de persona que debió apartarse del asunto,
+es decir, no comporta necesariamente la invalidez del acto final, aun­
+que la jurisprudencia española, concretamente al referirse a la esfera
+local, ha seguido un criterio distinto.
+La recusación, cuyas causas son las de la abstención y entrará en
+juego a falta de aquélla, se plantea por quien resulte interesado (en
+sentido amplio) y se resuelve por el Gobernador civil, cuando el recu­
+sado sea el Alcalde; por éste, cuando sea el Secretario o cualquier
+miembro de la Corporación, y por el Secretario, cuando se trate de
+funcionarios o personal en general.
+El procedimiento a seguir es el mismo que veíamos en el Estado:
+escrito proponiendo la causa de recusación, reconocimiento o no
+por el recusado de dicha causa, posibles pruebas y resolución en
+plazo de quince días, sin que quepa tampoco recurso alguno con­
+tra ella.
+Ahora bien, ¿se aplica el artículo 21, 5, de la L. P. A., que per­
+mite alegar la causa de recusación al hacer uso de la vía de recurso?
+El problema es importante, porque caben dos posibilidades:
+a) Entender la supletoriedad de la L. P. A. respecto del bloque
+de la institución de que se trate.
+b) Idem, respecto de los preceptos concretos de la misma.
+La cuestión es de singular importancia. Si se adopta el primer
+criterio, resultará inaplicable la L. P. A. por cuanto en la esfera local
+se regula minuciosamente la institución de la recusación. Si, por el
+contrario, se acepta el segundo criterio, cabrá llenar los vacíos con­
+cretos.
+Me inclino por esta segunda solución porque la plenitud jurídica
+de las instituciones requiere que la norma supletoria rellene los
+huecos dejados de regular de forma expresa por la norma suplida.
+¿Qué decir de las Comunidades Autónomas? No son componen­
+tes de la Administración local, como se deduce de la propia Consti­
+170
+
+
+
+tución, que dedica dos capítulos diferentes dentro del Título VIH a
+la Administración local (cap. II) y a las Comunidades Autónomas (ca­
+pítulo III). De aquí que sean aplicables los preceptos de la L. P. A.
+
+IV.
+
+VOLUNTARIEDAD
+
+Constituye un requisito subjetivo fundamental. Hablo de “volun­
+tariedad” y no de “voluntad”, porque, como sabemos, los actos ad­
+ministrativos no se reducen a estas declaraciones, sino que abarcan
+también las de conocimiento y de juicios. La nota común de todas
+estas declaraciones es la voluntariedad. Los actos involuntarios no
+entran en el concepto, aunque puedan tener alguna relevancia jurídica
+a efectos de terceros. Hablo de actos y no de hechos.
+Esta voluntariedad podrá ser positiva o negativa, lo que se refleja
+en el contenido, es decir, acceder o rechazar lo que el administrado
+solicita o reclama.
+Una cuestión importante es la siguiente: la voluntad psicológica
+del titular del órgano, ¿influye en el acto?
+Para quienes no puede aplicarse la idea de negocio jurídico al
+campo administrativo (Fortshoff entre otros), de ningún modo puede
+considerarse el acto administrativo como expresión de la voluntad
+psíquica del funcionario del que emana. Se colocan como objecio­
+nes dos:
+— La voluntad de los órganos colegiados.
+— El hecho de que un acto, objetivamente justo, es válido y
+correcto aunque esté realizado por un funcionario enfermo
+mental.
+Lo importante, se dice, es atender al sentido objetivo del obrar
+administrativo.
+A mi juicio, esto no es exacto en su manifestación dogmática.
+Se parte aquí de una asimilación exagerada de la voluntad privada
+y la orgánica. En esta última hay un doble fenómeno de imputación:
+la psicológica del funcionario y la jurídica al ente del que forma parte
+parte el órgano que recubre. Cierto que aquél desaparece en su ac­
+tuación orgánica, y precisamente ello hace que se pueda hablar de
+171
+
+
+
+personas incapaces que sean funcionarios (recuérdese el caso del es­
+clavo en derecho romano), pero lo que no puede faltar nunca es la
+capacidad natural para entender.
+En el caso de la colegialidad, por un fenómeno exclusivamente
+jurídico, se considera formada una voluntad cuando se cumplen los
+requisitos exigidos y esto no rompe en absoluto con el principio que
+considera a la voluntad un elemento esencial del acto. También cada
+componente del colegio soporta así dos imputaciones:' la suya propia
+en cuanto persona física, y la jurídica de imputación a un órgano,
+primero, y al ente del que forma parte, después.
+Podría argumentarse que cabe verificar la hipótesis de un compo­
+nente del colegio que ostente la representación de otros y que vote
+de distinta manera por sí mismo y por los represeintados. Habría que
+distinguir entre las distintas formas de representación. Si ésta se con­
+fiere con un sentido determinado del voto, cabe perfectamente que,
+respetándolo, se vote de una forma para los representados y de otra
+por sí mismo; pero si se trata de una representación concebida en
+términos amplios, no cabe separar la voluntad psicológica del repre­
+sentante en dos partes: debe votar de la misma forma.
+En cuanto al supuesto del funcionario loco que dicta un acto justo
+y correcto, hay que destacar que la incapacidad mental es un defecto
+que afecta al acto. Si después, en vía de un recurso, se mantiene el
+acto, no será porque no existiera dicha incapacidad, sino por otras
+razones, como, por ejemplo, la confianza de los terceros, los derechos
+adquiridos, la economía procesal suponiendo que el mismo acto po­
+dría ser dictado de nuevo (principio éste que ha sido admitido por los
+tribunales, incluso en vía civil cuando la sentencia que se dictara se­
+ría la misma que se recurre, en cuyo caso, aún reconociendo la exis­
+tencia del vicio jurídico, se mantiene aquélla).
+Lo que sí hay que separar es la voluntad con la intención. Esta
+última es sinónimo de dirección a un fin determinado, que puede no
+ser ajustado a derecho. Puede haber malicia, dolo, etc... Pero en oca­
+siones el vicio del acto es independiente de esta malicia. Es posible
+una desviación de poder de buena fe cuando el acto discrecional no
+tiende al fin propuesto por el ordenamiento, por ejemplo, cuando rom­
+pe el principio de igualdad jurídica.
+Por último, hay que señalar que la tesis que se critica daría al
+172
+
+
+
+traste con la voluntad cuando se aplicase a las personas jurídicas de
+derecho privado. Aquí cobra de nuevo importancia la postura que
+hemos mantenido de que hay un derecho supraindividual que abarca
+a todas las organizaciones, incluso privadas.
+Una de las diferencias entre una rama jurídica y otra es que, en
+el campo privado (por mantener la terminología clásica), solamente
+interesa la voluntad externamente manifestada, pero en el derecho
+administrativo importa también su proceso de formación.
+En las actividades discrecionales, que son las que hay que vigilar
+más atentamente, la única forma de detectar una desviación de poder
+es, en la mayor parte de las ocasiones, buscar los antecedentes del
+acto externo, porque es en el proceso de formación donde se esconden
+los motivos reales de la actuación (en los casos, naturalmente, de
+malicia).
+En el tomo I hemos distinguido la diferente forma de comportarse
+ante el derecho, las personas físicas que actúan sus propios intereses,
+cuando actúan intereses de terceros y cuando actúan como titulares
+de órganos de personas jurídicas. Habrá que recordarlo en este
+momento.
+La diferencia, pues, entre “formación y manifestación” de volun­
+tad es fundamental. Cuando se trata de personas físicas que actúan
+sus propios intereses, sólo interesa la manifestación externa, planteán­
+dose entonces los problemas de las relaciones entre la voluntad inter­
+na y declarada. En el derecho individual, al igual que en el internacio­
+nal, prevalece la voluntad manifestada, pero en el administrativo (y
+diría que en supraindividual) lo hace la voluntad realmente formada,
+como afirma D’Alessio, y ello porque es la voluntad interna realmen­
+te formada por los órganos competentes la que asegura y realiza la
+tutela del interés público.
+De aquí desciende la gran trascendencia del procedimiento, hasta
+el extremo de que se ha llegado a afirmar que el derecho administra­
+tivo no es más que un conjunto de procedimientos.
+Puede ocurrir que se exija también una forma especial de mani­
+festación. En tal caso, aunque prevalece la voluntad, la invalidez pro­
+cederá por el aspecto puramente externo del incumplimiento de la
+forma prescrita.
+173
+
+
+
+De la voluntad pueden surgir actos ilegales o ilícitos. Los prime­
+ros, cuando se violan normas de acción (que regulan la conducta de
+la Administración), y los segundos, normas de relación que ocasionan
+daños a terceros. Esto último dará lugar a la teoría de la responsa­
+bilidad. Digamos, simplemente, que pueden coexistir actos ilícitos o
+ilegales, lo cual plantea el tema de si para accionar en cuanto al
+primer aspecto es preciso previamente, o a la vez, conseguir la anula­
+ción del acto. Esto solamente surge en caso de actos y no de hechos.
+
+V.
+
+OBJETO
+
+Suelen identificarse objeto y contenido. La doctrina italiana es
+proclive a esta identificación de tal forma que algunos autores no
+mencionan el objeto y otros hablan de “objeto o contenido”. Sayagués
+dice que “parte de la doctrina estudia el objeto del acto administra­
+tivo como un elemento con individualidad propia, afirmando que
+debe ser cierto, determinado y lícito. Sin perjuicio de compartir esa
+opinión en cuanto establece tales características del objeto del acto,
+parece más acertado considerar que ese elemento está comprendido
+dentro del contenido”.
+No comparto tal opinión porque se trata de aspectos con efectos
+también diferentes. Zanobini lo considera como elemente “a se”,
+acertadamente a mi juicio.
+El objeto de toda relación jurídica está constituido por las cosas
+y las prestaciones. “Cosa” en sentido jurídico es algo similar a “bien”
+en sentido económico; el objeto en sí mismo, es neutro para el dere­
+cho en el sentido de que sólo los sujetos forman la parte viva del
+mismo. Las cosas y las prestaciones las moldeamos los sujetos. De
+aquí que no se pueda hablar de objetos sin titulares. Hasta cuando
+queremos dar virtualidad jurídica a una masa de bienes, constituimos
+funciones que son los sujetos titulares de aquélla.
+La prestación es la actividad del deudor. Esta separación entre
+cosas y prestaciones se ve más claramente cuando se incumple una
+obligación de dar en que la actividad judicial puede llegar al apremio
+sobre el patrimonio del deudor, pero la prestación en sí misma que­
+da intacta, es decir afecta a la cosa simplemente. Cuando, por el
+contrario, se realiza además una actividad sustitutoria del juez,
+174
+
+
+
+como, por ejemplo, otorgar una escritura a la que se niega el deudor,
+se actúa sobre la cosa y la prestación.
+El objeto, por lo tanto, puede ser una cosa, una actividad, una
+relación, un comportamiento, un hecho, una situación jurídica, un
+status.
+Debe tener ciertos matices; ha de ser posible, lícito y determina­
+do o determinable.
+Pueden ser objeto de los actos administrativos los bienes de do­
+minio público, los cuales, por lo mismo, no pueden ser objeto de
+contratos privados. Inclussio unius, exclussio alterius. Una concesión
+demanial no es un arrendamiento, ni lo que paga el concesionario es
+una renta, ni cabe, por lo tanto, aplicar las normas civiles o mer­
+cantiles.
+Sin embargo, la existencia de la intervención administrativa en
+las relaciones privadas hace que el objeto de muchos actos adminis­
+trativos sea, precisamente, el negocio o acto jurídico privado; así
+sucede con el matrimonio civil. No queda muy clara la idea que Fer­
+nández de Velasco tiene del objeto. Afirma que por objeto se entien­
+de el “condicionamiento jurídico que se atribuye a un sujeto, o bien
+el efecto jurídico del acto emitido, es decir, la declaración, el recono­
+cimiento, la modificación o la extinción de una situación jurídica”.
+En el fondo está también tratando del contenido.
+
+VI.
+
+CONTENIDO
+
+Un artículo solamente dedica la L. P. A. a este requisito del acto:
+el 10, párrafo dos, según el cual “el contenido de los actos se ajustará
+a lo dispuesto en el ordenamiento jurídico y será adecuado a los fines
+de aquéllos”.
+Este precepto enlaza el contenido con la causa, y no distingue los
+distintos supuestos que pueden darse, precisamente, partiendo del
+contenido. Es, pues, defectuoso por exceso y por defecto.
+Como requisito es un elemento esencial, pero me atrevería a decir
+que dentro de ellos es uno de los principales, porque de él arranca la
+fundamental clasificación de los actos administrativos.
+175
+
+
+
+El contenido es el “qué” del acto, es su sustancia, es lo que dice,
+manda, autoriza, constata, etc...
+Lo define Forti como la “enunciación o complejo de enunciaciones
+que constituyen la declaración: en términos concretos, la indicación
+de todo aquello que el sujeto ha querido (si son negociales) o de todo
+aquello que ha pretendido declarar”. Obviamente, para este autor, el
+contenido se aplica a las dos clases de actos mencionados; negocia­
+les y meros actos.
+Para Lucifredi es la “disposición del acto que la autoridad adop­
+ta”, definición que acepta de Ranelletti. Es, en definitiva, la parte
+preceptiva del acto.
+Fragola lo considera la “sustancia” del acto, si bien identifica
+contenido y objeto como hace gran parte de la doctrina italiana. Re­
+presenta, dice, “un momento psicológico del agente, es decir, de su
+conciencia, de su pensamiento, en virtud de lo cual expresa una vo­
+luntad, un sentimiento, un juicio o simplemente un hecho que cono­
+ce”. Declaraciones de voluntad, de conocimiento, de opinión, son las
+varias especies en que los actos se agotan.
+Zanobini considera el contenido como “todo aquello que la auto­
+ridad dispone, ordena, permite, certifica o atestigua”, que variará se­
+gún la clase de acto de que se trate.
+Alessi lo define como “la concreta disposición a través de la cual
+se obtiene la directa e inmediata realización del interés concreto”.
+Garrido Falla distingue dos acepciones en la palabra contenido:
+a) La primera, lo separa de la forma y vendría a englobar lo que
+se denomina en términos forenses fondo del asunto.
+b) La segunda, siguiendo a Vitta, dice, sería la declaración de
+conocimiento, de juicio o de voluntad en que el acto consiste.
+Esta tesis es admisible, si bien también identifica contenido con
+objeto y lo define como “el efecto práctico que con dicho acto se
+pretende obtener: nombramiento de un funcionario, imposición de
+una multa, requisa de un vehículo”.
+En realidad, esta última acepción enturbia su concepto porque lo
+equipara a la causa (claro que hay que tener en cuenta la formulación
+176
+
+
+
+de la causa, para este autor similar a los llamados presupuestos de
+hechos para García de Enerría, posturas ambas que han sido ya estu­
+diadas y criticadas porque se trata de conditio juris, sin posibilidad
+de ser requisitos de los actos).
+Giannini niega que el contenido sea elemento esencial.
+En el contenido cabe hacer la siguiente clasificación que viene a
+constatar la división tripartita del negocio jurídico llevada a cabo por
+la pandectística:
+a)
+Necesario. Es aquella parte del acto que sirve para indivi­
+dualizarlo: la tipicidad es un carácter esencial de los actos adminis­
+trativos.
+Esta parte se califica a veces como “contenido natural”, pero me
+inclino más por el uso del vocablo necesario, y ello porque no se trata
+de una “cláusula de estilo” que se sobreentienda en caso de silencio,
+sino que, de no existir explícitamente dicho, el acto sería nulo de pleno
+derecho (inexistente).
+Por ejemplo, una concesión demanial implica un objeto (la parcela
+demanial) y un contenido, consistente en la declaración expresa de que
+sobre una parte determinada del dominio público se podrá llevar a
+cabo un uso exclusivo. En una autorización sería la remoción de un
+obstáculo para ejercer un derecho, una potestad, etc..., perfectamente
+delimitados. Hemos utilizado frecuentemente las palabras “vectorialidad jurídica” para indicar que las intervenciones policiales adminis­
+trativas (mediante autorizaciones) deben tener un sentido y una di­
+rección determinada; pues bien, cuando ésta se infringe, se comete
+un vicio del contenido necesario del acto. Por ejemplo, para explotar
+una industria (no liberalizada) es preciso proveerse de varias autori­
+zaciones, unas estatales y otras municipales (la licencia de apertura
+de establecimiento); pues bien, cada una tiende a un “fin” determi­
+nado, porque su contenido necesario así lo indica: la estatal tenderá
+a verificar razones económicas generales o del sector, mientras que
+las municipales tienden a comprobar cuestiones sanitarias, urbanísti­
+cas, de medio ambiente, etc... Si esta última, por ejemplo, se denegase
+por razones económicas, se produciría un vicio del acto por haberse
+infringido el contenido esencial.
+En una expropiación forzosa el contenido necesario es la priva177
+
+
+
+ción de derechos o intereses legítimos y, en su caso, la transferencia
+del bien.
+b) Implícito. Es la parte que, aunque no se exprese, se sobre­
+entiende incluida. Así, por ejemplo, los deberes de los autorizados,
+la duración de las licencias, las cláusulas implícitas en las concesio­
+nes (por ejemplo, la de sin perjuicio de tercero), las contenidas en plie­
+gos generales de contratación, etc...
+Esta parte no puede ser suprimida por la Administración, ni de
+oficio ni a petición de parte, porque en realidad es como el contenido
+necesario, pero no expreso. El acto contrario que la excluyese sería
+inválido.
+c) Eventual. Es la parte que puede ser introducida por la Ad­
+ministración junto a las anteriores. Son muy numerosas las cláusulas
+particulares que pueden ser impuestas sin rozar la legalidad.
+El contenido necesario deriva de la norma, bien de forma comple­
+ta y precisa o incompleta; el implícito deriva siempre de ella de for­
+ma total, y el eventual lo hace de la voluntad, lo cual presupone que
+exista esta voluntad, y esto sólo ocurre en los actos discrecionales, y
+de aquí la conclusión: los actos enteramente vinculados no pueden
+contener cláusulas eventuales. De admitirse en cambio, actos adminis­
+trativos atípicos, las cláusulas de este tipo asumirían una gran im­
+portancia.
+Estos tres tipos de contenido deben así conectarse con la gran
+división, tantas veces citada entre actos discrecionales y vinculados o
+reglados, y recordando cuanto se ha dicho antes sobre los momentos
+de la discrecionalidad y sobre la existencia de partes regladas y par­
+tes discrecionales en la mayor parte de los actos administrativos, se
+puede trazar el siguiente cuadro:
+Actos de contenido vinculado. No pueden contener un conteni­
+do eventual, ya que el necesario y el implícito están predeterminados
+de forma precisa en la norma, agotando prácticamente la especie.
+Actos de contenido discrecional. En ellos, el contenido necesario
+está imprecisamente fijado en la norma, la cual utiliza conceptos in­
+determinados cuya unidad de medida debe ser prefabricada por la
+propia Administración a través de actos no normativos (vid. tomo 1,
+páginas 407 y siguientes). El implícito o no existe, o aunque sea par­
+178
+
+
+
+cialmente vinculado, no empece a su carácter discrecional. Sin em­
+bargo, no puede aceptarse la tesis de Lucifredi de que esto sólo puede
+darse en los actos atípicos, porque éstos no existen.
+Actos de contenido parcialmente vinculado y parcialmente dis­
+crecional. Forman la parte más importante de actos en el mundo
+real, bien entendido que esta parcialidad puede afectar al contenido
+o a los demás elementos (el qué, el cuándo y el cómo).
+Interesa centrarse en los casos de parcialidad en el mismo conte­
+nido. Distingue Lucifrendi los siguientes supuestos:
+— Actos de contenido necesario discrecional.
+— Actos de contenido necesario vinculado, pero discrecional en
+el eventual.
+Puede ocurrir que el contenido implícito esté fijado a través de
+normas dispositivas y, por tanto, que el eventual pueda contrariarlo,
+derogarlo, modificarlo, etc... Ya hemos manifestado en otro lugar la
+existencia de normas dispositivas en el derecho público (distintas,
+por supuesto, de las cogentes o inderogables. Esta rama jurídica no
+está formada sólo por las últimas). Puede, en cambio, el contenido
+implícito ser inderogable, pero quedar todavía un margen de discrecionalidad para el eventual en relación con algún efecto adicional.
+La separación que hemos trazado entre objeto y contenido no
+obstaculiza el que se apliquen a éste algunas de las exigencias que
+vimos. De acuerdo con el artículo 40 de la L. P. A. y con la Constitu­
+ción, deberán respetarse los siguientes principios generales: igual­
+dad, proporcionalidad entre fines y medios, legalidad, posibilidad, li­
+citud y determinación. El aspecto que diferencia el acto negocial de
+derecho público del de derecho privado es que aquél, además de te­
+ner todas estas condiciones, debe ser oportuno. Este concepto escapa
+de lo que es un deber jurídico estricto; su infracción, es decir, la
+inoportunidad en la medida, no implica ilegalidad por no tratarse de
+un vicio jurídico y normalmente escapa a un control jurisdiccional,
+aunque no, por supuesto, a uno político. Ya veremos más adelante lo
+que esto significa.
+En el momento oportuno, al estudiar la invalidez de los actos ad­
+ministrativos, se examinarán las violaciones y las consecuencias de
+tales principios.
+179
+
+
+
+En este momento interesa destacar la existencia de dos clases de
+contenido:
+a) Positivo, es decir, cuando el acto accede a la petición formu­
+lada por el administrado en cualquier forma de manifestación.
+b) Negativos o denegatorios, cuando se rechaza la misma, lo
+cual puede suceder mediante acto expreso y formal, por vía de silen­
+cio, mediante acto tácito o implícito.
+
+VIL CAUSA
+También sobre la causa cabe hacer variadas consideraciones, por­
+que o bien no se la estima como un elemento esencial del acto jurídi­
+co, o bien se la identifica con el contenido, con el objeto, etc... En
+resumen caben las siguientes posiciones:
+a)
+La causa como presupuesto de hecho o de derecho. Es la
+tesis de Waline. En algunas decisiones ejecutorias (es decir, en los
+actos administrativos), los arréts del Consejo de Estado, al resolver
+recursos por exceso de poder, han mencionado expresamente la inexitencia de “causa” como infracción; se trata de actos en los que existe
+como antecedente una determinada situación de hecho o de derecho.
+De esta forma, la inexistencia de causa aparece como una variante
+del error de hecho o de la falsa apreciación o cualificación de aqué­
+llos. Así, una excedencia por supresión de plazas requiere la mencio­
+nada supresión, no se puede declarar en excedencia voluntaria a un
+funcionario si no es a su petición.
+Esta tesis es también la de Garrido Falla, para quien la causa res­
+ponde a la pregunta ¿por qué? De esta forma, dice, se integran una
+serie de circunstancias de hecho como elementos del acto administra­
+tivo a través de la causa.
+No compartimos esta tesis, porque entiendo que las circunstancisa
+de hecho o de derecho (que en estos casos pasarían a ser simples da­
+tos fácticos) son condiciones juris que no pueden, por esta razón,
+estimarse como elementos esenciales de los actos administrativos.
+Cuando un acto se produce sin atender las circunstancias de he180
+
+
+
+cho necesariamente previas, habrá una infracción indudablemente,
+pero no por inexistencia de causa.
+b) La causa como objeto. Ha sido también criticáda la teoría
+de la causa desde otra perspectiva, y ha sido la imposibilidad de
+aislarla de otros elementos, tales como el objeto.
+c) El fin como sustitutivo de la causa. Parte de la doctrina no
+habla de causa, sino de fin.
+d) La causa como elemento no esencial del acto administrativo.
+e) La causa como concepto distinto del que se utiliza en el dere­
+cho privado.
+Esta panorámica da pie para la reflexión. Ante todo, no se puede
+olvidar que la construcción del concepto procede del derecho priva­
+do, en el que se aplica a los contratos y a los actos unilaterales, luego
+no es cierta la crítica de que en el derecho administrativo, por actuar
+unilateralmente, no tendría encaje la teoría de la causa.
+En el campo privado suele distinguirse la causa jurídica y la cau­
+sa natural, la primera llamada también causa inmediata y la segunda la
+causa remota o motivo. Esta distinción entre causa y motivo se ha ido
+superando a través de la admisión del elemento subjetivo frente a la
+visión puramente objetiva, que, por lo demás, es la que campea en el
+Código Civil.
+Por influjo de Josserand se fue abriendo camino la idea de que los
+móviles impulsivos eran algo que había que tener en cuenta a la hora
+de calificar la causa. Como ha dicho agudamente Waline, “la causa
+jurídica es comparable a esos órganos del cuerpo humano que no pa­
+tentizan su existencia hasta que no están enfermos o tienen un defec­
+to”, y esto es realmente lo que sucede: que el problema adquiere toda
+su relevancia cuando se plantea el momento de la calificación jurídica
+de la misma en relación con actos determinados para contrastar su
+validez.
+Gracias a la admisión del aspecto subjetivo, muchos contratos
+cuya causa sería, desde el punto de vista objetivo, correcta, debían
+declararse nulos atendiendo al móvil práctico perseguido, por ejem­
+plo, contratos sobre prostitución, drogas, etc...
+181
+
+
+
+En términos generales, la causa es el fin práctico del acto. Carnelutti ha sostenido que la causa en todos los ámbitos del derecho,
+incluso penal, es el “interés” que el acto tiende a satisfacer. El ejem­
+plo que cita, entre otros, es el siguiente (tomo la cita de Forti). La
+compra de cosa propia es un contrato sine causa, pero no sin fin,
+porque actos sin fin no existen. Concluye, en consecuencia, que la
+causa no es el fin, sino el interés: la compra de cosa propia es “sin
+causa, porque yo no tengo interés en comprar la cosa que ya es mía”.
+La crítica a esta postura ha sido hecha desde muchos puntos de
+vista, pero hay uno fundamental: el interés no puede faltar nunca,
+como ya advertía Jehring, es imprescindible en cada actividad; lo
+que ocurre es que hay intereses de hecho no reconocidos por el dere­
+cho y por ello el interés lo que hace es identificar y puntualizar el
+fin. De esta forma puede conectarse la teoría del interés porque no
+desvirtúa la del fin práctico.
+En el terreno de los actos jurídicos unilaterales privados, la rele­
+vancia de los motivos es mayor que en los bilaterales. Considerando
+como unilateral a la donación, aunque sea un contrato en el derecho
+positivo (lo cual no está aceptado pacíficamente), se ve claramente
+que la voluntad que da vida al negocio jurídico puede estar matizada
+por motivos y con mayor intensidad aparecen éstos en el momento
+de su revocación. Lo mismo puede decirse del testamento y del ne­
+gocio de fundación.
+Si ahora pasamos al campo administrativo y recordamos la distinta
+posición que adoptan las personas frente al bloque jurídico (tomo I),
+se comprenderá fácilmente que el fin, la causa y los motivos vengan
+a coincidir, aunque cada uno pueda observarse desde perspectivas
+diferentes.
+Estos conceptos unificados en la idea de causa ¿pueden aplicarse
+a todos los actos, o sólo a los negocíales que consisten en declara­
+ciones de voluntad?
+La doctrina está dividida al respecto. Generalmente se piensa que
+sólo es aplicable la causa a los negocios jurídico-públicos. Cierto es
+que los que no lo son producen efectos jurídicos, pero no puede ha­
+blarse de causa; un certificado producirá sus efectos jurídicos aun­
+que la autoridad que lo expida no los haya tenido en cuenta o incluso
+tenga en cuenta efectos diversos (Forti, Fragola, Guicciardi). Sin em­
+182
+
+
+
+bargo, otro sector doctrinal (Zanobini, Miele) admite la posibilidad
+de que la causa concurra también en los meros actos administrativos
+porque son, a fin de cuentas, actos voluntarios. El autor de una decla­
+ración de conocimiento también se propone un fin específico que
+constituye su causa jurídica; en los informes, el fin es el iluminar a la
+autoridad sobre algo que ésta deba resolver; en los certificados, el
+fin es el constituir una prueba pública de un hecho, de una capaci­
+dad, de una condición, etc...
+En realidad, la idea de causa en este sentido adoptada, engloban­
+do motivos y fin, sólo es predicable de los actos negocíales. En los
+demás, la causa está preestablecida legalmente. Quizás habría que
+distinguir, dentro de éstos, dos tipos bien diferenciados: los informes
+y dictámenes y los demás actos. Los primeros admiten, a mi juicio,
+el concepto de causa. Piénsese en los vinculantes o cuasi-vinculantes.
+En el complejo causa-motivo-fin hay que matizar que ese fin
+práctico, que es básico en el elemento causal, debe ir necesariamente
+unido a los motivos y al fin en un doble sentido:
+— Que debe perseguirse siempre el interés público, y
+— Que ese interés público debe ser el específico y concreto esta­
+blecido por la norma.
+Una reforma orgánica, dice Forti, que tuviese como fin librarse de
+un funcionario buscando ficticiamiente este fin con el pretexto de
+una supresión del puesto de trabajo, sería ilegal porque viola el fin
+para el cual se concede la potestad organizatoria.
+Precisamente este elemento del acto lo que está proclamando es
+la antijudicidad de perseguir fines inmorales, ilícitos (que lesionan a
+terceros), contrarios a las normas imperativas, personales, etc...
+El ordenamiento español recoge este elemento en los siguientes
+preceptos:
+— Artículo 103 de la Constitución, cuando establece que la Ad­
+ministración sirve con objetividad los intereses generales.
+— Artículo 40 de la L. P. A., al disponer que el contenido de los
+actos será adecuado a los fines de éstos.
+— Artículo 115 de la L. P. A. y 83 de L. J., cuando reconocen la
+infracción de desviación de poder.
+183
+
+
+
+— Artículo 6 del Reglamento de Servicios de las Corporaciones
+Locales, cuando prevé que el contenido de los actos de intervención
+será congruente con los motivos y fines que lo justifiquen.
+
+VIII. MOTIVACION
+Generalmente suele considerarse la motivación como un elemento
+formal de los actos administrativos. Esto es un error.
+En la fundamental monografía de Jaccarino (1933) se afirma que
+“la motivación es un elemento del acto en aquellos casos en los que,
+por disposición de la Ley o por su propia naturaleza, el acto no puede
+existir sin producir sus efectos sin ella; es, en cambio, un medio de
+prueba de la legitimidad y oportunidad del acto cuando, no siendo
+obligatoria, no se prohíbe”.
+A nuestro juicio, esta afirmación es inexacta, porque tanto la mo­
+tivación obligatoria como la facultativa son elementos esenciales, ya
+que a través de ella se podrá detectar el interna corporis del acto.
+En realidad, la motivación es la manifestación externa de la cau­
+sa, motivo y fin, no en el sentido de que sea un puro elemento for­
+mal, sino que revela externamente lo que el acto persigue. Esto es im­
+portante a efectos de las consecuencias de su infracción.
+Aquellas legislaciones en las que no existe una norma explícita
+sobre la obligación de motivar, se plantea el problema de si es obli­
+gatorio o no insertarla en los actos administrativos.
+Se han sostenido los siguientes criterios:
+— Obligación si lo impone la Ley, inoperancia de la motivación
+facultativa que carecería de virtualidad jurídica a efectos impugnatorios.
+— Obligación atendiendo a la naturaleza del acto, y así se
+necesaria en los actos discrecionales limitadores de derechos,
+consultivos, en los sancionadores, en los dictados después de
+ciones contradictorias, en las órdenes, etc... En cambio, no se
+necesaria en los actos preparatorios.
+
+estima
+en los
+actua­
+estima
+
+— Obligación de motivar a medida que aumenta la discrecionalidad.
+184
+
+
+
+— Obligación para los actos de control que modifiquen el contro­
+lado o lo revoquen, pero no para los confirmatorios de éstos.
+— Obligación de motivar para los actos recurribles por exceso de
+poder (en el significado específico que adoptan estas palabras en Ita­
+lia como un vicio del acto y no como una vía de recurso).
+La motivación puede ser obligatoria o facultativa, antecedente o
+previa, simultánea o sucesiva, según que conste en el mismo actodocumento o aparte, explícita e implícita. Esta última sería la que
+deduciría de la propia naturaleza del acto. A veces se considera como
+tal la mera indicación del artículo de la norma.
+Giannini estima necesaria la motivación en los siguientes casos:
+a) Cuando el motivo es vinculado (cese de un funcionario ilegelmente nombrado).
+b) Cuando hay alternatividad de motivos prefijados (sanción
+disciplinaria por varios motivos alternativos).
+c) En los procedimientos de segundo grado (anulación, revoca­
+ción, convalidación, etc...).
+d) Por principio, deben ser motivadas las deliberaciones y las
+decisiones.
+En los supuestos a) y b), la motivación se exige por el principio
+de legalidad; en los c) y d), por el de articulación.
+A mi juicio, la motivación facultativa, de existir, tiene el trascen­
+dental papel de ampliar el margen de control del acto: una desvia­
+ción de la motivación lo transformaría en ilegal por la razón de que
+la Administración habría fabricado su propio modelo de actuación y
+lo había infringido. Si, por ejemplo, se reparte una cantidad de dine­
+ro entre los funcionarios de una oficina “en razón a haber llegado
+puntualmente a ella”, otro funcionario en idénticas condiciones, y que
+no hubiera recibido una cantidad similar, podría invocar la ilegalidad
+del acto porque la motivación había autovinculado a la Administra­
+ción a respetar el principio de igualdad.
+La motivación puede ser también amplia o sucinta, pero en cual­
+quier caso ha de ser suficiente para que se puedan conocer los mo­
+tivos.
+185
+
+
+
+El ordenamiento jurídico español contiene un precepto concreto
+de la L. P. A. (el art. 43) dedicado a la motivación.
+La jurisprudencia la considera como elemento de forma y su in­
+fracción se regula por lo dispuesto en el artículo 48.2, que limita la
+anulabilidad a los casos en que el acto carezca de los requisitos for­
+males indispensables para alcanzar su fin o cuando dé lugar a indefen­
+sión de los interesados.
+Como dijimos, es ésta una concepción muy pobre de la motiva­
+ción y hay que reconducirla a la sustancia, con la importante conse­
+cuencia de que no se incluiría en el párrafo 2), sino en el 1), del ar­
+tículo 48 de la L. P. A.
+¿Cuál es la función de la motivación? Es esencial. Su mención
+permite desenmascarar un posible vicio de desviación de poder y,
+además, sirve a la propia Administración, ya que facilita a los órga­
+nos subalternos la aplicación correcta de la norma en casos similares.
+Por ello, se ha afirmado (Stassinopoulos) que la motivación debe
+imponerse en virtud del principio de legalidad. Para este autor deben
+motivarse los siguientes actos:
+a) Los que suprimen una situación ya creada, como revocacio­
+nes y anulaciones.
+b) Actos que impliquen un cambio de la práctica usualmente
+seguida por la Administración.
+c) Los contrarios a las pruebas documentadas en el “dossier”.
+d) Cuando la Ley determina de forma limitativa las razones por
+las cuales la emisión de un acto es autorizado, debe motivarse el acto
+que se dicte.
+e) La obligación de motivar no se sobreentiende con la utiliza­
+ción del argumento “a contrario” ; así, cuando la Ley establece que
+la denegación de un permiso para instalar una fábrica debe ser mo­
+tivada, el acto otorgando el permiso no queda exento de la obligación
+de motivar.
+f) Cuando se crean situaciones desfavorables para los adminis­
+trados o excepcionales (retroactividad de un acto administrativo).
+Junto a los principios invocados sobre la funcionalidad de la mo­
+tivación no puede olvidarse un aspecto importante: sirve para la
+186
+
+
+
+interpretación de la norma aplicada, para la constatación de los he­
+chos y para su calificación jurídica. Su infracción conduce a la ilegali­
+dad por violación en la interpretación, por error en la constatación
+de los hechos y por error de derecho.
+El artículo 43 de la L. P. A. dice que serán motivados “con su­
+cinta referencia de hechos y fundamentos de derecho” :
+a) Los actos que limiten derechos subjetivos.
+La palabra derecho hay que tomarla en sentido amplio, incluyendo
+también los intereses legítimos o derechos debilitados. Toda limita­
+ción directa o indirecta en la esfera jurídica del administrado debe
+ser motivada. Así, por ejemplo, la jurisprudencia la exige para la
+inclusión de una finca en el Registro Municipal de Solares, y en
+general, en todos aquellos casos en que se restrinja la esfera de ac­
+ción de un administrado. El artículo 179 de la Ley del Suelo la exige
+en la denegación de licencias.
+b) Los actos que resuelven recursos.
+Es lógico que así sea. Se podría invocar aquí el principio general
+contenido en los artículos 371 y 372 de la L. E. C. respecto de las
+Sentencias y Autos judiciales, no porque identifiquemos al acto ad­
+ministrativo con tales resoluciones, sino porque se está ejercitando
+una efectiva función judicial a través de órganos administrativos.
+Esto es así incluso si el acto recurrido no estaba sujeto a la obliga­
+ción de motivar.
+c) Los que se separen del criterio seguido en actuaciones prece­
+dentes o del dictamen de órganos consultivos.
+También es lógico este apartado. Si la consulta trata de iluminar
+la decisión posterior es razonable que si ésta se aparta del dictamen
+emitido deba, a su vez, motivar el porqué. No se olvide que los actos
+consultivos son, por naturaleza, motivados. La modificación del pre­
+cedente implica rupturas para el futuro del principio de igualdad.
+d) Aquellos que deban serlo en virtud de disposiciones legales.
+Las palabras “disposiciones legales” deben tomarse en el sentido
+de ley material, es decir, innovadora, aunque formalmente sean re­
+187
+
+
+
+glamentos. No hace falta invocar aquí la motivación exigida para los
+dictámenes del Consejo de Estado o para los informes de las Aboga­
+cías del Estado, porque, como hemos dicho, es la naturaleza de la
+función y no la Ley la que la impone.
+e)
+Los acuerdos de suspensión de actos que hayan sido objeto
+de recursos.
+Siendo el principio general el de la ejecutoriedad de los actos
+aunque se recurran (art. 116 de la L. P. A.), la motivación viene im­
+puesta porque actúa a modo de dispensa que es preciso razonar. El
+artículo 34 de la Ley de Régimen Jurídico de la Administración del
+Estado dice expresamente que tales actos de suspensión “serán mo­
+tivados”.
+La motivación tiene un límite: los actos políticos. Se ha dicho
+respecto de ellos que la naturaleza del acto “impide” la motivación
+(Rivalta). Se aduce como argumento que la motivación en estos casos,
+sobre no aportar ninguna utilidad para el administrado, podría pro­
+ducir grave daño a la Administración.
+No me parece exacta esta postura. Normalmente no existe prohi­
+bición de motivar, sino posibilidad de no hacerlo; pero si a pesar
+de ello se motiva, no puede considerarse defectuoso el acto que se
+dicta. El problema carece en realidad de interés, por cuanto se re­
+fiere al acto político en sí mismo, pero puede tenerlo por lo que se
+refiere a la responsabilidad derivada de aquél.
+El artículo 43 de la L. P. A., en su párrafo 2, excluye de la moti­
+vación, pero no la prohíbe (“se exceptúan de lo dispuesto en el pá­
+rrafo anterior”), los actos enunciados en el artículo 40, tí), de la L. J.,
+que se refiere a los actos de policía sobre prensa, radio, cinematogra­
+fía y teatro, exclusiones que carecen prácticamente de interés, por
+cuando la Ley de Prensa de 18 de marzo de 1966 y la de 22 de julio
+de 1967 lo habían modificado por lo que se refiere a prensa, cinema­
+tografía y teatro, y la Constitución, en su artículo 24, 1, abre el cauce
+judicial sin que pueda producirse indefensión.
+La Jurisprudencia considera la motivación como algo ligado a la
+forma y su infracción se coloca en el párrafo 2 del artículo 48 de la
+L. P. A. Pero dejando aparte esta colocación, a mi juicio inexacta,
+tiene establecido una doctrina de la que destacan los siguientes prin­
+cipios :
+188
+
+
+
+a) Admisión de la motivación in aliunde mediante la ficción de
+considerar que forman parte del acto administrativo las propuestas
+o informes que lo preceden (Ss. 7 de abril de 1956, 7 de junio de 1960,
+9 de enero de 1974, 26 de diciembre de 1979). De aquí se desprende
+que si bien es admisible la motivación previa, no lo sería la posterior.
+Además, para que surta efectos la antecedente ha de hacer referencia
+a ella el acto en cuestión.
+b) No necesidad de que la motivación contenga los “fundamen­
+tos de derecho”, aunque así se exige en el artículo 43, y ello por la
+razón de que el principio iura novit curia tiene plena aplicación (S. de
+14 de noviembre de 1978). En realidad, no es convincente este argu­
+mento, porque también rige el principio en el proceso civil y, sin
+embargo, se exige que las demandas contengan fundamentos de
+derecho.
+c) La suficiencia de la motivación es exigióle con carácter gene­
+ral; lo que sucede es que no existen parámetros, módulos o puntos
+de referencia para poder medir dicha suficiencia. La simple refe­
+rencia a un artículo cuando contiene varios contenidos no es sufi­
+ciente (S. de 5 de marzo de 1979).
+En nuestro derecho la obligación de motivar es ya antigua. La
+L. P. A. no ha hecho más que seguir la tradición, especificando los
+supuestos en que es obligatoria.
+La R. O. de 10 de junio de 1913 prohibía el uso de la fórmula
+“Visto” dentro del procedimiento gubernativo, ordenando que los
+acuerdos administrativos debían ser fundados. El Reglamento de 9 de
+julio de 1917, artículo 227, prohibía usar dicho término en los pro­
+veídos administrativos de la Subsecretaría de Gracia y Justicia. La
+Jurisprudencia de comienzos de siglo consideraba ilegal el uso de
+esta fórmula por infringir la Ley de Procedimiento Administrativo de
+19 de octubre de 1889, si bien cabía aceptarla en las peticiones de
+favor.
+El artículo 331 del Estatuto Municipal disponía que los acuerdos
+municipales sobre establecimiento de arbitrios con fines no fiscales
+debían ser motivados expresando el fin o fines perseguidos, pudiendo
+ser impugnados por no ser los fines perseguidos de la competencia
+municipal, por incongruencia manifiesta entre los fines propuestos y
+el arbitrio mismo y por lesionar injustamente interés económico le­
+gítimo.
+189
+
+
+
+Este precepto acierta plenamente en la idea de lo que debe ser
+la motivación: poner de manifiesto el motivo, la causa y el fin per­
+seguido (conceptos que, como sabemos, van inseparablemente unidos).
+Toda intervención administrativa tiene su horizonte y a él hemos
+de acudir para examinar la validez o no del acto de intervención,
+por ejemplo, la expropiación. Obsérvese que el artículo 9.° de la Ley
+de 16 de diciembre de 1954 se refiere a la utilidad pública o interés
+social del “fin” a que haya de afectarse el objeto expropiado. No se
+habla de causa ni de motivo, precisamente porque no hace falta, ya
+que aquella palabra es lo suficientemente expresiva de su sentido y
+alcance. Cuando decimos que la causa expropiandi falta o desaparece,
+queremos decir que el fin ha desaparecido o no existe.
+Digamos, en conclusión, que la “motivación es el instrumento o
+vehículo que expresa la causa, motivo y fin del acto”.
+Por ello, no es posible separar causa y motivo, como ha hecho
+parte de la doctrina y hace la Sentencia de 6 de febrero de 1979,
+utilizando la vieja fórmula de que la causa es la causa próxima, y el
+motivo, la causa remota.
+El elemento causal adoptado en este sentido tiene dos partes bien
+diferenciadas:
+— La puramente íntima y psicológica, casi colocada en el sub­
+consciente.
+— La objetiva.
+La primera es incontrolable por medios jurídicos, escapa a toda
+idea de fiscalización ad extra, pero la segunda es objetivable.
+Dentro de este aspecto objetivable aún hay que distinguir dos
+momentos:
+— El que puede controlarse por medios jurídicos y que da lugar
+a la desviación de poder.
+— El que sólo se refiere a la oportunidad y conveniencia admi­
+nistrativa, es decir, al deber de buena administración, cuyo control
+es mucho más limitado.
+
+190
+
+
+
+IX.
+
+FORMA
+
+El estudio de este requisito del acto administrativo exige distin­
+guir dos ideas de inmediato:
+a) La forma externa de la declaración.
+b) El iter que ha conducido a su emanación.
+En este momento trataremos tan sólo de la primera, remitiendo
+al examen del procedimiento administrativo el segundo.
+Se ha hablado así de formas internas y externas.
+La forma de los actos jurídicos y el formalismo en general fue
+predicable de las sociedades primitivas y poco avanzadas. En el anti­
+güe derecho romano las manifestaciones formales ocupan un lugar
+preponderante, es la etapa de las formas simbólicas, que va cediendo
+paulatinamente a medida que el derecho se va haciendo más popular.
+Las antiguas formas sagradas, guardadas celosamente, se superan con
+la publicación de las fórmulas. En realidad, las formas simbólicas se
+remontan a la época en que el derecho se confunde con la fantasía;
+por ello, a medida que la reflexión extiende su imperio —dice Savigny—, estas formas pierden gran parte de su interés, llegando a su
+total abandono.
+Surgen entonces, como superación del extremo formalismo, la re­
+dacción escrita de los actos y, principalmente, la comparecencia de
+las partes ante un tribunal, notarios o empleados encargados de llevar
+el registro de los mismos. Entre los romanos la más importante fue
+la insinuación judicial. Consistía en que las partes comparecían ante
+la curia de una ciudad o ante la cancillería (officium) del jefe de una
+provincia y, copiadas textualmente las convenciones y registradas (ac­
+ta, gesta), se entregaban después copias certificadas tantas veces cuan­
+tas fuera necesario.
+Distingue Savigny varias clases de manifestaciones de la voluntad
+al margen de dicho formalismo:
+a) Expresa. Puede ser oral, escrita o por gestos.
+b) Tácita. Resulta de ciertos actos que, teniendo un fin particu­
+lar, sirven, sin embargo, como medio para reconocer la voluntad con
+certeza completa. Estos actos, modernamente, se llaman facía con191
+
+
+
+cludentia y a ellos me referí cuando traté de la delimitación entre ac­
+tos y hechos materiales.
+Frecuentemente el acto no basta por sí sólo para establecer la
+manifestación de voluntad, siendo necesario el concurso de otras
+circunstancias. La declaración tácita es una presunción de la existen­
+cia de la voluntad que puede destruirse por prueba en contrario.
+Ejemplo: acreedor que entrega a su deudor el título de la deuda,
+que, según las circunstancias, podrá estimarse como condonación de
+la deuda, o bien como una presunción de pago o, en fin, como entrega
+para que el deudor saque una copia.
+c) Silencio. El principio no puede ser considerado como asenti­
+miento o confesión; sin embargo, existen excepciones, dice Savigny,
+debidas, bien a las relaciones de familia que comportan un especial
+respeto para ciertas personas, bien a la relación entre el silencio y
+los actos precedentes. Normalmente en tales casos se estima que el
+silencio es positivo.
+Así, por ejemplo, cuando un padre celebraba esponsales por su
+hija, el silencio de ésta equivalía a su consentimiento y recípricamente. Un hijo sometido al poder paterno no puede contraer matri­
+monio sin el consentimiento paterno, pero si el padre tiene conoci­
+miento del matrimonio, su silencio equivale a consentimiento. Cuando
+una mujer casada que no vive con su marido anuncia a éste que está
+embarazada, el silencio de éste equivale a confesión de paternidad.
+El propietario que después de expirar el arrendamiento deja al locata­
+rio usar de la cosa arrendada consiente por esto mismo en una pro­
+longación del contrato. El juicio de un árbitro no obliga a las partes
+sino por su consentimiento, pero si dejan pasar diez días sin recla­
+mar, su silencio se interpreta como aquiescencia.
+Tanto en las declaraciones tácitas como en el silencio cabe hacer
+en contra protestas o reservas para enervar sus consecuencias jurí­
+dicas.
+d) Ficticia. Así como las manifestaciones anteriores tienen una
+nota en común: la voluntad es un hecho real y cierto, en los casos
+de manifestaciones ficticias no puede sostenerse que aquélla exista.
+Por ejemplo, si se trata de seguir un proceso contra una persona
+ausente, sus hijos, ascendientes, cuñados y sus manumitidos obran
+192
+
+
+
+en calidad de procuradores ficticios, del mismo modo que el marido
+respecto de su mujer.
+Los vicios de la voluntad no tienen la misma importancia en este
+tipo de manifestaciones que en las demás.
+Esta visión, que puede aplicarse a toda la pandectística, pone su
+acento en el dogma de la voluntad, principio que sustentó toda su
+construcción jurídica. Sin embargo, si trasladamos dicho acento al
+resultado de las actuaciones humanas, muchas de estas clasificacio­
+nes podrían unirse. La prescripción, por ejemplo, ya sea extintiva o
+adquisitiva, puede enlazarse con una voluntad tácita de abandono
+o con las simples consecuencias que el Ordenamiento jurídico da al
+transcurso del tiempo, abstracción hecha de dicha voluntad.
+En el derecho administrativo las cosas no suceden de igual modo.
+Lo primero que habría que preguntarse es qué principio predo­
+mina en este campo, el formalista o el antiformalista.
+Kormann sostenía que en el derecho público la forma juega mayor
+papel que en el privado. En éste hay zonas donde la forma se exige
+con mayor rigor que en otras; por ejemplo, en el derecho de familia
+debido al carácter social, en el derecho hereditario, pero tiene menor
+trascendencia en el derecho de obligaciones. A pesar de ello, enuncia
+el principio general de la innecesidad de forma en el acto adminis­
+trativo.
+Sin embargo, identifica silencio administrativo y actos tácitos,
+como se deduce de la afirmación de que el silencio es una declara­
+ción de voluntad que no se manifiesta de forma expresa, sino a tra­
+vés de actos concluyentes (schlüssige Handlungeri).
+Esta postura se ha recogido por la doctrina posterior, y así Fortshoff, Peters, Wolff llegan a la misma conclusión.
+Ante todo, hemos de separar la forma del acto autónomo, que es
+la que estamos tratando ahora, de la que adoptan los actos depen­
+dientes, como las notificaciones, publicaciones, etc...
+En Italia se sostiene que los provvedimenti (actos que, como sabe­
+mos, son discrecionales y afectan al binomio autoridad-libertad) de­
+ben como principio utilizar la forma escrita. Igualmente, la doctrina
+francesa estima que incluso en caso de silencio de la Ley se impone
+la forma escrita.
+193
+
+
+
+En España, el artículo 41.1 de la L. P. A. dispone que “los actos
+administrativos se producirán o consignarán por escrito cuando su
+naturaleza o circunstancias no exijan o permitan otra forma más ade­
+cuada de expresión y constancia”.
+Se desprenden de aquí dos conclusiones:
+a) Que los actos administrativos, todos sin excepción, están so­
+metidos al principio formal.
+b) Que la forma usual es la escritura.
+El artículo citado utiliza conceptos indeterminados: naturaleza o
+circunstancias no exijan o permitan...
+Cabría entonces preguntarse: ¿la forma escrita es el genus y las
+otras formas la especie?, ¿aquélla es la regla y éstas la excepción?
+La duda surge porque se habla de “exigir o permitir”, y podría darse
+el caso de que esta amplia autorización fuera en detrimento de la
+forma escrita, máxime con la utilización cada día con mayor inten­
+sidad de las formas mecánicas.
+Vamos pues a determinar el alcance de este precepto:
+1. Actos escritos. Es la regla general. La razón de la escritura
+está en un hecho poco observado por la mayor parte de la doctrina:
+la gestión de los negocios públicos se lleva a cabo por generaciones
+que se van sustituyendo por ley de vida, pero la Administración per­
+manece. Hace falta, pues, que existan antecedentes, caminos seguidos,
+surcos trazados, etc..., que permitan observar y conocer cómo han
+ido evolucionando dichos asuntos. Para esto, fundamentalmente, se
+exige el “expediente”.
+El ropaje exterior de los actos administrativos es el mismo que el
+de las normas. La Administración tiene la misma forma externa de
+pronunciarse, es decir, de hablar. Habrá que acudir al contenido para
+determinar si se trata de norma o de acto.
+Estas formas ya las conocemos (tomo I). Según el órgano (dentro
+del Estado) y el ente público, los nombres acuñados serán distintos:
+— Real Decreto, deliberado en Consejo de Ministros, con la fir­
+ma del Rey y del ministro competente o Presidente del Gobierno
+(artículos 62 y 64 de la Constitución).
+194
+
+
+
+— Reales Ordenes, emanadas unilateralmente por el ministro so­
+bre asuntos de su Departamento, con su sola firma.
+— Resoluciones de los órganos ministeriales, Subsecretarías, Di­
+recciones Generales, etc..., en materias de su competencia propia.
+— Real Decreto con firma del Rey y refrendo del Ministro de
+Justicia para los acuerdos del Consejo General del Poder Judicial
+sobre nombramiento de presidentes y magistrados, y
+— Real Orden sin tales requisitos para el de jueces.
+A partir de aquí, los nombres varían: ordenanzas de los gober­
+nadores, acuerdos municipales o provinciales, decretos de alcaldes
+y presidente de la Diputación, etc...
+Esta forma es importante, porque debe respetar el rango jerár­
+quico (dentro de cada ente, se entiende) y, a su vez, los actos de en­
+tes inferiores deben respetar los del Estados siempre que éste actúe
+dentro de sus atribuciones (por ejemplo, reglamentos generales para
+todo el territorio nacional al que han de supeditarse los Municipios).
+La redacción de los actos mencionados es, normalmente, la si­
+guiente: encabezamiento, preámbulo o exposición de motivos (moti­
+vación), parte dispositiva consistente en el pronunciamiento concre­
+to (jubilación, sanción, etc...), firma. Por supuesto que no todos los
+actos incluyen todas estas partes, porque dependerá de su impor­
+tancia.
+En los Departamentos, la redacción de las órdenes está indicando
+que el ministro despacha con un órgano inferior y a él, o a varios, se
+dirige. Es ésta una reminiscencia formal de la época en que verdade­
+ramente se despachaba de viva voz con los inferiores.
+Con carácter exclusivo se reserva la forma escrita para dos tipos
+de actos:
+a) Los que exigen motivación.
+b) Los sancionadores.
+En realidad no hacía falta esta doble mención: todo acto sancionador restringe y limita derechos; es así que los actos de esta natu­
+raleza deben motivarse, luego los actos sancionadores como necesa­
+riamente motivados deben constar por escrito.
+La Ley habla también de “expresión o constancia”, lo que evi­
+dencia que la forma escrita tiene un doble significado que da lugar a
+195
+
+
+
+supuestos distintos (García de Enterría). Los órganos colegiados, por
+ejemplo, necesitan^ el levantamiento de un acta para constancia de
+los acuerdos adoptados verbalmente, requisito de validez como sabe­
+mos (sobre el momento y forma, tomo II).
+2. Actos verbales. Son admisibles a condición de que haya
+constancia y pueda demostrarse que existen. Ya hicimos referencia a
+este problema e indicábamos la necesidad de documentación, aun­
+que no sea más que para poder justificar su existencia a efectos de
+recurso.
+Pero ¿qué actos admiten la forma verbal? Para Fernández de
+Velasco era admisible esta forma cuando la Ley lo autorizaba, citan­
+do las reclamaciones verbales que los emigrantes podían hacer y que
+la Inspección formulaba por escrito, ejemplo poco afortunado, ya que
+dichas reclamaciones, aunque pertenecientes al derecho público, no
+son actos administrativos. Sí que es, en cambio, un acto administra­
+tivo verbal la advertencia de ilegalidad que los secretarios de las
+Corporaciones locales pueden y deben formular antes de la toma de
+acuerdos ilegales.
+Suelen citarse como ejemplos de actos verbales las órdenes e
+instrucciones de servicios (internos), actos de la función de policía
+de seguridad en que no es posible la escritura, como la intimidación
+para disolver una manifestación. A veces la forma verbal es la única
+prescrita, como, por ejemplo, la manifestación del juez en la celebra­
+ción del matrimonio civil.
+Al igual que sucede en el proceso civil, como dijimos, lo que no
+está escrito debe documentarse para tener constancia (ésta es la fun­
+ción de las llamadas “diligencias” que autoriza el secretario para re­
+flejar, por ejemplo, alguna comparencia personal).
+La L. J. reconoce el acto verbal al hablar de los actos “no mani­
+festados por escrito”, eximiéndoles del preceptivo recurso de reposi­
+ción. Este artículo incluye tanto a los que se han documentado por
+escrito a posteriori como a los que se dictan “De orden de...”. No nos
+parece acertada la opinión expuesta por García de Enterría de que
+no se refiere a estos supuestos, por las siguientes razones:
+— Porque todo acto verbal debe ser documentado, como deci­
+mos, a fin de que haya constancia, entre otras cosas para facilitar el
+posible recurso.
+196
+
+
+
+— Porque esta documentación es imprescindible para determinar
+desde qué momento empezarán a contarse los plazos de recurso.
+El artículo 41.2 de la L. P. A. distingue dos supuestos diferentes:
+— Cuando se trate de actos verbales sin carácter de resolución,
+la constancia escrita se efectuará y firmará por el órgano inferior
+que lo reciba oralmente, expresando en la comunicación del mismo la
+autoridad de que procede mediante la fórmula “De orden de...”.
+— Cuando se trate de resoluciones, el titular de la competencia
+deberá autorizar con su firma una relación de las que haya dictado
+en forma verbal, con expresión de su contenido.
+La práctica demuestra que una gran cantidad de actos administra­
+tivos, resolutorios o no, se despachan diariamente entre el titular de
+la competencia y los órganos inferiores; este precepto trata de agili­
+zar la actuación administrativa, respetando, no obstante, el principio
+fundamental de la constancia del acto.
+El artículo citado, al tratar de la constancia de los actos verbales,
+dice que “cuando sea necesaria” ; ¿es que hay casos en que no lo es?
+A mi juicio, el acto no escrito debe documentarse, aunque sólo sea a
+efectos probatorios.
+3.
+Actos manifestados por otros medios expresos. Cada día son
+más numerosos los actos realizados por medios mecánicos (señales
+de tráfico), gestos (las señales del policía de circulación) y, en general,
+no manifestados ni por escrito ni verbalmente.
+La L .)., en su artículo 53.d, habla de “actos no manifestados por
+escrito”, englobando tanto a los verbales como a este otro grupo.
+También aquí es preciso la constancia, aunque el artículo 41.2 de
+la L. P. A. sólo se refiere a los verbales.
+En todos estos casos de actos no escritos hay que distinguir cla­
+ramente lo que es el acto en sí mismo y su posterior comunicación.
+Tan sólo estoy tratando de los primeros, pues los demás (áctos de­
+pendientes) serán objeto de estudio más adelante y son normalmente
+escritos. Puede darse el caso de un acto no manifestado por escrito,
+pero cuya comunicación se haga de esta forma. Ya planteaba aguda­
+mente la cuestión Kormann al decir que había que distinguir entre la
+oralidad como forma del acto mismo y la oralidad como simple no­
+tificación.
+197
+
+
+
+4.
+Acto tácito. Es corriente la identificación entre silencio y
+acto tácito; otras veces se diferencian diciendo que el silencio actúa
+con actos y el acto tácito con comportamientos.
+El acto tácito es el que se produce por facía concludentia que in­
+diquen de forma unívoca que existe.
+Sin embargo, la doctrina no es unánime ni con su existencia ni
+con su extensión. Gordillo estima que el acto tácito sólo puede surgir
+de un acto expreso que necesariamente lo involucre; en su ausencia,
+no cabe hablar de ellos. Generalmente, dice, sólo puede surgir de ac­
+tos escritos, y desde luego debe emanar de la misma autoridad que
+puede dictar el acto expreso. Pone el siguiente ejemplo: un acto que
+designa a una persona para un cargo del cual anteriormente se le había
+dejado cesante, importa tácita revocación del acto de cesantía. Tam­
+bién el siguiente: el pago de los haberes no percibidos durante una
+suspensión o licencia dispuesta sin goce de haberes, implica tácita
+modificación de la índole de la suspensión o la licencia.
+En realidad, esta postura estaba adoptada por parte de la doctrina
+italiana (De Valles), que afirmaba que la exigencia de la escritura im­
+pide las declaraciones tácitas, que sólo pueden admitirse cuando un
+acto expreso o un hecho hacen posible deducir la declaración tácita,
+por ejemplo, la desafectación tácita de un bien demanial como con­
+secuencia de su destino a otro fin.
+Cassagne sigue esta postura y estima que sólo cabe hablar de ac­
+tos tácitos como consecuencia de actos expresos, y que no suponen
+la existencia de otro acto. Ejemplo, si luego de acudir al procedimien­
+to de la licitación pública la Administración mediante decisión legal­
+mente fundada dispone la contratación directa, habría que conside­
+rar que la decisión de contratar en otra forma lleva “implícita” (dice)
+la de dejar sin efecto el llamamiento a licitación.
+Fernández de Velasco distingue tres situaciones distintas: la
+abstención, que es el abandono espontáneo y consciente del ejercicio
+de una facultad concreta. Normalmente está prohibida y daría lugar
+a responsabilidad; el silencio, que el Estatuto Municipal incorporó a
+la técnica-jurídica y es una presunción jurídica; el acto tácito, cuan­
+do la declaración viene sustituida de hecho por una ejecución que
+expresa aquiescencia o repulsa. Se trata de un acto a través del cual
+se induce la voluntad.
+198
+
+
+
+Alessi es quizás el autor que con más exactitud ha intuido el pro­
+blema al distinguir actos tácitos derivados de los facía concludentia,
+y los actos implícitos, que consisten en que siempre hay una forma
+externa de la determinación volitiva, pero que tiende a .expresar un
+contenido diverso, del cual se deduce implícitamente la existencia de
+una voluntad dirigida a dicho contenido.
+En el mismo sentido se pronuncia Sayagués, para el cual no exis­
+ten actos tácitos, sino implícitos. Los primeros no son más que situa­
+ciones de hecho que podrán surtir ciertas consecuencias jurídicas,
+pero no ^permiten inferir la existencia de actos administrativos táci­
+tos; así, por ejemplo, la circunstancia de que una persona durante
+varios años esté ocupando sin permiso un bien de uso público, no
+permite considerar que exista un acto tácito de concesión de uso; lo
+que habrá es una ocupación irregular que surtirá determinados efec­
+tos jurídicos. En cambio, el acto implícito se infiere de otros expre­
+sos; así, si la autoridad competente decidiera vender un bien de
+dominio público ya desafectado en los hechos, sin previa declaración
+de desafectación, la decisión de venta implica necesariamente esta úl­
+tima (cuando se cumplan los requisitos de forma y competencia).
+Giannini estima que no cabe el acto tácito respecto de los provvedimenti y cuando la autoridad actúa como si existieran (cumple actos
+ejecutivos), no se está en presencia de actos de esta naturaleza, sino
+de actos defectuosos.
+Hay que diferenciar varios supuestos:
+— Inactividad de la Administración, formal o material, distinción
+ésta importante a efectos de pronunciamiento judicial.
+— Incumplimiento de deberes constitucionales o legales, lo que
+puede comportar la responsabilidad incluso política.
+— Acto tácito.
+— Acto implícito.
+El acto tácito es el que deriva de “comportamientos” positivos o
+negativos de la Administración. Ha de tratarse de hechos concluyentes que patenticen de forma unívoca una declaración.
+La desafectación tácita en la esfera local (en la estatal ya vimos
+los problemas que suscita en el capítulo I), la actitud tolerante de un
+199
+
+
+
+Municipio que ve construir sin licencia un edificio, construcción que
+se amolda a las ordenanzas (patentiza tácitamente el otorgamiento
+de una licencia), a ligual que sucede en el derecho civil con la rotura
+del testamento ológrafo por el testador, etc...
+Las situaciones jurídicas alcanzadas mediante actos de esta natu­
+raleza quedan limitadas a los perfiles señalados por las normas.
+La Administración puede obligarse tácitamente, como sancionó
+una sentencia de 11 de julio de 1911.
+5.
+Acto implícito. Así como el caso anterior se basaba en com­
+portamientos de la Administración, en éste ha de tratarse de actos
+jurídicos expresos que permitan deducir implícitamente la existencia
+de una voluntad acorde con su contenido.
+Se asciende a un funcionario, luego existía un acto de nombra­
+miento implícito; se autoriza a un establecimiento público para acep­
+tar un legado, luego existe el acto implícito que le reconoce la perso­
+nalidad ; el funcionario procedente de supernumerario, excedente for­
+zoso o suspenso que haya cesado, deberá solicitar su admisión y par­
+ticipar en cuantos concursos puedan anunciarse para la provisión de
+puestos de trabajo reservados a su Cuerpo y, caso de no hacerlo, “se
+les declara en situación de excedencia voluntaria” (a la que sólo se
+puede llegar a petición de parte, luego la voluntad del funcionario
+está implícita en su inercia, art. 51 de la Ley de Funcionarios); lo
+mismo sucede con el excedente especial que no reingrese en los treinta
+días después del cese (art. 43.3, ídem); la utilidad pública se entiende
+implícita en relación con inmuebles en todos los planes de obras y
+servicios del Estado, Provincia y Municipio (art. 10 de le Ley); la autoliquidación sustituye implícitamente a la liquidación provisional;
+un funcionario de empleo que sea ascendido, madure trienios, obten­
+ga excedencia voluntaria, etc..., se presume implícitamente que ha ob­
+tenido la profesionalidad.
+Se ha debatido el problema de si cabe considerar como actos ad­
+ministrativos implícitos de anulación o revocación, los que resultan
+incompatibles con los anteriores. Sobre este tema elaboró un estudio
+Tedeschi, examinando sobre todo el problema de la incompatibilidad
+entre actos anteriores y sucesivos. La incompatibilidad entre actos
+administrativos puede ser sucesiva o simultánea. La primera se rige
+por el principio de que el acto posterior prevalece sobre el anterior,
+200
+
+
+
+frente al principio general de los contratos en el derecho civil de que
+el acto prioritario prevalece. En los actos unilaterales privados, el
+principio de la prioridad no se aplica con el mismo significado en to­
+dos los casos; así, por ejemplo, el testamento posterior revoca al
+anterior.
+Se sostiene, en consecuencia, que el acto posterior incompatible
+con otro anterior encierra una revocación implícita.
+En el caso de incompatibilidad simultánea habrá que acudir a
+otros criterios como la competencia, la jerarquía, etc..., y en el caso
+de que no se pueda llegar a determinar cuál es la voluntad preferente,
+ambos actos se destruirían, pero no por revocación, sino por nulidad
+ab initio (Resta). Estima Alessi que no basta el hecho de la emana­
+ción de un acto para que pueda inferirse implícitamente la existencia
+de una voluntad de revocación o anulación de actos incompatibles,
+sino que debe ser un acto expreso que no difiera sustancialmente de
+la declaración implícita. Así, por ejemplo, sucede en el caso de refor­
+ma de actos antecedentes, en que puede verse una declaración expre­
+sa, pero implícita, de revocar o anular del acto reformado.
+6.
+Acto presunto. Despejadas las situaciones anteriores, queda
+claro lo que son tales actos. Son los producidos a consecuencia del
+silencio administrativo. Esta técnica no es más que una ficción legal
+que asume la categoría jurídica de presunción, en virtud de la cual
+los administrados pueden considerar sus peticiones desestimadas o
+estimadas cuando concurran ciertos requisitos.
+Sin perjuicio de estudiar más adelante esta cuestión, diferencie­
+mos dos clases de silencio en relación con el procedimiento:
+a) En vía de petición o de instancia.
+b) En vía de recurso.
+Digamos también que para que se dé la técnica del silencio en
+vía de instancia es preciso que se instaure el procedimiento a petición
+de parte.
+Estos actos están reconocidos en el artículo 94 de la L. P. A. (de­
+negaciones presuntas) y en el 53.c de la L. J. (actos presuntos en vir­
+tud del silencio administrativo).
+Todos los actos examinados anteriormente no manifestados expre201
+
+
+
+sámente están, obviamente, sujetos a revisión en sus variadas for­
+mas. Un acto presunto producido por el silencio positivo es un verda­
+dero acto, para cuya anulación o revocación habrá que seguir el
+procedimiento legalmente establecido. Por otra parte, en todos ellos,
+las facultades adquiridas por los administrados tienen como límites
+las disposiciones legales o reglamentarias, y así, por ejemplo, una li­
+cencia de construcción adquirida de dicha forma debe quedar sujeta
+a las ordenanzas y planes y no al proyecto que eventualmente hubiera
+presentado el interesado.
+
+BIBLIOGRAFIA
+S anti R omano : C o r s o d i d i r i tt o a m m in i s t r a t i v o , 1937.
+F ragola : G li a t t i a m m in i s t r a t i v o , 1952.— G li a t ti a m m in i s t r a t i v o n o n n e g o z ia li, 1942.
+F orsthoff : T r a ta d o d e d e r e c h o a d m i n i s t r a t iv o . 1958.
+D’A l e s s io : D i r i t to a m m in i s t r a t i v o (II), 1943.
+Z anosini : C o rs o d i d i r i tt o a m m in i s t r a t i v o t i) , 1950.
+F ernández de V ela sco : E l a c to a d m i n i s t r a t iv o , 1929.
+Lucifredi : L ’a t to a m m in i s t r a t i v o n e i s u o i e le m e n ti a c c id e n ta li, 1963.
+F orti : L e z i o n i d i d i r i tt o a m m in i s t r a t i v o (II), 1950.
+A l e s s i : S i s t e m a is t it u z i o n a l e d e l d i r i t t o a m m in i s t r a t i v o ita lia n o , 1953.
+G arrido F a lla : T r a ta d o d e d e r e c h o a d m i n i s t r a t iv o (I), 1966.
+G iaNn in i : L e z i o n i d i d i r i tt o a m m in i s t r a t i v o , 1950.
+W aline : T r a ité e le m e n ta ir e d e d r o i t a d m i n i s t r a t if , 1952.
+Stassinopoulos : T r a ité d e s a c te s a d m i n i s t r a t if s , 1954.
+Savigny : S i s t e m a d e l d e r e c h o r o m a n o a c tu a l, prólogo de D uran v Bas (II).
+K ormann : S y s t e m d e r r e c h ts g e s c h á ftlic h e n S t a a ts a k te , 1962.
+W olff : V e r w a ltu n g s r e c h t (1), 1959.
+P eters : L e h r b u c h d e r V e r w a ltu n g , 1949.
+G arcía de E nterría : C u r s o d e d e r e c h o a d m i n i s t r a t iv o (I), 1980.
+G o r d illo : T r a ta d o d e d e r e c h o a d m i n i s t r a t iv o (I I I ) .— E l a c to a d m i n i s t r a t iv o ,
+1979.
+C assagne : E l a c to a d m in i s t r a t iv o , 1978.
+D e V a l l e s : E le m e n ti d i d i r i t t o a m m in i s t r a t i v o , 1951.
+S ayagués : T r a ta d o d e d e r e c h o a d m i n i s t r a t iv o , 1953
+
+202
+
+

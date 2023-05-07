@@ -1,0 +1,862 @@
+C O N V E R G E N C IA S R E A L E S .
+
+CIENCIA, TECNOLOGIA Y EMPRESA
+Por el A cadém ico de Número
+Excm o. Sr. D. Jo s é Ángel Sánchez Asiaín
+
+Ahora hace prácticamente cinco años, en junio de 1993, desarrollé
+en esta Academia, y bajo el título -El déficit tecnológico español como problema
+económico y cultural», la tesis de que el déficit tecnológico constituía un proble­
+ma económico grave, especialmente grave para España, que no estaba siendo
+percibido con el peso que merecía por los economistas, por los científicos so­
+ciales, ni por los responsables del Sector Público y Privado. Y, lo que a mi en­
+tender era más grave todavía, que este problema no había sido conceptualizado
+ni analizado como problema cultural, ni como problema económico. Examiné en­
+tonces nuestra situación comparada en los distintos índices tecnológicos. Y de
+ellos se deducía que nuestra distancia con la media de los países de la Comuni­
+dad era verdaderamente notable.
+Dos años después, en Mayo de 1995, volví de nuevo con la cuestión
+tecnológica. Bajo el título «El debate sobre la competitividad industrial en Espa­
+ña», quise tomar la cuestión más aguas arriba y con mayor generalidad, y planteé
+la tesis de la necesidad de un debate sobre nuestra política industrial. De mi ex­
+posición se deducía que lo que verdaderamente dificulta que nuestro país juegue
+un papel aceptable dentro del concierto internacional desde el punto de vista eco­
+nómico, son nuestros déficits de competitividad. Y señalaba que en el ranking de
+la competitividad, nuestro país ocupaba uno de los peores lugares, porque entre
+los veintitrés países de la OCDE nuestro lugar era el puesto diecinueve.*
+
+* Sesión del día 2 de diciem bre de 1997.
+
+61
+
+
+
+Hoy, en el programa dedicado a analizar el proceso de la Unión Mo­
+netaria Europea, me corresponde de nuevo hablar sobre la cuestión tecnológica
+en relación con lo que llamamos convergencia real en la Unión Europea. Lo voy
+a hacer desde una perspectiva distinta que en las dos ocasiones anteriores, utili­
+zando otra terminología más concreta para el problema, y más amplia sobre su
+conceptualización. Lo voy a hacer desde la perspectiva de lo que hoy se llama
+«Sistema Nacional de Innovación», bajo el título «Convergencias reales, Tecnolo­
+gía y Empresa». Porque creo que son tres conceptos que no se pueden separar
+cuando de competitividad industrial se habla.
+
+COMPETITIVIDAD
+La OCDE define la competitividad como «el grado en que, bajo con­
+diciones de libre mercado, un país puede producir bienes y servicios que supe­
+ran el exámen de los mercados internacionales, y que simultáneamente permiten
+mantener el crecimiento sostenido de la Renta Nacional de sus ciudadanos.
+A partir de esta definición, la primera pregunta que hay que hacer­
+se es sobre la situación de nuestra competitividad. Primero la com petitividad
+en Europa. En el Libro Blanco de la Unión Europea, «Crecimiento, Competitivi­
+dad y Empleo» de 1993, se dice a este respecto que desde 1989 el ritmo de cre­
+cimiento de la producción de bienes y servicios en la Comunidad registra una mi­
+noración constante. Y que en un contexto de dura competencia en los mercados
+mundiales, la industria comunitaria se encuentra en inferioridad de condiciones
+debido al deterioro de su competitividad comercial. Acepta la Comunidad que la
+industria europea ha mejorado recientemente, pero señala que persisten puntos
+débiles, importantes e inquietantes, tales como una productividad insuficiente, o
+un esfuerzo en I+D que sigue siendo desigual y disperso. También una baja ca­
+pacidad de innovar, es decir, de lanzar nuevos productos y servicios y comer­
+cializarlos rápidamente en los mercados mundiales, así como de reaccionar rápi­
+damente a los cambios de la demanda.
+Tampoco la especialización de la economía europea va en el buen
+camino. Porque Europa mantiene e incluso aumenta su nivel de exportaciones en
+los productos de baja tecnología, como equipamiento ferroviario, maquinaria tex­
+til, curtido, carnicería o conservas cárnicas, pero empeora en los bienes de tec­
+
+62
+
+
+
+nologías avanzadas, que son los de rápido crecimiento y alto valor añadido, co­
+mo ofimática, instrumental óptico, o equipamiento médico y quirúrgico. Según el
+indice de especialización internacional de la OCDE, Europa ha bajado el índice
+en las industrias de alta y media tecnología, mientras que lo ha incrementado en
+sectores de baja tecnología.
+Otra cuestión a debatir son las posibles causas de esa pérdida euro­
+pea de competitividad. Porque durante muchos años se pensó que el nivel de en­
+deudamiento de las empresas europeas era un grave inconveniente, pero en fe­
+chas recientes se ha producido un claro saneamiento que las coloca en mejores
+condiciones que sus competidoras mundiales, sin que haya mejorado sensible­
+mente su posición. Tampoco los márgenes de beneficios, que parecían altos, son
+una razón, porque también se han reducido a los niveles de las empresas ameri­
+canas y japonesas, y nada ha cambiado. La calidad, la satisfacción del cliente, y
+unas sofisticadas prestaciones de los productos y servicios pueden ayudar a man­
+tener la competitividad, pero son ventajas que deben estar respaldadas por ele­
+vadas productividades. Sí afectan directamente a la competitividad los costes la­
+borales. Pero cada día está más claro que la innovación en procedimientos, en
+productos, y en organización del trabajo, constituyen la más importante e indis­
+cutible fuente directa de competitividad. Ahí es donde Europa tiene un notable
+déficit. Y cada día está más claro también que Europa está resultando ser espe­
+cialmente ineficaz en la transformación de los resultados de la investigación, es
+decir, en la traducción del conocimiento a productos y servicios.
+Tanto el «Libro Blanco de 1994 sobre Crecimiento, Competitividad y
+Empleo», co m o el «Libro Verde sobre Innovación de 1995», ambos de la Comisión
+Europea, ponen de manifiesto que una de las principales debilidades del sistema
+productivo de Europa reside, precisamente, en lo que se ha etiquetado como la
+«paradoja europea», es decir, la baja capacidad que Europa tiene de convertir los
+avances científicos y tecnológicos en éxitos industriales y comerciales. «Compa­
+rándolos con los de sus principales competidores, dice la Comunidad, los resul­
+tados científicos de la Unión Europea son excelentes, pero en los últimos quin­
+ce años sus resultados industriales y comerciales en los sectores punta se han
+deteriorado. Y la existencia de sectores donde los resultados científicos y tecno­
+lógicos son comparables o superiores a los de nuestros principales competido­
+res, pero en los que los resultados industriales y comerciales son inferiores, o es­
+tán en declive, informa sobre la importancia estratégica y la necesidad que
+tenemos, subraya la Comunidad, de transformar mejor y más rápidamente el po­
+tencial científico y tecnológico en innovaciones rentables». Y hay estimaciones,
+añado, que señalan que la eficiencia relativa de Europa es el 60% de la del Japón,
+y el 70% de la de Estados Unidos.
+
+63
+
+
+
+T res fa cto res fu n d am en tales p arecen h a b er co n d u cid o a esta situ a­
+ció n . En p rim er lugar, un m en o r n ivel d e recu rsos p ú b lico s y p rivad os d ed icad os
+a in vestig ació n y d esarrollo. En seg u n d o lugar, u n a d ébil, cu a n d o n o co m p leta
+falta d e co o rd in a ció n d e las activid ad es y p rogram as d e in v estig ació n , en tre las
+de ám bito d e la com u n id ad eu ro p ea y las de ca rá cter n acio n a l. Y d en tro d e éstas
+últim as, en tre las actu a cio n es im p u lsadas p o r los d istintos d ep artam en tos, y a g e n ­
+cias g u bern am en tales. El te rcer facto r, sin duda, la d eb ilid ad m ayor d el sistem a
+d e in n o v a ció n e n Eu rop a, es el im p ortan te d esaju ste en tre ca p a cid a d cien tífico te cn o ló g ica y su a p lica ció n em p resarial.
+Por lo que respecta a la com petitividad de la econ om ía españo­
+la, vale plenamente la descripción europea que acabamos de ver. Los mismos
+problemas. Las mismas situaciones. Más agudas o más graves, en muchas oca­
+siones. Quizá el índice más significativo para expresar nuestra competitividad sea
+repetir, como hemos visto al principio, que de entre los 23 países de la OCDE,
+ocupamos en competitividad el puesto 19Eso sí, con una nota de cierto optimismo, como ha puesto de mani­
+fiesto Carmela Martín en su reciente y excelente libro «España en la nueva Euro­
+pa», donde señala que nuestras exportaciones a los países comunitarios se está
+desplazando hacia sectores de más alto nivel tecnológico y demanda más diná­
+mica. Y lo mismo está ocurriendo, si se quiere de forma más acentuada, en nues­
+tras ventas al resto del mundo. Ello puede ser un índice de que nuestra estructu­
+ra de costes se está progresivamente acercando hacia la de los países comunitarios,
+y a la vez que este factor de competividad está perdiendo peso. Posiblemente es
+también un índice de que nuestra situación, en cuanto a Ciencia se refiere, está
+mejorando á velocidades notables, como veremos más adelante.
+La competitividad española puede ser examinada en primer lugar
+analizando nuestras cuotas de exportación en distintos mercados. Comportamiento
+que debe ser contemplado conjuntamente con la capacidad relativa de abasteci­
+miento de la demanda interna de bienes comercializables. Porque aunque las cuo­
+tas de exportación españolas reflejan una situación generalmente favorable, al
+considerar la evolución del mercado interno no resulta tan evidente que las ma­
+nufacturas españolas hayan mantenido su competitividad. De todos modos, el
+crecimiento de la presencia de los productos españoles en todos los mercados,
+especialmente en el de la Unión Europea es una realidad. Un 85% entre 1986 y
+1996. También lo es que la presencia relativa de las importaciones se ha dupli­
+cado, hasta alcanzar el 33% del consumo aparente de manufacturas en 1996. Es­
+te aumento simultáneo de cuota de exportación y de penetración de las impor­
+taciones en el mercado doméstico, se ha traducido, en la mayoría de las ramas
+
+64
+
+
+
+industriales, en un deterioro de los índices de ventaja comparativa revelada, es­
+to es, el saldo comercial en relación con el volumen total de comercio.
+Otro índice de competitividad utiliza los indicadores de costes y pre­
+cios relativos, y los tipos de cambio efectivo reales. Del exámen de estos costes
+y precios relativos, se extrae la conclusión de que España, a pesar del incremen­
+to generalizado de aquéllos, logró mejorar de forma significativa el tipo de cam­
+bio efectivo real, debido a la depreciación experimentada en los últimos diez años
+por el tipo de cambio nominal. En cuanto a los costes, cabe destacar el deterio­
+ro del coste laboral por hora trabajada con respecto a los de la Unión Europea,
+que del 70,5% del promedio de 1986, ha aumentado hasta situarse en el 76,7% en
+1996. También se deterioran los costes laborales unitarios relativos en casi un 20%
+con respecto a la de nuestros socios comunitarios. Los precios industriales han
+crecido más que los de exportación. En cuanto al tipo de cambio efectivo nomi­
+nal, entre 1986 y 1996 descendió en casi un 13%, lo que ha facilitado la mejoría
+del tipo de cambio efectivo real en el periodo contemplado. Cabe decir, por con­
+siguiente, que la competitividad de los productos comercializables españoles ha
+mejorado en la última década únicamente gracias a la evolución del tipo de cam­
+bio nominal.
+En este repaso de los sectores competitivos, hay que destacar tam­
+bién que existen otros determinantes de la competitividad, entre los que se en­
+cuentran la diferenciación de productos originada por la capacidad tecnológica,
+la dotación de capital humano, y la disponibilidad relativa de capital comercial,
+es decir, marcas, redes de comercialización, etc. En todos ellos, la debilidad de
+la posición competitiva española es notoria.
+
+INNOVACION
+Con este telón de fondo, mi tarea va a ser hacer un análisis del Sis­
+tema Nacional de Innovación. La innovación puede ser definida como un proce­
+so capaz de crear cualquier clase de conocimiento y convertirlo en algo econó­
+micamente útil. Así definida, es fácil entender su relevancia económica. Porque
+la creación, difusión, y explotación del conocimiento, es una fuente de riqueza
+que, día a día, toma mayor importancia para el mundo desarrollado, en la medi­
+da que cuando una idea se convierte en una realidad capaz de atender una nue­
+
+65
+
+
+
+va necesidad, o dar mejor respuesta a una antigua, o a menor coste, aparece una
+fuente de riqueza con consecuencias en el empleo y en la calidad de vida.
+El proceso completo de la innovación es continuo, complejo, y de­
+sordenado, y no puede ser explicado como un flujo lineal de avances en el co­
+nocimiento. Este proceso es el que tratamos de analizar. Vamos a hacerlo, pri­
+mero, repasando los elementos del Sistema que aportan los inputs, que pueden
+dividirse en cinco componentes: «Investigación y desarrollo», «Tejido productivo»,
+«Administraciones», «Infraestructuras», y por último «el entorno» en el que la acti­
+vidad innovadora se desarrolla. Después analizaré los output, que son otros cin­
+co, «Producción científica», Generación de «patentes», «Venta de tecnología», «Cre­
+ación de know-how», e «Incorporación de tecnología a los productos».
+
+INVESTIGACION Y DESARROLLO
+El primer componente de esos input, y uno de los más importantes,
+es la «Investigación y Desarrollo». El I+D. Lo primero que hay que decir sobre ello
+es que el gasto empresarial español en I+D compara muy desfavorablemente con
+los países con los que competimos. El indicador más conocido para medir este
+esfuerzo, es la fracción del Producto Interior Bruto que se dedica a I+D. Pues
+bien, los países que más interés tecnológico demuestran, llegan a dedicar algo
+más de su 3% a investigación y desarrollo. Japón y EE.UU. se sitúan tradicional­
+mente en esta cota. Recientemente Finlandia se ha incorporado a este grupo,
+mientras que Alemania lo está abandonando. De esta manera, los grandes países
+europeos, Alemania, Reino Unido, y Francia, tienden a estabilizarse en los últi­
+mos años alrededor del 2,5%. Italia ha estado siempre alrededor del 1,5, aunque
+actualmente se sitúa ligeramente por encima del 1%. España inició a mitad de la
+década de los ochenta un rápido acercamiento a Europa, desde valores que no
+llegaban al medio punto. En 1993 alcanzamos un máximo con el 0,93%, y desde
+entonces hemos tenido un claro retroceso que, según datos no oficiales, podría
+estar situado en estos momentos alrededor del 0,8.
+Hay que preguntarse también quién investiga. ¿Investigación públi­
+ca o investigación privada? Los países más innovadores tienen como norma una
+mayor proporción del gasto en I+D ejecutado en el sector privado. En Alemania,
+en Francia, y en el Reino Unido las empresas contribuyen a la investigación por
+
+66
+
+
+
+valor próximo al 1,5% del Producto Interior Bruto, de ese total del 2,5%. Tampo­
+co España converge en este aspecto, porque mantenemos más del 0,5% como
+contribución de la Administración al gasto de I+D, de un total del 0,8%. Tiene im­
+portancia esta distribución, porque ello puede influir en cómo de eficaz para el
+sector productivo es la investigación.
+Es importante examinar también lo que está pasando con los recur­
+sos humanos dedicados a I+D, indicador que sigue las tendencias de los anterio­
+res. El número de personas que en España dedican su actividad a I+D es de 75.000.
+El 15% de Alemania, un tercio de Francia y del Reino Unido, y la mitad de Italia.
+Aunque el número de investigadores españoles esté creciendo de forma impor­
+tante y continua, mientras que los de los demás países están estancados.
+
+TEJIDO PRODUCTIVO
+Componente importante de un Sistema Nacional de Innovación es el
+tejido productivo. Tampoco en este aspecto nuestra situación es buena. Porque
+la distribución sectorial española responde todavía, aunque cada vez menos, a
+un modelo basado en los bajos costes de la mano de obra. De esta manera, la
+producción de bienes y servicios poco exigentes en tecnología, o que basan la
+mejora de su productividad en el aumento de tecnología que adquieren fuera de
+la empresa, ocupa todavía la mayor parte de nuestro sistema productivo. Son po­
+cas las empresas españolas que se integran en sectores cuya innovación está orien­
+tada por un directo y adecuado conocimiento de las necesidades de sus clientes,
+y menos son aún las que lo hacen sobre la base de los avances científicos.
+Estadísticas del Ministerio de Industria señalan que en 1994 sólo el 14%
+del valor añadido de la industria española, que proporcionaba el 9% del empleo,
+correspondía a sectores de «alto» contenido tecnológico, cuando en los países más
+avanzados de Europa este porcentaje se sitúa alrededor del 20%. Otro dato relevante
+de que la estructura de nuestro tejido productivo no responde a los patrones que
+favorecen la innovación es que la importancia porcentual de la franja de salarios
+medios es en España trece puntos menos que en Alemania, mientras que la de sa­
+larios bajos supera a la de este país en casi veinte puntos. Disponemos de estadís­
+ticas que indican que sólo el 11% de las empresas españolas son innovadoras, y que
+de ellas sólo la cuarta parte realizan de forma regular trabajos de I+D. Y sabemos
+
+67
+
+
+
+que escasamente un 17% de las empresas innovadoras cuentan con un departamento
+interno con esta función, lo que quiere decir que nuestro sistema productivo pare­
+ce menos receptivo a las nuevas ideas tecnológicas que la media europea, donde,
+frente a nuestro 11%, una tercera parte de empresas son innovadoras. Finalmente,
+un hecho al que ya se ha hecho referencia y que nos debe hacer reflexionar, es la
+significativa variación que ha sufrido el índice de ventaja comparativa revelada des­
+de nuestra entrada en la Unión Europea, especialmente cuando se calcula respecto
+a los países no europeos. Porque nos encontramos que nuestra competitividad ha
+aumentado de forma considerable en los segmentos de alta tecnología, desde si­
+tuaciones tradicionalmente muy malas, mientras que la hemos perdido casi en la
+misma proporción en los productos de baja tecnología, teniendo ahora y por pri­
+mera vez una balanza comercial negativa. Conclusión evidente de que nuestra ac­
+tual estructura de costes nos obliga a dedicar esfuerzos en los sectores de tecnolo­
+gía media y alta como único medio de tener éxito en el comercio internacional.
+
+ADMINISTRACIONES
+El tercer componente de un Sistema Nacional de Innovación lo cons­
+tituyen las Administraciones responsables de las políticas científicas y tecnológi­
+cas, porque en sus tres niveles, comunitario, nacional y autonómico, ejercen im­
+portantes responsabilidades en estas materias. No están todavía claramente
+definidos sus ámbitos de competencia, y junto a claras ventajas de esta triple in­
+tervención política, son evidentes las disfunciones, pero su influencia es notoria
+en el proceso de innovación.
+En primer lugar la A dm inistración Comunitaria, Una Administra­
+ción que ha estado tradicionalmente condicionada por los grandes grupos em­
+presariales europeos, cuyos intereses muchísimas veces no coinciden con los del
+tejido empresarial español. Aunque sí es evidente, que el investigador español ha
+podido fácilmente integrarse en grupos europeos que trabajan en proyectos co­
+munitarios, y que, por ello, la calidad de la investigación académica se ha bene­
+ficiado. En todo caso, en cuanto a la financiación de la innovación no nos ayudan
+nada. Porque España recibe de la administración comunitaria aproximadamente
+el 6% de los fondos de los llamados Programas Marco de Investigación y Desa­
+rrollo, lo que prácticamente coincide con el dinero que aportamos, unos 20.000
+millones de pesetas anuales.
+
+68
+
+
+
+El segundo nivel lo constituye la A dm inistración Nacional. Un ni­
+vel en el que en España hemos hecho un gran avance en estos últimos años, por­
+que la entrada en vigor en 1986 de la Ley de la Ciencia supuso un cambio radi­
+cal en nuestra forma de hacer política científica y tecnológica. De esta manera
+España se ha incorporado a la tendencia de los países avanzados de establecer
+un mecanismo de fomento de la innovación, aunque, en nuestro caso, todavía
+adolezca de falta de coordinación y de exceso de voluntarismo.
+El tercer nivel lo constituye la A dm inistración Autonómica. En Es­
+paña algunos Gobiernos Regionales han sentido casi desde el principio una pre­
+ocupación por las políticas de fomento de la I+D, aunque su estrategia haya si­
+do desigual. Algunas han creado comisiones interdepartamentales, y paralelamente
+se han ido creando Agencias de desarrollo regional, con especial responsabilidad
+en innovación tecnológica. Las Comunidades más experimentadas están inten­
+tando dotarse de un marco jurídico propio para sus políticas tecnológicas y de
+fomento de la innovación, recurriendo a la promulgación de Leyes de la Ciencia,
+pero en la casi totalidad de ellas no son sino una réplica de la Ley nacional.
+Por lo que respecta a su financiación, en estos momentos es prácti­
+camente imposible conocer la cuantía de los recursos que los diferentes Gobier­
+nos Autonómicos dedican al fomento de la innovación, porque se encuentran in­
+cluidos en una infinidad de medidas de promoción económica de difícil desglose.
+Son programas muy dispares, porcentualmente tampoco son importantes, ni en
+número, ni en cantidad, aunque tienen la ventaja de poder ser aplicados con un
+más amplio conocimiento de las necesidades de cada Comunidad. Y en esta lí­
+nea quiero llamar la atención sobre la importancia que en el desarrollo tecnoló­
+gico puede tener el componente regional. Más tarde haré una cierta defensa con­
+ceptual de la conveniencia de poner énfasis en residenciar en las regiones una
+parte sustancial de la política tecnológica.
+
+INFRAESTRUCTURAS
+Otro componente del Sistema Español de Innovación lo constituyen
+las infraestructuras. Todos los Sistemas de Innovación requieren de instituciones,
+de capital público o privado cuya finalidad sea facilitar a las empresas su impli­
+cación en procesos innovadores. Toman distintas formas y las más sofisticadas se
+
+69
+
+
+
+concretan en centros de creación y transferencia de tecnología y de suministro
+de servicios técnicos. Tendremos en España alrededor de 130 centros de capaci­
+dad muy dispar, lo que hace difícil enjuiciar de forma global su funcionamiento.
+Tienen un marcado carácter regional y han sido creados, bien por asociaciones
+empresariales, los más antiguos y seguramente más activos, o bien por las Ad­
+ministraciones Autónomas. Comparadas con Europa, nuestras infraestructuras es­
+tán muy poco desarrolladas.
+La creación de Parques Tecnológicos ha sido otra de las acciones
+que han absorbido recursos autonómicos. Existen en España más de una docena
+de estos parques, con diferente grado de desarrollo, y casi otros tantos en fase
+más o menos avanzada de puesta en marcha. Ninguno de ellos, sin embargo, ha
+conseguido constituirse en generador endógeno de innovación, habiendo basa­
+do su desarrollo en la atracción de empresas ya constituidas. Aunque tampoco
+en Europa abundan los buenos ejemplos.
+El resumen sobre la situación española en Infraestructuras para la In­
+novación no puede ser otro que, en una gran mayoría, han sido fruto del volun­
+tarismo político, y escasamente entendidas por nuestro tejido empresarial. Por­
+que el esfuerzo realizado desde las Administraciones para dotar al país de estos
+modernos instrumentos no está dando sus frutos, debido a que la empresa no las
+ha integrado en sus programas.
+
+EL ENTORNO
+El último componente del Sistema Español de Innovación, de los ci­
+tados, está integrado por lo que podríamos llamar el entorno, en el que hay que
+destacar dos componentes: el sistema educativo y la financiación.
+El sistem a educativo es determinante de la preparación y actitud del
+capital humano, y en este punto nuestro sistema educativo ha evolucionado no­
+tablemente en los últimos años. En 1992 el 54% de nuestra población activa tenía
+educación media o superior, frente al 26% diez años antes. Pero, desde el punto
+de vista de la empresa, todavía formamos menos técnicos que la media europea.
+Dos tercios de nuestros jóvenes siguen en España carreras de ciencias jurídicas y
+humanidades, mientras que en la mayoría de los países europeos son sólo la mi­
+
+70
+
+
+
+tad. Añadamos la asignatura pendiente en España de la formación profesional, de
+particular significado para la innovación, porque la mayoría de las innovaciones
+increméntales, especialmente en el campo de «procesos», tienen su origen en los
+responsables más directos de ellos, y éstos proceden de esos niveles educativos.
+Todavía no se ha producido, por otra parte, la incorporación a la em­
+presa española de los graduados del tercer ciclo. Y el doctor puede aportar a la em­
+presa su formación y su capacidad para resolver problemas complejos, porque en
+el actual momento, la empresa, sea cual sea su dimensión, debe enfrentarse a la
+búsqueda de soluciones imaginativas a viejos y a nuevos problemas, frecuente­
+mente complejos. Y la supervivencia de la empresa está condicionada por su ha­
+bilidad para adaptarse a nuevas circunstancias o, dicho de otra manera, por su ca­
+pacidad de innovar. Por su capacidad de contribuir a transformar conocimiento en
+innovación. Y no olvidemos que la solución a problemas complejos es la habilidad
+más característica que se pretende inculcar en la formación de un Doctor.
+La financiación es otro de los componentes del entorno y otra de
+las barreras para la innovación. Porque el sistema financiero convencional no se
+adapta a las necesidades de la innovación. El problema reside en que el alto ries­
+go y los largos plazos de maduración propios de las actividades de innovación,
+obligan a una financiación especial. De hecho, los países más innovadores ya
+cuentan con estructuras financieras, que han sido lo suficientemente flexibles co­
+mo para atender de forma específica al mercado de la innovación. Desgraciada­
+mente no es éste el caso español.
+
+LOS OUTPUT DEL SISTEMA
+Vamos a examinar ahora algunos indicadores de los output. Cómo
+comparan con Europa los productos finales del Sistema Nacional de Innovación?
+Lo primero que aparece como evidente es la notable dificultad de medir esta di­
+mensión, en la que tan poco han avanzado los expertos. Existen resultados par­
+ciales que reflejan la eficacia del sistema y que son fáciles de determinar, pero la
+mayor parte son de cuantificación muy difícil. Entre los primeros está la produc­
+ción científica, la generación de patentes, y en menor medida la venta de tecno­
+logía. Pero la creación de know how y la incorporación de tecnología a los pro­
+ductos y servicios no son, hoy por hoy, medibles.
+
+71
+
+
+
+Hay consenso en que es posible medir la producción científica, a
+través de las publicaciones en revistas de reconocido prestigio internacional, que
+son referenciadas por otros componentes del colectivo científico afín. Este indi­
+cador está disponible a nivel mundial y se utiliza ya usualmente a la hora de com­
+parar producciones científicas. Afortunadamente, es éste un indicador en el que
+España está en una magnífica línea de convergencia, a ritmo del resto de Euro­
+pa. Porque en una década hemos duplicado la cifra, que en la actualidad se si­
+túa en el 2% de la producción científica mundial. Italia está a menos de un pun­
+to y medio por encima, y las del Reino Unido, que es el país más productivo,
+contribuye con el 9,2% de las publicaciones mundiales. Todavía estamos muy ale­
+jados de la media, pero caminamos muy de prisa.
+Por lo que respecta al número de patentes registradas en España
+por españoles, el índice es muy inferior a lo que es habitual en los demás países
+europeos. En cifras absolutas en 1993 se solicitaron 2.200 patentes por residen­
+tes en España, mientras que los alemanes presentaron 35.300 en su país, los fran­
+ceses 13.000, y los ingleses 19-000. Algo más dinámica ha sido la solicitud de pa­
+tentes de ámbito europeo por españoles, que, aunque todavía baja, ha pasado de
+representar el 0,2% en 1986 al 0,5% en 1993Frente a ello resulta sorprendente que España venda tecnología no
+incorporada por valor parecido al de los demás países europeos, salvo Alemania.
+Porque las cifras españolas son muy parecidas a las italianas, sólo algo menos de
+la mitad de lo que vende Francia, y una tercera parte de las ventas inglesas.
+
+UN COMENTARIO SOBRE LOS INDICADORES
+DE INNOVACION
+Al enjuiciar nuestro Sistema Nacional de Innovación y nuestros me­
+canismos de comparación con el resto de Europa, es necesario tener en cuenta
+que lo que ya comienza a denominarse «Economía de la Innovación y la Tecno­
+logía», es una disciplina muy joven, necesitada todavía de un mayor conocimiento
+empírico. No podemos olvidar que Schumpeter no reconoció el carácter endó­
+geno de algunas de las actividades de la ciencia y la tecnología hasta su obra «Ca­
+pitalismo, Socialismo y Democracia», publicada en 1942, mientras que treinta años
+antes, su libro «Teoría del Desarrollo Económico» consideraba totalmente exóge-
+
+72
+
+
+
+ñas aquellas actividades, argumentando que era un grupo de empresarios el que
+se daba cuenta del potencial económico de las innovaciones y que por ello acep­
+taba el riesgo de llevarlas al mercado.
+Por esta razón las definiciones de los indicadores de innovación y
+tecnología están en continua revisión. Se han venido utilizando para la medición
+del nivel tecnológico las fórmulas recomendadas por la OCDE, primero las esta­
+blecidas en 1964, luego las de 1992. Pero los resultados obtenidos de su utiliza­
+ción han aconsejado iniciar una revisión de los procedimientos propuestos, con
+objeto de poder tener en cuenta factores hasta hoy no considerados importantes
+para la innovación, como las modalidades de gestión de tecnología en las em­
+presas, sus hábitos de formación, o los de valoración de intangibles.
+Porque resulta obvio que la simple valoración de los recursos dedi­
+cados a I+D no son una medida fidedigna de la tecnología que se pone a dispo­
+sición de las empresas. La Fundación Cotec ha profundizado recientemente en
+esta cuestión. Y parece que tendríamos una idea más exacta de nuestra situación,
+si al 0,8% del Producto Interior Bruto dedicado a I+D, que arrojan las fórmulas
+habituales, añadiéramos por una parte el 0,3% que España dedica a comprar tec­
+nología no incorporada, más una parte, ciertamente no despreciable, de la can­
+tidad del 3% que invertimos anualmente en adquirir bienes de equipo. Porque en
+esos bienes de equipo sí existe mucha tecnología incorporada.
+No parece muy aventurado, en virtud de esa corrección, afirmar que
+nuestras empresas utilizan anualmente tecnología por un valor que puede supe­
+rar el 1,5% de nuestro Producto Interior Bruto. Y ello, en términos comparativos,
+nos llevaría a que, sin tener en cuenta la tecnología incorporada a los bienes de
+equipo, cuyas consecuencias para la innovación son muy diferentes de unos sis­
+temas productivos a otros, nuestra diferencia en términos de Producto Interior
+Bruto, en el valor de la inyección de tecnología que reciben anualmente nuestras
+empresas con las europeas, sería sensiblemente menor. Y un dato que corrobo­
+raría esta conclusión es el hecho del relativamente elevado valor de las ventas de
+tecnología no incorporadas que hace la economía española. Y querría decir que
+nuestra tecnología, posiblemente resultado de adaptaciones para poder ser apli­
+cada por nuestras empresas, resulta internacionalmente competitiva y adecuada
+a las estructuras industriales similares a la española.
+Aunque no se puede ser optimista para el futuro. Porque nuestro sis­
+tema de crecimiento dejará muy pronto de ser compatible con nuestra actual es­
+tructura de costes, y hará necesario recurrir a la innovación en la misma medida
+que lo hacen nuestros competidores.
+
+73
+
+
+
+UN COMENTARIO SOBRE LA REGIONALIZACION
+DE LA PROMOCION TECNOLOGICA
+Ya se sabe que la innovación es un proceso muy dependiente del
+entorno, realidad ésta que queda muy potenciada en España por lo importante
+de nuestras diferencias regionales. Porque nos encontramos con regiones en don­
+de las ventajas e inconvenientes derivados de la disponibilidad de infraestruc­
+turas de soporte a la innovación pueden estar configurando sistemas de innova­
+ción de características muy peculiares.
+Ya hemos señalado que una de las principales debilidades del Sis­
+tema Productivo de Europa reside en su baja capacidad de convertir los avances
+científicos y tecnológicos en éxitos industriales. Sin duda es también una debili­
+dad del sistema español. Y sabemos que en gran medida ello tiene su origen en
+el desajuste entre capacidad científico-tecnológica y su aplicación empresarial.
+Pero también sabemos que la solución a ese fenómeno pasa por promover la cien­
+cia y la tecnología de excelencia, y especialmente por diseñar interfases de co­
+municación más eficaces entre oferta y demanda, es decir, entre instituciones de­
+dicadas a la creación de conocimiento y al mundo de la empresa. Y que lo que
+exige esta situación es un diálogo más intenso y permanente entre los distintos
+agentes del sistema, es decir, la Universidad, la Empresa, y las Administraciones.
+Hay por ello quienes empiezan a preguntarse si a la vista de la na­
+turaleza cultural e institucional de algunas de las barreras centrales que el des­
+pegue de la innovación tiene en Europa, y en particular en nuestro país, no se­
+ría más eficaz ir atribuyendo, vía ensayo y error, un mayor peso a los sistemas
+regionales, marco en el que parece que ya no hay dudas de que el ajuste fino de
+las interacciones entre los varios agentes puede tener un más fácil desarrollo, así
+como una reducción de los costes transaccionales derivados de casar ofertantes
+y demandantes de mejoras tecnológicas, de procesos y de productos. Y en el que
+es más fácil evitar a tiempo, esto es antes de consumir los correspondientes re­
+cursos, el fenómeno que afecta a la aplicación de muchas políticas públicas, que
+algunos analistas describen como un proceso en el que las buenas ideas quedan
+disipadas en el proceso de su aplicación.
+Esa pregunta sobre el escenario en que debe residenciarse el hecho
+tecnológico ha recibido a nivel conceptual respuestas diversas que podemos agru­
+par siguiendo a Nelson en cuatro conjuntos. En primer lugar, la literatura de Ges­
+tión de Empresas y los historiadores económicos sostienen que la prop ia em ­
+
+74
+
+
+
+p resa es el espacio en el que la innovación ha de desenvolverse, dada su pe­
+culiar forma de integrar activos intangibles con activos materiales, y supuesto que
+en la particular trayectoria histórica de cada unidad empresarial es donde hay que
+buscar los diferenciales de capacidad de innovación y de dominio de específicas
+tecnologías.
+Frente a ésto, los economistas, y los responsables de la política cien­
+tífico-tecnológica defienden que el escenario ideal es el Estado-nación. Bajo
+este modo de ver las cosas, se considera que las empresas son actores clave de
+la implementación y el desarrollo de la nueva tecnología, pero que lo son como
+unidades insertas en un más amplio sistema, cultural e institucional, de carácter
+nacional, que incluye universidades, instituciones financieras, mercados de tra­
+bajo, marcos legislativos, políticas gubernamentales, y otra serie de complejos
+que dibujan una línea de demarcación entre lo que está dentro y lo que está fue­
+ra de un determinado Estado-nación. Para esta teoría, el Estado-nación es la uni­
+dad más significativa en relación con el análisis de los procesos de innovación y
+con el diseño de políticas para su promoción.
+Un tercer planteamiento señala que el escenario óptim o de la in­
+novación son los sistem as distribuidos o redes de innovación, que integran
+desde individuos a empresas e instituciones, pero en los que la localización no
+constituye un elemento clave, pudiendo hallarse los componentes de la red es­
+pacialmente dispersos.
+Una cuarta perspectiva, por último, sostiene que el escenario ideal
+debe desbordar la unidad de la em presa, pero no debe alcanzar al del Esta­
+do-nación. No es sino la noción de los llamados distritos industriales, originaria­
+mente debida a Marshall, y que recientemente ha sido retomada por numerosos
+analistas que consideran que las regiones subestatales son unidades más homo­
+géneas que las que constituyen los grandes Estados nacionales, por contar en más
+alto grado con características comunes que permiten explicar mejor las diferentes
+tasas de innovación y el perfil de las empresas innovadoras.
+De entre estas fórmulas, la que ha hecho más fortuna en los últimos
+años, en orden a definir cuál es el escenario óptimo para promover la innova­
+ción, ha sido la de los sistemas nacionales de innovación, defendidos como la so­
+lución ideal por algunos autores que entienden que los factores específicamente
+nacionales desempeñan un papel crucial en dar forma al cambio tecnológico. Es­
+to es cierto, pero podría no serlo si a todo ello se añaden las tendencias globalizadoras y las pautas de regionalización que están imponiendo en los últimos años
+importantes modificaciones en el sistema de innovación.
+
+75
+
+
+
+Tengamos en cuenta que la variable tecnológica opera cada día con
+más intensidad como una fuerza impulsora de la globalización, y ello no sólo
+en lo que se refiere a las tecnologías de la comunicación y a las del transporte,
+sino también en lo que respecta a las tecnologías de la producción cada vez
+más estandarizadas a lo largo y ancho del Globo. De esta manera, los agentes
+de la innovación, constituidos por los gobiernos nacionales y las empresas, de­
+sarrollan cada vez en mayor medida estrategias de generación de tecnología que
+involucran a varios países. Incluso la propia actividad de investigación está ex­
+perimentado un salto de escala en la coordinación de esfuerzos y en la contri­
+bución supranacional de recursos financieros, materiales y humanos, como úni­
+ca forma posible de hacer frente a los elevados costes de oportunidad que el
+apoyo de la investigación conlleva hoy para cualquier país. Por otra parte, la
+diversidad cultural, e incluso la institucional que por debajo de los Estados na­
+cionales va creciendo progresivamente, ha hecho surgir focos regionales o lo­
+cales con perfil altamente diferenciado, que se está traduciendo en pautas y en
+grados de interacción específicos entre los agentes de la innovación arraigados
+en las distintas comunidades, lo que difícilmente podrá conseguirse bajo el te­
+cho nacional.
+En modo alguno quiere decir ésto que el Estado nacional, y más en
+particular los sistemas nacionales de innovación, hayan perdido en cuanto mo­
+delo su capacidad analítica. Pero sí sugiere la conveniencia de atender a la cada
+vez más compleja red de interacciones entre agentes e instituciones que hoy se
+ven sometidos a campos de fuerza de escalas varias, desde las globales a las de
+carácter local o comunitario.
+Parece razonable, por todo ello, postular que conforme avanzan los
+procesos de globalización y de regionalización supranacional, la variabilidad
+interestatal, tan acusada en el pasado, podrá llegar a ser menor que la variabi­
+lidad regional subestatal, cuyas unidades pueden insertarse de manera propia
+en el todo de los procesos económicos y tecnológicos. Y hay que preguntarse,
+como lo hacía Nelson en el trabajo que cerraba su libro del pasado año «Las
+fuentes del crecimiento económico», si el concepto de sistema nacional no es,
+por una parte, demasiado amplio, en el sentido de que, el sistema de institu­
+ciones que soportan las innovaciones técnicas en un determinado sector, por
+ejemplo el de la industria farmacéutica, posiblemente tenga una reducida área
+de solapamiento con las instituciones relevantes para otro sector, por ejemplo
+el aeroespacial. Y si, por otra parte, el concepto de sistema nacional no resul­
+ta excesivamente limitado por cuanto, de manera creciente, muchos de los agen­
+tes e instituciones de la innovación tienen naturaleza o, cuando menos, operan
+transnacionalmente.
+
+76
+
+
+
+Añadamos a ello la incapacidad del sistema nacional, en el nuevo
+marco global, de hacerse cargo centralmente de la interacción entre agentes o uni­
+dades regionales subestatales en términos óptimos. Una incapacidad de la mayor
+importancia, que posiblemente no estamos todavía en condiciones de cartografiar
+con precisión, pero que no debe escapar a la atención de los especialistas.
+Porque no podemos olvidar, como ha señalado la Profesora de la
+Universidad de Harvard, Moss Kanter, que el proceso de globalización está tra­
+yendo consigo una proliferación de iniciativas, no sólo de Estados, sino también
+de regiones, y hasta de ciudades, por atraer y mantener a las mejores empresas
+y los puestos de trabajo de mayor calidad. Lo que plantea, como tema central, el
+cómo aprovechar las emergentes fuerzas globales para beneficio local, o alter­
+nativamente formulado, el de cómo poder influir e insertarse dinámicamente en
+ese proceso de cambio global, en lugar de sufrir sus efectos indeseados. Porque
+la inversión en educación y en innovación, y la creación de mecanismos de co­
+laboración entre agentes e instituciones, son tres componentes esenciales en la
+generación de riqueza cuya acumulación puede resultar más fácil en marcos te­
+rritoriales y culturales con identidad propia, siempre que mantengan la apertura
+y la orientación hacia las emergentes oportunidades globales del fin de siglo.
+Y ésta es la opinión sostenida por relevantes expertos en innovación,
+como Christopher Freeman, quien señala que se ha demostrado convincentemente
+la importancia de las regiones subnacionales para el desarrollo de redes y de nue­
+vos sistemas tecnológicos, sosteniendo que la infraestructura local, las externalidades, especialmente en cualificaciones y mercados de trabajo locales, los servi­
+cios especializados, y lo que no es menos importante, la confianza mutua y las
+relaciones personales, han contribuido en una gran medida al florecimiento de
+esas regiones. Y casos como el italiano, quizás uno de los mejor estudiados, ca­
+racterizado por fuertes contrastes entre regiones altamente innovadoras y regio­
+nes atrasadas, ilustran la relativa autonomía de la unidad que podemos llamar me­
+dios o entornos regionales de innovación, respecto a los grandes sistemas
+nacionales.
+La reevaluación al alza del espacio regional cobra aún más sentido
+cuando se atiende a un concepto de innovación que no equivale, sin más, a alta
+tecnología, o a actividades formales de I+D. Porque la innovación incremental,
+la innovación de ajuste fino, no tiene su origen exclusivo en el laboratorio de
+I+D, industrial o universitario, sino que descansa en un amplio conglomerado de
+factores y agentes, desde la actividad sistemática de I+D, al trabajo de los inge­
+nieros de producción, el de los técnicos, o la iniciativa proveniente de la propia
+planta de producción. Y por supuesto en la mayor facilidad para su interacción
+
+77
+
+
+
+con el mercado. Y caben ya pocas dudas de que esa cooperación de esfuerzos,
+intensiva en comunicación, entre agentes de distintos niveles organizativos y de
+diferentes instituciones, es algo muy fácil de lograr en espacios compartidos de
+trabajo y de vida cotidiana, de interacción social. Porque la tupida malla que ha­
+ce posible la innovación tiene cada vez más como centro de gravedad la región
+subestatal, conectada con la economía y con el sistema nacional de innovación,
+y más allá de él con las emergentes unidades supranacionales y con el conjunto
+de la economía global.
+Y pienso que es ese el marco
+permanentemente la interacción sinérgica
+universidad, requisito sine qua non para el
+diciones de cambio acelerado y turbulento
+siglo.
+
+en el que debe ensayarse y ajustarse
+entre gobierno regional, industria, y
+fomento de la innovación en las con­
+que se está produciendo al acabar el
+
+Un ejemplo nos servirá para ilustrar esta tesis. Hace ya más de 15
+años que con motivo de la reconversión industrial, y en orden a dotar a esta po­
+lítica de la agilidad necesaria, el Gobierno Vasco creó SPRI, Sociedad para la Re­
+conversión Industrial, propiedad 100% de la Administración vasca, para llevar
+adelante las operaciones de reconversión y definir la estructura de política in­
+dustrial de la etapa posterior. Fue entonces cuando parece que el Gobierno Vas­
+co descubrió el valor y potencia de futuro de la apuesta estratégica que repre­
+sentaba la tecnología, con la que se compremetió fuertemente. Y cuando vió con
+claridad que el futuro de la industria vasca dependía fundamentalmente de la ca­
+pacidad de innovación del sistema, y que la supervivencia económica sólo esta­
+ba garantizada si la economía vasca era capaz de impulsar la modernización tec­
+nológica.
+Y así se llegó a una filosofía, de alguna manera rupturista, que su­
+ponía la integración total del sistema de innovación. Filosofía presente en los dis­
+tintos planes temporales de Ciencia y Tecnología, tanto en lo que al tríptico cien­
+cia-tecnología-empresa se refiere, donde se ha contado con la experiencia, original
+sin duda, de los planes tecnológicos de los «clusters», cuanto en las actuaciones
+de los varios sectores de la Administración, tratando de que en todo momento
+«estén pegados al terreno». Es decir, una integración de todo el sistema, median­
+te la articulación de las políticas tecnológicas emprendidas desde todos los ám­
+bitos de la Administración, siempre pensando que no sea un sistema cerrado, si­
+no, por el contrario, perfectamente articulado con el nivel europeo.
+A partir de ello, los resultados tienen características diferenciales res­
+pecto de los demás sistemas regionales españoles. Lo que se reñeja en muchos
+
+78
+
+
+
+de los indicadores habituales. Por ejemplo, las inversiones en I+D representan el
+1,08% del Producto Interior Bruto de la Comunidad Autónoma del País Vasco,
+frente al 0,80 del conjunto de España, un 30% mayor. El número de investigado­
+res sobre la población activa es superior en un 24% a la media nacional y alcan­
+za ya el 75% de la media de la Unión Europea. La I+D es ejecutada en un 74%
+por el sector privado. Y la financiación es mayoritariamente privada, el 58%, co­
+mo ocurre en los sistemas de innovación más avanzados.
+Otro punto que merece especial atención en el Sistema Vasco de Tec­
+nología lo constituye la potente red de infraestructuras que da soporte a la inno­
+vación, que tiene una serie de claros ejemplos de origen empresarial. Y aunque
+los Organismos Públicos de Investigación, los OPI, no tengan ninguna implanta­
+ción en el País Vasco, lo que puede ser considerado una desventaja, su función
+es asumida cada día en mayor medida por los Centros Tecnológicos, que tienen
+un mayor contacto con la realidad empresarial y una gestión más cercana a la de
+las empresas. Por el contrario, y a diferencia de otras regiones, la Universidad no
+ha asumido todavía un papel relevante en el proceso de innovación.
+
+CONCLUSIONES
+Creo que nos ha llegado el momento de sacar algunas conclusiones.
+Hay algunas que son obvias. La primera es que necesitamos incrementar las ac­
+tividades de I+D, tanto públicas como privadas. Pero, por encima de ello, y fun­
+damentalmente, necesitamos promover la ciencia y la tecnología de excelencia.
+Es también una conclusión que nuestra estructura sectorial no ayu­
+da a aprovechar satisfactoriamente la innovación como fuente de riqueza.
+Y lo es que necesitamos diseñar interfases de comunicación más efi­
+caces de oferta y demanda, es decir, entre las instituciones dedicadas a la crea­
+ción de conocimiento y el mundo de la empresa, lo que exige una redefinición
+de los papeles de la Universidad, de la Empresa, y de la Administración.
+También sabemos que nuestro sistema productivo es menos recep­
+tivo a las nuevas ideas tecnológicas que la media europea. Y sabemos que un im­
+portante defecto de nuestro sistema de innovación es su tamaño.
+
+79
+
+
+
+La em presa no podrá permitirse en el futuro la búsqueda de ven­
+tajas competitivas sobre la base de factores de producción tradicionales, como
+materias primas baratas, bajos salarios, o mercados protegidos. Tendrá que apos­
+tar por el crecimiento basado en la innovación y en un alto valor añadido. Inno­
+vación que ya no será posible apoyar simplemente en la técnica, sino que re­
+querirá de la aplicación sistemática del conocimiento científico a la resolución de
+problemas de naturaleza práctica. Y tendrá que hacer un importante esfuerzo pa­
+ra integrar suficientemente la actividad de I+D en su estrategia empresarial.
+El em p resario, tendrá que ver en la tecnología una variable y di­
+mensión económica esencial de su hacer, cuya lógica hay que comprender y
+gestionar adecuadamente. Porque la capacidad de innovación, en todos los pla­
+nos, desde la generación de tecnología propia, a la disposición para incorporar
+y adaptar tecnología ajena, la mejora ininterrumpida del diseño y calidad de los
+productos, la consecución de una «imagen de marca» asociada a prestaciones,
+fiabilidad y servicio, la diferenciación de productos, el uso efectivo y la acu­
+mulación eficiente de know how tecnológico, constituyen hoy piezas inexcu­
+sables para competir eficazmente en un espacio económico cada vez con me­
+nos fronteras y en un contexto de ininterrumpido avance tecnológico. Y ello
+equivale a poner el foco de la atención en la acumulación y gestión de los «ac­
+tivos intangibles».
+La com unidad científica deberá superar una cultura basada en el
+distanciamiento respecto al mundo de la empresa. Porque una mejor coordina­
+ción de los programas de investigación con los requerimientos de la empresa no
+tiene por qué ir en detrimento del núcleo del hacer científico, ni de la búsqueda
+de modelos teóricos más veraces, potentes, o elegantes. Por ello, la comunidad
+científica deberá ver al mundo de la empresa no exclusivamente como fuente su­
+plementaria de recursos financieros, sino también, y sobre todo, como fuente de
+problemas genuinos, como reto, y como banco de prueba de algunas de las con­
+secuencias de modelos y teorías científicas.
+La Universidad y los Centros de Investigación tendrán que re­
+definir su papel y revisar sus métodos. Porque el conjunto de la sociedad espa­
+ñola, y en particular los decisores públicos, visualizan a la universidad como una
+especie de «caja negra» cuyo output principal, cuando no único, son los titulados
+superiores, y mucho más débilmente la han percibido como un recurso estraté­
+gico del sistema nacional y regional de innovación. Hay más cosas. Porque los
+incentivos para promover y recompensar la investigación siguen siendo insufi­
+cientes. Porque hay pocas relaciones de retroalimentación entre investigación uni­
+versitaria y áreas de aplicación práctica. Porque la movilidad entre personal de la
+
+80
+
+
+
+empresa y universidad es prácticamente inexistente. Y porque la gestión de la in­
+vestigación, y la transferencia de resultados a la sociedad, necesita ser notable­
+mente reforzada.
+Es una realidad, sin embargo, que no estamos en condiciones toda­
+vía, de conocer cómo nuestro país compara en cuanto se refiere a nuestra situa­
+ción, en relación con la «paradoja europea». Es decir, sobre el nivel de nuestra ca­
+pacidad de transformar conocimiento en riqueza. Porque no tenemos datos fiables
+que nos permitan comparar con otros países nuestra habilidad en convertir ide­
+as en productos, ni nuestra rapidez en hacerlo. Hacen falta más estudios. Y rápi­
+damente. Porque nuestra capacidad de producción científica es reciente, mien­
+tras que la Europa desarrollada ha sido y sigue siendo la fuente de continuas
+aportaciones científicas. Y caer en esta paradoja, es un peligro que estamos co­
+rriendo. Es necesario por ello despertar el interés de la empresa por los logros
+académicos, así como establecer incentivos para que los académicos orienten sus
+esfuerzos a preparar sus resultados para que puedan ser aprovechados por el te­
+jido productivo español.
+Será necesario también que el sistem a de ciencia y tecnología au­
+mente sus dimensiones y mantenga su eficacia, aunque para ello deberá esfor­
+zarse en ofrecer resultados que sean asimilables por el tejido productivo, que hoy
+tiene una escasa capacidad de I+D. Ello obliga al investigador a dedicar más aten­
+ción a las etapas de la innovación más alejadas el puro trabajo científico, que
+siempre son las menos atractivas.
+En todo caso, la solución debe pasar por reexaminar los puntos fuer­
+tes y débiles en los que basar una mejor división del trabajo entre todos los agen­
+tes del sistema de innovación que favorezca la constitución de una tupida red de
+relaciones entre industria y universidad. Una red que puede tomar diversas for­
+mas, aunque, con independencia de unas u otras, lo que realmente es urgente es
+la construcción de circuitos de transmisión de información, de relaciones de con­
+fianza y de intercambio de conocimiento tácito, entre los varios agentes del sis­
+tema. Algo que, pienso, se puede ver extraordinariamente favorecido por la cer­
+canía institucional y personal en los entornos regionales.
+Pero también hay notas optimistas. Nuestro sistema nacional de in­
+novación es, dentro de su reducido tamaño, eficaz, y todavía está lejos de su sa­
+turación. Por otra parte, y como acabamos de ver, no es posible saber hasta qué
+punto la llamada «paradoja europea» en el proceso de transformación de conoci­
+miento en riqueza, es aplicable a nuestro joven y pequeño sistema de ciencia y
+tecnología.
+
+81
+
+
+
+Lo único que sabemos sobre esta cuestión, es que las cifras de­
+muestran que mientras el Producto Interior Bruto español es de alrededor de 11%
+del de los cuatro grandes países europeos, con los cuales debemos compararnos,
+nuestro gasto de I+D es sólo el cuatro y medio del que realizan estos mismos pa­
+íses, y empleamos el 6% de sus recursos humanos. Sin embargo, la producción
+científica española es casi del 8% de la de aquellos países, y las ventas españo­
+las de tecnología no incorporada representan, sorprendentemente, el 6% de las
+de estos mismos países. Y ésto es un claro éxito de nuestro sistema científico.
+En todo caso, y como dijo el Presidente de esta Academia al pre­
+sentar el ciclo sobre los problemas fundamentales que plantea nuestro ingreso en
+la Unión Monetaria Europea, además de las políticas de Maastricht, dirigidas a lo­
+grar y mantener la convergencia nominal, es preciso abrir urgentemente el hori­
+zonte a medidas a medio y largo plazo, dirigidas a aumentar la convergencia re­
+al de España con la Unión Monetaria, mediante la mejora de las estructuras y de
+la eficiencia del sistema productivo.
+Como he tratado de explicar, hay mucho campo para hacerlo. Pero
+me permito señalar que, en estos momentos, y desde mi particular punto de vis­
+ta, el cuello de botella en relación con la creación de riqueza a través de la em­
+presa, se concreta en déficit de capital tecnológico, déficit de capital humano, dé­
+ficit de infraestructuras, y en un enorme déficit de relación entre la Universidad
+y los Centros de Investigación con la Empresa.
+
+82
+
+

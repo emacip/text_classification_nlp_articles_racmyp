@@ -1,0 +1,1754 @@
+GABRIEL RODRÍGUEZ: LA LIBERTAD
+COMO IMPERATIVO ÉTICO*1
+Por el Académico Correspondiente
+Excmo. Sr. D. Eloy Fernández Clemente *
+
+INTRODUCCIÓN
+
+El Profesor Fuentes, impulsor y director de una obra capital para la histo­
+ria del Pensamiento Económico español2, ha calificado a Gabriel Rodríguez de
+* Sesión del día 15 de enero de 2002.
+1 Al acceder en este solemne acto al honor de ser considerado académico correspondiente de
+esta tan veterana e ilustre Academia, no puedo menos de agradecer a cuantos en ello tuvieron parte (pro­
+puesta, firmas de apoyo, votación) y, de modo especial a aquellos que tengo por mis maestros y amigos,
+los Profesores Fuentes Quintana, nuestro director, Salustiano del Campo, secretario de la Academia, Juan
+Velarde, Luis Ángel Rojo, Fabián Estapé, Carmelo Lisón, José Barea, J. Vallet de Goytisolo —a quien me
+une el costismo— y a quienes, ya en un tono más próximo de colegas en la docencia e investigación uni­
+versitaria tengo también por amigos, como los Profesores Peces Barba, Herrero de Miñón, Segura, Car­
+pintero, Negro, Terceiro, y García Delgado (electo), o los como yo correspondientes, Galino, Serrano,
+Ramírez, Martín-Rodríguez, Almenar, Comín, Bandrés, Llombart. No me parece casual y sí debido a un
+designio muy calculado, la incorporación de tantos excelentes economistas e historiadores del pensa­
+miento económico entre los citados, bajo cuya compañía y afecto me siento confortado en mis limitacio­
+nes. A buen aseguro, señores, que haré todo lo posible por justificar vuestra magnanimidad al designar­
+me como uno de los vuestros. Me siento también confortado al recordar a tantos académicos aragoneses,
+de Joaquín Costa a Navarro Rubio, hace muy poco fallecido y autor de un interesante estudio sobre todos
+ellos. Permítaseme, por un instante, volver la memoria a otro gran economista y humanista, gran maestro
+en la historia del pensamiento económico, Emest Lluch al que ya no podemos ver entre nosotros porque
+la mano asesina del terrorismo segó su fecunda vida. Me gustaría dedicarle, a él que tanto amaba la liber­
+tad y la verdad, este pequeño discurso. También agradecer a mis colegas los profesores Salvador Alme­
+nar, José María Serrano Sanz y Alfonso Sánchez Hormigo sus comentarios, propuestas y correcciones al
+borrador de este texto, si bien asumo como sólo propios los errores que subsistan.
+2 La magna obra Economía y economistas españoles (Barcelona, Galaxia Gutenberg/Círculo
+de Lectores) que, bajo la dirección del Prof. Fuentes Quintana está próxima a terminar su publicación,
+
+597
+
+
+
+«seguidor, buen conocedor y defensor del modelo liberal clásico, y figura destaca­
+da del librecambismo español»*3. Manuel Martín Rodríguez le sitúa como «el más ori­
+ginal» del grupo de economistas librecambistas, recordando que Gabriel Franco le
+designara como «uno de los primeros que en España aplicaron el llamado método
+matemático en el estudio de la economía», lamentando que sean inencontrables sus
+Lecciones de Economía política (manual del curso 1887-1888), de las que «podía
+deducirse que, efectivamente, Rodríguez había utilizado las matemáticas en la
+determinación del equilibrio de mercado, en la teoría de la demanda y en la teoría
+de la distribución»4.
+También Almenar ubica a Rodríguez, junto a Aller, Figuerola y Echegaray formando el grupo de los economistas matemáticos, «quienes desde un ori­
+gen intelectual característico de la “escuela optimista” se definían por una posi­
+ción epistemológica deductivista o porque se interesaron más abiertamente por
+la economía matemática... sobre todo a partir de la polémica con el historicismo»5.
+Un reciente estudio monográfico de notable interés, el de Camilo Lebón
+y Rocío Sánchez Lissen6, califica a Rodríguez de «personaje polifacético que ha
+pasado hasta ahora relativamente desapercibido como economista, debido en
+parte a que rechazaba la notoriedad y también por el brillo de los Figuerola,
+va a ser, está siendo, un enorme acicate a la investigación, a pesar de que sus dimensiones y calidad
+pudieran hacer pensar que ya todo estaba dicho: nos permite adentramos en cientos de citas, datos,
+sugerencias, comentarios. Los tres tomos hasta ahora últimos, 4 (de 2000), 5 y 6 (de 2001), a que recu­
+rrimos en constante consulta, serán citados aquí como Fuentes Q uintana , EEE, y el tomo y páginas
+correspondientes.
+3 Fuentes Q uintana , EEE, 6 , pág. 347.
+4 M. M artín Rodríguez, «Gabriel Franco, un economista del exilio del 39«, en Fuentes Q uin ­
+tan a , EEE, 6, págs. 433-434 y nota. La busca de esos apuntes ha sido, hasta ahora, totalmente ímproba,
+según notifican los profesores Fuentes y Velarde. Orientado en ella hacia Salamanca, mi colega y deca­
+no de su Facultad de Económicas el Profesor Ricardo Robledo me confirma que no existe legado algu­
+no de Rodríguez en esa Universidad. Según Gabriel Franco en las escuelas de ingenieros parece tenía
+un gran predicamento el manual de Gabriel Rodríguez «uno de los primeros que aplicaron el llamado
+método matemático en el estudio de la economía-. G. Franco, «La teoría económica de nuestro tiempo.
+España*, en Anales de Economía Española, 1972, jul.-sept., cit. por J. I nfante en «Enseñanza y textos de
+Economía política en la segunda mitad del xix. El debate protección-librecambio a través de un texto
+docente: el Tratado de Economía Política o Tratado del trabajo de Pedro Moreno Villena*, en Revista de
+Gestión Pública y Privada, 3, 1998, págs. 99-107.
+5 S. A lmenar, «El desarrollo del pensamiento económico clásico en España*, en Fuentes Q uin ­
+tana , EEE, 4, pág. 74.
+6 Camilo L ebón Fernández y Rocío Sánchez L issen, «Gabriel Rodríguez: un combativo econo­
+mista liberal en el último tercio del siglo xix español*, en Fuentes Q uintana , EEE, 4, págs. 507-533.
+
+598
+
+
+
+Echegaray, etc., pero cuya trayectoria conviene analizar detenidamente». Como
+estos autores se ciñen, expresamente, a sus actividades como economista y, en
+concreto, a sus luchas en favor del librecambismo, ello me da pie para, sin dejar
+de atender a ese hilo quizá fundamental de su biografía, intentar establecer ésta
+de un modo amplio, en toda su dimensión intelectual, lo que quizá, de regreso,
+nos permita comprender las razones profundas de su combativa actitud como
+economista.
+Quiero dar un paso más y atreverme a sugerir que Gabriel Rodríguez es
+posiblemente el más destacado, preparado, activo miembro de esa «Escuela econo­
+mista» de profesores y políticos liberales, que, como han señalado Lluch y Almenar,
+ejercieron durante más de cuarenta años «un control muy amplio sobre la ense­
+ñanza de la economía en España, compartiéndolo, todo lo más, con economistas
+más directamente relacionados con la Institución Libre de Enseñanza» 1.
+Porque esta breve semblanza se refiere a una vida realmente asombrosa,
+que no sólo incluye la aventura librecambista no demasiado conocida por los no
+especialistas, sino también otros aspectos de su personalidad, tan rica, en la que,
+como reza el enunciado del discurso, tuvo siempre a la libertad (económica, polí­
+tica, social), como norte en toda su vida, regido como estuvo por un profundo
+imperativo ético.
+Y al abordar a grandes rasgos su biografía, realmente asombrosa, creo que
+debemos insertarla en una etapa, si políticamente de rápidos e importantes cam­
+bios, también relevante en cuanto a las transformaciones de la sociedad española,
+en las que los intelectuales alcanzan un destacado protagonismo, como ha expli­
+cado Paul Aubert «afirmándose ante la opinión, grupos más o menos profesionali­
+zados de “expertos” en todo aquello que hoy se denominarían “ciencias sociales”
+[...], además de algún sector de las ciencias “duras”, de la medicina y de la tecno­
+logía (ingenieros industriales al lado de los tradicionales ingenieros de caminos,
+etc.)»78. Y ello, a pesar de que hasta casi un siglo después no habrá una licenciatu­
+ra universitaria en Economía, era así también, y de un modo muy especial, en el
+7 E. Lluch y S. A lmenar, «Difusión e influencia de los economistas clásicos en España», en
+
+EEE, 4, pág. 137; J. M. Serrano Sanz , «Los estudios económicos en España a finales
+del xix: Historia de un estancamiento», en G. B el y A. Estruch (coords.), Industrialización en España:
+entusiasmos, desencantos y rechazos. Ensayos en homenaje a l profesor Fabián Estapé, Madrid, Civitas,
+1997, págs. 249-267.
+8 Paul A ubert, «El “nacimiento de los intelectuales”: algunos replanteamientos», en Ayer, 40,
+2000, pág. 21. Ver también, como marco general para la época, F. V illacorta, Burguesía y Cultura. Los
+intelectuales españoles en la sociedad liberal, 1808-1931, Madrid, 1980, Siglo XXI.
+Fuentes Q uintana ,
+
+599
+
+
+
+caso de los economistas, de gran peso en la opinión pública y en la vida política.
+¿Qué decir, entonces, en este caso de un ingeniero y economista?
+
+INGENIERO Y ECONOMISTA
+
+Gabriel Rodríguez Benedicto, hijo de un gallego empleado de Hacienda,
+había nacido en Valencia, el 8 de diciembre de 1829 9, y fue trasladado a los pocos
+meses a Madrid, donde tras una infancia muy precoz cursaría la carrera de inge­
+niero de Caminos 101. Como ya notara Perpiñá en 1935 y nos recuerda Velarde, la
+buena formación económica de los ingenieros (no es casualidad que lo fueran tan
+destacados economistas como Echegaray, Sagasta y Manuel Becerra, además de
+Rodríguez) y su proclividad hacia el librecambismo radicaba en «los textos técnicos
+extranjeros estudiados en nuestras escuelas técnicas especiales» n.
+Pronto —aunque también vinculado a la vida oficial como funcionario12—,
+será Rodríguez profesor de esa misma Escuela de Ingenieros de Caminos 1314, en la
+que tuvo de alumno destacado y auténtico discípulo a José Echegaray, mostrándo­
+le el camino de los grandes tratadistas extranjeros como Smith, Say y Bastiat u . En
+9 La Enciclopedia Espasa, en la voz que le dedica (tomo 53, pág. 1263) indica erróneamen­
+te que nació en 1827. Damos total fiabilidad en este tipo de datos a su hijo A nto nio G abriel Rodríguez
+y V illalonga , autor del imprescindible libro Gabriel Rodríguez, Madrid, Imprenta Helénica, 1917 (en
+adelante, citado como GR), que le dedicó con el subtítulo: «Libro en cuyas páginas resplandece el genio
+y el recto carácter de un gran español-. De él tomamos (y han tomado muchos de los mejores autores
+que le citan), obviamente, muchas informaciones, especialmente a partir de los textos reproducidos, si
+bien su carácter de enorme álbum de recuerdos le hace algo engorroso y difícil de consultar. Otras
+muchas fuentes indirectas consultadas contribuyen, en nuestro caso, a completar la figura y la obra.
+10 Rodríguez fue el número cuatro de la promoción de 1851, encabezada por su amigo
+Eduardo Saavedra. José M añas M artínez, «Los ingenieros de Caminos en el siglo XIX«, en Carlos D ardé,
+Sagasta y el liberalismo español, Madrid, 2000, págs. 96-97.
+11 J. V elarde, «Los estudios superiores de economía de 1857 a 1936*, en Fuentes Q uintana ,
+EEE, 6, pág. 879- Ver también otro trabajo de V elarde: «Pérez Galdós: el fin del Antiguo Régimen y el
+nacimiento del capitalismo burgués en Los Episodios Nacionales-, en Anales de la Real Academ ia de
+Ciencias Morales y Políticas, 1989, págs. XLI-LXVI.
+12 Con intermitencias, excedencias, permisos, hasta una tardía jubilación perteneció al funcionaríado, trabajó en la Dirección de Obras Públicas, fue secretario de la Junta Consultiva de Cami­
+nos, etc.
+13 La cátedra la obtuvo en 1853, según la biografía que publica El Globo, 15 de agosto de
+1881. Impartió clases de Derecho Administrativo aplicado a las Obras Públicas, disciplina hoy desapa­
+recida en el Plan de Estudios, que pronto amplía incluyendo enseñanzas de Economía Política.
+14 Juan V elarde (1974), Introducción a la Historia del pensamiento económico español en el
+siglo xx, Madrid, Editora Nacional, pág. 50.
+
+600
+
+
+
+realidad, Almenar atribuye a Gabriel Rodríguez «una perspectiva deductivista bas­
+tante extrema, como Figuerola» y «una influencia explícita de Herbert Spencer»,
+cuyos planeamientos sociales le llevan, a través del individualismo de Bastiat, a una
+teoría de la asignación15.
+Cuenta J. Mañas que «los ingenieros salidos ya de la tercera escuela, la
+creada en 1834, es casi un tópico el considerar que son liberales revolucionarios y
+que la revolución de 1854 se fraguó en las reuniones librecambistas que en el Ate­
+neo mantenían José Echegaray y Gabriel Rodríguez, entre otros, ambos profesores
+de la Escuela y asiduos colaboradores de la Revista de Obras Públicas’ 16.
+En efecto, las actividades de Gabriel Rodríguez como líder de «las corrien­
+tes más radicales del librecambismo (en juicio de Antón Costas1718) se realizaron, en
+primer lugar, en el Ateneo, donde ya desde 1855 dicta una serie de conferencias
+sobre «La economía política aplicada a las obras públicas», a las que siguen otras en
+los años siguientes IS. En 1854, cuenta Velarde, «tras la revolución de julio, al rea­
+brirse el Ateneo, reanudaron sus trabajos las cátedras, aunque no las secciones. Era
+evidente, al leer ciertos nombres —Colmeiro, Echegaray y Gabriel Rodríguez— que
+15 S. A lmenar, -El desarrollo...-, en Fuentes Q uintana , EEE, 4, págs. 76-77.
+
+ingenieros de Caminos...-, págs. 87-101. Mañas añade que eran de las pro­
+mociones de 1851 (Saavedra y Rodríguez) y 1853 (Echegaray) y -cuyas vidas estuvieron tan fuertemen­
+te entrelazadas entre sí, que sus biografías podrían hacerse conjuntamente. Los tres representan el cora­
+zón intelectual del Cuerpo en la época de Sagasta y marcan unas curiosas pautas de centrifuguismo
+intelectual que les conducen a posiciones tan singulares como la obtención de un Premio Nobel de Lite­
+ratura, en el caso de Echegaray, o la pertenencia a tres Academias y ai cerrado mundo del arabismo en
+el caso de Saavedra. Es una terna irrepetible, de tendencia liberal, que deja profunda huella en la pro­
+fesión». En cuanto a la Revista de Obras Públicas, debo a Mariano Hormigón, profesor de Historia de la
+Ciencia en la Universidad de Zaragoza, los datos de las colaboraciones de Rodríguez entre 1857 y 1860:
+■ Inauguración de la navegación del río Ebro en la parte comprendida entre Mequinenza y el mar, veri­
+ficada los días 20 y 21 del mes de julio» (1857, V, 15, pág. 177); -Reconocimiento de los puentes de la
+Vega y de Dos Villas en la carretera de Francia» (1857, V, 17, pág. 199); -Nueva división de los distritos
+de Obras Públicas» (1858, VI, 1, pág. 10); -Observaciones sobre las condiciones generales para los con­
+tratos de Obras Públicas» (1860, VIII, 8 , 7 y 19, págs. 89, 197, 225; -¿Qué debe entenderse por Obras
+Públicas?. (1860, VIII, 12, pág. 137).
+17 A ntón Costas, -Industrialismo y cuestión arancelaria en España», en Fuentes Q uintana , EEE,
+4, pág. 475.
+18 -La Economía política aplicada a las obras públicas (1854-1855)»; -Libertad de comercio»
+(curso 1857-1858), -Los sistemas contrarios a la libertad de comercio» (1858-1859 y 1859-1860). Juan
+Velarde confiesa que de encontrarse los guiones de las primeras de estas conferencias quincenales, que
+él data en 1856-1857, podría inferirse la ratificación o rectificación de su legendaria formación en eco­
+nomía matemática. J. V elarde, -Los estudios superiores de economía», en Fuentes Q uintana , EEE, 6,
+págs. 880-881.
+16 José M añas , -Los
+
+601
+
+
+
+irrumpían los economistas librecambistas, aunque... éste —no se olvide que era
+catedrático de la Escuela de Caminos, Canales y Puertos— [se ciñese ahora a] “Las
+vías de comunicación bajo el aspecto económico”» I9.
+En el curso de 1857-1858, cuando vuelven a trabajar las secciones ateneís­
+tas, mientras Figuerola explica a Bastiat, «Gabriel Rodríguez dará un curso que ya
+se hacía esperar en él: “Crítica del llamado sistema protector”, que se relaciona con
+la ofensiva de la “Liga libre-cambista” que envía al Ateneo un gran conjunto de sus
+propagandistas». Junto a Figuerola destaca Velarde a Rodríguez, «colaborador incan­
+sable» del Ateneo, a quien Palacio Valdés calificará a fines del siglo de «polemista
+que acomete para defenderse y que hiere con cortesía y mata con noble muerte» 20
+así como de «El último Abencerraje del progresismo»21. También Pérez Galdós,
+según ha recordado Velarde, describe en el tomo dedicado a Prim de sus Episodios
+Nacionales el clima de discusión ateneísta, en el que «hacía Gabriel Rodríguez la
+crítica acerba del sistema protector»22.
+Jordi Pascual, principal estudioso del Echegaray economista, recoge de sus
+Recuerdos noticia de la confluencia en la Revista de Obras Públicas (creada en
+
+1853) y en la tertulia del Café Suizo de ingenieros interesados en estudios econó­
+19 Hacia 1859 fue nombrado secretario de la sección de ferrocarriles de la junta Consultiva
+de Obras Públicas. Quizá esa mayor dimensión empírica le lleva, dos años después, en 1861, a pedir el
+paso a supernumerario en la Escuela de Caminos y trabajar por un breve tiempo como director de la
+Compañía del Ferrocarril del Noroeste, que construía la línea Palencia-León-Ponferrada. J. Mañas , art.
+cit., pág. 96 , explica su gran necesidad de ingresos, pues llegó a tener once hijos, a pesar de lo cual
+abandonó el cargo algún tiempo después (un excelente sueldo de 30.000 pesetas anuales no le retuvo
+ante las grandes irregularidades de los contratistas que llevaron luego a la quiebra a la compañía, recuer­
+da su hijo), regresando de 1862 a 1868 a su cátedra en la Escuela, orientando más sus estudios hacia
+ese sector y participando en el Anteproyecto del Plan General de Ferrocarriles. Además, y sin duda para
+completar un sueldo a todas luces insuficiente, tuvo en su propio domicilio entre 1858 y 1871 una Aca­
+demia de preparación para el ingreso en la Escuela de Caminos en la que insistía sobre todo en las Mate­
+máticas. En 1869 realiza con Jacobo G onzález A rnao y Luis T orres V ildosola una Memoria sobre los
+medios de reducir los gastos de prim er establecimiento de los ferrocarriles secundarios, Madrid, Imp. de
+Rivadeneyra.
+20 Las citas de J. V elarde son de -La economía en el Ateneo-, en Fuentes Q uintana , EEE, 4,
+pág. 561-562. La de A rmando P alacio V aldés corresponde a Los oradores del Ateneo (Sem blanzas),
+Madrid, 1890.
+21 A rmando P alacio V aldés, Los oradores..., Madrid, pág. 111.
+22 J. V elarde, -Los estudios superiores de economía de 1857 a 1936-, en Fuentes Q uintana ,
+EEE, 6 , pág. 879. Galdós introduce así a -dos preclaros economistas*: -Llegó don Laureano Figuerola con
+la habitual placidez del rostro y su expresión austera y benigna. Acompañábale Gabriel Rodríguez, alto,
+barbudo, bien encarado y con antiparras de oro*. B enito P érez G aldós, -Prim-, en la edición de los Epi­
+sodios Nacionales de Urbión y Hernando, t. IX, Madrid 1978, pág. 3962.
+
+602
+
+
+
+micos. Echegaray cuenta: «¡Bien puede decirse que en aquel salón brotaron no
+pocos gérmenes de la escuela economista que, capitaneada al menos en su parte
+joven por Gabriel Rodríguez, había de reñir durante muchos años tan encarnizadas
+batallas en pro del libre cambio!»23.
+Reconoce Echegaray palmariamente la deuda con Rodríguez: *En esta nue­
+va senda me lanzó la cariñosa amistad, la incansable propaganda y el entusiasmo
+por esta gran ciencia, del ingeniero de caminos, que fue primero compañero mío
+en la escuela, y de nuevo compañero en el profesorado y siempre amigo queridí­
+simo, don Gabriel Rodríguez»24. Jordi Pascual da cuenta de cómo «para complacer
+a Rodríguez, y sin ilusión alguna, leyó Echegaray las Armonías económicas de Bastiat, que le produjeron una impresión inmensa». Si esta obra, leída a los veintidós
+años, le «conquistó de una vez y para siempre para la ciencia económica... a partir
+de ahí, y siempre según su testimonio, nuestro autor leyó todas las obras de los
+maestros de la economía ingleses y franceses que su mentor Gabriel Rodríguez le
+pasó; empezando por el resto de escritos de Bastiat. Entraría después en contacto
+con el Journal des Économistes25. Al leer a los clásicos leyó también a los rivales, y
+todo cuanto pudo sobre comunismo y socialismo, sobre todo Proudhon»26.
+
+APÓSTOL DEL LIBRE CAMBIO
+
+A mediados del xtx, como ha afirmado el profesor Fabián Estapé, «la
+corriente «científica» de la Economía en España y en la América hispana se vería
+23 José Echegaray, Recuerdos, Madrid, 1917, I, pág. 292. Cit. en J. Pascual, -Algunas notas
+sobre la figura d e jó se Echegaray como economista», en Fuentes Q uintana , EEE, 4, pág. 538-539.
+24 José Echegaray , Recuerdos, Madrid, I, pág. 292. Cit. en Ibidem., pág. 539.
+25 Mi colega y amigo, también socio correspondiente de esta Academia, Salvador Almenar,
+me hace mención de una referencia incompleta pero segura por la que Gabriel Rodríguez publicó un
+articulo en el Jou rn al en 1891. La fuente es un estudio de Luc M arco y Evelyne Laurent, -Le Journal des
+Economistes 1841-1940» (editado en forma de Documento de trabajo, 1990) que incorpora un catálogo
+de autores y año de publicación, pero no el título del artículo. Por otra parte, me llega también de su
+mano el hallazgo de la profesora Susana Martínez de un artículo de Rodríguez sobre Pastor, que no esta
+indicado en el estudio de Marco y Laurent tal vez porque es una sección fija (necrológicas). Se trata de
+la que titula G abriel Rodríguez, -Economistes Contemporains. Don Luis María Pastor», Jou rn al des Eco­
+nomistes, tercera serie, n. 90, 1873, págs. 388-404 [al fin: Traduit de l’espagnol par H. Thibaudj. Esta mis­
+ma investigadora ha localizado también una recensión sobre un texto suyo (tampoco señalada en el cita­
+do estudio de Marco): [M athias] Rouxel (Compte rendu de), -Estado actual del movimiento proteccionista
+en España y el Congreso económico de Barcelona», conferencia de D. Gabriel Rodríguez, br. 8 .°, Madrid,
+1889, Jou rn al des Economistes, cuarta serie, núm. 7, julio 1889, págs. 122-124.
+26 Jordi P ascual, -Algunas notas...», en Fuentes Q uintana , EEE, 4, págs. 539-540.
+
+603
+
+
+
+muy pronto dominada por el influjo del clasicismo y, en el terreno de las duras rea­
+lidades económicas, por la prédica de una política económica librecambista... Flórez Estrada, Del Valle, M. Colmeiro, E. Toledano y tantos otros, sin olvidar a
+G. Rodríguez, contribuyeron a la restricción del Pensamiento Económico, conmi­
+nado a aceptar como exclusivamente científicas las doctrinas pragmáticas que se
+decían extraídas de las enseñanzas de Smith y Ricardo, para ser precisos. En un
+segundo plano, invocaban la autoridad de los denominados «optimistas» franceses;
+Say fue un personaje con influencia efectiva sobre la política económica española,
+por sorprendente que ello pueda parecer en la actualidad»27.
+Pero son ya otros tiempos y «el relevo lo toman hombres como M. Col­
+meiro, G. Rodríguez, Eusebio M. del Valle y otros»28, dando un paso decisivo la ten­
+dencia librecambista, y, aunque precariamente, su fundamentación teórica. No en
+vano, como han señalado acertadamente Lluch y Almenar, «el período comprendi­
+do entre la visita de Cobden (1846) y la reforma arancelaria de Figuerola (1869) está
+marcado por una difusión extraordinaria en España de las obras de Fréderic Bastiat»2930.A ello añade J. L. Malo que el entusiasmo por Bastiat «acentuaba los aspec­
+tos optimistas del liberalismo, como la armonía de los intereses de los agentes eco­
+nómicos y la justicia intrínseca de la distribución que emanaba del libre mercado.
+La creencia en que las verdades eternas y universales de la ciencia económica esta­
+ban ya firmemente establecidas hizo que los economistas españoles se centraran en
+la vertiente práctica de la disciplina, como la propaganda del libre comercio inter­
+nacional» 3°.
+
+27 F abián E stapé , Introducción a l pensamiento económico. Una perspectiva española, Madrid,
+1990, Espasa Calpe, pág. 11328 F abián Esta pé , Introducción..., pág. 61.
+29 Ernest L luch y Salvador A lmenar, «Difusión e influencia...», en Fuentes Q uintana , EEE, 4,
+pág. 157. Luis P erdices, en «La riqueza de las naciones y los economistas españoles», también en F uen­
+tes Q uintana , EEE, 4, pág. 292, afirma que «si los docentes preferían a Say por su claridad y sencillez,
+los políticos liberales más radicales preferían los libros de Bastiat... El debate librecambismo-proteccionismo no siempre corría por los cauces académicos, y la utilización del libro de Bastiat rebajó el nivel
+teórico de la discusión. Smith fue utilizado como un símbolo, pero el leído fue Bastiat». Coincide en esto
+con el bien conocido juicio crítico de Schumpeter, quien dice sencillamente que Frédéric Bastiat no fue
+un teórico sino un divulgador que «habría podido significar para la posteridad el periodista económico
+más brillante de la historia» y cuyo «optimismo» librecambista justifica, ya que «la exclusiva acentuación
+por Bastiat de la armonía entre los intereses de las varias clases es, en todo caso, menos tonto que la
+acentuación exclusiva del antagonismo entre esos intereses». Joseph A. Schumpeter, H istoria del an álisis
+económico, Barcelona, Ariel, 1971, pág. 561.
+30 J. L. M a lo , «La Institución Libre de Enseñanza y la ciencia económica», Sistema, 257, 200,
+pág. 95.
+604
+
+
+
+De que estos nuevos economistas ni estaban ni querían estar de espaldas
+a la economía estudiada en Europa es prueba el viaje que realizan Colmeiro, Figuerola y Gabriel Rodríguez en 1856 a Bruselas para asistir «con carácter oficial y en
+representación de España» al Congreso de Economistas. Al regreso, los tres, com­
+prometidos a propagar las modernas doctrinas económicas, fundan junto con Pas­
+tor, Echegaray, Moret y otros (es el 2 de enero de 1857), la Sociedad Libre de Eco­
+nomía Política 31. Como recordaría Rafael María de Labra, «en la Carrera de San
+Jerónimo, Pastor, Gabriel Rodríguez, Cifuentes, Sanromá, Bona y Moret desenvol­
+vieron las doctrinas economistas de la última escuela francesa»32. La Sociedad esta­
+ba presidida por Figuerola, Colmeiro y Montesinos y Rodríguez era uno de los dos
+secretarios (el otro es José Luis Retortillo). La temática era muy amplia, abarcando
+también temas sociales y en ella estaban integrados políticos de muy diverso sig­
+no, incluidos conservadores tan notorios como González Bravo, Alcalá Galiano o
+Cánovas. Entre otras, tuvieron lugar tres sesiones de debate sobre la enseñanza
+obligatoria en las que participan Rodríguez, Figuerola, Colmeiro y otros33.
+Son años de intensa actividad34, y la mayoría de ellos van a transitar por
+31 V icente Cacho Vfu, La Institución Libre de Enseñanza, Madrid, Rialp, 1962, pág. 41 bis,
+citando El Economista, 2, 1857, págs. 17-18, e indicando que la secretaría de esta Sociedad estaba en la
+administración de la revista —Carrera de San Jerónimo, 22— . A ntonio Jiménez-Landi, La Institución Libre
+de Enseñanza. Los orígenes, Madrid, Taurus, 1973, pág. 270, alude también al despacho del Ministro de
+Fomento como otra sede de tertulia. De hecho a partir del 2 de enero de 1857 se reúnen los socios en
+un banquete, nos dice Cacho, «costumbre que se mantuvo mensualmente con regularidad-.
+32 Rafael M. de Labra , El Ateneo de Madrid. Sus orígenes, desenvolvimiento, representación y
+porvenir, Madrid, 1878, págs. 140-142. El texto se reproduce en 1882 en el Discurso necrológico en
+memoria de don José Moreno Nieto, en la Academia de Legislación y Jurisprudencia, y en Discursos polí­
+ticos, académ icos y forenses, Madrid, 1884. Rodríguez recordará en 1894, en su célebre polémica con
+Cánovas, que la Comisión provisional estaba compuesta por 39 personas, de las que 14 procedían de la
+Unión Liberal (entre ellos, Colmeiro y Cánovas), 13 eran «demócratas- (destacan Orense, Castelar, San­
+romá, Echegaray y él mismo); siete moderados (Pastor, Alcalá Galiano, Borrego, etc.) y cinco progre­
+sistas (Figuerola y Sagasta...), GR, págs. 509-510.
+33 Sociedad de Economía Política, Discusión sobre la enseñanza obligatoria, Sesiones de 24
+de marzo y 7 y 15 de abril. Pleca, Madrid, Imprenta de Matute y Compagni, 1858, 132 págs. La Ficha del
+ejemplar existente a principios de siglo en la Biblioteca del Museo Pedagógico Nacional dice que los
+participantes «manifestaron opiniones encontradas respecto al punto debatido-. Cit. por Rufino B lanco
+y Sánchez (1908), Bibliografía pedagógica de obras escritas en castellano o traducidas a este idioma,
+Madrid, t. II, pág. 40. Es muy curiosa la postura liberal extrema de Rodríguez, que duda si los padres
+(aparte el deber moral) deben tener obligación legal de dar instrucción a sus hijos, ya que «nadie es juez
+más abonado que un padre para decidir el empleo del capital y del trabajo que puede dedicar al por­
+venir de sus hijos-, GR, pág. 529.
+34 Entre 1857 y 1865 publica Rodríguez toda una serie de folletos, artículos y capítulos: (18571858) Libertad de comercio; (1858) Observaciones sobre la libertad de importar cereales extranjeros,
+Madrid, folleto; (1859) La libertad de importación, sin datos; (1860) -De los sistemas contrarios a la liber-
+
+605
+
+
+
+la publicística económica de altura, en especial en tres revistas: el quincenal El Eco­
+nomista (1856-1857), la revista mensual La Tribuna de los Economistas (1857-1858),
+y la Gaceta Economista (1861-1863)- De la primera, liderada por Figuerola, fue
+director anónimo (algo más que frecuente entonces) Gabriel Rodríguez quien, indi­
+ca Almenar, «tenía estrechas relaciones con los librecambistas franceses, y gran par­
+te de los sumarios se dedican a la reforma aduanera, las crónicas del Congreso de
+Economistas o el Congreso Internacional de Reformas Aduaneras celebrado en Bru­
+selas en 1856»*3*35. La revista termina su breve andadura por la presión de la ley Noce­
+dal de julio de 1857. Coexiste un tiempo con ella La Tribuna de los Economistas,
+que dirige Luis María Pastor y es órgano de la citada «Sociedad Libre de economía
+política».
+Tras un interregno de tres años, seguirá cumpliendo el mismo papel la
+Gaceta Economista, con parecida nómina de colaboradores (Pastor, Rodríguez, San-
+
+romá, Figuerola, Carreras, Moret, Alcalá Galiano, Carballo, Uhagón, Canalejas, según
+nómina que recoge Almenar), y muy próxima también a la Asociación para la Refor­
+ma de los Aranceles de Aduanas que preside Alcalá Galiano, surgida (en este caso
+con una más cerrada «militancia» en favor del librecambio) en 1859 desde el mismo
+grupo, que se reúne en el patio de la Bolsa y que, según Sanromá introduce la cos­
+tumbre de los mítines en España 36. En el Ateneo, según recordará Azcárate, dio
+Rodríguez una serie de conferencias en los cursos 1856 a 1859; de nuevo en el cur­
+so 1862-1863, el grupo de la asociación presidido por Antonio Alcalá Galiano, impar­
+te un curso en apoyo del libre cambio37. Hablan Canalejas, Moret, Rodríguez y otros.
+tad de comercio-, Revista M urciana, 15 de mayo. Quizá sean recogidos los que el Espasa da como de
+(1858-1859 y 1859-1860) Los sistem as contrarios a la libertad de comercio, (1860) -La Balanza mercantil-,
+Revista M urciana, 31 de mayo; (1862-1863) -Examen del sistema llamado protector bajo el punto de vis­
+ta económico-, en Conferencias librecambistas, Madrid, Ateneo; (1864-1865) La reforma aduanera.
+33 Salvador A lmenar, -El desarrollo del pensamiento económico clásico en España-, en F uen­
+tes Q uintana , ERE, 4, pág. 59.
+36 Joaquín M aría Sanromá , Mis Memorias, Madrid, 1887-1894, t. 2, pág. 342. Rodríguez, en un
+mitin en la Bolsa, de 25 de abril de 1859, asegura: -Entraremos, señores, en la lucha, tomando por tipos
+de nuestra conducta dos sublimes ejemplares...: Ricardo Cobden y Federico Bastiat-, en GR, 369-371. La
+imitación de Bastiat llegó al extremo de adaptar a España la idea y muchos detalles de su Le m aire
+deniós, en un artículo en El Crédito, según se recoge y reconoce en GR, pág. 372. Francisco Cañamaque ,
+en Los Oradores de 1869, 2.a edición, Madrid, 1869, asegura de Rodríguez que -su oratoria es lógica y
+sobria como pocas. A las veces es también demasiado cruda, es decir clara, no se anda por las ramas...
+Va a persuadir, a convencer, a probar, y lo hace con una dialéctica de hierro-. De 1859 es su folleto
+«Libertad de importación-.
+37 Gumersindo de Azcárate, en la velada de 24 de mayo de 1903 en honor de G. Rodríguez,
+reproducida en GR, págs. 185-189. Conferencias librecambistas, Madrid, Imprenta de Manuel Galiano,
+1863.
+
+606
+
+
+
+Sabemos que tuvo gran repercusión y que la conferencia de Rodríguez versó sobre
+«Examen del sistema llamado protector bajo el punto de vista económico-, todo un
+alegato contra las teorías matizadamente proteccionistas de Listx .
+Otra conferencia destacable es la que pronuncia en el curso 1863-1864
+sobre la idea de nacionalidad, que matiza en mucho: se da cuando hay delimita­
+ción territorial, unidad política y «sentimiento de unión a que se ha llamado amor
+de la patria o patriotismo»; pero eso conviene a lo que han sido, no a lo que deban
+ser, ya que «la eternidad de la nación en este mundo es incompatible con la razón
+y con la Historia». Y añade: «el estudio racional no nos presenta la condición de la
+nacionalidad como necesaria..., no hay en el hombre un sentimiento particular de
+la nacionalidad». Y concluye: «La nacionalidad es, para mí, una condición histórica
+para la realización de los fines humanos. Ha sido necesaria en otros tiempos, lo es
+hoy, todavía; pero dejará de serlo en el porvenir». Lo es aún, en la medida en que
+aseguren la libertad de sus ciudadanos, pero «querer crear hoy naciones por el prin­
+cipio llamado de las fronteras naturales, o por el idioma, o por recuerdos históri­
+cos... es absurdo, y sobre absurdo, inútil-3839. En el curso 1864-1865 volverá nuestro
+autor al estrado ateneísta para glosar «La reforma aduanera».
+Todavía tiene tiempo Rodríguez de escribir para otras publicaciones
+menos especializadas. Así, le sabemos colaborando en 1860-1861 en la revista quin­
+cenal La Razón, de inspiración krausista, que termina su breve vida por el fuerte
+enfrentamiento de los dos grupos ideológicos en que se escinde. Rodríguez está en
+el formado por Canalejas, Echegaray, Figuerola y Mariano Carreras 40. De los sesen­
+ta son su folleto sobre Cuestiones políticas contemporáneas y colaboraciones más o
+menos esporádicas en numerosas revistas 41. Con todos esos materiales podría
+38 Fueron todas recogidas en libro encabezado por L. M. Pastor, Conferencias Librecambis­
+tas: discursos pronunciados en el Ateneo Científico y Literario de Madrid por varios individuos de la
+ARAA en el curso 1862 a 1863, Madrid, Imprenta de Manuel Galiano, 1863.
+39 GR, pág. 544.
+40 A. Jiménez-Landi (1973), La Institución..., págs. 86 y 79. El director de La Razón, ahora
+secretario de la nueva Revista Ibérica de Ciencias, Política, Literatura, Artes e Instrucción Pública, es
+Cruzada Villaamil, al que Rodríguez dirige una carta, que se publica en el primer número, en la que
+hace constar que esta publicación «no podía considerarse continuación, en ningún caso, de la fenecida,
+como hubiese podido sospecharse por el prospecto que la anunció-. Y añade que -no profesa todas las
+ideas políticas y sociales que, seguramente, van a defender los redactores de la nueva publicación perió­
+dica-. No es de extrañar que, tanto él como su amigo y discípulo Echegaray, sean en adelante margina­
+dos de la Revista Ibérica, de clara filiación krausista. Sobre la crisis de La Razón ver J. L. Malo , -El pen­
+samiento económico del krausismo español-, en E. Fuentes, EF.E, 5, págs. 399-400.
+41 En La Iberia aparece su duro alegato contra el sistema de quintas, a propósito del movi­
+miento belga en ese sentido, argumenta además que las levas periódicas perjudican a la industria. La Ibe-
+
+607
+
+
+
+haber confeccionado, y no lo hizo aunque se lo planteó, un interesante volumen.
+En especial, con los artículos aparecidos en El Contemporáneo en 19 y 21 de mayo
+de 1865, sobre «Ricardo, Cobden y Bastiat».
+Los librecambistas tienen además importantes plataformas en la Universi­
+dad (hay varios catedráticos) y en la Real Academia de Ciencias Morales y Políticas,
+que como es bien sabido se crea en 1857 y a la que pertenecerán Pastor, Figuerola, Colmeiro, Alcalá Galiano y Madrazo. Una tercera plataforma fundamental, como
+veremos más adelante, sería la Institución Libre de Enseñanza.
+Se ha escrito, con hipérbole, que Rodríguez «perteneció a casi todas las
+asociaciones de estudios económicos de Europa»42. Sabemos que, además de todas
+las citadas españolas, fue miembro, junto a Figuerola, Echegaray, Moret y otros, del
+Cobden Club, de Londres43, meca del librecambio. También perteneció a la fran­
+cesa Société d ’Économie Politique.
+
+LIBERTAD PARA LOS ESCLAVOS
+
+Una nueva adscripción de Gabriel Rodríguez se produce el 7 de diciembre
+de 1864 cuando, tras varias tentativas, el español de Puerto Rico Julio Vizcarrondo,
+funda la Sociedad Abolicionista Española, que pronto presidirá Olózaga, y si bien nin­
+gún partido político prestó, de momento, atención a los abolicionistas, éstos encon­
+traron en cambio «una acogida entusiasta en los jóvenes que constituían el grupo lla­
+mado de los economistas, y que vivían por entonces separados de los partidos»44.
+Los trabajos de la Sociedad se inician el 2 de abril de 1865, y sólo el 7 de
+octubre de 1886 se suprime el sistema de «patronato», eufemismo que amparaba la
+esclavitud en Ultramar45. Es, pues, otra larga lucha. Rodríguez, uno de los que acu­
+rta, 7 de marzo de 1858, GR, págs. 519-525. Otras cabeceras en que firma son Revista M urciana, Cróni­
+ca de Negocios, El Día, Revista de España, La Estafeta, La Correspondencia de España, El Globo, la Revis­
+ta Hispanoam ericana, La América, los Conocimientos útiles, la Gaceta de Ingenieros, El Lmparcial....
+42 Art. citado de la Enciclopedia Espasa.
+43 Así lo asegura A ntón C ostas, Apogeo del liberalismo en -La Gloriosa». La reforma econó­
+m ica en el Sexenio liberal (1868-1874), Madrid, Siglo XXI, 1988, pág. 205, a partir de un estudio britá­
+nico sobre dicho Club.
+44 G abriel Rodríguez, «La idea y el movimiento antiesclavistas en España durante el siglo xix-,
+en La España del siglo xix (s.f.) t. 3, pág. 336.
+45 B elén P ozuelo M ascaraque, «Los abolicionistas españoles-, en Estudios históricos. Home­
+naje a los profesores J. M. Jover Zamora y V. Palacio Atard, t. I, Madrid, Universidad Complutense, 1990,
+608
+
+
+
+den entusiastas al acto fundacional en la Academia Matritense de Legislación y
+Jurisprudencia junto a Castelar y Moret, junto a los economistas Félix Bona, Figuerola, Sanromá, Beraza, Carreras, Orihuela y Valentí, será uno de los miembros de
+la Junta Directiva de la Sociedad4é, a la que pronto se adhieren también Arango,
+Juan Valera, Sagasta, Labra, Fermín Caballero y otros 4
+674
+. Se organizan dos mítines,
+8
+en el teatro Variedades (10 de diciembre de 1865) y en el de la Zarzuela (10 de
+junio de 18664S) justo el mismo día del regreso al poder de Narváez, quien poco
+después disolverá la Sociedad.
+Renacerá ésta en 1868, enviando una exposición al gobierno provisional
+(firmada por Gabriel Rodríguez, Labra, Vizcarrondo, Sanromá, Bona, Corral y
+otros), seguida de toda otra serie de actividades, que aumentan en los años siguien­
+tes 49, lográndose en 1873 la abolición en Puerto Rico y en el último tramo del com­
+bate sigue Rodríguez, ahora en la compañía de, además de los citados, Costa50, Pi
+y Margall, Castelar, Ruiz de Quevedo, etc., con los que interviene en algún impor­
+tante mitin. No es una casualidad, en este contexto, que Rodríguez vaya a ser, avan­
+zado el Sexenio, senador por Puerto Rico. Incorporando el tema marroquí al espí­
+ritu de sus campañas, todavía varios de aquéllos participarán en otro importante
+mitin a mediados de los ochenta51. En 1887, recién cumplida esta hermosa tarea, la
+analiza Rodríguez con brillantez en una importante conferencia52.
+págs. 101-121. Ver también Paloma A rroyo Jiménez, -La Sociedad Abolicionista Española», en Cuadernos
+de Historia Moderna y Contemporánea, Madrid, Universidad Complutense, 1982, págs. 127-149; y M arcel M erle y Roberto M esa (eds.), El anticolonialism o europeo. Desde Las C asas a Marx, Madrid, Alianza,
+1972, págs. 277-282, en que se recogen algunos textos vibrantes de G. Rodríguez.
+46 A. Jiménez-Landi, La Institución..., pág. 98. Cacho asegura que la sesión fundacional tuvo
+lugar el 2 de abril de 1865, -cuando ya flotaba en el ambiente el malestar que iba a estallar, una sema­
+na después, en los sucesos de la “noche de San Daniel”». Cacho V íu , La Institución..., pág. 113).
+47 A. J iménez -L and i , La Institución..., pág. 98.
+48 Rodríguez clama en éste: -Esto no puede continuar así. Es preciso que esas abominacio­
+nes concluyan», GR, pág. 553.
+49 »La abolición de la esclavitud en Los Estados Unidos», en Fernando de Castro y otros, Con­
+ferencias anti-esclavistas del Teatro de Lope de Rueda, Madrid, Sociedad Abolicionista Española, 1872.
+Son siete capítulos, el último el de Rodríguez, tras los textos de Castro, Bona, Carrasco, Acosta, Sanro­
+má, Torres Aguilar, Labra.
+50 Ver mi libro Joaquín Costa y el africanism o español, Zaragoza, Porvivir, 1977, en que se
+trata de sus ideas y actuaciones antiesclavistas.
+51 F. Coello, J. Costa , G. Rodríguez, G. de A zcárate, E. Saavedra y J. de Carvajal, Intereses
+de España en Marruecos. Discursos pronunciados por los señores... en el meeting celebrado en el tea­
+tro de la Alhambra el día 30-III-1884, Madrid, Biblioteca de Sociedad Española de Africanistas y Colo­
+nistas, M. Fortanet, 1884, t. I.
+52 G. Rodríguez, La idea y el movimiento antiesclavista en España durante la segunda m itad
+del siglo XIX, Madrid, Libro de A. San Martín, 1887, 35 págs. (en la serie -La España del siglo xix: colec­
+ción de conferencias históricas»).
+
+609
+
+
+
+LA POLÍTICA, EN EL SEXENIO. EL ÉXITO DEL ARANCEL DE 1869
+
+Era casi un juramento el decidido propósito de la mayoría de los econo­
+mistas del grupo el alejamiento de la política, el «tenaz apartamiento de los parti­
+dos militantes, de la prensa ardiente y de los comicios electorales», resultado de la
+pésima imagen que les produce la que conocen53. Ello les lleva, claro está, a una
+primera «falta de influencia casi absoluta sobre las masas», como escribe en El Pro­
+greso, ya que, a la sazón, «el pueblo se agita sólo en el círculo de la política». Sin
+embargo, «la elocuencia, la fe y la perseverancia con que los economistas defen­
+dieron en todas partes sus ideas... lograron hacer profundísima mella». En el grupo,
+«Echegaray representaba la inteligencia; Sanromá, la palabra; Moret, la gracia; Bona,
+la laboriosidad y Pastor, la experiencia; Gabriel Rodríguez era la fe, el movimiento,
+la pasión..., el alma»54.
+Y es entonces cuando, «como resultado de la revolución de 1868, tres per­
+sonajes clave del grupo de jóvenes ingenieros de caminos que lideraban intelec­
+tualmente tanto la Escuela como la Revista de Obras Públicas, Echegaray, Saavedra
+y Rodríguez, pasan a ocupar puestos importantes en el nuevo Gobierno»55. Aunque
+le fue ofrecida a Rodríguez la Dirección General de Obras Públicas por el ministro
+Ruiz Zorrilla, éste prefirió ser Subsecretario de Hacienda con Laureano Figuerola,
+en el gobierno provisional de 186856.
+El momento era de gran expectación y confianza. Los amigos de Figuero­
+la tienen la gran ocasión de colaborar con él en la difícil papeleta de transformar
+la política económica española. Costas afirma que «donde mejor se manifestó este
+intento de aprovechar el empuje inicial del cambio político fue en la reforma del
+53 Sin embargo, y en concreto a Gabriel Rodríguez, con alguna frecuencia se le ha vincula­
+do al partido demócrata. Ver sobre éste A n to nio E iras R o el , El partido demócrata español (1849-1868),
+Madrid, Rialp, 1961.
+M Artículo firmado -I..*, en El Progreso, sin fecha pero en vida de Rodríguez, recogido en GR,
+1917, págs. 165-172. Sobre el atractivo de Rodríguez para diversos partidos progresistas nos habla con
+elocuencia el hecho de que en 1885 y 1886 los republicanos lamentan no tenerle a su lado y le instan
+a aproximarse, dadas las grandes semejanzas en principios y aspiraciones. Artículos «Los demócratas
+sueltos» y -A los republicanos sueltos», en El Progreso, 5 de noviembre de 1885 y 25 de marzo de 1886.
+55 J. M añ a s , -Lo s ingenieros de Caminos...», págs. 87-101.
+56 En su expresiva carta de invitación, le dice Figuerola: -Querido Gabriel: ¿Quiere usted venir
+a mi lado como subsecretario de Hacienda o quiere usted ser director general de Obras públicas con el
+Sr. Ruiz Zorrilla? Escoja usted y dígamelo cuanto antes posible. En ocasiones como la presente hay que
+hacer algo más que en 54, y usted entonces se prestó a un trabajo cuyo ensayo es una buena expe­
+riencia para la actualidad». (La carta, privada, con fecha 9 de octubre de 1868, es manuscrita y se repro­
+duce y transcribe en GR, 1917, págs. 43-44).
+
+610
+
+
+
+arancel de aduanas, tal como ha quedado reflejado en el debate parlamentario de
+dicho proyecto especialmente en las posiciones defendidas por Gabriel Rodríguez
+y el grupo más radical de los librecambistas»57. Para Rodríguez «la protección no era
+rechazable en sí misma, sino por el hecho de que estaba calculada en función de
+la permanencia de las industrias marginales y no como un medio de estímulo para
+el desarrollo industrial»58.
+El Arancel Figuerola ofrecía un gradualismo en el desarme arancelario 59,
+ante lo que «reaccionó el grupo más radical del librecambismo —integrado, entre
+otros, por Gabriel Rodríguez, José Echegaray, Segismundo Moret y el marqués de
+Sardoval— que puso a votación un voto particular, defendido por G. Rodríguez y
+S. Moret, para conseguir que la mecánica desprotectora comenzase desde el mis­
+mo momento de aprobarse la reforma»60. Luego, sin embargo, Rodríguez dimitió,
+sin dar explicaciones, y regresó una vez más a su cátedra en la Escuela de Ca­
+minos 61.
+Costas constata que «en la discusión de los primeros presupuestos de la
+Revolución (1869-1870) Gabriel Rodríguez afirmaba que la escuela economista era
+completamente radical en la doctrina, pero que tal como habían defendido en los
+meetings de la Bolsa y en su propaganda, no querían que sus doctrinas se plante­
+aran de manera inmediata y brusca, porque tenían “la convicción de que las nue­
+vas ideas, cuando se plantean de ese modo y antes de que la opinión general las
+admita, provocan reacción contraria que retrasa su triunfo definitivo”»62.
+En esos años ardientes del comienzo del Sexenio, Rodríguez y sus corre­
+ligionarios librecambistas vuelven a la carga en las viejas tribunas auspiciando un
+57 A. C ostas (1988), Apogeo del liberalism o..., pág. 62.
+58 A. C ostas (1988), Apogeo del liberalismo..., pág. 162.
+59 Como afirma Comín, -El arancel más librecambista fue el de Figuerola de 1869, aunque en
+
+realidad no pasaba de ser moderadamente proteccionista. Se trataba, eso sí, del primer arancel realmente
+industrialista del país, pues otorgaba una protección efectiva a determinadas industrias. Pero no llegó
+nunca a aplicarse íntegramente, porque su base quinta se derogó justo cuando iba a entrar en vigor».
+F. Comín , Historia de la H acienda Pública, II, España (1808-1995), Barcelona, Crítica, pág. 21. Ver tam­
+bién J. M artín N iño , La H acienda Española y la Revolución de 1868, Madrid, Instituto de Estudios Fis­
+cales, 1972.
+60 A ntón Costas, «Industrialismo y cuestión arancelaria en España», en Fuentes Q uintana , EEE,
+4, pág. 476.
+61 La explicación la da, años después, El Globo, de 15 de agosto de 1881, asegurando que
+dimitió como Subsecretario porque -creía incompatible la representación del país con un cargo no pro­
+fesional y que tenía con la política directísimas conexiones».
+62 A. C ostas (1988), Apogeo del liberalismo..., pág. 183, cit. del Diario de Sesiones de las Cor­
+tes de 1869, sesión del 26 de junio, pág. 3170.
+
+611
+
+
+
+gradualísimo desprotector. En el Ateneo, habla en 1869 sobre «El crédito y sus fun­
+ciones», tema sobre el que volverá ya en la Restauración, en el curso 1876-1877
+sobre «Funciones y formas de crédito»63. Pocos años más tarde insiste en temas con­
+cretos del comercio exterior64, además de formar parte durante varios años, hasta
+su aprobación, de las comisiones revisora y codificadora del Código de Comercio.
+Todavía fue elegido Rodríguez por dos veces diputado (en 1869 y en
+1871 65) por el distrito manchego de Infantes, Ciudad Real, y luego senador por
+Puerto Rico, donde sería reelegido de nuevo, aunque no aceptó esa segunda vez.
+De entre sus numerosos y vibrantes discursos, destacan el magistral que pronuncia
+el 17 de mayo de 1869 en las Cortes Constituyentes sobre el modelo de Estado, exi­
+giendo una mayor definición, un proyecto de Constitución, a los republicanos fede­
+rales, porque «la federación no es un ideal político; habéis confundido un procedi­
+miento político con una forma definitiva de Gobierno», mientras que «la
+descentralización ya es otra cosa; ya es hoy una doctrina, una idea aceptable, una
+idea que puede dar grandes bienes al país; es precisamente la idea democrática...
+Y con la descentralización, señores diputados, puede asegurarse que se realizará el
+ideal democrático en España bajo la forma monárquica». Ahora bien, en cuanto a
+la monarquía advierte que «la revolución de Septiembre ha acabado con el derecho
+divino: el Rey que venga no tiene otro derecho que el que le da nuestra Constitu­
+ción; el Rey que venga es un magistrado, es un poder que creamos nosotros mis­
+mos; el absolutismo de su origen, como decía el Sr. Gil Berges, radica en nuestra
+soberanía, y por consiguiente, en nosotros está el límite de sus atribuciones, el lími­
+te de sus ambiciones, el límite de su voluntad. Y si ese monarca abusara de esas
+atribuciones que nosotros le damos, puesto que está admitida y consignada la sobe­
+ranía nacional y no hay derecho divino en ese monarca, podemos retirarle nues­
+tros poderes » 66.
+También es muy interesante el que pronuncia el 13 de noviembre en esas
+mismas Cortes Constituyentes de 1869, pidiendo «acabar con la arbitrariedad en las
+provincias ultramarinas, sea por medio de la asimilación, sea por otro sistema; es
+preciso que aquellas provincias tengan una Constitución; es preciso que allí el ciu­
+dadano tenga asegurados sus derechos como los tiene en España». Y, en especial,
+63 Ver (1875-76) El concepto y las funciones del crédito. Sin datos, cit. por Espasa.
+64 «Información oral sobre las clasificaciones y las valoraciones de los tejidos de lana*, Revis­
+
+ta de España, LXXI, 1879, pág. 405.
+65 En esta segunda ocasión formó parte de la Comisión de Diputados que fue a Italia a ofre­
+cer a Amadeo de Saboya el trono de España. Cuando el rey de Italia, en agradecimiento, le concedió la
+Gran Cruz de la Corona, la rechazó, como hizo con otras que le ofrecieron en España.
+66 GR, págs. 222-235.
+
+612
+
+
+
+para su querido Puerto Rico, «que no tiene carreteras, que no tiene industria, cuyo
+comercio está vejado y limitado por trabas múltiples», a pesar de lo cual debe pagar
+enormes impuestos... «para sostener allí un ejército considerable, porque un país
+tan mal gobernado ha de estar descontento; y cuando un pueblo está descontento,
+no hay otro medio de sujetarlo que el empleo de la fuerza». Y, naturalmente, recla­
+ma la rápida desaparición de la esclavitud («seguro que no hay un solo individuo
+de esta Cámara que no combata como yo esta institución abominable»)67.
+Trataría también de otros temas jurídico-económicos, como la situación de
+las Sociedades de Seguros mutuos 68. Pero prefirió abandonar finalmente sus cargos
+políticos, y se hizo célebre su negativa a ser ministro69. Ya en la República, recibió
+la invitación de Castelar a ser Intendente de la Isla de Cuba70, lo que damos por
+supuesto que no llegó a aceptar, pues nada de ello se dice en sus semblanzas bio­
+gráficas.
+
+EL DIÁLOGO CON LA I INTERNACIONAL
+
+Otro hecho muy destacado en la trayectoria del singular polemista es su
+presencia en los mítines que la Asociación Internacional de Trabajadores realizó en
+1871 en el Instituto de San Isidro. Rodríguez, que era diputado a la sazón, asistió
+sin ningún impedimento a las mismas y solicitó intervenir, oponiéndose a los plan­
+teamientos obreristas, pero con tal mesura y corrección que fue respetado, escu­
+chado y hasta aplaudido.
+67 GR, págs. 235-241.
+68 GR, págs. 245-274. Creadas en 1848 dentro de la regulación de las Sociedades Anónimas,
+
+■ han venido a una común ruina-, dice, y atribuye la causa a que -hay graves errores en la concepción y
+planteamiento de estas Sociedades; los hay también en su gestión; hay grandes faltas, quizás grandes
+inmoralidades; hay defectos en la legislación por la cual se rigen...-, por lo que pide el apoyo a la nue­
+va Ley de Sociedades y Bancos, según un criterio liberal de reducir al máximo la influencia del Gobier­
+no, que sugiere pueda aplicarse también a las sociedades de crédito y las ferroviarias.
+69 J. M añas , -Los ingenieros de Caminos...-, pág. 97. Se lo ofrecieron primero el general Prim,
+y luego el propio Ruiz Zorrilla. Su gesto sería glosado por el célebre Julio Burell en Heraldo de Madrid,
+11 de noviembre de 1891; F. Cañamaque , en Los Oradores..., exclama: -¡Si parece mentira!... Aquí, don­
+de por una cartera se ven los milagros más estupendos, las apostasías más ostensibles, las flexibilidades
+más quebradizas; aquí, donde hay ciudadanos que no viven sino para ser Ministros...-.
+70 La carta de Castelar, con membrete de la Presidencia del Poder Ejecutivo de la República
+española, reza asi: -Querido Gabriel: El Consejo de Ministros, por unanimidad y a mi propuesta, te ofre­
+ce la Intendencia de la Isla de Cuba. Respóndeme en el acto y responde satisfactoriamente al mejor de
+tus amigos, Emilio-, GR, Madrid, 1917, págs. 59-60. De la multitud de cartas que se conservan, sólo Castelar y Moret tutean a Rodríguez.
+
+613
+
+
+
+Así lo reseña La Época, en una crónica del acto que afirma: «se advierte en
+aquellas conferencias y en casi todos los trabajadores que en ellas toman parte,
+indudable dignidad: pocos oradores declaman, pocos se dejan llevar por la vani­
+dad; hablan con convicción, con seriedad, y aunque su instrucción es incompleta...
+se ve que han leído...». Y añade que Rodríguez «explicó claramente lo que es la
+miseria, sus caracteres y sus causas, dando muy buenos consejos a los trabajadores
+para que no practicasen la asociación sino conservando siempre su libertad y cer­
+ciorándose del objeto de aquélla», concluyendo que «hizo un buen discurso y una
+buena acción, y que ese es el camino que debe seguirse para que el trabajador no
+juzgue que se le abandona y desdeña, y para que sus aspiraciones y necesidades
+reales puedan ser estudiadas, en lo cual tiene un gran interés la sociedad»71.
+En esa misma actitud, como contaría Azcárate, cuando el 2 de mayo de
+1871 los obreros fueron «objeto de un violento ataque por parte de la Policía, el Sr.
+Rodríguez reclamó enérgicamente para ellos la protección que se les debía»72. Ade­
+más, su oposición a las doctrinas obreras no le impedirá reconocer con imparciali­
+dad en el Congreso 73 (donde, en plena Comuna de París, se abre un amplio deba­
+71 GR, págs. 571-573. El libro reproduce algunas cartas, como la sin fecha de Hipólito Pauly
+al ciudadano G. Rodríguez: ■ ... apreciando en todo lo que creemos que valen sus profundos conoci­
+mientos de la cuestión social, no podemos renunciar a los consejos que en este sentido pueda darnos,
+por lo que esperamos se dignará asistir-, que bien pudiera ser la primera invitación. Tomás González a
+12 de marzo de 1871 acusa recibo de una propuesta de Rodríguez a la AIT para una serie de confe­
+rencias sobre economía social para la clase trabajadora; éste vuelve a escribirle el 18 con un plan de
+cuatro grandes temas y le propone: «son muchas las personas que tendrían verdadero placer en ayu­
+darles por medio de una suscripción para costear parte de los gastos de estas conferencias, que ustedes
+no pueden sufragar; y yo, obrero como ustedes, puesto que no tengo para vivir otros recursos que los
+productos de mi trabajo, ofrezco, desde luego, mi humilde colaboración en este sentido, deseoso de
+colaborar para la instrucción de nuestros compañeros-, González responde el 21, muy agradecido, le
+pide lista de posibles apoyos, que recibe a vuelta de correo, le envía el programa definitivo y le pide
+ayuda pues el director del Instituto ha pedido a la Diputación que no les conceda tan frecuentemente
+el local, y el 7 de mayo le da cuenta de que han tenido que suspender las conferencias, por lo que
+supone que, «como honrado y verdadero liberal que es-, va a disgustarle, GR, págs. 574-592.
+72 GR, Madrid, 1917, págs. 32-33 y 188.
+73 Discursos del 25 de octubre y 6 de noviembre de 1871. Tras leer y comentar un folleto
+repartido por los intemacionalistas, esgrime la curiosa idea de que «el socialismo es hijo legítimo de erro­
+res más antiguos, es hijo de la economía política católica. Y al decir esto no me refiero a las cuestiones
+puramente religiosas y de dogma-. Y añade que «las ideas liberales... precisamente tienen la misión de
+combatir al socialismo y a la tendencia comunista-. (En discurso en el Congreso de los diputados, reco­
+gido en GR, págs. 279-295). La moción de censura por los sucesos de Barcelona, que presentan Barto­
+lomé Lostau, Figueras, y Pascual y Casas, aunque es rechazada el 22 de mayo por 152 votos, tiene 74 a
+favor. El 14 de junio, ante una nueva propuesta de Lostau responde Sagasta violentamente contra la
+Internacional, pero acaba votándose la creación de una comisión parlamentaria «para estudiar el estado
+moral, intelectual y material de las clases trabajadoras*. Ver O riol V ergés , La Internacional en las Cortes
+de 1871, Barcelona, 1964.
+
+6 l4
+
+
+
+te por la represión a las organizaciones obreras en Barcelona) que «la organización
+en sí misma es buena y que pudiera producir muchos bienes a la sociedad actual
+si se dirigiera a otros objetos» y que «las reuniones de San Isidro... han sido un
+modelo de orden y de tolerancia». En fin, concluye, la Internacional dirigida por
+fines racionales, podría ayudar al obrero a resistir más fácilmente ciertas crisis, faci­
+litarle la instrucción, asegurarle contra los accidentes, trasladarle donde haya jorna­
+les más elevados dentro o fuera del país formando un mercado laboral universal...
+
+LA NECROLÓGICA DE LUIS MARÍA PASTOR
+
+La ya mencionada y magnífica necrológica de Luis María Pastor publi­
+cada por Gabriel Rodríguez en el Journal des Économistes (1873), nos permite
+establecer una especie de balance de la etapa que, en cierto modo, se cierra con
+la muerte de quien fuera un gran animador de la Escuela economista (que es
+como se autoproclamaban los librecambistas), compañero y fiel amigo de Rodrí­
+guez y, evoquémoslo en esta Institución, académico de la de Ciencias Morales y
+Políticas.
+Así lo reconoce el redactor de la larga nota de diecisiete páginas, al evo­
+car «la amistad íntima que nos unía a Pastor; el respeto en cierto modo filial que
+sentimos a la vez por él; la comunión de ideas, trabajos y esperanzas en que hemos
+vivido con él desde 1859...» Al final del trabajo señala que había encontrado en él
+«dos cosas de un inapreciable valor en la vida: un maestro con autoridad y un ami­
+go sincero, leal y afectuoso hasta el extremo».
+Traza, en consecuencia, un repaso detallado a la vida y la obra de su
+correligionario, defiende con entusiasmo sus ideas que comparte, y se atreve a ase­
+gurar que «el espíritu verdaderamente liberal que se manifestó con tanta fuerza en
+España a partir de la reunión de las constituyentes de 1869 fue debido en gran par­
+te a los esfuerzos incesantes y desinteresados de nuestro amigo». Y añade que para
+cuantos le conocieron a fondo y trabajaron con él, «Pastor ocupa el primer puesto
+en la escuela economista contemporánea en España y merece uno de los lugares
+más honorables entre los propagadores de las ideas jurídicas y políticas de la
+democracia». De ahí su lamento porque «pocos hombres han trabajado más y más
+inútilmente por el interés de su patria. Pocos hombres, a nuestro entender, han
+tenido unas convicciones tan profundamente arraigadas, una fe tan robusta e inque­
+brantable en la justicia y en la libertad».
+
+615
+
+
+
+LA INSTITUCIÓN UBR E DE ENSEÑANZA
+
+La vinculación de Rodríguez al krausismo 74 y a la Institución Libre de
+Enseñanza es temprana, y fundamental para entender del todo sus ideas. Tanto que
+algunos historiadores del tema, como Velarde, llegan a afirmar que «como lo
+demuestra la figura de Gabriel Rodríguez, los krausistas se ligan a los economistas
+librecambistas, o liberales, que a su vez recibían apoyo de las Sociedades Econó­
+micas y del Ateneo»75.
+Es muy probable que la amistad con Giner surgiera de la que Rodríguez
+tenía con el granadino José Fernández Giménez76. En cualquier caso, Rodríguez
+figura desde el principio en la larga y prestigiosa nómina de accionistas de la ILE,
+en la que, junto a figuras de la cátedra, el foro, la política y hasta la milicia, desta­
+can las de los economistas, ingenieros y hombres de negocios como Laureano
+Figuerola, que preside la Junta directiva, José Echegaray, J. Piernas Hurtado, el mar­
+qués de Salamanca, Ignacio Bauer y otros varios directivos de banca 7778. Y sobre
+todo, como ha indicado Velarde, en la ILE «estaban todos los economistas liberales,
+que enlazaban perfectamente con el pensamiento clásico, quienes habían encon­
+trado en la Institución un cómodo albergue intelectual. Los nombres son numero­
+sos, pero se distinguían Echegaray, al alguna medida, y muchísimo Laureano Figue­
+rola y, sobre todo, Gabriel Rodríguez»7S. En su caso, Rodríguez hizo algo más que
+74 Sobre *E1 pensamiento económico del krausismo español-, ver el excelente capítulo de
+J. L. Malo en E. F uentes, EEE, 5, págs. 389-450, y sus artículos -El concepto de sociedad y Estado en el
+pensamiento económico español 1839-1868: la conexión entre filosofía krausista y liberalismo-, Cua­
+dernos Aragoneses de Economía, 1-8,1998, págs. 205-214, y -La Institución Libre de Enseñanza y la cien­
+cia económica-, Sistema, 157, julio 2000, págs. 93-114.
+75 J uan V elarde, Introducción a la Historia del pensamiento económico español en el siglo xx,
+Madrid, Editora Nacional, 1974, pág. 15.
+76 Era éste, hombre muy bien relacionado y valorado por figuras más bien conservadoras
+como Cánovas, Donoso Cortés o Alcalá Galiano, y que había tenido un importante cargo diplomático
+en el Vaticano en los difíciles años del sexenio. A. J iménez-Landi (1973), La Institución..., pág. 118. Para
+aspectos generales, sigue conteniendo mucha información M. D. G ómez M olleda, Los reformadores de
+la España contemporánea, Madrid, CSIC, 1966.
+77 A. J iménez-Landi (1973), La Institución..., págs. 708-717. También pertenece a la Escuela
+Economista Julio Pelayo, que sucederá a Figuerola en la presidencia.
+78 J. V elarde, «La oleada historicista y el pensamiento económico español-, en F uentes Q uin­
+tana , EEE, 5, pág. 334; V. C acho V íu , La Institución Libre de Enseñanza, Madrid, Rialp, 5, pág. 879. La
+aportación de Rodríguez al Boletín de la Institución (BILE) sobre temas económicos no es desdeñable
+pues, aparte lo que veremos en música —de gran interés— y otros temas, publica en esos años: -Natu­
+raleza y funciones del llamado poder administrativo-, BILE, I, 1877, págs. 3-4; -Sobre el concepto de la
+Economía política-, BILE, V, 1881, págs. 1-3 y 9-11; -La Filosofía de la ciencia económica-, BILE, V, 1881,
+pág. 101; y una semblanza necrológica del famoso ultraliberal francés discípulo de Blanqui y Bastiat,
+
+6 l6
+
+
+
+colaborar con la ILE: como economista práctico, -posibilitó durante largos períodos
+su viabilidad económica»79.
+Lluch y Almenar han destacado la sintonía entre el grupo de economistas
+y la ILE: -coincidían en un amplio número de principios que les alineaban ante un
+medio social común. El principio de la armonía universal era un elemento básico
+tanto en la filosofía krausista como para los seguidores de Bastiat. Sus diferencias,
+no obstante, existían en el orden ideológico. La primera puede ser la proveniente
+del diferente papel que al Estado concedían ambas tendencias, que a juicio de los
+krausistas debería ser más amplio que el que le asignaban los librecambistas. Otro
+punto de discordancia que resaltan tanto Giner como Azcárate, era la extremada
+separación que hacían los “economistas” entre economía y moral»80.
+Pero los librecambistas no se abren camino con facilidad, ni siquiera entre
+otros grupos progresistas, afines en otros asuntos. Porque, si bien, como ha indi­
+cado J. L. Malo, -hasta el Sexenio la escuela economista y el krausismo formaron
+un bloque ideológico común en lo económico y político», poco después inicia
+Giner la crítica a aquélla en La política antigua y la política nueva, elaborada entre
+1868 y 1872: «La principal crítica reparaba en que los economistas no veían en la
+sociedad nada más que una masa atomística de individuos, a los que se oponía un
+Estado, cuya actuación, enteramente negativa, estaba dedicada a impedir la violen­
+cia entre particulares y mantener el orden y la libertad exterior». Cuando Piernas, a
+instancia de Carreras, ataca a fondo el enfoque optimista bastiano, la división es
+patente.
+Pero tampoco en la Institución hay unanimidad total ante los economistas.
+En economía social, están frente a ellos, con desconfianza, precisamente los más
+próximos a los socialistas de cátedra, que «son los que, con un talante reformista,
+tratan de racionalizar el mensaje reformista que llegaba de Joaquín Costa. Instinti­
+vamente buscan un apoyo, como Azcárate había hecho con Piernas Hurtado para
+poder rechazar el mensaje librecambista de Gabriel Rodríguez, un economista que
+■ José Garnier*, BILE, V, 1881, págs. 169-170. Otros fueron -Las minas y el Fuero de Vizcaya*, BILE, VI,
+1882, págs. 149-150; -Derechos de los registradores de minas*, BILE, VI, 1882, págs. 235-237; -El conve­
+nio mercantil con Inglaterra*, BILE, VIH, 1884, págs. 177-182. Recordemos que es Costa quien dirige el
+BILE entre 1880 y 1883. Ver León E steban Mateo, Boletín de la Institución Libre de Enseñanza. Nómina
+bibliográfica (1877-1936), Universidad de Valencia, 1978, págs. 260-261.
+79 E. Lluch y S. A lmenar, -Difusión e influencia...*, en F uentes Q uintana, EEE, 4, pág. 150.
+80 E. Lluch y S. A lmenar, -Difusión...*, pág. 150. Sobre la propuesta krausista de un orden
+económico que, al margen del Estado, resolviera los conflictos, ver G. F ernández de la M ora, -El organicismo krausista-, en Revista de Estudios Políticos, 22, 1981, págs. 99-184.
+
+617
+
+
+
+esté al día y que les oriente-81. Cumple, por ello, estudiar a Gumersindo de Azcárate desde la perspectiva económica82 además de matizar la orientación de los institucionistas hacia el socialismo de cátedra, «rectificando el rumbo que Giner de los
+Ríos, Gabriel Rodríguez y, en general, los librecambistas del sexenio revoluciona­
+rio le habían dado 83. Del «desenlace» polémico interno hablamos más abajo, al refe­
+rir la polémica entre Rodríguez y Álvarez Buylla.
+Sin embargo, no todos piensan igual, el propio Giner es más ecléctico, y
+parece que la postura mucho más liberalizadora y reductora del papel del Estado
+que asume un Canalejas, sintoniza más con la de los Figuerola, Rodríguez y demás
+economistas librecambistas que colaboran con entusiasmo con la ILE.
+Gabriel Rodríguez, socio fundador de la Institución, interviene ya en 1869
+en un ciclo de diecisiete conferencias dominicales sobre la educación de la mujer
+que, a partir del 21 de febrero, son impartidas por personas más o menos próxi­
+mas al krausismo (las inaugura el Rector de la Universidad Central Fernando de
+Castro, y el tema es muy querido a alguien como Sanz del Río), entre los que des­
+tacan Canalejas, Castelar, Pi y Margall, Labra, Moret, Echegaray y Sanromá 84. Su
+intervención sobre «Influencia de las ciencias económicas y sociales en la educa­
+ción de la mujer»85 tuvo lugar el 18 de abril y era de templado tinte profeminista:
+afirma que el destino de la mujer «no se encierra sólo en el hogar doméstico», da
+una clase elemental de economía general, y defiende la libertad en todo, incluyen­
+do, por ejemplo, el matrimonio civil, «indispensable para los que no profesen la cre­
+encia católica» ya que »la autoridad religiosa nada tiene que ver con las cuestiones
+de derechos civiles» 86. Las palabras de Rodríguez causarían «una profunda impre­
+81 J uan V elarde, Economistas españoles contemporáneos: prim eros maestros, Madrid, Espasa
+Calpe, 1990, pág. 147.
+82 Lo que ha hecho, recientemente, José Luis Malo en su magnífica tesis doctoral, aún inédi­
+ta aunque resumida en el artículo citado en F uentes Q uintana, EEE, 5.
+83 J uan V elarde, -El nacionalismo económico español y la Institución Libre de Enseñanza. El
+caso de Leopoldo Alas Argüelles», Información Comercial Española, 517, 1976, págs. 96-101.
+84 Las conferencias (acompañadas por lecturas de textos literarios por Hartzenbusch, Campoamor, Juan Valera, Ruiz Aguilera y otros) se publicaron en una serie de otros tantos folletos en octavo de
+entre 16 y 48 páginas, Universidad de Madrid, Conferencias dominicales sobre la educación de la mujer,
+Madrid, Rivadeneyra, 1869» lo que resultó ser a modo de «órgano periódico de dichas Conferencias-, cuyo
+sentido general, en opinión del bibliógrafo Rufino Blanco, «es contrario al espíritu cristiano de la educación-.
+85 (1869) «Influencia de las ciencias económicas y sociales en la educación de la mujer-, folle­
+to de la serie Conferencias dom inicales sobre la educación de la mujer, Madrid, Rivadeneyra, 25 págs.
+Reproducido el texto en GR, págs. 553-565.
+86 V. C acho Víu, La Institución..., págs. 209-210. Este historiador comenta con lucidez que
+«nada hay en estas argumentaciones que no se hubiera ya dicho con anterioridad en otras partes. Pero
+sí es nuevo el tono persuasivo y la ocasión en que se pronunciaron-.
+618
+
+
+
+sión en una insigne oyente: Concepción Arenal», quien criticaría que Rodríguez
+explicase muy rudimentariamente en qué consistía el librecambio, cuya apología
+hizo con ejemplos harto simples 878.
+Sabemos que G. Rodríguez regala algunos libros a la nueva y precaria
+Biblioteca de la ILE **, y da otras conferencias en la Casa. Dos de ellas se publican
+en folleto: El Socialismo de Cátedra (conferencia en la ILE de 3 de febrero de 1878)
+y Las elecciones pontificias 89. Otra, de 13 de diciembre de 1878, versó sobre «Car­
+los Marx y Lasalle». Actúa también, en algún caso, como letrado, en delicadas cues­
+tiones internas de la Institución 90.
+De nuevo le encontraremos en el «cuadro de honor», cuando la ILE deci­
+de crear, en diciembre de 1879, una Escuela de Estudios Políticos, de la que van a
+ser profesores Figuerola, Alonso Martínez, Montero Ríos, Azcárate, Labra, Moret,
+Giner, Justo Pelayo y Juan Valera. Rodríguez sería profesor de «Principios funda­
+mentales de la economía política»91. Pero... apenas se matriculan trece alumnos y,
+tras las primeras conferencias, se suspenden las clases. Rodríguez, se nos indica, no
+había comenzado a darlas todavía 92.
+
+87 J uan V elarde, Introducción a la H istoria..., pág. 297. Para él, el proteccionismo era un sis­
+tema artificial contra el consumidor:«... la protección del trabajo nacional, traducida al castellano, quie­
+re decir protección de los errores nacionales... Conjuraba el señor Rodríguez a un auditorio femenino
+que no sirviera de obstáculo a las reformas; así lo creemos de las señoras reunidas allí; pero en gene­
+ral, ¿cómo la ignorancia tenida hasta aquí por invencible de la mitad del género humano no ha de ser
+un obstáculo al progreso de la otra mitad?*. De hecho, las quince conferencias del ciclo fueron resumi­
+das por C oncepción A renal en su libro La mujer delporvenir, editado por la Biblioteca Económica Anda­
+luza. A. J iménez-Landi (1973), La Institución..., págs. 304 y 724.
+88 A. J iménez-Landi (1987), La Institución..., pág. 144.
+89 El socialism o de cátedra, Madrid, 1880, folleto; Las elecciones pontificias, folleto; Antonio
+J iménez-Landi (1987), La Institución..., pág. 244. Sobre tema religioso apenas sabemos de su polémica
+en 1860 con el célebre fray Z eferino G onzález sobre «La Economía política y el Cristianismo-, en Revis­
+ta de Andalucía.
+90 Así, tras la muerte de Nicolás María Rivero, defiende en 1879 en una Junta general de
+accionistas los derechos de sus herederos a pasar a poseer sus acciones de la ILE, contra el criterio del
+presidente, Figuerola, que aduce que siempre habían revertido aquéllas en la sociedad. A. J iménez-Landi , La Institución..., pág. 417. En realidad, Rodríguez había hecho la petición, pero por su ausencia la
+mantiene Pedregal.
+91 A. J iménez-Landi, La Institución..., pág. 464.
+92 V. Cacho V íu , La ILE..., págs. 481. Cacho señala también como socios o próximos a la ILE
+a otros destacados miembros de la escuela economista como Pastor, Echegaray, Canalejas, Moret y
+Pedregal.
+619
+
+
+
+LA POLÉMICA CON ÁLVAREZ BUYLLA
+
+En cierto modo puede decirse de la polémica que va a mantener con Álvarez Buylla que marca el momento polémico más alto, de mayor definición teórica,
+de mayor riesgo, y precisamente frente a queridos colegas y amigos de la ILE o muy
+próximos a ella. Es en 1878 cuando Rodríguez pronuncia el 3 de febrero de 1878
+su crucial conferencia sobre -El socialismo de cátedra» o «Nueva Escuela de Econo­
+mía Política»93, que critica al maestro de proteccionistas List y otros autores alema­
+nes (Hildebrandt, Schmoller, Wagner, Lange, etc., vinculados a la célebre Vereinfür
+Sozialpolitik fundada en 1872), al francés Laveleye, al italiano Luzati y, en España,
+«personas dignísimas, algunas para mí muy respetables y queridas» (como los institucionistas, con Azcárate a la cabeza, podemos añadir...). Rechaza de plano las ten­
+dencias nacionalista y estatalista, las conexiones con el socialismo marxista o lasalliano, y defiende a toda la escuela clásica, de Smith, Say, Bastiat y Mili a Jevons,
+Garnier y Walras.
+Buylla, por su parte, en su discurso de 1879 en la apertura del curso uni­
+versitario de la Universidad de Oviedo 94 sentaría los principios económicos del
+krausismo aplicables al «socialismo de cátedra» del que, sin embargo, procuró dis­
+tanciarse. Era un tema candente en la propia ILE, y mientras Azcárate es claro opo­
+nente a los economistas liberales, Giner es mucho más «liberal» de talante y respe­
+tuoso con tan distinguidos y generosos colaboradores. Velarde ha calificado el
+discurso de contradictorio, «nada claro», acumulador de citas mal digeridas, y cree
+que Buylla era «más un historicista-socialista de cátedra cordial que cerebral»95.
+Dos años después se publica uno de los principales escritos de Rodríguez,
+«Sobre el concepto de la Economía política», quizá uno de los más sistemáticos y
+claros, y en el que avanza más sus planteamientos matemáticos. Tras recordar la
+conmemoración en Londres en 1876 del centenario de «La riqueza de las naciones»
+y disentir del mediocre juicio sobre esta ciencia en el presente, afirma que la con­
+sidera «entre todas las ciencias sociológicas, la más adelantada, y tal vez la única
+que posee ya un cuerpo definitivo de leyes y de doctrinas, fundadas en la obser­
+vación y en la inducción y comprobadas por la experiencia». Se precisa determinar
+el concepto y límites, llegar a un acuerdo entre los economistas, y él ofrece un resu­
+93 La conferencia será inmediatamente recogida en la publicación Conferencias pronuncia­
+das en el curso académ ico 1877-1878, Madrid, 1877, J. C. Cardo y Compañía.
+94 A. Á lvarez B uylla, Discurso leído en el solemne acto de apertura del curso académ ico de
+1879 a 1880 en la Universidad Literaria de Oviedo, Oviedo, V. Brid, 1879.
+95 J. V elarde, *La oleada historicista...-, en Fuentes Q uintana , EEE, 5, págs. 339-348.
+
+620
+
+
+
+men de sus conferencias en la ILE, lamentando no tener tiempo de «exponer mi
+pensamiento en un trabajo extenso y metódico». Vinculada sobre todo la Economía
+a la Moral y el Derecho, la define como «una ciencia moral» que estudia y expone
+leyes que «pueden tener representación y fórmula matemática en cuanto a las rela­
+ciones de actividad, necesidad y satisfacción, consideradas como cantidades, dado
+que lo son efectivamente». Y, en cuanto a su esencia, niega que la Economía polí­
+tica sea «la ciencia del cambio, ni del valor, ni de la utilidad, ni del trabajo, ni de la
+propiedad. Es ciencia de todo esto, porque abarca la vida social, pero sólo bajo.,
+el aspecto en que el acto o relación nos aparecen como medio para un fin-. Un fin
+general humano, tanto individual como social96.
+Todavía algunas muestras más del carácter y las ideas políticas de Rodrí­
+guez nos vienen dadas en posicionamientos muy claros, como su carta a Moret
+cuando, en 1886, van a ser fusilados unos sublevados: tras calificar a la pena de
+muerte de procedimiento «brutal y contraproducente» añade: «Puede el castigo ser
+severo, sin matar a nadie, y el mayor golpe que puede darse a la política de la
+sublevación del ejército, es el de demostrar que las instituciones se fundan más
+en el asentimiento de la conciencia del país, que en la mera fuerza del ejército
+mismo»97.
+MÚSICO Y MUSICÓLOGO
+
+Un rasgo de su personalidad apenas conocido es el de su enorme afición
+por la música, que ejercita a diario en su casa, con un pequeño «harmonium». Muy
+preparado, a partir de 1877, imparte en la ILE clases de música, su carácter, sus esti­
+los, las diferentes épocas, en un ciclo de ocho conferencias impartidas entre el 2 6
+de febrero y el 8 de mayo 989(sobre Naturaleza de la música, los medios de expre­
+sión musical, los géneros musicales, la música religiosa, la vocal, la dramática hasta
+Mozart, en Mozart y desde él), con ilustraciones musicales por el maestro Inzenga " ,
+96 HILE, 19 de enero de 1881, recogido en GR, págs. 359-368.
+
+91 En GR, Madrid, 1917, pág. 17.
+98 A. J iménez-Landi (1987), La Institución..., pág. 350. En la Memoria leída en Junta general
+
+de accionistas el 30 de mayo de 1877 (BILE, 1, 1877, pág. 23), se indica que la concurrencia, siempre
+numerosa, estaba -compuesta en gran parte de señoras-, y Cacho , op. cit., págs. 424-425, señala que -fue
+especialmente nutrida en el cursillo de ocho conferencias que dio Gabriel Rodríguez, melómano a la
+vez que librecambista, sobre -La naturaleza de la música* con liustraciones al piano a cargo de un afa­
+mado componente de la Sociedad de Conciertos». Y añade que esta moda sería imitada, como afirmara
+Labra, por otras muchas entidades.
+99 El compositor José Inzenga y Castellanos (Madrid, 1828-1891), discípulo de Albéniz padre,
+joven concertista y maestro de piano en la Ópera Cómica de París de donde regresa por la revolución
+
+621
+
+
+
+que tanto entusiasmarían a Giner de los Ríos lü0. Sin embargo, como queda recogi­
+do en varios artículos del Boletín de la Institución, Rodríguez aportó un ingente tra­
+bajo, no sólo didáctico y social10101, sino de excelente acento musicológico102.
+De nuevo, en 1884, inicia una serie de conferencias musicales, con la cola­
+boración de Emilio Arrieta103, en los salones del Ateneo, que Velarde comenta así:
+«En el mundo del Lied español —género no demasiado cultivado, y en el que la
+participación catalana es importante, por cierto con raíces proteccionistas— Rodrí­
+guez pasó a tener una significación notable, en relación, por otro lado, con el
+romanticismo nacionalista de algunos cancioneros tan importantes como el de
+Inzenga, sin el que, aparte de no entenderse el Capricho español de Rimsky Korsakov, no es posible entender la corriente que vincula con Pedrell al maestro
+Falla»I04.
+
+de 1848, fue importante compositor de zarzuela (se tiene por la mejor /Si yo fu era rey!, de 1862), dejó
+obras didácticas como profesor del Conservatorio de Madrid y la célebre Colección de Aires Nacionales.
+100 Giner lamenta en una carta que, por estar enfermo, no puede asistir a una de ellas a fines
+de abril y comenta luego: ■ ... hoy ya Hartmann, Helmholz, Taine, Dreher, todos los que más o menos
+tienden a considerar la obra del genio como fruto de un misterio sagrado, se afanan por reivindicar, no
+obstante, el valor de la reflexión y del estudio...». Al parecer, una desgracia familiar truncó el ciclo, con
+notable perjuicio para las arcas de la ILE, que cobraba por estas veladas. V. C acho V íu, La Institución...,
+pág. 435. F. C añamaque, en Los Oradores..., dice que es Rodríguez -un músico que hace vender buenas
+entradas a la Institución Libre de Enseñanza».
+101 A. J iménez-Landi (1987), La Institución..., pág. 382. Según la Memoria de 1877, pág. 21, la
+concurrencia era siempre numerosa y -compuesta en gran parte de señoras». Cit. por V. C acho Víu, La
+ILE..., págs. 424-425, quien señala que el melómano Rodríguez era acompañado por un afamado com­
+ponente de la Sociedad de Conciertos.
+102 Ese mismo año 1877 publica, en colaboración con José Inzenga la serie -Naturaleza de la
+música», BILE, I, págs. 7-8, 12, 14-15 y 20. Años más tarde realizó la necrológica de su ilustre compañe­
+ro y colaborador: -Don José Inzenga y Castellanos», BILE, XV, 1891, págs. 233-234.
+103 En el Ateneo dio conferencias sobre música los años 1884, 1885 y 1890, según recuerda
+G. de Azcárate, en la citada velada de 1903, GR; págs. 185-189. Sólo tenemos constancia, sin embargo,
+de las del 10 de diciembre de 1884; 28 de marzo de 1885, y otras en 1890 y en 1891, ésta en una vela­
+da en el centenario de Mozart. José Francos Rodríguez las califica de primer acontecimiento musical en
+la Corte, en -De las Memorias de un Gacetillero», en La Esfera, 1916. Quizá la conferencia sobre Mozart
+sea la publicada diez días después, el 14 de diciembre de 1891, como Biografía de Mozart, para la sesión
+conmemorativa de la Sociedad de Conciertos, GR, pág. 34.
+104 J. V elarde, -La economía en el Ateneo...», cap. cit., pág. 567. A partir de marzo de 1881
+comienza Rodríguez a colaborar en La Crónica de la Música, que se enorgullece de incorporar al -musi­
+cólogo, cuyo talento, en lo que se refiere al arte musical, se ha revelado diferentes veces por medio de
+notables trabajos y discursos», entre los que recuerda las conferencias en años anteriores en la ILE, que
+■ en breve continuará». B altasar Saldoni, Diccionario Biográfico-Bibliográfico de Efemérides de Músicos
+Españoles, tomos III-IV, 1881, pág. 106.
+
+622
+
+
+
+Sus relaciones con los músicos del momento fueron cordialísimas: Sarasate 105, Pedrell106, Granados107108, Bretón10S, G. Morphy...10910. Todos ellos ensalzan sus
+composiciones, en especial una edición de muy corta tirada que hace, en Alema­
+nia y de modo anónimo, de 32 melodías. Giner le escribe: «Es un goce de primer
+orden»no. En correspondencia a las atenciones de Pedrell, Rodríguez, que ya había
+escrito una magistral crítica a un álbum musical de Inzenga, pronuncia el 18 de
+mayo de 1897 un discurso en una velada en el Ateneo en honor de los autores de
+la trilogía «Los Pirineos» (la letra es el conocido poema dramático de Balaguer y la
+música de Pedrell, en quien ensalza el hecho de «fundar el drama lírico con carác­
+ter nacional sobre la sustancia de la música popular») m.
+En una carta de 28 de diciembre de 1895, le agradece Costa a Rodríguez
+el envío de su monografía sobre Música sagrada española (aparecida en Revista crí­
+tica) «que me ha dejado un caudal grande de emociones... Aparte la elegancia y
+105 Se conserva una carta de éste invitándole el 6 de abril de 1887: -Esta noche nos reunimos
+varios amigos para leer el Quintetto de la trucha, de Schubert. ¿Quiere usted ser de los nuestros? En ello
+tendrá una satisfacción grande su admirador, P. Sarasate*. En GR, 1917, pág. 89.
+106 El 3 de noviembre de 1893 dice no atreverse a enviar su trilogía / Pirenei a «tan discreto
+y cariñoso amigo-, en quien encuentra «afinidad de sentimientos, gustos ilustrados e ideas artísticas-; al
+año siguiente, el 6 de noviembre de 1894 le da cuenta de que le han nombrado académico: «Y como
+todo, pero TODO se lo debo a usted, mi noble amigo, me apresuro a comunicárselo porque en ello reci­
+birá tanta alegría como honor su más devotísimo amigo, q.b.s.m., Felipe Pedrell-. En GR, 1917, págs. 9899 y 97. Pedrell, que interviene en el acto de 1903 recuerda «aquellas veladas celebradas en el seno de
+la familia, a las que asistíamos un día de la semana amigos bien elegidos-, y evoca sus gustos (de Haydn
+y Mozart, luego Beethoven y finalmente Weber), sus libros y partituras, sus juicios y críticas, y glosa con
+entusiasmo su Colección de Melodías, algunas de ellas sobre letras de Leopardi y Carducci, Ruiz de Agui­
+lera y Bécquer). También Moret, otro de sus íntimos, rememora aquellas noches en que «olvidando el
+cansancio y la fatiga, nos iniciaba en la música clásica, nos explicaba el Don Ju an , nos hacía sentir los
+encantos de Schubert...), GR, págs. 193-197 y 202.
+107 Quien le escribe desde Barcelona en 1894 («Schumann y Schubert son para mí los dos
+poetas que han sabido hacer una creación verdadera de la melodía cantada, y veo con alegría grande
+que usted ha sabido ser personal y al mismo tiempo no apartarse del camino seguido por los dos colo­
+sos... Y si no, dígalo «II dolce bacio- que podría muy bien figurar al lado de la colección de Schumann-;
+y de nuevo en 1895 contándole que va a tocar con una orquesta que viene de Bruselas y se confiesa
+«verdero amigo y admirador-. GR, págs. 123-124 y 111-112.
+108 También le acusa recibo, el 3 de octubre de 1894, de sus envíos, dándole «el parabién
+más sincero* y «deseando no sea ésta la última manifestación artística de su dócil musa». GR, págs. 115-
+
+116.
+
+109 Morphy le reprocha que mantenga el anonimato, como harán otros, y elogia del Cuader­
+no que le envía «la elegancia y fluidez de la melodía, la sobriedad y buen gusto de la armonía y del
+acompañamiento, la expresión dramática o poética de la palabra...-, GR, 1917, págs. 108-109.
+110 GR, 1917, págs. 128-129.
+111 GR, págs. 614-620.
+
+623
+
+
+
+sobriedad de su estilo, nos resulta usted tan filósofo de la música como antes de la
+hacienda pública y de la utilidad económica, siquiera menos librecambista; y de la
+libertad y del derecho, siquiera menos revolucionario»,I2.
+
+EL ABOGADO Y SU «PASANTE» JOAQUÍN COSTA
+
+Siendo profesor de la Escuela de Ingenieros, en 1872, Rodríguez se hizo,
+en un año, licenciado en Derecho, con el deseo de ejercer la abogacía (en la que
+se especializaría en asuntos contencioso-administrativos relacionados con las obras
+públicas, tarea en la que le acompaña siempre su hijo y biógrafo Antonio
+Gabrieln3) lo que le permitiría una vida más desahogada, en una familia que llegó
+a tener once hijos, a la vez que cobraba fama como periodista *13I14. Su despacho
+alcanzaría notoriedad y prestigio115, y desde él alcanzó Rodríguez no pocos méri­
+tos en el mundo de la jurisprudencia administrativa: informó al Senado sobre la
+reforma del Código de Comercio de cuya Comisión reformadora fue vocal; asistió
+a congresos como el Jurídico español organizado en 1886 en la Academia de Juris­
+prudencia y el Jurídico de Barcelona en 1888, y fue directivo del Colegio de Abo­
+gados.
+
+1,2 GR, págs. 132-138.
+
+113 A ntonio G abriel Rodríguez publicó en 1889 junto con Antonio D omínguez A lfonso , Ins­
+trucción))form ularios p ara la celebración de los matrimonios canónico y civil con arreglo a l código civil,
+ley del registro..., Madrid, La España Editorial, 264 págs.; y en 1905 junto con Ricardo del Rivero un
+M anual de clases pasivas civiles: compilación general de leyes, reglamentos, decretos..., Madrid, 410 págs.
+114 Aparece uno de los muchos paralelismos biográficos —aparte los físicos y morales— que
+encontramos con Costa, quien en cuatro años se licencia y doctora en Filosofía y Letras y en Derecho,
+obteniendo en este doctorado el premio extraordinario, pero no en aquél, que fue concedido, al poco
+de producirse la Restauración, a Marcelino Menéndez y Pelayo. Mañas, art. cit. sobre Rodríguez califica
+a Costa de «personaje que se le asemejó bastante, tanto en lo físico como en dureza de carácter y tes­
+tarudez-. Y aplica a Rodríguez lo que bien podría predicarse de Costa: «símbolo de independencia y
+honestidad profesional*. Su propio hijo recuerda otros rasgos paralelos con Costa, como sus módicos
+honorarios, su generosidad y desprendimiento, etc. Y reproduce (pág. 50) una carta de Echegaray des­
+de El Escorial insistiéndole, a 15 de agosto de 1872, en que se presente de nuevo a diputado, candida­
+tura que es cosa resuelta y para la que le pide telegrafíe urgentemente dándoles alguna esperanza:
+«¿Quiere usted no ser, una vez al menos en su Vida, salvaje?... yo excuso reflexiones, ruegos, etc., por­
+que conozco experimentalmente la dureza granítica de su cráneo-. Una semana más tarde vuelve a escri­
+birle, ahora desde el Ministerio de Fomento: «Se ha desistido de civilizarle a usted. Puede usted conti­
+nuar viviendo en los bosques, por salvaje, por un par de años, única prórroga que le concedo- (pág. 52).
+1,5 En GR, Madrid, 1917, pág. 22, se nos dice que «en el Consejo de Estado (hoy Tribunal de
+lo contencioso-administrativo) llegó a tener en tramitación al mismo tiempo más de cien asuntos a cual
+más importantes*. Velarde asume que era «el primer despacho de abogado de Madrid*.
+624
+
+
+
+En ese despacho va a contar Rodríguez en la primera mitad de los años
+ochenta con la ayuda de un «pasante» muy especial, un abogado que colabora con
+él entre los treinta y cinco y los cuarenta años, con un currículum más que pleno,
+y una personalidad extraordinaria. Me refiero a Joaquín Costa, con quien trabará
+una amistad que durará y se acrecentará posteriormente.
+Costa, que conocía perfectamente desde el principio los planes y activi­
+dades de la Institución Libre de Enseñanza, sabía, pues, de las actividades de
+Gabriel Rodríguez antes de entrar a trabajar con é l116. Y le incluye en una lista de
+las «verdaderas eminencias en los ramos del saber». No es, por lo tanto, de extra­
+ñar que, cuando en 1880 decidiera abandonar su cargo de oficial letrado (hoy asi­
+milable al de abogado del Estado) e ir a vivir a Madrid, recurriera a ese prestigio­
+so «correligionario» y, como escribe Cheyne, «se colegió como abogado y se hizo
+pasante del célebre don Gabriel Rodríguez»117.
+Cirilo Martín Retortillo encuentra una explicación de compromiso, al seña­
+lar que a Costa, como director del Boletín de la Institución Libre de Enseñanza
+(1880 a 1883), «el sueldo que le asignan es escaso y lo complementa con lecciones
+particulares hasta que se incorpora al bufete de don Gabriel Rodríguez, donde tra­
+bajó mucho y bien. Don Gabriel Rodríguez —el español que no quiso ser minis­
+tro— le distinguió mucho, y a ese afecto correspondía Joaquín Costa llamándole
+“su maestro”».
+En cuanto a la datación, sabemos que con fecha 20 de junio de 1881 Cos­
+ta solicitó su incorporación al Ilustre Colegio de Abogados de Madrid, y actúa como
+116 Cuando en 1877 escribe una serie de artículos en los que glosa el primer año de activi­
+dad de la Institución, da cuenta de la presencia del Ingeniero de Caminos, añadiendo que Rodríguez y
+José Inzenga, con la conferencia sobre «Naturaleza de la música-, «han iniciado en España las conferen­
+cias musicales histórico-teórico-prácticas, cuya oportunidad han demostrado el favor siempre creciente
+con que fueron acogidas por el público madrileño-. Además señala: -La Institución ha ampliado para el
+próximo curso sus enseñanzas, organizando una sección de carreras especiales, la cual ha puesto bajo
+la dirección del ingeniero y matemático D. Gabriel Rodríguez». Los artículos aparecieron en el D iario de
+Huesca, de 19, 22 y 23 de septiembre y 15 de noviembre de 1877. La noticia y reproducción de los mis­
+mos fue dada por primera vez por Cheyne en Joaquín Costa, el gran desconocido, Barcelona, Ariel, 1972,
+págs. 176-191.
+1,7 Op. cit., pág. 102. Posiblemente teniéndolo por desdoro, sus parientes y amigos de la pri­
+mera hora biógrafa endulzaron el asunto. Así, Antón del Olmet afirma escuetamente: «Vino entonces a
+Madrid a incorporarse al Colegio de Abogados. Poco después, en efecto, abrió despacho en la Corte,
+adquiriendo lisonjera reputación entre sus colegas de toga; pero, entretanto, Costa dióse a conocer inme­
+diatamente en los círculos literarios...-. L. A ntón del O lmet, Los grandes españoles..., págs. 157-158.
+
+625
+
+
+
+letrado con despacho propio, que conlleva con la pasantíalls. Pero en el ejercicio
+libre surgen demasiados problemas, y prefiere trabajar a sueldo que ser su propio
+empresario m , si bien debió de seguir ejerciendo también por su cuenta. Según
+Antonio Gabriel Rodríguez fueron cinco los años que Costa trabajó con su padre,
+lo que nos sitúa aproximadamente entre 1881 y 1886. Y en esos años, añade, Cos­
+ta -informa y asesora a otros abogados que le secundan —Silvela, Salmerón, Alcá­
+zar, Gabriel Rodríguez...— ; cubre de letra menuda montañas de papel de oficio;
+sostiene extensísima correspondencia...»118*120.
+La sostuvo también con Rodríguez, como es natural, aunque apenas
+hemos encontrado algunas muestras, muy amistosas. En primer lugar, un grupo de
+cartas de Rodríguez a Costa, del verano y otoño de 1881121. En ellas se observa el
+118 Ciges dice que -al mismo tiempo que profesaba en la Institución, abrió despacho de abo­
+gado, ejerciendo hasta 1888, en que obtuvo su primera notaría. Durante algún tiempo fue pasante de
+Gabriel Rodríguez. Los asuntos le fueron bastante bien a este notable letrado, y al hacer la liquidación
+del año quiso distribuir un suplemento de beneficios entre los auxiliares: Costa se negó rotundamente
+a tomar nada, aduciendo que él contrató sus servicios por 3.000 pesetas, y que sólo a eso tenía dere­
+cho. Dice Gambón que de 1878 a 1888 Costa se hizo notar entre sus colegas del foro; pero hubo de
+consagrarse a tantas prácticas intelectuales durante ese período, que sus pleitos no debieron ser muchos
+ni fructíferos». Manuel C iges A paricio (1930), Joaquín Costa. El gran fracasad o, Madrid, Espasa Calpe,
+págs. 82-831,9 -Su bien probada competencia hace que su despacho se anime y le lleguen asuntos de
+importancia, pero su carácter excesivamente rígido y suspicaz motiva frecuentes choques con los ele­
+mentos curiales, rechazando airadamente ciertas corruptelas en verdad poco ejemplares. Con fre­
+cuencia riñe con jueces, secretarios, etc. Cada asunto motivaba una pelea, no tuvo la suficiente flexi­
+bilidad y comprensión, y esto unido a las intemperancias que en ocasiones tenía con la propia
+clientela determinó que el despacho fuese a menos». Y concluye más adelante: -Como decimos, fue
+poco abogado. No tuvo la suficiente vocación para ello, ya que no basta consumir muchas horas en
+el estudio para cubrir como es menester las metas que la abogacía exige». C irilo M artín Retortillo ,
+Joaqu ín Costa, propulsor de la reconstrucción nacional, Barcelona, Aedos, 1961, págs. 7-9. No es tan
+duro el juicio de un gran contemporáneo, Gumersindo de Azcárate quien, al glosar con emoción la
+figura de Costa tras su muerte, escribe: -Yo conocí a Costa de estudiante; le conocí ejerciendo la abo­
+gacía y redactando instrumentos públicos; le conocí trabajando en la ciencia como un benedictino; le
+conocí funcionando como político, y le conocí actuando como miembro de la Academia de Ciencias
+Morales y Políticas. Siempre resultaba extraordinario». Cit. en A ntón del O lmet, Los grandes españo­
+les..., pág. 447.
+120 M. C iges A paricio , op. cit., pág. 85.
+121 Se trata de las publicadas en los Anales de la Fundación Joaquín Costa, números 5 (1988)
+y 6 (1989), que recogen respectivamente las cartas censadas como 98, 99 y 100 el primer tomo citado,
+págs. 163-165, y las 113 y 114, págs. 179-181 en el segundo. En la primera, desde Portugalete, el 4 de
+agosto, le habla de diversos asuntos: el de Noriega y los Estatutos de Fomento, lo que demuestra que
+está claramente al frente del bufete. Que le considera un amistoso colaborador —si bien añade que -por
+Antonio y [García] Ortega sé de los demás asuntos»— lo confirma la despedida: -La familia agradece sus
+recuerdos y me encarga se los devuelva. Cuidarse del calor, y no trabaje más que lo preciso. Yo vivo
+
+626
+
+
+
+respeto de Rodríguez hacia su más joven colaborador y la confianza con que le
+encomienda la dirección del bufete en su ausencia 122. Recordemos que Costa diri­
+ge el Boletín de la Institución Libre de Enseñanza entre 1880 y 1883, años en que
+Rodríguez publica allí cinco de los nueve trabajos aparecidos en la revista. También
+ambos se encuentran, además de en el Ateneo, en las diversas sociedades de que
+forman parte, y en la Academia de Jurisprudencia y Legislación, donde dan clases.
+Cinco años trabajando en un despacho ajeno, aunque fuera el de un ami­
+go y gran figura intelectual, debieron de resultar más que suficientes a Costa quien,
+«cansado de actuar de pasante, pidió, aunque sin éxito, el puesto de vicesecretario
+del Banco de España»I23, y, al no lograrlo, reorientó, ahora con éxito, su vocación
+hacia la notaría.
+Pero la amistad continuaría. Una nueva ocasión de colaborar juntos Rodrí­
+guez y Costa es el célebre pleito de La Solana. En él coinciden con parecido dicta­
+men, al ser requeridos por varios de los legatarios al inicio del litigio124. Y hay más
+aquí en una holganza completa y pensando con terror en el día 10 próximo. Suyo afmo. amigo y com­
+pañero...» (Ésta es una despedida que se repite en todas las cartas; no parece preciso resaltar el trato
+especialmente deferente).
+122 Apenas once días después le envía una nueva carta a Madrid recordando varios asuntos
+en marcha, y todavía a 1 de septiembre de ese mismo año, aún desde Portugalete, comenta otros varios
+casos y añade: «Dentro de 7 u 8 días volveremos a la tarea y aliviaremos a V. de la carga que le hemos
+dejado y que con tanto acierto y buena voluntad lleva-. Pero ese regreso se retrasa, pues hay otra carta
+desde Portugalete del 14 de septiembre, en la que comenta: «veo con gusto que no ha vuelto a verse en
+la necesidad de firmar un escrito lleno de sinrazón, que es lo que yo llamo mochuelo- y alude a otros
+varios casos, añadiendo: «su debut en el Tribunal Supremo le he visto hoy en la mesa, humildemente
+representado por un par de pollos, obsequio del recurrente Las Llanas: representación material del recur­
+so de casación con que debutó V. que me ha recordado el l.° de los muchos triunfos que ha de obte­
+ner V. en su carrera-, Y poco después, aunque sin fecha, alude a una carta de Costa del 12 de septiem­
+bre y a otra «del Sr. Underdown, que me temo haya hecho alguna majadería, por el san s fagon con que
+los ingleses, alemanes, etc., obran con respecto de las cosas de España* y le da varios encargos.
+123 G. J. G. C heyne, Joaquín Costa..., pág. 102.
+124 C heyne recoge el «Manifiesto a la villa de la Solana* de uno de éstos, en 1904, en el que
+se afirma que «La reforma introducida por el nuevo Código Civil respecto a los legados de confianza
+influyó en el ánimo del Sr. Núñez Polo, y éste se negó a hacer la entrega del legado de Bustillos. Los
+señores Benadero, Morales y Torrijos eran sacerdotes y desconocían la ciencia del Derecho; necesita­
+ban, pues, asesorarse de los Maestros en Jurisprudencia, y así lo hicieron, empezando por don Francis­
+co Silvela, que contestó ser nula la institución, siguiendo por D. Joaquín Costa, que opinó por su vali­
+dez, y terminando con los informes afirmativos de los letrados D. Gabriel Rodríguez, señor Castillejo y
+cuatro más de Pozo-Blanco de Córdoba- (G. J. G. C heyne, Joaquín Costa..., pág. 203). Cheyne anota, al
+comentar la propuesta de Costa de designar a Gabriel Rodríguez y Melquíades Álvarez junto a otros tres
+abogados para que entre ellos se sortee quién regulará sus honorarios en el pleito, que ambos «habían
+tenido alguna intervención como letrados en incidencias de este asunto-, G. J. G. C heyne, Joaquín Cos­
+ta..., pág. 243.
+
+627
+
+
+
+ocasiones de consulta amistosa, de confianza profesional y personal125126. Y todavía
+varias noticias de 1895, más cartas que confirman el mantenimiento de una amis­
+tad por encima de to do 12S.
+Los noventa, hasta el Desastre y aun después, son años de enormes esfuer­
+zos de Costa, a quien sabemos individuo correspondiente de la Real Academia de
+la Historia desde 1880, y electo en 1895 como miembro numerario de esta Real Aca­
+demia de Ciencias Morales y Políticas 127. Ingresó en ella seis años después: «llamó
+la atención su discurso de ingreso, el 3 de febrero de 1901, sobre “El problema de
+la ignorancia del Derecho, como culpa, y sus relaciones con el status individual,
+con el referéndum y con la costumbre”» 128.
+125 La amistad perdura. El 16 de mayo de 1891, escribe Costa a Altamira; le han encargado
+■ escribir con urgencia, dentro de este mes, como abogado, unos Estatutos o Reglamento de Sociedad de
+seguros mutuos contra incendios. Me hace falta para eso tener a la vista otros de Sociedades ya consti­
+tuidas, en que se haya resumido la experiencia adquirida sobre ese género de asociación en todo el
+siglo... Dispénseme que le moleste con esto: si no pudiese sacarme del apuro, escribiría a Gabriel Rodrí­
+guez, que debe tener de esas cosas-. G. J. G. C heyne, El renacimiento ideal: Epistolario de Joaquín Cos­
+ta y Rafael Altam ira (1888-1911), Alicante, Instituto Juan Gil Albert, 1992, pág. 40. Cheyne explica en
+pág. 168 y nota 66 , que posiblemente la intervención de Rodríguez en el litigio sobre la herencia de
+acciones de la ILE del fallecido Nicolás M.a Rivero (mencionada más arriba) -hizo suponer a Costa que
+D. Gabriel pudiera informarle sobre Reglamentos de Sociedades-.
+126 En carta de 26 de abril Costa se dirige a Rodríguez agradeciéndole el envío de dos tra­
+bajos suyos: una necrológica de 1873 que le resulta muy valiosa porque al -encerrar en el marco de la
+vida de un individuo la historia interna de la evolución económica y política de la nación en un perio­
+do tan obscuro y poco conocido como el de la década que precede a 1868, he visto la fuente de don­
+de manó anoche aquella triple corriente filosófica, económica y política, engendradora de la democra­
+cia de 1869* [Sin duda se trata de la que, como ya hemos indicado, publica Rodríguez ese año en el
+Jou rn al des Économistes sobre Luis M. Pastor]-, y su citada monografía en La España Moderna que,
+comenta, -abrumadora para Cánovas, que no se atreverá a meterse otra vez en tales libros de caballe­
+ría, es un documento importante para la historia económica de España en los últimos treinta y cinco
+años-. Cierra con una despedida de confianza («que siga con la cabeza tan fuerte y el ánimo tan bata­
+llador*) reiterándose -su afectísimo amigo y discípulo-, GR, págs. 132-138. Poco después le dirige la car­
+ta que ya conocemos, sobre temas musicales.
+127 Los trabajos más recientes realizados en la Academia sobre Costa son el de J. V allet de
+G oytisolo , -Voluntarismo y formalismo en el Derecho. Joaquín Costa, antípoda de Kelsen-, Madrid, 1986;
+el de M. N avarro R ubio , Aragoneses en la Real Academ ia de Ciencias Morales y Políticas, Zaragoza, DGA
+e Ibercaja, 1989, págs. 47-51, y el de C armelo Lisón T olosana, -Joaquín Costa Martínez (1846-1911)- en
+el tomo colectivo editado por la Academia, Académicos vistos por académ icos. Juristas y filósofos, Madrid,
+1997, págs. 55-81.
+128 L. Antón del O lmet, Los grandes españoles..., pág. 284. Ese retraso no se debió a descui­
+do o negligencia o atribución de poca importancia; de ello es prueba una carta a Giner de los Ríos, el
+15 de octubre de 1899, en la que, entre otras noticias le cuenta: -Viajé algo por Francia, con una gran
+depresión, sin gana de trabajar, todo descompuesto. A última hora, con fresco, en Hendaya, he puesto
+en cuartillas la mitad del discurso de la Academia, que ahora por fin acabaré-. Recogida en G. J. G. C hey-
+
+628
+
+
+
+LOS ÚLTIMOS AÑOS
+
+En sus últimos lustros de vida la tarea de Rodríguez, coherente con toda
+su trayectoria, insiste en los grandes temas. En la veterana y renovada Asociación
+para la Reforma de los Aranceles de Aduanas (reiniciada en 1879, bajo su dirección,
+indignados por la suspensión ese año de la Base Quinta del Arancel Figuerola que
+preveía sucesivas rebajas aduaneras), ante el problema de las crisis de subsistencia
+que refuerzan el impacto de la competencia exterior, se dedican los dos primeros
+mítines a pedir la libre entrada de los cereales 129. De nuevo en 1881, además de
+iniciar la larga polémica con Cánovas de que hablamos más adelante, propone
+derogar el decreto de 1875 y regresar urgentemente a la reforma Figuerola, supri­
+miendo el derecho diferencial de bandera en las Antillas, «acabar con las iniquida­
+des económicas en Cuba y Puerto Rico», acordar un nuevo tratado de comercio con
+Inglaterra y Estados Unidos, reformar las Ordenanzas de Aduanas 13°.
+En 1881 hace campaña para ir de nuevo al Congreso, desde una utópica
+situación apartidista («no estoy afiliado a ninguno de los partidos políticos existen­
+tes»), desde ese movimiento, tan duramente atacado ahora desde la prensa y los
+partidos, del comercio y de la industria contra «el déficit, las irregularidades admi­
+nistrativas y los privilegios, los monopolios de protección»131. Insiste en la conve­
+niencia de establecer un arancel fiscal para la península, y otro diferente, según sus
+circunstancias, para Cuba, Puerto Rico y Filipinas 132. Pero el desánimo es grande:
+Sagasta ha defraudado todas las esperanzas, amedrentado por las revueltas de Bar­
+celona contra el comercio con Francia «promovidos y dirigidos por un corto núme­
+ro de personas», no hay nada que hacer, por el momento 133.
+
+ne , El don de consejo. Epistolario de Joaquín Costa y Francisco Giner de los Ríos (1878-1910), Zaragoza,
+Guara, 1983, pág. 152.
+129 J. M. S errano critica duramente esta postura, que considera anacrónica: -No cabe un sím­
+bolo más claro de que la asociación se encontraba fuera de época, aunque la crisis agrícola había empe­
+zado en el continente —aunque no hubiere alcanzado todavía España, debido en parte a la protección
+triguera del Arancel Figuerola— y las subidas de aranceles de las subsistencias iban a ser generales en
+los años siguientes». J. M. S errano Sanz, -Economía y controversias de política económica a finales del
+xix», en F uentes Q uintana, EEE, 5, págs. 184-185.
+130 GR, págs. 379-388. Ese mismo año prologa, con entusiasmo juvenil, el combate a los pro­
+teccionistas catalanes de -un ex-Ministro de Hacienda», en un folleto que recoge los artículos de éste en
+El Siglo (GR, págs. 388-393). Pero poco después advierte de que, en realidad, sólo es proteccionista
+menos de la mitad de la provincia de Barcelona, no el resto (GR, pág. 395).
+131 Discurso en el Salón de Capellanes, 15 de agosto de 1881, en GR págs. 298-301.
+132 Mitin en el Teatro de la Alhambra de Madrid, 25 de marzo de 1882, GR, págs. 393-403.
+133 Mitin en el Teatro de la Comedia de Madrid, 21 de mayo de 1882, GR, págs. 403-410.
+Todavía, en otro mitin en el Alhambra, 11 de marzo de 1883, ironiza sobre la falta de definición de mate­
+
+629
+
+
+
+Es entonces cuando intensifica su campaña en pro de un nuevo Código
+de Comercio, a la vez que defiende temporalmente los tratados internacionales, ya
+que, siguiendo la fórmula de Cobden de establecer relaciones de «nación más favo­
+recida», vienen a resultar reformas arancelarias casi generales. En el decisivo caso
+de Inglaterra, insiste en establecer un modus vivendi mientras no se resuelvan algu­
+nos puntos 134. Los acuerdos con Inglaterra en dilaciones interminables, consumen
+años y años I35, en los que analiza el comercio exterior en especial el mantenido
+con Inglaterra136.
+Entre otras muchas ocupaciones en esos años, en 1882 defiende al sector
+minero de toda intromisión, incluso la del Fuero de Vizcaya137; en 1883 publica un
+interesante análisis sobre «La fuerza ejecutiva del billete de Banco», toda una lec­
+ción de política monetaria, defendiendo la obligación del Banco de España de con­
+vertir los billetes, si se le pide 138¡ en 1884, defiende con éxito al director de El Pro­
+rias primas y cómo los proteccionistas las encarecen, elevando los precios a costa de los consumidores,
+GR, págs. 410-420. El modus vivendi fue objetado por fuertes presiones en Barcelona. Rodríguez niega
+que los intereses privilegiados representen a toda Cataluña: sólo a -una minoría egoísta» de la grande y
+generosa Cataluña. Mitin de 1 de marzo de 1885, GR, págs. 433-443.
+134 Mitin en el Alhambra, 10 de diciembre de 1883, GR, págs. 420-428. Incluso esa fórmula
+fracasa finalmente, como reconoce con amargura en un nuevo mitin del Alhambra el 7 de junio de 1885,
+GR, págs. 443-454. Ocho días después, aunque reconoce que el tratado propuesto en 1886 es «menos
+ventajoso para la libertad de comercio y, por lo tanto, para España, que los convenios anteriores-, lo
+acepta como mal menor (GR, págs. 454-465).
+135 Cuando, en un banquete en el Círculo de la Unión Mercantil, en homenaje a los minis­
+tros artífices de los tratados con Portugal y Holanda y los convenios con Inglaterra y Estados Unidos,
+manifiesta contar con el apoyo decidido del Centro Mercantil, Industrial y Agrícola de Zaragoza, brinda
+por los homenajeados, entre ellos su íntimo Moret, ministro de la Gobernación, y también por el emba­
+jador inglés, la prensa, y el Cobden Club, cuyo lema, dice, es el nuestro: «Libre cambio, paz y buena
+voluntad entre los pueblos». El acto es el 11 de enero de 1884. Aunque todavía preside el Centro Basi­
+lio Paraíso, futuro presidente de las Cámaras de Comercio españolas, está próximo a hacerlo, en 1889,
+y es una de las personas más influyentes del Centro y de la ciudad. Ver al respecto mi trabajo de 1999,
+■ Regeneracionismo corporativo y fin de siglo xix: la Cámara de Comercio e Industria de Zaragoza (18861898)», en Doctor Jordi N adal. La industrialización y el desarrollo económico en España, Universitat de
+Barcelona, vol. III, págs. 1455-1469. Para los acuerdos con Inglaterra, GR, págs. 428-432. En 1884, tras
+el acuerdo comercial con Inglaterra, Rodríguez recibe los plácemes por su directa intervención.
+136 De 1880 es «El comercio internacional antes y después de la Liga Inglesa», en Conferen­
+cias de la Unión Mercantil, Madrid, pág. 177; de 1881 son «La cuestión arancelaria» (también conferen­
+cia en la Unión Mercantil, reproducida en Revista de España, LXXX, pág. 115, y también en folleto de
+19 págs.); y «El tratado de comercio» (conferencia de 8 de abril de ese año en la Unión Mercantil),
+Madrid, folleto de 40 págs. De 1884 son «El comercio con Inglaterra» (suplemento de El D ía que reúne
+las conferencias dadas en la Unión Mercantil el 16 de febrero y 8 y 29 de marzo de ese año) y «El con­
+venio mercantil con Inglaterra», BILE, VIH, págs. 177-182.
+137 Discurso en la Academia Matritense de Jurisprudencia y Legislación, GR, págs. 305-318.
+138 El Día, 29 de junio de 1883.
+630
+
+
+
+greso, Andrés Solís, acusado de injurias al rey Alfonso XII por unos comentarios
+
+jocosos139. Y hace una interesante exposición sobre lo contencioso-administrativo,
+censurando que la ejecución de las sentencias quede en manos de la Administra­
+ción litigante 14°. Y vuelve siempre al Ateneo, donde da conferencias como la de
+1885 sobre «La reforma aduanera» o la citada de 1886 sobre «La idea y el movimiento
+antiesclavista en España».
+Moret invita a Rodríguez a formar parte de la Comisión de Reformas
+Sociales, creada en 1883 y que luego será presidida por Cánovas y de nuevo por
+Moret, alternando dos posturas bien diferentes. Allí están también el krausista
+Gumersindo de Azcárate, el economista ahora conservador Mariano Carreras o el
+periodista Andrés Mellado 141. Y no deja de aparecer de tarde en tarde el inge­
+niero, preocupado por temas técnico-económicos siempre 142. Pero su actividad
+analítica se vuelca preferentemente sobre problemas relacionados con su gran
+obsesión librecambista: prosigue sus reflexiones generales sobre la economía
+política 143, redactando prólogos 144, asistiendo al Congreso Económico Nacional
+de Barcelona de 1888145, al Congreso Mercantil Hispano-americano-portugués146,
+dando nuevas conferencias 147, escribiendo en un sinnúmero de periódicos y
+revistas (La Correspondencia de España, El Globo, La España Moderna 148, La Ilus­
+139 GR, págs. 331-337.
+140 Discurso en el Congreso Jurídico celebrado el 11 de diciembre de 1884 en la Academia
+
+Matritense de Jurisprudencia y Legislación, GR, págs. 338-351.
+141 Sin embargo, sin explicar la causa, dimite Rodríguez, durante la presidencia de Cánovas,
+que le escribe lamentándolo «con toda el alma-, asegurándole que conservará -un buen recuerdo del
+tiempo que hemos sido compañeros en la expresada Comisión, y en la cual ha cumplido con exceso,
+como podía esperarse de usted-, en GR, 1917, págs. 87-88.
+142 Así, en 1882 publica los trabajos «Las minas y el Fuero de Vizcaya-, BILE, VI, págs. 149150, y -Derechos de los registradores de minas-, BILE, VI, págs. 235-237.
+143 «Sobre el concepto de economía política-, en Revista de España, 25 de noviembre de 1885.
+144 Prólogo al libro de Fidel Martín, La crisis agrícola y el arancel: artículos publicados en
+«El Correo•, Madrid, 1888.
+145 Discurso pronunciado en el Congreso Económico Nacional de Barcelona (va seguido de
+una enmienda a la sección de impuestos por D. Ildefonso Trompeta), Madrid, 1888, folleto. Y su pos­
+terior conferencia/crónica en el Círculo de la Unión Mercantil, el 10 de noviembre de 1888: Estado actual
+del movimiento proteccionista en España y el Congreso Económico de Barcelona. Madrid, 1889. Folleto.
+Este texto fue, como ya hemos indicado, reseñado elogiosamente en el Jou rn al des Économistes.
+146 Celebrado en 1892 por iniciativa del Círculo de la Unión Mercantil, allí presenta una
+ponencia sobre «Conveniencia o inconveniencia de la libertad bancaria-,
+147 El crédito, los cam bios y elpresupuesto, Madrid, Conferencia en el Círculo de la Unión Mer­
+cantil e Industrial, 1892, folleto de 45 págs.
+148 «El triunfo del proteccionismo en España-, 1892, serie de arts. en La Correspondencia de
+España, 18 de enero, 20 de febrero y 16 y 28 de abril de 1892; (1894) -La campaña proteccionista en
+
+631
+
+
+
+tración Española'49, La Estafeta15°), e interviniendo en el Ateneo m . Citemos, toda­
+vía, un informe sobre el dinero y el curso legal, que defiende para las monedas
+acuñadas desde 1772 14950152.
+
+En 1887, aún el peso de la crisis finisecularI53, plantea como gravísimo el
+intento de aumentar en un 25 por ciento el arancel sobre cereales extranjeros. Un
+repaso a la historia reciente le lleva a plantear lo contradictorio de esa práctica pro­
+teccionista. La desazón le lleva a acusar de esa -sinrazón» a los -socialistas de cáte­
+dra». Y concluye: -Las causas del malestar son otras, y esas causas, que mantienen
+a nuestro país en un estado general de pobreza y de atraso son, precisamente, la
+falta de libertad industrial y mercantil y la protección que se concede por las leyes
+a ciertas industrias...» lo que lleva al aumento del presupuesto, del militarismo 154.
+
+LA DISCUSIÓN CON CÁNOVAS
+
+Es en 1881 cuando, en un discurso en el Teatro Real, tras recordar los avatares de la Asociación, el golpe terrible de 1875 y la reconstrucción con nuevos bríos
+(pero todo en público: en reuniones, en impresos, de modo «legal, pacífico»155),
+Gabriel Rodríguez ataca a Cánovas, ahora tan proteccionista siendo «que cooperó
+Cataluña-, El Globo, TI de enero de 1894; (1895) -La reacción proteccionista en España, la Asociación
+para la reforma liberal de los Aranceles de Aduanas y D. Antonio Cánovas del Castillo-, La España
+Moderna, marzo de 1895, pág. 34.
+149 M anuel O ssorio y B ernard, Ensayo de un Catálogo de Periodistas Españoles del siglo xix,
+Madrid, 1903, pág. 105.
+150 -Las causas de la crisis monetaria-, La Estafeta (s.f.).
+151 Junto a P edregal, A zcárate, Figuerola, Labra y M oret, en la Velada celebrada en el Ate­
+neo de M adrid en honor de don M anuel Pedregal y Cañedo, Gijón, 1897, Bellment y Cía., 65 págs.
+152 Respuesta a una Consulta, 18 de marzo de 1894, en GR, págs. 352-355.
+153 ver, sobre el tema, el libro coordinado por Ramón G arrabou , La crisis agraria de fin es del
+siglo xix, Barcelona, Crítica, 1988.
+154 Mitin en el Teatro Real, 1 de mayo de 1887, GR, págs. 466-475.
+155 En otro momento acepta con resignación, ante la dureza de las nuevas circunstancias:
+-Aceptaremos lo que nos den, y seguiremos pidiendo-, GR, pág. 403- En otro momento añade: -Hemos
+de luchar hasta que nuestro ideal se realice por los medios legítimos y legales, al aire libre, a la luz del
+día, nunca por gestiones reservadas, nunca con amenazas, nunca con secretos, nunca por convenien­
+cias personales y egoístas-, y ello, -tomando y aceptando, sin plegar nunca su bandera, todo aquello que
+la aproxima al término a que se dirigen nuestros esfuerzos. Nuestra fórmula es: tomar lo que podamos
+alcanzar, y seguir pidiendo-, GR, págs. 440 y 442. Finalmente, en 1892, casi como un testamento, afir­
+ma: -Trabajaremos con la misma fe, y como tenemos paciencia, porque sabemos que tenemos razón,
+nos nos desanimaremos por el actual triunfo del proteccionismo. Y si no podemos conseguir lo que que­
+remos, lo realizarán nuestros hijos-, GR, pág. 493.
+632
+
+
+
+con nosotros en la fundación de la sociedad librecambista de 1859; perteneció a su
+Junta directiva hasta 1869 y votó la reforma del Sr. Figuerola», y algo parecido ocu­
+rre con varios miembros de su gobierno, si bien todos parecen negarlo156.
+Cánovas responde con un contundente discurso proteccionista en el Par­
+lamento en 1882157158,objeto de fuertes diatribas de Rodríguez, que siguen con otros
+duros alegatos en el Ateneo en febrero y marzo de 188415S. De nuevo en diciem­
+bre de 1887 interviene Cánovas en el Congreso y aunque es rechazada su propuesta
+de un recargo sobre los aranceles de cereales y harinas (se está en plena crisis agro­
+pecuaria mundial), vuelve a insistir y en su intervención de 9 de enero de 1888 ape­
+la al interés de los Estados (la doctrina librecambista, dice, «podrá ser cierta mate­
+máticamente en su aplicación al universo entero, pero no es viable aplicada a las
+naciones que están limitadas por su historia, por su suelo»), lo que desata las iras
+de Rodríguez, que expone sus ideas antiproteccionistas en el Ateneo 159, y provoca
+otra contundente respuesta teórica del gran político conservador l6°.
+Como ha resumido Serrano Sanz, «el punto de partida para la defensa del
+proteccionismo en Cánovas es la existencia de naciones... En definitiva, que la polí­
+tica está, en el orden de las prioridades, por encima de la economía», algo que,
+matizadamente, habían admitido krausistas como Azcárate o Piernas. En una Espa­
+ña como la que describe Lucas Mallada, sólo cabe el proteccionismo... o la emi­
+gración 161.
+
+156 Uno de los casos más destacados: participante, como Rodríguez, en numerosas activida­
+des cívicas y políticas como cofundador de la Sociedad Abolicionista Española, miembro activo de la
+Sociedad por la reforma Arancelaria, y orador de los meetings en el Ateneo y en la Sociedad Económi­
+ca, que tras la Restauración se posiciona al lado de Cánovas en muchos aspectos, es el del aragonés
+Mariano Carreras. Ver mi libro introductorio a dos suyos reeditados, M ariano Carreras y González: un
+economista aragonés impulsor de la Estadística moderna en España, Zaragoza, Instituto Aragonés de
+Estadística, 2000.
+157 El -Discurso sobre el ideario arancelario del partido conservador pronunciado en el Con­
+greso de los Diputados el 22 de abril de 1882- fue reproducido en el número correspondiente al cuar­
+to trimestre de 1959 de la Revista de Economía Política.
+158 G abriel Rodríguez, El convenio con Inglaterra, folleto que recoge las conferencias en el
+Círculo de la Unión Mercantil los días 16 de febrero, 8 y 29 de marzo de 1884, Madrid, El Día.
+159 El 21 de mayo de 1888. El texto de -La reacción proteccionista en España- lo reproducirá
+luego en la Revista de España.
+160 Es el célebre discurso de enero de 1888, también publicado en la Revista de España y
+recogido en A. C ánovas del C astillo, -De cómo he venido yo a ser proteccionista-, en Problemas con­
+temporáneos, III, Madrid, 1890.
+161 J . M. S errano Sanz , -Cánovas del Castillo y Gabriel Rodríguez: la última gran polémica
+arancelaria del xix-, en E. F uentes, EEE, 5, págs. 267-271.
+
+633
+
+
+
+La respuesta de Rodríguez llega diferida en un mitin de 1891, en el que
+acusa a Cánovas de atacar juntas todas las libertades; por ello afirma que «no habrá
+posibilidad de que la libertad de comercio se separe de las demás libertades huma­
+nas; porque llegará a ser doctrina de todo liberal, que la libertad es una»162, y en
+otro de 1892, en el que denuncia su reducción teórica a meros intereses o «egoís­
+mos nacionales»: «Siéndoles imposible vencer en la cuestión técnica, acuden a las
+doctrinas del socialismo del Estado, en las que hoy se basa toda su argumentación»:
+el Estado, sabio, justo, desinteresado, se ocupa de cuanto concierne a los indivi­
+duos ignorantes...163.
+Pero Serrano estima que «los de Gabriel Rodríguez son escritos de com­
+bate en los que no hay defensa del librecambio sino ataques al proteccionismo», y
+cree que Cánovas plantea el tema con realismo y que la polémica «ayuda a enten­
+der el viraje proteccionista y sus orígenes ideológicos, así como aclara la escasa
+entidad teórica que el librecambismo español tenía a comienzos de los años noven­
+ta». Porque, aclara, «frente a las interpretaciones simplistas que identifican el pro­
+teccionismo con la Restauración, queda bien claro que la reacción se produjo a
+finales de los ochenta y no desde el principio del régimen, y que la crisis agrícola
+y no una ideología nacida en el vacío fue el detonante»164.
+En fin, las últimas intervenciones públicas de Rodríguez son en la década
+de los noventa: en el curso 1891-1892 habla sobre la «Conferencia monetaria de
+Bruselas», y en 1894 interviene en un curso junto a Pedregal, Sánchez de Toca, Cos
+Gayón y Fernández Villaverde, sobre «El problema económico». Y todavía, a fines
+de 1893 y en 1894, cuando ya ha caído Cánovas165, y Sagasta (al revés que el ancia­
+no Gladstone, que —recuerda— se retiró del poder para conquistar la opinión y
+regresó con fuerza a realizar su programa) vuelve a desilusionar: apenas desea «que
+su partido aparezca unido y compacto» y no se diferencia del conservador en lo
+económico. Por eso se queja, como Costa, de que no hay «un solo ejemplar de la
+clase de verdaderos hombres de Estado y grandes políticos... Aquí la política no se
+162 Mitin en el Salón Romero, 11 de enero de 1891, GR, págs. 482-488.
+163 GR, págs. 488-493.
+164 J. M. S errano S anz , «Cánovas del Castillo...*, ibidem.
+165 «Desde los últimos meses de 1890, el Sr. Cánovas dejó de ser el jefe del movimiento pro­
+
+teccionista español y hoy... va a la zaga, arrastrado por [las fuerzas proteccionistas]... sometiéndose
+humildemente a todas sus pretensiones, por exageradas y absurdas que sean-, Art. en Revista de Espa­
+ña, 15 de mayo de 1894. El articulo reproduce el diálogo en el Congreso entre Sagasta, presidente del
+Consejo de Ministros, y Cánovas, que rechaza haber sido librecambista. Diario de Sesiones, 19 de
+diciembre de 1893, GR, pág. 500.
+
+634
+
+
+
+propone más fin que el de gobernar, y para ello se hacen toda clase de compo­
+nendas, en las que se sacrifican las doctrinas y las convicciones»l66.
+
+El año anterior a la muerte de Gabriel Rodríguez pero estando ya grave­
+mente enfermo, el 3 de enero de 1900, Costa habla en el Círculo de la Unión Mer­
+cantil e Industrial de Madrid. Es el cénit de la euforia creadora de su Unión Nacio­
+nal y, al preguntarse por quiénes deben gobernar después de la catástrofe, propone
+a «los que entonces debieron gobernar y siguen apartados de la gobernación; que
+deben ponerse a la cabeza los que entonces advirtieron y acertaron en sus adver­
+timientos, enseñanzas y predicaciones, los que tuvieron don de consejo... Esos
+hombres son la única brújula y la única áncora que le queda al país». Y su genéri­
+ca alusión se concreta: «Algunos de esos hombres representan un capital de consi­
+deración en experiencia y en sabiduría, sin el cual tengo por imposible que Espa­
+ña se redima; y ese capital está a punto de ir a pudrirse en el cementerio. Ya uno
+de ellos, que tanto había capitalizado para España en su cerebro y cuyas sabias lec­
+ciones habéis escuchado muchas veces en este mismo sitio (lo nombro por excep­
+ción y a título de ejemplo), está agonizando en estos instantes, a corta distancia de
+esta Casa: Don Gabriel Rodríguez»167.
+*
+
+Gabriel Rodríguez murió el 20 de diciembre de 1901. Su salud estaba muy
+quebrantada y, aunque luchó por ella —de lo que es prueba que escribe algunas
+cartas desde los Baños de Mondariz— acabó sucumbiendo. Cumple preguntarnos,
+como hace el Profesor Fuentes Quintana, por qué primero decayó a partir de los
+años 1880 y luego la poderosa «escuela economista u optimista salió de la escena
+166 vuelve a argumentar contra las evasivas de Cánovas, recordando su clara pertenencia a
+los grupos librecambistas, vocal de la Junta directiva de la Asociación, asistente a reuniones en casa de
+Luis María Pastor, asintiendo a ciertos documentos, gestionando con Madoz un permiso para concurrir
+a una información abierta en el Congreso, GR, págs. 493-499.
+167 J oaquín C osta , -Quiénes deben gobernar después de la catástrofe», en la edición realiza­
+da por S ebastián Martín-Retortillo de Reconstitución y europeización de España y otros escritos, Madrid,
+Instituto de Estudios de Administración Local, 1981, págs. 213-244. La cita de págs. 229-230. La trans­
+cripción del discurso subraya, entre paréntesis, que la mención a Rodríguez causó -sensación». Tras la
+muerte de Rodríguez, Costa le recuerda con frecuencia. Así, aludiendo a grandes figuras eclipsadas tras
+su muerte, exclama, -Labra, Azcárate, etc., pasarán, están pasando, como Pedegal, G. Rodríguez, Pi, etc.,
+sin ver novedad, ni dejar nada, vel quasi; y no hay que decir si yo, que ya he pasado, y más en agraz
+que ellos». G. J . G. C heyne, El don de consejo..., pág. 172, carta a Giner de 18 de enero de 1903.
+
+635
+
+
+
+al ritmo que marcaba la desaparición biológica de sus principales miembros... y
+nadie los reemplazó. En realidad, lo verdaderamente importante es precisamente
+por qué no tuvieron continuadores, a pesar de su atractivo y poder de otra épo­
+ca» 168. A ello responde la explicación del Profesor Serrano Sanz de que la escuela
+pereció «en el único terreno que había cultivado, las polémicas de política econó­
+mica, cuando sus posiciones empezaron a tener el viento de los tiempos en con­
+tra, escasa audiencia y nula originalidad». Porque, prosigue Serrano, «la política de
+crecimiento económico había sido objeto central y casi exclusivo de sus preocupa­
+ciones... A finales de la centuria, en cambio, los problemas redistributivos y de
+regulación, derivados de la cuestión social y las políticas defensivas frente a la cri­
+sis habían llevado el intervencionismo de nuevo al centro de la escena»169. Se había
+producido y consagrado el «viraje proteccionista»170.
+
+Esta es, en fin, señores académicos y amigos que me escuchan, la historia
+de un hombre que representa a una generación de economistas españoles que cre­
+yó en la libertad aplicada a la vida económica, y también a la política, a la socie­
+dad, a la cultura. Su talante, su laboriosidad, su integridad, creo que merecían y
+merecen un gran respeto, y, acaso, y a ello espero haber contribuido modesta­
+mente, mayor conocimiento. He dicho.
+
+168 J. M. S errano, A. S ánchez H ormigo y J. L. M alo, «Las críticas a la economía clásica-, en EEE,
+5, págs. 43-44.
+169 J. M. S errano S anz, -Escuelas e ideas en la Restauración decimonónica-, en F uentes Q uin­
+tana, EEE, 5, págs. 135 y sigs.
+170 Asunto estudiado exhaustivamente por J osé María S errano S anz, El viraje proteccionista
+en la Restauración. La política com ercial española, 1875-1895, Madrid, Siglo XXI, 1897. Ver también el
+capítulo de A ntón C ostas, -El librecambio, la industrialización y sus desencantos: argumentos a favor del
+proteccionismo en la segunda mitad del xix-, en G . B el y A. Estruch (coords.), Industrialización en Espa­
+ña..., págs. 205-226.
+
+636
+
+

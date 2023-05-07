@@ -1,0 +1,518 @@
+DON QUIJOTE: ¿LOCURA O HEROÍSMO?
+Por el Académico de Número
+Excmo. Sr. D. Diego Gracia Guillén*
+
+A punto de finalizar el V Centenario de la muerte de Miguel de Cervantes, me ha parecido que, como homenaje a su memoria, podemos dedicar esta
+sesión al análisis de un tema muy traído y llevado durante los dos últimos siglos
+y del que, a lo largo de este último año, se han dicho bastantes cosas, no todas
+muy puestas en razón. Me refiero a la pretendida locura de don Quijote. En
+Medicina hay una especie de torneo o contienda abierto hace ahora algo más
+de dos siglos, en relación al diagnóstico de su enfermedad, que adquiere nueva
+intensidad en cada año conmemorativo. En este que ahora finaliza, también.
+Pero el tema dista mucho de ser cuestión reservada a los galenos, aunque a
+veces éstos parecen entenderlo así. Afecta a la cultura toda, entre otras cosas
+porque está por demostrar que don Quijote fuera un loco. En eso lo convirtió
+Avellaneda1, y tal parece haber sido la causa, o una de las causas por la que
+Cervantes reaccionó tan violentamente contra ese don Quijote espurio y apócrifo2. Por otra parte, con esta intervención me sumo al homenaje que esta Real
+Academia tributó a don Miguel de Cervantes el año 2005, con ocasión del Centenario de la publicación de la primera parte del Quijote (Helio Carpintero,
+“Cervantes y el Quijote en la visión de Julián Marías”; Pedro Cerezo “Sentido y
+formas del diálogo cervantino en el Quijote”; Carmelo Lisón “Dimensiones mitológicas de el Quijote”), así como a la intervención que en 2015 tuvo nuestro
+
+* Sesión del día 22 de noviembre de 2016.
+1
+A. FERNÁNDEZ DE AVELLANEDA, Segundo Tomo del Ingenioso Hidalgo don Quijote de la Mancha, que contiene su
+tercera salida y es la quinta parte de sus aventuras, Tarragona, 1614.
+2
+Cervantes se hace eco del encierro de don Quijote en el manicomio de Toledo casi al final de la obra, cuando
+por boca de don Álvaro Tarfe, personaje del libro de Avellaneda, dice en crítica a éste que “le dejó metido [a don Quijote]
+en la Casa del Nuncio, en Toledo, para que le curen”. MIGUEL DE CERVANTES, Don Quijote de la Mancha, ed. del Instituto Cervantes, Barcelona, Galaxia Gutenberg/Círculo de Lectores, 2004, II,72:1319. (Cito en números romanos la parte, y en números arábigos el capítulo y la página).
+
+119
+
+
+
+actual Vicepresidente, Pedro Cerezo, sobre “Don Quijote dilatado”, que es
+como Cervantes presenta la segunda parte de su obra en el Prólogo que escribió para ella3.
+
+UN POCO DE LEXICOGRAFÍA
+Antonio de Nebrija no es sólo el autor de la primera gramática española, El arte de la lengua castellana, sino además de dos importantísimos diccionarios, el primero el Diccionario latino-español (Lexicon hoc est Dictionarium
+ex sermone latino in hispaniensem), aparecido el mismo año de la Gramática,
+en 1492, y el segundo, el Vocabulario español-latín (Dictionarium ex hispaniense
+in latinum sermonem), dos años posterior (1494/5). En ellos, Nebrija establece
+las equivalencias entre las palabras latinas y sus correspondientes castellanas.
+En un idioma que estaba fijando en esos años sus términos básicos, ambos diccionarios vinieron a cumplir una misión fundamental.
+El término locura venía rodando en la cultura occidental desde sus
+mismos orígenes. Y siempre con un doble sentido: de una parte, enfermedad
+mental, y de otra arrebato, posesión. Son los dos sentidos que tienen el verbo
+maíno y el sustantivo manía en griego. El sentido primario es el de “estar poseído” o actuar sin voluntad o sin control, ya se deba a factores naturales o sanos
+o a alteraciones patológicas de la propia naturaleza. Se consideraba que los
+sujetos afectos de manía eran por lo general personas en que predominaba el
+humor bilis negra, y por ello mismo de naturaleza melancólica. A ese temperamento se asignaba tanto la genialidad propia de poetas y filósofos, como la
+locura. Juan Huarte de San Juan escribe en su Examen de ingenios “que el
+rezar, contemplar y meditar enfría y deseca el cuerpo y lo hace melancólico”4.
+De hecho, don Quijote tiene una típica constitución leptosómica.
+Aristóteles dedica un capítulo, el trigésimo de sus Problemata a esta
+cuestión, y lo da inicio con estas palabras: “Por qué todos los hombres que
+han sobresalido en filosofía, política, poesía o artes parecen ser de temperamento dominado por la bilis negra (melancholikós), y algunos de tal forma que
+incluso son víctimas de las enfermedades derivadas de la bilis negra, como
+cuentan las leyendas heroicas en torno a Heracles? Pues también este parece
+que fue de tal naturaleza. De ahí que por él los antiguos denominaran enfermedad sagrada a la enfermedad de los epilépticos”5. El predominio de bilis
+
+3
+
+P. CEREZO, El Quijote y la aventura de la libertad, Madrid, Biblioteca Nueva, 2016, cap. IV, “Don Quijote dila-
+
+tado”:201-226.
+4
+J. HUARTE DE SAN JUAN, Examen de ingenios para las ciencias, ed. 1594, cap. V, “Donde se declara lo mucho
+que puede el temperamento para hacer al hombre prudente y de buenas costumbres”.
+5
+ARISTÓTELES, Problemas, 953 a 10-16.
+
+120
+
+
+
+negra produce un temperamento particular, el melancólico, del que participan
+tanto los locos como los sabios, poetas y filósofos.
+Genialidad y locura comparten un mismo temperamento. Estar loco y
+hacer locuras parecen haber estado siempre muy próximos entre sí. El prototipo de personaje que “hace locuras” es el héroe. Es el caso de los héroes mitológicos, como Heracles, pero también de los grandes héroes homéricos, Ulises,
+Aquiles, Héctor, o de los héroes medievales, los caballeros de la Tabla Redonda,
+o Roldán, o el Cid Campeador. Y es también el caso de los grandes santos,
+como Jesús de Nazaret o Francisco de Asís. El jugar con la ambigüedad del término “locura” estaba de moda en la época de Cervantes, sobre todo a partir de
+la publicación por Erasmo, en la centuria anterior, del Elogio de la locura.
+En el Dictionarium ex hispaniense in latinum sermonem, de 1494/56,
+Antonio de Nebrija reseña bajo el término loco lo siguiente:
+• Loco de atar, furiosus, a, um. Locura desta manera, furor, oris.
+• Loco como bovo, stultus, a, um; fatuus, a, um. Loco desta manera
+en griego, morio, onis. Locura desta manera, stultitia, fatuitas.
+• Loco atrevido, temerarius, a, um. Locura desta manera, temeritas, atis.
+• Loco como quiera, insanus, a, um; vesanus, a, um. Loco asi, amens,
+entis; demens, entis. Loco asi, vecors, ordis; excors, ordis. Locura asi,
+insania, et vesania, et amentia. Locura asi, dementia, ae; vesania, ae.
+En el castellano de finales del siglo XV, parece claro, pues, que la palabra locura se utilizaba, al menos, en cuatro sentidos distintos, sólo uno de los
+cuales se consideraba estrictamente patológico o médico.
+• Hay una locura que es enfermedad: insania, vesania, amentia,
+dementia
+• Locura tiene también el sentido de estulticia o necedad: stultitia,
+fatuitas
+• Se califica también de locura al acto temerario: temeritas
+• Y se identifica también locura con furia: furiositas
+De lo que cabe concluir que en el idioma castellano de finales del siglo
+XV coexistían dos sentidos del término locura, la locura que cabe calificar de
+“patológica”, y otra que puede considerarse propia de las conductas “excéntricas”, pero consideradas más o menos “normales”, o incluso geniales.
+
+6
+
+ANTONIO
+
+DE
+
+NEBRIJA, Dictionarium ex hispaniense in latinum sermonem, Salamanca:1494/5.
+
+121
+
+
+
+Los diccionarios de Nebrija sirven para rastrear el sentido del término
+locura en los orígenes de la lengua castellana, pero se hallan alejados por más
+de un siglo de la época en que Cervantes compuso sus obras. De ahí la importancia de consultar el otro gran monumento lexicográfico de esa época, el
+Nuevo Tesoro de la lengua castellana o española que publicó Sebastián de
+Covarrubias en 1611, es decir, en el tiempo que separa la composición de las
+dos partes del Quijote 7. Ahora el primer significado que aparece es el de “el
+hombre que ha perdido el juicio”, pero para añadir acto seguido una serie de
+“proverbios” en los que el término se utiliza en contextos no patológicos:
+• Loco: el hombre que ha perdido el juicio
+o Loco atreguado: el que tiene diluidos intervalos, haciendo treguas
+con la locura
+o Loco perenal: el que perpetuamente persevera en su locura.
+• Proverbios:
+o El loco por la pena es cuerdo: Este proverbio se verifica algunas
+veces en los mismos locos de las gavias, a los cuales castigan los
+que curan [cuidan] de ellos, y entonces no temen como hombres,
+sino como animales, de la manera y forma que el caballo y el
+perro, y otro cualquier bruto se fugara a la disciplina temiendo el
+castigo.
+o Mas sabe el loco en su casa que el cuerdo en la ajena. Aquí se
+toma loco por el hombre arrojado y inconsiderado en las cosas
+graves y públicas; pero en cuanto al gobierno particular de su
+casa están advertidos de lo que les conviene, evitando los inconvenientes que el de fuera de ella no alcanza.
+o Un loco hace ciento. Ordinaria cosa es, especialmente entre
+mozos, si uno de ellos da en alguna impertinencia o sea en trage,
+o en otra cosa, luego tiene muchos que le sigan, y en las conversaciones, si da uno en loquear, travesean todos los demás y le
+siguen y se descomponen, pareciéndoles que esto es urbanidad
+y cordura.
+Covarrubias distingue, pues, entre el loco “que ha perdido el juicio” y
+lo que llama el “loquear” que hacen los mozos “pareciéndoles que es urbanidad y cordura”. Pero lo más interesante es que dentro de la locura patológica,
+distingue dos tipos: la locura “perenal” y la “atreguada”. La primera, la perenne,
+es propia de quien “perpetuamente persevera en su locura”, en tanto que la
+segunda es la que se da a intervalos o con treguas, la discontinua. Este matiz
+
+7
+
+122
+
+SEBASTIÁN
+
+DE
+
+COVARRUBIAS, Nuevo Tesoro de la Lengua Castellana o Española, Madrid, Luis Sánchez:1611.
+
+
+
+es importante, porque atestigua que en la época de Cervantes era ya usual distinguir estos dos tipos de locura, lo que sin duda permitió a Cervantes echar
+mano de la “locura atreguada” o locura a intervalos para su personaje.
+Valga como tercer testimonio, junto a los de Nebrija y Covarrubias, el
+del Diccionario de Autoridades del año 1734, que da las siguientes tres acepciones del término “loco”:
+• Loco, que ha perdido el juicio, carente de razón y hace y dice disparates
+• Loco, por semejanza se llama el sujeto de poco juicio y asiento, disparatado e imprudente
+• Loco, traslaticiamente se toma por fecundo, abundante y lozano. Año
+loco, cosecha loca, etc.
+Era importante hacer este breve recorrido por los principales diccionarios españoles de los siglos XV al XVIII, es decir, anteriores al nacimiento de
+la Psiquiatría como disciplina. De él cabe deducir dos importantes consecuencias: primera, que el término loco tuvo siempre en castellano el doble sentido
+de “estar loco” y de “hacer locuras” sin serlo; y segunda, que dentro de la locura
+patológica, se distinguían perfectamente dos tipos, la “locura perenal” o continua y la “locura atreguada” o intermitente.
+
+LA LOCURA EN EL QUIJOTE
+La palabra “loco” aparece 45 veces en la Primera parte y 78 veces en
+la Segunda. Cervantes la utiliza en toda la gama de significados que el término
+tenía entonces en español, y juega con ellos, de tal modo que le gusta pasar
+de uno a otro sin casi solución de continuidad, lo que produce en el lector un
+efecto paradójico y en muchas ocasiones hilarante8.
+Es significativo el hecho de que los locos de Cervantes, Cardenio, el
+Licenciado Vidriera, don Quijote, no sean nunca locos totales, o locos rematados. El ejemplo típico de locura es la esquizofrenia crónica. Los historiadores
+han constatado la poca o nula presencia de esta entidad nosológica en la literatura anterior a la revolución industrial y a la aparición de la Psiquiatría como
+especialidad. Lo primero que llama la atención es que entre los locos de Cervantes no hay ninguno que pueda ser diagnosticado de esquizofrenia.
+
+8
+D. GRACIA, “Discretas locuras. Variaciones en torno a la locura de don Quijote”. Anales de la Real Academia
+Nacional de Medicina, 1005;122:105-121.
+
+123
+
+
+
+El loco paradigmático que pinta Cervantes es siempre el “loco atreguado”, de acuerdo con la división de Sebastián de Covarrubias, que Cervantes llama “loco entreverado” (II,18, 846), “loco cuerdo” (II,36,1017), “loco bizarro” (II,18,846) o “lodo discreto”, es decir, un loco “lleno de lúcidos intervalos”.
+Es el caso de Cardenio en la Primera parte, y del don Quijote tal como aparece
+en la Segunda parte a los ojos del Caballero del Verde Gabán, don Diego de
+Miranda. Cervantes lo cuenta así: “En todo este tiempo no había hablado palabra don Diego de Miranda, todo atento a mirar y a notar los hechos y palabras
+de don Quijote, pareciéndole que era un cuerdo loco y un loco que tiraba a
+cuerdo” (II, 17, 838).
+La pericia de Cervantes en el manejo de este tipo de locura llamó
+pronto la atención de los médicos. Ocho años después de que muriera Cervantes nacía Thomas Sydenham, amigo íntimo de John Locke y uno de los padres
+de la medicina clínica moderna. En el Quijote encontró el tipo de descripciones que él buscaba necesario promover en medicina. Cervantes había sido para
+él un excelente nosógrafo, capaz de plasmar perfectamente los síntomas de la
+enfermedad mental. Samuel Johnson cuenta en su vida del poeta Richard Blackmore que cuando éste quiso estudiar medicina, le preguntó a Sydenham qué
+libros debía leer, y éste le dirigió al Quijote. “Es un libro excelente —dijo. Yo
+lo sigo leyendo”9.
+Este tema de los locos que no lo son de modo total sino sólo en un
+tema, llamó la atención de la Psiquiatría desde sus mismos orígenes, a finales
+del siglo XVIII. El primero en hacer un diagnóstico psiquiátrico de don Quijote
+fue Esquirol, que lo etiquetó de “monomanía”, es decir, de locura parcial, o
+locura en un tema, con conservación del razonamiento y la personalidad normal en todo lo demás. Este fue el diagnóstico más frecuente a lo largo del siglo
+XIX, aquel en el que imperó en toda Europa la nosotaxia francesa que establecieron Pinel y Esquirol. En su monografía Des maladies mentales, Esquirol escribió: “En el Don Quijote se halla una descripción admirable de la monomanía
+que reinó en casi toda Europa después de las Cruzadas: mezcla de extravagancia amorosa y bizarría caballeresca, que era en muchos una verdadera locura”10.
+En la España del siglo XIX, este es el diagnóstico que se repite en los
+cincuenta años que separan a Antonio Hernández Morejón, que publica su
+libro Bellezas de la medicina en 1836, hasta Emilio Pi y Molist, cuyos Primores
+de don Quijote se imprimen en 1886. La monografía del primero comienza así:
+9
+He aquí el texto original de Johnson: “When he [Blackmore] first engaged in the study of physick he enquired, as he says, of Dr. Sydenham what authors he should read, and was directed by Sydenham to Don Quixote; 'which,' said
+he, 'is a very good book; I read it still.'” JOHNSON, SAMUEL. Preface to BLACKMORE. In: The Life of Richard Blackmore. The Penn
+State Archive of Samuel Johnson's ‘Lives of the Poets.’ Ed. Kathleen Nulton Kemmerer. 1 September 2000.
+http://www.hn.psu.edu/faculty/kkemmerer/poets/blackmore/default.html.
+10
+J. E. D. ESQUIROL, Des maladies mentales considérées sous les rapports médical, hygiénique, et médico légal.
+Paris, Baillière, 1838, tomo II:28.
+
+124
+
+
+
+“Si los talentos sublimes de Cervantes […] no hubieran difundido su nombre
+por todo el mundo; aun merecería ser aplaudido en la república literaria de los
+Médicos por su mérito singular en la parte descriptiva de esa especie de locura
+que hoy llaman monomanía”11. Por su parte, el segundo, cincuenta años después, repite el mismo diagnóstico: “Monomanía era la especie de su locura.
+Cervantes no le dio nombre, porque poco o nada le hacía al caso, escribiendo
+una novela y no una historia clínica; cuanto más que tampoco pudo llamarla
+así, pues esta denominación no fue conocida hasta los tiempos de Esquirol,
+que la inventó e introdujo en la nomenclatura médico-psicológica en una
+memoria, De la locura, que data de 1816”12.
+La nosotaxia psiquiátrica se la han repartido, en los algo más de dos
+siglos de vida que tiene de existencia, tres sistemas. El primero fue el francés que
+iniciaron Pinel y Esquirol en los albores del siglo XIX y que duró hasta los años
+ochenta de ese mismo siglo. La psiquiatría se estaba constituyendo como especialidad médica, pero directamente unida a la administración de justicia, como
+parte de la llamada Medicina legal. Para verla constituida en especialidad clínica
+independiente, hubo que esperar a la revolución que introdujo Emil Kräpelin en
+los años ochenta del siglo XIX. Esta revolución fue acompañada de un nuevo
+sistema de clasificación de enfermedades mentales, que Kräpelin hizo público
+el año 1883 en su Compendium der Psychiatrie: Zum Gebrauche für Studirende
+und Aertze. Este pequeño manual fue ampliándose en sucesivas ediciones, hasta
+convertirse en el gran Lehrbuch der Psychiatrie en que se formaron todos los psiquiatras occidentales durante el siguiente medio siglo. En esta nueva nosotaxia
+la vieja “monomanía” desapareció, sustituida por la “paranoia”, el diagnóstico
+que se aplicará a don Quijote durante todo ese periodo. En España, eso hicieron Royo Villanova13 y Goyanes Capdevila14, entre otros varios.
+El año 1952 la American Psychiatric Association puso a punto un
+nuevo catálogo de enfermedades mentales, denominado Diagnostic and Statistical Manual of Mental Disorders (en abreviatura, DSM). La primera versión,
+el DSM-I, aparecido en 1952, era una variante del sistema promovido por la
+Organización Mundial de la Salud, el CIE-6. En 1968 se publicó el DSM-II y en
+1980 el DSM-III. En 1994 vio la luz el DSM-IV y en 2013 el DSM-5. Este es el
+sistema actual de clasificación de las enfermedades mentales. En el DSM-IV, la
+antigua paranoia quedó englobada en los “trastornos delirantes”, o en lo que
+el CIE 10 llamó “trastornos por ideas delirantes persistentes.” De ahí que este
+
+11
+A. HERNÁNDEZ MOREJÓN, Bellezas de medicina práctica en el ingenioso caballero don Quijote de la Mancha,
+Madrid, en la Oficina de Don Tomás Jordán, 1836:3.
+12
+E. PI Y MOLIST, Primores del Don Quijote en el concepto médico-psicológico: Consideraciones generales sobre
+la locura para un nuevo comentario de la inmortal novela, Barcelona, Imprenta Barcelonesa, 1886:37.
+13
+R. ROYO VILLANOVA, La locura de Don Quijote. Zaragoza, Imp. E. Cañasal, 1905.
+14
+J. GOYANES CAPDEVILA, Tipología de El Quijote. Ensayo sobre la estructura psicosomática de los personajes de
+la novela. Madrid, S. Aguirre, 1932.
+
+125
+
+
+
+haya sido el diagnóstico más usual de la locura de don Quijote en la segunda
+mitad del siglo XX15.
+He recordado esta historia porque muestra hasta qué punto han coincidido los psiquiatras en el diagnóstico del hidalgo manchego. La variedad de
+términos desorienta al no iniciado, pero con diferentes palabras todos apuntan
+a lo mismo. Don Quijote sufrió una locura atreguada, o locura entreverada, o
+una monomanía, una paranoia o un trastorno delirante. A pesar de que entre
+esas descripciones existen diferencias, todos están diciendo lo mismo.
+Los diagnósticos descritos tienen la característica de ser meramente sindrómicos y no etiológicos. Estos son más difíciles, habida cuenta, sobre todo,
+de que se trata de un personaje irreal y muy alejado en el tiempo. Uno de estos
+diagnósticos etiológicos recientes, es el de “demencia por cuerpos de Lewy”16.
+Por lo demás, a lo largo de toda la obra, pero sobre todo en su segunda
+parte, Sancho parece sufrir un fuerte contagio de don Quijote, lo que ha llevado
+a ver en ambos un caso de folie à deux, o “trastorno psicótico compartido”,
+según la clasificación del DSM IV.
+
+MÁS ALLÁ DE LA PSIQUIATRÍA:
+¿LOCURA O HEROÍSMO?
+En tanto que “loco entreverado”, parece claro que el diagnóstico psiquiátrico no agota la personalidad de don Quijote. De hecho, Cervantes nos
+advierte ya de ello, cuando escribe: “No te sacarán del borrador de su locura
+cuantos médicos y buenos escribamos tienen el mundo: él es un entreverado
+loco, lleno de lúcidos intervalos” (II, 18, 846). Repárese en la frase: “no te sacarán del borrador de su locura cuantos médicos tiene el mundo”. Parece que
+para el propio Cervantes, en la interpretación de la personalidad de don Quijote hay que ir más allá de la medicina. Como dice en otro lugar, don Quijote
+es un “loco cuerdo” (II,36,1017).
+Esto exige recurrir al segundo sentido del término locura, el propio de
+las acciones extravagantes, extrañas, inusitadas, portentosas o admirables. Aquí
+el loco se transmuta en “héroe”. No en vano lo que don Quijote busca es llevar a cabo hazañas que le inmortalicen y recuerden los tiempos venideros. Don
+Quijote quiere ser un héroe.
+15
+R. CORRAL MÁRQUEZ, R. TABARÉS SEISDEDOS, “Aproximación psicopatológica a ‘El Quijote’ (según la nosología
+psiquiátrica actual)”, Rev Asoc Esp Neuropsiq 2003;22(85):27-57; esp:37.
+16
+P. J. GARCÍA RUIZ, L. GULLIKSEN, “Did Don Quixote have Lewy body disease?” J. R. Society of Medicine.
+1999;92:200-201.
+
+126
+
+
+
+Eugenio d’Ors vio en la historia de la cultura una oscilación entre dos
+polos eternos, que designó con los nombres de “eón clásico” y “eón barroco”.
+Para él, la Antigüedad greco-romana fue el paradigma del eón clásico, racional, claro, geométrico de líneas rectas, en tanto que en la Edad Media se produjo la apoteosis del eón romántico, emocional, oscuro, de líneas curvas, etc.
+En el Renacimiento reapareció el eón clásico, y en el Barroco el eón romántico. El Neoclasicismo del siglo XVIII fue de nuevo el apogeo del eón clásico
+y el Romanticismo del eón romántico. Pues bien, en estos dos eones se han
+dado dos interpretaciones opuestas del Quijote. Si el primero hizo de él un
+loco, y de la obra una tragicomedia, el segundo lo vio como el prototipo de
+héroe trágico, y la obra como una tragedia18. De hecho, don Quijote se convirtió en figura inmortal de la literatura a partir del romanticismo, época en que
+los autores británicos y, sobre todo alemanes, exaltaron su figura, tan heroica
+como trágica19.
+Pero si no se trata de un loco sino de un héroe, ¿en qué está su heroicidad? Ortega cuenta cómo Hermann Cohen suspendió la composición de su
+Estética para leer el Quijote en la versión que de él había hecho el romántico
+Hermann Tieck. Y recuerda cómo, asombrado, le decía Cohen: “¡Pero hombre!,
+este Sancho emplea siempre la misma palabra de que hace Fichte el fundamento para su filosofía”. Y añade Ortega: “En efecto: Sancho usa mucho, y al
+usarla se le llena la boca, esta palabra: ‘hazaña’, que Tieck tradujo Tathandlung, acto de voluntad, de decisión”20. Y es que en la hazaña, en la verdadera
+hazaña, hay siempre un empeño moral, una gran empresa moral, exactamente
+igual que en la filosofía de Fichte. Ortega dijo con frecuencia que la ética no
+consiste en el “deber ser”, el atenimiento a normas que son por necesidad genéricas y por ello mismo impersonales, sino en el personalísimo e intransferible
+“tener que ser” que surge desde lo más profundo de uno mismo, desde ese
+“fondo insobornable” que nadie puede acallar y que hará de la vida un logro
+positivo o un fracaso21. Persona fracasada no es la que no es lo que debe ser,
+sino la que no ha sido lo que tenía que ser. En el lenguaje de Fichte, que es también el de Ortega, la primera es heterónoma y sólo de la segunda puede decirse
+que sea autónoma. Ahora bien, vida moral y heteronomía son incompatibles22.
+En la vida humana hay dos grandes momentos de crisis. Una primera
+es la crisis juvenil, aquella en la que el adolescente se pregunta “qué hacer” en
+
+E. D’ORS, La ciencia de la cultura, Madrid, Rialp, 1964.
+E.C. RILEY, Introducción al “Quijote”, Barcelona, Crítica, 2004:226 y ss.
+Cf. J. J. A. BERTRAND, Cervantès et le Romantisme allemand, Paris, Alcan, 1914. A. CLOSE, The Romantic
+Approach to “Don Quixote, Cambridge, Cambridge University Press, 1978.
+20
+J. ORTEGA Y GASSET, “El coraje, Sancho Panza y Fichte”, en Obras Completas, Madrid, Taurus, vol. 2, 2004:663.
+21
+J. ORTEGA Y GASSET, “Por qué he escrito ‘El hombre a la defensiva’”, en Obras Completas, Madrid, Taurus, vol.
+4, 2005:304. Id., “Pidiendo un Goethe desde dentro”, vol. 4, 2006:130.
+22
+D. GRACIA, “La ética del Quijote”. En: Francisco JAVIER RIVAS FLORES, MANUEL DE LOS REYES LÓPEZ (Coord.), La
+Bioética, tarea de humanización. Madrid, Asociación de Bioética Fundamental y Clínica, 2006:37-60
+17
+18
+
+19
+
+127
+
+
+
+la vida, a qué dedicarse en ella, en qué ocuparla, o cuál es su vocación. La otra,
+la crisis de la madurez se produce en torno a los cincuenta años, cuando la pregunta ya no es “qué hacer” en la vida sino “qué he hecho” con ella.
+Don Quijote parece que pasó por ambas crisis. La primera no la describe Cervantes, pero dado lo que afirma en el último capítulo de la obra,
+cuando nos enteramos que en su pueblo lo llamaban “Alonso Quijano el
+bueno”, parece obvio que don Quijote decidió en la crisis juvenil ser “como se
+debe ser”. Pero en la crisis de los años cincuenta somete a revisión su vida, “lo
+que ha hecho” con ella, y se sumerge en una profunda crisis, porque se da cuenta
+de que “tiene que ser” una cosa distinta al mero “deber ser”.
+¿Qué tiene que ser? Lo expresa con toda claridad en el discurso a los
+cabreros que aparece, no por azar, al comienzo de la obra:
+Dichosa edad y siglos dichosos aquellos a quien los antiguos pusieron nombre de
+dorados, y no porque en ellos el oro, que en esta nuestra edad de hierro tanto se
+estima, se alcanzase en aquella venturosa sin fatiga alguna, sino porque entonces los
+que en ella vivían ignoraban estas dos palabras de tuyo y mío. Eran en aquella santa
+edad todas las cosas comunes […] Todo era paz entonces, todo amistad, todo concordia […] No había la fraude, el engaño ni la malicia mezcládose con la verdad y llaneza.
+La justicia se estaba en sus proprios términos, sin que la osasen turbar ni ofender los
+del favor y los del interese, que tanto ahora la menoscaban, turban y persiguen […]
+Las doncellas y la honestidad andaban, como tengo dicho, por dondequiera, sola y
+señera, sin temor que la ajena desenvoltura y lascivo intento le menoscabasen, y su
+perdición nacía de su gusto y propria voluntad. Y agora, en estos nuestros detestables
+siglos, no está segura ninguna, aunque la oculte y cierre otro nuevo laberinto como
+el de Creta […]. Para cuya seguridad, andando más los tiempos y creciendo más la
+malicia, se instituyó la orden de los caballeros andantes, para defender las doncellas,
+amparar las viudas y socorrer a los huérfanos y a los menesterosos. Desta orden soy
+yo, hermanos cabreros. (I,11,133-135)
+
+En esto consiste el “tener que ser” de don Quijote: en hacer que la
+Edad de Hierro de que habló Hesíodo y en que vive la humanidad, pase a convertirse en la Edad de Oro en el menor tiempo posible. Por eso quiere imitar
+a los grandes caballeros medievales y a los héroes de la Antigüedad. Y ahí está
+su error, o si se prefiere, su locura, en creer que a la Edad de Oro puede llegarse mediante el uso de la fuerza, como habían hecho los héroes antiguos y
+los caballeros medievales. Al final de la segunda parte, cuando don Quijote
+vuelve a su pueblo tras ser derrotado por el Caballero de Blanca Luna en la
+playa de Barcelona, nos enteramos de que no renuncia a la búsqueda de la
+Edad de Oro, pero que cambia la vía de las armas por la bucólica y pastoril.
+Aparece así el mito de la Arcadia, “pensamiento tan nuevo como discreto, a cuya
+imitación, si es que a ti te parece bien, querría, ¡oh Sancho!, que nos convirtiésemos en pastores” (II,67,1283). Y nada más llegar a su aldea, corre a decir al
+
+128
+
+
+
+cura y al bachiller “que tenía pensado de hacerse aquel año pastor y entretenerse en la soledad de los campos, donde a rienda suelta pueda dar vado a sus
+amorosos pensamientos, ejercitándose en el pastoril y virtuoso ejercicio”
+(II,73,1325).
+
+EL FINAL DE LA HISTORIA
+Los arquetipos tienen sus exigencias internas. Así, por ejemplo, de los
+héroes se espera que mueran defendiendo los valores que encarnan. Por eso
+los héroes son siempre trágicos; su vida acaba en tragedia; mueren en el
+intento. Y además mueren en la plenitud de su fuerza vital, cuando son jóvenes. Nadie piensa en un héroe viejo y achacoso. Uno se imagina a Héctor, a
+Ulises o a Aquiles en la plenitud de su fuerza vital. De ahí la célebre sentencia
+de Menandro: ὃν οἱ θεοὶ φιλοῦσιν ἀποθνήσκει νέος, que Plauto tradujo así al
+latín: Quem di diligunt, adulescens moritur. Don Quijote es un héroe, pero
+que no termina dando la vida por su ideal, y que además está pasado de edad
+para los cánones clásicos. Ante su lecho de muerte, el escribano que acababa de
+fijar su última voluntad comenta: “nunca había leído en ningún libro de caballería que algún caballero hubiese muerto en su lecho tan sosegadamente”
+(II,74,1334-5). El final de don Quijote es cualquier cosa menos heroico.
+Pero por otra parte, tampoco muere como loco. Cervantes tiene mucho
+cuidado en convertirle en cuerdo, de tal modo que el loco don Quijote de la
+Mancha se transforma en el cuerdo Alonso Quijano el bueno. Vuelve a la vida
+convencional que había ocupado toda su existencia anterior a la primera salida.
+No sólo eso, sino que parece renegar de las andanzas que le hicieron salir por
+los campos de Montiel lanza en ristre.
+El protagonista del capítulo final de la novela de Cervantes no se comporta, pues, ni como un héroe, ni como loco. Parece haberse convertido más
+bien en una persona adocenada, del montón, como tantos otros, sin brillo especial que le haga digno de admiración y memoria. Cabría decir que la novela
+tiene un final deslucido. La muerte de nuestro protagonista es, a fin de cuentas, tan prosaica como la de cualquier otro habitante de su aldea. Carece de
+todo interés especial.
+¿Pero quién es ese protagonista? ¿Quién muere? A mi modo de ver,
+aquí está la clave de interpretación que introduce Cervantes. No muere don
+Quijote de la Mancha, sino Alonso Quijano. Y para diferenciar los dos personajes, ahora, al final del relato, tiene que hacer lo contrario del principio. Si allí
+de cuerdo lo volvió loco, ahora tiene que retornarle al estado de cordura.
+Alonso Quijano es un sujeto cuerdo. Y quien muere no es don Quijote sino
+Alonso Quijano.
+
+129
+
+
+
+Don Quijote de la Mancha no muere. Y no muere porque Cervantes
+piensa que no puede morir. Don Quijote de la Mancha es un arquetipo humano,
+y de los más excelsos. ¿Cómo definir ese arquetipo? Lo hace Sancho, el Sancho
+que poco a poco se ha ido enamorando de su personalidad, en las páginas finales de la obra, polemizando con don Álvaro Tarfe, el fatuo personaje del Quijote de Avellaneda: “El verdadero don Quijote de la Mancha, el famoso, el
+valiente y el discreto, el enamorado, el desfacedor de agravios, el tutor de pupilos y huérfanos; el amparo de las viudas, el matador de las doncellas, el que
+tiene por única señora a la sin par Dulcinea del Toboso, es ese señor que está
+presente, que es mi amo.” (II,72,1318-9). Y el bachiller Sansón Carrasco compuso para él este epitafio:
+Yace aquí el hidalgo fuerte
+que a tanto extremo llegó
+de valiente, que se advierte
+que la muerte no triunfó
+de su vida con su muerte. (II,74,1335)
+Este es el arquetipo, este el paradigma de don Quijote, que Cervantes
+se resiste a dar muerte, porque lo considera inmortal. Quien muere el Alonso
+Quijano, no don Quijote de la Mancha (II,74,1330,1333), que, entre bromas y
+veras, ha pasado a la historia como prototipo de los idealistas de todos los
+tiempos. Es lo que le diferencia de las fantasmadas de los libros de caballería,
+incluido el de Avellaneda. El párrafo final del libro es toda una declaración de
+intenciones que hace Cervantes en primera persona, a través de su pluma: “Para
+mí sola nació don Quijote, y yo para él: él supo obrar y yo escribir, solos los
+dos somos para en uno, a despecho y pesar del escritor fingido y tordesillesco
+que se atrevió o se ha de atrever a escribir con pluma de avestruz gruesa y mal
+deliñada las hazañas de mi valeroso caballero, porque no es carga de sus hombros, ni asunto de su resfriado ingenio: a quien advertirás si acaso llegas a
+conocerle, que deje reposar en la sepultura los cansados y ya podridos huesos
+de don Quijote, y no le quiera llevar, contra todos los fueros de la muerte, a
+Castilla la Vieja, haciéndole salir de la fuesa donde real y verdaderamente yace
+tendido de largo a largo, imposibilitado de hacer tercera jornada y salida nueva:
+que para hacer burla de tantas como hicieron tantos andantes caballeros, bastan las dos que él hizo tan a gusto y beneplácito de las gentes a cuya noticia
+llegaron, así en estos como en los estraños reinos” (II,74,1336-7). Este párrafo
+comienza con un “para mí”, en primera persona, como cuando poco antes usa
+el “quiero decir”. Comenta Pedro Cerezo: “Nunca Cervantes resulta tan presente, y en primera persona como en ese final”23.
+
+23
+P. CEREZO, El Quijote y la aventura de la libertad, Madrid, Biblioteca Nueva, 2016, cap. XVII, “La doble muerte
+de Alonso Quijano”:514.
+
+130
+
+
+
+Esta es la gran creación cervantina. Cervantes se hace eco de algo que
+en su época estaba muy vivo, que una cosa es la “vida biológica” y otra la
+“vida histórica” de las personas y los personajes. Recuérdese la distinción que
+hace Jorge Manrique en sus Coplas entre la vida “temporal perescedera” y la
+“otra vida más larga de la fama gloriosa”24. Ambas son muy distintas. La vida
+biológica es efímera y muere con el sujeto. Los individuos hacen la historia,
+pero lo que pasa a la historia no se identifica con lo que ellos fueron como individuos de carne y hueso, sino con lo que hicieron, con los valores que objetivaron a través de sus acciones y añadieron al acervo colectivo. Pensemos en
+Velázquez. Fue un personaje cuya vida biológica se extendió entre 1599 y 1660,
+una o dos generaciones posterior a Cervantes. En esa última fecha su vida biológica llegó a término; desapareció para no volver más. Lo que ha pasado a la
+historia son sus obras, las cosas que hizo y cómo las hizo, los valores que
+plasmó y objetivó a través de su trabajo, de su obra. Eso entró a formar parte
+de ese depósito objetivo que es la “cultura”, que a partir de ese momento se
+vio enriquecida, muy enriquecida por sus aportaciones. Además de su “vida
+biológica”, que llegó a su término en 1660, Velázquez ha tenido y tiene una
+“vida histórica” propia y distinta, que podemos resumir en aquello que ha aportado a ese depósito objetivo de la sociedad que llamamos cultura. Eso lo hace
+el pintor, y lo hace todo ciudadano que intenta plasmar valores a través de sus
+actos y mediante su trabajo. Tan cultura es lo que llevó a cabo Velázquez pintando como la que hace el labrador labrando.
+Escribiendo el Quijote, Cervantes objetivó valores, añadió valores al
+depósito objetivo de nuestra cultura. Son los valores que le hemos oído describir a Sancho, y que vienen a coincidir con los que expresó en su discurso
+fundacional a los cabreros: deshacer agravios, proteger a pupilos y huérfanos,
+amparar a las viudas y hacer que esta Edad de Hierro se transforme en el menor
+tiempo posible en la Edad de Oro en la que todos los seres humanos puedan
+vivir dignamente y en plenitud su condición de tales. Esto es lo que encarna
+la figura de don Quijote, no la de Alonso Quijano. Al final de la obra, Alonso
+Quijano tiene que morir, y morir además cuerdo, porque el loco, el héroe, no
+es él sino don Quijote de la Mancha. Este no muere, simplemente, porque no
+puede morir. Porque su figura es inmortal.
+
+24
+
+JORGE MANRIQUE, Coplas a la muerte de su padre, XXXV.
+
+131
+
+
+
+

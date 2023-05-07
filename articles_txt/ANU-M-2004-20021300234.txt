@@ -1,0 +1,879 @@
+LA DIGNIDAD DE LA PERSONA Y LOS ENSAYOS
+CLÍNICOS CON MEDICAMENTOS
+Por el Académico de Número
+Excmo. Sr. D. Jesús González Pérez *
+
+I.
+
+INTRODUCCIÓN
+
+El impresionante desarrollo de la farmacología en los últimos años y las
+conquistas logradas en el tratamiento de enfermedades hasta no hacía mucho con­
+sideradas incurables sólo ha sido posible gracias al continuado esfuerzo de unos
+investigadores consagrados a la tarea de mejorar las condiciones de salud, lo que
+ha exigido someter a seres humanos al riesgo de ser objeto de experimentación de
+técnicas terapéuticas y de la aplicación de medicamentos en investigación, unas
+veces angustiados con la esperanza de superar una dolencia y otras con el fin
+altruista de contribuir al avance de la Ciencia.
+La dignidad de la persona y los derechos inviolables a ella inherentes,
+valor primero y absoluto de todo Ordenamiento jurídico, constituye un Emite
+infranqueable a cualquier ensayo clínico. Y, en general, a cualquier «intervención
+en el ámbito de la sanidad, comprendida la «experimentación», como establece el
+artículo 4 del Convenio para la protección de los derechos humanos y la dignidad
+del ser humano, ratificado por España el 1 de septiembre de 1999 (BOE de 20 de
+octubre), llamado Convenio de Oviedo por ser en esta ciudad donde fue inicial­
+mente firmado por 21 países el 4 de abril de 1997 el texto que había aprobado el
+Comité de Ministros del Consejo de Europa el 19 de noviembre de 1996. Al tratar­
+se de conjugar la necesidad de experimentar en seres humanos con la protección
+
+* Sesión del día 9 de marzo de 2004.
+
+213
+
+
+
+de los derechos fundamentales de la persona, se ha sentado como principio que «la
+preocupación por los intereses de la persona investigada prevalezca siempre sobre
+los intereses de la ciencia y de la sociedad». Así la Declaración de Helsinki, adop­
+tada en 1964 por la 18.° Asamblea Médica Mundial —sucesivamente adaptada en
+1975 y 1983— , a la que se remitía el artículo 10.2 del Decreto 561/1993, de 16 de
+abril. Este Decreto (publicado en el BOE de 13 mayo), dictado de acuerdo con la
+Directiva 91/507/CEE, de 19 de julio — que modificaba el anexo a la Directiva
+75/318/CEE de 20 mayo— , en el artículo 10.2, citado dice:
+«Los ensayos clínicos se realizarán en condiciones de respeto a los derechos fun­
+damentales de la persona y a los postulados éticos que afectan a la investigación biomédica con seres humanos, siguiéndose a estos efectos los contenidos en la declaración de Hel­
+sinki».
+
+No era la primera vez que en nuestro Ordenamiento se sancionaban estos
+elementales principios.
+En la Ley 14/1986, General de Sanidad (LGS) (art. 10.1) se consagraba
+como el primero de los derechos que todos tienen con respecto a las Administra­
+ciones públicas sanitarias el «respeto a su personalidad, dignidad humana e intimi­
+dad», que se proyecta en todos los aspectos de la actuación de la Administración
+sanitaria y, por tanto, al realizar los ensayos clínicos, a que se refiere el artícu­
+lo 95.4. La Ley 25/1990, del Medicamento, de 20 de diciembre, en su artículo 60.2,
+contenía casi literalmente la norma que más tarde recogería el artículo 10.2 del
+Decreto 561/1993, antes transcrito. Y se ha reiterado en cuantas disposiciones pos­
+teriores se regulaban actividades que podrían afectar aquellos derechos. Por ejem­
+plo, en el Decreto 1976/1999, de 23 de diciembre, que regula los criterios de radiodiagnóstico, en su artículo 8, bajo la rúbrica «investigación clínica» establece:
+■1. La u tilización d e eq u ip o s d e ray o s X p o r ra z o n e s d e in v estig ació n m é d ica o
+b io m é d ica se ap licarán s ó lo a p e rso n a s q u e h ay an a c e p ta d o vo lu n tariam en te s o m e te rse a las
+m ism as, y h ab rán d e s e r e x p re s a m e n te in form ad os p o r el C o m ité É tico d e In v estig ació n Clí­
+n ica, d e a c u e rd o c o n el Real D e c re to 5 6 1 /1 9 9 3 , d e 1 6 d e abril, so b re req u isitos p a ra la re a ­
+lizació n d e e n sa y o s clín ico s c o n m ed icam en to s.
+2. Las p e rso n a s d e b e rá n s e r in form ad as so b re lo s riesg o s, y c o n sta rá e n el p ro to ­
+c o lo d e co n sen tim ien to in fo rm ad o el ca rá c te r exp erim en tal d e la in v estig ació n q u e utiliza la
+e x p lo ra c ió n c o n ray o s X.
+3. La ev a lu a ció n d e las d o sis recib id as p o r las p e rso n as e n lo s p ro g ra m a s d e in ves­
+tig ació n co n sta rá e n u n in form e escrito».
+
+La regulación española de los ensayos clínicos con medicamentos conte­
+nida básicamente en el título III de la Ley del Medicamento y en el Decreto
+214
+
+
+
+561/1993, de 16 de abril, antes citado, ha sido objeto de importantes modificacio­
+nes impuestas por una nueva Directiva comunitaria, la 2001/20/CE, del Parlamen­
+to Europeo y del Consejo, de 4 de abril de 2001 relativa a la aproximación de las
+disposiciones legales, reglamentarias y administrativas de los Estados miembros
+sobre la aplicación de las buenas prácticas clínicas en la realización de ensayos clí­
+nicos de medicamentos de uso humano. Con la finalidad de adecuar al normativa
+española a esta Directiva, el artículo 125 de la Ley 53/2002, de 30 de diciembre, de
+medidas fiscales, administrativas y del orden social introdujo diversas modificacio­
+nes en el Título III de la Ley del Medicamento. Y, con la misma finalidad — ade­
+más de adecuar la normativa reglamentaria a la Ley 41/2002, de 14 de noviembre,
+básica reguladora de la autonomía del paciente y derechos y obligaciones en mate­
+ria de información y documentación clínica— , se ha aprobado recientemente un
+nuevo Decreto que sustituye al de 1993, el Decreto 223/2004, de 6 de febrero,
+publicado en el BOE de 7 de febrero. Este Decreto, como se dice en su preámbu­
+lo, «viene a incorporar en su totalidad al Ordenamiento jurídico interno la Directi­
+va 2001/20/CE... dotando de nuevo desarrollo reglamentario a la Ley 25/1990, de
+20 de diciembre, del Medicamento, en cuanto a ensayos clínicos se refiere».
+Desde la perspectiva de los derechos fundamentales de la persona, voy a
+examinar la reglamentación de los ensayos clínicos1. Y haré al final una referencia
+a las modificaciones que la Ley 45/2003, de 21 de noviembre introdujo en la Ley
+sobre técnicas de reproducción asistida de 1988.
+
+n.
+LA DIGNIDAD DE LA PERSONA
+Y LOS DERECHOS FUNDAMENTALES
+1.
+
+La dignidad de la p erso n a
+
+La dignidad de la persona constituye el principio básico del Ordenamien­
+to jurídico, el punto de referencia de todas las facultades que se dirigen al recono­
+cimiento y afirmación de la dimensión moral de la persona. Los derechos funda­
+mentales que el artículo 10.2 CE, considera inviolables son inherentes a la dignidad
+de la persona; en ellos se traducen y concretan las facultades que vienen exigidas
+por la dignidad, así como el ámbito que se debe garantizar a la persona para que
+aquella dignidad sea posible. El principio de respeto a la personalidad humana sub­
+
+1
+Como objeto del Derecho administrativo, cfr. M.a V ictoria D ios V ieitez , «Ensayos clínicos
+con medicamentos: cuestiones jurídico-administrativas», Revista ju ríd ic a d e N avarra, número 17 (enerojunio 1994), págs. 37 y sigs.
+
+215
+
+
+
+yace bajo todos los derechos fundamentales. En todos y cada uno de los derechos
+se proyecta la dignidad. Y no sólo en los derechos que la Constitución califica de
+fundamentales (en la rúbrica de la Sección primera del Capítulo segundo del Títu­
+lo I y que gozan de la protección judicial de amparo, según el artículo 53-2 CE),
+sino de los demás derechos que la Constitución consagra en los artículos siguien­
+tes llamados derechos sociales2.
+El hombre, en cuanto hombre participa en la dignidad de la persona. En
+consecuencia, no es concebible que alguno de los derechos fundamentales sólo se
+reconozcan a hombres en que concurran determinadas condiciones. El reconoci­
+miento y una eficaz tutela de estos derechos fundamentales constituyen elemental
+garantía de la dignidad de la persona. Sólo si un Ordenamiento arbitra medidas que
+permitan la plena realización de unos derechos, es un Ordenamiento en el que está
+garantizada la dignidad.
+
+2.
+
+La p erso n a, su jeto y n o ob jeto de d erech o
+
+La esencia y fundamento de la dignidad humana, la superioridad del hom­
+bre sobre todo lo creado le confiere sustancialmente la condición de sujeto de Dere­
+cho. El hombre debe ser persona en sentido jurídico. Es imposible que pueda no
+serlo3. Repugna a la naturaleza humana que pueda ser objeto de derecho. Aunque,
+como constata Juan Pablo II, en la E xhortación A postólica F am iliaris consortio, des­
+graciadamente persiste la mentalidad que considera al ser humano, no como perso­
+na, sino como cosa, como objeto de compraventa, al servicio del interés egoísta y
+del solo placer.
+Fueron estas elementales consideraciones las que condujeron a criticar una
+normativa que permitía utilizar a los pacientes de la Beneficencia provincial «para
+la enseñanza clínica dada por el personal de la Facultad» (art. 5.°, Decreto 27 ene­
+ro 1941). Norma que no se aplicaba a los beneficiarios del Seguro de Enfermedad,
+por así disponerlo expresamente un Decreto de 12 de abril de 1946: «Ningún bene­
+ficiario de Seguro de Enfermedad — decía su artículo 7.°— podrá ser utilizado, sin
+
+2 Me remito a mi trabajo La d ig n id ad d e la p erson a, Civitas, 1986, págs. 94 y sigs. La digni­
+dad de la persona como valor absoluto ha sido reiterado por todos. Cfr. F ernández S egado , «Dignidad
+de la persona, orden valorativo y derechos fundamentales en la Constitución 1978», en La d ig n id ad d e
+la p erson a. Jo m a d a s ch ilen as d e D erecho p ú blico, Universidad de Valparaíso, 1995, II, pág. 37; A legre
+M artínez, La d ig n id ad d e la p erson a, León, 1996, págs. 40 y sigs.
+3 Legaz Lacambra, «La noción jurídica de la persona humana y los derechos del hombre-,
+Revista d e E stados P olíticos, número 55, págs. 20 y sigs.
+
+216
+
+
+
+su consentimiento previo, para exhibiciones o demostraciones clínicas, ni en con­
+tra de su voluntad, para intervenciones o como material de enseñanza». Pero dado
+el ámbito de aplicación del Decreto quedaba fuera del mismo y, por tanto, podía
+ser «utilizado... como m aterial de enseñanza al acogido a la Beneficencia». «No
+podía ser más grave —se dijo— ni más paradójico esta contraprestación a un ser­
+vicio público gratuito por esencia como es la Beneficencia pública»4.
+El hombre no puede ser objeto de Derecho. El hombre sólo puede ser
+sujeto. De aquí que sólo él como persona podrá por su libre voluntad someterse a
+ensayos clínicos. Y así se consagra solemnemente en la Ley del Medicamento, al
+sentar los postulados éticos que debe respetar todo ensayo clínico y establecer que
+«deberá disponerse de consentimiento libremente expresado» (art. 60.4). Y el artícu­
+lo 3.2 del Decreto 223/2004, reitera el principio. Asimismo la Ley 282/1988, sobre
+técnicas de reproducción asistida, después de la modificación introducida por la ley
+45/2003, de 21 de noviembre, exige el consentimiento de las parejas progenitoras,
+o la mujer en su caso para que las estructuras objetivas en el momento de des­
+congelación de los preembriones puedan ser utilizados con fines de investigación
+(DF primera de la Ley 45/2003).
+De este modo, al igual que en el ámbito concreto de algunos derechos
+fundamentales5, constituye pieza esencial el principio del consentimiento del afec­
+tado.
+Pero el consentimiento no basta por sí solo para que queden respetados
+los derechos fundamentales. Es, ciertamente, condición imprescindible. Y en cuan­
+to pueda afectar a derechos inviolables e irrenunciables, se ha planteado en qué
+medida y con qué límites es lícito un ensayo clínico. Por lo que han de tenerse en
+cuenta determinados derechos fundamentales, en especial el derecho a la vida e
+integridad física (que consagra el art. 15 CE) y el derecho a la intimidad personal
+(que garantiza el art. 18 CE). Sin llegar a descender a las exigencias de estos dere­
+chos fundamentales, es la dignidad de la persona, la condición humana, la que mar­
+ca límites a la disponibilidad sobre el cuerpo humano.
+Por supuesto, la dignidad de la persona resulta incompatible con cual­
+quier ensayo clínico que suponga olvido de la condición humana, en relación
+
+4 M uñoz M achado , «El secreto médico*, Revista d e A dm inistración p ú b lica , número 79,
+
+pág. 177.
+5 Castells, «Derecho a la privacidad y procesos informáticos: análisis de la LO 5/1992, de 29
+de octubre (LORTAD)*, en el C u adern o d e D erecho Ju d ic ia l d ed ica d o a •Libertades p ú b lica s y D erecho
+adm in istrativo*, 1994, págs. 199 y sigs.
+
+217
+
+
+
+con las personas implicadas, con el lugar en que han de realizarse y en la forma
+de realizarse. No puede olvidarse que se está operando sobre un hombre, sobre
+una persona. No se opera sobre un objeto material o animal. Se está realizando
+un ensayo en una persona, sana o enferma, después de haber otorgado libre­
+mente su consentimiento. Desde el momento en que comienzan las operaciones
+preparatorias hasta que termina el ensayo, debe observarse el más escrupuloso
+trato, al igual que el que ha de otorgarse a cualquier paciente de un centro hos­
+pitalario.
+La dignidad de la persona excluye en absoluto que pueda ser objeto de
+derecho el cuerpo humano en su totalidad, con la salvedad de la entrega total que
+supone el matrimonio, atribuyendo a los cónyuges un ius in corpus exclusivo
+(Exhortación apostólica F am iliaris consortio, segunda parte, II, párrafo quinto). Más
+la dignidad de la persona no excluye la posibilidad dentro de ciertos límites y para
+determinados fines, de disponer de órganos del cuerpo vivo. Como decía en mi tra­
+bajo La d ig n id ad d e la p erso n a 67«si en modo alguno repugna y hasta es digna de
+admiración la donación altruista por razones humanitarias de un órgano, la con­
+ciencia colectiva reprobaría que el mismo fuera objeto de un contrato oneroso, por
+mucha que fuese la necesidad del que había de recibir el órgano y mucha la indi­
+gencia económica del que estuviera dispuesto a sufrir la mutilación», como por des­
+gracia ocurre, dando lugar a un tráfico internacional de órganos, tal y como seña­
+lé en mi comunicación del pasado curso1.
+En análogos términos se plantea el problema en orden al consentimiento
+para someterse a ensayos clínicos ¿Hasta qué punto es lícito el tráfico jurídico? ¿Has­
+ta qué punto se da la libertad omnímoda del hombre para prestarse a los ensayos,
+cualquiera que sean las circunstancias que concurran?
+La respuesta a estas cuestiones ha de hacerse en función de los dos dere­
+chos fundamentales antes mencionados, por su especial incidencia en el consenti­
+miento con el objeto específico de los ensayos clínicos.
+
+6 Cit. pág. 123.
+7 En «De la Eficacia al Derecho en la reglamentación de la actividad económica», en A nales,
+Año LV, núm. 80, 2003, págs. 445 y sigs. Sobre el problema en general, Latour B rotons , «El cuerpo
+humano como objeto del derecho», R evista G en eral d e L egislación y Ju risp ru d en cia, 199 5 ,1, págs. 162 y
+sigs.; B adenes G asset , «Los derechos del hombre sobre el propio cuerpo», en la misma Revista, 1957, II,
+págs. 713 y sigs.
+
+218
+
+
+
+3.
+
+a)
+
+El derecho a la vida y a la Integridad personal
+
+El d erech o a la vida.
+
+El derecho a la vida y a la integridad personal que consagra el artículo 15
+CE, tiene el sentido de una garantía frente al Estado, que obliga a éste a respetar y
+proteger la vida de «todos». Pero no tiene el sentido de reconocer a la persona la
+facultad de disponer libremente de su propia vida de tal manera que pueda con­
+sentir válidamente su muerte8. Y así lo ha reconocido el Tribunal Constitucional en
+su jurisprudencia, que resume la STC 11/1991, de 17 de enero, reiterado la SSTC
+120/1990 y 137/1990, jurisprudencia dictada especialmente en orden a los límites
+de la huelga de hambre y correlativas potestades de los órganos de la Administra­
+ción penitenciaria del Estado, sobre la alimentación obligatoria.
+
+b)
+
+D isposición d e la p rop ia vida
+
+La STC 11/1991 afirma que «siendo la vida un bien de la persona que se
+integra en el círculo de su libertad, puede disponer de su propia muerte». Ahora
+bien, es necesario seguir lo establecido en la sentencia, a fin de delimitar el ámbi­
+to de esa libertad de la persona. Y del texto de los Fundamentos jurídicos 2, 3 y 4
+pueden sentarse las siguientes conclusiones de validez general o, al menos, en
+orden a la cuestión concreta que aquí se plantea. Estas conclusiones son:
+1.
+a) Que el derecho a la vida no supone la disponibilidad de causar la
+muerte. En el supuesto a que se refieren la sentencia — huelga de hambre— no se
+pone en tela de juicio la licitud de la actitud de los sujetos «puesto que el riesgo de
+perder la vida que han asumido no tien e p o r fin a lid a d cau sarse la m uerte».
+2.
+a) Que en el supuesto de que la vida del recluso en huelga de hambre
+corriese peligro, sería compatible con la Constitución la alimentación forzosa. «Has­
+ta que la vida no corra peligro grave debe prevalecer el derecho a que hace refe­
+rencia el artículo 15 CE, tal y como implícitamente reconoce el artículo 10 de la Ley
+de Sanidad, pero desde el momento en que se coloca en una situación de peligro
+de muerte, objetivamente evidenciable, debe prevalecer el derecho a la vida». Lo
+que obliga a una ponderación de las circunstancias concurrentes, dependiendo la
+decisión de un juicio de proporcionalidad.
+
+8
+
+R odríguez M ourullo , «Comentario al artículo 15», en A lzaga (dir.), C om én tan os a la CE
+
+Madrid, 1984, II, pág. 314.
+
+219
+
+
+
+c)
+
+Licitud del consentim iento a someterse a u n ensayo clínico
+
+Someterse a un ensayo clínico con medicamentos o productos en fase de
+investigación clínica conlleva siempre un riesgo, más o menos grave. Precisamen­
+te, el ensayo clínico tiene por finalidad verificar la eficacia curativa del medica­
+mento, así como sus efectos secundarios nocivos, antes de que las autoridades sani­
+tarias autoricen su dispensación, libremente o con receta médica. El artículo 2,
+apartado a), del Decreto 223/2004 define el ensayo clínico como «toda investiga­
+ción efectuada en seres humanos para determinar o confirmar los efectos clínicos
+farmacológicos y/o demás efectos farmacológicos, y/o detectar las reacciones
+adversas y/o de estudiar la absorción, distribución, metabolismo y excreción de
+varios medicamentos en investigación, con el fin de determinar su seguridad y/o
+eficacia». El apartado d ) del mismo artículo, considera medicamento en investiga­
+ción toda «forma farmacéutica de una sustancia activa o placebo que se investiga o
+se utiliza como referencia en un ensayo clínico, incluidos los productos con auto­
+rización de comercialización cuando se utilicen o combinen (en la formulación o
+en el envase) de forma diferente a la autorizada, o cuando se utilicen para tratar
+una indicación no autorizada o para obtener más información sobre un uso autori­
+zado». Y el apartado o), del mismo artículo 2, admite que lo que llama «aconteci­
+miento adverso» pueda ser «grave», cuando «produzca la muerte, amenace la vida
+del sujeto, haga necesaria la hospitalización o la prolongación de ésta, produzca
+invalidez o incapacidad permanente o importante, o dé lugar a una anomalía o mal­
+formación congénita». De aquí que sea requisito previo a la autorización del ensa­
+yo concertar un seguro que cubra los daños y perjuicios que puedan resultar de él
+(art. 8 Decreto 223/2004), seguro que sólo se excluye cuando el ensayo se refiere
+a medicamentos autorizados en España, su utilización se ajuste a condiciones de
+uso autorizadas y el Comité Etico de Investigación Clínica considere que las inter­
+venciones a las que serán sometidos los sujetos suponen un riesgo equivalente o
+inferior al que correspondería a su atención en la práctica clínica habitual.
+El problema está en qué medida es admisible el riesgo, hasta qué punto
+es lícito someterse al riesgo de perder la vida o la integridad física. El artículo 60.1
+LMed, utiliza una expresión sumamente vaga, al decir: «no podrá iniciarse ningún
+ensayo clínico en tanto no se disponga de suficientes datos científicos y en parti­
+cular, ensayos farmacológicos y toxicológicos en animales, que garanticen que los
+riesgos que implica en la persona en que se realice son admisibles». Norma que rei­
+tera el artículo 3-3.ri) del Decreto 223/2004.
+¿Cuando son admisibles?
+
+220
+
+
+
+Como se ha señalado, resulta imposible eliminar el riesgo. Éste va unido
+a la naturaleza misma de la investigación. Pues «sólo se podrá iniciar un ensayo clí­
+nico, si existe duda razonable acerca de la eficacia y seg u rid ad de las modificacio­
+nes terapéuticas que incluye» (art. 60.3 LMed). Riesgo que ha de ser mínimo cuan­
+do el ensayo no suponga beneficio potencial para la salud del sujeto participante
+y éste sea menor o incapacitado. Pero incluso en estos supuestos el riesgo existe.
+Será mínimo, pero no se elimina.
+Cuando lo que se somete al ensayo es una mujer gestante o en período
+de lactancia sin beneficio potencial directo, el Decreto exige que «el Comité Etico
+de Investigación Clínica concluya que no supone ningún riesgo previsible para su
+salud ni para la del feto o niño». Al establecerse esta norma, precisamente en este
+supuesto especialmente, es porque en los demás se admite que el riesgo sea pre­
+visible. Lo que ha de interpretarse en sentido sumamente estricto. Parece que la
+regla general ha de ser que de «los ensayos farmacológicos y toxicológicos en ani­
+males» no se prevea riesgo en que sea sometido en ser humano. El riesgo existirá;
+pero no debe ser previsible. Sólo será posible apartarse de ella y, siendo previsible
+el riesgo, realizarse el ensayo clínico en razón a la importancia del avance que pre­
+visiblemente suponga en el conocimiento científico sobre el ser humano y mejora
+en el estado de salud.
+La relación entre riesgo y el avance aparece a lo largo de toda la regula­
+ción: en el supuesto general se habla de que «la información buscada suponga, pre­
+visiblemente, un avance» [art. 53.b)]\ cuando el sujeto sea un menor o incapacita­
+do que «la investigación guarde relación directa con alguna enfermedad que
+padezca» [arts. 4 .a) y 5.a)]- cuando se someta a estos sujetos a un ensayo clínico
+sin beneficio directo para su salud, es necesario que se puedan «obtener con oci­
+m ientos relevantes sobre la enfermedad o situación objeto de investigación, de vital
+im portan cia p a r a en tenderla, p a lia rla o cu rarla» [art. 6.2.c)].
+El artículo 3-3-c) del Decreto, que es el que establece los postulados éti­
+cos, es concluyente. Sólo se podrá realizar un ensayo clínico, cuando, además de
+cumplirse los demás requisitos «los riesgos e inconvenientes previsibles para los
+sujetos del ensayo se hayan ponderado con respeto a los beneficios previsibles para
+cada sujeto del ensayo y futuros pacientes».
+Aquí radica el criterio básico para calificar la admisibilidad de los riesgos.
+Si admiración y no reproches merece la aptitud heroica de quien arriesga
+su vida —y hasta la sacrifica— para salvar a un semejante en situación de peligro,
+221
+
+
+
+¿por qué va a negarse la posibilidad de someterse a un ensayo clínico con un medi­
+camento que se espera sea remedio de una de las graves dolencias que azotan a la
+humanidad por grande que sea el riesgo que va a correr? ¿O a los enfermos que ya
+padecen la enfermedad someterse a un ensayo clínico arriesgado que, además,
+pueda constituir tratamiento del que espera la salvación? Si en éstos el riesgo resul­
+ta compensado por el beneficio directo para su salud, en aquéllos el riesgo estará
+justificado «en razón del beneficio esperado para la colectividad» (artículo 6.1
+Decreto 223/2004).
+
+4.
+
+a)
+
+E l d erech o a la intim id ad p erso n al
+
+El d erech o a la in tim idad
+
+El otro derecho fundamental que puede resultar afectado por el ensayo clí­
+nico es el derecho a la intimidad, que garantiza el artículo 18 CE, y que en el ámbi­
+to de las Administraciones públicas sanitarias reconoce el artículo 10.2 LGS. Según
+este artículo todos tienen derecho -a la confidencialidad de toda información rela­
+cionada con su proceso y con su estancia en instituciones sanitarias públicas y pri­
+vadas que colaboren con el sistema público», y, por tanto, cuando sea objeto de
+ensayos clínicos, a que se refiere el artículo 95.4 de la misma ley.
+Si respecto del derecho al honor — que garantiza el art. 18 CE, con el dere­
+cho a la intimidad— se ha puesto en tela de juicio la admisión de la disponibili­
+dad, no parece dudoso que pueda ser objeto de tráfico el derecho a la intimidad
+—y a la propia imagen, que es otro de los derechos garantizados en el mismo
+artículo constitucional— 9. El artículo 2.°2 LO 1/1982, establece que «no se aprecia­
+rá la existencia de intromisión ilegítima en el ámbito protegido cuando estuviese
+expresamente autorizado por Ley o cuando el titular del derecho hubiese otorgado
+al efecto su consentimiento expreso».
+El consentimiento a que se refiere el artículo 60.4, 5 LMed y el artículo 7
+Decreto 223/2004 lo es para poder ser incluido en un ensayo clínico. Este consen­
+timiento se limita a este objeto específico, sin que suponga una renuncia del dere­
+cho consagrado en el artículo 10.2 LGS. Consiguiente, el artículo 38.3 del Decreto
+223/2004, establece que «se mantendrá en todo momento el anonimato de los suje­
+
+9
+Cfr., por ejemplo, V idal M artínez, El d erech o a la in tim id ad en la LO d e 5 d e m ayo d e 1982,
+Madrid, 1984, págs. 55 y sigs.; E strada A lonso, El d erech o a l h on or en la LO 1/1982, d e 5 d e m ayo, Civitas, 1989, págs. 80 y sigs.
+222
+
+
+
+tos participantes en el ensayo». Por lo que para que pueda facilitarse información
+del ensayo clínico con indicación de los datos personales, se requerirá consenti­
+miento expreso con esta finalidad. Consentimiento que no será necesario cuando
+se utilice el resultado del ensayo sin que se haga referencia a las circunstancias per­
+sonales de los sujetos del mismo.
+En atención al derecho a la protección a la salud, el artículo 6 l LGS pre­
+vé la posibilidad de utilizar la historia clínico-sanitaria de cada paciente. Teniendo
+en cuenta la finalidad de lo ensayos clínicos, una vez consentidos, sin necesidad de
+un nuevo acuerdo del sujeto del ensayo, podrán ser utilizados en la medida en que
+así lo exija la investigación a que iban dirigidos y para ulteriores investigaciones.
+
+b)
+
+El d erech o a la in tim id ad y el tratam iento au torizad o d e los datos
+
+Si, como se ha indicado, los datos resultantes de los ensayos, sin referen­
+cia alguna al sujeto, pueden ser libremente utilizados, en cuanto reflejo de los per­
+sonales, su tratamiento automatizado estará sometido a la normativa dictada en
+desarrollo del artículo 18.4 CE, concretamente, la LO 15/1999, de 13 de diciembre
+(LORTAD) orgánica del tratamiento automatizado de datos de carácter personal
+(art. 3.6 Decreto 223/2004).
+Ahora bien, al proyectarse en el ámbito sanitario esta normativa que trata
+de armonizar los principios de transparencia y secreto, ofrece matices propios 101.
+Pues de una parte, el derecho a la protección de la salud crea entre la Administra­
+ción y los ciudadanos obligaciones de información reciproca, y de otra, cada ciu­
+dadano tiene derecho a conocer su propio estado de salud y también derecho a
+que no lo conozcan los demás o, al menos, a que no lo conozcan a través de la
+información que la Administración sanitaria posee11.
+El artículo 11.1 LOTARD establece dos requisitos para la validez de la
+comunicación y cesión de datos a terceros: que responda al cumplimiento de los
+fines directamente relacionados con las funciones legítimas del cedente y del cesio­
+nario y el previo consentimiento del interesado. Este último requisito constará
+
+10 P omed SAnchez, «La intimidad de las personas como límite al derecho de acceso a la docu­
+mentación administrativa-, en La p rotección ju ríd ica d el ciu d ad an o, E studios en h om en aje a l p ro feso r
+Jesú s G on zález P érez, Civitas, 1 9 9 3 ,1, págs. 769 y sigs.
+11 Así, F. Sainz M oreno , Secreto e in form ación en e l D erecho p ú b lico, en el libro homenaje a
+Eduardo García de Enterría, Civitas, 1991, III, pág. 2917.
+
+223
+
+
+
+expresamente en el consentimiento informado (art. 3-6.D). Pero ha de darse tam­
+bién el primero. Es necesario que los datos sean cedidos para la consecución de
+finalidades relacionadas con los fines del cedente y del cesionario, que se efectúe
+en el contexto de las funciones propias, específicas y típicas de uno y otro12. Pre­
+cisamente por la finalidad del ensayo clínico y relevancia para la salud, la publica­
+ción de los resultados, sean positivos o negativos, viene impuesta al promotor,
+manteniendo en todo momento el anonimato de los sujetos participantes del ensa­
+yo. Según el artículo 38.4.D, se comunicará preferentemente en publicaciones cien­
+tíficas antes de ser divulgados al público no sanitario, evitándose se den a conocer
+de modo prematuro o sensacionalista tratamientos de eficacia no determinada y las
+exigencias de éstos.
+Y se responsabiliza a la Agencia Española de Medicamentos y Productos
+Sanitarios de: la inclusión en la base de datos europea de ensayos clínicos
+EUDRACT de los relativos a los que se realicen en el territorio nacional; mantener­
+la actualizada, y poner a disposición de los ciudadanos a través de su página web
+información referente al título del ensayo, promotor, centros implicados, patología
+y población en estudio de los ensayos clínicos autorizados. Así lo dispone el artícu­
+lo 41, que en el apartado 3, último párrafo, establece: «se considerará que no exis­
+te oposición, por parte del promotor del ensayo, a la publicación de los datos antes
+indicados de los ensayos promovidos por él, siempre que no se haga indicación
+expresa en su contra en la solicitud de autorización del ensayo clínico dirigida a la
+Agencia Española de Medicamentos y Productos Sanitarios».
+
+5.
+
+G arantías
+
+El régimen jurídico a que se somete la realización de los ensayos clínicos
+trata de garantizar el respeto de los derechos humanos y la dignidad de la persona
+respecto a la aplicación de la biología y la medicina reflejados en la Declaración de
+Helsinki y en el Convenio de Oviedo. Así lo señala el preámbulo. A tal efecto exi­
+ge el dictamen favorable del Comité Etico de Investigación Clínica — que realizará
+un seguimiento del ensayo hasta su recepción final— (arts. 15 y 10 del Decreto
+223/2004), autorización de la Agencia Española de Medicamentos y productos sani­
+tarios (arts. 20 a 23, Decreto 223/2004) y realizase de acuerdo con las normas de
+buena práctica clínica (art. 34, Decreto 223/2004), imponiéndose a los investigado­
+res unas normas severas de vigilancia de la seguridad (arts. 42 a 47).
+
+12 V izcaíno Calderón, C om entarios a la LOTARD, Civitas, 2001, págs. 158 y sigs.
+
+224
+
+
+
+m.
+
+EL CONSENTIMIENTO EXPRESO DE LOS SUJETOS DEL ENSAYO
+1.
+
+E l req u isito del co n sen tim ien to in form ad o
+
+La Carta de los derechos fundamentales de la Unión europea, al regular el
+derecho a la integridad de la persona en su artículo 3, en el apartado 2 dispone
+que «en el marco de la medicina y la biología se respetarán en particular:
+— el consentimiento libre e informado de la persona de que se trate, de
+acuerdo con las modalidades establecida en la Ley,
+— la prohibición de que el cuerpo humano o partes del mismo en cuan­
+to tales, se convierten en objeto de lucro».
+Estamos, por tanto, ante un auténtico derecho, «derecho — como dice una
+sentencia de la Sala 1.a del Tribunal Supremo de 12 de enero de 2001 —Arz. 3— a
+decidir por sí mismo a lo atinente a la propia persona y la propia vida y... a la autodisposición sobre el propio cuerpo». Al tema dedicó Manuel Alonso Olea su última
+intervención en la Academia de Jurisprudencia y Legislación13.
+El consentimiento informado para someterse a un ensayo clínico ofrece
+claras diferencias con el consentimiento para someterse a un tratamiento médico o
+quirúrgico, sobre todo cuando se trata de ensayos sin beneficio directo para la
+salud del sujeto. Pero en todo caso es proyección de un mismo derecho funda­
+mental, por lo que son análogas algunas de las cuestiones jurídicas que plantea.
+En los ensayos sin beneficio directo para la salud, aunque se excluye por
+ser contrario a la dignidad de la persona cualquier beneficio económico, al preverse
+una «compensación por las molestias sufridas» habrá de controlarse su importe, con
+las limitaciones que se establecen. Se trata de evitar que el sujeto participe por
+motivos distintos del interés por el avance científico: la cuantía de la compensación
+pactada estará en relación con las características del ensayo, sin que sea tan eleva­
+da para inducir al sujeto a participar (art. 3-8.D).
+Sólo se exime el requisito del consentimiento informado cuando el ensa­
+yo tenga un interés específico para la población en la que se realiza la investiga­
+ción y lo justifiquen razones de necesidad en la administración del medicamento
+de investigación, en los siguientes casos (art. 7.4 D. 223/04):
+
+13 El con sen tim ien to in form ad o en m ed icin a y ciru g ía, publicado además de en los A n ales
+de la Academia, en RAP, núm. 155, págs. 7 y sigs.
+
+225
+
+
+
+-a) Si existe un riesgo inmediato grave para la integridad física o psíquica del
+sujeto, se carece de una alternativa terapéutica apropiada en la práctica clínica y no es posi­
+ble obtener su consentimiento o el de su representante legal. En este caso, siempre que las
+circunstancias lo permitan, se consultará previamente a las personas vinculadas a él por razo­
+nes familiares o de hecho.
+b) Si el sujeto no es capaz para tomar decisiones debido a su estado físico o psí­
+quico y carece de representante legal. En este caso, el consentimiento lo prestarán las per­
+sonas vinculadas a él por razones familiares o de hecho».
+En los demás casos, se exigirá el consentimiento, que podrá ser revocado
+en cualquier momento sin expresión de causa (art. 7.5.D 223/2004).
+
+2.
+
+Sujetos
+
+Se establece una distinción fundamental, según que del ensayo derive o
+no beneficio potencial directo para la salud del sujeto participante.
+
+a)
+
+Ensayo con ben eficio p oten cia l directo
+
+En cuanto el sujeto sufre una enfermedad, el consentimiento informado
+viene a regirse por las normas de capacidad generales, aplicables a los tratamien­
+tos médicos o quirúrgicos. Cabe, no obstante, según el artículo 7 del D, hacer refe­
+rencia al menor de edad y al incapacitado. El Decreto sobre ensayos clínicos se
+aparta del régimen general contenido en la Ley 41/2002 de autonomía del pacien­
+te, que también desarrolla.
+
+a’)
+
+M enor d e ed a d
+
+Si es menor de edad, en principio, deberán prestar el consentimiento los
+padres o representantes legales, reflejando la presunta voluntad del menor, y cuan­
+do éste tenga doce o más años, prestará su consentimiento, estableciéndose las
+siguientes garantías [art. 7.3.a)]:•
+• Que el menor recibirá de personal que cuente con experiencia en el tra­
+to de menores, una información sobre el ensayo, los riesgos y los beneficios, ade­
+cuada a su capacidad de entendimiento.
+
+226
+
+
+
+• Que el investigador aceptará el deseo explícito del menor de negarse a
+participar o retirarse, en cualquier momento.
+• Que el promotor pondrá en conocimiento del Ministerio Fiscal las auto­
+rizaciones de los ensayos clínicos que incluyan menores.
+Mientras en consentimiento para el tratamiento médico o quirúrgico, se
+distinguen los siguientes supuestos:
+• Menor de doce años no capaz de comprender el alcance de la inter­
+vención: presta su consentimiento el representante.
+•Menor entre doce y dieciséis años no capaz de comprender intelectual
+ni emocionalmente el alcance: representante legal después de haber escuchado al
+menor.
+• Menor mayor de dieciséis años o emancipado: consentimiento en todo
+caso del menor; si la actuación es de grave riesgo se informará a los padres y su
+opinión será tenida en cuenta.
+
+b’)
+
+In cap acitad os
+
+Si el sujeto es un adulto sin capacidad para otorgar su consentimiento
+informado, se adoptan garantías análogas (art. 7), en cuanto que:
+• El consentimiento del representante, tras haber sido informado sobre
+los posibles riesgos, incomodidad y beneficios del ensayo, debe reflejar la presun­
+ta voluntad del sujeto.
+• Y cuando las condiciones de éste lo permitan deberá además prestar su
+consentimiento.
+
+b)
+
+Ensayo sin ben eficio p oten cia l directo p a r a la salu d
+
+Cuando del sometimiento al ensayo no se prevé la posibilidad de un bene­
+ficio directo para la salud del sujeto, y, como dice el artículo 6.1 del Decreto, el
+riesgo asumido sólo se justifica -en razón del beneficio esperado para la colectivi­
+dad», ¿resulta compatible con los principios fundamentales, admitir la sumisión de
+un menor o incapacitado, por muy «presunta» que sea su voluntad? .
+
+227
+
+
+
+Existe una norma especial para el supuesto de que el sujeto sea una mujer
+gestante o en período de lactancia: que el Comité Etico de Investigación Clínica
+concluya que (art. 6.3 D. 223/2004):
+•Que no suponga ningún riesgo previsible para la salud de la mujer ni
+para el feto o niño.
+•Que se obtendrían beneficios útiles y relevantes sobre el embarazo o la
+lactancia.
+Asimismo existen normas especiales cuando se trata de menores e inca­
+pacitados. Pero, ¿constituyen garantías suficientes? Porque las garantías se concre­
+tan en el cumplimiento los siguientes requisitos (6.2):
+• «Que se adopten las medidas necesarias para garantizar que el riesgo
+sea mínimo». Como antes se señaló, en general, se exige que «los riesgos que
+implica el ensayo en la persona sean adm isibles» [art. 3-3a)\, y cuando el sujeto es
+la mujer gestante o en período de lactancia, que no suponga ningún riesgo p rev i­
+sible. Si es un menor o incapacitado, que sea m ínim o. Pero ¿qué se entiende por
+mínimo?
+• Que las intervenciones a que van a ser sometidos «son equiparables a
+los que corresponden a la práctica médica habitual en función de su situación
+médica, psicológica o social», concepto jurídicamente indeterminado, con las impre­
+cisiones que ello conlleva.
+• Que del ensayo se puedan obtener conocimientos relevantes sobre la
+enfermedad o situación objeto de investigación, de vital im portan cia p a r a en ten ­
+derla, p a lia rla o cu rarla. No basta un avance en el conocimiento científico sobre
+el ser humano o para mejorar su estado de salud, lo que justifica la experiencia
+sobre menor o incapacitado es la previsión de conocimientos «relevantes», «de vital
+importancia». Y, además, que «no pueden ser obtenidos de otro modo». No tendría
+sentido acudir al sometimiento de una persona discapacitada, siempre que se
+pudiera obtener los mismos resultados si el sujeto fuese una persona con capaci­
+dad plena para decidir voluntariamente correr el riesgo en beneficio de la humani­
+dad.
+• Y, por último, que existan garantías sobre la correcta obtención del con­
+sentimiento informado. Pero, por mucho que se extremen estas garantías, ¿cómo
+puede llegarse a la convicción de que un menor de doce años llega a tener pleno
+conocimiento de los riesgos para decidir altruistamente que está dispuesto a sacri­
+ficarse por el bien de la humanidad? Y, aunque tenga doce años, ¿en qué es fiable
+228
+
+
+
+el consentimiento expreso? Aun cuando personas con experiencia en el trato con
+menores le explique en términos adecuados a su capacidad de entendimiento a qué
+se le va a someter y qué es lo que se va a conseguir, ¿puede hablarse de voluntad,
+sea presunta o expresa? Porque en el supuesto de menores de doce años, lo que
+se obtiene es el consentimiento del representante, que «deberá reflejar la presunta
+del menor».
+Análogas conclusiones podría hacer sobre el incapacitado, en cuyo caso
+habría que estarse siempre a los límites de la capacidad establecidos en la senten­
+cia de incapacitación (art. 199 Ce).
+Una norma que trata de evitar la posible explotación de estos sujetos, es
+la que establece el artículo 3-8, párrafo tercero, al disponer que «no se producirá
+ninguna compensación económica por parte del promotor, a excepción del reinte­
+gro de los gastos extraordinarios y pérdidas de productividad que se deriven de la
+participación del sujeto en el ensayo». Queda excluido, por tanto, la «compensación
+pactada por las molestias sufridas», que se prevé en los ensayos sin beneficiario
+potencial respecto de los demás sujetos.
+
+3.
+
+a)
+
+O bjeto
+
+C ontenido d e la in form ación
+
+Si el consentimiento informado en medicina y cirugía presupone una
+información completa, que incluye el diagnóstico, pronóstico y alternativas de tra­
+tamiento, que comprende su naturaleza, extensión, urgencia y riesgos, la informa­
+ción previa al sometimiento a un ensayo clínico se extiende a los extremos siguien­
+tes (art. 7.2):•
+• Objetivos del ensayo. Uno de los documentos que han de acompañar
+a la solicitud de la autorización es el protocolo [art. 16.2.a)], en el que se describi­
+rán los objetivos, el diseño, la metodología, las consideraciones estadísticas y la
+organización del ensayo. Pues bien, en todos estos aspectos debe ser informado el
+sujeto «en términos claros y comprensibles».
+• Riesgos e inconvenientes. Uno de los postulados éticos de todo ensayo
+clínico es que se disponga de datos científicos suficientes y ensayos farmacológi­
+cos y toxicólogos y análisis que garanticen que los riesgos son asumibles
+[art. 3-3.a)\, que habrá que reflejar en la documentación del expediente sobre la que
+recaerá la autorización [art. 17.1 ,d)\. De estos riesgos e inconvenientes debe ser
+informado el sujeto con detalle.
+229
+
+
+
+• Condiciones en que ha de llevarse a cabo, es otra de las informaciones
+detalladas previas.
+• Y se la informará del derecho a retirarse del ensayo en cualquier
+momento. Por lo relevante de esta información deberá figurar en la hoja de infor­
+mación que será entregada al sujeto (art. 7.2).
+
+b)
+
+C om pensación econ óm ica
+
+Aunque no es objeto del consentimiento informado, sí ha de perfeccio­
+narse el convenio sobre la compensación económica de los ensayos sin beneficio
+potencial directo.
+
+4.
+
+F o rm a
+
+Se exige para la validez del consentimiento que, previamente se realice
+una entrevista del sujeto con el investigador o un miembro del equipo, sobre los
+extremos antes indicados, en la que se contestará a las cuestiones que aquél plan­
+tee, aclarándole cuantas dudas le ofrezca la realización del ensayo. Y el consenti­
+miento se documentará mediante la hoja de información a que antes me refería y
+el documento de consentimiento (art. 7.2), que será uno de los que deberán acom­
+pañar a la solicitud de autorización [art. 1 6 .2 .c)].
+En el supuesto de menores e incapacitados se tendrán en cuenta las espe­
+cialidades señaladas.IV
+.
+
+IV.
+1.
+
+INVESTIGACIÓN CON CÉLULAS MADRES EMBRIONARIAS
+
+Las célu las m ad res em b rion arias co m o ob jeto de in vestigación
+
+Aunque la investigación sobre células procedentes de embriones no cons­
+tituye un ensayo clínico de medicamentos, que es el objeto de mi intervención de
+hoy, es indudable la relación entre uno y otra, como vías de la Ciencia para mejo­
+rar las condiciones de salud, planteando las mismas o muy análogas cuestiones éti­
+cas. Por lo que me voy a permitir hacer referencia a las derivadas de la investiga­
+ción sobre células embrionarias, dado al interés suscitado por la reciente reforma
+de la Ley 35/1988, de 22 de noviembre, sobre técnicas de reproducción asistida.
+
+230
+
+
+
+No se trata de abordar todos los problemas éticos que plantea la repro­
+ducción asistida, que no tiene relación con el tema de hoy, sino únicamente en
+cuanto la reforma legislativa deja abierta la posibilidad de utilizar las estructuras
+biológicas procedentes de las preembrionarias descongeladas en el ámbito de la
+investigación biomédica y la medicina regenerativa.
+No es ésta, indudablemente, la finalidad de la reforma. Ya que, en defini­
+tiva, su objetivo es intentar evitar la generación y acumulación de los que se lla­
+man preembriones supernumerarios o sobrantes crioconservados y resolver el pro­
+blema que planteaban los ya existentes. Para el futuro se trata de evitar que se
+produzcan preembriones sobrantes, y en los casos excepcionales en que se hayan
+generado preembriones supernumerarios, su único destino será su utilización con
+fines reproductivos. Respecto de los existentes, sin embargo, se admite como una
+alternativa la utilización en el ámbito de la investigación.
+
+2.
+
+R egu lación p a ra e l fu tu ro
+
+El objetivo de la reforma contenida en la Ley 45/2003, de 21 de noviem­
+bre — que modifica la 5/1988, sobre técnicas de reproducción asistida— es, según
+su Exposición de Motivos — apartado IV, párrafo primero— , «resolver el problema
+grave y urgente de la acumulación de preembriones humanos sobrantes, cuyo des­
+tino no está determinado», atendiendo a tal efecto «las exigencias derivadas del Con­
+venio de Oviedo para la protección de los derechos humanos y la dignidad del ser
+humano con respecto a las aplicaciones de la biología y la medicina de 4 de abril
+de 1997».
+El artículo 4 de la Ley de 1988, en su redacción original, no fijaba límite
+al número de preembriones que podían ser transferidos al útero en cada ciclo, sino
+que utilizaba la fórmula genérica de número «considerado científicamente como el
+más adecuado para asegurar razonablemente el embrión». Después de la reforma,
+teniendo en cuenta las tasas de eficacia existentes en la actualidad, se limita a tres
+el número de preembriones que pueden ser transferidos. Pero se dejan a salvo «los
+casos en que lo impida la patología de base de los progenitores», con la siguiente
+garantía: que los ovocitos sean «especificados en un protocolo elaborado por el
+Ministerio de Sanidad y Consumo con el asesoramiento e informe previo de la
+Comisión Nacional de Reproducción Asistida». Cuando en estos casos se hubieren
+generado preembriones supernumerarios serán crioconservados por un plazo equi­
+valente a la vida fértil de la mujer con el objeto de que se le puedan transferir en
+intento posteriores» y los progenitores deberán firmar un «compromiso de respon­
+231
+
+
+
+sabilidad sobre sus preembriones conservados, en el que se incluirá una cláusula
+por la que la pareja o la mujer, en su caso, otorgarán su consentimiento para que,
+en el supuesto de que los preembriones crioconservados no les fueran transferidos
+en el plazo previsto, sean donados con fines reproductivos com o ú n ica altern ati­
+va-. Así, artículo 11.3 de la Ley después de la reforma.
+Dos observaciones a esta norma:
+1.
+a) Se ha planteado ¿hasta qué punto es admisible la imposición a los
+progenitores de que otorguen su consentimiento para que «los preembriones crioconservados no les fueran transferidos en el plazo previsto, sean donados con fines
+reproductivos como única alternativa»? Parece evidente que sí. Partiendo de que el
+único destino que legalmente se admite en el futuro es el reproductivo, aquéllos
+que quieran acogerse a la excepción de la regla general, saben que sólo se admi­
+tirá con sujeción a esta condición.
+2.
+a) A pesar de la nueva normativa, lo cierto es que se van a generar
+— así se prevé— «preembriones supernumerarios». Y desde el momento que exis­
+tan y sean crioconservados, ¿qué pasará si no llegan a ser destinados al único fin
+admitido? ¿Su conservación es indefinida?
+Por otro lado, el Parlamento Europeo por 298 votos a favor, 214 en con­
+tra y 21 abstenciones, ha aprobado un informe que recomienda destinar fondos
+para experimentar con células de embriones humanos sobrantes de procesos de
+fertilización, lo que dará lugar a una intensificación de la investigación, que con­
+ducirá a la necesidad de intercambiar líneas celulares, intercambio que la ley no ha
+prohibido.
+
+3.
+
+D estin o de lo s p reem b rio n es crio co n serv ad o s co n an terio rid ad
+a la en trad a en v ig o r de la Ley 4 5 /2 0 0 3
+
+Si respecto de los preembriones crioconservados con posterioridad a la
+entrada en vigor de la Ley no se admite otra alternativa que destinarlos a fines
+reproductivos, no ocurre así con los crioconservados con anterioridad. Respecto de
+estos, las parejas progenitoras o la mujer en su caso determinarán su destino,
+pudiendo elegir entre las siguientes opciones (D.F. primera):
+— Mantenimiento de la crioconservación hasta que le sean transferidos de
+acuerdo con el artículo 11 de la Ley.
+232
+
+
+
+— Donación, sin ánimo de lucro a otras parejas que lo soliciten, según lo
+previsto en los artículos 5.7.8 y 9 de la Ley.
+— Consentimiento para que las estructuras biológicas obtenidas en el
+momento de la descongelación puedan ser utilizadas con fines de investigación,
+dentro de los límites previsto en la D.F. primera de la Ley, sin que en ningún caso
+se proceda a la reactivación o a su descongelación sin otros fines.
+A tal efecto, se fija un plazo de cuatro meses para que el Gobierno desa­
+rrolle cada una de esas opciones, a fin de solicitar el consentimiento informado de
+las parejas o, en su caso, de la mujer.
+Y en especial, ha sido esta última opción la que ha dado lugar a la polé­
+mica más acalorada y a la repulsa de la Conferencia episcopal española como a la
+de los Obispos europeos la decisión del Parlamento europeo de apoyar la investi­
+gación destructiva con embriones humanos.
+
+233
+
+
+
+

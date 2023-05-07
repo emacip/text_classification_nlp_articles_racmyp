@@ -1,0 +1,1111 @@
+ECONOMÍA DEL CAMBIO CLIMÁTICO
+Por el Académico de Número
+Excmo. Sr. D. Jaime Terceiro Lomba*
+
+En los últimos años ha habido un interés creciente en el análisis de los
+efectos que la actividad humana puede tener en el cambio del clima. Como consecuencia, el debate en el ámbito científico se ha reflejado en multitud de trabajos
+publicados y examinados en los foros de mayor prestigio académico y empresarial.
+Hoy este debate se ha trasladado en su plenitud a la sociedad en su conjunto.
+Posiblemente, uno de los trabajos que atrajo mayor atención, no solo del
+mundo científico sino también de los medios de comunicación, es el que el Gobierno británico encargó al profesor Nicholas Stern (2007), anterior economista jefe del
+Banco Mundial y titular de la cátedra John Hicks de economía en la London School
+of Economics.
+Tengo que confesar que cuando me decidí a leer el Informe Stern: La
+economía del cambio climático, publicado en la red en octubre de 2006, era, por
+decirlo suavemente, relativamente escéptico sobre la realidad de un cambio climático (CC). Varias eran las razones para este escepticismo, veamos algunas.
+Hasta hace solamente poco más de cuatro décadas, una idea generalizada
+en climatología era la de la estabilidad de la temperatura en horizontes próximos
+y, ya en horizontes lejanos, de miles de años, la posibilidad de una próxima glaciación, puesto que estábamos en un período interglaciar, después del último acontecimiento glacial de hace aproximadamente 10.000 años.
+
+* Sesión del día 27 de mayo de 2008.
+
+547
+
+
+
+Es bien conocido, por otra parte, que todas las variables que caracterizan
+un determinado clima, la temperatura y la precipitación entre otras, fluctúan a lo
+largo del tiempo mostrando una varianza apreciable. Puesto que sólo existen mediciones relativamente fiables desde hace aproximadamente 150 años era muy difícil
+discriminar, con un mínimo de rigor estadístico, qué variaciones corresponderían a
+un cambio de tendencia, y cuáles a una componente cíclica o a su componente
+estrictamente irregular.
+Pensaba, también, que por la propia caracterización de los costes para la
+humanidad derivados del cambio climático, que se concretan en horizontes de tiempo superiores a los 50 años, existían hoy problemas más dramáticos y acuciantes,
+como prevenir que gran parte de la población pase por situaciones de hambre y desnutrición, o sufra enfermedades como el SIDA o la malaria. Seguramente estos problemas requerirían una prioridad más alta.
+Por otra parte, era consciente de lo desacreditada que estaba, y sigue estando, la literatura económica involucrada en predicciones a largo plazo y, sobre todo,
+aquella relacionada con los stocks y flujos de materias primas, y de la que en su día
+fui tremendamente crítico. Predicciones rotundamente erróneas, por su clamoroso
+olvido de la extraordinaria capacidad de cambio tecnológico que tienen las economías de mercado. Recordemos aquí, solo a título de ejemplo, los trabajos del Club
+de Roma relativos a los Límites del Crecimiento.
+Finalmente, veía también en todos estos planteamientos un pensamiento
+cuasi-único y políticamente correcto, que lo llegaba a convertir en un tipo de religión
+alrededor del mundo del ecologismo, entorno que durante las últimas décadas no se
+ha caracterizado por contrastar sus opiniones ni con la ciencia, ni con los hechos.
+Tengo que decir en mi descargo, que tenía otras prioridades académicas
+y profesionales y, por tanto, no le había dedicado tiempo al estudio del problema.
+Después de haberlo hecho, he cambiado de opinión, y hoy sí creo que el CC es un
+problema que tiene que ser abordado, y con urgencia. Las páginas que siguen las
+dedicaré a justificar esta afirmación, y a discutir y evaluar la forma de hacerlo. Ordenaré el trabajo de la siguiente manera.
+En primer lugar, describiré brevemente el llamado efecto invernadero que
+es el que origina el proceso de CC. A continuación, haré algunas consideraciones
+sobre la evidencia empírica y científica del CC. Pasaré después a analizar los fallos
+de mercado que surgen cuando existen agentes contaminantes o, lo que es lo mismo, la estabilidad del clima como bien público, y la consideración de las emisiones
+contaminantes como externalidades negativas. Seguiré con el análisis coste-beneficio que se realiza para evaluar las políticas de reducción de emisiones de dióxido
+de carbono (CO2), poniendo especial énfasis en el crucial papel que juega en los
+
+548
+
+
+
+resultados finales la elección de las tasas de descuento social y la incertidumbre
+asociada a este problema. Dedicaré el siguiente apartado al tipo de regulaciones,
+tanto de mandato y control, como de mercado, que se pueden emplear en la reducción de emisiones de gases contaminantes, con el propósito de evitar los fallos de
+mercado descritos. A continuación haré algunas consideraciones sobre la prioridad
+que deben tener estas políticas dentro de las decisiones públicas. Terminaré con
+algunas consideraciones respecto a la incorporación de las nuevas tecnologías en
+las infraestructuras energéticas y con unas breves conclusiones.
+
+EFECTO INVERNADERO
+El efecto invernadero es el nombre por el que se conoce un fenómeno
+natural originado por varios gases presentes en la atmósfera, que condicionan la
+temperatura de la Tierra, y sin los cuales sería, aproximadamente, 21oC menor, lo
+que la haría inhabitable. El protocolo de Kyoto considera como principales gases
+de efecto invernadero (GEI) los seis siguientes: dióxido de carbono (CO2), metano
+(CH4), óxido nitroso (N2O), hexafloruro de azufre (SF6), los compuestos perfluorinados (PFC) y los hidrofluorcarburos (HFC). Aunque la concentración atmosférica
+y las características de cada uno de estos gases son distintas, en particular su capacidad para absorber la radiación terrestre, en la práctica se convierte su efecto conjunto a la concentración equivalente de CO2. En todo caso, hay que resaltar que el
+principal GEI es el CO2 que en los últimos tres siglos ha contribuido, aproximadamente, a un 70% de dicho efecto.
+El proceso de efecto invernadero, puede elementalmente describirse
+como sigue. La Tierra recibe la energía procedente del Sol en ondas de alta frecuencia que traspasan la atmósfera con suma facilidad y que se reflejan en la superficie
+terrestre que, a su vez, las devuelve hacia el espacio, pero en una frecuencia sensiblemente menor, debido a que su temperatura es más baja. No obstante, no todas
+estas radiaciones vuelven al espacio, puesto que los GEI absorben una parte sustancial de ellas, ya que tienen una capacidad de penetración menor que las que
+proceden directamente del Sol. Se alcanza de esta forma un equilibrio térmico, de
+tal manera que la energía entrante proveniente del Sol se compensa con la radiada
+al espacio.
+Obviamente, el equilibrio térmico anterior puede verse seriamente afectado si, por cualquier razón, los GEI aumentan su concentración en la atmósfera, ya
+que se induciría así una mayor absorción de las radiaciones reflejadas en la superficie terrestre, reduciendo la expulsión de calor al espacio, lo que se traduciría en
+un mayor calentamiento del planeta. Esta es la situación que se conoce como efecto invernadero.
+
+549
+
+
+
+Las propiedades de los GEI ya fueron analizadas por el físico francés Jean
+Baptiste Fourier en la década de 1820, y fue el químico sueco Svante Arrhenius
+(1896), premio Nobel en 1903, quien por primera vez sostuvo que los niveles de
+concentración de CO2 afectan al balance térmico de la Tierra.
+La medición más reciente, hecha pública hace dos semanas en su página
+web por la Administración Nacional Oceánica y Atmosférica de EE.UU. (NOAA),
+corresponde a una concentración de CO2 en la atmósfera de 387 partes por millón
+(ppm), que son las unidades en las que se expresan este tipo de concentraciones.
+Es importante decir, ya ahora, que esta cifra representa un 40% más que los niveles existentes previos a la revolución industrial.
+De acuerdo con el informe Stern (2007), la distribución por sectores de
+actividad del total mundial de emisiones de GEI es la siguiente. El 24% se debe a
+la generación de electricidad, el 14% a la industria, otro 14% al transporte, el 8% a
+los edificios y el 5% a distintas actividades relacionadas con el uso de la energía.
+Todo ello representa, aproximadamente, los dos tercios del total, y corresponde a
+las emisiones generadas por el uso de la energía. El tercio restante se distribuye de
+la siguiente manera: el 18% por el uso del suelo, el 14% por la agricultura, y un 3%
+por los residuos.
+De interés es también comentar el origen espacial de estas emisiones, ya
+que existen enormes diferencias en los niveles de responsabilidad de los distintos
+países y áreas geográficas en la generación del problema. El informe Stern (2007)
+señala que desde 1850 EE.UU. y Europa han generado, aproximadamente, el 70%
+del total de las emisiones de CO2. Los datos del CDIAC (2007), Carbon Dioxide
+Information Análisis Center del Departamento de Energía de EE.UU., ponen de
+manifiesto que los países desarrollados siguen contribuyendo apreciablemente al
+incremento de este stock. Así, EE.UU., Canadá y Australia emiten más de 20 toneladas por persona y año, Europa y Japón alrededor de la mitad, China la cuarta parte, India la décima parte y el continente africano menos de una tonelada por persona y año.
+
+EVIDENCIA SOBRE EL CAMBIO CLIMÁTICO
+El diccionario de la RAE define clima como: “Conjunto de condiciones
+atmosféricas que caracterizan una región”. Esta caracterización se concreta en la
+práctica en una determinada información cuantitativa sobre la atmósfera y el océano a lo largo de un dilatado período de tiempo. La temperatura y la precipitación
+son las dos variables fundamentales, ya que en gran medida son las que condicionan las especies de animales y plantas que se desarrollan en un determinado espa-
+
+550
+
+
+
+cio geográfico. Otras variables relevantes son la presión atmosférica, la humedad,
+la nubosidad y el viento. En todo caso, el estudio del clima no es sencillo ya que
+supone conocer los cinco subsistemas que lo forman: la atmósfera, la hidrosfera
+(conjunto de las partes líquidas del globo terráqueo), la litosfera (conjunto de las
+partes sólidas), la criosfera (conjunto en donde el agua se encuentra en forma sólida) y la biosfera (conjunto de los medios donde se desarrollan los seres vivos), que
+intercambian permanentemente energía y materia entre ellos. Es precisamente el
+conocimiento más detallado que se tiene sobre estos flujos el que está permitiendo
+avanzar en la elaboración de modelos climáticos.
+Es tarea imposible recoger en pocos párrafos la ingente cantidad de información publicada en el ámbito científico, así como la elaborada por instituciones y
+organizaciones que, en mayor o menor medida, confirman el CC que está teniendo lugar a nivel global. Como quiera que gran parte de mi exposición va a girar
+alrededor de los aspectos económicos de este problema quiero resaltar aquí la unanimidad que existe en torno a la realidad del CC en los recientes informes que
+sobre este problema han publicado organismos tales como el Fondo Monetario
+Internacional, IMF (2008), el Banco Mundial, WB (2007), la OECD (2008) y la Unión
+Europea, EU (2007). Ya en 1994 Naciones Unidas, UNFCCC (1994), creó un marco
+permanente para discutir los problemas relacionados con el CC, con una aceptación casi universal ya que incorpora a 192 países. Considerados en su conjunto, se
+constata que pueden diferir entre sí en aspectos tales como los instrumentos a utilizar, en la magnitud de los riesgos a afrontar o en la distribución de los costes y
+de los beneficios, pero ninguno de ellos pone en duda que la actividad humana
+juega un papel determinante en el proceso de CC que está teniendo lugar. Todos
+ellos consideran que es un problema de primera magnitud.
+Sin embargo, es necesario reconocer aquí también que existen algunos
+académicos con relevantes credenciales científicas, y otros muchos que no las tienen, que afirman que la tendencia al calentamiento puede ser debida a factores ajenos a la actividad humana, y que tales factores han sido los responsables del continuo CC desde que el homo sapiens habita la Tierra. Pero parece claro que, aunque
+el cambio observado se deba a ambos tipos de causas, naturales y antropogénicas,
+ésta no es razón suficiente para defender una actitud pasiva frente al CC.
+Es obvio que en este trabajo no dispongo del espacio ni, sobre todo, de
+la capacidad intelectual, para poder adjudicar los méritos relativos a una y otra posición. Pero, vuelvo a reiterar, que una abrumadora mayoría de la comunidad científica de los países más avanzados está de acuerdo en que el CC actual tiene la huella humana y, además, que ya ha empezado a afectar a los sistemas naturales y
+humanos, y que generará riesgos futuros para el mantenimiento de las costumbres
+y comportamientos actuales de la población mundial en sus actuales asentamientos. Yo hago mía esta opinión mayoritaria no como cuestión de fe, sino simplemen-
+
+551
+
+
+
+te por la muy alta probabilidad de que sea cierta. Alguien no experto puede limitarse a ponderar la autoridad de los expertos.
+Como Galileo, los que disienten de esta opinión generalizada pueden terminar teniendo razón: sería maravilloso, pero el análisis de todas las posibilidades
+les concede una probabilidad casi igual a uno de estar equivocados. Obviamente,
+podemos seguir buscando la certeza alargando el tiempo de observación y profundizando en el análisis del fenómeno del CC por décadas. Lo que sucede es que no
+tenemos tanto tiempo para intentar poner remedio a la situación; la pasividad conduce a una situación más grave de la que se creía años atrás. En todo caso, a mi
+modo de ver, este tipo de incertidumbres, si algunas permanecieran, nos deben preocupar más, no menos.
+Cabe un símil en términos financieros. La humanidad tiene una opción
+para ser ejercida, a un precio conocido de antemano, y evitar la irreversibilidad de
+posibles cambios climáticos, y el plazo de tiempo para ejercer esta opción vence
+en los muy inmediatos años. Desde luego, sería deseable poder esperar hasta tener
+un conocimiento cierto del valor de los activos subyacentes a esta opción para
+poder comprobar si el precio a pagar es razonable, pero si así lo hacemos la opción
+expirará y entonces ya no cabe ejercerla.
+Con las tecnologías actualmente disponibles, la alta densidad espacial de
+estaciones meteorológicas y la utilización de satélites para captar y procesar todo
+tipo de información, es posible obtener mediciones fiables y muy desagregadas de
+las variables climáticas. Pero, obviamente, no siempre fue ésta la situación; de hecho,
+los primeros registros periódicos de la temperatura, a partir de instrumentos, datan
+del siglo XVIII. Este tipo de información, sobre la temperatura de la Tierra y del agua
+del mar así como sobre la precipitación, se empieza a generalizar a partir de la
+segunda mitad del siglo XIX.
+Esta ausencia de mediciones directas y de calidad presenta, desde luego,
+un problema de primera magnitud para el análisis de las series temporales de las
+variables climáticas para horizontes de tiempo que cubran varios siglos, y poder
+identificar en ellas sus componentes tendenciales, si las hubiera, sus componentes
+cíclicas y sus componentes irregulares. En terminología de series temporales hay
+que decir que, cuando hablamos de CC, estamos hablando de la presencia de una
+tendencia en la correspondiente variable; en nuestro caso, la temperatura.
+Varios son los procedimientos que se han utilizado para cubrir esta ausencia de datos, y a ellos me referiré brevemente. La utilización de información pasada extraída de registros históricos sobre períodos de sequía e inundaciones, especialmente a partir del siglo XV, junto con datos sobre el precio del trigo o sobre los
+períodos de vendimia. En otras situaciones, de ausencia de mediciones directas, se
+
+552
+
+
+
+utilizan variables proxy o indirectas. Así, las condiciones climáticas quedan reflejadas en los anillos de crecimiento de los árboles. El análisis de las sucesivas capas
+de hielo en la Antártida y en Groenlandia proporciona información valiosa sobre el
+clima en el momento de la precipitación, ordenada temporalmente de acuerdo con
+el nivel en el que se encuentre. Además, el análisis de las burbujas de aire atrapadas en las sucesivas capas proporciona información sobre su composición. En fin,
+este tipo de análisis suele también extenderse al sedimento de los océanos, y a perforaciones profundas en las rocas. A partir, entre otras fuentes, del análisis y tratamiento de los datos obtenidos por los procedimientos anteriores pueden alcanzarse, con diferentes niveles de certidumbre, ciertas conclusiones sobre la evolución
+de las magnitudes climáticas, que enumero a continuación.
+De acuerdo con los datos recogidos en IPCC (2007a), durante el siglo XX
+la temperatura superficial del aire se ha calentado en el rango de 0,4oC a 0,8oC. Esta
+tendencia ha sido general, y es consistente con la disminución de la nieve, la regresión de los glaciares y el aumento del nivel del mar entre 10 y 20 cm en un proceso que parece haberse iniciado alrededor de 1850. La temperatura de la capa superficial del océano, hasta los 700 metros, se ha incrementado durante los últimos 40
+años en 0,1oC. Los datos muestran también un aumento de la pluviosidad de un 1%
+durante el siglo XX. Medidas por satélite indican que en los últimos 40 años la
+superficie de nieve y de hielo disminuyó aproximadamente en el 10%; los datos
+sobre su espesor son menos fiables, pero sugieren una disminución del 15% desde
+comienzos del siglo XX. La extensión de los glaciares ha disminuido apreciablemente con la excepción de algunos situados en el Ártico.
+En respuesta a una petición del Congreso de EE.UU. el National Research
+Council of the National Academies (2006) elaboró un informe que concluye en lo
+siguiente: “Puede afirmarse con un alto nivel de confianza que la temperatura global media superficial fue más alta durante las últimas décadas del siglo XX que
+durante cualquier otro período comparable de tiempo de los últimos cuatro siglos.
+[…] Menos confianza puede tenerse en las reconstrucciones de la temperatura para
+el período desde 900 años A.C. hasta 1600, aunque la evidencia disponible de variables indirectas indica que la temperatura en muchas, pero no todas, de las localizaciones individuales fueron más altas durantes los últimos 25 años que durante
+cualquier otro período de comparable longitud desde el año 900. Poca confianza se
+le puede asignar a afirmaciones relativas a las temperaturas anteriores al año 900”.
+Un informe del Goddard Institute for Space Studies de la NASA (2005) proporciona una evidencia clara del origen de este fenómeno. Utilizando datos de satélites y de sondas que se incorporan a modelos para el análisis de los océanos, se
+comprueba que se está absorbiendo más energía del Sol de la que se está emitiendo hacia el espacio, lo que rompe el equilibrio térmico con la consecuencia de un
+progresivo calentamiento global.
+
+553
+
+
+
+Cabría preguntarse por la causa última de estas variaciones. Es decir, ¿se
+trata de evoluciones o comportamientos anómalos de causa natural, o tienen su origen en la actividad humana?
+La constatación científica del efecto invernadero y la cuantificación de los
+flujos de emisiones de GEI y su consideración entre las variables de los modelos
+climáticos, permiten comprobar que solamente cuando se incluyen estas variables
+en los modelos son estos capaces de predecir las temperaturas realmente habidas
+que, por otra parte, quedan sistemáticamente muy por debajo de los valores realmente observados cuando se omiten estas variables de origen antropogénico, es
+decir, aquellas que tienen su origen en la actividad humana. Por consiguiente, con
+este tipo de modelos se puede descartar la posibilidad de que estas variaciones se
+deban a causas de origen natural tales como la actividad solar o la volcánica.
+Ya en 2005, en un manifiesto conjunto con otras diez Academias de Ciencias, la U.S. National Academy of Sciences afirmaba que: “El análisis científico del
+CC permite ya poder justificar la pronta toma de medidas. Es importante que todos
+los países identifiquen medidas que estén en condiciones de ser aplicadas ahora, y
+sean efectivas desde el punto de vista de su coste, para contribuir a una reducción
+sustancial y a largo plazo de las emisiones netas globales de GEI”. Junto con la de
+EE.UU. las Academias que suscribieron este documento son las de Inglaterra, Alemania, Japón, Rusia, Francia, Italia, Canadá, Brasil, China e India, véase Joint Science
+Academies’ Statement: Global Response to Climate Change (2005). En una posterior
+manifestación, en mayo de 2007, se asegura que: “Las investigaciones recientes
+refuerzan las conclusiones previas. Es incuestionable que el clima está cambiando,
+y que es muy probable que esté predominantemente causado por la interferencia
+humana en la atmósfera”. A este segundo documento se añadieron las academias
+de Reino Unido, África del Sur y México. Obsérvese que entre los países firmantes
+están todos los del G8, véase Joint Science Academies’ Statement on Growth and
+Responsibility: Sustainability, Energy Efficiency and Climate Protection (2007).
+También el Informe de síntesis y el cuarto informe de evaluación del
+Panel Intergubernamental de expertos sobre Cambio Climático, el IPCC (2007a)
+de acuerdo con sus siglas inglesas, reconoce un sensible avance en las razones
+científicas que identifican a la actividad humana como causa del CC, diferenciando su efecto del originado por causas naturales. Estos recientes desarrollos permiten afirmar, con una probabilidad de al menos el 90%, que la actividad humana ha tenido un papel causal dominante en el calentamiento global habido desde
+1750. Esta probabilidad no es tan alta al analizar otros elementos del CC tales
+como los fenómenos meteorológicos extremos. Hay que recordar que el IPCC se
+creó en 1988 por la Organización Meteorológica Mundial (WMO) y por las Naciones Unidas (UN), y no lleva a cabo investigaciones propias, sino que en sus informes, IPCC (2007a, b, c) utiliza material publicado en la literatura científica más
+
+554
+
+
+
+acreditada y revisada. Sus conclusiones están soportadas por el trabajo de más de
+2.500 científicos.
+Desde el anterior informe del IPCC (2001) la evidencia científica sobre el
+carácter antropogénico del calentamiento global ha aumentado significativamente,
+ya que en este informe la probabilidad que se le atribuía era de al menos el 80%.
+En terminología del informe se ha pasado de una “confianza alta” a una “confianza
+muy alta” en el origen antropogénico del proceso de calentamiento de la Tierra.
+Hoy hay pocas dudas sobre que el aumento de la concentración de CO2
+en la atmósfera es el resultado de la actividad humana. Cierto es que, como señalé,
+hay procesos naturales que producen este tipo de gases, pero también hay otros que
+los absorben. Un trabajo en la revista Science, Oreskes (2004), analiza más de 900
+artículos en revistas científicas de primer orden en el que ninguno de sus autores
+está en desacuerdo con la afirmación de que las emisiones de CO2 derivadas de las
+actividades humanas son la causa del calentamiento global. Muchos son aún los
+aspectos de la dinámica del clima que merecen nuevas explicaciones e investigaciones adicionales para llegar a un mejor entendimiento de este proceso. También está
+todavía sin despejar en diversos aspectos el tipo de respuestas a dar al proceso de
+CC. Sin embargo, existe un amplio consenso científico acerca del origen antropogénico del CC; los científicos lo están diciendo desde hace años y de manera reiterada, aunque hay unos pocos que no están dispuestos a escucharlos.
+En un reciente informe la U.S. National Academy of Sciences (2008) afirma: «que existe una creciente preocupación acerca del proceso de calentamiento
+global y del impacto que tendrá sobre las personas y sobre los ecosistemas de los
+que depende […] Las temperaturas se elevarán probablemente en 1,1oC, y posiblemente en más de 6,1oC en los próximos cien años. Este calentamiento causará cambios muy significativos en el nivel del mar, en los ecosistemas y en la extensión de
+los glaciares entre otros impactos […]. La mayoría de los científicos están de acuerdo en que el calentamiento de las ultimas décadas tiene su origen fundamentalmente en la actividad humana que ha incrementado la concentración de GEI en la
+atmósfera». En realidad este es un informe conjunto de las llamadas National Academies que son la National Academy of Sciences, la National Academy of Engineering, el Institute of Medicine y el National Research Council de EE.UU.
+En todo caso, hay que volver a señalar que aunque haya causas naturales
+que contribuyan parcialmente al proceso de calentamiento global, ésta no es razón
+para justificar una actitud pasiva. Más bien al contrario si, como está demostrado,
+existen causas antropogénicas que refuerzan este proceso de calentamiento, será
+exigible una posición mucho más activa y temprana en la reducción de emisiones
+de GEI.
+
+555
+
+
+
+Muchas de las dudas que podrían haber existido se han despejado. Es
+indudable que existen diversos ámbitos del proceso del CC que requieren investigaciones y explicaciones adicionales. Los científicos también pueden equivocarse,
+ya que también este tipo de conocimientos cambia y evoluciona. Por esta razón hay
+que alejarse de afirmaciones categóricas, ya que cuando los problemas están caracterizados por determinados niveles de incertidumbre, lo razonable es hablar en términos de probabilidad.
+De lo anterior se deduce que las conclusiones científicas son claras: para
+frenar el CC es imprescindible reducir apreciablemente las emisiones de GEI que
+se producen como consecuencia de la actividad humana. Ello requiere indudablemente un previo esfuerzo de formación y comunicación que faciliten las respuestas adecuadas. Lo expresa bien James Hansen (2007), Director del NASA Goddard
+Institute for Space Studies, cuando afirma que: «Existe un tremendo gap entre lo que
+la comunidad científica relevante entiende sobre el proceso de calentamiento global, y lo que conocen sobre esta materia aquellos que lo debieran conocer: los ciudadanos y los gestores públicos» y añade: «Si se sigue la tendencia actual, en los
+próximos diez años, está garantizado que tendremos cambios climáticos que conducirán a lo que yo llamo un planeta diferente».
+En la historia económica de los últimos siglos se evidencia la clara relación causal entre crecimiento económico y emisión de GEI, de tal manera que su
+concentración en la atmósfera ha ido aumentando paulatinamente de forma ininterrumpida con los flujos de las emisiones, que por otra parte han ido variando de
+acuerdo con los correspondientes ciclos económicos. En todo caso, aún hay alguna incertidumbre a la hora de caracterizar los flujos y stocks del CO2 emitido a la
+atmósfera, ya que las mediciones realizadas corresponden aproximadamente a la
+mitad de la cantidad emitida. Sin embargo, se conoce que los mayores sumideros
+de CO2 son los océanos y la biosfera.
+La medición del contenido de CO2 a diversos niveles de profundidad en
+las burbujas de aire de las sucesivas capas de hielo en la Antártida y en Groenlandia, pone de manifiesto un nivel de 280 ppm antes de la industrialización, alrededor de 1750, frente a 387 ppm, como la medición más reciente de 2008 y, además,
+que dichos niveles aumentaron a un ritmo de 1,9 ppm durante los últimos 15 años.
+Concentraciones de esta naturaleza podrían parecer cuantitativamente irrelevantes,
+ya que equivalen, aproximadamente, a sólo el 0,04% de contenido en el aire; sin
+embargo, concentraciones en estos órdenes de magnitud tienen un enorme impacto en la temperatura terrestre. Recuérdese que, en ausencia de GEI, la temperatura
+media de la superficie terrestre sería 6oC, mientras que con los GEI presentes hoy
+en la atmósfera es de 15oC, es decir, 21oC superior. Es obvia, pues, la enorme sensibilidad de la temperatura a los niveles de concentración de GEI, cuyo aumento se
+ha traducido en un incremento desde la preindustrialización de 0,8oC.
+
+556
+
+
+
+El problema no es simplemente el de un incremento de la temperatura,
+sino también el de un cambio de las condiciones en las que la humanidad y los
+ecosistemas se han venido desenvolviendo a lo largo del tiempo. Aunque, en efecto, cambio climático y calentamiento global suelen utilizarse indistintamente para
+describir este fenómeno.
+El papel que los economistas podemos jugar en este proceso es analizar y
+evaluar los distintos escenarios posibles, y los costes y beneficios asociados a ellos para
+alcanzar los niveles de concentración de GEI deseados. En la literatura más reciente
+se consideran niveles aceptables aquellos que oscilan de 500 ppm a 550 ppm.
+La mayor parte de los trabajos acerca de la economía del CC se ha centrado en analizar los efectos de incrementos de temperatura en el rango de 2oC a 4oC,
+que son los que se alcanzarían con concentraciones inferiores a 550 ppm. Sin
+embargo, no sería descartable en un escenario de no intervención, y con la aportación de las emisiones de la India y China, alcanzar a finales de siglo niveles de
+concentración de 850 ppm, lo que originaría incrementos en el intervalo de 5oC a
+6oC, que nos llevarían a territorios verdaderamente desconocidos. Es obvio que no
+hay que considerar estos números con total certeza, pero sí pensar en los riesgos
+que habría que afrontar en esta situación. Baste solamente pensar que durante la
+última glaciación, hace aproximadamente 10.000 años, la temperatura era 5oC inferior a la de hoy. La Tierra se ha transformado desde entonces de forma drástica en
+términos físicos y humanos. Un incremento de 5oC produciría también transformaciones drásticas muy difíciles de predecir, pero en todo caso preocupantes.
+
+CAMBIO CLIMÁTICO, BIENES PÚBLICOS Y EXTERNALIDADES
+La estabilidad del clima, con lo que conlleva en cuanto a la calidad del
+aire y la variabilidad de la temperatura dentro de un determinado rango, es un bien
+público. En efecto, tiene algunas propiedades que lo diferencian de otros bienes
+económicos al uso, veamos. La no rivalidad, que implica que el consumo o disfrute de ese bien por un individuo no impide el consumo por otros individuos, y la
+no exclusión, que supone que los individuos pueden acceder libremente al disfrute de ese bien, de forma que nadie puede ser excluido sin costes prohibitivos.
+Los bienes públicos distorsionan la asignación de recursos que se lleva a
+cabo bajo el mecanismo competitivo del mercado, porque los individuos tienden a
+ocultar sus verdaderas preferencias respecto a los mismos, con el propósito de traspasar a otros la carga de su financiación. Esta situación se traduce en que, en un
+principio, nadie está dispuesto a pagar por ellos y, consecuentemente, la oferta total
+resulta inferior a la que tendría lugar si los individuos revelaran sus preferencias, de
+
+557
+
+
+
+forma que se les pudiera imputar una proporción adecuada de los costes de su producción.
+Además, este bien público es de carácter global, ya que está por encima
+de fronteras geográficas y es consumido simultáneamente por humanos, animales
+y plantas en todo el planeta.
+Otro elemento característico de este proceso que implica también un fallo
+de mercado es la presencia de externalidades. Existen externalidades cuando no
+todos los costes o beneficios de una actividad pueden ser asignados exclusivamente al titular de la misma y, por tanto, éste puede no tenerlos en cuenta a la hora de
+tomar sus decisiones de asignación de recursos. La presencia de externalidades da
+lugar, generalmente, a que el equilibrio alcanzado en el marco de un sistema competitivo no sea óptimo. Así, las ineficiencias surgen porque el productor del bien
+que genera la externalidad al considerar sus propios costes, produce una cantidad
+de este bien inferior, en el caso de externalidades positivas, o superior, en el caso
+de externalidades negativas, a la que correspondería a la situación óptima.
+Es claro que, en el caso de emisiones de CO2, los responsables de estas
+emisiones generan externalidades negativas, ya que infligen daños a otros sujetos
+económicos. La causa de estos daños estriba en que los precios asignados a este
+tipo de bienes no reflejan los costes de haber emitido GEI, y por tanto envían señales equivocadas al mercado respecto a los verdaderos costes de producción.
+Esta divergencia entre los costes privados y los costes sociales de las emisiones reduce la eficiencia económica. Es la ausencia de derechos de propiedad
+sobre la atmósfera la que determina este tipo de comportamiento en las emisiones
+de GEI, reforzando la ineficiencia del mercado en relación con este bien público
+global, siguiendo la lógica egoísta de “si algo no es de mi propiedad no tengo por
+qué preocuparme por ello”.
+Esta externalidad tiene cuatro características básicas. En primer lugar, su
+globalidad, es decir, las emisiones de GEI originadas en China tienen el mismo efecto que las emitidas en Francia. En segundo lugar, el largo plazo de su impacto ya
+que, una vez en la atmósfera, este tipo de gases permanece en ella en períodos
+muy dilatados de tiempo, por siglos, de tal manera que el clima dentro de cincuenta años ya está condicionado por las emisiones y los niveles de concentración de
+GEI de hoy. En tercer lugar, la incertidumbre: no se puede abordar la problemática del CC en un entorno determinista, ya que no se sabe con certeza cuales son los
+efectos finales pero, en todo caso, los avances científicos de los últimos años permiten establecer un conjunto de predicciones dentro de razonables intervalos de
+confianza. En cuarto lugar, su capacidad potencial de originar cambios radicales e
+irreversibles. Esta última característica es un formidable reto para el análisis econó-
+
+558
+
+
+
+mico tradicional que, en su gran mayoría, solamente entiende de cambios marginales, que siendo una aproximación útil, difícilmente puede abordar cambios radicales, es decir, no marginales.
+La razón última de no aceptar estos fallos del mercado, y que conduce a no
+tomar medidas de ninguna clase para mitigar el aumento del CO2 en la atmósfera,
+suele tener como fundamento teórico la hipótesis de la conocida como curva
+ambiental de Kuznets, que implica que una vez alcanzado un valor máximo en la
+concentración de GEI el mismo proceso de desarrollo económico conduciría a una
+progresiva disminución de esta concentración. Existe alguna evidencia empírica a
+favor de esta tesis para la contaminación del aire, véase Selden y Song (1994). Sin
+embargo, esta evidencia para los GEI rechaza la hipótesis de la curva ambiental de
+Kuznets, como ponen de manifiesto de forma contundente todas las mediciones realizadas y recogidas, entre otras fuentes, en IPCC (2007) y CDIAC (2007). Además, hay
+que señalar que las características de las externalidades que generan los GEI, no tienen nada en común con la externalidades de otro tipo de contaminantes y que permitieron ser internalizadas con la estrategia de esperar y ver, tal y como muestran las
+curvas ambientales de Kuznets. Intentar arreglar los problemas post facto no será
+posible, dado el fuerte comportamiento inercial de los GEI, que hace que las emisiones de hoy definan el clima de futuras y lejanas décadas, de tal manera que cuando
+constatemos situaciones críticas en la realidad del CC será ya demasiado tarde.
+
+ANÁLISIS COSTE-BENEFICIO
+La aproximación económica al problema del cambio climático puede
+reducirse al proceso de elegir entre dos posibles escenarios. En efecto, simplificando la situación, se puede elegir entre un mundo en el que no se desarrolle acción
+alguna para combatir el CC, lo que se conoce como business as usual, y que acarrearía problemas de distinta naturaleza y pérdidas de bienestar futuros en horizontes de tiempo superiores a cincuenta años. O bien elegir la alternativa, que consiste en tratar de evitar estos costes futuros al precio de tomar medidas que pueden
+implicar a corto plazo pérdidas de bienestar a las generaciones actuales. Es este
+planteamiento el que justifica los llamados análisis coste-beneficio. El beneficio en
+esta situación viene caracterizado mediante el coste que evitamos.
+La eficiencia económica, medida como la diferencia entre los beneficios y
+los costes, es un criterio básico en la evaluación de estas decisiones. Hace más de
+un siglo, Vilfredo Pareto (1896) propuso un criterio para comparar dos asignaciones de recursos, de tal forma que un cambio es eficiente en el sentido de Pareto si
+al menos una persona alcanza una situación mejor y ninguna empeora. Es este un
+criterio de indudable valor normativo, pero es difícil formularlo en términos opera-
+
+559
+
+
+
+tivos. Sin embargo, cincuenta años más tarde Kaldor (1939) y Hicks (1939) formularon analíticamente un criterio que permite identificar mejoras potenciales de Pareto. El criterio de Kaldor-Hicks conduce a verificar si los beneficios son superiores a
+los costes sociales, y cuando el objetivo es maximizar esta diferencia hablamos, en
+nuestro caso del nivel de protección óptima frente al CC.
+Obviamente, la sensatez de los resultados obtenidos depende sobremanera de la disponibilidad de estimaciones fiables, tanto de los costes como de los
+beneficios. Pero sí es importante indicar que tienen órdenes de magnitud muy distintos. En todo caso, un denominador común a todas las evaluaciones realizadas
+hasta la fecha es el acuerdo básico en los costes, que siempre son cifras inferiores
+al 1% del PIB y, por el contrario, intervalos de variación mucho más grandes para
+los beneficios, que oscilan entre el 1% y el 30% del PIB.
+No me voy a detener en describir y en justificar los costes del CC, que aparecen analizados en los múltiples modelos e informes ya publicados. Solamente
+mencionaré las causas de los costes a los que tendrá que hacerse frente, y estas son
+las siguientes. Incremento de las temperaturas, aumento del nivel del mar, fenómenos meteorológicos extremos más frecuentes, disminución de las superficies de los
+glaciares, pérdida de la biodiversidad, aumento de la probabilidad de enfermedades
+infecciosas, e incremento masivo de las migraciones. Pero con todo, el aspecto más
+importante es que aunque todos los países se verán afectados, serán las áreas geográficas más pobres aquellas que sufrirán antes y más intensamente las consecuencias del CC, ya que son las que tienen temperaturas más altas, economías menos
+diversificadas y más agrícolas, y desde luego carecen de los recursos suficientes para
+adaptarse a estos cambios.
+De entrada, hay que señalar la dificultad de valorar y cuantificar en términos monetarios muchos de estos costes y beneficios. Por consiguiente, hay que
+ser especialmente cuidadoso acerca de que factores cuantitativos no dominen factores cualitativos muy importantes, como en nuestro caso puede ser la pérdida de
+biodiversidad.
+Nótese también que este tipo de análisis, con este nivel de agregación, tiene la limitación de no abordar el problema de la equidad en la distribución de los
+costes y beneficios, bien entre grupos de población de distintas rentas o bien entre
+áreas geográficas diferenciadas.
+Es importante poner de manifiesto cuáles son las variables relevantes en
+los modelos utilizados, es decir, aquellas en las que pequeñas variaciones afectan
+sensiblemente al resultado final. Entre estas últimas está la que los economistas llamamos tasa de descuento social, y a ella me voy a referir con detenimiento a continuación.
+
+560
+
+
+
+TASA DE DESCUENTO E IGUALDAD INTERGENERACIONAL
+Los costes y los beneficios asociados al análisis anterior se originan en distintos instantes de tiempo. Así, los costes de mitigar el CC o simplemente de adaptarse a este cambio hay que afrontarlos a corto plazo. Sin embargo, los beneficios
+obtenidos con estas medidas aparecerán muy distantes en el tiempo, en todo caso
+en horizontes superiores a los cincuenta años. Para poder comparar costes y beneficios distantes, en este caso tremendamente distantes en el tiempo, los economistas utilizamos la técnica de descuento, que consiste en expresar unos y otros en un
+mismo año de referencia.
+La técnica de descuento se soporta en una abrumadora evidencia empírica. En general, los ciudadanos prefieren disfrutar bienes y servicios hoy que trasladar su consumo en el tiempo. Además, los costes y los beneficios se ponderan
+menos en el futuro, ya que se supone que entonces los niveles de renta, tanto de
+los individuos como de las generaciones, son superiores.
+Tal y como, entre otros, Nordhaus (2007), Weitzman (2007), Dasgupta (2007)
+y Tol (2006) han observado, gran parte de las discrepancias en los resultados de los
+distintos modelos de economía del cambio climático se debe a las técnicas utilizadas al calcular las tasas de descuento. Es este un aspecto bastante técnico que plantea cuestiones económicas, políticas y éticas de primera magnitud, y difícil de resumir sin utilizar un cierto aparato analítico. Lo intentaré hacer explicando las cosas
+de la manera más sencilla posible.
+Así como existe un acuerdo básico sobre los valores numéricos de estas
+tasas para evaluar proyectos y políticas que afectan a inversiones de diversa naturaleza, no existe tal acuerdo en los modelos de CC, y ello es así por las características especiales de este tipo de modelos, entre las que podemos citar los horizontes de tiempo que implican, que son varios órdenes de magnitud superiores a los
+de los proyectos tradicionales, que consideran beneficios y costes en todas las áreas geográficas del mundo, que implican aspectos inter e intra generacionales importantes y finalmente, como hemos señalado, que incorporan cambios no marginales.
+Bajo ciertas hipótesis, es posible expresar la tasa social de descuento (r)
+como la suma de dos componentes, de acuerdo con la conocida regla de Ramsey
+(1928)1. La primera es la tasa a la que los individuos descuentan el consumo futuro (p)
+bajo la hipótesis de un nivel de consumo per cápita constante a lo largo del tiempo,
+es la que se conoce como la tasa pura de descuento temporal. Esta tasa tiene varias
+
+1
+
+La fórmula de Ramsey es la siguiente: r t
+
+= p + n g t.
+
+561
+
+
+
+interpretaciones. Desde una perspectiva individual podríamos decir que se justifica por
+la impaciencia, o lo que es lo mismo los individuos tienden a preferir el consumo hoy
+que posponerlo, por consiguiente tendrá un valor mayor que cero, y cuanto mayor
+sea su valor más se descuenta el futuro. Pero esta interpretación frecuente en las tasas
+de descuento que revela el mercado no es relevante en los horizontes temporales del
+CC. De lo que se trata en este caso es de la importancia que las generaciones actuales dan al bienestar de las generaciones futuras. Tiene, por tanto, un significado ético
+más que económico. Un valor igual a cero significa que consideramos igual nuestro
+bienestar que el de las próximas generaciones; por el contrario, valores positivos dan
+más importancia a nuestro bienestar, de tal forma que cuanto mayor es su valor, más
+descontamos el bienestar de nuestros nietos. Este principio de igualdad de trato es el
+propuesto por economistas tales como Pigou (1920), Ramsey (1928), Solow (1974) y
+Amartya Sen, véase Anand y Sen (2000), y es también el que conduce a Stern a considerar en su informe un valor próximo a cero. Sin embargo, existen otros autores,
+entre los que cabe citar a Arrow (2004) y Nordhaus (2007), que señalan que valores
+tan bajos simplemente son incompatibles con la evidencia empírica. En efecto, los
+tipos de interés que revelan los mercados son valores claramente superiores a cero,
+pero estos valores reflejan decisiones privadas de los individuos de invertir hoy para
+obtener beneficios futuros. Sin embargo, cuánto se debe invertir hoy en generaciones
+que aún no han nacido es una cuestión totalmente distinta.
+En la literatura se distingue entre las aproximaciones prescriptivas y descriptivas. La primera aproximación es aquella que aborda el problema desde criterios de distribución de bienestar entre las generaciones presentes y futuras. Las descriptivas son aquellas que consideran el comportamiento observado de los
+individuos e instituciones en sus decisiones de ahorro e inversión. Como hemos visto, de las primeras se derivan tasas de descuento puro temporal próximas a cero.
+La segunda componente de la fórmula de Ramsey hace referencia al crecimiento del consumo per cápita a lo largo del tiempo, lo que implica que el consumo futuro tiene una utilidad marginal menor. Este efecto se recoge por el producto del crecimiento anual del consumo per cápita (g) y de la elasticidad de la
+utilidad marginal del consumo (n). Este último parámetro tiene varias posibles interpretaciones. Puede interpretarse como medida de la aversión al riesgo hacia fluctuaciones futuras en el consumo, o bien como una medida de la aversión a la desigualdad intergeneracional o intrageneracional, es decir, a lo largo del tiempo o del
+espacio. Los valores que los distintos modelos de cambio climático consideran para
+este parámetro están comprendidos entre 1 y 4.
+Antes de seguir, es conveniente decir que tasas de descuento sociales altas
+tienden a posponer cualquier acción sobre el control de las emisiones de GEI; por
+el contrario, tasas de descuento bajas equivalen a tomar acciones con carácter inmediato. Por consiguiente, gran parte del debate se centra en la elección de dos pará-
+
+562
+
+
+
+metros: la tasa pura de descuento temporal y la elasticidad de la utilidad marginal
+del consumo. Así, en el informe Stern, el valor elegido para la primera de ellas es
+el 0,1%, mientras que en su crítica a dicho informe Nordhaus elige el 3%. Ambos
+eligen el mismo valor para el segundo de los parámetros, igual a 1. Tal como reconocen uno y otro, éste es el origen de la diferencia en sus recomendaciones. Stern
+recomienda actuaciones enérgicas e inmediatas, mientras que Nordhaus recomienda actuaciones inmediatas pero no tan intensas.
+Parece claro que es difícil elegir con criterios estrictamente económicos
+cuales son las tasas de descuento a aplicar en los modelos económicos de CC, ya
+que no cabe validación empírica alguna. Las decisiones son más bien de carácter
+moral y ético. Conviene señalar, sin embargo, que si se consideran explícitamente
+en la formulación de Ramsey los criterios de equidad inter e intrageneracionales,
+las tasas de descuento disminuyen apreciablemente, lo que conduciría a intervenciones aún más tempranas.
+Cabe una última e importante observación. Si, en este planteamiento
+determinista, se incluye la incertidumbre inherente a las hipótesis realizadas sobre
+los valores de los parámetros, tendremos que reconocer que no existe una sola tasa
+de descuento, de la misma forma que en nuestras economías no existe un único
+tipo de interés. De tal forma que la incertidumbre final en la determinación de las
+tasas de descuento es tan dominante que prevalece sobre cualquier criterio de elección de parámetros en el modelo determinista.
+Esta última consideración es la que lleva a algunos autores a justificar los
+costes de combatir el CC como una forma de seguro al que se le hace frente hoy
+para prevenir daños inciertos en su cuantía y en el tiempo en el que puedan tener
+lugar. Después de todo, esta es la actitud que tomamos cuando contratamos un
+seguro frente a cualquier tipo de accidente, aun a sabiendas de que las compañías
+de seguros ganan dinero con nuestra decisión.
+Es difícil evitar mediante formulaciones estrictamente económicas el debate sobre qué riesgos y deterioro medioambiental se considera soportable por las
+generaciones futuras. Es algo arrogante, por parte de nosotros los economistas,
+valorar en términos monetarios relevantes erosiones y transformaciones en el medio
+natural. Piénsese, por ejemplo, en la dificultad de valorar la extinción de muchas
+especies animales y vegetales. Es, como poco, discutible, que este tipo de fenómenos puedan traducirse en términos monetarios y, sin embargo, el análisis económico del cambio climático los traduce en moneda, o los ignora.
+Además, este tipo de ejercicios lleva implícita la hipótesis de que las preferencias de generaciones futuras serán las mismas que las nuestras, es decir, que son estacionarias, y esto no es evidente. Piénsese en cómo hace doscientos años se considera-
+
+563
+
+
+
+ba el fenómeno de la esclavitud o en cómo se consideraban hace cien años los derechos de la mujer. O simplemente, si muchas de las infraestructuras de producción de
+energía eléctrica operativas actualmente en el mundo se podrían construir con las preferencias y valores que sobre el medioambiente hay hoy en los países desarrollados.
+La teoría económica sugiere que, en ausencia de costes hundidos e irreversibilidades, se debe actuar lo antes posible hasta el punto en el que los costes y beneficios marginales se igualen. Los costes hundidos se definen generalmente como costes contraídos previamente y que no son recuperables. Sin embargo, el CC conlleva
+costes y decisiones irreversibles tanto en la parte de costes, en términos de inversiones en tecnologías libres de carbono, como en la parte de beneficios, en términos del
+stock de GEI. Esta singularidad puede sugerir una posición más activa o más pasiva
+dependiendo de la magnitud de los costes hundidos. A pesar de lo ambiguo en este
+punto de la teoría, la mayoría de los modelos calibrados numéricamente tienden a
+señalar la preferencia de reducir las emisiones hoy, debido a que los costes marginales iniciales son relativamente pequeños y no lo son los beneficios alcanzados.
+A la vista de lo anterior, no es de extrañar que los modelos económicos del
+cambio climático no tengan respuestas únicas sobre los costes y beneficios de las
+políticas de mitigación de las emisiones de GEI. Después de todo, el análisis económico del problema nos proporciona únicamente alguna ayuda para elegir entre las
+distintas alternativas posibles; no debemos considerar este tipo de modelos como
+cajas negras que nos puedan decir cuál es la alternativa que debemos seguir.
+Algunos autores no entran siquiera en el debate numérico de las tasas de
+descuento; simplemente, señalan que en este caso no se deben tener en cuenta. En
+efecto, remarcan que las tasas de descuento tendrían solamente sentido si se pudieran volver a comprar o recuperar aquellos bienes o beneficios que han desaparecido. O, dicho de otra manera, si los costes en los que se incurriría en las acciones
+correctoras en un futuro no fueran desmesurados o infinitos.
+El cambio climático deja huellas definitivas de imposible marcha atrás, y las
+condiciones futuras no serán reversibles, por muchos recursos que dediquemos a
+volver a la situación actual, a la que nos hemos adaptado técnicamente, políticamente, económicamente y socialmente a lo largo de siglos invirtiendo en este proceso
+ingentes cantidades de capital físico y humano.
+
+INSTRUMENTOS DE CONTROL DE EMISIONES
+Los instrumentos de política económica que se han diseñado para abordar
+la problemática del cambio climático tienen distintos fundamentos teóricos y dife-
+
+564
+
+
+
+rentes niveles de sofisticación. Su complejidad se deriva de que tienen que tener en
+cuenta muchos sectores económicos, países con niveles de desarrollo muy distintos y, en fin, atender a los distintos poderes y grupos de presión representados por
+los agentes con intereses en este proceso: los stakeholders.
+Son tres los criterios que deben guiar la evaluación de las políticas de cambio climático. En primer lugar, la efectividad, es decir, deben dar como resultado
+niveles de emisión de GEI que mantengan los riesgos derivados del CC en niveles
+aceptables. En segundo lugar, la eficiencia, es decir, minimizar los costes asociados
+al proceso de reducción de emisiones. En tercer lugar, la equidad, que, en este
+caso, no es un requisito menor, ya que los países desarrollados son los responsables de la mayor parte de las emisiones pasadas, y los países subdesarrollados son
+los que en mayor medida sufrirán las consecuencias del cambio climático.
+Cabe agrupar las medidas de carácter económico en dos grandes categorías. Los instrumentos de mandato y control y los instrumentos de mercado.
+Las regulaciones de mandato y control exigen un determinado comportamiento a los agentes económicos que normalmente se traduce en fijar límites máximos de emisión de gases y penalizar su incumplimiento. En un principio, aparece
+como ventaja de tales procedimientos la certidumbre que proporcionan puesto que,
+obligando al cumplimiento de la norma, se alcanzan los objetivos de emisiones propuestos. Sin embargo, en términos de eficiencia económica, sólo aseguran una eficiencia estática, y esto, bajo el supuesto, irreal en la práctica, de que todos los agentes afectados por la regulación tengan la misma curva de costes marginales. En
+teoría, tratan a todos los agentes por igual aunque, en la práctica, determinado tipo
+de exenciones suele romper con el principio de equidad. La falta de eficiencia y los
+pocos incentivos que generan para la innovación son argumentos suficientes para
+su no utilización. Estas regulaciones pueden estar justificadas cuando el nivel óptimo de emisiones es nulo o muy bajo, o cuando los agentes operan en entornos no
+competitivos, y por tanto no son sensibles a variaciones en los precios.
+Los instrumentos de mercado son aquellos que generan incentivos para
+que los agentes económicos reduzcan sus emisiones o desarrollen tecnologías
+menos contaminantes. Hemos visto que la emisión de GEI daba lugar a externalidades negativas, generando una divergencia entre los costes privados y los costes
+sociales de las emisiones que conducen a la ineficiencia económica.
+Principios económicos elementales indican que el único camino para mitigar la emisión de GEI pasa por igualar ambos tipos de costes: los privados y los
+sociales, lo que equivale a transmitir al usuario el coste correspondiente. Los mismos principios nos dicen también que es bastante poco realista esperar reducciones sustanciales apelando solamente a actitudes responsables de los ciudadanos
+
+565
+
+
+
+que conduzcan a cambios en sus hábitos de consumo hacia productos menos intensivos en carbono.
+En este contexto dos son los enfoques teóricos utilizados para abordar las
+externalidades negativas: la fijación de impuestos, siguiendo el trabajo pionero de
+Pigou (1920), y la implantación de mercados de permisos de emisión transferibles,
+del tipo cap and trade, con el soporte teórico del teorema de Coase (1960).
+El primero de los enfoques consiste en definir un impuesto sobre cada
+unidad de CO2 emitida, con el objeto de que los emisores asuman el correspondiente coste social. Este es, de hecho, el procedimiento más utilizado para gravar
+los productos energéticos, y su aplicación no está relacionada con el medioambiente, ya que tiene fines simplemente recaudatorios. Teóricamente se consigue con
+ellos tanto la eficiencia estática, minimizando los costes de reducción de las emisiones, como la eficiencia dinámica, ya que proporcionan incentivos para innovar. Esto
+es así ya que las empresas producirán hasta que el tipo impositivo se iguale con los
+costes marginales de reducción de GEI.
+Con los impuestos sobre emisiones se consiguen fundamentalmente tres
+objetivos. El primero es que se envían señales claras a los consumidores acerca de
+qué bienes y servicios tienen alto contenido en carbono. El segundo objetivo es que
+inducen a los productores a no utilizar inputs con contenido alto en carbono, como
+el carbón y el petróleo, y a utilizar, en cambio, aquellos inputs con bajo contenido
+en carbono, como energía nuclear, solar, eólica o biocarburantes. El tercero, es que
+proporcionan incentivos a investigadores e innovadores para desarrollar fuentes
+energéticas bajas en carbono y que pueden sustituir de manera eficiente a las tecnologías actuales
+Un atractivo adicional de este enfoque es que puede proporcionar un
+doble dividendo: reduce las emisiones y proporciona ingresos fiscales que pueden
+utilizarse para la reducción de impuestos sobre el trabajo y el capital, o bien para
+financiar otro tipo de proyectos que se consideren socialmente razonables y, desde luego, para poder paliar sus posibles efectos regresivos.
+Entre los inconvenientes de la utilización de impuestos cabe citar los
+siguientes: no es posible asegurar el nivel de reducción en las emisiones de GEI
+que se puede llegar a alcanzar, y requiere un conjunto muy amplio de información
+sobre la producción y emisiones de las empresas. En general es poco popular, y la
+prueba evidente es que pocos candidatos a puestos electos, tanto en EE.UU. como
+en la mayoría de las democracias occidentales, proponen un impuesto sobre las
+emisiones de CO2, porque son conscientes de que los votantes prefieren soluciones que creen más baratas, o bien soluciones que les induzcan a creer que las
+pagan otros.
+
+566
+
+
+
+Como hemos dicho, los permisos transferibles de emisión tienen su fundamento teórico en el teorema de Coase según el cual si los derechos de propiedad están bien definidos y no hay costes de transacción, todas las externalidades
+son susceptibles de ser internalizadas mediante negociaciones voluntarias entre los
+agentes que las producen y aquellos a los que les afectan. Cuando los costes de
+transacción son altos las autoridades pueden asumir la responsabilidad de reducirlos por medio de regulaciones de obligado cumplimiento.
+El paso previo a la utilización de este instrumento es la asignación de
+derechos de emisión a los agentes contaminantes, fijando previamente un límite
+máximo global de emisión de GEI. Además, estos permisos son transferibles entre
+los agentes a los que se les permite participar en el mercado de tal forma que,
+mediante sus intercambios, los agentes económicos ajustan sus esfuerzos de reducción a sus estructuras de costes y a su capacidad de innovación. De esta manera,
+empresas o sectores económicos con distintos costes marginales de reducción de
+emisiones intercambian en un mercado único permisos a un precio igual a sus costes marginales de reducción de emisiones de GEI.
+Una característica central de este instrumento es que permite alcanzar
+cualquier reducción acordada de antemano, siempre que esta cifra se defina de forma realista y que el nivel de participación de los agentes emisores sea elevado. Si
+los costes de transacción se mantienen en niveles razonables, se alcanza tanto eficiencia estática como dinámica.
+Los permisos de emisión transferibles son de uso relativamente generalizado en EE.UU. y es el tipo de instrumento que se incorporó al Protocolo de Kyoto, y desde entonces han sido analizados desde muchas vertientes sus ventajas e
+inconvenientes. Con objeto de cumplir con las obligaciones derivadas de este Protocolo, la Unión Europea ha creado un régimen de comercio de derechos de emisión: European Union’s Emissions Trading System, EU-ETS en sus siglas en inglés,
+que ha supuesto un primer paso importante en la dirección correcta, y que le ha
+otorgado un papel protagonista en la reducción de emisiones de GEI; pese a las
+indudables dificultades que supuso su puesta en marcha en el período inicial de
+2005 a 2007, relacionadas con el exceso de derechos y la incertidumbre del mercado que condujo a mucha volatilidad en los precios y a valores próximos a cero. Su
+principal valor es el propósito de crear la infraestructura inicial que permita supervisar y obligar al cumplimiento de los objetivos propuestos.
+Un problema no menor en la puesta en práctica de este tipo de instrumentos es la asignación inicial de permisos, no solo entre empresas o sectores, sino también entre países. Esta dificultad surge del hecho de que son precisamente los países desarrollados, como hemos visto, aquellos que más han contribuido al efecto
+invernadero, mientras que los países en desarrollo creen estar en su derecho a
+
+567
+
+
+
+seguir aumentando sus niveles de renta, aun utilizando y aumentando la infraestructura energética disponible y que es enormemente intensiva en carbono. Hay
+que recordar que todavía hoy hay, en estos países, 1.500 millones de personas que
+no disponen de electricidad.
+Indudablemente, el éxito de estas estrategias de mitigación de emisiones
+deberá contar con el mayor número posible de países, tanto desarrollados como en
+vías de desarrollo. En particular, entre los primeros se deben incorporar EE.UU.,
+que no ratificó el Protocolo, y Australia, que aunque no lo hizo inicialmente en
+Kyoto, sí lo hizo en la reciente reunión de Bali. Entre los segundos deben incorporarse India y China, que desde 2006 es ya el primer emisor de CO2 seguido de
+EE.UU.
+Del planteamiento económico que hemos realizado se deduce que para
+tratar con el tipo de externalidad global que supone la emisión de CO2, se requieren teóricamente soluciones globales pero, como hemos visto, y la experiencia del
+Protocolo de Kyoto demuestra, es difícil ponerlas en marcha exigiendo la incorporación de todos los países simultáneamente en una fecha dada.
+Existen algunas aproximaciones recientes, bien fundadas teóricamente, que
+no requieren la incorporación simultánea de todos los países. Así, por ejemplo, Pizer
+(2006) defiende que las negociaciones sobre emisiones deben considerarse como una
+actividad iterativa, en la que unos países dan un paso hacia adelante y ven la reacción de aquellos que no se han sumado al proyecto. Ello no conduce necesariamente a que los países no incorporados permanezcan como free-riders, es decir, que sin
+hacer ellos nada pretendan que el problema se lo resuelvan de manera permanente
+los otros. El fundamento teórico para que esta situación no se consolide está en el
+trabajo de Axelrod (2006) quien generalizando el conocido dilema del prisionero de
+la teoría de juegos a una situación dinámica en la que los agentes negociadores saben
+que tienen sucesivas oportunidades para expresar su opinión, muestra que, a diferencia del caso estático, se alcanza una solución cooperativa.
+
+PRIORIDADES DE GASTO: CONSENSO DE COPENHAGUE
+Como he señalado al principio, la naturaleza a medio y largo plazo del
+problema de CC tiende a encauzar el gasto a necesidades más inmediatas relacionadas con llamativas situaciones de pobreza y enfermedades. Un ejercicio de esta
+naturaleza es el que se abordó en la conferencia The Copenhagen Consensus dirigida por Lomborg (2004), y en la que participaron muy relevantes economistas,
+entre ellos varios Nobel. El ejercicio consistió en maximizar el beneficio obtenido
+en la inversión de 50 billones de dólares, a lo largo de cinco años, en diez de los
+
+568
+
+
+
+problemas básicos a los que hoy se enfrenta la humanidad. La lista es la siguiente:
+enfermedades infecciosas, especialmente el SIDA, proliferación de armamento y
+conflictos militares, inestabilidad financiera, educación, sanidad, gobierno y corrupción, crecimiento demográfico, barreras comerciales y subsidios, hambre y malnutrición y, finalmente, cambio climático. Resumiendo mucho el resultado alcanzado,
+cabe decir que el total de la inversión se distribuyó en cuatro proyectos, que en
+orden de importancia fueron los siguientes: el SIDA, el hambre y la malnutrición,
+la supresión de barreras comerciales y, finalmente, la malaria. Estas conclusiones
+fuero avaladas por los correspondientes análisis coste-beneficio, y una de las conclusiones alcanzadas fue: «que los costes de hacer algo para combatir el cambio
+climático exceden los beneficios que se alcanzan».
+Es este un caso típico de problema no solo subjetivamente tratado, sino
+también erróneamente planteado. En efecto, los recursos asignados y los problemas
+a abordar coinciden básicamente con los programas que los países desarrollados
+financian en los países en vías de desarrollo. En este sentido, el proceso de selección de personas estuvo sesgado, ya que una gran mayoría de ellas tenía como
+principal actividad profesional su dedicación a problemas de desarrollo económico
+en países pobres. Además, no parece razonable plantear el falso dilema de ayuda
+al desarrollo o lucha contra el CC, ninguna política pública de los países desarrollados se plantea en estos términos.
+A estas alturas parece obvio que el problema de CC no debe tratarse simplemente como una posibilidad de inversión entre varias alternativas, debe tratarse
+como un fallo de mercado, teniendo en cuenta las características básicas de las
+externalidades negativas que se generan: globalidad, largo plazo, incertidumbre e
+irreversibilidad en sus efectos. Si así se hiciera, difícilmente se podría comparar con
+dramáticos problemas de carácter local, a corto plazo y ausentes de incertidumbre.
+Por otra parte, la característica de irreversibilidad hace que la estabilidad del clima
+deba plantearse como prerrequisito para cualquier política de desarrollo económico, de manera análoga a como, por ejemplo, la paz y la estabilidad se consideran
+como condiciones necesarias, que no suficientes, del progreso humano.
+Por otra parte, los análisis coste beneficio que hace Lomborg para la evaluación de las distintas alternativas de proyectos asignan a la mitigación del CC tasas
+de descuento del 5% mientras que, por ejemplo, a la prevención del SIDA se le asigna un 3%. Procediendo de esta manera se aseguran de antemano los resultados que
+se quieren alcanzar. Ya hemos discutido lo erróneo de utilizar tasas tan altas en proyectos de horizontes temporales superiores a cincuenta años. Por definición, tasas
+altas en proyectos a plazos muy largos los sitúan siempre en la prioridad más baja.
+No está de más un simple ejercicio aritmético. Si utilizamos una tasa del 1% en 300
+años el valor descontado de un millón de euros es aproximadamente 50.000 euros.
+Pero si la tasa es del 5% el valor descontado es menos de 50 céntimos. Nótese que
+
+569
+
+
+
+el efecto es fuertemente no lineal: la tasa de descuento es cinco veces menor y el
+valor descontado 100.000 veces menor. Además, en el análisis que se lleva acabo
+se ignoran tanto los aspectos éticos del debate sobre CC como la incertidumbre que
+lo define, de tal manera que se eligen siempre, para un tratamiento determinista,
+los escenarios más optimistas.
+También parece no entenderse el tipo de soluciones de mercado que se
+proponen para combatir el CC, y a las que aquí nos hemos referido, consistentes
+en modificar vía precios, y no por inversión directa, los hábitos de consumo intensivos en carbono. Obviamente la reducción de emisiones por estos procedimientos
+entraña un coste, que soportan mayoritariamente determinados sectores económicos, pero que no se detrae de partida presupuestaria alguna. En último término, los
+recursos obtenidos corrigiendo las externalidades de esta forma podrían emplearse
+para diversos fines, entre otros, para la ayuda al desarrollo.
+Finalmente, decir que lo anterior no sugiere, en modo alguno, que la
+lucha contra la enfermedad y la pobreza no deba tener la más alta prioridad. Lo
+que se trata de poner de manifiesto es que se ha planteado el problema erróneamente. Como es natural, aun en un entorno de recursos escasos es posible prestar
+atención al CC y combatir decididamente el SIDA, de la misma forma que debe
+seguir invirtiéndose en armamento y defensa y en la rehabilitación del patrimonio
+histórico. De hecho, los gobiernos gastan de forma rutinaria cantidades ingentes de
+dinero en proyectos que no aparecen por lado alguno en la lista del llamado Consenso de Copenhague. Los problemas de asignación de recursos en el mundo real
+no se plantean de esta forma. Más bien al contrario, como los trabajos del Banco
+Mundial ponen de manifiesto, WB (2007), en palabras de su vicepresidenta Catherine Sierra: «en el Banco Mundial creemos que el cambio climático, y la adaptación
+de los países en vías de desarrollo a él, es un reto crítico de nuestro tiempo y debe
+ser integrado en el núcleo de las estrategias de desarrollo».
+
+NOTA SOBRE ENERGÍAS ALTERNATIVAS
+En un reciente artículo de la revista Nature (2008), científicos preocupados no solo por la economía, sino también por la política del clima, afirman que
+la política tecnológica debe ser más importante que los instrumentos de control de
+emisiones. En efecto, es éste un asunto central; por esta razón, los acuerdos y
+legislaciones que limiten de una u otra forma las emisiones de GEI deben estar
+orientados a crear, dentro de los mecanismos de la economía de mercado, los
+incentivos suficientes para que estas innovaciones tecnológicas tengan lugar. Los
+instrumentos de mercado que hemos descrito están orientados al cumplimiento de
+esta condición.
+
+570
+
+
+
+Antes de seguir, quizás sea importante señalar que en 2006 las fuentes primarias de energía se distribuyeron de la siguiente forma: el 86% proceden de combustibles fósiles, con la siguiente distribución: 28% combustibles sólidos, 38% petróleo y 20% gas natural. El resto se distribuyó en 7% hidroeléctrica, 6% nuclear y el
+1% renovables. Es decir, el 86% de la energía primaria utilizada genera GEI.
+Alguna aritmética simple puede darnos una idea del orden de magnitud
+del problema. El crecimiento económico y demográfico previsto, y deseable, nos
+señala que, a mediados de este siglo, tendremos una economía mundial que será
+cuatro veces mayor que la actual. Parece obvio que una infraestructura energética
+que replique y extrapole la actual no es ni defendible ni soportable, teniendo en
+cuenta los tremendos flujos de GEI que conlleva. Existen dos grandes estrategias
+para hacer frente a esta situación. La primera es aumentar la eficiencia energética
+de nuestras economías, y la segunda es la decarbonización de la energía.
+Por ejemplo, moviéndonos en estos órdenes de magnitud, simplemente
+para mantenernos en la situación actual de emisiones de GEI tendríamos que
+aumentar la eficiencia energética por dos y reducir la utilización de carbono energético en la mitad, y esto aún nos dejaría en una situación que ya no es deseable.
+Sin embargo, hay que tener en cuenta que los combustibles sólidos continuarán
+siendo durante mucho tiempo una fuente de energía muy importante; piénsese en
+las enormes reservas de carbón de China, y en que cada semana se construye una
+gran planta de generación eléctrica de carbón en dicho país.
+Una consideración no menor es el hecho de que una parte sustancial de
+los combustibles fósiles están localizados en países caracterizados por una fuerte
+inestabilidad política. No tanto en cuanto al carbón, ya que EE.UU. y China tienen
+ingentes reservas, pero sí en cuanto al gas y al petróleo. Pareciera que la disponibilidad de este tipo de recursos conduce a pésimos gobiernos en países que, por
+otra parte, carecen de las instituciones necesarias para proporcionar los incentivos
+adecuados que corrijan tales comportamientos. Cuando escribo estas líneas es difícil dejar de pensar en el comportamiento de dirigentes políticos como Vladímir
+Putin, Mahmud Ahmadineyad y Hugo Chávez para constatar la vulnerabilidad energética del modelo actual de crecimiento económico. He aquí un motivo más para
+despertar de la rutina energética en la que están varados los países democráticos.
+Una crítica frecuente a la puesta en marcha de nuevas tecnologías energéticas son los tratamientos preferenciales que reciben, incluyendo varios tipos de subvenciones. Se olvida, sin embargo, que todas las tecnologías actuales, preferentemente las que utilizan combustibles fósiles, están plagadas de incontables subvenciones
+tanto explícitas como implícitas, en un contexto muy poco liberalizado y en el que
+la mayor parte de las decisiones y precios está regulada. Como es obvio, estas subvenciones inducen precios artificialmente bajos que conducen a un nivel de consu-
+
+571
+
+
+
+mo muy superior al que hubiera habido en su ausencia. Son doblemente perjudiciales: para la economía y para el CC y, además, la experiencia indica que una vez establecidas son prácticamente inamovibles. Hace más de diez años que The Economist
+(1997) estimaba, en uno de sus editoriales, que las subvenciones que recibía la industria energética mundial eran superiores a 600 billones de dólares al año. Cifra superada en el trabajo de Myers y otros (2007) que estiman la subvención global en dos
+trillones de dólares. Tal y como Myers escribe en el Financial Times (2003), el
+Gobierno británico asigna cada año en subvenciones al sector de combustibles sólidos de 6 a 8 libras por cada libra que asigna al sector de energías renovables.
+Desde luego, la economía global se caracteriza mejor por una permanente evolución hacia cambios fundamentales que por su convergencia hacia un predecible estado estacionario. En este contexto, es difícil vislumbrar de antemano cuáles serán las nuevas tecnologías energéticas predominantes en el futuro, y cuánto
+tiempo requerirán para hacerse competitivas. Un buen ejemplo de esta afirmación
+se proporciona en el trabajo de Fouquet y Pearson (2006) respecto a las tecnologías y precios relacionados con la luz artificial en los últimos setecientos años, con
+particular énfasis a partir de 1800. En efecto, las transiciones tecnológicas en este
+ámbito pueden requerir espacios de tiempo considerables. Así, se necesitaron cuarenta años desde que se introdujo la luz incandescente a finales de la década de
+1870 hasta que llegó a ser competitiva con la luz de gas, ya que en un principio
+era cuatro veces más cara. En cuanto a la evolución de los costes de la luz artificial
+hoy cuesta 3.000 veces menos que en 1800 y 140 veces menos que en 1900. Si este
+tipo de análisis algo también enseña, es que no se deben extrapolar tendencias
+pasadas para predecir evoluciones futuras, sobre todo en presencia de fuertes innovaciones tecnológicas.
+Es obvio que el sector privado tiene que jugar un papel predominante en
+el desarrollo de nuevas tecnologías energéticas, pero también hay que constatar que
+los recursos públicos dedicados a un problema tan relevante para el desarrollo económico y social son ridículos. Veamos algunas cifras, tomadas de Sachs (2008). El
+Gobierno de EE.UU. invirtió 2.000 millones de euros en el año 2006 en investigación
+y desarrollo energéticos, lo que significa un descenso del 40% respecto a la cifra de
+la década de 1980, y hoy representa el gasto de defensa de solamente día y medio.
+La situación es incluso más llamativa si desagregamos las cifras: en energías renovables la cifra ascendió a 152 millones de euros, lo que equivale al gasto en defensa
+de tres horas. Pero Europa presenta cifras todavía peores, ya que su inversión en
+I+D en nuevas tecnologías energéticas en proporción al PIB, es inferior a la correspondiente a EE.UU. y, además, también ha ido disminuyendo a lo largo de los últimos años.
+Desde luego, hay que ser prudente con la indiscriminada exigencia de más
+inversión pública para el desarrollo de nuevas tecnologías energéticas, aunque solo
+
+572
+
+
+
+sea por el riesgo que supone que las burocracias administrativas asignen los recursos a determinados proyectos que previamente hayan sido elegidos por razones
+estrictamente políticas o por presiones de determinados grupos de interés. Pero
+también hay que reconocer, que desarrollos derivados de la I+D pública incluyen,
+por ejemplo, la aviación comercial, gran parte de los instrumentos de cálculo, información y comunicación modernos, la miniaturización de la electrónica y la electrónica de consumo, el fenómeno de Internet y, en fin, para bien o para mal la energía nuclear. El objetivo de la intervención pública no debe ser otro que promover
+la innovación y garantizar un mercado a los proyectos que realmente funcionen.
+Como quiera que, durante mucho tiempo, la energía procedente de combustibles sólidos será una parte muy relevante del mix energético mundial, es importante avanzar en el análisis de la viabilidad y seguridad de las técnicas de captura y
+almacenamiento del carbono en estos procesos productivos. Para no generar falsas
+expectativas, habría que despejar las enormes dudas que existen sobre su viabilidad
+económica y sobre los riesgos del mantenimiento a largo plazo de los depósitos de
+CO2, tanto bajo tierra como bajo los océanos. Hay que señalar que ésta es la propuesta preferida por la muy potente e influyente industria de la energía fósil.
+En todo caso, las técnicas de captura y almacenamiento de CO2 no serían
+aplicables al sistema de transporte, que también requeriría un cambio sustancial.
+Por ejemplo, en la actualidad hay mil millones de automóviles, y no sería descartable que a mediados de siglo se alcanzara una cifra superior a los dos mil millones
+lo que, siguiendo los criterios de estabilización de GEI en los niveles actuales,
+requeriría, bien hacerlos dos veces más eficientes, o la utilización sustancial de biocarburantes que facilitara una apreciable reducción en la emisión de GEI.
+Muchos de los sustanciales avances que la historia económica de los pasados siglos recoge han tenido que ver con innovaciones energéticas, desde las
+máquinas de vapor hasta la producción eficiente de energía eléctrica y el desarrollo de nuevos sistemas de transporte. Todo ello fundado, en gran medida, en precios de combustibles no renovables que se han mantenido en unos niveles que no
+serán sostenibles en un futuro. Es un dato que los recursos utilizados en la energía
+de origen fósil no volverán a sus precios del pasado. El petróleo ha dejado de ser
+barato, está en sus límites históricos máximos, y el precio del gas evoluciona en
+paralelo, y aunque este no es el caso del carbón no parece que ésta sea la solución
+de futuro. Cierto es que el carbón es la tecnología preferida en el proceso de industrialización de los países asiáticos, pero no lo es, desde luego, en las economías de
+Europa y América. Y hay que tener en cuenta que en estos precios aún no está
+incorporado el coste de las externalidades negativas que generan. Esta situación
+abre, por elemental lógica económica, indiscutibles posibilidades a la energía solar
+y eólica, ya que el precio de los recursos que utilizan es conocido, hoy y en el futuro, y es igual a cero. Esta certidumbre económica justifica por sí sola la asignación
+
+573
+
+
+
+de recursos a su desarrollo y, en un principio, las altas inversiones que sus instalaciones requieren y que hoy pueden comparar desfavorablemente con las de las
+energías no renovables. Además, la oferta de estos recursos es tal que, por ejemplo, la energía solar que llega a la Tierra es mil veces superior al consumo energético comercial.
+Por otra parte, habría que volver a recordar conocimientos de nuestro
+bachillerato, para afirmar que el mecanismo más seguro para almacenar CO2 son
+las plantas y árboles, mediante el proceso de fotosíntesis por el que se transforma
+la energía solar en química absorbiendo CO2 para fijarlo en forma de biomasa y
+liberando oxígeno (O2) a la atmósfera. Como señala Houghton (2004), el proceso
+de deforestación contribuye un 18% al total de las emisiones anuales de CO2, es
+decir, una cifra del mismo orden de magnitud que las emisiones del sistema de
+transporte. Se recuerda con frecuencia que China y EE.UU. son los principales emisores de CO2; se suele olvidar, sin embargo, que Brasil e Indonesia ocupan los
+puestos tercero y cuarto en este ranking, debido al incesante proceso de deforestación al que están sometidos. Una decisión sensata sería terminar con este proceso, y empezar eficientes planes de reforestación, que por otra parte proporcionarían resultados con carácter inmediato en contraposición con las fuertes inversiones
+y largos horizontes de tiempo que inevitablemente conllevan otras tecnologías de
+reducción de CO2.
+Pero, en fin, no es este el lugar para hacer un catálogo exhaustivo de las
+energías de futuro y del futuro de las energías renovables, pero sí quiero poner un
+ejemplo actual, reflejado con intensidad en los medios de comunicación en los últimos meses, que puede poner de manifiesto las dificultades inherentes al cambio de
+fuentes básicas de energía.
+En efecto, la relativa simplicidad de los números e ideas anteriores no
+debe ocultar las enormes resistencias al cambio, y la defensa del statu quo tecnológico actual. Parecería como si en este caso hubiera una cierta negación de una
+tesis básica de la economía de mercado, la destrucción creativa de Schumpeter,
+consistente en la tendencia a que nuevos problemas e incentivos propicien la desaparición de viejas empresas y la creación de otras nuevas y más eficientes. Valga,
+como ejemplo, el caso de las imputaciones a los biocarburantes de ser los causantes del tremendo aumento del precio de las materias primas alimentarias, de los
+recientes episodios de hambre en países subdesarrollados y, en fin, de la pérdida
+de biodiversidad y acciones de deforestación en algunas zonas del planeta. Imputaciones que hemos visto, y estamos viendo estos días, amplificadas en los medios
+de comunicación nacionales e internacionales.
+Es este el clásico ejemplo de relación causal espuria: una variable aumenta, la producción de biocarburantes, la otra también lo hace, el precio de los ali-
+
+574
+
+
+
+mentos, luego están relacionadas causalmente. Da un cierto rubor tener que pararse a rebatir este tipo de afirmaciones, por otra parte realizadas tanto por dirigentes
+políticos como por conocidos catedráticos de prestigiosas universidades, pasando
+por diversas organizaciones políticas y económicas, tanto nacionales como internacionales. Me imagino que algunos lo harán por ignorancia y otros porque defienden los intereses de determinadas industrias energéticas, alimentarias y de transporte, tal y como desarrollan hoy su actividad. Y es obvio que es difícil convencer a
+alguien al que precisamente pagan para que no sea convencido.
+No hacen falta sofisticados análisis econométricos para demostrar esta falsa causalidad, basta señalar que en la producción de biocarburantes se ha utilizado
+solamente un 3% de la demanda mundial de cereales en el año 2007. Cierto es que
+se ha producido un enorme aumento del precio del maíz, del trigo y de otras materias oleaginosas de las que se derivan los biocarburantes, pero no, por ejemplo, del
+azúcar que junto con el maíz es el mayor input agrícola en la producción de etanol.
+Por el contrario, el precio del azúcar ha bajado en este año un 35%, y ello a pesar
+de que la caña que lo produce es la materia prima del etanol brasileño.
+Pero también es cierto que el mismo fenómeno de incremento de precios
+ha afectado al arroz, al algodón y a la leche, y poco tienen que ver con la producción de biocarburantes. Concretamente, el arroz es el cereal que más ha subido de
+precio. Se ha llegado a la ridícula situación de achacar a la producción de bioetanol en EE.UU., los altos precios alcanzados por las tortillas mexicanas, que se elaboran con un maíz blanco producido totalmente en México y que, en todo caso, es
+distinto del maíz amarillo utilizado en la industria americana del bioetanol, que no
+se utiliza para la alimentación humana.
+Más bien las razones del incremento de precios de algunos cereales estriban en las malas cosechas de los grandes países productores, al incremento del precio del crudo y consiguientemente del transporte, al tremendo aumento de la
+demanda de países emergentes y, sobre todo, a las muy desafortunadas políticas
+agrícolas de los países desarrollados y subdesarrollados sostenidas durante décadas.
+También, por qué no decirlo, a ciertos procesos especulativos. Seguramente no es
+la especulación la que ha creado el movimiento al alza de los productos agrícolas,
+pero la está amplificando y puede crear efectos desestabilizadores que impidan el
+normal desarrollo a medio plazo de la producción de alimentos en los países en
+desarrollo.
+Por otra parte, según la OCDE, aparte de las tierras ya cultivadas actualmente, hay 440 millones de hectáreas en los países pobres, excluyendo bosques y
+pastos, que podrían ser dedicadas a cultivos alimentarios o bioenergéticos, lo que
+señalaría un camino eficiente para que pudieran salir de la pobreza. Ello requeriría, como es natural, ayudas a la financiación de maquinaria, de fertilizantes y de
+
+575
+
+
+
+infraestructuras, junto con la consolidación de indispensables estructuras organizativas. Parece claro que la vida en el mundo rural podría beneficiarse apreciablemente con una política inteligente sobre biocombustibles y energías renovables.
+Pero, sobre todo lo anterior, está la realidad de que los biocarburantes son,
+en el horizonte de los próximos años, la única alternativa disponible para disminuir
+el impacto ambiental del transporte que hoy produce el 14% de los GEI. Lamentablemente, y dados los enormes intereses económicos en juego, probablemente se
+generaran polémicas análogas incluso con los biocarburantes de segunda generación, que son aquellos que utilizan biomasa lignocelulósica, materia prima que no
+es utilizada en alimentación.
+En fin, hay que esperar que los debates que necesariamente tendrán que
+tener lugar sobre las energías no fósiles, incluyendo la nuclear, con objeto de evaluar no solo los riesgos de la gestión de las plantas sino también de los residuos, se
+hagan sobre alguna base científica y económica más sólida que el debate que acabo de describir sobre los biocarburantes.
+
+CONCLUSIONES
+El cambio climático es una realidad, y la evidencia científica disponible
+indica que ha llegado el momento de dejar de poner, exclusivamente, énfasis en el
+debate de si realmente está teniendo lugar y cuáles son las causas de este cambio.
+Es el momento de debatir seriamente sobre las medidas que hay que tomar y los
+costes, a corto y medio plazo, que estamos dispuestos a asumir. Indudablemente es
+necesario seguir investigando sobre muchos aspectos alrededor del CC y las causas
+que lo originan. Sin embargo, es importante tomar ya decisiones fundadas en los
+conocimientos de los que dispone la comunidad científica.
+Las características específicas de la externalidades negativas que las emisiones de GEI generan deben ser tenidas muy en cuenta a la hora de plantearse los
+análisis coste beneficio y de diseñar los instrumentos de control de estas emisiones.
+En muchos aspectos presentan un formidable reto a las aproximaciones económicas tradicionales, ya que incorporan cambios no marginales, significativos riesgos e
+irreversibilidades.
+Difícilmente se pueden soslayar los aspectos éticos que el debate entraña,
+y que en términos económicos se traducen en la elección de una tasa de descuento. La excusa de dejar el cálculo de estas tasas a los valores observados en el mercado no es, a mi entender, válida. Ello equivaldría a conocer estas tasas para proyectos con horizontes temporales superiores a cincuenta años, y hay que tener en
+
+576
+
+
+
+cuenta que los costes asociados a escenarios probables del CC ponen incluso en
+duda la viabilidad, a esos plazos, de tasas razonables de crecimiento económico. Se
+hace difícil imaginar como los mercados actuales de acciones o bonos pueden recoger las preferencias de generaciones todavía no nacidas. No parece fácil poder justificar decisiones que discriminen a las personas por su fecha de nacimiento.
+También necesariamente hay que tener en cuenta la incertidumbre que
+rodea cualquier intento de modelización del proceso de CC, así como la dificultad
+de incorporar en términos económicos relevantes transformaciones en el medio
+natural, que conllevan riesgos futuros para el mantenimiento de las costumbres y
+comportamientos de la población es sus actuales localizaciones. Más problemática
+aún se plantea la hipótesis de estacionariedad de las preferencias, es decir, que las
+preferencias de las generaciones futuras serán las mismas que las nuestras.
+Los instrumentos de control que deben utilizarse son aquellos que proporcionen incentivos a los agentes económicos para que reduzcan sus emisiones y desarrollen tecnologías menos contaminantes. Aunque en la exposición se diferenciaron dos tipos de estos instrumentos de mercado: la fijación de impuestos y la
+implantación de mercados de permisos de emisión negociables, muy probablemente la práctica conducirá a definir políticas que combinen ambos, y que en algunos
+aspectos pueden ser complementarios. La idea central es que los precios actuales
+de los combustibles sólidos no reflejan sus costes totales en términos sociales y de
+flujos de GEI. Todo debiera volver al viejo principio de que quien contamina tiene
+que pagar. En todo caso, siempre será deseable su aplicación gradual, dejando un
+margen para las situaciones transitorias y específicas, teniendo en cuenta los contextos socioeconómicos en los que se apliquen. Cualquier actuación debe estar
+siempre guiada por los principios de efectividad, eficiencia y equidad.
+Hay que alejarse, en la medida de lo posible, de soluciones inflexibles y
+estrictamente centralizadas, que conducirían inevitablemente a los errores e ineficiencias que la historia económica nos enseña. En todo caso, hay que ser conscientes que el proceso de calentamiento global genera las mayores externalidades negativas que la humanidad ha vivido.
+El modelo energético actual no es sostenible, y por consiguiente representa una seria restricción para el crecimiento económico tal y como lo hemos concebido en el pasado, sobre la base de abundante y barata energía fósil, y absoluta
+despreocupación de los problemas de calentamiento global que plantea. La solución al problema del CC pasa ineludiblemente por romper, o debilitar significativamente, el fuerte vínculo que existe entre actividad económica y emisión de GEI.
+Es difícil predecir cuáles pueden ser las alternativas de futuro y en qué
+horizontes temporales llegarán a ser competitivas. Sin embargo, importantes desa-
+
+577
+
+
+
+rrollos tecnológicos recientes señalan claramente algunas candidatas. Hay que ser
+conscientes de las enormes dificultades que entraña el cambio del statu quo actual
+de la industria energética, que por otra parte está caracterizada por múltiples ayudas e ingentes subvenciones públicas de todo tipo.
+En definitiva, creemos que una actuación temprana es necesaria y es posible, ya que las tecnologías están disponibles y los fundamentos económicos y los
+instrumentos políticos en los que se deben enmarcar estas actuaciones son conocidos. La inacción es arriesgada y cara.
+
+REFERENCIAS
+ANAND, S. y A. K. SEN (2000), “Human development and economic sustainability”, World
+Development, vol. 28, n.º 12, pp. 2029-2049.
+ARRHENIUS, S. (1896), “On the influence of carbonic acid in the air upon the temperature of
+the ground”, Philosophical Magazine, vol. 41, pp. 237-276.
+ARROW, K. J., P. DASGUPTA et al. (2004), “Are we consuming too much?”, Journal of Economic Perspectives, vol. 18, n.º 3, pp. 147-172.
+AXELROD, R. (2006), The Evolution of Cooperation, edición revisada, Perseus Book Group,
+Nueva York.
+CDIAC (2007), Carbon Dioxide Information Analysis Center, United States Department of
+Energy, http://cdiac.ornl.gov, consultado en mayo 2008.
+COASE, R. (1960), “The problem of social cost”, The Journal of Law and Economics, vol. 3,
+pp. 1-44.
+DASGUPTA, P. (2007), “Commentary: The Stern review’s economics of climate change”, National Institute Economic Review, vol. 199, pp. 4-7.
+ECONOMIST, THE (1997), “To much hot air”, 13 marzo.
+EU (2007), Climate Change Adaptation Policy, http://www.euractiv.com/en/climate-change/,
+consultado en mayo 2008.
+FINANCIAL TIMES (2003), “The no-win madness of catch-22 subsidies”, por NORMAN MYERS, 28
+julio.
+FOUQUET, R. y P.J.G. PEARSON (2006), “Seven centuries of energy services: the price and use
+of light in the United Kingdom (1300-2000)”, The Energy Journal, vol. 27, n.º 1,
+pp. 139-177.
+
+578
+
+
+
+HANSEN, J.E. (2007), “Climate catastrophe”, New Scientist, 195, n.º 2.614, 28 julio, pp. 30-34.
+http://pubs.giss.nasa.gov/docs/2007/2007_Hansen_2.pdf, consultado en mayo 2008.
+HICKS, J.R. (1939), “The foundations of welfare economics”, The Economic Journal, vol. 49,
+pp. 696-712.
+HOUGHTON, J. (2004), Global Warming, 3.ª edición, Cambridge University Press, Cambridge,
+Reino Unido.
+IPCC (2001), Intergovernmental Panel on Climate Change. Climate Change 2001: Synthesis
+Report, Cambridge University Press, Cambridge, Reino Unido.
+— (2007), Intergovernmental Panel on Climate Change, http://www.ipcc.ch/, consultado en
+mayo 2008.
+— (2007a), Intergovernmental Panel on Climate Change. Climate Change 2007: The Physical Science Basis, Cambridge University Press, Cambridge, Reino Unido.
+— (2007b), Intergovernmental Panel on Climate Change. Climate Change 2007: Impacts, Adaptation and Vulnerability, Cambridge University Press, Cambridge, Reino Unido.
+— (2007c), Intergovernmental Panel on Climate Change. Climate Change 2007: Mitigation of
+Climate Change, Cambridge University Press, Cambridge, Reino Unido.
+INTERNATIONAL MONETARY FUND, IMF (2008), “Climate change and the global economy». En
+World Economic Outlook, Capítulo 4, International Monetary Fund, Washington DC:
+http://www.imf.org/external/pubs/ft/survey/so/2007/RES1026A.htm, consultado en
+mayo 2008.
+J OINT S CIENCE A CADEMIES ’ S TATEMENT , Global Response to Climate Change (2005).
+http://royalsociety.org/document.asp?latest=1&id=3222, consultado en mayo 2008.
+— Growth and Responsibility: Sustainability, Energy Efficiency and Climate Protection (2007),
+http://www.nationalacademies.org/includes/G8Statement_Energy_07_May.pdf, consultado en mayo 2008.
+KALDOR, N. (1939), “Welfare propositions of economics and interpersonal comparisons of
+utility”, The Economic Journal, vol. 49, pp. 549-552.
+LOMBORG, B. (2004), Global Crises, Global Solutions, Cambridge University Press, Cambridge, Reino Unido.
+MYERS, N., N. E. GOLUBIEWSKI y C. J. CLEVELAND (2007), “Perverse subsidies”, en C. J. CLEVELAND
+(ed.), Encyclopedia of Earth, Washington, D.C.: Environmental Information Coalition,
+National Council for Science and the Environment, http://www.eoearth.org/article/
+Perverse_subsidies, consultado en mayo 2008.
+
+579
+
+
+
+NATIONAL
+
+AERONAUTICS AND SPACE ADMINISTRATION (2005),”Scientists confirm earth’s energy is
+out of balance”, http/www.nasa.gov/vision/earth/environment/earth_energy.html,
+consultado en mayo 2008.
+
+AND
+
+NATIONAL RESEARCH COUNCIL OF THE NATIONAL ACADEMIES (2006), Surface Temperature Reconstructions for the Last 2000 Years, The National Academic Press, Washington DC,
+http://books.nap.edu/catalog.php?record_id=11676, consultado en mayo 2008.
+NATURE (2008), vol. 452, 3 abril, pp. 531-532.
+NORDHAUS, W. D. (2007), “The Stern review on the economics of climate change”, Journal
+of Economic Literature, vol. 45, pp. 686-702.
+OECD (2008), Environmental Outlook to 2030, Paris. http://www.oecd.org/, consultado en
+mayo 2008.
+ORESKES, N. (2004), “Beyond the ivory tower: The scientific consensus on climate change”,
+Science, vol. 306, 3 diciembre, p. 1.686.
+PARETO, V. (1896-1897), Cours d´Économie Politique, vol. 2, F. ROUGE, Lausanne.
+PIGOU, A. C. (1920), The Economics of Welfare, Macmillan, Londres, 4.ª edición, 1932.
+PIZER, W. A. (2006), “Economics versus climate change”, Resources for the Future, Discussion
+Paper 06-04, http://www.rff.org/Documents/RFF DP 06 04.pdf, consultado en mayo
+2008.
+RAMSEY, F. (1928), “A mathematical theory of saving”, The Economic Journal, vol. 38, pp. 543559.
+SACHS, J. (2008), “Reinventing energy”, Project Syndicate, Abril, http://project-syndicate. org/
+commentary/sachs140, consultado en mayo 2008.
+SELDEN, T. M. y D. SONG (1994), “Environmental quality and development: Is there a Kuznets
+curve for air pollution”, Journal of Environmental Economics and Management,
+vol. 27, pp. 147-162.
+SOLOW, R. M. (1974), “The economics of resources or the resources of economics”, American
+Economic Review, vol. 64, n.º 2, pp. 1-14.
+STERN, N. (2007), The Economics of Climate Change, Cambridge University Press, Cambridge,
+Reino Unido, http//www.occ.gov.uk/activities/stern.htm, consultado en mayo 2008.
+TOL, R. y YOHE, G. (2006), “A review of the Stern review”, World Economics, vol. 7, n.º 4,
+pp. 233-250.
+
+580
+
+
+
+UNFCCC (1994), The United Nations Framework Convention on Climate Change, http://
+unfccc.int/2860.php, consultado en mayo 2008.
+U.S. NATIONAL ACADEMY OF SCIENCES (2008), Understanding and Responding to Climate Change, National Academy Press, Washington DC, http://dels.nas.edu/dels/rpt_briefs/
+climate_change_2008_final.pdf, consultado en mayo 2008.
+WB (2007), World Bank. Climate Change and Adaptation, http://web.worldbank.org/, consultado en mayo 2008.
+WEITZMAN, M. L. (2007), “The Stern review of the economics of climate change”, Journal of
+Economic Literature, vol. 45, n.º 3, pp. 703-724.
+
+581
+
+
+
+

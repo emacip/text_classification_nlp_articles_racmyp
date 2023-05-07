@@ -1,0 +1,987 @@
+INSTITUCIONES, SHOCKS Y CRECIMIENTO:
+EE.U U ., EUROPA Y ESPAÑA
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez *
+
+El objetivo de esta intervención es presentar una panorámica del debate
+sobre si las diferencias entre el comportamiento de las economías estadounidense
+y de la UE en las tres últimas décadas se deben a factores estructurales, de distin­
+to diseño institucional o, por el contrario, tienen un fuerte componente cíclico. Este
+debate tiene importantes derivaciones desde el punto de vista de la política eco­
+nómica, y de la mayor o menor necesidad de reformas institucionales de gran cala­
+do en las economías europeas más desarrolladas.
+Trataré de articular la exposición en cuatro partes. En el primer epígrafe
+se describe el comportamiento de ambas economías entre las décadas de los años
+setenta y noventa centrándose principalmente en la evolución del empleo y el paro.
+En el segundo epígrafe se discute en qué medida este diferente comportamiento se
+debe a formas distintas de absorber las perturbaciones externas, a distintos diseños
+de la política de estabilidad macroeconómica o a diferencias institucionales, con­
+cluyendo que el enfoque con mayor capacidad explicativa es aquel que tiene en
+cuenta ambos factores y, además, las interrelaciones entre los ellos. En el tercer epí­
+grafe, se discute hasta qué punto existe evidencia que apoya la emergencia de una
+«nueva economía» que augura el crecimiento indefinido de la producción, empleo
+y productividad en condiciones de estabilidad de precios. En el último epígrafe se
+sintetizan algunas ideas sobre cómo la evidencia analizada señala hacia algunas
+posibles orientaciones de la política económica.
+
+* S e s ió n d e l d ía 2 4 d e o c tu b r e d e 2 0 0 0 .
+
+51
+
+
+
+DIFERENCIAS EN EL COMPORTAMIENTO ECONÓMICO
+
+Suele señalarse con frecuencia que el comportamiento de la economía
+estadounidense es mucho mejor que el de las economías europeas: crece más
+deprisa, genera más empleo y presenta una tasa de paro muy inferior, en el marco
+de una estabilidad macroeconómica semejante. Como todas las afirmaciones exce­
+sivamente genéricas en economía, ésta es en parte correcta y, en parte no desde­
+ñable, errónea.
+La evidencia de este distinto comportamiento, desde la perspectiva del
+desempleo, que es el problema principal de las economías europeas, aparece sin­
+tetizada en el siguiente cuadro:
+La comparación entre la primera y última columnas del Cuadro 1 per­
+mite concluir que en 1970 las economías europeas -con la excepción de Italiase encontraban en situación de pleno empleo, mientras que la economía esta­
+dounidense más que duplicaba esas tasas de paro; tres décadas más tarde la
+situación había revertido drásticamente, manteniendo los EEUU la tasa de paro
+de 1970 pero presentando las economías europeas unas tasas que en media
+duplicaban la estadounidense. En treinta años, las economías europeas habían
+cuadruplicado sus tasas de desempleo y los EEUU la habían mantenido cons­
+tante.
+Pero este análisis comparativo del período inicial y final de la serie tem­
+poral oculta mucha información.
+En primer lugar, que tras la brusca elevación del precio de los crudos,
+los EEUU aumentan su paro más rápidamente que las economías europeas, pero
+tras la superación de las dos perturbaciones de la década de los años 70 (el sub­
+período 1983-88), los EEUU flexionan ininterrumpidamente su tasa de desem­
+pleo mientras que en Europa ésta mantiene una tendencia creciente. Este com­
+portamiento parece responder al hecho de que la rapidez de ajuste de los EEUU
+ante una perturbación externa fue mayor que la europea, pero además señala
+también a un fenómeno de persistencia del desempleo en las economías euro­
+peas, frente a un comportamiento cíclico, sobre una tendencia plana, caracterís­
+tica de los EEUU.
+
+52
+
+
+
+C uadro 1
+T a s a s d e p a r o ( t o t a l e s y la r g a d u r a c i ó n ) ( * )
+
+1983-1988
+
+1989-1994
+
+1995-1999
+
+1970
+
+1975
+
+Total
+
+Total
+
+Total
+
+LD
+
+Total
+
+LD
+
+Total
+
+LD
+
+0,8
+2,1
+2,4
+2,4
+1,0
+5,3
+2,5
+1,4
+3,0
+0,7
+1,5
+1,9
+1,6
+4,8
+5,6
+
+3,6
+5,0
+3,7
+4,0
+5,2
+5,8
+5,5
+1,7
+4,5
+4,9
+1,6
+2,2
+2,3
+8,3
+6,9
+
+6,8
+11,3
+19,6
+9,8
+10,5
+6,9
+7,6
+3,6
+10,9
+9,0
+2,6
+5,1
+2,7
+7,1
+9,9
+
+3,1
+8,0
+11,3
+4,4
+5,5
+3,8
+4,2
+
+5,4
+8,1
+18,9
+10,4
+7,0
+8,2
+5,0
+3,7
+8,9
+10,8
+4,4
+10,5
+5,3
+6,2
+9,8
+
+2,2
+5,1
+9,7
+3,9
+3,5
+5,3
+2,0
+—
+3,4
+3,0
+0,4
+1,7
+1,2
+0,6
+0,9
+
+9,0
+9,5
+20,0
+11,9
+5,1
+11,7
+6,2
+4,2
+7,3
+6,0
+8,8
+12,9
+4,1
+4,9
+8,6
+
+4,6
+5,8
+10,8
+4,9
+2,4
+7,4
+3,0
+1,2
+2,6
+1,5
+2,8
+3,9
+0,5
+0,4
+1,2
+
+País
+
+Alemania (**) ................
+Bélgica ...........................
+España ...........................
+Francia ...........................
+Holanda .........................
+Italia ...............................
+Portugal ........................
+Austria ............................
+Reino Unido .................
+Dinamarca ....................
+Suecia .............................
+Finlandia .......................
+Noruega ........................
+EE. UU.............................
+Canadá ...........................
+
+—
+
+5,1
+3,0
+0,3
+1,0
+0,2
+0,7
+0,9
+
+(-) Los parados de larga duración son aquellos que llevan en situación de desempleo más de 12 meses.
+^ Hasta 1994 datos de la antigua RFA, para 1995-1999 datos de Alemania reunificada.
+Fuente: OECD Em ploym ent O utlook (varios números).
+
+Por tanto, un prim er fenóm eno al que buscar explicación es la persisten­
+cia » e Pistéresis- que presenta el desempleo europeo desde comienzos de la década
+de los años ochenta.
+En segundo lugar, a partir de 1983 se observa un valor muy elevado del
+paro de larga duración. Sólo en los EEUU y Canadá tiene muy poca importancia (el
+8% y 10% del total, respectivamente), bastante más en los países nórdicos (entre
+12% de Noruega y el 30% de Finlandia), y valores muy relevantes en las restantes
+economías, que superan un tercio del paro total en Suecia, Reino Unido y Francia,
+y la mitad en las demás.
+Por tanto, un segundo fenóm eno al que buscar explicación es la impor­
+tancia del p aro de larga duración » en las economías de la UEM.
+En tercer lugar, no se detecta un patrón común entre las economías euro­
+peas de la muestra analizada. Austria, Holanda, Portugal y los países nórdicos, con
+la excepción de Suecia, tienen tasas de paro cercanas a las de los EE.UU.; una eco­
+nomía ■■americana” como la canadiense tiene tasas europeas si bien el paro de lar­
+go duración es muy pequeño; y el mercado de trabajo menos regulado de la UE
+
+53
+
+
+
+—el del Reino Unido— presenta resultados más cercanos a la media europea que
+a los estadounidenses. Como señala Nickell (1997), si se considera como «paro ele­
+vado» una tasa de desempleo que supere en un 25% la de los EE.UU., sólo un ter­
+cio de los habitantes de la UE viven en países con alto desempleo.
+Por último, la economía española presenta desde 1983 —y desde 1970 si
+se tiene en cuenta la emigración española a Europa de la década de los años sesen­
+ta— los peores resultados de toda la muestra en lo relativo al desempleo total y su
+tasa de paro de larga duración sobrepasa ampliamente el 50%, siendo superada
+sólo por Italia y Bélgica en el último subperíodo. Este mismo último lugar la osten­
+ta en las tasas de paro femenino, de mayores de 45 años, de jóvenes y de partici­
+pación femenina.
+Pero el análisis realizado, aun debe matizarse en mayor medida si se tie­
+ne en cuenta el crecimiento económico. En efecto, la tasa media de crecimiento de
+los EE.UU. y la UE es muy similar entre 1970 y 1991, y es a partir de abril de este
+último año cuando los EE.UU. comienzan lo que constituye el período expansivo
+más prolongado de su historia económica tras la II posguerra mundial, con tasas de
+crecimiento que duplican en media a las de la UE y que se aceleran a lo largo de
+la década de los años noventa. Pese a que la creación de empleo estadounidense
+ha sido muy superior a la europea, la productividad aparente del trabajo ha aumen­
+tado su ritmo de crecimiento en los EE.UU. (desde el 0,3 anual entre 1970 y 1980,
+hasta el 0,9% entre 1981 y 1998), y lo ha disminuido en Europa (desde el 2,5 has­
+ta el 2,2% para los respectivos períodos).
+
+LAS CAUSAS D E LAS DEFERENCIAS
+In stitu c io n e s la b o ra le s, p e rtu rb a c io n e s e x te rn a s
+y p o lítica s d e d e m a n d a
+
+De nuevo, una versión simplificada de las causas de las diferencias obser­
+vadas centra su atención exclusiva en el mercado de trabajo: los mercados euro­
+peos son rígidos por lo que generan mucho desempleo; el mercado estadouniden­
+se es flexible por lo que genera mucho empleo y, pese al aumento de la población
+activa, permite disfrutar de tasas de paro próximas al pleno empleo. La moraleja es
+clara: los mercados de trabajo de la UEM deben desregularse para acercarse al
+modelo estadounidense y presentar así un comportamiento similar respecto al
+empleo. Esta es la versión extrema de la hipótesis estructuralista, que considera
+que las causas del desempleo europeo se encuentran fundamental, sino única­
+mente, en las instituciones de los mercados laborales.
+
+54
+
+
+
+Nadie duda de la importancia de las instituciones laborales en este con­
+texto, pero es fácil comprobar que su capacidad para explicar las diferencias de
+comportamiento observadas es muy limitada. En efecto, el mercado de trabajo esta­
+dounidense era el menos regulado entre todos los analizados en 1970, cuando pre­
+sentaba los peores resultados comparativos, y sigue siéndolo tres décadas más tar­
+de cuando los EE.UU. presentan un comportamiento más dinámico del empleo. Por
+su parte, teniendo en cuenta que todas las reformas laborales llevadas a cabo en
+las últimas décadas por los países de la UEM han ido en la dirección de liberalizar
+su funcionamiento, los mercados de trabajo europeos se encontraban más regula­
+dos en 1970, cuando gozaban de pleno empleo y funcionaban mejor que el esta­
+dounidense, que a fines de los noventa cuando presentaban un alto nivel y persis­
+tencia del desempleo.
+Esto no es sino una forma de señalar que las diferencias en el grado de
+regulación no son válidas para explicar diferencias en el distinto comportamiento
+de las economías a lo largo del tiempo.
+Un segundo enfoque considera que la explicación fundamental del distin­
+to comportamiento del empleo observado radica en los diferentes efectos de las per­
+turbaciones externas que han sufrido las economías occidentales en el período ana­
+lizado y en cómo estos se han traducido en perturbaciones diferenciales internas
+en función de las políticas de demanda implementadas por los gobiernos naciona­
+les para hacer frente a las perturbaciones externas. Veamos la capacidad explicati­
+va de esta hipótesis.
+Las tres perturbaciones externas más analizadas han sido la caída de la
+productividad total de los factores (PTF) derivada de las crisis de los crudos de la
+década de los años setenta; los altos tipos de interés real soportados durante más
+de una década por las economías objeto de comparación, derivados de la combi­
+nación concreta de políticas monetarias y fiscales instrumentada en cada país; y los
+desplazamientos de la demanda de trabajo originados por el proceso de sustitución
+relativo de mano de obra no cualificada por trabajo cualificado.
+Nadie duda que las tres perturbaciones citadas han tenido un efecto adver­
+so sobre el empleo, pero solo si su intensidad y efectos hubieran sido claramente
+asimétricos, permitirían explicar diferencias entre países a lo largo del tiempo. Las
+perturbaciones citadas han sido bastante comunes a todos los países analizados y,
+en todo caso, su efecto opera por el canal del distinto grado de sensibilidad que
+en cada economía presentan los salarios reales respecto a la tasa de paro. Dicha
+sensibilidad es bastante similar en los EE.UU. que en los países de la UEM, por lo
+
+55
+
+
+
+que no permiten explicar el distinto comportamiento del empleo entre ambas eco­
+nomías. Como ha señalado acertadamente Bean (1994) no existe secuencia alguna
+de perturbaciones externas que permita explicar el distinto comportamiento del
+empleo estadounidense y de la UE. Existen algunas asimetrías en las reacciones
+nacionales ante perturbaciones externas adversas, pero son claramente insuficien­
+tes para explicar las diferencias observadas.
+Es claro que existen asimetrías nacionales puntuales. Por citar el ejemplo
+más próximo a nosotros, parece claro que las perturbaciones de los crudos de los
+años setenta, unidos a la debilidad política de los últimos gobiernos de la dictadu­
+ra y el proceso de transición a la democracia, condujeron a la aparición de un des­
+fase salarial que se ha perpetuado hasta nuestros días. Un desfase parecido tuvo
+lugar en la economía portuguesa —por motivos similares—, pero fue reabsorbido
+en la década de los años ochenta por la mayor flexibilidad de los salarios reales
+portugueses. Y también parece comprobado que el coste en términos de empleo
+de las políticas de estabilidad macroeconómicas fue algo superior en el caso espa­
+ñol, porque la laxitud presupuestaria entre 1989 y 1994 obligó a instrumentar una
+política monetaria muy estricta. Pero este factor fue relevante en el proceso de ajus­
+te a la crisis de comienzos de los años noventa, pero no en la explicación del pro­
+ceso diferencial de la economía española en las tres últimas décadas.
+Como nota marginal, cabría señalar que la sensibilidad del salario real res­
+pecto al desempleo es bastante superior en los países europeos no pertenecientes
+a la UE y en el Japón que en los EE.UU. y la zona de la UE, lo que permitiría expli­
+car diferencias entre ambos grupos de países, pero no entre los dos últimos.
+En resumen, la debilidad de las dos hipótesis planteadas radica en que:
+1. Las instituciones laborales son distintas en EE.UU. y en la UE, pero,
+como mínimo, han mantenido sus distancias entre 1970 y fines de siglo —en reali­
+dad las han acortado. Por tanto, este factor no puede explicar diferencias en el
+comportamiento de un país concreto a lo largo del tiempo.
+2. Las perturbaciones externas han sido bastante comunes, de forma que
+no resultan capaces de explicar diferencias entre países a lo largo del tiempo.
+En suma, las perturbaciones explican una pequeña parte de la diferencia
+entre países; las instituciones dan cuenta de otra modesta parte, pero no permiten
+explicar la evolución del desempleo. Siendo esto así, la hipótesis explicativa más
+solvente en estos momentos es que lo relevante a efectos de discutir diferencias
+
+56
+
+
+
+entre países a lo largo del tiempo es analizar las interacciones entre perturbaciones
+externas comunes e instituciones laborales.
+La idea básica es muy simple: si las economías de los EE.UU. y la UE han
+mantenido marcos institucionales semejantes cada una de ellas a lo largo del tiem­
+po, y las perturbaciones externas a que han hecho frente han sido bastante simé­
+tricas, la única posible explicación del distinto comportamiento en lo relativo al
+desempleo, su permanencia y el alto valor del paro de larga duración, ha de encon­
+trarse en el hecho de que las interacciones entre perturbaciones externas y deter­
+minadas combinaciones de instituciones laborales crean mecanismos de propaga­
+ción de los efectos adversos de un shock concreto que inciden con mayor o menor
+fuerza en el nivel de desempleo de equilibrio.
+¿Cuáles son las vías por las que se producen las interacciones entre per­
+turbaciones externas e instituciones laborales? Como señalan Blanchard y Wolfers
+(2000), fundamentalmente dos:
+El primero, que las perturbaciones externas tienen efectos negativos sobre
+el desempleo y determinadas combinaciones de estructura de la negociación colec­
+tiva, grado de coordinación de la misma y usos sobre indiciación salarial, pueden
+dificultar el ajuste de los salarios reales a la evolución de la PTF, mientras que otros
+marcos institucionales pueden favorecer dicho ajuste.
+El segundo, que determinadas instituciones laborales tienden a debilitar el
+efecto del desempleo sobre los salarios, favoreciendo la persistencia del paro. Por
+ejemplo, si los parados de larga duración no presionan a la baja sobre los salarios
+(porque se encuentran protegidos generosamente, durante mucho tiempo, no reci­
+ben formación profesional en el desempleo y no se encuentran presionados a acep­
+tar un nuevo empleo), esto genera un mecanismo de persistencia. Si, por ejemplo,
+el paro de larga duración entre jóvenes no cualificados es elevado, y el salario míni­
+mo es alto y las posibilidades de cualificación y las políticas activas de empleo débi­
+les, nos encontraremos ante otro mecanismo de persistencia.
+En su conjunto, una década de intensa investigación en busca de las expli­
+caciones más satisfactorias al fenómeno de la persistencia y del desempleo de lar­
+ga duración en la UE ha dado lugar a un bloque de conclusiones que cuentan con
+un sólido apoyo empírico y que cabría resumir, en mi opinión, en los siguientes
+tres puntos:
+1.
+Las instituciones laborales consideradas individualmente (v.gr.: la
+cuantía del salario de reposición; o la cuña fiscal sobre el trabajo; o el grado de sin-
+
+57
+
+
+
+dicalización; o los costes de despido) no pueden asociarse a altos o bajos niveles
+de paro. Existen combinaciones de rigideces asociadas a altos niveles de paro, y
+otras que no tienen efectos sobre el mismo y que, además, permiten alcanzar otros
+objetivos de política económica. Las combinaciones perversas son aquellas que
+debilitan la influencia del paro sobre la dinámica de los salarios reales, dificultan­
+do la absorción de los efectos negativos de perturbaciones externas.
+2. Tres conjuntos de instituciones parecen claramente asociados al alto y
+persistente desempleo:
+(i) la protección generosa y duradera del parado más la ausencia de
+presión para que acepte un nuevo empleo más la no formación del
+parado;
+(ii) la alta sindicalización más negociación salarial colectiva más ausen­
+cia de coordinación en la negociación;
+(iii) la fuerte cuña fiscal sobre el trabajo no trasladada a los trabajadores;
+o un alto salario mínimo para los jóvenes más altas cuotas a la Segu­
+ridad Social.
+3. Otros tres conjuntos de instituciones laborales no tienen efecto sobre
+el paro y su duración:
+(i) la protección del desempleo y la legislación general sobre estánda­
+res de trabajo;
+(ii) la fuerte protección con formación y disponibilidad rigurosa del
+parado;
+(iii) la alta sindicalización con coordinación entre sindicatos y empresa­
+rios.
+En síntesis, toda la evidencia parece apuntar al hecho de que lo relevan­
+te en la explicación del comportamiento del empleo y el paro en las economías de
+la UE es la escasa capacidad de las mismas para absorber perturbaciones externas
+sin que ello conduzca a aumentos en la tasa de paro de equilibrio a largo plazo. Y
+esto es, en gran medida, un problema de diseño institucional, pero de diseño inte­
+gral y de políticas de estabilidad macroeconómica mejor equilibradas entre sus
+componentes presupuestario y monetario.
+
+58
+
+
+
+O tro s e le m e n to s e x p lic a tiv o s d e la s d ife re n cia s
+
+Hasta aquí, he tratado de resumir lo que los economistas sabemos sobre
+los factores determinantes del distinto comportamiento de las economías de la UE
+y la de los EE.UU. atendiendo exclusivamente a las diferencias entre sus mercados
+de trabajo; pero existen, al menos, dos diferencias adicionales que resultan muy
+relevantes h
+La primera radica en el funcionam iento de los mercados financieros, la
+obtención de financiación p or parte de las empresas y de los nuevos negocios. El
+Cuadro 2 presenta unos datos muy sintéticos sobre algunos aspectos financieros.
+Las diferencias son significativas y no atribuibles al hecho de que en la
+UEM se trata de 11 mercados conectados frente a un mercado único en el caso de
+los EE.UU.
+La primera es la mucho mayor importancia de la financiación vía merca­
+dos de capitales en los EE.UU., frente al predominio de la financiación bancada en
+la UEM, lo que conlleva un menor coste de financiación en los EE.UU. y una mayor
+facilidad de obtener financiación de las nuevas oportunidades de negocio. Esto
+resulta, además, especialmente relevante para la financiación de las Pymes que
+pueden recurrir en los EE.UU. con mucha mayor facilidad al venture capital y a la
+emisión de acciones.
+C uadro 2
+S is t e m a f i n a n c i e r o (% P I B )
+
+Depósitos bancarios .................
+Crédito intemo ..........................
+Deuda interna ............................
+— Privada ..................................
+— Pública ...................................
+Capitalización bursátil .............
+
+UEM
+
+EE.UU.
+
+85
+130
+91
+34
+57
+66
+
+54
+81
+155
+67
+88
+174
+
+Fuente: ECB M onthly R eport. D atos fin e s d e 1998.
+
+1 C a b r ía s e ñ a l a r u n a t e r c e r a d i f e r e n c i a r e l a t i v a a l p r o c e s o d e c o n s o l i d a c i ó n p r e s u p u e s t a r i a
+d e l s e c t o r p ú b lic o , p e r o la d is c u s ió n p o d r ía s e r o b je t o d e u n a e x p o s ic ió n c o m p le t a q u e te n d r ía q u e a n a ­
+liz a r c o n d e t a l l e n o s ó l o l a s s e n d a s t e m p o r a l e s d e i n g r e s o s , g a s t o s y d é f i c i t p ú b l i c o s , s i n o t a m b i é n e l
+p a p e l d e la d e u d a p ú b lic a , y o tr o s a s p e c to s re le v a n te s .
+
+59
+
+
+
+La segunda diferencia se manifiesta en la distinta composición del ahorro
+privado: de nuevo el peso de los activos líquidos es mucho mayor en la UEM y las
+tenencias de valores de renta variable tienen un peso muy superior en los EE.UU.
+Esto en parte es debido a la diferencia entre los sistemas de pensiones en ambas
+áreas, pero en cualquier caso reflejan unos efectos riqueza sobre el consumo pri­
+vado muy superiores en la economía estadounidense.
+Con independencia de la mayor o menor importancia relativa que se pue­
+da asignar a estas diferencias, es difícil no pensar que la financiación más fácil y
+barata de nuevas oportunidades de negocio en los EE.UU. no tenga que ver con el
+ciclo expansivo de la última década, y que la importancia de los efectos riqueza no
+haya influido poderosamente en el reciente dinamismo del consumo estadouni­
+dense que ha permitido mantener tasas de crecimiento del PIB muy elevadas cuan­
+do la inversión ha comenzado a dar síntomas de debilitamiento relativo.
+El segundo factor explicativo de las diferencias entre las dos áreas com­
+paradas apunta a un conjunto de factores que son privativos de la economía esta­
+dounidense en la década de los años noventa, precisamente la etapa en que el
+comportamiento económico de los EE.UU. experimenta un cambio cualitativo; y se
+refiere a ciertas características del último ciclo expansivo de los EE.UU. que se
+enmarcan en la reciente polémica sobre la existencia o no de una «nueva econo­
+mía».
+
+NOTAS SOBRE LA POLÉM ICA SOBRE LA «NUEVA ECONOMÍA»
+
+Como ya he señalado, los mejores resultados de la economía estadouni­
+dense en las tres décadas consideradas se concentran en la última e, incluso, den­
+tro de esta de forma acelerada en los últimos años. Ello es debido al disfrute del
+período más largo de expansión económica desde el final de la II Guerra Mundial.
+Es un hecho comúnmente aceptado que esta onda expansiva tiene su base más
+sólida en la posición de liderazgo tecnológico que la economía estadounidense ha
+adquirido en los sectores de la informática y las telecomunicaciones, las activida­
+des que mayor crecimiento han experimentado en las dos últimas décadas en la
+economía mundial.
+Esto no es, en sí mismo, un fenómeno distinto de las ondas de crecimiento
+experimentadas en el pasado por aquellas economías que adquirieron el liderazgo
+—tecnológico, comercial o de otro tipo— en la fabricación de motores de explo­
+sión, y por tanto en la industria del automóvil, o en la química industrial. Lo que
+60
+
+
+
+sí resulta nuevo, para la economía de los EE.UU. es que mientras que en expan­
+siones anteriores la PTF cayó —por los rendimientos decrecientes del capital uni­
+dos al aumento del empleo—, en la expansión de los años noventa la PTF ha cre­
+cido de forma significativa: a una tasa anual del 1 % a comienzos de la década, al
+2% a mediados y al 3% con datos del último trimestre de 1999Este es el trasfondo del fenómeno que ha conducido a defender por par­
+te de algunos economistas que nos encontramos ante una -nueva economía» en que
+es posible compatibilizar indefinidamente la expansión del empleo y el crecimien­
+to económico con un aumento de la PTF. En otras palabras, que es posible crecer
+permanentemente sobre una tendencia temporal sin la aparición de fenómenos
+cíclicos.
+Esta posición cuenta, además, con el atractivo analítico de ser explicable
+en términos de la teoría del crecimiento endógeno, que constituye la orientación
+más reciente en el campo del análisis económico del crecimiento. Simplificando
+extraordinariamente esta teoría 2, su idea central es la siguiente: existe en la eco­
+nomía, junto a los sectores productivos tradicionales, un sector generador de cono­
+cimientos (investigación, tecnología, etc.) cuyo output es utilizado por aquellos
+aumentando así su productividad. Por tanto, si la cuantía de los recursos invertidos
+en el sector generador de conocimientos es suficiente, la economía puede perma­
+necer en una trayectoria de crecimiento sostenido, ya que el aumento de produc­
+tividad que proporciona el sector generador de conocimientos se transmite al res­
+to de la economía, de forma que se puede vivir en una situación de economías de
+escala sin límite.
+¿Es esta la única explicación posible a un crecimiento de una década con
+aumento del empleo y de la PTF agregada a tasas muy apreciables? Existe otra
+posible explicación, eso sí, más de vieja economía, si tratamos de diferenciar
+entre lo que son componentes cíclicos y estructurales en el proceso de creci­
+miento descrito.
+Todo el crecimiento estadounidense de la década se ha basado en la
+demanda interna, siendo negativa la aportación exterior. Se inició con la fuerte
+expansión de la inversión a la que en fechas recientes se ha sumado con fuerza el
+consumo privado debido al aumento del empleo, a la evolución del precio de los
+activos y a la caída de la tasa de ahorro. El déficit financiero privado ha sido finan­
+2 U n t r a b a jo p i o n e r o e n Lucas ( 1 9 8 8 ) , y u n a r e v i s i ó n d e l o s a s p e c t o s r e l a t i v o s a c r e c i m i e n t o
+y d i s t r i b u c ió n p u e d e v e r s e e n A ghion , C aroli y G arcía-P eñalosa (1 9 9 9 ).
+
+6l
+
+
+
+ciado en una modesta parte por el comportamiento presupuestario y, fundamen­
+talmente, por el aumento del déficit exterior y las entradas de capital, lo que ha
+permitido la apreciación del dólar, un componente relevante de la estabilidad de
+precios.
+Las estimaciones realizadas coinciden en que este conjunto de fenómenos
+de carácter cíclico han disminuido de forma apreciable la tasa de paro no genera­
+dora de inflación (NAIRU) que ha pasado del 5,5% a comienzos de la década a
+situarse próxima al 4% a finales. Esta reducción de la NAIRU es un resultado destacable del comportamiento de la economía de los EE.UU. durante el período, pero
+conviene señalar que una disminución de esta tasa lo que permite es un nivel
+mayor de PIB, pero no una mayor tasa de crecimiento del mismo. Hasta aquí, fac­
+tores que cabría denominar como cíclicos.
+Sin embargo, el crecimiento de la PTF sí que tiene efectos sobre la tasa de
+crecimiento del PIB compatible con la estabilidad macroeconómica, y no sólo efec­
+tos-nivel como los señalados en la disminución de la NAIRU. ¿Cómo se ha genera­
+do este aumento sostenido e incluso acelerado de la PTF, que es un fenómeno de
+carácter estructural?
+Posiblemente el fuerte aumento de la inversión (cuando la PTF crecía a
+un modesto 1 % anual) creó capacidad suficiente para crecer a tasas más altas, y
+el dinamismo de la demanda interna ha permitido que, pese al proceso de susti­
+tución de trabajo por capital, la demanda de mano de obra haya aumentado des­
+plazándose hacia mayores niveles de cualificación, porque el núcleo de la expan­
+sión se ha situado en las actividades relacionadas con las tecnologías de la
+información.
+La pregunta relevante a contestar es ¿hasta qué punto es sostenible esta
+situación de crecimiento de la PTF en un contexto de expansión económica y del
+empleo? Todo depende de dónde se ha generado el aumento de la PTF. La evi­
+dencia empírica más convencional señala inequívocamente (Gordon, 1998; IMF,
+2000) a que la PTF ha aumentado a ritmos espectaculares en la fabricación de
+ordenadores y semiconductores, pero a tasas modestas, similares a las de ciclos
+expansivos precedentes, en el resto de la economía. En la medida que las activi­
+dades relacionadas con las tecnologías de la información han pasado de repre­
+sentar el 7% del PIB estadounidense a generar el 11%, aumentos de la producti­
+vidad próximos al 40 % implican un crecimiento “medio» del orden del 4 %. Si esto
+es así, nada hay de nuevo en la economía de los EE.UU., más allá de haber adqui­
+62
+
+
+
+rido una posición de liderazgo tecnológico en el sector de mayor expansión mun­
+dial.
+Como resulta claro, la polémica se centra en si los efectos del aumento
+de la productividad en los sectores mencionados, que nadie pone en duda ha
+sido excepcionalmente elevado, se están transmitiendo o no al resto de las acti­
+vidades. En caso afirmativo, existe margen temporal muy dilatado para continuar
+el proceso de aumentos simultáneos del PIB, del empleo y de la PTF (la nueva
+economía); de lo contrario, esta combinación virtuosa terminará por desaparecer.
+Por tanto, el problema crucial termina siendo el de la correcta medición de la p ro­
+ductividad.
+Existen algunas razones para suponer que las técnicas contables actuales
+introducen algunos sesgos en la medición de la productividad en las actividades
+relacionadas con las tecnologías de la información. Por ejemplo, los gastos en acti­
+vos intangibles se consideran gastos corrientes y, por tanto, reducen los beneficios.
+En muchas de las actividades que utilizan las tecnologías citadas, la adquisición de
+activos intangibles sería más razonable que se considerara —al menos en parte—
+como gastos de inversión, lo que afectaría a la medición de los beneficios y de la
+productividad. Pero es difícil pensar que cambios razonables en los criterios de
+medición produzcan inversiones radicales en el grado de generalización de los
+aumentos de la productividad de la economía estadounidense.
+Pero se trate de vieja economía —como cree quien les habla—, o de nue­
+va economía —como creen otros—, en ambos casos el comportamiento estadou­
+nidense en la década de los años noventa descansa sobre su liderazgo tecnológico
+en la informática y las tecnologías de la información. Y esto apunta al otro factor
+distintivo relevante —junto al diseño institucional y a los mercados de capital— que
+es la importancia de la tecnología y de los sistemas de I+D, sobre los que ya se ha
+hablado en esta institución en otras ocasiones nuestro compañero J. A. Sánchez
+Asiaín.
+
+SOBRE POLÍTICAS ECONÓMICAS
+
+¿Cabe extraer algunas conclusiones prácticas desde el punto de vista de la
+política económica de todo lo discutido hasta aquí? Creo que sí. Partamos para ello
+de lo que podría considerarse un objetivo razonable de medio y largo plazo para
+una economía como la española: alcanzar la convergencia real con la UEM en tér­
+
+63
+
+
+
+minos de PIB p er cápita, paro y empleo, en un contexto en que la UEM no aumen­
+te sus distancias respecto a los EE. UU.
+Este objetivo exige, una obviedad aritmética, sostener en el tiempo tasas
+de crecimiento económico superiores a la media de la UEM. Recordaré brevemen­
+te que la tasa de crecimiento de una economía depende de las aportaciones de dos
+elementos: el ritmo al que se produce el progreso técnico reflejado en la evolución
+de la PTF, y el grado de utilización de los factores productivos (trabajo y capital).
+La posibilidad de lograr convergencia por la vía de la PTF es muy modesta, porque
+este es un factor de importancia decreciente a lo largo del tiempo (salvo que exis­
+ta una novísima economía), pese a que el simple mantenimiento de las posiciones
+relativas implique un esfuerzo considerable de la política tecnológica. Por tanto, el
+núcleo de las posibilidades de convergencia real se encuentra en una mayor utili­
+zación de los factores y esto, en el caso de la economía española, apunta al factor
+que presenta tasas de infrautilización notorias: el trabajo.
+Siendo esto así, ¿cuáles son los pilares básicos de política económica para
+tener éxito en el objetivo tendencial de lograr la convergencia real? En mi opinión,
+cuatro: las condiciones de estabilidad macroeconómica; la reforma del mercado de
+trabajo; la mejora y defensa de la competencia y las políticas tecnológicas y edu­
+cativas. Terminaré esta exposición haciendo una síntesis de las líneas por las que
+deberían consolidarse estos cuatro pilares.
+
+E l m a n te n im ie n to d e la s co n d ic io n e s d e esta b ilid a d
+m a c ro e c o n ó m ic a
+
+Analizando el comportamiento del desempleo español en las últimas tres
+décadas, es imposible aceptar que su evolución respecto a la de los restantes paí­
+ses de la UEM pueda explicarse sólo por las diferencias institucionales del merca­
+do de trabajo. Una economía como la española que en un cuarto de siglo ha sex­
+tuplicado su tasa de paro mientras que ha reducido a la sexta parte la de inflación,
+presenta signos evidentes de perturbaciones diferenciales de demanda. La explo­
+sión salarial de comienzos de los años setenta vino seguida de una fuerte contrac­
+ción monetaria que condujo a tipos de interés reales muy elevados que penaliza­
+ron la creación de empleo, lo que fue especialmente claro en la crisis de 1992-1993
+[véase Segura (2000)]. Expresado en otras palabras, la política antiinflacionista espa­
+ñola ha sido más costosa en términos de empleo que las de sus socios europeos.
+Y este exceso de inestabilidad ha tenido necesariamente que influir, dado el con­
+texto institucional laboral, en la permanencia y nivel del desempleo y en el exce­
+so de temporalidad.
+
+64
+
+
+
+En consecuencia, una adecuada combinación de políticas monetaria y fis­
+cal es crucial para al crecimiento económico. Dado que la política monetaria se
+diseña en términos de la situación del conjunto de la UEM, una tasa de crecimien­
+to mayor de la economía española favorece que las condiciones monetarias de la
+zona euro sean demasiado holgadas, lo que impone una cierta restricción adicio­
+nal sobre el proceso de consolidación presupuestaria. Y esto puede plantear algu­
+nos problemas en términos de un dilema ya discutido en otras ocasiones: la nece­
+sidad de simultanear un gasto sostenido en inversiones favorecedoras del
+crecimiento y de mantener unos niveles de protección europeos. La opción que se
+elija es, y será en el futuro, posiblemente, la decisión básica de política macroeconómica.
+
+L a re fo rm a d el m e rca d o d e tra b a jo
+
+Tras las reformas laborales de 1994 y 1997 (y los cambios más limitados
+de 1992 y 1993), que han modificado en la línea correcta varios aspectos puntua­
+les del mercado de trabajo español, cabe decir que este es, en sus rasgos institu­
+cionales esenciales, un mercado plenamente homologable a los de la UEM que,
+como es sabido, presentan diferencias notables entre sí. A esto se une el hecho de
+que la economía española lleva ya más de 6 años operando en un ambiente de
+estabilidad macroeconómica que parece haberse incorporado a la formación de
+expectativas de los agentes, pese a las sombras que arroja la reciente evolución del
+precio del crudo y sus efectos sobre la inflación y las expectativas de crecimiento.
+Todo esto hace que, frente a enfoques más parciales que yo mismo he uti­
+lizado con anterioridad en otras intervenciones en esta Real Academia, que se fijan
+de forma aislada en cada institución individual del mercado de trabajo (v.gr.: cos­
+tes de despido, salario de reposición; condiciones de elegibilidad para percibir el
+seguro de desempleo), ahora sea más relevante fijarse en la combinación de insti­
+tuciones y regulaciones que puedan tener efectos nocivos sobre la permanencia del
+desempleo, el paro de larga duración y la elevada tasa de temporalidad. Efectos
+nocivos derivados de la creación de canales de transmisión de las perturbaciones
+externas que afectan a la tasa de paro de equilibrio a largo plazo, y no solo mien­
+tras que se produce el ajuste a la perturbación inicial.
+Si esto es así, puede defenderse un razonable optimismo sobre el futuro
+del desempleo en la UEM. Por una parte, los efectos de las perturbaciones exter­
+nas se diluyen con el paso del tiempo; por otra parte, la propia constitución de la
+UEM ha disminuido la probabilidad de perturbaciones asimétricas (v.gr.: las finan­
+
+65
+
+
+
+cieras y fiscales) y ha eliminado algunas otras (v.gr: las cambiarías y monetarias).
+Condición imprescindible para sustentar este optimismo es que las reformas de los
+mercados de trabajo europeos vayan en la dirección no de eliminar rigideces indi­
+viduales, sino combinaciones de rigideces que no perturben los efectos del paro
+sobre el salario real permitiendo mantener niveles apreciables de protección.
+¿Cuáles son en el caso español las combinaciones de rigideces asociables
+al desempleo duradero? En mi opinión, las subsistentes en estos momentos, son
+tres:
+
+1.a Estructura, contenidos y grado de coordinación
+de la negociación colectiva
+Este tema ha sido el gran ausente de todas las reformas laborales españo­
+las. En 1994 porque el Gobierno no se decidió a asumir el coste político adicional
+en el marco de una reforma que condujo a una huelga general como respuesta sin­
+dical. En 1997 porque el Gobierno decidió transcribir textualmente en el BOE los
+acuerdos a que llegaran sindicatos y patronal. Puesto que la negociación se realizó
+entre las cúpulas de ambas organizaciones, parte de cuyo poder efectivo proviene
+de la estructura existente de negociación colectiva, era de esperar que el tema no
+se abordara, como así fue.
+El análisis económico, y la evidencia empírica, muestran que existen tres
+tipos de estructura de la negociación colectiva que resultan eficientes en el sentido
+de no dificultar el efecto del desempleo sobre los salarios pactados. Una es la nego­
+ciación totalmente centralizada —el modelo sueco y en general nórdico—, porque
+garantiza la mayor coordinación posible. Otra es la totalmente descentralizada en
+el nivel de empresa —el modelo estadounidense—, porque permite la adaptación
+exacta de la negociación a la situación del centro de trabajo. Ninguno de los dos
+modelos es factible en España —ni en los restantes países de la UEM— bien que
+por razones distintas.
+La tercera estructura de negociación óptima es la que combina un conve­
+nio dé carácter estatal, o de ámbito muy amplio, con una posterior negociación en
+las empresas individuales. El convenio marco permite lograr una coordinación ele­
+vada de la negociación, y los convenios de empresa la adaptación a las condicio­
+nes de la misma. Para que este modelo sea eficiente es necesario, por supuesto,
+que los contenidos de la negociación sean distintos en cada nivel para evitar los
+fenómenos bien conocidos de negociación en cascada.
+66
+
+
+
+La estructura de la negociación colectiva española no se ajusta a ninguno
+de estos modelos, y presenta una enorme heterogeneidad entre distintos niveles:
+sector, rama de actividad, empresa, provincia, etc. Negociándose además con fre­
+cuencia temas comunes en dos o tres de los niveles pese a la reforma de 1997. Por
+tanto la reforma debería ir en la línea de elim inar los niveles intermedios de nego­
+ciación y determinar los contenidos a negociar en cada nivel. La idea básica sería
+que en el nivel más general se negociaran temas tales como despido e indemniza­
+ción, movilidad, cómputo de jornada, etc. y en la empresa, además de los salarios,
+se tratara de ajustar las condiciones generales al territorio, sector y empresa con­
+cretos.
+Y también en la línea de favorecer la adhesión voluntaria al convenio de
+ámbito superior, lo que no rompería el carácter colectivo de la negociación siem­
+pre que se tasasen los requisitos de representatividad que lo habilitaran. Esto sería,
+además, muy beneficioso para las Pymes que son las grandes perjudicadas con el
+modelo actual de negociación.
+
+2.a Protección del desempleo, disponibilidad
+del parado y form ación profesional
+Como ya se ha señalado, la protección del parado no tiene efectos nega­
+tivos —cuantía y persistencia— sobre la tasa de paro si va acompañada de una dis­
+ponibilidad efectiva y de una política de formación eficaz que favorezca el empa­
+rejamiento de los perfiles de vacantes y parados. Las modificaciones en los
+requisitos de elegibilidad y duración y cuantías mínimas de las prestaciones contri­
+butivas de 1992 (a lo que se añadió en 1993 su tratamiento como renta afectada
+por el IRPF), han conducido a que los requisitos que habilitan la percepción sean
+algo más duros que los de la media de la UEM, pero los beneficios son algo más
+generosos que dicha media. Posiblemente una combinación aceptable.
+La reforma pendiente debería ir por tanto en la dirección de vincular la
+percepción de la prestación contributiva a la aceptación de un puesto de trabajo
+bajo condiciones tasadas, y en hacer efectiva la form ación del parado. Esto últi­
+mo es un tema complejo, pero parece claro que la administración por parte de
+los agentes sociales de los fondos para la formación no constituye el sistema más
+eficaz.
+
+67
+
+
+
+3.a Salarios mínimos y políticas activas de empleo insuficientes
+La existencia de un salario mínimo no tiene, por si mismo, que afectar
+negativamente al empleo. El argumento de que sin salarios mínimos se pueden
+contratar trabajadores con menor cualificación no impide que se pueda subvencio­
+nar la diferencia entre la productividad del trabajador y el salario mínimo, con un
+efecto positivo sobre el empleo, el gasto público por desempleo que, además, per­
+mitiría evitar la aparición de working poors. Sin embargo, la universalización del
+salario mínimo de la reforma de 1997 y su igualación por actividades y edades, no
+es la línea más recomendable. Y, sobre todo, la combinación más adecuada si exis­
+te salario mínimo, es su acompañamiento por políticas de empleo activas que se
+centren en los jóvenes no cualificados.
+España es el país de la UEM —con la excepción singular austríaca— que
+menos recursos dedica a las políticas activas de empleo. En este sentido la reco­
+mendación es obvia y doble activar las políticas de empleo y dirigirlas a colectivos
+muy específicos y acotados huyendo de proyectos universales de carácter genérico.
+Esto último es así por dos motivos.
+En primer lugar, porque las causas del desempleo son distintas para dife­
+rentes colectivos. Los problemas genéricos de escasa cualificación han de ser abor­
+dados por el sistema educativo, siendo la adecuación del perfil de cualificación de
+los parados a las vacantes lo que deben perseguir las políticas de empleo activas.
+La disponibilidad de jornada, las discapacidades, las actividades con vacantes son
+distintas para distintos grupos de parados y áreas geográficas.
+El segundo motivo es que sólo planes de empleo definidos con precisión
+y dirigidos a colectivos claramente definidos permiten ser evaluados en el sentido
+de poder medir sus efectos sobre el empleo controlando todos los demás factores
+relevantes.
+
+E l fo m e n to y d e fe n sa d e la co m p e te n c ia
+
+Como es bien sabido, los procesos de desregulación y liberalización tie­
+nen como única justificación económica la mejora del nivel efectivo de competen­
+cia que, de una u otra forma, ha de repercutir en una reducción de costes y de pre­
+cios pagados por los consumidores. De lo contrario —y existen varios ejemplos
+recientes—, los efectos serán perversos desde el punto de vista de la eficiencia eco­
+nómica y el bienestar social.
+
+68
+
+
+
+Esto apunta hacia la necesidad de un reforzamiento de las políticas de
+defensa de la competencia y de un cambio en las políticas regulatorias. Aunque este
+tema podría ser objeto de una intervención completa, señalaré sucintamente algu­
+nos puntos.
+Respecto a la defensa de la competencia el tema fundamental es el del
+marco institucional en que se residencia. El modelo estadounidense en que son los
+jueces ordinarios quienes deciden presenta problemas importantes de eficacia y
+sensatez pese a la experiencia acumulada que supera el siglo. Los modelos euro­
+peos han optado por Tribunales de Defensa de la Competencia (TDC) cuyas sen­
+tencias son recurribles en vía contenciosa. En este modelo, lo crucial es la inde­
+pendencia del TDC respecto del poder ejecutivo que debería manifestarse en dos
+extremos. El primero, su autonomía para iniciar de oficio cualquier investigación
+sobre prácticas restrictivas de la competencia, de forma que no sea el gobierno el
+que decida qué casos deben abrirse y cuales no. El segundo, que el propio sector
+público esté obligado a aplicar las sentencias del TDC, quedando abiertos los recur­
+sos a los tribunales ordinarios de justicia, lo que llegaría a implicar que el TDC
+pudiera suspender decisiones del Ejecutivo hasta cierto nivel.
+Resulta llamativo que, refiriéndonos los economistas con tanta frecuencia
+al modelo estadounidense en nuestras comparaciones, no hagamos lo mismo cuan­
+do se discute sobre la política de competencia. Decisiones como las relativas a
+Microsoft, a la fusión entre American on Line y Time Warner, o a algunos proyec­
+tos de fusiones financieras tomadas por la justicia de los EE.UU. son, por desgra­
+cia, difíciles de imaginar en el contexto europeo.
+Respecto a la regulación de sectores específicos —energía, telecomunica­
+ciones, transporte—, dos breves notas. La primera es de nuevo la independencia
+de las comisiones reguladoras (CR). Una CR que emite informes preceptivos pero
+no vinculantes, no pasa de ser, en el mejor de los casos, un servicio de estudios
+cualificado. El esquema de que las posiciones encontradas sean las del sector y la
+CR, decidiendo entre ambas el gobierno, vacía de contenido el papel de la CR, que
+es quien debe decidir entre las posiciones del gobierno y del sector.
+El segundo tema es el del acotamiento preciso de las competencias de las
+CR. Todos los sectores regulados presentan con frecuencia casos conflictivos en tér­
+minos de defensa de la competencia, pero sobre estos problemas no debe decidir
+la CR, sino el TDC. El argumento de que los sectores regulados son complejos
+—que es cierto— no debe conducir a que las CR se ocupen tanto de regular como
+de introducir competencia en el sector. Aplicando la teoría del riesgo de captura
+
+69
+
+
+
+del regulador, esto conduciría a que, por el mismo precio, el regulado podría cap­
+turar al regulador y al juez. Un resultado discutible desde el punto de vista de la
+eficiencia.
+
+L a p o lític a te c n o ló g ic a y e d u ca tiv a
+
+Todos los estudios indican el retraso tecnológico europeo (y adicional
+español) respecto a los EE.UU., así como la importancia de este factor en la evo­
+lución de la PTF que, exista o no nueva economía, constituye un factor esencial de
+las posibilidades de crecimiento sostenido. Aparte discusiones sobre el porcentaje
+del PIB que debe dedicarse a las actividades de I+D (el 2, el 3), creo que es aun
+más importante el marco institucional y de incentivos del sistema ciencia-tecnolo­
+gía de un país.
+La idea es que un país como España, con un gasto muy modesto en estas
+actividades, no sólo debe lograr expandirlo, sino obtener mejoras en la eficacia del
+gasto. Y desde este punto de vista, resulta fundamental que los mecanismos de eva­
+luación de la investigación sean precisos y públicos, y se utilicen para crear siste­
+mas de incentivos a los investigadores-, que se huya de programas mastodónticos y
+la investigación se concentre en líneas bien definidas y con un output program ado
+que faciliten su evaluación; que se de especial importancia a la asim ilación y capa­
+cidad de innovación de proceso y a la comercialización de la tecnología; y que se
+busquen mecanismos que aumenten la capacidad de arrastre de los programas y
+financiación públicas sobre el sector privado. Una evaluación precisa de la situa­
+ción actual, un catálogo de los instrumentos utilizados en otros países y de los
+resultados obtenidos, un diseño institucional más flexible y una mayor imbricación
+entre los centros de investigación superior y las empresas están en los cimientos de
+cualquier diseño razonable de una política tecnológica.
+
+REFERENCIAS BIBLIOGRÁFICAS
+Aghion, P.; Caroli, E., y García-P eñalosa, C. (1999), -Inequality and Economic Growth: The
+
+Perspective of the New Growth Theories», Jo u rn a l o f Econom ic Literature, XXXVII, 4,
+págs. 1615-1660.
+B ean, Ch. (1994), "European Unemployment: A Survey», Jo u rn a l o f E conom ic Literature,
+vol. XXXII, 2, págs. 573-619.
+Blanchard, O. J., y W olfers, J. (2000), «The Role of Shocks and Institutions in the Rise of
+European Unemployment: the Aggregate Evidence», E conom ic Jou rn al, 110,
+págs. C1-C33.
+
+70
+
+
+
+United States o f America: Selected Aspects, IMF
+Staff Country Report, núm. 00/112, Washington D.C.
+Gordon, R. (2000), «Does the “New Economy” Measure up to the Great Inventions of the
+Past?», Journal o f Economic Perspectives (de próxima aparición).
+Lucas, R. E. (1988), «On the Mechanics of Economic Development», Journal of Monetary Economics, 22, 1, págs. 3-42.
+Nickell, S. (1997), «Unemployment an Labor Market Rigidities: Europe vs. North America»,
+Journal o f Economic Perspectives, 11, 3, págs. 55-74.
+Segura, J. (2001), «La reforma del mercado de trabajo español: un panorama», Revista de Eco­
+nomía Aplicada, vol. IX, págs. 157-190.
+
+International Monetary Found (FMI), (2000),
+
+71
+
+
+
+

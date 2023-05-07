@@ -1,0 +1,2882 @@
+EL DÉFICIT PÚBLICO COMO HERENCIA
+NEGATIVA: ¿HEMOS APRENDIDO
+A CONTROLARLO?
+Por el Académico de Número
+Excmo. Sr. D . José Barea Tejeiro *
+
+Voy a iniciar el estudio con una cuestión metodológica. El marco concep­
+tual del que vamos a partir para definir el déficit público es el contemplado en el
+Tratado de la Unión Europea. La referencia al déficit público se contiene en el
+artículo 104.c), al disponer que «los citados miembros evitarán déficit públicos exce­
+sivos. En el artículo 2 del protocolo sobre el procedimiento aplicable en caso de
+déficit excesivo, anejo al Tratado, se establece que se entenderá por «público» lo
+perteneciente al gobierno general, tal como se define en el Sistema Europeo de
+Cuentas Económicas Integradas (SEC), y por «déficit» el volumen de endeudamien­
+to neto con arreglo a la definición del propio SEC.
+Dado que el SEC no define ni el endeudamiento neto ni el déficit públi­
+co, el Consejo de la Unión Europea aprobó, en 2 de noviembre, el Reglamento
+número 3605/93 relativo a la aplicación del citado protocolo, que precisa las defi­
+niciones de los términos «déficit» y «público» con referencia al SEC, estableciendo
+que por déficit público se entenderá la necesidad de financiación (N5) del sector
+administraciones públicas (S60), tal como se delimita en el SEC.
+Las cuestiones que voy a tratar son las cuatro siguientes:
+
+* Sesión del día 23 de noviembre de 1999.
+
+103
+
+
+
+• la evolución del déficit público en el siglo xx;
+• razones teóricas que han impulsado el crecimiento del gasto con el
+efecto de un aumento del déficit;
+• los factores que han impulsado el crecimiento del gasto y del déficit en
+España,
+• y, por último, si hemos aprendido a controlar el déficit público después
+de la experiencia de todo un siglo.
+Para terminar con unas conclusiones.
+
+1.
+
+LA EVOLUCIÓN DEL DÉFICIT PÚBLICO EN EL SIGLO XX
+
+En este apartado tratamos de cuantificar la herencia negativa que legamos
+al próximo siglo.
+Para el conjunto de las administraciones públicas, sólo existen datos dis­
+ponibles a partir del año 1958. Con anterioridad a dicha fecha sólo se dispone de
+datos del Estado contenidos en el Estudio Datos básicos para la Historia Financie­
+ra de España (IEF, 1976, vol I); todo ello nos ha permitido elaborar los cuadros 1
+y 2, relativos a la evolución del déficit público tanto en términos absolutos como
+en porcentaje del PIB del período 1900-1998, con excepción de los años 1936-1939,
+los de la Guerra Civil.
+Aunque la serie no es absolutamente homogénea, ya que la del cuadro 1
+sólo se refiere al Estado, en tanto que la del cuadro 2 comprende todo el conjun­
+to de las administraciones públicas, sin embargo la metodología seguida es la mis­
+ma, la de Contabilidad Nacional. Por otra parte, se observa que el salto de 1957, en
+el que el Estado aparece con un superávit de 0,93 % del PIB, al año 1958, en el que
+el total de las administraciones públicas aparece con un superávit de 0,96 % del PIB,
+es mínimo.
+De los noventa y cinco años analizados, treinta y cinco aparecen con Supe­
+rávit (37 %) y sesenta con déficit (63 %)• El intervalo en el cual se ha movido el défi­
+cit /superávit ha sido entre - 7,34% en 1995 y + 2,15% en 1961, siendo la media
+aritmética del período un déficit de - 1,24% del PIB. En la hipótesis de que el défi­
+cit público se comporte como una variable aleatoria con función de distribución
+normal, el intervalo de confianza al 95% sería de - 5,43 a + 2,95, la varianza es de
+4,57 y la desviación típica de 2,14. La primera conclusión que obtenemos es que el
+104
+
+
+
+déficit ha estado enraizado en todo el siglo xx, y que se ha movido en una media
+del - 1,24% del PIB; ésta es la herencia que legamos al próximo siglo. El gráfico la)
+muestra visualmente lo que acabamos de decir.
+Para el análisis de la evolución del déficit, hemos acotado tres etapas dife­
+renciadas por hechos significativos: 1900-1935, ya que en 1936 se inicia nuestra
+guerra civil; 1940-1976, período de la dictadura, y 1977-1998, período de la demo­
+cracia.
+El gráfico Ib) muestra la evolución del déficit en el período 1900-1935, con
+un déficit en media aritmética del - 0,49% del PIB, con un valor máximo de + 0,98
+y un valor mínimo de - 2,95. El intervalo de confianza al 95% sería de - 2,39 a
++ 1,41, la varianza es de 0,94 y la desviación típica de 0,97. El gráfico nos muestra
+cómo la guerra mundial de 1914 a 1918 y la de Marruecos tuvieron fuerte inciden­
+cia en nuestro déficit, y sin embargo la gran depresión no tuvo demasiado efecto
+en él.
+El gráfico le) muestra la evolución del déficit en el período 1940-1976, con
+un déficit en media aritmética del - 0,28% del PIB, con un valor máximo de + 2,15
+y un valor mínimo de - 5,71. El intervalo de confianza al 95% sería de - 3,41 a
++ 2,85, la varianza es de 2,55 y la desviación típica de 1,60. El gráfico muestra cómo
+la devastación de la guerra civil española y la segunda guerra mundial tuvieron una
+fuerte incidencia en el déficit habido en el primer decenio de este período.
+A partir de 1952, las cuentas públicas aparecen prácticamente equilibradas,
+tanto por el fuerte crecimiento que experimentó la economía española como por
+la escasa asignación de recursos efectuada a los gastos sociales, que, como vere­
+mos más adelante, son los grandes impulsores del gasto público.
+El gráfico Id) muestra la evolución del déficit en el período 1977-1998, con
+un déficit en media aritmética del - 4,08 del PIB con un valor máximo de - 0,57 y
+un valor mínimo de - 7,34. El intervalo de confianza al 95 % sería de - 7,68 a - 0,48,
+la varianza es de 3,37 y la desviación típica de 1,84. El gráfico muestra cómo tuvo
+influencia en el déficit la explosión de la sociedad española en demanda de un
+suministro público de servicios sociales, así como los efectos de la fuerte recon­
+versión industrial *. A partir de 1996, como consecuencia de las condiciones
+impuestas por el Tratado de Maastricht para ingresar en la Unión Monetaria, Espa­
+
+* Un análisis profundo del -Déficit público de la democracia española* puede verse en Pape­
+
+les de Economía Española, núm. 68 (1996), E. F uentes y J . B area.
+105
+
+
+
+ña empieza una política de saneamiento de las finanzas públicas que trae como
+consecuencia una drástica reducción del déficit público. El dilema que se presenta
+es si España será capaz de equilibrar sus cuentas públicas en el año 2002, como
+exige el Pacto de Estabilidad, sin efectuar reformas estructurales.
+Una de las características del déficit público es que afecta a todas las uni­
+dades institucionales de las administraciones públicas. En efecto, a partir de 1980,
+que es cuando las comunidades autónomas empiezan a recibir transferencias de
+servicios de la Administración central, prácticamente todas las unidades institucio­
+nales registran una situación de déficit continuado hasta nuestros días, si bien el
+intérprete destacado es la Administración central, que ha contribuido con el 65% al
+déficit registrado por las administraciones públicas entre 1980 y 1998.
+
+2.
+
+RAZONES TEÓRICAS QUE HAN IMPULSADO EL CRECIMIENTO
+DEL GASTO Y DEL DÉFICIT
+
+En el modelo económico de Adam Smith, las funciones del Estado eran
+mínimas. Las dos ideas fundamentales de La riqueza de las naciones son: la del
+interés propio y la de la libertad natural.
+Sin embargo, Adam Smith se da cuenta de que, aunque mínimas, el Esta­
+do ha de realizar unas funciones que son indispensables para asegurar un entorno
+adecuado antes de que el sistema de libertad natural pueda ser efectivo. El Estado
+deber a asegurar que la sociedad esté protegida de las presiones de dentro y de
+fuera, y además debería proporcionar las obras públicas que puedan, ser necesarias
+para facilitar la producción y el intercambio. Los dos primeros deberes de Sobera­
+no, según Smith, la Justicia y la Defensa, constituyen funciones protectoras del Esta­
+do, en la terminología de Buchanan, en tanto que el tercero y último deber del
+Soberano de una nación es realizar y mantener las instituciones y obras públicas
+que forman parte de las actividades productivas del Estado.
+Desde 1776, en que vio la luz La riqueza de las naciones, hasta hoy, la
+expansión del sector público ha sido imparable; en la actualidad, la economía del
+sector público ha llegado a adquirir tal relevancia que pasa por sus manos alrede­
+dor del 50% del PIB en los países desarrollados, convirtiéndose en el primer agen­
+te económico del país. La fundamentación teórica de tan formidable desarrollo se
+encuentra en la economía del bienestar.
+Generalmente se admite por los economistas que las fuerzas competitivas
+del mercado generan un elevado grado de eficiencia. En condiciones ideales, los
+106
+
+
+
+mercados competitivos conducen a la eficiencia; sin embargo, en determinados
+supuestos estas condiciones pueden faltar, y el equilibrio competitivo se corres­
+ponde con una asignación de recursos no óptima o ineficiente en el sentido de
+Pareto (nadie puede estar mejor sin que alguien esté peor). Se da entonces un fallo
+del mercado que justifica la intervención del Estado para corregirlo.
+Existen, sin embargo, situaciones en las que, aun siendo eficiente la eco­
+nomía de mercado, ésta origina una distribución de la renta muy desigual, no acor­
+de con los ideales de la sociedad, que justifica la intervención del Estado para
+corregirla mediante una política de redistribución de la renta.
+Por último, y dado que el crecimiento económico se produce de una
+manera cíclica a consecuencia de los movimientos de la inversión, la teoría keynesiana suministró el bagaje teórico que justificaba la intervención del Estado para
+estabilizar la demanda a un nivel de pleno empleo de los recursos.
+A partir de la década de los setenta, se ha producido una reacción contra
+la fuerte intervención del sector público en la economía. Gordon Tullock ha afir­
+mado que los fallos de la economía de mercado pueden ser importantes, pero que
+los perjuicios ocasionados a la sociedad como consecuencia de las intervenciones
+públicas pueden no ser menores. De las teorías de los fallos del mercado para jus­
+tificar la intervención pública se ha pasado al análisis de los fallos del sector públi­
+co para tratar de introducir una mayor eficiencia.
+El Tratado de la Unión Económica y Monetaria y el Pacto de Estabilidad y
+Crecimiento diseñan un nuevo modelo de actuación pública en la economía que,
+en líneas generales, se basa en la corrección de las rigideces, ineficiencias y falta
+de equidad que las intervenciones públicas han ido generando. Junto a ello, la pro­
+visión por el Estado de factores productivos determinantes del crecimiento econó­
+mico (educación, investigación y desarrollo e infraestructuras) y la consecución de
+la estabilidad macroeconómica cierran el marco justificativo de la intervención del
+sector público.
+
+3.
+
+FACTORES QUE HAN IMPULSADO EL GASTO
+Y EL DÉFICIT EN ESPAÑA
+
+El proceso de expansión creciente del sector público se ha dado en todos
+los países, pero, si cabe, con mayor intensidad en cuanto a su ritmo de crecimien­
+to en España. En 1900, el gasto público sólo representaba el 7,4% del PIB; en 1996,
+107
+
+
+
+el 43%, habiendo llegado a sobrepasar el 48% (cuadros 3 y 4). Este cambio no sólo
+ha sido cuantitativo, sino cualitativo, ya que se ha producido un fuerte cambio en
+la estructura de las funciones que el sector público ha ido tomando a su cargo.
+En efecto, en 1900 la producción de bienes públicos puros (defensa, orden
+público, justicia, relaciones exteriores, etc.), que precisamente son los que — por
+sus especiales características— el Estado tiene que suministrar, absorbía el 36,3%
+del gasto total, pasando al 13% en 1996, con pérdida de 23 puntos; su participa­
+ción en el PIB creció ligeramente, pasando del 2,7% al 5,6%.
+A los bienes privados suministrados públicamente, que son los gastos
+sociales, sólo se les asignaba el 11% del gasto total en 1900 (0,8% del PIB), pasan­
+do al 59% en 1996 (25,2% del PIB). Ha sido ésta la gran transformación en la
+estructura de servicios suministrados por el sector público. Dentro de este grupo se
+incluyen las prestaciones sociales (pensiones, desempleo y asistencia social), que
+en 1996 absorbían el 14,7% del PIB (el 0,7% en 1900), y los bienes preferentes
+(educación, sanidad y vivienda), con una asignación de recursos del 10,6% del PIB
+en 1996 (el 0,2% en 1900).
+Precisamente estos bienes de la protección social han sido los principales
+impulsores del crecimiento del gasto y del déficit; su razón se encuentra en que las
+leyes que otorgan las prestaciones sociales no sólo reconocen los derechos subje­
+tivos, sino que además fijan los parámetros que han de servir de base para cuantificar estos derechos, convirtiéndose así en un dato para el Presupuesto, sin posibi­
+lidad de establecer un techo cuantitativo para los mismos que impida su
+rebasamiento ni su limitación temporal; son partidas de gasto que tienen un creci­
+miento autónomo, que no dependen de decisiones del Gobierno, a menos que se
+efectúen reformas estructurales, y en los cuales tiene una gran incidencia la estruc­
+tura demográfica.
+A la agrupación -servicios económicos», con gran influencia en el desarro­
+llo, especialmente las infraestructuras de transportes y comunicaciones, sólo se le
+asignaba en 1900 el 8,9% del gasto total (0,7% del PIB), duplicando dicha partici­
+pación en 1996 (14,6%), con lo que representa el 6,2% del PIB.
+Como consecuencia del fuerte endeudamiento originado por las guerras
+coloniales y por un sistema fiscal que petrificaba rápidamente las bases tributarias,
+los intereses de la deuda absorbían en 1900 el 38,5% del gasto total (2,8% del PIB),
+habiéndose reducido su participación en el gasto en 1996 a sólo el 12,6% (5,4%
+del PIB), y continuará su descenso en años futuros como consecuencia de nuestra
+108
+
+
+
+entrada en la Unión Monetaria, que ha dado lugar a una fuerte reducción de los
+tipos de interés y del déficit público, el cual deberá ser cero en el año 2002.
+Después de este largo recorrido histórico sobre la evolución del gasto y
+del déficit en el siglo xx, pasamos a exponer las enseñanzas que hemos obtenido
+para tratar de controlar el déficit público.
+
+4. ENSEÑANZAS RECIBIDAS PARA CONTROLAR EL DÉFICIT PÚBLICO
+De lo que hemos expuesto sobre evolución del déficit y del gasto públi­
+co, y de los estudios empíricos realizados, se obtienen las siguientes enseñanzas.
+
+Primera. España no ha logrado un verdadero control sobre el déficit
+público hasta que una norma supranacional, Tratado de la Unión Europea y Pacto
+de Estabilidad, se lo ha impuesto. Sólo entonces España ha sido capaz de reducir
+su déficit público en 5,5 puntos de PIB en sólo tres años, pasando del 7,3% en 1995
+al 1,8 en 1998, y se prevé en el Plan de Estabilidad que a finales del 2002 las cuen­
+tas públicas aparezcan con un ligero superávit.
+
+Segunda. El Ministerio de Economía y Hacienda no ha sido el baluarte
+capaz de imponer disciplina presupuestaria, como se desprende tanto de la tasa
+de crecimiento del gasto en los Presupuestos iniciales, que fue del 10% como
+tasa media del período 1990-1995, como del aumento de la capacidad de gasto
+como consecuencia de las variaciones de crédito de las operaciones no financie­
+ras, que para el período 1983-1995 fue del 2,1% de la media del PIB de dicho
+período, lo que pone de manifiesto que el proceso presupuestario español no
+impone restricción alguna al crecimiento del gasto, dando lugar a una falta de
+disciplina fiscal.
+Tercera. El límite de deuda autorizado en la Ley de Presupuestos no supo­
+ne restricción presupuestaria alguna; se trata exclusivamente de un medio para
+financiar el déficit presupuestario. Las propias leyes de presupuestos han venido
+estableciendo que el límite por ellas fijado quedará automáticamente revisado por
+las desviaciones entre las previsiones de ingresos contenidas en la Ley de Presu­
+puestos y la evolución real de los mismos, por el importe de las m odificaciones
+autorizadas de créditos presupuestarios (créditos extraordinarios y suplementarios,
+incorporaciones de crédito, créditos ampliables, etcétera), así como por otro sinfín
+de causas que enumera la Ley. Como consecuencia de dichas autorizaciones, el
+aumento neto de deuda en circulación en relación con el límite fijado inicialmente
+109
+
+
+
+aumentó en el 14,6% como media del período 1990-1996, y en el mismo importe
+se aumentó el déficit público.
+
+Cuarta. La Ley General Presupuestaria, texto refundido aprobado por Real
+Decreto Legislativo 1091/1988, de 23 de septiembre, no estableció realmente una
+programación plurianual del gasto público, aunque en las órdenes ministeriales dic­
+tadas para elaborar los Presupuestos Generales del Estado se viene haciendo refe­
+rencia a la adaptación de las políticas presupuestarias de carácter plurianual a las
+envolventes financieras establecidas. Se trata de una declaración sin contenido algu­
+no.
+Quinta. La utilización de la ilusión financiera en el proceso de elaboración
+de los Presupuestos por todos los agentes públicos en España no asegura una cla­
+ra rendición de cuentas en lo concerniente al déficit presupuestario anual, aumen­
+tando el gasto por encima de lo que permitiría una estrategia presupuestaria diri­
+gida a la estabilidad de la economía, como lo demuestran los casos que exponemos
+a continuación:
+a) Contraer en cuentas derechos derivados de tributos que, de antema­
+no, se sabe que tendrán escasa posibilidad de cobro. Cuando a los dos o tres años
+dichos derechos resultan fallidos, ya no tienen influencia en el déficit público. Esta
+forma de proceder se agrava aún más en las corporaciones locales, ya que la dife­
+rencia entre derechos y obligaciones reconocidos derivados del Presupuesto que
+no hayan sido cobrados o pagados en fin de año se integran en el «remanente de
+Tesorería», que sirve como primera partida para financiar gastos del Presupuesto del
+ejercicio siguiente.
+b) Plusvalías obtenidas en la enajenación de activos financieros, que en
+el Presupuesto figuran como dividendos y otras rentas distribuidas por las socieda­
+des y, por tanto, disminuyendo el déficit presupuestario, lo que conduce a una
+situación kafkiana en cuanto al marco conceptual del déficit presupuestario, ya que
+éste se hace depender de las plusvalías obtenidas en la privatización de las empre­
+sas públicas, presentándose a los medios de información diciendo que el déficit
+público se ha reducido con respecto a igual período del año anterior. Cuando en
+Contabilidad Nacional se hace posteriormente el ajuste, la consecuencia es un défi­
+cit excesivo.
+c) Las asunciones de deuda por el Estado no se hacen pasar por el Pre­
+supuesto, lo que da lugar a presentar un resultado más favorable que el que mues­
+tra la realidad. Aunque en Contabilidad Nacional se efectúe el oportuno ajuste para
+110
+
+
+
+determinar el déficit real, en el Presupuesto continúa la ilusión financiera, permi­
+tiendo un mayor gasto.
+
+d) Los intereses de la deuda pública se figuran en el Presupuesto; sin
+embargo, no se reflejan en el momento adecuado, ya que se recogen a su venci­
+miento, no efectuándose por tanto las oportunas periodificaciones, trasladando el
+déficit de un año a otro.
+e) Por último, en la financiación privada de infraestructuras públicas,
+aunque la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, dispuso que en
+los presupuestos de gastos del ejercicio en que haya de producirse la recepción de
+la obra se consignará el crédito necesario para amparar el gasto previsto en el con­
+trato por razón del pago del precio único, asegurando así el proceso presupuesta­
+rio una clara rendición de cuentas en cuanto al déficit presupuestario, sin embar­
+go el Real Decreto 704/1997, de 16 de mayo, dictado en desarrollo de la citada Ley
+de Medidas Fiscales, cambia el criterio en el sentido de que cuando se acuerde el
+pago fraccionado en distintas anualidades, los compromisos se refieran a los ejer­
+cicios en que se fracciona el pago, dando así lugar a que el proceso presupuesta­
+rio presente una rendición de cuentas no claras en relación con el déficit en que
+se ha incurrido.
+Las formas de proceder que hemos ido enumerando dan lugar a un vacia­
+miento del Presupuesto, creando un agujero presupuestario que pasará a ser relle­
+nado por nuevos gastos ante las presiones de los ministerios fundadas en el apa­
+rente superávit presupuestario. Sin embargo, como el superávit presupuestario no
+es real, el resultado será un déficit excesivo.
+
+Sexta. El Presupuesto nació como un instrumento para disciplinar el que­
+hacer de la actividad económica de los entes públicos. Con tal finalidad, los eco­
+nomistas clásicos elaboraron un conjunto de principios que se han ido adaptando
+a las exigencias de cada época, a medida que las finalidades que se han ido asig­
+nando a la política presupuestaria han evolucionado al compás de las teorías eco­
+nómicas que le servían de sustento.
+Hoy en día, en el contexto de la Unión Monetaria, desaparecido el mane­
+jo de los tipos de interés y del tipo de cambio por su traspaso a autoridades supranacionales, el Presupuesto es el instrumento que queda en manos del Gobierno
+para conseguir la estabilidad económica, y para ello es necesario mantener en lími­
+tes adecuados el crecimiento del gasto público y que el Presupuesto sea el reflejo
+real de todas las transacciones económicas realizadas por las diferentes administra111
+
+
+
+dones públicas. Partiendo de esta concepción del Presupuesto, la imputación tem­
+poral al mismo de las transacciones realizadas por los entes públicos debe efec­
+tuarse con el criterio del devengo puro, es decir, en función de la corriente real de
+bienes y servicios que los ingresos y gastos representan, y por la totalidad de las
+transacciones.
+
+Séptima. En España, el proceso presupuestario es muy permisivo en cuan­
+to a adoptar compromisos de gasto para el futuro; el 87,5% de los créditos inicia­
+les del presupuesto de gastos no financieros de 1997 provenía de decisiones adop­
+tadas en ejercicios anteriores, lo que dificulta de manera notable el control del
+déficit.
+Octava. El proceso presupuestario español ha sido muy laxo en cuanto a
+los gastos presupuestarios sin tope cuantitativo; la Ley General Presupuestaria
+admite la posibilidad práctica de modificar cualquier crédito presupuestario.
+En efecto, las variaciones de crédito de operaciones no financieras en el
+período 1983-1995 ponen de manifiesto un aumento de la capacidad de gasto total
+en relación con el Presupuesto inicial que se mueve entre el 2,19% de 1995 y el
+1 6 , 1 0 % de 1985, siendo la media de variación del 9,9%, lo que supone un aumen­
+to de la capacidad de gasto del Estado equivalente al 2,1 % de la media del PIB del
+mismo período.
+Si considerásemos los incrementos en la capacidad de gasto ocasionados
+por las variaciones de los créditos presupuestarios como una variable aleatoria nor­
+mal, y supusiésemos que el proceso presupuestario vigente en el período analiza­
+do permanece sin m odificación, obtendríamos que en el 95% de los ejercicios el
+incremento de la capacidad de gasto derivado de las m odificaciones presupuesta­
+rias se situaría entre el 1,95% y el 17,83%, dado que la media de dicho período es
+del 9% y la desviación estándar del 4,05%, y la estimación puntual sería aproxi­
+madamente del 10%. La indisciplina fiscal afectó a todos los capítulos de gastos del
+Presupuesto y a todos los ministerios.
+En los años 1996 a 1999, aunque la disciplina presupuestaria es mayor, sin
+embargo las variaciones de los créditos en cada uno de los años es del orden de
+un billón de pesetas, equivalente al 1,4% del PIB del mismo período.
+
+Novena. En nuestro proceso presupuestario se dan muchas sombras sobre
+la transparencia del Presupuesto:
+
+112
+
+
+
+a)
+
+anticipos d e tesorería p ara gastos inaplazables;
+
+la información que se acompaña a los Presupuestos Generales del
+Estado es superabundantísima, pero inconexa; mucha de ella no es relevante para
+conocer la verdadera situación de las finanzas públicas, y no contiene evaluaciones
+de las políticas públicas;
+
+b)
+
+c) las previsiones macroeconómicas en las cuales se inserta el Presu­
+puesto, al ser internas del Ministerio de Economía, pueden dar lugar a que quede
+oscurecida la transparencia presupuestaria;
+d) la no inclusión en el Presupuesto de subvenciones para financiar las
+pérdidas de las empresas públicas, sustituyéndolas por autorizaciones para que pro­
+cedan a endeudarse;
+e) enmascarar los pasivos contribuye a restar transparencia a los Presu­
+puestos (no mostrar el importe de las deudas implícitas derivadas de las pensiones
+de la seguridad social, trasladar obligaciones de un año a otro, trasladar al ICO obli­
+gaciones surgidas de operaciones realizadas por aquél por cuenta del Estado;
+f)
+
+conceder a determinados créditos el carácter de automáticamente
+
+ampliables;
+
+g) crear formalmente empresas públicas (pero que en realidad no ope­
+ran en el mercado) para realizar un conjunto de actividades, autorizándoles a con­
+certar préstamos para financiar éstas, actividades que deberían ser financiadas por
+los Presupuestos.
+Décima. Análisis empíricos efectuados han puesto de manifiesto que en
+España, en el período 1950-1990, los ajustes presupuestarios llevados a cabo para
+reducir el déficit público a través de aumentos impositivos sólo han tenido efecto
+a corto plazo, ya que a largo plazo más impuestos han estado asociados a un mayor
+gasto y a un mayor déficit.
+Undécima. La no evaluación de los programas de gasto por el Tribunal de
+Cuentas para comprobar tanto la eficacia como la eficiencia con que han sido ges­
+tionados, así como el amplio plazo transcurrido desde la terminación del ejercicio
+económico hasta la aprobación por las Cortes de la Cuenta General del Estado, da
+lugar a que este filtro del proceso presupuestario sea irrelevante para la opinión
+pública en su finalidad de tratar de contener el desbordamiento y la ineficiencia del
+gasto público.
+113
+
+
+
+5.
+
+CONCLUSIONES
+
+Las once enseñanzas que hemos recibido de las experiencias que hemos
+enumerado nos va a servir para proponer once reformas a introducir para taponar
+los agujeros presupuestarios generadores de déficit futuros.
+
+Primera. Siendo la estabilidad económica uno de los principios básicos del
+Tratado de Maastricht, no tiene nada de extraño que, para afianzar aquélla, la
+Unión, impulsada por Alemania, aprobara el Pacto de Estabilidad y Crecimiento,
+que establece que, en el supuesto de normalidad, las cuentas públicas estarían
+equilibradas o con ligero superávit a medio plazo. El Pacto de Estabilidad se incor­
+poró como anexo al Tratado de la Unión. Como medio plazo se ha fijado el año
+2002. Se trata de un pacto internacional que hemos de respetar, adelantando todo
+lo posible la consecución del objetivo déficit cero aprovechando la bonanza eco­
+nómica que, por otra parte, serviría para un control de la inflación. Al ser el Pre­
+supuesto el único instrumento en manos de los estados miembros para conseguir
+estabilidad, y los efectos que ésta tiene sobre la competitividad, la política presu­
+puestaria adquiere un papel relevante en la organización de la Unión Monetaria
+Europea.
+
+Segunda. Las iniciativas básicas de política presupuestaria deben situarse
+al más alto nivel, Presidente del Gobierno, introduciendo así en España el princi­
+pio de decisión jerárquica en la elaboración del Presupuesto, y no el principio de
+colegiación. La creación, en 1996, de la Oficina del Presupuesto, bajo la depen­
+dencia del Presidente del Gobierno, para asistir a éste en la formulación de la polí­
+tica presupuestaria, como han recomendado Van Hagen y Harden como conse­
+cuencia de los estudios empíricos realizados, parece ser un camino acertado. Así lo
+muestran los resultados obtenidos en la elaboración de los Presupuestos de 1997 y
+1998.
+Tercera. Para que el modelo basado en la fijación del techo de gasto públi­
+co, de acuerdo con la decisión jerárquica del Presidente del Gobierno, cumpla
+automáticamente su misión de que el déficit público no sobrepase el previsto, es
+necesario crear la Comisión de la Deuda, que tendrá como misión la fijación del
+límite máximo de variación del saldo neto de la deuda en circulación, que no podrá
+ser modificado por el Gobierno ni por las Cortes. La Comisión de la Deuda fun­
+cionaría con absoluta independencia del Gobierno.
+Cuarta. Sólo se conseguirá reforzar la estabilidad financiera con un cum­
+plimiento de los objetivos generales de la presupuestación a través de compromi114
+
+
+
+sos con la programación plurianual. El programa plurianual se actualizará cada ejer­
+cicio, y recogerá exclusivamente las repercusiones y compromisos económicos
+derivados de las decisiones adoptadas en ejercicios anteriores, así com o las que
+sean consecuencia de las decisiones del primer año del Programa que se plasmen
+en el Presupuesto que se presentará a las Cortes. Ello daría a lugar a un evaluación
+de los programas en curso de realización para conocer si las razones que justifica­
+ron su financiación pública subsisten y comprobar el grado de eficiencia de su rea­
+lización.
+
+Quinta. Para evitar la ilusión financiera, que da lugar a un aumento del
+gasto por encima de lo que requiere la estabilidad de la economía, deberían intro­
+ducirse en el proceso presupuestario las siguientes medidas:
+a) incluir en los Presupuestos un ajuste anual por los derechos que,
+como media de un período, no se cobran; en Contabilidad Nacional es obligatorio
+este ajuste;
+contabilizar presupuestariamente como transferencia de capital las
+deudas asumidas de empresas públicas;
+
+b)
+
+ajustar la contabilidad presupuestaria a la realidad económ ica de las
+transacciones de las administraciones públicas;
+
+c)
+
+d)
+
+periodificar anualmente en los Presupuestos los intereses corridos y
+
+no vencidos.
+
+Sexta. La imputación temporal al Presupuesto de las transacciones efec­
+tuadas por los entes públicos debe efectuarse con el criterio del devengo puro, es
+decir, en función de la corriente real de bienes y servicios que los ingresos y gas­
+tos representan, y por la totalidad de las transacciones.
+Séptima. Reducir los compromisos de gasto para el futuro, ya que estudios
+empíricos realizados muestran que los estados que tienen una fracción pequeña de
+gastos procedentes de ejercicios anteriores tienen unos déficit más bajos y una
+situación presupuestaria más sostenible que los otros.
+Octava. La cuantía global del gasto aprobado por las Cortes no debe ser
+superada en el transcurso del ejercicio. Quedarían por tanto suprimidos los crédi­
+tos suplementarios y las incorporaciones de crédito. Sólo subsistirían las modifica­
+ciones presupuestarias debidas a créditos extraordinarios con carácter excepcional
+115
+
+
+
+para hechos que no hubieran podido ser previstos (catástrofes) y los créditos
+ampliables que amparen obligaciones específicas del respectivo ejercicio derivadas
+de derechos subjetivos, que se financiarían con baja en otros créditos del Presu­
+puesto.
+
+Novena. Para dar transparencia al Presupuesto, sería necesario introducir
+las siguientes reglas:
+a) prohibición de anticipos de tesorería, excepto por razones de extre­
+ma urgencia (catástrofes);
+b) la información que se acompaña al Presupuesto ha de ser relevante
+para conocer la verdadera situación de las finanzas públicas y útil para que los par­
+lamentarios ejerzan las funciones de control del Gobierno. La creación de una O fi­
+cina Presupuestaria del Congreso facilitaría la labor de control de las cámaras sobre
+el Gobierno;
+c) las previsiones macroeconómicas que enmarcan los presupuestos
+deberían ser contrastadas por instituciones independientes (Banco de España, INE);
+d) se prohibirá que las empresas públicas financien sus déficit a través
+de préstamos;
+e) las deudas implícitas de la seguridad social derivadas de las pensio­
+nes contributivas gestionadas por un sistema de reparto deben ser puestas de mani­
+fiesto en anexo que se acompañaría a los Presupuestos Generales del Estado;
+J) sólo se concederá el carácter de crédito ampliable a los que amparen
+obligaciones específicas del respectivo ejercicio y por la cuantía o concepto impre­
+decible, derivadas de derechos subjetivos o de la carga financiera de la deuda
+pública, según disposición con rango de Ley; se acompañará al Presupuesto del
+Estado un anexo demostrativo de la metodología seguida en la cuantificación de
+cada uno de los créditos ampliables;
+no podrán crearse organismos públicos con la denominación de
+empresa pública, a menos que su producción se venda en el mercado y los ingre­
+sos obtenidos de la venta supongan al menos el 50% de sus costes de producción.
+
+g)
+
+Décima. Si los Presupuestos Generales del Estado contemplaran una subi­
+da de la presión fiscal individual, debería adjuntarse por el Gobierno una Memoria
+116
+
+
+
+justificativa de que no es posible equilibrar el Presupuesto reduciendo el gasto
+público.
+
+Undécima. Debería reducirse a tres meses el plazo para remisión por el
+Gobierno de la Cuenta General del Estado al Tribunal de Cuentas, el cual debería
+enviarla a las Cortes con su Informe en los nueve meses siguientes a su recepción.
+Dado que el proceso presupuestario es un proceso reglado, las reformas
+que se han propuesto para evitar agujeros presupuestarios deberían incluirse en
+una nueva Ley General Presupuestaria adaptada al nuevo entorno de estabilidad
+configurado en el Tratado de Maastricht. Han transcurrido ya ocho años desde la
+aprobación del Tratado de la Unión, y aún no se ha dado cumplimiento por Espa­
+ña a lo dispuesto en él sobre la obligación de los estados miembros de reformar su
+proceso presupuestario para cumplimentar las obligaciones que sobre tal materia
+les impone el Tratado.
+El anterior Gobierno presentó en 1995 al Congreso un Proyecto de nueva
+Ley General Presupuestaria que fue rechazado por éste; prácticamente era una
+reproducción de la vigente. El actual Gobierno constituyó en 1996 una comisión
+para elaborar una nueva Ley General Presupuestaria. A los tres meses, la Oficina
+del Presupuesto se retiró de la comisión, ya que por lo general la concepción de
+una nueva Ley General Presupuestaria al servicio de la estabilidad continuaba sin
+ser aceptada. Una de las cosas más difíciles de cambiar en la Administración es la
+cultura, y la que impregna todavía el proceso presupuestario proviene de las leyes
+de Contabilidad de 1845, 1911 y Ley General Presupuestaria de 1974, texto refun­
+dido de 1988.
+
+117
+
+
+
+C uadro 1
+Estado. Capacidad (+) o Necesidad (-) de Financiación
+(En millones de pesetas)
+Año
+
+Importe
+
+1900.......................
+1901.......................
+1902.......................
+1903.......................
+1904.......................
+1905.......................
+1906....................... ....
+1907.......................
+1908.......................
+1909....................... ....
+1910.......................
+1911.......................
+1912....................... ....
+1913....................... ....
+1914....................... ....
+1915....................... ....
+1916....................... ....
+1917....................... ....
+
+107,0
+73,6
+76,8
+30,7
+61,1
+79,8
+105,0
+78,9
+70,7
+- 36,4
+9,6
+24,3
+- 43,4
+-12,5
+-144,0
+-448,8
+-201,1
+-281,8
+
+Porcentaje s/PIB
+
+0,98
+0,63
+0,68
+0,25
+0,50
+0,66
+0,86
+0,59
+0,55
+-0,27
+0,07
+0,18
+-0,31
+-0,08
+-0,91
+-2,46
+-0,91
+- 1,01
+
+Año
+
+1918
+1919
+1920
+1921
+1922
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+
+Importe
+
+Porcentaje s/PIB
+
+Año
+
+Importe
+
+Porcentaje s/PIB
+
+415,2
+564,3
+705,6
+901,5
+621,2
+518,5
+440,5
+413,3
+290,6
+179,9
+100,6
+-23,0
+105,8
+33,2
+- 103,7
+- 237,5
+- 427,5
+-183,9
+
+- 1,29
+-1,52
+-1,95
+-2,95
+-2,11
+- 1,67
+-1,31
+-1,15
+-0,82
+-0,50
+-0,28
+-0,06
+0,29
+0,09
+-0,27
+-0,63
+- 1,06
+-0,46
+
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+
+- 1.843,6
+- 2.498,9
+-1.717,8
+- 5.766,7
+- 4.687,5
+- 3.900,8
+- 1.003,8
+- 1.366,9
+- 1.641,8
+- 513,5
+- 783,9
+- 558,9
+2.028,9
+2.758,6
+2.200,8
+2.026,3
+- 206,3
+5.538,2
+
+- 2,84
+-3,13
+- 1,85
+-5,71
+-4,00
+- 3,18
+-0,66
+-0,80
+-0,92
+-0,26
+-0,32
+-0,19
+0,61
+0,77
+0,55
+0,45
+-0,04
+0,93
+
+-
+
+Fuente: Datos básteos para la Historia Financiera de España, 1850-1975, IEF, 1976 (vol. 1).
+
+C uadro 2
+
+Administraciones públicas. Capacidad (+) o Necesidad (-) de Financiación
+(En millardos de pesetas)
+Año
+
+1958.........................
+1959.........................
+1960.........................
+1961.........................
+1962......................... ....
+1963.........................
+1964.........................
+1965.........................
+1966.........................
+1967.........................
+1968 .........................
+1969.........................
+1970.........................
+1971.............................
+
+Importe
+
+Porcentaje s/PIB
+
+Año
+
+Importe
+
+6,7
+6,9
+7,9
+19,6
+
+0,96
+0,94
+
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+
+46,6
+9,3
+2,6
+-22,1
+-56,5
+- 196,5
+- 217,7
+- 398,7
+- 664,6
+1.100,0
+1.067,1
+1.378,1
+1.956,9
+
+15,7
+3,9
+4,4
+0,2
+3,5
+12,6
+6,9
+12,9
+17,4
+- 16,4
+
+1,05
+2,15
+1,48
+0,32
+0,32
+0,01
+0,20
+0,64
+0,31
+0,52
+0,62
+
+-0,52
+
+9,0
+
+-
+
+Fuentes: Cuentas de las Administraciones Ptíblicas Españolas, IGAE.
+Cuentas Financieras de la Economía Española, Banco de España.
+
+118
+
+Porcentaje s/PIB
+
+Año
+
+0,24
+1,03
+0,17
+0,04
+-0,28
+-0,57
+-1,65
+-1,56
+-2,53
+-3,71
+-5,40
+-4,56
+-5,21
+-6,59
+
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+
+Importe
+
+- 1 .930,0
+- 1 . 130,0
+- 1.306,0
+- 1.655,5
+- 2.169,0
+- 2.465,5
+- 2.450,4
+- 4.276,1
+- 4.138,0
+-5.124,0
+- 3.449,0
+- 2.043,9
+- 1.497,8
+
+Porcentaje s/PIB
+
+- 5,63
+-2,91
+-3,01
+-3,67
+-4,32
+-4,48
+-4,14
+-7,01
+-6,38
+-7,34
+-4,67
+- 2,62
+- 1,81
+
+
+
+C uadro 3
+La estructura del Gasto Público (Estado)
+(En millones de pesetas)
+a)
+Funciones
+
+1900
+1920
+Importe Porcentaje
+del total Porcentajedel PIB Importe Porcentajedel total Porcentajedel PIB
+
+A. Bienespúblicos.......................
+
+292,0
+
+36,28
+
+2,66
+
+1.081,3
+
+37,37
+
+2,99
+
+1. Servidos generales...........
+2. Defensa................................
+
+179,9
+112,1
+
+22,35
+13,93
+
+1,64
+1,02
+
+363,8
+717,5
+
+12,57
+24,79
+
+1,01
+1,98
+
+B. Bienesprivados suministradospúblicamente...................
+
+88,7
+
+11,02
+
+0,81
+
+265,3
+
+9,17
+
+0,73
+
+72,6
+70,3
+
+0,66
+0,64
+
+116,0
+
+4,01
+3,79
+
+13,5
+0,9
+1,7
+
+9,02
+8,73
+0,29
+2,00
+1,68
+0,11
+0,21
+
+0,02
+0,15
+0,12
+0,01
+0,02
+
+6,2
+149,3
+131,3
+5,3
+12,7
+
+0,21
+5,16
+4,54
+0,18
+0,44
+
+0,32
+0,30
+0,02
+0,41
+0,36
+0,01
+0,04
+
+C. Servicios culturales, recrea¡ivosy religiosos.....................
+
+42,7
+
+5,31
+
+0,39
+
+102,8
+
+3,55
+
+0,28
+
+D. Servicios económicos...........
+
+71,8
+
+8,92
+
+0,66
+
+776,2
+
+26,82
+
+2,15
+
+1. Administración general....
+2.. Agricultura y ganadería..
+3. Minería y construcción ...
+4. Energía.................................
+5. Transportes y comunicadones....................................
+6. Comercio..............................
+7. Turismo................................
+8.. Otros....................................
+
+2,6
+6,6
+1,2
+-
+
+0,32
+0,82
+0,15
+-
+
+0,02
+0,06
+0,01
+
+12,8
+71,4
+14,9
+-
+
+0,44
+2,47
+0,51
+
+0,04
+0,20
+0,04
+
+61,3
+0,1
+-
+
+7,62
+0,01
+-
+
+0,56
+0,00
+-
+
+364,9
+312,1
+0,1
+-
+
+10,79
+0,00
+-
+
+1,01
+0,86
+0,00
+-
+
+E. No clasificados........................
+
+309,7
+
+38,48
+
+2,83
+
+668,2
+
+23,09
+
+1,85
+
+1. Intereses deuda.................
+2. Desastres..............................
+3. Transferencias a AA.PP...
+4.. Otros....................................
+
+309,2
+0,5
+-
+
+38,41
+0,06
+-
+
+2,82
+0,00
+-
+
+511,6
+0,3
+16,5
+139,8
+
+17,68
+0,01
+0,57
+4,83
+
+1,41
+0,00
+0,05
+0,39
+
+Total.................................................
+
+804,9
+
+100,0
+
+7,35
+
+2.893,8
+
+100,0
+
+8,00
+
+1. Prestadones sociales.......
+1.1. Pensiones....................
+1.2. Desempleo..................
+1.3. Otras prestaciones....
+2. Bienes preferentes............
+2.1. Educación....................
+2.2. Sanidad.........................
+2.3. Vivienda......................
+
+-
+
+2,3
+16,1
+
+-
+
+-
+
+-
+
+109,8
+-
+
+-
+
+-
+
+12,61
+
+-
+
+119
+
+
+
+Funciones
+
+1930
+1935
+Importe Porcentaje
+dei total Porcentajedel PIB Importe Porcentajedel total Porcentajedel PIB
+
+A. Bienespúblicos...................... 1.291,8
+
+34,37
+
+3,54
+
+1.430,2
+
+31,42
+
+3,57
+
+1. Servicios generales...........
+2. Defensa................................
+
+433,9
+857,9
+
+11,54
+22,82
+
+1,19
+2,35
+
+686,6
+743,6
+
+15,08
+16,33
+
+1,71
+1,86
+
+B. Bienesprivados suministradospúblicamente...................
+
+410,5
+
+10,92
+
+1,12
+
+802,6
+
+17,63
+
+2,00
+
+1. Prestaciones sociales.......
+1.1. Pensiones....................
+1.2. Desempleo..................
+1.3. Otras prestaciones....
+2. Bienes preferentes............
+2.1. Educación....................
+2.2. Sanidad.........................
+2.3. Vivienda.......................
+
+193,4
+180,7
+12,7
+217,1
+198,1
+11,7
+7,3
+
+5,15
+4,81
+0,34
+5,78
+5,27
+0,31
+0,19
+
+0,53
+0,49
+0,03
+0,59
+0,54
+0,03
+0,02
+
+397,1
+327,5
+69,6
+405,5
+318,8
+21,2
+65,5
+
+8,72
+7,19
+1,53
+8,91
+7,00
+0,47
+1,44
+
+0,99
+0,82
+0,17
+1,01
+0,80
+0,05
+0,16
+
+C. Servicios culturales, recreativosy religiosos.....................
+
+76,4
+
+2,03
+
+0,21
+
+25,1
+
+0,55
+
+0,06
+
+D. Servicios económicos...........
+
+723,1
+
+19,24
+
+1,98
+
+904,7
+
+19,87
+
+2,26
+
+1. Administración general...
+2. Agricultura y ganadería...
+3. Minería y construcción...
+4. Energía.................................
+5. Transportes y comunicadones....................................
+6. Comercio..............................
+7. Turismo................................
+8. Otros.....................................
+
+21,3
+70,5
+32,6
+0,1
+
+0,57
+1,88
+0,87
+0,00
+
+0,06
+0,19
+0,09
+0,00
+
+34,0
+130,1
+17,5
+0,9
+
+0,75
+2,86
+0,38
+0,02
+
+0,08
+0,32
+0,04
+0,00
+
+598,1
+0,5
+-
+
+15,91
+0,01
+-
+
+1,64
+0,00
+-
+
+714,8
+3,8
+3,6
+-
+
+15,70
+0,08
+0,08
+-
+
+1,78
+0,01
+0,01
+-
+
+E. No clasificados........................ 1.256,9
+
+33,44
+
+3,44
+
+1.389,6
+
+30,53
+
+3,47
+
+849,0
+1,0
+125,0
+281,9
+
+22,59
+0,03
+3,33
+7,50
+
+2,32
+0,00
+0,34
+0,77
+
+974,6
+128,2
+286,8
+
+21,41
+2,82
+6,30
+
+2,43
+0,32
+0,72
+
+Total................................................ 3.758,7
+
+100,00
+
+10,29
+
+4.552,2
+
+100,00
+
+11,37
+
+1. Intereses deuda.................
+2. Desastres..............................
+3. Transferencias a AA.PP...
+4. Otros.....................................
+
+-
+
+Fuente: D atos básicos p a ra la H istoria de España, 1850-1975, IEF, 1976 (Vol.I).
+
+120
+
+
+
+C uadro 3
+La estructura del Gasto Público (Estado)
+(En m illones de pesetas)
+b)
+
+Funciones
+
+1941
+1950
+Importe Porcentaje
+del total Porcentajedel P1B Importe Porcentajedel total Porcentajedé P1B
+
+A. Bienespúblicos....................... 4.907,4
+1. Servidos generales...........
+2. Defensa................................
+
+B. Bienes privados suministradospúblicamente...................
+
+50,66
+
+6,15
+
+8.775,0
+
+48,10
+
+3,61
+
+1.447,1
+3.460,3
+
+14,94
+35,72
+
+1,81
+4,33
+
+2.730,8
+6.044,2
+
+14,97
+33,13
+
+1,12
+2,48
+
+989,0
+
+10,21
+
+1,24
+
+3-130,7
+
+17,16
+
+1,29
+
+443,5
+436,5
+
+4,58
+4,51
+0,07
+5,63
+4,26
+0,63
+0,74
+
+0,56
+0,55
+0,01
+0,68
+0,52
+0,08
+0,09
+
+1.520,9
+1.194,9
+326,0
+1.609,8
+1.065,1
+250,6
+294,1
+
+8,34
+6,55
+1,79
+8,82
+5,84
+1,37
+l,6 l
+
+0,63
+0,49
+0,13
+0,66
+0,44
+0,10
+0,12
+
+1. Prestaciones sociales.......
+1.1. Pensiones....................
+1.2. Desempleo..................
+1.3. Otras prestaciones....
+2. Bienes preferentes............
+2.1. Educación....................
+2.2. Sanidad.........................
+2.3. Vivienda.......................
+
+7,0
+545,5
+412,9
+60,9
+71,7
+
+C. Servicios culturales, recreativosy religiosos.....................
+
+120,7
+
+1,25
+
+0,15
+
+538,5
+
+2,95
+
+0,22
+
+D. Servicios económicos........... 1.409,5
+
+14,55
+
+1,77
+
+3.091,4
+
+16,94
+
+1,27
+
+31,9
+160,1
+79,4
+12,7
+
+0,33
+1,65
+0,82
+0,13
+
+0,04
+0,20
+0,10
+0,02
+
+139,8
+571,7
+18,3
+25,5
+
+0,77
+3,13
+0,10
+0,14
+
+0,06
+0,23
+0,01
+0,01
+
+1.115,6
+7,2
+2,6
+-
+
+11,52
+0,07
+
+1,40
+0,01
+-
+
+-
+
+-
+
+2.294,4
+23,3
+18,4
+-
+
+12,58
+0,13
+0,10
+-
+
+0,94
+0,01
+0,01
+-
+
+E. No clasificados........................ 2.260,8
+
+23,34
+
+2,83
+
+2.708,4
+
+14,85
+
+1,11
+
+1.705,3
+77,0
+202,4
+276,1
+
+17,60
+0,79
+2,09
+2,85
+
+2,14
+0,10
+0,25
+0,35
+
+2.289,7
+205,9
+212,8
+-
+
+12,55
+_
+1,17
+-
+
+0,94
+_
+0,09
+-
+
+Total................................................. 9.687,4
+
+100,00
+
+12,13
+
+18.244,0
+
+100,00
+
+7,50
+
+1. Administración general...
+2. Agricultura y ganadería...
+3. Minería y construcción...
+4. Energía.................................
+5. Transportes y comunicadones....................................
+6. Comercio..............................
+7. Turismo................................
+8. Otros.....................................
+
+1. Intereses deuda.................
+2. Desastres..............................
+3. Transferencias a AA.PP...
+4. Otros.....................................
+
+-
+
+-
+
+121
+
+
+
+Funciones
+
+1941
+Importe Porcentaje
+del total Porcentajedel PIB
+
+A. Bienespúblicos......................
+
+7.634,3
+1. Servicios generales........... 13.522,3
+2. Defensa................................ 14.112,0
+
+37,'96
+18,58
+19,39
+
+3,68
+1,80
+1,88
+
+B. Bienesprivados suministradospúblicamente................... 18.890,6
+
+25,95
+
+2,51
+
+3.931,3
+3.646,2
+285,1
+14.959,3
+4.689,5
+595,1
+9.674,7
+
+5,40
+5,01
+0,39
+20,55
+6,44
+0,82
+13,29
+
+0,52
+0,49
+
+C. Servicios culturales, recreativos y religiosos..................... 1.201,8
+
+1,65
+
+0,16
+
+D. Servicios económicos........... 19.085,7
+
+26,22
+
+2,54
+
+1. Administración general...
+222,1
+2. Agricultura y ganadería... 4.714,2
+3. Minería y construcción...
+269,2
+4. Energía.................................
+314,1
+5. Transportes y comunicadones.................................... 12.535,0
+6. Comercio..............................
+819,2
+7. Turismo................................
+211,9
+8. Otros.....................................
+-
+
+0,31
+6,48
+0,37
+0,43
+
+0,03
+0,63
+0,04
+0,04
+
+17,22
+1,13
+0,29
+-
+
+1,67
+0,11
+0,03
+-
+
+E. No clasificados........................ 5.984,8
+
+8,22
+
+0,80
+
+1. Intereses deuda................ 4.946,7
+2. Desastres..............................
+3. Transferencias a AA.PP...
+1,3
+4. Otros..................................... 1.036,8
+
+6,80
+
+0,66
+
+0,00
+1,42
+
+0,00
+0,14
+
+Total................................................. 72.791,2
+
+100,00
+
+9,69
+
+1. Prestaciones sociales.......
+1.1. Pensiones....................
+1.2. Desempleo..................
+1.3. Otras prestaciones....
+2. Bienes preferentes............
+2.1. Educación...................
+2.2. Sanidad.........................
+2.3. Vivienda.......................
+
+-
+
+-
+
+0,04
+1,99
+0,62
+0,08
+1,29
+
+-
+
+Fuente: Datos básicospara la Historia de España, 1850-1975, IEF, 1976 (Vol.I).
+
+122
+
+
+
+C uadro 4
+La estructura del Gasto Público (Adm inistraciones Públicas)
+(En m illones de pesetas)
+a)
+Funciones
+
+Importe
+
+1970
+Porcentaje del total
+
+Porcentaje del PIB
+
+Importe
+
+1980
+Porcentaje del total
+
+Porcentaje del PIB
+
+A. Bienespúblicos.......................
+
+112,2
+
+19,35
+
+4,02
+
+797,0
+
+15,85
+
+5,06
+
+— Servicios generales..........
+— Defensa...............................
+
+68,3
+43,9
+
+11,78
+7,57
+
+2,45
+1,57
+
+497,0
+300,0
+
+9,88
+5,96
+
+3,16
+1,91
+
+B. Bienesprivados suministradospúblicamente...................
+
+336,4
+
+58,01
+
+12,06
+
+3238,6
+
+64,39
+
+20,57
+
+— Prestaciones sociales......
+Pensiones...........................
+Desempleo.........................
+Otras prestaciones...........
+— Bienes preferentes...........
+Educación..........................
+Sanidad................................
+Vivienda..............................
+
+194,3
+105,4
+5,7
+83,2
+142,1
+49,3
+73,2
+48,6
+
+33,51
+18,18
+0,98
+14,35
+24,50
+8,50
+
+6,97
+3,78
+0,20
+2,98
+5,10
+1,77
+
+12,62
+
+2,62
+
+8,38
+
+1,74
+
+1.926,3
+1.301,5
+338,4
+286,4
+1.312,3
+496,7
+687,0
+128,6
+
+38,30
+25,88
+6,73
+5,69
+26,09
+9,88
+13,66
+2,56
+
+12,23
+8,26
+2,15
+1,82
+8,33
+3,15
+4,36
+0,82
+
+C. Servicios culturales, recreativosy religiosos.......................
+
+3,9
+
+0,67
+
+0,14
+
+46,0
+
+0,91
+
+0,29
+
+D. Servicios económicos...........
+
+111,5
+
+19,23
+
+4,00
+
+833,2
+
+16,57
+
+5,29
+
+— Agricultura y ganadería..
+— Minería y construcción...
+— Combustible y energía...
+— Transportes y comunicadones..................................
+— Otros.....................................
+
+-
+
+-
+
+-
+
+-
+
+-
+
+_
+
+-
+
+-
+
+-
+
+_
+_
+_
+
+_
+_
+_
+
+_
+_
+_
+
+-
+
+-
+
+_
+
+_
+
+_
+
+_
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+E. No clasificados........................
+
+15,9
+
+2,74
+
+0,57
+
+114,9
+
+2,28
+
+0,73
+
+— Intereses deuda pública..
+— Otros.....................................
+
+15,9
+-
+
+2,74
+-
+
+0,57
+-
+
+110,9
+4,0
+
+2,20
+0,08
+
+0,70
+0,03
+
+Total.................................................
+
+579,9
+
+100,00
+
+20,79
+
+5.029,7
+
+100,00
+
+31,94
+
+123
+
+
+
+Funciones
+
+Importe
+
+A. Bienespúblicos....................... 1.903,6
+
+1985
+Porcentaje-del total
+
+Porcentaje del PIB
+
+Importe
+
+1990
+Porcentaje del total
+
+Porcentaje del PIB
+
+15,14
+
+6,41
+
+3-154,1
+
+14,41
+
+5,81
+
+1.342,4
+561,2
+
+10,68
+4,46
+
+4,52
+1,89
+
+2.378,6
+775,5
+
+10,87
+3,54
+
+4,38
+1,43
+
+B. Bienesprivados suministradospúblicamente................... 6.917,1
+
+55,01
+
+23,30
+
+12.433,1
+
+56,80
+
+22,90
+
+32,12
+22,89
+6,23
+3,00
+22,88
+8,42
+10,46
+4,00
+
+13,61
+9,70
+2,64
+1,27
+9,69
+3,57
+4,43
+1,69
+
+7:221,2
+4.972,0
+1.418,2
+831,0
+5.211,9
+2.090,1
+2.452,6
+669,2
+
+32,99
+22,71
+6,48
+3,80
+23,81
+9,55
+11,20
+3,06
+
+13,30
+9,16
+
+— Servicios generales..........
+— Defensa...............................
+
+— Prestaciones sociales......
+Pensiones...........................
+Desempleo.........................
+Otras prestaciones...........
+— Bienes preferentes...........
+Educación..........................
+Sanidad................................
+Vivienda..............................
+
+4.039,5
+2.878,6
+783,2
+377,7
+2.877,6
+1.058,8
+1.315,8
+503,0
+
+C. Servicios culturales, recreativos y religiosos......................
+
+627,0
+
+4,99
+
+2,11
+
+120,2
+
+0,55
+
+0,22
+
+2.372,6
+— Agricultura y ganadería..
+
+18,87
+-
+
+7,99
+-
+
+4.224,2
+
+19,30
+
+7,78
+
+D. Servicios económicos...........
+
+— Minería y construcción...
+— Combustible y energía...
+— Transportes y comunicadones...................................
+— Otros.....................................
+
+-
+
+2,61
+
+1,53
+9,60
+3,85
+4,52
+1,23
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+754,3
+
+6,00
+
+2,54
+
+1.957,3
+
+8,94
+
+3,61
+
+970,5
+-216,2
+
+7,72
+-1,72
+
+i , 21
+
+-0,73
+
+1.866,9
+90,4
+
+8,53
+0,41
+
+3,44
+0,17
+
+Total................................................. 12.574,6
+
+100,00
+
+42,36
+
+21.888,9
+
+100,00
+
+40,32
+
+E. No clasificados........................
+— Intereses deuda pública.
+— Otros.....................................
+
+Ftiente: Papeles de Econom ía Española, núm. 68, FIES, 1996.
+
+124
+
+
+
+Funciones
+
+Im porte
+
+A. Bienespúblicos....................... 4.240,5
+
+1994
+Porcentaje del total
+
+Porcentaje del PIB
+
+Im porte
+
+1995
+Porcentaje del total
+
+Porcentaje del PIB
+
+13,65
+
+6,14
+
+4.391,0
+
+13,32
+
+5,82
+
+3.432,2
+808,3
+
+11,04
+2,60
+
+4,97
+1,17
+
+3.640,7
+750,3
+
+11,04
+2,28
+
+4,83
+1,00
+
+B. Bienesprivados suministradospúblicamente................... 18308,2
+
+58,92
+
+26,53
+
+19.172,5
+
+58,16
+
+25,43
+
+— Prestaciones sociales...... 10.781,2
+Pensiones........................... 7.537,8
+Desempleo......................... 2.137,6
+Otras prestaciones........... 1.105,8
+— Bienes preferentes........... 7.527,0
+Educación.......................... 2.821,9
+Sanidad................................ 3.779,0
+Vivienda..............................
+926,1
+
+34,69
+24,26
+6,88
+3,56
+24,22
+9,08
+12,16
+2,98
+
+15,62
+10,92
+3,10
+1,60
+10,91
+4,09
+5,48
+1,34
+
+11.162,4
+8.114,9
+1.810,0
+1.237,5
+8.010,1
+3.011,6
+4.133,4
+865,1
+
+33,86
+24,62
+5,49
+3,'75
+24,30
+9,14
+12,54
+
+14,81
+10,76
+2,40
+1,64
+10,62
+3,99
+5,48
+1,15
+
+— Servidos generales..........
+— Defensa...............................
+
+2,62
+
+C. Servicios culturales, recreatinosy religiosos.......................
+
+178,7
+
+0,58
+
+0,26
+
+198,1
+
+0,60
+
+0,26
+
+D. Servicios económicos...........
+
+4.725,6
+
+15,21
+
+6,85
+
+5.125,8
+
+15,55
+
+6,80
+
+2,12
+0,85
+0,11
+
+0,93
+0,37
+0,05
+
+— Agricultura y ganadería..
+— Minería y construcción...
+— Combustible y energía...
+— Transportes y comunicadones..................................
+— Otros.....................................
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+698,1
+280,7
+36,8
+
+-
+
+-
+
+-
+
+1.825,1
+2.285,1
+
+5,54
+6,93
+
+2,42
+3,03
+
+-
+
+E. No clasificados........................ 3-621,8
+
+11,66
+
+5,25
+
+4.076,7
+
+12,37
+
+5,41
+
+3.181,6
+440,2
+
+10,24
+1,42
+
+4,61
+0,64
+
+3.728,7
+348,0
+
+11,31
+1,06
+
+4,95
+0,46
+
+Total................................................. 31.074,8
+
+100,00
+
+45,03
+
+32.964,1
+
+100,00
+
+43,73
+
+— Intereses deuda pública.
+— Otros.....................................
+
+125
+
+
+
+Funciones
+
+1996
+Importe Porcentaje
+dé total Porcentajedé PIB
+
+A. Bienespúblicos......................
+
+4.446,3
+
+13,00
+
+5,56
+
+— Servidos generales.........
+— Defensa...............................
+
+3.669,4
+776,9
+
+10,73
+2,27
+
+4,59
+0,97
+
+B. Bienesprivados suministradospúblicamente.............. 20.161,1
+
+58,95
+
+25,23
+
+— Prestaciones sociales...... 11.705,1
+Pensiones........................... 8.738,9
+Desempleo......................... 1.676,2
+Otras prestaciones........... 1.290,0
+— Bienes preferentes........... 8.456,0
+Educación.......................... 3.185,0
+Sanidad................................ 4.426,0
+845,0
+Vivienda.............................
+
+34,22
+25,55
+4,90
+3,77
+24,72
+9,31
+12,94
+2,47
+
+14,65
+10,94
+2,10
+1,61
+10,58
+3,99
+5,54
+1,06
+
+317,1
+
+0,93
+
+0,40
+
+D. Servicios económicos........... 4.982,6
+
+C. Servicios culturales, recreativos y religiosos.................
+
+14,57
+
+6,24
+
+649,1
+647,6
+30,4
+
+1,90
+1,89
+0,09
+
+0,81
+0,81
+0,04
+
+1.721,3
+1.934,2
+
+5,03
+5,66
+
+2,15
+2,42
+
+E. No clasificados........................ 4.295,1
+
+— Agricultura y ganadería..
+— Minería y construcción...
+— Combustible y energía...
+— Transportes y comunicadones..................................
+— Otros.....................................
+
+12,56
+
+5,38
+
+3.745,1
+550,6
+
+10,95
+1,61
+
+4,69
+0,69
+
+Total................................................. 34.202,8
+
+100,00
+
+42,80
+
+— Intereses deuda pública.
+— Otros.....................................
+
+Fuente: Papeles de Econom ía Española, núm. 68, FIES, 1996.
+
+126
+
+
+
+-3,50
+
+G ráfico 1
+
+b)
+
+Período 1900-1935
+
+Evolución del déficit público
+a) Período 1900-1998
+
+
+
+•8.00
+
+dj
+
+Período 1977-1998
+
+G ráfico 1
+
+Evolución del déficit público
+c) Periodo 1940-1976
+
+k>
+
+00
+
+

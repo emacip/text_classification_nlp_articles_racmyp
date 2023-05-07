@@ -1,0 +1,781 @@
+NICOLÁS DE CUSA ANTE LA CUESTIÓN DE LAS
+PRUEBAS DE LA EXISTENCIA DE DIOS∗
+Por el Académico de Número
+Excmo. Sr. D. Mariano Álvarez Gómez*
+
+Para Carmen González Templado
+y José Luis Centeno Domínguez,
+admiradores y sabedores del Cusano.
+
+1. PLANTEAMIENTO
+Prescindo de las cuestiones que, desde determinadas perspectivas
+actuales del problema de Dios, podrían plantearse respecto de la concepción del Cusano. Aquí se trata de exponer cuál fue su actitud ante los argumentos para demostrar su existencia, que habían sido previamente desarrollados: por una parte, ante el famoso “argumento ontológico” de San Anselmo
+y, por otra parte, ante las no menos famosas y comentadas “cinco vías” de
+Santo Tomás. Se trata además, de modo prioritario, de considerar la posición
+del mismo Cusano acerca de la cuestión de las pruebas de la existencia de
+Dios, es decir, acerca de si afirma la posibilidad de demostrar la existencia
+de Dios, si ésta es para él una tarea importante, necesaria incluso, y por
+último, en el supuesto de que su actitud sea positiva en ambos casos, interesa saber de qué índole son los argumentos que él emplea.
+Respecto de los dos puntos ya mencionados, conviene hacer a su
+vez dos consideraciones previas. En primer lugar, los argumentos de San
+Anselmo y de Santo Tomás no son los únicos que han sido tratados y des∗ Dios es principio, medio y fin del pensamiento de Nicolás de Cusa. Por mi parte, he procurado aclarar
+las implicaciones de ese concepto en más de una ocasión, cf. por ejemplo, Notas 7, 26 y 33. El tema del que aquí me
+ocupo no se había investigado hasta la fecha.
+
+127
+
+
+
+arrollados por la tradición. Hay otros también, que aparecen igualmente en
+la obra del Cusano, como el llamado argumentum ethnologicum, que extrae
+su fuerza argumentativa del “consensus universalis”; igualmente, el argumentum eudemonologicyum, que se apoya en el hecho de la añoranza de
+Dios; o el no menos importante, que deriva de la simple existencia de la verdad, sobre todo de las verdades inmutables y eternas. El hecho de que hoy,
+cuando se habla de los argumentos para demostrar la existencia de Dios, se
+piense, casi exclusivamente en las dos direcciones indicadas de Anselmo y
+de Tomás, tiene en parte que ver con la crítica de Kant, que retrotrajo todos
+los intentos de demostrar la existencia de Dios a tres argumentos, es decir:
+el argumento ontológico, llamado así por vez primera, el argumento cosmológico y el teleológico o fisico-teológico. Los dos últimos resumen de facto
+las quinque viae del Aquinatense.
+La segunda observación previa se refiere al punto de partida que se
+debería adoptar al investigar la concepción del Cusano. Si se trata de saber
+lo que él pensó acerca de la cuestión de las pruebas de la existencia de Dios
+y, más concretamente, si intentó construir algún argumento en este sentido,
+hemos de tener presente su concepción central filosófico-teológica, así como
+su forma metodológica de pensar. No se trata por tanto de si podemos reducir la concepción del Cusano a un modo de pensar a priori o a posteriori, es
+decir, de si está a favor del paso del concepto de Dios a su existencia o al
+contrario, a favor del paso de la existencia de las cosas a la existencia de
+Dios. Pues tal vez el suyo sea un planteamiento que no se identifica ni con
+uno ni con otro, de modo sin embargo que ambas formas de pensar están,
+a la vez que superadas, conservadas de modo original en la suya propia.
+¿Por qué han de ser incompatibles el apriorismo de tipo platónico-neoplatónico con el procedimiento más bien a posteriori de Aristóteles? Después de
+que durante mucho tiempo se pensó que la concepción platónica y la aristotélica son tan diferentes que no se pueden armonizar entre sí y prevaleció
+la opinión de que Santo Tomás es simplemente aristotélico, de forma que en
+él no se puede encontrar ni huella de platonismo, poco a poco se ha ido
+viendo que las cosas son más complejas. Así, por ejemplo, nos lo han puesto
+de manifiesto los trabajos de Cornelio Fabro y de Klaus Kremer1.
+Por otra parte, el Cusano fue un maestro en armonizar posiciones
+contrapuestas, lo cual encuentra su expresión, entre otras cosas, en que fuera
+capaz de hacer compatibles aspectos fundamentales del nominalismo, como
+la valoración positiva del individuo y la intensa acentuación de lo concreto
+con doctrinas esenciales del platonismo, como la existencia y la prioridad de
+
+1
+C. Fabro, Participation et causalité selon S. Thomas d’Aquin, Louvain, 1961; K. Kremer, Die neuplatonische Seinsphilosophie und ihre Wirkung auf Thomas von Aquin, Leiden, 1966.
+
+128
+
+
+
+las ideas. Tendríamos que ocuparnos tal vez más intensamente con los pensamientos que desarrolla en De beryllo, a tenor de los cuales concepciones
+que son muy diferentes entre sí expresan una y la misma verdad de una
+forma diferente en cada caso.
+2. EL SILENCIO DE NICOLÁS DE CUSA SOBRE
+LOS ARGUMENTOS DE SAN ANSELMO Y SANTO TOMÁS
+Por lo que se refiere a los argumentos a favor de la existencia de
+Dios, N. de Cusa conocía sin duda tanto el argumento ontológico como el
+procedimiento de Santo Tomás, que toma su punto de partida de las cosas
+sensibles (sensibilia). Pero es llamativo que no se pronuncie sobre ambos
+planteamientos, ni positiva ni negativamente. No se pronuncia a favor de
+ellos, pero tampoco los critica. Podemos suponer que está de acuerdo con
+algunos aspectos de ambas formas de pensar, pero que no está satisfecho con
+ninguna de ellas y por eso intenta seguir su propio camino, que no tiene por
+qué ser inconciliable con aquellos.
+Veamos, pues, en primer lugar en qué medida el argumento ontológico es compatible con “la regla de la docta ignorancia” preconizada por el
+Cusano, en cuanto que esta tiene que ver con el concepto de Dios.
+Según el acertado resumen de J. Hirschberger, el argumento de San
+Anselmo reza así: “La razón encuentra en sí misma la idea de un ser, mayor
+que el cual nada se puede pensar (id quo maius cogitari non potest). Ahora
+bien, si este ser existiera solo en el pensamiento de la razón, no sería el ser
+supremo, porque en tal caso podría ser pensado un ser superior, es decir, un
+ser que existe no solo en el pensamiento, sino también en la realidad. Por
+tanto, la idea del ser supremo exige que éste exista no solo en la razón, sino
+también en la realidad”2.
+Este argumento ha sido una y otra vez comentado y también criticado. Según Tomás de Aquino, el argumento no prueba, porque una proposición solo puede ser conocida por sí misma cuando el predicado pertenece
+a la ratio subjecti, es decir, al concepto del sujeto del que se predica. Ahora
+bien, el predicado de la existencia pertenece al concepto de Dios quoad se,
+en sí, pero esto no es conocido por sí mismo quoad nos, en relación a nosotros, puesto que no conocemos lo que es Dios antes de conocerle por los
+
+2
+J. Hirschberger, Geschichte der Philosophie. Altertum und Mittelalter, Basel, Freiburg, Wien 1957. traducción española de L. Martínez Gómez, 270; M. Álvarez Gómez, “Sentido de la validez del argumento ontológico de San
+Anselmo”, en: San Anselmo de Canterbury, Proslogion. Con las réplicas de Gaunilón y Anselmo, ed. J. Velarde Lombraña, Madrid, 2009, pp. 11-31.
+
+129
+
+
+
+efectos, per effectus. No solo esto; ocurre que no todos consideran que Dios
+es el ser más perfecto, ya que algunos han pensado que Dios es un cuerpo.
+Además, “aunque se conceda que todos vean que con el nombre de Dios se
+designa aquello mayor que lo cual nada se puede pensar, no se sigue sin
+embargo de ahí que vean que lo que con este nombre se designa existe en
+la naturaleza de las cosas, sino que existe solo en la concepción del entendimiento —in apprehensione intellectus; y por último, “tampoco se puede
+afirmar que aquello mayor que lo cual nada se puede pensar, exista en la realidad, si de antemano no se concede que existe en la realidad algo mayor que
+lo cual nada se puede pensar, cosa que no conceden quienes suponen que
+Dios no existe”3. Resumiendo se puede decir: el presupuesto de San Anselmo
+de que todos entienden el nombre de Dios en el sentido indicado no es
+cierto. Pero, aunque lo fuera, con ello no tendríamos nada seguro sobre el
+ser de Dios, puesto que es preciso distinguir rigurosamente entre el ser en
+el entendimiento, aunque en ello se incluyera la realidad, y el ser real4.
+La crítica kantiana del argumento ontológico es más radical. El ser,
+en el sentido de la existencia de algo en general, por tanto también la existencia de Dios, no es predicado alguno, ni en sí —quoad se—, ni en relación
+a nosotros —quoad nos. El ser o bien es solamente la conexión de sujeto y
+predicado o meramente la posición del contenido del concepto en la realidad. Del concepto de Dios no se puede deducir en modo alguno su existencia, puesto que la existencia se encuentra en un ámbito completamente distinto, “ya que se añade al concepto del sujeto y lo amplía. No tiene por tanto
+que estar ya incluido en él”5.
+Sobre el argumento de San Anselmo no se pronuncia el Cusano, ni
+positiva ni negativamente. De entrada se podría pensar que él debería por lo
+menos estar muy próximo a tal argumento, en cuanto que el concepto de lo
+maximum pertenece, como es bien sabido, a su concepción fundamental.
+Parece incluso como si la existencia de Dios fuera evidente, es decir, estuviera implicada en este concepto de lo máximo. Pero el asunto no es tan
+simple y en mi opinión no es casual que el Cusano no acepte directamente
+el argumento de San Anselmo.
+Por de pronto, su maximum no coincide con el maximum cogitabile de San Anselmo, pues Dios no es para el Cusano “algo mayor que lo
+cual nada se puede pensar”, sino que es lo máximo pura y simplemente,
+maximum simpliciter, y en consecuencia está más allá también del maxiT. de Aquino, De ver., q. 10, a. 12; S.Th. I, q. 2, 1 y ad 2.
+Cf. W. Weischedel, Der Gott der Philosophen I, München 1979, p. 136.
+5
+I. Kant, Kritik der reinen Vernunft, B626s, cf. M. Heidegger, Die Grundprobleme der Phänomenologie,
+2ª edic. Frankfurt a. M., 1989, p. 52 y s.
+3
+4
+
+130
+
+
+
+mum cogitabile. Según esto, Dios es más grande que lo máximo que podemos pensar de El. Es sabido que Dios aparece, en los escritos del Cusano
+posteriores a De docta ignorantia, no siempre como coincidentia oppositorum, sino más allá de la coincidencia. Lejos de considerar el pensamiento
+como la medida de lo que Dios es en sí, intenta el Cusano incluso evitar la
+impresión de que nuestro pensamiento sea la medida de lo que Dios es para
+nosotros. Tomado rigurosamente, Dios no es pensable, si lo que se pretende
+es fijar su significado mediante determinadas categorías.
+Solo me es conocido un lugar que es similar a la fórmula de San
+Anselmo. En De principio, leemos: “Damos el nombre de Dios al uno, por
+encima del cual nada mejor se puede pensar”6. Ahora bien, el Cusano no
+dice “quo maius cogitari nequit”, sino: “quo melius cogitari nequit”, es decir,
+Dios aparece como objeto del desiderium, de la añoranza y, como tal, no
+puede comprensiblemente ser deseado o añorado nada mejor, puesto que
+Dios es el bien supremo, al igual que El es absolutamente lo más perfecto7.
+Por otra parte, aquí se habla de un nombre de Dios y para él, como para cada
+nombre, tiene validez, también por tanto para el de la unidad: “al igual que
+Dios supera toda intelección —omnem intellectum— supera también a fortiori todo nombre. Los nombres en efecto son impuestos para la distinción
+de las cosas por un movimiento de la razón, que es muy inferior al entendimiento”8. Todo nombre, también el de la unidad, “dista infinitamente del verdadero nombre de lo máximo, que es lo máximo mismo”9.
+El argumento ontológico sería, medido por la concepción del
+Cusano, una conclusión de la razón, no del entendimiento. Pero esto no significa que el planteamiento del Cusano sea por completo ajeno al de San
+Anselmo. Pero antes de ocuparnos de esto queremos ver brevemente cómo
+se relaciona la concepción del Cusano con la de Santo Tomás.
+Como ya hemos dicho, el Cusano no se pronuncia sobre las “cinco
+vías” de Santo Tomás. Esto no significa que sea contrario a la pretensión de
+demostrar la existencia de Dios a partir de lo que las cosas nos muestran.
+Podemos sin embargo suponer que las demostraciones se deben preparar
+primero, es decir, las cosas deben ser primeramente consideradas en la perspectiva adecuada, de tal forma que el paso de los datos de la experiencia a
+Dios se haga evidente. En efecto, si como resultado de la demostración, que
+
+6
+N. de Cusa, De Princ…, hx/2b, n. 26, l. p. 16 (h indica la edición crítica de la Academia de Heidelberg,
+el número en “romanos” indica el correspondiente de dicha edición).
+7
+Sobre este tema, cf. M. Álvarez Gómez, Añoranza y conocimiento de Dios en la obra de Nicolás de Cusa,
+en: Wahrheit und Verkündigung I, Michael Schmaus zum siebzigsten Geburstag, München, 1967, pp. 651-685; también
+en: Pensamiento del ser y espera de Dios, Salamanca, 2004, pp. 67-101.
+8
+De docta ign. I, 24; h I, p. 49, l. 4-7 [n. 76].
+9
+De docta ign. I, 24; p. 49, l. 25-26 [n. 77].
+
+131
+
+
+
+toma su punto de partida de los datos de la observación, ha de presentarse
+algo de índole absoluta, a lo que consideramos como Dios, entonces las
+cosas tendrán que poseer de algún modo desde si mismas una especie de
+lenguaje, que remita a un tal absoluto, o sea, tendrían que dejar huellas que
+nos inciten a movernos en dirección hacia lo absoluto. Con otras palabras,
+desde dentro de sí mismas tendrían que exigir las cosas un fundamento que
+representara el límite máximo y último en la línea de la necesaria fundamentación. Como es sabido, los datos de la experiencia que invoca Santo Tomás
+son el movimiento, el hecho de las causas eficientes, las cosas que tienen la
+posibilidad de ser y no ser, los grados de perfección que se dan en las cosas
+y por último el hecho de que hay cosas que obran por un fin.
+La experiencia misma aparece en primer plano: “es cierto y consta
+por el testimonio de los sentidos que algunas cosas se mueven en este
+mundo”; “encontramos que en estas cosas sensibles hay un orden de las causas eficientes”, etc. Se exige por principio comenzar por la experiencia. Llama
+por eso tanto más la atención que en ese punto de partida no aparece referencia alguna al resultado del proceso: el “primer motor inmóvil”, “una causa
+eficiente primera”, “algo que es necesario por sí”, “algo que es para todas las
+cosas causa de su ser, de su bondad y de todas las perfecciones”, “algo inteligente que dirige todas las cosas naturales a su fin”10. Es como si el punto de
+partida fuera neutral respecto de cualquier resultado que se pretenda lograr.
+En las cinco vías son determinantes dos principios: el de causalidad
+y el de la imposibilidad del processus in infinitum: clara y explícitamente en
+las tres primeras, implícitamente también en la cuarta y en la quinta. Pero en
+la cuarta vía hay además algo que falta en las demás. En concreto, el comienzo
+del proceso. El “más y menos (magis et minus)” es iluminado —posibilitado,
+podríamos decir— por la presencia de lo maximum, es decir de aquello que
+es, ello mismo, el resultado, o sea, la causa del más y menos: “pero el más y
+el menos se dicen de cosas diversas según su proximidad a lo máximo”11. El
+más y el menos, el comienzo de la cuarta vía aparece en el horizonte de lo
+máximo, que es un concepto fundamental tanto para San Anselmo como para
+el Cusano. En Santo Tomás lo máximo está ahí, pero no es tematizado, p. e.
+en el sentido de que la posibilidad del “más y menos” sea extraída de aquel.
+“Más y menos” por una parte y “lo máximo” por otra están presentes. Partiendo de ahí afirma S. Tomás que “más y menos se dicen de cosas diversas
+según su diversa proximidad a lo máximo”.
+Existe en todo caso una diferencia respecto de las otras cuatro vías.
+En estas el comienzo tiene que ver sin duda conceptualmente con el resul10
+11
+
+132
+
+S. Th. I q. 2, a. 3.
+S. Th. I q.2 a. 3.
+
+
+
+tado: el movimiento tiene que ver con el primer motor inmóvil, el orden de
+las causas eficientes con la causa eficiente primera, lo possibile con lo necessarium y la ordenación de las cosas naturales a un fin tiene que ver con la
+eficacia de una primera inteligencia. Pero por otra parte el concepto de movimiento como tal no depende del concepto del primer motor inmóvil, y algo
+semejante se puede decir de los otros tres casos. En la cuarta vía no es así,
+puesto que el comienzo, el “más y menos” se dice con respecto a “lo
+máximo”, que en último término es su causa. El “más y menos”, que explica
+la peculiaridad de los grados de perfección, surge en el trasfondo del concepto de lo maximum. Esto también lo encontramos en el Cusano, claro que
+con dos diferencias importantes, pues en Santo Tomás lo maximum no es,
+como para el Cusano, el concepto fundamental, sobre el que se construye el
+edificio entero: el ontológico y el metafísico; y lo que nos interesa todavía
+más en relación con la cuestión que ahora nos ocupa, la cuestión de las pruebas de la existencia de Dios: lo maximum es lo que hace aparecer las cosas
+bajo la perspectiva que nos posibilita considerar la existencia de Dios como
+absolutamente necesaria.
+3. LAS DETERMINACIONES DE LO FINITO Y LO LIMITADO
+BAJO EL PUNTO DE VISTA DE LO MAXIMUM
+Esto lo podemos ver brevemente bajo los dos aspectos siguientes. El
+primero se refiere a la constitución ontológica de las cosas en relación con
+lo maximum: “respecto de lo uno, que es lo máximo “simpliciter”, todas las
+cosas son finitas y limitadas”12. Este es el punto de partida de la demostración
+a posteriori de la existencia de Dios, pero en un sentido diferente al de las
+“cinco vías”: más concretamente de las tres primeras.
+Ahora bien, que las cosas sean finitas y limitadas se debe a que lo
+máximo, infinito e ilimitado les impone finalización y límite. Si se toma lo
+finito como algo que existe firmemente en sí, es decir, como dotado de plena
+consistencia, es claro que a partir de ahí no es posible ningún paso al ser de
+lo que es absolutamente grande: al ser de lo infinito e ilimitado, al ser de Dios
+por tanto. La actitud del Cusano es inequívoca y clara en este punto: “Puesto
+que es por sí manifiesto que no hay proporción entre lo infinito y lo finito,
+es en consecuencia clarísimo que allí donde hay algo que excede y algo que
+es excedido no se puede llegar a lo que es pura y simplemente lo máximo,
+ya que las cosas que exceden y las que son excedidas son finitas. En cambio lo pura y simplemente máximo es infinito”13.
+
+12
+13
+
+De docta ign. I, 6; h I, p. 13, l. 14-15 [n. 15].
+De docta ign. I, 3; h I, p. 8, l. 20-23, p. 9, l. 1 [n. 9].
+
+133
+
+
+
+Esto no significa que sea imposible toda forma de demostrar a posteriori la existencia de Dios. El Cusano distingue entre las cosas finitas mismas y nuestro pensamiento, que pone a las cosas en relación con lo máximo.
+Quiere en concreto mostrar que las cosas, en cuanto sencillamente son y
+están ahí, no son sino finitas y limitadas, finita et limitata. Bajo este aspecto
+no es posible ninguna prueba de la existencia de Dios, porque el límite entre
+lo finito y lo infinito no se puede remontar. Esto es algo que justamente desconocemos en tanto que nos limitamos a tener lo finito ante nosotros, sin
+reflexionar acerca de qué es lo que hace que nos aparezcan las cosas como
+finitas y limitadas, es decir, lo máximo.
+Esto es lo nuevo que el Cusano añade al planteamiento de la tradición sobre la demostración a posteriori de la existencia de Dios. Hablar de
+lo finito y de lo limitado no tiene sentido, mientras que no se tome en consideración lo infinito y lo máximo que, en cuanto medida de todo lo demás,
+hace que esto aparezca como finito. Las cosas no son finitas ni en relación a
+si mismas ni en relación a otras cosas, sino solamente respecto de lo infinito
+mismo, de lo simplemente máximo.
+Pero no solo la finitud, también la peculiaridad de la misma tiene
+que ver con el concepto de lo máximo, depende de él. Esto se pone de manifiesto sobre todo, si se tiene presente la forma en la que lo finito es determinado por lo máximo, por el creador omnipotente. Uno de los lugares en el
+que esto se muestra claramente se encuentra al comienzo del segundo libro
+de De docta ignorantia.
+Nicolás nos recuerda en primer lugar “que en lo excedido y en lo
+que excede no se llega a lo máximo en el ser y en el poder”14. Con esto se
+relaciona una característica de la finitud, en concreto la imposibilidad de que
+las cosas sean semejantes entre si sin que puedan ser infinitamente más semejantes. Esto había sido constatado al principio del libro primero15, pero ahora
+es acentuado en su verdadero sentido. Para empezar es considerado ya tácitamente lo máximo bajo el punto de vista de que de Él depende todo en su
+ser y en su modo de ser: “De ahí que en los primeros capítulos hemos mostrado que la igualdad precisa conviene únicamente a Dios. De lo cual se
+sigue que todas las cosas que pueden darse fuera de Díos son diferentes”16.
+Esto se expone con detalle en varios ámbitos, como la Astronomía, la Geometría, la Música o la Aritmética, así como en el modo de ser del hombre. Al
+Cusano le interesa recordar que, como consecuencia de la fundamental des-
+
+14
+15
+16
+
+134
+
+De docta ign. II, 1; h I, p. 61, l. 8-9 [n. 91].
+De docta ign. I, 3; h I, p. 8, l. 20-22 [n. 9].
+De docta ign. II, 1; h I, p. 61, l. 9-11 [n. 91].
+
+
+
+emejanza de las cosas entre sí, “no sabemos nada”17 y, juntamente con esto,
+poner en primer plano el poder divino: “es así evidente que dado cualquier
+ser finito siempre es dable uno más grande y más pequeño, sea en la cantidad, en la fuerza, en la perfección o en las demás determinaciones…Por ello
+no se puede dar nada que limite el poder divino”18.
+Ahora bien, la fe en la creación introdujo una distinción entre el ser
+y la nada, que colocó a los pensadores cristianos ante dificultades fundamentales —aunque en diferentes aspectos y grados de intensidad. En el
+Cusano tiene esto un tono dramático. Creación significa que el mundo fue
+producido por Dios a partir de la nada. La fórmula tradicional dice así: “creatio est productio ex nihilo sui et subjecti”; “creación es producción desde la
+nada tanto de si como de un sujeto”. Puesto que la creación no presupone
+nada, desde lo que el creador haga surgir lo creado y en consecuencia lo creado tiene el ser solamente del creador, la nada plantea un problema respecto
+de la criatura, puesto que de Dios en cuanto creador la criatura solo tiene ser,
+lo positivo por tanto; ¿de dónde procede entonces lo negativo? El Cusano
+titula el segundo capítulo del libro segundo: “El ser de la criatura depende,
+de modo ininteligible, del ser del primero”.
+El primer paso para la solución de la cuestión consiste en atribuir las
+propiedades positivas de la criatura a su origen de lo máximo: “La criatura
+tiene por tanto de Dios su unidad, su separación de lo demás (discretio), y
+su conexión con el universo; y cuanto más unida está, más semejante es a
+Dios”. Estas propiedades se dejan retrotraer a los tres modos de ser absolutos de lo máximo, es decir, la unidad, la igualdad y la conexión (unitas,
+aequalitas et connexio). Todo lo demás, que no es positivo, no lo tiene la
+criatura de Dios, tampoco de alguna causa positiva, que como tal se lo debe
+todo a lo absoluto, sino de una causa contingente. El problema sin embargo
+sigue existiendo, puesto que en la criatura lo positivo no está separado de
+lo negativo, es decir, su unidad es en la pluralidad, su separación es en la
+confusión y su conexión en la discordancia”19.
+El Cusano considera que ésta no es una verdadera solución, pues
+¿qué ha de significar que lo negativo tiene una causa contingente?, ¿Que así
+puede ser también de otro modo, de forma sin embargo que decae respecto
+de lo perfecto? La dificultad fundamental está en que entonces tenemos que
+ver con dos dimensiones contrapuestas e irreconciliables: “¿Quién puede
+
+17
+18
+19
+
+De docta ign. II, 1; h I, p. 62, l. 28 [n. 94], cf. p. 62-64 [n. 91-96].
+De docta ign. II, 1; h I, p. 63, l. 26-27, p.64, l. 1-2 y 10-11[n. 96].
+De docta ign. II, 2; h I, p. 66, l. 2-5 [n. 99].
+
+135
+
+
+
+entonces comprender el ser de la criatura reuniendo simultáneamente en ella
+la necesidad absoluta, de la cual es, con la contingencia, sin la cual no es?”20.
+Vemos por tanto lo siguiente: el Cusano intenta pensar el ser finito,
+en lugar de tomarlo como un dato simplemente empírico, del que se parte.
+La misma expresión “necesidad absoluta”, que se encuentra en el capítulo
+sexto del libro primero en relación con lo finito, aparece aquí en conexión
+con la criatura. Esta es una confirmación de que lo finito es considerado bajo
+el punto de vista de la creación. Lo finito solo puede tomarse como el punto
+de partida de la demostración de la existencia de Dios si primeramente es
+explicitada su peculiaridad en tanto que criatura.
+Según la mencionada conexión de la necesidad absoluta con la contingencia estamos ante una doble dificultad, pues tanto lo absolutamente
+necesario como también lo contingente, que carece de todo vínculo con lo
+necesario y sustancial, son incognoscibles. Este problema no se soluciona
+recurriendo a las ideas de unidad y pluralidad, ya que “la criatura como criatura no puede ser llamada una, porque desciende de la unidad, ni tampoco
+puede ser llamada múltiple, porque su ser proviene de lo uno”21. Y si a esto
+se dice que “su unidad es contingentemente en una cierta pluralidad”22 chocamos de nuevo con lo incomprensible.
+Si se intenta explicar la constitución de lo finito en cuanto criatura,
+es decir, en cuanto ser dependiente de lo máximo, —ab-esse— mediante los
+dos conceptos: absoluta necessitas y contingentia, el resultado es que todo
+es, a su modo, positivo, perfecto. Sin embargo este resultado no es satisfactorio, porque “si en todo lo que es solamente se encuentra lo máximo” —in
+omnibus quae sunt non nisi maximum repetitur— y de aquí se desprende
+la justamente mencionada concepción positiva de lo finito, sigue vigente la
+pregunta acerca de cómo habría que entender lo finito como tal, que es infinitamente diferente del ser supremo. A esta difícil pregunta intenta el Cusano
+responder con los conceptos complicatio y explicatio. La unidad infinita es
+la co-implicación de todo, pero es igualmente también la explicitación de
+todo23. Ambos conceptos significan, respectivamente, lo mismo que maximum y minimum bajo el punto de vista de la relación de Dios con el mundo:
+“Dios es la co-implicación de todo, en cuanto que todo es en Él; es la explicitación de todo, en cuanto que El es en todo”24. Exactamente el mismo sig-
+
+20
+21
+22
+23
+24
+
+136
+
+De docta ign. II, 2, h I, p. 66, l. 7-9 [n. 100].
+II, 2; h I, p. 66, l. 18-20 [n. 100].
+II, 2; h I, p. 66, l. 21-22 [n. 100].
+De docta ign. II, 3; h I, p. 69, l. 2-3 [n. 105].
+De docta ign. II, 3; h I, p. 70, l. 14-16 [n. 107].
+
+
+
+nificado se había atribuido, al comienzo del libro primero, a lo máximo y a
+lo mínimo, en cuanto que lo mínimo coincide con lo máximo25.
+Sin embargo, el modo de co-implicación y de explicitación excede
+la capacidad de comprensión de nuestra mente. Pues si decimos que la pluralidad de las cosas proviene de la mente divina, en cuanto que desde toda
+la eternidad ha conocido a una cosa así y a otra así, a cada una según su
+modo de ser, es manifiesto que la pluralidad no tiene otro ser que su serdependiente de la unidad. La dificultad concreta encuentra ahora esta formulación concreta: “¿Quién, pregunto yo, entendería cómo la pluralidad de las
+cosas proviene de la mente divina, siendo así que el entender de Dios es su
+ser y Dios es la unidad infinita?”26
+Se podría decir tal vez que la concepción del Cusano sobre la creación no es diferente por principio de la de los grandes teólogos de la Edad
+Media, como Buenaventura, Tomás de Aquino y Duns Scoto. Pero dos cosas
+llaman la atención en él: por una parte la radicalidad con la que plantea la
+cuestión de la creación en conexión con el concepto de lo infinito; y por
+otra parte, el hecho de que incorpora completamente su doctrina acerca de
+la creación a su concepción filosófica27. En relación con su comprensión de
+lo finito en tanto que punto de partida de la demostración a posteriori de la
+existencia de Dios se ha de tener justamente en cuenta de forma especial
+que, así como la creación está conexionada con lo infinito, así también el ser
+creado lo está con lo finito. El texto que me parece característico en este
+punto es sobre todo el siguiente:
+“Si consideras las cosas sin Él [es decir, sin Dios] son nada, como el número sin la
+unidad. Si le consideras a Él sin las cosas, es Él y las cosas son nada. Si le consideras a Él como siendo en las cosas, consideras que las cosas son algo, en lo cual es
+Él. Y en esto te equivocas, como se puso de manifiesto en el último capítulo, pues
+el ser de la cosa no es algo otro, como lo es una cosa diversa, sino que su ser es
+ser-dependiente [eius esse est abesse]. Si consideras la cosa como es en Dios, entonces la cosa es Dios y unidad. No queda sino decir que la pluralidad de las cosas [por
+tanto lo finito en general] proviene de que Dios es en la nada”28.
+
+Y unas líneas más adelante confirma el Cusano “que la pluralidad de
+las cosas se explicita [es decir, adquiere realidad] en tanto que Dios es en la
+nada”. Aquí no se trata de evidenciar que la nada no es una nada absoluta,
+
+De docta ign. I, 2; h I, p. 7, l. 7-11 [n. 5].
+De docta ign. II, 3; h I, p. 70, l. 30-32 [n. 109].
+Sobre esto cf. M. Álvarez Gómez, Die verborgene Gegenwart des Unendlichen bei Nikolaus von Kues, München 1968, 19-110.
+28
+De docta ign. II, 3; h I, p. 71, l. 13-21 [n. 110].
+25
+26
+27
+
+137
+
+
+
+tampoco que la creación no tiene un valor negativo, sino que representa una
+teofanía, como el Cusano sugiere ya aquí en este contexto y pone explícitamente de manifiesto en otros lugares29. A nosotros nos interesa ahora comprobar que lo finito, como comienzo de la demostración a posteriori de la existencia de Dios, es algo que en si y por si es nada, pues solo accede a la
+realidad en virtud de lo maximum, o lo que es lo mismo, de la unidad infinita.
+Esto significa que el Cusano quiere evitar la impresión de que se
+hubiera propuesto, en las pruebas de la existencia de Dios, desvelar “condiciones de lo incondicionado”, para decirlo con palabras de Jacobi30 o, dicho
+de otro modo, si se toma lo finito como simplemente positivo, sin tener en
+cuenta el momento de lo negativo, quiere evitar “que se represente lo infinito (Dios) —en palabras de Hegel— como fundado y dependiente” (de lo
+finito)31. Lejos de esto el Cusano hace aparecer lo finito y limitado como
+dependiente de lo absolutamente infinito.
+4. EL ARGUMENTO ONTOLÓGICO EN EL CUSANO
+Para que exista la posibilidad de demostrar la existencia de Dios
+tomando lo finito como punto de partida, es decir, a posteriori, tiene que
+existir lo máximo mismo, que solo así puede hacer que las cosas sean finitas y limitadas. Ahora bien, la existencia de lo máximo tiene que haber sido
+demostrada en los capítulos precedentes de De docta ignorantia. Esto, sin
+embargo, no es posible a partir de las cosas finitas, puesto que el Cusano, ya
+en el primer capítulo, subraya la incognoscibilidad de lo infinito como consecuencia de su desproporción respecto de lo finito32. La existencia de lo
+máximo tiene por tanto que ser aclarada tomando como punto de partida el
+concepto del mismo, es decir, por medio de un argumento ontológico. Es
+cierto que el Cusano no lo formula, pero es posible reconstruirlo a partir de
+lo que dice expresamente. Rezaría entonces así:
+Lo máximo es aquello, mayor que lo cual nada puede haber. Ahora
+bien, si no existiera, sería pensable algo, que es mayor que lo que primeramente hemos pensado como lo máximo, pues un máximo existente es mayor
+que uno solamente pensado.
+
+29
+Sobre el mundo como teofanía cf. De dato patr. lum. H IV, n. 111, l. 33, p. 82; De coni. I, 12; h II, n. 61,
+p. 20-21; De apic. theo. H. XII, n. 9, l. 7-9, p. 123: n. 14, l. 14-18, p. 127.
+30
+F. H. Jacobi, Über die Lehre des Spinoza, en: Werke, Bd. IV 1. y 2. Abt.,Leipzig 1819, 13.
+31
+G. W. F. Hegel, Enzyklopädie der philosophischen Wissenschaften, §50, Anm., Hamburg 1959, 76.
+32
+De docta ign. I, 1; h I, p. 6, l. 1-2 [n. 3].
+
+138
+
+
+
+Esto resulta de que lo máximo es propio de lo uno, pues si hubiera
+más de un máximo, ninguno de los dos sería lo máximo. Por ello “la unidad,
+que es también la entidad, coincide con lo máximo”33.
+Que la unidad es lo máximo implica que tiene que ser absoluta, es
+decir, totalmente separada de toda relación y de toda limitación, pues de lo
+contrario es pensable que algo exista fuera de la unidad, que entonces no
+sería lo máximo.
+Ahora bien, si es así, la unidad hace que nada le esté contrapuesto,
+porque de lo contrario no sería absoluta. Es decir, lo máximo, en cuanto que
+es lo absolutamente uno, es todo y todo es en él.
+Puesto que a lo máximo nada le puede estar contrapuesto, lo
+máximo coincide con lo mínimo. Y porque lo máximo coincide con lo
+mínimo, lo máximo es en todo lo que es. Por eso le es propia la existencia,
+pues de no ser así, no podría lo máximo existir en todo y las cosas existentes tendrían algo que lo máximo no tiene, lo cual es imposible según lo precedente.
+Resumiendo se puede decir: El peso de la demostración descansa en
+la coincidencia de lo máximo con lo mínimo, en virtud de lo cual lo máximo
+es en todo, lo cual presupone que lo máximo existe desde la eternidad.
+Bajo el punto de vista de la validez del argumento ontológico se
+puede entender mejor el texto famoso de De sapientia II. En él se dice: “toda
+pregunta sobre Dios presupone aquello por lo que se pregunta y se ha de
+responder lo que la pregunta misma presupone, puesto que Dios, si bien es
+insignificable, está significado en la significación de todo término”. Respecto
+de la existencia de Dios continúa el Cusano: “Así pues, si se te pregunta si
+Dios es (an sit Deus), di entonces lo que se presupone, es decir, que El es,
+puesto que Él es la entidad presupuesta en la pregunta”34. Se pregunta por
+la existencia de Dios [an sit Deus] y se responde positivamente, es decir, se
+responde que Él es (existe), porque es la entidad (la existencia misma). La
+validez del argumento ontológico es presupuesta en cuanto que aquí se
+afirma el paso del concepto de Dios, que entre otras cosas significa entidad
+(entitas), al ser real. Por lo demás la tesis de que “toda pregunta sobre Dios
+De docta ign. I, 2; h I, p. 7, l. 5-6 [n. 5].
+De sap., II: h2 V, n. 29, p. 11-13, n. 30, p. 5-7. Cf. M. Álvarez Gómez, “Die Frage nach Gott bei Nikolaus
+von Kues”, en: Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft 5 Mainz (1965) 63-85; en versión española: “Peculiaridad de la pregunta sobre Dios según Nicolás de Cusa”, en: La Ciudad de Dios. Vol. 177 (1964) pp. 409434; reproducida en M. Álvarez Gómez, Pensamiento del ser y espera de Dios, cif. n.7, pp. 43-65; cf. también K. Kremer, “Jede Frage nach Gott setzt das Gefragte voraus” (1993) reproducido en: Praegustatio sapientiae. Gott suchen
+nach Nikolaus von Kues, Münster 2004, pp. 147-178.
+33
+34
+
+139
+
+
+
+presupone aquello por lo que se pregunta” incluye otros aspectos que tanto
+Klaus Kremer como yo hemos expuesto.
+Otra pregunta es también ineludible. El argumento ontológico
+comienza con el concepto de lo maximum, de lo más grande. ¿Pero cómo
+se llega a este concepto? Si en San Anselmo se puede hablar de mediación,
+entonces hay que remitirse a la fe e incluso a la oración. En el Cusano encontramos algo muy llamativo. Ya en el primer capítulo de De docta ignorantia
+dice que lo infinito, en tanto que infinito, es desconocido. No solo esto. Tampoco podemos alcanzar el conocimiento preciso de todo lo demás, empezando por lo corporal. Sin embargo, como tenemos el deseo natural de conocer y este deseo no puede caer en el vacío, y aspiramos a descansar en el
+perfeccionamiento de nuestra propia naturaleza; con otras palabras “puesto
+que nuestro apetito de saber no es en vano, deseamos saber que nosotros
+ignoramos. Y si logramos alcanzar esto en plenitud, habremos alcanzado la
+docta ignorancia”35. Lo llamativo es que el Cusano, luego de hablar así,
+comienza unas líneas más adelante con lo máximo, y en concreto de la
+siguiente forma: “Al ir a tratar sobre la máxima doctrina de la ignorancia,
+tengo la necesidad de abordar la naturaleza de la misma maximidad”36. Esto
+suena como un juego de palabras. Pues ¿cómo se puede vincular la ignorancia acerca de lo infinito con el saber de lo máximo, es decir, de lo infinito
+mismo?
+Y sin embargo esto tiene un sentido. Lo que el Cusano quiere expresar aquí es que, si intentamos conocer algo sobre el ser absoluto, no podemos comenzar con el conocimiento de lo inmediato. Sobre lo inmediato o
+sensible se puede conocer mucho, sea de una manera natural o espontánea,
+sea de una forma científica. Esto lo sabía y lo practicaba el Cusano muy bien.
+Pero otra cosa es querer saber algo de lo infinito mismo. En este caso hay
+que intentarlo con otro comienzo, con una especie de vacío. De ahí el tono
+serio y solemne al que el Cusano recurre. Aquí habla de la “máxima doctrina
+de la ignorancia” (maxima ignorantiae doctrina). En el inicio del capítulo
+segundo del segundo libro habla de la “ignorancia sacrosanta” (sacra ignorantia). Este lenguaje es comprensible, en cuanto que esa ignorancia nos
+debe posibilitar el acceso al conocimiento de lo máximo, también por tanto
+de los sagrados misterios que nos están ocultos: “En lo que precede [se refiere
+a I 6, n. 15] nos enseñó la sacrosanta ignorancia que nada es desde si,
+excepto lo máximo por antonomasia, donde desde si, en sí, por sí y para sí
+son lo mismo, es decir, el ser absoluto mismo”37. Precisamente porque este
+
+35
+36
+37
+
+140
+
+De docta ign. I, 1, h I, p. 6, l. 17-18 [n. 4].
+De docta ign. I, 2, h I, p. 7, l. 3-4 [n. 5].
+De docta ign. II, 2, h I, p. 65, l. 3-5 [n. 98].
+
+
+
+absoluto “no es de la naturaleza de aquellas cosas, que admiten lo que
+excede y lo excedido [un más y un menos], está por encima de todo lo que
+puede ser concebido por nosotros”38. Es por ello comprensible que ante el
+fracaso no solo de los sentidos y de la razón (ratio), sino del entendimiento
+(intellectus) el Cusano recurra, sobre todo en su obra tardía, a una visio intellectualis para acceder a la “coincidencia de los opuestos” y con ello a lo
+absoluto mismo39.
+5. EL ARGUMENTO A POSTERIORI
+DE LA EXISTENCIA DE DIOS
+Después de exponer el argumento ontológico, nos ocupamos del
+argumento a posteriori, similar al expuesto por Santo Tomás en la tercera vía.
+Nos centramos para ello en el capítulo sexto del libro primero de De docta
+ignorantia. Punto de partida son aquí las cosas finitas y limitadas —finita et
+limitata. La finitud y la limitación surgen, como hemos visto, en el horizonte
+de lo maximum simpliciter, de su poder creador sobre todo lo que es real
+fuera de Él. “La maximidad absoluta no sería en acto todo lo que es posible,
+si no fuera infinita, límite de todas las cosas y por ninguna de todas ellas limitable [terminus omnium et per nullum omnium terminabilis]40. El argumento
+a posteriori es insinuado ya al final del capítulo quinto, donde se dice que las
+pluralidades de las cosas, que provienen de la unidad infinita, no pueden
+existir sin ella. “¿Pues cómo podrían ser sin el ser?”41 En el capítulo sexto, titulado “lo máximo es la necesidad absoluta”, el argumento es formulado por de
+pronto del modo siguiente:
+“En lo que precede se puso ya de manifiesto que fuera de lo uno, que es lo máximo
+simpliciter, todas las cosas son en su respecto finitas y limitadas. Ahora bien, lo finito
+y lo limitado tiene donde comienza y termina. Y no se puede decir que aquello [lo
+máximo] sea más grande que lo finito dado y [por tanto] finito, avanzando así siempre en una progresión al infinito, puesto que en las cosas que exceden y son excedidas una progresión al infinito no puede realizarse en acto, pues de otro modo lo
+máximo sería de la naturaleza de las cosas finitas. En consecuencia lo máximo es
+necesariamente principio y fin en acto de todas las cosas finitas”42.
+
+38
+39
+40
+41
+42
+
+De docta ign. I, 4, h I, p. 10, l. 6-8 [n. 11].
+Cf. De Beryllo, h2 XI, I, n. 1, l. 4.
+De docta ign. I, 4, h I, p. 11, l. 9-11 [n. 12].
+De docta ign. I, 4, h I, p. 13, l. 10-11 [n. 14].
+De docta ign. I, 6, h I, p. 13, l. 14-21 [n. 15].
+
+141
+
+
+
+Como explicación del texto quisiera hacer las anotaciones siguientes:
+1. Que todo, fuera de lo máximo, es finito y limitado en su respecto
+no se ha de entender en el sentido de una comparación, puesto
+que con lo máximo absoluto no se puede comparar nada. Se ha
+de entender en el sentido de “en razón o en virtud de lo
+máximo”. En virtud de la actividad creadora de lo máximo todo
+lo demás es finito y limitado, tal como hemos visto.
+2. El punto de partida del argumento es, no obstante, a posteriori,
+pues supuesto ya que lo finito y limitado es en virtud de lo
+máximo, el argumento toma su punto de partida del hecho de la
+existencia y peculiaridad de lo finito y limitado en cuanto tal en
+el sentido de que lo finito no puede ser desde si y por ello tiene
+que haber algo, es decir, un principio, desde el que comience; y
+lo limitado no puede ser para si, por lo cual tiene que haber algo,
+es decir, un fin en el que limite.
+3. Este principio y este fin no pueden a su vez ser algo finito y limitado, pues esto supondría de nuevo un principio y un fin y así
+en una progresión al infinito. Con ello no se superaría el ámbito
+de lo finito y limitado y siempre habría que plantear la pregunta
+por el dónde (comienza) y el hacia dónde (se dirige).
+4. La imposibilidad de un progressus in infinitum radica por tanto
+fundamentalmente en que lo finito y limitado no pueden tener
+fundamento de su existencia en el ámbito de lo finito.
+5. Que lo maximum no es de la naturaleza de las cosas finitas es
+natural. La fuerza argumentativa de la demostración se funda sin
+embargo en que, si lo máximo fuera de la naturaleza de las cosas
+finitas, no sería posible ninguna respuesta a la pregunta radical
+por el principio y el fin de lo finito y de lo limitado.
+6. De lo dicho se desprende esta conclusión: “En consecuencia lo
+máximo es necesariamente principio y fin en acto de todas las
+cosas finitas”. La expresión “principio y fin” —principium et
+finis— remite a algo más profundo que comienzo y término,
+puesto que significa el fundamento último de las cosas.
+La demostración tiene, en el mismo capítulo, una segunda formulación, que implica el punto de vista del tiempo y de la creación. El texto dice así:
+
+142
+
+
+
+“Además nada podría ser si lo máximo simpliciter no fuera. Pues, ya que todo lo
+no-máximo es finito, es también principiado. Ahora bien, será necesario que sea por
+otro. De otro modo, si fuera por si mismo, habría sido cuando no era aún. Pero en
+la serie de los principios y de las causas no es posible ir hasta el infinito, como es
+patente por la regla [de la docta ignorantia]. Tendrá que ser, por tanto lo máximo
+simpliciter, sin lo cual nada puede ser”43.
+
+Comentario:
+1. La nada, que aparece en el texto, tiene que ver con el principio
+absoluto en el sentido de que todo lo que es debe su ser a lo
+máximo simpliciter y es producido por él de la nada —ex nihilo.
+2. Bajo este presupuesto es comprensible que el Cusano remita a la
+imposibilidad de la causa sui respecto de lo creado, que no
+puede ser causa de si mismo.
+3. En conexión con esto mismo hace su aparición el carácter temporal de lo finito, pues precisamente porque lo finito tiene su
+ser del ser eterno, comienza a ser en el tiempo y no puede haber
+sido antes de ser.
+4. La imposibilidad de un progressus in infinitum se hace de este
+modo tanto más evidente, pues lo finito, en cuanto que ha surgido en el tiempo, carece de todo fundamento de si mismo.
+5. La regla a la que el Cusano remite aquí encontró en De venatione
+sapientiae la formulación siguiente: “Este es el sentido de la regla
+de la docta ignorancia; que en las cosas que admiten más y
+menos, nunca se llega a un maximum simpliciter, o a un minimum simpliciter, aunque sí se puede llegar a lo máximo y a lo
+mínimo en acto”44.
+6. De todo lo dicho resulta evidente la conclusión: “Tiene que ser
+[existir] por tanto lo máximo simpliciter, sin lo cual nada puede
+ser.
+La tercera demostración, que se encuentra también en este capítulo
+sexto, se fundamenta en la validez de las ideas platónicas y se puede resu-
+
+43
+44
+
+De docta ign. I, 6, h I, p. 13, l. 21-27 [n. 15].
+De ven. Sap., 26; h XII, n. 79, l. 1-5.
+
+143
+
+
+
+mir así: Nada puede ser sin el ser. Puesto que las cosas son, es también el
+ser absoluto, que no es sino lo máximo simpliciter.
+El texto dice así:
+“Contraigamos además lo máximo al ser y digamos: al ser máximo no se opone
+nada, por tanto tampoco el no-ser ni el ser mínimamente. ¿Cómo por tanto se puede
+entender que lo máximo puede no ser, siendo así que ser mínimamente es ser máximamente? Tampoco nada se puede entender que es sin el ser. Pero el ser absoluto
+no puede ser otra cosa que lo máximo absolutamente. Por tanto nada puede ser
+entendido en cuanto ser sin lo máximo”45.
+
+Aparte de la forma platónica de pensar, que retrotrae el ser de las
+cosas a la idea del ser, conviene anotar también que en este caso la existencia de lo máximo presupone la posibilidad del mismo y que esta posibilidad
+a su vez se deduce de la coincidencia del ser máximamente y del ser mínimamente.
+A continuación identifica el Cusano la máxima verdad con lo absolutamente máximo —veritas maxima est maximum absolute—. La tesis
+recuerda, como es bien conocido, otros textos de San Agustín. En el sermón
+Dies samtificatus, del 25 de diciembre de 1440, encontramos una formulación
+que ya no identifica la verdad con lo máximo [el Cusano terminó la redacción de De docta ignorantia el 12 de febrero de ese mismo año], pero sí la
+identifica con Dios. En este sermón aparecen vinculadas las dos demostraciones, que hemos expuesto, la a posteriori y la a priori:
+Todos los pueblos del mundo conocen que Dios es el bien máximo,
+viene todo. Esto no lo han negado ni siquiera los paganos. Pues ya
+puede dar el ser a si mismo —puesto que sería ya antes de ser, cosa
+no admite— se tiene que llegar necesariamente a algo Uno, Primero,
+
+del que proque nada se
+que la razón
+Eterno.
+
+Pero a este primer principio lo llamaremos Dios, del que no se puede pensar que
+no es. Pues Él es la verdad, que no puede ser pensada como no siendo. La verdad
+es en efecto el objeto del entendimiento. Tanto si se piensa que “Dios es” como que
+“Dios no es”, con tal de que una de las dos proposiciones se afirme como verdadera, se afirma que Dios es. Por tanto por encima de toda oposición y de toda contradicción Dios es, puesto que mediante cada uno de los contradictorios se pone
+de manifiesto que Dios es necesariamente”46.
+
+45
+46
+
+144
+
+De docta ign. I, 6, h I, p. 14, l. 1-6 [n. 16].
+Sermo XXII, h XVI, n. 8, l. 1-6, n. 9, l. 1-9.
+
+
+
+La cuestión de las pruebas de la existencia de Dios se plantea aquí
+de forma distinta a De docta ignorantia. El punto de partida es ciertamente
+lo finito, que como tal no se puede producir a si mismo, pero desde lo finito
+solo se puede llegar a la idea de un primer principio. De este modo no queda
+demostrado que Dios existe. Esto solamente se hace evidente en cuanto que
+se identifica a Dios con la verdad y se considera a la verdad como el objeto
+del entendimiento. Puesto que tiene que ser verdad o que Dios existe o que
+Dios no existe, Dios está por encima de estas dos proposiciones contradictorias y en consecuencia existe necesariamente.
+El razonamiento no es incompatible con lo que hemos visto hasta
+ahora, pero merece ser ulteriormente investigado, pues por una parte el
+Cusano deja entrever que el argumento ontológico tiene la prioridad y por
+otra parte retrotrae la vinculación de Dios, en tanto que ser absoluto, con la
+verdad, en tanto que objeto del entendimiento, a aquello que es la raíz última
+del argumento ontológico: la identidad de pensar y ser, ya afirmada por Parménides. De esto prescindimos ahora y volvemos a la pregunta de si ambos
+intentos de demostrar la existencia de Dios son conciliables entre si.
+6. EL ÚNICO ARGUMENTO
+En un artículo del año 1993 se preguntaba K. Kremer, gran conocedor de la obra de Nicolás y de sus antecedentes, en la línea sobre todo de la
+tradición neoplatónica, “cómo el itinerario a priori del Cusano hacia Dios y
+el itinerario a posteriori de las demostraciones de la existencia de Dios se
+relacionan entre si. ¿Se trata de dos itinerarios del hombre, legítimos y tal vez
+justificados por igual, que están el uno al lado del otro y cuyas estructuras
+se retrotraen por una parte a Platón y por la otra a Aristóteles?47 Si mi exposición es acertada, habría que decir que el Cusano utiliza ambos itinerarios,
+si bien da prioridad al argumento a priori, lo cual tiene que ver probablemente con la intensa presencia en él del pensamiento sobre lo uno que, tal
+como lo explicita W. Beierwaltes, abarca a la Antigüedad y al Cristianismo48.
+Sin embargo ambos itinerarios representan en el Cusano un único proceso,
+que se podría formular del modo siguiente:
+Si pienso lo máximo, pienso también, por lo menos de forma implícita, su existencia, pues lo máximo pura y simplemente —lo maximum simpliciter— representa el límite extremo de todo lo demás que existe realmente
+
+47
+48
+
+Cf. K. Kremer, Praegustatio sapientiae. Gott suchen mit Nikolaus von Kues, Münster 2004, p. 176.
+Cf. W. Beierwaltes, Denken des Einen, Franfurt 1985, p. 382.
+
+145
+
+
+
+o puede existir. Esta demostración es a priori, en cuanto que el pensamiento
+de lo máximo incluye su existencia.
+La demostración es al mismo tiempo a posteriori, pues todo lo que
+no es lo máximo es “finito y limitado” y como tal no puede ser lo que es sin
+el ser de lo máximo. Luego ambas demostraciones están unidas entre si y
+no se pueden separar la una de la otra.
+Son solo perspectivas diferentes de uno y el mismo argumento, que
+sin embargo se pueden plantear y exponer por separado con sentido. Ambas
+perspectivas presuponen una mediación. La perspectiva a priori está mediada
+por la experiencia de la docta ignorancia; la perspectiva a posteriori está
+mediada por la idea de la creación, de lo absoluto en definitiva. En todo caso
+el Cusano nos anima, tal como es habitual, a plantear nuevas preguntas, p. e.
+cómo la cuestión de las pruebas de la existencia de Dios se relaciona con
+el significado de la religión misma o con el sentido del pensamiento en
+general.
+
+146
+
+

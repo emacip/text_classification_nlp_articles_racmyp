@@ -1,0 +1,580 @@
+ALGUNAS CO N SID ERA CIO N ES U TÓ PICA S
+SO BR E E L PR O BLEM A ED UCATIVO
+Por el Académico de Número
+Excmo. Sr. D. Juan Arana Cañedo-Argüelles*
+
+Comenzaré esta intervención aclarando el sentido del adjetivo “utó­
+pico” que figura en su título: lo he introducido para esquivar la obligación de
+mostrar que mis propuestas son viables. Dicho con mayor suavidad, así doy
+curso libre a la especulación como parte legítima de una encuesta que de otro
+modo podría ser tomada demasiado en serio. Hasta donde alcanzo hay dos
+tipos principales de utopías: las sociales y las educativas. Un inconveniente no
+pequeño de todas ellas es que se llevan mal con la libertad. No dejan de ser
+esbozos de ingeniería social. Popper ha combatido, especialmente en La miseña del histoñcismo — libro brillantemente traducido por nuestro compañero
+Pedro Schwartz1— la idea de sacrificar la libertad de los ciudadanos corrientes
+a la megalomanía del héroe, a los designios del reformador social, a la ambi­
+ción del diseñador de grandes proyectos o a la presunción de quienes preten­
+den desvelar las leyes del desarrollo histórico. Desde La República de Platón
+hasta Walden Dos de Skinner*12, hay una componente avasalladora en toda pro­
+puesta utópica. No es casual que el propio Skinner escribiera también un libro
+con el provocativo título de Más allá de la libertad y la dignidad3. Todo ello
+despierta en mí bastante aprensión, y no solo por el deseo de tranquilizar a
+Pedro Schwartz, sino porque de corazón apoyo su actitud liberal y me reco­
+nozco con él tributario de Karl Popper, aunque no haya tenido la suerte de ser
+su discípulo directo. No obstante, creo posible esbozar una utopía purgada de
+derivas autoritarias. Incluso diría más: considero factible una utopía genuinamente reconciliada con la libertad, si reforzamos la deslocalización u-tópica, es
+decir, si procuramos no olvidar ni un solo instante que lo que se propone no
+se encuentra en ningún lugarfísico, ni ocurrirá en momento alguno delfuturo.
+* S e sió n d el d ía 10 d e abril d e 20 1 8 .
+1 K arl R. P opper , La m iseria d el historicísm o, trad. D e P edro Schw artz G irón. Madrid, Alianza, 2014.
+2 B . F. Skinner, M ás a llá d e la lib erta d y la d ign idad, B arcelo n a, F on tan ella, 1973.
+3 B . F. Skinner, W alden dos, B a rce lo n a , F o n tan ella, 1978.
+
+337
+
+
+
+Su ubicación lícita es el mundo de la teoría pura, importando muy mucho tener
+presente que poco tiene que ver con la prosaica realidad.
+También conviene añadir una advertencia preliminar dirigida a los
+colegas de la sección de ciencias sociales: lo que sigue tan solo es una refle­
+xión que nace al hilo de una larga experiencia pedagógica, pero no he osado
+universalizarla por medio de estadísticas. Sólo pretendo efectuar un análisis
+personal del proceso educativo en relación con la inserción y promoción labo­
+ral. Asumo que esta limitación recorta bastante la credibilidad de mi texto desde
+una perspectiva estrictamente sociológica, pero me parece fútil tratar de reme­
+diarla por mí mismo, dada mi falta de competencia para proceder de otro
+modo. Creo, en cambio, que los filósofos somos aptos para formular “hipóte­
+sis de trabajo” sobre problemas sociales y sus posibles soluciones, hipótesis
+que pueden servir de materia prima para que sociólogos y políticos apliquen
+sus competencias y aporten el discernimiento que les cuadra.
+La idea de tratar este asunto surgió de una observación circunstancial
+que hizo Jaime Terceiro en la discusión de una sesión académica reciente. Men­
+cionó un hecho del que no tenía noticia y me apresuré a comprobar. En efecto:
+el robot “Torobo-kun”, fabricado por el Instituto Nacional de Informática de
+Japón en colaboración con varias empresas del país, realizó el examen están­
+dar de acceso a la universidad nipona y obtuvo unos resultados que — de ser
+“humano”— le hubieran permitido estudiar en el 70 por ciento de las faculta­
+des del país. Los investigadores revelaron que consiguió de media una califi­
+cación de nivel “A”, con la que sería capaz acceder a 403 de 579 universida­
+des, según informó el diario Yomiuri4. Se pueden derivar varias consecuencias
+de la noticia. La más trivial es que algo importante falla cuando un programa
+informático acoplado a la correspondiente base de datos consigue emular con
+ventaja lo que pretendemos haber enseñado a los futuros universitarios. ¿Para
+qué emplear años y toneladas de recursos pedagógicos si lo que finalmente
+obtenemos de los muchachos nos lo da una máquina de un modo mucho más
+rápido y barato? La respuesta obvia es que las enseñanzas comunicadas a los
+humanos van mucho más allá de lo que se refleja en un examen. Puede que
+sea así y hasta es posible que la prueba en cuestión discrimine con eficacia las
+capacidades de los estudiantes, aunque no sirva en absoluto como test de
+Turing para distinguir la inteligencia natural de la artificial. No obstante, sigue
+resultando inquietante, y alienta la sospecha de que hay importantes aspectos
+mejorables en el sistema educativo.
+Al interés suscitado por la observación de Terceiro se sumó el que des­
+pertó la ponencia de José Manuel González-Páramo sobre La cuarta revolución
+
+4
+su ltad a e l 6/12/2017.
+
+338
+
+F u en te: h ttp :/ / w w w .ab c.es/ ciencia/ 20131212/ abci-rob ot-exam en-jap on-201312120902.h tm l. C on­
+
+
+
+industrial, el empleo y el estado de bienestar. Entre las enseñanzas que extraje
+de ella destaco que la mayor parte de las tareas rutinarias serán asumidas a
+medio plazo por máquinas y robots, aunque hoy por hoy todavía constituyen
+una parte sustancial de la carga de trabajo encomendada a nuestros congéne­
+res5. O sea que, so pena de dar marcha atrás al reloj de la historia, es impera­
+tivo bien incrementar la proporción de ocio en las vidas de los humanos, bien
+desarrollar nuevas formas de trabajo para ellos, o bien encomendarles otro tipo
+de tareas remuneradas. También infiero de la exposición de González-Páramo
+que no es posible prever en estos momentos qué nuevas formas de trabajo
+van a primar de aquí a un par de décadas6, y por tanto que carece de sentido
+diseñar programas pedagógicos cerrados e inflexibles, dado que, por otra parte,
+resulta evidente que en las carreras profesionales del porvenir la adaptabilidad
+a nuevos entornos y la aptitud para asumir nuevos cometidos va a ser la regla
+y no la excepción. Por último, la exposición que comento me convenció de
+que, para conjurar la amenaza de un “paro tecnológico” de proporciones gigan­
+tescas, habrá que encontrar fórmulas para desarrollar complementariedad,
+cuando no sinergia, entre el trabajo de las máquinas y el nuestro. Como se ha
+resumido en una frase, conviene “aprender a bailar con los robots”7.
+En resumidas cuentas, no va a haber más remedio que cambiar bastan­
+tes cosas de aquí a un plazo no muy lejano. Y entre las cosas que precisan ser
+reformadas en profundidad, la primera es sin duda el sistema educativo. No
+sólo habrá que reorganizar las instituciones docentes y los planes de estudio,
+sino que tendremos que cuestionarnos cuál va a ser el estatuto social de los
+estudiantes en el porvenir. No me entretendré con otros prolegómenos y
+expondré en síntesis un proyecto que —pequeño detalle— para nada tiene en
+cuenta la descomunal inercia del sistema, las resistencias que siempre surgen
+frente a cualquier pretensión de cambio sustancial, y la desconfianza con que
+la sociedad en su conjunto afrontará este espinoso asunto.
+Empiezo considerando una cuestión a primera vista marginal. ¿En qué
+momento del periodo de formación hay que dar el do de pecho, cuándo tiene
+5 Sin co m p artir las d esm esurad as p re ten sio n es d e e ste autor, ta m p o co seria ra z o n a b le negarle
+cu a lq u ier b a s e rea l cu a n d o afirm a: “La prim era rev o lu ció n industrial au m en tó el a lca n c e d e nu estro s cu er­
+p o s y la seg u n d a está au m en tan d o el a lca n c e d e n u estras m en tes. C om o ya h e d ich o, duran te e l últim o siglo
+e n lo s EE.U U . e l tra b a jo e n fá b rica s y gran jas h a ca íd o d esd e e l 60% al 6% . D u ran te las p ró xim as d écad as,
+p rá ctica m en te to d a rutina d e tra b a jo físico o m ental será autom atizada. Así, la co m p u tació n y la co m u n ica­
+ció n n o invo lu crarán p ro d u ctos d iferen ciad o s ta les c o m o d ispositivos m anu ales, sin o q u e serán u n a w e b sin
+co stu ras d e recu rso s in telig en tes a n u estro alred edor. A ctualm ente, la m ayor parte d el trab ajo m o d ern o tien e
+q u e v e r c o n la cre a ció n y fo m en to d e u n a form a u otra d e PI, así c o m o c o n serv icio s p erson alizad os p res­
+tad o s d e p erso n a a p erso n a (salu d , form a física, e d u ca ció n , e tc .)” Ray K urzweil , L a sin g u larid ad está cerca.
+C uando los hu m an os tran scen dam os la biolog ía, B erlín , Lola B o o k s , 2 0 1 2 :3 8 9
+6 “U n in fo rm e d el W orld E con om ic Forum estim a q u e u n 65% d e lo s n iñ o s q u e h o y in g resan e n
+la esc u e la prim aria segu ram en te trabajarán e n p ro fesio n es in ex isten tes e n la actualidad ”. J osé M anuel G on zález-P aramo , C uarta rev olu ción industrial, em pleo y estad o d e bien estar, Madrid, RACMYP, 2 0 1 7 :1 0 7 .
+7 Ibídem : 113.
+
+339
+
+
+
+lugar el más cruento rito iniciático de inserción en la vida social/profesional,
+especialmente de las élites? Los franceses, tras las reformas napoleónicas, solían
+poner la máxima exigencia en plena adolescencia, esto es: en los exámenes de
+ingreso a las grandes écoles y las clases preparatorias que enseñaban cómo
+afrontarlos. También en Inglaterra y Estados Unidos la clave fue durante mucho
+tiempo lograr entrar en una gran Universidad, evento que suponía de modo
+automático la inclusión en el grupo de predestinados a regir en el futuro la vida
+académica, profesional y política del país. Por eso, una vez superada la suprema
+prueba, la presión se aflojaba y durante unos años se otorgaba al esforzado
+muchacho o muchacha un respiro. No deja de ser llamativo que cuando los
+ingleses dominaban el mundo en la época de la revolución industrial y pleno
+auge de la expansión colonial, sus jóvenes más selectos parecían perder el
+tiempo con los clásicos griegos y latinos, el remo y el criquet. Y sin embargo,
+inmediatamente después de terminar aquellas — digamos— “largas vacaciones”,
+se hacían cargo con sorprendente eficacia de las responsabilidades políticas,
+empresariales y administrativas que mantenían a su patria en la vanguardia del
+progreso. Pero las cosas no se organizaron igual en otras latitudes. Así, el sis­
+tema alemán repartía la exigencia de un modo más homogéneo y desplazaba
+el principal aprieto hacia edades más tardías: no resultaba allí tan problemático
+ingresar en centros educativos selectos ni dar los primeros pasos en la carrera
+universitaria o profesional, pero las condiciones se endurecían progresivamente
+luego, especialmente, en el caso de la carrera universitaria, con la habilitación
+y la lucha para conseguir nominaciones a los puestos de prestigio.
+Durante mucho tiempo en España seguimos un modelo mixto: en pro­
+fesiones técnicas y la carrera militar fuimos tributarios del modelo francés, con
+los temibles exámenes de ingreso de las Escuelas Técnicas Superiores y Aca­
+demias Militares. En cambio, por lo que se refiere a profesiones relacionadas
+con la justicia y la administración, el momento del supremo esfuerzo se trasla­
+daba de la adolescencia a la juventud, de los 18-20 años a los 24-30, con las
+arduas oposiciones a judicaturas, registros, notarías, abogacía del estado,
+ingreso en la Escuela diplomática, etc. Algo parecido ocurría con la selección
+del profesorado de primaria y secundaria, mientras que el universitario se aco­
+modaba más bien a patrones alemanes, convirtiendo la carrera universitaria en
+una competencia a largo plazo, cuyo momento álgido se posponía a la lectura
+de la tesis doctoral, en una etapa de la vida que podría oscilar entre los 30 y
+los 40 para las cabezas más brillantes y exitosas.
+Estas condiciones, que pudieron estar en vigor hasta el último tercio
+del siglo XX, han cambiado y la casuística se ha enriquecido. En líneas gene­
+rales podría decirse que en España —y algo análogo ha ocurrido en muchas
+otras latitudes— han ido desapareciendo los obstáculos puntuales difíciles de
+superar que reportaban una mejora sustancial en las perspectivas curriculares
+y/o profesionales de quienes lo conseguían. En efecto: poco a poco han sido
+suprimidas tales barreras o cuando menos dulcificado: menos reválidas, exáme­
+340
+
+
+
+nes de ingreso, oposiciones y concursos abiertos, y más evaluaciones conti­
+nuadas, habilitaciones, acreditaciones, concursos restringidos y procesos de
+consolidación de puestos ocupados interinamente. También los concursos de
+traslado se han hecho menos frecuentes y transparentes que antaño. El resul­
+tado es que el tiempo transcurrido entre el ingreso en un cuerpo o empresa y
+la culminación de la promoción dentro de él o ella se ha alargado paulatina­
+mente. En términos generales, lo que cuenta es escalar cuanto antes los prime­
+ros peldaños y colarse dentro del sistema, aunque sea usando una puerta falsa,
+para lograr más tarde la estabilización aprovechando condiciones restrictivas
+ventajosas. Ascensos ulteriores se obtienen por méritos o antigüedad. Para los
+prematuros y decisivos ingresos es importante reunir curricula tempranos y
+vistosos, acumular méritos homologables teniendo en cuenta el tipo de hare­
+mos que se aplican en los concursos de acceso interino, que son con frecuen­
+cia los únicos en los que se juega el ser o no ser profesional del interesado. A
+partir de ahí, se trata de usar los procedimientos prestablecidos de promoción,
+si se sigue la vía del sector público. Los que se abren paso en el sector privado
+tienen que hacer valer su propia competencia ante el empleador inicial, o ante
+empleadores sucesivos, una vez alcanzada la experiencia curricular necesaria
+y conveniente para ser competitivo en el mercado laboral.
+Me atreveré ahora a efectuar una arriesgada generalización: tengo la
+impresión de que en una buena parte de las sociedades avanzadas del mundo
+contemporáneo la vida y la formación de los jóvenes guarda una dependencia
+funcional creciente con respecto a cómo está organizada la promoción profe­
+sional. Conjeturo que se pide el máximo esfuerzo formativo y de enriqueci­
+miento curricular en un periodo que está comprendido entre los 20 y 30 años
+del interesado o interesada, mientras que el mercado laboral empieza a deses­
+timar las prestaciones de sus concurrentes en un lapso que va de los 50 a los
+60 años, a partir del cual se pierde casi por completo la capacidad de conser­
+var una posición ventajosa en dicho mercado, salvo si la trayectoria anterior ha
+asentado muy firmemente el prestigio del afectado. Este estado de cosas genera
+una serie de consecuencias colaterales perversas. Entre ellas:
+1. Aporta urgencia y crispación al proceso pedagógico.
+2. Inspira un pragmatismo excesivo a la hora de definir los contenidos
+y métodos educativos.
+3. Arruina las posibilidades de dar a la educación del ciudadano medio
+una dimensión interdisciplinar significativa.
+4. Produce una concentración de urgencias vitales en una edad prema­
+tura que resulta patogénica y vicia de raíz muchas dimensiones
+valiosas de la existencia humana.
+Comentaré grosso modo estos extremos, pero antes de hacerlo voy a
+adelantar la parte más utópica de mi propuesta, que es tan fácil de formular
+
+341
+
+
+
+como difícil de llevar a cabo. Consiste lisa y llanamente en retrasar el calenda­
+rio existencial de la mayor parte de la ciudadanía una media de diez años, esto
+es: propiciar que la fase álgida del esfuerzo autoformativo y la asunción cre­
+ciente de compromisos laborales se posponga a la década de los 30 a los 40
+años, y el periodo de progresivo desenganche laboral ocurra tan sólo a partir
+de los 60, llegando hasta los 70 para un sector estimable de la población. Para
+no incurrir en la desaprobación de Pedro Schwartz me apresuro a añadir que
+ello no debiera conseguirse a golpe de prohibiciones y legislaciones restrictivas,
+sino mediante refuerzos positivos, esto es, proponiendo a los jóvenes un ilusio­
+nante programa de tareas socialmente rentables, antes de enfrentarlos a la res­
+ponsabilidad del trabajo productivo. Por supuesto, habría además que retribuir
+dichas tareas con justicia y generosidad, aunque sin despilfarros, de forma que
+los involucrados no tuvieran en modo alguno la sensación de ser elementos
+ociosos de la sociedad ni de subsistir a cargo de la caridad pública. Sencilla­
+mente se trata de tomar conciencia de que el trabajo productivo ya no es indis­
+pensable en la misma medida que antes para la supervivencia de la Humanidad,
+porque gracias a la ciencia y la técnica es preferible resolver de otro modo la
+mayor parte de tareas rutinarias, mientras que otras actividades sólo están al
+alcance de hombres y mujeres y cada vez van a ser más necesarias para preser­
+var el futuro e incluso la propia supervivencia del género humano.
+Se me dirá tal vez que en la práctica ya se están produciendo retrasos
+en la incorporación de los jóvenes al mercado laboral, de manera que lo que pro­
+pongo como panacea está siendo propiciado por la dinámica intrínseca de la
+vida social. Es posible que sea así; carezco de datos para desmentirlo o refren­
+darlo. Pero sin acudir a la evidencia sociológica disponible, hay algunos aspec­
+tos del fenómeno que están a la vista de todos: en primer lugar, que la parte más
+activa y/o mejor situada de la juventud escapa a dicho retardo. En segundo lugar,
+que una porción muy considerable de los que ven burlado su deseo de incor­
+porarse pronto a la vida profesional lo sienten como un padecimiento que genera
+desesperanza y frustración, e invierten la mayor parte de sus energías en tratar
+de remediarlo, de manera que casi todo el tiempo que permanecen en paro lo
+pasan buscando trabajo o tratando de mejorar su capacitación para obtenerlo:
+aunque no formen parte de la población activa, ya están compitiendo al cien
+por cien para conseguirlo. En tercer lugar, otra porción igualmente considerable
+de jóvenes renuncia a pelear por unos puestos de trabajo que considera dema­
+siado difíciles de alcanzar y dimite de su implicación en la mejora de la sociedad
+que la alberga, entregándose a la bohemia, la trashumancia, el parasitismo social
+o la búsqueda de una realización exclusivamente personal o grupal.
+¿Y cuáles son entonces esas tareas de relevancia social que utópica­
+mente propongo promocionar y gratificar durante una fase previa a la inserción
+laboral? Cabe resumirlas sumariamente en dos: formación y procreación.
+Conseguir que a los 30 años la mayor parte de los miembros de la socie­
+dad se hayan convertido en ciudadanos con un conocimiento no frívolo ni
+342
+
+
+
+superficial del hombre, la naturaleza y la sociedad, resolvería una porción de
+problemas sociales que no me atrevo a detallar, pero auguro sustancial. Con el
+sistema educativo actual no lo estamos consiguiendo, y todos los indicios que
+conozco más bien indican que cada vez estamos más lejos de hacerlo. Daré un
+solo botón como muestra. En su autobiografía intelectual, el premio nobel de
+física Werner Heisenberg cuenta que era capaz de leer a Platón directamente en
+griego a los dieciocho años, cuando todavía era un estudiante de secundaria de
+la rama de ciencias8. Incrédulo con el dato, pregunté a un experto en historia
+de la educación si aquello resultaba verosímil. Me confirmó que el bachillerato
+impartido en los gimnasios alemanes a principios del siglo XX proporcionaba
+prestaciones de esa envergadura. Superfluo agregar que hazañas así están fuera
+del alcance de nuestros bachilleres en letras puras e incluso de los graduados
+en filología que ahora mismo salen de las facultades universitarias. Pero no pre­
+tendo lamentar el deplorable nivel de las enseñanzas que impartimos ni viajar
+hacia atrás en una máquina del tiempo. La utopía que propongo mira hacia el
+futuro y no al pasado. Por otro lado, en lo que ha de venir nuestros hijos con­
+tarán con una ventaja que no tuvieron sus abuelos: máquinas para realizar la
+mayor parte del trabajo. Si es improbable contar de ahora en adelante con la
+aplicación de los estudiantes de antaño, o con cuadros de profesores que
+superen a los viejos maestros, por lo menos habrá una disponibilidad mucho
+mayor de tiempo y medios. ¿Por qué no aprovecharla? Hacerlo permitiría digni­
+ficar la tan devaluada función docente y profesionalizar la figura del estudiante,
+para que deje de ser patrimonio casi exclusivo de los que en teoría o en la prác­
+tica aún no han alcanzado la mayoría de edad. En la actualidad tan solo una
+parte de la población llega a la enseñanza superior. Lo hace como media en
+torno a los 18 años y permanece en ella entre 4 y 6 cursos. La idea sería unl­
+versalizar el paso por la universidad, quiero decir, el derecho real y efectivo a
+hacerlo, y doblar el tiempo de estancia en ella para los que muestren las con­
+venientes aptitudes, es decir, un segmento de la juventud análogo al que en la
+actualidad forma la población universitaria. En otras palabras: los que en el pre­
+sente finalizan su formación con los estudios secundarios pasarían en la univer­
+sidad cinco años; los que ya lo hacen, diez. Habría por tanto dos ciclos de ense­
+ñanza superior. El primero, cursado por la práctica totalidad de la ciudadanía
+gracias a un eficiente programa de becas y becas-salario, estaría pensado para
+otorgar a todos un conocimiento cabal de los elementos esenciales de la cultura,
+tanto humanística como científica. No estaría encomendado a las facultades y
+escuelas universitarias actuales, sino a instituciones que en cierto modo revita­
+lizarían las antiguas facultades de artes o, si se quiere, las no tan antiguas pero
+por desgracia también desaparecidas facultades de ciencias y filosofía y letras9.
+8 W erner H eisenberg , D iálogos so b re la fís ic a atóm ica, M adrid, B .A .C ., 1972.
+9 P ond ré u n sim p le e jem p lo h istó rico: e n la U niversidad d e K ón ig sb erg , d o n d e estu d ió y trabajó
+e n e l sig lo X V III Im m an uel K ant, h ab ía u n a facultad “in ferior” d e filo sofía (n o p o rq u e fu e se d e m en o r cate­
+goría, sin o p o rq u e n o o to rg a b a grad os, sin o u n a fo rm a ció n d e b a s e a to d o s lo s estu d ian tes), la cu al im par­
+tía en señ a n z a s q u e ib an d esd e la ló g ica y las m atem áticas a la m etafísica y la ética, p asan d o p o r la g eog ra­
+
+343
+
+
+
+Elemento fundamental de la propuesta que esbozo es establecer una licencia­
+tura en cultura general, puesta al alcance de casi todos y completada por término
+medio en el filo de los 23 años de edad.
+Quisiera introducir en este punto dos precisiones. Algunos profesores
+de secundaria me han comentado que una porción considerable de los alum­
+nos de ESO y bachillerato carecen de aptitudes y vocación para el estudio y
+están en el mejor de los casos ávidos por poner los pies en el mundo real y dejar
+de tener que acercarse a él a través de los libros. A su vez, bastantes profesio­
+nales con los que he conversado sobre el particular insisten en que el sistema
+educativo no proporciona a nuestros jóvenes instrumentos verdaderamente úti­
+les para incorporarse a dicho “mundo real”. Para responder a unos y otros hay
+que insistir en que enseñar a realizar tareas rutinarias, tanto las sencillas como
+las complicadas, carece de sentido, ya que dichas tareas van a ser asumidas en
+proporción creciente e imparable por máquinas y robots. Los trabajos con futuro
+no pueden ser especificados con precisión hoy por hoy, puesto que no sabe­
+mos en qué consistirán y con toda probabilidad estarán sometidos a muy altas
+tasas de reconversión, de manera que el ciudadano desempeñará funciones
+cambiantes a lo largo de su vida activa. Por lo tanto, sería insensato prepararle
+para una sola tarea, y además ¿a cuál de ellas? Es mucho más conveniente darle
+una educación polivalente que le faculte para una rápida y no traumática inte­
+gración en los diversos entornos profesionales que irá conociendo. Ello supone
+ante todo competencia para interaccionar con otros seres humanos, flexibilidad
+mental, capacidad para la rápida adquisición de nuevas habilidades, y posesión
+de un bagaje de conocimientos y valores de amplio espectro que vertebren su
+vida con independencia de unos escenarios laborales transitorios y volátiles. En
+ese sentido, nada como una educación generalista de alto nivel para aportarle
+la estabilidad anímica y el equilibrio vital que lo capaciten para sobrellevar sin
+traumas el trajín subsiguiente. En su libro La corrupción del carácter™, Richard
+Sennet demuestra con buenos argumentos que en la actualidad el buen profe­
+sional se muestra incapaz de afrontar sus retos personales11. En el futuro esa
+tendencia se va a ir incrementando más y más. Antiguamente muchos basaban
+su personalidad y valores sobre la matriz que proporcionaba el trabajo que des­
+arrollaban. Ni cuantitativa ni cualitativamente eso va a seguir siendo posible, de
+manera que convendría otorgar, mediante unos años de formación desligados
+de las urgencias asociadas a la competencia laboral, la posibilidad de que cada
+cual adquiera por sí mismo o a través de una interacción social ajena al mundo10
+
+fía, la historia civil y la natural. T a m b ién h a b ía tres facu ltad es “su p erio res”: m ed icin a, d e re c h o y teolog ía, q u e
+sí o to rg a b a n títu los a q u ie n e s p a sa b a n p o r ellas, h ab ilitán d olos p ara e l e je rc ic io p ro fesio n al. N o s e h a c o n ­
+seg u id o averigu ar e n cu ál d e las tres fa cu lta d es su p erio res se grad u ó K ant, cu ya v o c a c ió n e stab a orien tad a
+a lo s sa b e re s p u ro s y n o a lo s a p lica d o s.
+10 Richard Sennet , La corru pción d el carácter. Las con secu en cias p erson ales d el trabajo en el nuevo
+cap italism o, B a rc e lo n a , A nagram a, 1998.
+11 R ichard S ennet , La corru p ción d el c a rá cter...-.21.
+
+344
+
+
+
+laboral la columna vertebral biográfica que precisa. Se trata de enseñar a los
+hombres y mujeres del siglo XXI a vivir en un medio donde, parafraseando el
+expresivo título del libro de Marschall Berman, “todo lo sólido se desvanece en
+el aire”12.
+En cualquier caso, deseo subrayar que este primer ciclo del curriculum
+universitario no debería proporcionar a nadie (ni siquiera a los sobresalientes)
+ventajas para asumir responsabilidades profesionales, aunque sí sociales. Con­
+vendría poner mucho cuidado programar las enseñanzas con una orientación
+interdisciplinar, lo cual se podría conseguir, por ejemplo, imponiendo la elec­
+ción de dos concentraciones curriculares, una del campo de las humanidades y
+otra de las ciencias, de manera que los egresados lo fueran, por ejemplo, en his­
+toria y matemáticas, sociología y biología, filosofía y física o literatura y neurociencias13. El fin perseguido, por supuesto, no se reduciría a conseguir especta­
+dores para las salas de conciertos ni consumidores de novedades literarias, sino
+seres humanos capaces de asumir con madurez los derechos y responsabilida­
+des de una sociedad democrática, con independencia del nivel de capacitación
+profesional que alcanzaran o ambicionaran. Sin soslayar la objeción de que una
+parte importante de la población no sentirá mucho entusiasmo por los placeres
+del espíritu, cabría impedir que se generalice la frustración potenciando todo lo
+necesario en esta etapa de la vida la actividad física y el deporte, así como acti­
+vidades de voluntariado social que colmen las apetencias de la gente que pre­
+fiera anteponer la vida práctica a la teórica.
+Con objeto de rodear esta fase de la formación de una atmósfera apro­
+piada habría que establecer con mucha claridad que todo lo que se consiga en
+ella no formará parte de la lista de méritos alegables a la hora de obtener acre­
+ditaciones, ingresar en el servicio público o en el sector privado. Serviría, como
+ya he indicado, para conseguir buenos ciudadanos y subsidiariamente para dar
+acceso al segundo ciclo de enseñanza superior, el cual cubriría una nueva fase
+de cuatro a seis años. Quienes no dieran signos de aspirar a ella o demostra­
+ran poca idoneidad, pasarían a estudiar uno o dos años de capacitación profe­
+sional antes de incorporarse al mundo del trabajo productivo en puestos de
+mediana o baja responsabilidad. Para los que, en cambio, accedieran al segundo
+ciclo universitario, el sistema de becas sería sustituido por una retribución sala­
+rial digna, que permitiría a sus perceptores lograr autonomía financiera sufi­
+ciente como para afrontar sin agobios la responsabilidad de la paternidad o la
+
+1! Masschau B erman, Todo lo sólid o se d esv an ece en e l a ire. La ex p erien cia d e la m odern idad,
+M adrid, Siglo X X I, 1988.
+13 H abría q u e co n se g u ir c o m o m ínim o qu e, d esp u és d e p asar p o r el sistem a, tod os co n o c iera n
+e n pro fund idad el significad o d e la o b ra d e figuras n o y a c o m o H om ero, V elázquez, N ew ton o D arw in, sin o
+c o m o P índ aro, Frans H als, Lord K elv in o C laude B ern ard . Si n o e n su s len g u as origin ales, d eb erían adquirir
+asim ism o sin e x c e p c ió n la aptitud y co stu m b re d e le e r e n trad u ccion es solv en tes lo s g ran d es lib ros clásico s
+d e to d a s las ram as d e la cultura.
+
+345
+
+
+
+maternidad, gozando de una condición asimilada a la de funcionarios públicos
+interinos. La impartición de enseñanzas en esta fase estaría encomendada a
+facultades y escuelas semejantes a las que eran usuales hasta las últimas refor­
+mas educativas, tales como derecho, medicina, ingeniería, psicología, informá­
+tica, sociología, etc. También habría que contar con las consagradas a estudios
+superiores de ciencias y humanidades, en las que se formarían los profesiona­
+les del saber puro, mientras que las otras tratarían de obtener perfiles de facul­
+tativos del saber aplicado, aunque sin estar obsesivamente centradas en sumi­
+nistrar conocimientos directamente utilizables, salvo aquellos que no fueran ni
+muy específicos ni demasiado efímeros14. El objetivo sería aportar una forma­
+ción de fondo seria y la aptitud para asimilar con prontitud y sin problemas los
+contenidos puntuales que requiriese más tarde el ejercicio profesional, sin pre­
+juicios e inercias que les impidiesen adaptarse a cometidos nuevos en la medida
+requerida por el avance de la tecnociencia o las cambiantes vicisitudes en los
+sistemas de producción y distribución de bienes. Escuelas profesionales podrían
+muy bien proporcionar al término de este segundo ciclo, en un lapso de uno
+a dos años, la especialización precisa para empezar a abrirse paso en la esfera
+del trabajo productivo.
+Quien formula una utopía no suele ver en ella otra cosa que ventajas
+y deja en manos de oyentes o lectores la tarea de encontrarle inconvenientes.
+No voy a ser una excepción. Sin seguir un orden de importancia, una primera
+virtud que encuentro en el modelo esbozado es que imprimiría un impulso
+verdaderamente eficaz a la superación de la brecha existente entre las dos cul­
+turas, científica y humanística, sobre la que ya alertó Charles Percy Snow en
+195915, brecha que desde entonces no ha hecho más que ensancharse y para
+cuyo remedio hasta ahora no hemos hecho otra cosa que derramar abundan­
+tes lágrimas de cocodrilo.
+Un segundo beneficio es que así se podría abrir de un modo eficaz la
+cultura de la interdisciplinariedad, en cuyo elogio me permito recordar que
+algunos de los mejores descubrimientos del siglo XX, como el big-bang o el
+desciframiento de la estructura del ADN, fueron llevados a cabo por investiga­
+dores que se habían pasado de una disciplina a otra.
+Una tercera y no pequeña mejora sería que ampliar de un modo tan
+considerable el tiempo dedicado a la educación de niños, adolescentes y jóve­
+nes, permitiría aliviar la considerable tensión que se ha ido acumulando sobre
+todo el sistema educativo. Trocaría en serenidad y visión a largo plazo lo que
+ahora no es más que cortoplacismo y premura. Dicho sin rodeos, hoy se pide
+14 A su m o e n e ste p u n to d el criterio d e G o n z ález-P áram o cu a n d o d ictam in a q u e “lo s em p le o s del
+fu tu ro n o so lo será n m ás fle x ib le s, sin o q u e ad em ás exig irán d e lo s trab ajad o res u n a m ayo r ca p acid ad para
+rein v en tarse y u n a m e n o r so b re e sp e c ia liz a c ió n .” Ibíd em :9915 C. P. S now , L as d os cu ltu ras y un segu n do en foqu e , M adrid, A lianza E ditorial, M adrid, 1987.
+
+346
+
+
+
+a profesores y maestros demasiadas cosas, que además son incongruentes entre
+sí, y en demasiado poco tiempo14*16. Sea culpa de los pedagogos, de los políticos,
+de los funcionarios, o de los propios profesores, lo cierto es que hay una ten­
+dencia cada vez mayor a separar los contenidos que se enseñan de las técni­
+cas empleadas, un sistemático menosprecio de la llamada “educación memorística”, una insistencia machacona en que lo que hay que transmitir no son
+datos, sino habilidades, y un frívolo rechazo de las técnicas pedagógicas tradi­
+cionales, como la clase magistral. Mi propia experiencia, no tanto personal
+como de observador de la enseñanza secundaria y superior en los últimos 50
+años, es que las técnicas y métodos son importantes, pero no dejan de ser
+medios y no fines. En cuanto a las habilidades, por supuesto que es impera­
+tivo enseñarlas, pero no se pueden trasmitir irt abstracto. Para hacerlas pluri­
+valentes, deberíamos comunicarlas al hilo de una formación humanística y cien­
+tífica no especializada. Lo decisivo es que se establezca entre profesores y
+alumnos la magia común que convierte a unos y otros en estudiosos empeña­
+dos en la búsqueda de respuestas a los interrogantes que cautivan al ser
+humano. En el mundo del aprendizaje no existen aisladamente los “contenidos”
+ni tampoco las “habilidades”. Unos y otros resultan de procesos de abstracción
+que — cuando se extreman o se vuelven prejuiciosos— arruinan de raíz todo
+el proceso educativo. Por culpa de una separación artificiosa entre semántica
+y sintaxis, se malogró toda la eficacia de la enseñanza de lenguas clásicas, ya
+que al insistir tan sólo en la asimilación de las reglas gramaticales se encadenó
+de por vida los estudiantes a los diccionarios, en lugar de darles la aptitud de
+enfrentarse a los textos griegos y latinos como lo hacían con los de su propia
+lengua. Conformarse con una educación exclusivamente memorística es tan
+catastrófico como prescindir de la memoria en la enseñanza17. Por otro lado, lo
+decisivo no es fijar el número de datos a recordar o de habilidades a dominar.
+Está también la maduración sentimental, afectiva, ética y, cómo no, la intelec­
+tual. Estos procesos de maduración tienen un tempo que resulta contraprodu­
+cente apresurar. Aristóteles pasó 20 años en la academia de Platón antes de
+decidirse a elaborar su propio sistema. 20 años de preparación para el habitante
+medio del planeta ha sido un lujo que la humanidad no se ha podido permitir
+en el pasado; pero seguramente ha llegado el momento en que lo demasiado
+caro pudiera ser precisamente no permitírselo. La obsesión por los curricula y
+
+14 La can tid ad d e ley es y reform as ed ucativas q u e se h an id o acu m u lan d o e n lo s últim os d e c e ­
+n io s h a sid o in g en te, p e ro e n el sen tir g en eral lo s resu ltad os o b ten id o s h a n frustrado casi tod as las esp era n ­
+zas q u e se h a b ía n p u esto e n ellas. M uchos en señ a n tes h a n d esarrollad o u n a c re cie n te d escon fian za h acia los
+p ed a g o g o s, a q u ien es a c h a c a n la resp on sab ilid ad d e la b u ro cratizació n p rog resiv a d e la ed u c a c ió n e n tod os
+su s n iv eles. M aestros y p ro fe so re s sien ten q u e se les e x ig e cu m p lim en tar u n sin fín d e p a p e le o , em p lear
+b u e n a p arte d e su esfu e rz o e n pro g ram acio n es ed ucativas q u e p o c o tie n e n q u e v e r c o n la realidad d el aula,
+así c o m o cu m plir req u isitos fo rm a les q u e sirven m ás para ap acig u ar las an sias d e co n tro l d e la adm inistra­
+c ió n q u e e l b ie n d e a q u ello s cu ya ed u ca ció n tie n e n confiad a.
+17 Segu ram en te será inútil q u e un a p erso n a d esin teresad a d e la m ed iev alística ap ren d a la lista d e
+lo s rey es g o d o s, p e ro sería igu alm en te tem erario q u e q u ien se p ro p o n e cultivar e n se rio la b io q u ím ica se
+n ieg u e a m em orizar la d e am in oácid os.
+
+347
+
+
+
+el poder omnímodo de las agencias evaluadoras pudieron tener algún sentido
+mientras persistieron las urgencias de la supervivencia, cuando aún no había­
+mos conseguido dominar la naturaleza, lo cual imponía abreviar la etapa de
+adiestramiento sin contemporizar con los plazos que una educación en condi­
+ciones requiere. Entonces solo los monjes y los sabios estaban dispuestos a
+pagar el coste de respetar los ritmos del aprendizaje de excelencia, que como
+el envejecimiento de los vinos de calidad requieren parsimonia. Pero el tic de
+acelerar las cosas en el campo de la educación ha dejado de tener sentido
+desde el momento que hemos creado máquinas mucho más listas y rápidas
+que nosotros para las tareas tontas.
+Un cuarto y desde luego no menor provecho de la utopía presentada
+es que pondría quizá coto a la espeluznante crisis demográfica que estamos
+padeciendo: la edad media de las madres y padres primerizos está alargándose
+de un modo tal, que más que padres empiezan a parecer abuelos, con los con­
+siguientes riesgos para la salud de los concebidos en fechas tan tardías y las
+poco halagüeñas consecuencias de ser educados por progenitores que ya han
+dejado atrás la fuerza y alegría de la juventud. Excuso decir que en tales con­
+diciones la posibilidad de alcanzar la tasa de reposición poblacional se aleja
+cada vez más. El mero hecho de que a los jóvenes se les reconozca antes de
+cumplir los 25 un estatuto social claro, una remuneración suficiente y no se les
+someta al estrés de una competencia despiadada para ingresar y avanzar en el
+frente ocupacional, seguramente hará más que cualquier campaña de concienciación para animarles a alumbrar nuevas vidas en el momento fisiológica y
+vitalmente más aconsejable.
+El quinto y tampoco nimio rendimiento a obtener es que supondría
+posiblemente la más efectiva medida para conseguir la equiparación real de
+hombres y mujeres. Por muchas ayudas y cuotas que se establezcan para con­
+seguir corregir las desigualdades existentes, poco remedio tiene a corto y medio
+plazo el hecho de que al cumplir 40 años la mujer ha llegado a una edad prác­
+ticamente límite para procrear, pero no así el varón. Los mejores años para que
+una hembra de la especie humana dé a luz van de los 20 a los 35, justamente
+los que en la actualidad resultan más absorbentes para efectuar una carrera
+profesional exitosa. Consagrar tiempo y energía durante esa etapa a la gesta­
+ción y cuidado de la prole supone para la joven profesional una pérdida casi
+siempre irrecuperable de competitividad en el trabajo, pero abstenerse de
+hacerlo genera un estrés creciente que pasa factura en la década siguiente,
+cuando los adelantos conseguidos se pierden a menudo por la frustración deri­
+vada de haber dejado sin satisfacer una vertiente importante de los horizontes
+existenciales humanos. Por motivos exclusivamente biológicos —también cul­
+turales, pero estos tienen mejor remedio— las personas de género masculino
+disfrutan de una moratoria que les permite dedicar la primera juventud a la
+acumulación enloquecida de méritos que prácticamente les exige el entorno
+social, y la edad adulta a la consecución de objetivos relacionados con la vida
+348
+
+
+
+familiar. En la utopía esbozada esta discriminación objetiva desaparecería,
+puesto que el pistoletazo de salida en la carrera por la promoción profesional,
+científica, política, etc., solo se daría pasados los treinta años, cuando tanto
+hombres como mujeres habrían tenido ya la oportunidad de resolver y enca­
+rrilar según su arbitrio y vocación el apartado procreativo de sus vidas, dejando
+tras de sí los periodos de gestación y lactancia que son los más incompatibles
+con un alto estándar de compromisos fuera del hogar. Ninguno de los dos
+géneros implicados en la reposición poblacional partiría con ventaja ni se vería
+favorecido o perjudicado en sus legítimas ambiciones intelectuales, profesiona­
+les o sociales. Y tampoco perderían opciones frente a los que por razones per­
+sonales o de cualquier otra índole decidieran abstenerse de participar activa­
+mente en la perpetuación de la especie.
+He aquí expuestas sumariamente las razones por las que creo haber­
+les presentado una buena utopía, es decir, un relato que permite vislumbrar un
+mundo mejor, sin por otro lado generar demasiadas esperanzas en que pueda
+llegar a ser conseguido. Porque creer que es alcanzable el paraíso en la tierra
+resulta peligroso, pero tampoco se nos puede pedir que renunciemos a la liber­
+tad de soñar.
+
+349
+
+

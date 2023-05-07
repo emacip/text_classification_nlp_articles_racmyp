@@ -1,0 +1,1133 @@
+CUARTA REV O LU CIÓ N IN D U STRIA L,
+EM PLEO Y ESTAD O D E BIEN ESTA R
+Por el Académico de Número
+Excmo. Sr. D. José Manuel González-Páramo*
+
+CAMBIO TECNOLÓGICO Y EM PLEO:
+UNA RELACIÓN D IFÍC IL1
+
+Con la perspectiva de hoy, después de tres revoluciones industriales e
+inmersos de lleno en la cuarta, puede sorprender la paradójica relación entre el
+progreso técnico, el empleo y la prosperidad. La evidencia histórica deja pocas
+dudas: los niveles de vida y empleo son hoy mayores que nunca. Sin embargo,
+los avances industriales y tecnológicos han sido vistos con recelo, cuando no
+con franca contrariedad, desde mucho antes de la Primera Revolución Industrial.
+Repasando la historia, en muchos casos los intereses a corto plazo de
+las clases dirigentes, los gremios o los sindicatos existentes en cada momento
+trataron de frenar el desarrollo para preservar el statu quo. Un ejemplo de ello
+es la invención de la máquina de tejer en 1589 en Gran Bretaña. William Lee
+acudió a la Reina Isabel I para solicitar una patente de su invento. Según cuenta
+la historia, la petición fue rechazada vehementemente con estas palabras:
+“¿Habéis pensado lo que podría afectar esta invención a mispobres súbditos? Sin
+duda sería su ruina alprivarlos de empleo y convertirlos en mendigos”*12. Ante tal
+la negativa, y tras la condena a muerte por traición de su socio George Brooks,
+William Lee se trasladó a Francia encontrando a la postre el mismo rechazo.
+* Se sió n d el d ía 5 d e d iciem bre d e 2017.
+1 A grad ezco lo s co m en ta rio s y su g eren cia s d e J o s é Carlos P ard o y R afael D o m én ech , así c o m o el
+c o lo q u io m an ten id o c o n lo s m iem bros d e la R eal A cad em ia e n la sesió n p len aria d e 5 d e d iciem b re d e 2017.
+T o d o s ello s h a n b e n e fic ia d o significativam ente e l te x to final. Los errores q u e p u ed an su bsistir so n d e m i res­
+po nsab ilid ad.
+2 Citado e n D . Acemogly y J . Robinson (2 0 1 2 ), Why n ation s fa il: The origin s ofp ow er, prosperity,
+an d p ov erty , R andom H o u se D igital:182 nota.
+
+89
+
+
+
+Hubo que esperar dos siglos para que, al calor de la Primera Revolución Indus­
+trial, la industria textil incorporara masivamente una versión avanzada de su
+idea. Como es bien sabido, tampoco la introducción del telar industrial estuvo
+exenta de tensiones y fue el origen de los disturbios laborales protagonizados
+por los seguidores de Ned Ludd, que agitaron Gran Bretaña entre 1811 y 1816.
+España no escapó a la influencia del ludismo: en los sucesos de Alcoy, de
+febrero de 1821, 1200 hombres armados destruyeron 17 máquinas de cardar e
+hilar por valor de dos millones de reales, asunto del que las Cortes liberales se
+ocuparon, mediante la creación de una comisión especial.
+Se trata, pues, de un asunto controvertido e intelectualmente complejo,
+como prueban los errados vaticinios de algunos grandes economistas. Así, Karl
+Marx, siguiendo a David Ricardo, predijo que la mecanización de la economía
+arruinaría el destino de la clase trabajadora, al condenarla a salarios de subsis­
+tencia3. Keynes, por su parte, en su célebre conferencia en la Residencia de Estu­
+diantes de 1930, acuñaba el concepto de “desempleo tecnológico” generado por
+el proceso de automatización, al que sin embargo contempló con optimismo,
+pues la automatización resolvería el problema económico. Con el tiempo traba­
+jaríamos jomadas de tres horas, y “el hom bre— decía Keynes— se enfrentaría a
+su problema real, su problema perm anente ( ...): cómo ocupar su ocio”45. Y el
+Nobel Leontief no dudó en afirmar que “el papel de los humanos como elfactor
+de producción más importante está llamado a disminuir -de la misma manera
+que el papel de los caballos fu e primero reducido y luego eliminado al ser reem­
+plazados por tractores.
+El futuro del empleo continúa hoy siendo uno de los asuntos más con­
+trovertidos e importantes para nuestra sociedad. La emergencia de las tecnolo­
+gías exponenciales del mundo digital —la hiperconectividad mediante disposi­
+tivos móviles inteligentes, el Internet de las cosas, el big data, la inteligencia
+artificial, los robots, el aprendizaje de las máquinas— van a alterar muy profun­
+damente todos los ámbitos de la vida social, y entre ellos el empleo. En cual­
+quier debate ambicioso sobre el futuro del empleo, cuatro cuestiones emergen
+entre otras muchas. Primera, ¿cuál será el impacto de la automatización en el
+volumen de empleo? Segunda, ¿cómo cambiarán los modelos, estructuras y tipos
+de trabajo que realizaremos los humanos en esta nueva era de las máquinas? Ter­
+cera, ¿qué efectos tendrá la robotización y digitalización en los salarios, las ren­
+tas y la desigualdad? Y cuarta, ¿cuáles son las mejores respuestas privadas y públi­
+
+3 K. Makx (1 9 0 6 ), C apital: A critiqu e o f p otítical econom y, M o d em Library, N ueva Y o rk :708-709.
+3 J.M . Keynes (1 9 6 3 ), Essays in p ersu asión , N orton. V ersión e n castellan o : E nsayos d e p ersu asión ,
+E ditorial Síntesis, 20 0 9 .
+
+5
+W. Leontief (1 9 8 3 ), “N ation al p ersp ectiv e: T h e d efin itio n o f p ro b lem s an d op p o rtu n ities”, e n
+N ation al A cadem ies: The lon g term im p act o ftech n o lo g y on em ploym en t a n d unem ploym ent, N ation al A cad em y o f E n g in eerin g , ju n io :3 .
+
+90
+
+
+
+cas, para ayudar en la transición y sostener el Estado de Bienestar? En lo que
+resta de mi exposición trataré de abordarlas de modo sucinto.
+Es oportuno comenzar con algunas de las cifras que mueven hoy la
+discusión. La Organización para la Cooperación y el Desarrollo Económico
+(OCDE) estimó en 2016 que el 9% de los empleos en los 21 países de la OCDE
+— aquellos en los que la combinación de actividades desarrolladas es plena­
+mente automatizable— pueden estar en riesgo de desaparición por la robotización, esta cifra asciende al 12% — 2.7 millones de empleos— en el caso de
+España, y se reduce al 6% en el caso de Corea67. Si bien la cifra ya de por sí es
+alta, algunos expertos del ámbito académico, como Frey y Osborne678, son más
+pesimistas y llegan incluso a estimar que un 47% de los empleos en Estados
+Unidos pueden desaparecer como consecuencia de la transformación tecnoló­
+gica y digital en la que estamos inmersos. Utilizando la misma metodología,
+BBVA Research9 estima en un 38% el empleo sujeto a un alto riesgo de automa­
+tización en España, con un efecto especialmente importante sobre mujeres, asa­
+lariados con bajo nivel educativo, extranjeros, y empleados de sectores como el
+primario, las actividades financieras y de seguros, el comercio y la hostelería. Se
+trata de impactos lo suficientemente relevantes, dentro de las diferencias entre
+estudios, como para profundizar en el análisis del fenómeno. Comencemos por
+una breve mirada a las revoluciones industriales previas.
+LA PRIM ERA Y SEGUNDA REVOLUCIÓN INDUSTRIAL:
+¿CÓMO AFECTARON AL EMPLEO?
+
+El desarrollo de la Primera Revolución Industrial, que se inició alrede­
+dor de 1770 en Gran Bretaña y concluye aproximadamente seis décadas des­
+pués, fue favorecido en parte por un cambio en la percepción del desarrollo tec­
+nológico. Un cambio de actitudes sociales no ajeno a dos fenómenos. Por un
+lado, la clase media trabajadora había ido adquiriendo gradualmente un mayor
+poder político frente a la nobleza y, por otro lado, los trabajadores no cualifica­
+dos venían a ser los grandes beneficiarios de los avances en la mecanización
+frente a los artesanos.
+
+6 M. Arntz, T. G regory y U. Zierahn (2 0 1 6 ), “T h e risk o f au to m ation fo r jo b s in O ECD C oun tries”.
+“T h e R isk of. A utom ation fo r J o b s in O EC D C ountries: A Com parative. A nalysis”, O EC D Social, Em ploym ent
+an d M ig ration W orking. P apers, n°. 189, OECD, París, http://dx.d oi.org/10.1787/5jlz9h56d vq7-en.
+7 El m ayo r riesg o d e auto m atizació n e n E spaña se d e b e a u n m e n o r nivel ed ucativo y m en o res
+n iv eles d e ingresos.
+8 C .B . Frey y M. O sborne (2 0 1 7 ), “T h e future o f E m ploym ent: H ow su scep tib le are J o b s to co m pu terisatio n ”, T ech n olog ical F orecastin g a n d S ocial C hange, 2017, v o l. 114, issu e C, 254-280.
+
+9 A. Montáñez (2 0 1 7 ), “A fectad os p o r la rev o lu ció n digital e n E sp añ a”, BBVA R esearch, versión
+prelim inar, n o viem b re.
+
+91
+
+
+
+G ráfico 1. H oras s e m a n a le s d o tra b a jo e n EE.UU ., R e in o U n ido y
+E s p a ñ a , 1 8 7 0 -2 0 0 0
+70
+
+----------
+
+-
+
+• - .................
+
+España
+
+.................................................
+
+----- EE.UU.
+
+................... ........
+
+-----UK
+
+fuimt*; 88VA8«w«rth, ~íií *i>tí!tx>atíi-miíUK>~UOU)
+
+La Primera Revolución Industrial, con la máquina de vapor y el ferro­
+carril, y la Segunda Revolución Industrial, que se extiende durante medio siglo
+a partir de 1860, con la electrificación, el petróleo, la química y los productos
+farmacéuticos, utilizaron la producción en masa, que vino a reducir notable­
+mente el coste y el tiempo de producción, aumentando muy significativamente
+la productividad. El trabajo que previamente realizaban los artesanos muy cua­
+lificados se descompuso en tareas más pequeñas y especializadas, que requerían
+menos habilidad, pero más trabajadores para llevarlas a cabo.
+Un ejemplo ilustrativo es el desarrollo del Ford T en 1908. La implanta­
+ción de líneas de montaje permitía incorporar a un mayor número de trabaja­
+dores poco cualificados así como reducir el número de horas totales trabajadas
+para desarrollar un vehículo. Esto coadyuvó a que se introdujera la jomada labo­
+ral de cinco días en septiembre de 1926. La lógica para Ford era aplastante: los
+trabajadores de Ford tenían dinero para comprar sus coches y tiempo de ocio
+para disfrutarlos. Esta relación entre las horas de trabajo y el progreso tecnoló­
+gico subyace a la citada predicción de John M. Keynes. A poco más de una
+década de 2030, la previsión de 15 horas semanales no se ha cumplido por el
+momento, pero sí cierta tendencia a la baja en las horas trabajadas. Sirva como
+ejemplo España, donde las horas semanales de trabajo han pasado de 47 a 35
+entre 1930 y el año 200010, una tendencia que como se observa en el Gráfico 1
+se produce también en otros países desarrollados, como el Reino Unido y los
+Estados Unidos, donde las 40 horas semanales parecen un suelo. Pero la reduc­
+ción de horas es mucho mayor, entre 17 y 30 horas semanales de caída, si toma­
+mos como referencia 1870.
+
+10 R. D oménech , J.R . G arcía , M. M ontañez, A. N eut (2 0 1 7 ), “El futuro d el e m p le o ”, BBVA R esearch ,
+m ayo .
+
+92
+
+
+
+Gráfico 2 <PlB por cápita « n EE.UU. y Raino Unido,
+1901-2016(1001=100)
+
+■1901 *1911 ■*1921 *t« 3 1 -*1911 *1961 *1961 *1 9 ?? *1981 *1991 *«XJ1 *20? 1
+íttra u -:
+
+*í; fesw eórf ímpkc-' í?03 ?i
+
+Gráficos. T#*a da paro an EE.UU. y Roino Unido,
+1901-2016
+
+>196? *1911 *?5©5 <1851 M $*1 U 9S1 *1961 *19?1 '1981 *5891 >206» <2051
+«!?. fjS-Sh «?w.w<h. ' í ¡ í¡í»^ro<á<rth^#w"??sH1|
+
+La disponibilidad de más tiempo libre favoreció la creación de nuevas
+necesidades y, por tanto, nuevas industrias y empleos. Un ejemplo es la indus­
+tria del turismo, apenas significativa en 1900, y que empleó a 235 millones de
+personas en 2011, constituyendo el 8% del empleo mundial11.
+La máquina de vapor, el ferrocarril y la electrificación, entre otros
+muchos avances tecnológicos de los siglos XVIII y XTX, destruyeron sin lugar a
+dudas numerosos empleos, pero los nuevos que se crearon fueron muchos más
+en número. La evidencia histórica de muestra dos dinámicas contrapuestas con
+ganadores y perdedores. Por un lado, el empleo y los salarios de los trabajado­
+res complementarios con las nuevas tecnologías y máquinas, la mayoría de ellos
+no cualificados, aumentaron, mientras que el salario de los trabajadores sustitutivos, muchos de ellos artesanos cualificados, disminuyó y algunas ocupaciones
+incluso desaparecieron, generándose costes de transición importantes para algu­
+nos colectivos.
+Pero el resultado agregado fue claramente positivo. El progreso econó­
+mico y el bienestar social durante estos dos siglos se vieron reflejados en aumen­
+tos agregados de la productividad, los salarios y la renta p er cápita. Mientras que
+el PIB p er cápita se multiplicó en Estados Unidos y Reino Unido por más de 7 y
+casi 6 veces, respectivamente, entre 1901 y 2016, ambos países presentaron una
+tasa de paro media del 5%, tal y como se observa en los Gráficos 2 y 3- Todo
+este formidable progreso resultó de un proceso de destrucción creativa y de
+transformación estructural del empleo, con una reasignación de recursos entre los
+distintos sectores productivos que se alargó durante más de dos siglos.1
+
+11 A. S u n d a r a k a ja n (2 0 1 7 ), “T h e future o f w o rk ”, F in an ce a n d d ev elop m en tJou rn al, v o l. 54, n° 2,
+ju n io , IMF, http://w w w .im f.org/extem al/pubs/ft/fandd/2017/06/sundararajan.htm
+
+93
+
+
+
+LA TERCERA REVOLUCIÓN INDUSTRIAL:
+EL EM PLEO CUALIFICADO ES EL “GANADOR”
+
+La Tercera Revolución Industrial, caracterizada por la introducción gra­
+dual de los ordenadores, la computación y la telemática en los últimos 40 años
+del siglo XX, trae consigo un cambio significativo en la interacción entre las
+máquinas y el empleo respecto a las dos revoluciones tecnológicas anteriores.
+Como destaca Acemoglu, “la idea de que los avances tecnológicos favorecen a
+los trabajadores cualificados es un fenóm eno propio del siglo veinté'12. Probable­
+mente debido a la mayor abundancia de trabajadores cualificados, las nuevas
+tecnologías se desarrollaron como complementarias de la cualificación, a fin de
+permitir unos mayores beneficios. Y a su vez, la mayor demanda de empleo
+cualificado se puede explicar por una caída en el precio de las tareas realizadas
+por ordenadores y otras máquinas, que complementarían y requerirían servi­
+cios más asociados al pensamiento abstracto y creativo. Así, los ganadores de
+esta época son los empleos cualificados con un alto nivel educativo. Si bien
+durante la Primera y la Segunda Revoluciones industriales los tejedores y herre­
+ros artesanales productores de acero fueron barridos por el telar mecánico y los
+convertidores de Bessemer y Siemens, en las décadas recientes la automatiza­
+ción ha reducido la demanda de muchos de los trabajos de mediana habilidad
+que se asociaron al crecimiento de la clase media tras la II Guerra Mundial. Se
+ha prescindido de un gran número de mecanógrafos, telefonistas, cajeros de
+bancos y otros muchos empleos basados en la línea de producción, como son
+los de los sectores metalúrgico y de automoción.
+Al repasar la historia más reciente debemos preguntamos: ¿ha destruido
+empleo la progresiva automatización de la industria durante las últimas tres o cua­
+tro décadas? La evidencia indica unos efectos mixtos, al menos a corto y medio
+plazos, que son difíciles de separar de otras fuerzas que han moldeado la eco­
+nomía en los últimos años, entre las cuales ocupa un lugar destacado la globalización, a la que referiré más adelante.
+Concentrándonos en la automatización, los países con mayores tasas
+de robotización tienen menores tasas de desempleo a nivel agregado. Así, la
+evidencia nos muestra que aquellos países desarrollados con mayor porcentaje
+de robots por empleado, como Japón, Singapur o Corea del Sur, presentan las
+menores tasas de desempleo agregadas13. Análogo resultado se obtiene con los
+índices de digitalización: los países más avanzados en digitalización, como son
+
+12 D . Acemoglu (2 0 0 2 ), “T e ch n ica l C h a n g e, In eq u ality , an d th e L abor M ark et”, Jo u rn a l o f E con om ic L iteratu re, v o l. XL, m arzo:8.
+13 Sirva c o m o e je m p lo C o rea d el Su r tie n e 6 .4 ro b o ts p o r cad a 10 m il e m p le a d o s y u n a tasa d e
+d e se m p le o d el 4% , p o r o tro la d o F ran cia tie n e u n d e se m p le o p o r en cim a d el 10% y m e n o s d e 5 ro b o ts p o r
+c a d a 10 m il em p lea d o s. La p o sib le e x iste n cia d e c a u sa ció n in v ersa rec o m ien d a cierta cau tela.
+
+94
+
+
+
+Gráfico4. Cambio a n s í smpioo «rttr# 1993 y 2 0 1 0 m n 16 paisas
+europeos
+
+Gráficos. Combio « « « ie m p iooon tr»2013y 2016 *ft
+España (contribución**» pp)
+
+los nórdicos o los asiáticos citados, tienen el paro más bajo. Sin embargo, según
+un estudio realizado por Acemoglu y Restrepo14, en el que analizan las áreas
+metropolitanas de Estados Unidos entre 1990 y 2007, se concluye que un robot
+adicional por cada mil empleados reduce la tasa de empleo entre 0,18 y 0,34
+puntos porcentuales y los salarios entre el 0,25 y el 0,5%. Los resultados son,
+pues, mixtos.
+Si bien a nivel agregado la evidencia no indica que haya un incremento
+significativo del desempleo, la progresiva automatización de los últimos cua­
+renta años ha generado un mercado laboral cada vez más polarizado, a resultas
+de tres efectos diferenciados. Primero, las máquinas complementan a los traba­
+jadores que realizan tareas no rutinarias, abstractas y con alto grado de interac­
+ción con las personas. Segundo, estas máquinas y robots sustituyen a los
+empleos que ejecutan tareas rutinarias asociadas a la percepción de salarios
+medios. Y tercero, las máquinas no parecen afectar negativamente a los traba­
+jadores que realizan tareas manuales no rutinarias, que en la mayoría de los
+casos tienen menores salarios. Esta polarización se ilustra bien en el Gráfico 4.
+Y como se observa en el Gráfico 5, en España la contribución de los sectores
+al crecimiento del empleo en años recientes se encuentra polarizada, con un
+mayor avance de ocupaciones con alto contenido cognitivo o con requerimien­
+tos de cualificación específica, así como aquellas asociadas a bajos salarios vin­
+culadas con el trato al cliente o con habilidades manuales no rutinarias.
+
+14
+
+D . A c e m o g l u y P. R e s t r e p o (2 0 1 7 ), “R o b o ts an d J o b s : E v id en ce fro m U S la b o r m arkets”, NBBR
+
+WP na 2 3 2 8 5 , m arzo.
+
+95
+
+
+
+LA CUARTA REVOLUCIÓN INDUSTRIAL:
+¿CÓMO SERÁ EL EM PLEO DEL FUTURO?
+
+Pero centremos el análisis en la Cuarta Revolución Industrial. La adop­
+ción masiva de las tecnologías digitales originadas en la última década del siglo
+XX, como Internet y los teléfonos móviles inteligentes, junto con el crecimiento
+extraordinario de la computación y la capacidad de almacenamiento a un costo
+menor, así como otras tecnologías digitales exponenciales, están transformando
+radicalmente el mundo, cambiando profundamente los patrones de las relacio­
+nes personales, las organizaciones empresariales y, en general, la forma en que
+se crea el valor económico.
+La combinación de los avances de las tecnologías digitales y dinámicas
+socioeconómicas variadas, han ha dado origen a tres potentes fuerzas de trans­
+formación: primera, el nuevo comportamiento del consumidor y, en particular,
+de los llamados millennials-, segundo, la irrupción de la tecnología — caracteri­
+zada por la movilidad y la hiperconectividad, la explotación de los datos, la inte­
+ligencia artificial y el desarrollo de nuevas infraestructuras como el blockchain o
+la computación en la nube— ; y tercero, la emergencia de nuevos modelos de
+negocio, que surgen del mundo digital sin onerosos legados tecnológicos, labo­
+rales o regulatorios. El efecto combinado de estas tres fuerzas de cambio ha dado
+lugar a la llamada Cuarta Revolución Industrial15. El tsunami digital está afectando
+a casi todas las industrias del mundo desde hace poco más de una década, con
+una penetración y una profundidad que está remodelando la economía y la socie­
+dad, y continuará haciéndolo en el futuro, produciendo cambios disruptivos a
+una velocidad sin precedentes, a un ritmo exponencial en lugar de lineal. Este
+cambio de paradigma suscita las mismas cuestiones que se han venido plante­
+ando desde 1770 para acá: ¿Qué papel desempeñaremos los seres humanos en un
+mundo dominado por la tecnología? ¿Cómo será el mercado laboral del futuro?
+Una realidad es incontrovertible: la Cuarta Revolución Industrial, tam­
+bién conocida como Revolución Digital o Industria 4.0, tendrá un efecto disruptivo sobre el empleo, aunque todavía es pronto para predecir con precisión
+la escala del cambio, pese a las significativas cifras mencionadas al principio de
+esta exposición. La experiencia con el desarrollo de la automatización y los
+robots durante los últimos treinta años parece que no es del todo concluyente.
+En efecto, como hemos visto, si bien no crece el desempleo a nivel agregado,
+sí tenemos un mercado laboral más polarizado. Pero es quizás demasiado aven­
+turado extrapolar el comportamiento del empleo en los últimos años hacia el
+futuro.
+
+15
+J.M . G onzález-Páramo (2 0 1 6 ), R ein v en tar la b a n ca : D e la g ra n recesión a la g ra n disru pción
+digital, RACMYP, D iscu rso d e in g reso e n la R ea l A cad em ia d e las C ien cias M orales y P o líticas, ju n io.
+
+96
+
+
+
+Sin embargo, nadie puede poner en duda que los robots, el Internet de
+las Cosas, la inteligencia artificial y el big data irán desplazando a los trabajado­
+res actuales de algunas actividades, mientras que se desarrollarán otras nuevas
+que darán lugar a la creación de nuevos empleos. Para el historiador económico
+Joel Mokyr16, los “tecno-pesimistas” adolecen con frecuencia de falta de imagi­
+nación. En efecto, el futuro nos traerá ocupaciones que nos resultarán tan extra­
+ñas como muchas de las actuales a nuestros abuelos. Diseñador de páginas web
+y aplicaciones móviles, responsable de tráfico digital, experto en marketing digi­
+tal, responsable de ventas digitales, diseñador de experiencia de usuario, cien­
+tífico de datos, community m anager o especialista en ciberseguridad son tan
+sólo algunos ejemplos ilustrativos de puestos de trabajo muy demandados actual­
+mente y que no existían hace simplemente diez o quince años.
+Con una visión prospectiva, a medida que una sociedad se hace más
+rica, tanto en capital como en tiempo libre, con una mayor automatización de las
+tareas rutinarias o con bajo valor añadido, se tienden a demandar más servicios
+de sectores más intensivos de trabajo en los que priman la innovación, la experien­
+cia y las relaciones personales. Unos servicios por los que la sociedad estaría dis­
+puesta a pagar mayores precios, lo que junto a las ganancias en productividad
+daría lugar a mayores salarios. Si a este escenario le añadimos que cada vez las
+personas vivimos más años y en mejores condiciones de salud, puede aventu­
+rarse que sectores como la sanidad, los cuidados personales, la educación, la
+industria del ocio y turismo y los servicios a las familias y a las personas son pro­
+bables supervivientes en este nuevo entorno. Por el contrario, sectores como la
+distribución, la agricultura o el transporte dan lugar a ocupaciones rutinarias con
+un alto potencial de automatización y, por tanto, de que sean ejecutados por
+máquinas en un futuro no muy lejano.
+Esta visión prospectiva de posibles ganadores y perdedores que a priori
+se vislumbran debe esperar a confirmarse, lo que dependerá de la evolución de
+múltiples factores. La experiencia de los últimos años nos obliga a ser prudentes.
+Por ejemplo, la adopción masiva del correo electrónico hace veinte años llevó a
+algunos a vaticinar la desaparición del correo postal tradicional, lo que hubiera
+puesto en riesgo un gran número de empleos. Sin embargo, el auge del comer­
+cio electrónico en los últimos diez años, y en especial en los últimos cinco, están
+poniendo al límite la capacidad de las empresas de logística. Este aumento de la
+demanda obliga a las compañías de correos a redimensionarse en plantilla y flo­
+tas y a acometer inversiones en centros logísticos (almacenes y centros de distri­
+bución), así como en tecnología e innovación.
+En ausencia de una bola de cristal que nos permita ser más precisos
+acerca de la evolución del empleo en los próximos veinte años, sí pueden
+16 J . Mokyr (2 0 1 4 ), S ecu lar stagn ation : N ot in y o u r Ufe, VoxEU , ag osto .
+
+97
+
+
+
+intuirse las tres principales características que moldearán el entorno laboral del
+futuro:
+• El empleo será menos rutinario y estándar. En el nuevo entorno digi­
+tal, hay que olvidarse de la clasificación tradicional de las actividades
+económicas en industriales y no industriales. El factor diferenciador
+del trabajo en la era digital será el de tareas rutinarias frente a no ruti­
+narias. Las tareas rutinarias, requieran cualificación o no, se pueden
+robotizar con facilidad, frente a la mayor demanda de tareas no ruti­
+narias, que deben ser innovadoras por naturaleza, o bien orientadas
+a la interacción con los individuos. El concepto de “no rutinario” debe
+ser entendido en modo amplio, incluyendo aquellas tareas que requie­
+ren un toque humano o de relaciones interpersonales, conversaciones
+complejas e identificación de patrones. La excelencia en estas habili­
+dades es lo que hace que, por ejemplo, los empleados de tienda de
+Zara, sean relativamente inmunes a la robotización17. Durante las últi­
+mas décadas, la práctica empresarial más habitual era trasladar las
+tareas rutinarias a países con salarios más bajos para ganar competitividad. Ahora surge un nuevo paradigma en el que las empresas tien­
+den a “extemalizar” tareas rutinarias a robots y máquinas, una tenden­
+cia que se acelerará en el futuro.
+• El empleo será más fraccionado. La economía colaborativa y la apari­
+ción de plataformas digitales son dos elementos que están moldeando
+ya el mercado laboral. Ambos permiten que la actividad económica
+se desplace hacia multitud de emprendedores individuales y trabajos
+por encargo. Los actuales empleos a tiempo completo se podrían
+dividir en tareas y proyectos, provocando un aumento de la fuerza
+laboral autónoma. El surgimiento de numerosas plataformas digitales
+como Cabify, Uber, Airbnb o Upwork, que permiten obtener ingresos
+sin tener un empleo tradicional por cuenta ajena, son un ejemplo de
+esta tendencia. Estas nuevas formas de trabajo plantean preocupa­
+ciones relativas a la calidad del empleo y la protección social, puesto
+que son ocupaciones que se encuentran en medio de dos mundos,
+el trabajo autónomo y el empleo por cuenta ajena, que no encajan
+del todo con la legislación vigente18. ¡Bienvenidos a la gig economy!
+El fenómeno de las plataformas está todavía en sus inicios y los datos
+disponibles sobre su relevancia en términos de empleo aún son esca­
+
+17 E jem p lo citad o p o r E . B rynjolfsson y A. McAfee (2 0 1 4 ), The secon d m ach in e age: Work, progress,
+a n d p ro sp erity in a tim e o fb riü ia n t techn ologies, N orton.
+18 J . T iróle (2 0 1 7 ), L a eco n o m ía d el bien com ú n, Taim as. V er asim ism o: http :/ / agend ap u b lica.
+elperio d ico .co m / calid ad -d el-em p leo -p Iatafo rm as-d ig itales/
+
+98
+
+
+
+sos. En el caso de Estados Unidos, al final de 2012 sólo un 0.1% de la
+fuerza laboral había tenido ingresos mensuales a través de las diferen­
+tes plataformas colaborativas, mientras que a mediados de 2016 esta
+cifra ya alcanzaba el 1%19. En la Unión Europea, se estima que había
+a finales de 2015, 65.000 conductores Uber activos y unos 100.000 tra­
+bajadores activos en toda la economía colaborativa en la Unión Euro­
+pea, lo cual supone un 0,05 por cien del total de trabajadores20. Lo
+aparentemente limitado de las cifras no debe llevar a minusvalorar el
+potencial de crecimiento. Según el análisis de McKinsey21, la economía
+de plataformas podría aumentar la producción mundial en 2025 en un
+3 por cien, gracias a la mayor participación laboral (47 millones de tra­
+bajadores equivalentes a tiempo completo), el mayor empleo (25
+millones de trabajadores equivalentes) y la mayor productividad. Todo
+ello en beneficio directo de unos 550 millones de personas.
+• El empleo estará sujeto a cambios continuos. El empleo del futuro, ya
+sea autónomo o por cuenta ajena, estará caracterizado por una cons­
+tante interacción entre los trabajadores y las máquinas, y serán las
+continuas innovaciones tecnológicas las que establezcan las caracte­
+rísticas que se demandan del empleo en cada momento. El carácter
+exponencial del desarrollo tecnológico actual requiere una mayor fle­
+xibilidad en los puestos de trabajo así como en las competencias que
+se necesitarán. Según el economista e historiador James Bessen2223, el
+trabajo del futuro estará cada vez más determinado por la rapidez de
+los cambios tecnológicos y por una innovación continua. A efectos
+ilustrativos, en 2012 la tecnología de programación Flash era un están­
+dar esencial para el desarrollo de muchas páginas web, hoy en día, la
+programación basada en Flash está totalmente obsoleta y ha sido
+reemplazada por HTML5 y otros estándares.
+• Las tareas y funciones de muchos puestos de trabajo irán cambiando
+constantemente y resulta difícil imaginar que una gran mayoría de
+empleos no se tengan que enfrentarse a este escenario. Por esta la
+razón, y para no perder la capacidad de empleabilidad, los empleos
+del futuro no solo serán más flexibles, sino que además exigirán de
+los trabajadores una mayor capacidad para reinventarse y una menor
+
+15 JP M organ I nstitute (2 0 1 6 ), “T h e O n lin e Platform E con om y ”, d iciem bre.
+20 W. d e G roen, I. Masselu (2 0 1 6 ), “T h e im p act o f th e C ollaborative E co n o m y o n th e L abou r Mark e t”, CEPS S p ecial Report, 1 3 8 , ju n io .
+
+21 J. Manyika y otros (2015), “Connectíng talent with opportunity in the digital age”, M cKinsey
+G lobal Institute.
+23J. B essen (2015), L earning by d oin g: The re a l con n ection betw een inn ovation, w ages a n d w ealth,
+Y a le U niversity Press
+
+99
+
+
+
+sobreespecialización. Esta es una de las explicaciones del éxito de la
+española Mercadona, compañía que entrena a sus empleados en una
+variedad de pequeñas tareas, desde la atención al público a la reali­
+zación de pedidos o el control de inventarios. Ello permite que se
+muevan de unas a otras en función de la demanda23. La reinvención
+y el entrenamiento cruzado en distintas tareas es un camino a la esta­
+bilidad en el empleo. Pero en otros casos será fuente de cambios de
+trabajo, apalancados más en competencias orientadas hacia la capa­
+cidad de adaptarse a nuevos escenarios, y menos a conocimientos y
+prácticas de perfiles profesionales consolidados.
+ASEGURAR UNA TRANSICIÓN EFICIEN TE Y EQUITATIVA
+
+De lo hasta aquí expuesto se sigue que el mercado laboral del futuro
+será muy diferente al actual. La cuestión pertinente es: ¿cómo de diferente? Com­
+prender la transición al nuevo mundo del trabajo en la era digital es tarea que
+nos enfrenta con una serie de incógnitas que van desde el futuro específico de
+las profesiones, la desigualdad y los fenómenos de polarización, hasta la pre­
+sión de estos desarrollos sobre las políticas públicas y, en particular, sobre las
+estructuras del Estado del Bienestar.
+La digitalización y el auge de la inteligencia artificial suponen, sin duda,
+una gran oportunidad para aumentar la productividad de las empresas, abara­
+tar los costes de producción, y aumentar el poder adquisitivo, la variedad y la
+calidad de los bienes y servicios al alcance de los consumidores. Idealmente, las
+oportunidades de esta nueva era deberían beneficiar a todos de forma equitativa,
+por motivos que van desde los principios éticos hasta la deseable estabilidad de
+las instituciones sociopolíticas. Pero a nadie escapa que esta transición eficiente
+y equitativa supone un reto formidable para ciudadanos, empresas y gobiernos.
+El gran desafío al que nos enfrentamos es adelantamos a lo que va a
+pasar en el futuro con medidas adecuadas. Valga recordar que no hemos sabido
+abordar con anticipación una situación análoga cual es la globalización del
+comercio y las cadenas productivas ocurrida desde los años noventa del siglo
+pasado. La evidencia reciente sobre el efecto de la competencia de las impor­
+taciones en el empleo en ciertos lugares en Europa y los Estados Unidos
+demuestra cuán duros pueden ser estos impactos en ausencia de políticas que
+hubieran sabido anticiparse a las consecuencias. Buen ejemplo de éstas políti­
+cas son las que desarrollan los países nórdicos, basadas en la noción de “flexiseguridad”, que combina una alta protección social con contratos laborales fle15R. D o b b s , J . Manyika y J . 'Woetzel (2 0 1 5 ), N o ord in ary disru ption : T h efo u rg lo b a l fo r c e s b rea k in g a ll th e tren ds , M cK in sey G lo b a l Institute, P u b licv A ffairs, N ew Y ork, cap . 8.
+
+100
+
+
+
+xibles y políticas de formación y reinserción laboral muy activas. Quizás debiera
+mover a la reflexión que en naciones como Suecia los sindicatos se unan a las
+compañías en la activa defensa del libre comercio.
+Como ha destacado recientemente un estudio conjunto del Fondo Mone­
+tario Internacional, el Banco Mundial y la Organización Mundial del Comercio24,
+la integración comercial ha sido una herramienta poderosa para aumentar el cre­
+cimiento y mejorar los niveles de vida de la población mundial a nivel agregado.
+La apertura de los mercados ha generado un enorme aumento de la productivi­
+dad. Una mayor competencia promueve una expansión de las empresas más
+productivas y la contracción o el cierre de las menos eficientes. La liberalización
+del comercio pone a disposición de las empresas una gama más amplia de inputs,
+muchos de los cuales incorporan innovaciones, lo que aumenta la productividad
+y reduce los costes. Y más allá de las ganancias en términos de productividad,
+el comercio también hace que una variedad más amplia de bienes y servicios sea
+más accesible para los consumidores a precios más bajos, un canal que tiende a
+beneficiar especialmente a los hogares de menores ingresos.
+Sin embargo, la globalización es una moneda con dos caras. Los efec­
+tos adversos sobre ciertos individuos, compañías y comunidades pueden ser
+grandes y duraderos cuando no se han abordado de manera adecuada, proac­
+tiva y rápida. La apertura comercial desencadena una reasignación de recursos
+que cambia la demanda de mano de obra y de habilidades y puede afectar a los
+empleos y los salarios. El comercio permite que las empresas más productivas
+se expandan y les da incentivos para invertir, con frecuencia en bienes de capi­
+tal que incorporan avances tecnológicos. Ello a su vez tiende a aumentar la
+demanda de trabajadores cualificados, lo que ejerce una presión al alza sobre
+la prima que remunera las habilidades. Las dificultades que se oponen a la movi­
+lidad, el reciclaje y la flexibilidad laboral pueden hacer que el ajuste sea más cos­
+toso y prolongado. Estos impedimentos incluyen el coste de cambiar de ocupa­
+ción, de industrias o de región de residencia, así como las fricciones propias del
+mercado laboral. Así, consecuencias directas de una globalización huérfana de
+buenas políticas han sido un incremento de la desigualdad, la polarización, y,
+con ellos, el predicamento de los populismos.
+El análisis de las características de la Cuarta Revolución Industrial
+sugiere que existe una analogía entre la globalización y la transición al nuevo
+entorno digital, a lo largo de la cual muchos empleos desaparecerán, otros se
+transformarán y surgirán nuevas necesidades. Y si hay un malestar asociado a
+la globalización, ¿podría esperarnos el malestar de la digitalización? Tal y como
+
+u F ondo M onetario I nternacional, B anco M undial y la O rganización M undial del Comercio (2 0 1 7 ),
+
+M aking trad e a n en gin e ofg row tb fo r a ll, n o te prepared b y th e staff o f th e IMF, th e W orld B a n k an d th e W T O
+fo r th e G 20, abril.
+
+101
+
+
+
+destaca el historiador Harari: “Cuando los algoritmos mejoren el rendimiento de
+los humanos en la mayor parte de los empleos, miles de millones de personas
+serán expulsadas del mercado laboral y aparecerá una clase social de los que no
+son útiles. Por supuesto, nacerán nuevos empleos. No necesitaremos conductores
+de taxi o autobús cuando tengamos la conducción autónoma, no necesitare­
+mos traductores para la mayor parte de las tareas porque Google Translator lo
+hará mejor"2’ . Esta visión pesimista define uno de los polos del debate, y que
+suscita cierta adhesión entre los populistas.
+Ciertamente, una globalización desasistida de políticas laborales y socia­
+les activas ha sido uno de los determinantes del incremento de la desigualdad
+en los últimos treinta años. Mirando al futuro, una transformación tecnológica
+y digital no acompañada de acciones adecuadas por parte de los agentes eco­
+nómicos podría contribuir al aumento de la desigualdad en tres frentes:
+• Primero, desigualdad entre los trabajadores que tienen acceso a la tec­
+nología frente a los que no lo tienen. En un entorno de trabajos no
+estandarizados y en continuo cambio, los trabajadores que tienen la
+oportunidad de trabajar con las últimas tecnologías pueden poner en
+valor su experiencia actual y aprender nuevas habilidades. Por el con­
+trario, aquellos empleados que no puedan demostrar una experiencia
+efectiva con tecnologías tienen más difícil el acceso a determinados
+puestos de trabajo. Esto, a su vez, implica que estos trabajadores reci­
+ben una compensación salarial cada vez menor en el caso de que
+sigan trabajando. Sin experiencia acreditada, disminuyen los incenti­
+vos para invertir en el aprendizaje de nuevas habilidades. Por ejem­
+plo, trabajadores con experiencia real en big data, computación neuronal o blockchain, son perfiles muy demandados actualmente con
+salarios muy por encima del promedio, donde su demanda se basa
+más en experiencia más que en conocimiento teórico. Por el contra­
+rio, empleados de caja, telefonistas o mecanógrafos, pese a su cualificación de tipo medio, son fácilmente mecanizables, lo que presiona
+a la baja sobre su retribución y su demanda.
+Una visión extrema de esta creciente desigualdad tecnológica la apunta
+el historiador Harari en su libro Homo Deus2526, donde argumenta que
+mientras que los algoritmos presionan para sacar a los humanos del
+mercado de trabajo, la riqueza y el poder podrían concentrarse en las
+manos de una pequeña élite de propietarios de algoritmos, creando
+una desigualdad sin precedentes, social y política.
+
+25 https://retina.elpais.com / retina/ 2017/ 04/ 05/ talen to/ 1491388233_697594.htm l
+26 Y . H arari (2 0 1 7 ), H om o D eus, T aurus.
+
+102
+
+
+
+• Desigualdad entre empresas ante la diferente capacidad de unas y
+otras para enfrentarse a la transformación digital y poder seguir gene­
+rando empleos. No todas las compañías serán capaces de adaptarse
+eficientemente a las nuevas tecnologías, como la inteligencia artificial
+o la economía de las plataformas. La transición tecnológica supone
+un gasto muy elevado de inversión que se debe abordar con un hori­
+zonte de largo plazo, siempre plagado de incertidumbres. Al margen
+de contar con una visión innovadora, las empresas necesitan músculo
+financiero para adaptarse al nuevo entorno. Las pequeñas y media­
+nas empresas son las que tienen un panorama más complicado en la
+medida que los costes de financiación para hacer frente a las inver­
+siones tecnológicas a largo plazo son más altos para estas compa­
+ñías. Y necesitan también afrontar profundos cambios en el talento,
+la cultura y las relaciones laborales, hacia estructuras laborales más
+flexibles y líquidas, esto es, menos rígidas y burocráticas. La desigual­
+dad entre las pequeñas y medianas empresas frente a aquellas de gran
+tamaño, nacionales o multinacionales, que pueden afrontar y costear
+esta transición debe ser un aspecto merecedor de análisis en esta fase
+de transición.
+• Desigualdad entre países. A día de hoy son muchas las empresas que
+fabrican sus productos en países emergentes para abaratar sus costes.
+El auge de la inteligencia artificial llevará a que muchos de estos tra­
+bajos sean sustituidos por máquinas y robots, con lo que millones de
+empleos de países en vías de desarrollo dejarán de existir y aumentará
+probablemente la pobreza en aquéllos que durante los años de la globalización han protagonizado gran parte de los procesos manual de
+producción, y no hayan tenido la visión necesaria para invertir en for­
+mación e innovación. La consecuencia directa sería un aumento de la
+desigualdad global entre países desarrollados, con acceso a la tecno­
+logía, frente a los países emergentes no innovadores, con mano de
+obra poco cualificada y con acceso limitado a la tecnología.
+La consecuencia más relevante del incremento de la desigualdad que se
+atribuye a la globalización y el avance tecnológico, es el auge del proteccio­
+nismo. Este movimiento se refleja en una mayor presencia de partidos populis­
+tas en los parlamentos de casi todos los países desarrollados, y su influencia
+puede suponer un riesgo para la estabilidad económica y social, y dar origen a
+riesgos geopolíticos.
+La elección de Donald Trump es un ejemplo de los riesgos de un avance
+de la globalización y el desarrollo tecnológico cuando estos fenómenos no son
+inclusivos. Sus votantes no provenían de ciudades como Nueva York o Califor­
+nia, en las que la tecnología ha supuesto un aumento de productividad y de
+riqueza. Los votantes del actual presidente provienen fundamentalmente de esta­
+103
+
+
+
+dos como Ohio, Wisconsin y Pennsylvania, donde millones de empleos han
+sido sustituidos por la tecnología y cuyos ciudadanos han puesto en las procla­
+mas proteccionistas de Trump sus vanas esperanzas. Porque esos puestos de
+trabajo no volverán. Debemos tomar nota de estos eventos políticos para com­
+prender las consecuencias que puede tener la transformación digital en la más
+que probable destrucción y creación de nuevos empleos. La estabilidad global
+no puede permitirse un mayor auge de movimientos populistas. La lección es
+clara: tarea prioritaria de los gobernantes debiera ser no dejar atrás a aquellas
+personas cuyos empleos pueden quedar obsoletos a raíz de la Cuarta Revolu­
+ción Industrial, mediante políticas inclusivas de fomento y no a través del pro­
+teccionismo — comercial o tecnológico— , siempre empobrecedor.
+LA TRANSICIÓN AL NUEVO PARADIGMA LABORAL.
+¿CÓMO SERÁ D E RÁPIDO EL CAMBIO?
+
+La Cuarta Revolución Industrial presenta una característica diferencial
+respecto a las. tres anteriores. Los cambios que estamos viendo en los últimos
+años no siguen un patrón lineal sino exponencial, en analogía con a conocida Ley
+de Moore. Formulada en 1965 por el cofundador de Intel, Gordon E. Moore,
+lleva rigiendo desde hace tres décadas la capacidad de los procesadores y chips
+que todos llevamos en nuestros ordenadores, smartphones y otros equipos tec­
+nológicos. Esta ley caracteriza empíricamente el proceso por el que, cada dos o
+tres años, se duplica el número de transistores que caben en un microprocesa­
+dor27. Entre 1986 y 2007, la capacidad de computación de los transistores se ha
+duplicado cada 14 meses; la capacidad de ordenadores de uso general en el
+mundo se ha duplicado cada 18 meses; la capacidad de transmisión de informa­
+ción en las telecomunicaciones se duplicó cada 34 meses; y la capacidad de
+almacenamiento se duplicó cada 40 meses28.
+Este crecimiento exponencial también se refleja en el poder que tienen
+las máquinas para desarrollar tareas que hasta la fecha realizaban sólo los huma­
+nos. El impacto en la sociedad dependerá de la velocidad en la transición al
+nuevo paradigma del mercado laboral. ¿Nos dará tiempo a compensar los
+empleos perdidos con los trabajos de nuevo cuño? Esta es una legítima preo­
+cupación, a la vista de otra regularidad empírica. Así como la Primera Revolu­
+ción Industrial duró unos 60 años, la segunda concentró sus efectos en solo
+medio siglo y la tercera en unas cuatro décadas. ¿Cabe aventurar que nos encon­
+tramos en el primer tercio de una revolución exponencial que producirá sus
+
+27 E n 19 7 1 , u n ch ip p o d ía co n te n e r h asta 2 .3 0 0 transistores. H oy e n día c a b e n m ás d e 1 .0 0 0 m illo­
+n e s p o r unidad.
+28 M. H ilbert y P. López (2 0 1 1 ), "T h e W orld's T e c h n o lo g ic a l C apacity to Store, C o m m u n icate, and
+C o m p u te In fo rm atio n ", S cien ce, 3 3 2 :6 0 -6 5 .
+
+104
+
+
+
+principales efectos disruptivos en sólo 30 años? Si fuese así, navegar lo que Sán­
+chez Asiaín llamaba “acelerada aceleración” del cambio será muy exigente.
+Una encuesta realizada a más de 350 académicos y especialistas en inte­
+ligencia artificial llevada a cabo en 2016 estima que la tecnología tendrá la capa­
+cidad de desarrollar todas las tareas que actualmente realizan los humanos en
+los próximos 120 años. Con un horizonte más cercano, estiman que 2024 podrán
+traducir cualquier texto, en 2027 conducir un coche autónomamente con míni­
+mos riesgos, e incluso en 2049 escribir un libro supervenías29.
+El escenario más extremo es el conocido como la Singularidad Tecnoló­
+gica que ronda la mente humana desde los años 60. Este concepto se refiere a la
+posibilidad de que un día las máquinas inteligentes diseñen a su vez nuevas
+máquinas cada vez más potentes, y creen así una inteligencia muy superior a la
+nuestra. El escritor y director de Ingeniería de Google, Ray Kurzweil, fija esta fecha
+en 2045. El alcance de la Singularidad va más allá de una mejora en la capacidad
+de las máquinas. La tecnología se fusionará con la biología, dando lugar a un ser
+humano diferente con mayores capacidades de las que conocemos a día de hoy.
+Por ejemplo, mediante nanorrobots circulando por nuestra sangre llegaremos a
+determinar la fuente de las enfermedades. El envejecimiento tal y como lo cono­
+cemos será un hecho del pasado30. Sin embargo, estas predicciones futuristas no
+son inmunes a la crítica. Para que la Singularidad aparezca en 2045 no solo se
+necesita un hardware más potente en el que se ejecute el actual software muchí­
+simo más rápido. Es necesario crear un software mucho más inteligente, lo que
+requiere un conocimiento de los fundamentos de la cognición humana de cuya
+complejidad solo ahora comenzamos a ser conscientes. Quizás podamos encon­
+trar un respiro notando que ni el desarrollo de software ni el avance de la neurociencia se rigen por la ley de Moore. Baste recordar que frente al más de un trillón de conexiones sinápticas del cerebro humano, las máquinas sólo han sido
+capaces de simular unos centenares de sinapsis artificiales.
+Siendo “tecnooptimista”, como soy, creo que la transformación digital
+sustituirá trabajo manual por robots, pero este proceso será probablemente gra­
+dual, y más acusado en unas industrias que en otras. Más de dos siglos de his­
+toria, ya repasada más atrás, y el grueso de la teoría económica no permiten ser
+pesimistas. Y la teoría nos dice que la caída en costes y precios ligada a la inno­
+vación aumenta la renta disponible de la población y genera más demanda de
+bienes y servicios, deberán seguir produciéndose en mayores cantidades, al
+tiempo que progresivamente tanto los bienes no tecnológicos como los perfiles
+
+® K. G race, J . Salvatier (2 0 1 6 ), “W h e n w ill AI e x c e e d h u m an p erform an ce? E v id en ce from AI
+ex p e rts”, arXiv: 1 7 0 5 .0 8 8 0 7 v 2 .
+30 E. Pxjnset (2 0 0 8 ) “N os acercam o s a la singularidad”, entrevista a Kurzweil, e n https://www.eduardpu nset.es
+
+105
+
+
+
+laborales necesarios para producirlos deberían ir adaptándose al cambio. Un
+cambio que, además, generará nuevas profesiones, especialmente en los secto­
+res más innovadores. Este patrón es una regularidad que historiadores como
+James Bessen encuentran en las revoluciones anteriores31.
+Así pues, probablemente se eliminarán muy pocas ocupaciones al com­
+pleto durante la próxima década, pero la tecnología sí afectará a todas las pro­
+fesiones en mayor o menor medida32, dadas las distintas habilidades de las que
+cada una se compone, unas más rutinarias y robotizables, y otras menos. Lo
+importante no es la fecha exacta sobre la desaparición de un empleo, sino saber
+que ocurrirá en un horizonte cercano. Éste no es un asunto propio de las pelí­
+culas de ciencia ficción, sino que afectará a nuestros hijos y nietos en las pró­
+ximas décadas. Estas predicciones sobre el momento en el que será robotizada
+una profesión actual tienen que considerarse un ejercicio prospectivo, y no adi­
+vinatorio. Lo que pretenden no es predecir el futuro, sino escenificarlo para
+ayudarnos a preparar esa contingencia futura. La Cuarta Revolución Industrial
+supone un cambio radical al que la sociedad y los poderes públicos deberán
+hacer frente más pronto que tarde si hemos de coronar esta revolución tecno­
+lógica con tanto éxito como las precedentes.
+POLÍTICAS PÚBLICAS PARA MEJORAR
+EL ESTADO DE BIENESTAR EN LA TRANSICIÓN
+A LA CUARTA REVOLUCIÓN INDUSTRIAL
+
+¿Cómo deben responder las políticas públicas? La Cuarta Revolución
+Industrial supondrá un cambio de paradigma en el mercado laboral, con un
+impacto directo en el empleo, pero su efecto no sólo se circunscribirá a este
+ámbito, sino que afectará directamente al fundamento del Estado de Bienestar
+de la sociedad actual. Tal y como destacan Jones y Klenow, de la Universidad
+de Stanford, el bienestar social es una función de los nivel de consumo privado
+y público, del ocio disponible, de la equidad distributiva y de la esperanza de
+vida. Ceteris paribus, un aumento de cualquiera de estos términos implica un
+aumento del bienestar agregado33. Una mayor polarización del trabajo como con­
+secuencia de una transición abrupta al nuevo entorno, podría poner en riesgo
+los logros del Estado de Bienestar, al aumentar la desigualdad y la exclusión
+social.
+
+31J . B essen (2 0 1 5 ),
+
+op.cit.
+
+32 J . M anyika y otro s (2 0 1 7 ), “A F uture that W orks: A utom ation, em p loy m en t , an d p rod u ctivity”,
+M cKinsey G lobal Institute, e n e ro (v er m cK in sey .co m ).
+33 C. J ones y P. K lenow ( 2 0 1 © , “B e y o n d GDP? W elfare a cro ss co u n tries an d tim e”, A m erican E co-
+
+n om ic Review , v o l. 106, n° 9 :2 4 2 6 -2 4 5 7 .
+
+106
+
+
+
+Es por ello que una de las prioridades de las autoridades públicas
+debiera ser proteger a las personas, y no a los puestos de trabajo que queden
+obsoletos por una falta de demanda de sus servicios. La transformación digital
+debe ser inclusiva y beneficiar a la sociedad en su conjunto, y no solo a aque­
+llos que tienen un alto nivel educativo o que provienen de países desarrollados.
+¿Qué herramientas existen para atenuar los peores efectos de la Cuarta Revolu­
+ción Industrial?
+Los frentes esenciales sobre los que hay que actuar de manera simultá­
+nea son la inversión en capital humano, la gestión del talento, el diseño de polí­
+ticas de empleo efectivas, y las políticas de compensación temporal para los per­
+dedores, a fin de hacer frente a la exclusión y la desigualdad que se pudiera
+generar, y todo ello con una visión a largo plazo.
+En primer lugar, el sistema educativo debe evolucionar conforme lo haga
+la sociedad y anticiparse a las demandas del mercado laboral, con una doble
+visión: los futuros trabajadores y los empleados de hoy:
+• Un informe del World Economic Forum estima que un 65% de los
+niños que hoy ingresan en la escuela primaria seguramente trabaja­
+rán en profesiones inexistentes en la actualidad34. Conviene empezar
+a trabajar ya en el rediseño de la educación de los más jóvenes con un
+horizonte de diez o veinte años. Aquellos niños que acceden a día de
+hoy a la educación de primaria, no entrarán en el mercado laboral,
+como pronto, hasta 2027, y si pensamos en aquellos que accedan a
+la formación universitaria, el acceso a un trabajo remunerado será a
+lo largo de la década de 2030.
+El sistema educativo debe potenciar las capacidades técnicas en el
+área de ciencias, conocida como STEM (Science, Technology, Engineering y Mathematics) cuya demanda será mayor. Los empleos del
+futuro requerirán trabajar con máquinas más que contra ellas. Sin
+embargo, las capacidades cognitivas siendo necesarias, no serán sufi­
+cientes en el nuevo entorno. Se deben potenciar además, otras habi­
+lidades como son el trabajo en equipo, la creatividad, la empatia, la
+adaptabilidad a los cambios y la capacidad de razonar y pensar fuera de
+lo convencional (out-of-the-box thinking). Hablaríamos así más de
+capacidades STEAM, con la A representando el arte y la creatividad35.
+Estas habilidades son necesarias para resolver problemas no estruc­
+turados o extraer conocimiento de la nueva información. El valor
+
+34 W E O (2 0 1 6 ), “T h e future o f Jo b s : Em ploym ent, skills an d w o rk fo rce strategies fo r th e Fou rth
+Industrial R evolu tion ”, G lobal C hallen ge Insight Report, en ero .
+35J.Z . M elton (2 0 1 7 ), “A+: T h e c a se fo r adding art in tech n ical cu rrículum s” (n ew eq u ip m en t.co m )
+
+107
+
+
+
+añadido en los procesos productivos estará antes de la fabricación,
+en el I+D, y después de ésta, en su aplicación, no en la fabricación
+misma. Por lo tanto, el sistema educativo debe preparar a los jóve­
+nes para un futuro en el que usen y se complementen con la tecno­
+logía, a la vez que crean, innovan y emprenden.
+Muchas de estas habilidades no pueden enseñarse fácilmente en las
+aulas, por dos motivos. Primero, las inercias del sistema educativo y
+la limitada capacidad de éste de formar a los nuevos formadores en
+poco tiempo. Y segundo, por el reducido número de estándares que
+el desarrollo tecnológico ha producido hasta ahora, lo que dificulta el
+aprendizaje de las nuevas habilidades. Estas dos circunstancias real­
+zan la importancia del learning by doing, que combine aulas y forma­
+ción en el empleo (prácticas, formación profesional, formación dual,
+etcétera)36.
+• Junto a los empleados del futuro, otro segmento que requiere espe­
+cial atención son los trabajadores del presente. En un futuro no lejano,
+la vida laboral será el resultado de combinar diferentes trabajos y ocu­
+paciones a lo largo del tiempo en un entorno de continuo cambio, en
+la gig economy o en empleos a tiempo completo en los que se reque­
+rirá flexibilidad y reinvención constantes. Se debe potenciar la forma­
+ción continua en la edad adulta facilitando el reciclaje profesional.
+Este cambio no sólo implica a las instituciones públicas y privadas,
+sino también a los propios trabajadores. Acceder a la formación y
+cambiar de empleo en una fase intermedia de una carrera profesional
+debería ser tan normal como acceder a la universidad después de la
+educación secundaria.
+En segundo lugar, y en paralelo con la educación, es necesario dinamizar el mercado laboral a través de políticas activas y pasivas de empleo eficaces,
+que complementen a otras políticas en el desarrollo de un ecosistema innovador,
+que elimine las barreras existentes a día de hoy a la creación de empleo, a la
+inversión y al crecimiento de las empresas. Aquí habría que mencionar la finan­
+ciación de las start-ups, el diseño y aplicación de una estructura fiscal eficiente,
+la reducción drástica de los costes administrativos, la promoción de estándares
+tecnológicos abiertos, y la flexiseguridad en el empleo. Las políticas activas de
+empleo deben facilitar el tránsito de los viejos a los nuevos empleos. Mejorar y
+acelerar el proceso de emparejamiento entre vacantes y buscadores de empleo
+mediante una plataforma pública que utilice big data, aprovechando las econo­
+mías de escala y permitiendo anticipar las necesidades de las empresas y la for­
+
+36 J . B essen (2 0 1 5 ), o p . cit .
+
+108
+
+
+
+mación de trabajadores es una obligación, más que una necesidad, si queremos
+una transición relativamente indolora a la nueva era de las máquinas.
+¿Y qué hacer con quienes queden atrás, al perder sus empleos y ser inca­
+paces de encontrar otro, o con quienes obtengan muy bajos ingresos en la gig
+economy? Un debate ya añejo y recurrente es el del papel que podría tener la
+renta básica universal como forma de compensación para aquellas personas cuyas
+habilidades se estén quedando obsoletas, o aquellas que no alcancen a ganar un
+mínimo decente. La propuesta tiene posiblemente atractivo político como instru­
+mento de redistribución en momentos de escasez de empleo, elevada desigual­
+dad y una disminución de la participación de las rentas salariales en el PIB. En
+efecto, elimina el riesgo de pobreza absoluta, no estigmatiza socialmente a sus
+perceptores, aumenta el salario de reserva y, si se condiciona, puede incentivar
+la formación, entre otros efectos. Sin embargo, esta iniciativa presenta costes muy
+elevados, lo que da lugar a un dilema entre generosidad y eficiencia, asociada a
+la mayor presión fiscal. ¿Cómo se financia? ¿Con qué impuestos? ¿Quién va a tra­
+bajar en las ocupaciones menos cualificadas si ya tenemos lo mínimo para vivir?
+Responder a estas cuestiones requiere una evaluación ex ante y ex post de las
+diferentes experiencias piloto de la renta básica frente a sus alternativas, teniendo
+en cuenta los efectos de equilibrio general del pago de la renta básica y el coste
+de financiación. A título ilustrativo, Doménech37 ha estimado el coste neto de la
+renta básica en España, asignada a todos en un nivel equivalente a la renta nece­
+saria para evitar la pobreza, en unos 188 mil millones al año. Sin reducciones en
+otros gastos, se requeriría un aumento de la presión fiscal del 17%, lo que oca­
+sionaría una caída del PIB del 15,2%. En los términos planteados, se trata de una
+idea inasumible y de efectos contraproducentes.
+El debate sobre la renta básica es necesario y enriquecedor, pero qui­
+zás en una primera fase de la Cuarta Revolución Industrial, el desempleo y la
+desigualdad de origen tecnológico deben tener respuesta en otras políticas eco­
+nómicas. En particular, el Estado de Bienestar en Europa y España tiene toda­
+vía muchos márgenes de mejora gradual en políticas de igualdad de oportuni­
+dades, empleo, formación, etcétera38.
+FINANCIAR LAS POLÍTICAS DE TRANSICIÓN
+AL NUEVO ESCENARIO
+
+Dejando a un lado inicialmente ideas como la renta universal, la receta
+es conocida: adaptar el sistema educativo al nuevo entorno, aplicar unas políti­
+
+37 R. D oménech (2 0 1 7 ), “Algunas reflexio n esso b re la Renta B ásica U niversal”, BBVA R esearch, abril.
+58 J . Andrés , R. D omenech (2 0 1 7 ), “R eflexio n es so b re la d im en sió n so cial d e la U nión E u ro p ea”,
+
+BBVA R esearch.
+
+109
+
+
+
+cas de empleo efectivas, con elementos de flexiseguridad, así como utilizar las
+prestaciones monetarias temporales. Sin embargo, su implementación, como en
+el caso de la renta universal, puede tener unos costes que es necesario financiar,
+principalmente mediante impuestos. Impuestos que tienen un coste soportado
+por el sector privado, al reducirse su renta disponible y generarse distorsiones
+sobre sus decisiones de consumo, ahorro, inversión, oferta de trabajo y toma de
+riesgos, entre otras. El objetivo debería fijarse, por tanto, en alcanzar un deter­
+minado nivel de ingresos con una estructura fiscal eficiente que maximizase el
+crecimiento y la creación de empleo con la menor desigualdad posible. Con un
+sistema fiscal suficiente, equitativo y eficiente, el Estado del Bienestar se dedi­
+caría de lleno a sus funciones tradicionales de asegurar a los individuos frente
+a contingencias (desempleo, enfermedad, longevidad, etc.) y hacer efectiva la
+igualdad de oportunidades (educación y salud).
+Frente a esta exigente agenda, el debate suele liquidarse con propues­
+tas de aumentos adicionales de la presión fiscal. Ilustremos su efecto. Un estu­
+dio reciente realizado por Boscá, Doménech y Ferri demuestra que España se
+encuentra en la pendiente positiva de la curva de Laffer (ver Gráficos 6 y 7). Es
+decir, los ingresos públicos podrían aumentar hasta un 29% si el tipo impositivo
+implícito sobre el trabajo aumentara a su nivel de máxima recaudación, del 25%
+al 57%39. Ahora bien, es preciso recordar — como estos autores demuestran—
+que este aumento de los tipos impositivos aumenta los ingresos públicos, pero
+reduce el PIB en un 31% y el empleo en un 29%. Meros aumentos de la recau­
+dación impositiva disminuyen casi en un uno por uno la renta y el empleo, justo
+lo contrario de lo que necesitamos para hacer frente a los desafíos que plantea
+la Cuarta Revolución Industrial.
+Podríamos preguntarnos si no hay nuevas bases imponibles que puedan
+ayudar a mitigar el dilema. En los últimos meses, el debate sobre el impuesto a
+los robots ha alcanzado cierta intensidad. En mayo de 2016, una moción deba­
+tida en el Parlamento Europeo sugirió que los robots pronto podrían clasificarse
+como "personas electrónicas", cuyos propietarios estarían obligados a pagar
+impuestos en su nombre. En febrero del presente año, esos planes fueron recha­
+zados en última instancia, aunque el Parlamento propuso preparar una legisla­
+ción en toda la UE para regular el aumento de la robótica en una serie de áreas.
+El debate no es sólo político. El fundador de Microsoft, Bill Gates, ha defendido
+en repetidas ocasiones que este impuesto es inevitable40, por dos razones. Pri­
+mero, porque los robots suprimen la recaudación en impuestos y cotizaciones de
+los trabajadores reemplazados. Y segundo, porque ayudaría a reducir la veloci­
+dad de la automatización, quizás excesiva para adaptamos a ella. No son argu-*
+
+39 J . B osca , R. D omenech y J . F erri (2 0 1 7 ), “Estructura F iscal, C recim ien to E c o n ó m ic o y B ien esta r
+e n E sp a ñ a ”, UIMP, ju lio .
+* B . G ates (2 0 1 7 ), en trevista e n Q uartz.
+
+110
+
+
+
+G r á f ic o 7. C u r v a d e L a f f e r d e l t i p o i m p o s i t i v o
+
+G r á f ic o 6 . C u r v e d e L a f f e r d e l t i p o i m p o s i t i v o
+
+I m p líc it o s o b r e e l t r a b a j o
+
+im p l í c i t o s o b r e e i c a p it a l
+
+140
+
+0
+
+Q
+
+04
+
+0o
+
+n
+
+....
+
+0
+
+02
+
+84
+
+......................
+08
+
+m
+
+i
+
+i
+
+Tpc fti/M o r% M rn,xrx*‘ * u f \ /
+
+mentos del todo sólidos desde un punto de vista económico, pero deben ser
+escuchados. En especial tras haber recibido respaldo del Nobel Robert Schiller41
+y haberse introducido un desincentivo fiscal implícito a los robots en Corea del
+Sur, que ha limitado la deducibilidad de los gastos de automatización en el
+impuesto sobre los beneficios.
+La propuesta plantea numerosas incógnitas y dificultades conceptuales
+y prácticas. En primer lugar, ¿quién pagaría el impuesto y sobre qué hecho impo­
+nible? En términos impositivos no es fácil definir los elementos del impuesto.
+¿Qué es un robot? ¿Incluiría la definición a cajeros automáticos y máquinas
+expendedoras de bebidas, o a los que tienen cierta sofisticación? A priori, el
+impuesto lo pagarían las personas o las empresas propietarias y no los robots
+mismos. El robot no tiene salario y la tributación ya se aplica en el momento de
+su adquisición como cualquier bien de equipo, en el uso diario a través del con­
+sumo de energía y en su mantenimiento, y a fin de ejercicio por su contribución
+a la renta o al beneficio. La implicación de un nuevo impuesto a los robots
+podría suponer una doble imposición, y lo que es más importante, finalmente
+lo pagaría su propietario, o los consumidores a los que se le trasladase.
+Otro elemento de incertidumbre son las características que debería cum­
+plir este impuesto para que sea efectivo: su implementación debería ser global
+y homogénea. Sin embargo, esto claramente es una utopía, como lo ha venido
+siendo la llamada tasa Tobin. Una implementación divergente a nivel global ten­
+dría como resultado que las empresas buscaran múltiples fórmulas para eludir
+41 R. Schiller (2 0 1 7 ), “W h y robo ts shou ld b e taxed if they take p eo p le’s Jo b s ”, The G uardian , m arzo.
+
+111
+
+
+
+legalmente el pago del impuesto. Así, unos impuestos elevados sobre los robots
+(por ejemplo, en la producción de automóviles) sólo conseguirían que el empleo,
+las inversiones y la producción se trasladaran a otros países con impuestos más
+bajos.
+Finalmente, en una primera fase de la Cuarta Revolución Industrial como
+en la que nos encontramos, la imposición sobre los robots penalizaría la necesa­
+ria inversión que se requiere para innovar y maximizar todo el potencial que
+tiene la explotación integral de los avances tecnológicos de los últimos años.
+En una visión futurista, donde el mundo alcanzase la Singularidad y todo
+el trabajo pudiera ser realizado por los robots inteligentes, creadores de otras
+máquinas, los impuestos a los robots implicarían una pérdida de eficiencia en
+relación al objetivo de reducir la desigualdad. En ese mundo imaginario sin tra­
+bajo, quizás sería más eficiente que las personas fueran propietarias de los robots,
+por ejemplo, a través de lo que James Meade denominaba el “dividendo social”
+en 1938, o que el rendimiento de los activos o de los fondos públicos que inver­
+tirían en robots revirtieran a los individuos con cargo al presupuesto42.
+Una alternativa preferible y previa a subir los impuestos descansa en la
+mejora de la eficiencia del sector público. Un aumento de su eficiencia permi­
+tiría gestionar mejor, y con ello aumentaría la predisposición de la sociedad a
+asumir la presión fiscal. De otra forma, la sociedad no entendería un incremento
+de impuestos si no se dedicase, por ejemplo, a la reconversión de los trabaja­
+dores que pierden su trabajo por el avance de la inteligencia artificial o a un
+nuevo modelo educativo que dé a nuestros jóvenes las habilidades que deman­
+dará el nuevo entorno.
+CONCLUSIÓN
+
+Voy concluyendo. De la misma manera que los sismólogos no pueden
+predecir la hora y el lugar del próximo terremoto, los economistas no tenemos
+una bola de cristal para ver el futuro económico con precisión. Quizás tan solo
+podamos identificar problemas y tendencias. Las predicciones económicas no
+pretenden adivinar el futuro, sino escenificarlo para ayudarnos a identificar las
+medidas óptimas para maximizar sus beneficios y minimizar las fricciones que
+puedan surgir. La transformación tecnológica y digital en curso ha abierto un
+intenso debate acerca de sus efectos sobre el empleo y el Estado de Bienestar.
+Las opiniones al respecto están divididas. La evidencia de los últimos años indica
+
+<2J. G uerreiro , S. R ebelo y P. T eles (2 0 1 7 ), “Sh ou ld ro b o ts b e taxed?”, CEPR D iscussicm P aper, DP
+1 2 2 3 8 , a g o sto . El tra b a jo argu m en ta q u e u n im p u esto so b re lo s ro b o ts au m en ta e l salario d e lo s trab ajad o­
+res ru tin arios. C u and o e s p o c o c o sto so autom atizar, gravar lo s ro b o ts n o e s óp tim o.
+
+112
+
+
+
+que la robotización y la inteligencia artificial destruyen unos empleos mientras
+se crean otros y aumenta la productividad, con efectos muy heterogéneos por
+industrias, ocupaciones y países.
+Si en la Primera Revolución industrial no se rechazaron el ferrocarril, ni
+las máquinas de coser o de vapor, y en la segunda mitad del siglo XIX tampoco
+la electrificación, hoy en pleno siglo XXI, carece de sentido oponerse a la digitalización. En la historia de la humanidad el desarrollo tecnológico ha sido un
+proceso irreversible, y de todos, autoridades públicas, académicos y en general
+toda la sociedad, depende que el beneficio sea general, y no se concentre sólo
+en algunos.
+Las enseñanzas de la historia de las revoluciones tecnológicas y de la
+mejor teoría económica son claras. No tendremos éxito si nos allanamos impo­
+tentes ante los robots, o si nos afanamos en destruirlos como furiosos neoluditas. Ni siquiera si intentamos vencerlos en una competición fútil en la ejecución
+excelente de tareas rutinarias. Se trata de que los robots complementen nuestra
+capacidad única de creatividad, de pensamiento no estructurado y sináptico, de
+empatia, de conversación compleja, de trato con personas, y de identificación
+de patrones. Habremos tenido pleno éxito cuando, en palabras de Levy y Murnane, seamos capaces de “bailar con los robots”43.
+El reto para los ciudadanos, empresas y gobiernos consiste en poten­
+ciar y aprovechar de manera inclusiva todas las oportunidades que ofrecen las
+nuevas tecnologías en términos de bienestar y prosperidad. Es necesario un
+cambio de percepción en todos los ámbitos sobre los robots, la inteligencia arti­
+ficial y el big data. Para afrontar esta nueva era tecnológica es necesario un redi­
+seño profundo de las políticas de empleo, la educación y todas las medidas que
+garanticen la igualdad de oportunidades y la inclusión social. A nuestra socie­
+dad y sus instituciones les cumple irse modernizando a medida que progresa la
+tecnología, para que sus efectos disruptivos sean netamente positivos y se pon­
+gan al alcance de todos las oportunidades de esta nueva era.
+
+F. Levy y R. M urnane (2 0 1 7 ), “D a n cin g w ith robots: H um an skills fo r com p u terized w o rk ”, e n
+
+T hird W ay/Fresh T hinking (thirdw ay.org).
+
+113
+
+

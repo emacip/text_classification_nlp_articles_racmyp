@@ -1,0 +1,394 @@
+LA ACTUAL CRISIS FINANCIERA: ENSEÑANZAS
+PARA UN SUPERVISOR DE MERCADOS
+Por el Académico de Número
+Excmo. Sr. D. Julio Segura Sánchez*
+
+INTRODUCCIÓN
+Los mercados financieros están viviendo un periodo de fuerte inestabilidad e incertidumbre que, incluso, tiene rasgos de crisis de confianza y que ha tenido también su reflejo en los mercados españoles. Estos periodos tienden a propiciar reflexiones y análisis con el objetivo fundamental de identificar un posible
+elenco de medidas o soluciones a implementar. No esperen esto de mi intervención, que será la de un simple supervisor de mercados y conductas que carece de
+competencias en el tema de la supervisión macroprudencial.
+En esta intervención trataré de reflexionar sobre las implicaciones que,
+para la supervisión financiera, tiene la transformación que han vivido los mercados financieros de los últimos años. Para ello, dividiré la intervención en tres partes. En primer lugar, justificaré las razones por las que se regula, y por tanto supervisa, la industria financiera. Tras esto, haré una breve revisión de los cambios más
+recientes, utilizando como marco de referencia la situación actual de los mercados
+financieros. Y, por último, esbozaré algunas de las principales implicaciones que, a
+mi entender, trae consigo la nueva realidad de los mercados financieros para el adecuado desempeño de la función de supervisión, centrando el análisis, por razones
+obvias, en la supervisión de conductas, que es competencia de un organismo como
+la Comisión Nacional del Mercado de Valores (en adelante CNMV).
+
+* Sesión del día 13 de mayo de 2006.
+
+533
+
+
+
+RAZONES POR LAS QUE SE REGULA Y SUPERVISA
+EL SECTOR FINANCIERO Y LO QUE SE REGULA
+1. ¿Por qué se regula?
+La razón esencial por la que se regulan los mercados financieros es por
+la existencia de un fallo de mercado, es decir, una situación en la que el equilibrio competitivo no constituye una asignación eficiente. El fallo es la información
+asimétrica. Piénsese en la distinta información que sobre un activo financiero
+complejo (derivado) tienen el emisor y el inversor no profesional. O en la diferencia de información que tiene un banco que concede crédito a una empresa y
+ésta sobre la situación real de la misma. Si existe información asimétrica un resultado bien conocido —y premiado con un Nobel de economía— es que el equilibrio del mercado se logra a un precio superior y una calidad inferior a las eficientes. E, incluso, el mercado puede no existir para ciertos bienes. La información
+asimétrica es característica de los mercados financieros, pero no privativa de los
+mismos, lo que resulta evidente si pensamos en los servicios médicos o en los
+bienes duraderos de segunda mano, tales como las viviendas o los automóviles
+(los lemmons de Akerlof). El segundo motivo de la regulación financiera es la
+existencia de riesgos sistémicos, es decir, la posibilidad de que un problema puntual se propague a todo el sistema. Estos riesgos, que sí son privativos del mundo financiero, se deben a dos características del mismo: el papel que juegan las
+expectativas y las interrelaciones entre los agentes.
+Si las expectativas de todos los agentes son que el valor de un activo
+financiero va a caer, se producirá un desplome de dicho valor al tratar todos de
+vender sus tenencias del mismo. Si una empresa tiene problemas para hacer frente a la devolución de un crédito, esto afectará a la situación de solvencia del prestamista que, a su vez, restringirá el crédito a otros clientes o no devolverá deudas
+contraídas para financiarse con otras instituciones financieras. O piénsese en los
+riesgos derivados de fallos en las plataformas de compensación y liquidación que
+puede colapsar los sistemas de pagos.
+Estos son los motivos por lo que los sistemas financieros están regulados
+en todo el mundo y, además, la complejidad técnica de los sistemas hace que la
+supervisión recaiga sobre agencias públicas independientes y no sobre organismos
+de la Administración Pública tradicional.
+
+2. ¿Qué se regula y supervisa?
+Sintéticamente, cabe decir que la regulación financiera persigue tres
+objetivos:
+
+534
+
+
+
+i. la estabilidad financiera
+ii. el correcto funcionamiento de los mercados y,
+iii.la protección de los consumidores de productos y usuarios de servicios
+financieros.
+La estabilidad financiera se refiere, por una parte, a la estabilidad macroeconómica o agregada que se encomienda al respectivo Banco Central; y, por otra
+parte, a la solvencia de las empresas de servicios de inversión (bancos, cajas, compañías de seguros, agencias, sociedades de valores y gestoras de fondos y empresas de servicio de inversión) que en unos casos recae también sobre el Banco Central (v.gr: en Holanda o Australia), en otros sobre supervisores sectoriales de banca,
+de seguros y de valores (el sistema actual de España) y, en otros casos, sobre un
+supervisor único (v.gr: Reino Unido). Y los requisitos regulatorios tienen que ver,
+fundamentalmente, con temas relativos a recursos propios mínimos, provisiones
+para operaciones con riesgo estimable, garantías de los préstamos, etcétera.
+El correcto funcionamiento de los mercados se relaciona, fundamentalmente, con la eliminación de la ya mencionada información asimétrica. En general
+su responsabilidad recae sobre un supervisor especializado: en los casos del modelo de supervisión sectorial sobre el de valores y en el de supervisor único, obviamente, sobre el mismo. Los requisitos regulatorios son de dos clases. Por una parte, se trata de garantizar que las características relevantes de los activos financieros
+emitidos y cotizados sean bien conocidas por los potenciales compradores —tanto
+institucionales como minoristas—, lo que tiene que ver con el contenido de los
+folletos de emisión. Por otra parte, se trata de que la posesión de información privada relevante no pueda ser utilizada en beneficio propio o para distorsionar el
+mercado, extremo este que se relaciona con la publicidad de hechos relevantes, la
+prohibición de utilizar información privilegiada —sobre todo en operaciones societarias— y la suficiencia y exactitud de la información financiera y contable pública
+periódica.
+Por último, la protección de los inversores y, con mayor generalidad, de los
+consumidores y usuarios de productos y servicios financieros, persigue que éstos
+dispongan de toda la información necesaria para poder tomar sus decisiones de forma ajustada a su perfil de riesgos, edad, riqueza y demás características relevantes;
+que las prácticas de comercialización sean las adecuadas y que se encuentren parcialmente protegidos frente a situaciones extremas de tipo concursal o comportamiento doloso. La regulación en esta área se centra en temas de transparencia de
+los productos financieros ya comentados; en la aplicación de prácticas de comercialización adecuadas y, en su caso, en la existencia de diversos fondos de garantía (de depósitos, de inversión, etcétera.).
+
+535
+
+
+
+Sintetizando, cabe agrupar todas las actuaciones regulatorias financieras en
+dos grandes áreas: la solvencia, que da pie a la supervisión macro y microprudencial, y las conductas observadas por los agentes. Y dos grandes grupos de instrumentos: los que persiguen la transparencia y diseminación de la información y los
+que tratan de preservar condiciones estables de desarrollo de los negocios.
+
+DESARROLLOS RECIENTES DE LOS MERCADOS FINANCIEROS
+El desarrollo y crecimiento de los mercados financieros, de un tiempo a
+esta parte, ha sido más que notable. En España, las cifras son realmente espectaculares, tanto en términos de capitalización bursátil (triplicada en el último lustro),
+como de crecimiento del mercado de renta fija (sextuplicado en el mismo período),
+sin olvidar la creciente participación de las familias en los mercados la adquisición
+de nuevos productos financieros (sobre todo, fondos de inversión y otras figuras de
+inversión colectiva).
+Dos son los elementos más relevantes a mi entender para comprender estos
+cambios, ambos favorecidos por un proceso de intensa liberalización financiera iniciado hace ya más de dos décadas: la innovación y la globalización financieras en
+un marco de mercados liberalizados.
+El proceso de innovación financiera ha permitido la aparición de nuevos
+productos y, en definitiva, nuevos mercados, impulsados a su vez por la aparición y
+desarrollo de las nuevas tecnologías de la comunicación. Los derivados de crédito,
+tales como los credit default swaps, el desarrollo de la titulización de activos en sus
+múltiples modalidades o nuevos agentes como los hedge funds son algunos posibles
+ejemplos. Esto, en un marco muy liberalizado, ha traído consigo un aumento importante de la competencia por la doble vía del aumento de los volúmenes de contratación y del abanico de empresas que proporcionan servicios financieros.
+Por otra parte, la globalización financiera, entendida como la creciente
+integración de los mercados de capitales, ha cambiado las reglas del juego. Además
+del notable aumento de los flujos financieros transfronterizos, se ha observado una
+interrelación creciente entre los sectores en los que tradicionalmente se ha dividido el sistema financiero (banca, valores y seguros), dando paso a grandes conglomerados financieros cuya actividad abarca múltiples países y productos. En consecuencia, cabría decir que, en el mundo financiero, han desaparecido las fronteras
+tanto geográficas como sectoriales.
+Estos desarrollos han traído consigo apreciables beneficios económicos al
+ampliar la oferta de productos financieros, lo que ha permitido mejorar la gestión
+
+536
+
+
+
+del riesgo, aumentar las posibilidades de diversificación, e impulsar el desarrollo de
+nuevos mercados, facilitando con ello una mejor asignación de los recursos financieros. De hecho, estos cambios han sido uno de los elementos coadyuvantes al
+prolongado ciclo expansivo de los últimos años.
+Pero el proceso descrito no está exento de problemas. Así, el desarrollo de
+nuevos productos suele desplazar parte del peso de los mercados hacia áreas sometidas a menores niveles de supervisión y con escasa información, al ser áreas normalmente poco reguladas, lo que puede generar la aparición de instrumentos financieros
+que, más que buscar una mejor gestión del riesgo, están diseñados para beneficiarse
+del arbitraje regulador y supervisor. Asimismo, la globalización genera nuevos canales de transmisión de las perturbaciones financieras cuya magnitud e intensidad es,
+en situaciones críticas, difícil de valorar. En suma, la ampliación del abanico de productos financieros ha traído consigo una creciente complejidad y opacidad de algunos instrumentos que se reflejan en dificultades de valoración —agudizadas en épocas de crisis— y en una distribución final de los riesgos poco transparente.
+Como les decía al comienzo de la intervención, la actual situación de los
+mercados financieros internacionales es un buen ejemplo de lo que acabo de
+comentar.
+El origen de la crisis financiera internacional se localiza en los préstamos
+hipotecarios estadounidenses de baja calidad del segmento denominado subprime.
+Dichos préstamos, gracias a las técnicas de titulización de activos, utilizadas en principio para sacar del balance de los intermediarios financieros determinados riesgos,
+se han comercializado globalmente a través de productos estructurados de creciente complejidad, lo que ha dificultado conocer la magnitud y la localización del riesgo que estaban asumiendo los intermediarios. Esta incertidumbre generó desconfianza entre las propias entidades emisoras, lo que provocó un retraimiento de la
+liquidez en los mercados de crédito interbancario. La incertidumbre y las perturbaciones financieras han tenido su reflejo en los mercados de renta fija privada y de
+renta variable, afectando a su vez a agentes como las agencias de calificación crediticia o, incluso, a entidades del sector asegurador como son las denominadas
+monoline, lo que constituye un claro ejemplo de la ya mencionada desaparición de
+las fronteras sectoriales tradicionales.
+Puede decirse que la crisis actual de los mercados financieros muestra el
+optimismo de la hipótesis de que, bajo cualesquiera circunstancias, está garantizada la existencia de mercados fluidos y continuos para los instrumentos financieros
+complejos. Las dificultades de valoración hacen que los balances de los tenedores
+de instrumentos complejos pierdan transparencia, lo que dificulta la estimación precisa del riesgo que asumen las empresas individuales. Esto provoca, a su vez, que
+sea más fácil encontrar compradores de cestas de activos complejos que casar las
+
+537
+
+
+
+ofertas y demandas de los activos individuales que las forman y, puesto que el precio de estos activos complejos es difícil de estimar, terminan siendo negociados
+entre inversores especializados en operaciones de tipo buy-and-hold, por lo que
+terminan careciendo de liquidez.
+Tras un periodo de notable liquidez y reducida volatilidad, como el que
+hemos vivido en los últimos años, es comprensible esperar una re-evaluación de
+los riesgos ante cambios en las perspectivas económicas y financieras. El problema
+es que los cambios en el funcionamiento de los mercados y la incertidumbre generada por estos cambios pueden magnificar el proceso de ajuste.
+En definitiva, las transformaciones de los últimos años nos sitúan ante
+unos mercados financieros más complejos —con productos y agentes con características aún no totalmente definidas—, más interrelacionados —con mayor interdependencia entre sectores y entre economías— y, en suma, más difíciles de valorar
+y, en consecuencia, de supervisar su adecuado funcionamiento.
+Las recientes turbulencias financieras han recorrido el camino que va de
+una crisis inicial muy localizada tanto en un tipo de producto —las subprime— y
+un país —los Estados Unidos— a problemas de liquidez más generalizados, lo que
+ha terminado trayendo consigo una apreciable pérdida de confianza en los mercados financieros. Y, desde el punto de vista de la política económica, se sabe bien
+cómo enfrentar un problema de iliquidez, pero la panoplia de instrumentos para
+encarar problemas de confianza es mucho más reducida.
+
+IMPLICACIONES PARA LA SUPERVISIÓN FINANCIERA
+¿Qué implicaciones tienen estos cambios sobre la función que ejerce un
+supervisor de mercados y conductas de los agentes? He elegido tres aspectos, que
+me parecen los más relevantes: la organización institucional de la supervisión financiera, el papel de la transparencia y las implicaciones sobre el ejercicio diario de la
+función de supervisión de los mercados.
+
+1. La arquitectura de la supervisión financiera
+En primer lugar, la globalización financiera y la creciente interrelación
+entre sectores tienen un claro efecto sobre la organización institucional de la supervisión. Circunscribiré mis comentarios al modelo supervisor español, dejando para
+el posible debate los problemas de la arquitectura institucional de la supervisión
+financiera internacional.
+
+538
+
+
+
+El modelo supervisor español cabría calificarlo como de twin peaks imperfecto. Twin peaks en la medida que tiene casi totalmente separadas la supervisión
+de macro y microprudencial —que corresponde al Banco de España (BE)— y la
+supervisión de mercados y conductas —que corresponde a la CNMV. Imperfecto,
+porque la separación mencionada no es total y, sobre todo, porque la Dirección
+General de Seguros y Fondos de Pensiones (DGSFP) del Ministerio de Economía y
+Hacienda (MEH) es, al mismo tiempo, regulador y supervisor del área de seguros,
+algo incompatible con los core principles de Basilea, como ha señalado en algunas
+ocasiones el informe del FMI. Caben, por tanto, dos reflexiones. La primera, si el
+modelo de twin peaks es el más adecuado para la economía española; la segunda,
+en caso de serlo, qué cabría hacer para eliminar sus imperfecciones.
+El debate entre el modelo de supervisor único y el de twin peaks puede
+sintetizarse en tres aspectos, que creo suficientes para aceptar que el segundo es
+superior al modelo de supervisor único en el caso español.
+El primero, que el conflicto de interés inevitable que existe entre un supervisor de solvencia y uno de conductas, es mejor que sea explícito y resuelto con transparencia entre dos instituciones distintas a que se trate en el seno de un supervisor
+único que, inevitablemente, tendrá un sesgo sistemático en una u otra dirección.
+El segundo argumento a favor del modelo twin peaks es que tanto los objetivos como los modos de actuación de la supervisión de solvencia y de la de mercados y conductas son bastante distintos. Baste con pensar en la muy distinta función
+de la transparencia en ambas: un supervisor de solvencia debe ser extremadamente
+prudente en sus informaciones, el de conductas ha de serlo en el inicio de una investigación, pero parte de la eficacia de la posible sanción es su publicidad. O piénsese
+en el hecho de que las sinergias entre supervisión micro y macroprudencial son muy
+superiores a las tenues existentes entre la de solvencia y la de conductas.
+Por último, el calado de las modificaciones legales requeridas para cambiar el modelo, la reducción de las competencias del BE a la política monetaria y
+la supervisión macroprudencial, la desaparición de la CNMV y la refundición de la
+misma con dos terceras partes del BE en una nueva institución, que nacería sin tradición alguna y con la necesidad de compatibilizar dos culturas supervisoras distintas, desaconsejan, por razones de mera prudencia, cambios de tal magnitud.
+El segundo tema sobre la arquitectura supervisora española es si caben
+algunas mejoras. Y la contestación es afirmativa. La primera, ya apuntada, el reparto entre CNMV y BE de las competencias supervisoras de la DGSFP bajo el criterio
+de traspasar los temas de solvencia al BE y los de actuación en los mercados y conducta de los agentes a la CNMV. La segunda mejora consistiría en ciertos traspasos
+entre CNMV y BE: la solvencia de las empresas de servicios de inversión y la ges-
+
+539
+
+
+
+tión del Fondo de Garantía de Inversores deberían pasar a ser competencia del BE.
+Por su parte, el Servicio de Reclamaciones de clientes de entidades de crédito debería incluirse entre las competencias de la CNMV. Y, por último, espero que no me
+acusen de arrimar el ascua a mi sardina, también sería deseable un acercamiento
+del estatus institucional de la CNMV al que disfruta el BE, principalmente en materia de flexibilidad de selección de personal y de capacidad de diseño de carreras
+profesionales atractivas para personas con alta cualificación en temas financieros.
+No se trata, entiéndase bien, de que la CNMV tenga el mismo estatus de
+independencia que el BE, sino de recordar que el de este último es distinto sólo en
+lo que respecta a la política monetaria, pero no a la labor supervisora. Por eso, en
+la Ley de Autonomía del Banco de España hubo que atender a las exigencias del
+Banco Central Europeo en lo relativo a la independencia presupuestaria del BE respecto a los Presupuestos Generales del Estado —que no requieren ni aprobación
+previa del Gobierno ni se integran en los PGE— y en la duración y no renovabilidad del Gobernador y Subgobernador. Pero la no sujeción a la LOGSE del BE (y la
+asimétrica sujeción de la CNMV) nada tiene que ver con la autonomía en materia
+de política monetaria. El BE y la CNMV, en tanto que supervisores, son instituciones independientes en su toma de decisiones, pero no son autónomas en el sentido estricto, como demuestra el hecho de que, en ambos casos, sus sanciones son
+propuestas al MEH que es quien decide o no aprobarlas.
+
+2. La importancia de la transparencia
+El segundo aspecto en el que querría centrarme es resaltar el papel que juega la transparencia. La falta de información, junto con la escasa liquidez y heterogeneidad de determinados productos, como ya he señalado, dificultan de forma considerable el logro de una adecuada valoración de los riesgos, aumentan la incertidumbre
+y terminan afectando negativamente al propio funcionamiento de los mercados.
+Lo anterior cobra especial relevancia en momentos como los actuales, de
+elevada volatilidad en los mercados financieros, donde los movimientos de los precios se acentúan y se dificulta la discriminación.
+Las posibles distorsiones en los precios sólo empezarán a desaparecer ante
+un ejercicio de transparencia por parte de los agentes implicados que revele la
+información necesaria para la toma racional de decisiones de los inversores de forma que sean las adecuadas a sus características relevantes (perfil de riesgo, edad,
+riqueza). Ello implica, al menos, tres aspectos:
+i) la mejora de los métodos de valoración que, con frecuencia, al referirse a activos que carecen de precio de mercado, descansan en la estima-
+
+540
+
+
+
+ción de modelos cuyos resultados son muy sensibles a los inputs que
+se introduzcan,
+ii) la clarificación de posibles conflictos de interés, patentes, por ejemplo,
+en las agencias de rating, pero también en otras empresas que prestan
+servicios financieros y
+iii) el avance, en la máxima medida posible, hacia la estandarización de
+productos.
+Desearía que quedara claro que no estoy sosteniendo que la transparencia sea un valor absoluto que debe perseguirse a cualquier coste. Las situaciones a
+las que se enfrentan los supervisores son complejas y requieren de un adecuado
+equilibrio entre las distintas funciones que tienen encomendadas por Ley. La transparencia y la información hecha pública debe ser la necesaria para asegurar una
+adecuada comprensión de los riesgos, pues tan perjudicial puede ser en muchos
+casos un exceso de información, técnicamente compleja y difícil de comprender,
+como una información insuficiente.
+El objetivo es, por tanto, lograr fomentar la transparencia por la vía de
+hacer pública la información necesaria que permita un buen proceso de determinación de precios y proteja adecuadamente a los inversores; en suma, que mejore
+la confianza en el sistema financiero. Por poner algunos ejemplos de lo que me
+atrevo a calificar como información mejorable por excesiva. En los folletos de admisión a cotización de nuevas empresas existe un apartado relativo a los riesgos a que
+hace frente la empresa. Con frecuencia, la lista contiene no menos de docena y
+media de hipotéticos riesgos que incluyen, por ejemplo, retrasos en el suministro
+de proveedores, cambios del ciclo económico, aparición de nuevos competidores
+o subidas inesperadas de costes, que son riesgos tan generales —y que afectan a
+todas las empresas— que no solo no proporcionan información relevante sino que,
+al no ordenarse los riesgos por probabilidad razonable de ocurrencia, hacen más
+confusa la apreciación de los verdaderos riesgos que si la lista fuera menos exhaustiva. O el conocido ejemplo, ya antiguo, de la publicidad de las TAE en entidades
+de crédito en un folleto con decenas de páginas.
+También cabría hacer una reflexión sobre la transparencia en relación con
+la información financiera periódica de las empresas, tema en el que el reconocimiento preciso y en su integridad de los efectos reales de la situación actual sobre
+las cuentas de resultados y situación patrimonial de las empresas es, en mi opinión,
+un requisito indispensable para recuperar la confianza y conocer adecuadamente
+los riesgos de las empresas individuales.
+
+541
+
+
+
+3. El ejercicio de la función supervisora de la CNMV
+Por último, la situación descrita también tiene implicaciones en el ejercicio diario de la función de supervisión de la CNMV. Sobre todo, dadas dos características de su ámbito de actuación: el marco legal vigente y el contenido sistémico de su supervisión.
+Respecto al marco legal, querría comentar tres aspectos.
+El primero, la pléyade de nuevas piezas regulatorias que en fechas recientes se han incorporado a la legislación española:
+— la Directiva de Transparencia que ha afectado a temas tan relevantes
+como el contenido de los folletos de emisión, el régimen de hechos relevantes y la
+información financiera de las sociedades,
+— el Real Decreto de opas que ha eliminado las opas intencionales a
+priori y liberalizado el régimen de opas competidoras, dotando al proceso de mayor
+flexibilidad,
+— los cambios en la normativa contable, más basada en principios que
+en reglas detalladas, que exigen un intenso trabajo de implementación y compatibilidad internacional y, por último,
+— la Directiva MiFID que implica el fin del monopolio en la prestación
+de servicios y normas muy exigentes en las relaciones de las empresas que prestan
+servicios financieros con sus clientes.
+Todo esto implica, por una parte, una carga de trabajo excepcional para
+la CNMV que, en su primer Plan de Actividades publicado en octubre del año pasado, asumió compromisos que se materializan en no menos de 26 Circulares a implementar hasta fines de 2008 (más que en el septenio precedente). Y, por otra parte,
+un complejo proceso de adaptación de las empresas a la nueva regulación.
+El segundo aspecto a destacar en relación al marco legal es que, dada la
+velocidad a la que evolucionan las prácticas e instrumentos financieros, el marco normativo puede quedar obsoleto con relativa rapidez. Se trata de un problema por definición insoluble, dados los largos periodos y complejas negociaciones que conlleva
+cualquier modificación de normas legales de alto rango, mayor aún en el contexto
+europeo. Pero, en todo caso, cabe pensar en algunas medidas que podrían mitigarlo.
+Por ejemplo, podemos tratar de avanzar hacia normas de alto rango basadas en principios y orientaciones fundamentales, dejando todos los detalles de
+
+542
+
+
+
+implementación para los desarrollos reglamentarios y de circulares. De hecho, con
+frecuencia, la enumeración censal del tipo de operaciones o activos regulados en
+Leyes o Decretos Ley trae consigo que aparezcan enseguida nuevas operaciones o
+activos para tratar de eludir la regulación. Parece deseable, por tanto, dotarse cierta flexibilidad de cara al futuro.
+Esto no debe hacer albergar, en ningún caso, sospechas de arbitrariedad
+por parte de los organismos supervisores. Los criterios interpretativos generales de
+los supervisores deben ser conocidos por los supervisados, técnicamente correctos
+y, a ser posible, coherentes con las prácticas de otros supervisores internacionales
+para evitar el riesgo de deslocalización por arbitraje regulatorio. En este terreno,
+conviene ser especialmente sensible ante la introducción de requisitos nacionales
+adicionales a los exigidos con carácter general en la transposición de Directivas
+comunitarias.
+El tercer tema y último de índole jurídica tiene que ver con el muy mejorable diseño de la política sancionadora, tema en el que cabe comentar dos aspectos:
+los instrumentos de inspección en manos de la CNMV y el régimen sancionador.
+Respecto a los instrumentos, la CNMV se apoya esencialmente en las contestaciones de los afectados a requerimientos de información sobre las prácticas
+objeto de investigación, lo que implica que sólo en los casos de autoinculpación
+voluntaria —por razones obvias, casi inexistentes— la prueba es inequívoca. Sin
+entrar en detalles, la posibilidad de que la CNMV dispusiera de los medios de investigación reconocidos por la actual legislación a la Comisión Nacional de la Competencia mejoraría sustancialmente su eficacia.
+Respecto al régimen sancionador, el problema fundamental es que no
+existe posibilidad de exigir la restitución del daño causado. Esto dificulta la adopción de soluciones más equitativas y eficientes tales como lograr la restitución del
+daño y sancionar económicamente con mayor moderación frente a la alternativa de
+sancionar con dureza pero no compensar el perjuicio de los afectados por la práctica inadecuada. El segundo problema reside en que las faltas graves implican una
+sanción máxima equivalente al beneficio indebidamente obtenido, lo que es un
+incentivo a la comisión de faltas graves. No es difícil imaginar qué ocurriría si los
+contribuyentes que defraudan, en caso de ser descubiertos por la inspección de
+Hacienda, ésta solo pudiera exigirles el montante de la declaración correcta.
+Permítanme ahora hacer algunas reflexiones sobre la estrategia supervisora
+de la CNMV. La CNMV debe supervisar, porque así se lo exige la legislación vigente,
+a más de 8.000 entidades y agentes y todas las operaciones que realizan quienes operan en los mercados financieros. Esto, por sí solo, haría imposible que el ciclo supervisor completo de la CNMV pudiera tener una duración razonable —en torno a los
+
+543
+
+
+
+cuatro años según normas internacionales— casi con independencia de los medios
+humanos y materiales de que dispusiera y, menos aún, si se tiene en cuenta que su
+plantilla no alcanza las 400 personas de las que el 80% son técnicos.
+Sin embargo, no todo iban a ser problemas, el contenido sistémico de la
+supervisión realizada por la CNMV es limitado. Sus competencias en materia de solvencia se refieren solo a las empresas de servicios de inversión, que representan el
+0,4% del total de activos del sistema, por lo que el riesgo sistémico, aunque no el
+reputacional, es despreciable. El único componente de elevado riesgo sistémico se
+refiere a la supervisión de las plataformas de compensación y liquidación pero,
+afortunadamente, para contarlas sobran los dedos de una mano y su supervisión es
+continua con un ciclo supervisor completo que no excede los dos años.
+El número de potenciales supervisados pero, sobre todo, el limitado componente sistémico descrito, implica que la CNMV deba seguir una estrategia supervisora que utilice equilibradamente los recursos y que defina prioridades de supervisión en el corto y medio plazo. Esto implica que, en el caso de la CNMV, que no
+es un supervisor de solvencia, las inspecciones in situ exhaustivas de una empresa
+individual tienen menor importancia que la supervisión horizontal, a todas las
+empresas, de prácticas generalizadas consideradas particularmente perjudiciales, por
+lo que las prioridades deben definirse en función de los factores de riesgo que se
+consideren más relevantes y del tipo de prácticas inadecuadas más generalizadas
+que afecten al núcleo de los objetivos que la CNMV tiene encomendados por ley: la
+transparencia de los mercados, la correcta formación de precios y la protección de
+los inversores, tal y como reza el artículo 13 de la Ley del Mercado de Valores.
+Para ello, la CNMV dispone de un doble sistema de alarmas. El primero
+afecta al área de mercados y conduce al análisis de todos los movimientos de precios anormales en términos estadísticos y relativos a la volatilidad media del periodo objeto de estudio, además de a todas las operaciones societarias. El segundo
+afecta al área de entidades y conduce a la detección y posterior inspección de prácticas generalizadas inadecuadas de comercialización u organización interna.
+Como consecuencia de lo anterior, la CNMV considera con especial atención aquellas conductas o defectos de control interno que:
+1º puedan implicar un alto riesgo para los mercados,
+2º cuya erradicación tiene un alto efecto disuasorio sobre los agentes y
+que
+3º afectan en número y cuantía relevantes a los inversores y, por el contrario, no prioriza casos en los que exista una solución alternativa a la
+
+544
+
+
+
+incoación de expediente sancionador, en que los fallos sean imputables a cuestiones estrictamente técnicas o en que el daño se encuentre acotado y no genere alarma en los mercados.
+Ejemplos claros, entre otros, de prioridades supervisoras son, con arreglo
+a estos criterios, la utilización de información privilegiada por parte de iniciados, la
+emisión de información engañosa posteriormente desmentida para afectar a los precios de los activos, las prácticas incorrectas de comercialización a través de la red
+propia de las entidades de crédito o la calidad insuficiente de las valoraciones de
+activos que carecen de referencia directa de mercado.
+Ya termino.
+El objetivo de mi intervención ha sido comentar algunas de las implicaciones de los cambios que se han producido en los últimos años en la industria financiera sobre el marco regulador y la actividad de un organismo supervisor como la
+CNMV. El proceso de innovación financiera, con la aparición de nuevos productos,
+tipos de empresas y técnicas de gestión, en un sistema cada vez más interrelacionado, han permitido una mejor gestión del riesgo y aumentado las posibilidades de
+diversificar la inversión. Pero, al mismo tiempo, estos cambios demandan una
+mayor atención para mantener el adecuado funcionamiento del sistema y la confianza en los mercados, como reflejan algunos aspectos de la actual situación financiera internacional.
+Todo esto ha obligado a los supervisores financieros a replantearse
+muchas facetas de su trabajo y a ser más sensibles al objetivo de guiar sus actuaciones por la evaluación del riesgo, lo que tiene implicaciones sobre el modelo más
+adecuado de arquitectura supervisora financiera, sobre cómo compatibilizar la rápida evolución de los mercados con el marco normativo vigente y sobre la definición
+de la estrategia supervisora más adecuada. Espero haber dado algunas pistas sobre
+las respuestas a estos interrogantes que, según mi opinión, personal y discutible,
+considero más adecuadas.
+Nada más y gracias por su atención.
+
+545
+
+
+
+

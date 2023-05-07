@@ -1,0 +1,1626 @@
+LA JUSTICIA EN LA CONSTITUCIÓN DE 1812
+Por el Académico de Número
+Excmo. Sr. D. Óscar Alazaga Villaamil*
+
+I. CONFESIÓN PREVIA DE ALGUNAS CONVICCIONES
+Es de justicia que en nuestra Academia doscientos años después
+tengamos gestos sinceros de reconocimiento hacia el gran esfuerzo constituyente de nuestra historia, el que tuvo un impacto universal. Como bien
+sabemos, su influjo, cuando no su aplicación estricto sensu, dejó huella inolvidable en Portugal, el Reino de las dos Sicilias y Cerdeña, Noruega, Rusia
+y, sobre todo, en las naciones americanas surgidas de nuestro viejo imperio1. Y este es el comportamiento, de honrar a lo que es parte esencial del
+mejor liberalismo español decimonónico, que hemos procurado seguir al
+aportar este modesto trabajo con el que rendimos tributo al primer esfuerzo
+modernizador de nuestra convivencia en el marco de un Estado de Derecho
+regido por una Constitución normativa. Y lo hacemos para que nuestra
+pluma discurra, no sobre aquellos preceptos del texto gaditano que fueron
+valiosos en otro momento pero que hoy se han devaluado hasta la condición de antiguallas, cuando no de fósiles, sino sobre su Título V (“De los Tribunales y de la Administración de Justicia”) rico en una serie de aportaciones que han conservado lozanía a la luz de su influjo en nuestra Constitución
+vigente. Pero antes recordemos que Toymbee sugirió sagazmente que el
+
+* Sesión del día 5 de junio de 2012.
+1
+Vid. B. Mirkine-Guetzévitch, “La Constitution espagnole de 1812 et les debuts du liberalisme européen
+(Esquisse d’histoire constitutionnelle comparée)” en Introduction à l’étude du Droit comparé, Librairie G. de Droit et de
+Jurisprudence, París, 1938, Vol. II, pp. 211 y ss.; J. Ferrando, “Vicisitudes e influencias de la Constitución de 1812”, en
+REP, año 1962, nº. 126, pp. 195 y ss. Ferrando, Juan, La Constitución española de 1812 en los comienzos del resorgimiento,
+Consejo S. de Investigaciones Científicas, Delegación de Roma, 1959; Ramos, Demetrio, “Las Cortes de Cádiz y América”,
+en REP, nº. 126, pp. 433 y ss.; Stoetzer, Otto C., “La Constitución de Cádiz en la América española”, en REP, núm. 126,
+pp. 641 y ss.; y I. Fernández Sarasola,, “La Constitución española de 1812 y su proyección europea e iberoamericana”,
+en Fundamentos, año 2000, nº. 2, pp. 359 y ss.
+
+347
+
+
+
+historiador confesase en su prólogo sus prejuicios para que el lector los
+conociese. Empezaré así por reconocer, en parcos brochazos, mis pautas
+valorativas sobre la obra constituyente doceañista.
+Primer punto de partida: la Nación española es un concepto muy
+anterior a 1810. Es un término en uso desde el Renacimiento. Pero en Cádiz
+por vez primera la Nación es titular de la soberanía aunque en el marco de
+la lectura escolástica que de ella hizo Muñoz Torrero. Y esta es la clave de
+la bóveda de la “revolución española”. Me remito al librito de Flórez Estrada:
+“Introducción para la Historia de la Revolución de España”, Londres, 1810.
+Cierto es que los conceptos de Soberanía nacional y Constitución política,
+(como sostuvieron José Antonio Maravall2 y Antonio Elorza3) eran manejados por algunos de nuestros ilustrados aun antes de la revolución francesa.
+Pero solo en Cádiz se construye su lectura moderna a la española. Argüelles al rebatir el origen de la soberanía rechaza las tesis contractualistas roussonianas, por “metafísicas” (sic) percibiéndose que conocía bien el “Tratado
+de los Sofismas políticos”4 de Jeremy Bhentam (escrito en Londres, 1807) y
+en sus palabras y en la de otros diputados se observa su formación escolástica: conciben la nación como un “cuerpo místico” y conocen las aportaciones de Vitoria, Mariana, De Soto, Covarrubias, Vazquez de Menchaca y sobre
+todo la tesis de Suarez cuando en nuestro Siglo de Oro afirma que “La potestad civil cuando se halla en un hombre o príncipe por derecho legítimo y
+ordinario, procede de la comunidad próxima o remotamente y no puede
+ser de otro modo para que tal potestad sea justa”5.
+Segunda premisa: La comprensión del enfoque historicista, en nuestra opinión, permite entender la singularidad de aquel proceso constituyente. Se afirma que el pueblo español tiene una tradición de vida pública
+y disfrute de libertades superior al francés. Eso era muy cierto en la aprobación por las Cortes de los tributos y en el control del gasto así como en
+muchas otras facetas del Derecho público dotadas de algunas raíces medievales, pero no en todas. En los debates de Cádiz se aspira a una legitimidad
+enraizada en nuestro Siglo XI, en las Juntas y Concilios celebrados en tiempos de los visigodos y en una serie de grandes hitos medievales, entre los
+que destaca el “Líber Iudiciorum”. La revolución española se apoya en su
+lectura de la historia de nuestras Cortes, como creen que en el Siglo XVII
+habían hecho los ingleses.
+
+2
+Maravall, J. A., “Mentalidad burguesa e Idea de la Historia en el Siglo XVIII”, en Revista de Occidente, tomo
+XXXVI, año 1972, pp. 250 y ss.
+3
+Elorza, A., La ideología liberal en la Ilustración Española, Madrid, 1970, Capítulo IV. Cfr. Varela, J., La Teoría
+del Estado en los orígenes del constitucionalismo hispánico (las Cortes de Cádiz), Ed. CEC, Madrid, 1983, pp. 44 y ss.
+4
+Vid. Varela, J., locus cit., p. 43.
+5
+Suarez, F., “Tratactus de legibus ac Deo legislatore” 1612 Libros II, 19; III, 2; III, 3 a 11; y III, 19.
+
+348
+
+
+
+Para muchos constituyentes de Cádiz Inglaterra es mejor tierra de
+libertades que la Francia invasora. Pensaban que la Constitución inglesa era
+la historia misma de Inglaterra puesta en acción, y que el sistema constitucional de Montesquieu o el de Benjamín Constant no eran sino reinterpretaciones de la Constitución inglesa. Aquellos diputados eran historicistas,
+unos por convicción (como razonaron bien Sánchez Agesta6 y Pérez Prendes7) y otros por pragmatismo (como apuntaron Tierno Galván8 y Fernández Almagro9), que buscaban facilitar la aceptación de la Constitución por
+las gentes de cultura tradicional. Para el liberalismo doceañista era necesaria una Constitución escrita para lograr la limitación jurídica del poder al
+servicio del bien común y de los derechos históricamente percibidos como
+necesarios (no estrictamente disfrutados en la historia). En términos ciceronianos, creían que la Historia era la gran maestra de la vida no sólo en
+cuanto a soluciones, sino también en cuanto a errores a subsanar.
+Y tercero: La Constitución de Cádiz será así fruto de la combinación de dosis de escolasticismo, mimetismo hacia las llamadas “convenciones constitucionales”10 inglesas y hacia fórmulas norteamericanas y francesas (vistas frecuentemente como versiones escritas de la Constitución
+histórica inglesa), así como aportaciones de un historicismo inspirador del
+restablecimiento o del establecimiento de instituciones políticas modernas.
+Y será también fruto del pensamiento español de la ilustración y de la reflexión empírica. Este último enfoque fue capital, como veremos, al replantear
+la Administración de la Justicia
+Expondremos como los constituyentes reunidos en la Isla de León
+—en un 40% juristas eclesiásticos o laicos— se plantean la organización y
+funcionamiento de la Justicia. Partieron de una idea fuerza: la necesidad de
+garantizar la independencia de los jueces.
+II. EL GRAN OBJETIVO DOCEAÑISTA:
+UN PODER JUDICIAL INDEPENDIENTE EN EL SENO
+DE UN ESTADO DE DERECHO
+Los constituyentes doceañistas introdujeron modificaciones sustanciales en la Administración de Justicia desplegada en España durante el largo
+período histórico de la Monarquía Absoluta. El giro fue capital desde la óptica
+
+Sánchez Agesta, L., Historia del Constitucionalismo español, Ed. IEP, Madrid, (completar), pp. 48 y 49.
+Pérez Prendes, Curso de Historia del Derecho español, Madrid, 1973, pp. 667 y 668.
+Tierno Galván, E., Tradición y modernismo, Ed. Taurus, Madrid, 1962 pp. 146-151.
+9
+Fernández Almagro, M., Orígenes del Régimen Constitucional en España, Ed. Labor, Madrid, 1976, pp. 81-83.
+10
+Dicey, A.V., Introduction to the Study of the Law of the Constitution, 10ª ed., Ed. ECS, Wade, 1959.
+6
+7
+8
+
+349
+
+
+
+no ya del Derecho procesal, sino desde la perspectiva de los cimientos de la
+nueva Monarquía constitucional, que pasará a regirse por los parámetros de
+un auténtico Estado de Derecho, que, —según es doctrina generalmente aceptada en el Derecho constitucional contemporáneo—, es un edificio construido sobre tres pilares básicos: Imperio de la ley y sumisión de los ciudadanos y de los poderes públicos al principio de legalidad; garantía jurídica
+de la observancia de los derechos y libertades proclamados; y —lo que aquí
+más nos importa— aceptación de las consecuencias básicas de la doctrina de
+la división de poderes y especialmente institucionalización de un poder judicial independiente y sólo sometido al imperio de la ley.
+Se aspiraba a que estos dogmas laicos liberales fuesen asumidos no
+sólo por la burguesía ilustrada, más o menos afrancesada, sino por todos los
+españoles. A tal fin se hizo un esfuerzo por presentar la idea de un poder judicial independiente, a lo mismo que tantas otras ideas fuerza del liberalismo
+más depurado de la época, como una mera actualización de instituciones y
+prácticas políticas con hondas raíces en el sistema político de Castilla, Aragón
+y Navarra, a partir del Siglo XI. Mucho se ha escrito sobre que en aquel afán
+se tergiversó y forzó la historia no poco y sin duda ello es cierto11. No obstante,
+a los fines que se perseguían, el enfoque historicista de los argumentos manejados por los Diputados reunidos en Cádiz era prudente e inteligente: El nuevo
+Estado de Derecho debía resultar aceptable para la población de cultura tradicional y, para alcanzarlo, era preferible abandonar la arriesgada vía revolucionaria, a la francesa, y seguir el más seguro camino evolucionista, a la
+inglesa, si bien se deseaba que la nueva vía española, aunque de inspiración
+anglófila, no transitara por guerra alguna del Parlamento contra la Corona.
+Dicho en otros términos, de una parte, de Francia parecía que se
+podía tomar como referente, aunque siempre por la tácita, el modelo de la
+casi inaplicada Constitución monárquica de 179112. De otra, era verdad que
+
+11
+Vid., por todos, , J.A Escudero., “Estudio introductorio” a, F Martinez Marina., Teoría de las Cortes, Ed.
+Junta General del Principado de Asturias, Oviedo, 1996, Vol. I, pp. CIV y ss.
+Para una impugnación desde el Derecho constitucional de nuestro siglo XX del envoltorio historicista gaditano, puede consultarse a, A Posada., Tratado de Derecho político, Tomo II, Lib. G. de Victoriano Suárez, Madrid, 1935.
+Citamos por la 5ª ed., revisada, pp. 277 y s. Donde se parte de sentar la tesis de que “La Constitución, a pesar de cuanto
+se dice en el Discurso preliminar, y en el Preámbulo, es notoriamente de carácter revolucionario, abstracta, apriorista”,
+lo que Posada se esfuerza en justificar a continuación con bastante detalle.
+12
+La Constitución francesa de 3 de septiembre de 1791 era fruto de un singular equilibrio entre las aportaciones de una mayoría asamblearia denominada unas veces “nacional” y otras “patriótica”, los tres astros britanizados: Mounier, Bergasse y Lally-Tolendal y, por último, personalidades comprometidas con Luis XVI y con la institución
+monárquica. Equilibrio complejo y de geometría variable dado que los miembros de la Asamblea no estaban sometidos a disciplina de grupo.
+Sobre esta constitución, Vid. J. J. Chevallier, Histoire des institutions politiques de la France. De 1789 a nous
+jours, Ed. Dalloz, París, 1952, pp. 62 y ss. En español: R. Martucci, “El modelo del noventa y uno. A propósito del modelo
+francés de transición pacífica del Antiguo al Nuevo Régimen constitucional (1789-1791)”, en J. M. Iñurritegui y J. Mª.
+Portillo (Eds.), Constitución en España: Orígenes y destinos, Ed. CEPYC, Madrid, 1998, pp. 61-77.
+
+350
+
+
+
+nosotros no habíamos vivido en el Siglo XVII la Revolución del Parlamento
+inglés, aunque también cabía pensar que los ingleses habían exigido en
+aquel trance a la Corona unas prerrogativas para el Parlamento, que sus tribunales solo parcialmente habían disfrutado antes, en nombre de una presunta tradición histórica. Al igual que el Bill of Rights inglés de 1689 se presentó como una actualización y complemento de la Carta Magna de 1215,
+cuya naturaleza jurídica, como concesión de franquicias medievales a ciertos grupos en determinados supuestos, era bien diferente13. Pero el evolucionismo juridico político británico encerraba virtudes que no puede extrañar que despertaran una corriente mimética entre nuestros liberales
+gaditanos que deseaban ser constitucionalistas evolucionistas a la española,
+ajustando, como escribió Fernández Almagro, la recepción de instituciones
+foráneas liberales a una “vocación tradicional” deseosa de revalidar instituciones y usos políticos de los viejos reinos hispánicos, oscurecidos por la
+dinámica del absolutismo14. Y, se buscaba que una Constitución concebida
+como conexión con una tradición idealizada de libertades operase como un
+elemento legitimador de una transición pacífica hacia un sistema político
+moderno, evitando una contienda civil, como la vivida hacía dos generaciones por los ingleses, como sostendrá en 1835 el propio Argüelles15; y actuase
+al tiempo como un factor de concordia, de afán integrador. Pudiera decirse
+que nuestros constituyentes doceañistas se adelantaron a Smend al pensar
+que la relación entre el Estado y sus elementos integrantes es una dialéctica
+espiritual que inspira un complejo proceso de integración, en que desempeña un importante papel la propia Constitución16.
+Pues bien, de los tres pilares del Estado de Derecho que, según
+hemos anotado, implantó la Constitución de 1812, pasamos a ocuparnos del
+tercero, la independencia de jueces y tribunales, (centrado en su Título V).
+Es al que los constituyentes dedicaron menos debate público (otra cosa fueron más que probablemente las amplias discusiones fuera del Salón de sesiones) y al que tradicionalmente se ha prestado menos atención y estudio17,
+pese a su notoria importancia.
+
+13
+Cfr., F. W. Maitland, The Constitutional History of England, London, 1908, pp. 35 y ss., J. E. A, Jolliffe,
+The Constitutional History of England from the settlement to 1845, London, 1937, p. 26; y, en español, M García Pelayo,
+Derecho constitucional comparado, Ed. Revista de Occidente, Madrid, 7ª ed., 1964, pp. 252-257.
+14
+M. Fernández Almagro, “Del antiguo régimen a las Cortes de Cádiz”, en Revista de Estudios Políticos, núm.
+126, año 1962, p. 19.
+15
+A. Argüelles, Examen crítico de la reforma constitucional que hicieron las Cortes Generales y extraordinarias desde que se instalaron en la isla de León, el día 24 de septiembre de 1810, hasta que cerraron en ádiz sus
+sesiones en 14 del propio mes de 1813, Madrid, 1835, Tomo I, introducción y Tomo II, p. 94.
+16
+R. Smend, Verfassung und Verfassungssecht, Ed. München U. Leipzig, 1928. Hay traducción española:
+Constitución y Derecho Constitucional, Ed. CEC, Madrid, 1986, p. 62.
+17
+Así, por ejemplo, E. Tierno Galván, cuando publica bajo el título Actas de las cortes de Cadiz, un amplio
+resumen de las mismas, omite toda referencia al debate del Título V de la Constitución. Ed. Taurus, Madrid, 1964, 2 vols.
+
+351
+
+
+
+Pasemos a contextualizar la situación preconstitucional de la Justicia, a manera de pórtico de la solución evolucionista nominal, a la española.
+III. LA ESTACIÓN DE PARTIDA:
+LA JUSTICIA EN LA MONARQUÍA ABSOLUTA
+Es bien sabido que, cuando Juan Bodino publicó en 1576 su célebre obra Los seis libros de la República, para robustecer la posición del
+Monarca francés, definió la soberanía como un poder supremo, cuyo atributo primario era la potestad de dar leyes, figurando entre los restantes atributos del soberano el poder de designar magistrados y el de actuar como
+tribunal de última instancia. Y ciertamente para Bodino tales magistrados
+estaban investidos de muy escasa independencia, pues nos explica con detalle la obediencia que los magistrados deben al Rey18. Hay que constatar en
+honor de la verdad que, en la materia que nos concierne, Bodino no descubrió ningún océano, pues las más viejas monarquías venían concibiendo
+a los reyes como “Justicias”. Así entre nosotros, el Fuero Viejo de Castilla
+considera la Administración de la Justicia como uno de los atributos del Rey
+al disponer: "Estas cuatro cosas son naturales al Señorío del Rey, que non
+las debe dar a nenguno ome, nin las partir de sí y ca pertenescen a él por
+razón de señorío natural: Justicia, Moneda, Fonsadera e suos yantares"19.
+Pero no deja de ser cierto que las tesis recogidas por Bodino rigieron en el continente europeo, hasta la Revolución francesa, incluyendo su
+introductio, la ilustración.
+Sin embargo, como es conocido, en Inglaterra la Monarquía coexistió con un complejo de ideas e instituciones políticas que provenían de su
+tradición medieval. Por lo que las relaciones entre el Rey y el Parlamento o
+el Rey y sus tribunales asumían unas limitaciones y una suerte de equilibrios que habían desaparecido en el continente. Y así en el primer tercio del
+Siglo XVII inglés, cuando se gesta el clima que desembocaría en la primera
+guerra civil, la cuestión del papel que pueda corresponder al Rey en la
+Administración de la Justicia se convierte en crucial, tan pronto como el Rey
+Jacobo pretende desligarse del equilibrio consuetudinario para ampliar la
+prerrogativa regia en esta materia.
+
+18
+J. Bodino, Los seis libros de la República, 1576, Citamos por trad. esp. de Bravo, P, Ed. Aguilar, Madrid,
+1973, pp. 112-118.
+19
+Fuero Viejo de Castilla, Libro I, Título I, Ley Iª.
+El Ordenamiento de Alcalá (1348), en su Ley 2ª del Capítulo XXVII, denomina a esta prerrogativa regia
+"Mayoría de Justicia".
+
+352
+
+
+
+Es pertinente recordar como el cabeza de la oposición a la intentona
+absolutista fue el Justicia Mayor, Sir Edward Coke, que consideraba fundamental salvaguardar la reverencia del common law, en cuanto norma fundamental del reino, que sólo los jueces podían interpretar. El propio Coke
+dejó constancia de una de sus conferencias con el Rey en la siguiente descripción: "Entonces el Rey dijo que creía que el Derecho se fundaba en la
+razón, y que él y otros tenían razón del mismo modo que los jueces. A lo
+que respondí que cierto era que Dios había dado a su Majestad excelente
+ciencia y grandes dotes naturales; pero que Su Majestad no estaba versado
+en las leyes de su Reino de Inglaterra y que las causas que conciernen a la
+vida, o a la herencia, o los bienes o las fortunas de sus súbditos no deben
+decidirse por la razón natural, sino por la razón artificial y juicio del Derecho, el cual Derecho es cosa que requiere largo estudio y experiencia antes
+de que un hombre pueda alcanzar su conocimiento... con lo cual el Rey se
+ofendió grandemente, y dijo que en tal caso él estaría bajo la ley, cosa que,
+afirmó, era traición sostener; a esto repuse que Bracton decía: Quod rex non
+debet esse sub homine, sed sub Deo et lege" 20.
+No debemos adentrarnos aquí en la atractiva cuestión de cómo en
+la trayectoria de Coke podemos encontrar, a la par, un jurista, que a principios del S. XVII, estaba inmerso en el pensamiento medievalista y que, por
+otro lado, puso, en alguna de sus resoluciones las bases del sistema norteamericano de revisión judicial de constitucionalidad de las leyes. Sólo podemos constatar parcamente que a principios de 1641 el Parlamento inglés
+abolió los tribunales extraordinarios y que la victoria de aquel en sus guerras contra el Rey hizo que Inglaterra se pareciese a Francia en que existió
+un sistema jurídico centralizado, aunque con la diferencia de que al frente
+del mismo no estaba el Rey sino el Parlamento.
+La exposición anterior nos ha parecido oportuna, toda vez que el
+Barón de Montesquieu como racionalizador y exportador de unas instituciones británicas, percibidas como garantía eficaz de la libertad política, construye, en el célebre Libro XI de su obra capital Del espíritu de las leyes, la
+doctrina que se convertiría en el dogma de la División de Poderes. A él
+hemos de volver de inmediato.
+Pero permítasenos indicar que las tesis de Montesquieu al respecto
+son más oscuras de lo que sus glosadores han divulgado. Es verdad que
+afirma literalmente: "(No) hay libertad si el poder judicial no está separado
+del legislativo ni del ejecutivo. Si va unido al poder legislativo, el poder
+
+20
+
+Edward Coke, Reports, Parte XII, p. 65.
+
+353
+
+
+
+sobre la vida y la libertad de los ciudadanos sería arbitrario, pues el juez
+sería al mismo tiempo legislador. Si va unido al poder ejecutivo, el juez
+podría tener la fuerza de un opresor".
+"Todo estaría perdido —continua— si el mismo hombre, el mismo
+cuerpo de personas principales, de los nobles o del pueblo, ejerciera los
+tres poderes: El de hacer las leyes, el de ejecutar las resoluciones públicas
+y el de juzgar los delitos o las diferencias entre particulares"21.
+Aunque también es cierto que su disertación se apoya en prolijas y
+asistemáticas consideraciones sobre la experiencia histórica no sólo de Inglaterra, sino también de Turquía, Venecia y otras Repúblicas italianas de la
+época, diversas Monarquías continentales y, sobre todo, de la antigua Roma
+en base principalmente a los testimonios de Dionisio de Halicarnaso, de
+Diodoro de Sicilia y de Dion y también en base a su interpretación de la Ley
+de las Doce Tablas y de la Ley Valeria. De manera que si uno lee a Montesquieu con detenimiento observa que más interés que en dibujar la doctrina
+de la separación de poderes, pone en sostener que el poder legislativo debe
+asumir poderes judiciales extraordinarios y llega a afirmar que "De los tres
+poderes que hemos hablado, el de juzgar es, en cierto modo, nulo"22. En
+realidad, tampoco la división de poderes era un principio consagrado en
+Inglaterra tras la Revolución parlamentaria de 1688 y todo parece indicar
+que la obra de Montesquieu más que la de un atento observador de las instituciones británicas es la de un hombre culto, lector —entre otros— de
+Locke y Harrington, dispuesto a matizar con su propio criterio, tesis ya sostenidas por otros teóricos.
+Sin embargo, las grandes obras del pensamiento jurídico-político han
+estado siempre llamadas a convertirse en armas poderosas al servicio de los
+cambios más o menos revolucionarios que se gestan en su época. Y este fue
+una vez más el caso. El dogma presuntamente consagrado por Montesquieu
+de la división de poderes23 va a plasmarse, mucho más concretamente que
+en su vaga concepción, en la letra concreta y firme de la Declaración de
+Derechos de Virginia (1776)24 y en la Constitución de Massachusetts de 178025,
+que tendrán su trasunto en los tres primeros artículos de la Constitución Nor-
+
+21
+Charles-Louis de Secondat, Barón de Montesquieu, Del espíritu de las leyes, París, 1748, citamos por la
+trad. esp. de, Mercedes Blazquez y, Pedro De Vega, Ed. Tecnos, Madrid, 1972, pp. 151 y 152.
+22
+Montesquieu, op. cit. p. 154.
+En el primer tercio del siglo XX el gran ius publicista francés Maurice Hauriou sostendría brillantemente
+que de la trilogía clásica de poderes políticos, tras la Revolución francesa, debía suprimirse el Judicial, en cuanto separado de la política. En M Hauriou, Derecho público y constitucional, trad. esp., Ed. Reus, Madrid, 1928, pp. 384 y 385.
+23
+Vid., L. Lopez Guerra, El Poder judicial en el Estado Constitucional, Ed. Palestra, Lima, 2001, pp. 13-16.
+24
+Sección 5.
+25
+Preámbulo y Sección 30.
+
+354
+
+
+
+teamericana de 1787. Y —lo que sería más determinante para el continente
+europeo— en la Declaración de los Derechos de Hombre y del Ciudadano
+francesa de 1789, cuyo artículo 16, como es bien sabido, proclamaba que
+"Toda sociedad en la cual... la separación de poderes (no está) determinada
+no tiene Constitución"; aunque no hay que olvidar que el art. 6º de la misma
+Declaración establecía enfáticamente que "La ley es la expresión de la voluntad general", de lo que se deducía una concepción de los jueces como mera
+boca de la ley.
+IV. LA TRANSICIÓN ILUSTRADA
+Volviendo la vista a las Españas del Siglo XVIII, observaremos, de
+un lado, que obviamente no existía una tradición de independencia de los
+jueces respecto de la Corona26; y, de otro, las disfuncionalidades de las viejas instituciones e intereses corporativos que se arrastraban desde antiguo
+habían desembocado en un alto número de jurisdicciones especiales y no
+sólo la eclesiástica y la militar, sino otras muchas, que tomaban forma de juzgados privilegiados o de tribunales extraordinarios. Si limitamos la enumeración a la Ciudad de Madrid, en 1766 el fiscal de la Sala de Alcaldes de Casa
+y Corte contabilizó sesenta y cinco jurisdicciones especiales27. Y como en
+cada territorio la planta jurisdiccional tenía su propia impronta el conjunto
+constituía una fronda de imposible comprensión para un jurista de nuestra
+época. Es verdad que en los estudios teoréticos de su momento aquella
+selva rebosante de juzgados y tribunales del más variado origen y condición
+se resolvía aduciendo que, a la postre, todos los juzgados y tribunales se
+reducían a dos jurisdicciones básicas la espiritual (eclesiástica) y la temporal (dimanante del Rey)28. Y, dando un paso más, los autores al servicio de
+la dogmática jurídica del absolutismo monárquico acababan concluyendo
+que toda Administración de Justicia existía por reflejo de la voluntad regia.
+Así, Elizondo, fiscal del Consejo de Castilla, escribió: “Desde el momento en
+
+26
+Aunque sostuvo con desenvoltura otra tesis el clérigo escolástico, ilustrado y brillante, Francisco Martínez Marina. En: Teoría de las Cortes, o grandes Juntas Nacionales de los reinos de León y Castilla, Madrid, 1813, Tomo
+II, Capítulo Veintiuno, pp. 248-260. A la hora de aportar prueba documental que respaldase su tesis, sólo pudo traer
+forzadamente a colación dos documentos acreditativos de la vigencia del “Fuero Eclesiástico” independiente de la jurisdicción real ordinaria y la “escritura de compromiso otorgada por el monarca y los prelados y grandes del reino, de
+estar y pasar por lo que determinasen los jueces, árbitros nombrados por ambas partes para componer sus diferencias
+a consecuencia de lo acordado en la junta entre Cabezón de la Sal y Cigales” en 1464. Tomo III, pp 19 a 22 y 60 a 65.
+Obviamente ni el fuero eclesiástico, ni tal arbitraje —al igual que ciertas “concordias” suscritas a lo largo de nuestra historia—, en nada prueban una presunta independencia de Jueces y Magistrados ordinarios (los eclesiásticos no tenían
+tal condición) respecto del Rey, que los nombraba y cesaba, por mucho que durante la tramitación de un arbitraje gozasen de facto de cierta estabilidad.
+27
+Vid., S. M. Coronas González, “La reforma judicial de Aranda (1766-1771), en AHDE, LXVIII (1998), pp.
+45-81 y especialmente p. 49.
+28
+Así, por ejemplo, I. Jordán de Asso y M. de Manuel, Instituciones de Derecho Civil de Castilla, Madrid,
+1771; citamos por la 4ª ed., Ed. Andrés de Sotos, Madrid, 1786, L. III, p. 263.
+
+355
+
+
+
+que nace el hombre vive sujeto a la Jurisdicción Real Ordinaria, como fuente
+y origen de las demás en el orden político y civil de los reinos y de las
+Repúblicas, adquiriendo después su exención por dignidad o privilegio, que
+debe hacer constar solemnemente el privilegiado para vencer á la Jurisdicción Real Ordinaria. Y de ésta, como del mar, nacen las exentas, que son de
+su misma especie”29.
+Sin lugar a dudas, nuestros monarcas absolutos ilustrados iniciaron
+una gran expansión de la jurisdicción regia a costa de las especiales, que nos
+limitamos a apuntar, en cuanto que preceden a los constituyentes gaditanos
+esfuerzos ímprobos del Conde de Aranda (en su condición de Presidente del
+Consejo de Castilla), de Campomanes, de Foronda, del Duque de Almodóvar, de Meléndez Valdés y, en general, de los mejores estadistas y jurisconsultos del reinado de Carlos III, quienes intentaron impulsar la reforma de
+la Justicia, sobre todo, a partir de 1766. Fue el despliegue de numerosos
+esfuerzos que, hasta donde sabemos, alcanzaron muy escasos frutos, contra las jurisdicciones especiales y el bajo nivel formativo de los jueces de la
+época. Al tiempo que sobrevivían numerosos Jueces y Magistrados que compatibilizaban sus funciones jurisdiccionales con otras de carácter administrativo en las órbitas de los más diversos poderes públicos.
+En el ámbito de las nuevas ideas fuerzas que sobre la materia llegaban a nuestra tierra desde Inglaterra y Francia, anotemos brevemente que,
+siguiendo las tesis de un constitucionalista de prestigio cierto, el Prof. DíezPicazo30, las aportaciones de Blakstone y la obra del ginebrino De Lolme,
+Constitution de l’Anglaterre ou état du gouvernement anglois, comparé avec
+la forme républicaine et avec les autres monarchies de l’Europe (1771) 31 configuran una corriente denominable, a nuestros efectos, “influencia inglesa”
+de la que deriva la importación por nuestros primeros liberales tanto de la
+idea de que el Juez está vinculado a la Ley, pero también al precedente,
+como del debate sobre la pertinencia de incorporar la institución del jurado
+a nuestras prácticas procesales penales.
+
+29
+F. A. de Elizondo, Práctica universal forense de los tribunales de España y de las Indias, 6ª reimpresión,
+Ed. Pedro Marín, Madrid, 1788-1791, T. III, p. 153.
+30
+L.M. Díez Picazo, “Il modelo europeo di magistratura: Un approccio storico”, en R. Romanelli (Coordinador), Magistrati e potere nella storia europea, Ed. Il Mulino, Bolonia, 1997, p. 23-38.
+31
+De esta obra hubo traducción relativamente temprana al español, editada por Pedregal, Oviedo, 1812.
+
+356
+
+
+
+V. LOS PRIMEROS PASOS DE LAS CORTES DE CÁDIZ
+SOBRE LA ADMINISTRACIÓN DE JUSTICIA
+Con este telón de fondo se abren el 24 de septiembre de 1810 las
+sesiones de las Cortes generales y extraordinarias de la Nación española en
+la Isla de León. Y ese mismo día se dicta, a propuesta de Muñoz Torrero, el
+célebre Decreto que, amén de proclamar que en aquellas Cortes residía la
+soberanía nacional, en su párrafo tercero establecía la separación de los tres
+poderes del Estado, "el legislativo, el executivo y el judiciario". Esta nítida
+asunción del dogma liberal de la división de poderes, fue más tarde objeto de
+importante revisión semántica al calor de una iniciativa del Diputado, D. José
+Espiga, a la que más adelante hemos de volver a referirnos.
+Pero permítasenos dejar anotado que el 5 de enero de 1811 se concedió “indulto civil declarando olvido general de lo ocurrido a los países de
+ultramar” y constatar especialmente los pasos que, con anterioridad al inicio del debate sobre el Proyecto de Constitución en las Cortes, el 25de
+agosto de 1811, abordaron ciertas materias que guardaban relación directa
+con la Administración de Justicia y especialmente con la jurisdicción que
+más preocupaba a los diputados doceañistas, la penal.
+El primero de tales pasos lo dio el gran liberal asturiano, Agustín de
+Argüelles32 —quien, como es sabido, por sus dotes como orador desde el
+escaño, era adjetivado “el divino”— que presentó en la sesión de 29 de enero
+de 1811, y las Cortes aprobaron, la proposición de que se nombrara una Comisión que formase un Reglamento provisional para el Poder judiciario; pero
+aunque la misma fue nombrada, presentó su dictamen y se debatió sobre él (y
+el 13 de noviembre, el Diputado, Sr. Ramos de Arispe pidió que continuara la
+discusión) aquel Reglamento no pasó de la condición de proyecto y quedaron
+sin fijar la estructura orgánica y los límites funcionales del Poder judicial33, lo
+
+32
+No debe desconocerse que Agustín de Argüelles en los primeros años del siglo XIX, tras la ocupación británica de Buenos Aires, fue enviado por Godoy a Londres en calidad de “agente secreto”. No nos consta la calidad e
+interés de sus informes, pero sí que aprendió bien tanto la lengua inglesa como la teoría y la práctica del sistema constitucional británico, dato que explica buena parte del contenido de sus propuestas y de sus disertaciones sobre la “tradición y evolución histórica” de sus aportaciones claves a las Cortes reunidas en la Isla de León. No llegó exactamente
+a la misma conclusión el Maestro Sánchez Agesta cuando escribió que “(fue enviado) en misión diplomática secreta de
+entendimiento con la Corte inglesa”, destacando la relación que estableció con Lord Holland; en: “Introducción” a A.
+Argüelles, Discurso Premiminar”, Ed. CEC, Madrid, 1981, p. 10. Aunque aun hoy carecemos de una buena biografía sobre
+Argüelles, Vid. E. San Miguel, Vida de Don Agustín de Arguelles, Madrid, 1851, Cuatro vols.; A. Alcalá Galiano, “Agustín
+de Arguelles”, en Recuerdos de un anciano, Ed. Biblioteca de Autores Españoles, Madrid, 1878; J. Longares, “Estudio introductorio” a Arguelles, A., La reforma constitucional de Cadiz, Ed. Iter, Madrid, 1970 y el aun reciente libro del fino constitucionalista, J. Varela Suanzes-Carpegna, Asturianos en la política española, Ed. KRK, Oviedo, 2006, p. 139 y ss.
+33
+Cfr. Fernández Martín, Manuel, Derecho parlamentario español, Ed. Imprenta de los hijos de J. A. García,
+Madrid, 1885, Tomo 2, p. 8. Vid. Actas de Sesiones, 23 de Agosto a 4 de noviembre de 1811, donde se refleja interrupción
+de intervención del Sr. Dueñas, sin seguimiento en días siguiente ni sucesivos.
+
+357
+
+
+
+que se solventaría en buena medida al aprobarse seguidamente el Título V de
+la Constitución.
+Análogo impulso aportó Argüelles al formular la propuesta de la
+abolición de la tortura (o tormento) y de los eufemísticamente denominados
+“apremios”34, que desde Carlos III se procuraban evitar, pero que, de hecho,
+siguieron formando parte de la realidad del sórdido submundo de la justicia de lo penal de la época. El Decreto de abolición de dictó por las Cortes
+el 22 de abril de 1811.
+El 19 de abril de 1811 un grupo de diputados liberales35 presentó
+ante las Cortes un Proyecto de Reglamento para la abreviación de las causas criminales, que era reflejo directo de las innumerables cartas de presos,
+o de sus familiares, con quejas sobre la tardanza en la instrucción de las
+causas penales y de la experiencia acumulada por la Comisión de Justicia
+–creada el 4 de abril a propuesta del propio Arguelles- de aquellas Cortes,
+que estaba visitando órganos judiciales y penitenciarios para detectar malas
+prácticas con el propósito de pensar y establecer fórmulas que las evitasen
+o enmendaran36. Se decidió que la Comisión visitase, sin formalidades, toda
+suerte de centros penitenciarios con la finalidad de conocer directamente los
+abusos que pudieran darse para “proponer después a S.M. lo que convenga
+para remediarlos”. Lo que se concretó en un Reglamento para que las causas
+penales tengan un curso más expedito, sin los perjuicios que resultan a los
+reos de la arbitrariedad de los jueces, con las firmas de los Srs. Dueñas,
+Navarro, Luxán, Goyanes y Moragués37.
+VI. DIVISIÓN DE PODERES O DE POTESTADES
+Ya hemos mencionado el histórico Decreto de las Cortes, de 24 de
+septiembre de 1810, que importó, sin reservas, la doctrina de la División de
+poderes, a la sazón adjetivados como “Legislativo, executivo y judiciario”.
+Anotemos ahora telegráficamente que ello obviamente era importar no sólo
+las aludidas célebres tesis de Montesquieu en su Espirit des lois, sino que en
+
+34
+Con la expresión “apremios” (otras veces calificados de “apremios ilegales”) se denominaba toda una
+serie de prácticas próximas a la tortura, pero vistas como de menor intensidad, que consistían en aplicar durante amplios
+períodos al reo esposas, “perrillos”, calabozos inmundos, “grillos” (o calabozos poco mayores que un sepulcro), y un
+largo etcétera.
+35
+A saber, D. Dueñas, M. Goyanes, M. Luján, G. Moragués, y F. Navarro.
+36
+Vid. Informe de la Comisión de Justicia. Diario de las Discusiones y Actas de las Cortes, Imprenta Real,
+Cádiz, 1811, Tomo V (sesión de 19 de abril de 1811), p. 115 y ss.
+También Vid., F. Martínez Pérez, Entre confianza y responsabilidad. La justicia del primer constitucionalismo español (1810-1823), Ed. Centro de Estudios Políticos y Constitucionales, Madrid, 1999, p. 163 y ss.
+37
+Vid. Diario de las Discusiones… cit. nota anterior, pp.114-119.
+
+358
+
+
+
+realidad significaba asumir las paredes maestras de la arquitectura constitucional británica en los términos en que se había entendido su complejo equilibrio por este autor y otros coetáneos. En efecto, tras las aportaciones básicas
+de John Locke, en el contexto de la revolución del Parlamento del siglo XVII,
+el célebre y jugoso debate entre Bolingbroke y Walpole —en torno a 1719—,
+y los escritos de David Hume, quien sienta en pleno siglo XVIII las bases de la
+Monarquía mixta y equilibrada inglesa, de la doctrina sostenida por William
+Blackstone en sus Commentaries on the Laws of England 38, amén de las tesis
+del más brillante polemista británico del siglo XVIII, Edmund Burke, por no
+citar a Paine, Pitt, Fox o Palay39. Hay todo un torrente de ideas de origen inglés
+exaltadoras de las virtudes cívicas de la división de los poderes.
+Ahí no quedaba todo. La asunción de la doctrina de la división de
+poderes era, al tiempo, la incorporación de algunas de las más importantes
+ideas nutricias de la revolución republicana norteamericana. Cualquier lector
+de El Federalista (1787-1788)40 sabía bien que en el esfuerzo constituyente
+estadounidense de 1787 el “equilibrio institucional” a través de la aplicación
+de la doctrina de la división de poderes era la idea capital de todo el proceso,
+como evidencia bien a las claras la propia estructura y sistemática de la aun
+vigente Constitución norteamericana de esa fecha. Así es en sus preceptos —
+especialmente en el artículo 3º— donde por primera vez se concretó jurídico constitucionalmente, con vigencia práctica innegable, lo que podía significar la noción revolucionaria de un Poder Judicial independiente.
+Sin embargo, es de justicia constatar que una minoría de nuestros
+ilustrados de las últimas décadas del siglo XVIII se había esforzado por empezar a recepcionar una parte de tal doctrina, en términos compatibles con el
+poder absoluto del Rey. Así León de Arroyal había escrito: “El gobierno de la
+sociedad corresponde a ella misma; pero no pudiendo ejercerle la multitud,
+lo hace por medio de delegación, constituyendo ciertos poderes que la gobiernan. Los poderes constituidos por la sociedad no pueden ser removidos en
+tanto que produzcan los bienes que se buscaron por su institución, y a nadie
+son responsables de sus operaciones, sino a la sociedad misma, ni pueden ser
+resistidos por ningún particular”41. Florez Estrada quince años después, en el
+pórtico del siglo XIX, escribirá: “El gobierno despótico es el que reúne en sí
+toda la autoridad y poder posible y por lo mismo el más libre será aquel que
+más divida la autoridad y poder, dejando, sin embargo, el suficiente para que
+
+W. Blackstone, Commentaries on the Laws of England in four books, London, 1765-1769.
+Vid. J. Varela, “División de poderes y sistema de gobierno en la Gran Bretaña del siglo XVIII” en, Ramón
+Punset (Coordinador), La división de poderes, Ed. Principado de Asturias, Oviedo, 2009, p. 53 y ss.
+40
+Vease traducción española: A. Hamilton, J. Madison y J. Jay., El federalista, segunda reimpresión de
+segunda edición, Ed. Fondo de Cultura Económica, Mexico, 2006.
+41
+L. de Arroyal, Cartas económico políticas, Madrid, 1794.
+38
+39
+
+359
+
+
+
+no caiga en el extremo opuesto a que propende todo gobierno libre, a saber:
+la anarquía, el mayor de los males que puede sufrir toda sociedad”42.
+La División de poderes y su corolario, sobre el que volveremos, la
+independencia de jueces y tribunales, es entendida por los padres de la
+Constitución de 1812 como una condición inexcusable para la protección de
+las libertades civiles frente a los posibles abusos del Rey o de sus autoridades. Esta perspectiva preside párrafos capitales del “Discurso preliminar”,
+donde, entre otras consideraciones, leemos: “La sabia distribución que V.M.
+ha hecho del ejercicio de la potestad soberana en su memorable Decreto de
+24 de septiembre de 1810 ha facilitado a la Comisión el fijar los cánones
+que han de arreglar en adelante el importantísimo punto de la potestad judicial. La Comisión, según el plan que se ha propuesto, delega esta autoridad
+a los tribunales, comprendiendo bajo este nombre no sólo a los cuerpos
+colegiados, sino también a los jueces ordinarios, que en rigor constituyen tribunal, cuando acompañados de los ministros que las leyes señalan ejercen
+el ministerio de la justicia”.
+“Para que la potestad de aplicar las leyes a los casos particulares
+—seguimos leyendo en el Discurso Preliminar— no pueda convertirse jamás
+en instrumento de tiranía, se separan de tal modo las funciones de juez de
+cualquiera otro acto de la autoridad soberana, que nunca podrán ni las Cortes ni el Rey ejercerlas bajo ningún pretexto. Tal vez podrá convenir en circunstancias de grande apuro reunir por tiempo limitado la potestad legislativa y ejecutiva; pero en el momento en que ambas autoridades o alguna de
+ellas reasumiese la autoridad judicial, desaparecería para siempre no sólo la
+libertad política y civil, sino hasta aquella sombra de seguridad personal que
+no pueden menos de establecer los mismos tiranos si quieren conservarse
+en sus Estados. Por eso se prohíbe expresamente que pueda separarse de
+los tribunales el conocimiento de las causas, y ni las Cortes ni el Rey podrán
+avocarlas, ni mandar abrir nuevamente los juicios ejecutados”43.
+Con el propósito notorio de poder acoger inconfesadamente la división de poderes, evitando incurrir en una mera traducción de sus términos,
+ya consagrados en la Constitución francesa de 179144, y una nueva acusación
+desde algunos escaños de “afrancesamiento” (término que podía conllevar,
+
+42
+A. Florez Estrada, Constitución para la nación española…, 1809. Cfr. Fernández I Fernández Sarasola,
+“La división de poderes en la historia constitucional española”, en, R. Punset., Cit, p.167 y ss.
+43
+Parte II, párrafos 7º y 8º.
+44
+Cuyo influjo es evidente, ya que no en vano constituyó el principal modelo hacia el que los doceañistas hacen un esfuerzo de mimesis, como bien señaló ya Adolfo Posada, Derecho Político, 5ª ed., Librería General de
+Victoriano Suárez, Madrid, 1935, Vol. II, p. 278 y concordantes. También M. Fernández Almagro, Orígenes del régimen
+constitucional en España, Ed. Labor, Madrid, 1928, pp. 84-90.
+
+360
+
+
+
+en aquel contexto bélico, una acusación de traición) se buscaron formulas
+estéticas de compromiso. Por supuesto, tal acusación era a la par lógica y
+simplista, dado que el liberalismo doceañista era una amalgama de actitud
+retrospectiva e historicista sumada a un sentimiento de modernidad y progreso, que entran en coexistencia con el despliegue de un esfuerzo denodado y nada dubitativo frente a los ejércitos franceses napoleónicos que
+ocupaban el territorio español45.
+Como primera medida, algún diputado liberal pareció apuntar hacia
+formulas de compromiso como Gutiérrez Huerta, cuando afirmó ante la
+Cámara: “La Nación soberana como poder constituyente posee esencialmente la soberanía como una e indivisible; los poderes constituidos que
+componen el gobierno establecido por la nación en su ley constitucional
+ejercen partes de la soberanía”, de lo que Sánchez Agesta interpretó que el
+principio de división de poderes se reconvirtió en “un principio subordinado que afecta sólo a los órganos secundarios de gobierno: El Rey, las Cortes ordinarias, los Tribunales de justicia”46. La prestigiosa opinión de nuestro maestro granadino en este caso concreto parece discutible, pues es
+connatural a la doctrina clásica de división de poderes el que estos sean
+siempre poderes constituidos, cuyas funciones vienen definidas por el poder
+constituyente originario y pueden ser modificadas por el poder constituyente derivativo o constituido.
+El obvio afrancesamiento de la solución y la búsqueda de una reinterpretación a la española preocupó no poco a los Diputados reunidos en
+Cádiz. Es significativo que en el “Discurso Preliminar leído en las Cortes al
+presentar la Comisión de Constitución el proyecto de ella”, tras el celebérrimo encabezamiento de su segundo párrafo: “Nada ofrece la Comisión en
+su proyecto que no se halle consignado del modo más autentico y solemne
+en los diferentes cuerpos de la legislación española…” se añade “(en) concordancia (con) cuanto tienen dispuesto las leyes fundamentales de Aragón,
+de Navarra y de Castilla en todo lo concerniente a (enumeración de elementos políticos capitales)… los tribunales”. Ello significa que para Arguelles y Espiga —como vocales ponentes del texto— y los demás miembros
+de la Comisión que deliberan sobre el texto de este Discurso, la asunción a
+título histórico evolutivo de la doctrina de la división de poderes y de la
+independencia del poder judicial era algo a que debieron dedicar especial
+atención.
+
+45
+A este respecto, Véase, por todos: L. Diez del Corral, El liberalismo doctrinario, Instituto de Estudios Políticos, 2ª ed, Madrid, 1956, pp. 399-431.
+46
+L. Sanchez Agesta, Historia del Constitucionalismo Español, Ed. Instituto de Estudios Políticos, 2ª ed.,
+Madrid, 1964, p. 92.
+
+361
+
+
+
+Como la solución adoptada en el Título V podía preocupar por ser
+de mero carácter formal, se dialogó, a lo que parece, “en pasillos” y se asumió la solución propuesta por Espiga. Éste sugirió "que sería muy conveniente mudar los epígrafes que determinan la división de los tres poderes
+poniendo, por ejemplo, en vez de poder legislativo, Cortes o representación
+nacional; en el de Poder o potestad ejecutiva, del Rey o de la dignidad real;
+y en vez de poder judicial, de los Tribunales, con lo que se evitaría que
+tuviera aire de copia del francés esta nomenclatura, que era más para adoptarse por los autores del Derecho Público, y se daría a la Constitución, aun
+en esta parte, un tono original y más aceptable"47. A las Cortes, prestas siempre a distanciarse en lo posible de terminologías foráneas acogiendo otras
+más o menos presentes en la tradición de la vida pública española, la propuesta de Espiga les pareció afortunada y se recogió en los diversos rótulos
+de los Títulos de la Constitución. Con lo que no hay finalmente un seguimiento literal de la formulación de los tres poderes tal y como se había consagrado en la Constitución norteamericana y en la francesa. Y esta terminología de compromiso tuvo su reflejo en los arts. 14, 15 y 16 de la Constitución
+gaditana, que literalmente disponen respectivamente: "La potestad de hacer
+las leyes reside en las Cortes con el Rey"; "La potestad de hacer ejecutar las
+leyes reside en el Rey"; y "La potestad de aplicar las leyes en las causas civiles y criminales reside en los tribunales establecidos por la ley".
+Hagamos, a este respecto, tres anotaciones:
+La primera es la distancia infinita que separa a este enfoque del
+que, bajo la asunción vergonzante del poder soberano y único del Monarca,
+había presidido la seudo Constitución de Bayona.
+La segunda consiste en subrayar que La Constitución de 1812 emplea
+la palabra potestad para describir las funciones esenciales del Estado, reflejo
+de la mejor mitología liberal sobre la División del Poder político del Estado
+en tres Poderes separados, pero con significativa variante semántica. Lo relevante es que este nuevo léxico (potestades) se convertirá en característico del
+Derecho político español. En efecto, es uno de los legados de la Constitución
+de 1812, que, a través de los hitos de nuestro constitucionalismo histórico —
+donde se observan sus trazas— ha llegado hasta la letra de nuestra Constitución vigente. Ello bien merece reflejarlo, aunque sea con parquedad:
+Efectivamente, nuestra Constitución de 1837, en su art. 12, disponía
+que: “La potestad de hacer las leyes reside en las Cortes con el Rey”; en su
+
+47
+
+1811.
+
+362
+
+J. de Espiga, “Intervención”, Actas de la Comisión de Constitución, Sesión del 9 de julio de 1811, Cádiz,
+
+
+
+art. 40 distinguía entre “la potestad legislativa que ejercen las Cortes con el
+Rey” y las restantes facultades de aquellas; en el art. 45 establecía que “La
+potestad de hacer ejecutar las leyes reside en el Rey (cabeza, por entonces,
+del Poder ejecutivo)” y su art. 63 rezaba que “A los Tribunales y Juzgados
+pertenece exclusivamente la potestad de ejecutar las leyes en los juicios…”
+Nuestra Constitución de 1845 copió literalmente dichos términos en sus arts.
+12, 39, 66 y 43, respectivamente. Otro tanto hizo la Constitución no promulgada, de 1856 en sus arts. 15, 41, 49 y 67. La Constitución progresista de
+1869 dispuso en su art. 34, primer inciso, que “La potestad de hacer las leyes
+reside en las Cortes”, en el 69 que “La potestad de hacer ejecutar las leyes
+reside en el Rey”, dedicándose a la potestad judicial el artículo 91. Una
+variante literaria menor la encontramos en la letra del Proyecto de 1873 de
+Constitución de la I República, que no hablaba propiamente de potestades
+sino de poderes en sus artículos 45, 46 y 48. La Constitución canovista de
+1876 retomó, al pie de la letra, esta tradición gaditana y de todo nuestro
+constitucionalismo monárquico decimonónico en sus arts. 18, 45, 50 y 76.
+Más tarde, la Constitución republicana de 1931 dispuso en su art. 51: “La
+potestad legislativa reside en el pueblo, que la ejerce por medio de las Cortes o Congreso de los Diputados”, mientras que en su art. 90 estableció:
+“Corresponde al Consejo de Ministros…ejercer la potestad reglamentaria”,
+con lo que parecía concebirse esta como contenido esencial de la potestad
+ejecutiva. Y esta terminología que el Diputado Sr. Espiga propuso, con éxito
+en Cádiz, ha sido básicamente —aunque no siempre literalmente— acogida
+por la letra de nuestra Constitución vigente de 1978. En efecto, su art. 66.2
+se refiere a “la potestad legislativa del Estado”; su art. 97 —siguiendo la pauta
+de la Constitución de 1931— más que aludir a la potestad ejecutiva lo hace
+a la “potestad reglamentaria”, faceta clave de aquella; el 117.3, claramente
+inspirado en nuestro constitucionalismo decimonónico, dicta que: “El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y
+haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y
+Tribunales…”; y el 133.1 versa sobre la llamada “potestad originaria para
+establecer los tributos”. Con ello los constituyentes optamos por mantener
+viva una tradición terminológica de nuestro Derecho político histórico, que
+tiene su cuna en Cádiz48.
+Y la tercera es que en los debates constituyentes de 1811-1812, hay
+diputados que se refieren con naturalidad a la Organización judicial denominándola el Poder Judicial, sin que nadie les contradiga. Potestad jurisdiccional y Poder Judicial son en la práctica constituyente sinónimos; si bien,
+
+48
+Vid. L. Sánchez Agesta, Sistema político de la Constitución de 1978, 7ª edición puesta al día por O.
+Alzaga, Edersa, Madrid, 1993, p. 336 y ss; 354 y ss. También: O. Alzaga Villaamil, Derecho político español según la Constitución de 1978, 4ª ed., Ed. Univ. R. Areces, Madrid, 2008, vol. II, p. 433 y concordantes.
+
+363
+
+
+
+en puridad, aquella sea la alta función que se ejerce por los órganos de éste,
+que —a su vez— tiene cierta connotación dogmática.
+Y es que la Constitución de 1812 asienta no sólo las bases sino las
+paredes maestras y algo más de un autentico Poder Judicial en nada menos
+que sesenta y seis artículos (del 242 al 308) que configuran su Título V (“De
+los Tribunales y de la Administración de Justicia en lo civil y en lo criminal”)49. Probablemente ello supone el hito de la historia del constitucionalismo europeo en que una Constitución dedica tanta atención y espacio a la
+organización y funcionamiento del Poder Judicial.
+La proclamación de que existe un Poder Judicial entendido como el
+conjunto de los Tribunales de Justicia aparece en los arts. 17 y 242, de análogo contenido dispositivo. Y la consagración del principio de División de
+poderes y su corolario la independencia del poder judicial en el 243, conforme al cual: "Ni las Cortes ni el Rey podrán ejercer en ningún caso las funciones judiciales, avocar causas pendientes, ni mandar abrir los juicios fenecidos"50. Mandato que se complementaba con el del art. 245: "Los tribunales
+no podrán ejercer otras funciones que las ".de juzgar y hacer que se ejecute
+lo juzgado”.
+No es de extrañar que aunque la Constitución del Doce se aprobó
+con escasos debates, dada la mayoría de que gozaban los diputados liberales y el ritmo galopante que los mismos imprimieron a su labor constituyente, éste artículo 243 tropezara con oposición, generadora del subsiguiente
+debate. Los diputados más tradicionales —como los Srs. Terrero o Gómez
+Fernández—, ante aquella consagración plena del dogma de la indepen-
+
+49
+La fórmula "Las Cortes generales y extraordinarias confirman por ahora todo los tribunales y justicias establecidas en el reyno, para que continúen administrando justicia según las leyes", que contenía el Decreto de 24 de septiembre de 1810 (Párrafo octavo), era demasiado ambigua, sobre todo, por tener que ser cumplida por funcionarios que
+hasta la fecha asumían confusamente funciones administrativas y judiciales. Agustín de Arguelles pidió en la sesión del
+29 de enero de 1811 que se formara una Comisión que fijara sus límites, dictando un reglamento del poder judicial.
+Así se aprobó y la Comisión presentó su Dictamen que quedó en simple Proyecto. En noviembre se trató de reanudar
+la discusión, pero sin efecto, ya que en los artículos de la Constitución presentados el 6 de noviembre del mismo año
+se regulaba esta materia.
+Vid. M. Fernández Martín, Derecho Parlamentario Español, Madrid, 1885, Tomo II, p. 8.
+Y Actas de la Comisión de Constitución, Sesiones de 23 de agosto a 5 de noviembre de 1811.
+Cfr. L. Sanchez Agesta, “Introducción”, a A. de Argüelles, Discurso preliminar a la Constitución de 1812,
+Ed. CEC, Madrid, 1981, p. 55.
+50
+Este precepto estaba complementado con el art. 172, que entre las restricciones de la autoridad del Rey,
+incluía como Undécima: "No puede el Rey privar a ningún individuo de su libertad, ni imponerle por sí pena alguna.
+El Secretario de Despacho que firme la orden, y el juez que la ejecute, serán responsables a la Nación, y castigados
+como reos de atentado contra la libertad individual".
+"Sólo en el caso de que el bien y seguridad del Estado exijan el arresto de alguna persona, podrá el Rey
+expedir órdenes al efecto; pero con la condición de que dentro de cuarenta y ocho horas deberá hacerla entregar a
+disposición del tribunal o juez competente".
+
+364
+
+
+
+dencia judicial, procuraron reservar alguna parcela jurisdiccional a la prerrogativa regia y, para facilitarlo, proponían hábilmente que se hiciera análoga
+reserva en favor de las propias Cortes. La mayoría liberal se opuso en tromba
+y con contundencia, a través de los Srs. Muñoz Torrero, Villanueva, el Conde
+de Toreno, Gordillo, Oliveros y Argüelles, que demostraron, por cierto, una
+vez más, un alto nivel de formación técnico jurídica y un óptimo conocimiento del Derecho constitucional liberal de la época51.
+
+VII. EL TRATAMIENTO POR LA CONSTITUCIÓN
+GADITANA DE LA ORGANIZACIÓN JUDICIAL
+Y DE LAS FUNCIONES JURISDICCIONALES.
+PRINCIPALES HITOS
+VII.1 Un articulado que desciende a pormenores,
+en materias no siempre propias de rango
+constitucional
+No es nuestro propósito glosar aquí exhaustivamente el prolijo tratamiento que la Carta Magna gaditana dedica a la Administración de Justicia,
+pero telegráficamente anotaremos que tal prolijidad es reflejo de la importancia capital que aquellos liberales otorgaban al Poder Judicial, que ello les
+lleva, en el Discurso Preliminar a exaltar el formalismo jurídico cuando se
+asevera que “la observancia de las formalidades que arreglan el proceso es
+tan esencial, que en ellas ha de estar fundado el criterio de la verdad”; lo que
+parece más merecedor de ser exaltado por el espíritu generoso que lo inspira que por la técnica jurídica empleada frecuentemente para constitucionalizar materias que hoy consideraríamos meramente propias de una Ley Orgánica del Poder Judicial, de las Leyes de Enjuiciamiento, especialmente de la
+Criminal, de una Ley sobre la Planta Judicial, e incluso del Código Civil o del
+Código Mercantil, o, en otros casos, de normas dedicadas a la organización
+y funcionamiento de las instituciones penitenciarias. Más interesantes son a
+los ojos de un constitucionalista, sin duda, los artículos que garantizan derechos del justiciable. Pero que nadie piense que tan numerosos preceptos son
+mera grasa superflua en el cuerpo de aquella Constitución, porque encontrará
+entre los mismos magníficas perlas que denotan las preocupaciones por evitar los abusos de la época anterior.
+
+51
+Vid. Diario de las discusiones y Actas de las Cortes, Imprenta Real, Cádiz, 1811, Tomo X, Sesión del 15
+de noviembre de 1811, pp. 109 y ss.
+
+365
+
+
+
+El detallismo, impregnado de voluntad garantista, alcanza su cenit en
+el último área de este Título V; su Cap. III: “De la administración de justicia
+de lo criminal”, que se extiende desde el art. 286 hasta el 308. Se trata de un
+cúmulo de prohibiciones, a las fuerzas de seguridad, a los órganos del poder
+ejecutivo y aún a los jueces, para preservar los derechos civiles de detenidos,
+arrestados —con distinción del régimen aplicable a los que lo fueran infraganti—, presos a la espera de juicio —incomunicados o no—, penados y
+sus familias. Es una singular mixtura de prevenciones de abusos sufridos en
+el pasado, de aportaciones de las primeras declaraciones de derechos europeas y de los Estados federados norteamericanos, de las novedosas prácticas
+procesales de la nueva Europa liberal y de principios derivados de la concepción cristiana de la dignidad de la persona.
+VII.1.1.– La gran innovación gaditana
+en derechos del justiciable:
+Pasemos ahora a centrarnos en la atención superlativa que nuestra
+primera Constitución dedica a los derechos del justiciable. Hagamos una anotación previa: la Constitución de 1812 no contenía una parte dogmática. Es
+decir, no poseía una “Declaración de Derechos del hombre y del ciudadano”
+como la francesa de 1789; el Pleno ni siquiera mantuvo los arts. 6 a 10, que
+la Comisión había dedicado a los derechos fundamentales básicos. Y ¿porque
+la Constitución del 12 no es iusnaturalista en materia tan capital, ni sigue los
+modelos inglés, francés o norteamericano (cuando este último ya en 1791
+había aprobado las 10 primeras enmiendas garantizando derechos y libertades)? En mi opinión, porque no se quería reconocer derechos a todos los
+hombres, como una derivación de su dignidad personal. Y ello por dos razones: La primera, porque a los invasores franceses solo se les consideraba
+enemigos, a los que, se les hacía la guerra, para su destrucción. Los aguafuertes y lienzos de Goya dan testimonio de una crueldad, nada ilustrada, por
+ambos bandos. La segunda, porque ni siquiera las Cortes aprobaron la propuesta de la Comisión sobre la “igualdad ante la ley”, excusas a un lado, por
+la extendida esclavitud, en nuestras colonias. A la esclavitud dedica la Constitución gaditana uno de sus artículos más deliciosos, el 22, que es toda una
+perla. Pero no nos desviemos. Volvamos al Título V.
+En Cádiz se sigue la política constitucional de insertar numerosos
+preceptos con garantías puntuales para los justiciables, especialmente en la
+órbita penal. En muchos casos por primera vez en la historia del constitucionalismo universal.
+Del contexto de los preceptos y de los debates concluimos que los
+titulares de esos derechos son los españoles. Todos. No solo los ciudadanos
+
+366
+
+
+
+que eran muy pocos: La nación española era, en verdad, de varones, libres,
+propietarios e instruidos. Pero no se exigió la ciudadanía para ejercer los
+derechos procesales.
+El conjunto de derechos de que estamos hablando es novedoso e
+impresionantemente completo para el constitucionalismo de la época. Enumeraremos los más relevantes:
+1º. El arrestado ha de ser puesto a disposición del juez dentro de las
+24 horas de su detención (art. 290), tras un debate sobre si ello
+estaba así dispuesto indirectamente en las Leyes de Partidas. Pero
+no en las 72 horas del art. 11 de la constitución francesa de 1791.
+2º. Destilando modernidad el art. 291 doceañista reza: “La declaración
+del arrestado será sin juramento, que a nadie ha de tomarse en
+materias criminales sobre hecho propio”. Su contenido, desconocido en el constitucionalismo previo francés y en el norteamericano tanto previo como actual, se basó en los usos de algunas
+de nuestras costumbres históricas que se consideraron más garantistas que los usos de otras regiones como Cataluña donde se
+declaraba bajo juramento. La solución innovadora gaditana está
+hoy vigente en España en el art. 24.2 de nuestra Constitución.
+3º. Otra creación gaditana (en el art. 293), es el llamado “Libro de
+Presos” que busca evitar la figura del “desaparecido” y ahorrar
+el instituto británico del “Habeas Corpus”.
+4º. El art. 297 prohibió los “calabozos subterráneos o malsanos”.
+5º. Se incluye un original mandato constitucional (en el art. 298)
+para que el legislador determine la frecuencia “con que ha de
+hacerse la visita de cárceles”, figura que gano gran relieve
+cuando en 1864 el Gobierno, bajo el influjo gaditano, nombró
+a Concepción Arenal “Visitadora General de Prisiones”52. Ella
+publicaría después en francés su libro El visitador del preso,
+pues a los franceses les interesaba el modelo español.
+
+52
+C. Arenal en 1863 recibió el título de Visitadora de cárceles de Mujeres; Cargo que ostentó hasta 1865,
+fecha en que eligió la pluma como herramienta para defender los derechos de la población penitenciaria. De su amplia
+obra citaremos: Cartas a los delincuentes, Ed. Imprenta del Hospicio, La Coruña, 1865; Examen de las bases aprobadas
+por las Cortes para la reforma de las prisiones, Ed. Imprenta de la Revista de Legislación, Madrid 1869; Estudios Penitenciarios, Ed. Imprenta de T. Fortanet, Madrid 1877; La Cárcel llamada Modelo, Ed. Imprenta de T. Fortanet, Madrid
+1877; En francés: Manuel de Visiteur du prisionnier, Ed. Au Secrétariat de L’Oeuvre des libérées de Sain-Lazare, Paris,
+1893; El Visitador del Prese, Ed. La España Moderna, Madrid, 1894; e Informes presentados en los Congresos penitenciarios de Estocolmo, Roma, San Petesburgo y Amberes, Ed. Librería de Victoriano Suárez, Madrid, 1896.
+
+367
+
+
+
+6º. El art. 299 constitucionalizó un mandato al legislador penal para
+tipificar en el Código Criminal el delito de “detención arbitraria”,
+figura imitada por el art. 99 de la Constitución noruega de 1814,
+aún hoy vigente.
+7º. La original constitucionalización (en el art. 301) de que al reo se
+le lean de inmediato e íntegramente todos los documentos de
+la causa, las declaraciones de los testigos y el nombre de estos.
+No que les lean sus derechos.
+8º. La prohibición absoluta (en el art. 303) del tormento y de los
+apremios. Prohibición que asumió dos años después miméticamente el art 96 de la Constitución noruega de 1814.
+9º. Ignorando el Derecho Navarro esgrimido a la contra en el
+debate, se estableció, en el art. 304 la prohibición también absoluta de la pena de confiscación de bienes —que sirve también
+de modelo a la Constitución noruega (su art. 104)— y (en el art.
+305) la de cualquier pena que afecte a la familia del penado.
+10º. El art. 306 constitucionalizó la inviolabilidad del domicilio de
+todo español, salvo en los términos autorizados por la Ley. Estamos aquí, como en los casos anteriormente enumerados, ante la
+primera piedra de esta garantía de raíz histórica: Cervantes había
+puesto en boca del Quijote esta frase “estás en tu casa, donde
+eres señor de ella como el Rey de sus alcabalas”. Un Lord inglés
+mucho después, en 1764, sostuvo un debate “El hombre más
+pobre desafía en su recinto a todas las fuerzas de la Corona, su
+chimenea puede estar fría, su tejado puede temblar, el viento
+soplar entre las puertas desencajadas, la tormenta puede entrar,
+pero el Rey de Inglaterra no puede penetrar”. La constitucionalización de este Derecho al ubicarse en el Título V implicaba
+que la Ley regularía los mandatos judiciales ad hoc. Nada tiene
+que ver este mandato constitucional con el del artículo 126 de
+la Constitución otorgada en Bayona conforme al cual “No se
+podrá entrar en las casas sino de día, y para un objeto especial
+determinado por una Ley o por una orden que dimane de la
+autoridad pública”. Lo que no pasaba de ser una pequeña consideración al Derecho de conciliar el sueño, que, por lo demás,
+nunca respetaron las tropas napoleónicas. “La revolución española” en cuanto a la inviolabilidad del domicilio será asumida
+posteriormente por prácticamente toda la Europa liberal, empezando por el ejemplo reduccionista de la constitución noruega
+de 1814, (la prohibición de efectuar registros en domicilios privados). Aunque hay una diferencia obvia entre conjugar los verbos “registrar” o “entrar”, ya que este es más restrictivo.
+
+368
+
+
+
+No traeremos a colación más ejemplos. Lo más importante de estas
+aportaciones es concluir que el alto número de diputados reunidos en Cádiz
+que eran buenos juristas prácticos, aun conociendo el escaso Derecho Constitucional comparado de la época, no deducen del mismo el Titulo V. Su
+enfoque no es dogmático sino pragmático. Pusieron en cuestión los vicios
+de la degradada justicia absolutista y buscaron finas soluciones constitucionales casuísticas y a la medida para modificar la realidad histórica de unos
+tribunales que operaban sin garantías y sin prestigio social.
+Unas de estas disposiciones pueden parecernos hoy —alejados ya de
+las experiencias absolutistas— anacrónicas, pero otras continúan destilando
+modernidad, entre las que baste destacar el art. 291: “La declaración del arrestado será sin juramento, que a nadie ha de tomarse en materias criminales
+sobre hecho propio”. Su contenido hoy está vigente en España53. Este artículo
+—como la gran mayoría de los de este Capítulo— se aprobó sin oposición
+ni discusión, lo que es muy ilustrativo del consenso logrado en pro de un sistema de Administración de Justicia asentado en el respeto a los derechos del
+justiciable y chapuzado en el espíritu generoso que impregnaba el quehacer
+de las Cortes. O el régimen que, para los delitos in fraganti, establecen los
+arts. 292 y 306 de la Super Ley gaditana.
+VII.2. La concentración jurisdiccional
+El 6 de agosto de 1811 se suprimieron las jurisdicciones señoriales
+con lo que se avanzó mucho en la consagración del principio de unidad de
+fuero, tanto en el orden civil, como en el penal. A ello se sumaron una serie
+de preceptos constitucionales; concretamente los artículos 242, 243, 248 a
+250 y 263, fruto del esfuerzo por lograr una unificación de fuero, cuya
+máxima expresión nos la ofrece la letra del artículo 248: “En los negocios
+comunes civiles y criminales no habrá más que un solo fuero para toda clase
+de personas”. El ius publicista liberal, Ramón de Salas cuando en pleno trienio liberal publicó sus lecciones de Derecho público constitucional, que,
+como sabemos, son el primer tratamiento de la Constitución de 1812 dotado
+de rigor técnico jurídico y una primera crítica de su moderantismo, escribió
+que el referido precepto “no nos dice cuales son los negocios no comunes
+en que habrá muchos fueros para muchas clases de personas…”54.
+
+53
+El art.24 de la Constitución de 1978 reconoce “el derecho de todos… a no declarar contra si mismos”.
+Si lo hacen, como imputados,será sin prestar juramento o promesa de decir verdad.
+54
+R. de Salas, Lecciones de Derecho público Constitucional, Citamos por la edición del CEC, Madrid, 1982,
+p. 254.
+
+369
+
+
+
+Pero es pretensión de los constituyentes gaditanos alcanzar el fin de
+los llamados “casos de Corte”, sobre lo que una autora contemporánea,
+siguiendo el razonamiento expuesto en el “Discurso Preliminar”, ha escrito
+que “felizmente iban a desaparecer los casos de Corte (loables en su origen,
+pero pervertidos por la liberalidad de los reyes y la ambición y vanidad de
+cuerpos y particulares, que habían hecho extensivo el privilegio a quienes
+no necesitaban esa especial protección regia), que resultaban inútiles e
+inoportunos ante la igualdad legal de los españoles, la imparcial protección
+que a todos dispensa la Constitución, y los medios que sanciona para afianzar la observancia de las leyes” 55. Ciertamente, pensamos nosotros, la Constitución de 1812, en cuanto obra de la burguesía intelectual, había desbordado desde sus primeros pasos la idea de Jovellanos de una Cámara
+compuesta por brazos o estamentos56. Argüelles lideró en todo momento. La
+idea fuerza de que las élites burguesas desplazasen como clase dirigente a
+la vieja nobleza, cuyos innumerables privilegios se consideraban inmantenibles en una sociedad moderna. Y así lo reconoció cuando dejó escrito:
+“¿Podía la opinión contemporánea esperar jamás ninguna Constitución que
+estableciese la más esencial de todas las reformas; esto es, que restaurase el
+estado político y civil de la monarquía, depravado, dilacerado, y totalmente
+destruido por multitud de exenciones, fueros, inmunidades, tribunales exóticos, jurisdicciones extrañas y otras monstruosidades semejantes, cuando la
+Junta Central componía exclusivamente la Alta Cámara de dos clases consustancializadas con todas estas usurpaciones y abusos?”57.
+En general, la concepción que de la Administración de Justicia
+tenían nuestros antepasados reunidos en Cádiz estaba dotada de altas dosis
+de modernidad y constituye prueba bastante de que un significativo número
+de aquellos diputados eran, a la par, buenos juristas prácticos, con amplio
+conocimiento de la problemática de la Administración de Justicia heredada
+y suficiente información sobre los nuevos sistemas jurisdiccionales establecidos en Inglaterra, Estados Unidos de América y Francia.
+Los comentaristas posteriores tendieron a discutir pocos extremos de
+éste Título V. Lo más debatido en el proceso constituyente fue muy probablemente que tras consagrar la unidad de fuero se establecieran dos excepciones, para eclesiásticos y militares, sirviendo éste último supuesto de base, por
+
+55
+M. Paz Alonso Romero, Órden procesal y garantías entre Antiguo Régimen y constitucionalismo gaditano, Ed. CEPYC, Madrid, 2008, p. 296.
+La cursiva se corresponde con el texto del Discurso Preliminar.
+56
+G. M Jovellanos, Memoria en defensa de la Junta Central, Ed. Rivadeneira, Madrid, 1811, Parte Segunda,
+nº. 85.
+57
+A. Argüelles, Examen histórico de la reforma constitucional que hicieron las Cortesgenerales y extraordinarias desde que se instalaron en la Isla de León, el día 24 de septiembre de 1810, hasta que cerraron en Cádiz sus
+sesiones en 14 del propio mes de 1813, Ed. C. Wood, Londres, 1835, vol. I, p. 190 y ss y p. 210.
+
+370
+
+
+
+cierto, en sede constituyente a uno de los debates más amplios que conocieron aquellas Cortes, celebrado a partir del 16 de noviembre de 181158.
+VII.2.1. La conservación, como jurisdicción especial,
+de la eclesiástica:
+A la cuestión de principio de exceptuar del principio de unidad jurisdiccional, la que se había venido reconociendo históricamente a la Iglesia
+Católica, se añadía una realidad que era difícil de desconocer, la desigualdad, la heterogeneidad y la confusión de jurisdicciones eclesiásticas.
+Efectivamente, si seguimos los datos reflejados en la investigación
+de Revuelta González59, sólo dos archidiócesis, Toledo con ocho obispados
+y 3.600 leguas cuadradas de extensión, y Santiago con doce obispados y
+3.200 leguas cuadradas, abarcaban el territorio de casi media España. De
+otra parte, en las provincias eclesiásticas había numerosos enclaves60. Y de
+otro lado, coexistían territorios exentos con jurisdicción particular, como los
+dos prioratos de la Orden de Santiago, San Marcos de León y Uclés.A lo
+anterior había que sumar la pervivencia de abadías con jurisdicción cuasiepiscopal, como la de Villafranca del Bierzo, que se ejercía sobre sesenta y
+nueve parroquias. Ciertamente, como reconoció Palacio Atard, “al observar
+las cosas con serenidad desde la perspectiva actual se nos aparece como evidente (que) la Iglesia heredada del pasado padecía de análogo abigarramiento al de otras estructuras del Antiguo régimen, que eran resultado de
+un orden histórico, pero que no respondían a un orden lógico, ni se acomodaban a las realidades presentes”61.
+Llegada la Sesión del 16 de noviembre de 1811, se sometió a deliberación el texto propuesto por la Comisión de Constitución para el artículo
+248, que, pese a los problemas estructurales que acabamos de sintetizar, disponía: “Los eclesiásticos continuaran gozando del fuero de su estado en los
+términos que prescriben las leyes, o que en adelante prescribieren”.
+
+58
+En: Diario de las Discusiones y Actas de las Cortes, Imprenta Real, Cádiz, 1811, Tomo X, pp. 117 y ss.
+También Archivo del Congreso de lois Diputados, Serie General, 13/161; 14/9; 15/13; 71743 y 15/62.
+Sobre esta materia, Vid. J.M. Pérez Prendes, “El tribunal eclesiástico”, en AA. VV., Las jurisdicciones…, pp.
+143-190; y F. Martínez Pérez, Entre confianza y responsabilidad. La justicia del primer constitucionalismo español
+(1810-1823), Ed. CEPYC, Madrid, 1999, pp. 571-574.59 Revuelta González, Manuel, Política religiosa de los liberales. El
+Trienio Constitucional, Madrid, 1973, p. 22 y ss.
+60
+A título de ejemplo podemos traer a colación que la parroquia de Santa María de Ambía (Orense), pertenecía a la diócesis de Valladolid y las parroquias de Valencia de Don Juan y Benavente pertenecían a la diócesis de
+Oviedo.
+61
+Palacio Atard, Vicente, La España del Soiglo XIX, Ed. Espasa-Calpe, Madrid, 1981, p. 76.
+
+371
+
+
+
+En el debate sobre la jurisdicción eclesiástica se perfilaron dos sectores de diputados: Uno inspirado en un liberalismo un tanto radical que
+propuso no aprobar este precepto, para así suprimir el derecho de los eclesiásticos a gozar de su propio fuero, o, al menos constreñirlo “a sus justos
+límites” (léase: “al ejercicio de su ministerio”). Este grupo, encabezado por
+Calatrava y el Conde de Toreno, respaldados por García Herreros, invocó
+que el Fuero eclesiástico era desconocido en el Fuero Juzgo y unilateralmente concedido por la autoridad temporal —que igualmente podía revocarlo per se — en la Ley de Partidas. El otro sector, respaldó el texto que en
+la Comisión de Constitución había propiciado Argüelles y contó con intervenciones de tono moderado (tácita —aunque no expresamente— apoyado en
+la expresa confesionalidad católica proclamada por el art. 12 de la propia
+Constitución) por parte de Dou, Güereña, el Obispo de Calahorra y Villanueva, ganando la votación que aprobó el precepto en sus propios términos.
+Hemos de dejar breve constancia de que en nuestra historia, según
+una larga trayectoria legislativa las sentencias dictadas por los órganos de la
+jurisdicción eclesiástica podían ser objeto en múltiples supuestos de recursos
+de fuerza ante un Tribunal ordinario del Rey. Esta tradición se recoge sin particular polémica en el art. 266 de la Constitución que comentamos: “Les pertenecerá (a las Audiencias) asimismo conocer de los recursos de fuerza que
+se introduzcan de los tribunales y autoridades eclesiásticas de su territorio”.
+En el Supremo Tribunal de Justicia el art. 261, 8º, residencia los recursos de
+fuerza de todos los tribunales eclesiásticos superiores de la Corte.
+VII.2.2. El mantenimiento, como jurisdicción especial,
+de la militar:
+Empecemos por constatar que antes de plantearse el debate, al que
+seguidamente hemos de referirnos, sobre el reconocimiento de la jurisdicción
+militar, ya en marzo de 1811 la Comisión de Guerra había examinado un proyecto presentado por el Consejo de Regencia para el establecimiento de un
+“tribunal de honor en los ejércitos” (que, en la práctica serían plurales), cuya
+principal misión era combatir los casos de cobardía que se atribuían especialmente a la forma acelerada e irregular en que se habían tenido que reclutar
+tropas para combatir contra el entonces mejor ejército del mundo. Hubo toda
+una sesión dedicada a discutir el proyecto, produciéndose no pocas intervenciones en contra, unas sin duda basadas en el temor racional a la proliferación de tribunales especiales, otras inspiradas en un santo temor hacia el
+ámbito de un tribunal dedicado a perseguir conductas deshonrosas, concepto
+poco compatible con el principio de la tipificación legal de los actos y omisiones punibles, e incluso otras temerosas de incurrir en gastos no atendibles
+por una Hacienda paupérrima. Junto a intervenciones de alto nivel en el
+
+372
+
+
+
+dominio del arte de la guerra y de los escenarios bélicos se complementaron
+con otras que apelaban a lo que era el sentido común del diputado interviniente. Entre estas últimas fue jugosa la del Sr. Esteban que desembocó así:
+“Por lo que a mi toca tengo por inútil este tribunal de honor, y me daría por
+muy satisfecho con la rigorosa observancia de la ordenanza militar. Concluyo
+diciendo que el verdadero honor consiste en matar franceses; y en caso que
+existiese este tribunal, solo debía dirigirse a la investigación de los que se distinguiesen en este importante servicio, declarando el honor al que mate
+ciento, más honor al que mate doscientos y así sucesivamente”62. Ante la división de opiniones que se produjo en el Salón de Sesiones, Argüelles se
+empleó a fondo en pro de la instauración de tales tribunales de honor en una
+intervención brillante en la que acabó haciendo la concesión de que se instituyese con carácter provisional, a modo de ensayo, hasta extraer una experiencia, que de no ser positiva conduciría a su supresión63. Por votación se
+aprobó su instauración y se encomendó la redacción de su Reglamento.
+Algunos meses después, en el marco del debate constituyente, la
+propuesta de un fuero especial para los militares generó discusión especialmente acalorada y extensa. La Comisión había elevado como propuesta de
+artículo 249 la siguiente redacción: “Los militares gozarán también de fuero
+particular en los delitos que se oponen a la disciplina, según lo determinare
+la ordenanza”64. Abrió el fuego contra tal texto Laguna, con dureza y un tono
+que destilaba acusaciones de ingratitud de las Cortes hacia los soldados que
+“nos defienden” y “pueden devolvernos la Nación”, por entonces en manos
+francesas. Consciente del impacto que aquellas palabras podían haber producido en el Salón de Sesiones, Argüelles hace un discurso extenso y quizás
+de encomiable factura técnico jurídica (subrayó que se había dejado abierta
+la puerta a las Cortes venideras, por lo que habrá que esperar a aprobar una
+Ley constitutiva militar, en que debería haber “mucha meditación, mucho
+pulso y sabiduría, como los hubo para hacer la ordenanza que hoy rige”,
+que no se modifica ni deroga por la Constitución; es decir, la regulación de
+la materia quedaba parcialmente desconstitucionalizada y confiada a la futura
+ordenanza), pero que no suscitó apoyos.
+Amén de intervenciones que descalifican in radice la propuesta de
+la Comisión, se produjeron otras que criticaban en términos precisos la pro-
+
+62
+Diario de las Discusiones y Actas de las Cortes, Imprenta Real, Cadiz, 1811, Tomo IV, Sesión del 18 de
+marzo de 1811, pp. 253 y 254.
+63
+Vid., Diario de Sesiones… citado en la nota anterior, pp. 263-265.
+64
+Vid., Diario de las Discusiones y Actas de las Cortes, Imprenta Real, Cádiz, 1811, tomo X, Sesión de 17
+de noviembre de 1811, p. 138 y ss. También Archivo del Congreso de los Diputados, Serie General, 4/21; 6/63 y 6/81.
+Vid., Colón de Larreategui, Juzgados Militares de España e Indias, 3ª ed., Madrid, 1817; M. Ballbé, Orden
+público y militarismo en la España Constitucional (1812-1983), Madrid, 1983; R.L. Blanco Valdés, Rey, Cortes y fuerza
+armada en los orígenes de la España liberal, 1808-1823, Madrid, 1988, pp. 182-188 y 391-394.
+
+373
+
+
+
+blemática jurídico práctica que abría una redacción que limitaba el fuero a
+“los delitos que se oponen a la disciplina”. Así atacan la redacción de la Comisión, manejando una gama cuasi infinita de críticas gruesas o de matiz, Del
+Monte, Torrero, González, Golfín, Samper, J. Martínez y Llano. Sólo Aner
+apoyó la propuesta, pero pidiendo que tras aprobar el artículo “se suspenda
+su observancia durante las actuales circunstancias (bélicas)”. El texto del precepto fue rechazado y devuelto a la Comisión, lo que constituyó una de las
+horas más bajas que hubo de vivir Argüelles en la Isla de León. Más adelante
+se aprobó el precepto (con núm. 250), sin el límite de los delitos referidos a
+la disciplina, que, tras el referido del fuero de los eclesiásticos, rezaba así:
+“Los militares gozarán también de fuero particular, en los términos que previene la ordenanza o en adelante previniere”. Por supuesto el que el presente
+y futuro de aquella España estuviera en evidente peligro y dependiendo de
+las armas tuvo mucho que ver con la actitud de las Cortes y no fue esta la
+única vez en que tal sentimiento se entrecruzó en la Historia del Constitucionalismo español65.
+Como síntesis del tratamiento constitucional a los dos fueros
+extraordinarios cabe decir que constituye buena muestra del realismo que
+los liberales reunidos en Cádiz quieren asumir en búsqueda de una transacción con la España profunda. No alcanzado tal abrazo hondo entre las dos
+Españas de la época, algunos liberales tendieron a radicalizarse y solicitar
+la abolición de los fueros especiales. Significativa es la crítica demoledora,
+durante el trienio liberal, de Ramón de Salas de lo que califica el “privilegio
+intolerable de los eclesiásticos”, para los que pide —apoyado en el Derecho
+público francés— su sumisión al fuero común; así como su exigencia de
+que el fuero militar se restrinja a “los delitos contrarios a la disciplina militar, cuando estén en campaña”66.
+Otro principio de excepción a la unidad jurisdiccional lo encontramos en los Tribunales especiales de Hacienda creados por Decreto de 13 de
+septiembre de 1813, que creemos que en lo sustancial significaron atribuir
+a los jueces y tribunales ordinarios los contenciosos de la Hacienda pública,
+en unos términos que suponían poner los cimientos de la jurisdicción contencioso administrativa española67. Esta normativa tenía su anclaje constitu-
+
+65
+Recordemos que cuando empezó a discutirse en las Cortes Constituyentes de 1873 el proyecto de Constitución Federal de la I República, llegaron noticias inquietantes del Frente del Norte, tomando acto seguido la palabra
+Casrtelar para solicitar de los Diputados la suspensión de la Discusión, al efecto de facilitar la unidad de pensamiento
+y de voluntades para respaldar a los soldados combatientes. Se aprobó la propuesta por aclamación y las circunstancias hicieron que no volviese nunca a retomarse el debate de tal Proyecto de Constitución.
+66
+R. Salas, Lecciones de Derecho Público Constitucional, Ed. CEC, Madrid, 1982, pp. 254-257.
+67
+J. A. Santamaría Pastor, Sobre la génesis del Derecho Administrativo Español en el siglo XIX (1812-1845),
+Sevilla, 1973; M. Lorente y C. Garriga, “Responsabilidad de empleados públicos y contenciosos de la Administración (18121845). Una propuesta de revisión”, en AA. VV.: Constitución en España: Orígenes y destinos, Madrid, 1998, pp. 222-232.
+
+374
+
+
+
+cional en el art. 279 de la Constitución que glosamos: “Las leyes decidirán
+si ha de haber tribunales especiales para conocer de determinados negocios”, ejemplo de precepto que, a la vez, desconstitucuionaliza y establece
+una reserva de ley ordinaria.
+VII.3. El silencio sobre el Santo Oficio:
+Tal y como está bien estudiado, durante la Ilustración, la Inquisición
+había decaído notablemente, aunque mantuvo actividad respecto de la
+expansión del jansenismo y del enciclopedismo francés68. Y el prestigio del
+Santo Oficio se encontraba en cotas muy bajas69. El Conde de Aranda planteó la supresión de la Inquisición aunque sin llegar a persuadir de ello a Carlos III. Por lo que sabemos, durante los reinados de Carlos III y Carlos IV sólo
+diez personas fueron condenadas a muerte, a la par que, según parece, se
+abandonó el empleo de la tortura. Se trataba de un Tribunal cuyo empleo era
+ya sensiblemente mayor con fines políticos que religiosos, muy centrado en
+la censura de libros, especialmente de los que difundían las ideas revolucionarias francesas, por socavar la obediencia debida al Rey de España. La
+Orden de 21 de septiembre de 1789 de Floridablanca, dirigida al Inquisidor
+General, para que el Santo Oficio recogiera los folletos que difundían las
+ideas revolucionarias francesas constituyó posiblemente el cenit de este proceso. Cargado de razón ha podido escribir Escudero que “a esta Inquisición,
+dirigida por el Estado, le tocaba, pues, ahora, hacer de dique en fronteras y
+puertos para contener la marea revolucionaria”70.
+Sobre la actitud de Carlos III y de Carlos IV ante el Santo Oficio se
+han vertido ríos de tinta con aportaciones de muy diverso cariz, lo cual se
+explica, entre otra suerte de razones, por los cambios de criterio que se produjeron en los aledaños del trono a la hora de enfocar políticas oscilantes respecto de un tribunal corto de prestigio, pero que la Corona consideraba para
+mantener el particular equilibrio inestable sobre el que estaba asentado nuestro despotismo ilustrado en el transito del siglo XVIII al siglo XIX71.
+
+68
+Vid., R. Herr, España y la Revolución del Siglo XVIII, Ed. Aguilar, Madrid, 1964, especialmente el Cap.
+XV.: “Jovellanos, Urquijo y la ofensiva jansenista”, pp. 334 y ss.
+69
+Vid., J. A. Llorente, Memoria Histórica de cúal ha sido la opinión nacional de España acerca del tribunal de la Inquisición . Discurso de ingreso en la R. Academia de la Historia, 25 de octubre y 1, 8 y 15 de noviembre
+de 1811.
+70
+J.A. Escudero, Estudios sobre la Inquisición, Ed. Marcial Pons, Madrid, 2005, p. 365.
+71
+Sobre la actitud de Carlos III hacia la Inquisición, véase: A. Ferrer del Río, Historia del Reinado de Carlos III en España, Madrid, 1856; y sobre la política oscilante seguida por aquel y por Carlos IV, en virtud de frente al
+Santo Oficio, véase: J. A. Llorente, Historia crítica de la Inquisición de España, Ed. Juan Pons, Barcelona, 1876, Vol. II,
+pp. 35-375.
+
+375
+
+
+
+De hecho, aunque se guardaban las formas en el nombramiento del
+Inquisidor General, el Papa nombraba pero la propuesta de la persona en
+que recaía el nombramiento la hacía el Rey. Y la designación de los miembros del Consejo de la Suprema, órgano director del Santo Oficio creado en
+su día por la Corona72, era un acto de la jurisdicción secular privativo del
+Monarca español. La Inquisición había sido una de las pruebas más palpables del triunfo de las tesis regalistas, desde, al menos, el Siglo XVII, y particularmente en la España Ilustrada, frente a las tesis tradicionales de Roma.
+Esa Inquisición ya mortecina fue suprimida por Napoleón en 180873
+y constituyó objeto en las Cortes de Cádiz de un tratamiento singular. La
+Constitución guardó silencio sobre ella y no se desplegó un debate específico sobre la oportunidad de incluir referencia a la misma en su articulado.
+Pero el consenso sobre eludir su constitucionalización fue compatible con
+algún debate puntual con alusiones al Santo Oficio, de los que encontramos
+referencia en las Actas. Así en la correspondiente al 28 de enero de 1811 hay
+constancia breve de una polémica sobre un periódico llamado “La Triple
+Alianza”, que termina constatando: “Votóse la proposición del Sr. Martínez,
+reducida a que se suspendiese el papel intitulado la triple alianza, hasta que
+fuese examinado por una junta; y quedó aprobada, como igualmente la que
+hizo el Sr. Presidente en estos términos: Que sin perjuicio de las penas civiles,
+se remitiese al tribunal de la Inquisición el papel titulado La Triple Alianza,
+número segundo, para que reconocido, use de las facultades a que prestare
+mérito, informando a S.M. a la mayor brevedad” 74.
+Más jugosa es la referencia a los debates mantenidos el 31 de enero
+del propio 1811, donde se prolonga la discusión sobre el mismo periódico,
+terciando, en un momento dado, el Sr. Presidente, para rectificar lo que había
+propuesto tres días antes. Lo hacía con estas palabras: “Señor, la necesidad
+nos obliga imperiosamente a mudar de ruta. Si V. M. es servido, convendría
+que pasase este expediente a la junta provincial de Censura; porque tengo
+entendido que no está organizado el tribunal del Santo Oficio, ni reunidos los
+ministros que lo componen”. A lo que siguen diversas intervenciones de Srs.
+Diputados sobre el estado organizativo del citado tribunal. Unos diputados
+toman la palabra para sostener que en Cádiz sólo hay dos o tres inquisidores sin organización, otros para señalar que el tribunal se ha desplazado a
+Ceuta (en status de ibernación), otros para sostener que el Consejo de la
+Inquisición sin el Inquisidor General no podía despachar, otros para recor72
+Vid., J. A. Escudero, “Los orígenes del Consejo de la Suprema Inquisición”, en Anuario de Historia del
+Derecho español, núm. 53, año 1983, pp. 237-288.
+73
+Decreto de 4 de diciembre de 1808, firmado por Napoleón Bonaparte, que no por su hermano José, cuyo
+art. 1º disponía: “El Tribunal de la Inquisición queda suprimido, como atentatorio a la soberanía y a la autoridad civil”.
+74
+Diario de las discusiones y actas de las Cortes, Ed. Imprenta Real, Tomo tercero, Sesión del 28 de enero de
+1811, pp. 137-139.
+
+376
+
+
+
+dar que se estaba constitucionalizando la libertad de Imprenta, se había aprobado la Ley de Imprenta y sólo faltaba dictar su Reglamento…El debate, un
+tanto acalorado, se cerró, según reza el Acta así: “…luego se preguntó sobre
+si se sobreseería o no en la providencia acordada por S. M. de pasar el
+número 2 de la Triple Alianza con las representaciones del autor al tribunal
+de la Inquisición. Se acordó que no se sobreseyese y que pasasen al tribunal dichos papeles”75.
+El 16 de mayo de 1811 los miembros del Consejo de la Suprema
+notificaron a la Regencia que se habían constituido y dos días después el
+Secretario del Despacho de Gracia y Justicia comunicó, a su vez, una Orden
+de la Regencia por la que se hacía saber a los tres inquisidores de la Suprema
+“lo extraño que le había sido su reunión, estando pendiente la resolución de
+S.M. sobre este asunto y mandándoles se abstuviesen de formar Consejo y
+ejercer sus funciones”.
+De manera que se juró por los miembros de las Cortes la Constitución de 1812, el 19 de marzo, sin que aquellas se pronunciasen con claridad
+sobre si el Santo Oficio iba a mantenerse o abolirse una vez entrase en vigor
+la Constitución. Hemos comprobado que es errónea la cita de Velez76 a un
+Decreto —según dice él— de una semana antes de que se jurase la Constitución (12 de marzo), que entiende prohibía los Consejos del Santo Oficio,
+pues el mismo es posterior, a saber de 17 de abril, y en su art.1 no prohíbe
+tales “consejos” sino otros77. Posiblemente Velez no incurre en un mero error
+material sino en una revisión intencionada de los hechos con el fin de poder
+sostener que los liberales intentaron una abolición en el último minuto proceso constituyente por un Decreto que había obviado el debate en las Cortes. Sucedió en verdad todo lo contrario: fueron algunos Diputados de corazón absolutista quienes, al parecer, sin previo aviso y poco después de
+aprobada la Constitución, plantaron en el Salón de Sesiones que el Consejo
+de la Suprema Inquisición fuese repuesto en el ejercicio de sus funciones78.
+De manera que jurada ya la Constitución se abre durante meses una discusión de larguísima duración sobre si el instituto jurídico de la inquisición es
+compatible o no con el marco constitucional, que era fácil de despejar desde
+la óptica del Derecho constitucional, pero que se retuerce y prolonga por los
+Diputados ultramontanos que buscaron ser más papistas que el Papa para
+
+Diario de las Discusiones y Actas de las Cortes, t. III, Sesión del 31 de enero de 1811, pp. 171-189.
+Vélez, Apología del Altar y del Trono, o Historia de las reformas hechas en España en tiempo de las llamadas Cortes, e impugnación de algunas doctrinas publicadas en la Constitución, diarios y otros escritos contra la
+Religión y el Estado, Madrid, 1825, vol. I, p. 217
+77
+Vid., Colección de los Decretos y Órdenes que han expedido las Cortes Generales y Extraordinarias desde
+24 de septiembre de 1811 hasta 24 de mayo de 1812. Ed. Imprenta Nacional, Cádiz, 183, tomo II, pp. 201-204.
+78
+Diario de las Discusiones y Actas de las Cortes, Ed. Imprenta Real, Sesión del 22 de abril de 1812, tomo
+XIII, pp. 84-103. Véase también en el mismo tomo, Sesión del 29 de mayo, pp. 320-331.
+75
+
+76
+
+377
+
+
+
+desprestigiar ante los ojos de Roma el primer liberalismo católico español.
+Estos debates están bien estudiados79 y no debemos adentrarnos aquí en
+ellos. Sólo hemos de anotar que las Cortes abolieron formalmente la Inquisición mediante Decreto de 22 de febrero de 1813, aunque convertida en
+banderín de los absolutistas vivió restauraciones y supresiones sucesivas80.
+VII.4. Los jueces profesionales y la institución del “Jurado”
+Una lectura huérfana de prevenciones apriorísticas de la obra de
+Montesquieu nos obliga a concluir que más que contener una defensa sistemática de la doctrina de la División de Poderes, enfatiza —en base a los numerosos precedentes históricos que trae a colación— en la inconveniencia de los
+magistrados profesionales y en la necesidad de acudir a la institución inglesa
+del jurado, que son tesis que nada tienen que ver con la separación de poderes, aunque en la práctica múltiples veces se hayan defendido a la par.
+La desconfianza hacia los jueces del antiguo régimen, en cuanto
+nombrados por la Corona y sometidos a ella, como es bien conocido, fue un
+importante ingrediente del pensamiento revolucionario francés. En efecto,
+esa innata desconfianza en los jueces, estaba apoyada en la alergia que hacia
+los mismos destilaba la Constitución francesa de 179181 e inspirada en las
+reflexiones de Montesquieu; así parece tomarse de éste autor la simpatía
+hacia la figura del Magistrado temporal, que defendía apoyándose en las
+experiencias positivas de la Grecia clásica y en las de índole negativo que de
+los magistrados profesionales narra en relación con la decadencia de Roma.
+Pero nuestra Constitución de 1812, soslayando tales influencias, en su artículo
+252, hace coexistir dichos magistrados temporales con los denominados "perpetuos". Y a todos garantiza su inamovilidad conforme a la ley.
+La reflexión liberal de la época conectaba con una cierta admiración
+hacia la figura del jurado. En España el debate sobre el Jurado se había introducido en gran medida a través de la reduccionista experiencia francesa,
+donde no sólo se reinterpretó el habeas corpus, sino que se experimentó
+—a partir de 1808— un rechazo al Jurado encabezado por los magistrados
+profesionales, con el apoyo explícito de Napoleón82. Lo que tuvo repercusión
+
+79
+Vid., por todos, J. A. Escudero, La abolición de la inquisición española, Discurso de Ingreso en la R. Academia de Jurisprudencia y Legislación, Madrid, 1991.
+80
+Restablecimiento por Decreto de Fernando VII de 21 de julio de 1814; Decreto abolitorio de 7 de marzo
+de 1820 y supresión definitiva de la inquisición por Isabel II el 15 de julio de 1834.
+81
+La Constitución francesa de 3 de septiembre de 1791, en el art. 3º del Capítulo dedicado al Poder Judicial,
+disponía: "Les tribunaux ne peuvent, ni s´immiscer dans l’exercise du Pouvoir législatif, ou suspendre l’exécution des lois..."
+82
+Vid., B. Schnapper, “Le jury français aux XIX et XXème siécles”, en The Trial Jury in England, France,
+Germany 1700-1900, Ed. Duncker & Humblot, Berlín, 1987, pp. 165-239.
+
+378
+
+
+
+directa en nuestra pseudo Constitución de Bayona de 1808, en cuyo artículo
+106 leemos: “En las primeras Cortes se tratará de si se establecerá o no el proceso por jurados”. No es que esté redactado con la ambigüedad que impregna
+casi todos los pronunciamientos de esta Carta; simplemente ocurría que en
+materia de jurado los modelos anglo-americano y francés eran de naturaleza
+bien distinta83. Esta diferencia era bien conocida y correctamente valorada
+por los Diputados reunidos en Cádiz. Mientras el modelo de jurado anglosajón supone un derecho fundamental del justiciable y una institución representativa constitucionalizada, el contra modelo francés se limita a significar
+una garantía procesal, huérfana de carácter representativo (que se reconoce
+al legislador, pero no a ningún órgano de la Justicia) y sin verdadero rango
+constitucional, pues la Lex superior lo remite al legislador ordinario. El jurado
+francés no era “bulwark of liberty” y el jurado continental europeo tampoco
+lo será.
+Interesante es subrayar que en este punto, pese a una posible actitud de algunos liberales gaditanos de desconfianza ante los jueces nombrados por la Monarquía, se opta por no dar saltos en el vacío. Es muy ilustrativo que en el “Discurso Preliminar” se dijese: “Encargada (la Comisión) por
+V.M. de arreglar un proyecto de Constitución para restablecer y mejorar la
+antigua ley fundamental de la Monarquía, se ha abstenido de introducir una
+alteración sustancial en el modo de administrar la justicia, convencida de
+que reformas de esta trascendencia han de ser el fruto de la meditación, del
+examen más prolijo y detenido, único medio de preparar la opinión pública
+para que reciba sin violencia las grandes innovaciones”. De manera que no
+se llega a pensar en ningún momento en el jurado anglosajón, sólo en el
+francés, en términos que, prima facie, pueden producir sorpresa porque
+parece seguirse la pauta de la Carta de Bayona, pero que simplemente
+ponen proa prudentemente hacia los epígonos de jurados a la francesa que
+iban emergiendo en el continente europeo. Así debe leerse el artículo 307
+de la Constitución de Cádiz, precepto de caucho que disponía literalmente:
+"Si con el tiempo creyeran las Cortes que haya distinción entre los jueces de
+hecho y del derecho, la establecerán en la forma que juzguen conducente"84.
+Es lógico que la Comisión redactora de la Constitución, pese a la
+notable influencia de Argüelles y de su admiración por las prácticas constitucionales inglesas, se apartase aquí del instituto del jurado precisamente
+por su obvia cuna anglosajona. Había surgido al amparo del punto 14 de la
+Carta Magna (1212) y se desarrolló en Inglaterra bajo el reinado de Enrique
+83
+Vid., B. Clavero, Happy Constitution: Cultura y lengua constitucionales. Especialmente el Capítulo II:
+“Happy Constitution: Crédito y credenciales del constitucionalismo”, Madrid, 1997, pp. 41-180.
+84
+Vid., J. A. Alejandre, La justicia popular en España. Análisis de una experiencia histórica: Los Tribunales
+de jurado, Madrid, 1981, pp. 82-103.
+
+379
+
+
+
+III en las lejanas fechas del siglo XIII, sin ningún eco en nuestra tradición procesal; era por tanto impensable presentar aquel jurado como conectado con
+esa tradición soterrada de instituciones de libertad que evocaba el “Discurso
+Preliminar” 85.
+Esta prudencia de nuestros primeros liberales se reflejaría también
+en que tras la restauración de la vigencia de la Constitución del Cádiz en
+1820 sólo se instauró el jurado para los delitos electorales por abusos cometidos por medio de la imprenta, en la Ley de 22 de octubre de 182086.
+También de las iniciativas legislativas del trienio liberal es obligado
+traer a colación la asunción de la figura del jurado en el Proyecto de Código
+de Procedimientos Criminales de 1821 para definir hechos tipificados en un
+Código Penal que se elaboraba en Cortes en las mismas fechas.
+VII.5. La independencia de jueces y magistrados
+Al exponer más arriba la constitucionalización del principio de División de poderes hemos hecho ya referencia a su corolario, el principio de
+la independencia del juez en el nuevo Estado de Derecho. Y hemos mencionado las palabras nítidas con que ello se pone de manifiesto en el “Discurso Preliminar”.
+Apostillemos seguidamente que la independencia se establece por
+la Constitución de Cádiz por varias vías confluyentes: a) Potestad exclusiva
+de los tribunales para entender de las causas civiles y militares (art. 242); b)
+Prohibición de que ni las Cortes ni el Rey ejerzan funciones judiciales (art.
+243); c) Prohibición de que los tribunales ejerzan funciones extrajudiciales
+(art. 245); d) Necesidad de que jueces y magistrados cumplan con las calidades determinadas por las leyes (art. 251); e) Inamovilidad de aquellos, ya
+que no pueden ser depuestos de sus destinos sino por causa legalmente
+probada y sentenciada, ni suspendidos sino por acusación legalmente intentada; f)Ausencia de prejuicios en los magistrados, de manera que los que
+hubieren fallado en la segunda instancia, no podían asistir a la vista del
+mismo pleito en la tercera (art. 264)87. Y a las anteriores sabias condiciones
+se sumaba otra que merece glosa puntual.
+
+A. de Argúelles, Discurso preliminar a la Constitución de 1812, Ed. CEC, Madrid, 1981, pp. 67-77.
+Vid., A. Fiestas, “La libertad de imprenta durante las dos primeras etapas del liberalismo español”, en
+AHDE, núm. 59, año 1989, p. 351 y ss.
+87
+No se recoge tal disposición en nuestra vigente Constitución de 1978, pero si en la doctrina del TC. Así
+SSTC 162/1999, de 27 de septiembre y 63-69/2001, de 17 de marzo, entre otras.
+85
+86
+
+380
+
+
+
+En efecto, el Capítulo I del Título V que comentamos se cerraba con
+un precepto sólo baladí en apariencia, el 279 que rezaba así: “Los magistrados y jueces al tomar posesión de sus plazas jurarán guardar la Constitución,
+ser fieles al Rey, observar las leyes y administrar imparcialmente la justicia”.
+A primera vista se trata de una consagración rituaria del principio de sometimiento de los juzgadores al imperio de la ley. Así era, pero este artículo
+constituía también el soporte sobre el que exigir de jueces y magistrados su
+afección a la causa gaditana. La infidencia, o colaboración antipatriótica con
+el ocupante francés era constitutiva de delito88 y causa de depuración. Pero
+al calor de este precepto constitucional (juramento de guardar la Constitución) se persigue también a un nuevo enemigo. En palabras de Martínez
+Pérez: “La existencia de jueces contrarios o apáticos a las reformas (de Cádiz)
+exigió de las Cortes no tanto la adopción de una persecución penal, cuanto
+la fijación de calidades que obstaculizaran el acceso al aparato de justicia de
+aquellos jueces más inmovilistas, ya fuera por consciente oposición o, simplemente, por indiferencia”89.
+VII.6. La responsabilidad de jueces y magistrados
+Sentado por la Constitución de 1812 que jueces y magistrados son
+independientes en el desempeño de la potestad de juzgar, una primera consecuencia era obligada conforme a los designios de la más clásica escuela del
+Derecho público: “Donde está el poder, está la responsabilidad”. Lógico era,
+desde esta perspectiva, el mandato del art. 254 de la Constitución: “Toda falta
+de observancia de las leyes que arreglan el proceso en lo civil y en lo criminal, hace responsables personalmente a los jueces que la cometieren”. Pero
+a tal lógica se sumaba otra de no menor relieve. Nos referimos a que la denominada aristocracia togada, incluido su más alto nivel, era renuente a las
+reformas constitucionales en ciernes. No parece casualidad que a fines de
+1811, cuando se discute este Título V de la Constitución sea cuando arrecie
+la difusión de panfletos y folletos críticos con ciertos aspectos de la reforma
+liberal90. Lógico es pues que los constituyentes establezcan tal responsabilidad como personal (no se constitucionaliza la responsabilidad civil del Estado
+por los errores judiciales), y que salgan al paso, en el art. 255 de la C., del
+miedo de los perjudicados a acusar a jueces y magistrados de los delitos de
+soborno, cohecho y prevaricación, constitucionalizando la acción popular
+contra los autores. A la misma lógica de cierta desconfianza hacia la aristoc-
+
+88
+El delito de traición estaba debidamente tipificado en la Ley Primera de Partidas, Tit. 2, que se aplicó
+durante toda la Guerra de Independencia.
+89
+F. Martínez Pérez, Entre confianza y responsabilidad. La justicia del primer constitucionalismo español
+(1810-1823), Ed. CEPYC, Madrid, 1999, p. 57.
+90
+Vid., F. Martínez Pérez, op. cit., p. 168.
+
+381
+
+
+
+racia togada creemos que responde el art. 261, 5º, conforme al cual llegado
+el caso de hacer efectiva la responsabilidad de miembros del Supremo Tribunal, las Cortes “nombrarán para este fin un tribunal de nueve jueces”, a
+modo de versión liberal de la espada de Damocles que pendía sobre las
+cabezas de los más altos magistrados del reino.
+A propuesta de la Comisión de Arreglo de los Tribunales, las Cortes
+Generales aprobaron el Decreto de 24 de marzo de 1813, sobre responsabilidad de los empleados públicos, cuyo primer Capítulo se dedicaba a los
+magistrados y jueces con definición de los supuestos de conductas por las que
+habían de responder y de los órganos ante los que habría de exigirse91.
+Más tarde, durante el Trienio Liberal, se tiende a blindar un tanto de
+posibles exigencias de responsabilidades a ciertos funcionarios y autoridades, como los alcaldes. Es la reacción conocida como el giro antijudicialista del Trienio Liberal, bien estudiada por el profesor Santamaría92.
+VII.7. La competencia del órgano jurisdiccional
+predeterminado por la ley
+Garantía esencial de imparcialidad para todo justiciable es que el
+Juez o Tribunal que deba conocer su caso no sea designado ex post factum,
+sino que sólo pueda ser aquel investido de jurisdicción y competencia con
+anterioridad al hecho desencadenador del proceso y con un régimen orgánico y procesal que no permitan calificarlo de órgano excepcional.
+Esta sabia previsión estaba contenida en el art. 247 de nuestra Constitución de 1812: “Ningún español podrá ser juzgado… sino por el tribunal
+competente determinado con anterioridad por la ley”, nítido antecedente del
+art. 24.2 de la Constitución de 1978: “Todos tienen derecho al juez ordinario
+predeterminado por la ley”. Así nuestra Constitución vigente sigue la redacción
+de nuestra primera decimonónica porque a la hora de la “transición” se buscaba, como en la Isla de León, evitar el nombramiento de Jueces especiales
+con posterioridad a la comisión de unos hechos, lo que había sido habitual en
+el régimen franquista y a la par se procuró una redacción de prestigio para soslayar por consenso la expresión “derecho al Juez natural”, que, siguiendo a un
+
+91
+El Decreto amplió, a tal efecto, las competencias del Supremo Tribunal y definió las de las Audiencias
+para exigir responsabilidades a los jueces letrados de primera instancia.
+Vid., Mª P. Alonso Romero, Orden procesal y garantías entre Antiguo Régimen y constitucionalismo gaditano, Ed. CEPYC, Madrid, 2008, pp. 323-326.
+92
+J. A. Santamaría Pastor, Sobre la génesis del Derecho administrative español en el siglo XIX (1812-1845),
+Sevilla, 1973. Vease especialmente el Capítulo II: “El cuarteamiento del sistema judicialista”, pp. 79-100.
+
+382
+
+
+
+sector de la doctrina italiana de la época, era del gusto de algún grupo parlamentario de la izquierda.
+VII.8. Legislación sobre la “planta” de los tribunales
+Llama la atención de un constitucionalista de nuestro tiempo que la
+Constitución de Cádiz dedique tantos artículos (del 271 al 275, más los dedicados al Supremo Tribunal: Del 259 al 261)) a la organización territorial de
+los órganos jurisdiccionales. Es lo que tradicionalmente llamamos “la planta
+de juzgados y tribunales”, que consideramos materia no propia de tratamiento tan detallado en una Constitución.
+La explicación de la atención pormenorizada que “la planta judicial” recibe en la Lex normarum de 1812 creemos que está en que la herencia que se recibía al respecto de la Monarquía absoluta era inservible y una
+vez asentado el principio de la concentración jurisdiccional había que plantearse la construcción de un edificio jurisdiccional “de nueva planta”.
+VII.8.1. Órganos:
+Los órganos previstos eran: El “Supremo Tribunal de Justicia”, sobre
+el que hemos de volver. Un número de Audiencias a fijar “cuando las circunstancias políticas de la Nación lo permitan”. Jueces de letras en cada cabeza
+de partido judicial. Y por último, Alcaldes (no necesariamente letrados) en
+todos los pueblos. Pocos meses después de publicarse la Constitución, se
+dictó —el 9 de octubre de 1812— el “Reglamento de Audiencias y Juzgados
+inferiores”, con normas procesales en los órdenes civil y penal.
+Dejemos constancia de que en esta situación de transición el procedimiento de cobertura de vacantes, que constituye cuestión siempre delicada para garantizar la independencia de jueces y magistrados, se resolvió
+en Cádiz mediante estas premisas: a) Se consideró que todos los nombramientos eran interinos hasta que no estuviesen ajustados los Partidos judiciales, Audiencias y Supremo Tribunal de Justicia a la planta constitucional;
+b) Las candidaturas para cubrir la vacante eran propuestas por el Consejo de
+Estado en terna, junto con una información reglada sobre cada candidato;
+c) Se seguía un procedimiento que varió a lo largo de los períodos de vigencia de la Constitución; y d) El nombramiento correspondía al Rey.
+
+383
+
+
+
+VII.8.2. Creación del Tribunal Supremo. Sus funciones
+La Constitución doceañista consagra a la cabeza de la Administración de Justicia un Tribunal en La Corte (es decir, en Madrid), denominado
+"Supremo Tribunal de Justicia", que es heredero de una tradición francesa
+que, a su vez, debe mucho a la Constitución Norteamericana de 178793.
+A este Supremo Tribunal, en debate de las Cortes particularmente
+conciso94, se atribuyen constitucionalmente once funciones, aunque no el
+conocer del recurso de casación (inexistente en la época), pero si el de nulidad de actuaciones —salvo en ultramar donde el mismo estaba residenciado
+en las Audiencias— y de una singular formulación de lo que hoy llamaríamos “unificación de doctrina”, consistente en “oír las dudas de los demás tribunales sobre la inteligencia de alguna ley, y consultar sobre ellas al Rey con
+los fundamentos que hubiere, para que promueva la conveniente declaración en las Cortes”.
+Al alto tribunal quedan aforados los Secretarios de Estado y del Despacho, cuando las Cortes decretaren haber lugar a la formación de causa, los
+Consejeros de Estado y los Magistrados de las Audiencias.
+Igualmente, en beneficio de la celeridad de la administración de
+justicia, se confía al Supremo Tribunal examinar las listas de las causas civiles y criminales, que debían remitirle las Audiencias, para promover su
+pronta resolución y disponer su publicación por medio de la imprenta.
+Medida esta que fue objeto de alguna intervención en las Cortes presidida
+por el más sabio y realista escepticismo acerca de los efectos que pudieran
+esperarse de la misma95.
+Acerca de la trayectoria que siguió el Supremo Tribunal de Justicia
+sólo debemos constatar que desde que sus magistrados tomaron posesión
+hasta que se reguló este máximo Tribunal –Reglamento de marzo de 1814,
+poco antes de que Fernando VII derogase la Constitución- transcurrió un
+tiempo en que el Tribunal funcionó a su aire, puesto que las funciones que
+básicamente desempeñó eran las que había ejercido el Consejo de Castilla.
+Es decir, en la actividad del Supremo Tribunal hubo una inercia quizás
+basada en un cierto desapego al espíritu de la propia Constitución. Como
+
+93
+Cfr., Ch. Warren, The Supreme Court in United States History, Boston, 1922, 2 vols; L. B. Boudin, Government by Judiciary, Nueva York, 1932; y R. K. Carr, The Supreme Court and Judicial Review, Nueva York, 1942, p. 21 y ss.
+94
+Sesiones del 23 al 28 de noviembre de 1811, en las que se trataron otros muchos temas que no provenían de la Comisión de Constitución.
+95
+Intervención del Sr. Zarraquin el 28 de noviembre de 1811, Diario de las Discusiones y Actas de las
+Cortes. tomo X, pp. 241-242.
+
+384
+
+
+
+tribunal en que estaban aforados altos magistrados, enjuició al ex-regente
+Lardizabal entrando en conflicto abierto con las Cortes96.
+La actitud renuente de este alto tribunal no fue obstáculo para que
+en 1820, tras restablecer Fernando VII la vigencia de la Constitución de 1812,
+la Junta provisional gubernativa lo restableciese de inmediato.
+VIII. REAL DECRETO DE FERNANDO VII
+DE 4 DE MAYO DE 1814
+Sólo procede referirnos a este Real Decreto que Fernando VII firma
+en Valencia declarando “nula y de ningún valor ni efecto la Constitución de
+las llamadas Cortes generales y extraordinarias de la Nación”, por el cuidado
+que pone el Monarca en aspectos relativos a procurar que no se interrumpa
+la administración de justicia, que pese a las dificultades inherentes a las circunstancias de la época, se gestionaba ya, por lo general, conforme a lo dispuesto en la Constitución de 1812.
+Así en el abigarrado texto del mismo —que, como es sabido sólo
+consta de un extensísimo y prolijo párrafo—, se dispone: “Y para que entre
+tanto que se establece el orden, y lo que antes de las novedades introducidas se observaba en el reino, acerca de lo cual sin pérdida de tiempo, se
+irá proveyendo lo que convenga, no se interrumpa la administración de justicia, es mi voluntad que entre tanto continúen las Justicias ordinarias de los
+pueblos que se hallan establecidas, los jueces de letras adonde los hubiere,
+y las Audiencias, Intendentes y demás Tribunales de Justicia en la administración de ella”. Pero se establece una excepción al dictar que “Cesará en
+todos los juzgados del reino el procedimiento en cualquier causa que se
+halle pendiente por infracción de Constitución”97. Lo primero era un pequeño
+reconocimiento tácito de la superioridad del régimen judicial liberal sobre
+el absoluto, efectuado por un Monarca que no reconocería, al menos hasta
+el trienio liberal, ninguna otra virtud a la Constitución gaditana.
+Los absolutistas no se tomaron la molestia de justificar su actitud
+mediante una crítica sistemática del contenido del Título V de la Constitución
+de Cádiz, pero encontramos una síntesis de la misma en la obra de Haller98.
+
+96
+El Supremo Tribunal, ejerció las funciones que le encomendaban las Cortes de 1812 en cuanto a su función consultiva en muy numerosos casos.
+97
+Vid., M. Fernández Martín, Derecho parlamentario español, Ed. Imprenta de los hijos de J. A. García,
+Madrid, 1885, tomo 2º, pp. 420-556 y 862-863.
+98
+Haller, Análisis de la Constitución española. Obra escrita en alemán por Mr. De Haller, autor de la restauración de las Ciencias políticas. Traducida al francés por el mismo y a la lengua castellana por un amante de su Rey.
+Ed. Imprenta de D. José del Collado, Madrid, 1823, pp. 30-38.
+
+385
+
+
+
+En 1820 la vigencia de la Constitución del doce, como todos sabemos, se restableció. Pero aquellas fueron unas Cortes con distinta climatología: los liberales exaltados y los realistas contra revolucionarios descargaron virulentas tormentas sobre toda suerte de temas incluidos los
+relacionados con la Justicia. Los enfrentamientos frecuentemente estuvieron ayunos de los debates constructivos que habían protagonizado la mayoría del tiempo constituyente en Cádiz, en que los Diputados celebraron
+unos diálogos que quizás fueron los más innovadores y de más altura de la
+historia de nuestro constitucionalismo patrio.
+
+IX. CONSTATACIÓN BREVE DEL INFLUJO
+DE LAS CORTES DE CÁDIZ MÁS ALLÁ DE LA VIGENCIA
+DE LA CONSTITUCIÓN DE 1812
+Creemos que los historiadores del constitucionalismo español tienen un ancho campo de estudio en analizar el impacto que la obra de
+Cádiz tuvo en el constitucionalismo posterior. Y particularmente —junto a
+otras de nuestras Cartas Magnas— en la aun poco estudiada de 1837.
+La Constitución de 1837, desde cierta óptica, expresión de un liberalismo progresista admirador de la Constitución de 1812, pero, a la par, es
+una profunda revisión de la misma, suavizada por la experiencia del exilio
+de unos liberales, por la dilatada reflexión sobre lo sucedido de otros, y
+también por el entendimiento con los moderados encabezados por Andrés
+Borrego, se nos ofrece como un buen texto jurídico fundamental, breve a
+diferencia de la gaditana, por lo que se adelanta a D. José Ortega en su tesis
+de que “las Constituciones han ser como los galgos, todo músculos y huesos, nada de tejido adiposo”99. Se suelen conectar ambas constituciones a
+través de la figura de Argüelles que participó en la Comisión redactora de
+la de 1837, que presidió Olózaga100.
+Si nos atenemos a la visión de Alcalá Galiano sobre la Constitución de 1837, pese a su desafecto hacia Argüelles, al que adjetiva de sectario, percibiremos que en sus lecciones en el Ateneo de Madrid, no oculta
+las raíces gaditanas que se observan en el sistema político constitucional de
+1837 en la visión del jurado (art. 2º), la prohibición de tormento a los procesados, la publicidad en los juicios penales (art.65), la responsabilidad
+
+99
+J. Ortega y Gasset, “Discurso en las Cortes Constituyentes, el 4 de septiembre de 1931”, en Discursos
+políticos, Alianza Editorial, Madrid, 1974, p. 144.
+100
+No conocemos las Actas internas de los trabajos de esa Comisión, por lo quje es difícil precisar el peso
+de las aportaciones de Argüelles.
+
+386
+
+
+
+personal de los jueces (art. 67), la prohibición de que sean confiscados los
+bienes de los condenados (art. 10), la aceptación de que no se utilice el
+juramento en la declaración del reo…101.
+Lo que nos parece también dotado de interés es que los constituyentes de 1837, son mucho más lacónicos que los gaditanos. En efecto, de
+una parte en el Título I —que contiene, bajo el rótulo “De los Españoles—
+sólo diez artículos que sintetizan la parte dogmática de esta Constitución se
+incluyen tres preceptos con derechos del justiciable; de otra, tras, rotular el
+Título X de esta Lex superior, superados ya los complejos de ser fieles a una
+presunta tradición liberal medieval patria, como "Del Poder Judicial"102 cuajan en seis breves artículos —repletos de reservas de ley—, calificables
+coloquialmente como de contenido más prudente que progresista, el armazón constitucional del Poder Judicial. Buena parte de aquellas formulaciones sobrevivirán a la corta vigencia de aquel buen texto constitucional103.
+Hay una herencia del espíritu de la Constitución de 1812, pero desde luego
+no de su letra. Se sigue la máxima de Gracián:”más valen quinta esencias
+que fárragos”, delegándose en el legislador ordinario el desarrollo de los
+preceptos constitucionales.
+
+101
+A. Alcalá Galiano, Lecciones de Derecho político, Madrid, 1838. Citamos por la edición del CEC, Madrid,
+1984, pp. 209-244.
+102
+Esto era en la época toda una actitud progresista, que sólo tendría continuación en las Constituciones
+de 1856 y 1869. Mientras que los textos constitucionales más conservadores de 1845 y 1876 sustituirán aquella denominación por la de "De la Administración de Justicia", que parece no presumir la asunción de la doctrina de la división
+de poderes, de difícil encaje con las tesis conservadoras sobre la Constitución interna.
+103
+En el primero de ellos (art. 66), síntesis de dos preceptos de la Constitución de 1812, se disponía que: "A
+los Tribunales y Juzgados pertenece exclusivamente la potestad de aplicar las leyes en los juicios civiles y criminales; sin
+que puedan ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado".
+El precepto siguiente establecía que: "Las leyes determinarán los tribunales y Juzgados que ha de haber, la
+organización de cada uno, sus facultades, el modo de ejercerlas, y las calidades que han de tener sus individuos". Se
+guarda silencio sobre nombramientos y ascensos. Pero al cese de los juzgadores se dedica el art. 66: "Ningún Magistrado
+o Juez –leemos– podrá ser depuesto de su destino, temporal o perpetuo, sino por sentencia ejecutoriada; ni suspendido
+sino por auto judicial, o en virtud de orden del Rey, cuando éste, con motivos fundados, le manda juzgar por el Tribunal
+competente".
+Del clima de desconfianza hacia los jueces ya no queda prácticamente rastro, porque difícilmente se puede
+considerar tal el precepto que lacónicamente decreta, conforme a lo que ya constituía tradición en nuestro constitucionalismo, que "Los jueces son responsables personalmente de toda infracción de ley que cometan".
+Y cerraba el Título una afirmación que era parte del encabezamiento del tratamiento de la materia judicial
+en el proyecto de Constitución de Isturiz: "La justicia se administra en nombre del Rey". El posponer esta cláusula tenía
+un cierto significado, puesto que el orden de protocolo también juega su papel en la sistemática jurídico constitucional.
+Como singularidad muy peculiar de la Constitución de 1837 hay que citar que en el primero de sus dos llamados artículos adicionales prevé que "Las leyes determinarán la época y el modo en que se ha de establecer el Juicio
+por Jurados para toda clase de delitos". Así, de nuevo, el Jurado se nos aparece como una bandera liberal progresista, ajena
+a la tradición procesal española, pero entendida como un derecho derivado de la ciudadanía de que gozaban los hombres de los países donde se había hecho la revolución liberal y los súbditos consecuentemente se habían transformado
+en ciudadanos, aunque su concreción prudentemente se delegaba en lo que, en su caso y día, dispusieran las Cortes. Para
+algunos juristas liberales de la época, el contenido de o que ven como un derecho era participar activamente en la función jurisdiccional en toda clase de procesos penales (es decir con mayor amplitud a como está contemplado en el art.
+125 de nuestra Constitución de 1978); y el derecho era así entendido de tal manera que bien puede decirse de él que
+pasaba a integrarse en el status activae civitatis según la conocida clasificación de Jellinek.
+
+387
+
+
+
+De forma que pueda afirmarse, sin miedo a incurrir en la exageración, que el gran esfuerzo que se desplegó en Cádiz por nuestros primeros liberales para poner los cimientos de un sistema de Administración de
+Justicia a través de jueces independientes fructificó a lo largo de nuestra
+dilatada historia constitucional con ecos que han dejado su impronta en
+nuestra constitución vigente. Y a la par aquellas aportaciones fueron objeto
+de mímesis por los numerosos países de Europa104 y América105 que se inspiraron en nuestra Constitución de 1812, que desde la óptica del Derecho
+Comparado creemos que sigue siendo doscientos años después el texto
+más importante de nuestra historia constitucional. Al menos en lo que concierne a su Título VII sin duda alguna lo es.
+
+104
+El caso dotado de mayor interés nos lo ofrece la Constitución noruega de 1814, que tras numerosísimas
+reformas se encuentra aún en vigor y a la que hemos hecho reiterada alusión en nuestro epígrafe VII.1.1.
+Vid., J. Ferando Badía, La Constitución española de 1812 en los comienzos del “risorgimiento”, Consejo
+Superior de Investigaciones Científicas, Madrid, 1959. También A. Romano, “Cádiz en Italia. La recepción de Constitución de Cádiz en Italia y la revolución piamontesca” en J.A. Escudero (dir.) y AAVV, Cortes y Constitución de Cádiz 200
+años, ed. Espasa, Madrid, 1911, vol., III, pp. 473-549
+105
+Vid., J.A. Escudero, loc. Cit., Nota anterior, pág. 550 y ss. También R.M. de Labra, América y la Constitución española de 1812, Tipografía de Sindicato de Publicidad, Madrid 1912.
+
+388
+
+

@@ -1,0 +1,611 @@
+Qué es psicohistoria
+por el Académico de Número
+
+Excmo. Sr. D. José Luis Pinillos^ Díaz (*)
+
+Entre los desarrollos más recientes—y quizá también más confusos— de las
+ciencias humanas, ocupa un lugar destacado la psicohistoria. El crecimiento de esta
+
+nueva disciplina ha sido rápido y desordenado, criticado conrazón, aunque muy sig
+nificativo, creo yo, para el futuro de las ciencias humanas. Por ello me pareció que
+mi intervención en la Academiapodría consistir esta vez en sometera su considera
+ciónun informe con lo que se me alcanza acerca de este asunto, que a mi entender
+andatodavía más sobrado de interés que de claridad: ló cual, dicho sea de paso, no
+me parece mal.
+
+1.
+
+EL TRASFONDO DE LA CUESTION
+
+En un primer acercamiento al tema, pienso que la psicohistoria puede situarse
+en el marco del gran debate sobre el método —der Methodenstreit—que tuvo lugar
+durante la segundamitad del siglo pasado, sobre todo en Alemania, a propósito de
+las similitudes y diferencias entre las Ciencias del Espíritu y las de la Naturaleza.
+Yo tengo parea mi que, aun siendo preciso, ha habido demasiado compelle
+intrate en la psicología naturaUsta de este siglo. Así sé temió en el debate a que
+aludo, y así ha sido en realidad después.
+
+El debate —en el que participaron figuras de la talla de Brentano, Dilthey,
+Droysen, Eucken, Ebbinghaus, Freud, Husserl, Stuart Mili, Windelband, Wundt y
+ese indefinido etcétera que suele añadirse en estas ocasiones—, el debate se pola(*)
+
+Sesión del día 31 de marzo de 1987.
+243
+
+
+
+rizó, como es notorio, en tomo a la distinción epistemológica, establecida primero
+
+por Droysen, y elaborada luego por Dilthey, entre las operaciones de explicar y de
+comprender, entre la Erklarung y la Verstándnis. O sea, entre la operación de
+explicar científicamente un opaco mundo exterior necesitado de la inducción de
+hipótesis y causas —^justamente por razón de su opacidad—, entre la explicación
+indirecta de este mundo físico, digo, y la comprensión iimiediata, la intuición inte
+lectual de un mundo interior diáfano, aprehendido en el conocimiento inmediato de
+la vida y de sus conexiones de sentido. En el primero de los casos, el hombre de
+ciencia trabajaría con una experiencia exterior, de naturaleza compositiva
+rung), que sería como una acumulativa experiencia de cosas (Dinge), mientras en la
+segunda alternativa el psicólogo «comprensivo» operaría desde una experiencia
+vital inmediata (Erlebnis), donde las realidades (Sachen) y sus conexiones de sen
+tido (Zusammenhange) se harían directamente manifiestas al sujeto sin necesidad
+de recurrir a hipótesis, inducciones e inferencias. Por ello, la naturaleza habría que
+explicarla, pero la vida humana habría que comprenderla. De ahí también que si la
+vida hubiera que explicarla exclusivamente con los métodos de las ciencias natura
+les, las ciencias del hombre estarían en una permanente crisis de identidad: que es lo
+que, de algún modo, le habría venido aconteciendo a la psicología científica durante
+todo este siglo, como resultado quizá del excesivo apego al naturalismo que presidió
+su iniciación a finales del xix.
+
+En definitiva, con independencia de que expresemos la cuestión en estos térmi
+nos diltheyianos o en otros —porque el problema viene de muy atrás y se ha formu
+lado de muchas maneras—, la sospecha de que entre las ciencias del espíritu y las de
+la naturaleza puede haber diferencias importantes, derivadas de la heterogeneidad
+de sus respectivos campos de trabajo, constituye a la postre el punto de partida epis
+temológico de todas las psicologías que pretenden ir más allá del naturalismo, cual
+es justamente el caso de la psicohistoria. Por supuesto, vuelvo a decirlo, el problema
+no surge con Dilthey, es muy anterior a la.Methodenstreit. Ya Descartes, por ejem
+plo, se resistió a entregar el pensamiento humano a la jurisdicción de la razón mecá
+nica —eso quedaba para el cuerpo—, y bien inequívocos son también a este
+respecto los pasajes en que un Pascal toma postura frente a las ciencias abstractas
+como vía de acceso a la intimidad humana:
+
+«Yo había pasado, mucho tiempo en el estudio de las ciencias abstrac
+tas, y la escasa comunicación con los hombres que de ello se saca me había
+hastiado. Cuando comencé el estudio del hombre, vi que semejantes ciencias no
+
+son propias para este fin, y que yo me descarriaba más de mi condición pene
+trando en ellas que ignorándolas.»
+
+Está claro que Pascal había advertido, igual que tantos otros, las limitaciones de
+lo que el llamó «espíritu geométrico» por lo que hace al conocimiento del hombre. A
+esas limitaciones les dedicó nada menos que un tratado (De l'esprit géométrique et
+244
+
+
+
+de Vart de persmder), pensando que en el estudio de la vida humana intervenía
+mucho el sentimiento, y que por consiguiente debía ponerse más bien en manos del
+esprit de finesse, que es donde operan razones del corazón que la razón desconoce.
+Recuerdo ahora en conexión con esto la cita que Paúl Hazard hace de un historiador
+
+del siglo XVIÍ, el padre Moyne, recabando el valor ejemplar e incitador del relato
+histórico;
+
+«La historia es una narración continua de cosas verdaderas, grandes y públi
+cas, escrita con espíritu, con elocuencia y juicio, para la instrucción de los particu
+lares y de los príncipes, y por el bien de la sociedad civil.»
+
+La historia, en suma, como el resto de las ciencias del espíritu, sería irreductible
+al modelo de ciencia natural asumido por las modernas ciencias del hombre; impli
+caría, entre otras cosas, un tipo de experiencia sui generis, una experiencia diferente
+
+de la de los saberes científico-naturales o matemáticos. La psicohistoria seríajusta
+mente un intento de superar ese reduccionismo naturalista de la psicología cientí
+fica. Así, en su importante fimdamentación de la psicohistoria, el profesor Lloydde
+Mause asegura que la implicación íntima, sentimental, del psicohistoriador en la
+elección de los problemas —una implicación muy distinta de la asepsia y neutrali
+dad afectivaque se recomienda en la ciencianatural— le es por completo indispen
+sable al psicohistoriador. Pues tal como dice el proverbio, «si no se ama ni se odia
+no se puede comprender nada».
+No es cosa de intentar reconstruir ahora el pasado de un problema secular, no se
+trata de que nos remontemos a la contraposición del nomos y la physis, valga el
+ejemplo. Pretendemos tan sólo marcar la diversidad experiencial de que, cuando
+menos en apariencia, arrancan las humanidades y las ciencias de la naturaleza. Y a
+tal fin no nos resistimos a citar el impresionante pasaje de Oswald Spengler en que
+culmina la distinción que establece entre el universo como historia y el universo
+como naturaleza;
+
+«En todo idioma culto hay un cierto número de palabras que permanecen
+envueltas en un profundo velo de misterio: hado, fatalidad, azar, predestinación,
+
+destino. No hay hipótesis, no hay ciencia que pueda expresar la emoción que se
+apodera de nosotros cuando nos sumergimos en el sonido y significación de dichos
+vocablos. Son símbolos y no conceptos. Constituyen el centro de gravedad de esa
+imagen del mundo que he llamado el universo como historia, a distinción del uni
+verso como naturaleza. La idea del sino requiere experiencia de la vida, no expe
+riencia científica... (lo sea! Erlebnis, no Erfahrung). Y concluye Spengler; Este
+sentimiento del sino... sólo es comunicable por medio del arte y de la religión, pero
+nunca por demostraciones y conceptos.»
+Lo cual ciertamente es definitivo —recordemos la función de la ejemplaridad en
+los paradigmas kuhnianos—, y nos remite de nuevo a la pregunta de si los rasgos
+245
+
+
+
+distintivos del co¿iportamiento humano son a la postre asumibles por una episte
+mología inspirada en las ciencias de la naturaleza, o si por el contrario exigen una
+metodología distinta, más adecuada a la condición humana que pretenden estudiar.
+Si, ya sé que se me puede alegar que hoy los métodos de análisis de datos se han
+refinado mucho y hacen maravillas, y son aplicables con éxito al campo de lo
+social. Estoy en ello, fío en ello, apuesto por ello; pero a la vez no por eso dejo de
+reconocer que la epistemologíade las ciencias humanas al uso, la que practica en su
+gran mayoría la comunidad científica actual, despide un cierto tufo naturalista, tiene
+una manera de mirar que deja más bien fuera de foco aquellas dimensiones del com
+portamiento que son más distintivas del ser humano, y al descomponer las totalida
+des que estudia en variables, convierte al hombre en mecanismo.
+
+En cualquiercaso, comodigo, la cuestión es seculary continúaabierta,y no hay
+más que volver la mirada a los trabajos de Campbell, Hempelo Quine, en el mundo
+anglosajón, o contemplar la renovación del interéspor el problemadel «Verstehen»,
+o la publicación de un importante anuario dedicado a Dilthey y las Ciencias del
+Espíritu (Dilthey-Jahrbuch für Philosophie und Geschichte der Geisteswissenschaften), o pensar en cómo escribenjla historia,hombres como Foucault, para darse
+
+cuenta de que el problema sigueen pie: esprii dejinesse, Einfühlung, empatia, versus esprit géométrigue, observación, medida, elementalismo.
+
+Es difícil, en efecto, enfrentarse seriamente con el problema del comporta
+miento humano prescindiendo del hecho evidentísimo de que nuestra experiencia
+interna, subjetiva, es distinta de la experiencia pública, intersubjetiva, que postula
+la ciencia natural; pero a la par indispensable para dar razón de la actividad huma
+na en cuanto humana. A diferencia del animal, los seres humanos vivimos en
+
+un tiempo histórico, que cobra espesor con su transcurso y que es claramente irre
+
+ductible al tiempo lineal de la física: por no hablar de la posibilidad de que el hom
+bre sea él mismo una realidad histórica, tal como lo propusiera Dilthey.
+No muy distinto es lo que pasa con la diferencia que existe entre las conductas
+regladas y las conductas causadas, esto es, entre las respuestas que se efectúan
+teniendo en cuenta reglas vulnerables, y las que obedecen a leyes necesarias; o
+dicho aún de otro modo, la diferencia entre las respuestas sin más, propias del ani
+mal, y las respuestas y propuestas responsables, propias del hombre. O quien dice
+esto, puede referirse también a la diferencia que separa la conducta entendida como
+
+efecto, del comportamiento entendido como proyecto. En un caso, la conducta es
+simplemente efecto de sus causas, mientras en el otro es causa de sus efectos, o sea,
+una actividad que alguien ejerce en vista de algo, en razón de un fin, con miras a la
+obtención de ciertos resultados.
+
+Son muchas, en fin, las cuestiones por dirimir antes de aceptar el status quo del natu
+ralismo psicológico como definitivo. Está pendiente, vaya por caso, la eterna cuestión de
+246
+
+
+
+la conciencia; es decir, si se trata o no de un mero epifenómeno que acompaña a nues
+tra actividad corpórea, pero no influye para nada en ella, o si por el contrario la
+toma de conciencia, la elevación de los problemas al plano del habla, es uno de los
+modos de incidencia de la historia en la conducta, una mediación psico-sociohistórica que ejerce una influencia real y efectiya en nuestros actos, como postulan,
+por ejemplo, Grabski y el círculo de la Academia de Ciencias de Varsovia, que se
+ocupa de la conciencia histórica. No puede dar uno por zanjada la cuestión, esto es,
+no puede uno aceptar el monismo epistemológico y metodológico naturalista, sin
+averiguar antes si en efecto ese «esprit de finesse» que tenia Pascal por irreductible
+al «esprit géometrique», excede de la metodología científica usual, y añade algo
+substancial o no para el conocimiento del hombre. Antes hay que poner en claro por
+qué tantas cuestiones psicológicas importantes son excluidas por principio de la psi
+cología como ciencia natural.
+
+Esta limitación metodológica ha sido uno de los principales motivos, creo yo,
+por los que la dimensión histórica del comportamiento humano ha quedado un tanto
+descolgada de la psicología científica de este siglo. Así le ocurrió a Wundt, y por
+ello emprendió a última hora aquella operación correctora —claramente psicohistórica en su intención—, a la que llamó psicología de los pueblos (Vólkerpsychologie)
+y que inició, como digo, para suplir las deficiencias de su psicología experimental en
+la investigación del pensamiento. No muy diferente es lo que le aconteció también a
+Wolfgang Kóhler a propósito del puesto de los valores en un mundo de hechos, y no
+digamos al freudomarxismo de la escuela de Frankfurt, que justamente habría de
+jugar un papel tan destacado en el desarrollo de la psicohistoria.
+
+La opción naturalista, que por lo demás era la única que había, tuvo pues un alto
+coste. Tal vez, la reducción de la psicología a ciencia natural, ese Naturalisiemng des
+Psychischen que criticaba certeramente Husserl en «La crisis de las ciencias europeas
+y la fenomenologíatranscendental», necesita respuestas como la de la psicohistoria. En
+
+última instancia, de ío que trataría esta nueva disciplina en sus diversas versiones,
+es de no reducir la psicología al estudio de mecanismos y conductas naturales, sino
+de su dilatación sociocultural. En suma, la psicohistoria representaría un intento de
+ensanchar metodológicamente la psicología científica, con el fin de dar cabida en
+ella a un modelo de comportamiento humano no amputado de su condición histó
+rica. Pienso que contemplada la psicohistoria al trasluz de ese horizonte,
+se nos muestra como un empeño de mayor alcance que una moda pasajera.
+Digamos ahora algunas palabras sobre sus orígenes y la trayectoria que ha seguido
+hasta el presente.
+2.
+
+LOS COMIENZOS DELA PSICOfflSTOWA
+
+A mi parecer, el desarrollo de la psicohistoria puede articularse en tomo a unas
+pocas etapas y puntos de inflexión, que comentaré brevemente.
+247
+
+
+
+1. La psicohistoria avant la lettre
+
+El encuentro de la psicología y de la historia cuenta como es lógico Con un largo
+pasado de aproximaciones y tanteos que, por razones obvias, habré de pasar por
+alto en esta ocasión. En otro lugar me he referido a esa especie de psicohistoria anti
+cipada, que cuenta en su haber con nombres tan ilustres como los de Juan Bautista
+
+Vico, Jules Michelet, Johann Gottfried Herder, Augusto Comte y, por descontado,
+Guillermo Dilthey, entre otros. De formas muy variadas, en efecto, los filósofos de
+la historia, los historiadores mismos, han tenido que manejar en su trabajo ideas
+psicológicas, manifiestas o latentes, como por ejemplo lo hicieran Vico y Dilthey a
+la hora de interpretar la evolución mental de la humanidad. Lo cual, sin embargo,
+todavía no es psicohistoria, entre otras razones porque por aquel entonces, antes de
+Wundt, aún no se contaba con una psicología científica capaz de proveer al
+historiador de claves interpretativas de los actos humanos.
+
+De hecho, por ejemplo, los tres tipos psicológicos —tre spezie di natura— de
+que parte Vico en su filosofía de la historia tienen tan escasa base científica como
+
+las etapas de la evolución mental que Comte da por buenas en su famosa ley de los
+tres estadios. Es posible acaso, como con extraordinaria agudeza señaló Lañiente
+Ferrari, que Dilthey hiciera ya uso de un método psicohistórico en su interpre
+tación de la cultura y de la vida, en su hermenéutica del espíritu humano. Es posible,
+insisto, que la Verstandnis diltheyiana supusiera una especiedemediación psicohistórica, una operación de enlace entre el mundo de los productos y significados
+culturales con el de su representación subjetiva; pero aun así, era demasiado pronto
+para hablar de psicohistoria.
+
+2. El nacimiento de la psicohistoria
+En realidad y de verdad, la psicohistoria comienza con Freud, y bajo el signo de
+una tensión entre la presión del instinto y la represión de la cultura. En un primer
+momento, Freud le saca partido al hecho de oponer la pulsión a la trayectoria pro
+
+gresiva de la historia; luego se pierde en especulaciones (José en Egipto), y final
+mente Fromm y Erikson confieren a la historia la posibilidad de asumir el instinto y
+domesticarle, por decirlo así.
+
+De hecho, el nacimiento de la disciplina se asocia al estudio freudiano de 19lU
+sobre un recuerdo infantil de Leonardo de Vinci. En este trabajo, es la primera veZjo al
+menos eso acostumbra a decirse, que unos conocimientos psicológicos —psicoar
+nalíticos— se utilizan para resolver un problema histórico concreto, a saber: por qué
+Leonardo se dispersaba tanto, por qué le resultaba tan difícil llevar a buen puerLolos
+proyectos que iniciaba.
+
+Tres años después del trabajo de Freud, o sea, en 1913, es un historiador, no un
+248
+
+
+
+psicoanalista, quien publica, en una revista psicológica (The American Journal of
+Psychology) un estudio sobre lajuventud de Lutero vista a la luz del psicoanálisis.
+Es decir, primero un psicoanalista utiliza claves psicobiográficas para descifrar
+hechos históricos, y en seguida un historiador profesional acepta y hace suya esa
+hermenéutica freudiana. Muy poco después, en 1919, nuevamente un historiador se
+pronimcia a favor de la cooperación entre la historia y la psicología. Más tarde,
+
+en 1923, al tiempo que Freud estudia una neurosis demoníaca en el siglo xvil,
+Pierce L. Clark publica en la Psychoanalytic Review un estudio psicobiográfico
+sobre el narcisismo de Alejandro el Grande, y al año siguiente, en 1924, el mismo
+autor publica otro ensayo enuna revista médica, que califica yade estudio psicohistórico («A Psychohistorical Study of the Sex Balance in Greek Art»), o sea,, un
+estudio psicohistórico del equiUbrio sexual, al que en 1927 seguirá otro del mismo
+autor, publicado en\o^Archives ofPsuchoanalysis, donde lo«psicohistórico» aparece
+de nuevo en el título: «A Psychohistorical Study of Akhanaton, First Idealist and
+Originator of a Monotheistic Religión».
+
+En definitiva, esenlos años veinte cuando secalifica depsicohistórica la herme
+néutica psicoanalítica que Freud inaugura en 1910, con el estudio psicobiográfico
+de Leonardo, y que cierra en 1936 con el borrador de una carta a Tomás Mann
+sobre José en Egipto, que ya bordea el delirio interpretativo a lo Lacan. Todo ello
+
+acontece, sin embargo, sin que el neologismo prospere; de hecho, la palabra psicohistoria parece entrar en una especie de período de latencia a finales de los años
+
+veinte, para no volver alasuperficie hasta bien entrados los años cincuenta, ajuzgar
+por los datos que yo tengo. En España, dicho sea de paso, el vocablo no surge, que yo
+sepa, hasta 1951, enque lo menciona varias veces Enrique Lafuente Ferrari ensudis
+curso de ingreso en la Academia de San Femando, para eclipsarse de nuevo hasta
+
+hace bien poco, en que Rof lo menciona en algunos artículos del ABC, y yo le
+dedico también alguna atención en 1986, con un curso monográfico de doctorado y
+un breve trabajo titulado «Historia y psique».
+
+En resumen, así es como en tomo alalectura psicoanalítica de lavida de algunos
+grandes hombres, se configura la primera versión, psicobiográfica, de la psicohistoria. Una versión fundada en el eterno retomo de lo reprimido, en la inexpugnabilidad del ello, y de la cual se distanciarían el fi-eudomarxismo de la escuela de
+Frankíurt y el psicoanálisis sociocultural anglosajón.
+
+3. El giro sociocultural
+
+La hermenéutica freudiana daba por supuesto el carácter indomable del instinto,
+o dicho de otra forma, entendía la cultura como una sucesión de intentos fallidos de
+
+reprimir unas pulsiones libidinales y destmctivas que siempre vuelven. En esta dia249
+
+
+
+que a la biología, suponiendo que la fuerza del instinto puede ser asumida a la postre
+por el sentido de la historia y que, en cualquier caso, la impronta social se hace sen
+tir en la formación del carácter con mayor intensidad de lo que admitía Freud. Real
+mente, Feud estaba convencido de que, en el fondo, el hombre jamás rectifica su
+posición libidinal primera, ya que cuando parece ceder, lo que hace en realidad es
+substituir. Con lo cual es claro que el poder cpnfigurador de los factores socioculturales nunca es más que aparente.
+
+De esta posición se van a distanciar en mayor o menor medida autores como
+Wilhelm Reich, con La psicología de masas del fascismo (1933), Erich Fromm
+conEl miedo a la libertad (1941), y otros autores, como por ejemploN. Elias, con
+su importóte obra Sobre el proceso de la civilización, publicada en 1939. Estos
+autores operan ya conuna concepción algo menos fatalista de la psicogénesis de la
+historia. Para Elias, valga el ejemplo, el decurso de la civilización vendríadetermi
+nado básicamentepor un procesode modificación de la sensibilidad, de los proyectos
+y de los comportamientos humanos, al que el autor llama proceso depsicologización: un proceso que ciertamente nose reduce al manejo intelectual de ideasy signi
+ficados culturales, sino que, asimismo, se compone de pasiones y de instintos
+ciegos, pero cuyatrama se genera y estructura finahnente en una interacción sociocultural de algún modo controlable por la sociedad. Perdura, sí, la sombra del irracionalismo, deleterno retomo de lo reprimido, propio delpesimismo antropológico de
+Freud —en el fondo, de Shopenhauer—, pero el horizonte se ilumina ya desde una
+brecha de esperanza. Es la utopía que trata de imponerse a la sospecha.
+
+Reich, y sobre todo Fromm, intuyen que la estructura caracterial del hombre
+medio es el resultado de una opresión política y civilizatoria, cuya anulación sería
+en principio capaz de emancipar al hombre,de subordinar los instintos al progreso,
+
+rompiendo el Teufelkréis del eterno retomó de lo reprinúdo. En realidad, es de este
+hilo del que va a tirar más tarde, después de la guerra, Erik Erikson, un psicoana
+lista que va a retomar la opción psicobiográfica freudiana, pero inscribién
+dola más en el curso abierto de la historia que en el ciclo recurrente del instinto.
+
+Esto me recuerda aquel pasajeen que, refiriéndose a las diversas formas de expre
+sión que adopta una cultura, Spengler advierte cómo esas formas se reñejan en la
+biografía de los grandes hombres;
+
+«En este sentido —dice Spengler— la existencia de todo individuo algo signifi
+
+cativo reproduce, conprofunda necesidad, todas las épocas de la cultura a que
+pertenece... Cada uno de nosotros, hombres de Occidente, revive de niño en los
+ensueños despiertos y en losjuegos infantiles, su épocagótica, su catedral, su cas
+tillo, su leyenda heroica... Todos los muchachos griegos tuvieron su edad homé
+
+rica y su Maratón...» (La decadencia de Occidente: Tomo I, 175-176.)
+250
+
+
+
+4. La nueva psicohistoria
+
+Sea ello como quiera, lo cierto es que la psicohistoria cobra nuevos bríos y se
+reorienta a fínes de los años cincuenta. Impresionados tal vez por los estudios de
+Adorno sobre la personalidad autoritaria, algunos historiadores comienzan a tomar en
+
+consideración claves psicológicas para dar razón de los hechos históricos. Esta propuesta
+les file planteada provocativamente a los historiadores en1957, cuando no sin escánda
+loelprofesor de Harvard W. L. Langer, presidente a la sazón dehiAmerican Historical
+Association, se permitió definir el objetivo inmediato de los estudios históricos en
+
+términos de una aproximación a la psicología, que permitiese profundizar y ampliar
+lacomprensión del pasado mediante eluso de conceptos, teorías y métodos propios
+de la psicología moderna, lo cual, según él, significaba propios del psicoanálisis;
+
+«Yo nopretendo afirmar —concluía Langer supolémico discurso de 1957— que
+los conocimientos psicológicos puedan resolver todos los problemas del historia
+
+dor. Pero me concederán ustedes que todavía existen posibilidades, no utilizadas,
+de enriquecery ampliar nuestra comprensión del pasado. Ytampoco me negarán
+que es responsabilidad nuestra el no dejar inexplorada ninguna de esasposibili
+dades. Por todo ello, no dudo quelapsicología moderna, elpsicoanálisis, desem
+peñará un cometido cada vez más importante en la interpretación de losfenómenos
+históricos..., tanto más, cuanto másse vaya reconociendo el alcance de losfacto
+res irracionales en la historia de la humanidad.»
+
+Lareacción aldiscurso indicó que la afición delos historiadores alasexplicacio
+nes psicológicas no era precisamente demasiado intensa. Casi siempre había bri
+llado por su ausencia. Cuenta Lloyd de Mause, como anécdota ilustrativa de esa
+actitud general, que en los tres gruesos tomos de Runciman sobre \& Historia de las
+
+cruzadas, sólo hay unapágina donde se dice algo acerca delos motivos que induje
+ron a los cruzados a ir a unas guerras que habrían de durar cuatrocientos años. Las
+
+motivaciones, el espíritu, la mentalidad, las actitudes que movieron a esas gentes a
+recupera por la fiierza unasviejas reUquias, apenas sí se mencionan enunaobraque
+dedica cientos y cientos de páginas a describir trayectos, contar batallas, comentar
+alianzas, esto es, a decirlo así todo acerca del cómo y del qué, y casi nadaacerca del
+por qué. Habríaque llegar casi hasta los años sesenta, como hemos visto, para que
+un presidente de la AHA, el profesor W. Langer, se decidiera a dar la cara por la
+psicología.Todavía a principiosde la década de los sesenta, el volumende la Enci
+
+clopedia de la Pléyade, dedicado a la historia y sus métodos (1961), no cita para
+nadaa Freud, y estambién revelador el silencio enque cayeron lassagaces observa
+ciones de Lafiaente Ferrari sobre la psicohistoria en 1951.
+
+En 1957, Walter Abell da a conocer un trabajo sobreEl sueño colectivo en el
+arte, en cuyo subtítulo («A psycho-historical Theory of Culture Based on Relations
+
+Betwéen Arts. Psychology and the Social Sciences») reaparece ya el olvidado cali251
+
+
+
+ficativo de «psicohistórico». Por fin, en 1958, el neopsicoanalista norteamericano
+Erik H. Erikson, discípulo de Ana Freud —más aprovechado que yo, que también
+lo fui— dio a conocer su psicobiografía Young Man Luther, que representó el
+relanzamiento decisivo de la psicohistoria desde la margen del psicoanálisis sociocultural, ensayado por la Escuela de Frankfiirt tal vez antes de tiempo, y al que
+Erikson despojó de sus connotaciones marxistas. Como ha hecho notar Friedlander
+en su obra Histoire et Psychoanalyse, con su trabajo sobre Lutero, Erikson sometió
+
+varios conceptos psicoanalíticos —por ejemplo, el de la imagen del padre— a la
+prueba de la historia, a la vez que intentó que ésta los elevara del plano de la fuerza
+al del sentido, esto es, los ascendiera al mundo de la historia: los sublimara en
+progreso.
+
+A partirde entonces, esto es, a partirde los años sesenta, el camino hacia la psi
+cohistoria comienza a despejarse. En 1968, Erikson aborda el problema de la natu
+raleza de la evidencia psicohistórica («On the Nature of Psychohistorical Evidence»),
+y la producción se desborda en cascada. En 1973, Lloyd de Mause funda la revista
+History of Childhood Quarterly, que en 1976 se convierte en The Joumal ofPsychohistory. Por otro lado, en 1975 hace su aparición el volumen de Lloyd de Mause
+(ed.)^ Bibliography ofPsychohistory, con algomás de un millar de títulos publica
+dos entre 1900 y 1975 (unos 1.300, para ser algo más precisos). Asimismo, en
+1975 apareceun volumen colectivo dirigido por G. M. Kren y L. H. Rapoport,en el
+
+que bajo el título Varieties of Psychohistory (6) se reúnen trabajos relativos a la
+naturaleza de la psicohistoria y de la psicobiografía, donde se analizan los orígenes
+y el alcance que poseen las fantasías de grupo, las formas históricas de la mentali
+dad humana y otros temas semejantes. Poco tiempo después, en 1982, Lloyd de
+Mause da a conocer un importante volumen titulado Foundations of Psychis-
+
+tory (7), publicado por el Instituto de Psicohistoria, de Nueva York, que es tradu
+cido al francés en 1986, con un inteligente prólogo de Jean-Maurice Biziere, y en el
+que se abordan problemas como la independencia de la psicohistoria, la condición
+histórica de la psicodiferenciación y la naturaleza de la imaginación colectiva, y su
+acción recíproca con el contexto sociocultural e histórico.
+
+Al hilo de todo esto, por fin llega la psicohistoriaa la Universidad. Un colega de
+Erikson en el MIT, llamado B. Mazlich, fue el primero en enseñar un curso de psi
+cohistoria. Siguieron luegootros profesores, tales como Bushman, Demos, Roazen,
+Binion, Loewenberg, Platt y Weinstein, quienes por cierto escribieron un espléndido
+libro de sociología psicoanalítica en 1973, y hoy son decenas y decenas de Univer
+sidades las que ofrecen cursos de psicohistoria.
+
+Por último, y aquí concluye mi enumeración de precedentes inmediatos, en 1984
+ve la luz la. obra de W. J. Gilmore, Psychohistorical Inquiry. A comprehensive
+
+Research Bibliography, donde serecogen más de 4.000 títulos (lalista llega hasta el
+31 de diciembre de 1981) organizados en epígrafes similares a los mencionados.
+252
+
+
+
+Resumiendo lo dicho, cabe concluir que la trayectoria seguida hasta ahora por
+los estudios psicohistóricos podría fijarse escolarmente así:
+
+1. Una fase de psicohistoria avant la lettre, detectable en autores como Vico,
+Herder, Michelet, etc., que culmina en la disputa del método acontecida a fines del
+
+siglo pasado en Alemania. Como resultado de esa polémica queda una asignatura
+pendiente, una psicología como ciencia del espíritu, que situaríael comportamiento
+humano en un tiempo histórico y no meramente físico.
+2.
+
+Un momento fundacional freudiano, situado hacia 1910, durante el cual se
+
+hace una lecturapsicoanalítica de la historiaen términos psicobiográficos individua
+listas. La clave de esta hermenéutica fi-eudiana es el instinto reprimido, una fuerza
+irracional que siempre regresa, abriéndose paso a través de los escombros de la cul
+tura, que siempre fracasa en sus intentos de reprimir la fuerza con el sentido.
+
+3. En la década de los veinte, surge el término psicohistoria —en su forma
+adjetivada, a veces con guión intercalado—, referido a interpretaciones psicoanalíticas de la vida de los grandes protagonistas de la historia. Es decir, la psicobiográfica
+se adueña de la psicohistoria, y esta opción psicobiográfica es la que cobrará mayor
+fuerza a partir de los años sesenta. Se enfatizan así las claves psicoanalíticas de la
+historia, con el consiguiente descuido de las claves históricas' de la psicología.
+
+4. Hacia los años treinta, se produce un desplazamiento hacia la sociohistoria,
+esto es, se reconoce más abiertamente el papel de la historia en la determinación del
+
+psiquismo humano. La «disciplina» se abre a la idea de acción recíproca: lo psí
+quico incide sobre lo histórico,pero a su vez la historia incide sobre la psique, confi
+gurándola en forma de carácter, personalidad básica, mentalidad, etc. Esta opción,
+protagonizada por hombres de la escuela de Frankfurt, como Wilhelm Reich, y
+sobre todo Erich Fromm, se separa del individualismo liberal, para hacerse
+freudomarxista.
+
+4. Tras im período de latencia, Langerpide a los historiadores que haganuso de las
+claves interpretativas del psicoanálisis, mientras Erikson relanza la psicobiografía, pero
+sacándola del determinismo de los instintosen que la había inscritoFreud, para inscri
+birla en un contexto evolutivo más abierto, de naturaleza sociocultural, donde la
+fuerza sería crecientemente asumida por el sentido, pero por el sentidode una socie
+dad liberal, no marxista, en la cuallas biografías de los grandes hombres hicieran de
+articulaciones en los movimientos de la historia. A partir de ese momento, la psico
+biografía neoanalítica se convierte en protagonistade la psicohistoria, o al menos en
+uno de sus ingredientes más activos.
+
+5. Finalmente, otras alternativas van desarrollándose también progresiva
+mente, de forma que las claves psicológicas se sitúan no sólo en los individuos, sino
+asimismo en los grupos (es el psicoanálisis de la sociedad y de los grupos que se
+agrega al estudio psicoanaUtico del niño y de los grandes hombres), dando origen al
+253
+
+
+
+estudio de lo imaginario, de las voces de la imaginación colectiva, de la historia de
+las mentalidades y de la sensibilidad colectiva, de la conciencia histórica, de tal
+manera que la psicohistoria se libera del yugo de los instintos —el carácter no es ins
+tintivo, ó no lo es del todo—, y a la vez transciende los planteamientos individualis
+tas de la psicóbiográña. La psicohistoria estudiará, por ejemplo, la motivación como
+elemento propulsor de la historia, pero en cuanto proceso social colectivo, modu
+lado por la historia misma.
+3.
+
+QUE ES LA PSICOHISTORIA HOY
+
+Grosso modo, respondería en los siguientes términos:
+
+a) Ante todo, es un intento de superación del naturaUsmo psicológico, que
+trata de aproximar el psiquismo humano al mundo de los significados, inscribién
+dolo, por modos diversos, en un tiempo histórico: bien sea considerándolo como
+Geist, al modo de Dilthey, o bien como mentalidad, si lo hace en el sentido más
+positivista en el sentido de Robert Mandrou, o como conciencia histórica al estilo de
+Grabski y los marxistas.
+b) Es tambiénuna ofertáde clavespsicológicas —porlo general mecanismos psicoanalíticos—para mediar en la interpretaciónde la historia y del comportamientode sus
+protagonistas. En un primer momento, esta hermenéutica es freudiana, se centra en
+el complejo de Edipo y la represión cultural de los instintos. Luego, en un segundo
+movimiento, influida ya por el último Freud, por la escuela de Frankfiirt, el psicoa
+nálisis del ego y el psicoanálisis sociocultural, la psicohistoria reconsidera el papel
+de las claves pulsionales e irracionales puras, por decirlo asi, para introducir en ellas
+la acción moduladora de factores socioculturales, que así intervendrían en la psico
+génesis de la historia, tanto en su versión psicobiográfica —es el caso de Erikson—,
+como en la relativa al llamado carácter social, manifiesto, por ejemplo, en el miedo
+a la libertad, la personalidad autoritaria, el hombre unidimensional, y otros fenóme
+nos caracteriales afines.
+
+c) El estudio psicoanalítico de la niñez, de la familia, de las generaciones, de
+los móviles y fantasías colectivas, principalmente de grupo, aunque no sólo forma
+
+parte asimismo de la psicohistoria actual.
+d) Lo mismo acontece con el análisis de las formas históricas de las motivacio
+nes de los pueblos —entendida sobre todo como móviles—, de las sensibilidades
+colectivas y de las mentalidades que configuran e historifican la propia concien
+cia humana.
+
+e) La psicohistoria comprende también el anáUsis de la historicidad de los
+métodos científicos, que son a la postre elementos generadores de valores. El ser
+humano posee autoconciencia, desde luego, y eso lo sabe perfectamente y lo reco254
+
+
+
+noce la psicología científica actual, por muy naturalista que sea. Sólo que el ser
+humano no siempre ha poseído una conciencia personal en el sentido en que hoy la
+tiene, como bien han mostrado en un fascinante libro sobre la génesis de la concien
+cia moderna Robert Ellrodt y colaboradores, y antes Julien Jaynes.
+
+f) Hay también, por último, un repertorio de problemas diversos como la
+patria, el amor, la personalidad de la mujer americana, la religión, las supersticiones
+o los prejuicios. Los historiadores relatan más los hechos (historia rerum gestarum), los psicohistoñadores se interesan más por los motivos que inducen a realizar
+esos hechos. Motivos que a su vez son también en buena parte dé naturaleza histórica.
+
+Efectivamente, el hombre responde más a lo que cree que son las cosas, y a lo
+que quiere que sean, que a su realidad objetiva. Y en este sentido, es muy importante
+no olvidar este escalofriante pasaje de una novela de Milán Kundera:
+
+«Comencé a comprender que no habríafuerza capaz de modificar esa imagen
+de mi persona que está depositada en algún sitio de la más alta cámara de deci
+sión sobre los destinos humanos: comprendí que aquella imagen (aunque no se
+parece a mí) era mucho más real que yo mismo: comprendí que no es ella la mía,
+sino yo su sombra; que no es ella a quien sepuede acusar de noparecérseme, sino
+que esa desemejanza es culpa mía; y que esa desemejanza es mi cruz, que no se la
+puedo cargar a nadie, sino que debo llevarla yo» (Kundera, La broma).
+
+El riesgo de la psicohistoria freudiana era el de que las pulsiones desposeyeran
+al hombre de sí mismo. La nuevapsicohistoria descubre ahoraquelas imágenes son
+más poderosas que los genes.
+
+BIBLIOGRAFIA
+
+Lloydde Mause (ed.): a Bibliography of Psychohistory. N. Y., Garland, 1975.
+
+Krenj Rapoport; Varieties ofPsychohistory. N. Y., Springer, 1975.
+Lloydde Mause: Foundations ofPsychohistory. N. Y. Institute ofPsychohistory. Traduc. francesa en
+PUF, 1982.
+
+WiLLiAM Gilmore: Psychohistorical Inquiry. N. Y., Garland, 1984.
+S. FrieddAde: Histoire et Psychoannalyse. París, 1975.
+
+J. L. PiNlLLOs: Historia y Psique. Rev. Gral. Psicol. Aplic., 40, 1985.
+
+255
+
+
+
+

@@ -1,0 +1,1137 @@
+LA IDEA DE DIOS COMO OBJETO Y GARANTE
+DE LA CIENCIA. SECULARIZACIÓN
+Y PSEUDOSECULARIZACIÓN DEL CONOCIMIENTO 1
+Emilio Lamo de Espinosa
+
+Regreso hoy a mis indagaciones más usuales de sociología de la ciencia
+y del conocimiento, más que a cuestiones de relaciones internacionales, con
+objeto de abrir un dialogo entre sectores de esta Academia que rara vez lo hacen. Me refiero a la religión y la teología, de una parte, y la ciencia (también la
+social), de otra.
+Y para ello retomo un tema que me intereso hace años y acerca del cual
+hice una publicación, con escaso éxito 2. El tema es, como dice el título, indagar
+en los fundamentos religiosos de la ciencia y, más en concreto, a las relaciones
+entre monoteísmo y ciencia. En la idea de Dios, no solo como objeto mismo de
+la ciencia, sino también como garante de la posibilidad del saber.
+Es un capítulo importante en un tema importante: el del origen de la
+ciencia en la Europa de los siglos xvi y xvii, tema debatido sin duda, complejo en sus causas, pero en el que una cierta forma de religiosidad parece jugar
+un papel esencial, aunque no único. No deja de ser interesante que la ciencia
+haya surgido en una civilización radicalmente monoteísta que cree en un
+solo Dios creador de todo, mientras que en el ámbito de religiones sapienciales e intramundanas —como las asiáticas— no lo hizo, a pesar de su evidente superioridad tecnológica (y pienso en China). Como tampoco lo hizo
+en el ámbito de religiones radicalmente extramundanas, como el hinduismo,
+
+1
+Agradezco a los compañeros de la Real Academia los comentarios que hicieron a la presentación oral de este trabajo, y muy especialmente a las notas que me hicieron llegar Pedro Cerezo y Alfonso
+López-Quintás.
+2
+“¿Una ciencia sin sujeto cognoscente? Dios como objeto y garante de la ciencia”, Arbor, 538
+(1990) 9-32. He identificado una sola cita a este trabajo.
+
+247
+
+
+
+a pesar de su evidente superioridad lógicamatemática (y pienso ahora en la
+India). La sospecha es que en esa arqueología de la ciencia encontramos, no
+sólo su génesis, su nacimiento, sino también sus estratos más profundos, y
+quizás actuales. No se trata pues solo de un ejercicio de historia, sino también (sospecho), de un desvelamiento del sentido actual y presente de la
+actividad científica como una suerte de ersatz religioso o de teología secularizada e inmanentizada.
+En todo caso es esencial adelantar lo que este trabajo no pretende desarrollar 3.
+En primer lugar, de ningún modo pretende ofrecer una explicación de los
+orígenes de la ciencia, tema de gran enjundia y para lo cual sería necesario adentrarse en otras temáticas. El impacto de las navegaciones de altura y de los libros
+de viaje, la apertura a lo desconocido e increíble, la curiositas casi universal, la
+competencia/rivalidad entre los Reinos europeos, los intereses militares, navales y
+mineros de los monarcas y de la burguesía comercial ascendente, etc., jugaron sin
+duda un papel importante, no solo a la hora de definir los temas objeto de la investigación (cuestión en la que esos intereses fueron probablemente definitorios)
+sino también en el propio impulso a la ciencia. Como lo prueba, sin la menor
+duda, el mecenazgo real en todas las primeras Reales Sociedades y Academias
+científicas ya sea en Inglaterra, Francia, Prusia, Rusia o la misma España.
+Tampoco voy a discutir la eventual importancia que en ese nacimiento tuvo el catolicismo meridional tardomedieval o renacentista, pues como
+señalo Benjamin Nelson hace años, ni Copérnico, ni Galileo, ni Descartes ni
+Pascal pertenecen al ámbito de la iglesia reformada. El papel de los que Nelson llamaba “profetas católicos” frente al de los “jerarcas puritanos” no va a
+ser abordado 4.
+
+3
+Gracias a Pedro Cerezo tomo nota del importante debate filosófico sobre la secularización —que
+desconocía—, que expone en su trabajo La secularización. “Una cuestión disputada”, Anales de la Real Academia de Ciencias Morales y Políticas, 57, 2009-2010, p. 363 ss. En el que, tras señalar —como haré yo— la
+ambivalencia del concepto de secularización, debate con el Blumenberg de La legitimación de la edad moderna, (Valencia, 2008) quien sostiene una radical cesura basada en la “autoafirmación” de la modernidad,
+desprovista de cualquier atisbo religioso previo. Por fortuna Cerezo desmonta esta tesis apoyándose en tres
+“matrices teológicas de la secularización”, a saber, el ethos del trabajo weberiano, la teología política de Schmitt, y la filosofía de la historia hegeliana. Para concluir que la secularización como mundanización de la fe
+ha tenido efectos culturales positivos en la emancipación de la conciencia y ha contribuido eficazmente a la
+formación de estructuras racionales de convivencia (op.cit. p. 4). El presente trabajo se mueve por completo
+en esta misma orientación.
+4
+B. Nelson, Los comienzos de la moderna revolución científica y filosófica, en N. R. Hanson, B.
+Nelson y P. K. Feyerabend, Filosofía de la ciencia y religión, Sígueme, Salamanca, 1976, pp. 53 ss. De B. Nelson puede verse On Orient and Occident in Max Weber, Social Research 43 (1976) 114-12, y On the Roads to
+Modernity, Conscience, Science and Civilizations, Totowa, N. J.: Rowman & Littlefield, 1981.
+
+248
+
+
+
+Es más, ni siquiera voy a tratar la totalidad de las consecuencias que la
+Reforma protestante y el puritanismo tuvieron en orden a incentivar la ciencia.
+Es sabido que el libre examen fue precondición de la libertad de expresión,
+precondición a su vez para el debate abierto y sin censura, sin el cual no es
+posible la ciencia. Como afirmará Helvetius, si nos preguntamos cuales son les
+matrices de la vérité, estas son la contradiction et la dispute (De l`Homme). Sin
+debate libre no es posible alcanzar la verdad, de modo que la libertad de expresión fue una indiscutible precondición para asentar la ciencia moderna.
+Además, la lectura, no ya permitida, sino obligada, de la Biblia, aupada
+por la generalización de la imprenta, dio lugar a procesos de alfabetización
+cuasiuniversales, alfabetización que se adelanta en el norte de Europa en varios
+siglos a los países católicos del sur. El norte europeo (protestante) estaba ya
+alfabetizado en el siglo xviii mientras que en el sur ese mismo proceso no se
+generalizará sino hasta el mismo siglo xx. La elevación del nivel intelectual que
+ello produjo fue también otra consecuencia no querida de la Reforma, pero con
+consecuencias importantísimas para el desarrollo del espíritu moderno. De la
+lectura de la Biblia se pasó a la lectura de otros textos disponibles gracias a la
+imprenta, lo que incentivó la comunicación científica y académica y el interés
+por sus productos, generando un mercado de ideas y de libros totalmente nuevo, un mercado de opiniones, un ágora pública, base también de la misma
+democracia liberal.
+Pues mi objetivo es más modesto: me limitaré a sostener que la reforma
+protestante y, sobre todo, el puritanismo ascético, tuvieron un impacto considerable y quizás esencial, no tanto en cuanto teología o argumentación formal, sino
+en cuanto a las consecuencias (no queridas, por cierto) en la vida cotidiana del
+creyente. Es decir siguiendo la metodología del mismo Weber— fue una consecuencia no querida del ethos puritano, no de la teología misma, lo que produjo
+efectos relevantes. La religión (en concreto: cierta forma de religiosidad) como
+“mediadora” entre una concepción del mundo religiosa y otra secular 5.
+
+LOS DOS PRESUPUESTOS DE LA CIENCIA MODERNA
+A principios de mayo de 1930 el físico vienés Erwin Schrödinger, por
+entonces sucesor de Max Planck en la cátedra de Berlín, pronunciaba una
+conferencia en Múnich sobre La transformación del concepto físico del mundo. En ella Schrödinger analizaba el impacto que la nueva imagen física del
+
+5
+Tomo esta idea de la “mediación” de José Santiago, “Seis lecciones de sociología de la religión
+y del nacionalismo”, El proceso de secularización y el nacimiento de la ciencia moderna. Anthropos, Madrid, 2015, cap. 2.
+
+249
+
+
+
+mundo, generada por las obras de Boltzmann y Planck, tenía sobre el concepto naturalista del universo elaborado por los pensadores griegos dos mil
+años antes. Las características de esta visión tradicional del cosmos eran las
+dos siguientes:
+a. La suposición de que se puede comprender el acontecer natural (suposición de inteligibilidad).
+b. La eliminación u omisión (en el cuadro compresible anhelado) del
+sujeto cognoscente, limitado al papel de quien observa desde el exterior (objetivación) 6.
+Estos dos supuestos —el supuesto de inteligibilidad del mundo y el de
+la irrelevancia del sujeto cognoscente— eran, según Schrödinger la base de la
+ciencia moderna. Esta se sustentaba pues en la creencia griega de que el Ser es
+un cosmos ordenado y comprensible, no un Caos; y en la creencia, de origen
+incierto, de que el sujeto, al conocer ese orden, no lo modifica ni lo altera,
+siendo pues neutro o transparente en el acto de conocer.
+Ambos supuestos están íntimamente entrelazados, como veremos, pues
+si el conocedor cambiara lo conocido en el acto de hacerlo, entraríamos en una
+regresión infinita, que cancelaría el supuesto de inteligibilidad. Por definición,
+no se puede conocer aquello que se cambia en el acto de conocer.
+Me propongo analizar el primero de estos presupuestos dejando para
+otra ocasión el segundo supuesto, el de la irrelevancia del sujeto cognoscente,
+importantísimo para la ciencia social y en concreto, para la sociología del conocimiento. Lo he trabajado en bastantes ocasiones bajo la rúbrica de la reflexividad del conocimiento sobre lo conocido, y me comprometo a abordarlo más
+adelante, buscando entonces una vía de dialogo con la economía, para la que
+este supuesto es esencial.
+Pues la pregunta primera es de donde viene esa presunción de inteligibilidad o, dicho de otro modo, por qué aceptamos que el mundo es comprensible, es un Cosmos y no un Caos. Y, más aun, por qué aceptamos que nosotros los humanos lo podemos comprender, que nuestra inteligencia puede
+penetrar en esa inteligibilidad del mundo, por qué podemos entender el “lenguaje” del mundo.
+Y mi estrategia para perseguir esta idea será preguntarme si se ha producido, y de qué modo, una verdadera secularización del saber.
+
+6
+
+1975, p. 45.
+
+250
+
+E. Schrödinger, ¿Qué es una ley de la naturaleza?, Fondo de Cultura Económica, México,
+
+
+
+Y SU FUNDAMENTO RELIGIOSO; LA SOSPECHA
+Efectivamente, como sabemos, al menos desde la Ley de los Tres Estados desarrollada por Augusto Comte en su Curso de filosofía positiva (18301842), el saber secular deriva del saber sagrado y es, inevitablemente, el resultado de su secularización. Pasamos del politeísmo al monoteísmo, de este a la
+metafísica y, finalmente, a la ciencia, que vendría a sustituir y cancelar por
+completo el saber religioso previo. Un siglo más tarde, en un contexto de recuperación del interés por la religión, Max Scheler le dará la vuelta a la tesis comtiana, argumentando que religión, filosofía y ciencia son tres modos de saber
+complementarios pues cada uno responde a preguntas e intereses distintos,
+tesis que es difícil rechazar y que la experiencia parece avalar 7.
+En todo caso, lo que sí es cierto, es que el saber cambiará de lenguaje
+y sustituirá pronto las referencias a viejos Textos Sagrados extraídas del Libro,
+por citas de autoridad de autores clásicos, estas por argumentos lógicos, y estos,
+finalmente, por evidencias basadas en la observación y la experimentación. Sin
+embargo, conservará durante siglos una vieja hipótesis, rara vez tematizada: la
+de que el saber está ahí, en alguna parte, ya dado todo y completo, como está
+todo contenido en el Libro y, más aun, en la sabiduría divina. De modo que el
+problema del sabio es averiguar dónde o cómo localizarlo, en el Texto Sagrado,
+en viejos libros, en el pensamiento lógico o en la observación.
+Comenzaré recordando algunas afirmaciones esencialmente idénticas
+por debajo o más allá de la diversidad de lenguajes, escuelas o tiempos.
+Este bellísimo sistema compuesto por el sol, los planetas, y cometas, podía sólo
+proceder del consejo y dominio de un Ser inteligente y poderoso. Este Ser gobierna todas las cosas
+Newton, Principia Matemática, 1687.
+Nuestra fe en la ciencia reposa siempre sobre una fe metafísica —también nosotros, los actuales hombres de conocimiento, nosotros los ateos y anti metafísicos, también nosotros extraemos nuestro fuego de aquella hoguera encendida por una fe milenaria, por aquella fe cristiana que fue también la fe de
+Platón, la creencia de que Dios es la verdad, de que la verdad es divina.
+Federico Nietzsche, La Genealogía de la Moral, Tratado 3.º, #2.
+
+7
+Max Scheler, Sociología del saber, Buenos Aires, Siglo Veinte, 1973, p. 67. Die positivistische
+Geschichtsphilosophie des Wissens und die Aufgaben einer Soziologie der Erkenntnis, en Kölner Vierteljahreshefte für Sozialwissenschaften, 1, 1921, pp. 22-31.
+
+251
+
+
+
+En lógica nosotros no expresamos por medio de los signos lo que queremos, sino
+que en lógica habla la naturaleza misma de los signos esencialmente necesarios
+[...] (y así) las proposiciones matemáticas no expresan ningún pensamiento.
+Ludwig Wittgenstein, Tractatus Lógico-Philosophicus, #5633 y 56331 8.
+El conocimiento, en este sentido objetivo, es totalmente independiente de las
+pretensiones de conocimiento de un sujeto, también es independiente de su
+creencia o disposición a asentir o actuar. El conocimiento en sentido objetivo
+es conocimiento sin conocedor: es conocimiento sin sujeto cognoscente.
+Popper, Conocimiento objetivo 9.
+
+Ello es tanto como decir que el saber carece de conocedor, carece de
+sujeto cognoscente o, al menos que es previo a su aparición. El sujeto puede
+adquirir o no ese saber, que le pre-existe pero, en todo caso, aun cuando no lo
+adquiera, el saber continua ahí, esperando, en un Tercer Mundo (Popper) platónico o, mejor aún, divino. Modelo según el cual el conocimiento sería participación del hombre en una Razón impersonal y trascendente, participación en
+definitiva en una Razón divina, igual en todo tiempo y lugar, a la que, ocasionalmente, tiene acceso. Y si esto es así, tiene pleno sentido el segundo de los
+supuestos de la ciencia mencionados por Schrödinger: el sujeto del conocimiento es irrelevante para el saber, que le preexiste. El discurso de la razón no
+es así discurso humano, sino participación del hombre en el discurso eterno del
+logos. Como dice Mateo (10,20): no sois vosotros los que habláis, sino el Espíritu
+de vuestro Padre que habla en vosotros. El nous habla a través del sabio, como
+Dios habla a través del Libro o de sus profetas. El nous gobierna el mundo dice
+Hegel 10, y el Sabio sólo repite la verdad que ya está ahí desde toda la Eternidad.
+Pero si esto es así ¿es admisible la tesis comtiana de la total sustitución
+del saber religioso por el científico, de la total secularización del pensamiento?
+¿Lo es la alternativa scheleriana de una coexistencia, más o menos pacifica, de
+ciencia y religión? Trataré de argumentar que la relación es más compleja, como
+lo es lo que llamamos “secularización”.
+SECULARIZACION Y PSEUDOSECULARIZACION DEL PENSAMIENTO
+Nada más ambiguo ni más relevante que el concepto de secularización
+entendido como paso previo al espíritu moderno. Su uso estándar parece indi8
+9
+
+Tractatus Lógico-Philosophicus, Alianza Editorial, Madrid, 1973, parágrafos 5633 y 56331.
+Popper, “Epistemología sin sujeto cognoscente”, en Conocimiento objetivo, Tecnos, Madrid,
+
+1974, p. 108.
+10
+
+252
+
+Hegel, Lógica, parágrafo XXIV, 1.º.
+
+
+
+car un tránsito desde concepciones del mundo asentadas en creencias religiosas a nuevas weltanshauungen basadas en la racionalidad instrumental por
+completo agnósticas. O visto desde la perspectiva de la teoría de la diferenciación, la separación entre la esfera religiosa y otras esferas que se autonomizan
+(ciencia, arte, derecho). Sin embargo, como puso de manifiesto Larry Shiner
+primero y Karel Dobbelaere después 11, debemos matizar y concretar su uso.
+Dobbelaere propuso diferenciar tres niveles en el proceso de secularización: el
+macro, el meso y el micro, argumentando que la separación total solo se dio en
+el primer nivel correspondiente al sistema social, mientras que en el segundo
+(el organizacional) y, sobre todo, en el tercero (el del individuo) la religión
+puede seguir jugando un papel central. Con anterioridad Larry Shiner realizó
+una rigurosa investigación sobre los usos empíricos de la palabra “secularización” 12 llegando a identificar seis componentes semánticos o topoi, que pueden
+reducirse a tres modelos básicos que paso a exponer.
+1. Desencantamiento o desacralización del mundo que es des-magificado, rutinizado, y pasa a ser presuntamente racional-instrumental, un objeto, una
+cosa a dominar. El supuesto subyacente es la idea de la religión como mito, engaño o superstición (“el opio del pueblo”), y al paralelo desarrollo de pautas de
+acción racional (vs. tradicional). Línea de pensamiento que comienza con la Ilustración (Voltaire), y los enciclopedistas (Helvetius, Holbach), continua con la Vida
+de Jesús de David Strauss (1835) y la izquierda hegeliana (Bauer, Feuerbach,
+Marx), en la Vie de Jésus de Renan (1863), y alcanza su máxima dimensión en el
+anti-clericalismo decimonónico, pero que tiene también su versión liberal en un
+Bertrand Russell por ejemplo, o su versión agónica en Los hermanos Karamazov
+de Dostoievski, abrumados por el peso de la propia libertad ante un Dios que ha
+muerto.
+2. Aislamiento o enclaustramiento de lo religioso sobre sí mismo y, por
+consiguiente, separación creciente entre lo sacro y lo profano, que se manifiesta en la privatización de lo religioso en cuanto perteneciente a la intimidad
+personal. Lo que acaece a lo largo del proceso de distinción entre religión,
+derecho y moral por obra de Grotio, Thomasius y Kant, como consecuencia de
+las Guerras de Religión en Europa, proceso que dará lugar a los Estados a-confesionales. Dar a Dios lo que es de Dios y al Cesar lo que es del Cesar. Línea de
+pensamiento que será recogida, en el marco de la secular Tercera República
+francesa, por Durkheim en sus Formas elementales de la vida religiosa (1912) al
+tomar como punto de partida justamente la distinción entre lo sagrado y lo
+
+11
+Karel Dobbelaere, “Secularization. A Multidimensional Concept”, Current Sociology, 29, 2, 1981,
+p. 2 ss. La secularización. Teoría e investigación, en A. Pérez-Agote, J. Santiago (eds) Religión y política en la
+sociedad actual, Madrid, 2008, p. 17 ss.
+12
+Larry Shiner, “The Concept of Secularization in Empirical Research”, Journal for the Scientific
+Study of Religion, VI, 2 (1967) 207-229.
+
+253
+
+
+
+profano 13. Lo sagrado pasa a ser un componente de la vida privada, eventualmente de la vida íntima, mientras que el ámbito de lo público es progresivamente secularizado. Si antes lo sagrado desparecía, ahora se mantiene, aunque
+escondido en la intimidad y la privacidad.
+3. Finalmente, metamorfosis de lo sagrado de extra-mundano a intra-mundano, transmutación pues del contenido de lo “sagrado” que no llega,
+sin embargo, a desaparecer, pues continua bajo formas diversas. Según el Código de Derecho Canónico, secularización es, la “exclaustración” permanente por
+la cual el religioso “vuelve al siglo” y por ello “debe cambiar la forma del hábito
+religioso” (cánones 638 y 642), aunque nunca pueda abandonar ese carácter.
+Me interesa esta tercera línea de desarrollo, ese “cambiar la forma del
+hábito”, en la que se produce una metamorfosis por lo cual lo sagrado, personalizado, carismático y trascendente, se inmanentiza y deviene impersonal, pero
+continúa teniendo el carisma de lo sacro, pues sospecho que (aliado con otras
+variables) es ésta la línea que va a dar origen a la ciencia moderna.
+Una idea con gran tradición sociológica pues la podemos encontrar ya
+en Durkheim, formulada claramente por Weber en su sociología de las religiones
+del mundo, desarrollada con agudeza por Robert K. Merton en su tesis doctoral
+Ciencia, tecnología y sociedad en la Inglaterra del siglo xvii y otros escritos 14, y
+brillantemente ampliada en España por Enrique Gómez-Arboleya. Pocas hipótesis
+podrían contar con ese pedigrí, en el que me apoyaré constantemente.
+Durkheim, buen conocedor de la religión y sociedad judaica (hijo y nieto
+de rabinos el mismo) sociedad asentada y constituida a partir y desde de una religión, formula ya la hipótesis de la diferenciación estructural de esferas a partir de
+un bloque compacto de creencias religiosas que forman lo que llamaba la “conciencia colectiva” base de la “solidaridad mecánica” o por imitación y semejanza. Por
+ello, inicialmente sociedad y religión era la misma cosa y así, las grandes instituciones sociales han nacido de la religión, son un derivado de ella. También la ciencia,
+por supuesto, de modo que las categorías fundamentales del pensamiento, y consecuentemente, la ciencia, tienen un origen religioso 15. Y con mayor rotundidad
+
+He manejado la edición de Akal, Madrid, 1982.
+Véase Science, Technology and Society in Seventeenth Century England, Harper and Row, New
+York, 1970; hay traducción en Alianza Editorial, Madrid, 1985, e.o. 1939. También “Puritanismo, pietismo y
+ciencia”, en Teoría y estructura sociales, FCE, 1972, pp. 565 ss. Y en “El estímulo puritano a la ciencia”, en La
+Sociología de la ciencia, Alianza Editorial, 1977, vol 2. pp. 309 ss. Me baso en estos dos últimos trabajos, más
+elaborados que el primero. En sentido similar puede verse, Renato Espoz Le-Fort, “La Revolución Moral Escocesa: La Santificación de los Mercaderes”, Revista de Filosofía, Universidad Católica de la Santísima Concepción, Año 1, Nro. 1, 2002. Y en “Fundamento religioso de la ciencia económica”, en Cristianismo y sociedad, 1995, XXIII, 125-126. También Andres Monares Ruiz, “Calvinismo, Ilustración y Ciencias sociales”,
+Persona y sociedad, ILADES, p. 285 ss.
+15
+Op. cit., p. 390.
+13
+14
+
+254
+
+
+
+afirmará que el pensamiento científico no es más que una forma más perfeccionada
+del pensamiento religioso. Y aunque la ciencia haya salido de la religión, posteriormente tiende a sustituirla en todo lo que concierne a las funciones cognitivas e intelectuales 16. Como vemos, Durkheim sigue el camino marcado por Comte de
+modo que, aunque la ciencia encontraría su origen en una cosmovisión religiosa,
+esta acabaría siendo sustituida por otra en lo que concierne a la “función especulativa”17 pues respecto al “sentido” último de la vida la ciencia carece de respuestas.
+Weber seguirá un camino similar a partir del análisis del pensamiento
+de Lutero y de Calvino, aunque con consecuencias muy distintas. Y sin duda el
+punto de partida lo constituye la creencia calvinista en la predestinación divina
+de todo cuanto ocurre. Como afirma Calvino en la Confesión de Westminster
+(1647) Dios desde la eternidad, por el sabio y santo consejo de su voluntad, ordeno libre e inalterablemente todo lo que sucede (Cap. 3, 1). Y en La institución
+de la religión cristiana (1583) había señalado:
+Sostenemos que Dios es el que dispone y gobierna todas las cosas; que desde la
+más remota eternidad de acuerdo con su propia sabiduría, decreto lo que
+hará, y ahora, mediante su poder, ejecuta lo que ha decretado. De ahí que
+sostengamos que, por medio de su providencia, no solo los cielos y las tierras, y
+las criaturas inanimadas, sino también las determinaciones y voluntades de
+los hombres se hallan de este modo regidos para que se muevan exactamente
+en el curso que Él ha trazado 18.
+
+Todo cuanto ocurre, sea en los cielos o en la tierra, es consecuencia
+de su diseño y de su voluntad. También —y subrayo esta idea— las voluntades
+de los hombres. Casi todo lo que pretendo desarrollar después está ya contenido en esta cita.
+Como señalaba antes, Max Weber propondrá un argumento en línea con
+esta metamorfosis de lo sacro en actividad intramundana. Efectivamente, ya en La
+Ética protestante y el espíritu del capitalismo encontramos un análisis del concepto de vocación (Beruf) en Lutero que, según Weber muestra el carácter sacro que
+el trabajo profesional tuvo inicialmente. La vocatio latina se transforma en incesante actividad de realización personal en el mundo; la “llamada” (calling en inglés, vocatio), lo es para el trabajo en el mundo, y no para lo que lo trasciende.
+De este modo la secularización se realizó, pero trasvasando el contenido sacro de
+una actividad extra-mundana y monacal, a otra intramundana pero igualmente
+racionalizada y reglada: el trabajo. Podría incluso decirse que la racionalización
+
+16
+17
+18
+
+Op. cit. p. 399
+Op. cit., p. 400.
+Institución de Religión Cristiana, citado por Renato Espoz, op.cit., p.29.
+
+255
+
+
+
+(metódica) de la vida cotidiana resulta ser exigencia de la propia vocación profesional, “llamada” a su vez plena de contenido religioso.
+Hay pues una profunda ambivalencia en la investigación de Weber. La
+secularización resulta ser más bien transmutación de contenidos religiosos en
+intramundanos, y no una desaparición de lo sagrado. Con ello Weber preludiaba
+análisis posteriores acerca de la fuerza del sentimiento, la intuición y lo irracional
+o lo religioso en las sociedades industriales, pero también arrojaba una fuerte
+sospecha sobre la interpretación lineal del proceso de secularización.
+Y es en este universo mental —en este ethos, para ser más precisos—
+en el que emerge la ciencia. Weber lo expresó con genial penetración:
+Así como se reconoce al cristianismo en los frutos de su fe, así también el conocimiento de Dios y de sus designios sólo puede extraerse del conocimiento de sus
+obras. Por eso la disciplina preferida de todo el cristianismo, bautizante y pietista, era la física y aquellas otras disciplinas matemático-naturales que operaban con un método análogo. Se creía que del conocimiento de las leyes divinas
+de la naturaleza podría ascenderse a conocer el “sentido” del mundo, al que no
+podía llegarse dado el carácter fragmentario de la revelación divina (idea calvinista) por medio de especulaciones conceptuales. Para la ascesis, el empirismo
+del siglo XVII era el medio de buscar a Dios en la naturaleza 19.
+
+Repito: el empirismo era el medio de buscar a Dios en la naturaleza.
+Así, la acción científica es sin duda racional en su método, pero dentro
+de un contexto de sentido objetivo radicalmente sagrado que, si no se manifiesta en la rutina cotidiana de la investigación (pero sí la orienta: método, regla,
+disciplina), no deja de aparecer en los momentos trascendentes: fundación de
+la ciencia y/o identificación del fundamento último del saber.
+Ya en la tesis doctoral del gran filósofo de la religión Edwin A. Burtt, The Metaphysical Foundations of Modern Physical Science 20, se afirmaba
+que la ciencia experimental (para Boyle, como para Bacon), era en sí misma una tarea religiosa 21.
+
+19
+M. Weber, La ética protestante y el espíritu del capitalismo, Península, Barcelona, 1973, p. 182.
+Esta cita dará origen a las indagaciones juveniles de Robert K. Merton en su excelente tesis doctoral, Science,
+Technology and Society in Seventeenth Century England, ya citada, obra seminal de una orientación y escuela en sociología de la ciencia.
+20
+The Metaphysical Foundations of Modern Physical Science. A Historical and Critical Essay,
+London: Kegan Paul, Trench, Trübner; 1924, 1925.
+21
+Citado por Merton, Puritanismo, pietismo y ciencia, op.cit., p. 317.
+
+256
+
+
+
+Robert Merton recogerá esta idea y ampliará la tesis de Weber desarrollándola y contrastándola con datos empíricos extraídos de la composición de
+la Royal Society inglesa, primera sociedad científica conocida, creada en 1660
+siguiendo la pauta de la casa de Salomón de Francis Bacon. De los diez individuos que formaban el colegio invisible precedente de la Real Sociedad solo
+uno era claramente no puritano. Y Merton comprobó que de la lista originaria
+de 68 miembros de la Royal Society original, nada menos que 42 eran manifiestamente puritanos, un 62%. Aunque eran una clara minoría en la sociedad inglesa de su tiempo.
+El resultado fue lo que el historiador de Cambridge Basil Willley llamó
+la Santa Alianza entre la ciencia y la religión 22. Aunque, insisto, es el ethos religioso, no la teología, lo que condujo en uno u otro sentido, de modo que el
+estímulo puritano a la ciencia fue más una consecuencia no querida del protestantismo ascético, que algo buscado (como el mismo capitalismo).
+La tesis de Merton, desarrollada también por Gomez Arboleya, 23 nos
+conduce casi sin solución de continuidad desde el Deus absconditus medieval, un Dios lejano e impenetrable, y a través del puritanismo primero y del
+Deísmo y panteísmo después, a su “olvido”, pero un olvido que es al tiempo
+su plena materialización en la ciencia moderna, incluida la misma ciencia
+social.
+De modo que, mientras el catolicismo mantuvo un constante recelo
+hacia la ciencia, la racionalidad e incluso el empirismo, no ocurrió lo mismo en
+el espacio protestante y, sobre todo, puritano. Como escribe Merton: el puritanismo difería del catolicismo, que había llegado gradualmente a tolerar la ciencia, en que no solo perdonaba su prosecución, sino que la exigía 24. Por el contrario, una (tercera) fuente de oposición (a la ciencia), de lejos la más importante,
+la constituían aquellos eclesiásticos que creían que las investigaciones científicas
+socavaban los fundamentos teológicos de sus creencias 25.
+Este camino de inmanentización de Dios en la ciencia moderna se puede esquematizar en seis ideas centrales, que paso a exponer.
+22
+Basil Willey The Eighteenth Century Background, 1941, citado por Merton, Puritanismo, pietismo y ciencia op. cit. p. 588.
+23
+Me apoyaré mucho en la magnífica investigación de Enrique Gómez Arboleya, Historia de la
+estructura y del pensamiento social. I. Hasta finales del siglo XVIII. Instituto de Estudios Políticos, Madrid,
+1957. También en su trabajo previo, “La sociedad moderna y los comienzos del saber sociológico”, Anuario
+de Filosofía del Derecho, II, págs. 179-294, 1954.
+24
+Ibidem, p. 315.
+25
+R. K. Merton, El estímulo puritano a la ciencia, op. cit., p. 313.
+
+257
+
+
+
+1. La naturaleza es obra divina; Dios ha creado
+todo cuanto existe
+El punto de partida de esta interfaz entre religión y ciencia lo representa paradigmáticamente Francis Bacon quien, al fundar la ciencia experimental
+moderna en su Instauratio Magna (1620), y junto al experimentalismo inductivo, concibió la ciencia como modo de recuperar el Paraíso que, perdido a causa del pecado —del pecado del conocimiento del bien y del mal, según relata
+el Génesis— será recuperado mediante las artes y las ciencias (Novum Organum, II, 52). Y en el grabado que figura en la portada del Novum Organum
+aparece una cita extraída del libro profético de Daniel: multi pertransibunt et
+augebitur scientia. La ciencia como profecía realizada.
+Retorno unitario a la primitiva situación de gracia, conocimiento y poder
+—dice M. A. Granada—, que nos permite decir que su realización efectiva (la realización de la [...] instauratio magna scientiarum) no es otra cosa que el cumplimiento del milenio, esto es, la realización del Reino de Dios en la Tierra y la encarnación en la sociedad inglesa y europea de la Nueva Jerusalem 26.
+Con Francis Bacon nace así, desde un proyecto vital de raíces profundamente religiosas (e incluso proféticas), no solo el método inductivo y la ciencia experimental, sino también la primera sociología del conocimiento en cuanto indagación de los modos de evitar el error: la teoría de los idola. Una palabra
+plena de sentido religioso: solo hay un Dios y una Verdad, el resto son ídolos
+paganos, becerros de oro.
+Pero no es Francis Bacon el único ejemplo. Descartes —teórico fundador del otro “método”, el deductivo— tendrá un “sueño” la noche del 10 de
+noviembre de 1619 en el que descubrió la primera verdad (cogito, ergo sum)
+pero también el modo, el método, de descubrirla para la totalidad del mundo.
+¿Es casual que se llame discurso del “método”, una palabra entonces cargada de
+significado religioso?
+Y todavía un siglo más tarde Saint-Simon, ese “Profeta de la Sociedad
+Industrial” (C. Moya), el “Juan Bautista de la Sociología” (Gurvitch) “oirá hablar a Dios”:
+La noche pasada he oído estas palabras: “Le había sido prohibido a Adam que
+hiciera distinción entre el bien y el mal, me desobedeció y lo expulsé del paraíso, pero he dejado a sus descendientes un medio para aplacar mi cólera: que
+trabajen, se afanen en perfeccionarse en el conocimiento del bien y del mal y
+
+26
+Véase Granada, Miguel Ángel. “La reforma baconiana del saber: milenarismo cientifista, magia,
+trabajo y superación del escepticismo”, Teorema, XII /1-2 (1982)71-95.
+
+258
+
+
+
+yo mejoraré su suerte; llegará un día que haré de la tierra un paraíso [...] Has
+de saber que he situado a Newton a mi lado y al mando de los habitantes de
+todos los planetas 27.
+
+El Santo-Científico a la diestra de Dios-Padre, que ordena y manda aumentar los conocimientos y promete como premio el Paraíso futuro, es una
+imagen excelente de lo que la ciencia ha sido y quizás aún es. Una estampa que
+nos reenvía a las de la Diosa Razón flanqueada por los prohombres del saber
+(o a los viejos calendarios socialistas de finales del siglo xix donde la Libertad
+aparece aureolada con las imágenes del santoral marxista).
+Gómez Arboleya vio con claridad esa pseudosecularización en la primera ilustración inglesa derivada del puritanismo y del Deísmo. Efectivamente,
+el panteísmo deísta significaba la inmanentización de Dios en la naturaleza y así
+también su sacralización: Dios se hace perfecta y plena razón y se identifica gloriosamente con la armonía del mundo, y por ello la naturaleza revelaba la
+acción de Dios al tiempo que la ciencia se carga de un pathos escatológico: La
+ciencia prueba a Dios, conduce a Dios 28.
+Merton recuerda la tan conocida apología de la ciencia escrita por Robert Boyle en 1664 (Usefulness of Experimental Natural Philosophy), fundador
+de la Royal Society y considerado fundador también de la química moderna,
+quien les desea a sus compañeros de la Real Sociedad feliz éxito en sus laudables intentos para descubrir la verdadera naturaleza de las obras de Dios 29. En
+la estela de Merton, Arboleya analiza esta inmanentización de Dios a lo largo
+del Deísmo inglés.
+En la Wisdom of God in the Creation del botánico John Ray (1691;
+libro del que se hicieron cinco ediciones en menos de veinte años) en el que
+afirma que la razón divina corre como una vena de oro a lo largo de toda la
+mina de plomo de la naturaleza bruta 30. En Christianity not Mysterious
+(1702) de John Toland que marca el paso de una imagen de Dios como autor
+de lo sobrenatural, el Dios de las tormentas y los cataclismos, el Dios-Padre
+del Antiguo Testamento, a ser justamente el autor del orden natural, el Dios
+que garantiza la armonía del Cosmos. En las obras de William Derham, Physico-Theology, or Demostration of the Being and Attributes of God From His
+Creation, publicado en 1713; Astro-Theology, 1714; y Christo-Theology, 1730.
+Libros que serán utilizados por William Paley casi un siglo después para su
+elaboración de la analogía del relojero en su Natural Theology (1802). En la
+Religion of Nature Delineated (1722) de Williams Wollaston, donde se desa27
+28
+29
+30
+
+H. de Saint-Simon, Le Nouveau Christianisme, Editions du Seuil, Paris, 1969.
+E. Gómez Arboleya, Historia de la estructura y el pensamiento social, op. cit. p.246-247.
+Citado por Merton, Puritanismo pietismo y ciencia, op. cit. p.567.
+R. K. Merton, Puritanismo pietismo y ciencia, op. cit. p. 571.
+
+259
+
+
+
+rrolla la idea de ley natural como providencia divina, origen del Deísmo. Y
+sobre todo en la obra de Matthew Tindal, Christianity as Old as the Creation;
+or, the Gospel, A Republication of the Religion of Nature (1730) considerada la
+Biblia del Deísmo, que lleva como introducción las palabras de Grotio: est
+autem ius naturale a Deo inmutable, ut ne quidem a Deo mutari potest, estableciendo el principio de que religión natural y revelación sólo difieren en
+cuanto al modo de ser comunicadas: la lectura del Libro pasa a ser, literalmente, lectura de la naturaleza. Con Tindal, la religión de la naturaleza
+—comenta Arboleya— se afirma como perfecto cristianismo, y por tanto
+como perfecta religión 31.
+El deísmo en cuanto tal —concluía Arboleya— estuvo sometido a una polémica constante y bien pronto se desvaneció en la misma Inglaterra. Pero lo más
+radical de la idea que expresaba; la confianza en el orden racional del mundo
+y en el uso de la razón en el hombre, con independencia de su consecuencia
+lógica, era mucho más amplia que el deísmo 32.
+
+2. De modo que, estudiando la Naturaleza, no solo se pone
+de manifiesto la grandeza de Dios, sino que se estudia
+a El mismo, se hace verdadera teología natural
+Pues el proceso de des-incorporación e inmanentización de Dios no se
+detiene, ni mucho menos, con la fundación de la física y la mecánica, pues el
+Dios-Padre de la Teología medieval es el Dios-Padre de todas las Ciencias, un
+Dios que va progresivamente materializándose, haciéndose más ausente y lejano, retrocediendo en su vieja presencia terrible para aparecer con una presencia-ausencia lejana, pero cotidiana.
+Como señaló Lucien Goldmann, El Dios de Descartes garantiza las
+verdades eternas, el de Leibniz realiza la armonía preestablecida, el de Malebranche actúa, pero como la naturaleza, a través de la voluntad general,
+el de Spinoza, finalmente, se identifica con la naturaleza 33. Pues ciertamente, quien convierte la materia en atributo de Dios, declara la materia
+como una esencia divina 34, dirá Feuerbach de Spinoza. Y ya Weber citaba
+al biólogo holandés Jan Swammerdam —influido por Descartes e influyente en Leibnitz y Malebranche— quien en su Biblia de la naturaleza (circa
+1669) afirmaba: aquí le ofrezco la prueba de la previsión de Dios en la anatomía de un piojo.
+31
+32
+33
+34
+
+260
+
+Op. cit., p. 255.
+Op. cit., p. 255.
+L. Goldman, Introduction à la philosophie de Kant, Paris, 1967, p. 272.
+L. Feuerbach, Principio de la filosofía del futuro, Labor, Barcelona, 1976 (e.o.) p. 15.
+
+
+
+Pero ya en Galileo —citando a Tertuliano—, se señala que llegamos a
+la conclusión de que Dios es conocido primero a través de la Naturaleza, y luego nuevamente, más particularmente, por doctrina; por Naturaleza en sus obras
+y por doctrina en su palabra revelado 35.
+Como veíamos, la idea estaba latente en las obras de William Derham y
+en la citada Religion of Nature Delineated, de Williams Wollaston. Y por supuesto
+con William Paley —una influencia importante en Charles Darwin—, quien en
+1802 publicó Teología natural o Evidencias de la existencia y atributos de la Deidad recogidos de las Apariencias de la Naturaleza, libro en el que desarrolla la
+analogía del Gran Relojero, por la cual probablemente es más conocido.
+Si la naturaleza es obra divina su estudio sólo puede ser teología,
+conocimiento de Dios en sus manifestaciones. Ese parece ser es el móvil primigenio de la ciencia moderna: el conocimiento de Dios a través de sus obras,
+la redacción de una nueva biblia escrita en la misma naturaleza. Habría así
+dos teologías, la revelada en el Libro y la que se muestra en ese otro libro que
+es la Naturaleza. Y progresivamente la teología natural acaba siendo más creíble que la revelada, a la que acabará por sustituir en el deísmo, para desvanecerse posteriormente.
+glo
+
+xvii,
+
+Razón, Naturaleza y Dios van a confundirse en el pensamiento del Siuna confusión de enorme, gigantesco, poder creador.
+3. Las leyes de la naturaleza son mandatos divinos
+
+Si hay Orden es porque el Mundo es obra divina, de modo que hay
+que preguntarse qué hizo que la idea de Dios se desplazara de ser el explanans
+de lo extraordinario y lo misterioso, del milagro, a ser el explanans del orden
+y la regularidad. Por qué y cómo el Dios de las tormentas y las venganzas, el
+que lanza lluvias de fuego, provoca terribles diluvios, detiene el sol en su curso
+cotidiano, en definitiva, provoca desordenes y calamidades y actúa casi como
+un poderoso padre despótico lleno de pasiones (como en la mitología griega),
+pasa a ser el “gran geómetra”, el “relojero del universo”, el artífice de la máquina universal. Un gran ingeniero que diseño el universo y cuyas especificaciones
+descubrimos como quien lee un libro de instrucciones acerca de una máquina.
+El agudo observador que era Thorstein Veblen lo verá con ironía
+La Divinidad, tras haber adoptado en el Medioevo esencialmente la forma de
+un señor feudal preocupado por el mantenimiento de su propio prestigio, se
+convierte en un creador dedicado a la artesanal ocupación de hacer cosas
+
+35
+
+Galileo, Carta a la Gran Duquesa Cristina de Toscana, 1615, Versos 272-279.
+
+261
+
+
+
+útiles para el hombre. Su relación con respecto al hombre y el universo natural
+ya no es principalmente la de un progenitor, como lo era en la cultura bárbara inferior, sino la de un mecánico con talento. Las “leyes naturales”, que en
+tanta consideración tenían los científicos de aquella era, ya no son decretos
+emitidos por una autoridad legislativa sobrenatural sino, más bien, detalles de
+las especificaciones de fabricación elaboradas por el maestro artesano para
+guía de los aprendices que han de realizar los bocetos 36.
+
+Hablamos, por supuesto, de la idea de Ley, que pasará de aludir a un
+mandato, una disposición o una orden, a aludir a un fenómeno, una causalidad, pasará de ser ley normativa a ser ley fáctica. La primera nos dice cómo
+deben ser las cosas; la segunda como son las cosas. Para saltar de la primera
+a la segunda hay que aceptar una hipótesis: que las leyes que Dios dio al mundo, y que se cumplen universalmente, son las mismas leyes que descubrimos
+cuando lo investigamos. La re-significación semántica de la palabra “ley” se
+enraíza en ese supuesto.
+La idea de ley natural no era sin embargo nueva; pertenecía a la tradición cultural de Occidente desde los estoicos, y ya en la Antígona de Sófocles
+se esgrimían las leyes naturales y eternas de los Dioses contra las del tirano
+Creonte. Roger Bacon (1214-1292) había utilizado la expresión, pero no tuvo
+seguidores. Por ello, el problema es, como indica Joseph Needham, por qué,
+después de tantos siglos de existencia como lugar común teológico en la civilización europea, la idea de las Leyes de la Naturaleza alcanzó una posición tan
+importante en los siglos XVI y XVII 37.
+Needham señala que el concepto aparece por primera vez en el tratado
+de Georgius Agricola De Ortu et Causis Subterraneorum (1546) al discutir la
+teoría aristotélica de la participación del agua como elemento en la composición de los metales, donde afirma que Dios…ha dado leyes seguras y fijas a la
+Naturaleza para que mezcle y funda las cosas unas con otras 38. Y medio siglo
+después Giordano Bruno dirá que a Dios hay que buscarlo in inviolabili intemerabilique naturae lege (De Inmenso, 1591).
+36
+Publicada originalmente en 1906: “The Place of Science in Modern Civilization” en American Journal of Sociology, XI (1906) 585-609. Ampliado más tarde con otros estudios en 1919: The Place of
+Science in Modern Civilization and Other Essays, Huesbsch, New York, 1919. Parcialmente traducido en
+B. Barnes, T. S. Kuhn y otros, Estudios sobre sociología de la ciencia (Alianza Editorial, Madrid, 1980,
+p. 314 ss). Finalmente traducido por completo por Margarita Barañano con una introducción, Thorstein
+Veblen: un alegato en favor de la ciencia, puede verse en Revista Española de Investigaciones Sociológicas, 61(1993)201, por donde lo citamos, pág. 222. Se ha corregido ligeramente la traducción para hacerla
+más fiel al texto original.
+37
+He tomado esta cita, así como en general, esta discusión sobre el origen del concepto de “ley
+natural” del trabajo de Joseph Needham “La ley humana y las leyes de la naturaleza”, en La gran titulación
+(Alianza Editorial, Madrid, 1977; 1.ª ed. inglesa, 1969), p. 309.
+38
+Op. cit. p. 298 ss.
+
+262
+
+
+
+La idea de “ley natural” no estaba sin embargo ni en Copérnico, ni en
+Kepler, ni en Galileo, a pesar de que será un tópico a partir del siglo xvii. La popularizaran los tratadistas del Derecho Natural, aunque quizás sin saberlo del todo.
+Como sabemos, Hugo Grotio fundará el ius naturalae como un dictado de la recta razón que señala que una acción, según sea o no conforme a la
+naturaleza racional, tiene en sí una cualidad de fealdad moral o de necesidad
+moral; y que, en consecuencia, tal acto es prohibido u ordenado por el autor de
+la naturaleza 39.
+Subrayo la expresión “en consecuencia” que parece dar a entender lo que
+luego afirmará: que igual que Dios no puede hacer que dos por dos no sean cuatro, tampoco puede hacer que lo que es intrínsecamente malo no lo sea 40. Intelectualismo radical que funda el Orden Natural sobre reglas que serían pues válidas
+aunque Dios no existiera, cosa que no puede decirse sin gran blasfemia añade
+después 41. El salto de la ley como mandato a la ley como realidad ya se ha dado.
+Sólo 12 años más tarde de la publicación del De jure belli at pacis (1625)
+de Grotio encontramos el mismo esquema repetido en el Discurso del método
+(1637) de Descartes, solo que ahora referido, no al Derecho, sino a la misma Naturaleza. Y aparece repetida la idea de Dios como legislador universal:
+… he notado ciertas leyes que Dios ha establecido en la naturaleza 42 y cuyas
+nociones ha impreso en nuestras almas, de tal suerte que, si reflexionamos
+sobre ellas con bastante detenimiento, no podremos dudar de que se cumplen
+exactamente en todo lo que es o se hace en el mundo 43.
+
+El concepto de ley de la naturaleza será ya de uso común en el siglo xviii.
+Aparece con su carácter científico actual en el primer volumen de las Philosophical
+Transactions de la Royal Society en 1665, pero conserva aún su connotación teológica en Newton en 1696, y basta recordar el conocido epitafio que escribió Alexander Pope (circa 1730) para ser inscrito en la tumba de Newton en Westminster:
+La Naturaleza y las leyes de la Naturaleza estaban en la oscuridad; Y dijo Dios
+“Que sea Newton”, y todo fue luz.
+De jure belli ac pacis (1625), Prolegómena, 12.
+Ibidem. Libro I, cap. I, secc. X. 1.º
+41
+Ibidem, Prolegómena, 11.
+42
+En relación con el término “naturaleza”, el editor del Discurso del Método, Risieri Frondozi,
+anota lo siguiente: “Entiende Descartes por ‘naturaleza’ la materia creada por Dios, con su figura, movimiento y leyes que la rigen”. Y en relación con las leyes anota: “El carácter innato de tales leyes se deriva de la
+idea innata que tenemos de Dios” (Op. cit., p. 109).
+43
+Ibidem, Quinta Parte, p.109.
+39
+40
+
+263
+
+
+
+Law of Nature, law of God, escribirá Francis Hutcheson en su System of Moral
+Philosophy (1752). Y se mantendrá aún en Saint-Simon en 1803: la ley de la
+gravedad es algo más que un método científico, es la propia ley de Dios, es la
+física y la moral del Universo 44.
+
+La resignificación semántica de la palabra “ley”, tan importante en la
+ciencia moderna, se había producido al consumarse el salto desde las leyes
+divinas a las de la naturaleza. Y a sensu contrario, como señala Needham, para
+el pensamiento chino no había leyes de la naturaleza porque nadie las había
+creado, no había seguridad de que un ser divino, aun más racional que nosotros, hubiera formulado jamás un código que se pudiese leer. Y así, si los pensadores chinos buscan en el mundo un sentido global (Tao), los occidentales
+buscan una ley. Como escribe José Santiago, se puede señalar que el concepto
+de leyes de la naturaleza solo apareció allí donde existía la idea de un Dios ético, personal y supramundano 45.
+A partir de ahora podremos olvidar ese origen, pero la pregunta es
+inmediata: ¿se podría haber generado el concepto moderno de ley de la naturaleza sin pasar por el camino de las leyes divinas, de un Dios que ha ordenado
+y creado cuanto existe, del Gran Relojero o Arquitecto del Cosmos?
+4. Además, la garantía de que podemos conocer
+la da El mismo, pues no puede engañarnos
+Buscar las leyes que Dios dio a la naturaleza. Pero ¿es esto posible? Lo
+es, pero porque Dios es nuestra garantía. Como escribe Descartes,
+La regla que antes he adoptado de que son verdaderas todas las cosas que concebimos muy clara y distintamente, no es segura sino porque Dios es o existe y
+porque es un Ser perfecto 46.
+
+Sólo El garantiza que esa evidencia no puede ser engañosa pues si no
+supiéramos que todo cuanto en nosotros es real y verdadero proviene de un Ser
+perfecto e infinito, entonces, por claras y distintas que fuesen nuestras ideas,
+no habría razón alguna que nos asegurase que tienen la perfección de ser
+verdaderas 47.
+Y Wittgenstein añadirá casi tres siglos más tarde (¿inconscientemente?)
+citando a Descartes: Si Dios crea un mundo en el cual ciertas proposiciones son
+44
+45
+46
+47
+
+264
+
+Citado por Charletty, Historia del sansimonismo, Alianza Editorial, Madrid, 1969, p.19.
+J. Santiago, op. cit., p. 53.
+“Discurso del Método”, Revista de Occidente, Madrid, 1974, Cuarta Parte. p. 106.
+Ibidem. p.106-107.
+
+
+
+verdaderas, crea también un mundo en el cual todas las proposiciones que se
+derivan de ellas son verdaderas 48.
+Dios aparece pues doblemente en los orígenes de la ciencia: como
+objeto de la indagación (las leyes que ha dado a la naturaleza), pero también
+como garante de que nuestro saber es cierto. Dios no puede haber sido tan
+maligno como para crear un mundo en el que nuestras ideas, claras y evidentes,
+sean falsas (una hipótesis, la de un Dios perverso, que explotara con su usual
+ironía, Jorge Luis Borges en el poema La cifra cuando se pregunta si acaso un
+Dios me engaña 49).
+5. La previa divinización de la naturaleza es precondición
+para la posterior naturalización del hombre en un mundo
+material que ha sido resignificado
+Pues efectivamente, solo la previa divinización de la naturaleza hace comprensible la labor que llevará a cabo la generación siguiente: la naturalización del
+hombre. Sorprendentemente no es a partir del materialismo de Hobbes de donde
+surgirá la teoría naturalista del hombre y la sociedad. Hobbes había escrito: animalium illorum consensio a Natura est: consensio autem hominum a pactis est et artificiale. Ahora bien, como escribe Sombart,
+para llegar a una amplia ciencia experimental de la sociedad humana, en las
+que al Derecho y al Estado no se les reconocería ninguna posición independiente, aparece claro que había que suprimir la antítesis entre razón y naturaleza, entre espíritu y alma, entre libertad y causalidad, entre idea y realidad. Para que el camino de la nueva ciencia quedase libre, antes había que
+destruir el viejo modo racional de interpretación 50.
+
+Y así, como escribieron Becker y Barnes, rehabilitando al hombre en
+su contexto secular, los Deístas hicieron posible el ascenso de aquellas ciencias
+dedicadas al estudio de la naturaleza del hombre y sus relaciones sociales 51.
+Tractactus, op. cit., parágrafo, 5, 123.
+La cifra (1981).
+Acaso un dios me engaña.
+Sueño la luna y sueño mis ojos que perciben la luna.
+Acaso sueño haber soñado.
+Siento un poco de frío, un poco de miedo.
+Sobre el Danubio está la noche.
+Seguiré soñando a Descartes y a la fe de sus padres.
+50
+W. Sombart, “Los comienzos de la sociología”, en Noosociología, Instituto de Estudios Políticos,
+Madrid, 1962 (1.ª ed. alemana,1923), p. 25
+51
+H. Becker y H. Barnes, Social Thought From Lore to Science, Dover Publications, Nueva York,
+1961 (1.ª ed. 1938) p. 364.
+48
+49
+
+265
+
+
+
+De este modo, frente a la vieja metafísica que separaba la naturaleza y
+la sociedad, y que todavía encontraría en Kant un notable desarrollo teórico, la
+nueva metafísica vino a englobar bajo la idea de armonía cósmica, tanto a la
+naturaleza como al hombre y la sociedad. Pero fue necesario un radical proceso
+de re-significación y resimbolización de la naturaleza para que esta pudiera englobar plenamente al hombre y a la sociedad. Esta no es ya el producto de un
+pacto, acuerdo artificial y contra-natura, sino producto de la misma naturaleza
+humana. Y por eso, como dice Sombart, entre los conocidos adversarios del Derecho Natural, y especialmente de la teoría contractual, hemos de buscar los
+fundadores de la moderna sociología. El lugar y tiempo en que nace esta ciencia
+vienen así señalados con bastante precisión. Comenzó en Inglaterra con la generación que sigue a los principales escritos de Hobbes 52.
+A principios del xviii Shaftesbury, en Characteristics of men, manners,
+opinions, times (1713), defiende —en radical contraposición con Hobbes— que el
+hombre es social por naturaleza: Si comer y beber son connaturales al hombre, la
+sociedad también. Si hay algún apetito o sentido natural, es el de compañerismo 53.
+Casi al tiempo aparece las obras de Mandeville The Fable of the Bees
+(1714, versión ampliada de un folleto de 1703), una parte de la cual se titula
+justamente A Search Into the Nature of Society, y en el cual la sociedad humana
+se asimila a una sociedad animal y es plenamente naturalizada 54.
+Medio siglo más tarde —dice Sombart— la nueva ciencia ya aparece configurada en todas sus partes esenciales. Es casi por completo la obra de pensadores
+ingleses 55. Sus principales nombres son Francis Hutcheson (De naturali hominum
+socialitate, 1756), que influirá sobre toda la escuela escocesa; Adam Smith (Lectures on Justice, Police, Revenue and Arms, 1763); John Millar (Observations Concerning the Distinctions of Rank in Society, 1771), considerado por Sombart como
+una de las mejores y más completas sociologías que tenemos. Y por supuesto,
+Adam Ferguson en su magnífico An Essay on the History of Civil Society (1767)
+considerado el padre de la sociología moderna 56, con quien aparece ya la idea
+central, constitutiva de la sociología: que la sociedad es resultado de la acción
+humana pero no del designio humano, la idea en definitiva de las consecuencias
+no intencionadas de la acción, que será tomada por Hayek casi literalmente:
+
+W. Sombart, op. cit. p. 361
+Shaftesbury, Characteristies of men, manners, opinions, times, etc., ed. J. M. Robertson, 1900, 1;
+(The Moralist), part. 111, 2; 11, p. 128.
+54
+Texto en el que, al argüir que de los vicios privados emergen virtudes públicas, rompe la visión
+medieval de un alineamiento entre la virtud, la belleza y el bien, para avanzar en la tesis de las consecuencias
+no queridas de la acción, que será base del liberalismo de Smith y fundamento de la misma ciencia social.
+55
+W. Sombart, op. cit., p. 27.
+56
+Harry E. Barnes, Sociology Before Comte: “A Summary of Doctrines and an Introduction to the
+Literature”. American Journal of Sociology. 1917, 23 (2): 234.
+52
+53
+
+266
+
+
+
+Cada paso y cada movimiento de la multitud multitud —escribe Ferguson—,
+incluso en lo que se llama eras ilustradas, se realizan con la misma ceguera
+hacia el futuro; y las naciones tropiezan con instituciones, que de hecho son el
+resultado de la acción humana, pero no la ejecución de ningún diseño humano
+(parte III, sección 1).
+
+En ese ambiente intelectual en el que los dioses han descendido sobre
+el mundo y se han hecho su sustancia interna, en que el alma lo es solo de un
+cuerpo natural, en que la idea es parte de la misma realidad (busco la idea en
+la misma realidad le escribe el joven Marx a su padre 57), en tal ambiente surge
+la ciencia del orden social humano.
+Es cierto —como afirma Sombart— que en líneas generales esta primera sociología es básicamente nominalista 58; sin duda Ferguson va más allá que
+los demás al criticar radicalmente todo robinsonismo afirmando de modo tajante que individuo y sociedad surgen al mismo tiempo (parte I, sección 2). Sin
+embargo, en Mandeville, Shaftesbury, Smith o Hume, la idea central es la de
+association. Hume llegará a comparar la ley de atracción entre las masas con la
+ley de asociación en su Treatise on Human Nature (1739). Habrá que esperar a
+Montesquieu, que bebe en estas mismas fuentes, y más tarde aún, a Saint-Simon
+y Comte, para que la naturalización de lo social se afirme, no a través de la
+naturalización de los individuos, sino directamente, en cuanto la totalidad social
+es conceptuada como máquina u organismo biológico (Spencer).
+Lo que nos interesaba resaltar es que, solo a través del Deísmo y del
+panteísmo pudo la idea del hombre como ser natural ser aceptada; solo a través
+de ese rodeo teológico que sacralizaba la naturaleza, pudo aceptarse posteriormente la naturalización del hombre, y con ello la ciencia social como ciencia
+del carácter natural-social del hombre.
+6. Si Dios ha dado órdenes a todo, también ha diseñado
+a los hombres de modo que, cada uno, siguiendo sus propios
+dictados, cumple un esquema divino cuyo sentido último
+ignora. La mano invisible del liberalismo será invisible,
+pero no inexistente
+Trasladar la idea de orden y providencia divinas desde la naturaleza al
+hombre es casi inevitable y, de hecho, lo encontramos ya en Calvino:
+
+57
+
+Si hasta ahora los dioses han morado sobre la tierra, sin embargo son ahora su centro, escri-
+
+be en 1837.
+58
+
+W. Sombart, op. cit., p. 36-37.
+
+267
+
+
+
+Pero cada parte de la naturaleza, cuando se examina atentamente, demuestra
+igualmente el cuidado providencial de su Autor, y podemos admirar la sabiduría y la bondad de Dios incluso en la debilidad y la locura de los hombres 59.
+
+Pues Dios no es solo causa primera, sino que lo gobierna y mantiene
+todo con su providencia 60.
+Y por supuesto en la misma Óptica de Newton pues,
+en la medida en que conozcamos por la filosofía natural cuál es la primera
+causa (Dios), qué poder tiene sobre nosotros y qué beneficios obtenemos de
+ella, en esa misma medida se nos aparecerá con luz natural cuál es nuestro
+deber hacia ella, así como hacia nosotros mismos 61
+
+Y lo señalará claramente Matthew Tindal en la Biblia del deísmo:
+Dios diseñó todo lo que la humanidad debe saber en todo momento, lo que
+quiere que sepan, creen, profesen y practiquen; y no les ha dado ningún otro
+medio para esto, sino el uso de la razón (Vol. 1, p. 6).
+
+Idea que ya estaba en el mismo Grotio quien no dejaría de señalar que
+las reglas del derecho Natural, aunque nace de los principios internos del hombre, con todo en justicia es atribuible a Dios, porque Él quiso que existieran en
+nosotros tales principios 62.
+Pero fue la sacralización de la naturaleza, que hace de ella el orden y
+no el caos y, sobre todo, la correspondiente sacralización de la naturaleza social, es decir, de la sociedad humana, lo que da sentido último al liberalismo.
+Como escribe Gómez Arboleya:
+Dios se identifica cada vez más con el orden natural, un orden que ha distribuido los bienes en la mejor manera para que cualquiera que trabaje tenga su
+existencia asegurada [...] Su puesto y su destino se manifiestan en obras temporales. La vocación es así, vocación terrena para una obra secular [...] El éxito
+es la señal cierta de que Dios le bendice.
+
+La febril actividad intramundana extrae su pathos compulsivo del carácter sagrado que el actor otorga a su trabajo. Comercio e industria, —continúa
+59
+60
+61
+62
+
+268
+
+Op. cit, Chap. III. Of the final Cause of this Irregularity of Sentiments.
+Libro I, Cap. XVI.
+Newton, Isaac, Óptica, Alianza Editorial, Madrid, 1977 (1704), p. 350.
+De jure belli ac pacis (1625), Prolegómena, 12.
+
+
+
+Arboleya—, las actividades y pretensiones de una clase se cargan así de un ingente dinamismo 63.
+Lo que nos lleva a la metáfora de la “mano invisible”.
+Sabemos que el símil de la “mano invisible” viene de lejos. Esta ya en
+San Agustín (354-430): La “mano” de Dios es su poder, que mueve las cosas visibles por medios invisibles. Mano invisible y sangrienta aparece en el Macbeth de
+Shakespeare (ca. 1606). Aparece de nuevo en Calvino, citando a San Agustín: si
+la voluntad del rey es guiada por la mano de Dios, tampoco la voluntad de los
+que no somos reyes quedará libre de esta condición. Quien añade:
+Hay a propósito de esto una bella sentencia de san Agustín, quien dice: La Escritura, si se considera atentamente, muestra que, no solamente la buena voluntad de los hombres está bajo la mano y el poder de Dios, sino también toda
+voluntad durante la vida presente; y de tal manera lo están, que las inclina y
+las mueve según le place de un lado a otro, para hacer bien a los demás, o para
+causarles un daño, cuando los quiere castigar; y todo esto lo realiza según sus
+juicios ocultos, pero justísimos 64.
+
+Y añade:
+Cuando por principios naturales somos guiados a avanzar esos fines que una
+razón refinada e ilustrada nos recomendaría, estamos muy dispuestos a imputar a esa razón, en cuanto a su causa eficiente, los sentimientos y acciones por
+los cuales avanzamos esos fines, e imaginar que es la sabiduría del hombre,
+cuando en realidad es la sabiduría de Dios 65.
+
+Imaginamos que es la sabiduría del hombre, pero en realidad es la
+mano de Dios la que nos guía.
+No voy a entrar a discutir cuándo y cómo Adam Smith pronuncia la
+frase “mano invisible”. Según expertos solo una vez en La riqueza de las naciones y solo tres veces en todos sus escritos 66. Pero la idea de un orden social
+regido por mandatos divinos la encontramos repetidamente, sobre todo en la
+Teoría de los sentimientos morales:
+
+Gómez Arboleya, op. cit., p. 184.
+Para este apartado me he apoyado en Renato Espoz Le-Fort, ya citado. La cita es de “Fundamento religioso de la ciencia económica”, en Cristianismo y sociedad, 1995, XXIII, p. 30, y aparece en Institutes of the Christian Religion (1563) Cap XX De la Gracia y el Libre Albedrío.
+65
+Chap. III. Of the Utility of this Constitution of Nature. Puede consultarse en https://www.gutenberg.org/files/45001/45001-h/45001-h.html
+66
+La única referencia a la “mano invisible” que se encuentra en La riqueza de las naciones aparece en el Libro IV, Capítulo II, De las restricciones a la importación de países extranjeros de los bienes que se
+pueden producir en el hogar. La frase exacta se usa solo tres veces en los escritos de Smith.
+63
+64
+
+269
+
+
+
+La idea de aquel Ser Divino, cuya benevolencia y sabiduría ha trazado y conducido desde la eternidad la inmensa máquina del Universo... (TMS VI.ii.3.5)
+
+Y más claramente:
+La administración del gran sistema del universo, sin embargo, el cuidado de
+la felicidad general de todos los seres racionales y sensibles, es el negocio de
+Dios y no del hombre. Al hombre le está asignado un departamento mucho
+más humilde, pero uno mucho más adecuado a la debilidad de sus poderes y
+la estrechez de su comprensión; el cuidado de su propia felicidad, la de su familia, sus amigos, su país (TMS VI.ii.3.6) 67.
+
+Y no olvidemos que este es el orden de Dios para Calvino que (...) finalmente ordena todas las cosas conforme al mejor orden posible. Orden que
+venía a santificar incluso la propiedad privada:
+Porque debemos considerar que lo que cada uno posee no lo ha conseguido a la
+ventura o por casualidad, sino por la distribución del que es supremo Señor de
+todas las cosas; y por eso a ninguna persona se le pueden quitar sus bienes con
+malas artes y engaños, sin que sea violada la distribución divina.
+
+Pues la pregunta es evidente: ¿qué garantías podemos tener de que
+cada individuo, persiguiendo sus propios intereses, acaba generando el bien
+común y no el malestar general, como criticara Marx en los Grundrisse?:
+Los economistas expresan este hecho del modo siguiente: cada uno persigue su
+interés privado y solo su interés privado y de ese modo, sin saberlo, sirve al interés general. Lo válido de esta afirmación no está en el hecho de que persiguiendo cada uno su interés privado se alcanza la totalidad de los intereses privados,
+es decir, el interés general. De esta frase abstracta se podría mejor deducir que
+cada uno obstaculiza recíprocamente la realización del interés del otro, de
+modo tal que, en lugar de una afirmación general, de este bellum omnium
+contra omnes resulta más bien una negación general 68.
+
+Y la respuesta es que solo bajo el supuesto de que Dios ha distribuido las pasiones y los intereses de acuerdo con un plan desconocido para el
+hombre, del mismo modo que ha creado leyes para el Universo todo. William
+Leechman, discípulo de Hutcheson y amigo de Hume (1755) hablará de la
+mano silenciosa e invisible de una Providencia sabia que gobierna todos los
+
+67
+The Theory of Moral Sentiments, ed. by D. D. Raphael and A. L. Macfie. Clarendon Press. Oxford,
+1976. Véase M. Martin Rodríguez, “De cómo Adam Smith no llegó a ser “Homo Oeconomicus” (1) Una interpretación general de la conducta humana en el sistema moral de A. Smith”, Revista de Economía Política, 1980.
+68
+Marx, K. Grundrisse, I, pp. 83-84. Elementos fundamentales para la crítica de la economía
+política, Edit. Siglo XXI, Buenos Aires,1971 (tomo I) 1972 (tomo II).
+
+270
+
+
+
+eventos de la vida humana y todas las resoluciones de la voluntad humana.
+La armonía cósmica generada por el Gran Relojero no puede dejar fuera al
+hombre y a la sociedad, que son una parte más de ese Cosmos y a quienes
+doto de Razón para poder comprenderlo. La “mano invisible” del liberalismo,
+no menos que la “asocial sociabilidad” del hombre kantiana, o la hegeliana
+“astucia de la razón”, parecen tener el mismo origen y compartir ecos no tan
+remotos de la providencia divina.
+La formación de la ciencia social muestra también en sus orígenes esa
+misma orientación trascendente, por mucho que se encubra detrás de la naturalización, aparentemente materialista, de la sociedad.
+Casi un siglo más tarde, Feuerbach resumía este largo proceso de inmanentización y despersonalización de Dios identificando tres momentos que culminan en la sociedad comunista como utopía de la sociedad humana emancipada totalmente y metamorfoseada en Civitas Dei realizada en la Tierra. La misión
+de la época moderna —escribía Feuerbach— fue la realización y la humanización de Dios —la transformación y disolución de la teología en antropología 69.
+Una idea que concreta a través de la obra e Spinoza primero y de Hegel después.
+Puede que Dios haya muerto, pero la Naturaleza, la Historia y la Sociedad están ahí para probar su existencia, pues no son sino El mismo manifestándose en lo inmanente, realizando por fin la llegada del Anunciado a la Tierra.
+El Verbo se hizo Carne y habitó entre Nosotros ( Juan, 1, 14).
+De este modo, el referente divino es el referente último, término primitivo, frecuentemente oculto e incluso ignorado, pero que funda y sustenta el
+discurso científico de una doble manera: en cuanto funda la posibilidad del
+Orden y en cuanto funda la posibilidad de Conocer ese Orden, es decir, la posibilidad de la Verdad.
+
+LA CIENCIA MODERNA Y LA RELIGIÓN: CONCLUSIÓN
+El supuesto básico de la ciencia moderna —ha escrito Whitehead—:
+… es el convencimiento generalizado e instintivo de un orden de cosas y en
+particular, de un orden de la naturaleza [...] Esta fe en la posibilidad de la
+ciencia, producida anteriormente al desarrollo de la teoría moderna, es un
+derivado inconsciente de la teología medieval 70.
+
+69
+70
+
+L. Fuerbach, Principio de la filosofía del futuro, Labor, Barcelona, 1976 (e.o. 1843), 1.º
+N. Whitehead, Science and the Modern World, New York, 1931, p. 5 ss.
+
+271
+
+
+
+Y el propio Popper ha dicho que nuestras motivaciones y nuestros
+ideales puramente científicos, como el ideal de la pura búsqueda de la verdad,
+hunden sus raíces más profundas en valoraciones extra-científicas y, en parte,
+religiosas 71. Conjeturas que están guiadas por una fe acientífica y metafísica,
+aunque biológicamente explicable, en las leyes, por una fe en regularidades que
+podemos desvelar —descubrir— 72.
+Y es sabido que el mismo Einstein mantendrá opiniones parecidas:
+Aunque es cierto que los resultados científicos son enteramente independientes
+de cualquier tipo de consideraciones morales o religiosas, también es cierto que
+justamente aquellos hombres a quienes la ciencia debe sus logros más significativamente creativos fueron individuos impregnados de la convicción auténticamente religiosa de que este universo es algo perfecto y susceptible de ser
+conocido por medio del esfuerzo humano de comprensión racional 73
+
+Si la Realidad es Orden y no Caos, si el logos de la naturaleza está escrito en lenguaje matemático (como dice Galileo en Il Saggiatore, 1623), si lo
+real es racional, todo ello es porque es obra de un Ser Perfecto que también nos
+ha hecho a nosotros. Así, la condición última de posibilidad de la ciencia, no
+radica sólo en la lógica de los juicios analítico-sintéticos (Kant), sino ante todo
+en la Fe en el Orden, en el supuesto de inteligibilidad.
+Toda Teología —escribía Weber en 1919— [...] parte del supuesto de que el
+mundo ha de tener un sentido. El problema que ha de resolver es pues, en consecuencia, el de encontrar una forma de interpretar el mundo que haga posible pensar así. Se trata —continúa Weber— de una situación idéntica a la de
+la teoría kantiana del conocimiento, que parte del supuesto de que “existe una
+verdad científica válida” y se pregunta después por los supuestos mentales que
+hacen esto (significativamente) posible 74.
+
+Así, el afán que late en la ciencia moderna no es sino el mismo afán religioso de descubrir la Verdad para la Totalidad de la existencia humana, pero aceptando
+de entrada que tal Verdad existe y está ahí, al alcance de la mano, de la Razón:
+La Ilustración —ha escrito Von Martín— trataba de legitimar el primado de la
+filosofía sobre la teología, esto es el primado de la razón sobre la revelación [...]
+Pero también esta metafísica mantiene firme la pretensión de la verdad absolu-
+
+71
+En “La lógica de las ciencias sociales”, en Adorno y otros, La disputa del positivismo en la sociología alemana, Grijalbo, Barcelona, 1972 (1.ª ed. 1969). p. 111.
+72
+The Logic of Scientific Discovery, Hutchinson, London, 1972, par. 25.
+73
+Citado por A. Fernández-Rañada, Los científicos y Dios, Nobel, Oviedo 1994, p.
+74
+Weber, “La ciencia como vocación”, en El político y el científico, Alianza Editorial, Madrid,
+1967, p. 227.
+
+272
+
+
+
+ta, quiere aprender en su conjunto la totalidad de la existencia comprendida
+desde dentro del mundo por los principios últimos, universalmente buenos y
+duraderos como “religión natural” o “imagen del mundo natural 75.
+
+Sólo desde tal “religión natural” se hacen comprensibles las afirmaciones de que “en lógica sobre el sujeto” (Wittgenstein), de que la mano que en
+Jena culmina la Fenomenología del Espíritu al tiempo que afuera retumban los
+cañones de Napoleón, no es la del sujeto mortal Guillermo Federico Hegel sino
+la del Espíritu que ha tomado posesión de su cuerpo, o la de que la ciencia
+carece de sujeto cognoscente (Popper). El Espíritu Santo ha descendido sobre
+estas almas y hace vibrar su mano trémula con Verdades Eternas.
+Afirmaciones que no deben leerse como metáforas sino como desvelamiento de la significación simbólica objetiva de un sistema de acción. Pues en
+tales afirmaciones se trasluce, no tanto el mayor o menor profetismo personal
+de estos gurus sino fundamentalmente la creencia en la Verdad, que es propiamente el lugar que ocupa esa sombra de Dios.
+Incluso la ilusión de un lenguaje objetivo, neutro y transparente, que
+es sueño del neopositivismo lógico, es la pretensión de que tal palabra no es
+humana, de que en ella solo habla el logos eterno y no el sujeto que la pronuncia. Verdad revelada por la Palabra de Yahvé y que está ahí en sus Textos Sagrados, sean estos Libros, Naturaleza, Historia o Sociedad.
+Pero desde tal perspectiva se entiende también que el normativismo rígido y austero de la metodología neopositivista, y sobre todo su búsqueda tenaz
+de un lenguaje puro, reproduce mecánicamente la ascética puritana que, a través
+de una actividad intramundana, conduce a la Salvación. La Verdad os Hará Libres.
+Pues la pretensión de fijar un procedimiento permanente, eterno y universal para
+la ciencia, de tal modo que solo a través de tal camino sea posible alcanzar con
+garantías la verdad, no es sino la creencia de estar ya, de algún modo, en posesión de la Verdad, aunque sea en su lado procedimental.
+Nos hemos extendido en el específico carácter de Dios despersonalizado e inmanentizado que toma el objeto de la ciencia moderna pues pienso que
+este aspecto es menos conocido que el carácter sagrado que el científico otorga
+a su actividad. Pues la metamorfosis de lo sagrado afecta no solo al objeto de
+la ciencia sino también a la propia actividad del científico, sacerdote que descubre, leyendo en el Texto Divino, Sus mandatos, y media así entre la comunidad y lo trascendente. Los análisis de Weber y Merton en este sentido son bien
+conocidos y no voy a insistir en ello.
+
+75
+
+Alfred von Martin, La cultura de la Ilustración, Instituto de Estudios Políticos, Madrid, 1954, p. 67.
+
+273
+
+
+
+Merton muestra como la actividad del científico cumple a la perfección
+las expectativas de buena vida del puritanismo mostrando una correlación punto por punto entre las virtudes del puritano y las exigencias de la ciencia: trabajo sistemático y metódico, diligencia constante, huida del ocio, laboriosidad
+infatigable, auto-control emocional, todo ello en aras de la mayor utilidad para
+el hombre, en suma utilitarismo y empirismo.
+El argumento reaparece más tarde al hilo de la posterior sociología de
+la ciencia que pone de manifiesto un notable dogmatismo en la ciencia que
+Kuhn en su Estructura de las revoluciones científicas muestra claramente. Como
+ha escrito Muguerza, la “comunidad de científicos” es descrita por Kuhn [...] en
+términos poco menos que religiosos: el científico ‘deposita su fe’ en un determinado paradigma de recambio por el cual sustituirlo, y se ‘convierte’ en fin a un
+nuevo paradigma cuando éste es lo suficientemente sugestivo” 76. Por eso la gran
+divisoria de la filosofía de la ciencia del siglo xx es la que discurre entre los filósofos platonizantes que tratan de encontrar en la ciencia —o más exactamente imponérsela— una estructura permanente, y aquellos otros para quienes, por
+el contrario, la cuestión principal consiste en dar razón empírica del cambio
+científico 77.
+Volvamos a Bacon. Si todo lo que existe tiene una causa, y esa es la
+hipótesis central de la ciencia, no puede haber causa no causada. La idea de
+Dios es así el modo de explicarlo todo sin molestarse en indagar las causas
+inmediatas, sin trabajar y sudar el conocimiento. Se da de una vez y completo.
+La ciencia es la progresiva inmanentización de Dios en sus causas mediatas, de
+modo que es, al tiempo, una hipótesis a rechazar, pero también el sustento latente del mismo proyecto. Una teología materialista, de pasos pequeños, de
+trial and error, que se conforma con la inmanencia, pero que sólo se entiende
+desde la trascendencia, desde la Fe en un Orden inteligible.
+Una sola cosa, lo sabio, no desea y desea llevar el nombre de Zeus decía
+Heráclito, mostrando esa ambivalencia teológica de la ciencia 78.
+Y termino con dos preguntas:
+1. ¿Hubiera sido posible la ciencia sin la creencia en un Dios creador
+del mundo al que da leyes? ¿Cuál es la relación entre monoteísmo y ciencia? Y
+si es así, ¿cómo explicar el desviado caso del Islam? ¿Se sostiene la idea de que
+fue el protestantismo ascético el origen de la ciencia moderna y lo que explica,
+
+76
+
+J. Muguerza, “La crisis de la filosofía analítica de la ciencia”, en Cuadernos Económicos de ICE,
+
+3-4 (1977) 23.
+La idea es de Toulmin, citado por Muguerza, Op. cit., p.12.
+Citado por C. Moya, “Introducción a H. Saint-Simon”, El sistema Industrial, Editorial Revista de
+Trabajo, Madrid, 1965.
+77
+
+78
+
+274
+
+
+
+al menos parcialmente, el retraso relativo de los países católicos? ¿La Santa
+Alianza de Religión y Ciencia, frente a lo que podríamos llamar simple conllevanza?
+2. ¿Es la ciencia, actualmente, un erstaz religioso, un modo de buscar
+a Dios, es decir, a lo trascendente y lo numinoso, pero penetrando en la inmanencia más que alejándose de ella? ¿Tenía pues razón Newton cuando, en los
+Principia, aseguraba que sobre Dios corresponde hablar en filosofía natural a
+partir de los fenómenos 79? O, al contrario, ¿no es la idea de Dios un modo de
+saltar por encima de la ciencia, de encontrar respuestas simples a problemas
+complejos, de pretender adquirir conocimiento sin trabajarlo, sin sudarlo,
+como diría Bacon? Por decirlo de otro modo, el impulso a la ciencia ¿es el
+mismo impulso que lleva a Dios, solo que con otro lenguaje? Al acabar la famosa conferencia sobre la ciencia como vocación, Weber advertía a quienes no
+puedan soportar virilmente este destino de nuestro tiempo —racionalizado,
+intelectualizado y sobre todo, desmitificador del mundo— hay que decirles que
+vuelvan en silencio al ancho y piadoso seno de las viejas Iglesias Es inevitable
+que de uno u otro modo tengan que hacer allí el “sacrificio del intelecto” 80. Pero
+contra lo que sostiene Weber, puede que ese sacrificio no sea necesario, pues
+también aquí una vena oculta corre vinculando religión y ciencia, lo inmanente y lo trascendente.
+
+79
+Newton, Isaac., Principios matemáticos de la filosofía natural. Alianza Editorial. Madrid, 1987
+(e.o. 1687), p. 118.
+80
+M. Weber, El político y el científico, Alianza Editorial, Madrid, 1967, p.230.
+
+275
+
+
+
+

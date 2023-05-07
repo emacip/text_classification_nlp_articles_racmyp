@@ -1,0 +1,425 @@
+ALGUNOS ASPECTOS DEL ANÁLISIS
+DE LA ECONOMÍA ESPAÑOLA
+Por el A cadém ico de Número
+Excm o. Sr. D. Luis Ángel Rojo D uque *
+
+Los bancos centrales iniciaron, desde el comienzo de sus actividades, un
+aprendizaje basado en los avances teóricos y prácticos desarrollados en relación
+con los objetivos perseguidos por las políticas monetarias a lo largo del tiempo. La
+observación de las relaciones entre la cantidad de dinero, el nivel de los precios y
+el tipo de cambio; el examen y el perfeccionamiento de los patrones monetarios
+y la convertibilidad; el análisis de la transmisión de efectos desde los impulsos
+monetarios hasta el tipo de interés, la actividad y los precios; las causas y los efec­
+tos de los movimientos de capitales y las consecuencias de las perturbaciones
+monetarias sobre los sistemas bancarios, fueron piezas, todas ellas, que llevaron a
+la constmcción de la teoría monetaria clásica y de la política liberal en ella inspi­
+rada que constituían la ortodoxia en vísperas de la Primera Guerra Mundial.
+El periodo comprendido entre las dos Guerras Mundiales fue, como es
+sabido, especialmente complejo. El final de la primera conflagración fue seguido
+por intensas fluctuaciones de origen monetario que, tras un periodo de relativa
+tranquilidad, dieron paso a la Gran Depresión de los años treinta con sus efectos
+negativos sobre los precios y los cambios, la actividad y el empleo. Tan graves per­
+turbaciones otorgaron un fuerte impulso al análisis monetario, en manos de gran­
+des economistas del periodo, y al estudio de las medidas de política monetaria por
+parte de los bancos centrales. Al concluir el periodo de entreguerras, la teoría y la
+política monetarias, integradas en modelos de inspiración principalmente keynesiana, se proponían contribuir, junto con la política fiscal, a la estabilidad de la
+demanda efectiva de las economías.
+
+* Sesión del día 20 de junio de 2006.
+
+9
+
+
+
+En los primeros años de la segunda posguerra el pensamiento monetario
+adoptó posiciones laxas: si la demanda efectiva era inestable, tampoco parecía que
+la política monetaria pudiera considerarse muy estable. Si la demanda agregada de
+dinero era inestable, su elasticidad respecto del tipo de interés era elevada y, por
+el contrario, la elasticidad de la demanda de bienes y servicios en relación con el
+tipo de interés era baja, la confianza depositada en la política monetaria para regu­
+lar la demanda efectiva había de ser escasa y muy inferior a la puesta en la polí­
+tica fiscal. La política monetaria había de desempeñar así una pura función de
+acompañamiento.
+Sólo a finales de los años cuarenta comenzaron a ceder las políticas
+monetarias así planteadas, cuya laxitud las hacía inflacionistas y alentadoras de los
+desequilibrios exteriores. Los estudios teóricos y empíricos llevaron a una revisión
+a la baja de la inestabilidad que se venía atribuyendo a la demanda de dinero y a
+una revisión al alza del valor de la elasticidad de la demanda efectiva respecto del
+tipo de interés. En consecuencia, en los años cincuenta aumentó la eficacia atri­
+buida a la política monetaria como arma reguladora de la demanda efectiva y la
+economía keynesiana pasó a adoptar la forma de la denominada “síntesis neoclá­
+sica”, que vino a convertirse en el modelo macroeconómico característico durante
+casi dos décadas. En esos modelos, la política, a pesar de la recuperación parcial
+de su importancia, continuaba ocupando una posición secundaria, respecto de la
+política fiscal, en la regulación de las economías.
+El conjunto de identidades, relaciones de comportamiento y funciones
+que constituían el modelo keynesiano de la “síntesis neoclásica” articulaban un
+conjunto de variables observables de modo que, a partir de él, la macroeconomía
+podría avanzar depurando sus conocimientos mediante la contrastación con los
+hechos. La economía parecía haber realizado, por fin, su vieja aspiración de con­
+vertirse en una ciencia empírica. No es que los economistas estuvieran dispuestos
+a reducir a un puro empirismo su conocimiento e interpretación de las realidades
+históricas singulares ni que cerraran los ojos ante algunas diferencias importantes
+de orden metodológico entre las ciencias naturales y las ciencias sociales; pero el
+método empírico se había hecho dominante, el desarrollo de la econometría, al
+servicio de la teoría aunque suplantándola en ocasiones, prometía un cuerpo de
+conocimientos positivos, empíricamente contrastados, y en consecuencia, los fac­
+tores no observables tendían a ser relegados en el análisis.
+Se proponía así un programa acumulativo de investigación en el que
+estaban dispuestos a participar los bancos centrales: el proceso de formulación,
+contrastación, corroboración o rechazo de hipótesis permitiría un progreso, empí­
+ricamente fundamentado, del conocimiento económico; y en base a las hipótesis
+corroboradas y a las teorías articuladas a partir de ellas, podrían construirse y esti­
+marse modelos econométricos de amplitud y complejidad crecientes que ofrecie­
+
+10
+
+
+
+ran descripciones cada vez más refinadas de la estructura y el funcionamiento de
+economías concretas. El desarrollo de la informática prometía superar los proble­
+mas prácticos de la estimación de los modelos. Y así, los años sesenta y la prime­
+ra parte de los años setenta presenciaron una floración exuberante de modelos
+econométricos que prometían ofrecer una apoyatura cada vez más firme al cono­
+cimiento y la regulación de las economías a corto plazo.
+Parecía posible, a partir de ese programa de investigación, formular polí­
+ticas macroeconómicas con una fundamentación científica de rigor creciente. Los
+grandes modelos, una vez especificados adecuadamente, serían estimados sobre
+los datos de un periodo muestral suficiente, en la confianza de que, si el modelo
+era correcto, los valores estimados de los parámetros estructurales serían estables
+e invariantes respecto de las decisiones de política económica. En consecuencia,
+los modelos econométricos podrían utilizarse para hacer previsiones condiciona­
+das a valores particulares de determinadas variables controladas por las autorida­
+des y estudiar, de ese modo, las consecuencias de medidas alternativas o simultá­
+neas de política económica. Así, cabría buscar el logro preciso de objetivos de
+empleo y de inflación acordes con los deseos de las autoridades.
+Aquel programa de actuación no consiguió, sin embargo, avanzar mucho
+tiempo sin problemas. En los últimos años sesenta, el carácter fuertemente expan­
+sivo de la política económica americana generó efectos debilitadores del dólar hasta
+provocar su depreciación y, finalmente, el abandono del sistema de Bretón Woods.
+Los precios internacionales de numerosas materias primas y, sobre todo, del petró­
+leo se elevaron con intensidad induciendo importantes descensos en las relacio­
+nes reales de intercambio de los países importadores de crudos y llevándoles a
+situaciones complejas caracterizadas por la coexistencia de procesos inflacionistas
+y recesivos importantes. En un principio, los países afectados por estas situaciones
+trataron de combatirlas con políticas que intentaban luchar con la recesión a tra­
+vés de políticas de demanda expansivas al tiempo que buscaban en políticas de
+concertación con grandes grupos de intereses -especialmente, los sindicatos- el
+logro de acuerdos de rentas que contuvieran la inflación y facilitaran los ajustes.
+Estas políticas concluyeron en rotundos fracasos. En Europa, sólo Alemasnia, con su política relativamente restrictiva de demanda, y el grupo de países que
+mantenían sus monedas ligadas al marco consiguieron llegar al final de la década
+de los setenta con tasas de inflación moderadas. Al concluir ésta, podía observar­
+se, además, que las economías con mejor ejecutoria en el terreno de los precios y
+los tipos de cambio eran también las que habían cosechado mejores resultados en
+términos de producción y empleo.
+Iba a cerrarse así el periodo de dominio absoluto del keynesianismo. Su
+escasa fortuna en la lucha con la crisis tendió a desplazarlo en favor de las posi­
+
+11
+
+
+
+ciones teóricas del monetarismo de Friedman que, apoyándose en abundantes
+estudios empíricos, negaban la inestabilidad de la demanda efectiva al tiempo que
+afirmaban la elevada estabilidad de la función de demanda de dinero, su elastici­
+dad relativamente baja respecto al tipo de interés, la transmisión de efectos de los
+impulsos monetarios a través de una amplia gama de tipos de interés y rentabili­
+dad, y la actuación persistente de las medidas monetarias sobre las variables nomi­
+nales, pero con efectos sólo transitorios, y a costa de generar fuertes perturbacio­
+nes, sobre' las variables reales. Según esto, a largo plazo los impulsos monetarios
+operan sobre las variables nominales, especialmente sobre los precios, pero no
+parecen afectar de modo significativo a las variables reales -que vienen determi­
+nadas por factores reales-; en el corto y medio plazo, las aceleraciones y desace­
+leraciones monetarias afectan tanto al componente monetario de la renta como al
+componente real, pero mientras sus efectos sobre el segundo son transitorios. De
+ahí las dificultades de una política monetaria que pretenda estimular de modo per­
+sistente el avance del producto real por encima de un ritmo “normal” o “natural”:
+requeriría aceleraciones continuas de la cantidad de dinero, y tasas más altas de
+avance deseadas para el producto real sólo podrán mantenerse con impulsos
+monetarios adicionales, generadores de tasas de inflación crecientes. (De modo
+semejante, las desaceleraciones monetarios llevarán a descensos de los precios
+siempre que éstos sean flexibles a la baja; pero si su flexibilidad es escasa, la con­
+tracción inducida en el producto real sólo se superará muy lentamente).
+Por lo mismo, de acuerdo con las ideas del monetarismo, la relación entre
+la tasa de paro y la tasa de inflación no será estable y permanente; las autoridades
+no podrán escoger una tasa de paro efectiva inferior a la “natural” y mantenerla a
+un coste limitado de inflación. Si las autoridades desean mantener la tasa de paro
+efectiva por debajo de la “natural”, deberán estar dispuestas a impartir reiterados
+impulsos monetarios y a aceptar sucesivas elevaciones de precios y salarios mone­
+tarios tanto más frecuentes cuanto más rápido sea el ajuste de las expectativas de
+los trabajadores a los avances de la inflación. Si no mantuviesen la aceleración
+monetaria, la tasa de paro efectiva bascularía hacia la tasa “natural”.
+En definitiva, las ideas monetarias habían cambiado de un modo notable:
+se pensaba ahora que las economías no necesitaban políticas de estabilización tan
+frecuentes como las que se consideraban precisas en la época temprana del keynesianismo y se entendía ahora que la política monetaria era un arma más poten­
+te que la política fiscal y, por consiguiente, más peligrosa en sus actuaciones.
+Los monetarios pensaban, por otra parte, que los economistas y, especial­
+mente, los economistas de los bancos centrales tendían a ignorar la potencia desestabilizadora de las políticas monetarias discrecionales y activistas. Los monetaristas
+proponían, por ello, políticas monetarias basadas en el criterio “normas frente a
+discrecionalidad”, políticas que tuviesen como objetivo último un crecimiento de
+
+12
+
+
+
+la renta monetaria coherente con el logro de la estabilidad de los precios a medio
+y largo plazo y que buscasen ese objetivo último utilizando como objetivo inter­
+medio una tasa estable de crecimiento de un agregado monetario que se hubiera
+mostrado altamente estable en los estudios empíricos. A medida que las ideas
+monetaristas fueron ganando terreno en los bancos centrales -durante los años
+setenta-, los estudios de los bancos centrales fueron desplazándose hacia la selec­
+ción de los agregados monetarios más estables y hacia la determinación de los obje­
+tivos perseguidos.
+La atención prestada por Friedman y sus seguidores al proceso de forma­
+ción de expectativas y al papel desempeñado por éstas en muchos procesos eco­
+nómicos llevó, en los años setenta, a recuperar las críticas dirigidas por Jphn Muth,
+en 1961, a la formación de expectativas en Economía y a adoptar el supuesto de
+un comportamiento racional de los agentes en la formación de sus expectativas
+relativas a las variables económicas. Esto equivalía a suponer que los agentes for­
+man esas expectativas utilizando eficazmente toda la información relevante que
+tienen a su disposición en el momento de elaborarlas -una información referida
+no sólo al pasado y al presente sino también al futuro, por ejemplo, en cuanto a
+las previsiones de los agentes sobre variaciones significativas de la política eco­
+nómica-. La racionalidad de las expectativas no implica, desde luego, ausencia de
+errores de previsión; los valores efectivos de la variable contemplada pueden dife­
+rir de las previsiones racionalmente elaboradas, tal vez porque la información de
+que dispongan los agentes sea incompleta o porque existan elementos de incerti­
+dumbre imprevisibles en el sistema.
+
+Robert E. Lucas y sus colaboradores desarrollaron, a partir de los prime­
+ros años setenta, los modelos de la denominada Nueva Economía Clásica, que inte­
+graban la hipótesis de expectativas racionales en modelos de equilibrio continuo
+y que provocaron una conmoción, especialmente en el ámbito de la macroeconomía teórica. Estos modelos describían economías competitivas con precios plena­
+mente flexibles que mantenían continuamente equilibrados los mercados y con
+agentes optimizadores cuya racionalidad se extendía incluso a la elaboración de
+sus expectativas. En estos modelos, la consecuencia de los impulsos monetarios
+dependerá de cómo los incorpore el público a sus expectativas en cuanto a inten­
+sidad y efectos: si se espera que un impulso expansivo previsto se traduzca en un
+incremento de los salarios reales, el resultado será un aumento de la oferta de tra­
+bajo, del empleo y de la producción; si espera, por el contrario, que el impulso
+monetario expansivo se pierda en aumentos de precios sin mejora del salario real,
+no se registrará un efecto estimulante sobre las variables reales de la economía. El
+resultado dependerá, por tanto, de las expectativas que el público se forme sobre
+el futuro del nivel general de los precios, expectativas que están basadas en una
+información parcial e incompleta, tanto más borrosa cuanto más alejados estén los
+precios de su entorno inmediato, y en la experiencia sobre el comportamiento del
+
+13
+
+
+
+nivel general de los precios en esa economía. Si el país se ha venido caracterizan­
+do por su proclividad inflacionista y por la volatilidad acusada de sus precios, los
+trabajadores tenderán a interpretar el impulso monetario como básicamente infla­
+cionista y no aumentarán su oferta de trabajo; si, por el contrario, el país ha veni­
+do caracterizándose por la estabilidad de los precios, los trabajadores verán en la
+subida del salario monetario una promesa sólida de elevación del salario real y
+aumentarán su oferta de trabajo, induciendo aumentos en la producción y el
+empleo. En resumen, los impulsos monetarios anticipados por el público y trata­
+dos como inflacionistas serán neutrales respecto de las variables reales de la eco­
+nomía; si son impulsos no anticipados por el público, tendrán efectos sobre las
+variables reales pero sólo de modo temporal, porque cuando los trabajadores
+tomen conciencia de ellos y los incorporen a sus expectativas como impulsos infla­
+cionistas, se agotará su efecto expansivo sobre la producción y el empleo. Las
+autoridades pueden insistir en la sorpresa y el engaño, pero los trabajadores apren­
+derán pronto y reaccionarán con rapidez creciente, anulando los efectos reales
+perseguidos por la política monetaria. (De modo semejante, las políticas moneta­
+rias deflacionistas, si son imprevistas, no anticipadas, tendrá efectos contractivos
+sobre la producción y el empleo; si, por el contrario, son políticas anticipadas, se
+registrará una desinflación indolora, precios y salarios monetarios descenderán sin
+que se vean afectadas la oferta de trabajo y el empleo).
+En definitiva, los impulsos monetarios sistemáticos, anticipados, incorpo­
+rados por los sujetos a la información relevante utilizada en la elaboración de sus
+expectativas, no tienen, en estos modelos, efectos sobre las variables reales de la
+economía en ningún plazo; los impulsos monetarios sorpresivos, no anticipados,
+podrán tener efectos sobre las variables reales en el corto plazo, pero sólo de
+modo muy transitorio, ya que la abundancia y la rapidez de la información en el
+mundo actual permitirán a los agentes corregir con rapidez sus errores de percep­
+ción; en fin, los impulsos monetarios, tanto en su componente anticipado como
+no anticipado, tendrán efectos persistentes sobre el nivel de precios y la tasa de
+inflación. Puesto que los efectos reales generados por los impulsos monetarios
+serán inexistentes o muy pasajeros y dejarán siempre, tras de sí, aumentos perma­
+nentes de la inflación, de los modelos de equilibrio continuo con expectativas
+recionales deriva la conveniencia de eliminar las sorpresas monetarias, abandonar
+las políticas discrecionales y activistas y atenerse a normas estables de crecimien­
+to de la cantidad de dinero orientadas a conseguir la estabilidad de precios.
+Estos fundamentos teóricos, inspiradores principales de las nuevas políti­
+cas monetarias a partir de los años setenta, se habían presentado como opuestos
+a los rasgos básicos del pensamiento monetario keynesiano dominante con ante­
+rioridad. Frente a la preocupación de Keynes con la inestabilidad de la demanda
+del sector privado y su propuesta de ayudar a la estabilización de la economía con
+políticas compensatorias de demanda de carácter fiscal y, sólo en segundo térmi­
+
+14
+
+
+
+no, de carácter monetario, las políticas posteriores reducían la importancia atri­
+buida a la inestabilidad del sector privado y al margen otorgado a las políticas de
+estabilización. Frente a la inestabilidad y al dudoso papel que el keynesianismo
+otorgaba a la política msonetaria como instrumento de compensación cíclica, las
+políticas posteriores subrayaban la estabilidad relativa de la demanda de dinero y
+el potencial de los impulsos monetarios, hasta el punto de señalar el riesgo de que
+las medidas monetarias -más enérgicas que las fiscales- actuasen como factores de
+inestabilidad económica y de acentuación de las fluctuaciones. Frente a la acepta­
+ción keynesiana de que los impulsos monetarios pudieran ejercer efectos persis­
+tentes sobre las variables reales a corto plazo, las políticas posteriores ponían en
+duda su capacidad para actuar sobre las variables reales a corto plazo y de modo
+persistente, en tanto que sus efectos sobre las variables monetarias serían habitua­
+les y duraderos. Frente a la actitud keynesiana que alentaba a las autoridades a
+buscar, a través de políticas monetarias discrecionales, posiciones óptimas en cada
+subperiodo de programación -e n términos, por ejemplo, de tasas de inflación y de
+paro-, las concepciones posteriores, entendiendo la política como un juego de
+estrategias entre las autoridades y el público, insisten en que las autoridades desa­
+rrollen políticas regladas que se atengan a mantener el ritmo de crecimiento de la
+cantidad de dinero que se haya anunciado al público y al que éste haya adaptado
+sus expectativas de precios; porque desviaciones discrecionales posteriores respec­
+to de esta senda en busca de un bienestar social mayor conseguido a través de nive­
+les más altos de producción y empleo, generarán elevaciones de la tasas de infla­
+ción y revisiones al alza de las expectativas de precios del público; y, en último
+término, la inconsistencia temporal practicada por las autoridades en su política
+monetaria acabará conduciendo a una combinación de tasas de paro y de inflación
+menos favorable al bienestar social que la combinación que aparecía como punto
+de partida en la estrategia monetaria. Hubiera sido preferible que las autoridades
+-e l banco central- renunciaran a su discrecionalidad y respetaran la n orm a que
+inicialmente habían anunciado.
+Al incurrir en esta inconsistencia temporal en su política monetaria -es
+decir, al haber incumplido la norma de estabilidad inicialmente propuesta-, el
+banco central habrá perdido credibilidad. El público es ahora consciente de las pre­
+ferencias del banco central en favor de una reducción de la tasa de paro al precio
+de una mayor inflación y, en consecuencia, desconfiará del anuncio de una vuelta
+a una política de mayor estabilidad por parte del banco central. El público se mos­
+trará muy resistente a revisar a la baja sus expectativas de inflación y ello dificulta­
+rá mucho la nueva política de estabilidad anunciada. El proceso de reducción de la
+tasa de inflación será lento y costoso en términos de empleo y producto.
+Si se consiguiera elevar el coste que la autoridad monetaria atribuye a la
+inflación, el público reduciría, en sus expectativas, el temor a nuevos impulsos
+expansivos y la senda de equilibrio .monetario podría desplazarse hacia abajo, es
+
+15
+
+
+
+decir, hacia tasas más bajas de inflación mientras la tasa de paro se mantiene en
+la tasa natural. Esto ha llevado, en números países, a introducir importantes refor­
+mas en la estructura institucional de la política monetaria. La reforma más desta­
+cada ha consistido en alejar la política monetaria de los Gobiernos, siempre some­
+tidos a múltiples presiones, y en confiar su diseño e instrumentación a bancos
+centrales independientes a los que se fija, además, estatutariamente, el logro y el
+mantenimiento de la estabilidad de precios como objetivo dominante. Tales refor­
+mas pueden reforzarse haciendo recaer el nombramiento de Gobernador del
+banco en persona experta y conservadora que atribuya a la inflación un coste
+superior al que le imputa el conjunto de la sociedad e incluso fortaleciendo la pro­
+pensión anti-inflacionista del Gobernador mediante una relación contractual que
+haga depender su permanencia en el cargo y su retribución de los resultados de
+su política de estabilidad de precios.
+Quienes defienden el sometimiento de los bancos centrales a normas que
+restrinjan el comportamiento futuro de la política monetaria de un modo creíble y
+desconfían de que la independencia institucional elimine, por sí sola, el riesgo
+inflacionista inherente a la discrecionalidad, pueden proponer que el manteni­
+miento de la actividad de los precios sea la preocupación única de los bancos cen­
+trales y que éstos se ajusten, por tanto, a normas de gran rigidez. Pocos son, sin
+embargo, los economistas que aconsejan, hoy, una reducción tan drástica de los
+objetivos de la política monetaria y no hay banco central dispuesto a renunciar
+completamente a la utilización de la política monetaria para conseguir efectos de
+estabilización real de la economía a corto plazo. En consecuencia, los bancos cen­
+trales sometidos a normas rigurosas y cuyo objetivo explícito y dominante es la
+estabilidad de los precios se reservan, normalmente, algunos márgenes de flexibi­
+lidad para su política: así, los objetivos -ya sean objetivos intermedios expresados
+en términos de tasas de variación de algún agregado monetario, ya sean objetivos
+directos definidos en términos de tasas de variación de precios- se fijan como un
+rango que permite alguna flexibilidad a corto plazo; y así también, los objetivos
+suelen definirse de modo que los shocks de oferta no obliguen a una inmediata
+reacción de la política monetaria y puedan ser parcial y paulatinamente acomoda­
+dos a fin de que el ajuste no imponga perturbaciones acusadas de las variables
+reales. Los márgenes de flexibilidad varían, como es natural, de un banco central
+a otro; como varían también el énfasis puesto en el objetivo de inflación como
+dominante y las reservas introducidas para impedir que el seguimiento estricto de
+tal objetivo pueda llevar a una elevada inestabilidad en la economía real.
+En algunas ocasiones, los compromisos asumidos por los bancos centra­
+les mediante normas relativas al cumplimiento de determinados objetivos interme­
+dios como expresión de su voluntad de mantener una disciplina monetaria, han
+de ser abandonados por haberse hecho imposibles o infiables. Así ocurrió con el
+objetivo de mantener el tipo de cambio fijo respecto de una moneda estable tras
+
+16
+
+
+
+las perturbaciones cambiarías de los años setenta; y así ha ocurrido también, en
+los años ochenta y noventa, con los objetivos de mantenimiento de las tasas de
+crecimiento de determinados agregados monetarios dentro de ciertos límites, tras
+la constatación de fuertes inestabilidades en las funciones de velocidad y de
+demanda de los mismos resultantes de las políticas de desregulación y de la intro­
+ducción de abundantes innovaciones financieras. En tales casos, los bancos cen­
+trales han de adoptar nuevas estrategias que lleven al ánimo del público la con­
+fianza de que se va a mantener una política monetaria disciplinada. Y así, un buen
+número de bancos centrales han pasado, en los últimos años, a adoptar directa­
+mente objetivos de tasa de inflación y a utilizar el tipo de interés nominal a corto
+plazo como instrumento monetario básico.
+En esta estrategia, el banco central anuncia objetivos formales de tasas de
+inflación para uno o más horizontes, señalando que el mantenimiento de una infla­
+ción baja y estable es el propósito dominante de la política monetaria. Un objeti­
+vo directo de inflación no es una norma. De hecho, el desplazamiento hacia esta
+estrategia implica ganar márgenes de flexibilidad y discrecionalidad para respon­
+der a shocks de oferta y a desarrollos inesperados, pero el banco ha de dar cuen­
+ta de la política practicada y explicitar sus posibles consecuencias para la inflación
+a más largo plazo. La estrategia con objetivo directo de inflación se ha caracteriza­
+do como una posición híbrida que implica una discrecionalidad restringida.
+Puede decirse que, en la realidad actual de los bancos centrales, el deba­
+te entre los defensores de las normas estrictas de disciplina monetaria y los parti­
+darios de una discrecionalidad ocupada en practicar la política “óptima” a lo largo
+del tiempo ha perdido buena parte de las aristas que lo caracterizaban hace pocas
+décadas. Las estrategias basadas en normas que ofrecen al banco central márgenes
+razonables de flexibilidad, la discrecionalidad practicada por autoridades que asig­
+nan un alto coste a la inflación y la discrecionalidad restringida que incorporan
+habitualmente las estrategias con objetivos directos de inflación pueden conducir,
+todas ellas, a políticas monetarias disciplinadas capaces de ganar credibilidad a los
+ojos del público. La estabilidad de precios ocupa una posición dominante en los
+objetivos de los bancos centrales, pero no excluye la reserva de márgenes que per­
+miten la contribución monetaria a la estabilidad de la economía real a corto plazo
+en situaciones especiales.
+Esta convergencia relativa de la estrategias de política monetaria es expre­
+sión de la convergencia observada, en buena medida, en sus fundamentos teóri­
+cos durante los últimos años. Por una parte, los modelos de estirpe keynesiana han
+asumido la hipótesis de expectativas racionales, desde su introducción en los años
+setenta, como la mejor aproximación disponible, por ahora, para entender la for­
+mación de expectativas por los agentes económicos; han aceptado las críticas bási­
+cas que se les han dirigido en cuanto a su introducción de su puestos a d h oc para
+
+17
+
+
+
+generar rigideces de precios, sin suficientes fundamentos microeconómicos racio­
+nales, que son causa de desequilibrios y de dificultades para el restablecimiento
+de los equilibrios, y se han esforzado, no siempre con éxito, en dotar de bases
+racionales a las rigideces introducidas; y aunque han mantenido la existencia de
+márgenes para las políticas de estabilización, han admitido los límites y los riesgos
+de éstas últimas y participan de la desconfianza hacia las políticas monetarias dis­
+crecionales y activistas. Por otra parte, los modelos de equilibrio continuo con
+expectativas racionales han registrado notables dificultades para contrastar empíri­
+camente la denominada “norma de inefectividad de la política monetaria” y la dife­
+rencia básica entre los efectos reales generados por los impulsos monetarios siste­
+máticos y los de carácter sorpresivo; han tenido que enfrentarse con las importantes
+diferencias en los efectos de los impulsos monetarios resultantes de pequeñas
+variaciones introducidas en los modelos en relación con la estrucura de informa­
+ción; y han recurrido, en numerosos casos, a la introducción de rigideces de pre­
+cios y salarios que justifiquen la duración observada en las fluctuaciones y en efec­
+tos reales provocados por los impulsos monetarios.
+El resultado de todo ello ha sido la extensión de políticas monetarias más
+proclives a la estabilidad de precios que en el pasado, pero que no excluyen la
+reserva de márgenes -variables de un banco central a otro- que permitan una con­
+tribución monetaria a la estabilidad de la economía real a corto plazo en situacio­
+nes concretas. Los resultados conseguidos con esas estrategias han sido conside­
+rables durante los últimos años: la tasa media de inflación ha descendido desde el
+9% hasta, el 2% anual, en los países industriales (OCDE), entre la primera mitad de
+los años ochenta y los primeros años del siglo XXI, y desde el 31% hasta el 6% en
+los países en proceso de desarrollo entre esas mismas fechas. Los bancos centra­
+les han tendido a situarse así, en los últimos años, en “contextos de baja inflación”
+donde, aunque la estabilidad monetaria nunca está definitivamente consolidada, la
+tarea de los bancos centrales, se ve facilitada por la credibilidad adquirida.
+
+18
+
+

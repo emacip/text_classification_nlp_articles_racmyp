@@ -1,0 +1,447 @@
+¿QUÉ HA SIDO DEL CONDUCTISMO
+EN EL SIGLO XXI ?
+DESTINO DE UN PARADIGMA
+Por el Excmo. Sr. D. Marc Richelle*
+Profesor Emérito de la Universidad de Liège
+Miembro de la Academia de Ciencias, Letras y Bellas Artes de Bélgica
+
+INTRODUCCION
+Las consideraciones que siguen podrían tomar como pretexto el centenario, o ‘casi centenario’, de una escuela de pensamiento que ha dominado la mayor
+parte del siglo XX en psicología.
+El origen del conductismo se lo suele hacer coincidir con la publicación del
+manifiesto de Watson (1913). El gran psicólogo americano proponía allí una salida
+a la crisis por la que pasaba la psicología científica, nacida apenas medio siglo antes,
+y para ello proponía redefinir el objeto de la disciplina, identificándolo con el comportamiento, y no con la vida mental ni con el alma o espíritu. La pretensión científica de la psicología se hallaba metida en un ‘impasse’, por recurrir al método instrospectivo, que aparecía como escasamente fiable a los ojos de una búsqueda de
+la objetividad característica del proceso científico.
+Paradójicamente, la introspección, que se había mostrado eficaz en el estudio de los fenómenos elementales, como por ejemplo en la medida de las sensaciones en psicofísica —primer campo abordado por los experimentadores del siglo
+XIX—, había puesto de manifiesto sus limitaciones en las investigaciones de los procesos más complejos, entre otros en el del pensamiento.
+
+* El autor agradece al Dr. H. Carpintero la revisión que ha hecho de la presente traducción.
+
+543
+
+
+
+Watson propuso substituirla por la observación objetiva de los comportamientos y por una experimentación libre de toda dependencia del análisis subjetivo
+de los sujetos estudiados. El movimiento conductista levantó gran número de reacciones más o menos vivas, pero al final logró la adhesión de la mayor parte de la
+psicología americana, y luego, en grados diversos y más o menos rápidamente, según
+los distintos países, en la psicología europea.
+En relación con esa fecha fundacional, de 1913, ciertamente nos estamos
+anticipando un tanto.
+Pero recordemos que ha surgido luego una cierta discusión en torno a la
+cuestión de la prioridad temporal de ese cambio. Los franceses, en efecto, han reivindicado esa prioridad, invocando el hecho de un discurso pronunciado en 1908 por
+el gran psicólogo parisino Piéron, en el cual ya proponía una redefinición de la psicología como «ciencia del comportamiento». Nada permite pensar, ciertamente, que
+Watson haya tenido conocimiento de ese texto; su manifiesto era el resultado de un
+debate que traducía el malestar de la psicología en los primeros años del siglo XX.
+El discurso de Piéron, a pesar del lugar preeminente que su autor ocupaba entonces, estuvo muy lejos de tener el eco que tuvo el escrito de Watson.
+Las dos propuestas se distinguían básicamente en un punto importante,
+sobre el que volveremos más tarde, y es el relativo al alcance filosófico de sus respectivas concepciones, netamente monista la de Watson, y dualista la de Piéron.
+Pero en todo caso este último merece que se le reconozca el mérito de su contribución precoz a lo que se ha dado en llamar la ‘revolución conductista’, y que, a medio
+camino entre 1908 y 1913, promovamos aquí la celebración de un cuasi-centenario,
+a menos que se prefiera hablar de un ‘centenario doble’ al respecto.
+
+ESBOZO DE LA HISTORIA DEL CONDUCTISMO AMERICANO
+Sin entrar en el detalle de una historia muy compleja, esbocemos brevemente las grandes fases del desarrollo y decadencia del movimiento conductista en
+ese país, los Estados Unidos, que, con la mencionada salvedad de Piéron, ha sido
+su país de origen. Que el conductismo se haya convertido rapidamente en el paradigma dominante de la psicología americana, no significa que eliminara otras distintas lineas de pensamiento: en efecto, coexistieron con él algunas corrientes basadas
+en raíces propias, y otras que procedían de Europa, como fué el caso de la corriente
+gestaltista, que llegó procedente de Alemania favorecida por la emigración de un
+puñado de investigadores que huían del nazismo. Pero aquí nos referiremos sólo al
+conductismo.
+
+544
+
+
+
+La fundación
+Esquemáticamente, se pueden distinguir cuatro fases. La primera, fase de
+lanzamiento, está dominada por la figura de John B. Watson, orador y escritor convincente y persuasivo, defensor ardiente de sus ideas. La temática central antes mencionada —la psicología como ciencia del comportamiento, con el corolario metodológico de su abandono de la introspección en favor del estudio de las entidades
+observables— se combinaba con desarrollos complementarios en varios planos. Entre
+estos, se cuenta la preocupación de situar la psicología dentro del marco estrictamente científico adoptado por otras disciplinas, en particular por la biología, al
+tiempo que dejar en suspenso el examen de algunas cuestiones que «no estamos
+actualmente [refiriéndose a 1913] en condiciones de abordar con medios apropiados».
+Una de estas era, para Watson, el caso de la conciencia, algo que todavía hoy se le
+tiende a reprochar como si hubiera negado su existencia. Lo que proponía, en efecto,
+era ponerla entre paréntesis, pues estaba convencido de que, con los medios disponibles en su tiempo, no se podía llegar a decir nada científicamente serio acerca de
+su naturaleza, sus orígenes, sus funciones, etc. Sin duda, no habría mantenido la
+misma posición en nuestros días, vistos los desarrollos que ha experimentado la
+investigación sobre la conciencia. En aquella época, sus contradictores veían ahí un
+intolerable reduccionismo, bastante para descalificar sus tratamientos de los temas
+humanos. Es cierto que uno puede cuestionar la legitimidad de abstraer, por razones de método, una dimensión tan importante de las conductas humanas como aquella; así lo sostuvo brillantemente Vygotsky (1925). Pero en todo caso, una puesta
+entre paréntesis no es lo mismo que una negación. Este malentendido, como veremos, ha persistido hasta hoy.
+La influencia de Watson ha sido muy amplia y muy rápida. Su papel personal en el desarrollo del conductismo se vió limitado como consecuencia de un
+incidente de su vida privada : una aventura extramatrimonial con una de sus ayudantes terminó con su alejamiento de la Universidad Johns Hopkins ; su carrera a partir de ahí tuvo como escenario el mundo privado de la publicidad. Pero el movimiento estaba ya en marcha.
+
+La expansión
+La segunda fase, de expansión, se extiende, aproximadamente, hasta la
+mitad del siglo XX. Una docena de figuras decisivas de la psicología americana trabajan en la línea abierta por Watson. Tienen en común el cultivar el estudio del aparendizaje, abordado de modo experimental en el laboratorio, trabajando especialmente con especies animales. Cada uno elaborará su propia formulación de las leyes
+del aprendizaje, y su propia versión teórica. Semejante diversificación justifica la
+denominación de neoconductistas aplicada a los representantes de estas escuelas. No
+
+545
+
+
+
+vamos a entrar aquí a enumerar las figuras más sobresalientes, ni a hacer el inventario de las características de sus contribuciones respectivas. Importa, no obstante,
+subrayar que algunos de ellos aportaron matices, o correctivos importantes, a las
+tesis watsonianas. Simplificando mucho, diremos que, en general, se desligan del
+esquema S-R (Estímulo-Respuesta), tomado del reflejo simple, para introducir ahí
+unas variables intermedias inferidas, no observables directamente, pero necesarias,
+a sus ojos, para poder dar cuenta adecuadamente de los hechos observados. Destacaremos los nombres de E. Tolman, de N. Miller y de K. Lashley. A través de sus contribuciones, el neoconductismo incorporó ya los gérmenes de la corriente cognitivista
+que vendría a sustituir, no sin cierto estrépito, al conductismo
+
+Skinner y el conductismo radical
+La tercera fase viene marcada por la obra de B-F. Skinner (Richelle, 1993),
+que, aunque parcialmente contemporánea del neoconductismo, se distingue por una
+reformulación de las tesis conductistas, aproximandose en cierto modo a Watson, y por
+su extension a campos que van más allá de los puros limites del laboratorio. Fiel en
+ello a Watson, Skinner ha defendido un conductismo radical, opuesto al conductismo
+metodológico. Esta distinción es capital. Muchos psicólogos que adherían al conductismo suscribian este último, a título provisional: admitían, dado el estado actual de los
+medios de investigación, centrarse en el estudio del comportamiento, esperando que
+eventualmente, y gracias al progreso de la investigación, llegaramos a estar en condiciones de abordar lo que seguía siendo el objeto último de la psicología: la mente, los
+estados mentales o una cierta entidad interior. Este conductismo metodológico era de
+hecho fundamentalmente dualista. Por el contrario, el conductismo radical es abiertamente monista. No descarta que haya comportamientos que puedan no ser siempre
+accesibles, pero considera que eso no les hace ser de una naturaleza diferente ni justifica que se adopte una posición dualista. Skinner ha rechazado enérgicamente el
+mentalismo, no porque se refiera a fenómenos situados en otro espacio y dotados de
+una naturaleza diferente a la del comportamiento, sino porque propone pseudo-explicaciones que dan la ilusión de comprender aquello que en definitiva queda completamente sin explicar (e.g., no se habría explicado en absoluto los comportamientos
+agresivos al tratar de derivarlos de una cierta necesidad de agresión, etcétera).
+Se pueden distinguir en las aportaciones de Skinner cuatro aspectos principales: un método experimental, una ambición teórica, unas perspectivas aplicadas,
+y una filosofía social.
+El método (procedimiento) experimental es muy conocido, y se lo conoce
+con la denominación de caja de Skinner, nombre que no se debe a su inventor, y
+que ha dado pie a diversos malentendidos. Se trata de un aparato simple en su concepción. Permite colocar un animal experimental en un espacio en el que se ha
+
+546
+
+
+
+adaptado un dispositivo, con el que el sujeto experimental puede operar, y tiene
+también un distribuidor de refuerzos, que muy frecuentemene consisten en una
+pequeña porción de alimento.
+Moviéndose libremente en ese espacio, el animal llega, al cabo de sus
+exploraciones, a accionar el dispositivo para operar, y recibe entonces una ración de
+alimento. Esa respuesta, así reforzada, tenderá a repetirse: estará bajo el control de
+sus consecuencias. El experimentador puede variar las condiciones de la relación
+entre respuesta y refuerzo, por ejemplo exigiendo que se produzcan varias respuestas seguidas, o que haya que esperar un cierto tiempo, o dando solo el refuerzo
+cuando esté presente un determinado estímulo externo… El esquema de base, muy
+simple, se puede de este modo complicar hasta el infinito. Es lo que en lenguaje técnico se ha designado con la expresión de condicionamiento operante, denominación
+que se justifica en el marco de una distinción capital en relación con el ‘condicionamiento pavloviano’, pero que también ha suscitado malentendidos en base a la connotación peyorativa de la palabra condicionamiento. Podría incluso ser más oportuno volver a la denominación de aprendizaje instrumental, anterior a Skinner,
+aplicada a aquellos comportamientos que son necesarios para obtener un refuerzo
+(que es el sentido del término ‘instrumental’ en inglés), especialmente en las muchas
+investigaciones hechas sobre el aprendizaje de recorridos dentro de un laberinto.
+Sea como fuere, en el contexto de las técnicas de laboratorio disponibles
+en su época, el método elaborado por Skinner presentaba ciertas características innovadoras : la automatización de las operaciones experimentales , con ayuda de procedimientos que facilitaban la adopción de planes de refuerzo por ordenador ; haber
+acentuado el estudio del comportamiento individual según una perspectiva longitudinal; la adaptabilidad a especies diferentes, etcétera.
+Las proposiciones teóricas de Skinner derivan directamente de su análisis
+experimental, que pone en evidencia la existencia de un proceso central en la producción y elaboración del comportamiento, a saber, el control por las consecuencias.
+Skinner subraya muy pronto la analogía entre este proceso y el mecanismo de la
+selección natural a que recurre la teoría de la evolución biológica, generalizando
+este último al desarrollo de los comportamientos individuales, desde las respuestas
+motrices más elementales hasta las conductas superiores, incluídos el lenguaje, el
+razonamiento y las conductas creativas.
+Esta aproximación seleccionista implica , sea el que fuere el nivel de complejidad de que se trate, la existencia de un material de variaciones sobre el cual
+pueda ejercerse la presión selectiva (Richelle, 1992).
+Un tercer aspecto de la obra de Skinner se refiere a sus aplicaciones, tanto
+a la educación como al tratamiento de trastornos del comportamiento, o a la orga-
+
+547
+
+
+
+nización social. Observando las prácticas escolares, denuncia hasta qué punto violan los principios más manifiestos de la psicología del aprendizaje. Con vistas a una
+mejora parcial de la enseñanza, puso en marcha un proyecto de máquina de aprender, hecha posible con un dispositivo electromecánico ingenioso aunque muy primitivo. Se trata con ella de presentar los contenidos a aprender de modo muy progresivo, haciendo que el alumno responda activamente, mostrando su dominio
+mediante su avance a traves del programa.
+Sin referirse explicitamente a una corriente de tratamiento psicológico inspirada a la vez en Pavlov y en Watson, Skinner, sin ser él mismo un clínico, ha considerado y animado a una aplicación de los principios del condicionamiento operante
+al campo de las perturbaciones mentales. Frente a las aproximaciones que consideran que hay una disfunción de algún aparato psíquico a la base de tales perturbaciones, sugirió una intervención directa sobre los comportamientos perturbados. Así,
+más que investigar largamente en las profundidades del inconsciente cuáles puedan
+ser las causas de una agorafobia, buscando la desaparición de la perturbación
+mediante la elucidación de sus causas, propone atacar directamente las conductas
+agorafóbicas, apoyados en las leyes que rigen nuestros comportamientos. Ya se trate
+del campo pedagógico o del de la intervención terapéutica, las prácticas propuestas
+recurren siempre de modo exclusivo al control positivo, que Skinner consideraba
+como infinitamente más productivo, más constructivo podríamos decir, que el control negativo, aversivo y coercitivo.
+Más aún, Skinner abordó también frecuentemente los problemas de la
+sociedad, aplicándoles el filtro de análisis de su obra científica, hasta el punto de que
+está justificado considerar como un cuarto aspecto de su obra el consagrado precisamente a la filosofia social. Dos obras, muy distintas, cubren este campo: una novela
+utópica, Walden Dos (Walden Two, 1948), y un ensayo de filosofía política, Más allá
+de la libertad y la dignidad (Beyond Freedom and Dignity, 1971), que se completan
+con numerosos articulos, todo lo cual sitúa a su autor entre los grandes científicos del
+siglo XX que han expresado su inquietud ante la marcha de los asuntos del mundo.
+Evoquemos algunos de los rasgos que nos permitan ilustrar su personal visión.
+Lejos de ser un microcosmos totalitario, la comunidad utópica de Walden
+Two sugiere soluciones a problemas sociales a los que todavía hoy hemos de hacer
+frente: la organización equitativa e ingeniosa del trabajo, que permita evitar el paro;
+abolición de la discriminación social entre trabajo manual e intelectual; espacio para
+el tiempo libre consagrado a actividades deportivas y culturales ; escuela integrada
+y abierta a la sociedad de los adultos —simbólicamente , ningún tabique ni rejas los
+separan—, sin grupos de edades, sin clasificaciones humillantes de los niños, sin
+sanciones punitivas; igualdad completa entre hombres y mujeres; evitación de todos
+los derroches de recursos; estricta limitación de toda función individual en la gestión
+de la comunidad; etcétera.
+
+548
+
+
+
+Frente a las amenazas que pesan sobre la humanidd —polución, agotamiento de los recursos, violencia, explosión demográfica— Beyond Freedom and
+Dignity invita a tomar conciencia de la ilusión de nuestra autonomía, de nuestro
+dominio sobre la naturaleza, de nuestra libertad, para reconocer en cambio nuestra
+dependencia de nuestra condición de ser vivo producto de una evolución biológica,
+de nuestra dependencia de nuestra historia cultural, y de nuestra historia individual.
+Las nociones de libertad y de dignidad son ellas mismas productos de nuestra historia cultural, conquistas sin duda, pero frecuentemente tambien disfraz de controles ocultos, cuyos mecanismos importa detectar y denunciar. De este modo, el poder
+democrático, tal como se lo ejerce hoy, es con frecuencia un modo de echar sobre
+los ciudadanos la responsabilidad de las insuficiencias y los fracasos de sus gobernantes. Los medios de masas (mass media) son instrumentos poderosos de información, pero también lo son de manipulación de la opinión, o del comportamiento del
+espectador-consumidor. Las elecciones llamadas libres no están al abrigo de influencias ocultas sobre las decisiones de los electores. Solo mediante la clarificación de
+los mecanismos de control latente, se llegará a poder activar otros mecanismos de
+contra-control. Una parte importante de la filosofía social de Skinner responde a esa
+preocupación.
+
+El declive
+La obra de Skinner se extiende durante más de medio siglo. Se la ha reconocido como una de las mayores contribuciones que han tenido lugar en la psicología científica, y su autor ha sido considerado por sus colegas como uno de los más
+eminentes representantes de esa disciplina. Sin embargo, a partir de los años 1960
+su influencia comenzó a decaer, formando parte del declinar general del conductismo, que constituye la cuarta fase del esquema histórico que venimos examinando.
+¿En qué medida esa decadencia general ha traído consigo el descrédito que ha sobrevenido a la contribución de Skinner, o, por el contrario, ha sido el descrédito de este
+último el que se ha extendido al conjunto del movimiento conductista? Esto es algo
+dificil de decidir.
+En efecto, han intervenido factores muy diversos en estas metamorfosis del
+paisaje psicológico que han tenido lugar en el último tercio del siglo XX. Pero intentaremos tratar de desenredar esa madeja.
+Esos factores son de dos tipos. Por un lado, como sucede en todas las ciencias, la investigación se ve enfrentada siempre a nuevos problemas, enriquecida por
+nuevas técnicas que permiten abordarlos, e impulsada a la formulación de nuevas
+hipótesis y a la elaboración de nuevos marcos teóricos. En el campo de la psicología científica, hemos asistido a la emergencia de la corriente cognitivista. Esta se ha
+deshecho de la consigna conductista de atenerse sólo a los comportamientos obser-
+
+549
+
+
+
+vables, para interesarse por los mecanismos de la mente. La investigación ha ido
+entonces referida a los procesos de tratamiento de la información, accesibles experimentalmente gracias a la llegada del ordenador, instrumento de una precisiòn
+inédita a la hora de llevar a cabo experiencias en el laboratorio, pero además auténtico modelo teórico del funcionamiento de la mente. Los llamados modelos computacionales alcanzaron una gran voga, hasta el punto de ser frecuentemente propuestos
+como los únicos concebibles para explicar todos los fenómenos mentales, incluída
+la conciencia. Los trabajos de los cognitivistas se orientaron principalmente a la percepción, la memoria, el lenguaje, el razonamiento, dominios todos ellos englobados
+dentro del término de cognición.. El impulso en esa dirección vino dado por algunos eminentes psicólogos americanos, entre los que se cuentan G.A. Miller, U. Neisser, o J. Bruner. Como siempre, las nuevas ideas en ciencia tienen otras precursoras
+, y no son tan completamente nuevas como las consideran sus promotores y partidarios. Para poner un solo ejemplo, toda la obra de J. Piaget se refiere a la cognición, a la que reduce, o subordina, todas las otras dimensiones del desarrollo psicológico. Y aunque ello se haga en un contexto experimental y teórico muy diferente,
+es posible decir que la psicología cognitiva ha seguido un camino muy similar.
+Por otra parte, hay otra serie de factores que han contribuído ampliamente
+al declive del conductismo: son los ataques dirigidos a su orientación, ataques en su
+mayor parte dirigidos contra Skinner, que aparecía como el último de sus representantes, y como uno de los más eminentes. Una parte de esas reacciones, a veces
+vehementes, han procedido del ‘gran público’, que, si bien ajeno a la psicología, se
+ha sentido irritado por los escritos relativos a las aplicaciones y a la filosofía social
+conductistas. Las reacciones procedían de los horizontes ideológicos más opuestos,
+desde un Spiro Agnew, a la sazón vicepresidente de los Estados Unidos, que defendía los valores fundamentales de la sociedad americana, hasta un Noam Chomsky,
+lider de la izquierda americana, que asimilaba las concepciones de Skinner a las del
+nazismo. Vengan de donde vengan, esos ataques evidencian un desconocimiento
+de las ideas de Skinner, y muestran la fuerza de los prejuicios, y de los rumores. Un
+ejemplo significativo lo encontramos, por ejemplo, en torno a una realización de
+Skinner, ajena de hecho a los trabajos de laboratorio, y en la que se ponía de manifiesto su inventiva técnica.
+Con el doble propósito de facilitar las tareas domésticas de su mujer —las
+preocupaciones de tipo feminista son frecuentes en su obra—, y de favorecer el confort físico y la comunicación social del bebé, construyó para su segunda hija, Deborah, un habitáculo de paredes de cristal, con el suelo tapizado de un tejido absorbente facilmente cambiable cuando el bebé lo había ensuciado, y sobre una base con
+ruedas fácilmente desplazable. El bebé, despierto, se halla libre de las constricciones de la cuna, de las molestias de los pañales, y del aislamiento, pues la madre lo
+va llevando a su lado a medida que avanza en sus tareas domésticas. La prensa no
+dejó de referirse a ese dispositivo como baby-box, dando por sobreentendido que
+
+550
+
+
+
+su inventor, después de haber metido animales en un receptáculo, conocido como la
+caja de Skinner, daba un paso adelante en ese camino de horrores, metiendo en el
+recipiente a los bebés, empezando por su propia hija. Veinte años más tarde, y salido
+de la pluma de un determinado psiquiatra, se hizo circular el rumor de que Deborah,
+víctima de aquel tratamiento inhumano, había sufrido graves perturbaciones mentales y había emprendido acciones legales contra su padre, afirmaciones todas ellas sin
+fundamento. Pintora, vivía en Londres mientras mantenía con sus padres las relaciones filiales más armoniosas.
+Es cierto que algunos científicos han alimentado esos ataques con sus simplificaciones y distorsiones de las ideas de Skinner. El caso más flagrante es el de
+Chomsky, en su momento lingüista aun poco conocido, que publicó en 1959 una
+virulenta crítica a la obra reciente de Skinner Verbal Behavior (1957), crítica que tuvo
+un éxito inmediato, especialmente entre los medios psicológicos, y más aún entre los
+psicólogos del lenguaje, sobre los que Chomsky ha ejercido una influencia extraordinaria, tanto por la difusión de su gramática generativa y sus concepciones nativistas, como por la eliminación del conductismo, tarea emprendida con su crítica de
+Verbal Behavior. Se tomó aquella crítica como una condena sin apelación posible,
+algo que dispensaba a los espíritus serios de tener que abrir aquel libro, y más en
+general de tener que referirse ya al conductismo, en cualquiera de sus posibles formas. Y el caso es que la larga crítica de Chomsky, de buena o mala fe, erraba el tiro
+(Bayes, 1977). Pero no dejó de precipitar la caída del conductismo, al que se le vino
+a percibir no tanto como una etapa en la evolución de la psicología, fecunda como
+casi todas las fases sucesivas de un desarrollo científico, sino como un período de
+estancamiento, en que se habría impuesto un verdadero tabú a los temas básicos del
+estudio del hombre, como son la libertad y la conciencia. El cognitivismo se ha arrogado desde entonces el mérito de haber puesto fin a las interdicciones que estarían
+pesando sobre la psicología durante los últimos tres cuartos de siglo. Son muchos
+los que acogieron con alborozo el fin de «la larga y fastidiosa noche del conductismo», lo que autorizaba a Bunge (1980) a volver a hablar de la mente.
+Los medios relativos a los campos de aplicación en que Skinner había intervenido reaccionaron también de modo muy negativo. El mundo educativo opuso una
+resistencia muy viva, dirigida principalmente contra el proyecto skinneriano de las
+‘máquinas de enseñar’. La idea de enseñar con ayuda de máquinas era bastante para
+hacer surgir el espectro de la deshumanización de la educación y para descalificar a
+su autor. En cambio, sus críticas a una escuela que, a pesar de la cualidad de sus
+enseñantes, violaba casi todos los principios más básicos de la psicología del aprendizaje apenas si atrajeron la atención. Es cierto que la época (los años 1960-1970)
+estaba más interesada en un cuestionamiento radical de la institución escolar en
+cuanto tal, que en la investigación de los métodos más eficaces para transmitir saberes, fomentar la exploración activa, o incitar a los alumnos a implicarse de modo
+autónomo en las diversas formas de comportamientos creativos.
+
+551
+
+
+
+Las incursiones de Skinner en el campo de los trastornos del comportamiento y de los tratamientos psicológicos tampoco fueron mejor acogidas por los
+profesionales, generalmente formados en la tradición llamada ‘psicodinámica’,
+ampliamente inspirada en las ideas freudianas y en las prácticas psicoanalíticas. También aquí, eludiendo el análisis honesto de las ideas formuladas por Skinner, se le
+acusó de defender unos métodos esencialmente coercitivos, basados en el amaestramiento aplicado a los animales de laboratorio, a base sobre todo de control aversivo
+(es decir, mediante el uso de estimulaciones dolorosas que el sujeto busca siempre
+evitar). Todo ello significa, sencillamente, malentender toscamente las ideas de Skinner que hemos evocado más arriba, especialmente en lo referente a la ineficacia de
+los controles punitivos, y del recurso al temor en el desarrollo de las conductas individuales y colectivas.
+Las reacciones a las ideas de Skinner, tanto desde dentro como desde fuera
+de la psicología, fueron muy vivas, más de lo que lo habían sido aquellas que se dirigieron contra el conductismo en general, sin duda porque sus trabajos fueron mucho
+más allá de los estrechos límites del laboratorio, para alcanzar al gran público. Y
+gran parte de esas reacciones dejaban ver un desconocimiento, una ignorancia, o
+incluso en ocasiones una distorsión deliberada de su pensamiento, o del alcance de
+sus aportaciones.
+Dicho lo cual, es evidente que esta obra, y en su conjunto las aportaciones
+del conductismo, no han estado al margen de las críticas, superaciones y complementaciones que sobrevienen a todas las teorías científicas. Hemos visto ya que la
+corriente cognitivista ha estado muy implicada en este movimiento constructivo.
+Otro tanto cabe decir de la etología, en la línea de Lorenz, que ha hecho
+una crítica general al estudio en el laboratorio de los comportamientos de animales,
+alejandolos de su medio natural, y dejando a un lado los comportamientos propios
+de la especie y los determinantes genéticos que los fundamentan (Lorenz, 1965).
+Análogamente, las teorías del desarrollo, y especialmente el constructivismo
+de Piaget, han introducido correctivos a las concepciones conductistas exclusivamente centradas en los aprendizajes, que desatendían las constricciones propias
+impuestas por el desarrollo (Piaget, 1967). E incluso, a pesar del número no despreciable de investigadores en psicofisiología que han adherido a las ideas conductistas, los biólogos han lamentado y hasta reprochado a los conductistas su afirmación
+de la autonomía de la psicología respecto de la biología, en detrimento de la aproximación y la integración recíproca que impondría de manera natural la indisociabilidad de los dos dominios en el organismo vivo.
+
+552
+
+
+
+¿QUÉ PASA HOY CON EL CONDUCTISMO?
+Al termino de esta rápida vision de la historia del conductismo, de su nacimiento, su esplendor, su influencia, su declive, su muerte anunciada, su final atestiguado, ¿qué ha sido del destino de ese paradigma dominante de la psicología del
+siglo XX, ahora ya en los comienzos de este siglo XXI, ya bien encarrilado?
+¿Estamos ante una via ya extinta, a clasificar entre los testigos fósiles de
+una larga etapa de callejón sin salida, cuyo fin ha sido acogido por los mejores espíritus con un aire de triunfalismo? ¿Y el conductismo radical como lo reformulara
+Skinner, no fué sino el último estertor que precede a la agonía?
+Retrocedamos un poco, a fin de hacer un balance. ¿Estamos asistiendo de
+verdad a una extinción?
+La contribución científica del conductismo ha sido, por lo pronto, un conjunto de instrumentos de investigación experimental, y un corpus considerable de
+datos acumulados con ayuda de tales técnicas. Desde los laberintos usados por los
+neoconductistas, al dispositivo concebido por Skinner, se ha producido un perfeccionamiento de los útiles de laboratorio, que han condicionado, como ocurre en
+cualquier disciplina, el progreso de la investigación.
+La caja de Skinner se presentaba como la técnica más automatizada del
+laboratorio de psicología, un logro que el ordenador incluso aumentó. Hoy su uso
+se ha expandido y se ha aplicado al estudio de una gran diversidad de problemas,
+que van más allá de los análisis de los procesos de aprendizaje, como son las exploraciones de las actividades perceptivas, la regulación temporal de las conductas, las
+capacidades de memorización, las estrategias de búsqueda de alimento ; proporciona datos para validar hipótesis sobre modelos matemáticos que son habituales
+entre economistas, —como los modelos de optimización—, o en estudios sobre el
+surgimiento de conceptos en animales, en ausencia de lenguaje; forma parte del
+arsenal de base de los laboratorios de psicofarmacología experimental —por ejemplo, en estudios sobre los comportamientos adictivos—, y en los de neurobiología,
+en donde proporciona referencias comportamentales rigurosas para el estudio de la
+actividad cerebral con los métodos no invasivos de que se dispone actualmente. En
+todo este campo, no tiene sentido hablar de ‘extinción’. Estos métodos son tan normales, y tan habituales como pueda serlo el microscopio.
+
+¿Y qué hay de las aplicaciones?
+En el campo educativo, las protestas vehementes que se alzaron ante las
+máquinas de enseñar han dado paso a un entusiasmo, a veces sin matices, hacia la
+
+553
+
+
+
+enseñanza asistida por ordenador (EAO), que no es sino una máquina capaz de ejecuciones que eran inimaginables a mediados del siglo pasado. Es raro, ciertamente,
+que se llegue a reconocer la relación que hay entre esta enseñanza EAO y los primitivos dispositivos que ideara Skinner. Los críticos de las tentativas de este último
+blandían el espectro de la deshumanización de la enseñanza, el de la ruptura de la
+relación maestro-discípulo, y contraponían la cabeza bien organizada a la llena de
+datos. La evolución de la enseñanza escolar ha ido, sin embargo, más bien en la
+dirección de esta deshumanización, de una ruptura de la relación individual —que
+se volvió imposible en la masificación de la enseñanza—, y a la información masiva
+en lugar de promover la autonomía y la curiosidad. Paradójicamente, asistimos hoy
+en los programas de enseñanza a distancia a la puesta en marcha de procedimientos que ponen el acento en la relación personal con el enseñante a través del establecimiento de un diálogo directo, donde se da una disponibilidad que se ha vuelto
+infrecuente en las estructuras institucionales clásicas. Ciertamente, las ideologías educativas en voga hace cincuenta años carecen ya de aliento, y eso ha favorecido no
+tanto la vuelta a aquellas prácticas que Skinner criticaba vigorosamente, sino el
+avance hacia aproximaciones más favorables a alcanzar los objetivos educativos deseados, aunque frecuentemente inalcanzados.
+De manera que, en el campo de la educación, tampoco cabe hablar de extinción, sino, por el contrario de un cierto progreso claramente en el sentido de las líneas
+conductistas, aunque este nombre apenas se pronuncia. ¿Pero eso qué importa?
+Vengamos al terreno de la intervención psicológica. Hemos visto antes que
+las aproximaciones comportamentales a los problemas de las perturbaciones psicológicas se remontaban a la obra de Watson, y que han cobrado fuerza a lo largo del
+siglo, ocupando paulatinamente el terreno haciendo frente a las psicoterapias de inspiración psicoanalítica, y enriqueciéndose luego con aportaciones propias de la
+orientación skinneriana. Se expandieron primero por los paises anglosajones, luego
+por varios países de Latinoamérica y por paises europeos —Paises Bajos, Escandinavia, Alemania, Italia, España. La Europa francófona, y más particularmente Francia, han representado en ese proceso un obstáculo. Ello se explica, entre otras razones, por la posición dominante que tiene en ella , en el campo de la psiquiatria y la
+psicología clínica, la escuela psicoanalítica à la française fundada por Lacan. La
+influencia institucional de esta corriente es tal, que todavía hoy, son raros los departamentos universitarios de psicología y de psiquiatría en los que se enseñan las psicoterapias comportamentales, y la práctica psiquiátrica se distribuye entre dos campos bien opuestos, el del psicoanálisis y el de la psiquiatría biológica. Lejos de
+desvanecerse, estos conflictos se han exacerbado a lo largo del último decenio, en
+lo que se ha llamado la guerre des psys (o guerra de las ‘psis’), en la que se han ido
+enlazando los episodios más inesperados : así, el informe sobre la eficacia de los
+diversos tipos de psicoterapia, pedido por un ministro de sanidad al respetable Institut National de la Recherche Médicale, fué poco después desautorizado y retirado
+
+554
+
+
+
+de los archivos del ministerio por su sucesor, ante la presión del lobby psicoanalítico; corrección a una ley que fijaba las condiciones de acceso a la práctica psicoterapéutica, especialmente en lo relativo a temas de formación y de especialización universitaria, para preservar los privilegios establecidos por los psicoanalistas en favor
+de ellos mismos a este respecto ; procesos sobre difamaciones, polémicas periodísticas, etcétera.
+Dejemos a un lado esta excepción francesa. En general, los puntos de vistas comportamentales han ido incorporándose a las prácticas psicológicas que se
+someten a medidas de objetivación y validación de sus resultados. Al igual que otras
+alternativas, no pretenden la exclusividad, y no dejan de plantearse problemas en
+cuanto a su indicación, los procesos a que atribuyen sus éxitos o fracasos, su adecuación a diversos contextos culturales, su costo económico, etc. Lo que importa, a
+nuestro propósito, es que en este terreno, el modelo conductista está bien vivo, y prosigue su propia evolución. Este tiene una característica curiosa a la vez que paradójica. La mayor parte de los profesionales se definen como utilizadores de los métodos cognitivo-conductuales (o conductualcognitivos). Esa fusión de las dos corrientes,
+una de las cuales había sustituído a la otra en una especie de revolución paradigmática, podría ahora aparecer como una amalgama, sospechosa de tratar de atraer así
+a un círculo más amplio de clientes. Pero nos inclinamos a ver en ello más bien una
+superación de las oposiciones entre escuelas, por parte de los profesionales que se
+enfrentan a los problemas reales y a la complejidad de las personas que les consultan. Sabiamente, han llevado a cabo una integración de cuanto las teorías habían
+disociado.
+La teorías mismas se flexibilizan y adoptan formulas menos radicales. Es lo
+que pasa con el cognitivismo, centrado en el modelo del procesamiento de la información y en la metáfora del ordenador, que asignaba a la psicología la tarea de
+investigar las soluciones computacionales de todos sus objetos, desde la percepcion
+o la motricidad más básica a la conciencia y la construcción del sí mismo. Ha tenido
+lugar una recuperación del tema de la emoción y de la acción (esta última particularmente significativa, de cara a un resurgimiento de las tesis conductistas). El ‘todo
+cognición’, que había dominado en la corriente cognitivista desde sus comienzos, ha
+sido revisado en un sentido reintegrador de otras dimensiones de la persona, en un
+movimiento intelectual que se denomina a si mismo con expresiones con connotaciones un tanto místicas : cognición encarnada, cognición incorporada o hecha carne,
+(embodied cognition, cognition in the flesh). Esta tendencia seguramente no es una
+vuelta al conductismo, pero indica que el cognitivismo ha perdido aquella rigidez que
+le convertía en lanza de acero contra el conductismo.
+Otras convergencias han venido a relativizar las oposiciones que se establecían entre los puntos de vista conductista y cognitivista, convergencias que se inscriben en las reformulaciones de las concepciones del ser vivo.
+
+555
+
+
+
+Hallamos la ilustración más evidente en el lugar que se ha dado al mecanismo de la selección natural, idea que era central ya en la obra de Skinner, como
+hemos dicho anteriormente, que ya estaba presente en la obra de muchos de sus predecesores, como E.L. Thorndike o L.L.Thurstone, y que ahora reaparece en las tesis
+propuestas por Changeux y por Edelman, bajo los nombres de darwinismo generalizado y darwinismo neuronal. El seleccionismo, tal como aquí es entendido,
+extiende el mecanismo de selección, motor de la evolución a nivel de las especies,
+a un nivel propio del organismo individual, en base a observaciones hechas sobre
+el sistema inmunitario y sobre el desarrollo de las redes sinápticas. Estas observaciones hacen plausible su intervención en la construcción de los comportamientos,
+como ya lo invocaba Skinner. Las ideas de este último, que pudieron parecer simplemente metafóricas, cobran ahora un valor sustancial. Se recordará que las explicaciones seleccionistas se han aplicado al plano sociocultural por parte de muchos
+antropólogos (en una perspectiva completamente distinta a la del darwinismo social
+del siglo XIX), y de modo muy característico por Popper (1972), para dar cuenta de
+la evolución de las hipótesis científicas.
+En todo esto, se ve en plena actividad un movimiento de interpenetración de
+disciplinas, que estaban hasta ahora separadas, y que ha sido favorecido, si es que no
+provocado, por el desarrollo extraordinario de las ciencias del cerebro, que conocemos hoy como ‘neurociencias’. Los investigadores procedentes de horizontes diferentes, desde la biología a la psicología y a las ciencias sociales en su plena variedad,
+atacan problemas comunes, mediante el uso de sus métodos y de sus conceptos
+complementarios. Los debates que tuvieron lugar en el pasado ya no son actuales.
+Los neurobiólogos no salen ya con aquella ‘boutade’ de Changeux, de que «el Hombre no tiene necesidad de Mente (‘Esprit’), le basta con ser un Hombre neuronal»; son
+ellos los primeros que se interesan y se apasionan por el tema de la conciencia, que
+también atrae a los psicólogos, que se sienten liberados de las prohibiciones conductistas para redescubrir quizá lo que se decía ya siguiendo a Watson, y más allá.
+La muerte anunciada del conductismo, en realidad, no ha tenido lugar. ¿Será
+tal vez porque muchas de sus aportaciones han ido a incorporarse a nuestro saber
+actual , operante tanto en la investigación como en la práctica, y por ello las tomamos como habituales y familiares, señal evidente del exito que han conseguido ?
+
+556
+
+
+
+BIBLIOGRAFÍA
+BAYÉS, R., MACCORQUODALE,K., PREMACK, D. y RICHELLE, M. (1977), ¿Chomsky o Skinner? La génesis del lenguaje, Barcelona, Fontanella.
+BUNGE, M. (1980), The Mind-Body problem, Oxford, Pergamon.
+CHOMSKY, N. (1959), Review of Skinner, B.F., Verbal Behavior, Language, 4:16-49.
+LORENZ, K. (1981), Fundamentals of Ethology, Nueva York, Springer
+PIAGET, J. (1967), Biologie et Connaissance, Paris, Gallimard.
+PIÉRON, H. (1908), “L’évolution du psychisme”, Revue du Mois, 3:291-310.
+POPPER, K.R. (1972), Objective Knowledge: An evolutionary approach, Oxford, Oxford University Press.
+RICHELLE, M. (1992), “La analogia evolucionista en el pensamiento de B.F. Skinner”, en J. ROALES-NIETO, M. LUCIANO SORIANO y M. PEREZ ALVAREZ (Eds), Vigencia de la obra de Skinner, Granada, Universidad de Granada:115-124.
+— (1993), B.F. Skinner, A Reappraisal, Hove, Lawrence Earlbaum Associates.
+SKINNER, B.F. (1948), Walden Two, Nueva York, Macmillan.
+— (1957), Verbal Behavior, Nueva York, Appleton Century Crofts.
+— (1971), Beyond Freedom and Dignity, Nueva York, Alfred A. Knopf.
+VYGOTSKY, L.S. (1925), “Consciousness as a problem in the psychology of behavior” [en russe;
+trad. al inglés 1976, Soviet Psychology, XVII, 4:3-36]
+Watson, J.B. (1913), “Psychology as a behaviorist views it”, Psychological Review, 20:158-177.
+
+557
+
+

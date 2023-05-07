@@ -1,0 +1,768 @@
+LA DIGITALIZACIÓN DEL DINERO
+Por el Académico de Número
+José Manuel González-Páramo*
+
+LA IRRUPCIÓN DE LAS MONEDAS DIGITALES
+Nueve páginas firmadas hace tan solo diez años bajo el seudónimo de
+Satoshi Nakamoto 1 dieron lugar al nacimiento del Bitcoin, y con él irrumpe el
+debate actual sobre las monedas digitales, un debate que amenaza con poner
+el cierre a dos mil quinientos años de historia de la moneda representada físicamente. Para los escépticos, se trata de una moda pasajera, a la que darán fin
+los robos masivos de Bitcoins o nuevos episodios de volatilidad en su precio.
+Para otros, por contra, la aparición de las monedas digitales puede llegar a
+cuestionar los cimientos del sistema monetario internacional establecido en la
+segunda mitad del siglo xx tras la desaparición del patrón oro. Qué son las
+monedas digitales y cuál puede ser su papel en el futuro son las dos cuestiones que trataré de dilucidar.
+Sin terciar en este debate, no hay razones para dudar de que la digitalización del dinero es un proceso imparable. De hecho, la mayor parte
+del dinero —los depósitos bancarios— constituyen una representación digital de valor, y el apetito del público por el efectivo está disminuyendo con
+rapidez. Así, por ejemplo, en Suecia casi el 60 por 100 de las sucursales bancarias no manejan efectivo, que tampoco puede usarse en el metro o el autobús, y ni siquiera es la forma habitual de efectuar donativos en las iglesias,
+constituyendo billetes y monedas solo el 15 por 100 del total donado. En un
+
+*
+1
+
+Sesión del día 5 de marzo de 2019
+S. Nakamoto (2009), Bitcoin: a peer-to-peer electronic cash system, https://bitcoin.org/bitcoin.pdf
+
+257
+
+
+
+mundo que se digitaliza aceleradamente, parece natural que el dinero lo
+haga también. La cuestión no es si vamos a un mundo dominado por monedas o medios de pago digitales, sino la forma y los contornos que el mundo
+del dinero digital tendrá. ¿Cómo de relevantes serán las monedas digitales
+no respaldadas por los Bancos Centrales o los Tesoros? Y, en caso de
+optar los Bancos Centrales participar en la emisión de monedas digitales, ¿en qué forma específica decidirán hacerlo? A responder a estas cuestiones dedico esta exposición, lo que requiere explicar previamente la eclosión actual de las criptomonedas, así como examinar su capacidad de
+desempeñar las funciones del dinero.
+Sin lugar a dudas el Bitcoin es la más famosa de las llamadas monedas digitales, pero no es la primera ni la única. En 1983 David Chaum introduce la idea de una moneda digital basada en protocolos criptográficos. El
+potencial de esta novedosa idea le llevó a fundar DigiCash en 1989. Pese al
+respaldo dado a la compañía por Deutsche Bank y otros bancos, DigiCash
+quiebra en 1998. Su principal problema fue nacer antes de tiempo: el comercio electrónico todavía no estaba completamente integrado en Internet. Un
+año después, Milton Friedman dio la famosa entrevista 2 en la que se anticipaba en diez años al nacimiento de las criptomonedas vinculado a Internet.
+“Creo —afirmaba el Premio Nobel- que Internet va a ser una de las mayores
+fuerzas para reducir el papel del gobierno. Lo que todavía falta, aunque se
+desarrollará pronto, es una moneda electrónica fiable, mediante la cual a
+través de Internet se puedan transferir fondos de A a B sin que A y B se conozcan entre sí”.
+A día de hoy es preciso recalcar que, junto a Bitcoin, existen más de
+dos millares de monedas digitales en circulación con una capitalización de mercado que ronda los 130 mil millones de Euros 3, más o menos el 10% del Producto Interior Bruto de España.
+
+2
+3
+
+258
+
+https://www.youtube.com/watch?v=tsJk2VtgUKI.
+CoinMarketCap consultada a fecha de diciembre 2018. https://coinmarketcap.com/.
+
+
+
+FIGURA 1
+
+10 Principales divisas digitales. Valor de mercado y peso en el mercado (enero 2019)
+
+Fuente: Institute of International Finance based on CoinMarketCap4.
+
+El desarrollo del Bitcoin y de otras monedas digitales se basa en una
+nueva tecnología denominada blockchain o, de forma genérica, tecnología de
+registro distribuido (Distributed Ledger Technology o DLT, en inglés). Los avances tecnológicos surgidos en los primeros años del siglo xxi en materia de conectividad, capacidad de computación, coste y, particularmente, en criptografía
+han permitido su desarrollo. Esta tecnología se sustenta principalmente en un
+registro de datos digitales que es compartido entre muchas partes diferentes o
+nodos. Su esencia radica en que, una vez introducida la información, nunca
+puede ser borrada o modificada, quedando registrada permanentemente y cuya
+verificación se realiza conjuntamente por todos los nodos.4
+Su carácter disruptivo se basa principalmente en la capacidad de descentralizar los procesos de certificación en el mundo digital. De esta forma,
+se hace innecesaria una autoridad central para validar las transacciones que se
+registran, realizándose esta labor por la propia red de nodos mediante la aplicación de algoritmos previamente pactados. Al igual que el desarrollo de Internet descentralizó el acceso a la información, el desarrollo de la tecnología digital y, en particular, del DLT permite descentralizar la confianza, con efectos
+disruptivos en muchos ámbitos de actividad, incluida la forma en que se concibe el dinero.
+Una moneda de 1 Euro o un billete de 20 Dólares no se intercambian
+por su valor intrínseco. Su valor radica en la confianza que tiene el público en
+su uso, dado que existe un Banco Central que respalda su emisión. ¿Pueden las
+
+4
+Institute of International Finance (2019), Crypto course correction: 10 years after bitcoin’s debut,
+https://www.iif.com/Portals/0/Files/32370132_crypto_course_correction_jan2019_vf.pdf
+
+259
+
+
+
+monedas digitales llegar a sustituir a las monedas tradicionales emitidas por un
+Banco Central? Este debate no es nuevo, pero actualmente adquiere una nueva
+dimensión. Durante la segunda mitad del siglo xx, destacados economistas han
+venido defendiendo la abolición del monopolio en la emisión del dinero
+de los Bancos Centrales y Estados. Un exponente de este movimiento es el
+economista austríaco y Premio Nobel de Economía en 1974, Friedrich Hayek.
+En su obra La desnacionalización del dinero 5 analizó la competencia entre las
+monedas privadas y públicas, defendiendo la libre competencia en la emisión
+y circulación de los medios de pago. Toda aquella entidad financiera que lo
+desease podría crear su propia moneda, pero cuidando la estabilidad de su
+valor, a través de compras y ventas de la misma. Sin entrar en esta discusión, el
+Bitcoin y el Ducat de Hayek son una respuesta específica a los fallos del dinero
+emitido monopolísticamente por el Banco Central, pero se basan en supuestos
+enteramente distintos sobre lo que constituye el dinero 6.
+El debate sobre la emisión de monedas digitales se ha extendido en los
+últimos años al ámbito público, planteándose, incluso, la posible emisión por
+un Banco central de dinero en formato digital y accesible al público en
+general. El Banco Central de Suecia es una de las autoridades públicas más
+avanzadas en el análisis de este escenario 7.
+¿Podemos considerar al Bitcoin como moneda digital equiparable a las
+monedas en curso como el Euro o el Dólar? ¿En qué se diferencian el dinero
+electrónico hoy en boga y las criptomonedas? ¿Qué puede aportar esta innovación a la sociedad? Interrogantes como éstos deben aclararse, y para ello nada
+mejor que volver a los conceptos básicos: qué es el dinero y qué funciones
+cumple.
+
+EL ROL TRADICIONAL DEL DINERO
+El dinero es “cualquier cosa que los miembros de una comunidad estén dispuestos a aceptar en pago de bienes y deudas” 8. Su evolución a lo largo
+de la historia está unida a la evolución de la humanidad. El dinero aparece
+como consecuencia de la escasa eficiencia del trueque que empezó a producirse en el neolítico, cuando comenzaron los primeros asentamientos humanos y
+
+5
+F. Hayek, (1978). Denationalization of Money. An Analysis of the Theory and Practice of Concurrent Currencies. UK: The Institute of Economic Affairs.
+6
+P. Butler (2017), Stop dragging Hayek into Bitcoin, https://paulbutler.org/archives/stop-dragging-hayekinto-bitcoin.
+7
+https://www.riksbank.se/en-gb/payments--cash/e-krona/.
+8
+La Real Academia de la Lengua Española define dinero en su acepción económica como “medio
+de cambio o de pago aceptado generalmente”.
+
+260
+
+
+
+se impuso así la necesidad de comerciar. Piedras, sal, cuentas, conchas, huesos
+y metales pueden considerarse las primeras formas que tuvo el dinero. Las monedas acuñadas con carácter oficial nacen en Lidia (Turquía), un pueblo de
+Asia Menor, aproximadamente entre los años 680 y 560 AC. Los lidios fueron los
+principales protagonistas del comercio terrestre entre el Mediterráneo y Asia en
+aquellos siglos y sus monedas, acuñadas en una aleación de oro y plata, fueron
+el antecedente de los Estateros y los Dracmas de la Grecia clásica.
+A partir de esta fecha el uso de la moneda se fue extendiendo, hasta
+constituir una pieza fundamental en la expansión y consolidación del Imperio
+Romano. Hubo que esperar a que pasaran alrededor de 1.300 años, para que
+surgiera una nueva forma de dinero: el papel moneda. Éste aparece en China
+en el siglo ix, pero no fue hasta la llegada de Marco Polo a Asia en el siglo xiii
+cuando los europeos conocieron de su existencia. Como muchas de las innovaciones disruptivas, la idea de que un papel suplantara a la moneda metálica,
+que llevaba más de dos milenios en circulación, fue considerada por muchos
+en Europa como una fantasía. Fue en 1661 cuando se emitieron en Suecia los
+primeros billetes de Europa 9. En España, habría que esperar a 1780 para asistir
+al nacimiento de los vales reales durante el reinado de Carlos III 10. ¿Qué rasgos
+esenciales tienen las monedas y los billetes para ser aceptados como medio de
+pago? Hay tres características que hacen que el dinero en efectivo sea muy
+atractivo y haya perdurado a lo largo de los años: es anónimo —puede manejarse sin que esté asociado particularmente a una persona—, es universal —se
+puede pagar con él en cualquier parte—, y por último, permite realizar transacciones sin necesidad de un intermediario.
+Conviene tener presente que las monedas y billetes son sólo un tipo de
+dinero más, el conocido como dinero efectivo. En la actualidad, el efectivo coexiste con otros tipos de dinero como son las cuentas corrientes en las entidades de crédito, las reservas bancarias y otras cuentas abiertas en el Banco Central, y el dinero electrónico. Cada tipo de dinero tiene sus propias características
+pero todos cumplen en alto grado las siguientes tres funciones básicas 11:
+– La primera función del dinero es la de ser un medio de pago, porque se puede intercambiar por otros bienes y servicios. Esta función permite
+que no tengamos que recurrir al trueque para conseguir algún bien necesario.
+
+9
+Los primeros billetes europeos se fabricaron en Suecia, en el año 1661. Los imprimió el cambista Johan Palmstruch, que los entregaba como recibo o resguardo a quien depositaba oro o plata en el Banco
+de Estocolmo.
+10
+El rey Carlos III funda el Banco Nacional de San Carlos en 1782. Esta entidad fue una institución moderna para la época: su capital era privado, estaba dividido en acciones que preveía el el reparto de
+dividendos y emitió los primeros billetes de banco españoles, llamados cédulas del Banco de San Carlos, los
+cuales no tuvieron inicialmente demasiada aceptación entre el público. https://www.bde.es/bde/es/secciones/sobreelbanco/historiabanco/Del_Banco_de_San/.
+11
+BBVA (2015), “¿Qué es el dinero?” https://www.bbva.com/es/que-es-el-dinero/.
+
+261
+
+
+
+– El dinero cumple también la función de ser unidad de cuenta, porque es fácil determinar el valor de cualquier bien o servicio en función de una
+cantidad de dinero.
+– Y por último, cumple la función de reserva de valor, debido a que
+podemos utilizarlo para mantener riqueza.
+En la antigüedad las monedas eran de oro y plata, lo que les aportaba
+un valor intrínseco. Sin embargo, con la aparición de los billetes, surgió la necesidad de respaldar el valor de los mismos con cantidades concretas de oro y
+otros metales. Este tipo de dinero se conoció como dinero fiduciario, esto es,
+que depende del crédito o la confianza. Los usuarios de las monedas y billetes
+confiaban en la existencia de unas reservas de oro almacenadas en los bancos
+de forma que se aseguraba el valor de las mismas. El sistema monetario mundial se basó en el dinero fiduciario hasta que, en 1971, Estados Unidos decidió
+abandonar los acuerdos de Bretton Woods de 1944 y el patrón oro.
+Desde entonces, las economías funcionan con un dinero que carece de
+otro respaldo que la confianza que se tenga en la autoridad central que lo emite. Por tanto, es la mera confianza del público el elemento sobre el que pivotan todos los sistemas de dinero fiat y en el que se basa su aceptación generalizada en la sociedad 12.
+Los estados y, en concreto, los Bancos Centrales juegan un papel central como garantes de esta confianza. Actualmente hay dos tipos de dinero
+emitidos por Bancos Centrales englobados bajo la llamada base monetaria 13, que
+comprende el efectivo en circulación y las reservas mantenidas por las instituciones financieras en el Banco Central. Al mismo tiempo, la definición de dinero más
+aceptada por su conexión con las transacciones económicas es la oferta monetaria, suma del efectivo y los depósitos bancarios (así como otros instrumentos financieros muy líquidos), constituyendo estos el llamado dinero bancario. Los
+depósitos tienen unas características muy particulares, entre las que destacan su
+acceso restringido, su carácter nominativo y, actualmente, su naturaleza digital 14.
+Junto a estos está el dinero electrónico, que no se puede considerar
+dinero per se, en el sentido de que se nutre de efectivo o depósitos. Tal y como
+establece el Banco de España, el dinero electrónico es un instrumento financiero
+que nos permite realizar pagos y transferencias con un dispositivo electrónico.
+“Su funcionamiento consiste en almacenar dinero que está físicamente en billetes
+
+12
+M. A. Nieto y J. Hernáez (2018), “Monedas Virtuales y Locales”, Revista Estabilidad Financiera
+del Banco de España, n.º 35, 105.
+13
+Glosario Política Monetaria del Banco de España. https://www.bde.es/bde/es/utiles/glosario/
+glosarioPolt/indexM.html.
+14
+G. Nuño (2018), “Implicaciones de política monetaria de la emisión de dinero digital por parte
+de los bancos centrales”, Boletín Económico - Artículos analíticos. Banco de España.
+
+262
+
+
+
+y monedas, en una cuenta corriente o en una tarjeta de crédito, en cualquier soporte electrónico como puede ser una tarjeta física, una tarjeta virtual, un teléfono, un ordenador o cualquier otro dispositivo cuya memoria permita hacerlo, que
+luego puede utilizarse para realizar pagos con el límite del importe que se haya
+cargado” 15. Es, por tanto, un instrumento prepagado al portador.
+Así pues, el rápido descenso del uso de efectivo de los últimos años y
+el desarrollo pujante de los medios de pago digitales por medio del dinero
+electrónico (almacenado en tarjetas, dispositivos on-line, móviles, etcétera) suscita una cuestión clave: ¿qué características tienen las criptomonedas digitales
+frente al efectivo o al dinero electrónico?
+LAS MONEDAS DIGITALES, HIJAS DE LA CUARTA
+REVOLUCIÓN INDUSTRIAL
+Para entender el desarrollo de las monedas digitales es conveniente
+primero contextualizar el entorno tecnológico que auspicia su eclosión. En mi
+discurso de ingreso en esta Real Academia traté de explorar cómo la Cuarta
+Revolución Industrial está transformando el sistema financiero actual, para así
+poder perfilar los escenarios de futuro 16. Al igual que en la banca, y como en
+otros muchos sectores y actividades, las tecnologías digitales están teniendo
+efectos disruptivos en la forma que usamos el dinero.
+Cuatro elementos asociados al nuevo mundo digital son los que han favorecido el vibrante desarrollo de las monedas digitales: la hiperconectividad, la mayor
+capacidad de computación, la reducción en el coste de operación y la criptografía.
+Las redes de comunicación digitales, a diferencia de lo que ocurría
+con sus antecesoras analógicas, pueden transmitir con gran rapidez cualquier tipo
+de información sobre una cierta infraestructura, por lo que las economías de escala y de red se refuerzan exponencialmente. Como señala la Ley de Metcalfe (1976),
+el valor de una red de comunicaciones aumenta de forma cuadrática con el número de usuarios del sistema. En el caso de Internet, el crecimiento en el número de
+empresas y ciudadanos conectados no ha hecho más que crecer, multiplicando su
+valor como vía de interconexión global. La hiperconectividad digital 24/7 ha facilitado el desarrollo de mercados bilaterales 17, como el de los medios de pago
+15
+European Central Bank: www.ecb.europa.eu/stats/money-creditbanking/electronic_money/
+html/index.en.html
+16
+J. M. González-Páramo (2016), Reinventar la Banca: De la Gran Recesión a la Gran Disrupción
+Digital, Discurso de ingreso Real Academia de las Ciencias Morales y Políticas.
+17
+Un mercado bilateral es un mercado en el que un grupo de usuarios genera una externalidad
+sobre otro distinto, existiendo una plataforma que los pone en contacto. Así, por mejemplo, tenemos el
+mercado de tarjetas de crédito, en el que los grupos que generan externalidades serían los comercios y los
+compradores. El hecho de que entre los compradores se extienda el uso de una tarjeta de crédito determi-
+
+263
+
+
+
+electrónico o las monedas digitales, al facilitar los flujos de información rápidos, a
+bajo coste y sujetos a estándares de seguridad. Fue la ausencia de hiperconectividad la que dio por tierra con el proyecto de DigiCash de Chaun en los 80.
+La capacidad de computación es el segundo elemento clave en la aparición de las monedas digitales como el Bitcoin. Su desarrollo en los últimos diez
+años se ha basado principalmente en la tecnología de blockchain, cuya característica disruptiva radica en la descentralización de los procesos de almacenamiento
+y verificación. Todos los usuarios del sistema trabajan conjuntamente registrando
+todos los datos, agrupándolos en bloques, conectándolos uno detrás de otro y
+verificando que no se producen alteraciones. Esta descentralización ha sido posible gracias a un uso muy intensivo de algoritmos criptográficos de cifrado y firma
+digital que requieren una elevada capacidad de computación. El desarrollo de las
+monedas digitales solo ha sido posible gracias a una capacidad de computación
+que ha crecido exponencialmente, en línea con la Ley de Moore, que en 1975
+anticipó que la capacidad de integración de transistores en un chip (relacionada
+directamente con su capacidad de cálculo) se duplicaría cada 24 meses 18.
+En tercer lugar, el coste decreciente de las soluciones digitales es un factor
+adicional clave para incentivar el uso de las monedas digitales. De hecho, la Ley de
+Moore también puede interpretarse como una reducción de costes del 50% cada dos
+años, a igual tecnología. No en vano, durante los últimos años del siglo pasado hemos asistido a una caída notable de los costes de las comunicaciones y de los ordenadores, hasta hacerlos asequibles para una amplia mayoría de la población.
+Finalmente, los avances en criptografía digital constituyen el cuarto
+pilar en el desarrollo de las monedas digitales. La criptografía no es un concepto
+nuevo, sino que se ha venido utilizando desde hace más de cuatro mil quinientos
+años en el Antiguo Egipto para transmitir información de segura y secreta. De
+todos es conocido que durante la Segunda Guerra Mundial, el ejército alemán
+usaba una máquina de encriptación llamada Enigma para enviar importantes
+mensajes codificados a sus generales cuya clave fue descubierta por Alan Turing,
+en lo que algunos consideran el punto de inflexión más importante de la guerra.
+Gracias al desarrollo de la tecnología digital y a la creciente capacidad computacional de los ordenadores, se ha abierto la posibilidad de incrementar la dificultad
+de la encriptación. De esta forma, el desarrollo de las monedas digitales se basa
+en la protección y la seguridad que provee la criptografía. Ésta posibilita la operación de un sistema en el que cada una de las partes no tienen que confiar en
+
+nada, genera que su aceptación sea más rentable por parte de los comercios. El efecto contrario también se
+da. See J.-Ch. Rochet y J. Tirole (2006), “Two-sided markets: A progress report”, RAND Journal of Economics,
+37, pgs. 645-667.
+18
+G. E. Moore (1965), “Cramming more components into integrated circuits”, Electronics, vol. 38, No 8.
+Sobre el final de su cumplimiento, véase el sitio web: www.silicon.es/gordon_moore_mi_ley_dejara_de_cumplirse_dentro_de_10_o_15_anos-99138.
+
+264
+
+
+
+la otra porque la confianza la depositan en los métodos criptográficos utilizados
+en la red. Sin la criptografía no existiría Bitcoin y ni otras criptomonedas.
+La combinación de estos cuatro factores —hiperconectividad, capacidad
+de computación, coste y criptografía— ha posibilitado el desarrollo del blockchain o, de forma general, de las tecnologías de registro distribuido (Distributed Ledger Technologies, o DLT, en inglés), ya mencionadas. Los avances tecnológicos obligan a incorporar al vocabulario nuevos términos y, en ocasiones,
+tanta novedad puede llevar a confusiones o malentendidos. ¿Cuál es la diferencia
+entre blockchain y la DLT? Una DLT es simplemente una base de datos digital que
+gestionan varios participantes y no está centralizada. Blockchain a su vez es un
+tipo de DLT con una serie de características particulares. El DLT es una base de
+datos distribuida y compartida formada por bloques. Un bloque contiene un conjunto de transacciones, y cada transacción indica el movimiento de un número de
+tokens entre nodos, donde el token es una representación digital de un derecho.
+Tal y como se refleja en la Figura 2, es el registro de transacciones lo que se almacena en todos y cada uno de los nodos. Una información sólo es válida cuando se registra en todos los nodos y, análogamente, para manipularla se exigiría
+modificar todos los nodos. De esta forma, se certifica que la información, encriptada, no se ha manipulado ni se puede manipular.
+FIGURA 2
+
+Ejemplo registro token de dos intervinientes (A+B) en un DLT de cinco nodos
+
+Fuente: BBVA Research.
+
+El token es el elemento central en el mundo DLT. Constituye una representación digital que puede servir para otorgar un derecho, para pagar por
+un trabajo o servicio, o por la cesión de unos datos, como incentivo, como
+puerta de entrada a unos servicios extra o a una mejor experiencia de usuario.
+En breve, un token podría servir para aquello que la persona o la organización
+que lo diseñen y desarrollen decidan. Como se muestra ilustrativamente en la
+Figura 3, a efectos de mera clarificación terminológica, el Bitcoin es una moneda digital que se construye sobre blockchain que se basa en la tecnología DLT.
+
+265
+
+
+
+Su principal uso en la comunidad Bitcoin es como token de pago. En la actualidad, la mayoría de los tokens se asientan sobre el protocolo de blockchain de
+Ethereum, más completo que el blockchain de Bitcoin 19, 20.
+FIGURA 3
+
+Relación DLT - Blockchain - Bitcoin
+
+Fuente: elaboración propia.
+
+CRIPTOMONEDAS Y OTROS ACTIVOS DIGITALES
+DESCENTRALIZADOS
+Así pues, el nuevo entorno tecnológico esbozado en el apartado anterior
+ha permitido el diseño de nuevos mecanismos de intercambio de información y
+datos a través de los tokens, que es la base del desarrollo de las criptomonedas,
+con Bitcoin a la cabeza. A modo de resumen y sin entrar a fondo en sus detalles
+tecnológicos, el Bitcoin se basa en un protocolo creado en 2009 por un experto,
+o grupo de ellos, que usan el seudónimo Satoshi Nakamoto. Los Bitcoins se crean
+por un proceso llamado “minería”, que consiste en la solución de un complejísimo problema matemático en el que compiten numerosos ordenadores. El computador que lo resuelve obtiene Bitcoins como recompensa.
+Su principal rasgo es su descentralización: es independiente de cualquier Banco Central o gobierno, ya que, a diferencia de las monedas tradicionales, el Bitcoin no es emitido por decisión de ninguna entidad oficial. Se trata
+de un sistema monetario en el que la legitimidad y control se consiguen me-
+
+19
+BBVA (2017), “Qué es un ‘token’ y para qué sirve” https://www.bbva.com/es/que-es-un-tokeny-para-quesirve/
+20
+Criptonoticias (2018), https://www.criptonoticias.com/informacion/que-es-ethereum/#axzz4lwQjKRL y Además, la emisión es limitada, ya que el sistema solo permite que se lleguen a generar como
+máximo 21 millones de Bitcoins..
+
+266
+
+
+
+diante las transacciones de los propios usuarios, al quedar registradas en la red
+de Bitcoin. De esta manera, es el propio mercado —oferta y demanda— quien
+determina su precio.
+Inicialmente su desarrollo estaba concebido como una “forma de pago”
+para programadores cuando trabajaban desarrollando software descentralizadamente. Su enorme popularización en los últimos diez años se ha debido
+principalmente a dos factores. Por un lado, un ideario antiestablishment que
+favorece la utilización de una nueva moneda al margen de la autoridad monetaria o del gobierno —recuérdese la afirmación de Milton Friedman. Y por otro,
+su conveniente uso como paramoneda en el nuevo mundo digital, pues permite realizar operaciones instantáneas y anónimas en todo el globo.
+Junto al Bitcoin coexisten otras criptomonedas y otros criptoactivos
+descentralizados. A día de hoy existen más de dos millares de criptomonedas,
+de las que Bitcon y Ether son los mayores exponentes. La tecnología subyacente a estas criptomonedas, el DLT, ha sido una fuente de inspiración e innovación en la creación de nuevas soluciones digitales en las que la certificación
+descentralizada adquiere un papel clave. Es el caso de los criptoactivos o activos digitales descentralizados, que cabe agrupar en tres grandes clases en
+función de la información y el valor que incorporan los tokens:
+– Los token de pago o transacción (settlement tokens en inglés), que
+conforman las criptomonedas como el Bitcoin.
+– Los token de valores, que otorgan el derecho de propiedad sobre un
+bien o un activo y/o una participación en los beneficios o rentas que ese bien
+genera o pueda generar en un futuro.
+– Finalmente, los token de utilidad, que otorga a sus dueños el derecho de acceder a diferentes servicios que ofrece una empresa o un proyecto
+que se va a desarrollar, pero no conceden derechos de propiedad o participación en beneficios futuros de la empresa.
+Los dos últimos tipos de token tienen su mayor exponente en los conocidos como Investment Coin Offerings (ICOs), que constituyen un nuevo
+método de financiación para start-ups especializadas en la tecnología blockchain. Este mecanismo de financiación consiste en la venta a inversores de un
+porcentaje de tokens propios emitidos por la empresa que otorga al adquiriente
+futuros derechos sobre la compañía o derecho a acceder a los servicios que desarrolle. Una vez finalizado el periodo de oferta, la empresa utiliza los fondos
+recaudados mediante la ICO para desarrollar su proyecto. A título ilustrativo, los
+
+267
+
+
+
+mayores ICOs en 2017 han sido llevados a cabo por Filecoin y Tezos, que consiguieron obtener 250 millones 21 y 230 millones 22 de Dólares, respectivamente.
+Como ocurre con casi todas las innovaciones tecnológicas, el desarrollo del marco normativo siempre va un paso por detrás. Recientemente la Autoridad Bancaria Europea (EBA) ha publicado un informe 23 que analiza las tres
+tipologías de activos digitales mencionados anteriormente y su encaje en el
+marco normativo actual. En particular, se evalúa si se pueden considerarse dinero electrónico según lo establecido Directiva Europea de Dinero Electrónico
+(Directiva 2009/110/EC) o activo financiero según lo establecido en la Directiva
+Europea de Mercados e Instrumentos financieros, más conocida como MIFiD2
+(Directiva 2014/65/EU). La EBA concluye que no encajan en ninguna de las dos
+categorías. Esta ausencia de un marco regulatorio plantea retos en los ámbitos de la protección al consumidor y la integridad del mercado de monedas
+digitales en casos de robo y fraude.
+Así pues, son sólo los tokens de pago o transacción aquellos que se
+podrían aspirar a considerarse dinero electrónico y equipararse en alguna medida
+con el dinero tradicional, en la medida que buscan ser un medio de pago, una
+unidad de cuenta y una reserva de valor. Su éxito en desempeñar las funciones
+del dinero hasta hoy ha sido más bien modesto, como veremos a continuación.
+DEBILIDADES DE LAS CRIPTOMONEDAS ACTUALES
+La aparición de Bitcoin o Ether ha supuesto un cambio de paradigma en
+la forma de entender el dinero y unas nuevas posibilidades de uso de las monedas y las paramonedas en el entorno digital. Sin embargo los primeros diez años
+de las criptomonedas, y en particular del Bitcoin, arrojan más sombras que luces, lo que invita a adoptar una aproximación cautelosa a este nuevo fenómeno.
+Las principales críticas que se realizan al Bitcoin y otras criptomonedas
+se pueden agrupar en cuatro grandes categorías. En primer lugar, durante su
+corta existencia han tenido una alta volatilidad, lo que está impidiendo su
+aceptación y consolidación como unidad de cuenta y como reserva de valor.
+Como se puede observar en el gráfico 4, tras un largo periodo de estabilidad,
+la cotización del Bitcoin frente al Dólar se multiplicó por 19 entre enero y dihttps://coincentral.com/filecoin-beginners-guide-largest-ever-ico/.
+https://hackernoon.com/the-curious-tale-of-tezos-from-a-232-million-ico-to-4-class-action-lawsuits-6f411b7aad7e.
+23
+Autoridad Bancaria Europea (2019), “Report with advise for European Commission on crypto-assets”
+https://eba.europa.eu/documents/10180/2545547/EBA+Report+on+crypto+assets.pdf. El informe concluye: “typically
+crypto-assets fall outside the scope of EU financial services regulation (the EBA identifies in this report only limited cases
+in which crypto-assets may qualify as electronic money) and specific services relating to crypto-asset custodian wallet
+provision and crypto-asset trading platforms do not constitute regulated activities under EU financial services law”.
+21
+
+22
+
+268
+
+
+
+ciembre de 2017, cuando alcanzó su máxima cotización, para desplomarse con
+posterioridad, en medio de notables oscilaciones.
+FIGURA 4
+
+Cotización del Bitcoin frente al Dólar
+
+Fuente: Elaboración propia a partir de datos de Bloomberg.
+
+¿Qué factores pueden estar detrás de este comportamiento? Como cualquier otro activo, el precio de una moneda digital como el Bitcoin estaría condicionado por dos factores: oferta y demanda.
+– Por el lado de la oferta conviene destacar que la particular construcción y diseño del Bitcoin hace que su oferta sea inflexible. Conviene recordar
+que el Bitcoin se diseñó con oferta máxima posible de 21 millones de Bitcoins.
+El monto existente al día de hoy es 17,5 millones de Bitcoins, crece lentamente
+en el tiempo —los “mineros” encuentran 1.800 Bitcoins diarios— y se espera
+alcanzar el máximo en 2.140 24.
+– Por el lado de la demanda, el precio puede estar condicionado tanto por un afán especulativo como por el valor que otorgue un poseedor de
+Bitcoin a a su posible uso en el futuro como dinero, cumpliendo en alguna
+medida alguna de sus tres funciones. El crecimiento desorbitado en la demanda
+de Bitcoins, y por tanto de su precio, durante 2017 tuvo tras de sí un motivo
+dominantemente especulativo, al decir de los analistas más solventes.
+Finalmente, conviene también destacar que esta volatilidad no es privativa del Bitcoin. La correlación entre esta criptomoneda y el resto de las monedas digitales es muy significativa. El Bitcoin representa actualmente el 50 por
+
+24
+“How many Bitcoins are there?”, https://www.buybitcoinworldwide.com/how-many-bitcoins-are-there/.
+
+269
+
+
+
+100 de la capitalización de mercado de todas las criptomonedas. Cualquier variación en el precio del Bitcoin se contagia al resto de monedas digitales.
+El segundo elemento de riesgo o crítica asociado a las criptodivisas es
+su anonimato, que puede favorecer su uso para fines ilícitos, como son el
+blanqueo de capitales, la extorsión, el cobro de ransomware, la evasión fiscal o
+la financiación del terrorismo. La creciente preocupación por estos riesgos explica que las autoridades estén adoptando una aproximación cautelosa frente a las
+criptomonedas y contemplen con escepticismo los beneficios del anonimato 25.
+Sin embargo, es preciso recalcar que los partidarios de las criptomonedas fundamentan su valor en la privacidad y en la eliminación de intermediarios para
+ejecutar una operación, aun cuando pueda utilizarse para actividades ilícitas.
+En tercer lugar, existen riesgos operacionales que todavía no permiten proteger suficientemente a clientes y proveedores. Los robos de Bitcoins
+se han venido sucediendo a lo largo de los años. De acuerdo con los expertos,
+los Bitcoins sustraídos o desaparecidos ascienden a entre 3 y 4 millones, lo que
+supone entre 12 y 16 miles de millones de Dólares a la cotización actual 26, con
+el agravante de que las autoridades no han podido hacer mucho para recuperarlos. Los mayores robos de Bitcoins tuvieron lugar en 2011, con la sustracción
+de más de 744.000 Bitcoins de la plataforma japonesa Mt Gox (más de 2.000
+millones de Euros al tipo de cambio actual), y más recientemente en 2016,
+cuando se robaron casi 120.000 Bitcoins de Bitfinex, el mayor intercambiador
+de Bitcoins en ese momento. Conviene aclarar que la tecnología subyacente al
+Bitcoin es enormemente robusta. Sin embargo, el grueso de los problemas han
+surgido con los proveedores de servicios de custodia de los Bitcoins que no
+tenían medidas de protección adecuadas. Estos proveedores custodian las claves privadas que certifican que un usuario tiene un número concreto de Bitcoins. También pueden darse debilidades de codificación y de diseño de los
+smart contracts o contratos autoejecutables que subyacen a blockchain.
+Las autoridades repetidamente alertan de que, al no ser considerado el
+Bitcoin como dinero electrónico, los proveedores de servicios de custodia no
+están sujetos a una supervisión como sí lo están las entidades de dinero electrónico 27. Por lo tanto ante robo de claves de Bitcoin, el único mecanismo para reclamar es la justicia ordinaria. Esta falta de seguridad en el Bitcoin ha contagiado
+a otras monedas digitales y no favorece que los usuarios utilicen este tipo de
+monedas para el ahorro o como medio pago, funciones esenciales del dinero.
+
+25
+
+26
+
+Parlamento Europeo (Mayo 2018) “Virtual currencies and terrorist financing”.
+http://www.europarl.europa.eu/RegData/etudes/STUD/2018/604970/IPOL_STU(2018)604970_EN.pdf.
+“How many Bitcoins are there”?, https://www.buybitcoinworldwide.com/how-many-bitcoins-
+
+are-there/.
+27
+Véase el marco legislativo que ampara a las entidades de dinero electrónico: https://www.bde.
+es/bde/es/secciones/normativas/Regulacion_de_En/Estatal/Entidades__de_d_be3472d6c1 fd821.html.
+
+270
+
+
+
+Al mismo tiempo, las autoridades están empezando a ser más sensibles
+ante los problemas de protección al consumidor e integridad derivados de
+la ausencia de regulación sobre los proveedores de servicios de custodia de
+Bitcoins, y algunos países como Japón están desarrollando marcos normativos
+y de supervisión específicos.
+En cuarto y último lugar, un elemento muy controvertido respecto al
+desarrollo de las criptomonedas es su eficiencia y, en particular, el consumo
+de energía eléctrica asociado a la minería y a la operación. La descentralización
+de los procesos de verificación y registro en numerosos nodos sobre los que se
+basa Bitcoin exige el desarrollo de técnicas criptográficas muy complejas cuya
+implementación requiere de un consumo muy elevado de electricidad 28. A efectos ilustrativos y con datos de enero 2019, si todos los ordenadores encargados
+de dar soporte al Bitcoin se consideraran un solo país, su consumo de energía
+equivaldría al 35 por 100 del consumo eléctrico de Holanda o al 15 por 100 de
+Italia 29. Comparado con otros medios de pago, una transacción de Bitcoin tiene
+un requerimiento energético equivalente al de 280.000 transacciones de VISA 30.
+Respecto a la eficiencia operativa, las criptomonedas tienen una reducida capacidad para realizar transacciones por razones técnicas, lo que limita
+enormemente su escalabilidad como medio de pago. Por ejemplo, Visa,
+Mastercard o PayPal son capaces de ejecutar 3.526, 2.061 o 241 operaciones por
+segundo, mientras que Bitcoin o Ether sólo ejecutan 3,3 y 3,2 operaciones por
+segundo 31. Así pues, la utilidad de las criptomonedas para ser utilizadas en pequeños pagos, como un almuerzo o realizar una transferencia para el pago de
+la luz no es muy grande. De hecho, esta limitación funciona como un embudo:
+cuanto más gente use Bitcoin, más lentos serán los pagos. Como destaca el
+Banco de Pagos Internacionales (BIS) en su informe económico anual, esta situación “niega una propiedad esencial del dinero actual: cuanto más gente lo
+usa, más fuerte es el incentivo para usarlo” 32.
+La combinación de estos cuatro riesgos o problemas afecta al pilar básico en el que se basa cualquier moneda: la confianza. La falta de confianza
+en las criptomonedas que comparte una amplia mayoría de la población es el
+principal elemento que impide que a día de hoy Bitcoin, Ether o cualquier otra
+
+28
+Las técnicas de criptografía empleadas en el Bitcoin se basan en el mecanismo de consenso
+“proof-ofwork” que requiere una gran capacidad de computación, y por ello un elevado consumo de energía.
+Actualmente se están investigando en diferentes esquemas de certificación que requerirían una menor capacidad de computación.
+29
+Bitcoin Energy Consumption Index (enero 2019) https://digiconomist.net/bitcoin-energy-consumption.
+30
+Ibidem.
+31
+Bank of International Settlements ( Junio 2018), BIS Annual Economic Report. Chapter V. Cryptocurrencies: looking beyond the hype. https://www.bis.org/publ/arpdf/ar2018e5.htm.
+32
+Ibidem.
+
+271
+
+
+
+criptomoneda pueda ser utilizada con carácter universal como medio de pago,
+unidad de cuenta o reserva de valor. En definitiva, las criptomonedas no
+pueden ser consideradas como dinero propiamente dicho.
+
+¿SON LAS STABLECOINS LA SOLUCIÓN A LOS PROBLEMAS DE LAS
+CRIPTOMONEDAS ACTUALES?
+Como destacaba Agustín Carstens, Director Gerente del BIS, a principios de 2018, en pleno derrumbe de la cotización del Bitcoin, “una tecnología
+novedosa no es lo mismo que una mejor o más eficiente tecnología” 33. Sin embargo, no hace falta ser muy tecno-optimista para reconocer que la evolución
+tecnológica es imparable, con lo que cabe esperar mejoras que permitirán
+afrontar algunos de los problemas señalados. Por ejemplo, ante el reto de la
+volatilidad de las criptomonedas, se están acentuando los esfuerzos para buscar
+soluciones. Una de estas posibles soluciones son monedas digitales estables, o
+también conocidas como stablecoins.
+Las stablecoins son monedas digitales construidas de tal forma que su
+volatilidad está limitada por diseño. Existen dos grupos diferenciados de
+monedas según las estrategias que emplean para reducir la volatilidad 34:
+– Por un lado están las stablecoins colaterizadas, cuyo mecanismo de
+estabilización de la volatilidad se basa en el principio del dinero fiduciario.
+En este tipo de monedas digitales su valor está referenciado a un colateral que
+puede ser una divisa tradicional como el Euro o el Dólar, otra moneda o cesta
+de monedas digitales u otros bienes materiales como el oro. En estos casos, la
+oferta de la moneda es inelástica o no depende del precio. Al igual que el
+dinero electrónico, este tipo de stablecoins equivale a un medio más eficiente
+para realizar transacciones y mover el dinero existente.
+Para implementar el mecanismo y desde un punto de vista contable,
+los emisores de stablecoins generan por el lado del pasivo los tokens que venden a los usuarios, otorgándoles unos derechos sobre los activos colaterizados
+(Euro, Dólar, oro u otros activos). Conviene resaltar que los emisores de stablecoins tienen que depositar los activos colaterizados en entidades financieras
+tradicionales, lo que facilitar la trazabilidad y supervisión de estos nuevos actores. La supervivencia de este tipo de monedas digitales radica en la confianza
+en que el custodio dispone de los activos que respaldan la emisión de
+tokens en todo momento. En este sentido, las stablecoins colaterizadas al 100
+33
+Agustín Carstens. Director General del Banco de Pagos de Basilea (2018), “Dinero en la era
+digital” https://www.bis.org/speeches/sp180206.pdf, febrero.
+34
+BBVA (2019) “¿Qué son las ‘stablecoins’ y para qué sirven?” https://www.bbva.com/es/que-sonlasstablecoins-y-para-que-sirven/.
+
+272
+
+
+
+por 100 pueden ser consideradas monedas digitales bajo la legislación europea,
+y por tanto sujetas a supervisión de las autoridades competentes 35.
+Las stablecoins colaterizadas son alrededor del 80 por 100 de todas las
+stablecoins. En esta categoría están Tether y TrueCoin, ambas respaldadas por
+el Dólar estadounidense y gestionadas por sendas empresas que ejercen de
+entidad central. Otro ejemplo de este tipo de divisas digitales es G-Coin, una
+plataforma de tokens que equivalen a un gramo de oro físico.
+– Existe, por otro lado, el grupo de stablecoins no colateralizadas. Esta
+tipología de activos está caracterizada porque su valor viene determinado por algoritmos matemáticos que controlan las fluctuaciones de precio, básicamente emitiendo más moneda digital cuando el precio sube y viceversa en caso contrario.
+Las stablecoins se encuentran en una fase muy incipiente en su desarrollo y todavía no se puede considerar que ofrezcan garantías suficientes para
+cumplir las tres funciones del dinero. En 2018 se habían identificado un total
+de 57 proyectos de stablecoins, de los que 23 están empezando a dar los primeros pasos 36. Las stablecoins son un claro ejemplo de un proceso de innovación dinámico que con seguridad continuará en los próximos años.
+
+MONEDAS DIGITALES EMITIDAS POR LOS BANCOS CENTRALES:
+¿SOLUCIÓN O PROBLEMA?
+Como se ha reiterado, hoy gran parte del dinero ya es digital, principalmente en el campo de los medios de pago y las transferencias entre particulares. Sin embargo, la posibilidad de crear una moneda puramente digital como
+alternativa al efectivo físico era algo hasta ahora imposible debido a la dificultad de replicar ciertos atributos, como son el anonimato y la transmisión sin
+necesidad de intermediarios. En principio, las monedas digitales podrían aportar interoperatibilidad con los nuevos entornos digitales, lo que permitiría realizar procesos más rápidos y ágiles con un servicio 24/7 de carácter global. Si a
+ello añadimos la preferencia menguante del público por el efectivo y los costes
+asociados a su manejo (que incluyen I+D, producción, prevención y persecución del fraude, almacenamiento, retirada de la circulación y destrucción), no
+debe sorprender que los monopolistas en la emisión de dinero legal hayan
+empezado a interesarse por el rol del Banco Central como posible emisor de
+moneda digital. Es importante notar que, al ser la autoridad monetaria un intermediario central, el papel de las tecnologías DLT en este contexto es menos
+relevante que en el caso de las criptomonedas privadas.
+35
+Autoridad Bancaria Europea (2019), “Report with advise for European Commission on crypto-assets” https://eba.europa.eu/documents/10180/2545547/EBA+Report+on+crypto+assets.pdf.
+36
+The Blockchain Blog (2018), Shining light on The State of Stablecoins. https://blog.blockchain.
+com/2018/09/26/the-state-of-stablecoins/.
+
+273
+
+
+
+FIGURA 5
+
+Uso de la tecnología de registro distribuido (DLT)
+
+Fuente: BBVA Research37.
+
+El37 primero en analizar este asunto fue el Banco de Inglaterra en 2016 38.
+Posteriormente, los Bancos Centrales de Canadá, Rusia, China, Suecia y el Banco
+Central Europeo, entre otros, han establecido grupos de trabajo para estudiar esta
+opción y, en algunos casos, para desarrollar proyectos piloto con diferentes alcances.
+La emisión de monedas digitales por parte de los Bancos Centrales que está
+siendo objeto de análisis actualmente admite diversas alternativas, que podemos
+agrupar en cuatro tipologías, en función de qué objetivo se pretende abordar 39:
+– Mejorar el funcionamiento de los pagos mayoristas. El desarrollo de una moneda digital bajo un esquema de uso restringido para facilitar
+únicamente los pagos mayoristas permitiría algunas ganancias de eficiencia, sin
+ser en absoluto disruptivo. La moneda digital sería identificada, es decir, no
+anónima, y utilizada sólo por bancos y otros participantes en sistema de pagos
+mayorista, pero no por el público en general. Utilizando la tecnología DLT, el
+Banco Central sería un nodo más de la red, pero con una función de árbitro,
+manteniendo el control sobre determinadas funciones clave de la red como es
+la admisión al sistema de pagos.
+La actual infraestructura de pagos mayoristas de los Bancos Centrales
+es segura y fiable, pero costosa. El papel del Banco Central como garante de
+las transacciones sería descentralizado, con ganancias potenciales de eficiencia
+en la medida que se reducirían las barreras de entrar en el sistema y se abriría
+
+37
+BBVA Research (2017), Monedas digitales emitidas por los bancos centrales: adopción y repercusiones, https://www.bbvaresearch.com/wp-content/uploads/2017/09/1705_WP_CBDC_mod.pdf
+38
+J. Barrdear y M. Kumhof (2016), “The macroeconomics of Central Bank issued digital currencies”, Bank of England Staff Working Paper, N.º 605.
+39
+S. Fernandez de Lis y O. Cerqueira (2019), Central Bank Digital currencies: features, options,
+pros and cons, mimeo.
+
+274
+
+
+
+a más participantes más allá de los bancos, lo que aumentaría la competencia
+y reduciría los costes.
+– Reemplazar al efectivo. Se trataría de desarrollar una moneda digital
+que fuera universal, es decir, utilizada por todos, y anónima. Este es un esquema
+radical, ya que podría sustituir al efectivo. ¿Qué se busca con esta alternativa? Primero, eliminar los costes de manejo del dinero físico ya mencionados. Segundo,
+ganar en eficiencia y rapidez en su distribución. Y tercero, mejorar la seguridad.
+El principal reto que plantea esta alternativa radica en el anonimato.
+Es cierto que el Banco Central podría distribuir dinero digital a los bancos, que
+podrían abonarlo a las cuentas nominativas de los clientes, pero estos a su vez
+podrían transferir saldos a sus monederos electrónicos, y a partir de aquí la
+circulación sería anónima.
+Una cosa es emitir billetes que, por su propia naturaleza, son anónimos,
+y otra muy diferente es que los Bancos Centrales emitan un medio de pago digital
+diseñado como anónimo que ofrece un canal para llevar a cabo actividades ilícitas con mayor facilidad y menor control. Es muy difícil que los mismos
+Bancos Centrales que requieren que los bancos comerciales implementen mecanismos para prevenir el lavado de dinero y la financiación del terrorismo, emitan
+al mismo tiempo los medios que podrían facilitar tales actividades. Se puede argumentar que este ya es el caso con dinero en efectivo. Pero el anonimato es intrínseco al efectivo, mientras que en el caso de las divisas emitidas por Bancos Centrales sería una decisión deliberada. Esta es la razón por la que la mayoría de los
+Bancos Centrales consideran que, en caso de que emitan este tipo de monedas
+con un alcance universal se realizaría en formato de depósito y no anónimo, lo
+cual deja margen para la supervivencia del efectivo y las criptomonedas privadas,
+cuyo atractivo sería precisamente el anonimato.
+– Mejorar la efectividad potencial de la política monetaria. Una
+evolución de la tipología anterior sería una moneda digital que pudiera ser empleada como herramienta de política monetaria. Se trataría de aumentar el margen de efectividad de las políticas monetarias de lucha contra la deflación, a
+través de la reducción irrestricta de los tipos de interés a terreno negativo, como
+ha propuesto Kenneth Rogoff 40, entre otros. Es una opción muy disruptiva en la
+medida en que implica la práctica desaparición del dinero metálico, salvo para
+billetes de baja denominación. Ello limitaría las oportunidades de arbitraje entre
+efectivo y dinero electrónico cuando este está remunerado a tasas negativas, y
+por añadidura permitiría una lucha más efectiva contra las actividades ilícitas,
+que tienden a emplear efectivo.
+Esta propuesta tiene profundas implicaciones. En primer lugar, esta
+opción probablemente requeriría la introducción de controles de capital, ya
+que con tasas de interés negativas sobre el efectivo doméstico, el público pro-
+
+40
+
+Kenneth Rogoff (2016), The Curse of Cash, Princeton, Princeton University Press.
+
+275
+
+
+
+bablemente tendería a recurrir a la moneda extranjera. Pero probablemente la
+crítica más profunda viene del carácter fiscal de los tipos de interés negativos.
+La pregunta clave es si un Banco Central independiente a cargo de mantener la
+estabilidad de precios tendría la legitimidad para gravar la tenencia de saldos
+monetarios sin la aprobación parlamentaria. Y los Bancos Centrales son hoy
+muy vulnerables a las críticas de legitimidad democrática, pues a sus funciones
+tradicionales al servicio de la estabilidad de precios han acumulado otras a lo
+largo de la pasada crisis (estabilidad financiera y supervisión macro y microprudencial). La rendición de cuentas es más difícil cuando tienen varios mandatos,
+lo que podría justificar políticamente la fijación de límites a la independencia
+del Banco Central.
+– Permitir al público abrir depósitos en el Banco Central. Finalmente, se podría considerar la opción de emitir una moneda digital que fuera
+universal pero no anónima. Su carácter nominativo haría que esta moneda fuera equivalente a un depósito en un Banco Central, lo que aumentaría su seguridad al tiempo que otorgaría un mayor poder de vigilancia a la hora de luchar
+contra actividades ilícitas y la evasión de impuestos.
+Quizás un aspecto que ofrece enormes posibilidades, particularmente
+en países emergentes, es la capacidad que tiene esta moneda digital en forma
+de depósitos en un Banco Central para luchar contra la exclusión financiera. Si todos los ciudadanos tuvieran acceso a dicha cuenta como un servicio
+público básico, se favorecería el acceso de toda la población a servicios financieros esenciales. Conseguirlo requiere una serie de condiciones que pasan por
+la mejora de la infraestructura de comunicaciones y la cobertura de Internet.
+La implementación de este tipo de moneda digital tendría enormes
+repercusiones en el sistema financiero actual. Por un lado, se reducirían
+los impactos de las crisis bancarias a las que dan lugar a las huidas de depósitos. Sin embargo, en la medida en que gran parte de los depósitos bancarios
+actuales se canalizaran a través del Banco Central o fuera del sistema financiero tradicional, ¿quién realizaría la función fundamental de captar depósitos
+para canalizarlos hacia inversiones rentables basadas en una prudente gestión
+del riesgo? Es preciso recordar que la función de transformación —esto es,
+toma de depósitos para la concesión de crédito fundada en una relación continuada y un conocimiento de la clientela- es el pilar básico del funcionamiento del sistema financiero, y que esta actividad permite otorgar financiación en
+condiciones eficientes, que equilibran rentabilidad y riesgo. En ausencia de
+una base sólida de depósitos, el funcionamiento de los bancos tal y como los
+conocemos ahora debería ser repensado. El crédito bancario, mucho más reducido que el actual al disminuir los depósitos bancarios, se encarecería al
+hacerlo los depósitos, pues estos habrían de competir con la seguridad que
+ofrece el Banco Central. Por otra parte, los rumores sobre el estado de un banco determinado podrían acelerar las crisis bancarias, pues los depositantes
+podrían transferir instantáneamente sus saldos al Banco Central con un simple
+clic en su dispositivo móvil.
+
+276
+
+
+
+Y ¿qué haría el Banco Central con los depósitos recibidos del público?
+A falta de capacidad y medios para sustituir a la relación de los bancos comerciales con la clientela, surgiría la tentación de dirigismo financiero, siempre ineficiente y vulnerable al clientelismo, y con ello un nuevo riesgo para la independencia del Banco Central, pues a ojos de los políticos se convertiría en una
+institución inmensamente poderosa.
+FIGURA 6
+
+Tipologías de monedas digitales emitidas por Bancos Centrales
+
+Fuente: BBVA Research.
+
+Para los Bancos Centrales, probablemente el principal dilema es si
+preservar o no el anonimato que es consustancial al efectivo. Es difícilmente asumible para un Banco Central emitir un instrumento opaco que pueda
+usarse para transacciones relacionadas con el crimen, sobre todo cuando la trazabilidad es posible desde un punto de vista técnico. Es por ello que actualmente la mayoría de los Bancos Centrales están poniendo el foco de sus estudios en
+dos áreas. Primera, la posibilidad de emitir monedas digitales para pagos mayoristas. Y segunda, la exploración en detalle de las implicaciones de emitir un
+depósito digital universal pero no anónimo, eventualmente distribuido a través
+del sistema bancario, y su impacto en la intermediación financiera actual.
+CONCLUSIÓN
+La adopción masiva de las tecnologías digitales originadas en la última
+década del siglo xx, como Internet y los teléfonos móviles inteligentes, junto
+con el crecimiento extraordinario de las capacidades de computación y de almacenamiento a un costo menor, así como otras tecnologías digitales exponenciales, están transformando radicalmente los patrones de las relaciones personales, sociales y económicas, y, en particular, la forma en que se crea y se
+transmite el valor económico. El dinero, soporte efectivo de la actividad económica y elemento central de nuestra vida diaria, está sometido hoy a un intenso
+proceso de disrupción digital, tras veinticinco siglos de hegemonía del efectivo.
+
+277
+
+
+
+El Bitcoin surgió hace una década. En los dos últimos años hemos pasado de la euforia irracional de finales de 2017 al desencanto actual tras perder
+casi un 80 por 100 de su valor desde el nivel máximo. Pero el Bitcoin, siendo la
+moneda digital más importante, no es la única. Durante los últimos años se han
+venido desarrollando diferentes alternativas desde el ámbito privado, como es
+el caso de las stablecoins, o desde el ámbito público, todavía en un territorio
+conceptual, como son las monedas digitales emitidas por Bancos Centrales.
+Este continuo proceso de innovación busca materializar las ventajas de
+la digitalización —rapidez, globalidad, descentralización, reducción de costes,
+seguridad, etcétera— al tiempo que se mitigan los principales inconvenientes
+de las criptomonedas. El dinamismo innovador y la huida acelerada del efectivo
+por parte del público permiten hacer un vaticinio: es seguro que no tendremos
+que aguardar trescientos años, como Europa hubo de esperar desde que Marco
+Polo nos acercase al conocimiento del papel moneda, para estabilizar los pilares de un sistema monetario digital, con funciones bien definidas para los Bancos Centrales, que les permitan concentrarse en sus tareas esenciales, así como
+para los bancos comerciales y para los emisores de criptomonedas y otras formas de dinero virtual.
+
+278
+
+

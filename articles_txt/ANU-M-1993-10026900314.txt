@@ -1,0 +1,2046 @@
+LA CRISIS MODERNA DEL PRINCIPIO DE REALIDAD
+
+por el Académico de Número
+Excmo. Sr. D. Jesús F ueyo Á lvarez*
+
+INTRODUCCIÓN
+Me han asaltado serias dudas sobre la pertinencia de introducir la palabra «crisis»
+en el título de esta disertación sobre la debilidad actual, y hasta el vacío, de los
+fundamentos del saber político, en cuanto que tal. La palabra «crisis» está, desde hace
+tiempo en todas partes y afecta a todo. Recuerdo que hace un par de años se montó
+en los cursos de verano de la Complutense, en El Escorial, una especie de «happening»
+que tenía por motivo central el tópico así enunciado: «crisis de todo». No quisiera
+mostrarme tan apocalíptico, siendo así, que no es posible desprender de la palabra
+«crisis» — cualquiera que sea su originario significado— , tal como la usamos a diario
+un cierto aroma crepuscular de «acabóse». Este es otro, a modo de tic espiritual de
+nuestro siglo en su ocaso: una cierta idea de que estamos al «fin de todo», comenzan­
+do por el «fin de la Historia» en el que todo se compendia. El increíble éxito mundial
+del libro de Francis Fukuyama, E lfin d e la H istoria y e l ú ltim o h om b re, tan ligero de
+peso intelectual, es sólo comparable al que obtuvo L a d eca d en c ia d e O cciden te d e gran
+pensador de la fenomenología. A mayor abundamiento había leído en Ortega y
+
+* Sesión del día 2 de febrero de 1993.
+Debido al fallecimiento del Sr. Fueyo Alvarez se publica un texto amplio recuperado de su ordenador,
+del cual el autor extrajo la comunicación a la Academia que se titulaba «La crisis del principio de realidad y
+el saber político».
+269
+
+
+
+Gasset una solemne advertencia sobre la importancia de esta denuncia, cuando en su
+conferencia pronunciada en Buenos Aires bajo el título A puntes d e l p en sam ien to, su
+teu rg ia y d em iu rg ia1 recordaba que ya en el año crítico de 1929, Husserl en su
+F órm ale u n d T ran szen d en tale Logik12, había diagnosticado nada menos que el grave
+hecho en estos términos: «La situación actual de las ciencias europeas obliga a
+reflexiones radicales. Acontece que, en definitiva, esas ciencias han perdido la gran
+fe en sí mismas, en su absoluta significación. El hombre moderno de hoy, no ve,
+como lo veía el “moderno” de la época de la Ilustración, en la ciencia y en la nueva
+cultura por ella plasmada, la auto-objetivación de la razón humana, esto es, la
+función universal que la humanidad se ha creado para hacerse posible una vida de
+verdad satisfactoria, un vida individual y social creada por la razón práctica. Esa gran
+fe, un tiempo sustitutivo de la fe religiosa, la fe en que la ciencia lleva a la verdad —
+a un conocimiento de sí mismo, del mundo, de Dios, efectivamente racional y a
+través de él, a una vida siempre capaz de ser mejorada, pero digna en verdad y desde
+luego de ser vivida— ha perdido incuestionablemente vigor en amplios círculos. Por
+ello se vive — escribe Husserl en 1929— en un mundo que se nos ha hecho
+incomprensible, en el que se preguntan las gentes en vano por su p a r a qu é, por su
+sentido antaño tan indubitable, tan plenamente reconocido por entendimiento y
+voluntad»3.
+La relación intrínseca entre la crisis de las ciencias — las físico-matemáticas y las
+del espíritu— y las crisis de la vida aflora lúcidamente en esta larga cita acogida por
+Ortega, pues resulta de ella, que las ciencias en la Modernidad han asumido, a modo
+de sustitutivo de la fe religiosa, la función sublime de llevar la vida humana en todos
+sus ámbitos a la plenitud y en esta función han fracasado sumiendo al hombre
+contemporáneo, desde fines del primer tercio de siglo al menos, en el desencanto de
+la ciencia y en una radical incomprensión del mundo, esto es una pérdida o grave
+obnubilación, al menos, de la realidad como todo. El que se trate de las «ciencias
+europeas» no hay que entenderlo como una simple precisión geográfica, difícil de
+entender en el siglo XX, por el alcance mundial del reino de las ciencias, sino dentro
+del peculiar entendimiento de Husserl de la génesis de la filosofía como base y
+culminación del saber científico riguroso, que es un fenómeno histórico que ha
+tenido su «advenimiento» en Grecia y de la que la vida europea se siente depositaría y
+ejecutora. Esta comprensión vocacional y casi mística de Europa por parte de Husserl,
+entraña delicados problemas hermenéuticos, de los que hago gracia, remitiéndome a
+una cita de Jacques Derrida que, justamente dedicó su primera obra de 1953-1954,
+recientemente reeditada, al problema de la génesis europea de la filosofía en Husserl:
+
+1 J. ORTEGA Y GASSET: «Apuntes sobre el pensamiento-, Revista d e O ccidente, Madrid, 1959.
+2 E. HUSSERL: D ieK risis d er eu ropüischen W issenchaften u n d d ie tran szen d en tale P hdnom enologie,
+Martinus Nijhoff, 1954; sobre esta edición se ha publicado recientemente una excelente traducción española
+de Jacobo Muñoz y Salvador Mas, Barcelona, Ed. Crítica, 1991.
+3 Cit. ORTEGA, ob. Cit., pág. 7.
+
+270
+
+
+
+«Nada riguroso cabe definir — explica Derrida— a partir de la facticidad geográfica,
+política o económica, etc., de la unidad eidética de Europa. Lo que es preciso para
+comprender Europa — para Husserl— es partir de la idea que ha nacido en Europa,
+de una significación pura y “a priori”. Esta idea de Europa, es la idea que ha nacido
+en Europa; es la idea de la filosofía que es, en su originalidad absoluta, nos dice
+Husserl, una idea europea. A decir verdad, Europa no es la cuna de la filosofía; es ella
+misma como significación espiritual, la que ha nacido de la filosofía»4. Tal es, pues, la
+esencialidad última de Europa, la «utopía de la razón» como ha podido llamarse, por
+un exégeta español, Javier San Martín que escribe agudamente al respecto: «Esta es la
+postura husserliana en 1992. Husserl está firmemente convencido de que Europa es
+un proyecto de racionalidad universal, una racionalidad que Husserl no niega a otros
+pueblos; sólo que en Europa los hombres han tomado conciencia refleja de su
+capacidad racional. Europa es un proyecto de configurarse desde la razón, desde
+una razón autónoma, es decir, desde una razón que aparece en el ejercicio racional
+libre de la colectividad»5.
+Se comprende desde la altura de esta Europa paradigmática y metafísica, que se
+hace Husserl todavía después de la primera catástrofe europea de la Primera Guerra
+Mundial, la hondura patética de su desencanto y la medida del fracaso de la Moderni­
+dad europea, medidas desde el contexto histórico ominoso de la Alemania de 1935 y
+de la situación europea en su conjunto en los preludios de lo que habría de ser poco
+menos que su definitivo derrumbamiento. Desde esta perspectiva es como habrá que
+valorar la encrucijada europea de Mastricht en su positividad y en su carencia.
+Pero, ¿cuál es la esencia de las crisis del moderno saber salvador de Europa, esto
+es, de las ciencias europeas configuradas por la «forma mentís» moderna, de la
+sabiduría científica europea, en cuanto que saber universal conforme al cual el
+hombre europeo debe realizar su destino? Pues este es el núcleo novísimo en el que
+hoy nos encontramos y que encierra la clave del nihilismo contemporáneo. «La fe en
+el ideal de la filosofía y del método que desde el comienzo de los tiempos modernos
+regía los movimientos perdió su consistencia»6 — explica Husserl— y esto no sólo por
+el contraste manifiesto entre el permanente fracaso de la metafísica y el éxito
+creciente en lo teórico y en lo práctico de las ciencias positivas, sino también por el
+sentimiento de fracaso que albergaban los propios filósofos por motivos que Husserl
+califica de profundos, pero también de «por entero oscuros», de modo que en
+definitiva la «filosofía se volvió un problema en sí misma» y ello arrastró, aunque no
+se percibiera a primera vista, el problema de las ciencias positivas, las de la naturale­
+za y también las del espíritu. El fenómeno estricto de descomposición del saber fue la
+reducción de la ciencia a un saber de hechos, con lo que, sentencia Husserl, se
+4 Jacques DERRlDA-.LeproblémedelagenésedanslaphilosophiedeHusser^Panspresses Universitaires
+de France, 1990, págs. 249-250.
+5 Javier SAN MARTÍN: Lafenomenología de Husserls como utopía de la razón, Barcelona, Anthropos,
+1987.
+6 HUSSERL, ob. cit., pág. 8.
+27 1
+
+
+
+produce la caída: «ciencias de meros hechos hacen hombres de meros hechos»
+(«Blosse Tatsachenwissenschaten machen blosse Tatsachenmenschen»)7. La renuncia
+a saber universal, por renuncia a saber respecto de las grandes cuestiones metafísi­
+cas, todo cuanto entraña el concepto positivista de la ciencia, supone la capitulación
+del ideal de la razón como guía del destino y de la plenitud del hombre. «Si el hombre
+se convierte en un problema “metafísico”, en un problema específicamente filosófi­
+co, es puesto en cuestión en cuanto ser racional y si se trata de su historia, lo que está
+en juego es el “sentido”, la razón en la historia. El problema de Dios entraña de modo
+manifiesto el problema de la razón “absoluta” como fuente teleológica de toda razón
+en el mundo, del “sentido” del mundo»8. Así pues, la reducción del saber humano a
+un inventario sistematizado y empírico de hechos, ha supuesto, cualquiera que sean
+los éxitos deslumbradores de las ciencias positivas y de la técnica, como su aplica­
+ción más fulgurante, nada menos que la p é r d id a d el sen tid o d e la r e a lid a d com o
+totalid ad . Y esta crisis de fundamentos, no la estima Husserl limitada a las ciencias
+físico-naturales, sino que acoge de lleno también, a pesar de sus esfuerzos por
+legitimar lo específico de sus métodos y las peculiares características de su propia
+objetividad, a las llamadas «ciencias del espíritu»: «Pero es evidente — precisa Husserl—
+que lo mismo vale también para otro grupo de ciencias que acostumbramos a situar
+entre las ciencias positivas, esto es, para las ciencias concretas del espíritu, indepen­
+dientemente de cómo se consideren sus debatidas relaciones con el ideal de exacti­
+tud de las ciencias naturales»9.
+De que éste — la pérdida del sentido de la realidad total como correlato específi­
+co de su tematización— ha sido el caso del saber político lo testimoniaba ya hace
+veinte años en su sutil ensayo bajo el título de L a d iv a g a ció n d e l p en sa m ien to p o lí­
+tico, René de Lacharriére quien tras subrayar en la genealogía de la ciencia política su
+larga dependencia de la teología — y «pour cause» que hubiera dicho Cari Schmitt—
+venía a señalar que dejaba al margen esta subaltemación, se había producido el
+curioso fenómeno de que el saber político tuviera que asumir los problemas trascen­
+dentales del significado de la muerte y de la salvación, lo que por cierto, apunto yo,
+era como un «desiderátum» de la filosofía de la ruptura de Feuerbach cuando decía a
+modo de consigna revolucionaria que «La política es nuestra religión»101con lo que desde
+la postura más extremadamente radical postulaba inconscientemente la religión
+secular de los totalitarismos más exagerados de nuestro siglo. Pero el resultado de
+esta sublimación trascendental de la política, según Lacarriére fue el hundimiento del
+saber político en la irracionalidad impulsado por una fuerza que evoca la de la
+desesperación11.
+7 Ib., pág. 4.
+8 Ib., pág. 7.
+9 Ib., pág. 2.
+10 -Die Politik muss unsere Religión werden», cit. M. G. Lange, introducción a F. FEUERBACH, K lein e
+p h ilosop h isch e S cbríften, Leipzig, Meiner, 1950, pág. 2.
+11 René DE LACHARRIÉRE: La d ivagation d e lap en séep olitiqu e, París, Presses Universitaires de France,
+1972, pág. 9272
+
+
+
+La recuperación del sentido de la totalidad consecuentemente la exigencia ideológica-lógica más ambiciosa del pensamiento de Marx y del marxismo. Por ello
+Georg Lukács que, pese a sus debilidades frente al totalitarismo stalinista, ha sido
+para mi siempre el teórico marxista más integrado en la tradición filosófica moderna,
+escribe en su obra capital: «Por la especialización del rendimiento del trabajo se
+pierde todo cuadro del conjunto. Y como a pesar de ello es imposible que se extinga
+la necesidad de una aprehensión, al menos gnoseológica, de todo, se producen la
+impresión y el reproche de que sea la ciencia misma, que trabaja del modo descrito,
+para la producción, o sea, quedándose también presa en la inmediatez, la que
+destruye y fragmenta la totalidad de la realidad, perdiéndose con su especialización
+la visión del todo... Esa consideración revelará (sin que sea un reproche por ello) que
+cuanto más desarrollada está una ciencia moderna, cuanto más plenamente ha
+conseguido claridad metódica acerca de sí misma, tanto más resueltamente tiene que
+apartarse de los problemas ontológicos de su esfera, tanto más firmemente tiene que
+eliminar esos problemas del campo de conceptualidad por ella elaborada. Y cuanto
+más desarrollada y más científica sea, tanto más se convertirá en un sistema formal­
+mente cerrado de leyes parciales y especiales, para el cual es metódica y principal­
+mente in a seq u ib le el mundo situado fuera de su propio campo, y con él, también y
+hasta en primer lugar, la materia propuesta para el conocimiento, su propio y
+concreto substrato de realidad»12. Palabras que evocan, con extraña afinidad, el pen­
+samiento de Husserl.
+
+LA DISLOCACIÓN DEL SENTIDO HISTÓRICO DE LA REALIDAD
+Que en el seno de una cultura, el sentido de la realidad que le sirve de base,
+pueda sufrir una conmoción estructural, es el más decisivo de sus acontecimientos
+históricos y marca, por lo general, el fin de una época bien característica, cuando no
+de la propia cultura como proceso histórico singularizado. Esto es posible porque la
+realidad con la que el hombre hace su vida y su historia, no es una mera acumulación
+de fenómenos y de sucesos, que pura y simplemente se dan como estando y siendo
+ahí, sino que la realidad vivida y a la vista es una composición de los que se da y
+acaece, articulada en una totalidad, entendida como «mundo». Ningún filósofo de
+nuestro siglo, que yo sepa, ha estudiado de modo más sistemático y profundo, el
+dinamismo histórico de la realidad y su resolución en la idea vivida de mundo, como
+Xavier Zubiri, en sus obras S obre la esen cia y, particularmente por lo que hace a
+nuestro interés en el día de hoy, en su E structura d in á m ica d e la rea lid a d . Justa­
+mente en esta última obra escribe: «El mundo es por consiguiente, un mundo por sí
+mismo dinámico. Lo cual significa que el mundo, la realidad en tanto que mundo, es
+
+12
+
+G. LUKÁCS: -Der Verdinglichung und das Bewusstsein des Proletariats», en Geschichte und
+
+Klassenbewusstsein (1923), Luchtherhand, Neuwied y Berlín, 1970, págs. 199-200.
+273
+
+
+
+constitutivamente histórica. El dinamismo histórico afecta a la realidad constituyén­
+dola en tanto que realidad. La historia no es simplemente un acontecimiento que le
+pasa a unas pobres realidades, com o les puede pasar la gravitación a las realidades
+materiales. No: es algo que afecta precisamente al carácter de realidad en cuanto tal.
+Y por esto, metafísicamente hablando, el dinamismo histórico es pura y simplemente
+el d in am ism o d e la m u n d ificació n 13.
+Mi hipótesis de trabajo es que, coincidiendo de modo vagamente aproximado
+con los límites temporales del siglo XX — con su com ienzo y su desenlace
+cronológicos— se ha producido un giro decisivo, que marca lo que podemos llamar
+la «desmundificación» de la imagen básica del mundo de la Modernidad, en casi
+todos sus planos y, en lo que a mi tema interesa, de modo singularmente intenso en
+la realidad objetiva que sirve de base a las ciencias políticas, hasta el punto de
+producir lo que llamaría una crisis d e fu n d a m en to s, que constituye la clave teórica
+del estilo del saber político contemporáneo.
+En cuanto que la política no es una superestructura de la realidad existencial,
+sino la trama del convivir que se hace por la historia y hace la historia, nos es preciso
+esquematizar al menos ese proceso de dislocación de la imagen del mundo moder­
+no, que podría remontarse, siguiendo a Heidegger, a la fase histórica estrictamente
+moderna en que el «mundo» pasa a ser «imagen»: «Los giros expresivos — escribe en
+1938— “imagen del mundo de la Edad Moderna” e “imagen moderna del mundo”,
+dicen por dos voces lo mismo y dan a entender algo que antes no pudo haber, es
+decir, una imagen del mundo medieval y otra imagen antigua del mundo. La imagen
+del mundo no pasa desde una anterior medieval a una otra moderna, sino que es,
+sobre todo, el hecho de que el mundo sea imagen. Lo que caracteriza la esencia de la
+Edad Moderna»14.
+Si esta descomposición de la imagen vivida de la realidad, ha llegado a penetrar a
+fondo en nuestros días en lo que el mismo Husserl proponía llamar la «ontología del
+mundo de la vida», sus primeros y graves estremecimientos, en el plano científico,
+comenzaron a comienzos del siglo en la ciencia paradigmática, la física-matemática
+clásica de Newton, con la conmoción provocada por la física «quántica» de Plank y
+poco después con la teoría de la relatividad de Einstein. Hay una página estremecedora
+de Romain Rolland, que describe el alcance del impacto de esta revolución científica
+sobre el hombre culto de principios de siglo: «Se trataba nada menos que del
+hundimiento catastrófico de la grandiosa fe del espíritu humano, que la gobernaba
+desde hacía dos mil años, el misticismo de la Razón... El esfuerzo de siglos y su genio
+se habían aplicado tenazmente a diseñar las mallas de la red de la razón y a arrojar el
+esparavel sobre las olas movedizas, sobre el devenir continuo de la humanidad. El
+espíritu se ufanaba en haber sometido a su dominio el mecanicismo de la Naturaleza.
+13 X. ZUBIRI: Estructura dinámica de la realidad, Madrid, Alianza Editorial, 1989, pág. 272.
+14 M.HEIDEGGER:-DieZeitdesWeltbildes»(1938),e n Holzwege, Frankfiirt, Klostermann,a.M.4 * ed.,
+1963, pág. 83.
+274
+
+
+
+Y he aquí que en el apogeo de esta Razón imperial, a la misma hora en que su poder,
+que durante tanto tiempo había permanecido siendo el privilegio de una élite,
+parecía extenderse a las multitudes... en esta hora sonora, su élite percibió las
+primeras sacudidas que iban a amenazar su presuntuosa certidumbre. Los goznes del
+siglo no había terminado de girar sobre el año 1900, cuando Max Plank quebrantaba
+el primer principio de la física, el concepto de continuidad. Cinco años después,
+Einstein sentaba las bases de la teoría de la Relatividad. El suelo temblaba, y su
+estremecimiento se trasmitía al espíritu. La filosofía se despertaba febrilmente de su
+pesado dogmatismo. Un mundo nuevo del pensamiento iba a surgir a la luz. Había
+sido provocado por un impulso místico; y explotó en una atmósfera de entusiasmo y
+de combate»15.
+La mentalidad «fin de siécle», que ahora en nuestros días cumple el siglo, inician­
+do un nuevo tránsito finisecular, se caracterizó en muchos aspectos por un estado de
+ánimo terminal. Si bien se mira Europa cerraba con el ocaso del siglo XIX, el largo
+período de bienestar y desarrollo apenas interrumpido por las guerras bismarckianas,
+que dieron lugar, a fines de la década de los sesenta y al comienzo de la siguiente, a
+la fundación de la era guillerminista del II Reich. George Steiner describe este clima
+que dio su definitiva impronta a la Modernidad liberal decimonónica, luego tan
+brutalmente arrasada en todos los planos, con estas palabras: «Nuestra experiencia
+del presente, los juicios tan frecuentemente negativos que hacemos sobre nuestro
+lugar en la historia contrastan contra el fondo de lo que deseo llamar el “mito del
+siglo XIX” o el “imaginado jardín de la cultura liberal”. Nuestra sensibilidad —
+precisa— sitúa ese jardín en Inglaterra y en la Europa occidental entre alrededor de la
+década de 1820 y el año 1915. La primera fecha es convencional y aproximada, pero
+el final de ese largo verano es apocalípticamente exacto. Los principales rasgos de
+ese paisaje son inconfundibles. Un alto grado de creciente alfabetización; el imperio
+de la ley, la difusión indudablemente imperfecta, pero activamente desarrollada de
+formas representativas de gobierno; resguardo de la vida privada en el hogar y una
+seguridad cada vez mayor en las calles, el reconocimiento espontáneo del singular
+papel económico y civilizador que tienen las artes, la ciencia y la técnica; la coexistencia
+pacífica de los Estados-naciones (com o en efecto se alcanzó, con esporádicas excep­
+ciones, desde la batalla de Waterloo hasta la del Somme), ocasionalmente fallida,
+pero continuamente perseguida, una interacción dinámica, humanamente regulada,
+entre movilidad social y líneas de fuerza estables, con un Derecho consuetudinario
+de la comunidad; una norma de dominación, aunque mitigada a veces por conven­
+cionales rebeliones entre una generación y otra, entre padres e hijos; el esclarecimiento
+de la vida sexual que correspondía, sin embargo, a un fuerte y sutil eje de represión.
+Podría continuar enumerando rasgos, pues la lista fácilmente puede extenderse y
+detallarse. Pero lo que quiero decir— concluye— es que todos esos rasgos contribuyen
+
+15
+R. ROLLAND, cit. R. M. ALBÉRÉS: L'aventure in tellectu elle du XXe siécle, Albin Michel, 1959,
+págs. 21-22.
+
+275
+
+
+
+a crear una estructura simbólica que, con la insistencia de una mitología activa ejerce
+presión sobre nuestros actuales sentimientos... Aún hoy están vivos muchos de
+aquellos hombres para quienes ese célebre verano de 1914 — escribía Steiner en
+1971— se extiende hacia atrás largamente para conformar un mundo más civilizado,
+más confiado, más humanamente articulado del que hemos conocido a partir de
+entonces. Y nosotros medimos nuestro actual frió teniendo en cuenta nuestros
+recuerdos de aquel gran verano y nuestro conocimiento simbólico de él»16.
+En el centro de ese oasis histórico de paz y desarrollo, sobre la base de una imagen
+de la realidad, en todos sus planos, vivida en común con firmeza, el «status» de las
+ciencias político-sociales, en cuanto a su temática, fundamentación y sistematización,
+pienso que aparece bien recogido y desplegado en la obra monumental de Robert
+Mohl sistematizada en tres gruesos volúmenes, bajo el título genérico de L a H istoria
+y L iteratu ra d e la s C ien cias d e l E stado, publicada en Erlangen en 185517. ¿Qué po­
+dríamos entender hoy por «ciencias del Estado» si es que llegábamos siquiera a admitir
+que el Estado constituye algo así como el centro temático del mundo de fenómenos y
+conceptos de la realidad política?
+Enteramente indicativo de este vasto panorama es el apartado que Mohl dedica a
+describir: «La actual situación de las Ciencias del Estado». Observa de entrada, que el
+saber político implantado en las distintas naciones, arroja un mosaico y no constituye
+ningún todo armónico, pero apunta: «Es sin embargo posible... intentar el esbozo
+también de una mirada de conjunto sobre la literatura científico-estatal, en la que
+habrán de distinguirse sólo las ramas de la ciencia, no empero las diferentes producciones
+nacionales, como la situación de cada disciplina, pero la suma de todas, nos permite
+el que aparezca el mundo habitual a la luz de escritos diferentes. Y aun cuando, no
+obstante, está ojeada sobre la actual situación, sólo pueda proyectarse en grandes
+rasgos generales, sirve, sin embargo, en su misma aglomeración, para una orientación
+única, en la que de una vez por todas, muestra la poderosa riqueza en escritos
+científico-estatales en todos los tiempos y lenguas, y ofrece cuando menos un concepto
+general de respetable posición, el cual la ciencia del Estado en su totalidad, quedara
+acogida bajo los productos de la actividad del espíritu humano y los medios de su
+enseñanza»18.
+En este pasaje pone Mohl claramente de manifiesto, la armonía de fondo de un
+mundo del saber político, que toma como centro al Estado y lo hace valer como
+inequívocamente científico. El gran intento de Mohl es alcanzar una representación
+omnicomprensiva de este saber por medio de exposiciones monográficas de sus
+distintas ramas. Es obligado comenzar según Mohl por la «Teoría filosófica del
+
+16 G. STEINER: En e l castillo d e B arb a A zul. A proxim aciones a un nu evo con cep to d e cu ltu ra (1971),
+trad. esp., Barcelona, Gedisa S.A., 1961, págs. 19-21.
+17 R. MOHL: D ieG eschichteun dLiteratu rderStaatsuH ssenschaften (lS 55)<3 vols. reimp., Verlagsanstalt,
+Graz, Akademische Drucku, 1960.
+18 MOHL, ob. cit., vol. I, págs. 40-41.
+276
+
+
+
+Estado» en la que entran indiferenciados, sin perjuicio de su propia relevancia
+científica elementos procedentes de la literatura de la Teoría general del Estado, de la
+concepción filosófica del Estado de Derecho e incluso de la Ciencia de la Sociedad.
+No cabe pensar en una conclusión de la Teoría filosófica del Estado «y ello deja,
+sobre todo, en la duda, de si alguna vez esta ciencia, puede alcanzar un punto de
+culminación, siendo así que previsiblemente, de tiempo en tiempo, surgen nuevas
+fases de civilización, nuevos fines de vida, los cuales crean otras exigencias para el
+Estado, que por su parte hacen necesaria una correspondiente fúndamentación y
+desarrollo, una nueva teoría filosófica del Estado. La filosofía del Estado y su Teoría
+serán también en el futuro consecuentes al proceso evolutivo del género humano,
+como lo han sido hasta ahora»19.
+Pero en todo esto se aprecia una seguridad, casi axiomática, en el Estado como
+categoría central y permanente de la realidad política. En tomo a esta categoría
+central, se articulan la «Moral del Estado» — ¡algo que parecía obvio y exigitivo
+todavía hace siglo y medio!, el «Derecho Internacional Público», el «Derecho positivo
+del Estado», la «Política»— que abarca las reglas sobre las distintas actividades del
+Estado, pero falta — dice Mohl— un tratamiento sistemático de la política — exterior
+e interior del Estado— como tal; la «Estadística» de la que se habla desde el siglo XVII
+para referirse a la varia y compleja «praxis» de Estado y finalmente la literatura
+histórica sobre el Estado. Así, todavía a mediados del siglo XIX, el panorama científico
+político estaba incuestionablemente asentado sobre la idea y la posición axiológica
+— en el doble sentido de eje y de valor supremo— del Estado.
+Hasta la Primera Guerra Mundial esta validez intangible del «mundo» que determina
+la imagen global de la civilización occidental, se mantiene intangible. Recapitulando
+el proceso político de la Modernidad, Winfried Martini comienza a mediados de los
+cincuenta, su «crítica de Occidente» con el reconocimiento del «esplendor de la
+Democracia», encontrando en el siglo XIX su verdadero lugar histórico «la fuente de
+la fuerza de la Democracia»: «No se puede hablar con utilidad de la democracia, sin
+elevar a reflexión su trasfondo histórico. Aunque su impulso se dé ya en el siglo
+XVIII, la fase de su realización va continuamente ligada al siglo XIX. Fue por él
+auténticamente realizada. Y de sus grandes éxitos, pero también del Estado de
+Derecho — esta grandiosa, la más noble y auténtica creación del liberalismo— ha
+traído su esplendor la democracia, el que hoy, sin duda, no puede ya desplegar, pero
+del cual vive todavía. La felicidad que aquella época difundiera, tanto en nuestra
+actualidad, que las representaciones que nos tiacem os de una época “normal” se
+orientan ampliamente hacia ella, aunque, sin embargo, el siglo XIX — tomado histó­
+ricamente— tenga que aparecer más bien como una excepción. La época anterior a
+1914 tiene en nuestras ideaciones el rango poco menos que de un paraíso»20. ¿Qué
+19 Ib., pág. 43.
+20 Winfried MARTINI: -Das Ende aller Sicherheit. Eine Kritik des Westens», Stuttgart, Deutsche Verlag,
+1954, pág. 9.
+277
+
+
+
+tremendas conmociones no habrían de haberse producido cuando menos en las
+vigencias espirituales y en la seguridad básica, para que apenas entrada en acción
+nuestra centuria, un teórico, ciertamente de la reacción, León Daudet, pudiera hablar
+impunemente del «estúpido siglo XEX»?
+El mundo de la seguridad burguesa cuya estructura política básica era la democra­
+cia liberal de sufragio restringido, al menos por la riqueza y el sexo, comenzó a mostrar
+sus grietas ominosas en las últimas décadas del propio siglo XIX. La idea de la Historia
+hasta entonces estaba dominada por una vivencia del tiempo, la visión del progreso,
+que era mucho más que una teoría, una convicción arraigada en lo más hondo de la
+conciencia popular. Sobre esta convicción, sobre esta «religio populi» del dios Progreso,
+las filosofías, incluso las que iban a situarse en las antípodas de su contextura intelectual
+— como, por ejemplo, la última metafísica de gran estilo de Hegel y la teoría positivista
+del saber de Comte, con su vocación de hacer de la ciencia el medio infalible de
+salvación— concibieron la ley del progreso indefinido, como eje incontrovertible de
+la Historia entendida, como dialéctica filosófica del acaecer. «Todo lo real es racional
+y todo lo racional es real» sentencia Hegel y despliega esta tesis en un optimismo
+histórico sistemático fundado sobre la idea universal de Razón: «La consideración de
+la historia universal ha dado y dará por resultado el saber que ha transcurrido
+racionalmente, que ha sido el curso racional y necesario del espíritu universal, el cual
+es la sustancia de la historia — espíritu uno, cuya naturaleza es una y siempre la misma,
+y que en la existencia del mundo explicita ésta su naturaleza en la historia universal.
+(El espíritu universal es el espíritu como tal). Este ha de ser, como queda dicho, el
+resultado de la historia misma»21. Hegel pronuncia estas palabras en 1830.
+Desde el polo opuesto de la perspectiva metafísica, tras haber eliminado nomi­
+nalmente en nombre de la positividad más rigurosa todos los elementos trascenden­
+tales de la reflexión, Augusto Comte, que tiene por lema de todo su pensamiento el
+de «Ordre et Progrés», desarrolla su «Systéme de philosophie positive» en seis volúmenes
+aparecidos todos ellos entre 1830 y 1842, y en el incluye una «Dynamique sociale, ou
+traité général du progrés humain» que subtitula, entre paréntesis, un tanto secunda­
+riamente y como si fuera ya una nomenclatura superada, la expresión «Philosophie
+de l'Historie». Es allí donde formula la famosa «ley de los tres estadios» de sobra
+conocida. Lo asombroso, es la profunda afinidad en el modo de pensar la Historia, de
+estas dos mentalidades de la misma perspectiva universal, pero de lógica tan contra­
+puesta de la verdad. A la cita de Hegel que acabamos de incorporar, puede muy bien
+confrontarse para poner de relieve su manifiesta afinidad, esta otra de Comte: «El
+verdadero espíritu histórico es, pues, naturalmente, universal. Recibe, de todas
+partes, los materiales provisionales, que sólo él puede convertir por doquier en
+concepciones definitivas. Su dominio propio no se limita incluso a cualquiera de las
+
+21
+pág. 30.
+278
+
+G. W. HEGEL: Die Vemunft in der Gescbichte (1830), 5.* ed., Hamburgo, Meiner Verlag, 1955,
+
+
+
+producciones de nuestra inteligencia. Forzando a representar el conjunto indivisible
+del movimiento humano, no debe desdeñar ningún elemento necesario de nuestra
+existencia. Es así que, la razón moderna, a pesar de su tendencia demasiado abstracta,
+ha sido llevada, al fin, a combinar con la especulación, no solamente la actividad,
+sino también la imaginación, e incluso el mismo sentimiento, a fin de hacer a sus
+concepciones suficientemente reales... Después de un tal servicio, la historia vendrá
+a ser pronto la c ien c ia sa g ra d a , conforme a su normal función, el estudio directo de
+los destinos del Gran-Ser cuya noción resume todas nuestras sanas teorías»22.
+Esta «divinización de la Historia» como realización del «Weltgeist» o del «GrandÉtre» marca el apogeo de la apoteosis del hombre y de la razón humana, así como la
+de la Historia, como realización y como realidad del mundo del hombre, en su
+sentido absoluto. ¿Cómo se produce y en muy pocos años la caída de este mundo
+que Karl Lowith ha llamado «cristiano-burgués» y con ella la dislocación de la realidad
+a la vista del hombre y su centro natural que es precisamente el orden político y su
+racionalidad?
+
+«FIN DE SIGLO». EL HORIZONTE DEL NIHILISMO
+Un proceso de dislocación de la realidad, tal como el que se produjo en el mundo
+europeo en el giro del siglo, esto es, en las tres décadas largas que van desde 1880 a
+1914, con el comienzo de la gran catástrofe, no es nunca un proceso meramente
+intelectual desplegado estrictamente por una dialéctica en las altas capas del pensa­
+miento, aunque se dé en éste, antes o después, su visión más profunda. El «mundo de
+la vida» — según la expresión de Husserl, es decir, la composición precientífica de lo
+real sobre la que discurre el fondo de convivencia de una cultura— tiene que
+percatarse del resquebrajamiento de la realidad y las formas estructurales de organi­
+zación de la convivencia — la religión como «praxis» de lo sagrado, la política, la
+economía— tienen que acusar las fallas que amenazan el edificio de la convivencia y
+finalmente, la desazón, la inquietud y hasta el sentido de lo trágico tienen que
+encontrar su expresión en las formas estéticas de sublimación y descomposición de
+la realidad, en el arte y en la literatura. Una panorámica cabal del «fin de siécle» está,
+por supuesto, fuera de los límites bien entendidos de esta disertación, pero pueden
+apuntarse «grosso modo» algunos rasgos característicos de este período que saltan a
+la vista, y sirven de contrapunto al propio «fin de siglo» que marca nuestro tiempo, sin
+que quepa descartar alguna a modo de continuidad profunda, entre las dos fases que
+pueden marcar el arranque y el desenlace de un mismo «continuum» histórico.
+Hay una frase de Emile Zola que resume en pura síntesis en el clima espiritual en
+el ocaso del siglo XIX: «Todas las circunstancias históricas y sociales parecen haberse
+
+22
+
+Citamos por el texto concensado por Christian CHERFILS del Systéme de Politiquepositive ou Traité
+
+de Sociologie d ’Auguste Comte/, Giard-Briére, París, 1912, pág. 288.
+279
+
+
+
+dado cita para llevar a un grado de exasperación la necesidad de este vuelo místico al
+final de un terrible siglo de búsqueda positivista». Hans Hinterháuser que la cita en su
+ensayo sobre los mitos y figuras en la literatura del fin de siglo23, subraya como pri­
+mera nota del confuso neoespiritualismo «fin de siécle», la revalorización de la figura
+humana de Cristo frente a la critica más despiadada de la Cristiandad contemporá­
+nea, lo que pueda que tenga su origen en la crítica religiosa de Kierkegaard. Esta
+actitud se refleja en la novela de Max Kretzer publicada en 1898 D ie B ergpredigt, en
+la que resucita, en el mundo contemporáneo, un Cristo injuriado y escarnecido y cita
+el siguiente pasaje. «No se dirigían al Gólgota, sino a ponerlo en manos de la policía.
+Sólo el reto continuaba siendo el mismo: ¡Si eres Hijo de Dios, ayúdate a ti mismo! ¡Esta
+era la cosecha de lo que se había sembrado hacía 1900 años! Y, a pesar de ello,
+decían que la humanidad se había vuelto mejor, más inteligente y con mayor sentido
+moral. En el último término, se apelaba a la cultura. ¡La cultura! ¿Acaso había hecho
+felices a los hombres?...»24.
+El milenarismo del Novecientos y la figura del retomo de Cristo, aunque más bien
+que como apoteosis como recurso crítico frente a la deshumanización, en todos los
+aspectos de la época, es estudiada por el citado Hinterháuser en la literatura de la
+época habida cuenta — según testimonia— de que figuras similares a Cristo, se
+encuentran a fines del siglo XEX y comienzos del XX en todas las literaturas europeas
+(desde la española a las escandinavas) y en todos los géneros literarios.
+Por lo que se refiere a la literatura española se refiere Hinterháuser «un extenso» a
+la novela de Galdós, N azarín , sobre la que debo indicaciones del mayor interés a la
+intensa dedicación galdosiana de nuestro compañero Carlos Ollero. Para el citado
+Hinterháuser, N azarín es «un trasunto parcial del Nazareno y al mismo tiempo el
+heraldo castellano de Tolstoi», y aunque Galdós rechazó irritado, el pretendido
+origen ruso del héroe, no admitiendo otra influencia que la de la mística española,
+Hinterháuser cree poder probar la influencia de Tolstoi, a través quizá de Emilia
+Pardo Bazán que publicó en 1887 un estudio sobre L a R ev olu ción y la n ov ela en
+R usia. Pero, sea de ello lo que fuera, la novela de Galdós — cuya primera edición es
+de 1885— según subraya su comentarista alemán— refleja la descomposición moral
+del fin de siglo, por la hostilidad de Nazarín frente a la cultura, su rechazo de los
+tribunales, de la técnica y de la fe en el progreso, de la guerra, de la política y por su
+indiferencia absoluta frente a toda clase de dogmas25.
+La pérdida de plenitud de la época, la idea de decadencia, se instala en los
+espíritus más influyentes en un «in crescendo» que se toma agudo hasta el máximo
+con el fin de siglo. Esta idea pesimista, en la que palpita el presentimiento del fin de
+
+23 H. HINTERHÁUSER: Fin de siécle. Gestalten und M ythen(l911), trad. esp., Barcelona, Taurus, 1980,
+pág. 17.
+24 HINTERHÁUSER, ob. cit., pág. 15.
+25 Ib., págs. 27 y ss.
+280
+
+
+
+una civilización, se difunde sobre todo en Francia — de donde la tomará Nietzsche—
+después de la «débácle» de Sedan, en 1870. A la génesis y a las transformaciones de
+un concepto tan impreciso de suyo, dedicó ya E. R. Curtius un estudio monográfico
+en 1921. Jacques Le Goff, el eminente historiólogo, de gran prestigio actualmente en
+Francia, ha estudiado el concepto de d ec a d en c ia desde sus orígenes latinos, en Tito
+Livio, en su historia de Roma, interpretando un pasaje en que la “decadencia» de las
+austeras virtudes romanas tradicionales va asociada a las ideas de «deslizamiento»,
+caída («lapsi») y finalmente ruina («praecipites»). Entre los siglos XV y XVIII toda una
+serie de términos — «declinatio», «inclinado-— traducen en el fondo la idea de d e c a ­
+d en cia , que finalmente adquiría categoría histórica en las magnas obras sobre la
+caída del Imperio Romano de Montesquieu y Gibbon. La observación más interesante
+y aguda de Le Goff es la de que, según él, el término «decadencia» jamás se ha
+opuesto directamente a «progreso» cuando el concepto ha emergido en la época del
+Iluminismo; «el concepto de decadencia se coloca, en efecto, en una lectura vertical
+de la historia mientras que el de progreso se sitúa en una lectura horizontal, orienta­
+da hacia adelante. Sin duda — añade— , el concepto de progreso lineal parece excluir
+el reclamo a la idea de decadencia, que parece salida del campo de la historia y
+Oswald Spengler, el más grande teórico de la decadencia, en “La decadencia de
+Occidente” (1918-1922), ha hecho del postulado de la no continuidad el principio de
+su concepción de la historia»26. Tras exponer que llama «ideologías modernas de la
+decadencia» de las que hace protagonistas con Spengler, a Toynbee y a Lukács,
+estima Le Goff que el «uso del término decadencia» se ha convertido en una trivialidad
+del lenguaje corriente y del vocabulario de los historiadores «y que, en rigor, el
+término pertenece» a la filosofía tradicional de la historia, a l «G eistesg esch ich tey es una
+razón suplementaria porque suscita la desconfianza de los historiadores»27.
+Pero la inconclusión de la temática de la «decadencia» como conciencia de la
+época de «fin de siécle» y del proceso espiritual de dislocación de la realidad se
+centra, en rigor, en el movimiento literario y estético del «modernismo» en sentido
+estricto. De todo el vasto proceso de autoconciencia de la crisis de la Modernidad, se
+despliega, tomada como vértice la obra de Baudelaire, cuya actualización contempo­
+ránea, excede con mucho el ámbito de lo estrictamente literario. Pues Baudelaire
+marca en todos los terrenos, la ruptura estética y vital con el mundo moderno, con
+todos los estilos peculiares de la cultura burguesa en su plenitud, y eso, en nombre
+de otra visión de la realidad, de algo — como dice expresamente que no se nos
+permitirá llamar «modernidad»— y que es toda una descomposición, un mundo de
+miserias y de ruinas, un mundo de «flores del mal», que quieren perfumar la senda de
+la disolución de las categorías espirituales y materiales del pomposamente llamado
+«mundo moderno».
+«Mundo moderno» y «modernidad», así como «modernismo» — tal como se usan
+26 Jacques LE GOFF: El orden de la memoria (1977), trad. esp., Barcelona, Paidós, pág. 89.
+27 Ob. cit., pág. 90.
+281
+
+
+
+hoy profusamente, estas expresiones— son categorías histérico-culturales al menos
+divergentes, como situadas en puntos dispares, de una continuidad histórica que
+comienza por la construcción barroca y subliminal de la realidad moderna y termina
+— justamente en Baudelaire— por la creación de un mundo, según una estética
+invertida, que denuncia en su gélida belleza, el desmoronamiento de la espiritualidad
+moderna y la visión casi existencial de lo que el propio Baudelaire llama la «vida
+moderna-. Ello entraña el alumbramiento de un nuevo modo de ver lo real, que es,
+justamente, «ce quelque chose qu'on nous permetra d'appeler la modemité»28, tesis que
+Baudelaire graba para el futuro, en su concepción modernista de la crítica de arte.
+Baudelaire escribe en el centro del siglo pasado, pero esta centralidad — como la de
+Nietzsche— que le califica de «libertino, místico, “satánico”, pero, por encima de
+todo, wagneriano»29, está intelectualmente descentrada porque en Baudelaire, se
+perfilan ya las formas nuevas de «décadence» y su mirada avizora las grandes líneas
+de desarrollo de la vida de la modernidad última, que es toda una teoría del ocaso del
+mundo moderno.
+Baudelaire apunta ya decididamente a la realidad funcional, pero caótica, del
+siglo de lo trágico, de nuestra estricta y angustiada contemporaneidad. De ahí su
+agobiante actualidad que Walter Benjamín — hoy cita de todas las ocasiones—
+destacaba ya en los años treinta, la voluntad de fínitud, el anhelo de fin que hay en el
+nihilismo potencial del hombre de la modernidad baudeleriana: «Las resistencias que
+lo moderno — dice Benjamín explicando la idea de la modernidad de Baudelaire—
+opone al natural impulso productivo del hombre están en una mala relación para con
+sus fuerzas. Es comprensible, si el hombre se va paralizando y huye hacia la muerte.
+Lo moderno tiene que estar en el signo del suicidio, sello de una voluntad heroica
+que no concede nada a la actitud que le es hostil. Este suicidio no es renuncia sino
+pasión heroica. Es la conquista de lo moderno en el ámbito de las pasiones»30. Esta
+exégesis de Baudelaire marca el bloqueo existencial del hombre moderno, del
+hombre de la modernidad crepuscular de Baudelaire, la concepción estética de una
+época sin salida. Esta «huida hacia la muerte», es casi ya heideggeriana, interpretada
+en un cierto sentido como culminación de la angustia y, en todo caso, está ya en
+pleno «pathos» nihilista de Nietzsche, para lo que basta citar la nota sobre el suicidio,
+que al pie de página del texto de Baudelaire recoge Benjamín, él mismo suicida: «No
+se condenará nunca lo bastante el cristianismo — dice Nietzsche— ... por haber
+desvalorizado... el valor de un gran movimiento nihilista p u rifica tiv o que estaba en
+marcha: siempre ha impedido la h a z a ñ a d el n ihilism o, el suicidio»31. Y otra aguda
+interpretación de la modernidad desencantada de Baudelaire Christine Buci-
+
+28 Ch. BAUDELAIRE: «Le peintre de la vie modeme* (1864), en Oeuvres, París, R. Laffont, pág. 797.
+29 En una carta a Peter Gast desde Niza del 26-2-1886 en F. NIETZSCHE: Werke, Munich, Hauser V., 1956,
+t. III, pág. 1280.
+30 W. BENJAMIN: «El país del Segundo Imperio en Baudelaire-, en Listraciones, trad. esp., Madrid, Taurus,
+1980, pág. 93.
+31 Ib., págs. 93-94, nota 1. La cita de NIETZSCHE corresponde a las Werke, cit., t. III, págs. 192-793.
+282
+
+
+
+Glucksmann refleja todo este «pathos» de desesperación y fracaso del espíritu
+baudeleriano cuando escribe en una obra relativamente reciente: «Es un efecto con
+Baudelaire — y después con Poe— cuando aparece con toda la riqueza de sus
+articulaciones estéticas y filosóficas, la noción misma de modernidad. Con él comien­
+za este “largo sufrimiento del ojo”, que evoca Hofmannsthal, y todos sus efectos: una
+nueva definición de la “belleza moderna” ligada a lo extraño, a lo horrible; una nueva
+conciencia de la temporalidad y del recuerdo; una nuevo estatuto del poeta
+desacralizado, sin aura cultural, entregado al fetichismo del mercado. Una tal revolu­
+ción cava peligrosamente el foso entre la literatura y la vida, suscitando para lo
+sucesivo esa “angustia de depauperación” (Freud) adecuada a la melancolía, al
+proceso alterado de “centralización, de vaporización del yo” baudeleriano»32.
+La crisis del principio de realidad que comienza a deslizarse en todos los ámbitos
+de la cultura desde mediados del pasado siglo explica el comentario que Henri
+Lefebvre, un teórico heterodoxo del comunismo, hacía hace treinta años a textos de
+Marx y de Baudelaire, en tom o al concepto de Modernidad. En uno de los primeros
+estudios juveniles de Marx, en la C rítica d e la filo s o fía d el E stado h eg elia n a , que es
+de los años 1840/41, se había sentado la afirmación de que la «abstracción del Estado»
+— lo que para Marx significa el Estado afirmado como realidad en sí— es sólo propia
+de los «tiempos modernos» y ello, porque la «vida privada» es también otra abstrac­
+ción que no pertenece más que a los mismos «tiempos modernos». («Die Abstraktion
+des Staats a is so lch en gehórt erst der modemen Zeit, weil die Abstraktion des
+Privatlebens erst der modernen Zeit gehórt. Die Abstraktion des p o litisch en S taats ist
+ein modemes Produkt»)33.
+El hecho, postulado por Marx, de que este tipo de abstracción del Estado como
+realidad en sí, erigida por encima de la sociedad, sea un producto moderno, es
+puesto en relación por el citado Lefebvre, con la teoría de la modernidad que
+Baudelaire esboza en L eP ein tre d e la v ie m o d em e, que se publicó en «Le Figaro», por
+primera vez, en los últimos días de noviembre y primeros de diciembre de 1863, es
+decir, veinte años largos después de las reflexiones críticas de Marx sobre la filosofía
+política hegeliana. No hay convergencia alguna de sentido en las dos visiones de lo
+moderno. «La confrontación entre los textos de Marx y de Baudelaire — escribe Henri
+Lefebvre— revela un vuelco de la perspectiva en una misma situación. Durante el
+período histórico que anuncia la crisis revolucionaria de 1848, Marx ha elaborado su
+doctrina y su proyecto fundamental Según él la “praxis” revolucionaria va a reducir
+las separaciones, la escisión, las múltiples dualidades que definen al mundo moder­
+no. Va a transformar el mundo creando otro mundo, resolviendo los conflictos
+internos de la vida social; y, ante todo, suprimirá la intolerable distancia entre lo
+privado y lo público, entre lo particular y lo general, entre la naturaleza y el hombre,
+32 ChristineBUCI-GLUCKSMANN: La raiso baroqu e. D e Baudelaire a B enjam ín, París, Ed. Galilée, 1984,
+págs. 76-77.
+33 K. MARX: «Kritik der Hegelschen Staatsphilosophie-, en Die Frühschriften, Kroner Stuttgart, 1953,
+pág. 50.
+
+283
+
+
+
+entre lo que pasa al nivel de lo cotidiano y lo que pasa a nivel de las instancias
+superiores y sublimes, el estado, la filosofía, el arte»3435.
+En los veinte años transcurridos hasta la aparición de la crítica estética de
+Baudelaire, se produce un giro en todas las formas de vida, pero sobre todo, un
+cambio profundo en el estado de ánimo, en la actitud espiritual ante la realidad y el
+mundo también «moderno», que Baudelaire descubre en otras facetas muy distintas y
+que, el mismo Lefebvre, explica en estos términos: «Baudelaire acepta deliberadamente
+aquello que Marx, apenas casi al mismo tiempo, critica y rechaza; Marx invoca
+constantemente a la naturaleza extraviada, perdida, quebrada por la escisión, por la
+cultura y el conocimiento, por el poder que el hombre deberá reencontrar tras
+haberla metamorfoseado a través de la dura prueba de la abstracción llevada hasta el
+extremo en la sociedad burguesa... La actitud estética de Baudelaire oculta una
+elección deliberada. Ha decidido repudiar la naturaleza, el naturalismo y la filosofía
+optimista del siglo XVIII, aquella que Marx recoge y prolonga. Baudelaire opta por la
+anti-naturaleza, es decir, por un arte de pura creación, que no imite nada dado ni
+exterior, y por consiguiente idéntico a lo puramente artificial... No solamente
+Baudelaire acepta el mundo burgués como mundo, sino que decide hacer de él
+materia de la obra de arte; la metamorfosea en poesía, no en absoluto por una
+oposición de lo concreto a lo abstracto, de la naturaleza a la antinaturaleza... De lo
+abstracto producido y puesto al día, Baudelaire hará un mundo, el mundo de la
+poesía y del arte... E lle est m on d ain e, d em i-m on d e, ou b ea u m on d e? 5.
+Esta depresión del espíritu, este desencanto de la realidad material y social del
+mundo de la burguesía y de la gran ciudad, que Baudelaire transforma por un
+poderoso juego estético, en ocasión de un recreamiento lúdico, en superación por
+una teoría artificiosa de lo bello que permite una fuga permanente de la angustia de
+la realidad, este verdadero opio de la minoría que construye Baudelaire, ha dado
+paso a la idea del «arte por el arte», marca evidentemente el gran desencanto del
+mundo burgués de cara al desenlace del siglo XIX, la crisis radical de la utopía
+burguesa del progreso y de la ordenación racional del mundo y de la sociedad. Por
+eso Baudelaire anticipa el despliegue de la poesía y del arte hacia una estética de lo
+irreal, hacia una teoría de la belleza no mimética de la realidad y de las estructuras
+reales de la sociedad. Marx, por el contrario, abre el camino al intento revolucionario
+de transformar radicalmente esa sociedad. Así los dos anticipan el despliegue histórico
+del siglo XX, de nuestra época terminal. El uno, Marx, por la vía de la revolución; el
+otro, Baudelaire, por la innovación estética, por la superación estética de la realidad
+— lo que anuncia ya el «surrealismo»— la gran aportación artística de las vanguardias,
+el verdadero y estricto espíritu creador de nuestro siglo. Baudelaire ha visto incoado
+en Goya, el siglo de Picasso, sobre el fondo de un universo nihilista en permanente
+convulsión revolucionaria.
+34 H. LEFEBVRE: Introduction a la Modemité, París, Les Editions de Minuit, 1962, pág. 173.
+35 Ib.
+284
+
+
+
+IA REBELIÓN EXPRESIONISTA CONTRA LA REALIDAD
+En las décadas que constituyen el tránsito entre el siglo XIX y el XX y hasta la gran
+conmoción del verano de 1914, que inaugura con el estallido de la I Guerra Mundial
+la tragedia bélico-revolucionaria de nuestro siglo, se han producido en casi todos los
+planos los procesos de ruptura con el mundo moderno y la erosión profunda del
+principio de realidad que lo configuraba: la racionalidad como clave del «logos»
+moderno y la idea progreso como sentido del movimiento histórico. Aun cuando el
+eje metafísico de esta enorme mutación del espíritu se articuló en la compresión y
+protesta respecto al mundo cristiano-burgués (Lowith) a través del proceso de
+subversión espiritual que jalonan Marx, Nietzsche y Freud, que preparan como
+desenlace del siglo XEX la carga de profundidad que ha de hacer saltar en nuestro
+siglo, a través de revoluciones y guerras, la realidad, tal como ha sido vivida como
+principio o fundamento por el siglo XIX, la expresión directa e inmediata de la
+novísima actitud iconoclasta se hará patente como protesta contra esa realidad y su
+imagen, en primer lugar en el plano estético, en la pintura y en la literatura, sobre
+todo.
+Es claro que en esta materia, ni pretendo pronunciarme ni tengo la menor
+autoridad para ello. Pero el intento de comprender la crisis en toda su profundidad y
+en sus más evidentes manifestaciones, me ha llevado en los últimos años a prestar
+atención con interés creciente a estos ámbitos de manifestación del espíritu, que por
+su propia naturaleza son más expresivos aunque sólo sean vagamente conceptualizados y sólo de modo indirecto tienen una incidencia política. Por lo demás esta
+época de «status nascendi» de la crisis de dislocación que se aloja en el ámbito
+cronológico entre el siglo XIX y el XX y que tendrá sus centros de irradiación sobre
+todo en París, en V iena y en Berlín, m arca tam bién el nacim iento y la
+institucionalización sociológica del «mundo intelectual» y la paulatina «politización»
+de la inteligencia, así como de la progresiva ideologización de la política.
+Ya en 1912, uno de los grandes precursores del arte moderno, Vladimir Kandinsky,
+había formulado la polarización radical entre la «gran abstracción» y el «gran realismo»
+como destino polémico de la estética de nuestro siglo. Recordemos también, a este
+propósito, la significación histórico-crítica del arte moderno, en qué sentido nuestro
+Ortega y Gasset hablaba, ya en 1925, de «deshumanización» a propósito de lo que él
+todavía llamaba, como se llamaba a la sazón, «arte nuevo». Su clave interpretativa
+estaba y intencionalmente orientada hacia la actitud de este arte respecto a la
+realidad: «Lejos de ir el pintor más o menos torpemente hacia la realidad, se ve que ha
+ido contra ella. Se ha propuesto denodadamente deformarla, romper su aspecto
+humano, de humanizarla... Nos deja encerrados en un universo abstruso, nos fuerza
+a tratar con objetos con los que no cabe tratar humanamente. Tenemos, pues, que
+improvisar otra forma de trato por completo distinto del usual vivir de las cosas;
+hemos de crear e inventar actos inéditos que sean adecuados a aquellas figuras
+insólitas. Esta nueva vida, esta vida inventada previa anulación de la espontánea, es
+285
+
+
+
+precisamente la compresión y el goce artísticos»36. Ortega precisa la intencionalidad
+metafísica del arte novísimo: «De donde la nueva inspiración, en apariencia tan
+extravagante, vuelve a tocar, cuando menos en un punto, el camino real del arte.
+Porque este camino se llama “voluntad de estilo”: Ahora bien: estilizar es deformar lo
+real, desrealizar. Estilización implica deshumanización. Y viceversa. No hay otra
+manera de deshumanizar que estilizar»37 Ortega llega a hablar de «asco a la realidad»
+en la nueva estética y de que en el arte nuevo actúa un «extraño sentimiento de
+iconoclastia», pero sin adoptar ante la estética de vanguardia una actitud ni mucho
+menos crítica, Ortega no deja de advertir la función significativa de ese cambio de
+actitud ante la vida: «Si el hombre modifica su actitud radical ante la vida comenzará
+por manifestar el nuevo temperamento en la creación artística y en sus emanaciones
+ideológicas»3839. Que se trata de algo así como una rebelión frontal contra lo que se
+llamaba por los días del idealismo el «espíritu del tiempo», de algo sumamente
+inquietante que Ortega deja ya en el curso convulso de la meditación de entreguerras
+en alarmante «suspense», lo sentencian estas palabras del ensayo citado: «Pero ¿es
+que, entonces, bajo la máscara del amor al arte puro se esconde hartazgo del arte,
+odio al arte? ¿Cómo sería posible? Odio al arte no puede surgir sino donde germina
+también odio a la ciencia, odio al Estado, odio en suma, a la cultura toda. ¿Es que
+fermenta en los pechos europeos un inconcebible rencor contra su propia esencia
+histórica, algo así como el “odium prefessionis” que acomete al monje, tras largos
+años de claustro, adversión a su disciplina, a la regla misma que ha informado su
+vida?» Como es sabido este de la «acedía», es uno de los motivos de reflexión de
+Kierkegaard, uno de los máximos críticos de la racionalidad hegeliana.
+La crítica estética de las corrientes de vanguardia, se va centrando paulatinamente
+en la dislocación de la realidad como ya puso de manifiesto con motivo temático,
+Hans Sedlmayr en su obra que ha llegado a ser un clásico de la crítica del arte
+moderno, P érd id a d el C entro («Verlust der Mitte»), en la que bajo la clave de un
+pensamiento de Pascal: «Dejar el centro significa abandonar la humanidad», pasa
+revista al arte plástico de los siglos XIX y XX «como síntoma y símbolo de la época».
+Su tesis central es que el síndrome que a través de varios síntomas característicos —
+purismo, polarización, inclinación a lo inorgánico, despegue de lo terreno, atracción
+por lo bajo, devaluación de lo humano y superación de la distinción entre lo «alto» y
+lo «bajo»— revelador de la condición axiológica del arte moderno ha perdido el
+«centro», el «arte» — en todos los sentidos de la palabra— se ha hecho excéntrico. «El
+hombre — explicaba— quiere ir más allá del arte, el cual trae su condición de un
+“centro” que está entre el espíritu y los sentidos. El arte tiende a ir más allá del arte, en
+tanto y en cuanto tiende a ser un superarte, cae con frecuencia en lo subhumano. El
+36 J. ORTEGA Y GASSET: -La deshumanización del arte- (1925), en Obras Completas, Madrid, Revista de
+Occidente, 1962, t. III, pág. 365.
+37 Ib., pág. 368.
+38 Ib., pág. 378.
+39 Ib., pág. 380-381.
+286
+
+
+
+arte va más allá del hombre, de lo humano y de la norma». Para Sedlmayr todos estos
+síntomas son ex p resión sim b ó lica de análogas tendencias del hombre en cuanto que
+tal. No sólo en el arte quiere el hombre ir más allá del «centro» más allá del hombre y
+— concluía— precisamente esta tendencia que caracteriza a los fenómenos del arte
+moderno, es más agudamente iluminadora y transparente, que cualquier otro hecho40.
+En la primera década de nuestro siglo las formas de expresión estética son ya,
+claramente, el signo de una protesta generalizada contra la «imagen del mundo» de la
+racionalidad en su versión positivista, que se proyectaba sobre el mundo del pensa­
+miento, de la política, de la economía y del sentimiento de la normalidad y la
+seguridad burguesas, que en una situación manifestante prerrevolucionaria se tomaban
+como una llamada al fatalismo y a la resignación. Quizá el movimiento artístico
+comprensivo de esta rebelión y más agudo en su intencionalidad metafísica, haya
+sido el expresion ism o, una actitud estética muy imprecisa en su rigor estilístico, pero
+sumamente plástica y violenta en sus manifestaciones artísticas, y que se llegó a
+extender entre la primera década del siglo y la inmediata postguerra a todas las artes,
+desde la pintura a la poesía, y desde la música al teatro y a la nueva versión de la
+imagen en movimiento que fue el cinematógrafo. La importancia que se confiere a
+esta corriente — que no fue nunca un movimiento organizado ni institucionalizado
+en forma alguna— alcanza hasta el punto de que algunos consideran la actitud
+«expresionista» una nota estilística común a todas las vanguardias y en todo caso que
+se extiende a todas las formas de creación artística. «Según la definición célebre de
+Gustave Moreau, el arte es desde ahora para nosotros “la expresión del sentimiento
+interior”. Es decir, que es “romántico” y, en el sentido más amplio del término, que le
+viene del expresionismo»41. Pero es bastante equívoco, aunque se haga entre comillas,
+calificar al expresionismo de algo así como un neo-romanticismo, cuando una de sus
+características más acusadas en todos los géneros es la exacerbación de los aspectos
+más violentos, sórdidos y crueles de la vivencia humana de la realidad en la sociedad
+burguesa. En su gran obra sobre el expresionismo — que tuvo su centro originario en
+la literatura y en el arte, en Alemania— Jean Michel Palmier, el expresionismo tiene
+su centro en la pintura, extendiéndose a todas las demás artes, y se caracteriza por
+hacer de la realidad el simple pretexto para la exteriorización del yo, por la abstrac­
+ción, la violencia de los colores y de la iluminación, la negación de la realidad, el
+despliegue de las visiones oníricas y apocalípticas, la ruptura con las formas clásicas
+y el anhelo de expresar la interioridad y su desgarramiento42.
+
+40 Hans SEDLMAYR; Verlust derMitte, Die bilbende Kunst des 19 . und 20.Jahrhunderts ais Sympton
+und Symbol der Zeit, Berlín, Ullstein, 1956, págs. 118-119.
+41 JeamOMINUS: Réflexkmssurl’artactuel, París, Desclée de Brouwer, 1964, pág. 9. También ORTEGA
+Y GASSET parece ser de la misma idea omnicomprensiva del expresionismo, cuando escribe: «No otra cosa
+es el equívoco cubismo que una manera particular dentro del expresionismo contemporáneo- (Sobre elpunto
+de vista en las artes— 1932— , en O. C., cit., t. IV, pág. 455).
+42 J. M. PALMIER: L'Expressionisme comme révolte, París, Payot, 1983, 1.1, pág. 118.
+287
+
+
+
+La llamada negación de la realidad, entendida no al modo solipsista de Stimer,
+sino como protesta contra la irrealidad o el falseamiento convencional, que encubren
+la vigencia de todas las manifestaciones de poder y explican todas las formas de
+alienación contemporáneas, lleva al expresionismo desde su campo estética al cen­
+tro del debate filosófico sobre la realidad que se abre, con toda su gravedad, con la
+crisis del positivismo y el vacío metafísico en el pensamiento de comienzos de siglo.
+La tangencia entre la estética expresionista y la fenomenología como nuevo método
+de aprehender la realidad en sus esencias, ha sido puesta de manifiesto por Ferdinand
+Fellmann en su documento y agudo ensayo F en om en olog ía y E xpresion ism o4,5. El de­
+bate sobre la realidad se plantea según Fellmann, en la Alemania guillermista de
+preguerra, en estos términos: «Si se quiere determinar el concepto de realidad que
+está aquí en cuestión en un nivel más general, entonces uno se ve obligado a realizar
+un análisis de la situación espiritual de la época. La necesidad de la intensificación
+del concepto de realidad resulta de la experiencia epocal de la alienación que está
+ligada al desarrollo social y económico del Imperio Alemán a comienzos del siglo
+XX. En vista de una realidad que se sentía como vacía y predispuesta a la crisis y que
+estaba definida por la calculabilidad de las ciencias naturales, surgió la nostalgia de
+una relación auténtica con el mundo en la que el “hombre entero” debería volver a
+tenerse en cuenta. El giro “realidad verdadera” reflexiona sobre el sueño de un
+mundo creado por el hombre y su alienación, en el que el sujeto pueda reencontrarse
+intacto. En la intensificación del concepto de realidad forman una alianza muy
+peculiar el “sentido de la realidad” del siglo XEX y el “espíritu de la utopía” del siglo
+XX. De este modo la “realidad” se convierte en un concepto vital que expresa las
+esperanzas y los temores de la generación de preguerra en Alemania»4
+344.
+Recordando este clima, muchos años más tarde, Gotftried Benn — el gran poeta
+lírico del expresionismo alemán— mide la gravedad de la crisis espiritual hablando
+de la realidad como concepto «demoníaco» de Europa: «La rea lid a d , esta presunta
+realidad... Ya no la había... Realidad. El concepto demoníaco de Europa: felices sólo
+aquellas épocas y generaciones en las que había una (realidad) indubitable..., cuan
+fundamental conmoción ahora desde 1900 con la demolición de la realidad de las
+ciencias naturales, de la realidad hecha “realmente” desde hace cuatrocientos años.
+Sus más antiguos restos se disolvieron y lo que quedó fueron relaciones y funcio­
+nes...»45. Y en 1919, Karl Pinthus en un titulado D iscurso p a r a e lfu tu ro declara: «Pues
+la realidad no es lo que así llamáis. Todo pensador duda aún de la “realitas” de la
+realidad...»46.
+El estudioso citado, Ferdinand Fellmann, es convincente en su intento de estable­
+cer una relación entre la fenomenología y el expresionismo que tiene como centro la
+determinación esencial de la realidad. Para ello explica como el «impulso expresionista
+43
+44
+45
+46
+288
+
+F. FELLMANN: Fenomenología y Expresionismo 11982), trad. esp., Barcelona, Alfa, 1984.
+F. FELLMANN, ob. cit., pág. 30.
+Cit. F. FELLMANN, pág. 34.
+
+Ib.
+
+
+
+hacia la realidad, sea en forma de la transformación de lo dado o de la contemplación
+visionaria de configuración completamente nuevas, va parejo con la absolutización
+del yo creador»47. Este impulso se pone en relación con la búsqueda expresionista de
+la auténtica realidad tal como se esboza en el «Discurso» cita de Pinthus cuando dice
+que: «El arte no es huida de la realidad, sino huida hacia la realidad del espíritu», una
+toma de posición que según Fellmann transciende del ámbito de lo estético y alcanza
+a lo ético e incluso a lo político. El mismo Pinthus en el prólogo a su obre E l crep ú s­
+cu lo d e la h u m a n id a d , que aparece en 1919, cuando en medio del derrumbamiento
+las visiones apocalípticas del expresionismo parece gravitar sobre la vida, define el
+clímax de la situación límite a que se ha llegado: «La verdadera lucha contra la
+realidad — dice— había comenzado con aquellos terribles desbordamientos que
+debían aniquilar al mundo y al mismo tiempo crear un nuevo mundo a partir del
+hombre»48. Con ello anticipaba el poeta impresionista el argumento y la tragedia de
+nuestro siglo XX: la inseguridad trágica de una época arrastrada al destino de
+aniquilar y construir, una y otra vez, su imagen del mundo, lo que es lo mismo, la
+dislocación reiterada existencial y metafísica del concepto de realidad. En este
+aspecto, el Expresionismo perdió la confianza ingenua en la realidad de lo dado que
+le era propia al realismo del siglo XIX. Pero la grandeza del Expresionismo consiste
+en que no se da por satisfecho con la pérdida de confianza. Protesta contra la
+irrevocable y cree en la posibilidad de los absolutamente nuevo que limite el mundo
+dado. Aquí se encuentra el motivo genuinamente teológico del Expresionismo — que
+Fellmann pone en relación con la «teología dialéctica» de Karl Barth— que ha
+encontrado su expresión concisa en la forma de pensamiento de la «realización
+desrealizadora»49.
+La conexión con la fenomenología de Husserl, la encuentra en el «pathos» religioso
+que el propio Husserl ve su desarrollo filosófico, en la conversión juvenil del
+judaismo al protestantismo, que es una encrucijada en la búsqueda de Dios y el
+sentido de la vida sobre la base de la filosofía como una ciencia rigurosa. Porque
+también para Husserl la des-realización del mundo es la vía exclusiva de ganar un
+mundo absoluto: perder primeramente el mundo por la reducción eidética, para
+recuperarlo después como autoreflexión universal, vendrá Husserl a concluir en las
+M ed itacion es cartesian as. En esto sel descubre una clara afinidad con la estética
+expresionista y su manipulación dialéctica — destructiva y constructiva— de la reali­
+dad para el arte.
+En relación con la tangencia y hasta la interpenetración en que se movieron en su
+día la fenomenología y el expresionismo; Fellmann estudia la relación con Husserl
+de la obra literaria de Musil, el autor de E l h o m b re sin p ro p ied a d es (1930), en cuyos
+«Diarios» se encuentra testimonio de su detenido estudio de las In v estig acion es lóg i­
+47 Ib., pág. 42.
+48 Ib., pág. 44.
+49 Ib., pág. 45.
+
+289
+
+
+
+c a s de Husserl buscó de superar literariamente el psicologismo positivista de Emst
+Mach a través de la fenomenología; Musil cuya formación expresionista subyace a su
+gran novela, ha sido llamado «el épico destructor de la realidad»50. Pero el instinto
+crítico de Musil iba mucho más allá del expresionismo. En una valiosa recopilación
+de ensayos y artículos de Robert Musil, hace muy poco traducida al castellano, en un
+pequeño ensayo de 1922 titulado L a E u rop a d esa m p a ra d a o u n v ia je p o r la s ram as,
+digno de atenta lectura en estos días de la perspectiva Maastricht se dice que por
+razón del trasfondo histórico «el expresionismo no llegó a ser mucho más que una
+payasada; sobre un terreno que seguía siendo fundamentalmente impresionista, no
+podía llevar más lejos» y en el mismo año señala en otro breve artículo sobre el teatro
+añade que «desde luego, ahora ya no hay manera de pronunciar la palabra “espíritu”
+sin pensar en el expresionismo que la ha echado a perder». Su visión del momento y
+de su horizonte es terriblemente pesimista y sin embargo, por desgracia, singular­
+mente actual: «Hoy habilidosas fuerzas del terreno del “common sense” han puesto
+manos a la obra de desvalorizar la guerra por inútil e irracional, y ciertamente esos
+son argumentos de peso en una época orientada la utilidad y la razón; pero, creo,
+que ese género de pacifistas subestiman el momento de estallido anímico que forma
+parte de toda guerra de este segundo tipo, la evidente necesidad humana de desga­
+rrar la existencia de tiempo en tiempo y voltearla por los aires, por ver donde va a
+parar. Esta necesidad de una “quiebra metafísica”, si se me permite la expresión, se
+va amontonando en tiempos de paz como un residuo de insatisfacción...» — y añade,
+lo que, de no conocerlo, no dejará de llamar la atención de Gonzalo Fernández de la
+Mora— que se trata «del periódico derrumbamiento de todas las ideologías» que se
+encuentran «en todo momento en una relación distorsionada con la vida, que se libra
+de ellas en crisis cíclicas como los moluscos en crecimiento de sus caparazones,
+vueltos ya demasiado estrechos»51.
+Fellm ann llega a considerar, en un apartado esp ecífico, «la reducción
+fenomenológica como forma expresionista de pensar» y parte de la afirmación de que
+«el concepto expresionista de la realidad y la forma de pensamiento que lo fundamenta
+fueron recogidos en toda su envergadura desde los primeros comienzos en Hugo
+von Hosmannsthal hasta su disolución de Robert Musil y se ha mostrado que la
+superación dialéctica de la experiencia vital de la irrealidad en la época del cambio
+de siglo, que se expresó en la necesidad de intensificación de la realidad, le dio a la
+fisonomía espiritual del movimiento expresionista sus rasgos inconfundibles» de
+modo que este trasfondo permite a Husserl, ya en el primer tomo de las Id ea s i 1913),
+transformar la «pérdida de realidad experimentada en renuncia metódica, para con­
+templar al ente como hasta ahora no ha sido percibido, esto es, en su absolutidad» de
+modo que «lo que se presenta bajo el nombre de escuela de reducción o “epoché”
+com o una teoría puramente filosófica, com o operación especial del método
+50 Ib., pág. 48.
+51 Robert MUSIL: -La Europa desamparada o Un viaje por las ramas» (1922), en Ensayos y conferencias,
+trad. esp., Madrid, Visor, 1992, pág. 221.
+290
+
+
+
+fenomenológico de tipo altamente artificial (por no decir “artístico”)... es al mismo
+tiempo un trozo de la filosofía vivida que debe su fuerza de convicción a una forma
+epocal de pensamiento»52.
+¿Cuál ha sido el devenir de la «quiebra metafísica», por emplear la plástica
+expresión de Musil, desde esa preguerra alucinada por la crisis profunda del espíritu
+europeo cuya expresión es el sentido último del expresionismo y cuyo intento de
+recuperación de la realidad como principio es la gran hazaña filosófica de Husserl?
+La crisis vital de la sociedad europea en el tránsito a nuestro siglo, está en el
+pórtico y, en cierto modo, constituye la obertura del argumento trágico de la centuria,
+de la dialéctica terrible de guerra-revolución-guerra-caos, sobre cuyos goznes se
+desliza el destino de Europa, hasta ahora mismo en el ocaso del siglo, con la
+encrucijada que, después del hundimiento del Imperio eslavo-comunista, se dibuja
+entre las incógnitas aún sin despejar de Maastrich y Sarajevo. Sería un empeño de
+gran calado intentar perfilar las conexiones de la actual «constelación» según el
+concepto-imagen de Alfred Weber; descubrir, en medio del caos del suceder catas­
+trófico, en la frustración de ideologías y revoluciones, tras la enorme dificultad de
+plantear siquiera la arquitectura básica de un orden mundial, el desplome ideológico
+y el vacío en la crisis histórica del Estado-Nación, justamente, en esta ambigüedad y
+obnubilación de la realidad como principio, esta inseguridad metafísica que vincula
+la inestabilidad de las estructuras colectivas de vida y la angustia existencial de la
+vida individual que caracterizan a nuestra época. Naturalmente no es tarea para este
+contexto y podrá ser esbozada en otra ocasión y hasta intentar en su día culminarla
+de poder, llegar a fondo en la comprensión de la propia época como tarea, la más
+elevada del hombre reflexivo que viene a ser aquel instalarse en la propia circunstancia
+histórica que Zubiri recababa como exigencia de la inteligencia de la vida.
+Pero de momento es ya más que suficiente intentar precisar, perfilar en el plano
+meramente teórico, a través de la recapitulación del devenir filosófico del siglo, lo
+que haya sido y sea esa «quiebra metafísica» de que hablara Robert Musil y de precisar
+hasta donde sea posible en qué consiste su paradójica esencia nihilista, pues no
+puede haber mayor paradoja que la que la irrealidad forme parte también, en último
+término, de la realidad vivida y pensada por el hombre.
+En primer lugar pienso que, en el plano del discurso filosófico, forman parte de
+este clima y, en cierta manera constituyen la culminación corroborante de esta
+pérdida de la realidad, la encrucijada metafísica en que coinciden y divergen de
+Husserl y la analítica existencial de Heidegger. Tras los dos titánicos esfuerzos está la
+angustia de la realidad perdida y, consecuentemente Heidegger hará de la angustia
+una clave del existir del hombre contemporáneo. Desde Sein u n d Z eit la filosofía
+contemporánea acusa un movimiento general de repliegue hacia la existencia, que
+es la expresión más significativa y aguda de una pérdida del sentido de la totalidad.
+52 F. FELLMANN, ob. cit., pág. 52.
+
+291
+
+
+
+Solamente la filosofía de nuestro Zubiri, aun sumergida de lleno en esta aporía de la
+contemporaneidad, es un intento esforzado de recuperar la realidad como instancia
+filosófica rectora. La divergencia entre Heidegger y Zubiri, que acaba de testimoniar
+Carmen Castro en su reciente biografía de su esposo, el filósofo español, documenta
+esta divergencia, incluso personal, desde la frustración de la postulada ontología
+fundamental del Heidegger de Sein u n d Zeit, que después de la famosa K ehre, des­
+emboca, ya en el Heidegger de la postguerra, en una visión casi mística de la historia
+del ser y de su revelación que culmina la nueva ética de la G elassen h eit— de la se­
+renidad y el abandono— que en último término predica una nueva ascética y un
+apartamiento del mundo contemporáneo tras haber meditado a fondo — a través de
+su N ietzsche (1961), la fenomenología del mundo contemporáneo como nihilismo—
+a través de la técnica — y de la metafísica como culminación del nihilismo— . La
+filosofía de Zubiri se orienta a través de su exhaustiva indagación sobre la esencia a
+una determinación metafísica del concepto de realidad, lo que es un principio de luz
+sobre la realidad misma. En un prólogo, titulado D os etap as, a la traducción inglesa
+de N atu raleza H istoria D ios que redacta Zubiri en 1980, al que yo no he tenido
+acceso, pero que cita Carmen Conde, se ventila la cuestión de la divergencia con
+Heidegger con toda precisión y poniendo de manifiesto su enorme alcance: «Porque
+— se pregunta Zubiri— ¿es lo mismo metafísica y ontología? Ya, dentro de la
+fenomenología, Heidegger atisbo la diferencia entre las cosas y el ser. Con lo cual la
+metafísica quedaba para él fundada en la ontología. Mis reflexiones siguieron una vía
+opuesta: el ser se funda en la realidad. La metafísica es el fundamento de la ontología.
+Lo que la metafísica estudia no es la objetividad ni el ser, sino la realidad en cuanto
+tal. Desde 1944 mi reflexión constituye una etapa rigurosa metafísica»53. Quizá en esta
+distinción, sutil y profunda, entre ser y realidad, tras de la actualización plena de la
+metafísica de Zubiri y de la «superación» o mejor el «rebasamiento» («Verwindung») de
+la metafísica por Heidegger, se encierre la clave incógnita del estilo de pensar del
+hombre contemporáneo y con ella por muchas graves razones — el destino mismo
+de la cesura metafísica de épocas en las que estamos sumergidos.
+La evolución de la «quiebra» — para volver a la expresión catastrófica de Musil— ,
+fue extrañamente similar en la segunda posguerra mundial que en la primera.
+Reconozco aquí que en mi interés que puede parecer extravagante por el
+expresionismo alemán, me vino de una aguda observación de Hannah Arendt — que
+no sé dónde he leído— de que la postguerra francesa tras la Segunda Guerra Mundial
+a lo que más se parecía era a la posguerra alemana de la primera. Y consecuentemen­
+te, el existencialismo de Sartre, que pasa por el primer Heidegger, a la filosofía
+latente, pero apremiante del expresionismo. En su primera gran obra filosófica L'étre
+et le n éa n t (19A$), subtitulada significativamente E ssai d 'on tolog iap h én om én olog iqu e
+
+53
+Carmen CASTRO DE ZUBIRI: Biografía de Xavier Zubiri, Málaga, Ediciones Edinford, S. A., 1992,
+págs. 87-88.
+292
+
+
+
+(1943), es ya un ensayo de metafísica de la nada: La antesala de «la recherche de
+l'étre» es precisamente «le probléme de le néant». El punto de arranque de la «ontología
+de la nada» sartriana, de la nueva teoría fenomenológica de la irrealidad, se trasluce
+en este texto: «Nos hemos percatado al llegar a ese punto de que no se puede
+concebir la Nada fu e r a del ser, ni como noción complementaria y abstracta, ni como
+medio infinito en el que el ser estaría en suspensión. Es preciso que la Nada esté
+dada en el corazón del Ser, para que podamos aprehender ese tipo singular de
+realidades que hemos llamado Negatividades ( “Negatités”). Pero esta Nada intrahumana, no podría producirla el “Ser-en-sí”: la noción de Ser como plena positividad
+no contiene la Nada como una de sus estructuras. Se puede decir incluso que aquélla
+es en sí exclusiva; carece de cualquier relación con ésta. De ahí la cuestión que se
+nos plantea con una urgencia singular: si la Nada no puede ser concebida ni fuera del
+Ser ni a partir del Ser y si, de otro lado, siendo no-ser, ella puede extraer de sí la
+fuerza necesaria para “anonadarse” (“se néantiser”), ¿de d ó n d e v ien e la N ada?-54.
+La respuesta de Sartre a esta cuestión decisiva es, para mí la clave de la pérdida
+irremisible del principio de realidad, el reconocimiento, quizá petulante, de la acción
+«des-realizadora» del hombre contemporáneo: «El Ser por el que la Nada llega al
+mundo es un ser que en su Ser, lleva el cuestionarse la Nada de su Ser: el ser por el
+que la Nada llega al mundo debe ser su propia Nada... Alcanzamos así — concluye
+Sartre tras una muy sutilizada argumentación, enunciando su tesis fundamental— a
+que el hombre es el ser por el que la nada viene al mundo» lo que, de inmediato
+entraña la pregunta de «¿debe ser el hombre, en su ser, para que la nada venga al
+ser?»55.
+De modo general y como tendencia fundamental puede resumirse, a mi parecer,
+la línea de evolución del pensamiento filosófico contemporáneo en el sentido de un
+proceso constante y creciente de destrucción metafísica, de liquidación de la pers­
+pectiva ontológica. El positivismo lógico, el estructuralismo, la filosofía del lenguaje,
+las derivaciones más radicales de la hermenéutica y finalmente la epistemología de la
+llamada «desconstrucción» en Foucault y, sobre todo, en Jacques Derrida han llevado
+a su último extremo el intento de construir un saber del hombre y de la vida al
+margen de cualquier visión sistemática de totalidad, deliberada renuncia a un principio
+de realidad, como centro de arranque de toda comprensión y visión del mundo. Esto
+es lo que se proclama p o sm o d em id a d y se define incluso como una «apología del
+nihilismo». Bajo esta rúbrica una corriente muy difundida en la filosofía italiana, al
+frente de la cual figura la obra importante de Gianni Vattimo que ha alcanzado una
+gran difusión en los últimos años, pregona como lógica de la época novísima una
+teoría denominada del «pensamiento débil» cuyo sentido no es otro que la renuncia o
+pretendida superación de la metafísica.
+En su obra E l fin d e la M od ern id ad (1985), Vattimo define su posición en estos
+54 J. P. SASTRE: L'Étre et le Néant. Essai d'ontologiephénoménologique, París, Gallimard, 1943, pág. 58.
+55 Ib., pág. 6l.
+
+
+
+términos: «El acceso a las “chances” positivas que para la esencia misma del hombre,
+se encuentran en las condiciones de la existencia posmodema, sólo es posible si se
+toman seriamente los resultados de la “destrucción de la ontología” llevada a cabo
+por Heidegger y, primero, por Nietzsche. Mientras el hombre y el ser sean pensados
+metafísicamente, platónicamente, según estructuras estables que imponen al pensa­
+miento y a la existencia la tarea de “fundarse”, de establecerse (con la lógica, con la
+ética) en el dominio de lo que no evoluciona y que se reflejan en una mitificación de
+las estructuras fuertes en todo campo de la experiencia, al pensamiento no le será
+posible vivir de manera positiva esa verdadera y propia edad posmetafísica que es la
+posmodemidad»56. A esta conclusión programática se llega habiendo aceptado como
+premisa el que ya «Nietzsche habló un poco oscuramente de todo esto en su teoría de
+un posible nihilismo positivo y activo; Heidegger aludió a lo mismo con su idea de
+una “Verwindung” de la metafísica que no es una superación crítica en el sentido
+“moderno” del término. En ambos autores, lo que puede ayudar al pensamiento a
+colocarse de manera constructiva en la condición posmodema tiene que ver con lo
+que en otro lugar propuse llamar el debilitamiento del ser»57.
+Para mi gusto, la obra reciente que con más profundidad ha descrito este
+panorama desolado y que con más dramática perspicacia ha descrito el nuevo giro
+copemicano de esta mentalidad llamada postmetafísica, es el libro notable, por
+muchos conceptos, de George Steiner, traducido recientemente al castellano y que
+lleva por título el de P resen cias reales. Resulta extremadamente difíil hacer una sín­
+tesis del vasto repertorio de ideas y del campo temático literario-filosófico con que
+trabaja Steiner, pero su conclusión es bien categórica y permite una clara enuncia­
+ción. Para Steiner la cuestión decisiva resulta de que hasta «la crisis de significado que
+se inició a finales del siglo XEX, incluso el escepticismo más severo, la más subversiva
+de las antirretóricas estaban comprometidos con el lenguaje... En mi opinión, ese
+contrato se rompió por primera vez, en cualquier sentido minucioso y consecuente,
+en la conciencia especulativa y la cultura centroeuropea y rusa entre las décadas de
+1870 y 1930. «Esta ruptura — subraya— de la alianza entre la palabra y el mundo
+constituye una de las pocas revoluciones del espíritu verdaderamente genuinas en la
+historia de Occidente y define la propia modernidad»58. Y explica en qué consiste esa
+revolución, en concordancia con cuanto venimos exponiendo distinguiendo dos
+fases «ex ante» y «ex post», esencialmente diferenciadas: «La primera, resumida en
+pocas palabras, se extendió desde los principios de la historia y del enunciado
+proposicional registrado (en los presocráticos) hasta el siglo XIX, es la del “Logos”, la
+del decir del ser. La segunda es la que viene después. Los modos operativos y las
+configuraciones capitales de nuestra situación moral, filosófica o psicológica, nuestra
+estética, las interacciones formadoras, entre conciencia y preconciencia, las relacio­
+
+56 G. VATTIMO: Elfin de la Modernidad, trad. esp., Barcelona, Gedisa, 1986, pág. 19.
+57 Ib.
+58 George STEINER: Presencias reales, trad. esp., Barcelona, Ediciones Destino, 1991, pág. 118.
+294
+
+
+
+nes entre, por un lado, las economías de la necesidad y el deseo y, por otro, las del
+imperativo social deben entenderse ahora como existentes “después de la Palabra”
+(“After the Word”). De esta posteridad, consigna vulgarizada de la “muerte de Dios”
+es una articulación original, pero sólo parcial»59. Y precisa el alcance de la conmoción
+diciendo que: «Desde el principio, mi pregunta es: ¿cuál es la categoría y el significa­
+do, de la forma comunicativa, en la era de la “postpalabra” (“after word”). Defino esta
+era como la del “epí-logo” (de nuevo, el término alberga el “Logos”). Planteo la
+pregunta — añade— plenamente consciente de que los “epílogos” son también
+prefacios y nuevos principios»6061.
+De este modo somos conscientes de la entidad novísima de la era en que hemos
+entrado desde hace tiempo — los momentos de ruptura son distintos en los diferen­
+tes ámbitos— y en rigor el sentido histórico del siglo XX, entendido con amplia
+licencia en cuanto a los límites cronológicos, es todo un proceso de arranque y
+penetración en ese mundo — tenemos que decirlo así porque no disponemos toda­
+vía de otra palabra— que ha cruzado con mucho las fronteras del «Logos», que ha
+roto la estática de la realidad y que manipula el acontecer derogando, por principio,
+toda permanencia y que busca un nuevo comprender funcional y vital, de cuanto
+está en tom o y acaece, según una fluidez incalculable en orden a sus consistencias y
+ritmos. Es el mundo del nihilismo activo que no responde tanto a la imagen del vacío
+de la nada como a la movilidad caótica, pero también fulgurante y cargada de
+fascinación, de un entrar y salir de los fenómenos en el horizonte de la percepción,
+que puede hablarse de un mundo en que el ser se «des-realiza» sin dar tiempo a
+componer una «imagen de la realidad». En una importante y reciente obra sobre el
+nihilismo — proceso que hoy tiene sobre sí una literatura abrumadora— el filósofo
+italiano Emanuele Severino pone en estrecha relación la idiosincrasia espiritual
+constitutiva de Europa y el desenlace histórico universal que el nihilismo viene a ser,
+con estas palabras: «El nihilismo en su esencia propia es la estructura de Occidénte» y
+se explica: «La estructura de Occidente — la infraestructura in term ed ia— es la vo­
+luntad de que las cosas sean tiem po. Cuando el lenguaje consigue dar cuenta del
+verdadero sentido de la estructura originaria de la necesidad, del sentido propio de la
+infraestructura más extrema, aparece entonces la voluntad de que las cosas sean
+tiempo (y, por tanto, historia, devenir), necesariamente como voluntad de que las
+cosas n o son n a d a , o sea, de que el n o-ser n a d a n o es n a d a . Esta voluntad es el n i­
+h ilism o^ . La voluntad resuelta de que las cosas sean tiempo, es la que destruye la
+consistencia de la realidad. Este impulso es profundamente inconsciente, pero en
+esta dominación de lo inconsciente del hacer y deshacer lo real, radica para Severino
+la estructura metafísica de Occidente: «Lo inconsciente es tan profundo que, al
+contrario de la interpretación dada en Occidente de su evolución histórica, el tiempo
+no es ficción o invención, sino lo que el pensar griego una vez, y para siempre, ha
+59 Ib.
+60 Ib., pág. 119.
+61 Enmanuele SEVERINO: Esencia del nihilismo { 1982), trad. esp., Madrid, Tauros, 1991, págs. 13-14.
+
+295
+
+
+
+pensado y que hoy, sin réplica posible, domina toda la tierra como técnica. Y cuanto
+mayor es su carácter de incontestado, menos investigado queda en su sentido
+propio. Cuanto menos investigado está, con más razón se cree tener noticia del
+sentido de la identidad del Ser y el Tiempo en el pensar griego (como sucede en el
+caso de Heidegger). Los habitantes del tiempo son las formas de civilización, las
+instituciones sociales, los individuos, las masas y los pueblos que poco a poco fueron
+sometidos bajo esta estructura. Europa, ante todo»62. Pues Europa, es para Severino,
+ante todo — colocándose en las antípodas de Husserl y en todos los sentidos— , la
+renuncia a un saber unitario a cambio de un saber de dominación de la realidad, el
+saber de la técnica. «Para dominar — señala— hay que renunciar a una visión unitaria
+del mundo. Pero si el mundo se deja dominar precisamente en cuanto se rompe en
+muchos, infinitos mundos controlados por cada una de las especializaciones científi­
+cas, ese tener que vérselas con muchos mundos, es sin embargo la consecuencia
+inevitable del sentido esencialmente unitario que el mundo posee en el interior de la
+postura científico-tecnológica y de la civilización a que da lugar. Este significado
+comunitario es justamente la disponibilidad de cada cosa para la producción y la
+destrucción ilimitada. Y la esencia de la Europa actual consiste en la apertura de este
+significado unitario. Una esencia que ahora avanza mucho más allá de los confines
+geográficos de Europa y domina Europa y domina el mundo»63. Y concluye al res­
+pecto: «La esencia de la civilización y de la cultura europea tradicional encuentra en
+la civilización de la técnica su más cumplida y rigurosa realización. El viejo mundo
+europeo logra ser el mismo sólo en el nuevo mundo europeo que lo destruye. El
+nuevo mundo es así el triunfo del viejo. Europa es este único mundo que deviene él
+mismo»64.
+
+PRINCIPIO DE REALIDAD Y ORDEN POLÍTICO
+A primera vista las reflexiones que preceden sobre el principio de realidad y su
+devaluación en el desenlace de la Modernidad, se encuentran muy distantes de
+cualquier preocupación teorética fundamental sobre el orden político. Esta impre­
+sión es, sin embargo, en buena parte al menos, producto del haber dejado de pensar
+filosóficamente la política, de la positivación ya consumada del orden político.
+Todavía hace treinta años, un estudioso alemán, Wilhelm Hennis postulaba el retor­
+no, en el análisis de la política, a su enmarcamiento en la «filosofía práctica», confor­
+me al modelo aristotélico. Recordaba Hennis que Rudolf Smend, en su discusión en
+su gran obra V etfassung u n d V erfassungsrecht, con las teorías de la política de Max
+Weber, Meinecke y la Escuela de Viena que el presupuesto extracientífico más
+importante de estas teorías era «su escepticismo ético inequívocamente predominan­
+62 Ib, pág. 14.
+63 Ib., pág. 20.
+64 Ib., pág. 21.
+296
+
+
+
+te», considerando que todas esas teorías no eran en el fondo «políticas» en el sentido
+de la «marginación del Estado de la intencionalidad práctica», lo que para Smend,
+según intentaba probar, era un «error fundamental» también en cuanto a la
+■fundamentación gnoseológica» respecto a toda comprensión de la política. La posi­
+ción de Smend mereció una crítica resuelta de Kelsen, quien apreciaba una elemen­
+tal contradicción entre la exigencia de una actitud ética del Estado y el conocimiento
+científico del mismo, lo que era producto de que Smend, al servirse de la ciencia
+como medio de determinación del comportamiento humano, seguía siendo un
+«teólogo de Estado». Smend, como es sabido, era efectivamente, teólogo65.
+Esta discusión célebre muestra la polarización de sentido que había alcanzado, el
+saber jurídico-político ya a finales de la época de los veinte, cuando las grandes
+catástrofes del totalitarismo y la Segunda Guerra Mundial iniciaban su gestación. No
+cabe duda de que es posible y hasta no deja de tener validez científica, una
+fo rm a liz a ció n de la realidad política, que margine metódicamente toda intencionalidad
+ética de la política — aún sin entrar en el fondo de la «praxis» de una separación
+radical de la moral de la política, iniciada ya por Maquiavelo— , pero esa visión
+teórica, puede permitir la construcción sistemática de la respectividad de los fenómenos
+políticos, tomando como centro el poder, y esa formalización adquirir su plenitud
+reduciendo el Estado a un orden estrictamente jurídico-legal, pero tal delimitación
+cierra el paso, no sólo a todo juicio de valor en la línea de la conocida tesis de Max
+Weber, sino que, reducida al absurdo, puede dar acogida en el seno de la legalidad a
+las mayores monstruosidades, como el genocidio de los campos de concentración o
+los crímenes de guerra. En último término, el formalismo jurídico de Kelsen como
+antes la neutralización ética del saber sociológico de Weber, responden a la necesidad
+de eludir el dogmatismo ideológico, que ya en este período de giro profundo de la
+transición del mundo moderno, saturaba el ambiente, perturbando seriamente un
+mínimum de objetividad científica.
+Pero es lo cierto, que si comprendemos que la política como realidad tematizada,
+es un campo de pensamiento y de acción constitutivamente polémico, que tiende a
+alcanzar un equilibrio de orden relativo, según una síntesis funcional de autoridad y
+de libertad, se infiere de ello, entonces, que la política es siempre más que política,
+en el sentido que Simmel decía — en expresión muchas veces citada— que la vida es
+siempre más que vida, con la que apuntaba al inmanente horizonte transcendental
+de la vida. Quiere decirse que estos conceptos que acabamos de poner en juego
+— autoridad-libertad-orden— que constituyen la dialéctica misma de la realidad
+política en su conflictivo proceso dinámico, sin duda pueden y, hasta es más, tienen
+que ser positivizados y formalizados jurídicamente para la vida pública cotidiana,
+pero no es posible aprehenderlos en su esencialidad, más que llegando a la entidad
+misma del hombre, según una idea metafísica de la antropología, la cual a su vez
+
+65 W. HENNIS: Politik undprkatische Philosophie, Luchterhand Neuwied y Berlín, 1853, págs. 35 y ss.
+297
+
+
+
+remite a la posición del hombre en la vida, la historia y el cosmos. La comprensión
+esencial de la política y de su orden remite, por esto, siempre a una teoría de la
+realidad metafísicamente entendida.
+A estos efectos, cabe repetir que la concepción filosófica de la realidad de Xavier
+Zubiri es, a mi parecer, en su determinación última, como estructura dinámica de la
+realidad, la elaboración filosófica más esclarecedora para sentar la base filosófica de
+una política metafísicamente tomada. Y esto es aún más apropiado, por cuanto que
+Zubiri ha llegado a desarrollar su pensamiento metafísico precisamente respecto a la
+dinámica de la convivencia, en concreto, la idea filosófica de la sociedad y de la
+historia, lo que nos ofrece una plataforma sugestiva para la aproximación a la
+política. Para Zubiri la dimensión específica de la sociedad humana, genéricamente
+tomada, es la con v iv en cia. El animal no convive con los demás miembros de su
+especie; el hombre sí. Y ello es así, porque el hombre, como esencia abierta, tiene
+una inteligencia. «Se comporta consigo mismo en forma de realidad, y se comporta
+con las demás cosas en forma de realidades, y por consiguiente la versión que el
+hombre tiene hacia los demás — aquello que le constituye en ser “sí mismo”, y
+aquello por lo que tiene una esencia o una sustantividad que le ha sido comunicada,
+y que va a comunicar a los demás— es, justamente, una versión en forma de realidad
+desde sí mismo, desde su propia realidad qua rea lid a d . Y precisamente esto hace
+que los demás queden, en una u otra forma vinculados a cada uno de los hombres
+vivientes, en una forma que no es mera versión genética sino estricta con v iv en cia... La
+convivencia tiene esta primera dimensión que es justamente la convivencia en
+sociedad»66.
+Para Zubiri lo social no es un fenómeno individual ni siquiera inter-individual,
+pero tampoco modo hegeliano y también según Durkheim, se puede decir que la
+sociedad tenga una sustantividad y mucho menos que sea una sustancia, sino tan
+sólo en sus propias palabras es «un momento estructural de los individuos entre sí».
+Este momento estructural tiene el carácter de «habitud», carácter de «estar afectado
+por los otros en tanto que otros». «Esta habitud es la sede de un p o d er. Efectivamente
+como momento estructural y habitudinario de mi propia sustantividad la socialidad
+ejerce un tipo de influencia sobre mí que es justamente un poder. De esta manera se
+constituye el poder de eso que llamamos n osotros desde el p u n to d e vista ta litiv o 67
+de lo que Zubiri llama «talidad», de la concreta comunidad como tal. Por ello en más
+de una ocasión llevando al extremo esta concepción metafísica de la sociedad, como
+base y núcleo de una filosofía social, hemos dicho que la peculiar integración de las
+comunidades humanas, responde al principio de que la comunidad de la realidad es,
+en último término, la realidad de la comunidad68.
+
+66 X. ZUBIRI: Estructura dinámica de la realidad, cit., págs. 253-254.
+67 X. ZUBIRI, Ib., pág. 255.
+68 V. J. FUEYO: «La sociedad como Logos» (1957), en Estudios de Teoría política, Madrid, Instituto de
+estudios Políticos, 1968, págs. 131-194.
+
+298
+
+
+
+No sería arriesgado corroborar esta tesis de la integración metafísica a lo largo de
+la historia occidental. No deja de ser significativo que algunos de los conceptos
+basilares de la terminología de la «cosa pública» — comenzando por esta expresión
+misma— y tal por ejemplo, «rex», «princeps», «res publica»— evoquen este sentido
+árquico de la realidad sobre la que la política se construye y otros más modernos
+— por ejemplo, «constitución» y «revolución»— remitan a la misma arquitectura y
+dinámica del cosmos. Mientras ha tenido vigencia una idea transcendental del orden
+cósmico y de su armonía cifrada en el «logos» clásico — la conjunción originaria de lo
+real en su sentido originario, según Heidegger—69, el orden político ha encontrado, a
+través de todas sus formas históricas — «polis» «civitas» «Imperium» y hasta en la
+ideologización del «Estado moderno» que trae su origen de la idea de «ratio» universal,
+su paradigma constitutivo. Por consiguiente, la disolución paulatina del modelo de
+universo, que hemos expuesto en cuanto antecede, se encuentra en manifiesta
+afinidad con el vacío de fundamentación transcendental de la idea de orden político
+y en consecuencia del nihilismo político contemporáneo que tienen sus grandes
+teóricos — de los que ha vivido nuestro siglo y están en el trasfondo ideológico de su
+tragedia— cual son Marx y Nietzsche. Lo fundamental de este proceso, por lo demás,
+lo dejé escrito, hace ya más de treinta años, en mi breve ensayo: L a filo s o fía d el o rd en
+p o lítico : d e la m eta física a l n ihilism o, sin que se me ocurra nada esencial al respecto
+ni nada esencial se haya dado, que contribuya a desvirtuar el enfoque de esta
+problemática70.
+
+La d evalu ación de la verd ad p o lítica
+Es claro que la quiebra del principio de la realidad en la cultura moderna, ha
+reabierto la problemática de la verdad y de su consistencia esencial en términos harto
+críticos. Xavier Zubiri ha reactualizado la patente, pero no por ello menos compleja
+relación entre «realidad» y «verdad». La verdad viene, en último término a ser para él
+una «ratificación de la realidad»: «Si en la realidad pluridimensional, la proyección de
+la realidad en cada dimensión dará lugar a un modo preciso de ratificación, es decir a
+un modo preciso de verdad real»71. Y el propio Zubiri ha explicado con prosa singu­
+larmente rigurosa, la vinculación ontológica del hombre a la verdad — como
+p a ten tiz a ció n , como seg u rid a d y como co n sta ta ció n — como vocación radical de la
+posibilidad de su existir. De esta existencia es una dimensión condicionalmente, el
+orden político como principio de seguridad. «Otras veces — escribe Zubiri, al respec­
+
+69 M. HEIDEGGER: E in führung in dieM etaphysik, Niemeyer Tubinga, 4.a ed., 1976, pág. 131.
+70 V. J. FUEYO: «Lafilosofía del orden político: de la metafísica al nihilismo», en E studios d e T eoríapolítica,
+cit., págs. 249-282. Y, aún muy recientemente, he actualizado mi idea al respecto, en un artículo publicado
+en la revista Iglesia-M undo (núms. 465-466, enero-febrero 1993), bajo el título «La oscuridad de la nada:
+Comunismo y Nihilismo».
+71 X. ZUBIRI: Sobre la esen cia, Madrid, Sociedad de Estudios y Publicaciones, 1962, pág. 127.
+
+299
+
+
+
+to de esta búsqueda de seguridad— moviéndose a tientas y como en luz crepuscular,
+la imprescindible para no tropezar y no desorientarse en sus movimientos, el hombre
+busca en las cosas seguridades a que asirse intelectualmente con firmeza. Es posible
+que al proceder así, deje de lado grandes riquezas de las cosas, pero es a cambio de
+lograr lo seguro de ellas. Corre tras lo firme como “lo verdadero”; lo demás, por rico
+que sea, no pasa de ser para él simulacro de realidad y de verdad, lo “vero-simil”. Es
+la intelección como logro razonable»72. En este empeño de seguridad, es en el que, a
+lo largo de toda la historia de las ideas políticas, se ha venido afanando el hombre
+occidental. La idea política encuentra en la armonía con la imagen del mundo su
+justificación, su «legitimidad» y en la articulación funcional del orden con la libertad,
+su «legalidad». Pero aun cuando Cari Schmitt, en su estudio ya clásico sobre L eg itim id ad
+y L eg a lid a d 73, de comienzos de los años treinta, viene a presentar esta última, la idea
+de le g a lid a d — que en cambio Max Weber pretendía que había venido a subrogarse
+en el principio de leg itim id ad — como la forma funcional de decadencia del Estado
+parlamentario contemporáneo y ello en los términos más críticos, hay que reconocer
+que esta legalidad — que es la propia del Estado formal de Derecho— , es la única
+verdad asequible a la razón política contemporáneo, la verdad última en la época del
+nihilismo político. Los términos a que alcanza esta radical devaluación — que, por lo
+demás, aparece hoy claramente como una condición «sine qua non» para el correcto
+funcionamiento de la sociedad política pluralista y su orden por concurrencia— ,
+significan ciertamente y sin ambages, el reconocimiento de la democracia parlamen­
+taria liberal, como una forma política constitutivamente agnóstica, según no vaciló en
+proclamar el, sin duda, máximo de sus teóricos jurídico-políticos, Hans Kelsen. El
+gran doctrinario de la Escuela pura del Derecho, llevaba su sublimación del principio
+de legalidad, como es bien sabido, a la reducción del Estado a Derecho, a orden
+normativo. Su relativismo epistemológico se correspondía rigurosamente con su
+agnosticismo metafísico. En consecuencia, para él, el problema de la verdad política
+no se planteaba o de plantearse, quedaba reducido al procedimiento formal de
+adopción democrática de una norma o de una decisión política. La democracia,
+aligerada de toda carga ideológica de extracción metafísica, viene a ser para Kelsen,
+un procedimiento para formular la voluntad comunitaria de gobierno. «El carácter
+racionalista de la democracia se manifiesta, especialmente en la tendencia a estable­
+cer el ordenamiento jurídico del Estado como un sistema de normas generales
+producido con arreglo a un procedimiento diseñado precisamente para este fin. Hay
+en ella una clara intención de determinar, mediante un Derecho preestablecido, los
+actos individuales de los tribunales y de los órganos administrativos de forma tal que
+resulten — en cuanto sea posible— previsibles. Hay en ella una declarada necesidad
+de racionalizar el proceso en el que se manifiesta el poder del Estado. Esta es la razón
+por la que se considera que la legislación constituye la base de las demás funciones
+
+72 Ib., pag. 132.
+73 C. SCHMITT: Legalitdt und Legitimitdti1932), reimpr., Berlín, Dunckler-Humblot, 1988.
+300
+
+
+
+del Estado. El ideal de legalidad juega un papel decisivo: se piensa que los actos
+individuales del Estado pueden justificarse por su conformidad con las normas
+generales del Derecho. La seguridad jurídica, más que la justicia absoluta, ocupa el
+primer plano en la conciencia jurídica»74. Es difícil negarle a Kelsen un principio de
+razón práctica en esta reducción funcionalista de todo valor de justicia y, por ende,
+político al mero mecanismo legal de su positivación, pero con ello se ha llegado al
+límite de la posibilidad funcional del sistema político que hace premisa del descono­
+cimiento de toda verdad.
+El proceso de devaluación de la verdad política es el legado más importante y
+grave de la cultura del siglo XIX a nuestro siglo hoy en el ocaso cronológico, pero
+también en el que comporta a través de la terrible dialéctica de la revolución y la
+guerra, la frustración de todas sus posibilidades de creación del orden político. Es
+significativo que el proceso se haya iniciado por lo que ha llamado Paul Ricoeur la
+«cultura de la sospecha», la idea radicalmente devaluadora de la verdad, por descali­
+ficación del juicio humano, reducido a reflejo del poder, a intereses de clase o a
+motivaciones irracionales. Desde este punto de vista, y sin posibles discusiones,
+Nietzsche, Marx y Freud, han sido los «maítres á penser» de nuestro siglo. Aunque la
+génesis de su crítica se ha producido en campos muy ajenos a ésta — como ocurre
+siempre por la lógica de su fundamentación— su generalización y su vulgarización,
+han terminado por producir poco menos que la extenuación de la cultura política en
+nuestros días, por su extremada ideologización y por su no menos extremada asepsia
+a fin de evitar la contaminación ideológica.
+La ideologización del mensaje político — como toda la supestructura cultural,
+pero aún más directamente— en la cultura del materialismo histórico, implicaba,
+para un mensaje revolucionario como el de Marx, la sublimación específica del
+propio mensaje revolucionario, la exoneración de la hipoteca ideológica con su
+inevitable déficit de falsedad, reflejo de los intereses de clase, por parte también del
+sujeto de la revolución: el proletariado. Marx eludió este problema de estricta lógica,
+refugiándose en su visión metafísica de la Historia como realización fatal y necesaria
+de la sociedad sin clases, a través del proletariado, como sujeto de la revolución.
+Marx remitió a la propia Historia la revalidación de la misión histórica del proletaria­
+do. Examinando este punto esencial de la concepción marxista de la Historia,
+resumía Theodor Geiger la posición de Marx con estas palabras. «Los hombres
+llegarán a pensar correctamente, a ver la realidad de su plenitud, cuando su cabeza
+no se vea desviada por su posición a uno u otro lado de las relaciones de producción...
+Abstracción hecha de esta esperada corrección absoluta y escatológica, resta otra
+históricamente relativa. Todo el pensamiento anterior es falso, está distorsionado,
+por cuanto que está determinado y desviado por las relaciones de producción, en las
+
+74
+H. KELSEN: «Los fundamentos de la democracia» (1955), trad. esp., en Escritos sobre la democracia
+y el socialismo, Madrid, Ed. Debate, 1988, págs. 244-45.
+30 1
+
+
+
+que se encuentran las clases (y los hombres como miembros de las clases). También
+el proletariado dentro de la sociedad capitalista piensa falsamente, pues ve el mundo
+de los hechos a través de los anteojos del antagonismo de clases. Pero él es aquella
+clase que piensa Marx que a través de sus ojos ve ya por anticipado la sociedad sin
+clases, por lo que el proletariado piensa de modo relativamente más correcto que la
+burguesía y que cualquiera otra clase precedente. Al proletariado le pertenece el
+futuro. Su pensamiento se encuentra en concordancia con el discurrir mismo de la
+Historia. En ello radica la garantía de su autenticidad»75.
+Es hoy de plena evidencia histórica que el futuro con el que Marx mesiánicamente
+soñaba ha condenado esta ilusión; la disolución sociológica del proletariado en
+multiformes capas sociales producto de la dinámica de la estratificación contemporá­
+nea, ha volatilizado el famoso «sujeto de la revolución» y de otro lado, a nivel
+histórico-ideológico, el hundimiento catastrófico y súbito del Imperio soviético que
+se había erigido en protagonista y fautor de la revolución proletaria, han sentenciado
+el juicio de la Historia, al que Marx — con manifiesto residuo hegeliano— había
+confiado la garantía de la verdad revolucionaria. Pero ello hace todavía más aguda la
+crisis de la verdad política en nuestro siglo. La autodescomposición del marxismo ha
+socavado gravemente la concepción materialista de la Historia, como lógica básica
+de su pensamiento y, consecuentemente, ha puesto bajo sospecha toda su poderosa
+irradiación en el ancho espectro del saber y del arte en que se ha venido haciendo
+agresivamente valer. Como ha puesto de manifiesto en una obra reciente de Günter
+Rohrmoser, que tiene por tema básico la crítica y la responsabilidad histórica de la
+influyente Escuela de Frankfurt — Horkeheimer, Adorno, Marcuse y hasta el tan
+difundido Habermas— el clima intelectual de nuestro tiempo está saturado por la
+patente conexión de la «dialéctica negativa» entre el marxismo y el nihilismo difusos
+de nuestra atmósfera espiritual: «La inutilidad y lo superfluo de la filosofía — escribe
+Rohrmoser— no serían en el presente tan indiscutidos, si el contenido político de las
+teorías en este siglo no hubiera conocido un punto en el tiempo, en el cual todavía
+no hubieran dejado aparecer su desenmascaramiento como obsoleto las catástrofes
+de la Historia. A la Universidad alemana y por encima de todo a la, con razón,
+filosofía del Derecho, se les ha hecho el reproche, de que no opusieran, a su debido
+tiempo, una resistencia decisiva a la caída de la razón en la República de Weimar. El
+reproche podría ser repetido hoy en mayor medida. Con demasiada docilidad ha
+compartido la Universidad las ilusiones de la época, como si ellas pudieran prome­
+terle un “status” privilegiado y sin problemas. La repristinización de la idea de la
+ciencia de la segunda mitad del siglo XIX no puede dar resultado en el último tercio
+del siglo XX. La teoría de los frankfurtianos como el pensamiento del Heidegger
+tardío, son desde hace ya tiempo indicios de esta imposibilidad. Las erupciones del
+
+75 Th. GEIGER: Ideologie und Wahrheit, Stuttgart-Viena, Homboldt Verlag, 1953, pág. 40.
+
+302
+
+
+
+reciente pasado tienen ahora de preocupante, el que a nadie se le ocultan ya»76. Hasta
+qué punto de alarma alcanza la declinación nihilista del saber político, es lo que
+vamos a esbozar, a modo de conclusión.
+H eidegger y la té cn ica m o d ern a co m o e se n cia d el n ih ilism o
+Ha sido precisamente Heidegger el que ha establecido la relación metafísica
+entre técnica y nihilismo, puesto que para él, el nihilismo constituye la fase última y
+la culminación del estiló de pensar metafísico. La meditación sobre la técnica, quizá
+cuente entre las más valiosas de las aportaciones del gran pensador de la analítica
+existencial humana. La conferencia pronunciada por él, en 1953 sobre el tema -La
+cuestión de la técnica», ha alcanzado hoy el rango de un texto clásico y es una pieza
+capital en la llamada filosofía del segundo Heidegger, que dicho sea de paso no es
+que sea una segunda filosofía distinta de la de «Sein und Zeit», sino que resulta más
+bien ser la consecuencia, precisamente, del «impasse» metafísico al que llegó su
+intento de una ontología fundamental.
+Heidegger no vacila en poner en estrecha relación las categorías de «técnica» y
+«verdad» a través de su repristinación de la «verdad» como «des-velación» o «re­
+descubrimiento». «La técnica, pues, no es simplemente un medio. La técnica es un
+modo de des-velamiento. Si prestamos atención a este hecho, se nos abre aquí, ante
+nosotros, un ámbito completamente diferente en cuanto a la esencia de la técnica. Es
+el ámbito del des-velamiento, esto es de la verdad (“Wahr-heit”)... La técnica es un
+modo de des-velar. La técnica depliega su ser ( “west”) en el ámbito en que acaecen la
+“alethéia”, la verdad»77. Heidegger explica lo que este «des-velamiento» tiene de espe­
+cífico, como característica de la técnica moderna, como «provocación» («Herausfordem»), «El des-velamiento que gobierna la técnica moderna — explica— no se
+despliega en un pro-ducir (“Her-vor-bringen”) en el sentido de la “poiesis”. El
+desvelamiento que rige en la técnica moderna es una provocación (“Herausfordem”),
+la cual pretende de la Naturaleza que ésta suministre la energía que pueda como tal
+energía, para ser extraída (“herausgefórdert”) y acumulada... El requerir que provoca
+las energías de la Naturaleza, es un exigir en un doble sentido. Exige, en cuanto abre
+y pone fuerza. Este exigir, no obstante, permanece desde el principio orientado a
+promover, esto es a impulsar hacia adelante, en el sentido de alcanzar la máxima
+utilización con el mínimo coste»78.
+Esto permite ir aclarando la singular virtualidad que caracteriza esta «des-velación»
+o «revelación» que caracteriza a la técnica moderna, a la «verdad» específica de esta
+técnica actual provocadora de la Naturaleza. «El des-velamiento que gobierna la
+técnica moderna tiene el carácter del rechazar (“stellens”), en el sentido de la
+76 Günther ROHRMOSER: Krise derpolitischen Kultur, Mainz, Hase-Koehler, 1983, pág. 10.
+77 M. HEIDEGGER: DieFrage nach der Technik, Günther-Neske Pfullingen, 1962, págs. 12-13.
+78 Ib., pág. 15.
+303
+
+
+
+provocación. Esta provocación acaece en el hecho de que la energía escondida en la
+Naturaleza viene a ser puesta al descubierto, lo que es descubierto transformada, lo
+que es transformado viene a ser almacenado y lo que es almacenado viene a ser a su
+vez distribuido y lo distribuido viene a ser al descubierto, transformar, almacenar,
+distribuir, cambiar, son modos del des-velamiento. Eso, sin embargo, no se lleva a
+cabo simplemente. Ni se pierde en la indeterminación. El des-velamiento se desvela
+a sí mismo por sus propias vías, conexas entre sí de modo multiforme, en cuanto que
+lo dirige. La dirección misma, por su parte, persigue, ante todo, la propia puesta en
+seguridad. Dirección y aseguramiento vienen a ser, incluso, los caracteres principa­
+les del desvelamiento provocativo»79.
+Esta deslumbradora descripción metafórica de Heidegger, de la intencionalidad
+subyacente en la técnica, obliga, a seguirla, aunque sea morosamente, al pie de la
+letra, para poder comprender la esencialidad última de la técnica moderna y el papel
+dominador que juega dando todo su sentido a la vida contemporánea. Veámoslo.
+«Cuando el hombre, a su modo, des-vela aquello que se alberga en la des-velación,
+no hace sino responder al eco (“Zuspruch”) de la desvelación, incluso en el caso en
+que lo contradiga. Cuando, pues, el hombre, en la investigación y en el estudio,
+intenta perseguir a la Naturaleza entendida cómo uno de los ámbitos de su representar,
+ha respondido ya a un modo de des-velamiento, que lo mueve a relacionarse con la
+Naturaleza como a un objeto de la indagación, hasta que también desaparece el
+objeto, es la ausencia de objeto que constituye el fondo»80. Con esta insinuación en
+tanto esotérica, típica de las tendencias místicas del último Heidegger, llega a la
+conclusión de que la técnica así entendida, como forma novísima de verdad, de
+mostrar el Ser, «no es un hacer meramente humano» («kein bloss menschliches
+Tun»)81, por cuanto que la técnica termina por implicar al hombre en lo real como
+«fondo» («Bestand»), lo que significa, como reserva permanente de su quehacer
+técnico productivo pero no creador.
+La clave de la idea heidegeriana de la técnica, por cuanto que en ella reside el
+sentido de la implicación en la oscura dinámica del fondo de la realidad que el
+hombre agita con la provocación de su técnica, es el término «Ge-stell» de imposible
+traducción, máxime por cuanto el mismo filósofo indica que la utiliza, al efecto, en
+un sentido completamente insólito. Literalmente significa un dispositivo o una insta­
+lación predispuesta para su utilización futura, pero tiene también el sentido de una
+«imposición» y muchos lo han traducido así. «Dispositivo» o «imposición» son las
+versiones más frecuentes de este concepto clave82, pero con ellas, nada queda en
+claro. «“Ge-stell” — explica Heidegger— indica la reunión de aquel recabar (“Stellen”),
+
+79 Ib., pág. 16.
+80 Ib., pág. 18.
+81 Ib.
+82 V. LudswigSCHAJOWICZ: De Winckelmann a Heidegger. Ensayossobre el encuentmgriego-alemán,
+Puerto Rico, Editorial de la Universidad de Puerto Rico, 1986, pág. 27, nota 20.
+304
+
+
+
+esto es, exige del hombre el des-velar lo real, como fondo a modo de encargo. “Gestell” significa el modo de des-velamiento que rige la técnica moderna sin ser, en sí
+mismo, nada técnico... Ésta no es pues únicamente un hacer del hombre, ni un puro
+y simple medio dentro de tal hacer. La concepción puramente instrumental, pura­
+mente antropológica, de la técnica, resulta caduca desde su mismo principio; ni se
+deja tampoco integrar mediante el simple añadido de una explicación religiosa o
+metafísica"83.
+La última filosofía de Heidegger es, en verdad como se ha visto agudamente, no
+una «superación» de la metafísica, sino un pretendido avance decisivo, un más allá
+del pensar metafísico, una, en cierta manera «metafísica de la metafísica», que se ha
+desarrollado de modo explícito en su ensayo VeruAndung d erM etap h y sick (1951). La
+importancia del ambiguo y en el fondo dual — negativo y positivo— concepto de
+«Ge-stell» radica en su condición de clave, no ya del concepto de la técnica moderna
+sino, consecuentemente, de la fenomenología esencial de la época actual, determinada
+por la encrucijada técn ica-n ih ilism o-v olu n d e p o d er, todo lo cual ha de entenderse
+como «destino» («Geschick»), pero en el cual se albergan también las últimas posibili­
+dades de salvación. Como explica con notable claridad uno de los últimos estudiosos
+de Heidegger. Gianni Vattimo el de «Ge-stell», es el concepto que domina radicalmente
+la visión de la crisis histórica de nuestro tiempo en el pensamiento del último
+Heidegger. «En el concepto heideggeriano de “Ge-stell”, con todo lo que él implica,
+se encuentra la interpretación teórica de la visión radical de la crisis del humanismo.
+“Ge-stell”, que podemos traducir por im p osición , representa para Heidegger todo lo
+que aporta la técnica con su interpelar, provocar y ordenar, que constituye la esencia
+histórica y predestinada del mundo técnico. Esta esencia no está fuera de la metafísica,
+sino que es su remate... Que la técnica se presente como una amenaza para la
+metafísica y para el humanismo, es sólo una apariencia derivada del hecho de que,
+en la esencia de la técnica, se revelan los rasgos propios de la metafísica, rasgos que,
+metafísica y humanismo siempre habían mantenido ocultos... El “Ge-stell” no es pues
+sólo el momento en que la metafísica y el humanismo terminan en el sentido de
+desaparecer y quedar liquidados, com o quiere la interpretación nostálgica y
+restaurativa de esta crisis; el “Ge-stell” es, también — dice Heidegger— «un primer
+centelleo del “Ereignis”», un anuncio del evento del ser como darse más allá de los
+cuadros del pensamiento olvidado de la metafísica. El G e-stell implica, en efecto, la
+circunstancia de que hombre y ser, en una recíproca sacudida, pierden sus caracteres
+métafísicos y ante todo el carácter que los contrapone como sujeto y objeto»84.
+Así el complejo y oscuro «Ge-stell», es la clave de nuestra época crítica sumergida
+en el nihilismo informe y planetario, oceánico, pero también el principio incógnito
+de un novísimo modo del acaecer y del pensar, de un nuevo advenimiento.
+
+83 M. HEIDEGGER: DieFrage nach Tecbnik, cit., págs. 20-21.
+84 G. VATTIMO: Elfin de ¡a Modernidad, cit., págs. 40-41.
+
+305
+
+
+
+La crisis d el sab er p o lítico en la e ra d el n ih ilism o
+¿Por qué — urge preguntarse para abrir el desenlace de este apunte de ensayo— es
+tan importante indagar sobre el sentido del nihilismo y por qué la intensidad de la
+exégesis de Heidegger? La respuesta — siquiera sea sucinta— a estas dos cuestiones
+puede orientar acerca de en qué sentido hablamos de una crisis del saber político. En
+rigor, las dos pueden resolverse, en la actualidad del análisis heideggeriano, a través
+de Nietzsche y su concepción en prospectiva del nihilismo, como determinación de la
+estructura histórica esencial de nuestra época, como teoría de la realidad vivida y
+pensada en el siglo XX. No ha sido la de Heidegger una filosofía de la Historia, en el
+sentido clásico de que, con ella se proponga descubrir a la lógica intema del acontecer
+de nuestro siglo, sino muy peculiarmente, una filosofía que trasluce en su discurso lo
+que se desvela en el acontecer del siglo: la pérdida de la totalidad como imagen de la
+realidad, la fragmentación funcional de lo real, y el extravío del hombre en cuanto a su
+existencia individual, en el laberinto caótico del acontecer del siglo técnico. Los límites
+de la mentalidad del hombre vigente en el siglo, en cuanto a su renuncia a una visión
+armoniosa y unitaria de la realidad, y al propio tiempo la capacidad calculadora,
+funcional, organizativa de este mismo hombre en la época de la técnica, es lo que
+Martin Heidegger desde la crisis de los años veinte hasta su testamento filosófico de
+1966 hecho público a su muerte — la famosa entrevista de D erS p ieg el—85y a su mensaje
+agónico y esperanzado: «todavía un dios puede salvamos», ha venido exponiendo
+como análisis espectral de nuestra época, como esencial argumento del destino
+histórico del siglo, por encima y a través de lo tortuoso y lo trágico de su acontecer.
+Esta filosofía posmetafísica de Heidegger pasa por ser una actualización del
+nihilismo y de sus formas de Nietzsche en el «fin de siécle», y ha sido la exégesis de
+Heidegger, la que ha hecho de Nietzsche y de su nihilismo, los inevitables contem­
+poráneos de nuestro tiempo y de nuestro pensamiento dominante, como oscura
+conciencia del destino de nuestra época. Y ¿en qué consiste todo ello esencialmente?.
+Con palabras del mismo Heidegger: «La frase “Dios ha muerto” significa: el mundo
+suprasensible carece de fuerza operativa. No dispensa vida alguna. La metafísica, es
+decir, para Nietzsche la filosofía occidental comprendida como platonismo, ha llegado
+a su fin. Nietzsche comprende su propia filosofía como contramovimiento respecto
+de la metafísica es decir, para él, contra el platonismo... Si Dios como fundamento de
+lo suprasensible y como fin de todo lo real ha muerto, si el mundo de lo suprasensible
+dé las ideas, ha perdido su fuerza vinculante y sobre todo estimuladora y constructi­
+va, ya no queda nada, a lo que el hombre pueda atenerse y por lo cual pueda guiarse.
+Por ello se encuentra en el pasaje leído, la pregunta: “¿No vagamos como a través de
+una nada infinita?”. La frase “Dios ha muerto” contiene la corroboración de que esta
+nada se difunde. Nada significa aquí: ausencia de un mundo suprasensible, vinculante.
+El nihilismo “el más inquietante de todos los huéspedes”, se encuentra a la puerta»86.
+85 DerSpiegel(31-5-1976).
+86 M. HEIDEGGER: «Nietzsche's Wort “Gott ist tót”», en Holzwege, cit., pág. 200.
+306
+
+
+
+El quizá último filósofo, pronuncia estas palabras terminantes, casi apocalípticas
+en 1943, por los días en que el acaecer teje la torsión del destino europeo del III
+Reich hacia el desplome. Si se piensa en lo esencial — como el filósofo gustaba
+decir— desde entonces, en la dialéctica real del siglo no se ha remontado la pendien­
+te fatal del nihilismo. A través de la «pax democrática» de 1945, en las largas décadas
+de la «guerra fría» y del equilibrio del terror, tras el desplome del comunismo y la
+plétora de guerras localizadas, pero incesantes y el anhelo de un «nuevo orden
+mundial» impotente frente a la guerra de secesión yugoeslava con su monstruoso
+holocausto, nada hace pensar ni esperar siquiera que, una inteligencia creadora
+difundida por la humanidad y un espíritu de integración de lo humano sobre el
+planeta, comiencen a alborear, superando la derrota del nihilismo para abrir sendas
+de salvación para la humanidad.
+Y es claro que en el epicentro de este vacío de principios, en el horizonte opaco
+del nihilismo consumado, la cuestión del saber político, se plantea por primera vez
+en la historia de Occidente, con una desnudez implacable. Pues hasta ahora, hasta
+donde alcanza nuestra memoria histórica en la tradición de la cultura occidental, la
+política y todas sus arquitecturas de orden traían sus fundamentos y en último
+término su radical legitimidad, de postulados afirmados como vigentes e incontro­
+vertibles en ámbitos de más allá de la política — el mito, la religión, la filosofía, la
+razón universal, la cultura, etc.— , pero he aquí — y éste, el nihilismo, que proyecta su
+sombra anonadante sobre la política— que, no ya por falta de fe, por la negatividad
+filosófica, por la gravitación sociológica sino, hasta constitucionalmente, se establece
+como premisa que toda esa transcendencia que nutría la legitimidad misma de la
+política y sus contenidos de orden, carecen de vigencia por sí y de consenso general
+por adhesión, lo que significa que la política debe extraer de su misma realidad
+fenoménica sus propios fundamentos e imponerlos por la coacción legalizada del
+poder político.
+La proyección del nihilismo sobre el orden político se traduce en una crisis de
+fundamentos al modo de la explicada por Husserl, y que ya expresamente este gran
+pensador señalara que no se limitaba al principio de exactitud de las ciencias fisico­
+matemáticas de la naturaleza, sino que, como apuntamos, se extendía también la
+crisis a las llamadas «ciencias del espíritu». Esta crisis se hace visible en la pérdida de
+todo sentido de la totalidad, de la armonía conjunta de la realidad en su dinámica,
+que permite dar un sentido de lo concreto y lo particular. El problema para el saber
+político es que, en ausencia de toda referencia de totalidad — del fin de la comunidad
+de vida, de la civilización como orden entre los pueblos y Estados, del sentido del
+movimiento histórico— los fundamentos positivos de la realidad política — el poder,
+el ámbito de libertades, la estructura institucional y el sentido del desarrollo cultural y
+material— no desaparecen ciertamente, pero si se ocluyen y devalúan, se hacen más
+y más inestables, en el círculo cerrado de una legalidad sin transcendencia.
+Desde finales del siglo pasado — justamente cuando comienza a difundirse el
+espectro del nihilismo sobre la cultura europea, que tendrá en el pensamiento de
+307
+
+
+
+Nietzsche su anunciación más amenazadora— la crisis del orden político en el plano
+nacional y en el internacional de la civilización del mundo moderno, comienza a
+revelarse en un proceso de subversión que luego, con toda su tragedia, a lo largo del
+siglo de guerras y revoluciones, marca hasta nuestros días un devenir angustiado de
+la convivencia política en todos los planos. El eterno retomo del principio democrá­
+tico y su crisis inmanente, su validez excluyente y al mismo tiempo la dinámica de
+sus crisis, constituyen el trasfondo de la metamorfosis ideológica de la política, esto
+es, de la frágil síntesis del orden y de su dinámica, tanto en el plano interior como en
+el internacional y hasta en el mundial, constituyen la respuesta de la política al vacío
+de trascendencia. Las ideologías — y en este sentido como modélica, la marxista—
+han sido el intento de articular una totalidad que tomara como centro la clase, la
+nación, la raza o hasta el mismo escueto artefacto de poder del Estado, para ocupar el
+lugar vacío del principio supremo de transcendencia. Es significativo que esta teoría
+de sucedáneos funcionales de Dios, fuera advertida ya por el mismo Nietzsche, sobre
+lo que Heidegger llama la atención. «En efecto — explica Heidegger el sentido del
+mensaje nietzscheano— si Dios en el sentido cristiano de la palabra ha desaparecido
+de su lugar en el mundo suprasensible, queda siempre el lugar aunque esté vacío. El
+ámbito vacío de lo suprasensible y del mundo ideal puede retenerse aún. Es más
+aún, el lugar vacío invita a que se le coloque de nuevo y a sustituir con otro el dios
+desaparecido. Se erigen nuevos ideales. Según la representación de Nietzsche
+(Heidegger remite al texto de los inéditos de Nietzsche recogidos bajo el título de L a
+v olu n tad d e p o d e r n.2 1.021 de 1887) eso se hace mediante las doctrinas de la,
+redención universal y mediante el socialismo, así como por medio de la música
+wagneriana, o sea en todas aquellas partes donde “perdió su prestigio” el “cristianis­
+mo dogmático”. De esta suerte nace el “nihilismo incompleto”. Nietzsche manifiesta
+a este respecto en 1887: “el nihilismo in com p leto ( u n v ollstán d ig e N ihilism us), sus
+formas: vivimos en medio de él. Los intentos de huir del nihilismo sin subvertir los
+anteriores valores: provocan lo contrario, agudizan el problema”»87.
+No es muy frecuente que en la inabarcable literatura sobre el totalitarismo, se
+insista suficientemente sobre este intento frustrado de restaurar el poder como centro
+de la totalidad, de una totalidad artificialmente construida por subordinación metódica
+a un valor afirmado como supremo de todos los ámbitos de relación y de cultura. La
+teoría de los valores de Nietzsche, tal como Heidegger la expone, hace de los
+«valores», de la «posición de valores» las nuevas «estructuras de dominación»
+(«Herrschaftgebilden») y señala al respecto como «centro de la voluntad de poder»
+(«Zentren des Willens zurMacht»), el arte, el Estado, la religión, la ciencia, la sociedad,
+pues previamente ha indicado que para Nietzsche la «subversión de todos los valores
+anteriores», aunque propia del nihilismo completo y consumado, no se limita a
+sustituir los antiguos valores con otros nuevos, sino que «la posición de valores
+necesita un nuevo principio»: «Die Wertsetzung bedarf eines neuen Prinzips»88.
+87 Ib., pág. 208.
+88 Ib.
+308
+
+
+
+Hasta qué punto los terribles experimentos totalitarios de nuestro siglo — y como
+arquetípicos el nacional-socialismo y el comunismo— han desplegadó el «nuevo
+principio» como centro de dominación sistemática, está en la mente de todos. El
+propio Heidegger, en su breve deslumbramiento hitleriano, llegó a escribir
+—arrumbando de un plumazo toda racionalidad filosófica, incluido su propio pensa­
+miento— aquella terrible sentencia, dirigida a los estudiantes universitarios, de la
+que después dijo que era la única de la que se arrepentía de haber escrito: «Que ni los
+teoremas ni las “ideas” sean las reglas de vuestro ser. El Führer mismo y sólo él es la
+realidad alemana efectiva de hoy y de mañana, y su ley»89. Esto significa de modo
+patente que el poder total, marca el fin de todo «logos», por pura y simple absorción
+del pensamiento, en la decisión personalizada del poder.
+Ahora bien, esto es, justamente, la esencia del totalitarismo: el dogma político
+total como primado absoluto del saber. La estrecha relación — tanto en el plano
+lógico como en el histórico que hemos vivido en el siglo XX— entre n ih ilism o y to­
+talitarism o, por virtud de la objetivación ideológica total de la «Weltanschauung»
+oficialmente asumida, fue vislumbrada ya en una obra primeriza sobre el nihilismo,
+que procedía de un hombre que había colaborado en un principio con Hitler y
+conocía profundamente lo que en verdad llevaba en sí el líder supremo del nacional­
+socialismo. Fue, en efecto, Hermán Rauschning quien, en su difundida obra sobre el
+nihilismo del siglo XX, destacara esta imposición supralógica del dogma total como
+mito omnicomprensivo: «La significación de los mitos modernos — escribe— en la
+crisis general de nuestro tiempo radica en esto, que ellos son el núcleo sobre el cual
+se integra lo colectivo. Con estos mitos alcanza la esfera social a situarse frente a la
+persona individual como una especie de “transcendencia”. En primer lugar, en tomo
+a estos mitos, como núcleos de determinación y de sentido, se desarrollan las
+representaciones de orden, las cuales postulan la absoluta validez como “la verdad” y
+“la ley”, contra las cuales no cabe apelación alguna ante ninguna instancia superior,
+por lo que vinculan y obligan a los individuos sin contradicción posible.
+Los mitos legitiman al colectivo como una comunidad absoluta, como una “esfera
+de suprema realidad”. Ellos autorizan al colectivo en el uso de la violencia no sólo
+como una especie de “derecho de necesidad”, sino también como medios de violación
+permanente y de orden moral y espiritual de la persona. Ellos conducen de modo
+necesario a la totalidad del orden, al colectivo totalitario»90.
+Es difícil expresar con mayor rigor y precisión que en estas palabras, la función
+de la ideología totalitaria como principio de integración última de todos los saberes
+teóricos y prácticos. Sin duda, ello hace más patente la enorme paradoja de que en la
+época de máximo desarrollo de la especialización científica y de la dominación de la
+técnica, se pueda creer en la mera posibilidad de un saber de dominación respecto a
+89 Der Spiegel, cit.
+90 H. RAUSCHNING: Masken undMotamorphosen desNihilismos. DerNihilismusdesXX.Jahrhunderts,
+Vierta, Humboldt V. Frankfurt a.M., 1954, pág. 55.
+
+309
+
+
+
+todos los saberes teóricos, positivos y experimentales, a los que se les hace traer su
+legitimidad y validez últimas de la lógica suprema y fundante atribuida a la ideología.
+Sin duda el gigantismo panlogista de Hegel es responsable, en buena medida, del
+estilo de esta mentalización absorbente del conocimiento en todos los ámbitos. Pero
+la ideología marxista derivada de él y el «dia-mat» o materialismo histórico-dialéctico,
+tal como ha operado en el mundo soviético y sus aledaños, a lo largo de mucho más
+de medio siglo, han constituido el monstruoso experimento de la dominación totali­
+taria del pensamiento, de la cultura y del arte por el poder político ideologizado de
+modo absoluto. La atmósfera de cobertura progresista que ha sublimado durante
+tanto tiempo la imagen del universo soviético, han puesto en tela de juicio esta
+manipulación metódica de los saberes por el imperativo total comunista, pero los
+verdaderos estudiosos de su realidad no han sido engañados nunca. Uno de los
+máximos conocedores del sistema, Gustav A. Wetter en su monumental obra sobre el
+materialismo dialéctico de la Unión Soviética, llegaba a la conclusión en la fase
+plenitud del stalinismo de que, en orden al desarrollo lógico de la filosofía soviética,
+el único filósofo que podía decir algo nuevo dentro de ella, era precisamente Stalin.
+Esta última personificación del saber y de la norma — que como hemos visto Heidegger
+anticipaba para Hitler— es la culminación del saber totalitario. «¿Cómo puede sin
+embargo — se preguntaba Wetter, con respecto a Stalin— atribuir al líder del partido,
+al político, el cual en estricto sentido apenas si ha producido escritos filosóficos una
+significación tan decisiva para la filosofía?... De él, tenemos sólo un artículo pura­
+mente filosófico. ¿Por qué habría de ser su significación para la filosofía soviética tan
+sobresaliente? ¿Ha de verse en ello tan sólo servilismo? Aun cuando no puede llegar a
+rechazarse que los oradores apologéticos expandan de vez en cuando el incienso
+sobre el genio filosófico de Stalin, la cuestión resulta únicamente comprensible,
+cuando se toma en consideración, la significación, que se atribuye en la filosofía
+soviética a la unidad de teoría y de praxis y a la posición de partido de la filosofía. La
+praxis, la actividad concreta y por ello la vida política tienen según esta concepción,
+la cual en esto roza con la filosofía de la vida y el existencialismo, una parte esencial
+en el conocimiento de la verdad. El conocimiento de la verdad no es una mera
+exigencia teórica, una pura cuestión de comprensión, sino una cuestión de todos los
+hombres y, ciertamente, no de los individuos sino de los hombres en cuanto que
+sociales. Según esta concepción, así como la filosofía marxista, ha desarrollado a
+fondo las experiencias del proletariado en la lucha de clases, ha generalizado en el
+plano teórico estas experiencias y las ha llevado a su conclusión (M. B. Mitin). El líder
+del Partido, el cual indica el camino en la praxis a la clase del proletariado, impulsa
+con ello necesariamente también la teoría en general y, consecuentemente, también
+la filosofía en particular»91.
+Cabe pensar y es, sin duda un tópico circulante, que la democracia liberal, con su
+
+91
+Gustav A. WETTER: Der dialektische Materialismus. Seine Geschiochte und sein System in der
+Sowjetunion, Viena, Herder, 3.a ed., págs. 237-238.
+310
+
+
+
+esencial libertad de pensamiento y de expresión, deja en franquía la constitución y
+difusión de la verdad política y de este modo, por el importe de ésta, se libera, al
+mismo tiempo, del nihilismo y de su ortopedia espiritual, en el totalitarismo. De esta
+forma la democracia de tipo occidental, de pensamiento liberal y de economía libre,
+constituye la culminación del proceso ideológico moderno y alcanza, con ello, el
+bien entendido «fín de la Historia». Como es sabido, la tesis que ha proclamado
+Francis Fukuyama en su obra E lfin d e la H istoria y e l ú ltim o h om bre, desarrollo de
+un artículo de revista aparecido durante el verano de 1989 y que alcanzó resonancia
+mundial. Fukuyama describe la «revolución mundial liberal mundial» como la verda­
+dera culminación de la Historia: «A medida que la humanidad se aproxima al fin del
+milenio, las crisis gemelas del autoritarismo y del socialismo no han dejado en liza
+más que un solo combatiente como ideología potencialmente universal: la democra­
+cia liberal, doctrina de la libertad individual y de la soberanía popular. Doscientos
+años después de haber animado los principios de la revolución americana y francesa,
+los principios de libertad y de igualdad han probado no solamente que eran duraderos
+sino que podían resucitar»92.
+Siendo para Fukuyama el crecimiento de la democracia liberal y del liberalismo
+económico, el fenómeno macropolítico más señalado de los cien últimos años, es el
+que permite en una reinterpretación de la filosofía de la Historia de Hegel — más
+tributaria a su exégeta Alexandre Kojéve que al propio Hegel— 93, la cual conduce a
+considerar, según las fórmulas de su famoso artículo, que la democracia liberal
+podría muy bien constituir «el punto final de la evolución ideológica de la humani­
+dad» y la «forma final de todo gobierno humano», viniendo a ser así propiamente el
+«fin de la Historia». El libro de Fukuyama, que no es, como el autor se cuida de
+advertir, ni una repetición del artículo original ni una tentativa de prolongar el debate
+con sus numerosos críticos y comentaristas de aquél, replantea como básica y previa
+la cuestión de la posibilidad lógica de una comprensión histórico-universal del
+desarrollo de la Humanidad, la idea de una «Weltgeschichte» al modo de Hegel y,
+evidentemente, de Marx, a la que, a diferencia de otros pensadores como Vattimo
+que la tienen ya por imposible y ello da precisamente paso a la dinámica ahistórica
+de la llamada «posmodernidad»94, Fukuyama responde positivamente, lo que da ple­
+
+n 'Cito por la tr. fr. de F. FOKUYAMA: La fin d e l'H istoire et le d em irh om m e, París, Flammarion, 1992,
+págs. 67-68.
+93 La obra capital de Alexandre KOJÉVE es su In trodu ction a la lectu re d e H egel. Legons su r la
+P hénom énologiedel'E sprit, París, Gallimard, 1947. Sobre Kojéve, v. Dominique AUFFRET: A lexan dre K ojéve.
+La p h ilosop h ie d e l’E tat, la fin d e l'Histoire, París, Grasset, 1990.
+94 Dice. G. VATTIMO al respecto en su obra cit., E lfin d e la M odernidad, pág. 13; «Lo que caracteriza
+en cambio el fin de la historia en la experiencia posmodema es la circunstancia de que mientras en la teoría
+la noción de historicidad se hace cada vez más problemática, en la práctica y en su autoconciencia
+metodológica la idea de una historia cuyo proceso unitario se disuelve y en la existencia concreta se instauran
+condiciones efectivas — no sólo la amenaza de la catástrofe atómica, sino también sobre todo la técnica y
+el sistema de la información— que le dan una especie de inmovilidad realmente no histórica».
+311
+
+
+
+no sentido a su propia versión del «fin de la Historia», como culminación racional del
+proceso ideológico en el universo político de una democracia liberal global.
+Sin entrar en la exégesis y la revisión de la tesis central de Fukuyama que sin
+duda postulan los nuevos planteamientos de su libro, es evidente que su conclusión,
+más corrobora que supera, el proceso nihilista como incorporado por una lógica fatal
+a la expansión ecuménica de la democracia liberal. Ya en el famoso artículo de
+Fukuyama, en la revista T he N ation al Interest, el fin de la Historia no aparecía en
+absoluto como una apoteosis triunfal: «El fin de la Historia — concluía entonces—
+será un tiempo muy triste. La lucha por el reconocimiento, la disposición a arriesgar
+la propia vida en nombre de un fin puramente abstracto, la lucha ideológica univer­
+sal que daba prioridad a la osadía, al atrevimiento, la imaginación y el idealismo, se
+verán sustituidos por el cálculo económico, la interminable resolución de los problemas
+técnicos, la preocupación por el medio ambiente y la respuesta a las sofisticadas
+necesidades del consumidor. En la era poshistórica, no existirá ni arte ni filosofía: nos
+limitaremos a cuidar eternamente de los museos de la historia de la humanidad»95.
+Pero con la esencial incorporación a su pensamiento, ya en la obra citada, de una
+exégesis significativa de la conocida tesis del «Zarathustra» de Nietzsche sobre los
+«últimos hombres», este desenlace deshumanizado del «fin de la Historia», cobra,
+dentro del optimismo de la democracia ecuménica, un aspecto aún más llamativo. En
+rigor, Fukuyama viene a dejar establecidos los límites metafísicos de la democracia
+liberal, construida por su lógica inmanente sobre el principio relativista de la tolerancia,
+y a enunciar una vaga esperanza de la degradación, en su día, de los valores
+metafísicos, hasta el extremo de que la discrepancia resulte enteramente artificial. No
+de otra manera cabe entender sus conclusiones finales: «Si es verdad que el proceso
+histórico descansa sobre los pilares gemelos del reconocimiento y de deseo racionales,
+y que la democracia liberal moderna viene a ser el sistema que satisface mejor a los
+dos en un cierto equilibrio, parecería como si la principal amenaza sobre la democracia
+viniese de nuestra propia confusión al respecto de los verdaderos retos. En efecto,
+mientras que las sociedades modernas han evolucionado hacia la democracia, el
+pensamiento moderno ha llegado a un “impasse”, en su incapacidad para alcanzar
+un acuerdo sobre lo que constituye el hombre y su dignidad específica, por tanto,
+para definir los derechos del hombre... Esto abre la vía a una exigencia hipertrofiada
+para el reconocimiento de la igualdad de derechos, de un lado, y a la nueva
+liberación de la “mégalothymia” del otro. Esta confusión de pensamiento puede
+sobrevenir a despecho del hecho de que la historia está orientada en una dirección
+coherente por el reconocimiento y el deseo racionales, y siendo así que la democra­
+cia liberal constituye en realidad la mejor solución posible para el problema de la
+humanidad»96.
+
+95 F. FUKUYAMA: «¿El fin de la Historia?», trad. esp. en Claves, 1,1990, pág. 96.
+96 F. FUKUYAMA: Lafin de l'Histoire et le dem ier bomme, cit., pág. 378.
+
+312
+
+
+
+Así por principio es, inevitablemente, el relativismo universal el componente
+necesario de la democracia liberal ecuménica. Y, sin embargo, cabe albergar una
+esperanza por la que la propia dinámica mundial de la democracia liberal llegue, con
+el desarrollo y el tiempo, a degradar la importancia de la universal confusión
+relativista del pensamiento: «Pero, si con el tiempo, más y más sociedades (dotadas
+de culturas y de historias diferentes) muestran esquemas comparables de desarrollo
+a largo término; si existe una convergencia, más y más marcada, en los tipos de
+instituciones que rijan en las sociedades más avanzadas; si en fin, el desarrollo
+económico continúa llevando consigo la homogeneización de la humanidad; enton­
+ces, la idea del relativismo podrá parecer mucho más extraña de lo que ella, lo es en
+el presente. En efecto, las diferencias aparentes entre los “lenguajes del bien y del
+mal” de los distintos pueblos aparecerán simplemente como elementos artificiales
+propios de su estadio particular de desarrollo»97.
+Esto enuncia, si se entiende a fondo, el nivel límite a que ha alcanzado la crisis
+del saber político contemporáneo: la neutralización progresiva por el desarrollo de
+las condiciones de vida de los principios del bien y del mal, esto es, la neutralización
+convencional de la metafísica, por la constitucionalización terminal del nihilismo. La
+esperanza final en una conciliación universal construida y relativizada por la técnica
+como último estadio del desarrollo de la humanidad había sido ya definida en su
+trasfondo nihilista por Cari Schmitt, en 1929, en medio de la anterior gran crisis
+económica mundial con estas palabras: «Con la técnica, la neutralidad espiritual llega
+a su expresión más simple: la nada. Tras de haber reducido a abstracciones la
+religión y la teología, y más tarde, la metafísica y el Estado, nuestro patrimonio
+intelectual y moral parece haberse convertido enteramente en una abstracción, y la
+neutralidad absoluta fue, por último, el anuncio de su completa dilapidación»98.
+Resta una última posibilidad política: la solución convencional por consenso
+— como ya postula algún radical intento actual de «transformación» de la filosofía—
+de los grandes problemas metafísicos, con lo que la democracia universal, habrá
+encontrado en el nihilismo, justamente, su plenitud ideológica. Con ello no podrá
+parecer tan ridículo que un día se sometiera a universal referendum — como se
+hiciera premonitoriamente en un Ateneo— de una humanidad informe, pero unifor­
+mada por la nada, la cuestión de la existencia de Dios y la proyección de orden que
+significa.
+
+97 F. FUKUYAMA, Ib., pág. 379.
+98 C. SCHMITT: La época de la neutralidad (1929), trad. esp., Madrid, Cultura Española, 1941, págs.
+26-27.
+
+313
+
+
+
+
