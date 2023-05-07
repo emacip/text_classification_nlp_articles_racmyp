@@ -11,7 +11,8 @@ import csv
 
 
 def index_json(bs):
-    category = bs.find('div', {'class': 'datos-articulo'}).findAll('h3')[0].string
+
+    category = bs.find('div', {'class': 'datos-articulo'}).findAll('h3')[0].string.split(". ")
     title = bs.find('li', {'class': 'tituloArticulo'}).string
 
     if bs.find('li', {'class': 'autoresArticulo'}):
@@ -30,7 +31,7 @@ def index_json(bs):
 
     metadata_json = {
         'id': id,
-        'category': category,
+        'category': category[0],
         'title': title,
         'author': author,
         'fascicle': fascicle,
@@ -46,7 +47,7 @@ def index_json(bs):
     if content.status_code == 200 and content.headers['content-type'] == 'application/pdf':
         with open(path.join('./articles_pdf/', id+'.pdf'), 'wb') as pdf:
             pdf.write(content.content)
-        es.index(index="racmyp_articles", body=metadata_json)
+    #    es.index(index="racmyp_articles", body=metadata_json)
 
     print(metadata_json)
 
@@ -63,14 +64,14 @@ def sracpping_article(link):
 if __name__ == "__main__":
 
     row_list = [["id", "category", "title", "author", "facicle", "year", "start_page", "end_page", "pdf_link"]]
-    years = ['2019','2019-2020', '2020-2021']
+    years = ['2018','2019','2019-2020', '2020-2021']
     #TODO need to review how I am going to iterate all years with the last change in BOE
 
-    for year in range(1973, 2018):
+    for year in years:
         url = f"https://www.boe.es/biblioteca_juridica/anuarios_derecho/anuario.php?id=M_{year}"
         html = get(url)
         bs = BeautifulSoup(html.text, 'html.parser')
-        es = Elasticsearch()
+        #es = Elasticsearch()
         fascicle = bs.find('h3', {'class': 'fuera'}).string
         if fascicle != "Fascículo1":
             url = f"https://www.boe.es/biblioteca_juridica/anuarios_derecho/anuario.php?id=M_{year}&fasc=1"
@@ -89,12 +90,12 @@ if __name__ == "__main__":
         for link in links:
             metadata_article = sracpping_article(link)
             row_list.append(metadata_article)
-            time.sleep(3)
+            time.sleep(1)
 
 
 
 
-    with open('racmyp_articles_all.csv', 'w', newline='') as file:
+    with open('racmyp_articles_last.csv', 'w', newline='') as file:
        writer = csv.writer(file)
        writer.writerows(row_list)
 
