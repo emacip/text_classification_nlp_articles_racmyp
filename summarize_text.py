@@ -4,6 +4,7 @@ from string import punctuation
 from collections import Counter
 from heapq import nlargest
 import pandas as pd
+from elasticsearch import Elasticsearch
 
 
 def process_text(text):
@@ -32,11 +33,9 @@ def read_page(file_name):
 
 def most_freq_words(text):
     freq_word = Counter(text)
-
     max_freq = Counter(text).most_common(1)[0][1]
     for word in freq_word.keys():
         freq_word[word] = (freq_word[word] / max_freq)
-
     return freq_word
 
 
@@ -71,33 +70,47 @@ def summarize(document, per):
     return summary
 
 
+def remove_stopwords(text, nlp):
+    text = text.lower().title()
+    doc = nlp(str(text))
+    tokens = [token.text for token in doc if not token.is_stop and not token.is_punct]
+    return " ".join(tokens)
+
+
+
+
+
+
 if __name__ == "__main__":
-    input_file = "racmyp_articles_1973.csv"
+    input_file = "racmyp_articles_all.csv"
     df = pd.read_csv(input_file, header=0)
+    es = Elasticsearch()
+    nlp = spacy.load("es_core_news_sm")
 
     for index, row in df.iterrows():
         id = row['id']
 
-        print("ID: " + id)
-
         doc = read_page("articles_txt/" + str(id) + ".txt")
         # Process full document
         text = process_text(doc)
-        # most repeated words in the text
-        print(most_freq_words(text).most_common(5))
-
-
         summary = summarize(doc, 0.3)
-        #print(summary)
+
         # Process summary document
         text_summary = process_text(summary)
-        # most repeated words in the summary
-        print(most_freq_words(text_summary).most_common(5))
+        if text_summary != []:
+            # most repeated words in the summary
+            most_repeated_words = most_freq_words(text_summary).most_common(5)
+            summary_tokens = []
 
-        # update title_categories and summarize_categories
+            for word in most_repeated_words:
+                new_word = remove_stopwords(word[0], nlp)
+                if new_word != "" and new_word not in summary_tokens:
+                    summary_tokens.append(new_word)
 
-        # body_json = {
-        #    'doc': { 'title_categories': title_categories,
-        #             'summarize_categories': title_categories
-        #             }
-        # }
+
+            body_json = {
+               'doc': { 'summarize_categories': summary_tokens }
+            }
+            es.update(index='articles', id=id, body=body_json)
+
+        print(".")

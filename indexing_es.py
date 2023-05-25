@@ -25,7 +25,6 @@ if __name__ == "__main__":
             # Iterate over each row in the csv using reader object
             for row in csv_reader:
                 # row variable is a list that represents a row in csv
-                print(row)
                 article_json = {
                     'categories': categories(row[1]),
                     'title_categories':  [],
@@ -39,3 +38,4 @@ if __name__ == "__main__":
                     'pdf_link':   row[8]
                 }
                 es.index(index="articles", id=row[0], document=article_json)
+                print(".")

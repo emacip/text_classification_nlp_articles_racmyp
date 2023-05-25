@@ -11,8 +11,6 @@ def title_analyzer(title):
     nlp = spacy.load("es_core_news_sm")
     doc = nlp(str(title))
 
-
-    print(title)
     # Extract the noun phrases from the document
     noun_phrases = []
     for chunk in doc.noun_chunks:
@@ -25,20 +23,16 @@ def title_analyzer(title):
         for token in phrase:
             if len(token) > 2 and (token.pos_ == "NOUN" or token.pos_ == "PROPN"):
                 new_phrase = remove_stopwords(phrase.text, nlp)
-                if new_phrase != "":
+                if new_phrase != "" and new_phrase not in nouns:
                     nouns.append(new_phrase)
                     break
 
-    # Print the result
-    print(nouns)
     return nouns
 
 
 def remove_stopwords(text, nlp):
-    if text.isupper():
-        text = text.lower()
+    text = text.lower().title()
     doc = nlp(str(text))
-
     tokens = [token.text for token in doc if not token.is_stop and not token.is_punct]
     return " ".join(tokens)
 
@@ -64,7 +58,7 @@ if __name__ == "__main__":
 
         es.update(index='articles', id=row['id'], body=body_json)
 
-
+        print(".")
 
     # put the original column names in a python list
     #original_headers = list(df.columns.values)
