@@ -3,13 +3,13 @@ from elasticsearch import Elasticsearch
 from csv import reader
 
 
-def categories(text):
-    list_categories = []
-    if len(text.split(" ")) == 3:
-        list_categories = text.split(" y ")
-    list_categories.append(text)
-
-    return list_categories
+def categorize_text(text):
+    if ". " in text:
+        return text.split(". ")
+    elif " y " in text and len(text.split(" ")) == 3:
+        return text.split(" y ")
+    else:
+        return [text]
 
 
 
@@ -26,12 +26,12 @@ if __name__ == "__main__":
             for row in csv_reader:
                 # row variable is a list that represents a row in csv
                 article_json = {
-                    'categories': categories(row[1]),
+                    'categories': categorize_text(row[1]),
                     'title_categories':  [],
                     'summarize_categories': [],
                     'title':      row[2],
                     'author':     row[3],
-                    'facicle':    row[4],
+                    'fascicle':    row[4],
                     'year':       row[5],
                     'start_page': row[6],
                     'end_page':   row[7],

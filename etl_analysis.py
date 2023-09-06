@@ -39,10 +39,7 @@ def remove_stopwords(text, nlp):
 
 
 
-
-
 if __name__ == "__main__":
-    #corpus_path = r"articles_pdf" #TODO ???? can we deleted?
     input_file = "racmyp_articles_all.csv"
     es = Elasticsearch()
     # comma delimited is the default
@@ -51,13 +48,11 @@ if __name__ == "__main__":
     #list_categories = df.category.explode().unique()
     for index, row in df.iterrows():
         title_categories = title_analyzer(row['title'])
-
         body_json = {
             'doc': {'title_categories': title_categories}
         }
 
         es.update(index='articles', id=row['id'], body=body_json)
-
         print(".")
 
     # put the original column names in a python list

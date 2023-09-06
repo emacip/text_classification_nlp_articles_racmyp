@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000;
+                 height: 600;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Filosof\u00eda", "label": "Filosof\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Pol\u00edtica", "label": "Pol\u00edtica", "shape": "dot"}, {"color": "#97c2fc", "id": "Filosof\u00eda y Pol\u00edtica", "label": "Filosof\u00eda y Pol\u00edtica", "shape": "dot"}, {"color": "#97c2fc", "id": "Sociolog\u00eda", "label": "Sociolog\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Econom\u00eda", "label": "Econom\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Sociolog\u00eda y Econom\u00eda", "label": "Sociolog\u00eda y Econom\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Figuras Intelectuales", "label": "Figuras Intelectuales", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica", "label": "Vida Acad\u00e9mica", "shape": "dot"}, {"color": "#97c2fc", "id": "Necrol\u00f3gicas", "label": "Necrol\u00f3gicas", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciencias Jur\u00eddicas", "label": "Ciencias Jur\u00eddicas", "shape": "dot"}, {"color": "#97c2fc", "id": "Figuras Acad\u00e9micas", "label": "Figuras Acad\u00e9micas", "shape": "dot"}, {"color": "#97c2fc", "id": "Editorial", "label": "Editorial", "shape": "dot"}, {"color": "#97c2fc", "id": "Filosof\u00eda Social", "label": "Filosof\u00eda Social", "shape": "dot"}, {"color": "#97c2fc", "id": "Derecho", "label": "Derecho", "shape": "dot"}, {"color": "#97c2fc", "id": "Pol\u00edtica y Derecho", "label": "Pol\u00edtica y Derecho", "shape": "dot"}, {"color": "#97c2fc", "id": "Teolog\u00eda", "label": "Teolog\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Teolog\u00eda y Filosof\u00eda", "label": "Teolog\u00eda y Filosof\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Pol\u00edtica y Sociolog\u00eda", "label": "Pol\u00edtica y Sociolog\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Sociolog\u00eda Econ\u00f3mica", "label": "Sociolog\u00eda Econ\u00f3mica", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciencias Sociales", "label": "Ciencias Sociales", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos", "label": "Ciclos", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Actos p\u00fablicos", "label": "Otras Actividades Acad\u00e9micas. Actos p\u00fablicos", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciencias Sociales", "label": "Intervenciones Acad\u00e9micas. Ciencias Sociales", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Negrolog\u00eda", "label": "Vida Acad\u00e9mica. Negrolog\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Disertaciones", "label": "Vida Acad\u00e9mica. Disertaciones", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Actos Acad\u00e9micos", "label": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Actos Acad\u00e9micos", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Tribunas", "label": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Tribunas", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Premios", "label": "Vida Acad\u00e9mica. Sesiones P\u00fablicas. Premios", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclo sobre \u00e9tica", "label": "Ciclo sobre \u00e9tica", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Homenajes", "label": "Vida Acad\u00e9mica. Homenajes", "shape": "dot"}, {"color": "#97c2fc", "id": "Vida Acad\u00e9mica. Tribunas", "label": "Vida Acad\u00e9mica. Tribunas", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos Monogr\u00e1ficos. Europa", "label": "Ciclos Monogr\u00e1ficos. Europa", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos Monogr\u00e1ficos. Constituci\u00f3n", "label": "Ciclos Monogr\u00e1ficos. Constituci\u00f3n", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos Monogr\u00e1ficos. Generaci\u00f3n del 98", "label": "Ciclos Monogr\u00e1ficos. Generaci\u00f3n del 98", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos Monogr\u00e1ficos. La Iglesia en la Espa\u00f1a actual", "label": "Ciclos Monogr\u00e1ficos. La Iglesia en la Espa\u00f1a actual", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciclos Monogr\u00e1ficos. Sesiones ordinarias", "label": "Ciclos Monogr\u00e1ficos. Sesiones ordinarias", "shape": "dot"}, {"color": "#97c2fc", "id": "Presentaci\u00f3n", "label": "Presentaci\u00f3n", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Espa\u00f1a en Europa: La convergencia real", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Espa\u00f1a en Europa: La convergencia real", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Envejecimiento de la poblaci\u00f3n espa\u00f1ola y su desequilibrio demogr\u00e1fico", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Envejecimiento de la poblaci\u00f3n espa\u00f1ola y su desequilibrio demogr\u00e1fico", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Derechas e izquierdas en el mundo actual", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Derechas e izquierdas en el mundo actual", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Otras disertaciones", "label": "Intervenciones Acad\u00e9micas. Otras disertaciones", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Nuevos ingresos", "label": "Otras Actividades Acad\u00e9micas. Nuevos ingresos", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Homenajes acad\u00e9micos", "label": "Otras Actividades Acad\u00e9micas. Homenajes acad\u00e9micos", "shape": "dot"}, {"color": "#97c2fc", "id": "Noticiario Acad\u00e9mico", "label": "Noticiario Acad\u00e9mico", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. A\u00f1o 2000. Balance de llegada de la econom\u00eda", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. A\u00f1o 2000. Balance de llegada de la econom\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. La sociedad espa\u00f1ola en dos fechas: 1900-2000", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. La sociedad espa\u00f1ola en dos fechas: 1900-2000", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. A\u00f1o 2000: Balance de llegada de la pol\u00edtica y del derecho", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. A\u00f1o 2000: Balance de llegada de la pol\u00edtica y del derecho", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Apertura de curso", "label": "Otras Actividades Acad\u00e9micas. Apertura de curso", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Necrolog\u00edas", "label": "Otras Actividades Acad\u00e9micas. Necrolog\u00edas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Espa\u00f1a y Europa", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Espa\u00f1a y Europa", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Migraci\u00f3n", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Migraci\u00f3n", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Universidad", "label": "Intervenciones Acad\u00e9micas. Ciclos monogr\u00e1ficos. Universidad", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Noticiario acad\u00e9mico", "label": "Otras Actividades Acad\u00e9micas. Noticiario acad\u00e9mico", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Filos\u00f3ficas", "label": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Filos\u00f3ficas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Pol\u00edticas y Jur\u00eddicas", "label": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Pol\u00edticas y Jur\u00eddicas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Sociales", "label": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Sociales", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Econ\u00f3micas", "label": "Intervenciones Acad\u00e9micas. Secciones. Ciencias Econ\u00f3micas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Debate sobre Turqu\u00eda", "label": "Intervenciones Acad\u00e9micas. Debate sobre Turqu\u00eda", "shape": "dot"}, {"color": "#97c2fc", "id": "Veinticinco a\u00f1os de la Constituci\u00f3n", "label": "Veinticinco a\u00f1os de la Constituci\u00f3n", "shape": "dot"}, {"color": "#97c2fc", "id": "Actas de la ponencia Constitucional", "label": "Actas de la ponencia Constitucional", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Situaci\u00f3n actual y perspectiva de la econom\u00eda mundial y espa\u00f1ola", "label": "Intervenciones Acad\u00e9micas. Situaci\u00f3n actual y perspectiva de la econom\u00eda mundial y espa\u00f1ola", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Persona, sociedad y avance del conocimiento", "label": "Intervenciones Acad\u00e9micas. Persona, sociedad y avance del conocimiento", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Pensamiento y convivencia", "label": "Intervenciones Acad\u00e9micas. Pensamiento y convivencia", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciencias Pol\u00edticas y Jur\u00eddicas", "label": "Intervenciones Acad\u00e9micas. Ciencias Pol\u00edticas y Jur\u00eddicas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciencias Econ\u00f3micas", "label": "Intervenciones Acad\u00e9micas. Ciencias Econ\u00f3micas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Ciencias Filos\u00f3ficas", "label": "Intervenciones Acad\u00e9micas. Ciencias Filos\u00f3ficas", "shape": "dot"}, {"color": "#97c2fc", "id": "Intervenciones Acad\u00e9micas. Acad\u00e9micos correspondientes", "label": "Intervenciones Acad\u00e9micas. Acad\u00e9micos correspondientes", "shape": "dot"}, {"color": "#97c2fc", "id": "Otras Actividades Acad\u00e9micas. Cr\u00f3nica Acad\u00e9mica", "label": "Otras Actividades Acad\u00e9micas. Cr\u00f3nica Acad\u00e9mica", "shape": "dot"}]);
+                  edges = new vis.DataSet([]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

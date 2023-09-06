@@ -18,6 +18,7 @@ search_results = es.search(index=index_name, body=query, size=10000)  # Set size
 # Extract the relevant data from the search results
 data = []
 for hit in search_results['hits']['hits']:
+    hit['_source']['id'] = hit['_id']
     data.append(hit['_source'])
 
 # Define the CSV file name
